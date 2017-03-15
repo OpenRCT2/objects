@@ -59,6 +59,7 @@
     <Content Include="packages.config" />
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="JsonTypes.fs" />
+    <Compile Include="PropertyExtractor.fs" />
     <Compile Include="ObjectExporter.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
@@ -79,6 +80,7 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Numerics" />
+    <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.ValueTuple">
       <HintPath>packages\System.ValueTuple.4.3.0\lib\netstandard1.0\System.ValueTuple.dll</HintPath>
     </Reference>

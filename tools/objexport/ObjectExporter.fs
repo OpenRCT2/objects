@@ -15,6 +15,7 @@ module ObjectExporter =
     open RCT2ObjectData.DataObjects.Types
 
     open JsonTypes
+    open PropertyExtractor
 
     let serializeToJson (value: 'a) =
         let sb = new StringBuilder(capacity = 256)
@@ -42,7 +43,7 @@ module ObjectExporter =
         | ObjectTypes.LargeScenery -> "scenery_large"
         | ObjectTypes.Wall -> "scenery_wall"
         | ObjectTypes.Path -> "footpath"
-        | ObjectTypes.PathAddition -> "footpath_addition"
+        | ObjectTypes.PathAddition -> "footpath_item"
         | ObjectTypes.PathBanner -> "footpath_banner"
         | ObjectTypes.ParkEntrance -> "park_entrance"
         | ObjectTypes.Water -> "water"
@@ -76,41 +77,6 @@ module ObjectExporter =
         | 11 -> "zh-TW"
         | 13 -> "pt-BR"
         | _ -> i.ToString()
-
-    let getBits (x: int) =
-        seq { 0..31 }
-        |> Seq.filter(fun i -> (x &&& (1 <<< i)) <> 0)
-
-    let getEntertainer x =
-        match x with
-        | 4 -> "panda"
-        | 5 -> "tiger"
-        | 6 -> "elephant"
-        | 7 -> "roman"
-        | 8 -> "gorilla"
-        | 9 -> "snowman"
-        | 10 -> "knight"
-        | 11 -> "astronaut"
-        | 12 -> "bandit"
-        | 13 -> "sheriff"
-        | 14 -> "pirate"
-        | _ -> "unknown"
-
-    let getProperties (obj: ObjectData) =
-        match obj.Type with
-        | ObjectTypes.SceneryGroup ->
-            let scg = obj :?> SceneryGroup
-            { entries =
-                scg.Items
-                |> Seq.map(fun x -> x.FileName)
-                |> Seq.toList
-              order = int scg.Header.Unknown0x108
-              entertainerCostumes =
-                  getBits (int scg.Header.Unknown0x10A)
-                  |> Seq.map(getEntertainer)
-                  |> Seq.toList
-              } :> obj
-        | _ -> new Object()
 
     let exportObject outputPath (obj: ObjectData) =
         let objName = obj.ObjectHeader.FileName.ToUpper()

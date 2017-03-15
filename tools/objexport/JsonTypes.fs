@@ -7,6 +7,7 @@ namespace OpenRCT2.Legacy.ObjectExporter
 module JsonTypes =
 
     open System.Collections.Generic
+    open System.Runtime.Serialization
 
     type JObject =
         { id: string
@@ -16,6 +17,33 @@ module JsonTypes =
           properties: obj
           images: string list
           strings: IDictionary<string, IDictionary<string, string>> }
+
+    [<DataContract>]
+    type JFootpathItemProperties =
+        { [<DataMember(EmitDefaultValue = false)>]
+          isBin: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          isBench: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          isLamp: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          isTelevision: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          isBreakable: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          isJumpingFountainWater: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          isJumpingFountainSnow: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          isAllowedOnQueue: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          isAllowedOnSlope: bool
+          [<DataMember>]
+          renderAs: string
+          [<DataMember>]
+          cursor: string
+          [<DataMember>]
+          price: int }
 
     type JSceneryGroupProperties =
         { entries: string list
