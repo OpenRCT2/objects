@@ -8,14 +8,22 @@ open System.Text
 open Microsoft.FSharp.Core
 open Newtonsoft.Json
 open RCT2ObjectData.DataObjects
+open RCT2ObjectData.DataObjects.Types
 
-type JRide = {
+type JObject = {
     id: string;
     authors: string list;
     version: string;
     objectType: string;
+    properties: obj;
     images: string list;
     strings: IDictionary<string, IDictionary<string, string>>;
+}
+
+type SceneryGroupProperties = {
+    entries: string list;
+    order: int;
+    entertainerCostumes: string list;
 }
 
 let serializeToJson (value: 'a) =
@@ -36,6 +44,20 @@ let getObjId (obj: ObjectData) =
         | _ -> "other."
     prefix + obj.ObjectHeader.FileName.ToLower()
 
+let getObjTypeName objType =
+    match objType with
+    | ObjectTypes.Attraction -> "ride"
+    | ObjectTypes.SceneryGroup -> "scenery_group"
+    | ObjectTypes.SmallScenery -> "scenery_small"
+    | ObjectTypes.LargeScenery -> "scenery_large"
+    | ObjectTypes.Wall -> "scenery_wall"
+    | ObjectTypes.Path -> "footpath"
+    | ObjectTypes.PathAddition -> "footpath_addition"
+    | ObjectTypes.PathBanner -> "footpath_banner"
+    | ObjectTypes.ParkEntrance -> "park_entrance"
+    | ObjectTypes.Water -> "water"
+    | _ -> "other"
+
 let getSourceDirectoryName source =
     match source with
     | SourceTypes.RCT2 -> "rct2"
@@ -43,15 +65,10 @@ let getSourceDirectoryName source =
     | SourceTypes.TT -> "rct2tt"
     | _ -> "other"
 
-let getObjTypeDirectoryName objType =
-    match objType with
-    | ObjectTypes.Attraction -> "rides"
-    | _ -> "other"
-
 let getOutputJsonPath basePath (obj: ObjectData) name =
     Path.Combine(basePath,
-                 getSourceDirectoryName(obj.Source),
-                 getObjTypeDirectoryName(obj.Type),
+                 getSourceDirectoryName obj.Source,
+                 getObjTypeName obj.Type,
                  name + ".json")
 
 let getLanguageName i =
@@ -70,43 +87,85 @@ let getLanguageName i =
     | 13 -> "pt-BR"
     | _ -> i.ToString()
 
+let getBits (x: int) =
+    seq { 0..31 }
+    |> Seq.filter(fun i -> (x &&& (1 <<< i)) <> 0)
+
+let getEntertainer x =
+    match x with
+    | 4 -> "panda"
+    | 5 -> "tiger"
+    | 6 -> "elephant"
+    | 7 -> "roman"
+    | 8 -> "gorilla"
+    | 9 -> "snowman"
+    | 10 -> "knight"
+    | 11 -> "astronaut"
+    | 12 -> "bandit"
+    | 13 -> "sheriff"
+    | 14 -> "pirate"
+    | _ -> "unknown"
+
+let getProperties (obj: ObjectData) =
+    match obj.Type with
+    | ObjectTypes.SceneryGroup ->
+        let scg = obj :?> SceneryGroup
+        { entries =
+            scg.Items
+            |> Seq.map(fun x -> x.FileName)
+            |> Seq.toList
+          order = int scg.Header.Unknown0x108
+          entertainerCostumes =
+              getBits (int scg.Header.Unknown0x10A)
+              |> Seq.map(getEntertainer)
+              |> Seq.toList
+          } :> obj
+    | _ -> new Object()
+
 let exportObject outputPath (obj: ObjectData) =
-    if obj.Type = ObjectTypes.Attraction then
-        let objName = obj.ObjectHeader.FileName.ToUpper()
-        let objId = getObjId obj
-        let outputJsonPath = getOutputJsonPath outputPath obj objId
+    let objName = obj.ObjectHeader.FileName.ToUpper()
+    let objId = getObjId obj
+    let outputJsonPath = getOutputJsonPath outputPath obj objId
 
-        printfn "Exporting %s to %s" objName (Path.GetFullPath(outputJsonPath))
+    printfn "Exporting %s to %s" objName (Path.GetFullPath(outputJsonPath))
 
-        let numImages = obj.ImageDirectory.NumEntries
-        let images = [ sprintf "$RCT2:OBJDATA/%s.DAT[%d..%d]" objName 0 numImages ]
+    let numImages = obj.ImageDirectory.NumEntries
+    let images = [ sprintf "$RCT2:OBJDATA/%s.DAT[%d..%d]" objName 0 numImages ]
 
-        let getStrings index =
-            let stringEntry = obj.StringTable.Entries.[index]
-            let stringSeq = stringEntry.Languages
-            let indexSeq = [| 0..(stringSeq.Length - 1) |]
-            Seq.map2(fun x y -> (getLanguageName x, y)) indexSeq stringSeq
-            |> Seq.filter(fun (x, y) -> not (String.IsNullOrWhiteSpace(y)))
-            |> dict
+    let getStrings index =
+        let stringEntry = obj.StringTable.Entries.[index]
+        let stringSeq = stringEntry.Languages
+        let indexSeq = [| 0..(stringSeq.Length - 1) |]
+        Seq.map2(fun x y -> (getLanguageName x, y)) indexSeq stringSeq
+        |> Seq.filter(fun (x, y) -> not (String.IsNullOrWhiteSpace(y)))
+        |> dict
 
-        let stEntries = obj.StringTable.Entries
-        let strings =
-            [| ("name", getStrings 0);
-               ("description", getStrings 1);
-               ("capacity", getStrings 2) |]
-            |> Array.filter(fun (x, y) -> y.Count > 0)
-            |> dict
+    let stEntries = obj.StringTable.Entries
+    let strings =
+        let entries =
+            if obj.Type = ObjectTypes.Attraction then
+                [| ("name", getStrings 0);
+                   ("description", getStrings 1);
+                   ("capacity", getStrings 2) |]
+            else
+                [| ("name", getStrings 0) |]
 
-        let jobj = { id = objId;
-                     authors = ["Chris Saywer"; "Simon Foster"];
-                     version = "1.0";
-                     objectType = "ride";
-                     images = images;
-                     strings = strings }
+        entries
+        |> Array.filter(fun (x, y) -> y.Count > 0)
+        |> dict
 
-        let json = serializeToJson jobj
-        Directory.CreateDirectory(Path.GetDirectoryName(outputJsonPath)) |> ignore
-        File.WriteAllText(outputJsonPath, json)
+    let properties = getProperties obj
+    let jobj = { id = objId;
+                 authors = ["Chris Saywer"; "Simon Foster"];
+                 version = "1.0";
+                 objectType = getObjTypeName obj.Type;
+                 properties = properties;
+                 images = images;
+                 strings = strings }
+
+    let json = serializeToJson jobj + Environment.NewLine
+    Directory.CreateDirectory(Path.GetDirectoryName(outputJsonPath)) |> ignore
+    File.WriteAllText(outputJsonPath, json)
 
 let exportObjects path outputPath =
     printfn "Exporting objects from '%s' to '%s'" path outputPath
