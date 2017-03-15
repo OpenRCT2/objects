@@ -30,35 +30,59 @@ let ExportObjects (path, outputPath) =
         jsonSerializer.Serialize(jsonWriter, value, typedefof<'a>)
         sw.ToString()
 
-    let ExportObject(obj: ObjectData) =
-        if obj.Source = SourceTypes.RCT2 &&
-           obj.Type = ObjectTypes.Attraction then
-            let objName = obj.ObjectHeader.FileName.ToUpper()
-            let objId = "rct2." + objName.ToLower()
-            let outputJsonPath = Path.Combine(outputPath, "rides", objId + ".json")
-            let outputJsonPathAbsolute = Path.GetFullPath(outputJsonPath)
+    let getObjId (obj: ObjectData) =
+        let prefix =
+            match obj.Source with
+            | SourceTypes.RCT2 -> "rct2."
+            | SourceTypes.WW -> "rct2.ww."
+            | SourceTypes.TT -> "rct2.tt."
+            | _ -> "other."
+        prefix + obj.ObjectHeader.FileName.ToLower()
 
-            printfn "Exporting %s to %s" objName outputJsonPathAbsolute
+    let getSourceDirectoryName source =
+        match source with
+        | SourceTypes.RCT2 -> "rct2"
+        | SourceTypes.WW -> "rct2ww"
+        | SourceTypes.TT -> "rct2tt"
+        | _ -> "other"
+
+    let getObjTypeDirectoryName objType =
+        match objType with
+        | ObjectTypes.Attraction -> "rides"
+        | _ -> "other"
+
+    let getOutputJsonPath (obj: ObjectData, name) =
+        Path.Combine(outputPath,
+                     getSourceDirectoryName(obj.Source),
+                     getObjTypeDirectoryName(obj.Type),
+                     name + ".json")
+
+    let getLanguageName i =
+        match i with
+        | 0 -> "en-GB"
+        | 1 -> "en-US"
+        | 2 -> "fr-FR"
+        | 3 -> "de-DE"
+        | 4 -> "es-ES"
+        | 5 -> "it-IT"
+        | 6 -> "nl-NL"
+        | 7 -> "sv-SE"
+        | 9 -> "ko-KR"
+        | 10 -> "zh-CN"
+        | 11 -> "zh-TW"
+        | 13 -> "pt-BR"
+        | _ -> i.ToString()
+
+    let ExportObject(obj: ObjectData) =
+        if obj.Type = ObjectTypes.Attraction then
+            let objName = obj.ObjectHeader.FileName.ToUpper()
+            let objId = getObjId(obj)
+            let outputJsonPath = getOutputJsonPath(obj, objId)
+
+            printfn "Exporting %s to %s" objName (Path.GetFullPath(outputJsonPath))
 
             let numImages = obj.ImageDirectory.NumEntries
             let images = [ sprintf "$RCT2:OBJDATA/%s.DAT[%d..%d]" objName 0 numImages ]
-            // let strings = dict[("", "")]
-
-            let getLanguageName(i) =
-                match i with
-                | 0 -> "en-GB"
-                | 1 -> "en-US"
-                | 2 -> "fr-FR"
-                | 3 -> "de-DE"
-                | 4 -> "es-ES"
-                | 5 -> "it-IT"
-                | 6 -> "nl-NL"
-                | 7 -> "sv-SE"
-                | 9 -> "ko-KR"
-                | 10 -> "zh-CN"
-                | 11 -> "zh-TW"
-                | 13 -> "pt-BR"
-                | _ -> i.ToString()
 
             let getStrings(index) =
                 let stringEntry = obj.StringTable.Entries.[index]
@@ -86,11 +110,10 @@ let ExportObjects (path, outputPath) =
             Directory.CreateDirectory(Path.GetDirectoryName(outputJsonPath)) |> ignore
             File.WriteAllText(outputJsonPath, json)
 
-    let files = Directory.GetFiles(path)
-    for f in files do
-        let dat = ObjectData.FromFile(f)
-        if dat <> null then
-            ExportObject(dat)
+    Directory.GetFiles(path)
+    |> Seq.map(ObjectData.FromFile)
+    |> Seq.filter(fun x -> x <> null)
+    |> Seq.iter(ExportObject)
 
 [<EntryPoint>]
 let main argv =

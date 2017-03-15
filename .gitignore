@@ -1,3 +1,10 @@
+## Repo specific
+
+# Temporarily ignore json files until objexport is complete
+rct2/
+rct2tt/
+rct2ww/
+
 ## Windows
 # Windows thumbnail cache files
 Thumbs.db

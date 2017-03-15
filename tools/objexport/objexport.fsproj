@@ -25,7 +25,7 @@
     <PlatformTarget>AnyCPU</PlatformTarget>
     <DocumentationFile>bin\$(Configuration)\$(AssemblyName).XML</DocumentationFile>
     <Prefer32Bit>false</Prefer32Bit>
-    <StartArguments>"C:\Program Files (x86)\Infogrames\RollerCoaster Tycoon 2\ObjData" "C:\Users\Ted\Documents\Projects\OpenRCT2\GitHub\OpenRCT2_objects\rct2"</StartArguments>
+    <StartArguments>"C:\Program Files (x86)\Infogrames\RollerCoaster Tycoon 2\ObjData" "C:\Users\Ted\Documents\Projects\OpenRCT2\GitHub\OpenRCT2_objects"</StartArguments>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
