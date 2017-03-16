@@ -93,7 +93,8 @@ module ObjectExporter =
             let stringSeq = stringEntry.Languages
             let indexSeq = [| 0..(stringSeq.Length - 1) |]
             Seq.map2(fun x y -> (getLanguageName x, y)) indexSeq stringSeq
-            |> Seq.filter(fun (x, y) -> not (String.IsNullOrWhiteSpace(y)))
+            |> Seq.filter(fun (_, y) -> not (String.IsNullOrWhiteSpace(y)))
+            |> Seq.filter(fun (x, y) -> x = getLanguageName 0 || y <> stringSeq.[0])
             |> dict
 
         let stEntries = obj.StringTable.Entries
