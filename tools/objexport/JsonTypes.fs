@@ -19,6 +19,19 @@ module JsonTypes =
           strings: IDictionary<string, IDictionary<string, string>> }
 
     [<DataContract>]
+    type JFootpathProperties =
+        { [<DataMember(EmitDefaultValue = false)>]
+          hasSupportImages: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          hasElevatedPathImages: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          editorOnly: bool
+          [<DataMember>]
+          supportType: string
+          [<DataMember(EmitDefaultValue = false)>]
+          scrollingMode: int }
+
+    [<DataContract>]
     type JFootpathItemProperties =
         { [<DataMember(EmitDefaultValue = false)>]
           isBin: bool

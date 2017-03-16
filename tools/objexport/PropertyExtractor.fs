@@ -14,6 +14,19 @@ module PropertyExtractor =
     ///////////////////////////////////////////////////////////////////////////
     // Footpath item
     ///////////////////////////////////////////////////////////////////////////
+    let getFootpath (footpath: Pathing) =
+        let getSupportType (flags: PathingFlags) =
+            if flags.HasFlag(PathingFlags.PoleSupports) then "pole" else "box"
+
+        { hasSupportImages = footpath.Header.Flags.HasFlag(PathingFlags.PoleBase)
+          hasElevatedPathImages = footpath.Header.Flags.HasFlag(PathingFlags.OverlayPath)
+          editorOnly = footpath.Header.Flags.HasFlag(PathingFlags.Hidden)
+          supportType = getSupportType footpath.Header.Flags
+          scrollingMode = int footpath.Header.Reserved1 }
+
+    ///////////////////////////////////////////////////////////////////////////
+    // Footpath item
+    ///////////////////////////////////////////////////////////////////////////
     let getFootpathItem (pa: PathAddition) =
         let getRenderAs t =
             match t with
@@ -109,6 +122,7 @@ module PropertyExtractor =
 
     let getProperties (obj: ObjectData) =
         match obj.Type with
+        | ObjectTypes.Path -> getFootpath (obj :?> Pathing) :> obj
         | ObjectTypes.PathAddition -> getFootpathItem (obj :?> PathAddition) :> obj
         | ObjectTypes.SceneryGroup -> getSceneryGroup (obj :?> SceneryGroup) :> obj
         | _ -> new Object()
