@@ -11,8 +11,60 @@ module PropertyExtractor =
 
     open JsonTypes
 
+    let getCursor cursor =
+        match cursor with
+        | 1 -> "CURSOR_BLANK"
+        | 2 -> "CURSOR_UP_ARROW"
+        | 3 -> "CURSOR_UP_DOWN_ARROW"
+        | 4 -> "CURSOR_HAND_POINT"
+        | 5 -> "CURSOR_ZZZ"
+        | 6 -> "CURSOR_DIAGONAL_ARROWS"
+        | 7 -> "CURSOR_PICKER"
+        | 8 -> "CURSOR_TREE_DOWN"
+        | 9 -> "CURSOR_FOUNTAIN_DOWN"
+        | 10 -> "CURSOR_STATUE_DOWN"
+        | 11 -> "CURSOR_BENCH_DOWN"
+        | 12 -> "CURSOR_CROSS_HAIR"
+        | 13 -> "CURSOR_BIN_DOWN"
+        | 14 -> "CURSOR_LAMPPOST_DOWN"
+        | 15 -> "CURSOR_FENCE_DOWN"
+        | 16 -> "CURSOR_FLOWER_DOWN"
+        | 17 -> "CURSOR_PATH_DOWN"
+        | 18 -> "CURSOR_DIG_DOWN"
+        | 19 -> "CURSOR_WATER_DOWN"
+        | 20 -> "CURSOR_HOUSE_DOWN"
+        | 21 -> "CURSOR_VOLCANO_DOWN"
+        | 22 -> "CURSOR_WALK_DOWN"
+        | 23 -> "CURSOR_PAINT_DOWN"
+        | 24 -> "CURSOR_ENTRANCE_DOWN"
+        | 25 -> "CURSOR_HAND_OPEN"
+        | 26 -> "CURSOR_HAND_CLOSED"
+        | _ -> "CURSOR_ARROW"
+
     ///////////////////////////////////////////////////////////////////////////
-    // Footpath item
+    // Wall
+    ///////////////////////////////////////////////////////////////////////////
+    let getWall (wall: Wall) =
+        { isDoor = wall.Header.Flags.HasFlag(WallFlags.Door)
+          isBanner = wall.Header.Flags.HasFlag(WallFlags.TwoSides)
+          hasPrimaryColour = wall.Header.Flags.HasFlag(WallFlags.Remap1)
+          hasSecondaryColour = wall.Header.Flags.HasFlag(WallFlags.Remap2)
+          hasTenaryColour = wall.Header.Flags.HasFlag(WallFlags.Remap3)
+          hasGlass = wall.Header.Flags.HasFlag(WallFlags.Glass)
+          isAllowedOnSlope = not (wall.Header.Flags.HasFlag(WallFlags.Flat))
+          doorSound =
+              match (int wall.Header.Effects <<< 1) &&& 3 with
+              | _ -> null
+          height = int wall.Header.Clearance
+          price = int wall.Header.BuildCost
+          cursor = getCursor (int wall.Header.Cursor)
+          scrollingMode =
+              match int wall.Header.Scrolling with
+              | 255 -> 0
+              | x -> x }
+
+    ///////////////////////////////////////////////////////////////////////////
+    // Footpath
     ///////////////////////////////////////////////////////////////////////////
     let getFootpath (footpath: Pathing) =
         let getSupportType (flags: PathingFlags) =
@@ -35,36 +87,6 @@ module PropertyExtractor =
             | PathAdditionSubtypes.Lamp -> "lamp"
             | PathAdditionSubtypes.JumpFountain -> "fountain"
             | _ -> "other"
-
-        let getCursor cursor =
-            match cursor with
-            | 1 -> "CURSOR_BLANK"
-            | 2 -> "CURSOR_UP_ARROW"
-            | 3 -> "CURSOR_UP_DOWN_ARROW"
-            | 4 -> "CURSOR_HAND_POINT"
-            | 5 -> "CURSOR_ZZZ"
-            | 6 -> "CURSOR_DIAGONAL_ARROWS"
-            | 7 -> "CURSOR_PICKER"
-            | 8 -> "CURSOR_TREE_DOWN"
-            | 9 -> "CURSOR_FOUNTAIN_DOWN"
-            | 10 -> "CURSOR_STATUE_DOWN"
-            | 11 -> "CURSOR_BENCH_DOWN"
-            | 12 -> "CURSOR_CROSS_HAIR"
-            | 13 -> "CURSOR_BIN_DOWN"
-            | 14 -> "CURSOR_LAMPPOST_DOWN"
-            | 15 -> "CURSOR_FENCE_DOWN"
-            | 16 -> "CURSOR_FLOWER_DOWN"
-            | 17 -> "CURSOR_PATH_DOWN"
-            | 18 -> "CURSOR_DIG_DOWN"
-            | 19 -> "CURSOR_WATER_DOWN"
-            | 20 -> "CURSOR_HOUSE_DOWN"
-            | 21 -> "CURSOR_VOLCANO_DOWN"
-            | 22 -> "CURSOR_WALK_DOWN"
-            | 23 -> "CURSOR_PAINT_DOWN"
-            | 24 -> "CURSOR_ENTRANCE_DOWN"
-            | 25 -> "CURSOR_HAND_OPEN"
-            | 26 -> "CURSOR_HAND_CLOSED"
-            | _ -> "CURSOR_ARROW"
 
         { isBin = pa.Header.Flags.HasFlag(PathAdditionFlags.HoldTrash)
           isBench = pa.Header.Flags.HasFlag(PathAdditionFlags.CanSit)
@@ -122,6 +144,7 @@ module PropertyExtractor =
 
     let getProperties (obj: ObjectData) =
         match obj.Type with
+        | ObjectTypes.Wall -> getWall (obj :?> Wall) :> obj
         | ObjectTypes.Path -> getFootpath (obj :?> Pathing) :> obj
         | ObjectTypes.PathAddition -> getFootpathItem (obj :?> PathAddition) :> obj
         | ObjectTypes.SceneryGroup -> getSceneryGroup (obj :?> SceneryGroup) :> obj

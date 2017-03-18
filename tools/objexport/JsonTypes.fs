@@ -19,6 +19,30 @@ module JsonTypes =
           strings: IDictionary<string, IDictionary<string, string>> }
 
     [<DataContract>]
+    type JWall =
+        { [<DataMember(EmitDefaultValue = false)>]
+          isDoor: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          isBanner: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          hasPrimaryColour: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          hasSecondaryColour: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          hasTenaryColour: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          hasGlass: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          isAllowedOnSlope: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          doorSound: string
+          height: int
+          price: int
+          cursor: string
+          [<DataMember(EmitDefaultValue = false)>]
+          scrollingMode: int }
+
+    [<DataContract>]
     type JFootpathProperties =
         { [<DataMember(EmitDefaultValue = false)>]
           hasSupportImages: bool
