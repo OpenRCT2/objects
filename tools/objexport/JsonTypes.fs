@@ -9,6 +9,8 @@ module JsonTypes =
     open System.Collections.Generic
     open System.ComponentModel
     open System.Runtime.Serialization
+    open Newtonsoft.Json
+    open Newtonsoft.Json.FSharp
 
     type JObject =
         { id: string
@@ -18,6 +20,12 @@ module JsonTypes =
           properties: obj
           images: string list
           strings: IDictionary<string, IDictionary<string, string>> }
+
+    type JCar =
+        { [<DataMember(EmitDefaultValue = false)>]
+          numSeats: int
+          [<DataMember(EmitDefaultValue = false)>]
+          friction: int }
 
     [<DataContract>]
     type JRating =
@@ -31,11 +39,11 @@ module JsonTypes =
     [<DataContract>]
     type JRide =
         { [<DataMember>]
-          ``type``: obj // string | string list
+          ``type``: string list
           [<DataMember(EmitDefaultValue = false)>]
-          category: obj // string | string list
+          category: string list
           [<DataMember(EmitDefaultValue = false)>]
-          sells: obj // string | string list
+          sells: string list
           [<DataMember(EmitDefaultValue = false)>]
           [<DefaultValue(1)>]
           minCarsPerTrain: int
@@ -52,15 +60,17 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           defaultCar: int
           [<DataMember(EmitDefaultValue = false)>]
-          headCars: obj // int | int list
+          headCars: int list
           [<DataMember(EmitDefaultValue = false)>]
-          tailCars: obj // int | int list
+          tailCars: int list
           [<DataMember(EmitDefaultValue = false)>]
           ratingMultipler: JRating option
           [<DataMember(EmitDefaultValue = false)>]
           maxHeight: int
           [<DataMember(EmitDefaultValue = false)>]
-          availableTrackPieces: string list option }
+          availableTrackPieces: string list option
+          [<DataMember(EmitDefaultValue = false)>]
+          cars: JCar list }
 
     [<DataContract>]
     type JWall =

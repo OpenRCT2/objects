@@ -23,6 +23,7 @@ module ObjectExporter =
         use jsonWriter = new JsonTextWriter(sw, Indentation = 4,
                                                 Formatting = Formatting.Indented)
         Seq.iter (jsonSerializer.Converters.Add) JsonFsharp.converters
+        jsonSerializer.ContractResolver <- new ObjectContractResolver()
         jsonSerializer.Serialize(jsonWriter, value, typedefof<'a>)
         sw.ToString()
 

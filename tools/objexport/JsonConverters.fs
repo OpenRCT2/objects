@@ -4,10 +4,13 @@
 namespace Newtonsoft.Json.FSharp
 
 open System
+open System.Collections
 open System.Collections.Generic
+open System.Reflection
 open Microsoft.FSharp.Reflection
 open Newtonsoft.Json
 open Newtonsoft.Json.Converters
+open Newtonsoft.Json.Serialization
 
 /// Converts F# lists to/from JSON arrays
 type ListConverter() =
@@ -141,3 +144,50 @@ module JsonFsharp =
           new TupleArrayConverter()
           new SingleCaseUnionConverter()
           new UnionEnumConverter() ]
+
+// Converter and contract resolver for F# list so that
+// - omits properties with empty lists
+// - emits a single value for lists with only one item
+// - emits an array for the list for all other cases
+type SingleOrManyConvertor () =
+    inherit JsonConverter ()
+
+    override this.CanConvert(t) =
+        typeof<IEnumerable>.IsAssignableFrom(t)
+
+    override this.WriteJson(writer, value, serializer) =
+        let enumerable = value :?> IEnumerable
+        let value: obj =
+            if enumerable = null then
+                null
+            else
+                match [for x in enumerable do yield x] with
+                | [] -> null
+                | [x] -> x
+                | many -> many :> obj
+
+        serializer.Serialize(writer, value)
+
+    override this.ReadJson(reader, t, existingValue, serializer) =
+        serializer.Deserialize(reader, t)
+
+type ObjectContractResolver () =
+    inherit DefaultContractResolver ()
+
+    let singleOrManyConverter = new SingleOrManyConvertor()
+
+    let shouldSerializeCollection (obj: obj) =
+        let enumerable = obj :?> IEnumerable
+        (enumerable <> null && enumerable.GetEnumerator().MoveNext())
+
+    override this.CreateProperty(m, mSerialization) =
+        let property = base.CreateProperty(m, mSerialization)
+        let t = property.PropertyType
+        if t.IsGenericType && t.GetGenericTypeDefinition() = typedefof<list<_>> then
+            property.Converter <- singleOrManyConverter
+            property.ShouldSerialize <- Predicate (fun (obj: obj) ->
+                match m with
+                | :? PropertyInfo as pi -> shouldSerializeCollection (pi.GetValue(obj))
+                | :? FieldInfo as fi -> shouldSerializeCollection (fi.GetValue(obj))
+                | _ -> false)
+        property

@@ -64,6 +64,17 @@ module PropertyExtractor =
     ///////////////////////////////////////////////////////////////////////////
     // Ride
     ///////////////////////////////////////////////////////////////////////////
+    let isTrackTypeShop = function
+        | TrackTypes.DrinksStall
+        | TrackTypes.FoodStall
+        | TrackTypes.Restroom
+        | TrackTypes.SouvenirStall -> true
+        | _ -> false
+
+    let getCar(car: CarHeader) =
+        { numSeats = car.NumberOfRiders
+          friction = int car.CarFriction }
+
     let getRide (ride: Attraction) =
         // TODO populate this fully
         let getRideType = function
@@ -71,23 +82,38 @@ module PropertyExtractor =
             | TrackTypes.Circus -> "circus"
             | x -> x.ToString().ToLower()
 
-        let getRideTypes =
+        let rideTypes =
             ride.Header.TrackTypeList
             |> Seq.filterOut TrackTypes.None
             |> Seq.map getRideType
-            |> Seq.singleOrMany
+            |> Seq.toList
+
+        let isShop = Seq.exists isTrackTypeShop ride.Header.TrackTypeList
 
         let headCars =
             [| ride.Header.FrontCarType
                ride.Header.SecondCarType
                ride.Header.ThirdCarType |]
             |> Seq.filterOut CarTypes.None
-            |> Seq.singleOrMany
+            |> Seq.map int
+            |> Seq.toList
 
         let tailCars =
             [| ride.Header.RearCarType |]
             |> Seq.filterOut CarTypes.None
-            |> Seq.singleOrMany
+            |> Seq.map int
+            |> Seq.toList
+
+        let cars =
+            if isShop then
+                []
+            else
+                let indexedCars = headCars @ tailCars @ [int ride.Header.CarTabIndex; int ride.Header.DefaultCarType]
+                ride.Header.CarTypeList
+                |> Seq.indexed
+                |> Seq.filter (fun (i, v) -> Seq.contains i indexedCars)
+                |> Seq.map (fun (i, v) -> getCar v)
+                |> Seq.toList
 
         let ratingMultiplier =
             match (int ride.Header.Excitement, int ride.Header.Intensity, int ride.Header.Nausea) with
@@ -104,17 +130,17 @@ module PropertyExtractor =
                 |> Seq.map (fun x -> x.ToString().ToLower())
                 |> Seq.toList)
 
-        { ``type`` = getRideTypes
+        { ``type`` = rideTypes
           category =
               [| ride.Header.RideType; ride.Header.RideTypeAlternate |]
               |> Seq.filterOut RideTypes.None
               |> Seq.map (fun x -> x.ToString().ToLower())
-              |> Seq.singleOrMany
+              |> Seq.toList
           sells =
               [| ride.Header.SoldItem1; ride.Header.SoldItem2 |]
               |> Seq.filterOut ItemTypes.None
               |> Seq.map (fun x -> x.ToString().ToLower())
-              |> Seq.singleOrMany
+              |> Seq.toList
           minCarsPerTrain = int ride.Header.MinCarsPerTrain
           maxCarsPerTrain = int ride.Header.MaxCarsPerTrain
           carsPerFlatRide = int ride.Header.CarsPerFlatRide
@@ -125,7 +151,8 @@ module PropertyExtractor =
           tailCars = tailCars
           ratingMultipler = ratingMultiplier
           maxHeight = int ride.Header.MaxHeight
-          availableTrackPieces = availableTrackPieces }
+          availableTrackPieces = availableTrackPieces
+          cars = cars }
 
     ///////////////////////////////////////////////////////////////////////////
     // Wall
