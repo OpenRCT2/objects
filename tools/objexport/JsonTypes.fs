@@ -21,11 +21,37 @@ module JsonTypes =
           images: string list
           strings: IDictionary<string, IDictionary<string, string>> }
 
+    [<DataContract>]
     type JCar =
         { [<DataMember(EmitDefaultValue = false)>]
           numSeats: int
           [<DataMember(EmitDefaultValue = false)>]
-          friction: int }
+          numSeatRows: int
+          [<DataMember(EmitDefaultValue = false)>]
+          friction: int
+          [<DataMember(EmitDefaultValue = false)>]
+          spacing: int
+          [<DataMember(EmitDefaultValue = false)>]
+          tabOffset: int
+          [<DataMember(EmitDefaultValue = false)>]
+          spinningInertia: int
+          [<DataMember(EmitDefaultValue = false)>]
+          spinningFriction: int
+          [<DataMember(EmitDefaultValue = false)>]
+          poweredAcceleration: int
+          [<DataMember(EmitDefaultValue = false)>]
+          poweredMaxSpeed: int
+          [<DataMember(EmitDefaultValue = false)>]
+          carVisual: int
+          [<DataMember(EmitDefaultValue = false)>]
+          effectVisual: int
+          [<DataMember(EmitDefaultValue = false)>]
+          drawOrder: int
+          [<DataMember(EmitDefaultValue = false)>]
+          specialFrames: int
+          [<DataMember(EmitDefaultValue = false)>]
+          rotationFrameMask: int
+          }
 
     [<DataContract>]
     type JRating =

@@ -72,8 +72,20 @@ module PropertyExtractor =
         | _ -> false
 
     let getCar(car: CarHeader) =
-        { numSeats = car.NumberOfRiders
-          friction = int car.CarFriction }
+        { numSeats = int car.RiderSettings
+          numSeatRows = int car.RiderSprites
+          friction = int car.CarFriction
+          spacing = int car.CarSpacing
+          tabOffset = int car.CarTabHeight
+          spinningInertia = int car.SpinningInertia
+          spinningFriction = int car.SpinningFriction
+          poweredAcceleration = int car.PoweredAcceleration
+          poweredMaxSpeed = int car.PoweredMaxSpeed
+          carVisual = int car.CarVisual
+          effectVisual = int car.UnknownSetting
+          drawOrder = int car.DrawOrder
+          specialFrames = int car.SpecialFrames
+          rotationFrameMask= int car.LastRotationFrame }
 
     let getRide (ride: Attraction) =
         // TODO populate this fully
