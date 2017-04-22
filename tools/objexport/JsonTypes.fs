@@ -87,6 +87,10 @@ module JsonTypes =
           order: int
           entertainerCostumes: string list }
 
+    type JParkEntrance =
+        { scrollingMode: int
+          textHeight: int }
+
     [<DataContract>]
     type JWater =
         { [<DataMember(EmitDefaultValue = false)>]

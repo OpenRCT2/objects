@@ -135,6 +135,13 @@ module PropertyExtractor =
           entertainerCostumes = getEntertainers (int scg.Header.Unknown0x10A) }
 
     ///////////////////////////////////////////////////////////////////////////
+    // Park entrance
+    ///////////////////////////////////////////////////////////////////////////
+    let getParkEntrance (pe: ParkEntrance) =
+        { scrollingMode = int pe.Header.SignX
+          textHeight = int pe.Header.SignY }
+
+    ///////////////////////////////////////////////////////////////////////////
     // Water
     ///////////////////////////////////////////////////////////////////////////
     let getWater (water: Water) =
@@ -151,6 +158,7 @@ module PropertyExtractor =
         | ObjectTypes.Path -> getFootpath (obj :?> Pathing) :> obj
         | ObjectTypes.PathAddition -> getFootpathItem (obj :?> PathAddition) :> obj
         | ObjectTypes.SceneryGroup -> getSceneryGroup (obj :?> SceneryGroup) :> obj
+        | ObjectTypes.ParkEntrance -> getParkEntrance (obj :?> ParkEntrance) :> obj
         | ObjectTypes.Water -> getWater (obj :?> Water) :> obj
         | _ -> new Object()
 
