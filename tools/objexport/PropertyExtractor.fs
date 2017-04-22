@@ -6,13 +6,11 @@ namespace OpenRCT2.Legacy.ObjectExporter
 module PropertyExtractor =
 
     open System
+    open JsonTypes
     open RCT2ObjectData.DataObjects
     open RCT2ObjectData.DataObjects.Types
 
-    open JsonTypes
-
-    let getCursor cursor =
-        match cursor with
+    let getCursor = function
         | 1 -> "CURSOR_BLANK"
         | 2 -> "CURSOR_UP_ARROW"
         | 3 -> "CURSOR_UP_DOWN_ARROW"
@@ -80,8 +78,7 @@ module PropertyExtractor =
     // Footpath item
     ///////////////////////////////////////////////////////////////////////////
     let getFootpathItem (pa: PathAddition) =
-        let getRenderAs t =
-            match t with
+        let getRenderAs = function
             | PathAdditionSubtypes.LitterBin -> "bin"
             | PathAdditionSubtypes.Bench -> "bench"
             | PathAdditionSubtypes.Lamp -> "lamp"
@@ -109,8 +106,7 @@ module PropertyExtractor =
             seq { 0..31 }
             |> Seq.filter(fun i -> (x &&& (1 <<< i)) <> 0)
 
-        let getEntertainer x =
-            match x with
+        let getEntertainer = function
             | 4 -> "panda"
             | 5 -> "tiger"
             | 6 -> "elephant"

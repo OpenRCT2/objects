@@ -9,13 +9,11 @@ module ObjectExporter =
     open System.Collections.Generic
     open System.IO
     open System.Text
+    open JsonTypes
     open Microsoft.FSharp.Core
     open Newtonsoft.Json
-    open RCT2ObjectData.DataObjects
-    open RCT2ObjectData.DataObjects.Types
-
-    open JsonTypes
     open PropertyExtractor
+    open RCT2ObjectData.DataObjects
 
     let serializeToJson (value: 'a) =
         let sb = new StringBuilder(capacity = 256)
@@ -35,8 +33,7 @@ module ObjectExporter =
             | _ -> "other."
         prefix + obj.ObjectHeader.FileName.ToLower()
 
-    let getObjTypeName objType =
-        match objType with
+    let getObjTypeName = function
         | ObjectTypes.Attraction -> "ride"
         | ObjectTypes.SceneryGroup -> "scenery_group"
         | ObjectTypes.SmallScenery -> "scenery_small"
@@ -49,8 +46,7 @@ module ObjectExporter =
         | ObjectTypes.Water -> "water"
         | _ -> "other"
 
-    let getSourceDirectoryName source =
-        match source with
+    let getSourceDirectoryName = function
         | SourceTypes.RCT2 -> "rct2"
         | SourceTypes.WW -> "rct2ww"
         | SourceTypes.TT -> "rct2tt"
@@ -62,8 +58,7 @@ module ObjectExporter =
                      getObjTypeName obj.Type,
                      name + ".json")
 
-    let getLanguageName i =
-        match i with
+    let getLanguageName = function
         | 0 -> "en-GB"
         | 1 -> "en-US"
         | 2 -> "fr-FR"
@@ -76,7 +71,7 @@ module ObjectExporter =
         | 10 -> "zh-CN"
         | 11 -> "zh-TW"
         | 13 -> "pt-BR"
-        | _ -> i.ToString()
+        | i -> i.ToString()
 
     let exportObject outputPath (obj: ObjectData) =
         let objName = obj.ObjectHeader.FileName.ToUpper()
