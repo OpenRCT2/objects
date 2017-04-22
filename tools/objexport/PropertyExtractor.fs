@@ -3,12 +3,26 @@
 
 namespace OpenRCT2.Legacy.ObjectExporter
 
+module Seq =
+    let filterOut needle =
+        Seq.filter (fun x -> x <> needle)
+
+    let singleOrMany items =
+        let len = Seq.length items
+        if len = 0 then
+            null
+        elif len = 1 then
+            (Seq.head items) :> obj
+        else
+            (items |> Seq.toList) :> obj
+
 module PropertyExtractor =
 
     open System
     open JsonTypes
     open RCT2ObjectData.DataObjects
     open RCT2ObjectData.DataObjects.Types
+    open RCT2ObjectData.DataObjects.Types.AttractionInfo
 
     let getCursor = function
         | 1 -> "CURSOR_BLANK"
@@ -38,6 +52,80 @@ module PropertyExtractor =
         | 25 -> "CURSOR_HAND_OPEN"
         | 26 -> "CURSOR_HAND_CLOSED"
         | _ -> "CURSOR_ARROW"
+
+    let getBits32 (x: int) =
+        seq { 0..31 }
+        |> Seq.filter(fun i -> (x &&& (1 <<< i)) <> 0)
+
+    let getBits64 (x: int64) =
+        seq { 0..63 }
+        |> Seq.filter(fun i -> (x &&& (1L <<< i)) <> 0L)
+
+    ///////////////////////////////////////////////////////////////////////////
+    // Ride
+    ///////////////////////////////////////////////////////////////////////////
+    let getRide (ride: Attraction) =
+        // TODO populate this fully
+        let getRideType = function
+            | TrackTypes.DrinksStall -> "drink"
+            | TrackTypes.Circus -> "circus"
+            | x -> x.ToString().ToLower()
+
+        let getRideTypes =
+            ride.Header.TrackTypeList
+            |> Seq.filterOut TrackTypes.None
+            |> Seq.map getRideType
+            |> Seq.singleOrMany
+
+        let headCars =
+            [| ride.Header.FrontCarType
+               ride.Header.SecondCarType
+               ride.Header.ThirdCarType |]
+            |> Seq.filterOut CarTypes.None
+            |> Seq.singleOrMany
+
+        let tailCars =
+            [| ride.Header.RearCarType |]
+            |> Seq.filterOut CarTypes.None
+            |> Seq.singleOrMany
+
+        let ratingMultiplier =
+            match (int ride.Header.Excitement, int ride.Header.Intensity, int ride.Header.Nausea) with
+            | (0, 0, 0) -> None
+            | (e, i, n) -> Some { excitement = e; intensity = i; nausea = n }
+
+        let availableTrackPieces =
+            match ride.Header.AvailableTrackSections with
+            | TrackSections.All -> None
+            | sections ->
+                Some (getBits64 (int64 sections)
+                |> Seq.map (fun x -> 1UL <<< x)
+                |> Seq.map (fun x -> LanguagePrimitives.EnumOfValue<uint64, TrackSections> x)
+                |> Seq.map (fun x -> x.ToString().ToLower())
+                |> Seq.toList)
+
+        { ``type`` = getRideTypes
+          category =
+              [| ride.Header.RideType; ride.Header.RideTypeAlternate |]
+              |> Seq.filterOut RideTypes.None
+              |> Seq.map (fun x -> x.ToString().ToLower())
+              |> Seq.singleOrMany
+          sells =
+              [| ride.Header.SoldItem1; ride.Header.SoldItem2 |]
+              |> Seq.filterOut ItemTypes.None
+              |> Seq.map (fun x -> x.ToString().ToLower())
+              |> Seq.singleOrMany
+          minCarsPerTrain = int ride.Header.MinCarsPerTrain
+          maxCarsPerTrain = int ride.Header.MaxCarsPerTrain
+          carsPerFlatRide = int ride.Header.CarsPerFlatRide
+          numEmptyCars = int ride.Header.ZeroCars
+          tabCar = int ride.Header.CarTabIndex
+          defaultCar = int ride.Header.DefaultCarType
+          headCars = headCars
+          tailCars = tailCars
+          ratingMultipler = ratingMultiplier
+          maxHeight = int ride.Header.MaxHeight
+          availableTrackPieces = availableTrackPieces }
 
     ///////////////////////////////////////////////////////////////////////////
     // Wall
@@ -102,10 +190,6 @@ module PropertyExtractor =
     // Scenery group
     ///////////////////////////////////////////////////////////////////////////
     let getSceneryGroup (scg: SceneryGroup) =
-        let getBits (x: int) =
-            seq { 0..31 }
-            |> Seq.filter(fun i -> (x &&& (1 <<< i)) <> 0)
-
         let getEntertainer = function
             | 4 -> "panda"
             | 5 -> "tiger"
@@ -121,7 +205,7 @@ module PropertyExtractor =
             | _ -> "unknown"
 
         let getEntertainers bits =
-            getBits bits
+            getBits32 bits
             |> Seq.map(getEntertainer)
             |> Seq.toList
 
@@ -154,6 +238,7 @@ module PropertyExtractor =
 
     let getProperties (obj: ObjectData) =
         match obj.Type with
+        | ObjectTypes.Attraction -> getRide (obj :?> Attraction) :> obj
         | ObjectTypes.Wall -> getWall (obj :?> Wall) :> obj
         | ObjectTypes.Path -> getFootpath (obj :?> Pathing) :> obj
         | ObjectTypes.PathAddition -> getFootpathItem (obj :?> PathAddition) :> obj

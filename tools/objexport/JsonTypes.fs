@@ -7,6 +7,7 @@ namespace OpenRCT2.Legacy.ObjectExporter
 module JsonTypes =
 
     open System.Collections.Generic
+    open System.ComponentModel
     open System.Runtime.Serialization
 
     type JObject =
@@ -17,6 +18,49 @@ module JsonTypes =
           properties: obj
           images: string list
           strings: IDictionary<string, IDictionary<string, string>> }
+
+    [<DataContract>]
+    type JRating =
+        { [<DataMember(EmitDefaultValue = false)>]
+          excitement: int
+          [<DataMember(EmitDefaultValue = false)>]
+          intensity: int
+          [<DataMember(EmitDefaultValue = false)>]
+          nausea: int }
+
+    [<DataContract>]
+    type JRide =
+        { [<DataMember>]
+          ``type``: obj // string | string list
+          [<DataMember(EmitDefaultValue = false)>]
+          category: obj // string | string list
+          [<DataMember(EmitDefaultValue = false)>]
+          sells: obj // string | string list
+          [<DataMember(EmitDefaultValue = false)>]
+          [<DefaultValue(1)>]
+          minCarsPerTrain: int
+          [<DataMember(EmitDefaultValue = false)>]
+          [<DefaultValue(1)>]
+          maxCarsPerTrain: int
+          [<DataMember(EmitDefaultValue = false)>]
+          [<DefaultValue(255)>]
+          carsPerFlatRide: int
+          [<DataMember(EmitDefaultValue = false)>]
+          numEmptyCars: int
+          [<DataMember(EmitDefaultValue = false)>]
+          tabCar: int
+          [<DataMember(EmitDefaultValue = false)>]
+          defaultCar: int
+          [<DataMember(EmitDefaultValue = false)>]
+          headCars: obj // int | int list
+          [<DataMember(EmitDefaultValue = false)>]
+          tailCars: obj // int | int list
+          [<DataMember(EmitDefaultValue = false)>]
+          ratingMultipler: JRating option
+          [<DataMember(EmitDefaultValue = false)>]
+          maxHeight: int
+          [<DataMember(EmitDefaultValue = false)>]
+          availableTrackPieces: string list option }
 
     [<DataContract>]
     type JWall =
@@ -36,8 +80,11 @@ module JsonTypes =
           isAllowedOnSlope: bool
           [<DataMember(EmitDefaultValue = false)>]
           doorSound: string
+          [<DataMember>]
           height: int
+          [<DataMember>]
           price: int
+          [<DataMember>]
           cursor: string
           [<DataMember(EmitDefaultValue = false)>]
           scrollingMode: int }
