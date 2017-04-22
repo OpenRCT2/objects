@@ -71,6 +71,36 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           sells: string list
           [<DataMember(EmitDefaultValue = false)>]
+          tabScale: int
+          [<DataMember(EmitDefaultValue = false)>]
+          separateRide: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          separateRideName: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          operatingModes: string list
+          [<DataMember(EmitDefaultValue = false)>]
+          hasShelter: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          disableBreakdown: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          disablePainting: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          noInversions: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          noBanking: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          limitAirTimeBonus: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          playDepartSound: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          playSplashSound: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          playSplashSoundSlide: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          swingMode: int
+          [<DataMember(EmitDefaultValue = false)>]
+          rotationMode: int
+          [<DataMember(EmitDefaultValue = false)>]
           [<DefaultValue(1)>]
           minCarsPerTrain: int
           [<DataMember(EmitDefaultValue = false)>]
@@ -94,9 +124,9 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           maxHeight: int
           [<DataMember(EmitDefaultValue = false)>]
-          availableTrackPieces: string list option
+          cars: JCar list
           [<DataMember(EmitDefaultValue = false)>]
-          cars: JCar list }
+          availableTrackPieces: string list option }
 
     [<DataContract>]
     type JWall =

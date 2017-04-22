@@ -153,6 +153,21 @@ module PropertyExtractor =
               |> Seq.filterOut ItemTypes.None
               |> Seq.map (fun x -> x.ToString().ToLower())
               |> Seq.toList
+          tabScale = if ride.Header.Flags.HasFlag(AttractionFlags.Unknown1_0) then 2 else 0
+          separateRide = ride.Header.Flags.HasFlag(AttractionFlags.SeparateRide)
+          separateRideName = ride.Header.Flags.HasFlag(AttractionFlags.SeparateRide2)
+          operatingModes = []
+          hasShelter = ride.Header.Flags.HasFlag(AttractionFlags.Covered)
+          disableBreakdown = ride.Header.Flags.HasFlag(AttractionFlags.RowingBoatsCanoesElevator)
+          disablePainting = ride.Header.Flags.HasFlag(AttractionFlags.SunglassesStall)
+          noInversions = ride.Header.Flags.HasFlag(AttractionFlags.Unknown2_0)
+          noBanking = ride.Header.Flags.HasFlag(AttractionFlags.Unused4_0)
+          limitAirTimeBonus = ride.Header.Flags.HasFlag(AttractionFlags.Unknown8_2)
+          playDepartSound = ride.Header.Flags.HasFlag(AttractionFlags.NoTrackRemap)
+          playSplashSound = ride.Header.Flags.HasFlag(AttractionFlags.RidersGetWet)
+          playSplashSoundSlide = ride.Header.Flags.HasFlag(AttractionFlags.SlowInWater)
+          swingMode = 0
+          rotationMode = 0
           minCarsPerTrain = int ride.Header.MinCarsPerTrain
           maxCarsPerTrain = int ride.Header.MaxCarsPerTrain
           carsPerFlatRide = int ride.Header.CarsPerFlatRide
