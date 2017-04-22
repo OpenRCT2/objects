@@ -6,5 +6,5 @@ pushd tools\objexport
 popd
 
 set RCT2OBJDIR=C:\Program Files (x86)\Infogrames\RollerCoaster Tycoon 2\ObjData
-set OUTDIR=rct2
+set OUTDIR=.
 call tools\objexport\bin\Release\objexport "%RCT2OBJDIR%" "%OUTDIR%"

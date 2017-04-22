@@ -139,6 +139,13 @@ module PropertyExtractor =
           entertainerCostumes = getEntertainers (int scg.Header.Unknown0x10A) }
 
     ///////////////////////////////////////////////////////////////////////////
+    // Water
+    ///////////////////////////////////////////////////////////////////////////
+    let getWater (water: Water) =
+        let flags = int (BitConverter.ToInt16(water.Header.Reserved0, 14))
+        { allowDucks = ((flags &&& 1) <> 0) }
+
+    ///////////////////////////////////////////////////////////////////////////
     // Catch all
     ///////////////////////////////////////////////////////////////////////////
 
@@ -148,5 +155,6 @@ module PropertyExtractor =
         | ObjectTypes.Path -> getFootpath (obj :?> Pathing) :> obj
         | ObjectTypes.PathAddition -> getFootpathItem (obj :?> PathAddition) :> obj
         | ObjectTypes.SceneryGroup -> getSceneryGroup (obj :?> SceneryGroup) :> obj
+        | ObjectTypes.Water -> getWater (obj :?> Water) :> obj
         | _ -> new Object()
 

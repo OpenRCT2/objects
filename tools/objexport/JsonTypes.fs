@@ -86,3 +86,8 @@ module JsonTypes =
         { entries: string list
           order: int
           entertainerCostumes: string list }
+
+    [<DataContract>]
+    type JWater =
+        { [<DataMember(EmitDefaultValue = false)>]
+          allowDucks: bool }
