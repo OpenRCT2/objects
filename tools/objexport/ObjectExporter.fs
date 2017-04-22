@@ -12,6 +12,7 @@ module ObjectExporter =
     open JsonTypes
     open Microsoft.FSharp.Core
     open Newtonsoft.Json
+    open Newtonsoft.Json.FSharp
     open PropertyExtractor
     open RCT2ObjectData.DataObjects
 
@@ -21,6 +22,7 @@ module ObjectExporter =
         let jsonSerializer = JsonSerializer.CreateDefault()
         use jsonWriter = new JsonTextWriter(sw, Indentation = 4,
                                                 Formatting = Formatting.Indented)
+        Seq.iter (jsonSerializer.Converters.Add) JsonFsharp.converters
         jsonSerializer.Serialize(jsonWriter, value, typedefof<'a>)
         sw.ToString()
 

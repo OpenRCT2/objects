@@ -58,6 +58,7 @@
     <None Include="App.config" />
     <Content Include="packages.config" />
     <Compile Include="AssemblyInfo.fs" />
+    <Compile Include="JsonConverters.fs" />
     <Compile Include="JsonTypes.fs" />
     <Compile Include="PropertyExtractor.fs" />
     <Compile Include="ObjectExporter.fs" />
