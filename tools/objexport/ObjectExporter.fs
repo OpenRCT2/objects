@@ -87,13 +87,17 @@ module ObjectExporter =
         let images = [ sprintf "$RCT2:OBJDATA/%s.DAT[%d..%d]" objName 0 numImages ]
 
         let getStrings index =
-            let stringEntry = obj.StringTable.Entries.[index]
-            let stringSeq = stringEntry.Languages
-            let indexSeq = [| 0..(stringSeq.Length - 1) |]
-            Seq.map2(fun x y -> (getLanguageName x, y)) indexSeq stringSeq
-            |> Seq.filter(fun (_, y) -> not (String.IsNullOrWhiteSpace(y)))
-            |> Seq.filter(fun (x, y) -> x = getLanguageName 0 || y <> stringSeq.[0])
-            |> dict
+            let stringEntries = obj.StringTable.Entries
+            if index >= stringEntries.Count then
+                dict []
+            else
+                let stringEntry = obj.StringTable.Entries.[index]
+                let stringSeq = stringEntry.Languages
+                let indexSeq = [| 0..(stringSeq.Length - 1) |]
+                Seq.map2(fun x y -> (getLanguageName x, y)) indexSeq stringSeq
+                |> Seq.filter(fun (_, y) -> not (String.IsNullOrWhiteSpace(y)))
+                |> Seq.filter(fun (x, y) -> x = getLanguageName 0 || y <> stringSeq.[0])
+                |> dict
 
         let stEntries = obj.StringTable.Entries
         let strings =
