@@ -124,10 +124,10 @@ module ObjectExporter =
 
     let exportObjects path outputPath =
         printfn "Exporting objects from '%s' to '%s'" path outputPath
-        if Directory.Exists(path) then
+        if not (Directory.Exists(path)) then
             printfn "'%s' does not exist" path
             1
-        elif Directory.Exists(outputPath) then
+        elif not (Directory.Exists(outputPath)) then
             printfn "'%s' does not exist" path
             1
         else
