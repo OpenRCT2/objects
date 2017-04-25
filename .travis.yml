@@ -1,0 +1,4 @@
+language: csharp
+solution: tools/objexport/objexport.sln
+install:
+  - nuget restore tools/objexport/objexport.sln
