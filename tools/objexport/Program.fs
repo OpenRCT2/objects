@@ -17,4 +17,3 @@ module internal Program =
             let path = argv.[0]
             let outputPath = argv.[1]
             exportObjects path outputPath
-            0

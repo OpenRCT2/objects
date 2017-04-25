@@ -124,7 +124,15 @@ module ObjectExporter =
 
     let exportObjects path outputPath =
         printfn "Exporting objects from '%s' to '%s'" path outputPath
-        Directory.GetFiles(path)
-        |> Seq.map(ObjectData.FromFile)
-        |> Seq.filter(fun x -> x <> null)
-        |> Seq.iter(exportObject outputPath)
+        if Directory.Exists(path) then
+            printfn "'%s' does not exist" path
+            1
+        elif Directory.Exists(outputPath) then
+            printfn "'%s' does not exist" path
+            1
+        else
+            Directory.GetFiles(path)
+            |> Seq.map(ObjectData.FromFile)
+            |> Seq.filter(fun x -> x <> null)
+            |> Seq.iter(exportObject outputPath)
+            0
