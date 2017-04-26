@@ -132,7 +132,7 @@ module ObjectExporter =
             printfn "'%s' does not exist" path
             1
         elif not (Directory.Exists(outputPath)) then
-            printfn "'%s' does not exist" path
+            printfn "'%s' does not exist" outputPath
             1
         else
             Directory.GetFiles(path)
