@@ -21,6 +21,9 @@ module ObjectExporter =
     open PropertyExtractor
     open RCT2ObjectData.DataObjects
 
+    type ObjectExporterOptions =
+        { languageDirectory: string option }
+
     let serializeToJson (value: 'a) =
         let sb = new StringBuilder(capacity = 256)
         let sw = new StringWriter(sb)
@@ -81,11 +84,7 @@ module ObjectExporter =
         | 13 -> "pt-BR"
         | i -> i.ToString()
 
-    let getLanguageNames (stringEntry: StringEntry) =
-        seq { 0..(stringEntry.Languages.Length - 1) }
-        |> Seq.map getLanguageName
-
-    let exportObject outputPath (obj: ObjectData) =
+    let exportObject outputPath ourStrings (obj: ObjectData) =
         let objName = obj.ObjectHeader.FileName.ToUpper()
         let objId = getObjId obj
         let outputJsonPath = getOutputJsonPath outputPath obj objId
@@ -125,10 +124,11 @@ module ObjectExporter =
             match ResizeArray.tryItem index stringEntries with
             | None -> dict []
             | Some stringEntry ->
-                let languages = getLanguageNames stringEntry
                 let strings =
                     stringEntry.Languages
-                    |> Seq.map2(fun x y -> (x, decodeString x y)) languages
+                    |> Seq.mapi(fun i str ->
+                        let lang = getLanguageName i
+                        (lang, decodeString lang str))
                     |> Seq.filter(fun (_, y) -> not (String.IsNullOrWhiteSpace(y)))
                     |> Seq.toArray
 
@@ -145,6 +145,8 @@ module ObjectExporter =
                        ("capacity", getStrings 2) |]
                 else
                     [| ("name", getStrings 0) |]
+
+            // TODO overlay ourStrings on top of entries
 
             entries
             |> Array.filter(fun (x, y) -> y.Count > 0)
@@ -163,7 +165,64 @@ module ObjectExporter =
         Directory.CreateDirectory(Path.GetDirectoryName(outputJsonPath)) |> ignore
         File.WriteAllText(outputJsonPath, json, Encoding.UTF8)
 
-    let exportObjects path outputPath =
+    let getObjectStringsFromLanguageFile path =
+        let (|Object|_|) (s : string) =
+            let st = s.Trim()
+            if (st.StartsWith("[") && st.EndsWith("]")) then
+                Some (st.Substring(1, st.Length - 2))
+            else
+                None
+
+        let (|Property|_|) (name: string) (s : string) =
+            let st = s.Trim()
+            match st.IndexOf(':') with
+            | -1 -> None
+            | i ->
+                let left = st.Remove(i).Trim()
+                let right = st.Substring(i + 1)
+                if left = name then Some right
+                else None
+
+        let mutable curObject = None
+        let mutable curName = None
+        let mutable curDesc = None
+        let mutable curCpty = None
+        let items = new ResizeArray<string * (string option * string option * string option)>()
+        let lines = File.ReadAllLines path
+        for line in lines do
+            match line with
+            | Object s ->
+                match curObject with
+                | None -> ()
+                | Some obj ->
+                    items.Add (obj, (curName, curDesc, curCpty))
+                curObject <- Some s
+                curName <- None
+                curDesc <- None
+                curCpty <- None
+            | Property "STR_NAME" s -> curName <- Some s
+            | Property "STR_DESC" s -> curDesc <- Some s
+            | Property "STR_CPTY" s -> curCpty <- Some s
+            | _ -> ()
+        items
+
+    let exportObjects path outputPath options =
+        let objectStrings =
+            match options.languageDirectory with
+            | None -> dict []
+            | Some dir ->
+                dir
+                |> Directory.GetFiles
+                |> Seq.map (fun f ->
+                    let lang = Path.GetFileNameWithoutExtension f
+                    getObjectStringsFromLanguageFile f
+                    |> Seq.map (fun (objName, strings) -> (objName, lang, strings))
+                    |> Seq.toList)
+                |> Seq.collect id
+                |> Seq.groupBy (fun (objName, _, _) -> objName)
+                |> Seq.map (fun (k, v) -> (k, v |> Seq.map (fun (_, b, c) -> (b, c)) |> Seq.toArray))
+                |> dict
+
         printfn "Exporting objects from '%s' to '%s'" path outputPath
         if not (Directory.Exists(path)) then
             printfn "'%s' does not exist" path
@@ -173,7 +232,12 @@ module ObjectExporter =
             1
         else
             Directory.GetFiles(path)
-            |> Seq.map(ObjectData.FromFile)
-            |> Seq.filter(fun x -> x <> null)
-            |> Seq.iter(exportObject outputPath)
+            |> Seq.map ObjectData.FromFile
+            |> Seq.filter (fun x -> x <> null)
+            |> Seq.iter (fun x ->
+                let strings =
+                    match objectStrings.TryGetValue x.ObjectHeader.FileName with
+                    | true, value -> Some value
+                    | _ -> None
+                exportObject outputPath strings x)
             0
