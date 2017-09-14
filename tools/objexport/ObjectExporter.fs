@@ -3,6 +3,11 @@
 
 namespace OpenRCT2.Legacy.ObjectExporter
 
+module ResizeArray =
+    let tryItem index (list: ResizeArray<'T>) =
+        if index < 0 || index >= list.Count then None
+        else Some list.[index]
+
 module ObjectExporter =
 
     open System
@@ -76,6 +81,10 @@ module ObjectExporter =
         | 13 -> "pt-BR"
         | i -> i.ToString()
 
+    let getLanguageNames (stringEntry: StringEntry) =
+        seq { 0..(stringEntry.Languages.Length - 1) }
+        |> Seq.map getLanguageName
+
     let exportObject outputPath (obj: ObjectData) =
         let objName = obj.ObjectHeader.FileName.ToUpper()
         let objId = getObjId obj
@@ -86,17 +95,45 @@ module ObjectExporter =
         let numImages = obj.ImageDirectory.NumEntries
         let images = [ sprintf "$RCT2:OBJDATA/%s.DAT[%d..%d]" objName 0 numImages ]
 
+        let decodeString language s =
+            let decodedBytes =
+                let result = new ResizeArray<byte>()
+                let sr = new StringReader(s)
+                while sr.Peek() <> -1 do
+                    match sr.Read() with
+                    | 255 ->
+                        let a = sr.Read()
+                        let b = sr.Read()
+                        result.Add (byte a)
+                        result.Add (byte b)
+                    | c ->
+                        result.Add (byte c)
+                result.ToArray()
+
+            let codepage =
+                match language with
+                | "ko-KR" -> 949
+                | "zh-CN" -> 936
+                | "zh-TW" -> 950
+                | _ -> 1252
+
+            Encoding.GetEncoding(codepage)
+                    .GetString(decodedBytes)
+
         let getStrings index =
             let stringEntries = obj.StringTable.Entries
-            if index >= stringEntries.Count then
-                dict []
-            else
-                let stringEntry = obj.StringTable.Entries.[index]
-                let stringSeq = stringEntry.Languages
-                let indexSeq = [| 0..(stringSeq.Length - 1) |]
-                Seq.map2(fun x y -> (getLanguageName x, y)) indexSeq stringSeq
-                |> Seq.filter(fun (_, y) -> not (String.IsNullOrWhiteSpace(y)))
-                |> Seq.filter(fun (x, y) -> x = getLanguageName 0 || y <> stringSeq.[0])
+            match ResizeArray.tryItem index stringEntries with
+            | None -> dict []
+            | Some stringEntry ->
+                let languages = getLanguageNames stringEntry
+                let strings =
+                    stringEntry.Languages
+                    |> Seq.map2(fun x y -> (x, decodeString x y)) languages
+                    |> Seq.filter(fun (_, y) -> not (String.IsNullOrWhiteSpace(y)))
+                    |> Seq.toArray
+
+                strings
+                |> Seq.filter(fun (x, y) -> x = getLanguageName 0 || y <> snd strings.[0])
                 |> dict
 
         let stEntries = obj.StringTable.Entries
@@ -124,7 +161,7 @@ module ObjectExporter =
 
         let json = serializeToJson jobj + Environment.NewLine
         Directory.CreateDirectory(Path.GetDirectoryName(outputJsonPath)) |> ignore
-        File.WriteAllText(outputJsonPath, json)
+        File.WriteAllText(outputJsonPath, json, Encoding.UTF8)
 
     let exportObjects path outputPath =
         printfn "Exporting objects from '%s' to '%s'" path outputPath
