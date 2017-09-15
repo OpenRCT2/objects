@@ -84,7 +84,7 @@ module ObjectExporter =
         | 13 -> "pt-BR"
         | i -> i.ToString()
 
-    let exportObject outputPath ourStrings (obj: ObjectData) =
+    let exportObject outputPath (ourStrings: IDictionary<string, IDictionary<string, string>>) (obj: ObjectData) =
         let objName = obj.ObjectHeader.FileName.ToUpper()
         let objId = getObjId obj
         let outputJsonPath = getOutputJsonPath outputPath obj objId
@@ -137,20 +137,36 @@ module ObjectExporter =
                 |> dict
 
         let stEntries = obj.StringTable.Entries
-        let strings =
+        let theirStrings =
             let entries =
                 if obj.Type = ObjectTypes.Attraction then
                     [| ("name", getStrings 0);
-                       ("description", getStrings 1);
-                       ("capacity", getStrings 2) |]
+                        ("description", getStrings 1);
+                        ("capacity", getStrings 2) |]
                 else
                     [| ("name", getStrings 0) |]
 
-            // TODO overlay ourStrings on top of entries
-
             entries
-            |> Array.filter(fun (x, y) -> y.Count > 0)
+            |> Array.filter(fun (_, y) -> y.Count > 0)
             |> dict
+
+        let strings =
+            let newStrings = new Dictionary<string, IDictionary<string, string>>(theirStrings)
+            for kvp in ourStrings do
+                let sKey =
+                    match newStrings.TryGetValue kvp.Key with
+                    | true, l2s ->
+                        let l2s = new Dictionary<string, string>(l2s)
+                        newStrings.Item(kvp.Key) <- l2s
+                        l2s
+                    | _ ->
+                        let l2s = new Dictionary<string, string>()
+                        newStrings.Item(kvp.Key) <- l2s
+                        l2s
+
+                for kvp2 in kvp.Value do
+                    sKey.Item(kvp2.Key) <- kvp2.Value
+            newStrings
 
         let properties = getProperties obj
         let jobj = { id = objId;
@@ -184,29 +200,37 @@ module ObjectExporter =
                 else None
 
         let mutable curObject = None
-        let mutable curName = None
-        let mutable curDesc = None
-        let mutable curCpty = None
-        let items = new ResizeArray<string * (string option * string option * string option)>()
+        let mutable curStrings = []
+        let items = new ResizeArray<string * (string * string) list>()
         let lines = File.ReadAllLines path
         for line in lines do
+            let addString key value =
+                curStrings <- (key, value) :: curStrings
             match line with
             | Object s ->
                 match curObject with
                 | None -> ()
                 | Some obj ->
-                    items.Add (obj, (curName, curDesc, curCpty))
+                    items.Add (obj, curStrings)
                 curObject <- Some s
-                curName <- None
-                curDesc <- None
-                curCpty <- None
-            | Property "STR_NAME" s -> curName <- Some s
-            | Property "STR_DESC" s -> curDesc <- Some s
-            | Property "STR_CPTY" s -> curCpty <- Some s
+                curStrings <- []
+            | Property "STR_NAME" s -> addString "name" s
+            | Property "STR_DESC" s -> addString "description" s
+            | Property "STR_CPTY" s -> addString "capacity" s
             | _ -> ()
         items
 
     let exportObjects path outputPath options =
+        // seq (a, b, c) -> seq { (a, seq { (b, c) }) }
+        let groupByT1of3 (items: ('a * 'b * 'c) seq) =
+            items
+            |> Seq.groupBy (fun (key, _, _) -> key)
+            |> Seq.map (fun (key, value) ->
+                let newValue =
+                    value
+                    |> Seq.map (fun (_, b, c) -> (b, c))
+                (key, newValue))
+
         let objectStrings =
             match options.languageDirectory with
             | None -> dict []
@@ -219,8 +243,23 @@ module ObjectExporter =
                     |> Seq.map (fun (objName, strings) -> (objName, lang, strings))
                     |> Seq.toList)
                 |> Seq.collect id
-                |> Seq.groupBy (fun (objName, _, _) -> objName)
-                |> Seq.map (fun (k, v) -> (k, v |> Seq.map (fun (_, b, c) -> (b, c)) |> Seq.toArray))
+                |> groupByT1of3
+                |> Seq.map (fun (objName, entries) ->
+                    let objectToStrings =
+                        entries
+                        |> Seq.map (fun (lang, strings) ->
+                            strings
+                            |> Seq.map (fun (key, str) -> (key, lang, str)))
+                        |> Seq.collect id
+                        |> groupByT1of3
+                        |> Seq.map (fun (key, value) ->
+                            let langToStrings =
+                                value
+                                |> Seq.map (fun (lang, str) -> (lang, str))
+                                |> dict
+                            (key, langToStrings))
+                        |> dict
+                    (objName, objectToStrings))
                 |> dict
 
         printfn "Exporting objects from '%s' to '%s'" path outputPath
@@ -237,7 +276,7 @@ module ObjectExporter =
             |> Seq.iter (fun x ->
                 let strings =
                     match objectStrings.TryGetValue x.ObjectHeader.FileName with
-                    | true, value -> Some value
-                    | _ -> None
+                    | true, value -> value
+                    | _ -> dict []
                 exportObject outputPath strings x)
             0
