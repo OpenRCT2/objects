@@ -61,6 +61,7 @@
     <Compile Include="JsonConverters.fs" />
     <Compile Include="JsonTypes.fs" />
     <Compile Include="PropertyExtractor.fs" />
+    <Compile Include="Localisation.fs" />
     <Compile Include="ObjectExporter.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
