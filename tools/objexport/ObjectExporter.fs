@@ -129,9 +129,19 @@ module ObjectExporter =
         // Overlay our strings on top of the RCT2 strings
         let strings = Localisation.overlayStrings ourStrings theirStrings
 
+        let authors =
+            match obj.Source with
+            | SourceTypes.RCT2 ->
+                ["Chris Saywer"; "Simon Foster"]
+            | SourceTypes.WW
+            | SourceTypes.TT ->
+                ["Frontier Studios"]
+            | _ ->
+                []
+
         let properties = getProperties obj
         let jobj = { id = objId;
-                     authors = ["Chris Saywer"; "Simon Foster"];
+                     authors = authors;
                      version = "1.0";
                      objectType = getObjTypeName obj.Type;
                      properties = properties;
