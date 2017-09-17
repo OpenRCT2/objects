@@ -28,12 +28,10 @@ module internal Program =
 
     [<EntryPoint>]
     let main argv =
-        let argv = Array.toList argv
         printfn "RCT2 object to json exporter"
-        match List.truncate 2 argv with
-        | [path; outputPath] ->
-            let options = parseOptions (List.skip 2 argv)
-            exportObjects path outputPath options
+        match Array.toList argv with
+        | path :: outputPath :: options ->
+            exportObjects path outputPath (parseOptions options)
         | _ ->
             printfn "Usage: objexport <objects path> <output path> [options]"
             printfn "Options:"
