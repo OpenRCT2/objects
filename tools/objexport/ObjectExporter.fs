@@ -152,12 +152,21 @@ module ObjectExporter =
         Directory.CreateDirectory(Path.GetDirectoryName(outputJsonPath)) |> ignore
         File.WriteAllText(outputJsonPath, json, Encoding.UTF8)
 
+    let createDirectory path =
+        try
+            if not (Directory.Exists path) then
+                Directory.CreateDirectory(path) |> ignore
+            true
+        with
+        | ex ->
+            printfn "Unable to create '%s': %s" path ex.Message
+            false
+
     let exportObjects path outputPath options =
         if not (Directory.Exists(path)) then
             printfn "'%s' does not exist" path
             1
-        elif not (Directory.Exists(outputPath)) then
-            printfn "'%s' does not exist" outputPath
+        elif not (createDirectory outputPath) then
             1
         else
             // Load new object strings from OpenRCT2
