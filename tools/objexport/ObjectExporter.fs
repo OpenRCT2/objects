@@ -106,8 +106,14 @@ module ObjectExporter =
                     stringEntry.Languages
                     |> Seq.mapi(fun i str ->
                         let lang = getLanguageName i
-                        (lang, Localisation.decodeStringFromRCT2 lang str))
-                    |> Seq.filter(fun (_, y) -> not (String.IsNullOrWhiteSpace(y)))
+                        let decoded = Localisation.decodeStringFromRCT2 lang str
+                        (lang, decoded.Trim()))
+                    |> Seq.filter(fun (_, str) ->
+                        // Decide whether the string is useful
+                        match str with
+                        | "" -> false
+                        | s when s.StartsWith("#not translated", StringComparison.OrdinalIgnoreCase) -> false
+                        | _ -> true)
                     |> Seq.toArray
 
                 strings

@@ -38,7 +38,7 @@ module Localisation =
             | i ->
                 let left = st.Remove(i).Trim()
                 let right = st.Substring(i + 1)
-                if left = name then Some right
+                if left = name then Some (right.Trim())
                 else None
 
         let mutable curObject = None
