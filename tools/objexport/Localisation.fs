@@ -127,6 +127,7 @@ module Localisation =
 
         let codepage =
             match language with
+            | "ja-JP" -> 932
             | "ko-KR" -> 949
             | "zh-CN" -> 936
             | "zh-TW" -> 950

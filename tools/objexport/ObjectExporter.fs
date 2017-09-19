@@ -78,6 +78,7 @@ module ObjectExporter =
         | 5 -> "it-IT"
         | 6 -> "nl-NL"
         | 7 -> "sv-SE"
+        | 8 -> "ja-JP"
         | 9 -> "ko-KR"
         | 10 -> "zh-CN"
         | 11 -> "zh-TW"
