@@ -155,7 +155,6 @@ module PropertyExtractor =
               |> Seq.toList
           tabScale = if ride.Header.Flags.HasFlag(AttractionFlags.Unknown1_0) then 2 else 0
           separateRide = ride.Header.Flags.HasFlag(AttractionFlags.SeparateRide)
-          separateRideName = ride.Header.Flags.HasFlag(AttractionFlags.SeparateRide2)
           operatingModes = []
           hasShelter = ride.Header.Flags.HasFlag(AttractionFlags.Covered)
           disableBreakdown = ride.Header.Flags.HasFlag(AttractionFlags.RowingBoatsCanoesElevator)
