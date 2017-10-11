@@ -75,8 +75,6 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           separateRide: bool
           [<DataMember(EmitDefaultValue = false)>]
-          separateRideName: bool
-          [<DataMember(EmitDefaultValue = false)>]
           operatingModes: string list
           [<DataMember(EmitDefaultValue = false)>]
           hasShelter: bool
