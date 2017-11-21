@@ -125,7 +125,8 @@ module ObjectExporter =
                 if obj.Type = ObjectTypes.Attraction then
                     [| ("name", getStrings 0);
                         ("description", getStrings 1);
-                        ("capacity", getStrings 2) |]
+                        ("capacity", getStrings 2);
+                        ("vehicleName", getStrings 0) |]
                 else
                     [| ("name", getStrings 0) |]
 
