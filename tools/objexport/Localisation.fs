@@ -59,6 +59,7 @@ module Localisation =
             | Property "STR_NAME" s -> addString "name" s
             | Property "STR_DESC" s -> addString "description" s
             | Property "STR_CPTY" s -> addString "capacity" s
+            | Property "STR_VEHN" s -> addString "vehicleName" s
             | _ -> ()
         items
 
