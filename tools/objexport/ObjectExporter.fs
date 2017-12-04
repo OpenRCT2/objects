@@ -124,9 +124,9 @@ module ObjectExporter =
             let entries =
                 if obj.Type = ObjectTypes.Attraction then
                     [| ("name", getStrings 0);
-                        ("description", getStrings 1);
-                        ("capacity", getStrings 2);
-                        ("vehicleName", getStrings 0) |]
+                       ("description", getStrings 1);
+                       ("capacity", getStrings 2);
+                       ("vehicleName", getStrings 0) |]
                 else
                     [| ("name", getStrings 0) |]
 
@@ -136,6 +136,15 @@ module ObjectExporter =
 
         // Overlay our strings on top of the RCT2 strings
         let strings = Localisation.overlayStrings ourStrings theirStrings
+
+        // Remove unwanted strings
+        let validKeys =
+            match obj.Type with
+            | ObjectTypes.Attraction -> ["name"; "description"; "capacity"; "vehicleName"]
+            | _ -> ["name"]
+        for s in Seq.toArray strings.Keys do
+            if not (List.contains s validKeys) then
+                strings.Remove(s) |> ignore
 
         let authors =
             match obj.Source with
