@@ -53,6 +53,22 @@ module Localisation =
                 match curObject with
                 | None -> ()
                 | Some obj ->
+                    // If there is a name but no vehicle name, set vehicle name
+                    // to the name. This ensures the RCT2 name does not override
+                    // the vehicle name.
+                    let vehicleExists =
+                        curStrings
+                        |> List.exists (fun (key, _) -> key = "vehicleName")
+                    if not vehicleExists then
+                        let name =
+                            curStrings
+                            |> List.tryFind (fun (key, _) -> key = "name")
+                            |> Option.map snd
+                        match name with
+                        | Some name -> addString "vehicleName" name
+                        | _ -> ()
+
+                    // Add the strings for the object
                     items.Add (obj, curStrings)
                 curObject <- Some s
                 curStrings <- []
