@@ -8,6 +8,12 @@ module ResizeArray =
         if index < 0 || index >= list.Count then None
         else Some list.[index]
 
+module Dictionary =
+    let tryItem key (dict: System.Collections.Generic.IDictionary<'TKey, 'TValue>) =
+        match dict.TryGetValue key with
+        | true, value -> Some value
+        | _ -> None
+
 module ObjectExporter =
 
     open System
@@ -145,6 +151,23 @@ module ObjectExporter =
         for s in Seq.toArray strings.Keys do
             if not (List.contains s validKeys) then
                 strings.Remove(s) |> ignore
+
+        // Remove any vehicle if it is the same as the name
+        let getStrings name = Dictionary.tryItem name strings
+        match (getStrings "name", getStrings "vehicleName") with
+        | (Some names, Some vehicles) ->
+            for kvp in Seq.toArray vehicles do
+                match Dictionary.tryItem kvp.Key names with
+                | Some value when value = kvp.Value ->
+                    vehicles.Remove(kvp.Key) |> ignore
+                | _ -> ()
+        | _ -> ()
+
+        // Remove empty string collections
+        strings
+        |> Seq.where (fun kvp -> kvp.Value.Count = 0)
+        |> Seq.toArray
+        |> Seq.iter (fun kvp -> strings.Remove(kvp.Key) |> ignore)
 
         let authors =
             match obj.Source with
