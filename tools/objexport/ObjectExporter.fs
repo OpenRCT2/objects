@@ -179,13 +179,18 @@ module ObjectExporter =
             | _ ->
                 []
 
+        let originalId =
+            let hdr = obj.ObjectHeader
+            String.Format("{0:X2}|{1,-8}|{2:X2}", hdr.Flags, hdr.FileName, hdr.CheckSum)
+
         let properties = getProperties obj
-        let jobj = { id = objId;
-                     authors = authors;
-                     version = "1.0";
-                     objectType = getObjTypeName obj.Type;
-                     properties = properties;
-                     images = images;
+        let jobj = { id = objId
+                     authors = authors
+                     version = "1.0"
+                     originalId = originalId
+                     objectType = getObjTypeName obj.Type
+                     properties = properties
+                     images = images
                      strings = strings }
 
         let json = serializeToJson jobj + Environment.NewLine

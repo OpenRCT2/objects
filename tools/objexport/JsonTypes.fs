@@ -16,6 +16,7 @@ module JsonTypes =
         { id: string
           authors: string list
           version: string
+          originalId: string
           objectType: string
           properties: obj
           images: string list
