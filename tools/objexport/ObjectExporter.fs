@@ -30,6 +30,8 @@ module ObjectExporter =
     type ObjectExporterOptions =
         { languageDirectory: string option }
 
+    let UTF8NoBOM = new UTF8Encoding(false)
+
     let serializeToJson (value: 'a) =
         let sb = new StringBuilder(capacity = 256)
         let sw = new StringWriter(sb)
@@ -181,7 +183,7 @@ module ObjectExporter =
 
         let originalId =
             let hdr = obj.ObjectHeader
-            String.Format("{0:X2}|{1,-8}|{2:X2}", hdr.Flags, hdr.FileName, hdr.CheckSum)
+            String.Format("{0:X8}|{1,-8}|{2:X8}", hdr.Flags, hdr.FileName, hdr.CheckSum)
 
         let properties = getProperties obj
         let jobj = { id = objId
@@ -195,7 +197,7 @@ module ObjectExporter =
 
         let json = serializeToJson jobj + Environment.NewLine
         Directory.CreateDirectory(Path.GetDirectoryName(outputJsonPath)) |> ignore
-        File.WriteAllText(outputJsonPath, json, Encoding.UTF8)
+        File.WriteAllText(outputJsonPath, json, UTF8NoBOM)
 
     let createDirectory path =
         try
