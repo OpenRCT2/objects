@@ -207,3 +207,29 @@ module JsonTypes =
     type JWater =
         { [<DataMember(EmitDefaultValue = false)>]
           allowDucks: bool }
+
+    [<DataContract>]
+    type JSmallScenery =
+        { [<DataMember>]
+          price: int
+          [<DataMember>]
+          removalPrice: int
+          [<DataMember>]
+          sceneryGroup: string
+          [<DataMember>]
+          cursor: string
+          [<DataMember>]
+          height: int
+          [<DataMember>]
+          frameOffsets: int }
+
+    [<DataContract>]
+    type JLargeScenery =
+        { [<DataMember>]
+          price: int
+          [<DataMember>]
+          removalPrice: int
+          [<DataMember>]
+          sceneryGroup: string
+          [<DataMember>]
+          cursor: string }

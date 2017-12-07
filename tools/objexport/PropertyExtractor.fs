@@ -90,8 +90,85 @@ module PropertyExtractor =
     let getRide (ride: Attraction) =
         // TODO populate this fully
         let getRideType = function
-            | TrackTypes.DrinksStall -> "drink"
+            | TrackTypes.AirPoweredVerticalCoaster -> "air_powered_vertical_rc"
+            | TrackTypes.BoatHire -> "boat_hire"
+            | TrackTypes.BobsledCoaster -> "bobsleigh_rc"
+            | TrackTypes.BumperCars -> "dodgems"
+            | TrackTypes.CarRide -> "car_ride"
+            | TrackTypes.CashMachine -> "cash_machine"
+            | TrackTypes.ChairLift -> "chairlift"
+            | TrackTypes.Cinema3D -> "3d_cinema"
             | TrackTypes.Circus -> "circus"
+            | TrackTypes.CorkscrewRollerCoaster -> "corkscrew_rc"
+            | TrackTypes.CrookedHouse -> "crooked_house"
+            | TrackTypes.DrinksStall -> "drink_stall"
+            | TrackTypes.Elevator -> "lift"
+            | TrackTypes.Enterprise -> "enterprise"
+            | TrackTypes.FerrisWheel -> "ferris_wheel"
+            | TrackTypes.FirstAid -> "first_aid"
+            | TrackTypes.FlyingRollerCoaster -> "flying_rc"
+            | TrackTypes.FlyingSaucers -> "flying_saucers"
+            | TrackTypes.FoodStall -> "food_stall"
+            | TrackTypes.GigaCoaster -> "giga_coaster"
+            | TrackTypes.GoKarts -> "go_karts"
+            | TrackTypes.HauntedHouse -> "haunted_house"
+            | TrackTypes.HauntedRide -> "ghost_train"
+            | TrackTypes.HeartlineTwisterCoaster -> "heartline_twister_rc"
+            | TrackTypes.HedgeMaze -> "maze"
+            | TrackTypes.InfoKiosk -> "information_kiosk"
+            | TrackTypes.InvertedHairpinCoaster -> "inverted_hairpin_rc"
+            | TrackTypes.InvertedImpulseCoaster -> "inverted_impulse_rc"
+            | TrackTypes.InvertedRollerCoaster -> "inverted_rc"
+            | TrackTypes.InvertedShuttleCoaster -> "compact_inverted_rc"
+            | TrackTypes.JuniorRollerCoaster -> "junior_rc"
+            | TrackTypes.LaunchedFreefall -> "launched_freefall"
+            | TrackTypes.LaydownRollerCoaster -> "lay_down_rc"
+            | TrackTypes.LIMLaunchedRollerCoaster -> "lim_launched_rc"
+            | TrackTypes.LogFlume -> "log_flume"
+            | TrackTypes.LoopingRollerCoaster -> "looping_rc"
+            | TrackTypes.MagicCarpet -> "magic_carpet"
+            | TrackTypes.MerryGoRound -> "merry_go_round"
+            | TrackTypes.MineRide -> "mine_ride"
+            | TrackTypes.MineTrainCoaster -> "mine_train_rc"
+            | TrackTypes.MiniGolf -> "mini_golf"
+            | TrackTypes.MiniHelicopters -> "mini_helicopters"
+            | TrackTypes.MiniRollerCoaster -> "mini_rc"
+            | TrackTypes.MiniSuspendedCoaster -> "mini_suspended_rc"
+            | TrackTypes.Monorail -> "monorail"
+            | TrackTypes.MonorailCycles -> "monorail_cycles"
+            | TrackTypes.MotionSimulator -> "motion_simulator"
+            | TrackTypes.MultiDimensionRollerCoaster -> "multi_dimension_rc"
+            | TrackTypes.ObservationTower -> "observation_tower"
+            | TrackTypes.Railroad -> "miniature_railway"
+            | TrackTypes.Restroom -> "toilets"
+            | TrackTypes.ReverseFreefallCoaster -> "reverse_freefall_rc"
+            | TrackTypes.ReverserRollerCoaster -> "reverser_rc"
+            | TrackTypes.RiverRafts -> "river_rafts"
+            | TrackTypes.RiverRapids -> "river_rapids"
+            | TrackTypes.RotoDrop -> "roto_drop"
+            | TrackTypes.SideFrictionRollerCoaster -> "side_friction_rc"
+            | TrackTypes.SingleRailCoaster -> "steeplechase"
+            | TrackTypes.SouvenirStall -> "shop"
+            | TrackTypes.SpaceRings -> "space_rings"
+            | TrackTypes.SpiralRollerCoaster -> "spiral_rc"
+            | TrackTypes.SpiralSlide -> "spiral_slide"
+            | TrackTypes.SplashBoats -> "splash_boats"
+            | TrackTypes.StandUpRollerCoaster -> "stand_up_rc"
+            | TrackTypes.SubmarineRide -> "submarine_ride"
+            | TrackTypes.SuspendedMonorail -> "suspended_monorail"
+            | TrackTypes.SuspendedSwingingCoaster -> "suspended_swinging_rc"
+            | TrackTypes.SwingingInvertedShip -> "swinging_inverted_ship"
+            | TrackTypes.SwingingShip -> "swinging_ship"
+            | TrackTypes.TopSpin -> "top_spin"
+            | TrackTypes.Twist -> "twist"
+            | TrackTypes.TwisterRollerCoaster -> "twister_rc"
+            | TrackTypes.VerticalDropRollerCoaster -> "vertical_drop_rc"
+            | TrackTypes.VirginiaReel -> "virginia_reel"
+            | TrackTypes.WaterCoaster -> "water_coaster"
+            | TrackTypes.WaterSlide -> "dinghy_slide"
+            | TrackTypes.WildMouse -> "steel_wild_mouse"
+            | TrackTypes.WoodenRollerCoaster -> "wooden_rc"
+            | TrackTypes.WoodenWildRide -> "wooden_wild_mouse"
             | x -> x.ToString().ToLower()
 
         let rideTypes =
@@ -179,6 +256,26 @@ module PropertyExtractor =
           maxHeight = int ride.Header.MaxHeight
           availableTrackPieces = availableTrackPieces
           cars = cars }
+
+    ///////////////////////////////////////////////////////////////////////////
+    // Small scenery
+    ///////////////////////////////////////////////////////////////////////////
+    let getSmallScenery (smallScenery: SmallScenery) =
+        { price = int smallScenery.Header.BuildCost
+          removalPrice = int smallScenery.Header.RemoveCost
+          sceneryGroup = string "" //smallScenery.Header.Fill2
+          cursor = getCursor (int smallScenery.Header.Cursor)
+          height = int smallScenery.Header.Height
+          frameOffsets = int smallScenery.Header.GraphicsStart }
+
+    ///////////////////////////////////////////////////////////////////////////
+    // Large scenery
+    ///////////////////////////////////////////////////////////////////////////
+    let getLargeScenery (largeScenery: LargeScenery) =
+        { price = int largeScenery.Header.BuildCost
+          removalPrice = int largeScenery.Header.RemoveCost
+          sceneryGroup = string "" //smallScenery.Header.Fill2
+          cursor = getCursor (int largeScenery.Header.Cursor) }
 
     ///////////////////////////////////////////////////////////////////////////
     // Wall
@@ -292,6 +389,8 @@ module PropertyExtractor =
     let getProperties (obj: ObjectData) =
         match obj.Type with
         | ObjectTypes.Attraction -> getRide (obj :?> Attraction) :> obj
+        | ObjectTypes.SmallScenery -> getSmallScenery (obj :?> SmallScenery) :> obj
+        | ObjectTypes.LargeScenery -> getLargeScenery (obj :?> LargeScenery) :> obj
         | ObjectTypes.Wall -> getWall (obj :?> Wall) :> obj
         | ObjectTypes.Path -> getFootpath (obj :?> Pathing) :> obj
         | ObjectTypes.PathAddition -> getFootpathItem (obj :?> PathAddition) :> obj
