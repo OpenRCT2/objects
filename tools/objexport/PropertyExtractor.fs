@@ -301,7 +301,8 @@ module PropertyExtractor =
     ///////////////////////////////////////////////////////////////////////////
     let getFootpath (footpath: Pathing) =
         let getSupportType (flags: PathingFlags) =
-            if flags.HasFlag(PathingFlags.PoleSupports) then "pole" else "box"
+            // HACK ObjectData has this flag the wrong way round
+            if flags.HasFlag(PathingFlags.PoleSupports) then "box" else "pole"
 
         { hasSupportImages = footpath.Header.Flags.HasFlag(PathingFlags.PoleBase)
           hasElevatedPathImages = footpath.Header.Flags.HasFlag(PathingFlags.OverlayPath)
