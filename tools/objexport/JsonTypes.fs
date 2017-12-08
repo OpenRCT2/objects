@@ -151,7 +151,7 @@ module JsonTypes =
           price: int
           [<DataMember>]
           cursor: string
-          [<DataMember(EmitDefaultValue = false)>]
+          [<DataMember>]
           scrollingMode: int }
 
     [<DataContract>]
@@ -164,7 +164,7 @@ module JsonTypes =
           editorOnly: bool
           [<DataMember>]
           supportType: string
-          [<DataMember(EmitDefaultValue = false)>]
+          [<DataMember>]
           scrollingMode: int }
 
     [<DataContract>]

@@ -294,10 +294,7 @@ module PropertyExtractor =
           height = int wall.Header.Clearance
           price = int wall.Header.BuildCost
           cursor = getCursor (int wall.Header.Cursor)
-          scrollingMode =
-              match int wall.Header.Scrolling with
-              | 255 -> 0
-              | x -> x }
+          scrollingMode = int wall.Header.Scrolling }
 
     ///////////////////////////////////////////////////////////////////////////
     // Footpath
