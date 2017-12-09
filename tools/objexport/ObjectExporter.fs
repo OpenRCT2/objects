@@ -104,7 +104,10 @@ module ObjectExporter =
 
         // Get RCT2 images
         let numImages = obj.ImageDirectory.NumEntries
-        let images = [ sprintf "$RCT2:OBJDATA/%s.DAT[%d..%d]" objName 0 numImages ]
+        let images =
+            match obj.Type with
+            | ObjectTypes.Water -> null
+            | _ -> [| sprintf "$RCT2:OBJDATA/%s.DAT[%d..%d]" objName 0 numImages |]
 
         // Get RCT2 strings
         let getStrings index =

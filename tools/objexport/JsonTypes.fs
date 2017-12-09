@@ -12,14 +12,23 @@ module JsonTypes =
     open Newtonsoft.Json
     open Newtonsoft.Json.FSharp
 
+    [<DataContract>]
     type JObject =
-        { id: string
+        { [<DataMember>]
+          id: string
+          [<DataMember>]
           authors: string list
+          [<DataMember>]
           version: string
+          [<DataMember(EmitDefaultValue = false)>]
           originalId: string
+          [<DataMember>]
           objectType: string
+          [<DataMember(EmitDefaultValue = false)>]
           properties: obj
-          images: string list
+          [<DataMember(EmitDefaultValue = false)>]
+          images: string[]
+          [<DataMember(EmitDefaultValue = false)>]
           strings: IDictionary<string, IDictionary<string, string>> }
 
     [<DataContract>]
