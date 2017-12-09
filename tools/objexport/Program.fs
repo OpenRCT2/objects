@@ -7,6 +7,15 @@ module internal Program =
 
     open ObjectExporter
 
+    let rec hasFlag name argv =
+        match argv with
+        | head :: tail ->
+            if head = name then
+                true
+            else
+                hasFlag name tail
+        | [] -> false
+
     let getOption name =
         let rec findOption argv =
             match argv with
@@ -24,7 +33,9 @@ module internal Program =
         | head :: _ -> Some head
 
     let parseOptions argv =
-        { languageDirectory = getOptionSingle "--language" argv }
+        { languageDirectory = getOptionSingle "--language" argv
+          objectType = getOptionSingle "--type" argv
+          multithreaded = hasFlag "-j" argv }
 
     [<EntryPoint>]
     let main argv =
@@ -36,4 +47,6 @@ module internal Program =
             printfn "Usage: objexport <objects path> <output path> [options]"
             printfn "Options:"
             printfn "  --language <dir>        Specify directory for language files"
+            printfn "  --type <type>           Specify type of object to export"
+            printfn "  -j                      Multithreaded"
             1

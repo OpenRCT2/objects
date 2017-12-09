@@ -28,7 +28,9 @@ module ObjectExporter =
     open RCT2ObjectData.DataObjects
 
     type ObjectExporterOptions =
-        { languageDirectory: string option }
+        { languageDirectory: string option
+          objectType: string option
+          multithreaded: bool }
 
     let UTF8NoBOM = new UTF8Encoding(false)
 
@@ -224,15 +226,26 @@ module ObjectExporter =
                     printfn "Reading object strings from '%s'" dir
                     Localisation.getOpenObjectStrings dir
 
+            let shouldObjectBeProcessed =
+                match options.objectType with
+                | None ->
+                    (fun _ -> true)
+                | Some includeType ->
+                    (fun (obj: ObjectData) -> includeType = getObjTypeName obj.Type)
+
+            let processObject obj =
+                if not (isNull obj) && shouldObjectBeProcessed obj then
+                    let strings =
+                        match objectStrings.TryGetValue obj.ObjectHeader.FileName with
+                        | true, value -> value
+                        | _ -> dict []
+                    exportObject outputPath strings obj
+
             // Export all objects found in path
             printfn "Exporting objects from '%s' to '%s'" path outputPath
             Directory.GetFiles(path)
-            |> Seq.map ObjectData.FromFile
-            |> Seq.filter (fun x -> x <> null)
-            |> Seq.iter (fun x ->
-                let strings =
-                    match objectStrings.TryGetValue x.ObjectHeader.FileName with
-                    | true, value -> value
-                    | _ -> dict []
-                exportObject outputPath strings x)
+            |> Array.map (ObjectData.FromFile)
+            |> match options.multithreaded with
+               | true -> Array.Parallel.iter processObject
+               | false -> Array.iter processObject
             0
