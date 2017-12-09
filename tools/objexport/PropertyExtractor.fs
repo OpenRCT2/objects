@@ -377,8 +377,27 @@ module PropertyExtractor =
     // Water
     ///////////////////////////////////////////////////////////////////////////
     let getWater (water: Water) =
+        let toHex (c: Drawing.Color) = String.Format("#{0:X2}{1:X2}{2:X2}", c.R, c.G, c.B)
+        let paletteNames =
+            [| "general"
+               "waves-0"; "waves-1"; "waves-2"
+               "sparkles-0"; "sparkles-1"; "sparkles-2" |]
+        let numPalettes = min (Array.length paletteNames) water.GraphicsData.NumPalettes
+        Array.Resize(ref paletteNames, numPalettes)
+        let palettes =
+            paletteNames
+            |> Array.mapi (fun i name -> (name, water.GraphicsData.GetPalette(i)))
+            |> Array.map (fun (name, palette) ->
+                let palette =
+                    { index = palette.Offset
+                      colours =
+                          palette.Colors
+                          |> Array.map toHex }
+                (name, palette))
+            |> dict
         let flags = int (BitConverter.ToInt16(water.Header.Reserved0, 14))
-        { allowDucks = ((flags &&& 1) <> 0) }
+        { colours = palettes
+          allowDucks = ((flags &&& 1) <> 0) }
 
     ///////////////////////////////////////////////////////////////////////////
     // Catch all

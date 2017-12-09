@@ -204,9 +204,18 @@ module JsonTypes =
           textHeight: int }
 
     [<DataContract>]
+    type JWaterPalette =
+        { [<DataMember>]
+          index: int
+          [<DataMember>]
+          colours: string[] }
+
+    [<DataContract>]
     type JWater =
         { [<DataMember(EmitDefaultValue = false)>]
-          allowDucks: bool }
+          allowDucks: bool
+          [<DataMember>]
+          colours: IDictionary<string, JWaterPalette> }
 
     [<DataContract>]
     type JSmallScenery =
