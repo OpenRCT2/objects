@@ -109,17 +109,19 @@ module Localisation =
 
     let overlayStrings (overlayStrings: ObjectStrings) (strings: ObjectStrings) : ObjectStrings =
         let newStrings = toMutableDictionary strings
+        for kvp in Seq.toArray newStrings do
+            newStrings.[kvp.Key] <- toMutableDictionary kvp.Value
         for kvp in overlayStrings do
             // Get language to string dictionary
             let sKey =
                 match newStrings.TryGetValue kvp.Key with
                 | true, l2s ->
                     let l2s = toMutableDictionary l2s
-                    newStrings.Item(kvp.Key) <- l2s
+                    newStrings.[kvp.Key] <- l2s
                     l2s
                 | _ ->
                     let l2s = new Dictionary<string, string>()
-                    newStrings.Item(kvp.Key) <- l2s
+                    newStrings.[kvp.Key] <- l2s
                     l2s
 
             // Overlay strings
