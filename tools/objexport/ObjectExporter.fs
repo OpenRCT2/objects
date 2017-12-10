@@ -26,11 +26,18 @@ module ObjectExporter =
     open Newtonsoft.Json.FSharp
     open PropertyExtractor
     open RCT2ObjectData.DataObjects
+    open System.Diagnostics
 
     type ObjectExporterOptions =
         { languageDirectory: string option
           objectType: string option
           multithreaded: bool }
+
+    let printWithColour (c: ConsoleColor) (s: string) =
+        let oldColour = Console.ForegroundColor
+        Console.ForegroundColor <- c
+        Console.WriteLine(s)
+        Console.ForegroundColor <- oldColour
 
     let UTF8NoBOM = new UTF8Encoding(false)
 
@@ -100,7 +107,8 @@ module ObjectExporter =
         let objId = getObjId obj
         let outputJsonPath = getOutputJsonPath outputPath obj objId
 
-        printfn "Exporting %s to %s" objName (Path.GetFullPath(outputJsonPath))
+        sprintf "Exporting %s to %s" objName (Path.GetFullPath(outputJsonPath))
+        |> printWithColour ConsoleColor.DarkGray
 
         // Get RCT2 images
         let numImages = obj.ImageDirectory.NumEntries
@@ -226,7 +234,8 @@ module ObjectExporter =
                 match options.languageDirectory with
                 | None -> dict []
                 | Some dir ->
-                    printfn "Reading object strings from '%s'" dir
+                    sprintf "Reading object strings from '%s'" dir
+                    |> printWithColour ConsoleColor.Cyan
                     Localisation.getOpenObjectStrings dir
 
             let shouldObjectBeProcessed =
@@ -243,12 +252,22 @@ module ObjectExporter =
                         | true, value -> value
                         | _ -> dict []
                     exportObject outputPath strings obj
+                    Some ()
+                else
+                    None
 
             // Export all objects found in path
-            printfn "Exporting objects from '%s' to '%s'" path outputPath
-            Directory.GetFiles(path)
-            |> Array.map (ObjectData.FromFile)
-            |> match options.multithreaded with
-               | true -> Array.Parallel.iter processObject
-               | false -> Array.iter processObject
+            sprintf "Exporting objects from '%s' to '%s'" path outputPath
+            |> printWithColour ConsoleColor.Cyan
+            let sw = Stopwatch.StartNew()
+            let numObj =
+                Directory.GetFiles(path)
+                |> Array.map (ObjectData.FromFile)
+                |> match options.multithreaded with
+                   | true -> Array.Parallel.choose processObject
+                   | false -> Array.choose processObject
+                |> Array.length
+            sw.Stop()
+            sprintf "%d objects exported in %.1fs" numObj sw.Elapsed.TotalSeconds
+            |> printWithColour ConsoleColor.Green
             0
