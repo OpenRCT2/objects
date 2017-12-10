@@ -320,6 +320,11 @@ module PropertyExtractor =
             | PathAdditionSubtypes.JumpFountain -> "fountain"
             | _ -> "other"
 
+        let sceneryGroup =
+            match pa.GroupInfo with
+            | hdr when not (isNull hdr) && not (String.IsNullOrEmpty hdr.FileName) -> hdr.FileName
+            | _ -> null
+
         { isBin = pa.Header.Flags.HasFlag(PathAdditionFlags.HoldTrash)
           isBench = pa.Header.Flags.HasFlag(PathAdditionFlags.CanSit)
           isLamp = pa.Header.Flags.HasFlag(PathAdditionFlags.Light)
@@ -331,7 +336,8 @@ module PropertyExtractor =
           isAllowedOnSlope = not (pa.Header.Flags.HasFlag(PathAdditionFlags.Unknown2))
           renderAs = getRenderAs pa.Header.Subtype
           cursor = getCursor (int pa.Header.Cursor)
-          price = int pa.Header.BuildCost }
+          price = int pa.Header.BuildCost
+          sceneryGroup = sceneryGroup }
 
     ///////////////////////////////////////////////////////////////////////////
     // Scenery group

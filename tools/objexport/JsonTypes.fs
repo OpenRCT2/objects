@@ -201,7 +201,9 @@ module JsonTypes =
           [<DataMember>]
           cursor: string
           [<DataMember>]
-          price: int }
+          price: int
+          [<DataMember(EmitDefaultValue = false)>]
+          sceneryGroup: string }
 
     type JSceneryGroupProperties =
         { entries: string list
