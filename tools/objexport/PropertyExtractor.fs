@@ -401,7 +401,7 @@ module PropertyExtractor =
                 (name, palette))
             |> dict
         let flags = int (BitConverter.ToInt16(water.Header.Reserved0, 14))
-        { colours = palettes
+        { palettes = palettes
           allowDucks = ((flags &&& 1) <> 0) }
 
     ///////////////////////////////////////////////////////////////////////////

@@ -226,7 +226,7 @@ module JsonTypes =
         { [<DataMember(EmitDefaultValue = false)>]
           allowDucks: bool
           [<DataMember>]
-          colours: IDictionary<string, JWaterPalette> }
+          palettes: IDictionary<string, JWaterPalette> }
 
     [<DataContract>]
     type JSmallScenery =
