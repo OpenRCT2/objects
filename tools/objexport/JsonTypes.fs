@@ -207,7 +207,7 @@ module JsonTypes =
 
     type JSceneryGroupProperties =
         { entries: string list
-          order: int
+          priority: int
           entertainerCostumes: string list }
 
     type JParkEntrance =

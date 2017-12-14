@@ -368,8 +368,10 @@ module PropertyExtractor =
             |> Seq.toList
 
         { entries = getEntries
-          order = int scg.Header.Unknown0x108
-          entertainerCostumes = getEntertainers (int scg.Header.Unknown0x10A) }
+          priority = int scg.Header.Unknown0x108
+          entertainerCostumes =
+            let bits = (int scg.Header.Unknown0x10A) ||| (int (scg.Header.Unknown0x10B) <<< 8)
+            getEntertainers bits }
 
     ///////////////////////////////////////////////////////////////////////////
     // Park entrance
