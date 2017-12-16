@@ -61,6 +61,11 @@ module PropertyExtractor =
         seq { 0..63 }
         |> Seq.filter(fun i -> (x &&& (1L <<< i)) <> 0L)
 
+    let getSceneryGroupHeader (obj: ObjectData) =
+        match obj.GroupInfo with
+        | hdr when not (isNull hdr) && not (String.IsNullOrEmpty hdr.FileName) -> hdr.FileName
+        | _ -> null
+
     ///////////////////////////////////////////////////////////////////////////
     // Ride
     ///////////////////////////////////////////////////////////////////////////
@@ -320,11 +325,6 @@ module PropertyExtractor =
             | PathAdditionSubtypes.JumpFountain -> "fountain"
             | _ -> "other"
 
-        let sceneryGroup =
-            match pa.GroupInfo with
-            | hdr when not (isNull hdr) && not (String.IsNullOrEmpty hdr.FileName) -> hdr.FileName
-            | _ -> null
-
         { isBin = pa.Header.Flags.HasFlag(PathAdditionFlags.HoldTrash)
           isBench = pa.Header.Flags.HasFlag(PathAdditionFlags.CanSit)
           isLamp = pa.Header.Flags.HasFlag(PathAdditionFlags.Light)
@@ -337,7 +337,16 @@ module PropertyExtractor =
           renderAs = getRenderAs pa.Header.Subtype
           cursor = getCursor (int pa.Header.Cursor)
           price = int pa.Header.BuildCost
-          sceneryGroup = sceneryGroup }
+          sceneryGroup = getSceneryGroupHeader pa }
+
+    ///////////////////////////////////////////////////////////////////////////
+    // Footpath banner
+    ///////////////////////////////////////////////////////////////////////////
+    let getFootpathBanner (pb: PathBanner) =
+        { scrollingMode = int pb.Header.Scrolling
+          price = int pb.Header.BuildCost
+          hasPrimaryColour = pb.Header.Flags.HasFlag(PathBannerFlags.Color1)
+          sceneryGroup = getSceneryGroupHeader pb }
 
     ///////////////////////////////////////////////////////////////////////////
     // Scenery group
@@ -418,6 +427,7 @@ module PropertyExtractor =
         | ObjectTypes.Wall -> getWall (obj :?> Wall) :> obj
         | ObjectTypes.Path -> getFootpath (obj :?> Pathing) :> obj
         | ObjectTypes.PathAddition -> getFootpathItem (obj :?> PathAddition) :> obj
+        | ObjectTypes.PathBanner -> getFootpathBanner (obj :?> PathBanner) :> obj
         | ObjectTypes.SceneryGroup -> getSceneryGroup (obj :?> SceneryGroup) :> obj
         | ObjectTypes.ParkEntrance -> getParkEntrance (obj :?> ParkEntrance) :> obj
         | ObjectTypes.Water -> getWater (obj :?> Water) :> obj

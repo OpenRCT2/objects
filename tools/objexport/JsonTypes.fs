@@ -205,6 +205,17 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           sceneryGroup: string }
 
+    [<DataContract>]
+    type JFootpathBannerProperties =
+        { [<DataMember(EmitDefaultValue = false)>]
+          scrollingMode: int
+          [<DataMember>]
+          price: int
+          [<DataMember(EmitDefaultValue = false)>]
+          hasPrimaryColour: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          sceneryGroup: string }
+
     type JSceneryGroupProperties =
         { entries: string list
           priority: int
