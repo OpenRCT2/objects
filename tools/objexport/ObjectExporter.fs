@@ -187,7 +187,7 @@ module ObjectExporter =
         let authors =
             match obj.Source with
             | SourceTypes.RCT2 ->
-                ["Chris Saywer"; "Simon Foster"]
+                ["Chris Sawyer"; "Simon Foster"]
             | SourceTypes.WW
             | SourceTypes.TT ->
                 ["Frontier Studios"]
