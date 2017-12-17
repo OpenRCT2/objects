@@ -268,10 +268,10 @@ module PropertyExtractor =
     let getSmallScenery (smallScenery: SmallScenery) =
         { price = int smallScenery.Header.BuildCost
           removalPrice = int smallScenery.Header.RemoveCost
-          sceneryGroup = string "" //smallScenery.Header.Fill2
           cursor = getCursor (int smallScenery.Header.Cursor)
           height = int smallScenery.Header.Height
-          frameOffsets = int smallScenery.Header.GraphicsStart }
+          frameOffsets = int smallScenery.Header.GraphicsStart
+          sceneryGroup = getSceneryGroupHeader smallScenery }
 
     ///////////////////////////////////////////////////////////////////////////
     // Large scenery
@@ -279,8 +279,8 @@ module PropertyExtractor =
     let getLargeScenery (largeScenery: LargeScenery) =
         { price = int largeScenery.Header.BuildCost
           removalPrice = int largeScenery.Header.RemoveCost
-          sceneryGroup = string "" //smallScenery.Header.Fill2
-          cursor = getCursor (int largeScenery.Header.Cursor) }
+          cursor = getCursor (int largeScenery.Header.Cursor)
+          sceneryGroup = getSceneryGroupHeader largeScenery }
 
     ///////////////////////////////////////////////////////////////////////////
     // Wall
@@ -306,7 +306,8 @@ module PropertyExtractor =
           scrollingMode =
               match int wall.Header.Scrolling with
               | 255 -> None
-              | i -> Some i }
+              | i -> Some i
+          sceneryGroup = getSceneryGroupHeader wall }
 
     ///////////////////////////////////////////////////////////////////////////
     // Footpath

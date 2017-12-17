@@ -167,7 +167,9 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           cursor: string
           [<DataMember(EmitDefaultValue = false)>]
-          scrollingMode: int option }
+          scrollingMode: int option
+          [<DataMember(EmitDefaultValue = false)>]
+          sceneryGroup: string }
 
     [<DataContract>]
     type JFootpathProperties =
@@ -252,13 +254,13 @@ module JsonTypes =
           [<DataMember>]
           removalPrice: int
           [<DataMember>]
-          sceneryGroup: string
-          [<DataMember>]
           cursor: string
           [<DataMember>]
           height: int
           [<DataMember>]
-          frameOffsets: int }
+          frameOffsets: int
+          [<DataMember(EmitDefaultValue = false)>]
+          sceneryGroup: string }
 
     [<DataContract>]
     type JLargeScenery =
@@ -267,6 +269,6 @@ module JsonTypes =
           [<DataMember>]
           removalPrice: int
           [<DataMember>]
-          sceneryGroup: string
-          [<DataMember>]
-          cursor: string }
+          cursor: string
+          [<DataMember(EmitDefaultValue = false)>]
+          sceneryGroup: string }
