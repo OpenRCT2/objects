@@ -277,10 +277,38 @@ module PropertyExtractor =
     // Large scenery
     ///////////////////////////////////////////////////////////////////////////
     let getLargeScenery (largeScenery: LargeScenery) =
+        let getTile (tile: LargeSceneryTileHeader) =
+            let flags0 = int tile.Unknown1
+            let flags1 = int tile.Flags
+            { x = int tile.Row
+              y = int tile.Column
+              z = int tile.BaseHeight
+              clearance = int tile.Clearance
+              hasSupports = (flags0 &&& (1 <<< 5)) = 0
+              allowSupportsAbove = (flags0 &&& (1 <<< 6)) <> 0
+              walls = (flags1 &&& 0x0F)
+              corners =
+                  // 15 (all corners occupied) is the default, so don't emit that
+                  match (flags1 >>> 4) with
+                  | 15 -> None
+                  | i -> Some i }
+
         { price = int largeScenery.Header.BuildCost
           removalPrice = int largeScenery.Header.RemoveCost
           cursor = getCursor (int largeScenery.Header.Cursor)
-          sceneryGroup = getSceneryGroupHeader largeScenery }
+          hasPrimaryColour = largeScenery.Header.Flags.HasFlag(LargeSceneryFlags.Color1)
+          hasSecondaryColour = largeScenery.Header.Flags.HasFlag(LargeSceneryFlags.Color2)
+          isAnimated = largeScenery.Header.Flags.HasFlag(LargeSceneryFlags.TextScrolling)
+          isPhotogenic = largeScenery.Header.Flags.HasFlag(LargeSceneryFlags.Photogenic)
+          scrollingMode =
+              match int largeScenery.Header.Scrolling with
+              | 255 -> None
+              | i -> Some i
+          sceneryGroup = getSceneryGroupHeader largeScenery
+          tiles =
+              largeScenery.Tiles
+              |> Seq.map getTile
+              |> Seq.toArray }
 
     ///////////////////////////////////////////////////////////////////////////
     // Wall

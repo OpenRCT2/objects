@@ -263,6 +263,25 @@ module JsonTypes =
           sceneryGroup: string }
 
     [<DataContract>]
+    type JLargeSceneryTile =
+        { [<DataMember>]
+          x: int
+          [<DataMember>]
+          y: int
+          [<DataMember(EmitDefaultValue = false)>]
+          z: int
+          [<DataMember>]
+          clearance: int
+          [<DataMember(EmitDefaultValue = false)>]
+          hasSupports: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          allowSupportsAbove: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          walls: int
+          [<DataMember(EmitDefaultValue = false)>]
+          corners: int option }
+
+    [<DataContract>]
     type JLargeScenery =
         { [<DataMember>]
           price: int
@@ -271,4 +290,16 @@ module JsonTypes =
           [<DataMember>]
           cursor: string
           [<DataMember(EmitDefaultValue = false)>]
-          sceneryGroup: string }
+          hasPrimaryColour: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          hasSecondaryColour: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          isAnimated: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          isPhotogenic: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          scrollingMode: int option
+          [<DataMember(EmitDefaultValue = false)>]
+          sceneryGroup: string
+          [<DataMember(EmitDefaultValue = false)>]
+          tiles: JLargeSceneryTile[] }
