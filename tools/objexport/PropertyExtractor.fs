@@ -286,20 +286,27 @@ module PropertyExtractor =
     // Wall
     ///////////////////////////////////////////////////////////////////////////
     let getWall (wall: Wall) =
-        { isDoor = wall.Header.Flags.HasFlag(WallFlags.Door)
+        { isAnimated = ((int wall.Header.Effects) &&& (1 <<< 4)) <> 0
+          isLongDoorAnimation = ((int wall.Header.Flags) &&& 32) <> 0
+          isDoor = wall.Header.Flags.HasFlag(WallFlags.Door)
           isBanner = wall.Header.Flags.HasFlag(WallFlags.TwoSides)
           hasPrimaryColour = wall.Header.Flags.HasFlag(WallFlags.Remap1)
           hasSecondaryColour = wall.Header.Flags.HasFlag(WallFlags.Remap2)
-          hasTenaryColour = wall.Header.Flags.HasFlag(WallFlags.Remap3)
+          hasTernaryColour = wall.Header.Flags.HasFlag(WallFlags.Remap3)
           hasGlass = wall.Header.Flags.HasFlag(WallFlags.Glass)
+          isOpaque = ((int wall.Header.Effects) &&& (1 <<< 3)) <> 0
           isAllowedOnSlope = not (wall.Header.Flags.HasFlag(WallFlags.Flat))
-          doorSound =
-              match (int wall.Header.Effects <<< 1) &&& 3 with
-              | _ -> null
+          doorSound = (int wall.Header.Effects <<< 1) &&& 3
           height = int wall.Header.Clearance
           price = int wall.Header.BuildCost
-          cursor = getCursor (int wall.Header.Cursor)
-          scrollingMode = int wall.Header.Scrolling }
+          cursor =
+              match int wall.Header.Cursor with
+              | 15 -> null // cursor wall - most common cursor for walls
+              | c -> getCursor c
+          scrollingMode =
+              match int wall.Header.Scrolling with
+              | 255 -> None
+              | i -> Some i }
 
     ///////////////////////////////////////////////////////////////////////////
     // Footpath

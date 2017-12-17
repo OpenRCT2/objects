@@ -139,6 +139,10 @@ module JsonTypes =
     [<DataContract>]
     type JWall =
         { [<DataMember(EmitDefaultValue = false)>]
+          isAnimated: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          isLongDoorAnimation: bool
+          [<DataMember(EmitDefaultValue = false)>]
           isDoor: bool
           [<DataMember(EmitDefaultValue = false)>]
           isBanner: bool
@@ -147,21 +151,23 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           hasSecondaryColour: bool
           [<DataMember(EmitDefaultValue = false)>]
-          hasTenaryColour: bool
+          hasTernaryColour: bool
           [<DataMember(EmitDefaultValue = false)>]
           hasGlass: bool
           [<DataMember(EmitDefaultValue = false)>]
+          isOpaque: bool
+          [<DataMember(EmitDefaultValue = false)>]
           isAllowedOnSlope: bool
           [<DataMember(EmitDefaultValue = false)>]
-          doorSound: string
+          doorSound: int
           [<DataMember>]
           height: int
           [<DataMember>]
           price: int
-          [<DataMember>]
+          [<DataMember(EmitDefaultValue = false)>]
           cursor: string
-          [<DataMember>]
-          scrollingMode: int }
+          [<DataMember(EmitDefaultValue = false)>]
+          scrollingMode: int option }
 
     [<DataContract>]
     type JFootpathProperties =
