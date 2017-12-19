@@ -266,12 +266,48 @@ module PropertyExtractor =
     // Small scenery
     ///////////////////////////////////////////////////////////////////////////
     let getSmallScenery (smallScenery: SmallScenery) =
+        let hasFlag flag = ((int smallScenery.Header.Flags) &&& (1 <<< flag)) <> 0
+
         { price = int smallScenery.Header.BuildCost
           removalPrice = int smallScenery.Header.RemoveCost
           cursor = getCursor (int smallScenery.Header.Cursor)
           height = int smallScenery.Header.Height
-          frameOffsets = int smallScenery.Header.GraphicsStart
-          sceneryGroup = getSceneryGroupHeader smallScenery }
+          animationDelay = int smallScenery.Header.Animation1
+          animationMask = int smallScenery.Header.Animation2
+          numFrames = int smallScenery.Header.Animation3
+          sceneryGroup = getSceneryGroupHeader smallScenery
+          frameOffsets =
+              match Seq.toArray smallScenery.AnimationSequence with
+              | [||] -> null
+              | offsets -> offsets |> Array.map int
+
+          isFullTile = hasFlag 0
+          SMALL_SCENERY_FLAG_VOFFSET_CENTRE = hasFlag 1
+          requiresFlatSurface = hasFlag 2
+          isRotatable = hasFlag 3
+          isAnimated = hasFlag 4
+          canWither = hasFlag 5
+          canBeWatered = hasFlag 6
+          hasOverlayImage = hasFlag 7
+          SMALL_SCENERY_FLAG_DIAGONAL = hasFlag 8
+          hasGlass = hasFlag 9
+          hasPrimaryColour = hasFlag 10
+          SMALL_SCENERY_FLAG_FOUNTAIN_SPRAY_1 = hasFlag 11
+          SMALL_SCENERY_FLAG_FOUNTAIN_SPRAY_4 = hasFlag 12
+          isClock = hasFlag 13
+          SMALL_SCENERY_FLAG_SWAMP_GOO = hasFlag 14
+          SMALL_SCENERY_FLAG17 = hasFlag 16
+          isStackable = hasFlag 17
+          prohibitWalls = hasFlag 18
+          hasSecondaryColour = hasFlag 19
+          hasNoSupports = hasFlag 20
+          SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED = hasFlag 21
+          SMALL_SCENERY_FLAG_COG = hasFlag 22
+          allowSupportsAbove = hasFlag 23
+          SMALL_SCENERY_FLAG_HALF_SPACE = hasFlag 24
+          SMALL_SCENERY_FLAG_THREE_QUARTERS = hasFlag 25
+          supportsHavePrimaryColour = hasFlag 26
+          SMALL_SCENERY_FLAG27 = hasFlag 27 }
 
     ///////////////////////////////////////////////////////////////////////////
     // Large scenery

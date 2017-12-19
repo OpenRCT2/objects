@@ -257,10 +257,73 @@ module JsonTypes =
           cursor: string
           [<DataMember>]
           height: int
-          [<DataMember>]
-          frameOffsets: int
           [<DataMember(EmitDefaultValue = false)>]
-          sceneryGroup: string }
+          animationDelay: int
+          [<DataMember(EmitDefaultValue = false)>]
+          animationMask: int
+          [<DataMember(EmitDefaultValue = false)>]
+          numFrames: int
+          [<DataMember(EmitDefaultValue = false)>]
+          sceneryGroup: string
+
+          // Flags
+          [<DataMember(EmitDefaultValue = false)>]
+          isFullTile : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          SMALL_SCENERY_FLAG_VOFFSET_CENTRE : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          requiresFlatSurface : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          isRotatable : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          isAnimated : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          canWither : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          canBeWatered : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          hasOverlayImage : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          SMALL_SCENERY_FLAG_DIAGONAL : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          hasGlass : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          hasPrimaryColour : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          SMALL_SCENERY_FLAG_FOUNTAIN_SPRAY_1 : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          SMALL_SCENERY_FLAG_FOUNTAIN_SPRAY_4 : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          isClock : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          SMALL_SCENERY_FLAG_SWAMP_GOO : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          SMALL_SCENERY_FLAG17 : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          isStackable : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          prohibitWalls : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          hasSecondaryColour : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          hasNoSupports : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          SMALL_SCENERY_FLAG_COG : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          allowSupportsAbove : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          SMALL_SCENERY_FLAG_HALF_SPACE : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          SMALL_SCENERY_FLAG_THREE_QUARTERS : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          supportsHavePrimaryColour : bool
+          [<DataMember(EmitDefaultValue = false)>]
+          SMALL_SCENERY_FLAG27 : bool
+
+          [<DataMember(EmitDefaultValue = false)>]
+          frameOffsets: int[] }
 
     [<DataContract>]
     type JLargeSceneryTile =
