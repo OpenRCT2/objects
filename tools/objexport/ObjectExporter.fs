@@ -45,8 +45,7 @@ module ObjectExporter =
         let sb = new StringBuilder(capacity = 256)
         let sw = new StringWriter(sb)
         let jsonSerializer = JsonSerializer.CreateDefault()
-        use jsonWriter = new JsonTextWriter(sw, Indentation = 4,
-                                                Formatting = Formatting.Indented)
+        use jsonWriter = new MyJsonWriter(sw)
         Seq.iter (jsonSerializer.Converters.Add) JsonFsharp.converters
         jsonSerializer.ContractResolver <- new ObjectContractResolver()
         jsonSerializer.Serialize(jsonWriter, value, typedefof<'a>)
@@ -187,12 +186,12 @@ module ObjectExporter =
         let authors =
             match obj.Source with
             | SourceTypes.RCT2 ->
-                ["Chris Sawyer"; "Simon Foster"]
+                [|"Chris Sawyer"; "Simon Foster"|]
             | SourceTypes.WW
             | SourceTypes.TT ->
-                ["Frontier Studios"]
+                [|"Frontier Studios"|]
             | _ ->
-                []
+                [||]
 
         let originalId =
             let hdr = obj.ObjectHeader

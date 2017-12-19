@@ -6,11 +6,67 @@ namespace Newtonsoft.Json.FSharp
 open System
 open System.Collections
 open System.Collections.Generic
+open System.IO
+open System.Linq
 open System.Reflection
 open Microsoft.FSharp.Reflection
 open Newtonsoft.Json
 open Newtonsoft.Json.Converters
 open Newtonsoft.Json.Serialization
+
+type MyJsonWriter(writer: TextWriter) =
+    inherit JsonTextWriter(writer)
+    do
+        base.Indentation <- 4
+        base.Formatting <- Formatting.Indented
+
+    let mutable inShortArray = false
+    member this.InShortArray
+        with get() = inShortArray
+        and set(value) =
+            inShortArray <- value
+            base.Formatting <-
+                if value then Formatting.None
+                else Formatting.Indented
+
+    override x.WriteValueDelimiter() =
+        writer.Write(',')
+        if inShortArray then
+            writer.Write(' ')
+
+/// Serializes with no formatting - used to prevent arrays of small element sizes from being collapsed
+type ArrayConverter() =
+    inherit JsonConverter()
+
+    override x.CanConvert(t:Type) =
+        t.IsArray
+
+    override x.ReadJson(_, _, _, _) = raise (new NotImplementedException())
+
+    override x.WriteJson(writer, value, serializer) =
+        let values =
+            value :?> IEnumerable
+            |> Enumerable.Cast<obj>
+            |> Enumerable.ToArray
+
+        let inShortArray =
+            if values.Length > 0 && not (isNull values.[0]) then
+                match values.[0] with
+                | :? int -> true
+                | :? string -> values.Length <= 4
+                | _ -> false
+            else
+                true
+
+        let writer = writer :?> MyJsonWriter
+        writer.WriteStartArray();
+        try
+            writer.InShortArray <- inShortArray
+            for i in 0..values.Length - 1 do
+                serializer.Serialize(writer, values.[i])
+        finally
+            writer.WriteEndArray();
+            writer.InShortArray <- false
 
 /// Converts F# lists to/from JSON arrays
 type ListConverter() =
@@ -139,7 +195,8 @@ type UnionEnumConverter () =
 
 module JsonFsharp =
     let converters: JsonConverter list =
-        [ new ListConverter()
+        [ new ArrayConverter()
+          new ListConverter()
           new OptionConverter()
           new TupleArrayConverter()
           new SingleCaseUnionConverter()

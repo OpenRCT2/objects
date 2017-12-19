@@ -17,7 +17,7 @@ module JsonTypes =
         { [<DataMember>]
           id: string
           [<DataMember>]
-          authors: string list
+          authors: string[]
           [<DataMember>]
           version: string
           [<DataMember(EmitDefaultValue = false)>]
