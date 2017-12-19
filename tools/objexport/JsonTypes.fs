@@ -282,6 +282,37 @@ module JsonTypes =
           corners: int option }
 
     [<DataContract>]
+    type JLargeSceneryOffset =
+        { [<DataMember>]
+          x: int
+          [<DataMember>]
+          y: int }
+
+    [<DataContract>]
+    type JLargeSceneryGlyph =
+        { [<DataMember>]
+          image: int
+          [<DataMember>]
+          width: int
+          [<DataMember>]
+          height: int }
+
+    [<DataContract>]
+    type JLargeSceneryFont =
+        { [<DataMember>]
+          offsets: JLargeSceneryOffset[]
+          [<DataMember>]
+          maxWidth: int
+          [<DataMember>]
+          numImages: int
+          [<DataMember(EmitDefaultValue = false)>]
+          isVertical: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          isTwoLine: bool
+          [<DataMember>]
+          glyphs: JLargeSceneryGlyph[] }
+
+    [<DataContract>]
     type JLargeScenery =
         { [<DataMember>]
           price: int
@@ -302,4 +333,6 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           sceneryGroup: string
           [<DataMember(EmitDefaultValue = false)>]
-          tiles: JLargeSceneryTile[] }
+          tiles: JLargeSceneryTile[]
+          [<DataMember(EmitDefaultValue = false)>]
+          ``3dFont``: JLargeSceneryFont option }

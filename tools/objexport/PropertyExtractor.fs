@@ -293,6 +293,39 @@ module PropertyExtractor =
                   | 15 -> None
                   | i -> Some i }
 
+        let get3dFont =
+            if largeScenery.Text3D.Count = 0 then
+                None
+            else
+                use ms = new System.IO.MemoryStream(Seq.toArray largeScenery.Text3D)
+                let br = new System.IO.BinaryReader(ms)
+
+                let readOffset() =
+                    let x = int (br.ReadInt16())
+                    let y = int (br.ReadInt16())
+                    { x = x; y = y }
+
+                let offset0 = readOffset()
+                let offset1 = readOffset()
+                let maxWidth = int (br.ReadInt16())
+                ignore (br.ReadInt16())
+                let flags = int (br.ReadByte())
+                let numImages = int (br.ReadByte())
+                let glyphs =
+                    [| for i in 0..255 do
+                           let image = int (br.ReadByte())
+                           let width = int (br.ReadByte())
+                           let height = int (br.ReadByte())
+                           ignore (br.ReadByte())
+                           yield { image = image; width = width; height = height } |]
+
+                Some { offsets = [| offset0; offset1 |]
+                       maxWidth = maxWidth
+                       numImages = numImages
+                       isVertical = (flags &&& 1) <> 0
+                       isTwoLine = (flags &&& 2) <> 0
+                       glyphs = glyphs }
+
         { price = int largeScenery.Header.BuildCost
           removalPrice = int largeScenery.Header.RemoveCost
           cursor = getCursor (int largeScenery.Header.Cursor)
@@ -308,7 +341,8 @@ module PropertyExtractor =
           tiles =
               largeScenery.Tiles
               |> Seq.map getTile
-              |> Seq.toArray }
+              |> Seq.toArray
+          ``3dFont`` = get3dFont }
 
     ///////////////////////////////////////////////////////////////////////////
     // Wall
