@@ -268,7 +268,7 @@ module JsonTypes =
 
           // Flags
           [<DataMember(EmitDefaultValue = false)>]
-          isFullTile : bool
+          shape: string
           [<DataMember(EmitDefaultValue = false)>]
           SMALL_SCENERY_FLAG_VOFFSET_CENTRE : bool
           [<DataMember(EmitDefaultValue = false)>]
@@ -283,8 +283,6 @@ module JsonTypes =
           canBeWatered : bool
           [<DataMember(EmitDefaultValue = false)>]
           hasOverlayImage : bool
-          [<DataMember(EmitDefaultValue = false)>]
-          SMALL_SCENERY_FLAG_DIAGONAL : bool
           [<DataMember(EmitDefaultValue = false)>]
           hasGlass : bool
           [<DataMember(EmitDefaultValue = false)>]
@@ -313,10 +311,6 @@ module JsonTypes =
           SMALL_SCENERY_FLAG_COG : bool
           [<DataMember(EmitDefaultValue = false)>]
           allowSupportsAbove : bool
-          [<DataMember(EmitDefaultValue = false)>]
-          SMALL_SCENERY_FLAG_HALF_SPACE : bool
-          [<DataMember(EmitDefaultValue = false)>]
-          SMALL_SCENERY_FLAG_THREE_QUARTERS : bool
           [<DataMember(EmitDefaultValue = false)>]
           supportsHavePrimaryColour : bool
           [<DataMember(EmitDefaultValue = false)>]

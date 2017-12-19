@@ -280,8 +280,24 @@ module PropertyExtractor =
               match Seq.toArray smallScenery.AnimationSequence with
               | [||] -> null
               | offsets -> offsets |> Array.map int
+          shape =
+              let isFullTile = hasFlag 0
+              let isDiag = hasFlag 8
+              let is2q = hasFlag 24
+              let is3q = hasFlag 25
+              let part0 =
+                  if isFullTile then
+                      if is2q then "2/4"
+                      elif is3q then "3/4"
+                      else "4/4"
+                  else
+                      // TT:ARTDEC29 is only known occurrence of a 2/4 or 3/4 without isFullTile
+                      if is2q then "2/4"
+                      elif is3q then "3/4"
+                      else "1/4"
+              if isDiag then part0 + "+D"
+              else part0
 
-          isFullTile = hasFlag 0
           SMALL_SCENERY_FLAG_VOFFSET_CENTRE = hasFlag 1
           requiresFlatSurface = hasFlag 2
           isRotatable = hasFlag 3
@@ -289,7 +305,6 @@ module PropertyExtractor =
           canWither = hasFlag 5
           canBeWatered = hasFlag 6
           hasOverlayImage = hasFlag 7
-          SMALL_SCENERY_FLAG_DIAGONAL = hasFlag 8
           hasGlass = hasFlag 9
           hasPrimaryColour = hasFlag 10
           SMALL_SCENERY_FLAG_FOUNTAIN_SPRAY_1 = hasFlag 11
@@ -304,8 +319,6 @@ module PropertyExtractor =
           SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED = hasFlag 21
           SMALL_SCENERY_FLAG_COG = hasFlag 22
           allowSupportsAbove = hasFlag 23
-          SMALL_SCENERY_FLAG_HALF_SPACE = hasFlag 24
-          SMALL_SCENERY_FLAG_THREE_QUARTERS = hasFlag 25
           supportsHavePrimaryColour = hasFlag 26
           SMALL_SCENERY_FLAG27 = hasFlag 27 }
 
