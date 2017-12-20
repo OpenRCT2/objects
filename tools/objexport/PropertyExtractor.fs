@@ -235,7 +235,7 @@ module PropertyExtractor =
               |> Seq.filterOut ItemTypes.None
               |> Seq.map (fun x -> x.ToString().ToLower())
               |> Seq.toList
-          tabScale = if ride.Header.Flags.HasFlag(AttractionFlags.Unknown1_0) then 2 else 0
+          tabScale = if ride.Header.Flags.HasFlag(AttractionFlags.Unknown1_0) then 0.5f else 0.0f
           separateRide = ride.Header.Flags.HasFlag(AttractionFlags.SeparateRide)
           operatingModes = []
           hasShelter = ride.Header.Flags.HasFlag(AttractionFlags.Covered)

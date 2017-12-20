@@ -81,7 +81,7 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           sells: string list
           [<DataMember(EmitDefaultValue = false)>]
-          tabScale: int
+          tabScale: float32
           [<DataMember(EmitDefaultValue = false)>]
           separateRide: bool
           [<DataMember(EmitDefaultValue = false)>]
