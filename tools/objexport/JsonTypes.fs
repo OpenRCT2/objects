@@ -132,6 +132,8 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           maxHeight: int
           [<DataMember(EmitDefaultValue = false)>]
+          carColours: string[][][]
+          [<DataMember(EmitDefaultValue = false)>]
           cars: JCar list
           [<DataMember(EmitDefaultValue = false)>]
           availableTrackPieces: string list option }

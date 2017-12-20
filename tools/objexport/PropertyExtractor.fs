@@ -53,6 +53,42 @@ module PropertyExtractor =
         | 26 -> "CURSOR_HAND_CLOSED"
         | _ -> "CURSOR_ARROW"
 
+    let getColour (c: RemapColors) =
+        match int c with
+        | 0 -> "black"
+        | 1 -> "grey"
+        | 2 -> "white"
+        | 3 -> "dark_purple"
+        | 4 -> "light_purple"
+        | 5 -> "bright_purple"
+        | 6 -> "dark_blue"
+        | 7 -> "light_blue"
+        | 8 -> "icy_blue"
+        | 9 -> "teal"
+        | 10 -> "aquamarine"
+        | 11 -> "saturated_green"
+        | 12 -> "dark_green"
+        | 13 -> "moss_green"
+        | 14 -> "bright_green"
+        | 15 -> "olive_green"
+        | 16 -> "dark_olive_green"
+        | 17 -> "bright_yellow"
+        | 18 -> "yellow"
+        | 19 -> "dark_yellow"
+        | 20 -> "light_orange"
+        | 21 -> "dark_orange"
+        | 22 -> "light_brown"
+        | 23 -> "saturated_brown"
+        | 24 -> "dark_brown"
+        | 25 -> "salmon_pink"
+        | 26 -> "bordeaux_red"
+        | 27 -> "saturated_red"
+        | 28 -> "bright_red"
+        | 29 -> "dark_pink"
+        | 30 -> "bright_pink"
+        | 31 -> "light_pink"
+        | _ -> "unknown"
+
     let getBits32 (x: int) =
         seq { 0..31 }
         |> Seq.filter(fun i -> (x &&& (1 <<< i)) <> 0)
@@ -260,6 +296,18 @@ module PropertyExtractor =
           ratingMultipler = ratingMultiplier
           maxHeight = int ride.Header.MaxHeight
           availableTrackPieces = availableTrackPieces
+          carColours =
+              // ObjectData library doesn't keep whether colours are per car or not
+              // Assume if there are 32 then it is per car
+              if ride.CarColors.Count = 32 then
+                  [| ride.CarColors
+                      |> Seq.map (Array.map getColour)
+                      |> Seq.toArray |]
+              else
+                  ride.CarColors
+                      |> Seq.map (Array.map getColour)
+                      |> Seq.map (fun x -> [| x |])
+                      |> Seq.toArray
           cars = cars }
 
     ///////////////////////////////////////////////////////////////////////////
