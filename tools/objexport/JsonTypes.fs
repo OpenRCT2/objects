@@ -136,7 +136,9 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           cars: JCar list
           [<DataMember(EmitDefaultValue = false)>]
-          availableTrackPieces: string list option }
+          availableTrackPieces: string list option
+          [<DataMember(EmitDefaultValue = false)>]
+          loadingPositions: int[][] }
 
     [<DataContract>]
     type JWall =

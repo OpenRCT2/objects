@@ -308,7 +308,18 @@ module PropertyExtractor =
                       |> Seq.map (Array.map getColour)
                       |> Seq.map (fun x -> [| x |])
                       |> Seq.toArray
-          cars = cars }
+          cars = cars
+          loadingPositions =
+              let count =
+                  ride.RiderPositions
+                  |> Seq.tryFindIndexBack (Array.isEmpty >> not)
+              match count with
+              | Some count ->
+                  ride.RiderPositions
+                  |> Seq.take (count + 1)
+                  |> Seq.map (Array.map (sbyte >> int))
+                  |> Seq.toArray
+              | None -> null }
 
     ///////////////////////////////////////////////////////////////////////////
     // Small scenery
