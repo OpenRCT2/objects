@@ -283,8 +283,18 @@ module PropertyExtractor =
           playDepartSound = ride.Header.Flags.HasFlag(AttractionFlags.NoTrackRemap)
           playSplashSound = ride.Header.Flags.HasFlag(AttractionFlags.RidersGetWet)
           playSplashSoundSlide = ride.Header.Flags.HasFlag(AttractionFlags.SlowInWater)
-          swingMode = 0
-          rotationMode = 0
+          swingMode =
+              if ride.Header.Flags.HasFlag(AttractionFlags.MagicCarpetInvertedShip) then
+                  if ride.Header.Flags.HasFlag(AttractionFlags.MagicCarpet) then 2
+                  else 1
+              else 0
+          rotationMode =
+              if ride.Header.Flags.HasFlag(AttractionFlags.TwistSnowCups) then 1
+              elif ride.Header.Flags.HasFlag(AttractionFlags.Enterprise) then 2
+              else 0
+          RIDE_ENTRY_FLAG_7 = ride.Header.Flags.HasFlag(AttractionFlags.Unused8_1)
+          RIDE_ENTRY_FLAG_16 = ride.Header.Flags.HasFlag(AttractionFlags.SpinningWildMouse)
+          RIDE_ENTRY_FLAG_18 = ride.Header.Flags.HasFlag(AttractionFlags.Unknown4_4)
           minCarsPerTrain = int ride.Header.MinCarsPerTrain
           maxCarsPerTrain = int ride.Header.MaxCarsPerTrain
           carsPerFlatRide = int ride.Header.CarsPerFlatRide
