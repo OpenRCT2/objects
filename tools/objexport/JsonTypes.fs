@@ -32,6 +32,41 @@ module JsonTypes =
           strings: IDictionary<string, IDictionary<string, string>> }
 
     [<DataContract>]
+    type JFrames =
+        { [<DataMember(EmitDefaultValue = false)>]
+          flat: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          gentleSlopes: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          steepSlopes: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          verticalSlopes: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          diagonalSlopes: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          flatBanked: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          inlineTwists: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          flatToGentleSlopeBankedTransitions: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          diagonalGentleSlopeBankedTransitions: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          gentleSlopeBankedTransitions: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          gentleSlopeBankedTurns: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          flatToGentleSlopeWhileBankedTransitions: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          corkscrews: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          restraintAnimation: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_SPRITE_FLAG_14: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_SPRITE_FLAG_15: bool }
+
+    [<DataContract>]
     type JCar =
         { [<DataMember(EmitDefaultValue = false)>]
           rotationFrameMask: int
@@ -43,8 +78,6 @@ module JsonTypes =
           tabOffset: int
           [<DataMember(EmitDefaultValue = false)>]
           numSeats: int
-          [<DataMember(EmitDefaultValue = false)>]
-          spriteFlags: int
           [<DataMember(EmitDefaultValue = false)>]
           spriteWidth: int
           [<DataMember(EmitDefaultValue = false)>]
@@ -82,7 +115,9 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           drawOrder: int
           [<DataMember(EmitDefaultValue = false)>]
-          numVerticalFramesOverride: int }
+          numVerticalFramesOverride: int
+          [<DataMember(EmitDefaultValue = false)>]
+          frames: JFrames }
 
     [<DataContract>]
     type JRating =

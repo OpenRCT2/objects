@@ -152,12 +152,30 @@ module PropertyExtractor =
         let drawOrder = br.ReadByte()
         let numVerticalFramesOverride = br.ReadByte()
 
+        let frames =
+            let hasFlag i = (int spriteFlags &&& (1 <<< i)) <> 0
+            { flat = hasFlag 0
+              gentleSlopes = hasFlag 1
+              steepSlopes = hasFlag 2
+              verticalSlopes = hasFlag 3
+              diagonalSlopes = hasFlag 4
+              flatBanked = hasFlag 5
+              inlineTwists = hasFlag 6
+              flatToGentleSlopeBankedTransitions = hasFlag 7
+              diagonalGentleSlopeBankedTransitions = hasFlag 8
+              gentleSlopeBankedTransitions = hasFlag 9
+              gentleSlopeBankedTurns = hasFlag 10
+              flatToGentleSlopeWhileBankedTransitions = hasFlag 11
+              corkscrews = hasFlag 12
+              restraintAnimation = hasFlag 13
+              VEHICLE_SPRITE_FLAG_14 = hasFlag 14
+              VEHICLE_SPRITE_FLAG_15 = hasFlag 15 }
+
         { rotationFrameMask = int rotationFrameMask
           spacing = int spacing
           friction = int friction
           tabOffset = int tabOffset
           numSeats = int numSeats
-          spriteFlags = int spriteFlags
           spriteWidth = int spriteWidth
           spriteHeightNegative = int spriteHeightNegative
           spriteHeightPositive = int spriteHeightPositive
@@ -185,7 +203,8 @@ module PropertyExtractor =
               | 1 -> None
               | i -> Some i
           drawOrder = int drawOrder
-          numVerticalFramesOverride = int numVerticalFramesOverride }
+          numVerticalFramesOverride = int numVerticalFramesOverride
+          frames = frames }
 
     let getRide (ride: Attraction) =
         // TODO populate this fully
