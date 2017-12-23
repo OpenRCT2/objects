@@ -87,8 +87,6 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           var11: int
           [<DataMember(EmitDefaultValue = false)>]
-          flags: int
-          [<DataMember(EmitDefaultValue = false)>]
           baseNumFrames: int
           [<DataMember(EmitDefaultValue = false)>]
           numSeatRows: int
@@ -117,7 +115,71 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           numVerticalFramesOverride: int
           [<DataMember(EmitDefaultValue = false)>]
-          frames: JFrames }
+          frames: JFrames
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_0: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_NO_UPSTOP_WHEELS: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_NO_UPSTOP_BOBSLEIGH: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_MINI_GOLF: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_4: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_5: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_HAS_INVERTED_SPRITE_SET: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_7: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_10: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_11: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_OVERRIDE_NUM_VERTICAL_FRAMES: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_13: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_14: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_15: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_SWINGING: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_SPINNING: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_POWERED: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_RIDERS_SCREAM: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_21: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_22: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_23: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_24: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_25: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_26: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_27: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_28: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_29: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_30: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          VEHICLE_ENTRY_FLAG_31: bool }
 
     [<DataContract>]
     type JRating =
