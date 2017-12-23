@@ -34,19 +34,43 @@ module JsonTypes =
     [<DataContract>]
     type JCar =
         { [<DataMember(EmitDefaultValue = false)>]
-          numSeats: int
-          [<DataMember(EmitDefaultValue = false)>]
-          numSeatRows: int
-          [<DataMember(EmitDefaultValue = false)>]
-          friction: int
+          rotationFrameMask: int
           [<DataMember(EmitDefaultValue = false)>]
           spacing: int
           [<DataMember(EmitDefaultValue = false)>]
+          friction: int
+          [<DataMember(EmitDefaultValue = false)>]
           tabOffset: int
+          [<DataMember(EmitDefaultValue = false)>]
+          numSeats: int
+          [<DataMember(EmitDefaultValue = false)>]
+          spriteFlags: int
+          [<DataMember(EmitDefaultValue = false)>]
+          spriteWidth: int
+          [<DataMember(EmitDefaultValue = false)>]
+          spriteHeightNegative: int
+          [<DataMember(EmitDefaultValue = false)>]
+          spriteHeightPositive: int
+          [<DataMember(EmitDefaultValue = false)>]
+          var11: int
+          [<DataMember(EmitDefaultValue = false)>]
+          flags: int
+          [<DataMember(EmitDefaultValue = false)>]
+          baseNumFrames: int
+          [<DataMember(EmitDefaultValue = false)>]
+          numSeatRows: int
           [<DataMember(EmitDefaultValue = false)>]
           spinningInertia: int
           [<DataMember(EmitDefaultValue = false)>]
           spinningFriction: int
+          [<DataMember(EmitDefaultValue = false)>]
+          frictionSoundId: int option
+          [<DataMember(EmitDefaultValue = false)>]
+          var58: int
+          [<DataMember(EmitDefaultValue = false)>]
+          soundRange: int option
+          [<DataMember(EmitDefaultValue = false)>]
+          var5A: int
           [<DataMember(EmitDefaultValue = false)>]
           poweredAcceleration: int
           [<DataMember(EmitDefaultValue = false)>]
@@ -54,14 +78,11 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           carVisual: int
           [<DataMember(EmitDefaultValue = false)>]
-          effectVisual: int
+          effectVisual: int option
           [<DataMember(EmitDefaultValue = false)>]
           drawOrder: int
           [<DataMember(EmitDefaultValue = false)>]
-          specialFrames: int
-          [<DataMember(EmitDefaultValue = false)>]
-          rotationFrameMask: int
-          }
+          numVerticalFramesOverride: int }
 
     [<DataContract>]
     type JRating =

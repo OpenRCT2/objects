@@ -19,6 +19,7 @@ module Seq =
 module PropertyExtractor =
 
     open System
+    open System.IO
     open JsonTypes
     open RCT2ObjectData.DataObjects
     open RCT2ObjectData.DataObjects.Types
@@ -113,20 +114,78 @@ module PropertyExtractor =
         | _ -> false
 
     let getCar(car: CarHeader) =
-        { numSeats = int car.RiderSettings
-          numSeatRows = int car.RiderSprites
-          friction = int car.CarFriction
-          spacing = int car.CarSpacing
-          tabOffset = int car.CarTabHeight
-          spinningInertia = int car.SpinningInertia
-          spinningFriction = int car.SpinningFriction
-          poweredAcceleration = int car.PoweredAcceleration
-          poweredMaxSpeed = int car.PoweredMaxSpeed
-          carVisual = int car.CarVisual
-          effectVisual = int car.UnknownSetting
-          drawOrder = int car.DrawOrder
-          specialFrames = int car.SpecialFrames
-          rotationFrameMask= int car.LastRotationFrame }
+        // CarHeader is just too wrong with variable alignment and too many unknowns
+        // Read it ourselves from a buffer
+        use ms = new MemoryStream()
+        let bw = new BinaryWriter(ms)
+        car.Write(bw)
+
+        ms.Position <- 0L
+        let br = new BinaryReader(ms)
+
+        let rotationFrameMask = br.ReadUInt16()
+        ignore (br.ReadByte())
+        ignore (br.ReadByte())
+        let spacing = br.ReadUInt32()
+        let friction = br.ReadUInt16()
+        let tabOffset = br.ReadSByte()
+        let numSeats = br.ReadByte()
+        let spriteFlags = br.ReadUInt16()
+        let spriteWidth = br.ReadByte()
+        let spriteHeightNegative = br.ReadByte()
+        let spriteHeightPositive = br.ReadByte()
+        let var11 = br.ReadByte()
+        let flags = br.ReadUInt32()
+        let baseNumFrames = br.ReadUInt16()
+        ignore (br.ReadBytes(15 * 4))
+        let numSeatRows = br.ReadByte()
+        let spinningInertia = br.ReadByte()
+        let spinningFriction = br.ReadByte()
+        let frictionSoundId = br.ReadByte()
+        let var58 = br.ReadByte()
+        let soundRange = br.ReadByte()
+        let var5A = br.ReadByte()
+        let poweredAcceleration = br.ReadByte()
+        let poweredMaxSpeed = br.ReadByte()
+        let carVisual = br.ReadByte()
+        let effectVisual = br.ReadByte()
+        let drawOrder = br.ReadByte()
+        let numVerticalFramesOverride = br.ReadByte()
+
+        { rotationFrameMask = int rotationFrameMask
+          spacing = int spacing
+          friction = int friction
+          tabOffset = int tabOffset
+          numSeats = int numSeats
+          spriteFlags = int spriteFlags
+          spriteWidth = int spriteWidth
+          spriteHeightNegative = int spriteHeightNegative
+          spriteHeightPositive = int spriteHeightPositive
+          var11 = int var11
+          flags = int flags
+          baseNumFrames = int baseNumFrames
+          numSeatRows = int numSeatRows
+          spinningInertia = int spinningInertia
+          spinningFriction = int spinningFriction
+          frictionSoundId =
+              match int frictionSoundId with
+              | 255 -> None
+              | i -> Some i
+          var58 = int var58
+          soundRange =
+              match int soundRange with
+              | 255 -> None
+              | i -> Some i
+          var5A = int var5A
+          poweredAcceleration = int poweredAcceleration
+          poweredMaxSpeed = int poweredMaxSpeed
+          carVisual = int carVisual
+          effectVisual =
+              match int effectVisual with
+              | 1 -> None
+              | i -> Some i
+          drawOrder = int drawOrder
+          numVerticalFramesOverride = int numVerticalFramesOverride }
 
     let getRide (ride: Attraction) =
         // TODO populate this fully
