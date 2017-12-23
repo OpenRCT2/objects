@@ -349,11 +349,9 @@ module PropertyExtractor =
             if isShop then
                 []
             else
-                let indexedCars = headCars @ tailCars @ [int ride.Header.CarTabIndex; int ride.Header.DefaultCarType]
                 ride.Header.CarTypeList
-                |> Seq.indexed
-                |> Seq.filter (fun (i, v) -> Seq.contains i indexedCars)
-                |> Seq.map (fun (i, v) -> getCar v)
+                |> Seq.map getCar
+                |> Seq.takeWhile (fun c -> c.effectVisual <> Some 0)
                 |> Seq.toList
 
         let ratingMultiplier =
