@@ -127,7 +127,7 @@ module PropertyExtractor =
         ignore (br.ReadByte())
         ignore (br.ReadByte())
         let spacing = br.ReadUInt32()
-        let friction = br.ReadUInt16()
+        let mass = br.ReadUInt16()
         let tabOffset = br.ReadSByte()
         let numSeats = br.ReadByte()
         let spriteFlags = br.ReadUInt16()
@@ -175,7 +175,7 @@ module PropertyExtractor =
 
         { rotationFrameMask = int rotationFrameMask
           spacing = int spacing
-          friction = int friction
+          mass = int mass
           tabOffset = int tabOffset
           numSeats = int numSeats
           spriteWidth = int spriteWidth
@@ -642,6 +642,7 @@ module PropertyExtractor =
     let getFootpathBanner (pb: PathBanner) =
         { scrollingMode = int pb.Header.Scrolling
           price = int pb.Header.BuildCost
+          removalPrice = int pb.Header.
           hasPrimaryColour = pb.Header.Flags.HasFlag(PathBannerFlags.Color1)
           sceneryGroup = getSceneryGroupHeader pb }
 

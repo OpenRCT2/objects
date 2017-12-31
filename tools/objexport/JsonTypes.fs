@@ -73,7 +73,7 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           spacing: int
           [<DataMember(EmitDefaultValue = false)>]
-          friction: int
+          mass: int
           [<DataMember(EmitDefaultValue = false)>]
           tabOffset: int
           [<DataMember(EmitDefaultValue = false)>]
