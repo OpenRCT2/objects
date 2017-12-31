@@ -145,8 +145,7 @@ module ObjectExporter =
                 if obj.Type = ObjectTypes.Attraction then
                     [| ("name", getStrings 0);
                        ("description", getStrings 1);
-                       ("capacity", getStrings 2);
-                       ("vehicleName", getStrings 0) |]
+                       ("capacity", getStrings 2)|]
                 else
                     [| ("name", getStrings 0) |]
 
@@ -160,22 +159,11 @@ module ObjectExporter =
         // Remove unwanted strings
         let validKeys =
             match obj.Type with
-            | ObjectTypes.Attraction -> ["name"; "description"; "capacity"; "vehicleName"]
+            | ObjectTypes.Attraction -> ["name"; "description"; "capacity"]
             | _ -> ["name"]
         for s in Seq.toArray strings.Keys do
             if not (List.contains s validKeys) then
                 strings.Remove(s) |> ignore
-
-        // Remove any vehicle if it is the same as the name
-        let getStrings name = Dictionary.tryItem name strings
-        match (getStrings "name", getStrings "vehicleName") with
-        | (Some names, Some vehicles) ->
-            for kvp in Seq.toArray vehicles do
-                match Dictionary.tryItem kvp.Key names with
-                | Some value when value = kvp.Value ->
-                    vehicles.Remove(kvp.Key) |> ignore
-                | _ -> ()
-        | _ -> ()
 
         // Remove empty string collections
         strings

@@ -642,7 +642,6 @@ module PropertyExtractor =
     let getFootpathBanner (pb: PathBanner) =
         { scrollingMode = int pb.Header.Scrolling
           price = int pb.Header.BuildCost
-          removalPrice = int pb.Header.
           hasPrimaryColour = pb.Header.Flags.HasFlag(PathBannerFlags.Color1)
           sceneryGroup = getSceneryGroupHeader pb }
 
