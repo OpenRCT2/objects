@@ -240,7 +240,6 @@ module PropertyExtractor =
           VEHICLE_ENTRY_FLAG_31 = hasFlag 31 }
 
     let getRide (ride: Attraction) =
-        // TODO populate this fully
         let getRideType = function
             | TrackTypes.AirPoweredVerticalCoaster -> "air_powered_vertical_rc"
             | TrackTypes.BoatHire -> "boat_hire"
