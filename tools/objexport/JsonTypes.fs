@@ -62,7 +62,7 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           restraintAnimation: bool
           [<DataMember(EmitDefaultValue = false)>]
-          VEHICLE_SPRITE_FLAG_14: bool
+          curvedLiftHill: bool
           [<DataMember(EmitDefaultValue = false)>]
           VEHICLE_SPRITE_FLAG_15: bool }
 
@@ -117,7 +117,7 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           frames: JFrames
           [<DataMember(EmitDefaultValue = false)>]
-          VEHICLE_ENTRY_FLAG_0: bool
+          VEHICLE_ENTRY_FLAG_POWERED_RIDE_UNRESTRICTED_GRAVITY: bool
           [<DataMember(EmitDefaultValue = false)>]
           VEHICLE_ENTRY_FLAG_NO_UPSTOP_WHEELS: bool
           [<DataMember(EmitDefaultValue = false)>]
@@ -131,7 +131,7 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           VEHICLE_ENTRY_FLAG_HAS_INVERTED_SPRITE_SET: bool
           [<DataMember(EmitDefaultValue = false)>]
-          VEHICLE_ENTRY_FLAG_7: bool
+          VEHICLE_ENTRY_FLAG_DODGEM_INUSE_LIGHTS: bool
           [<DataMember(EmitDefaultValue = false)>]
           VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED: bool
           [<DataMember(EmitDefaultValue = false)>]
@@ -145,7 +145,7 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           VEHICLE_ENTRY_FLAG_13: bool
           [<DataMember(EmitDefaultValue = false)>]
-          VEHICLE_ENTRY_FLAG_14: bool
+          VEHICLE_ENTRY_FLAG_SPINNING_ADDITIONAL_FRAMES: bool
           [<DataMember(EmitDefaultValue = false)>]
           VEHICLE_ENTRY_FLAG_15: bool
           [<DataMember(EmitDefaultValue = false)>]
@@ -161,25 +161,25 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           VEHICLE_ENTRY_FLAG_21: bool
           [<DataMember(EmitDefaultValue = false)>]
-          VEHICLE_ENTRY_FLAG_22: bool
+          VEHICLE_ENTRY_FLAG_BOAT_HIRE_COLLISION_DETECTION: bool
           [<DataMember(EmitDefaultValue = false)>]
-          VEHICLE_ENTRY_FLAG_23: bool
+          VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION: bool
           [<DataMember(EmitDefaultValue = false)>]
-          VEHICLE_ENTRY_FLAG_24: bool
+          VEHICLE_ENTRY_FLAG_RIDER_ANIMATION: bool
           [<DataMember(EmitDefaultValue = false)>]
           VEHICLE_ENTRY_FLAG_25: bool
           [<DataMember(EmitDefaultValue = false)>]
           VEHICLE_ENTRY_FLAG_26: bool
           [<DataMember(EmitDefaultValue = false)>]
-          VEHICLE_ENTRY_FLAG_27: bool
+          VEHICLE_ENTRY_FLAG_SLIDE_SWING: bool
           [<DataMember(EmitDefaultValue = false)>]
-          VEHICLE_ENTRY_FLAG_28: bool
+          VEHICLE_ENTRY_FLAG_CHAIRLIFT: bool
           [<DataMember(EmitDefaultValue = false)>]
-          VEHICLE_ENTRY_FLAG_29: bool
+          VEHICLE_ENTRY_FLAG_WATER_RIDE: bool
           [<DataMember(EmitDefaultValue = false)>]
-          VEHICLE_ENTRY_FLAG_30: bool
+          VEHICLE_ENTRY_FLAG_GO_KART: bool
           [<DataMember(EmitDefaultValue = false)>]
-          VEHICLE_ENTRY_FLAG_31: bool }
+          VEHICLE_ENTRY_FLAG_DODGEM_CAR_PLACEMENT: bool }
 
     [<DataContract>]
     type JRating =
