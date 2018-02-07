@@ -85,7 +85,7 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           spriteHeightPositive: int
           [<DataMember(EmitDefaultValue = false)>]
-          var11: int
+          animation: int
           [<DataMember(EmitDefaultValue = false)>]
           baseNumFrames: int
           [<DataMember(EmitDefaultValue = false)>]
@@ -97,11 +97,11 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           frictionSoundId: int option
           [<DataMember(EmitDefaultValue = false)>]
-          var58: int
+          logFlumeReverserVehicleType: int
           [<DataMember(EmitDefaultValue = false)>]
           soundRange: int option
           [<DataMember(EmitDefaultValue = false)>]
-          var5A: int
+          doubleSoundFrequency: int
           [<DataMember(EmitDefaultValue = false)>]
           poweredAcceleration: int
           [<DataMember(EmitDefaultValue = false)>]

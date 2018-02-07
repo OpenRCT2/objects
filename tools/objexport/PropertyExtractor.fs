@@ -134,7 +134,7 @@ module PropertyExtractor =
         let spriteWidth = br.ReadByte()
         let spriteHeightNegative = br.ReadByte()
         let spriteHeightPositive = br.ReadByte()
-        let var11 = br.ReadByte()
+        let animation = br.ReadByte()
         let flags = br.ReadUInt32()
         let baseNumFrames = br.ReadUInt16()
         ignore (br.ReadBytes(15 * 4))
@@ -142,9 +142,9 @@ module PropertyExtractor =
         let spinningInertia = br.ReadByte()
         let spinningFriction = br.ReadByte()
         let frictionSoundId = br.ReadByte()
-        let var58 = br.ReadByte()
+        let logFlumeReverserVehicleType = br.ReadByte()
         let soundRange = br.ReadByte()
-        let var5A = br.ReadByte()
+        let doubleSoundFrequency = br.ReadByte()
         let poweredAcceleration = br.ReadByte()
         let poweredMaxSpeed = br.ReadByte()
         let carVisual = br.ReadByte()
@@ -181,7 +181,7 @@ module PropertyExtractor =
           spriteWidth = int spriteWidth
           spriteHeightNegative = int spriteHeightNegative
           spriteHeightPositive = int spriteHeightPositive
-          var11 = int var11
+          animation = int animation
           baseNumFrames = int baseNumFrames
           numSeatRows = int numSeatRows
           spinningInertia = int spinningInertia
@@ -190,12 +190,12 @@ module PropertyExtractor =
               match int frictionSoundId with
               | 255 -> None
               | i -> Some i
-          var58 = int var58
+          logFlumeReverserVehicleType = int logFlumeReverserVehicleType
           soundRange =
               match int soundRange with
               | 255 -> None
               | i -> Some i
-          var5A = int var5A
+          doubleSoundFrequency = int doubleSoundFrequency
           poweredAcceleration = int poweredAcceleration
           poweredMaxSpeed = int poweredMaxSpeed
           carVisual = int carVisual
