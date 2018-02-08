@@ -101,7 +101,8 @@ module ObjectExporter =
         | 13 -> "pt-BR"
         | i -> i.ToString()
 
-    let exportObject outputPath (ourStrings: IDictionary<string, IDictionary<string, string>>) (obj: ObjectData) =
+    let exportObject outputPath (ourStrings: IDictionary<string, IDictionary<string, string>>) (inputPath, (obj: ObjectData)) =
+        let inputFileName = Path.GetFileNameWithoutExtension(inputPath).ToUpper()
         let objName = obj.ObjectHeader.FileName.ToUpper()
         let objId = getObjId obj
         let outputJsonPath = getOutputJsonPath outputPath obj objId
@@ -114,7 +115,7 @@ module ObjectExporter =
         let images =
             match obj.Type with
             | ObjectTypes.Water -> null
-            | _ -> [| sprintf "$RCT2:OBJDATA/%s.DAT[%d..%d]" objName 0 numImages |]
+            | _ -> [| sprintf "$RCT2:OBJDATA/%s.DAT[%d..%d]" inputFileName 0 numImages |]
 
         // Get RCT2 strings
         let getStrings index =
@@ -232,13 +233,13 @@ module ObjectExporter =
                 | Some includeType ->
                     (fun (obj: ObjectData) -> includeType = getObjTypeName obj.Type)
 
-            let processObject obj =
+            let processObject (path, obj) =
                 if not (isNull obj) && shouldObjectBeProcessed obj then
                     let strings =
                         match objectStrings.TryGetValue obj.ObjectHeader.FileName with
                         | true, value -> value
                         | _ -> dict []
-                    exportObject outputPath strings obj
+                    exportObject outputPath strings (path, obj)
                     Some ()
                 else
                     None
@@ -249,7 +250,7 @@ module ObjectExporter =
             let sw = Stopwatch.StartNew()
             let numObj =
                 Directory.GetFiles(path)
-                |> Array.map (ObjectData.FromFile)
+                |> Array.map (fun path -> (path, ObjectData.FromFile(path)))
                 |> match options.multithreaded with
                    | true -> Array.Parallel.choose processObject
                    | false -> Array.choose processObject
