@@ -1,0 +1,32 @@
+{
+    "id": "rct1.pathtilr",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "00000045|#RCT1PTI|00000000",
+    "objectType": "footpath",
+    "properties": {
+        "hasElevatedPathImages": true,
+        "supportType": "box",
+        "scrollingMode": 0
+    },
+    "images": ["$CSG[43779..43829]", "$CSG[43291..43310]", "$RCT2:OBJDATA/TARMAC.DAT[71..169]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tiled Path",
+            "fr-FR": "rct1Allée pavée",
+            "de-DE": "rct1Fußweg mit verrücktem Belag",
+            "es-ES": "rct1Sendero de empedrado loco",
+            "it-IT": "rct1Sentiero strampalato",
+            "nl-NL": "rct1 plaveisel",
+            "sv-SE": "Rolig stengång",
+            "ja-JP": "クレイジー敷石歩道",
+            "ko-KR": "벽돌 보도",
+            "zh-CN": "古怪步道",
+            "zh-TW": "古怪步道",
+            "pt-BR": "Caminho de Pavimento Doido",
+            "cs-CZ": "Šílená cesta",
+            "pl-PL": "Zwariowana dróżka",
+            "ru-RU": "Дорожка"
+        }
+    }
+}
