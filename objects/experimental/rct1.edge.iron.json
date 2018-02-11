@@ -1,0 +1,15 @@
+{
+    "id": "rct1.edge.iron",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT1EIR|00000000",
+    "objectType": "terrain_edge",
+    "properties": {
+    },
+    "images": ["$CSG[40590..40757]"],
+    "strings": {
+        "name": {
+            "en-GB": "Iron"
+        }
+    }
+}

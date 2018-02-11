@@ -1,0 +1,15 @@
+{
+    "id": "rct1.edge.green",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT1EGR|00000000",
+    "objectType": "terrain_edge",
+    "properties": {
+    },
+    "images": ["$CSG[41342..41509]"],
+    "strings": {
+        "name": {
+            "en-GB": "Stucco (Green)"
+        }
+    }
+}

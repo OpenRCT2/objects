@@ -1,0 +1,15 @@
+{
+    "id": "rct1.edge.skyscrapera",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT1ESA|00000000",
+    "objectType": "terrain_edge",
+    "properties": {
+    },
+    "images": ["$CSG[41654..41821]"],
+    "strings": {
+        "name": {
+            "en-GB": "Skyscraper (A)"
+        }
+    }
+}

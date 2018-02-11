@@ -1,0 +1,15 @@
+{
+    "id": "rct2.edge.woodblack",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT2EWB|00000000",
+    "objectType": "terrain_edge",
+    "properties": {
+    },
+    "images": ["$G1[1663..1746]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wood (black)"
+        }
+    }
+}

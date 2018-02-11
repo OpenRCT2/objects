@@ -1,0 +1,15 @@
+{
+    "id": "rct1.edge.stonebrown",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT1ESN|00000000",
+    "objectType": "terrain_edge",
+    "properties": {
+    },
+    "images": ["$CSG[41446..41613]"],
+    "strings": {
+        "name": {
+            "en-GB": "Stone (Brown)"
+        }
+    }
+}
