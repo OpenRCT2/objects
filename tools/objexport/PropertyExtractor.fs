@@ -381,7 +381,6 @@ module PropertyExtractor =
               |> Seq.map (fun x -> x.ToString().ToLower())
               |> Seq.toList
           tabScale = if ride.Header.Flags.HasFlag(AttractionFlags.VehicleTabHalfScale) then 0.5f else 0.0f
-          separateRide = ride.Header.Flags.HasFlag(AttractionFlags.SeparateRide1)
           operatingModes = []
           hasShelter = ride.Header.Flags.HasFlag(AttractionFlags.Covered)
           disableBreakdown = ride.Header.Flags.HasFlag(AttractionFlags.CannotBreakDown)

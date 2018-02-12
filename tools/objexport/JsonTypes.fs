@@ -201,8 +201,6 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           tabScale: float32
           [<DataMember(EmitDefaultValue = false)>]
-          separateRide: bool
-          [<DataMember(EmitDefaultValue = false)>]
           operatingModes: string list
           [<DataMember(EmitDefaultValue = false)>]
           hasShelter: bool
