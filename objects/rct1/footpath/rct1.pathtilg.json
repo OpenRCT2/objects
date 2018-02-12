@@ -2,18 +2,18 @@
     "id": "rct1.pathtilr",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "00000065|#RCT1PTR|00000000",     
+    "originalId": "00000065|#RCT1PTG|00000000",     
     "objectType": "footpath",
     "properties": {
         "hasElevatedPathImages": true,
         "supportType": "box",
         "scrollingMode": 0
     },
-    "images": ["$CSG[43983..44033]", "$CSG[43251..43270]", "$CSG[47328]", "$CSG[47307]", "$RCT2:OBJDATA/TARMAC.DAT[73..169]"],
+    "images": ["$CSG[44085..44135]", "$CSG[43331..43350]", "$CSG[47329]", "$CSG[47309]", "$RCT2:OBJDATA/TARMAC.DAT[73..169]"],
     "strings": {
         "name": {
-            "en-GB": "Red and Brown Tiled Footpath",
-            "nl-NL": "Rode en bruine klinkers plaveisel"
+            "en-GB": "Green and Brown Tiled Footpath",
+            "nl-NL": "Groene en bruine klinkers"
         }
     }
 }
