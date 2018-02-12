@@ -1,0 +1,19 @@
+{
+    "id": "rct1.pathtilb",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "00000045|#RCT1PTB|00000000",
+    "objectType": "footpath",
+    "properties": {
+        "hasElevatedPathImages": true,
+        "supportType": "box",
+        "scrollingMode": 0
+    },
+    "images": ["$CSG[43779..43829]", "$CSG[43291..43310]", "$CSG[47326]", "$CSG[47308]", "$RCT2:OBJDATA/TARMAC.DAT[73..169]"],
+    "strings": {
+        "name": {
+            "en-GB": "Brown Tiled Footpath",
+            "nl-NL": "Bruine klinkers"
+        }
+    }
+}
