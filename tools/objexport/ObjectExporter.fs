@@ -18,6 +18,7 @@ module ObjectExporter =
 
     open System
     open System.Collections.Generic
+    open System.Diagnostics
     open System.IO
     open System.Text
     open JsonTypes
@@ -25,8 +26,8 @@ module ObjectExporter =
     open Newtonsoft.Json
     open Newtonsoft.Json.FSharp
     open PropertyExtractor
-    open RCT2ObjectData.DataObjects
-    open System.Diagnostics
+    open RCT2ObjectData.Objects
+    open RCT2ObjectData.Objects.Types
 
     type ObjectExporterOptions =
         { languageDirectory: string option
@@ -66,7 +67,7 @@ module ObjectExporter =
         | ObjectTypes.SmallScenery -> "scenery_small"
         | ObjectTypes.LargeScenery -> "scenery_large"
         | ObjectTypes.Wall -> "scenery_wall"
-        | ObjectTypes.Path -> "footpath"
+        | ObjectTypes.Footpath -> "footpath"
         | ObjectTypes.PathAddition -> "footpath_item"
         | ObjectTypes.PathBanner -> "footpath_banner"
         | ObjectTypes.ParkEntrance -> "park_entrance"
@@ -124,10 +125,10 @@ module ObjectExporter =
             | None -> dict []
             | Some stringEntry ->
                 let strings =
-                    stringEntry.Languages
+                    stringEntry.Strings
                     |> Seq.mapi(fun i str ->
                         let lang = getLanguageName i
-                        let decoded = Localisation.decodeStringFromRCT2 lang str
+                        let decoded = Localisation.decodeStringFromRCT2 lang (Encoding.ASCII.GetString(str.Data))
                         (lang, decoded.Trim()))
                     |> Seq.filter(fun (_, str) ->
                         // Decide whether the string is useful
@@ -184,7 +185,7 @@ module ObjectExporter =
 
         let originalId =
             let hdr = obj.ObjectHeader
-            String.Format("{0:X8}|{1,-8}|{2:X8}", hdr.Flags, hdr.FileName, hdr.CheckSum)
+            String.Format("{0:X8}|{1,-8}|{2:X8}", hdr.Flags, hdr.FileName, hdr.Checksum)
 
         let properties = getProperties obj
         let jobj = { id = objId

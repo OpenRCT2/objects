@@ -21,9 +21,10 @@ module PropertyExtractor =
     open System
     open System.IO
     open JsonTypes
-    open RCT2ObjectData.DataObjects
-    open RCT2ObjectData.DataObjects.Types
-    open RCT2ObjectData.DataObjects.Types.AttractionInfo
+    open RCT2ObjectData.Drawing
+    open RCT2ObjectData.Objects
+    open RCT2ObjectData.Objects.Types
+    open RCT2ObjectData.Objects.Types.AttractionInfo
 
     let getCursor = function
         | 1 -> "CURSOR_BLANK"
@@ -244,7 +245,7 @@ module PropertyExtractor =
             | TrackTypes.AirPoweredVerticalCoaster -> "air_powered_vertical_rc"
             | TrackTypes.BoatHire -> "boat_hire"
             | TrackTypes.BobsledCoaster -> "bobsleigh_rc"
-            | TrackTypes.BumperCars -> "dodgems"
+            | TrackTypes.Dodgems -> "dodgems"
             | TrackTypes.CarRide -> "car_ride"
             | TrackTypes.CashMachine -> "cash_machine"
             | TrackTypes.ChairLift -> "chairlift"
@@ -316,7 +317,7 @@ module PropertyExtractor =
             | TrackTypes.VerticalDropRollerCoaster -> "vertical_drop_rc"
             | TrackTypes.VirginiaReel -> "virginia_reel"
             | TrackTypes.WaterCoaster -> "water_coaster"
-            | TrackTypes.WaterSlide -> "dinghy_slide"
+            | TrackTypes.DinghySlide -> "dinghy_slide"
             | TrackTypes.WildMouse -> "steel_wild_mouse"
             | TrackTypes.WoodenRollerCoaster -> "wooden_rc"
             | TrackTypes.WoodenWildRide -> "wooden_wild_mouse"
@@ -370,8 +371,8 @@ module PropertyExtractor =
 
         { ``type`` = rideTypes
           category =
-              [| ride.Header.RideType; ride.Header.RideTypeAlternate |]
-              |> Seq.filterOut RideTypes.None
+              [| ride.Header.RideCategory; ride.Header.RideCategoryAlternate |]
+              |> Seq.filterOut RideCategories.None
               |> Seq.map (fun x -> x.ToString().ToLower())
               |> Seq.toList
           sells =
@@ -379,30 +380,30 @@ module PropertyExtractor =
               |> Seq.filterOut ItemTypes.None
               |> Seq.map (fun x -> x.ToString().ToLower())
               |> Seq.toList
-          tabScale = if ride.Header.Flags.HasFlag(AttractionFlags.Unknown1_0) then 0.5f else 0.0f
-          separateRide = ride.Header.Flags.HasFlag(AttractionFlags.SeparateRide)
+          tabScale = if ride.Header.Flags.HasFlag(AttractionFlags.VehicleTabHalfScale) then 0.5f else 0.0f
+          separateRide = ride.Header.Flags.HasFlag(AttractionFlags.SeparateRide1)
           operatingModes = []
           hasShelter = ride.Header.Flags.HasFlag(AttractionFlags.Covered)
-          disableBreakdown = ride.Header.Flags.HasFlag(AttractionFlags.RowingBoatsCanoesElevator)
-          disablePainting = ride.Header.Flags.HasFlag(AttractionFlags.SunglassesStall)
-          noInversions = ride.Header.Flags.HasFlag(AttractionFlags.Unknown2_0)
-          noBanking = ride.Header.Flags.HasFlag(AttractionFlags.Unused4_0)
-          limitAirTimeBonus = ride.Header.Flags.HasFlag(AttractionFlags.Unknown8_2)
-          playDepartSound = ride.Header.Flags.HasFlag(AttractionFlags.NoTrackRemap)
-          playSplashSound = ride.Header.Flags.HasFlag(AttractionFlags.RidersGetWet)
-          playSplashSoundSlide = ride.Header.Flags.HasFlag(AttractionFlags.SlowInWater)
+          disableBreakdown = ride.Header.Flags.HasFlag(AttractionFlags.CannotBreakDown)
+          disablePainting = ride.Header.Flags.HasFlag(AttractionFlags.DisableColorTab)
+          noInversions = ride.Header.Flags.HasFlag(AttractionFlags.NoInversions)
+          noBanking = ride.Header.Flags.HasFlag(AttractionFlags.NoBankedTrack)
+          limitAirTimeBonus = ride.Header.Flags.HasFlag(AttractionFlags.LimitAirtimeRatingBonus)
+          playDepartSound = ride.Header.Flags.HasFlag(AttractionFlags.PlayTrainDepartSound)
+          playSplashSound = ride.Header.Flags.HasFlag(AttractionFlags.PlaySplashSound)
+          playSplashSoundSlide = ride.Header.Flags.HasFlag(AttractionFlags.PlaySplashSoundSlowInWater)
           swingMode =
-              if ride.Header.Flags.HasFlag(AttractionFlags.MagicCarpetInvertedShip) then
-                  if ride.Header.Flags.HasFlag(AttractionFlags.MagicCarpet) then 2
+              if ride.Header.Flags.HasFlag(AttractionFlags.AlternativeSwingMode1) then
+                  if ride.Header.Flags.HasFlag(AttractionFlags.AlternativeSwingMode2) then 2
                   else 1
               else 0
           rotationMode =
-              if ride.Header.Flags.HasFlag(AttractionFlags.TwistSnowCups) then 1
-              elif ride.Header.Flags.HasFlag(AttractionFlags.Enterprise) then 2
+              if ride.Header.Flags.HasFlag(AttractionFlags.AlternativeRotationMode1) then 1
+              elif ride.Header.Flags.HasFlag(AttractionFlags.AlternativeRotationMode2) then 2
               else 0
-          RIDE_ENTRY_FLAG_7 = ride.Header.Flags.HasFlag(AttractionFlags.Unused8_1)
-          RIDE_ENTRY_FLAG_16 = ride.Header.Flags.HasFlag(AttractionFlags.SpinningWildMouse)
-          RIDE_ENTRY_FLAG_18 = ride.Header.Flags.HasFlag(AttractionFlags.Unknown4_4)
+          RIDE_ENTRY_FLAG_7 = ride.Header.Flags.HasFlag(AttractionFlags.UnknownBoatHireFlag)
+          RIDE_ENTRY_FLAG_16 = ride.Header.Flags.HasFlag(AttractionFlags.DisableDoors)
+          RIDE_ENTRY_FLAG_18 = ride.Header.Flags.HasFlag(AttractionFlags.UnknownVehicleTrackMotionFlag)
           minCarsPerTrain = int ride.Header.MinCarsPerTrain
           maxCarsPerTrain = int ride.Header.MaxCarsPerTrain
           carsPerFlatRide = int ride.Header.CarsPerFlatRide
@@ -555,8 +556,8 @@ module PropertyExtractor =
         { price = int largeScenery.Header.BuildCost
           removalPrice = int largeScenery.Header.RemoveCost
           cursor = getCursor (int largeScenery.Header.Cursor)
-          hasPrimaryColour = largeScenery.Header.Flags.HasFlag(LargeSceneryFlags.Color1)
-          hasSecondaryColour = largeScenery.Header.Flags.HasFlag(LargeSceneryFlags.Color2)
+          hasPrimaryColour = largeScenery.Header.Flags.HasFlag(LargeSceneryFlags.Remap1)
+          hasSecondaryColour = largeScenery.Header.Flags.HasFlag(LargeSceneryFlags.Remap2)
           isAnimated = largeScenery.Header.Flags.HasFlag(LargeSceneryFlags.TextScrolling)
           isPhotogenic = largeScenery.Header.Flags.HasFlag(LargeSceneryFlags.Photogenic)
           scrollingMode =
@@ -600,13 +601,13 @@ module PropertyExtractor =
     ///////////////////////////////////////////////////////////////////////////
     // Footpath
     ///////////////////////////////////////////////////////////////////////////
-    let getFootpath (footpath: Pathing) =
-        let getSupportType (flags: PathingFlags) =
-            if flags.HasFlag(PathingFlags.PoleSupports) then "pole" else "box"
+    let getFootpath (footpath: Footpath) =
+        let getSupportType (flags: FootpathFlags) =
+            if flags.HasFlag(FootpathFlags.PoleSupports) then "pole" else "box"
 
-        { hasSupportImages = footpath.Header.Flags.HasFlag(PathingFlags.PoleBase)
-          hasElevatedPathImages = footpath.Header.Flags.HasFlag(PathingFlags.OverlayPath)
-          editorOnly = footpath.Header.Flags.HasFlag(PathingFlags.Hidden)
+        { hasSupportImages = footpath.Header.Flags.HasFlag(FootpathFlags.PoleBase)
+          hasElevatedPathImages = footpath.Header.Flags.HasFlag(FootpathFlags.OverlayPath)
+          editorOnly = footpath.Header.Flags.HasFlag(FootpathFlags.Hidden)
           supportType = getSupportType footpath.Header.Flags
           scrollingMode = int footpath.Header.Reserved1 }
 
@@ -641,7 +642,7 @@ module PropertyExtractor =
     let getFootpathBanner (pb: PathBanner) =
         { scrollingMode = int pb.Header.Scrolling
           price = int pb.Header.BuildCost
-          hasPrimaryColour = pb.Header.Flags.HasFlag(PathBannerFlags.Color1)
+          hasPrimaryColour = pb.Header.Flags.HasFlag(PathBannerFlags.Remap1)
           sceneryGroup = getSceneryGroupHeader pb }
 
     ///////////////////////////////////////////////////////////////////////////
@@ -721,7 +722,7 @@ module PropertyExtractor =
         | ObjectTypes.SmallScenery -> getSmallScenery (obj :?> SmallScenery) :> obj
         | ObjectTypes.LargeScenery -> getLargeScenery (obj :?> LargeScenery) :> obj
         | ObjectTypes.Wall -> getWall (obj :?> Wall) :> obj
-        | ObjectTypes.Path -> getFootpath (obj :?> Pathing) :> obj
+        | ObjectTypes.Footpath -> getFootpath (obj :?> Footpath) :> obj
         | ObjectTypes.PathAddition -> getFootpathItem (obj :?> PathAddition) :> obj
         | ObjectTypes.PathBanner -> getFootpathBanner (obj :?> PathBanner) :> obj
         | ObjectTypes.SceneryGroup -> getSceneryGroup (obj :?> SceneryGroup) :> obj
