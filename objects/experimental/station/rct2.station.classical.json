@@ -1,0 +1,15 @@
+{
+    "id": "rct2.station.classical",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008D|#RCT2STI|00000000",
+    "objectType": "station",
+    "properties": {
+    },
+    "images": ["$G1[22696..22711]"],
+    "strings": {
+        "name": {
+            "en-GB": "Classical"
+        }
+    }
+}

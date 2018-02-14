@@ -1,0 +1,15 @@
+{
+    "id": "rct2.station.castlebrown",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008D|#RCT2ST4|00000000",
+    "objectType": "station",
+    "properties": {
+    },
+    "images": ["$G1[22712..22727]"],
+    "strings": {
+        "name": {
+            "en-GB": "Castle (Brown)"
+        }
+    }
+}

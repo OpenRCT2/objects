@@ -1,0 +1,15 @@
+{
+    "id": "rct2.station.canvastent",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008D|#RCT2STV|00000000",
+    "objectType": "station",
+    "properties": {
+    },
+    "images": ["$G1[22680..22695]"],
+    "strings": {
+        "name": {
+            "en-GB": "Canvas Tent"
+        }
+    }
+}

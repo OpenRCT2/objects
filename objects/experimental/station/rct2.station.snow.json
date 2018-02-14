@@ -1,0 +1,15 @@
+{
+    "id": "rct2.station.snow",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008D|#RCT2STS|00000000",
+    "objectType": "station",
+    "properties": {
+    },
+    "images": ["$G1[22824..22839]"],
+    "strings": {
+        "name": {
+            "en-GB": "Snow / Ice"
+        }
+    }
+}

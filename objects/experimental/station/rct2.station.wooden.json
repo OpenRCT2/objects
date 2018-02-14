@@ -1,0 +1,15 @@
+{
+    "id": "rct2.station.wooden",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008D|#RCT2STW|00000000",
+    "objectType": "station",
+    "properties": {
+    },
+    "images": ["$G1[22760..22775]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wooden"
+        }
+    }
+}

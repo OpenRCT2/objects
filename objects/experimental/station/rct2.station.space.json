@@ -1,0 +1,15 @@
+{
+    "id": "rct2.station.space",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008D|#RCT2STE|00000000",
+    "objectType": "station",
+    "properties": {
+    },
+    "images": ["$G1[22856..22871]"],
+    "strings": {
+        "name": {
+            "en-GB": "Space"
+        }
+    }
+}

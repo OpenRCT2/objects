@@ -1,0 +1,15 @@
+{
+    "id": "rct2.station.jungle",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008D|#RCT2STJ|00000000",
+    "objectType": "station",
+    "properties": {
+    },
+    "images": ["$G1[22776..22791]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jungle"
+        }
+    }
+}
