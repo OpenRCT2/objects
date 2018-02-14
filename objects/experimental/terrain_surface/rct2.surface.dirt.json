@@ -1,0 +1,15 @@
+{
+    "id": "rct2.surface.dirt",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT2SDI|00000000",
+    "objectType": "terrain_surface",
+    "properties": {
+    },
+    "images": ["$G1[2485..2541]"],
+    "strings": {
+        "name": {
+            "en-GB": "Dirt"
+        }
+    }
+}

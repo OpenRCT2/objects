@@ -1,0 +1,15 @@
+{
+    "id": "rct2.surface.martian",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT2SMA|00000000",
+    "objectType": "terrain_surface",
+    "properties": {
+    },
+    "images": ["$G1[2314..2370]"],
+    "strings": {
+        "name": {
+            "en-GB": "Martian"
+        }
+    }
+}

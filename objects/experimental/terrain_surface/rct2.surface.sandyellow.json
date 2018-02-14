@@ -1,0 +1,15 @@
+{
+    "id": "rct2.surface.sandyellow",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT2SSY|00000000",
+    "objectType": "terrain_surface",
+    "properties": {
+    },
+    "images": ["$G1[2086..2142]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sand (Yellow)"
+        }
+    }
+}

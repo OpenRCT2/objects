@@ -1,0 +1,15 @@
+{
+    "id": "rct1.surface.wood",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT1SWO|00000000",
+    "objectType": "terrain_surface",
+    "properties": {
+    },
+    "images": ["$CSG[42261..42317]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wood"
+        }
+    }
+}
