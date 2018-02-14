@@ -1,15 +1,15 @@
 {
-    "id": "rct1.edge.brick",
+    "id": "rct1.edge.skyscraperb",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0000008B|#RCT1EBR|00000000",
+    "originalId": "0000008C|#RCT1ESB|00000000",
     "objectType": "terrain_edge",
     "properties": {
     },
-    "images": ["$CSG[40506..40673]"],
+    "images": ["$CSG[41758..41925]"],
     "strings": {
         "name": {
-            "en-GB": "Brick"
+            "en-GB": "Skyscraper (B)"
         }
     }
 }

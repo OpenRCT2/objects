@@ -1,15 +1,15 @@
 {
-    "id": "rct2.edge.ice",
+    "id": "rct1.edge.brick",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0000008B|#RCT2EIC|00000000",
+    "originalId": "0000008C|#RCT1EBR|00000000",
     "objectType": "terrain_edge",
     "properties": {
     },
-    "images": ["$G1[1831..1998]"],
+    "images": ["$CSG[40506..40673]"],
     "strings": {
         "name": {
-            "en-GB": "Ice"
+            "en-GB": "Brick"
         }
     }
 }

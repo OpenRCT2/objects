@@ -1,15 +1,15 @@
 {
-    "id": "rct2.edge.rock",
+    "id": "rct1.edge.yellow",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0000008B|#RCT2ERO|00000000",
+    "originalId": "0000008C|#RCT1EYE|00000000",
     "objectType": "terrain_edge",
     "properties": {
     },
-    "images": ["$G1[1579..1746]"],
+    "images": ["$CSG[41030..41197]"],
     "strings": {
         "name": {
-            "en-GB": "Rock"
+            "en-GB": "Stucco (Yellow)"
         }
     }
 }

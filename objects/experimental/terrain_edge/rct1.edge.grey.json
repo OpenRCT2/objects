@@ -1,15 +1,15 @@
 {
-    "id": "rct1.edge.purple",
+    "id": "rct1.edge.grey",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0000008B|#RCT1EPU|00000000",
+    "originalId": "0000008C|#RCT1EGY|00000000",
     "objectType": "terrain_edge",
     "properties": {
     },
-    "images": ["$CSG[41238..41405]"],
+    "images": ["$CSG[41134..41301]"],
     "strings": {
         "name": {
-            "en-GB": "Stucco (Purple)"
+            "en-GB": "Stucco (Grey)"
         }
     }
 }

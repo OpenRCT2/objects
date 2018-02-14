@@ -1,15 +1,15 @@
 {
-    "id": "rct1.edge.skyscrapera",
+    "id": "rct1.edge.iron",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0000008B|#RCT1ESA|00000000",
+    "originalId": "0000008C|#RCT1EIR|00000000",
     "objectType": "terrain_edge",
     "properties": {
     },
-    "images": ["$CSG[41654..41821]"],
+    "images": ["$CSG[40590..40757]"],
     "strings": {
         "name": {
-            "en-GB": "Skyscraper (A)"
+            "en-GB": "Iron"
         }
     }
 }

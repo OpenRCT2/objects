@@ -1,15 +1,15 @@
 {
-    "id": "rct1.edge.red",
+    "id": "rct1.edge.stonegrey",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0000008B|#RCT1ERE|00000000",
+    "originalId": "0000008C|#RCT1ESG|00000000",
     "objectType": "terrain_edge",
     "properties": {
     },
-    "images": ["$CSG[40926..41093]"],
+    "images": ["$CSG[41550..41717]"],
     "strings": {
         "name": {
-            "en-GB": "Stucco (Red)"
+            "en-GB": "Stone (Grey)"
         }
     }
 }

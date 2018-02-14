@@ -1,15 +1,15 @@
 {
-    "id": "rct1.edge.iron",
+    "id": "rct1.edge.green",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0000008B|#RCT1EIR|00000000",
+    "originalId": "0000008C|#RCT1EGR|00000000",
     "objectType": "terrain_edge",
     "properties": {
     },
-    "images": ["$CSG[40590..40757]"],
+    "images": ["$CSG[41342..41509]"],
     "strings": {
         "name": {
-            "en-GB": "Iron"
+            "en-GB": "Stucco (Green)"
         }
     }
 }
