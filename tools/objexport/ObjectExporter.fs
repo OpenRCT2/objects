@@ -128,7 +128,7 @@ module ObjectExporter =
                     stringEntry.Strings
                     |> Seq.mapi(fun i str ->
                         let lang = getLanguageName i
-                        let decoded = Localisation.decodeStringFromRCT2 lang (Encoding.ASCII.GetString(str.Data))
+                        let decoded = Localisation.decodeStringFromRCT2 lang str.Data
                         (lang, decoded.Trim()))
                     |> Seq.filter(fun (_, str) ->
                         // Decide whether the string is useful

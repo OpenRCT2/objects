@@ -115,18 +115,16 @@ module Localisation =
 
     let decodeStringFromRCT2 language s =
         let decodedBytes =
-            let result = new ResizeArray<byte>()
-            let sr = new StringReader(s)
-            while sr.Peek() <> -1 do
-                match sr.Read() with
-                | 255 ->
-                    let a = sr.Read()
-                    let b = sr.Read()
-                    result.Add (byte a)
-                    result.Add (byte b)
-                | c ->
-                    result.Add (byte c)
-            result.ToArray()
+            let rec decode s =
+                match s with
+                | [] -> []
+                | 255uy :: a :: b :: tail -> [a; b] @ decode tail
+                | c :: tail -> c :: decode tail
+
+            s
+            |> Array.toList
+            |> decode
+            |> List.toArray
 
         let codepage =
             match language with
