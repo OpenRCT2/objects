@@ -130,7 +130,9 @@ module PropertyExtractor =
         let spacing = br.ReadUInt32()
         let mass = br.ReadUInt16()
         let tabOffset = br.ReadSByte()
-        let numSeats = br.ReadByte()
+        let (numSeats, seatsInPairs) =
+            let b = int (br.ReadByte())
+            (b &&& 0x7F, (b &&& 0x80) <> 0)
         let spriteFlags = br.ReadUInt16()
         let spriteWidth = br.ReadByte()
         let spriteHeightNegative = br.ReadByte()
@@ -178,7 +180,14 @@ module PropertyExtractor =
           spacing = int spacing
           mass = int mass
           tabOffset = int tabOffset
-          numSeats = int numSeats
+          numSeats = numSeats
+          seatsInPairs =
+              if seatsInPairs then
+                  None
+              elif numSeats <= 1 then
+                  None
+              else
+                  Some false
           spriteWidth = int spriteWidth
           spriteHeightNegative = int spriteHeightNegative
           spriteHeightPositive = int spriteHeightPositive

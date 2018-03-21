@@ -79,6 +79,8 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           numSeats: int
           [<DataMember(EmitDefaultValue = false)>]
+          seatsInPairs: bool option
+          [<DataMember(EmitDefaultValue = false)>]
           spriteWidth: int
           [<DataMember(EmitDefaultValue = false)>]
           spriteHeightNegative: int
