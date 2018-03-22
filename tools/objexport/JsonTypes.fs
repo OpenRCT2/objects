@@ -171,8 +171,6 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           VEHICLE_ENTRY_FLAG_25: bool
           [<DataMember(EmitDefaultValue = false)>]
-          VEHICLE_ENTRY_FLAG_26: bool
-          [<DataMember(EmitDefaultValue = false)>]
           VEHICLE_ENTRY_FLAG_SLIDE_SWING: bool
           [<DataMember(EmitDefaultValue = false)>]
           VEHICLE_ENTRY_FLAG_CHAIRLIFT: bool
@@ -181,7 +179,13 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           VEHICLE_ENTRY_FLAG_GO_KART: bool
           [<DataMember(EmitDefaultValue = false)>]
-          VEHICLE_ENTRY_FLAG_DODGEM_CAR_PLACEMENT: bool }
+          VEHICLE_ENTRY_FLAG_DODGEM_CAR_PLACEMENT: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          loadingWaypointsRatio: float option
+          [<DataMember(EmitDefaultValue = false)>]
+          loadingPositions: int[]
+          [<DataMember(EmitDefaultValue = false)>]
+          loadingWaypoints: int[][][] }
 
     [<DataContract>]
     type JRating =
@@ -260,9 +264,7 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           cars: JCar list
           [<DataMember(EmitDefaultValue = false)>]
-          availableTrackPieces: string list option
-          [<DataMember(EmitDefaultValue = false)>]
-          loadingPositions: int[][] }
+          availableTrackPieces: string list option }
 
     [<DataContract>]
     type JWall =

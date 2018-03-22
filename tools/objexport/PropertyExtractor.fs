@@ -114,7 +114,7 @@ module PropertyExtractor =
         | TrackTypes.SouvenirStall -> true
         | _ -> false
 
-    let getCar(car: CarHeader) =
+    let getCar (ride: Attraction) (car: CarHeader) (loadingPositionsRaw: byte[] option) =
         // CarHeader is just too wrong with variable alignment and too many unknowns
         // Read it ourselves from a buffer
         use ms = new MemoryStream()
@@ -175,6 +175,15 @@ module PropertyExtractor =
               VEHICLE_SPRITE_FLAG_15 = hasSpriteFlag 15 }
 
         let hasFlag i = (int flags &&& (1 <<< i)) <> 0
+
+        let loadingPositions =
+            match loadingPositionsRaw with
+            | Some loadingPositions when not (Array.isEmpty loadingPositions) && not (hasFlag 26) -> Some loadingPositions
+            | _ -> None
+        let loadingWaypoints =
+            match loadingPositionsRaw with
+            | Some loadingWaypoints when not (Array.isEmpty loadingWaypoints) && hasFlag 26 -> Some loadingWaypoints
+            | _ -> None
 
         { rotationFrameMask = int rotationFrameMask
           spacing = int spacing
@@ -242,12 +251,37 @@ module PropertyExtractor =
           VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION = hasFlag 23
           VEHICLE_ENTRY_FLAG_RIDER_ANIMATION = hasFlag 24
           VEHICLE_ENTRY_FLAG_25 = hasFlag 25
-          VEHICLE_ENTRY_FLAG_26 = hasFlag 26
           VEHICLE_ENTRY_FLAG_SLIDE_SWING = hasFlag 27
           VEHICLE_ENTRY_FLAG_CHAIRLIFT = hasFlag 28
           VEHICLE_ENTRY_FLAG_WATER_RIDE = hasFlag 29
           VEHICLE_ENTRY_FLAG_GO_KART = hasFlag 30
-          VEHICLE_ENTRY_FLAG_DODGEM_CAR_PLACEMENT = hasFlag 31 }
+          VEHICLE_ENTRY_FLAG_DODGEM_CAR_PLACEMENT = hasFlag 31
+          loadingWaypointsRatio =
+              match loadingWaypoints with
+              | Some loadingWaypoints ->
+                  if Array.contains TrackTypes.Enterprise ride.Header.TrackTypeList then
+                      Some 2.0
+                  else
+                      if int (Array.head loadingWaypoints) = 0 then
+                          Some 0.5
+                      else
+                          Some 1.0
+              | None -> None
+          loadingPositions =
+              match loadingPositions with
+              | Some loadingPositions ->
+                  loadingPositions
+                  |> Array.map (sbyte >> int)
+              | None -> null
+          loadingWaypoints =
+              match loadingWaypoints with
+              | Some loadingWaypoints ->
+                  loadingWaypoints
+                  |> Array.skip 1
+                  |> Array.map (sbyte >> int)
+                  |> Array.chunkBySize 8
+                  |> Array.map (Array.chunkBySize 2 >> Array.take 3)
+              | None -> null }
 
     let getRide (ride: Attraction) =
         let getRideType = function
@@ -359,7 +393,7 @@ module PropertyExtractor =
                 []
             else
                 ride.Header.CarTypeList
-                |> Seq.map getCar
+                |> Seq.mapi (fun i c -> getCar ride c (Seq.tryItem i ride.RiderPositions))
                 |> Seq.takeWhile (fun c -> c.effectVisual <> Some 0)
                 |> Seq.toList
 
@@ -435,18 +469,7 @@ module PropertyExtractor =
                       |> Seq.map (Array.map getColour)
                       |> Seq.map (fun x -> [| x |])
                       |> Seq.toArray
-          cars = cars
-          loadingPositions =
-              let count =
-                  ride.RiderPositions
-                  |> Seq.tryFindIndexBack (Array.isEmpty >> not)
-              match count with
-              | Some count ->
-                  ride.RiderPositions
-                  |> Seq.take (count + 1)
-                  |> Seq.map (Array.map (sbyte >> int))
-                  |> Seq.toArray
-              | None -> null }
+          cars = cars }
 
     ///////////////////////////////////////////////////////////////////////////
     // Small scenery
