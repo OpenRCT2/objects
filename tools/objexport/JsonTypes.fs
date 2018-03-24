@@ -181,7 +181,7 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           VEHICLE_ENTRY_FLAG_DODGEM_CAR_PLACEMENT: bool
           [<DataMember(EmitDefaultValue = false)>]
-          loadingWaypointsRatio: float option
+          numSegments: int option
           [<DataMember(EmitDefaultValue = false)>]
           loadingPositions: int[]
           [<DataMember(EmitDefaultValue = false)>]

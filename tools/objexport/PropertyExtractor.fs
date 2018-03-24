@@ -256,16 +256,16 @@ module PropertyExtractor =
           VEHICLE_ENTRY_FLAG_WATER_RIDE = hasFlag 29
           VEHICLE_ENTRY_FLAG_GO_KART = hasFlag 30
           VEHICLE_ENTRY_FLAG_DODGEM_CAR_PLACEMENT = hasFlag 31
-          loadingWaypointsRatio =
+          numSegments =
               match loadingWaypoints with
               | Some loadingWaypoints ->
                   if Array.contains TrackTypes.Enterprise ride.Header.TrackTypeList then
-                      Some 2.0
+                      Some 8
                   else
                       if int (Array.head loadingWaypoints) = 0 then
-                          Some 0.5
+                          Some 0
                       else
-                          Some 1.0
+                          Some 4
               | None -> None
           loadingPositions =
               match loadingPositions with
