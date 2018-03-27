@@ -409,16 +409,6 @@ module PropertyExtractor =
             | (0, 0, 0) -> None
             | (e, i, n) -> Some { excitement = e; intensity = i; nausea = n }
 
-        let availableTrackPieces =
-            match ride.Header.AvailableTrackSections with
-            | TrackSections.All -> None
-            | sections ->
-                Some (getBits64 (int64 sections)
-                |> Seq.map (fun x -> 1UL <<< x)
-                |> Seq.map (fun x -> LanguagePrimitives.EnumOfValue<uint64, TrackSections> x)
-                |> Seq.map (fun x -> x.ToString().ToLower())
-                |> Seq.toList)
-
         { ``type`` = rideTypes
           category =
               [| ride.Header.RideCategory; ride.Header.RideCategoryAlternate |]
@@ -463,7 +453,6 @@ module PropertyExtractor =
           tailCars = tailCars
           ratingMultipler = ratingMultiplier
           maxHeight = int ride.Header.MaxHeight
-          availableTrackPieces = availableTrackPieces
           carColours =
               // ObjectData library doesn't keep whether colours are per car or not
               // Assume if there are 32 then it is per car
