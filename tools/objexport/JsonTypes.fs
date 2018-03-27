@@ -262,9 +262,7 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           carColours: string[][][]
           [<DataMember(EmitDefaultValue = false)>]
-          cars: JCar list
-          [<DataMember(EmitDefaultValue = false)>]
-          availableTrackPieces: string list option }
+          cars: JCar list }
 
     [<DataContract>]
     type JWall =
