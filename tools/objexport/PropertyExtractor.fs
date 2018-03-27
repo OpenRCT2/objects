@@ -367,8 +367,15 @@ module PropertyExtractor =
             | x -> x.ToString().ToLower()
 
         let rideTypes =
+            let numTypes =
+                let lastTypeIndex =
+                    ride.Header.TrackTypeList
+                    |> Seq.findIndexBack (fun x -> x <> TrackTypes.None)
+                match lastTypeIndex with
+                | -1 -> 0
+                | x -> x + 1
             ride.Header.TrackTypeList
-            |> Seq.filterOut TrackTypes.None
+            |> Seq.take numTypes
             |> Seq.map getRideType
             |> Seq.toList
 
