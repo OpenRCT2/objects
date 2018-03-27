@@ -366,6 +366,46 @@ module PropertyExtractor =
             | TrackTypes.WoodenWildRide -> "wooden_wild_mouse"
             | x -> x.ToString().ToLower()
 
+        let getShopItem = function
+        | ItemTypes.Burger -> "burger"
+        | ItemTypes.Fries -> "chips"
+        | ItemTypes.IceCream -> "ice_cream"
+        | ItemTypes.CottonCandy -> "candyfloss"
+        | ItemTypes.Pizza -> "pizza"
+        | ItemTypes.Popcorn -> "popcorn"
+        | ItemTypes.Hotdog -> "hot_dog"
+        | ItemTypes.Seafood -> "tentacle"
+        | ItemTypes.CandyApple -> "toffee_apple"
+        | ItemTypes.Donut -> "doughnut"
+        | ItemTypes.Chicken -> "chicken"
+        | ItemTypes.Pretzel -> "pretzel"
+        | ItemTypes.FunnelCake -> "funnel_cake"
+        | ItemTypes.BeefNoodles -> "beef_noodles"
+        | ItemTypes.FriedNoodles -> "fried_rice_noodles"
+        | ItemTypes.WontonSoup -> "wonton_soup"
+        | ItemTypes.MeatballSoup -> "meatball_soup"
+        | ItemTypes.SubSandwich -> "sub_sandwich"
+        | ItemTypes.Cookies -> "cookie"
+        | ItemTypes.RoastSausage -> "roast_sausage"
+        | ItemTypes.Cola -> "drink"
+        | ItemTypes.Coffee -> "coffee"
+        | ItemTypes.Lemonade -> "lemonade"
+        | ItemTypes.HotChocolate -> "chocolate"
+        | ItemTypes.IcedTea -> "iced_tea"
+        | ItemTypes.FruitJuice -> "fruit_juice"
+        | ItemTypes.SoybeanMilk -> "soybean_milk"
+        | ItemTypes.Sujongkwa -> "su_jongkwa"
+        | ItemTypes.Balloon -> "balloon"
+        | ItemTypes.PlushToy -> "toy"
+        | ItemTypes.Map -> "map"
+        | ItemTypes.OnRidePhoto -> "photo"
+        | ItemTypes.Umbrella -> "umbrella"
+        | ItemTypes.Voucher -> "voucher"
+        | ItemTypes.Hat -> "hat"
+        | ItemTypes.TShirt -> "tshirt"
+        | ItemTypes.Sunglasses -> "sunglasses"
+        | _ -> "unknown"
+
         let rideTypes =
             let numTypes =
                 let lastTypeIndex =
@@ -428,7 +468,7 @@ module PropertyExtractor =
           sells =
               [| ride.Header.SoldItem1; ride.Header.SoldItem2 |]
               |> Seq.filterOut ItemTypes.None
-              |> Seq.map (fun x -> x.ToString().ToLower())
+              |> Seq.map getShopItem
               |> Seq.toList
           tabScale = if ride.Header.Flags.HasFlag(AttractionFlags.VehicleTabHalfScale) then 0.5f else 0.0f
           operatingModes = []
