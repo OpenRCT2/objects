@@ -5,11 +5,7 @@
     "originalId": "0A188C80|VEKVAMP |9EEE264F",
     "objectType": "ride",
     "properties": {
-        "type": [
-            "none",
-            "none",
-            "suspended_swinging_rc"
-        ],
+        "type": "suspended_swinging_rc",
         "category": "rollercoaster",
         "minCarsPerTrain": 5,
         "maxCarsPerTrain": 12,
@@ -51,7 +47,12 @@
             "loadingPositions": [3, -3]
         }
     },
-    "images": ["$RCT2:OBJDATA/VEKVAMP.DAT[0..3082]"],
+    "images": [
+        "$RCT2:OBJDATA/VEKVAMP.DAT[2]",
+        "",
+        "",
+        "$RCT2:OBJDATA/VEKVAMP.DAT[3..3082]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Swinging Floorless Cars",

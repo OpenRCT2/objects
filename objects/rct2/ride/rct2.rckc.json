@@ -5,10 +5,7 @@
     "originalId": "0A188B80|RCKC    |546E3576",
     "objectType": "ride",
     "properties": {
-        "type": [
-            "none",
-            "mini_rc"
-        ],
+        "type": "mini_rc",
         "category": "rollercoaster",
         "minCarsPerTrain": 1,
         "maxCarsPerTrain": 3,
@@ -53,7 +50,12 @@
             "loadingPositions": [4, -4, 4, -4]
         }
     },
-    "images": ["$RCT2:OBJDATA/RCKC.DAT[0..1778]"],
+    "images": [
+        "$RCT2:OBJDATA/RCKC.DAT[1]",
+        "",
+        "",
+        "$RCT2:OBJDATA/RCKC.DAT[3..1778]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Rocket Cars",

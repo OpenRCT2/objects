@@ -5,10 +5,7 @@
     "originalId": "0A188B80|MFT     |52488B03",
     "objectType": "ride",
     "properties": {
-        "type": [
-            "none",
-            "wooden_rc"
-        ],
+        "type": "wooden_rc",
         "category": "rollercoaster",
         "minCarsPerTrain": 6,
         "maxCarsPerTrain": 12,
@@ -89,7 +86,12 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/MFT.DAT[0..2882]"],
+    "images": [
+        "$RCT2:OBJDATA/MFT.DAT[1]",
+        "",
+        "",
+        "$RCT2:OBJDATA/MFT.DAT[3..2882]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Articulated Roller Coaster Trains",

@@ -5,10 +5,7 @@
     "originalId": "0A188C80|ZLOG    |EB0041B6",
     "objectType": "ride",
     "properties": {
-        "type": [
-            "none",
-            "junior_rc"
-        ],
+        "type": "junior_rc",
         "category": "rollercoaster",
         "noInversions": true,
         "minCarsPerTrain": 5,
@@ -89,7 +86,12 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/ZLOG.DAT[0..1490]"],
+    "images": [
+        "$RCT2:OBJDATA/ZLOG.DAT[1]",
+        "",
+        "",
+        "$RCT2:OBJDATA/ZLOG.DAT[3..1490]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Log Trains",

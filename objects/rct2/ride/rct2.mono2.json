@@ -5,10 +5,7 @@
     "originalId": "0A188B80|MONO2   |4353CF22",
     "objectType": "ride",
     "properties": {
-        "type": [
-            "none",
-            "monorail"
-        ],
+        "type": "monorail",
         "category": "transport",
         "hasShelter": true,
         "RIDE_ENTRY_FLAG_18": true,
@@ -52,7 +49,12 @@
             "loadingPositions": [3, -3, 3, -3]
         }
     },
-    "images": ["$RCT2:OBJDATA/MONO2.DAT[0..422]"],
+    "images": [
+        "$RCT2:OBJDATA/MONO2.DAT[1]",
+        "",
+        "",
+        "$RCT2:OBJDATA/MONO2.DAT[3..422]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Small Monorail Cars",

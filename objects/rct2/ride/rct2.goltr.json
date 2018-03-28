@@ -5,10 +5,7 @@
     "originalId": "0A188A80|GOLTR   |F03D99BC",
     "objectType": "ride",
     "properties": {
-        "type": [
-            "none",
-            "twister_rc"
-        ],
+        "type": "twister_rc",
         "category": "rollercoaster",
         "noInversions": true,
         "minCarsPerTrain": 4,
@@ -89,7 +86,12 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/GOLTR.DAT[0..3590]"],
+    "images": [
+        "$RCT2:OBJDATA/GOLTR.DAT[1]",
+        "",
+        "",
+        "$RCT2:OBJDATA/GOLTR.DAT[3..3590]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Hyper-Twister Trains",

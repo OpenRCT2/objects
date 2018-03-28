@@ -5,10 +5,7 @@
     "originalId": "0A188B80|SMC2    |8A13DDE5",
     "objectType": "ride",
     "properties": {
-        "type": [
-            "none",
-            "steel_wild_mouse"
-        ],
+        "type": "steel_wild_mouse",
         "category": "rollercoaster",
         "minCarsPerTrain": 3,
         "maxCarsPerTrain": 3,
@@ -59,7 +56,12 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SMC2.DAT[0..586]"],
+    "images": [
+        "$RCT2:OBJDATA/SMC2.DAT[1]",
+        "",
+        "",
+        "$RCT2:OBJDATA/SMC2.DAT[3..586]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Mine Cars",

@@ -5,10 +5,7 @@
     "originalId": "0A188A80|ARRSW2  |7F202742",
     "objectType": "ride",
     "properties": {
-        "type": [
-            "none",
-            "suspended_swinging_rc"
-        ],
+        "type": "suspended_swinging_rc",
         "category": "rollercoaster",
         "tabScale": 0.5,
         "maxCarsPerTrain": 8,
@@ -52,7 +49,12 @@
             "loadingPositions": [4, 6, -6, -4]
         }
     },
-    "images": ["$RCT2:OBJDATA/ARRSW2.DAT[0..4622]"],
+    "images": [
+        "$RCT2:OBJDATA/ARRSW2.DAT[1]",
+        "",
+        "",
+        "$RCT2:OBJDATA/ARRSW2.DAT[3..4622]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Suspended Swinging Aeroplane Cars",

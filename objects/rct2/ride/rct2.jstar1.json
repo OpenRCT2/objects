@@ -5,10 +5,7 @@
     "originalId": "0A188B80|JSTAR1  |5885991E",
     "objectType": "ride",
     "properties": {
-        "type": [
-            "none",
-            "mini_rc"
-        ],
+        "type": "mini_rc",
         "category": "rollercoaster",
         "ratingMultipler": {
             "excitement": 3,
@@ -52,7 +49,12 @@
             "loadingPositions": [-6, 6, -6, 6]
         }
     },
-    "images": ["$RCT2:OBJDATA/JSTAR1.DAT[0..1778]"],
+    "images": [
+        "$RCT2:OBJDATA/JSTAR1.DAT[1]",
+        "",
+        "",
+        "$RCT2:OBJDATA/JSTAR1.DAT[3..1778]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Toboggan Cars",

@@ -5,10 +5,7 @@
     "originalId": "0E24FA20|HOVERCAR|10724616",
     "objectType": "ride",
     "properties": {
-        "type": [
-            "none",
-            "car_ride"
-        ],
+        "type": "car_ride",
         "category": "gentle",
         "RIDE_ENTRY_FLAG_18": true,
         "minCarsPerTrain": 3,
@@ -62,7 +59,12 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/HOVERCAR.DAT[0..266]"],
+    "images": [
+        "$RCT2:OBJDATA/HOVERCAR.DAT[1]",
+        "",
+        "",
+        "$RCT2:OBJDATA/HOVERCAR.DAT[3..266]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Hover Cars",

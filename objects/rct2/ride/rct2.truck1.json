@@ -5,10 +5,7 @@
     "originalId": "0A188B80|TRUCK1  |58B728C5",
     "objectType": "ride",
     "properties": {
-        "type": [
-            "none",
-            "car_ride"
-        ],
+        "type": "car_ride",
         "category": "gentle",
         "RIDE_ENTRY_FLAG_18": true,
         "minCarsPerTrain": 3,
@@ -62,7 +59,12 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/TRUCK1.DAT[0..266]"],
+    "images": [
+        "$RCT2:OBJDATA/TRUCK1.DAT[1]",
+        "",
+        "",
+        "$RCT2:OBJDATA/TRUCK1.DAT[0..266]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Pickup Trucks",
