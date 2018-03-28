@@ -57,7 +57,11 @@
             "ko-KR": "범퍼 보트",
             "zh-CN": "碰碰船",
             "zh-TW": "碰碰船",
-            "pt-BR": "Barcos de Batida"
+            "pt-BR": "Barcos de Batida",
+            "cs-CZ": "Malé čluny",
+            "ja-JP": "バンパー・ボート",
+            "pl-PL": "Gumołódki",
+            "ru-RU": "Лодочки"
         },
         "description": {
             "en-GB": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
@@ -65,12 +69,16 @@
             "de-DE": "Kleine, runde Schlauchboote, die von einem zentralen Motor angetrieben werden, der von den Fahrgästen gesteuert wird",
             "es-ES": "Botes pequeños,inflables y redondos propulsados por un motor central controlado por los pasajeros",
             "it-IT": "Piccoli canotti circolari, alimentati da un motore montato al centro e controllati dai passeggeri",
-            "nl-NL": "Kleine ronde bootjes aangedreven door een centrale motor en bestuurd door passagiers",
+            "nl-NL": "Kleine ronde bootjes, aangedreven door een centrale motor en bestuurd door de passagiers.",
             "sv-SE": "Små runda skeppsjollar som drivs av en centralmonterad motor som styrs av passagerarna",
-            "ko-KR": "승객이 직접 운전하며 동력원이 중앙에 모여있는 소형 보트",
+            "ko-KR": "중앙 모터에 의해 움직이며 탑승객이 조종할 수 있는 원형의 작은 보트",
             "zh-CN": "由乘客在有动力装制的小型圆型小船内操控中心马达",
             "zh-TW": "由乘客在有動力裝置的小型圓型小船內操控中心馬達",
-            "pt-BR": "Pequenos barcos circulares com um motor central controlado pelos passageiros"
+            "pt-BR": "Pequenos barcos circulares com um motor central controlado pelos passageiros",
+            "cs-CZ": "Malé čluny s motorovým pohonem ovládaným návštěvníky",
+            "ja-JP": "丸い小型ボートで、乗客が操作する中央部のモーターで動きます",
+            "pl-PL": "Małe okrągłe pontony napędzane silnikiem zamontowanym centralnie i sterowanym przez pasażerów",
+            "ru-RU": "Маленькие круглые лодочки с моторами управляются пассажирами."
         },
         "capacity": {
             "en-GB": "2 passengers per boat",
@@ -80,10 +88,14 @@
             "it-IT": "2 passeggeri per barca",
             "nl-NL": "2 passagiers per boot",
             "sv-SE": "2 passagerare per båt",
-            "ko-KR": "보트 정원 2명",
+            "ko-KR": "보트당 2명의 승객",
             "zh-CN": "2 位乘客/每艘船",
             "zh-TW": "2 位乘客/每艘船",
-            "pt-BR": "2 passageiros por barco"
+            "pt-BR": "2 passageiros por barco",
+            "cs-CZ": "2 místa v každé lodi",
+            "ja-JP": "各ボート2名",
+            "pl-PL": "2 pasażerów na łódkę",
+            "ru-RU": "2 пассажира"
         }
     }
 }

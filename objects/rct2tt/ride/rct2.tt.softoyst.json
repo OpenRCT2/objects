@@ -23,11 +23,14 @@
             "de-DE": "Stofftier-Stand",
             "es-ES": "Puesto de peluches",
             "it-IT": "Chiosco di pupazzi di peluche",
-            "nl-NL": "Kraampje zacht speelgoed",
+            "nl-NL": "Knuffelkraam",
             "sv-SE": "Stånd med kramdjur",
-            "ko-KR": "소프트 장난감 가게",
+            "ko-KR": "봉제인형 가게",
             "zh-TW": "填充玩具攤位",
-            "pt-BR": "Quiosque de Brinquedo Fofo"
+            "pt-BR": "Quiosque de Brinquedo Fofo",
+            "cs-CZ": "Stánek s plyšáky-dinosaury",
+            "pl-PL": "Kiosk z przytulankami",
+            "ru-RU": "Игрушки"
         },
         "description": {
             "en-GB": "A stall selling a cute soft toy Dinosaur",
@@ -35,11 +38,14 @@
             "de-DE": "Ein Stand, der süße Stoffdinosaurier verkauft",
             "es-ES": "Un puesto de venta de preciosos peluches de dinosaurio",
             "it-IT": "Un chiosco che vende un simpatico dinosauro di peluche.",
-            "nl-NL": "Een kraampje met schattige speelgoeddinosaurussen.",
+            "nl-NL": "Een kraam waar schattige zachte dinosaurusknuffels worden verkocht.",
             "sv-SE": "Stånd som säljer söta leksaksdinosaurier.",
-            "ko-KR": "공룡 장난감을 파는 가게",
+            "ko-KR": "귀엽고 부드러운 공룡 인형을 파는 가게",
             "zh-TW": "販賣可愛恐龍填充玩具的攤位",
-            "pt-BR": "Um quiosque vendendo um Dinossauro de pelúcia fofinho"
+            "pt-BR": "Um quiosque vendendo um Dinossauro de pelúcia fofinho",
+            "cs-CZ": "Stánek prodávající roztomilé plyšáky-dinosaury",
+            "pl-PL": "Stoisko sprzedające mięciutkie dinozaury",
+            "ru-RU": "Палатка с динозавриками"
         }
     }
 }

@@ -23,12 +23,16 @@
             "de-DE": "Bretzelstand",
             "es-ES": "Puesto de pretzel",
             "it-IT": "Chiosco dei biscottini",
-            "nl-NL": "Kraampje met Zoute krakelingen",
+            "nl-NL": "Krakelingenkraam",
             "sv-SE": "Kringlestånd",
-            "ko-KR": "프레첼 비스킷 가게",
+            "ko-KR": "프레첼 가게",
             "zh-CN": "椒盐脆饼店",
             "zh-TW": "椒鹽脆餅店",
-            "pt-BR": "Barraca de Pretzels"
+            "pt-BR": "Barraca de Pretzels",
+            "cs-CZ": "Stánek s preclíky",
+            "ja-JP": "プレッツェル・ショップ",
+            "pl-PL": "Kiosk z preclami",
+            "ru-RU": "Крендели"
         },
         "description": {
             "en-GB": "A stall selling crispy pretzels",
@@ -36,12 +40,16 @@
             "de-DE": "Ein Stand, an dem knusprige Bretzeln verkauft werden",
             "es-ES": "Puesto que vende galletas pretzel",
             "it-IT": "Un chiosco che vende biscottini croccanti",
-            "nl-NL": "Een kraampje dat knapperige zoute krakelingen verkoopt",
+            "nl-NL": "Een kraam waar knapperige zoute krakelingen worden verkocht.",
             "sv-SE": "Ett stånd som säljer frasiga salta kringlor",
-            "ko-KR": "프레첼 비스킷을 파는 건물",
+            "ko-KR": "바삭한 프레첼을 파는 가게",
             "zh-CN": "一家卖酥脆的椒盐脆饼的店",
             "zh-TW": "一家賣酥脆的椒鹽脆餅的店",
-            "pt-BR": "Uma barraca vendendo pretzels crocantes"
+            "pt-BR": "Uma barraca vendendo pretzels crocantes",
+            "cs-CZ": "Stánek prodávající křupavé preclíky",
+            "ja-JP": "サクサクのプレッツェルを売る売店です",
+            "pl-PL": "Stoisko sprzedające chrupiące precle",
+            "ru-RU": "Палатка с кренделями"
         }
     }
 }

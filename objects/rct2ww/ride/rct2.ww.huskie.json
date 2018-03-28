@@ -67,9 +67,13 @@
             "de-DE": "Husky-Wagen",
             "es-ES": "Vagón Huskie",
             "it-IT": "La slitta coi cani",
-            "nl-NL": "Husky-Wagen",
+            "nl-NL": "Huskiewagentjes",
             "sv-SE": "Hundsläde",
-            "zh-CN": "哈士奇车"
+            "zh-CN": "哈士奇车",
+            "cs-CZ": "Autodráha se saněmi",
+            "ko-KR": "허스키 카",
+            "pl-PL": "Psi zaprzęg",
+            "ru-RU": "Хаски"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of Huskie sleds which follow a track-based route",
@@ -77,9 +81,13 @@
             "de-DE": "Huskyschlittenförmige Fahrzeuge mit Eigenantrieb, die einer Schienenstrecke folgen",
             "es-ES": "Vehículos eléctricos con forma de trineos de perros huskies, que siguen una ruta sobre raíles",
             "it-IT": "Attrazione composta da veicoli a propulsione autonoma a forma di slitta coi cani, che procedono lungo un percorso",
-            "nl-NL": "Aangedreven wagens in de vorm van Husky-sleden die een route volgen die op een sneeuwspoor lijkt",
+            "nl-NL": "Elektrische voertuigen in de vorm van een huskieslee.",
             "sv-SE": "Eldrivna hundslädesvagnar följer en utlagd bana",
-            "zh-CN": "依循着基层轨道运行以哈士奇雪橇为外形的动力式运载工具"
+            "zh-CN": "依循着基层轨道运行以哈士奇雪橇为外形的动力式运载工具",
+            "cs-CZ": "Vozy ve tvaru sněžných saní jezdí po postavené dráze",
+            "ko-KR": "트랙을 따라 이동하는 허스키 썰매 모양의 차량",
+            "pl-PL": "Pojazdy w kształcie sanek zaprzężonych w psy jadące po torze",
+            "ru-RU": "Машинки в форме эскимосских санок едут по рельсам."
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -87,9 +95,13 @@
             "de-DE": "2 pro Wagen",
             "es-ES": "2 pasajeros por vagón",
             "it-IT": "2 passeggeri per carrozza",
-            "nl-NL": "2 passagiers per wagentje",
+            "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "zh-CN": "每辆车限乘2人"
+            "zh-CN": "每辆车限乘2人",
+            "cs-CZ": "2 místa v každém voze",
+            "ko-KR": "차량당 2명의 승객",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 человека в машинке"
         }
     }
 }

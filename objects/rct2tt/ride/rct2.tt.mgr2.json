@@ -370,9 +370,12 @@
             "it-IT": "Giostra a due piani",
             "nl-NL": "Dubbeldekscarrousel",
             "sv-SE": "Dubbeldäckarkarusell",
-            "ko-KR": "더블 데크 캐러셀",
+            "ko-KR": "2층 회전목마",
             "zh-TW": "雙層旋轉木馬",
-            "pt-BR": "Carrossel de Dois Andares"
+            "pt-BR": "Carrossel de Dois Andares",
+            "cs-CZ": "Dvoupatrový kolotoč",
+            "pl-PL": "Karuzela z konikami",
+            "ru-RU": "Двойная Карусель"
         },
         "description": {
             "en-GB": "Traditional enclosed double-deck carousel with carved wooden horses",
@@ -380,11 +383,14 @@
             "de-DE": "Traditionelles, geschlossenes zweistöckiges Karussell mit geschnitzten Holzpferden",
             "es-ES": "Tiovivo tradicional, cerrado, de dos niveles, con caballos tallados en madera.",
             "it-IT": "La tradizionale giostra a due piani con i cavalli scolpiti in legno.",
-            "nl-NL": "Traditionele dichte dubbeldekscarrousel met gesneden houten paarden.",
+            "nl-NL": "Traditionele overdekte dubbeldekscarrousel met uit hout gesneden paarden.",
             "sv-SE": "Traditionell dubbeldäckskarusell med snidade trähästar.",
-            "ko-KR": "전통적인 이중 갑판으로 둘러싸여 있고 나무로 조각된 말이 있는 회전목마",
+            "ko-KR": "나무로 조각된 말이 있는 전통적인 회전 목마",
             "zh-TW": "傳統隔絕式雙層旋轉木馬,內有木雕馬匹",
-            "pt-BR": "Carrossel tradicional de dois andares com cavalos em madeira esculpida"
+            "pt-BR": "Carrossel tradicional de dois andares com cavalos em madeira esculpida",
+            "cs-CZ": "Klasický dvoupatrový kolotoč s vyřezávanými koníky",
+            "pl-PL": "Tradycyjna zadaszona karuzela z drewnianymi konikami",
+            "ru-RU": "Классическая карусель с деревянными лошадками"
         },
         "capacity": {
             "en-GB": "32 passengers",
@@ -394,9 +400,12 @@
             "it-IT": "32 passeggeri",
             "nl-NL": "32 passagiers",
             "sv-SE": "32 passagerare",
-            "ko-KR": "정원 32명",
+            "ko-KR": "승객 32명",
             "zh-TW": "限乘32人",
-            "pt-BR": "32 passageiros"
+            "pt-BR": "32 passageiros",
+            "cs-CZ": "32 návštěvníků",
+            "pl-PL": "32 pasażerów",
+            "ru-RU": "32 человека"
         }
     }
 }

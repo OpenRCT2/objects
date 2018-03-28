@@ -25,9 +25,12 @@
             "it-IT": "Spremuta lunare",
             "nl-NL": "Maansap",
             "sv-SE": "Månjuice",
-            "ko-KR": "문 주스",
+            "ko-KR": "달빛 주스",
             "zh-TW": "月球果汁",
-            "pt-BR": "Suco da Lua"
+            "pt-BR": "Suco da Lua",
+            "cs-CZ": "Šťáva z Měsíce",
+            "pl-PL": "Sok z Księżyca",
+            "ru-RU": "Лунный Сок"
         },
         "description": {
             "en-GB": "A stall selling the latest soft drinks",
@@ -35,11 +38,14 @@
             "de-DE": "Ein Stand, der die neuesten Softdrinks verkauft",
             "es-ES": "Un puesto en el que se vende lo último en bebidas suaves",
             "it-IT": "Chiosco con le bevande analcoliche più nuove.",
-            "nl-NL": "Een kraampje met de nieuwste frisdranken",
+            "nl-NL": "Een kraam waar de nieuwste soorten frisdrank worden verkocht.",
             "sv-SE": "Stånd som säljer de senaste läskedryckerna.",
-            "ko-KR": "최신 음료수를 파는 가게",
+            "ko-KR": "최신 청량음료를 파는 가게",
             "zh-TW": "販賣最新的碳酸飲料的攤位",
-            "pt-BR": "Um quiosque vendendo as novidades em refrigerantes"
+            "pt-BR": "Um quiosque vendendo as novidades em refrigerantes",
+            "cs-CZ": "Stánek prodávající nejnovější slazené nápoje",
+            "pl-PL": "Stoisko sprzedające najnowsze napoje bezalkoholowe",
+            "ru-RU": "Палатка с напитками"
         }
     }
 }

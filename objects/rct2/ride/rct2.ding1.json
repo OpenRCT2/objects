@@ -47,17 +47,23 @@
     "images": ["$RCT2:OBJDATA/DING1.DAT[0..2578]"],
     "strings": {
         "name": {
-            "en-GB": "Dinghy Slide",
+            "en-GB": "Dinghies",
             "fr-FR": "Canotube",
             "de-DE": "Schlauchboot-Gleitbahn",
             "es-ES": "Botes deslizantes",
             "it-IT": "Scivolo con canotto",
-            "nl-NL": "Dinghy Baan",
+            "nl-NL": "Opblaasbootjes",
             "sv-SE": "Jollebana",
-            "ko-KR": "고무보트 슬라이드",
+            "ko-KR": "보트",
             "zh-CN": "滑行小船",
             "zh-TW": "滑行小船",
-            "pt-BR": "Descida de Barcos"
+            "pt-BR": "Dinghies",
+            "ar-EG": "Dinghies",
+            "cs-CZ": "Nafukovací čluny",
+            "en-US": "Dinghies",
+            "ja-JP": "ディンジー・スライド",
+            "pl-PL": "Ślizg pontonowy",
+            "ru-RU": "Шлюпки"
         },
         "description": {
             "en-GB": "Riders travel in inflatable dinghies down a twisting semi-circular or completely enclosed tube track",
@@ -65,12 +71,16 @@
             "de-DE": "Die Passagiere fahren in Schlauchbooten eine sich windende, halbkreisförmige oder komplett in sich geschlossene Rohrstrecke herunter",
             "es-ES": "Los pasajeros viajan en botes hinchables por tubos semicirculares o totalmente cerrados",
             "it-IT": "I passeggeri viaggiano su canotti gonfiabili lungo un percorso semi-circolare pieno di curve o lungo un percorso a tubo completamente chiuso",
-            "nl-NL": "Bezoekers zoeven omlaag in opblaasbare dinghies over een bochtige halfronde of geheel gesloten buis",
+            "nl-NL": "Passagiers glijden in opblaasboten door een kronkelende halfopen of compleet gesloten glijbaan.",
             "sv-SE": "Passagerarna åker i uppblåsbara jollar ner för ett skruvat halvrunt eller helt slutet rörspår",
-            "ko-KR": "고무보트를 타고 도는 폐쇄되거나 반 폐쇄된 코스",
+            "ko-KR": "반원형 또는 밀폐형 원형 튜브 트랙을 따라 이동하는 공기 주입식 고무 보트",
             "zh-CN": "乘客在膨胀的小船滑下到半圆型或完整封闭管道内滑行",
             "zh-TW": "乘客在膨脹的小船滑下到半圓型或完整封閉管道內滑行",
-            "pt-BR": "Os passageiros viajam em barcos infláveis numa pista sinuosa semicircular ou de tubo fechado"
+            "pt-BR": "Os passageiros viajam em barcos infláveis numa pista sinuosa semicircular ou de tubo fechado",
+            "cs-CZ": "Návštěvníci jedou v nafukovacích člunech po tobogánu",
+            "ja-JP": "ねじれた半円形のコース、またはパイプの中を通るゴムボートです",
+            "pl-PL": "Pasażerowie podróżują w nadmuchiwanych pontonach po zawiłym półkolistym lub rurowym torze",
+            "ru-RU": "Люди катаются в шлюпках."
         },
         "capacity": {
             "en-GB": "2 passengers per dinghy",
@@ -78,12 +88,16 @@
             "de-DE": "2 Fahrgäste pro Schlauchboot",
             "es-ES": "2 pasajeros por bote",
             "it-IT": "2 passeggeri per canotto",
-            "nl-NL": "2 passagiers per dinghy",
+            "nl-NL": "2 passagiers per bootje",
             "sv-SE": "2 passagerare per livbåt",
-            "ko-KR": "보트당 정원 2명",
+            "ko-KR": "보트당 2명의 승객",
             "zh-CN": "2 位乘客 /每艘小船",
             "zh-TW": "2 位乘客 /每艘小船",
-            "pt-BR": "2 passageiros por barco"
+            "pt-BR": "2 passageiros por barco",
+            "cs-CZ": "2 místa v každé lodi",
+            "ja-JP": "各ボート2名",
+            "pl-PL": "2 pasażerów na ponton",
+            "ru-RU": "2 пассажира"
         }
     }
 }

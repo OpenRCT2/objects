@@ -401,11 +401,14 @@
             "de-DE": "Maschinenpistolen-Attraktion",
             "es-ES": "Viaje de la metralleta",
             "it-IT": "Corsa del mitragliatore",
-            "nl-NL": "Tommy Gun-attractie",
+            "nl-NL": "Tommygun-twist",
             "sv-SE": "Kulspruta",
-            "ko-KR": "타미 건 라이드",
+            "ko-KR": "기관 단총 라이드",
             "zh-TW": "機關槍遊樂設施",
-            "pt-BR": "Brinquedo Tommy Gun"
+            "pt-BR": "Brinquedo Tommy Gun",
+            "cs-CZ": "Jízda s Thompsonem",
+            "pl-PL": "Wystrzałowa przejażdżka",
+            "ru-RU": "Томми-Ган"
         },
         "description": {
             "en-GB": "Riders ride in pairs of themed seats which rotate around a large replica Tommy Gun.",
@@ -413,11 +416,14 @@
             "de-DE": "Die Fahrer sitzen zu zweit in Sitzen, die sich um die Nachbildung einer großen Maschinenpistole drehen.",
             "es-ES": "Los usuarios van en parejas, en vagones decorados que giran alrededor de una réplica de una metralleta.",
             "it-IT": "I passeggeri siedono in coppia su sedili che ruotano intorno a una grande riproduzione di un fucile mitragliatore.",
-            "nl-NL": "Bezoekers rijden in thematische stoeltjes die rond een grote replica van een Tommy Gun draaien.",
+            "nl-NL": "Passagiers zitten per twee in stoelen die rond een grote replica van een 'Tommy gun' draaien.",
             "sv-SE": "Passagerarna åker i par i säten som roterar kring en stor modellkulspruta.",
-            "ko-KR": "거대한 복제 타미 건 주위를 도는 테마 의자에 짝을 지어 타는 놀이기구",
+            "ko-KR": "거대한 기관 단총 모형 주변을 회전하는 좌석에 손님이 짝을 지어 타는 놀이기구",
             "zh-TW": "乘客兩人一組乘坐在主題座椅上，繞著一挺大型的仿製機關槍旋轉",
-            "pt-BR": "Os visitantes andam em pares de assentos temáticos que giram ao redor de uma grande réplica de Tommy Gun"
+            "pt-BR": "Os visitantes andam em pares de assentos temáticos que giram ao redor de uma grande réplica de Tommy Gun",
+            "cs-CZ": "Návštěvníci sedí po dvou na sedačkách, které se otáčejí okolo velké repliky samopalu Thompson uprostřed",
+            "pl-PL": "Pasażerowie podróżują parami w stylizowanych siedziskach, okrążających wielką replikę pistoletu maszynowego.",
+            "ru-RU": "Люди сидят попарно и вращаются вокруг большого автомата."
         },
         "capacity": {
             "en-GB": "18 passengers",
@@ -427,9 +433,12 @@
             "it-IT": "18 passeggeri",
             "nl-NL": "18 passagiers",
             "sv-SE": "18 passagerare",
-            "ko-KR": "정원 18명",
+            "ko-KR": "승객 18명",
             "zh-TW": "限乘18人",
-            "pt-BR": "18 passageiros"
+            "pt-BR": "18 passageiros",
+            "cs-CZ": "18 návštěvníků",
+            "pl-PL": "18 pasażerów",
+            "ru-RU": "18 человек"
         }
     }
 }

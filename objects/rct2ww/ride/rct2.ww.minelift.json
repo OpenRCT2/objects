@@ -123,24 +123,38 @@
     "images": ["$RCT2:OBJDATA/MINELIFT.DAT[0..146]"],
     "strings": {
         "name": {
-            "en-GB": "Mine Lift",
+            "en-GB": "Mine Lift Cabin",
             "fr-FR": "Ascenseur",
             "de-DE": "Minenlift",
             "es-ES": "Elevador de la mina",
             "it-IT": "Il montacarichi da miniera",
             "nl-NL": "Mijnlift",
             "sv-SE": "Gruvhiss",
-            "zh-CN": "坑道升降机"
+            "zh-CN": "坑道升降机",
+            "ar-EG": "Mine Lift Cabin",
+            "cs-CZ": "Důlní výtah",
+            "en-US": "Mine Lift Cabin",
+            "ko-KR": "탄광 엘리베이터 차량",
+            "pl-PL": "Winda kopalniana",
+            "pt-BR": "Cabine de Elevador de Mina",
+            "ru-RU": "Шахта"
         },
         "description": {
-            "en-GB": "Guests ride in an elevator up or down a vertical tower to get from one level to another",
+            "en-GB": "A steel lift cabin commonly used in mines",
             "fr-FR": "Les passagers passent aux différents niveaux d'une tour verticale à bord d'un ascenseur",
             "de-DE": "Die Besucher fahren in einem Aufzug einen Turm hinauf oder hinab, um in ein anderes Stockwerk zu gelangen",
             "es-ES": "Los pasajeros montan en un elevador que sube o baja por una torre vertical para ir de un nivel a otro",
             "it-IT": "I passeggeri entrano in un montacarichi che si muove verticalmente in una torre per passare da un livello all'altro",
-            "nl-NL": "De passagiers gaan in een lift omhoog of omlaag in een verticale toren om van het ene naar het andere niveau te komen",
+            "nl-NL": "Bezoekers gaan in een lift in een toren omhoog of omlaag om naar een ander hoogteniveau te komen.",
             "sv-SE": "Passagerare åker hiss upp eller ner mellan nivåer i ett vertikalt torn",
-            "zh-CN": "游客搭乘上升或下降的电梯在垂直大楼某一层楼到另一层楼"
+            "zh-CN": "游客搭乘上升或下降的电梯在垂直大楼某一层楼到另一层楼",
+            "ar-EG": "A steel lift cabin commonly used in mines",
+            "cs-CZ": "Výtah s ocelovou kabinou připomínající důlní výtah",
+            "en-US": "A steel lift cabin commonly used in mines",
+            "ko-KR": "탄광에서 주로 사용하는 철제 엘리베이터",
+            "pl-PL": "Pasażerowie jeżdżą w dół lub w górę windą w wieży, aby przejść z jednego poziomu na drugi",
+            "pt-BR": "Uma cabine de aço de elevator comumente usado em minas",
+            "ru-RU": "Люди едут на лифте вверх и вниз по вертикальной шахте"
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -150,7 +164,11 @@
             "it-IT": "16 passeggeri",
             "nl-NL": "16 passagiers",
             "sv-SE": "16 passagerare",
-            "zh-CN": "限乘16人"
+            "zh-CN": "限乘16人",
+            "cs-CZ": "16 návštěvníků",
+            "ko-KR": "승객 16명",
+            "pl-PL": "16 pasażerów",
+            "ru-RU": "16 пассажиров"
         }
     }
 }

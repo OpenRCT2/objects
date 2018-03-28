@@ -43,16 +43,21 @@
     "images": ["$RCT2:OBJDATA/HOVERBKE.DAT[0..258]"],
     "strings": {
         "name": {
-            "en-GB": "Hover Bike Ride",
+            "en-GB": "Hover Bikes",
             "fr-FR": "Moto sur coussin d'air",
             "de-DE": "Schweberad-Attraktion",
             "es-ES": "Viaje en moto jet",
             "it-IT": "Giro sulla bicicletta volante",
-            "nl-NL": "Zweeffiets Attractie",
+            "nl-NL": "Zweeffietsen",
             "sv-SE": "Svävarcyklar",
-            "ko-KR": "호버 바이크 라이드",
+            "ko-KR": "호버 바이크",
             "zh-TW": "飛行腳踏車遊樂設施",
-            "pt-BR": "Brinquedo de Moto Flutuante"
+            "pt-BR": "Motos Flutuantes",
+            "ar-EG": "العجلات الحوامة",
+            "cs-CZ": "Vznášedlová moto horská dráha",
+            "en-US": "Hover Bikes",
+            "pl-PL": "Latające motocykle",
+            "ru-RU": "Ховербайки"
         },
         "description": {
             "en-GB": "Riders sit on futuristic bike-shaped vehicles which travel along a single-rail track",
@@ -60,11 +65,14 @@
             "de-DE": "Die Fahrer fahren auf futuristischen Fahrrädern über eine Einschienen-Strecke",
             "es-ES": "Los viajeros se sientan en vehículos con forma de moto que viajan por un monorraíl.",
             "it-IT": "I passeggeri attraversano un tracciato monorotaia su veicoli a forma di biciclette volanti.",
-            "nl-NL": "Rijders zitten op futuristische motorfietsachtige voertuigen die langs een enkelrailsbaan gaan",
+            "nl-NL": "Passagiers zitten op futuristische fietsvormige voertuigen die over een enkele rail lopen.",
             "sv-SE": "Förarna sitter på futuristiska cykelformade fordon som färdas längs en enspårsbana.",
-            "ko-KR": "미래의 오토바이처럼 생긴 차량 위에 앉아 하나의 레일 트랙을 따라가는 놀이기구",
+            "ko-KR": "탑승객들이 미래에서 볼 만한 자전거 모양의 차량에 타고 단일 레일 트랙을 따라 이동하는 놀이기구",
             "zh-TW": "乘客乘坐在有未來感的腳踏車外形車輛上,沿著單軌軌道前進",
-            "pt-BR": "Os visitantes se sentam em veículos na forma de motos futuristas que viajam por uma pista de monotrilho"
+            "pt-BR": "Os visitantes se sentam em veículos na forma de motos futuristas que viajam por uma pista de monotrilho",
+            "cs-CZ": "Návštěvníci sedí na futuristických motorkách, která jedou po jednokolejné dráze",
+            "pl-PL": "Pasażerowie podróżują na futurystycznych pojazdach w kształcie motocykli, jadących po jednoszynowym torze",
+            "ru-RU": "Люди сидят в футуристических байках и едут по монорельсу"
         },
         "capacity": {
             "en-GB": "2 riders per vehicle",
@@ -72,11 +80,14 @@
             "de-DE": "2 Fahrer pro Wagen",
             "es-ES": "2 pasajeros por vehículo.",
             "it-IT": "2 passeggeri per veicolo",
-            "nl-NL": "2 rijders per voertuig",
+            "nl-NL": "2 passagiers per zweeffiets",
             "sv-SE": "2 passagerare per fordon",
-            "ko-KR": "차량 정원 2명",
+            "ko-KR": "차량당 2명의 승객",
             "zh-TW": "每輛車限乘2人",
-            "pt-BR": "2 visitantes por veículo"
+            "pt-BR": "2 visitantes por veículo",
+            "cs-CZ": "2 místa na každé motorce",
+            "pl-PL": "2 pasażerów na pojazd",
+            "ru-RU": "2 чел. в машине"
         }
     }
 }

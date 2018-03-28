@@ -58,12 +58,16 @@
             "de-DE": "Holzachterbahnzüge",
             "es-ES": "Tren Montaña Rusa de Madera",
             "it-IT": "Treni da ottovolante di legno",
-            "nl-NL": "Houten Achtbaantreintjes",
+            "nl-NL": "Houten achtbaantrein",
             "sv-SE": "Tåg till träberg- och dalbana",
-            "ko-KR": "목재 롤러코스터",
+            "ko-KR": "우든 롤러코스터 차량",
             "zh-CN": "木架过山车列车",
             "zh-TW": "木架雲霄飛車列車",
-            "pt-BR": "Trens de Montanha-russa de Madeira"
+            "pt-BR": "Trens de Montanha-russa de Madeira",
+            "cs-CZ": "Dřevěná horská dráha",
+            "ja-JP": "木のコースター・トレーン",
+            "pl-PL": "Drewniana kolejka górska",
+            "ru-RU": "Деревянные поезда"
         },
         "description": {
             "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints",
@@ -71,12 +75,16 @@
             "de-DE": "Hölzerne Achterbahnzüge mit gepolsterten Sitzen und Beckenhaltevorrichtungen",
             "es-ES": "Vagones de madera",
             "it-IT": "Treni da ottovolante di legno con sedili imbottiti e barra al petto per protezione",
-            "nl-NL": "Houten achtbaantreintjes met gevulde zittingen en beveiligingen",
+            "nl-NL": "Houten achtbaantrein met gevoerde zittingen en schootbeugels.",
             "sv-SE": "Tåg till träberg- och dalbana med stoppade säten och knästång",
-            "ko-KR": "쿠션이 있는 의자와 무릎에 안전 장치가 내려오는 나무 재질의 롤러코스터",
+            "ko-KR": "푹신한 좌석과 무릎 안전바가 있는 나무 롤러코스터 차량",
             "zh-CN": "木架过山车列车是装填垫料座椅及膝部有安全护条装置",
             "zh-TW": "木架雲霄飛車列車是裝填墊料座椅及膝部有安全護條裝置",
-            "pt-BR": "Trens de montanha-russa de madeira com assentos acolchoados e protetores de colo"
+            "pt-BR": "Trens de montanha-russa de madeira com assentos acolchoados e protetores de colo",
+            "cs-CZ": "Dřevěná horská dráha s vozy s polstrovanými sedadly a opěrkou v klína",
+            "ja-JP": "膝の安全バーが付いた、パッド入りの座席を持つ木製のコースターです",
+            "pl-PL": "Drewniana kolejka górska z wyściełanymi siedzeniami i zabezpieczeniami obejmującymi pasażerów w pasie",
+            "ru-RU": "Деревянные поезда для горок с ремнями на колени"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -84,12 +92,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por carro"
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

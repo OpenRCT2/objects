@@ -97,12 +97,16 @@
             "de-DE": "Marienkäferzüge",
             "es-ES": "Tren Mariquita",
             "it-IT": "Treni coccinella",
-            "nl-NL": "Lieveheersbeestjes Treintjes",
+            "nl-NL": "Lieveheersbeestjestreinen",
             "sv-SE": "Nyckelpigetåg",
-            "ko-KR": "레이디버드",
+            "ko-KR": "무당벌레 차량",
             "zh-CN": "瓢虫列车",
             "zh-TW": "瓢蟲列車",
-            "pt-BR": "Trens de Joaninha"
+            "pt-BR": "Trens de Joaninha",
+            "cs-CZ": "Beruščiny vozy",
+            "ja-JP": "テントウムシ車両",
+            "pl-PL": "Jazda na biedronkach",
+            "ru-RU": "Божья Коровка"
         },
         "description": {
             "en-GB": "Roller coaster trains with small ladybird shaped cars",
@@ -110,12 +114,16 @@
             "de-DE": "Achterbahnzüge mit kleinen Marienkäferwagen",
             "es-ES": "Montaña rusa con vagones de forma de mariquitas",
             "it-IT": "Treni da ottovolante a forma di piccole coccinelle",
-            "nl-NL": "Achtbaantreinen met kleine wagentjes in de vorm van lieveheersbeestjes",
+            "nl-NL": "Achtbaantrein met kleine karretjes in de vorm van een lieveheersbeestje.",
             "sv-SE": "Berg- och dalbanetåg med små nyckelpigeformade vagnar",
-            "ko-KR": "작은 레이디버드 모양의 롤러코스터",
+            "ko-KR": "작은 무당벌레 모양의 롤러코스터 차량",
             "zh-CN": "过山车列车是以瓢虫外形的车辆",
             "zh-TW": "雲霄飛車列車是以瓢蟲外形的車輛",
-            "pt-BR": "Trens de montanha-russa com pequenos vagões em forma de joaninha"
+            "pt-BR": "Trens de montanha-russa com pequenos vagões em forma de joaninha",
+            "cs-CZ": "Horská dráha s vozy ve tvaru malých berušek",
+            "ja-JP": "てんとう虫形の車両のローラーコースターです",
+            "pl-PL": "Kolejka górska z wagonikami w kształcie biedronek",
+            "ru-RU": "Поезд с маленькими божьими коровками"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -123,12 +131,16 @@
             "de-DE": "2 Fahrgäste pro Wagen",
             "es-ES": "2 pasajeros por coche",
             "it-IT": "2 passeggeri a carrozza",
-            "nl-NL": "2 passagiers per wagentje",
+            "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "ko-KR": "차량 정원 2명",
+            "ko-KR": "차량당 2명의 승객",
             "zh-CN": "2 位乘客/每个车厢",
             "zh-TW": "2 位乘客/每個車廂",
-            "pt-BR": "2 passageiros por vagão"
+            "pt-BR": "2 passageiros por vagão",
+            "cs-CZ": "2 místa v každém vozu",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира"
         }
     }
 }

@@ -41,30 +41,42 @@
     "images": ["$RCT2:OBJDATA/SBOX.DAT[0..386]"],
     "strings": {
         "name": {
-            "en-GB": "Soap Box Derby Racers",
+            "en-GB": "Soap boxes",
             "fr-FR": "Savonneuse",
             "de-DE": "Seifenkisten-Rennwagen",
             "es-ES": "Carreras de Jaboneras",
             "it-IT": "Derby delle scatole di sapone",
-            "nl-NL": "Zeepkist Derby Racers",
+            "nl-NL": "Zeepkisten",
             "sv-SE": "Lådbilsrally",
-            "ko-KR": "비누 상자 경주",
+            "ko-KR": "조립 경주차",
             "zh-CN": "肥皂盒德贝赛车",
             "zh-TW": "肥皂盒德貝賽車",
-            "pt-BR": "Corrida de Caixas"
+            "pt-BR": "Caixas de Sabão",
+            "ar-EG": "Soap boxes",
+            "cs-CZ": "Závodní krabičky od mýdla",
+            "en-US": "Soap boxes",
+            "ja-JP": "石鹸箱ダービーレース",
+            "pl-PL": "Wyścigi mydelniczek",
+            "ru-RU": "Мыльные Гонки"
         },
         "description": {
-            "en-GB": "Riders ride soap-box car shaped vehicles along a single-rail roller coaster track",
+            "en-GB": "Single cars shaped like a soap box",
             "fr-FR": "Voiture en forme de boîte à savon se déplaçant sur des montagnes russes monorail",
             "de-DE": "Die Passagiere fahren in Fahrzeugen in Seifenkistenform auf einer eingleisigen Achterbahnstrecke",
             "es-ES": "Los pasajeros usan vagones con forma de jaboneras",
             "it-IT": "I visitatori salgono su carrozze a forma di scatole di sapone che corrono lungo un tracciato monorotaia da ottovolante",
-            "nl-NL": "Attractie met wagentjes in de vorm van zeepkisten die over een achtbaan met één enkele rails gaan",
+            "nl-NL": "Passagiers zitten in voertuigen in de vorm van een zeepkist die over een enkele rail lopen.",
             "sv-SE": "Passagerarna åker i lådbilar längs en enkelspårig berg- och dalbana",
-            "ko-KR": "모노레일 위를 달리는 비누 상자 모양의 롤러코스터",
+            "ko-KR": "하나의 레일로 이루어진 롤러코스터 트랙을 이동하는 조립 경주차 모양의 차량",
             "zh-CN": "乘客乘坐在肥皂盒外形的车辆延着单轨式的过山车",
             "zh-TW": "乘客乘坐在肥皂盒外形的車輛延著單軌式的雲霄飛車",
-            "pt-BR": "Os passageiros andam em veículos na forma de carrinhos de caixote, ao longo de uma pista de montanha-russa tipo monotrilho"
+            "pt-BR": "Carros únicos moldados como caixas de sabão",
+            "ar-EG": "Single cars shaped like a soap box",
+            "cs-CZ": "Návštěvníci jezdí v závodních vozech ve tvaru dávných krabiček od mýdla",
+            "en-US": "Single cars shaped like a soap box",
+            "ja-JP": "石鹸入れの形をした車両の、シングルレールコースのローラーコースターです",
+            "pl-PL": "Pasażerowie jadą wagonikami w kształcie mydelniczek po jednoszynowym torze kolejki",
+            "ru-RU": "Гонки на машинках в виде мыльниц по американским горкам."
         },
         "capacity": {
             "en-GB": "4 riders per car",
@@ -72,12 +84,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 bezoekers per wagentje",
+            "nl-NL": "4 passagiers per zeepkist",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por vagão"
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 чел."
         }
     }
 }

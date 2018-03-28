@@ -42,16 +42,21 @@
     "images": ["$RCT2:OBJDATA/RIVRSTYX.DAT[0..98]"],
     "strings": {
         "name": {
-            "en-GB": "River Styx",
+            "en-GB": "River Styx boats",
             "fr-FR": "Le Styx",
             "de-DE": "Styx",
             "es-ES": "Río Styx",
             "it-IT": "Lo Stige",
-            "nl-NL": "Rivier Styx",
+            "nl-NL": "Styxbootjes",
             "sv-SE": "Floden Styx",
-            "ko-KR": "리버 스틱스",
+            "ko-KR": "스틱스 강 보트",
             "zh-TW": "冥河",
-            "pt-BR": "Rio Styx"
+            "pt-BR": "Barcos Rio Styx",
+            "ar-EG": "River Styx boats",
+            "cs-CZ": "Řeka Styx",
+            "en-US": "River Styx boats",
+            "pl-PL": "Rzeka Styks",
+            "ru-RU": "Стикс"
         },
         "description": {
             "en-GB": "Raft-shaped boats gently meander around a river track",
@@ -59,11 +64,14 @@
             "de-DE": "Wildwasserboote gleiten einen Flusslauf entlang.",
             "es-ES": "Botes con forma de balsa que serpentean tranquilamente por un circuito de río.",
             "it-IT": "Barche a forma di zattere si muovono dolcemente lungo una pista d'acqua.",
-            "nl-NL": "Bootjes in de vorm van een vlot kronkelen langs een rivierbaan.",
+            "nl-NL": "Bezoekers varen in het bootje van Charon door een waterbak.",
             "sv-SE": "Flottliknande båtar vaggar lugnt fram längs ett flodspår.",
-            "ko-KR": "수로를 따라 흐르는 뗏목보트",
+            "ko-KR": "강 모양의 트랙을 따라 조용히 흘러가는 보트",
             "zh-TW": "橡皮艇形的船在水道上曲折前進",
-            "pt-BR": "Barcos em forma de balsa vagueiam gentilmente por uma pista de rio"
+            "pt-BR": "Barcos em forma de balsa vagueiam gentilmente por uma pista de rio",
+            "cs-CZ": "Rafty se plaví po meandrech na vodním kanále",
+            "pl-PL": "Łódki w kształcie tratw płyną spokojnie krętym torem rzecznym",
+            "ru-RU": "Лодки, спокойно плывущие по речке."
         },
         "capacity": {
             "en-GB": "4 passengers per raft",
@@ -71,11 +79,14 @@
             "de-DE": "4 Fahrgäste pro Boot",
             "es-ES": "4 pasajeros por coche",
             "it-IT": "4 passeggeri per zattera",
-            "nl-NL": "4 passagiers per vlot",
+            "nl-NL": "4 passagiers per bootje",
             "sv-SE": "4 passagerare per flotte",
-            "ko-KR": "보트 정원 4명",
+            "ko-KR": "보트당 4명의 승객",
             "zh-TW": "4 位乘客 /每艘橡皮艇",
-            "pt-BR": "4 passageiros por balsa"
+            "pt-BR": "4 passageiros por balsa",
+            "cs-CZ": "4 místa na každém raftu",
+            "pl-PL": "4 pasażerów na tratwę",
+            "ru-RU": "4 чел. в рафте"
         }
     }
 }

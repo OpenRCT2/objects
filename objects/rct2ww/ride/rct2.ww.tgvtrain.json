@@ -117,14 +117,21 @@
     "images": ["$RCT2:OBJDATA/TGVTRAIN.DAT[0..5882]"],
     "strings": {
         "name": {
-            "en-GB": "TGV Train Roller Coaster",
+            "en-GB": "TGV Trains",
             "fr-FR": "Montagnes TGV",
             "de-DE": "TGV-Achterbahn",
             "es-ES": "Montaña Rusa de Tren TVG",
             "it-IT": "Ottovolante TGV",
-            "nl-NL": "TGV Trein-Achtbaan",
+            "nl-NL": "TGV-trein",
             "sv-SE": "TGV-tågbana",
-            "zh-CN": "大众捷运列车云霄飞车"
+            "zh-CN": "大众捷运列车云霄飞车",
+            "ar-EG": "TGV Trains",
+            "cs-CZ": "TGV horská dráha",
+            "en-US": "TGV Trains",
+            "ko-KR": "TGV 차량",
+            "pl-PL": "Pociąg TGV",
+            "pt-BR": "Trens TGV",
+            "ru-RU": "Поезд TGV"
         },
         "description": {
             "en-GB": "Roller coaster trains are accelerated out of the station by linear induction motors to speed through twisting inversions",
@@ -132,9 +139,13 @@
             "de-DE": "Achterbahnzüge werden mithilfe von Linearmotoren aus der Station heraus beschleunigt und rasen durch gewundene Überkopfteile",
             "es-ES": "Los trenes de la montaña rusa salen de la estación acelerados por unos motores de inducción para pasar a toda velocidad por unas retorcidas inversiones",
             "it-IT": "Le carrozze dell'ottovolante sono spinte da motori lineari a induzione, che le lanciano lungo una serie di tortuose inversioni",
-            "nl-NL": "Achtbaantreintjes worden uit het station gelanceerd door lineaire inductiemotoren en gaan snel door draaiende loopings",
+            "nl-NL": "Achtbaantreinen worden door lineaire inductiemotoren het station uit gelanceerd en razen door een kronkelende baan die vaak over de kop gaat.",
             "sv-SE": "Berg- och dalbanevagnar accelererar snabbt ut från stationen med hjälp av induktionsmotorer och susar genom avsnitt med tvära omkastningar",
-            "zh-CN": "云霄飞车列车被直线推进动力以加速推离车站并快速通过倒置旋转轨道"
+            "zh-CN": "云霄飞车列车被直线推进动力以加速推离车站并快速通过倒置旋转轨道",
+            "cs-CZ": "Horská dráha s vozy poháněnými elektromotorem, které sviští skrze propletenou dráhu",
+            "ko-KR": "역에서 선형 유도 모터에 의해 가속되어 꼬여있는 트랙을 빠른 속도로 통과하는 롤러코스터 차량",
+            "pl-PL": "Wagoniki są rozpędzane za pomocą magnetycznego silnika liniowego i podróżują po zakręconym torze",
+            "ru-RU": "Поезд с линейным индукционным мотором с крутыми виражами"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -142,9 +153,13 @@
             "de-DE": "4 pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri per carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "每辆车限乘4人"
+            "zh-CN": "每辆车限乘4人",
+            "cs-CZ": "4 místa v každém voze",
+            "ko-KR": "차량당 4명의 승객",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

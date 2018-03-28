@@ -122,11 +122,14 @@
             "de-DE": "Spiegelhalle",
             "es-ES": "Sala de los espejos",
             "it-IT": "Casa degli specchi",
-            "nl-NL": "Spiegelzaal",
+            "nl-NL": "Spiegelpaleis",
             "sv-SE": "Spegelsal",
-            "ko-KR": "홀 오브 미러",
+            "ko-KR": "거울의 방",
             "zh-TW": "鏡屋",
-            "pt-BR": "Sala dos Espelhos"
+            "pt-BR": "Sala dos Espelhos",
+            "cs-CZ": "Zrcadlové bludiště",
+            "pl-PL": "Gabinet luster",
+            "ru-RU": "Холл зеркал"
         },
         "description": {
             "en-GB": "Building containing warped mirrors which distort the reflection of the viewer",
@@ -134,11 +137,14 @@
             "de-DE": "Ein Gebäude mit verzerrten Spiegeln, in denen der Betrachter sich neu entdecken lernt",
             "es-ES": "El edificio contiene espejos deformados que distorsionan el reflejo del observador.",
             "it-IT": "Un edificio composto da specchi curvi che deformano la figura riflessa dei visitatori.",
-            "nl-NL": "Gebouw vol met gebogen spiegels die de reflectie van de kijker vervormen",
+            "nl-NL": "Gebouw met gebogen spiegels die de weerspiegeling van de bezoekers vervormen.",
             "sv-SE": "Byggnad med skeva speglar som förvrider reflektionen av den som speglar sig.",
-            "ko-KR": "사람의 일그러진 모습이 비치는 뒤틀린 거울이 있는 건물",
+            "ko-KR": "보는 사람의 상을 왜곡시키는, 휘어진 거울이 있는 건물",
             "zh-TW": "建築物中有變形的鏡子,會將觀看鏡子的人的影響扭曲",
-            "pt-BR": "Prédio contendo espelhos retorcidos que distorcem o reflexo de quem os vê"
+            "pt-BR": "Prédio contendo espelhos retorcidos que distorcem o reflexo de quem os vê",
+            "cs-CZ": "Budova s pokřivenými zrcadly",
+            "pl-PL": "Budynek z powykrzywianymi lustrami, zniekształcającymi odbicia gości",
+            "ru-RU": "Здание с кривыми зеркалами, искажающими изображение"
         },
         "capacity": {
             "en-GB": "5 guests",
@@ -146,11 +152,14 @@
             "de-DE": "5 Gäste",
             "es-ES": "5 usuarios",
             "it-IT": "5 visitatori",
-            "nl-NL": "5 gasten",
+            "nl-NL": "5 bezoekers",
             "sv-SE": "5 besökare",
-            "ko-KR": "정원 5명",
+            "ko-KR": "손님 5명",
             "zh-TW": "5位遊客",
-            "pt-BR": "5 visitantes"
+            "pt-BR": "5 visitantes",
+            "cs-CZ": "5 návštěvníků",
+            "pl-PL": "5 osób",
+            "ru-RU": "5 чел."
         }
     }
 }

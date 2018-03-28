@@ -69,24 +69,38 @@
     "images": ["$RCT2:OBJDATA/MANTARAY.DAT[0..1762]"],
     "strings": {
         "name": {
-            "en-GB": "Manta Ray Ride",
+            "en-GB": "Manta Ray boats",
             "fr-FR": "Raie manta",
             "de-DE": "Mantabahn",
             "es-ES": "Atracción Manta Raya",
             "it-IT": "La manta",
-            "nl-NL": "Reuzenmanta-Attractie",
+            "nl-NL": "Manta's",
             "sv-SE": "Djävulsrocka",
-            "zh-CN": "蝠魟游乐设施"
+            "zh-CN": "蝠魟游乐设施",
+            "ar-EG": "Manta Ray boats",
+            "cs-CZ": "Rejnočí jízda",
+            "en-US": "Manta Ray boats",
+            "ko-KR": "쥐가오리 보트",
+            "pl-PL": "Wielka płaszczka",
+            "pt-BR": "Barcos Arraia Manta",
+            "ru-RU": "Манта Рей"
         },
         "description": {
-            "en-GB": "Large capacity boats travel along a wide water channel, propelled up slopes by a conveyor belt, accelerating down steep slopes to soak the riders with a giant splash",
+            "en-GB": "Coaster boats in the shape of a Manta Ray",
             "fr-FR": "Grand bateau qui serpente le long d'une large voie navigable, monte sur des pentes grâce à un tapis roulant, et descend à toute vitesse de l'autre côté, éclaboussant allègrement les passagers",
             "de-DE": "Große Boote bewegen sich in einem breiten Wasserkanal, werden von einem Fließband über Hügel hinweg befördert und sausen steile Gefälle hinunter, damit die Fahrgäste von einem gigantischen Platscher durchnässt werden",
             "es-ES": "Botes de gran capacidad que viajan por un amplio canal de agua y son empujados hacia arriba por una cinta transportadora, para luego precipitarse cuesta abajo empapando a los viajeros con una salpicadura gigante",
             "it-IT": "Delle capienti imbarcazioni si muovono lungo un ampio canale, risalendo grazie a un nastro trasportatore e lanciandosi dalle discese per piombare in acqua e infradiciare i passeggeri",
-            "nl-NL": "Boten met een grote capaciteit varen door een breed kanaal en worden hellingen opgetrokken door een lopende band, en denderen dan snel steile hellingen af om de passagiers met een enorme plons kletsnat te maken",
+            "nl-NL": "Achtbaankarretjes in de vorm van een manta (adelaarsrog).",
             "sv-SE": "Stora båtar som forsar fram i en vattenfylld kanal, bogseras uppåt på transportband och stänker ned åskådare vid foten av dödsföraktande stup",
-            "zh-CN": "?大型容量的船沿着宽敞的水道,以传道带送上斜坡,再加速荡下溅起巨大水花淋湿乘客"
+            "zh-CN": "?大型容量的船沿着宽敞的水道,以传道带送上斜坡,再加速荡下溅起巨大水花淋湿乘客",
+            "ar-EG": "Coaster boats in the shape of a Manta Ray",
+            "cs-CZ": "Lodě ve tvaru rejnuků",
+            "en-US": "Coaster boats in the shape of a Manta Ray",
+            "ko-KR": "쥐가오리 모양을 한 코스터 보트",
+            "pl-PL": "Duże łódki płynące szerokim kanałem wodnym, wciągane na wzniesienia przez taśmę i zjeżdżające z nich z wielkim pluskiem, aby zamoczyć pasażerów",
+            "pt-BR": "Barcos de montanha-russa em formato de uma Arraia Manta",
+            "ru-RU": "Путешествие на лодке по широкому каналу на транспортере"
         },
         "capacity": {
             "en-GB": "16 passengers per boat",
@@ -94,9 +108,13 @@
             "de-DE": "16 pro Boot",
             "es-ES": "16 pasajeros por bote",
             "it-IT": "16 passeggeri per imbarcazione",
-            "nl-NL": "16 passagiers per boot",
+            "nl-NL": "6 passagiers per boot",
             "sv-SE": "16 passagerare per båt",
-            "zh-CN": "? 每辆车限乘16人"
+            "zh-CN": "? 每辆车限乘16人",
+            "cs-CZ": "16 míst na každé lodi",
+            "ko-KR": "보트당 16명의 승객",
+            "pl-PL": "16 pasażerów na łódkę",
+            "ru-RU": "16 пассажиров в лодке"
         }
     }
 }

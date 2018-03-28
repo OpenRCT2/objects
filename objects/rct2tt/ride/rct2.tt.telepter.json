@@ -123,15 +123,20 @@
     "images": ["$RCT2:OBJDATA/TELEPTER.DAT[0..146]"],
     "strings": {
         "name": {
-            "en-GB": "Teleporter",
+            "en-GB": "Teleporter Cabin",
             "fr-FR": "Téléporteur",
             "es-ES": "Teletransportador",
             "it-IT": "Teletrasportatore",
-            "nl-NL": "Teleporteur",
+            "nl-NL": "Teleporter",
             "sv-SE": "Teleportör",
-            "ko-KR": "텔레포터",
+            "ko-KR": "텔레포터 차량",
             "zh-TW": "傳送點",
-            "pt-BR": "Teletransportador"
+            "pt-BR": "Cabine Teletransportadora",
+            "ar-EG": "المقصورة المتنقلة",
+            "cs-CZ": "Teleportér",
+            "en-US": "Teleporter Cabin",
+            "pl-PL": "Teleporter",
+            "ru-RU": "Лифт"
         },
         "description": {
             "en-GB": "Guests are transported up or down from one level to another",
@@ -139,11 +144,14 @@
             "de-DE": "Die Gäste werden von einem Niveau zum anderen hinauf- oder hinuntertransportiert.",
             "es-ES": "Los invitados son transportados arriba y abajo, de un nivel a otro.",
             "it-IT": "I visitatori vengono trasportati su e giù da un livello all'altro",
-            "nl-NL": "Gasten worden omhoog en omlaag vervoerd van de ene verdieping naar de andere",
+            "nl-NL": "Bezoekers gaan in een lift in een toren omhoog of omlaag om naar een ander hoogteniveau te komen.",
             "sv-SE": "Gäster transporteras upp eller ned en nivå.",
-            "ko-KR": "다른 층으로 순간이동합니다.",
+            "ko-KR": "탑승객이 수직 탑을 따라 이동하는 엘리베이터에 올라타 여러 높이를 손쉽게 이동하는 놀이기구",
             "zh-TW": "將遊客由某一層傳送到另一層",
-            "pt-BR": "Os visitantes são transportados para cima ou para baixo entre um andar e outro"
+            "pt-BR": "Os visitantes são transportados para cima ou para baixo entre um andar e outro",
+            "cs-CZ": "Návštěvníci jsou transportování z jednoho patra do druhého",
+            "pl-PL": "Goście są transportowani między poziomami w górę lub w dół",
+            "ru-RU": "Люди переезжают вверх-вниз с уровня на уровень."
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -153,9 +161,12 @@
             "it-IT": "16 passeggeri",
             "nl-NL": "16 passagiers",
             "sv-SE": "16 passagerare",
-            "ko-KR": "정원 16명",
+            "ko-KR": "승객 16명",
             "zh-TW": "限乘16人",
-            "pt-BR": "16 passageiros"
+            "pt-BR": "16 passageiros",
+            "cs-CZ": "16 návštěvníků",
+            "pl-PL": "16 pasażerów",
+            "ru-RU": "16 человек"
         }
     }
 }

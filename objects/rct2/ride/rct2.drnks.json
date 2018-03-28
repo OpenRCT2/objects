@@ -23,12 +23,16 @@
             "de-DE": "Getränkestand",
             "es-ES": "Puesto de bebidas",
             "it-IT": "Chiosco delle bibite",
-            "nl-NL": "Kraampje met Drankjes",
+            "nl-NL": "Frisdrankkraam",
             "sv-SE": "Dryckesstånd",
             "ko-KR": "음료수 가게",
             "zh-CN": "饮料店",
             "zh-TW": "飲料店",
-            "pt-BR": "Barraca de Bebidas"
+            "pt-BR": "Barraca de Bebidas",
+            "cs-CZ": "Stánek s pitím",
+            "ja-JP": "飲み物ショップ",
+            "pl-PL": "Kiosk z napojami",
+            "ru-RU": "Напитки"
         },
         "description": {
             "en-GB": "A can-shaped stall selling fizzy drinks",
@@ -36,12 +40,16 @@
             "de-DE": "Ein dosenförmiger Stand, an dem kohlensäurehaltige Getränke verkauft werden",
             "es-ES": "Un puesto con forma de lata que vende bebidas refrescantes",
             "it-IT": "Un chiosco a forma di lattina che vende bevande effervescenti",
-            "nl-NL": "Een als frisdrankblikje vormgegeven kraampje dat frisdrank verkoopt",
+            "nl-NL": "Een kraam in de vorm van vier blikjes waar frisdrank wordt verkocht.",
             "sv-SE": "Ett burkformat stånd där man säljer läsk",
-            "ko-KR": "탄산음료를 파는 캔 모양의 건물",
+            "ko-KR": "탄산음료를 파는 캔 모양의 상점",
             "zh-CN": "一家饮料罐外形的店在卖气泡式饮料",
             "zh-TW": "一家飲料罐外形的店在賣氣泡式飲料",
-            "pt-BR": "Uma barraca em forma de latinha vendendo bebidas com gás"
+            "pt-BR": "Uma barraca em forma de latinha vendendo bebidas com gás",
+            "cs-CZ": "Stánek ve tvaru plechovky prodávající perlivé nápoje",
+            "ja-JP": "炭酸飲料を売る、缶の形の売店です",
+            "pl-PL": "Stoisko w kształcie puszki sprzedające napoje gazowane",
+            "ru-RU": "Палатка с напитками"
         }
     }
 }

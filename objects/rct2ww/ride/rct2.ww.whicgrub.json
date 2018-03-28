@@ -92,14 +92,21 @@
     "images": ["$RCT2:OBJDATA/WHICGRUB.DAT[0..1490]"],
     "strings": {
         "name": {
-            "en-GB": "Witchity Grub Ride",
+            "en-GB": "Witchity Grub Trains",
             "fr-FR": "Asticot",
             "de-DE": "Witchity-Madenbahn",
             "es-ES": "Atracción Gusano Gorgojo",
             "it-IT": "Il bruco",
-            "nl-NL": "Grote Rups-Attractie",
+            "nl-NL": "Rupstreinen",
             "sv-SE": "Larvbana",
-            "zh-CN": "令人垂涎的树虫游乐设施"
+            "zh-CN": "令人垂涎的树虫游乐设施",
+            "ar-EG": "Witchity Grub Trains",
+            "cs-CZ": "Červí jízda",
+            "en-US": "Witchity Grub Trains",
+            "ko-KR": "애벌레 차량",
+            "pl-PL": "Jazda na larwach",
+            "pt-BR": "Trens Larvas Comestíveis",
+            "ru-RU": "Колдовство"
         },
         "description": {
             "en-GB": "Roller coaster trains with small Grub-shaped cars",
@@ -107,9 +114,13 @@
             "de-DE": "Achterbahnwagen mit dem Aussehen von Maden",
             "es-ES": "Trenes formados por pequeños vagones con forma de gorgojo",
             "it-IT": "Ottovolante con piccole carrozze a forma di bruco",
-            "nl-NL": "Achtbaantreintjes bestaand uit kleine Rups-vormige wagentjes",
+            "nl-NL": "Achtbaantrein met kleine karretjes in de vorm van een grote rups.",
             "sv-SE": "Berg- och dalbana med larvformade vagnar",
-            "zh-CN": "云霄飞车列车以幼小的澳大利亚树虫为车辆外型"
+            "zh-CN": "云霄飞车列车以幼小的澳大利亚树虫为车辆外型",
+            "cs-CZ": "Horská dráha s vozy ve tvaru červů",
+            "ko-KR": "작은 유충 모양의 차량이 있는 롤러코스터 차량",
+            "pl-PL": "Kolejka górska z małymi wagonikami w kształcie larw",
+            "ru-RU": "Горки с маленькими вагончиками."
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -117,9 +128,13 @@
             "de-DE": "2 pro Wagen",
             "es-ES": "2 pasajeros por vagón",
             "it-IT": "2 passeggeri per carrozza",
-            "nl-NL": "2 passagiers per wagentje",
+            "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "zh-CN": "?每辆车限乘2人"
+            "zh-CN": "?每辆车限乘2人",
+            "cs-CZ": "2 místa v každém voze",
+            "ko-KR": "차량당 2명의 승객",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира"
         }
     }
 }

@@ -65,12 +65,16 @@
             "fr-FR": "Chat-chars",
             "es-ES": "Gatos Cheshire",
             "it-IT": "Gatti del cheshire",
-            "nl-NL": "Cheshire Katten",
+            "nl-NL": "Cheshire Cats",
             "sv-SE": "Cheshirekatter",
-            "ko-KR": "체셔 캣츠",
+            "ko-KR": "체셔 고양이",
             "zh-CN": "笑笑?",
-            "zh-TW": "笑笑屋",
-            "pt-BR": "Gatos Risonhos"
+            "zh-TW": "笑臉貓遊",
+            "pt-BR": "Gatos Risonhos",
+            "cs-CZ": "Autodráha",
+            "ja-JP": "チェシャ猫",
+            "pl-PL": "Koty z Cheshire",
+            "ru-RU": "Чешир"
         },
         "description": {
             "en-GB": "Powered cat-shaped vehicles which follow a track-based route",
@@ -78,12 +82,16 @@
             "de-DE": "Angetriebene Fahrzeuge in Katzenform, die einer Schienenstrecke folgen",
             "es-ES": "Vehículos autopropulsados con forma de gato que siguen la ruta de las vías",
             "it-IT": "Veicoli a motore a forma di gatto che seguono un percorso stabilito",
-            "nl-NL": "Elektrische voertuigen in de vorm van een kat volgen een spoorbaan",
+            "nl-NL": "Elektrische voertuigen in de vorm van een kat.",
             "sv-SE": "Motordrivna kattformade fordon som följer en spårbaserad bana",
-            "ko-KR": "트랙을 타고 이동하는 고양이 모양의 차",
+            "ko-KR": "트랙을 따라 이동하는 고양이 모양의 차량",
             "zh-CN": "猫咪样式的动力车-循着固定轨道进行",
-            "zh-TW": "咪咪樣式的動力車-循著固定軌道進行",
-            "pt-BR": "Veículos motorizados em forma de gatos seguem uma rota de pista"
+            "zh-TW": "帶有動力的貓型車輛跟隨著軌道的路線遊覽周邊",
+            "pt-BR": "Veículos motorizados em forma de gatos seguem uma rota de pista",
+            "cs-CZ": "Malá autíčka jezdí po postavené dráze",
+            "ja-JP": "決められたコースにしたがって走る、動力つきの猫型車両です",
+            "pl-PL": "Napędzane pojazdy w kształcie kotów podróżujące wyznaczoną trasą",
+            "ru-RU": "Машинки в виде котов едут по рельсам"
         },
         "capacity": {
             "en-GB": "2 passengers per cat",
@@ -91,12 +99,16 @@
             "de-DE": "2 Fahrgäste pro Katze",
             "es-ES": "2 pasajeros por gato",
             "it-IT": "2 passeggeri a gatto",
-            "nl-NL": "2 passagiers per kat",
+            "nl-NL": "1 passagier per karretje",
             "sv-SE": "2 passagerare per katt",
-            "ko-KR": "고양이당 정원 2명",
+            "ko-KR": "차량당 2명의 승객",
             "zh-CN": "2位客人/辆",
-            "zh-TW": "2位客人/每輛咪咪車",
-            "pt-BR": "2 passageiros por gato"
+            "zh-TW": "每輛車2位乘客",
+            "pt-BR": "2 passageiros por gato",
+            "cs-CZ": "2 místa v každém vozu",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na kota",
+            "ru-RU": "2 пассажира"
         }
     }
 }

@@ -99,16 +99,21 @@
     "images": ["$RCT2:OBJDATA/POLICECR.DAT[0..938]"],
     "strings": {
         "name": {
-            "en-GB": "Police Car Coaster",
+            "en-GB": "Police Cars",
             "fr-FR": "Voiture de police",
             "de-DE": "Polizeiauto-Achterbahn",
             "es-ES": "Montaña rusa Coche de policía",
             "it-IT": "Ottovolante auto della polizia",
-            "nl-NL": "Politieauto-achtbaan",
+            "nl-NL": "Politieautokarretjes",
             "sv-SE": "Polisbil",
-            "ko-KR": "폴리스 카 코스터",
+            "ko-KR": "경찰차",
             "zh-TW": "警車雲霄飛車",
-            "pt-BR": "Montanha de Carro de Polícia"
+            "pt-BR": "Carros de Polícia",
+            "ar-EG": "سيارات الشرطة",
+            "cs-CZ": "Horská dráha policejních vozů",
+            "en-US": "Police Cars",
+            "pl-PL": "Gonitwa radiowozów",
+            "ru-RU": "Полиция"
         },
         "description": {
             "en-GB": "1960s Themed Police cars run on wooden tracks, turning around on special reversing sections",
@@ -116,11 +121,14 @@
             "de-DE": "Polizeiautos aus den 60ern fahren über eine Holzstrecke und drehen an speziellen Wendeabschnitten.",
             "es-ES": "Coches decorados como de la policía en los años sesenta que circulan por guías de madera, girando completamente en secciones de inversión especiales.",
             "it-IT": "Auto della polizia in perfetto stile anni '60 corrono su un tracciato di legno, ruotando di 180° in speciali sezioni.",
-            "nl-NL": "Politieauto's uit de jaren 60 lopen over houten rails en keren om op speciale keerpunten.",
+            "nl-NL": "Karretjes die er uitzien als een Amerikaanse politieauto uit de jaren '60 rijden op een houten baan en kunnen omkeren op speciale stukken baan.",
             "sv-SE": "60-talsinspirerade polisbilvagnar åker på träspår och vänder i speciella vändsektioner.",
-            "ko-KR": "1960년대 테마 폴리스 카는 나무 트랙위를 달리며 특수한 역전 구역에서 회전합니다.",
+            "ko-KR": "특수한 반전 섹션 위에서 앞뒤가 뒤집히는 나무 트랙 위를 운행하는 1960년대 테마의 경찰 차량",
             "zh-TW": "以1960年代為主題的警車在木架軌道上奔馳,轉進特殊倒轉區域",
-            "pt-BR": "Vagões temáticos de polícia dos anos 20 correm em pista de madeira, virando em seções especiais de reversão"
+            "pt-BR": "Vagões temáticos de polícia dos anos 20 correm em pista de madeira, virando em seções especiais de reversão",
+            "cs-CZ": "Po dřevěné dráze jedou vozy ve tvaru policejních aut 60. let, které se ve speciálních místech se otočí a jedou pozpátku",
+            "pl-PL": "Radiowozy w stylu lat 60. jadą po drewnianym torze, zawracając na specjalnych obrotowych odcinkach trasy",
+            "ru-RU": "Полицейские машины 1960х едут по деревянному треку"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -128,11 +136,14 @@
             "de-DE": "6 Fahrgäste pro Wagen",
             "es-ES": "6 pasajeros por coche",
             "it-IT": "6 passeggeri per vettura",
-            "nl-NL": "6 passagiers per wagentje",
+            "nl-NL": "6 passagiers per karretje",
             "sv-SE": "6 passagerare per vagn",
-            "ko-KR": "차량 정원 6명",
+            "ko-KR": "차량당 6명의 승객",
             "zh-TW": "每輛車限乘6人",
-            "pt-BR": "6 passageiros por vagão"
+            "pt-BR": "6 passageiros por vagão",
+            "cs-CZ": "6 míst v každém voze",
+            "pl-PL": "6 pasażerów na wagonik",
+            "ru-RU": "6 чел в машине"
         }
     }
 }

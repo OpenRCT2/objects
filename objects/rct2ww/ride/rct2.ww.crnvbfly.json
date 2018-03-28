@@ -64,8 +64,12 @@
             "de-DE": "Karnevalswagenbahn - Schmetterlingswagen",
             "es-ES": "Atracción flotadores de carnaval; vagones mariposa",
             "it-IT": "Carnevale sull'acqua - Carrozze farfalla",
-            "nl-NL": "Attractie met Carnavalwagens - vlinder-wagentjes",
-            "sv-SE": "Karnevalbåtar med fjärilsvagnar"
+            "nl-NL": "Vlinderwagentjes",
+            "sv-SE": "Karnevalbåtar med fjärilsvagnar",
+            "cs-CZ": "Motýlková autodráha",
+            "ko-KR": "카니발 플로트 라이드 - 나비 차량",
+            "pl-PL": "Parada na platformach - motyle",
+            "ru-RU": "Карнавал - Бабочки"
         },
         "description": {
             "en-GB": "Roller coaster cars in the shape of butterfly carnival floats",
@@ -73,8 +77,12 @@
             "de-DE": "Achterbahnwagen mit dem Aussehen von Schmetterlings-Karnevalswagen",
             "es-ES": "Coches de montaña rusa con forma de flotadores mariposa de carnaval",
             "it-IT": "Carrozze galleggianti di ottovolante a forma di farfalla",
-            "nl-NL": "Achtbaanwagentjes met vlindervormige carnavalwagens",
-            "sv-SE": "Karnevalsliknande berg- och dalbanevagnar med fjärilsmotiv"
+            "nl-NL": "Elektrische carnivalsoptochtwagentjes in de vorm van een vlinder.",
+            "sv-SE": "Karnevalsliknande berg- och dalbanevagnar med fjärilsmotiv",
+            "cs-CZ": "Vozy ve tvaru motýlů jezdí po postavené dráze",
+            "ko-KR": "나비 퍼레이드 차량 모양의 롤러코스터 차량",
+            "pl-PL": "Wagoniki w kształcie motylich platform",
+            "ru-RU": "Вагончики в виде бабочек"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -82,8 +90,12 @@
             "de-DE": "2 pro Wagen",
             "es-ES": "2 pasajeros por vagón",
             "it-IT": "2 passeggeri per carrozza",
-            "nl-NL": "2 passagiers per wagentje",
-            "sv-SE": "2 passagerare per båt"
+            "nl-NL": "2 passagiers per karretje",
+            "sv-SE": "2 passagerare per båt",
+            "cs-CZ": "2 místa v každém voze",
+            "ko-KR": "차량당 2명의 승객",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира"
         }
     }
 }

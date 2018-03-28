@@ -28,7 +28,11 @@
             "ko-KR": "화장실",
             "zh-CN": "厕所",
             "zh-TW": "廁所",
-            "pt-BR": "Banheiros"
+            "pt-BR": "Banheiros",
+            "cs-CZ": "Toalety",
+            "ja-JP": "トイレ",
+            "pl-PL": "Toalety",
+            "ru-RU": "Туалет"
         },
         "description": {
             "en-GB": "Toilets housed in a log cabin style building",
@@ -37,12 +41,16 @@
             "de-DE": "Toiletten in einer Art Blockhütte",
             "es-ES": "Lavabos en una cabina de forma de tronco",
             "it-IT": "Servizi igienici situati in una costruzione simile a una capanna di legno",
-            "nl-NL": "Toiletten in een gebouw in de stijl van een blokhut",
+            "nl-NL": "Toiletten in een gebouw in blokhutstijl.",
             "sv-SE": "Toaletter i ett blockhus",
-            "ko-KR": "통나무집 스타일의 건물에 있는 화장실",
+            "ko-KR": "통나무 객실 형 건물 안에 있는 화장실",
             "zh-CN": "厕所房子是一座原木小屋风格的建筑物",
             "zh-TW": "廁所房子是一座原木小屋風格的建築物",
-            "pt-BR": "Banheiros abrigados numa cabana de madeira"
+            "pt-BR": "Banheiros abrigados numa cabana de madeira",
+            "cs-CZ": "Toalety v dřevěné zástavbě",
+            "ja-JP": "ログハウス風の建物のトイレです",
+            "pl-PL": "Toalety umieszczone w budynku typu chata z drewnianych bali",
+            "ru-RU": "Туалет в деревянном доме"
         }
     }
 }

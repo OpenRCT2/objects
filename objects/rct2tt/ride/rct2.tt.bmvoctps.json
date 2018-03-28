@@ -124,16 +124,21 @@
     "images": ["$RCT2:OBJDATA/BMVOCTPS.DAT[0..38]"],
     "strings": {
         "name": {
-            "en-GB": "Blob from Outer Space Ride",
+            "en-GB": "Blob from Outer Space",
             "fr-FR": "Blob du fin fond de la galaxie",
             "de-DE": "Blob aus dem Weltall-Attraktion",
             "es-ES": "Viaje del engendro del espacio exterior",
             "it-IT": "Blob dallo spazio esterno",
-            "nl-NL": "Klodder uit de Ruimte-attractie",
+            "nl-NL": "Klodder uit de ruimte",
             "sv-SE": "Blobb från yttre rymden",
-            "ko-KR": "우주 환상 라이드",
+            "ko-KR": "외계 전망탑",
             "zh-TW": "外太空生物遊樂設施",
-            "pt-BR": "Brinquedo de Bolha do Espaço Sideral"
+            "pt-BR": "Bolha do Espaço Sideral",
+            "ar-EG": "سائل من الفضاء الخارجي",
+            "cs-CZ": "Mimozemská hmota",
+            "en-US": "Blob from Outer Space",
+            "pl-PL": "Potwór z Kosmosu",
+            "ru-RU": "Падение из космоса"
         },
         "description": {
             "en-GB": "A themed rotating observation cabin which travels up a tall tower",
@@ -141,11 +146,14 @@
             "de-DE": "Eine rotierende Aussichtskabine, die einen großen Turm hinauffährt",
             "es-ES": "Cabina de observación rotatoria decorada",
             "it-IT": "Speciale cabina d'osservazione che sale su un'alta torre",
-            "nl-NL": "Een observatiecabine die bij een hoge toren opklimt.",
+            "nl-NL": "Draaiende gethematiseerde observatiecabine die langs een verticale toren omhoog gaat.",
             "sv-SE": "En roterande observationskabin som färdas upp i ett högt torn.",
-            "ko-KR": "탑 위를 올라가는 회전실",
+            "ko-KR": "높은 탑을 따라 올라가면서 회전하는 전망대 객실",
             "zh-TW": "主題觀察艙旋轉移動到高塔上面",
-            "pt-BR": "Uma cabine rotatória temática de observação que sobe por uma torre alta"
+            "pt-BR": "Uma cabine rotatória temática de observação que sobe por uma torre alta",
+            "cs-CZ": "Tématická vyhlídková věž s kabinou, která postupně vyjede až na vrchol a zpět dolů",
+            "pl-PL": "Obrotowa kosmiczna kabina obserwacyjna wjeżdżająca na wysoką wieżę",
+            "ru-RU": "Вращающаяся наблюдательная кабина, поднимающаяся вверх по башне."
         },
         "capacity": {
             "en-GB": "20 passengers",
@@ -155,9 +163,12 @@
             "it-IT": "20 passeggeri",
             "nl-NL": "20 passagiers",
             "sv-SE": "20 passagerare",
-            "ko-KR": "정원 20명",
+            "ko-KR": "승객 20명",
             "zh-TW": "限乘20人",
-            "pt-BR": "20 passageiros"
+            "pt-BR": "20 passageiros",
+            "cs-CZ": "20 návštěvníků",
+            "pl-PL": "20 pasażerów",
+            "ru-RU": "20 пассажиров"
         }
     }
 }

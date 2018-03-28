@@ -43,16 +43,21 @@
     "images": ["$RCT2:OBJDATA/BLCKDETH.DAT[0..2706]"],
     "strings": {
         "name": {
-            "en-GB": "Black Death Ride",
+            "en-GB": "Black Death Trains",
             "fr-FR": "La peste noire",
             "de-DE": "Schwarzer Tod-Attraktion",
             "es-ES": "El viaje de la peste negra",
             "it-IT": "Corsa della morte nera",
-            "nl-NL": "Zwarte dood-attractie",
+            "nl-NL": "Zwartedoodbobslee",
             "sv-SE": "Digerdöden",
-            "ko-KR": "블랙 데스 라이드",
+            "ko-KR": "흑사병 차량",
             "zh-TW": "黑死病遊樂設施",
-            "pt-BR": "Brinquedo da Peste Negra"
+            "pt-BR": "Trens Peste Negra",
+            "ar-EG": "قطارات الموت الأسود",
+            "cs-CZ": "Morová horská dráha",
+            "en-US": "Black Death Trains",
+            "pl-PL": "Czarna śmierć",
+            "ru-RU": "Чёрная Смерть"
         },
         "description": {
             "en-GB": "Riders career down a twisting track in Rat-shaped cars guided only by the curvature and banking of the semi-circular track",
@@ -60,11 +65,14 @@
             "de-DE": "Die Fahrer rasen in Ratten-artigen Wagen eine gewundene Strecke hinab, wobei sie nur durch die Kurvenführung der halbrunden Strecke geführt werden.",
             "es-ES": "Los usuarios recorren, en coches en forma de rata, una ruta guiada únicamente por la curvatura y el desnivel del recorrido semicircular.",
             "it-IT": "I passeggeri si fanno strada lungo un tracciato sinuoso in carrozze a forma di topi, guidati solo dalla curvatura e dall'inclinazione del tracciato semi-circolare.",
-            "nl-NL": "Bezoekers racen langs een slingerende baan in ratvormige wagentjes, slechts geleid door de glooiing en het scheefhangen van de halfcirkelvormige baan.",
+            "nl-NL": "Passagiers rijden over een kronkelende baan in ratvormige karretjes, waarbij ze enkel worden geleid door de ronding en banking van de halfronde baan.",
             "sv-SE": "Passagerarna dundrar nerför ett slingrande spår i råttvagnar som styrs enbart av det halvcirkelformade spårets kurvatur och lutning.",
-            "ko-KR": "쥐 모양의 객차를 차량을 타고 반원 모양 트랙의 굴곡과 경사를 따라 달리는 놀이기구",
+            "ko-KR": "반원형 트랙의 커브와 뱅킹만을 따라 이동하는 봅슬레이 모양의 차량을 타고 이리 저리 꼬여있는 트랙을 따라 내려오는 놀이기구",
             "zh-TW": "乘客在老鼠外形的車輛中只有依循著彎曲的半圓形軌道急速地猛衝旋轉前進",
-            "pt-BR": "Os visitantes correm por uma pista sinuosa em vagões em forma de ratos guiados somente pela curvatura e inclinação da pista semicircular"
+            "pt-BR": "Os visitantes correm por uma pista sinuosa em vagões em forma de ratos guiados somente pela curvatura e inclinação da pista semicircular",
+            "cs-CZ": "Návštěvníci jedou po propletené bobové dráze",
+            "pl-PL": "Pasażerowie zjeżdżają krętym torem w wagonikach w kształcie szczurów, kierowanych jedynie krzywizną i nachyleniem półkolistego toru",
+            "ru-RU": "Кабинки в виде крыс едут по извилистому треку без рельсов и колес."
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -72,11 +80,14 @@
             "de-DE": "2 Fahrgäste pro Wagen",
             "es-ES": "2 pasajeros por coche",
             "it-IT": "2 passeggeri per carrozza",
-            "nl-NL": "2 passagiers per wagentje",
+            "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "ko-KR": "차량 정원 2명",
+            "ko-KR": "차량당 2명의 승객",
             "zh-TW": "每輛車限乘2人",
-            "pt-BR": "2 passageiros por vagão"
+            "pt-BR": "2 passageiros por vagão",
+            "cs-CZ": "2 místa v každém voze",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 человека в кабинке"
         }
     }
 }

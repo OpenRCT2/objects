@@ -40,10 +40,14 @@
             "it-IT": "Ufficio informazioni",
             "nl-NL": "Informatiekiosk",
             "sv-SE": "Informationskiosk",
-            "ko-KR": "안내 건물",
+            "ko-KR": "안내소",
             "zh-CN": "服务台",
             "zh-TW": "服務台",
-            "pt-BR": "Quiosque de Informações"
+            "pt-BR": "Quiosque de Informações",
+            "cs-CZ": "Kiosek",
+            "ja-JP": "インフォーメーションキオスク",
+            "pl-PL": "Kiosk informacyjny",
+            "ru-RU": "Справка"
         },
         "description": {
             "en-GB": "A stall where guests can obtain park maps and purchase umbrellas",
@@ -51,12 +55,16 @@
             "de-DE": "Ein Stand, an dem die Besucher Parkkarten bekommen und Schirme kaufen können",
             "es-ES": "Puesto en el que los visitantes obtienen mapas del parque y compran paraguas",
             "it-IT": "Un chiosco in cui i visitatori possono avere delle mappe del parco e comprare degli ombrelli",
-            "nl-NL": "Een kraampje waar bezoekers de plattegrond van het park en paraplu's kunnen krijgen",
+            "nl-NL": "Een kiosk waar bezoekers kaarten van het park en paraplu's kunnen kopen.",
             "sv-SE": "Ett stånd där besökarna kan hitta kartor över parken och köpa paraplyer",
-            "ko-KR": "공원 지도와 우산을 살 수 있는 건물",
+            "ko-KR": "손님들이 공원 지도를 얻거나 우산을 살 수 있는 상점",
             "zh-CN": "一处游客可以取得游乐园地图及卖到雨伞的地方",
             "zh-TW": "一處遊客可以取得遊樂園地圖及買到雨傘的地方",
-            "pt-BR": "Uma barraca onde os visitantes podem obter mapas do parque e comprar guarda-chuvas"
+            "pt-BR": "Uma barraca onde os visitantes podem obter mapas do parque e comprar guarda-chuvas",
+            "cs-CZ": "Stínek s informacemi o parku, prodávající mapy a deštníky",
+            "ja-JP": "園内の案内図や傘を売る売店です",
+            "pl-PL": "Tutaj goście mogą otrzymać mapy parku i zakupić parasole",
+            "ru-RU": "Киоск, где гости берут карты и зонтики."
         }
     }
 }

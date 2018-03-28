@@ -23,12 +23,16 @@
             "de-DE": "Kuchenladen",
             "es-ES": "Puesto de pasteles",
             "it-IT": "Negozio delle torte",
-            "nl-NL": "Winkel met taart",
+            "nl-NL": "Oliebollenkraam",
             "sv-SE": "Trattkaksaffär",
-            "ko-KR": "호두과자",
+            "ko-KR": "휜넬 케이크 가게",
             "zh-CN": "糕饼店",
             "zh-TW": "糕餅店",
-            "pt-BR": "Loja de Bolos"
+            "pt-BR": "Loja de Bolos",
+            "cs-CZ": "Stánek s palačinkami",
+            "ja-JP": "ファネルケーキ・ショップ",
+            "pl-PL": "Kiosk z makaronikami",
+            "ru-RU": "Пирожки"
         },
         "description": {
             "en-GB": "A stall selling funnel cakes",
@@ -36,12 +40,16 @@
             "de-DE": "Ein Stand, an dem Kuchen verkauft wird",
             "es-ES": "Puesto que vende pasteles",
             "it-IT": "Un chiosco che vende torte a ciambella",
-            "nl-NL": "Een kraampje dat taart verkoopt",
+            "nl-NL": "Een kraam waar oliebollen worden verkocht.",
             "sv-SE": "Ett stånd som säljer trattkakor",
-            "ko-KR": "호두과자를 파는 판매점",
+            "ko-KR": "휜넬 케이크를 파는 가게",
             "zh-CN": "一家卖糕饼的店",
             "zh-TW": "一家賣糕餅的店",
-            "pt-BR": "Uma barraca vendendo pedaços de bolo"
+            "pt-BR": "Uma barraca vendendo pedaços de bolo",
+            "cs-CZ": "Stánek prodávající palačinky",
+            "ja-JP": "ファネルケーキを売る売店です",
+            "pl-PL": "Stoisko sprzedające ciasteczka zwane makaronikami",
+            "ru-RU": "Палатка с пирожками"
         }
     }
 }

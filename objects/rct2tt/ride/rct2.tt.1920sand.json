@@ -26,11 +26,14 @@
             "de-DE": "Art Déco Essensstand",
             "es-ES": "Puesto de comida de prisión",
             "it-IT": "Chiosco alimentare in art decò",
-            "nl-NL": "Eetkraampje Art Deco",
+            "nl-NL": "Artdeco-kraam",
             "sv-SE": "Art déco-matstånd",
-            "ko-KR": "아르데코 음식 가게",
+            "ko-KR": "아르데코 음식 상점",
             "zh-TW": "裝置藝術食物攤位",
-            "pt-BR": "Quiosque de Comida de Arte Déco"
+            "pt-BR": "Quiosque de Comida de Arte Déco",
+            "cs-CZ": "Art Deco stánek",
+            "pl-PL": "Kiosk art deco",
+            "ru-RU": "Палатка Арт-Деко"
         },
         "description": {
             "en-GB": "A stall selling Noodles and Fresh Lemonade",
@@ -38,11 +41,14 @@
             "de-DE": "Ein Stand, der Nudeln und Frische Limonade verkauft",
             "es-ES": "Un puesto en el que se venden tallarines y limonada fresca",
             "it-IT": "Un chiosco che vende tagliatelle e limonata fresca",
-            "nl-NL": "Een kraampje met Noodles en verse limonade.",
+            "nl-NL": "Een kraam waar noedels en frisse limonade worden verkocht.",
             "sv-SE": "Stånd som säljer nudlar och kyld lemonad",
-            "ko-KR": "국수와 레모네이드 가게",
+            "ko-KR": "국수와 신선한 레모네이드를 파는 가게",
             "zh-TW": "販賣麵類與新鮮檸檬水的攤位",
-            "pt-BR": "Um quiosque vendendo Macarrão e Limonada Fresca"
+            "pt-BR": "Um quiosque vendendo Macarrão e Limonada Fresca",
+            "cs-CZ": "Malý stánek s nudlemi a čerstvou limonádou",
+            "pl-PL": "Stoisko sprzedające ciasteczka i świeżą lemoniadę",
+            "ru-RU": "Палатка с лапшой и свежим лимонадом."
         }
     }
 }

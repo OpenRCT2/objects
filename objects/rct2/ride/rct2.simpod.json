@@ -133,7 +133,11 @@
             "ko-KR": "모션 시뮬레이터",
             "zh-CN": "摸拟天体运行",
             "zh-TW": "摸擬天體運行",
-            "pt-BR": "Simulador de Movimento"
+            "pt-BR": "Simulador de Movimento",
+            "cs-CZ": "Simulátor pohybu",
+            "ja-JP": "動くシミュレーター",
+            "pl-PL": "Symulator ruchu",
+            "ru-RU": "Симулятор"
         },
         "description": {
             "en-GB": "Riders view a film inside the motion simulator pod while it is twisted and moved around by a hydraulic arm",
@@ -141,12 +145,16 @@
             "de-DE": "Die Passagiere sehen in einer Bewegungssimulationskapsel, die von einem hydraulischen Arm gedreht und herumbewegt wird, einen Film",
             "es-ES": "Los pasajeros ven una película dentro del simulador mientras se mueve por un brazo hidráulico",
             "it-IT": "I visitatori, all'interno di una capsula fatta ondeggiare attraverso un braccio idraulico, vedono un film dai movimenti corrispondenti",
-            "nl-NL": "Bezoekers bekijken een film in de capsule van een bewegingssimulator die wordt gedraaid en bewogen door een hydraulische arm",
+            "nl-NL": "Passagiers bekijken een film in de cabine van een bewegingssimulator die wordt gedraaid en bewogen door een hydraulische arm.",
             "sv-SE": "Passagerarna ser en film på insidan av rörelsesimulatorns kapsel medan den snurras och rör sig runt en hydraulisk arm",
-            "ko-KR": "내부에서 영상을 보며 유압으로 움직이는 받침대에 의해 실제와 비슷한 움직임을 경험할 수 있는 기구",
+            "ko-KR": "유압식 관절에 의해 흔들리며 움직이는 모션 시뮬레이터 안에서 영화를 보는 놀이기구",
             "zh-CN": "游客坐在摸拟天体运行舱内观看影片利用水力学支臂使旋转及移动",
             "zh-TW": "遊客坐在摸擬天體運行艙內觀看影片利用水力學支臂使旋轉及移動",
-            "pt-BR": "Os passageiros vêem um filme dentro do simulador de movimento, enquanto ele é balançado e movido por um braço hidráulico"
+            "pt-BR": "Os passageiros vêem um filme dentro do simulador de movimento, enquanto ele é balançado e movido por um braço hidráulico",
+            "cs-CZ": "Návštěvníci sledují film uvnitř simulátoru pohybu, zatímco se simulátorem hýbe hydraulika",
+            "ja-JP": "映像に合わせて油圧可動式のポッドが動くシミュレーターです",
+            "pl-PL": "Pasażerowie oglądają film, siedząc w specjalnej kabinie, poruszanej i wstrząsanej przez siłowniki hydrauliczne",
+            "ru-RU": "Люди смотрят фильм внутри симулятора на движущейся основе."
         },
         "capacity": {
             "en-GB": "8 passengers",
@@ -156,10 +164,14 @@
             "it-IT": "8 passeggeri",
             "nl-NL": "8 passagiers",
             "sv-SE": "8 passagerare",
-            "ko-KR": "정원 8명",
+            "ko-KR": "승객 8명",
             "zh-CN": "8 位乘客",
             "zh-TW": "8 位乘客",
-            "pt-BR": "8 passageiros"
+            "pt-BR": "8 passageiros",
+            "cs-CZ": "8 návštěvníků",
+            "ja-JP": "定員8名",
+            "pl-PL": "8 pasażerów",
+            "ru-RU": "8 пассажиров"
         }
     }
 }

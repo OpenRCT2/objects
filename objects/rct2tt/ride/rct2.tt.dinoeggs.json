@@ -401,11 +401,14 @@
             "de-DE": "Attraktion Dinosaurier-Eier",
             "es-ES": "Viaje en el huevo de dinosaurio",
             "it-IT": "Corsa Uova di dinosauro",
-            "nl-NL": "Dinosaurusei-attractie",
+            "nl-NL": "Dinosaurusei-twist",
             "sv-SE": "Dinosaurieägg",
-            "ko-KR": "다이노서 에그 라이드",
+            "ko-KR": "공룡 알 라이드",
             "zh-TW": "恐龍蛋遊樂設施",
-            "pt-BR": "Brinquedo do Ovo de Dinossauro"
+            "pt-BR": "Brinquedo do Ovo de Dinossauro",
+            "cs-CZ": "Jízda dinsouřích vajec",
+            "pl-PL": "Jaja dinozaura",
+            "ru-RU": "Динозавр"
         },
         "description": {
             "en-GB": "Riders ride in pairs, in themed seats rotating around an animated mother Dinosaur.",
@@ -413,11 +416,14 @@
             "de-DE": "Die Fahrgäste fahren zu zweit in Sitzen, die um eine animierte Dinosauriermama rotieren.",
             "es-ES": "Los usuarios montan en parejas, en asientos ambientados que giran alrededor de una madre dinosaurio animada.",
             "it-IT": "I passeggeri siedono in coppia su sedili che ruotano intorno a un pupazzo animato raffigurante una mamma dinosauro.",
-            "nl-NL": "Rijders rijden paarsgewijs, in thematische stoeltjes die om een bewegende dinosaurusmoeder draaien.",
+            "nl-NL": "Passagiers zitten per twee in stoelen die rond een bewegende moederdinosaurus draaien.",
             "sv-SE": "Passagerarna åker i par i säten som roterar kring en rörlig dinosauriemamma.",
-            "ko-KR": "움직이는 어미 공룡 주위를 도는 테마 의자에 승객이 짝을 지어 탑승합니다.",
+            "ko-KR": "탑승객 두 명이 움직이는 어미 공룡 주위를 도는 좌석에 앉아 즐기는 놀이기구",
             "zh-TW": "乘客兩人一組乘坐在各種主題的座位上，繞著動畫恐龍媽媽旋轉。",
-            "pt-BR": "Os visitantes andam em pares, em assentos temáticos que giram ao redor de uma mãe Dinossauro animada."
+            "pt-BR": "Os visitantes andam em pares, em assentos temáticos que giram ao redor de uma mãe Dinossauro animada.",
+            "cs-CZ": "Návštěvníci sedí po dvou ve vejcích, které se otáčejí okolo dinosauří matky uprostřed",
+            "pl-PL": "Pasażerowie podróżują parami w stylizowanych siedziskach obracających się wokół ruchomej dinozaurowej mamy",
+            "ru-RU": "Люди крутятся вокруг двигающегося динозавра."
         },
         "capacity": {
             "en-GB": "18 passengers",
@@ -427,9 +433,12 @@
             "it-IT": "18 passeggeri",
             "nl-NL": "18 passagiers",
             "sv-SE": "18 passagerare",
-            "ko-KR": "정원 18명",
+            "ko-KR": "승객 18명",
             "zh-TW": "限乘18人",
-            "pt-BR": "18 passageiros"
+            "pt-BR": "18 passageiros",
+            "cs-CZ": "18 návštěvníků",
+            "pl-PL": "18 pasażerów",
+            "ru-RU": "18 человек"
         }
     }
 }

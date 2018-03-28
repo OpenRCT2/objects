@@ -105,30 +105,42 @@
     "images": ["$RCT2:OBJDATA/ARRT1.DAT[0..4470]"],
     "strings": {
         "name": {
-            "en-GB": "Corkscrew Roller Coaster",
+            "en-GB": "Corkscrew Roller Coaster Trains",
             "fr-FR": "Montagnes russes tire-bouchon",
             "de-DE": "Schraubenachterbahn",
             "es-ES": "Montaña Rusa Sacacorchos",
             "it-IT": "Ottovolante ad avvitamento",
-            "nl-NL": "Kurkentrekker Achtbaan",
+            "nl-NL": "Trein voor stalen schroefachtbaan",
             "sv-SE": "Korkskruvsberg- och dalbana",
-            "ko-KR": "나선형 롤러코스터",
+            "ko-KR": "나선 롤러코스터 차량",
             "zh-CN": "螺旋体过山车",
             "zh-TW": "螺旋體雲霄飛車",
-            "pt-BR": "Montanha-russa em Parafuso"
+            "pt-BR": "Trens Montanha-Russa Saca Rolhas",
+            "ar-EG": "Corkscrew Roller Coaster Trains",
+            "cs-CZ": "Vývrtková horská dráha",
+            "en-US": "Corkscrew Roller Coaster Trains",
+            "ja-JP": "コークスクリュー・ジェットコースター",
+            "pl-PL": "Kolejka korkociągowa",
+            "ru-RU": "Штопорные горки"
         },
         "description": {
-            "en-GB": "A compact steel-tracked roller coaster where the train travels through corkscrews and loops",
+            "en-GB": "Roller coaster train with shoulder restraints",
             "fr-FR": "Montagnes russes compactes dont les voies en acier prennent la forme de tire-bouchons et de boucles",
             "de-DE": "Eine kompakte Stahlachterbahn, bei der der Zug durch Schrauben und Schleifen fährt",
             "es-ES": "Una montaña rusa compacta de acero donde los vagones circulan por rizos y  sacacorchos",
             "it-IT": "Un ottovolante compatto d'acciaio in cui il treno compie giri della morte e avvitamenti vari",
-            "nl-NL": "Een compacte, op stalen rails lopende achtbaan waarop de trein door Kurkentrekkers en loopings loopt",
+            "nl-NL": "Een compacte stalen achtbaan waar de trein door schroeven en loopings gaat.",
             "sv-SE": "En solid stålberg- och dalbana där tågen åker längs korkskruvar och loopar",
-            "ko-KR": "열차가 나선이나 원 코스를 지날 때 쓰이는 단단한 철제 트랙 롤러코스터",
+            "ko-KR": "어깨 안전바가 있는 롤러코스터 차량",
             "zh-CN": "一座过山车列车穿过成圈结实的钢制螺旋式轨道曲折前进",
             "zh-TW": "一座雲霄飛車列車穿過成圈結實的鋼製螺旋式軌道曲折前進",
-            "pt-BR": "Um montanha-russa compacta de ferro, onde o trem viaja por parafusos e loops"
+            "pt-BR": "Trens de montanha-russa com travas de ombro",
+            "ar-EG": "Roller coaster train with shoulder restraints",
+            "cs-CZ": "Horská dráha s vozy vybavenými ramenními opěrkami",
+            "en-US": "Roller coaster train with shoulder restraints",
+            "ja-JP": "コークスクリューとループがあるスチールコースを持つ、コンパクトなローラーコースターです",
+            "pl-PL": "Zwarta przestrzennie kolejka ze stalowymi torami, w której wagoniki pokonują korkociągi i pętle",
+            "ru-RU": "Небольшие железные горки, где поезда едут по спиралям и кольцам"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -136,12 +148,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por carro"
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

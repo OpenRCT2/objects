@@ -69,14 +69,21 @@
     "images": ["$RCT2:OBJDATA/SANFTRAM.DAT[0..802]"],
     "strings": {
         "name": {
-            "en-GB": "San Francisco Tram",
+            "en-GB": "San Francisco Trams",
             "fr-FR": "Tram de San Francisco",
             "de-DE": "San Francisco-Straßenbahn",
             "es-ES": "Tranvía de San Francisco",
             "it-IT": "Tram di San Francisco",
-            "nl-NL": "Tram uit San Francisco",
+            "nl-NL": "Trams uit San Francisco",
             "sv-SE": "Spårvagn från San Francisco",
-            "zh-CN": "旧金山有轨电车"
+            "zh-CN": "旧金山有轨电车",
+            "ar-EG": "مترو سان فرنسيسكو",
+            "cs-CZ": "Tramvaj ze San Francisca",
+            "en-US": "San Francisco Trams",
+            "ko-KR": "샌프란시스코 전차",
+            "pl-PL": "Tramwaj z San Francisco",
+            "pt-BR": "Bonde São Francisco",
+            "ru-RU": "Трамвай Сан-Франц."
         },
         "description": {
             "en-GB": "Replica trams",
@@ -84,9 +91,13 @@
             "de-DE": "Nachgebaute Straßenbahnwaggons",
             "es-ES": "Réplica de tranvías",
             "it-IT": "Riproduzioni di tram",
-            "nl-NL": "Replica van trams",
+            "nl-NL": "Replica's van oude trams uit San Francisco",
             "sv-SE": "Gammal spårvagn",
-            "zh-CN": "有轨电车复制品"
+            "zh-CN": "有轨电车复制品",
+            "cs-CZ": "Repliky tramvají",
+            "ko-KR": "전차 모형",
+            "pl-PL": "Replika tramwaju",
+            "ru-RU": "Трамвайчики"
         },
         "capacity": {
             "en-GB": "10 passengers per car",
@@ -94,9 +105,13 @@
             "de-DE": "10 pro Waggon",
             "es-ES": "10 pasajeros por vagón",
             "it-IT": "10 passeggeri per carrozza",
-            "nl-NL": "10 passagiers per wagentje",
+            "nl-NL": "10 passagiers per tram",
             "sv-SE": "10 passagerare per vagn",
-            "zh-CN": "每辆车限乘10人"
+            "zh-CN": "每辆车限乘10人",
+            "cs-CZ": "10 míst v každém voze",
+            "ko-KR": "차량당 10명의 승객",
+            "pl-PL": "10 pasażerów na wagonik",
+            "ru-RU": "10 пассажиров"
         }
     }
 }

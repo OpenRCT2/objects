@@ -23,12 +23,16 @@
             "de-DE": "Pizzastand",
             "es-ES": "Puesto de pizza",
             "it-IT": "Chiosco delle pizze",
-            "nl-NL": "Kraampje met Pizza's",
+            "nl-NL": "Pizzakraam",
             "sv-SE": "Pizzastånd",
             "ko-KR": "피자 가게",
             "zh-CN": "比萨店",
             "zh-TW": "比薩店",
-            "pt-BR": "Barraca de Pizza"
+            "pt-BR": "Barraca de Pizza",
+            "cs-CZ": "Stánek s pizzou",
+            "ja-JP": "ピザショップ",
+            "pl-PL": "Kiosk z pizzą",
+            "ru-RU": "Пицца"
         },
         "description": {
             "en-GB": "A stall selling portions of pizza",
@@ -36,12 +40,16 @@
             "de-DE": "Ein Stand, an dem Pizzaportionen verkauft werden",
             "es-ES": "Un puesto que vende porciones de pizza",
             "it-IT": "Un chiosco che vende tranci di pizza",
-            "nl-NL": "Een kraampje dat stukken pizza verkoopt",
+            "nl-NL": "Een kraam waar stukken pizza worden verkocht.",
             "sv-SE": "Ett stånd som säljer pizzabitar",
-            "ko-KR": "피자를 파는 건물",
+            "ko-KR": "피자 조각을 파는 가게",
             "zh-CN": "一间卖比萨的店",
             "zh-TW": "一間賣比薩的店",
-            "pt-BR": "Uma barraca vendendo pedaços de pizza"
+            "pt-BR": "Uma barraca vendendo pedaços de pizza",
+            "cs-CZ": "Stánek prodávající kusy pizzy",
+            "ja-JP": "ピザを売る売店です",
+            "pl-PL": "Stoisko sprzedające porcje pizzy",
+            "ru-RU": "Палатка с пиццей"
         }
     }
 }

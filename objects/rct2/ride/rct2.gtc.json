@@ -71,17 +71,23 @@
     "images": ["$RCT2:OBJDATA/GTC.DAT[0..242]"],
     "strings": {
         "name": {
-            "en-GB": "Ghost Train",
+            "en-GB": "Ghost Train Cars",
             "fr-FR": "Train fantôme",
             "de-DE": "Geisterbahn",
             "es-ES": "Tren Fantasma",
             "it-IT": "Treno fantasma",
-            "nl-NL": "Spooktrein",
+            "nl-NL": "Spooktreinkarretjes",
             "sv-SE": "Spöktåg",
-            "ko-KR": "유령 열차",
+            "ko-KR": "고스트 트레인 차량",
             "zh-CN": "幽灵列车",
             "zh-TW": "幽靈列車",
-            "pt-BR": "Trem Fantasma"
+            "pt-BR": "Carros Trem Fantasma",
+            "ar-EG": "Ghost Train Cars",
+            "cs-CZ": "Vlak duchů",
+            "en-US": "Ghost Train Cars",
+            "ja-JP": "ゴースト・トレイン",
+            "pl-PL": "Pociąg widmo",
+            "ru-RU": "Призрак"
         },
         "description": {
             "en-GB": "Powered monster shaped cars travel along a multi-level track past spooky scenery and special effects",
@@ -89,12 +95,16 @@
             "de-DE": "Angetriebene Wagen in Monsterform fahren auf einer mehrstöckigen Strecke mit gruseliger Landschaft und Spezialeffekten",
             "es-ES": "Vagones con forma de monstruo en una vía múltiple pasando por un escenario tenebroso y lleno de efectos especiales",
             "it-IT": "Carrozze a motore dalle forme mostruose corrono lungo un tracciato multi-livello attraverso uno scenario spaventoso ricco di effetti speciali",
-            "nl-NL": "Elektrische wagentjes in de vorm van monsters gaan langs een baan over meerdere niveaus langs spookachtige decors en speciale effecten",
+            "nl-NL": "Aangedreven monstervormige karretjes rijden over een baan, die over meerdere hoogteniveau loopt, langs spookachtig decor en special effects.",
             "sv-SE": "Motordrivna monsterformade vagnar som åker längs ett flernivåspår förbi spöklika scener och specialeffekter",
-            "ko-KR": "여러 가지 트랙을 돌면서 무서운 장면들과 소리 효과들을 느끼게 해주는 괴물 모양의 열차",
+            "ko-KR": "으스스한 풍경과 특별한 효과 주변을 지나며 여러 높낮이를 오르내리는 괴물 모양의 차량",
             "zh-CN": "有机动装置的怪物造型列车游历着多层次的轨道经过有幽灵式的景物及特殊特效",
             "zh-TW": "有機動裝置的怪物造型列車遊歷著多層次的軌道經過有幽靈式的景物及特殊特效",
-            "pt-BR": "Carros motorizados em forma de monstros viajam numa pista de vários níveis, passando por cenários e efeitos especiais fantasmagóricos"
+            "pt-BR": "Carros motorizados em forma de monstros viajam numa pista de vários níveis, passando por cenários e efeitos especiais fantasmagóricos",
+            "cs-CZ": "Vozy ve tvaru příšer jezdí po vícepatrovém okruhu okolo strašidelných kulis a speciálních efektů",
+            "ja-JP": "さまざまな特殊効果と薄気味悪い仕掛けを施した立体的コースを通る、モンスターの形をした動力付きの乗物です",
+            "pl-PL": "Napędzane wagoniki o potwornych kształtach jadą po wielopoziomowym torze wśród przerażających dekoracji i efektów specjalnych",
+            "ru-RU": "Машинки в виде монстров едут по страшным лабиринтам"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -102,12 +112,16 @@
             "de-DE": "2 Fahrgäste pro Wagen",
             "es-ES": "2 pasajeros por vagón",
             "it-IT": "2 passeggeri a carrozza",
-            "nl-NL": "2 passagiers per wagentje",
+            "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "ko-KR": "차량 당 정원 2명",
+            "ko-KR": "차량당 2명의 승객",
             "zh-CN": "2位乘客/每个车厢",
             "zh-TW": "2位乘客/每個車廂",
-            "pt-BR": "2 passageiros por carro"
+            "pt-BR": "2 passageiros por carro",
+            "cs-CZ": "2 místa v každém vozu",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира"
         }
     }
 }

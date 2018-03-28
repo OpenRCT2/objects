@@ -44,11 +44,15 @@
         "name": {
             "en-GB": "Saloon",
             "es-ES": "Salón",
-            "nl-NL": "Café",
+            "nl-NL": "Saloon",
             "sv-SE": "Vildavästernbar",
-            "ko-KR": "살롱",
+            "ko-KR": "주점",
             "zh-CN": "餐厅",
-            "zh-TW": "?廳"
+            "zh-TW": "?廳",
+            "cs-CZ": "Salón",
+            "ja-JP": "酒場",
+            "pl-PL": "Saloon",
+            "ru-RU": "Салун"
         }
     }
 }

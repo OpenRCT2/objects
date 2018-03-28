@@ -67,16 +67,21 @@
     "images": ["$RCT2:OBJDATA/HOTRODXX.DAT[0..1166]"],
     "strings": {
         "name": {
-            "en-GB": "Hot Rod Coaster",
+            "en-GB": "Hot Rod Cars",
             "fr-FR": "Bolide extrême",
             "de-DE": "Heißes Eisen-Achterbahn",
             "es-ES": "Montaña rusa bólido",
             "it-IT": "Ottovolante del brivido",
-            "nl-NL": "Hot Rod-achtbaan",
+            "nl-NL": "Hotrodtrein",
             "sv-SE": "Hot rod-bana",
-            "ko-KR": "핫 로드 코스터",
+            "ko-KR": "개조 자동차 차량",
             "zh-TW": "改裝車雲霄飛車",
-            "pt-BR": "Montanha-Russa de Carrão"
+            "pt-BR": "Carros Hot Rod",
+            "ar-EG": "سيارات الطرق السريعة",
+            "cs-CZ": "Hot Rod horská dráha",
+            "en-US": "Hot Rod Cars",
+            "pl-PL": "Podrasowane samochody",
+            "ru-RU": "Горки-Хотрод"
         },
         "description": {
             "en-GB": "After an exhilarating air-powered launch, the train speeds up a vertical track, over the top, and vertically down the other side to return to the station",
@@ -84,11 +89,14 @@
             "de-DE": "Der Zug wird durch Luftdruck aus der Station katapultiert, fährt senkrecht hinauf und auf der anderen Seite wieder senkrecht hinunter.",
             "es-ES": "Después de un divertido lanzamiento por aire, el tren acelera por una vía vertical, hasta lo más alto, viajando verticalmente por el otro lado para llegar a la estación.",
             "it-IT": "Dopo un esilarante lancio effettuato sfruttando l'aria compressa, il treno accelera lungo una salita verticale, supera la cima e scende lungo un pendio verticale per tornare infine alla stazione.",
-            "nl-NL": "Na een zeer spannende door perslucht aangedreven lancering, racet de trein bij een verticale baan omhoog, gaat over het hoogste punt en aan de andere kant verticaal naar beneden om bij het station terug te keren.",
+            "nl-NL": "Na een enerverende pneumatische lancering rijdt de trein met hogere snelheid over een verticale baan, over de top, en vervolgens over de andere kant weer naar beneden om terug te keren naar het station.",
             "sv-SE": "Efter en spektakulär, tryckluftsdriven start skjuts tåget uppför ett vertikalt spår för att sedan åka rakt vertikalt nedåt på andra sidan tillbaka till stationen.",
-            "ko-KR": "상쾌한 공기압 발진을 한 열차는 수직 트랙을 꼭대기까지 올라갔다가 반대편 선로로 수직으로 떨어져 내려와 승강장에 되돌아옵니다",
+            "ko-KR": "아주 짜릿한 공기 압축 방식으로 발진하여 차량이 수직 트랙을 향해 속력을 높인 뒤, 꼭대기에 다다르면 다시 수직으로 하강하며 다시 탑승장에 도착하는 놀이기구",
             "zh-TW": "在一陣令人興奮的高速氣壓式堆進器啟動,列車以高速衝向垂直頂端軌道,接著再垂直下墜到車站的另一端再回到車站",
-            "pt-BR": "Depois de um lançamento arrebatador alimentado a ar, o trem acelera numa pista vertical, passando pelo topo, descendo verticalmente pelo outro lado para voltar à estação"
+            "pt-BR": "Depois de um lançamento arrebatador alimentado a ar, o trem acelera numa pista vertical, passando pelo topo, descendo verticalmente pelo outro lado para voltar à estação",
+            "cs-CZ": "Po mocném startu na stlačený vzduch se vozy rozjedou po svislé dráze, přes vrchol a svisle dolů zpět do stanice",
+            "pl-PL": "Po ekscytującym starcie z pneumatycznej wyrzutni pociąg rozpędza się pod górę pionowego toru, pokonuje szczyt i spada pionowo z drugiej strony, by powrócić na stację",
+            "ru-RU": "После ускоряющего толчка поезд разгоняется по вертикальному треку и опускается вниз на станцию."
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -96,11 +104,14 @@
             "de-DE": "2 Fahrgäste pro Wagen",
             "es-ES": "2 pasajeros por coche",
             "it-IT": "2 passeggeri per carrozza",
-            "nl-NL": "2 passagiers per wagentje",
+            "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "ko-KR": "차량 정원 2명",
+            "ko-KR": "차량당 2명의 승객",
             "zh-TW": "每輛車限乘2人",
-            "pt-BR": "2 passageiros por vagão"
+            "pt-BR": "2 passageiros por vagão",
+            "cs-CZ": "2 místa v každém voze",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 чел. в кабинке"
         }
     }
 }

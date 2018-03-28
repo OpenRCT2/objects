@@ -71,14 +71,21 @@
     "images": ["$RCT2:OBJDATA/TIGRTWST.DAT[0..2594]"],
     "strings": {
         "name": {
-            "en-GB": "Bengal Tiger Rollercoaster",
+            "en-GB": "Bengal Tiger Cars",
             "fr-FR": "Montagnes Tigre du Bengale",
             "de-DE": "Bengalischer Tiger-Achterbahn",
             "es-ES": "Montaña Rusa Tigre de Bengala",
             "it-IT": "Ottovolante Tigre del Bengala",
-            "nl-NL": "Bengaalse Tijger-Achtbaan",
+            "nl-NL": "Bengaalsetijgerkarretjes",
             "sv-SE": "Bengalisk tiger",
-            "zh-CN": "孟加拉虎云霄飞车"
+            "zh-CN": "孟加拉虎云霄飞车",
+            "ar-EG": "Bengal Tiger Cars",
+            "cs-CZ": "Horská dráha bengálských tygrů",
+            "en-US": "Bengal Tiger Cars",
+            "ko-KR": "뱅갈 호랑이 차량",
+            "pl-PL": "Tygrys bengalski",
+            "pt-BR": "Carros Tigre-de-Bengala",
+            "ru-RU": "Бенгальский тигр"
         },
         "description": {
             "en-GB": "Roller coaster cars capable of heartline twists",
@@ -86,9 +93,13 @@
             "de-DE": "Achterbahnwagen, die sich um ihre Mittelachse drehen können",
             "es-ES": "Vagones capaces de dar giros a media altura",
             "it-IT": "Ottovolante con carrozze capaci di avvitamento",
-            "nl-NL": "Achtbaanwagentjes die Heartline-draaien kunnen maken",
+            "nl-NL": "Achtbaankarretjes die geschikt zijn voor heartline twists.",
             "sv-SE": "Berg- och dalbana med tvära svängar",
-            "zh-CN": "云霄飞车能以中心作旋转"
+            "zh-CN": "云霄飞车能以中心作旋转",
+            "cs-CZ": "Horská dráha, která se točí dokola tak, že návštěvníci jsou pořád na stejném místě",
+            "ko-KR": "하트라인 트위스트에서 사용할 수 있는 롤러코스터 차량",
+            "pl-PL": "Kolejka górska wykonująca zabójcze zakręty",
+            "ru-RU": "Горки с вращением"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -96,9 +107,13 @@
             "de-DE": "4 pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri per carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "每辆车限乘4人"
+            "zh-CN": "每辆车限乘4人",
+            "cs-CZ": "4 místa v každém voze",
+            "ko-KR": "차량당 4명의 승객",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

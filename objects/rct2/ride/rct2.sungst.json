@@ -24,12 +24,16 @@
             "de-DE": "Sonnenbrillenstand",
             "es-ES": "Puesto de gafas de sol",
             "it-IT": "Chiosco degli occhiali da sole",
-            "nl-NL": "Kraampje met Zonnebrillen",
+            "nl-NL": "Zonnebrillenkraam",
             "sv-SE": "Solglasögonstånd",
-            "ko-KR": "무설탕 껌 가게",
+            "ko-KR": "선글라스 가게",
             "zh-CN": "太阳眼镜店",
             "zh-TW": "太陽眼鏡店",
-            "pt-BR": "Barraca de Óculos de Sol"
+            "pt-BR": "Barraca de Óculos de Sol",
+            "cs-CZ": "Stánek s brýlemi",
+            "ja-JP": "サングラスショップ",
+            "pl-PL": "Kiosk z okularami",
+            "ru-RU": "Очки"
         },
         "description": {
             "en-GB": "A stall selling all kinds of sunglasses",
@@ -37,12 +41,16 @@
             "de-DE": "Ein Stand, an dem alle Arten von Sonnenbrillen verkauft werden",
             "es-ES": "Puesto que vende toda clase de gafas de sol",
             "it-IT": "Un chiosco che vende tutti i tipi di occhiali da sole",
-            "nl-NL": "Een kraampje dat allerlei soorten zonnebrillen verkoopt",
+            "nl-NL": "Een kraam waar allerlei soorten zonnebrillen worden verkocht.",
             "sv-SE": "Ett stånd som säljer alla sorters solglasögon",
-            "ko-KR": "무설탕 껌을 파는 건물",
+            "ko-KR": "다양한 종류의 선글라스를 파는 가게",
             "zh-CN": "一家卖各种款式的太阳眼镜的店",
             "zh-TW": "一家賣各種款式的太陽眼鏡的店",
-            "pt-BR": "Uma barraca vendendo todos os  tipos de óculos"
+            "pt-BR": "Uma barraca vendendo todos os  tipos de óculos",
+            "cs-CZ": "Stánek prodávající mnoho různých druhů slunečních brýlí",
+            "ja-JP": "いろいろな種類のサングラスを取りそろえた売店です",
+            "pl-PL": "Stoisko sprzedające okulary słoneczne",
+            "ru-RU": "Палатка с очками"
         }
     }
 }

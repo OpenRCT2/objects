@@ -23,12 +23,16 @@
             "de-DE": "Keksladen",
             "es-ES": "Puesto de galletas",
             "it-IT": "Negozio dei biscotti",
-            "nl-NL": "Koekjeswinkel",
+            "nl-NL": "Koekwinkel",
             "sv-SE": "Kakaffär",
             "ko-KR": "쿠키 가게",
             "zh-CN": "小饼乾店",
             "zh-TW": "小餅乾店",
-            "pt-BR": "Loja de Biscoito"
+            "pt-BR": "Loja de Biscoito",
+            "cs-CZ": "Stánek se sušenkami",
+            "ja-JP": "クッキーショップ",
+            "pl-PL": "Kiosk z ciasteczkami",
+            "ru-RU": "Печенье"
         },
         "description": {
             "en-GB": "A stall selling giant cookies",
@@ -36,12 +40,16 @@
             "de-DE": "Ein Stand, an dem riesige Kekse verkauft werden",
             "es-ES": "Puesto que vende galletas gigantes",
             "it-IT": "Un chiosco che vende biscotti giganti",
-            "nl-NL": "Een kraampje dat gigantische koekjes verkoopt",
+            "nl-NL": "Een kraam waar grote koeken worden verkocht.",
             "sv-SE": "Ett stånd som säljer jättekakor",
-            "ko-KR": "커다란 쿠키를 파는 판매점",
+            "ko-KR": "커다란 쿠키를 파는 가게",
             "zh-CN": "一家卖巨大饼乾的店",
             "zh-TW": "一家賣巨大餅乾的店",
-            "pt-BR": "Uma barraca vendendo biscoitos grandes"
+            "pt-BR": "Uma barraca vendendo biscoitos grandes",
+            "cs-CZ": "Stánek prodávající gigantické sušenky",
+            "ja-JP": "巨大なクッキーを売る売店です",
+            "pl-PL": "Stoisko sprzedające olbrzymie ciastka",
+            "ru-RU": "Ларек с печеньем"
         }
     }
 }

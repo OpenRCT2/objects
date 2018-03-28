@@ -43,16 +43,21 @@
     "images": ["$RCT2:OBJDATA/DRAGNFLY.DAT[0..1282]"],
     "strings": {
         "name": {
-            "en-GB": "Dragonfly Coaster",
+            "en-GB": "Dragonfly Cars",
             "fr-FR": "La Libellule",
             "de-DE": "Libellen-Achterbahn",
             "es-ES": "Montaña rusa Libélula",
             "it-IT": "Ottovolante Libellula",
-            "nl-NL": "Libellen-achtbaan",
+            "nl-NL": "Libellenkarretjes",
             "sv-SE": "Trollslända",
-            "ko-KR": "드레곤플라이 코스터",
+            "ko-KR": "잠자리 차량",
             "zh-TW": "大蜻蜓雲霄飛車",
-            "pt-BR": "Montanha-Russa da Libélula"
+            "pt-BR": "Carros Libélula",
+            "ar-EG": "سيارات التانين الطائرة",
+            "cs-CZ": "Šídlí horská dráha",
+            "en-US": "Dragonfly Cars",
+            "pl-PL": "Ważka jazda",
+            "ru-RU": "Стрекоза"
         },
         "description": {
             "en-GB": "Passengers ride suspended in a specially designed car from the single-rail track, swinging freely from side to side around corners",
@@ -60,11 +65,14 @@
             "de-DE": "Die Fahrgäste fahren in einem besonders dafür gebauten Wagen auf der Einschienen-Strecke und schwingen in den Kurven frei hin und her.",
             "es-ES": "Los pasajeros viajan suspendidos en vagones especialmente diseñados unidos a una vía monorraíl, con libertad para balancearse en las curvas.",
             "it-IT": "I passeggeri, in una carrozza speciale, sono sospesi al tracciato monorotaia, oscillando liberamente da lato a lato a ogni curva.",
-            "nl-NL": "Passagiers gaan door de bochten, hangend aan een enkele rail in een speciaal ontworpen wagentje dat vrij opzij kan slingeren.",
+            "nl-NL": "Passagiers zitten in kleine karretjes die onder een enkele rail hangen en naar buiten zwaaien in de bochten.",
             "sv-SE": "Passagerarna hänger under en enspårsbana i specialdesignade vagnar som svingar fritt i sidled i kurvorna.",
-            "ko-KR": "코너를 돌 때마다 자유로이 흔들리도록 특별히 설계된 차량에 탑승하여  하나의 레일 트랙을 따라 매달려 가는 롤러코스터",
+            "ko-KR": "하나의 레일로 이루어진 트랙에 매달린 특수 차량에 타고 코너를 돌 때마다 이리 저리 자유롭게 흔들리는 차량",
             "zh-TW": "乘客搭乘懸掛在單軌軌道上的特殊車輛，在軌道兩端自由?盪",
-            "pt-BR": "Os passageiros viajam suspensos no monotrilho num vagão especialmente projetado, balançando livremente de um lado para o outro"
+            "pt-BR": "Os passageiros viajam suspensos no monotrilho num vagão especialmente projetado, balançando livremente de um lado para o outro",
+            "cs-CZ": "Návštěvníci jedou na jednokolejné trati zavěšeni ve speciálním voze, který se v zatáčkách houpe",
+            "pl-PL": "Pasażerowie jadą w specjalnych wagonikach podwieszonych pod jednoszynowym torem, wychylając się swobodnie na zakrętach",
+            "ru-RU": "Люди едут по рельсу в подвешенных, раскачивающихся кабинках."
         },
         "capacity": {
             "en-GB": "2 passenger per car",
@@ -72,11 +80,14 @@
             "de-DE": "2 Fahrgäste pro Wagen",
             "es-ES": "2 pasajeros por vagón.",
             "it-IT": "2 passeggeri per carrozza",
-            "nl-NL": "2 passagiers per wagentje",
+            "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "ko-KR": "차량 정원 2명",
+            "ko-KR": "차량당 승객 2명",
             "zh-TW": "每輛車限乘2人",
-            "pt-BR": "2 passageiros por vagão"
+            "pt-BR": "2 passageiros por vagão",
+            "cs-CZ": "2 místa v každém voze",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 чел. в кабинке"
         }
     }
 }

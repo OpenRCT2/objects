@@ -47,11 +47,14 @@
             "de-DE": "Raptor-Rennachterbahn",
             "es-ES": "Montaña rusa Raptor",
             "it-IT": "Ottovolante dei rapaci",
-            "nl-NL": "Raptor Racer-achtbaan",
+            "nl-NL": "Velociraptors",
             "sv-SE": "Velociraptor-race",
             "ko-KR": "랩터 레이서 코스터",
             "zh-TW": "迅猛龍雲霄飛車",
-            "pt-BR": "Montanha-Russa de Corrida de Raptors"
+            "pt-BR": "Montanha-Russa de Corrida de Raptors",
+            "cs-CZ": "Raptorská horská dráha",
+            "pl-PL": "Wyścigi raptorów",
+            "ru-RU": "Раптор Рейсерс"
         },
         "description": {
             "en-GB": "Riders sit on the back of Raptor-shaped vehicles along a single-rail track",
@@ -59,11 +62,14 @@
             "de-DE": "Die Fahrgäste sitzen auf dem Rücken von Raptor-artigen Wagen auf einer Einschienen-Strecke.",
             "es-ES": "Los usuarios se sientan en vehículos con forma de velocirraptor, en un circuito monorraíl.",
             "it-IT": "I passeggeri attraversano un tracciato monorotaia su veicoli a forma di rapaci.",
-            "nl-NL": "Bezoekers zitten achterop Raptor-voertuigen die langs één rail rijden.",
+            "nl-NL": "Passagiers zitten op velociraptorvormige voertuigen die over een enkele rail lopen.",
             "sv-SE": "Passagerarna sitter på velociraptor-formade fordon och åker längs en enspårig bana.",
-            "ko-KR": "랩터 모양의 차량 뒤에 앉아 하나의 레일 트랙을 따라 앉아서 가는 롤러 코스터",
+            "ko-KR": "단선 롤러코스터 트랙을 따라 달리는 랩터 모양의 차량에 탑승하는 놀이기구",
             "zh-TW": "乘客坐在單軌軌道上的迅猛龍外形的車輛後方",
-            "pt-BR": "Os visitantes sentam no banco de trás de veículos em forma de Raptor que correm ao longo de um monotrilho"
+            "pt-BR": "Os visitantes sentam no banco de trás de veículos em forma de Raptor que correm ao longo de um monotrilho",
+            "cs-CZ": "Návštěvníci sedí na zádi vozů ve tvaru raptorů, které jedou po jednokolejné dráze",
+            "pl-PL": "Pasażerowie siedzą na grzbietach wagoników w kształcie raptorów, jadących po jednoszynowym torze",
+            "ru-RU": "Люди сидят на машинках-Рапторах и едут по монорельсу"
         },
         "capacity": {
             "en-GB": "2 riders per vehicle",
@@ -71,11 +77,14 @@
             "de-DE": "2 Fahrer pro Wagen",
             "es-ES": "2 pasajeros por vehículo",
             "it-IT": "2 passeggeri per veicolo",
-            "nl-NL": "2 rijders per wagentje",
+            "nl-NL": "2 passagiers per velociraptor",
             "sv-SE": "2 passagerare per fordon",
-            "ko-KR": "차량 정원 2명",
+            "ko-KR": "차량당 2명의 승객",
             "zh-TW": "每輛車限乘2人",
-            "pt-BR": "2 visitantes por veículo"
+            "pt-BR": "2 visitantes por veículo",
+            "cs-CZ": "2 místa v každém voze",
+            "pl-PL": "2 pasażerów na pojazd",
+            "ru-RU": "2 чел. в машине"
         }
     }
 }

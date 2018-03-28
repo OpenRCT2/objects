@@ -53,12 +53,16 @@
             "de-DE": "Hängebahnwagen",
             "es-ES": "Coches Suspendidos",
             "it-IT": "Carrozze oscillanti sospese",
-            "nl-NL": "Wagentjes",
+            "nl-NL": "Normale karretjes",
             "sv-SE": "Upphängda svängande vagnar",
-            "ko-KR": "매달려가는 진동차",
+            "ko-KR": "서스펜디드 스윙잉 차량",
             "zh-CN": "悬晃列车",
             "zh-TW": "懸晃列車",
-            "pt-BR": "Carros de Balanço Suspensos"
+            "pt-BR": "Carros de Balanço Suspensos",
+            "cs-CZ": "Zavěšené houpající se vozy",
+            "ja-JP": "サスペンデッド・スイング車両",
+            "pl-PL": "Swobodnie podwieszone wagoniki",
+            "ru-RU": "Подвесные вагоны"
         },
         "description": {
             "en-GB": "Suspended roller coaster train consisting of cars able to swing freely as the train goes around corners",
@@ -66,12 +70,16 @@
             "de-DE": "Hängender Achterbahnzug, der aus Wagen besteht, die frei schwingen können, wenn der Zug um die Kurven fährt",
             "es-ES": "Vagones suspendidos que se balancean libremente al tomar las curvas",
             "it-IT": "I treni da ottovolante sospesi trainano carrozze capaci di oscillare liberamente quando il treno gira in una curva",
-            "nl-NL": "Hangende achtbaan bestaand uit wagentjes die vrij kunnen draaien als de trein door de bochten gaat",
+            "nl-NL": "Omgekeerde achtbaantrein bestaande uit karretjes die vrijuit kunnen schommelen als de trein door een bocht gaat.",
             "sv-SE": "Tåg till upphängd berg- och dalbana som består av vagnar som kan svänga fritt när tåget kör runt svängarna",
-            "ko-KR": "열차가 커브를 돌 때 자유로이 좌우로 흔들릴 수 있도록 고안된 객차를 가진 진동 열차",
+            "ko-KR": "차량이 코너를 돌면 자유롭게 흔들거리게 만들어진 서스펜디드 롤러코스터 차량",
             "zh-CN": "是由当列车在转角处转弯时列车自由摇摆晃动组成的悬挂式过山车",
             "zh-TW": "是由當列車在轉角處轉彎時列車自由搖?晃動組成的懸掛式雲霄飛車",
-            "pt-BR": "Trem de montanha-russa suspenso consistindo de carros capazes de balançar livremente quando o trem passa pelas curvas"
+            "pt-BR": "Trem de montanha-russa suspenso consistindo de carros capazes de balançar livremente quando o trem passa pelas curvas",
+            "cs-CZ": "Zavěšená horská dráha z volné zavěšených vozů, které se naklání při jízdě do zatáček",
+            "ja-JP": "車両がコーナーを回る際、大きく揺れ動くようになっている吊り下げ式のローラーコースターです",
+            "pl-PL": "Kolejka górska z podwieszanymi wagonikami, które mogą się swobodnie kołysać podczas pokonywania zakrętów",
+            "ru-RU": "Suspended roller coaster train consisting of cars able to swing freely as the train goes around corners"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -79,12 +87,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por carro"
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

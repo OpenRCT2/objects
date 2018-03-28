@@ -24,10 +24,14 @@
             "it-IT": "Negozio del caffè",
             "nl-NL": "Koffiewinkel",
             "sv-SE": "Kafé",
-            "ko-KR": "커피숍",
+            "ko-KR": "커피 가게",
             "zh-CN": "咖啡店",
             "zh-TW": "咖啡店",
-            "pt-BR": "Loja de Café"
+            "pt-BR": "Loja de Café",
+            "cs-CZ": "Stánek s kávou",
+            "ja-JP": "コーヒーショップ",
+            "pl-PL": "Kawiarenka",
+            "ru-RU": "Кофе"
         },
         "description": {
             "en-GB": "An art-deco style shop selling cups of coffee",
@@ -35,12 +39,16 @@
             "de-DE": "Ein Laden im Art-Deco-Stil, in dem Kaffee verkauft wird",
             "es-ES": "Una tienda de estilo art-deco que vende tazas de café",
             "it-IT": "Un negozio in stile art-deco che vende tazzine di tè",
-            "nl-NL": "Een winkel in art-deco stijl waarin koppen koffie worden verkocht",
+            "nl-NL": "Een winkel in artdecostijl waar kopjes koffie worden verkocht.",
             "sv-SE": "En affär i art-decostil som säljer kaffe i koppar",
-            "ko-KR": "예술 장식이 되어있는 커피 가게",
+            "ko-KR": "커피 한 잔을 파는 예술적인 모습의 상점",
             "zh-CN": "一间立体派装饰风格的商店在卖咖啡",
             "zh-TW": "一間立體派裝飾風格的商店在賣咖啡",
-            "pt-BR": "Uma loja em estilo art déco vendendo xícaras de café"
+            "pt-BR": "Uma loja em estilo art déco vendendo xícaras de café",
+            "cs-CZ": "Hezky vypadající stánek prodávající kávu",
+            "ja-JP": "コーヒーを売るアールデコ風の売店です",
+            "pl-PL": "Stoisko w stylu art deco sprzedające kawę",
+            "ru-RU": "Здесь продают кофе"
         }
     }
 }

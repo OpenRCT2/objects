@@ -52,9 +52,13 @@
             "de-DE": "Faultierbahn",
             "es-ES": "Atracción Perezoso",
             "it-IT": "Il bradipo",
-            "nl-NL": "Luiaard-Attractie",
+            "nl-NL": "Luiaardkarretjes",
             "sv-SE": "Hängbana",
-            "zh-CN": "树猍游乐设施"
+            "zh-CN": "树猍游乐设施",
+            "cs-CZ": "Lenochodí jízda",
+            "ko-KR": "나무늘보 라이드",
+            "pl-PL": "Leniwa przejażdżka",
+            "ru-RU": "Ленивец"
         },
         "description": {
             "en-GB": "Suspended roller coaster train consisting of Sloth-shaped cars able to swing freely as the train goes around corners",
@@ -62,9 +66,13 @@
             "de-DE": "Hängender Achterbahnzug mit Wagen, die Faultieren nachempfunden sind und in Kurven frei schwingen können",
             "es-ES": "Tren suspendido consistente en vagones con forma de perezoso que se balancean libremente al tomar las curvas",
             "it-IT": "Ottovolante sospeso con carrozze a forma di bradipo che possono oscillare liberamente quando percorrono le curve",
-            "nl-NL": "Hangende Achtbaantrein bestaand uit als Luiaard vormgegeven wagentjes die in de bochten vrij van de ene kant naar de andere kant slingeren",
+            "nl-NL": "Omgekeerde achtbaantrein bestaande uit karretjes in de vorm van een luiaard, die vrijuit kunnen schommelen als de trein door een bocht gaat.",
             "sv-SE": "Upphängda berg- och dalbanevagnar som gungar fritt runt hörn",
-            "zh-CN": "悬吊式云霄飞车以树猍 为车辆外型使其能在转弯时能自由摆动摇荡"
+            "zh-CN": "悬吊式云霄飞车以树猍 为车辆外型使其能在转弯时能自由摆动摇荡",
+            "cs-CZ": "Zavěšená horská dráha s vozy připomínající lenochody, které se houpají v zatáčkách",
+            "ko-KR": "차량이 코너를 돌면 자유롭게 흔들거리게 만들어진 나무늘보 모양의 서스펜디드 롤러코스터 차량",
+            "pl-PL": "Kolejka górska z podwieszanymi wagonikami w kształcie leniwców, które bujają się swobodnie na zakrętach",
+            "ru-RU": "Подвесные горки с вагончиками, свободно качаются на виражах."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -72,9 +80,13 @@
             "de-DE": "4 pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri per carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "?每辆车限乘4人"
+            "zh-CN": "?每辆车限乘4人",
+            "cs-CZ": "4 místa v každém voze",
+            "ko-KR": "차량당 4명의 승객",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

@@ -50,14 +50,21 @@
     "images": ["$RCT2:OBJDATA/RHINORID.DAT[0..2498]"],
     "strings": {
         "name": {
-            "en-GB": "Rhino Ride",
+            "en-GB": "Rhino Trains",
             "fr-FR": "Rhinocéros",
             "de-DE": "Nashornbahn",
             "es-ES": "Atracción Rinoceronte",
             "it-IT": "Il rinoceronte",
-            "nl-NL": "Rinoceros-Attractie",
+            "nl-NL": "Neushoornkarretjes",
             "sv-SE": "Noshörningsbana",
-            "zh-CN": "犀牛游乐设施"
+            "zh-CN": "犀牛游乐设施",
+            "ar-EG": "قطارات وحيد القرن",
+            "cs-CZ": "Nosorožčí jízda",
+            "en-US": "Rhino Trains",
+            "ko-KR": "코뿔소 차량",
+            "pl-PL": "Nosorożcowa jazda",
+            "pt-BR": "Trens Rinocerontes",
+            "ru-RU": "Носорог"
         },
         "description": {
             "en-GB": "A compact steel-tracked roller coaster with a spiral lift hill and cars with in-line seating",
@@ -65,9 +72,13 @@
             "de-DE": "Eine kompakte Stahlachterbahn mit einem Spirallifthügel und Wagen mit Sitzen in einer Reihe",
             "es-ES": "Una montaña rusa compacta de acero con una colina de subida en espiral y vagones con asientos en línea",
             "it-IT": "Un compatto ottovolante d'acciaio con una collina che si risale a spirale e carrozze con sedili in fila",
-            "nl-NL": "Een compacte achtbaan die over een stalen baan loopt die een spiraallift-heuvel heeft en wagentjes met achter elkaar geplaatste stoelen heeft",
+            "nl-NL": "Een compacte achtbaan met een spiraalvormige kettingheuvel en karretjes waarin de passagiers achter elkaar zitten.",
             "sv-SE": "En berg- och dalbana av kompakt stål med ett spiralformat stigningsfält och vagnar med enkla säten placerade bakom varandra",
-            "zh-CN": "一座以螺旋上升斜坡结合钢铁轨道的云霄飞车且以成列就座的车辆运行"
+            "zh-CN": "一座以螺旋上升斜坡结合钢铁轨道的云霄飞车且以成列就座的车辆运行",
+            "cs-CZ": "Malá ocelová horská dráha se spirálovitým profilem a vozy se sedadly za sebou",
+            "ko-KR": "한 줄로 된 좌석과 나선형 리프트 힐이 있는 강철 트랙 롤러코스터",
+            "pl-PL": "Kolejka górska ze spiralnym wjazdem na wzniesienie i pasażerami siedzącymi jeden za drugim",
+            "ru-RU": "Компактные горки со спиральным лифтом"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -75,9 +86,13 @@
             "de-DE": "6 pro Wagen",
             "es-ES": "6 pasajeros por vagón",
             "it-IT": "6 passeggeri per carrozza",
-            "nl-NL": "6 passagiers per wagentje",
+            "nl-NL": "6 passagiers per karretje",
             "sv-SE": "6 passagerare per vagn",
-            "zh-CN": "每辆车限乘6人"
+            "zh-CN": "每辆车限乘6人",
+            "cs-CZ": "6 míst v každém voze",
+            "ko-KR": "차량당 6명의 승객",
+            "pl-PL": "6 pasażerów na wagonik",
+            "ru-RU": "6 пассажиров"
         }
     }
 }

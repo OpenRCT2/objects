@@ -23,12 +23,16 @@
             "de-DE": "Hot Dog-Stand",
             "es-ES": "Puesto de perritos",
             "it-IT": "Chiosco degli hot dog",
-            "nl-NL": "Kraampje met Hotdogs",
+            "nl-NL": "Hotdogkraam",
             "sv-SE": "Korvkiosk",
             "ko-KR": "핫도그 가게",
             "zh-CN": "热狗店",
             "zh-TW": "熱狗店",
-            "pt-BR": "Barraca de Cachorro-quente"
+            "pt-BR": "Barraca de Cachorro-quente",
+            "cs-CZ": "Stánek s párky v rohlíku",
+            "ja-JP": "ホットドッグショップ",
+            "pl-PL": "Kiosk z hotdogami",
+            "ru-RU": "Хот-доги"
         },
         "description": {
             "en-GB": "A stall selling hot dogs in rolls",
@@ -36,12 +40,16 @@
             "de-DE": "Ein Stand, an dem Hot Dogs verkauft werden",
             "es-ES": "Puesto que vende perritos calientes",
             "it-IT": "Un chiosco che vende hot dog",
-            "nl-NL": "Een kraampje dat hotdogs verkoopt",
+            "nl-NL": "Een kraam waar hotdogs worden verkocht.",
             "sv-SE": "Ett stånd som säljer korv med bröd",
             "ko-KR": "핫도그를 파는 가게",
             "zh-CN": "一家在卖热狗的店",
             "zh-TW": "一家在賣熱狗的店",
-            "pt-BR": "Uma barraca vendendo cachorros-quentes"
+            "pt-BR": "Uma barraca vendendo cachorros-quentes",
+            "cs-CZ": "Stánek prodávající párky v rohlíku",
+            "ja-JP": "ホットドッグを売る売店です",
+            "pl-PL": "Stoisko sprzedające parówki w bułeczkach",
+            "ru-RU": "Палатка с хот-догами."
         }
     }
 }

@@ -23,12 +23,16 @@
             "de-DE": "Fleischklößchen-Suppenstand",
             "es-ES": "Puesto de sopa albóndigas",
             "it-IT": "Chiosco di polpette in salsa",
-            "nl-NL": "Vleessoep Kraampje",
+            "nl-NL": "Soep-met-balletjeskraam",
             "sv-SE": "Köttbullssoppstånd",
-            "ko-KR": "미트볼 수프 음식점",
+            "ko-KR": "고기 완자탕 가게",
             "zh-CN": "贡丸汤店",
             "zh-TW": "貢丸湯店",
-            "pt-BR": "Barraca de Sopa de Carne"
+            "pt-BR": "Barraca de Sopa de Carne",
+            "cs-CZ": "Stánek s polévkou",
+            "ja-JP": "肉団子スープショップ",
+            "pl-PL": "Kiosk z zupą klopsikową",
+            "ru-RU": "Фрикадельки"
         },
         "description": {
             "en-GB": "A stall selling Chinese style meatball soup",
@@ -36,12 +40,16 @@
             "de-DE": "Ein Stand, an dem Fleischklößchen-Suppe verkauft wird",
             "es-ES": "Puesto que vende sopa de albóndigas estilo china",
             "it-IT": "Un chiosco che vende polpette in salsa alla cinese",
-            "nl-NL": "Een kraampje dat Chinese vleessoep verkoopt",
+            "nl-NL": "Een kraam waar Chinese soep met balletjes wordt verkocht.",
             "sv-SE": "Ett stånd som säljer kinesisk köttbullssoppa",
-            "ko-KR": "중국식 미트볼 수프를 파는 음식점",
+            "ko-KR": "중국식 고기 완자탕을 파는 가게",
             "zh-CN": "一家卖中国式贡丸汤的店",
             "zh-TW": "一家賣中國式貢丸湯的店",
-            "pt-BR": "Uma barraca vendendo sopa de carne à moda chinesa"
+            "pt-BR": "Uma barraca vendendo sopa de carne à moda chinesa",
+            "cs-CZ": "Stánek prodávající čínskou knedlíčkovou polévku",
+            "ja-JP": "中華風の肉団子スープを売る売店です",
+            "pl-PL": "Stoisko sprzedające chińską zupę z klopsikami",
+            "ru-RU": "Палатка с фрикадельным супом"
         }
     }
 }

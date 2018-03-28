@@ -122,11 +122,14 @@
             "de-DE": "Spaßhaus",
             "es-ES": "Casa de la risa",
             "it-IT": "Casa del divertimento",
-            "nl-NL": "Plezierhuis",
+            "nl-NL": "Fun House",
             "sv-SE": "Lustiga huset",
             "ko-KR": "펀 하우스",
             "zh-TW": "歡樂屋",
-            "pt-BR": "Casa Maluca"
+            "pt-BR": "Casa Maluca",
+            "cs-CZ": "Dům zábavy",
+            "pl-PL": "Dziwaczny dom",
+            "ru-RU": "Домик"
         },
         "description": {
             "en-GB": "Building containing moving walls and floors to disorientate people walking through it",
@@ -134,11 +137,14 @@
             "de-DE": "Haus mit beweglichen Wänden und Fußböden, um die Besucher zu verwirren",
             "es-ES": "El edificio contiene muros y suelos móviles para desorientar a los que pasan por él.",
             "it-IT": "L'edificio è composto da muri e pavimenti che si muovono, per disorientare le persone che si trovano all'interno.",
-            "nl-NL": "Gebouw met bewegende muren en vloeren om de mensen die er doorheenlopen te desoriënteren.",
+            "nl-NL": "Gebouw met bewegende muren en vloeren om de bezoekers te desoriënteren.",
             "sv-SE": "Byggnad med rörliga väggar och golv som gör besökare snurriga.",
-            "ko-KR": "움직이는 벽과 바닥이 지나가는 사람을 어지럽게 하는 건물",
+            "ko-KR": "움직이는 벽과 바닥이 지나가는 탑승객들의 방향을 헷갈리게 만드는 건물",
             "zh-TW": "建築中的牆和地板會不斷移動,讓人迷失方向感",
-            "pt-BR": "Prédio contendo pisos e paredes móveis para desorientar as pessoas andando dentro dela"
+            "pt-BR": "Prédio contendo pisos e paredes móveis para desorientar as pessoas andando dentro dela",
+            "cs-CZ": "Budova s pohybujícími se zdmi a podlahou, což dezorientuje procházející návštěvníky",
+            "pl-PL": "Budynek składający się z ruchomych ścian i podłóg, dezorientujących ludzi, którzy do niego wejdą",
+            "ru-RU": "Здание с анимированными стенами и полом дезориентирует людей"
         },
         "capacity": {
             "en-GB": "5 guests",
@@ -146,11 +152,14 @@
             "de-DE": "5 Gäste",
             "es-ES": "5 invitados",
             "it-IT": "5 visitatori",
-            "nl-NL": "5 gasten",
+            "nl-NL": "5 bezoekers",
             "sv-SE": "5 besökare",
-            "ko-KR": "정원 5명",
+            "ko-KR": "손님 5명",
             "zh-TW": "5位遊客",
-            "pt-BR": "5 visitantes"
+            "pt-BR": "5 visitantes",
+            "cs-CZ": "5 návštěvníků",
+            "pl-PL": "5 osób",
+            "ru-RU": "5 чел."
         }
     }
 }

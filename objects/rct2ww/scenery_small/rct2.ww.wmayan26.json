@@ -17,7 +17,11 @@
     "images": ["$RCT2:OBJDATA/WMAYAN26.DAT[0..3]"],
     "strings": {
         "name": {
-            "en-GB": "Lost City Wall Corner Piece"
+            "en-GB": "Lost City Wall Corner Piece",
+            "cs-CZ": "Rohová stěna Ztraceného města",
+            "ko-KR": "잃어버린 도시 벽 구석 조각",
+            "pl-PL": "Zaginione miasto - narożnik ściany",
+            "ru-RU": "Деталь стены"
         }
     }
 }

@@ -42,16 +42,21 @@
     "images": ["$RCT2:OBJDATA/HOVRBORD.DAT[0..1282]"],
     "strings": {
         "name": {
-            "en-GB": "Hoverboard Coaster",
+            "en-GB": "Hoverboards",
             "fr-FR": "Aéroglisseur",
             "de-DE": "Schwebebord-Achterbahn",
             "es-ES": "Montaña rusa Tabla de suspensión",
             "it-IT": "Ottovolante sulla tavola volante",
-            "nl-NL": "Zweefplank Achtbaan",
+            "nl-NL": "Hoverboardkarretjes",
             "sv-SE": "Svävarbräda",
-            "ko-KR": "호버보드 코스터",
+            "ko-KR": "호버보드",
             "zh-TW": "滑板雲霄飛車",
-            "pt-BR": "Montanha-Russa Flututante"
+            "pt-BR": "Hoverboards",
+            "ar-EG": "الألواح الحوامة",
+            "cs-CZ": "Vznášedlová horská dráha",
+            "en-US": "Hoverboards",
+            "pl-PL": "Latająca deska",
+            "ru-RU": "Ховерборд"
         },
         "description": {
             "en-GB": "Guests ride on a futuristic hoverboard, swinging freely from side to side around corners",
@@ -59,11 +64,14 @@
             "de-DE": "Die Gäste fahren auf einem futuristischen Schwebebord und schwingen in den Kurven frei hin und her.",
             "es-ES": "Los usuarios montan en una tabla de suspensión, balanceándose libremente de lado a lado al realizar giros.",
             "it-IT": "I passeggeri viaggiano su una futuristica tavola volante, oscillando liberamente da lato a lato a ogni curva.",
-            "nl-NL": "Gasten rijden door de bochten op futuristische zweefplanken, die vrij van links naar rechts kunnen slingeren",
+            "nl-NL": "Passagiers zitten op een futuristisch hoverboard dat onder een enkele rail hangt en naar buiten zwaait in de bochten.",
             "sv-SE": "Passagerarna åker på futuristiska svävarbrädor som svingar fritt i sidled i kurvorna.",
-            "ko-KR": "승객들은 미래의 호버보드를 타고 자유롭게 날아 다닙니다.",
+            "ko-KR": "탑승객이 미래에서 볼 만한 호버보드 위에 올라타 코너를 돌 때마다 이리 저리 자유롭게 흔들리는 차량",
             "zh-TW": "乘客乘坐在未來的滑板上,在角落間自由?盪",
-            "pt-BR": "Os visitantes andam num veículo futurista flutuante, balançando livremente para os lados nas curvas"
+            "pt-BR": "Os visitantes andam num veículo futurista flutuante, balançando livremente para os lados nas curvas",
+            "cs-CZ": "Návštěvníci jezdí na futuristických vznášedlech, houpajících se v zatáčkách ze strany na stranu",
+            "pl-PL": "Pasażerowie podróżują na futurystycznej latającej desce, wychylającej się swobodnie na zakrętach",
+            "ru-RU": "Люди едут на фантастических раскачивающихся досках"
         },
         "capacity": {
             "en-GB": "2 passenger per car",
@@ -71,11 +79,14 @@
             "de-DE": "2 Fahrgäste pro Wagen",
             "es-ES": "2 pasajeros por coche",
             "it-IT": "2 passeggeri per carrozza",
-            "nl-NL": "2 passagiers per wagentje",
+            "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "ko-KR": "차량 정원 2명",
+            "ko-KR": "차량당 승객 2명",
             "zh-TW": "每輛車限乘2人",
-            "pt-BR": "2 passageiros por vagão"
+            "pt-BR": "2 passageiros por vagão",
+            "cs-CZ": "2 místa v každém voze",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 чел. в кабинке"
         }
     }
 }

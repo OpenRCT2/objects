@@ -375,10 +375,14 @@
             "it-IT": "Girotondo",
             "nl-NL": "Draaimolen",
             "sv-SE": "Barnkarusell",
-            "ko-KR": "회전 목마",
+            "ko-KR": "회전목마",
             "zh-CN": "旋转木马",
             "zh-TW": "旋轉木馬",
-            "pt-BR": "Carrossel"
+            "pt-BR": "Carrossel",
+            "cs-CZ": "Kolotoč",
+            "ja-JP": "メリーゴーラウンド",
+            "pl-PL": "Karuzela obrotowa",
+            "ru-RU": "Карусель"
         },
         "description": {
             "en-GB": "Traditional rotating carousel with carved wooden horses",
@@ -386,12 +390,16 @@
             "de-DE": "Traditionelles Drehkarussell mit geschnitzten Holzpferden",
             "es-ES": "Carrusel tradicional con caballitos de madera tallada",
             "it-IT": "Il tradizionale carosello rotante con i cavalli di legno intagliato",
-            "nl-NL": "Traditioneel roterende draaimolen met uit hout gesneden paarden",
+            "nl-NL": "Traditionele draaimolen met uit hout gesneden paarden.",
             "sv-SE": "Traditionell roterande karusell med snidade trähästar",
-            "ko-KR": "나무를 깎아 만든 말들이 회전하는 전통적인 회전 목마",
+            "ko-KR": "나무로 조각된 말이 있는 전통적인 회전 목마",
             "zh-CN": "有着雕刻木马的传统旋转木马 。",
             "zh-TW": "有著雕刻木馬的傳統旋轉木馬 。",
-            "pt-BR": "Tradicional carrossel giratório com cavalos esculpidos em madeira"
+            "pt-BR": "Tradicional carrossel giratório com cavalos esculpidos em madeira",
+            "cs-CZ": "Klasický kolotoč s vyřezávanými koníky",
+            "ja-JP": "昔ながらの木彫りの回転木馬です",
+            "pl-PL": "Tradycyjna karuzela z drewnianymi konikami",
+            "ru-RU": "Обычная Карусель с деревянными лошадками"
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -401,10 +409,14 @@
             "it-IT": "16 passeggeri",
             "nl-NL": "16 passagiers",
             "sv-SE": "16 passagerare",
-            "ko-KR": "정원 16명",
+            "ko-KR": "승객 16명",
             "zh-CN": "16 位乘客",
             "zh-TW": "16 位乘客",
-            "pt-BR": "16 passageiros"
+            "pt-BR": "16 passageiros",
+            "cs-CZ": "16 návštěvníků",
+            "ja-JP": "定員16名",
+            "pl-PL": "16 pasażerów",
+            "ru-RU": "16 пассажиров"
         }
     }
 }

@@ -67,7 +67,12 @@
             "ko-KR": "미니 골프",
             "zh-CN": "迷你高尔夫",
             "zh-TW": "迷你高爾夫",
-            "pt-BR": "Minigolfe"
+            "pt-BR": "Minigolfe",
+            "cs-CZ": "Mini Golf",
+            "ja-JP": "ミニゴルフ",
+            "nl-NL": "Minigolf",
+            "pl-PL": "Minigolf",
+            "ru-RU": "Минигольф"
         },
         "description": {
             "en-GB": "A gentle game of miniature golf",
@@ -75,12 +80,22 @@
             "de-DE": "Ein leichtes Minigolfspiel",
             "es-ES": "Un sencillo juego de mini golf",
             "it-IT": "Un tranquillo campo per il golf in miniatura",
-            "nl-NL": "Een rustig spel minigolf",
+            "nl-NL": "Een rustig spelletje minigolf.",
             "sv-SE": "Ett lugnt spel minigolf",
-            "ko-KR": "미니어쳐 골프를 하는 온건한 게임",
+            "ko-KR": "모형 골프 게임",
             "zh-CN": "一种温和的小小高尔夫游戏",
-            "zh-TW": "一種溫和的小小高爾夫遊戲",
-            "pt-BR": "Um agradável jogo de golfe em miniatura"
+            "zh-TW": "一個溫和的迷你高爾夫遊戲",
+            "pt-BR": "Um agradável jogo de golfe em miniatura",
+            "cs-CZ": "Příjemná hra miniaturního golfu",
+            "ja-JP": "やさしいミニゴルフゲームです",
+            "pl-PL": "Spokojna gra w miniaturowego golfa",
+            "ru-RU": "Спокойная игра в минигольф"
+        },
+        "capacity": {
+            "cs-CZ": "",
+            "ko-KR": "",
+            "ru-RU": "",
+            "zh-TW": ""
         }
     }
 }

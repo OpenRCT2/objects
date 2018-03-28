@@ -61,30 +61,42 @@
     "images": ["$RCT2:OBJDATA/BMFL.DAT[0..2522]"],
     "strings": {
         "name": {
-            "en-GB": "Floorless Roller Coaster",
+            "en-GB": "Floorless Twister Trains",
             "fr-FR": "Train sans fond",
             "de-DE": "Bodenlose Achterbahn",
             "es-ES": "Montaña Rusa Sin Suelo",
             "it-IT": "Ottovolante senza pavimento",
-            "nl-NL": "Achtbaan Zonder Vloer",
+            "nl-NL": "Twistertrein zonder vloer",
             "sv-SE": "Golvlös berg- och dalbana",
-            "ko-KR": "바닥 없는 롤러코스터",
+            "ko-KR": "플로어리스 트위스터 차량",
             "zh-CN": "无地板式过山车",
             "zh-TW": "無地板式雲霄飛車",
-            "pt-BR": "Montanha-russa sem Piso"
+            "pt-BR": "Trens Tornado sem chão",
+            "ar-EG": "Floorless Twister Trains",
+            "cs-CZ": "Zakroucená horská dráha bez podlahy",
+            "en-US": "Floorless Twister Trains",
+            "ja-JP": "フロアレス・ジェットコースター",
+            "pl-PL": "Kolejka bezpodłogowa",
+            "ru-RU": "Горки без пола"
         },
         "description": {
-            "en-GB": "Wide coaster trains with no floor give the passengers an open-air feeling as they glide through twisted track and multiple inversions",
+            "en-GB": "A spacious train with shoulder restraints and no floor, making for a more exciting ride",
             "fr-FR": "Grand train de montagnes russes sans plancher donnant une sensation de plein-air aux passagers le long d'une voie alambiquée dotée de plusieurs inversions",
             "de-DE": "Breite Achterbahnzüge ohne Boden geben den Fahrgästen das Gefühl zu schweben, während sie durch die sich windende Strecke mit zahlreichen Ueberkopfteilen gleiten",
             "es-ES": "Montaña rusa sin suelo, que da la sensación de estar al aire abierto",
             "it-IT": "Grandi treni da ottovolante senza pavimento danno ai passeggeri la sensazione di volare senza sostegno mentre attraversano un tracciato contorto dalle inversioni multiple",
-            "nl-NL": "Ruime treintjes zonder vloer geven de passagiers een gevoel in de lucht te zweven als ze door de bochtige baan langs vele omkeringen gaan",
+            "nl-NL": "Brede achtbaantreinen zonder vloer, die de passagiers het gevoel geeft in de open lucht te zijn terwijl ze langs de kronkelende baan en door meerdere omkeringen glijden.",
             "sv-SE": "Breda tåg utan golv ger passagerarna en luftkänsla när de glider genom skruvade spår och flera omkastningar",
-            "ko-KR": "바닥이 없어서 뒤틀린 코스와 여러 회전 코스를 지나갈 때 승객들이 공중에 떠 있는 기분을 느끼게 해주는 롤러코스터",
+            "ko-KR": "꼬여있는 트랙과 여러 전이를 미끄러지듯 통과하면서 승객들에게 광활한 허공을 느끼게 해주는, 바닥이 없는 넓은 롤러코스터 차량",
             "zh-CN": "狂黟的过山车列车没有给乘客地板,在疾速经过旋转轨道及多样反转刺激时感受在空中的感觉",
             "zh-TW": "瘋狂的雲霄飛車列車沒有給乘客地板,在疾速經過旋轉軌道及多樣反轉刺激時感受在空中的感覺",
-            "pt-BR": "Largos trens sem piso dão aos passageiros uma sensação de vôo, enquanto passam por pistas sinuosas e várias inversões"
+            "pt-BR": "Um trem espaçoso com travas de ombro e sem chão, deixando o passeio mais emocionante",
+            "ar-EG": "A spacious train with shoulder restraints and no floor, making for a more exciting ride",
+            "cs-CZ": "Rozměrná horská dráha s vozy vybavenými ramenními opěrkami a s chybějící podlahou ve vozech, díky čemuž je jízda opravdu záživná",
+            "en-US": "A spacious train with shoulder restraints and no floor, making for a more exciting ride",
+            "ja-JP": "床がない幅広のコースターで、コースにはひねりと複数の反転があり、あたかも空を飛んでいるような気分になります",
+            "pl-PL": "Szerokie wagoniki pozbawione podłóg zapewniają pasażerom dobry widok podczas jazdy trasą z wieloma zakrętami",
+            "ru-RU": "Широкие поезда без пола дают пассажирам чувство свободы, когда они едут по извивающейся трассе."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -92,12 +104,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por vagão"
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

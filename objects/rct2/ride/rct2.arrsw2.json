@@ -61,12 +61,16 @@
             "de-DE": "Flugzeug-Hängewagen",
             "es-ES": "Aviones Suspendidos Balancín",
             "it-IT": "Aeroplani in oscillazione",
-            "nl-NL": "Vliegtuigjes",
+            "nl-NL": "Vliegtuigkarretjes",
             "sv-SE": "Upphängda svängflygplansvagnar",
-            "ko-KR": "공중에서 흔들리는 비행놀이 기구",
+            "ko-KR": "서스펜디드 스윙잉 에어로플레인 차량",
             "zh-CN": "悬晃式飞机列车",
             "zh-TW": "懸晃式飛機列車",
-            "pt-BR": "Vagões de Avião de Balanço Suspenso"
+            "pt-BR": "Vagões de Avião de Balanço Suspenso",
+            "cs-CZ": "Zavěšené houpající se aeroplány",
+            "ja-JP": "サスペンデッド・スイング飛行車両",
+            "pl-PL": "Swobodnie podwieszone wagoniki samolotowe",
+            "ru-RU": "Аэропланы"
         },
         "description": {
             "en-GB": "Suspended roller coaster train consisting of aeroplane shaped cars able to swing freely as the train goes around corners",
@@ -75,12 +79,16 @@
             "de-DE": "Ein hängender Achterbahnzug, der aus flugzeugförmigen Wagen besteht, die in Kurven frei schwingen",
             "es-ES": "Montaña rusa que consiste en vagones con forma de avión que giran libremente en las curvas",
             "it-IT": "Treni da ottovolante trainano carrozze a forma d'aeroplano sospese e capaci di oscillare liberamente durante le curve",
-            "nl-NL": "Hangende achtbaan die bestaat uit wagentjes in de vorm van vliegtuigjes die vrij kunnen slingeren als de trein door de bochten gaat",
+            "nl-NL": "Omgekeerde achtbaantrein bestaande uit karretjes in de vorm van een vliegtuig, die vrijuit kunnen schommelen als de trein door een bocht gaat.",
             "sv-SE": "Tåg till upphängd berg- och dalbana som består av flygplansformade vagnar som kan svänga fritt då tåget kör runt svängarna",
-            "ko-KR": "열차가 매점을 돌 때마다 자유롭게 흔들리는 비행기들이 매달려 있는 롤러코스터",
+            "ko-KR": "차량이 코너를 돌면 자유롭게 흔들거리게 만들어진 비행기 모양의 서스펜디드 롤러코스터 차량",
             "zh-CN": "悬挂式过山车列车是由飞机外形的车辆所组成的,车辆在经过转角处时会自由摆动摇晃",
             "zh-TW": "懸掛式雲霄飛車列車是由飛機外形的車輛所組成的,車輛在經過轉角處時會自由?動搖晃",
-            "pt-BR": "Trem de montanha-russa suspensa consistindo de vagões em forma de avião, capazes de balançar livremente quando o trem entra em curvas"
+            "pt-BR": "Trem de montanha-russa suspensa consistindo de vagões em forma de avião, capazes de balançar livremente quando o trem entra em curvas",
+            "cs-CZ": "Zavěšená horská dráha z volné zavěšených vozů ve tvaru aeroplánu, které se naklání při jízdě do zatáček",
+            "ja-JP": "ぶら下がった飛行機型の車両が、コーナーで大きく揺れ動くコースターです",
+            "pl-PL": "Kolejka górska z podwieszanymi wagonikami w kształcie samolotów, które mogą się swobodnie kołysać podczas pokonywania zakrętów",
+            "ru-RU": "Suspended roller coaster train consisting of airplane shaped cars able to swing freely as the train goes around corners"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -88,12 +96,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por Vagão"
+            "pt-BR": "4 passageiros por Vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажираpa"
         }
     }
 }

@@ -44,12 +44,16 @@
             "de-DE": "Fliegender Teppich",
             "es-ES": "Alfombras Mágicas",
             "it-IT": "Tappeto magico",
-            "nl-NL": "Magisch Tapijt",
+            "nl-NL": "Vliegend tapijt",
             "sv-SE": "Magisk matta",
-            "ko-KR": "마술 양탄자",
+            "ko-KR": "마법의 양탄자",
             "zh-CN": "魔毯",
             "zh-TW": "魔毯",
-            "pt-BR": "Tapete Mágico"
+            "pt-BR": "Tapete Mágico",
+            "cs-CZ": "Kouzelný koberec",
+            "ja-JP": "空飛ぶ絨毯",
+            "pl-PL": "Latający dywan",
+            "ru-RU": "Ковёр"
         },
         "description": {
             "en-GB": "A large flying-carpet themed car which moves up and down cyclically on the ends of 4 arms",
@@ -57,12 +61,16 @@
             "de-DE": "Ein großer Wagen im `Fliegender-Teppich-Outfit', der sich zyklisch am Ende von 4 Armen auf und ab bewegt",
             "es-ES": "Un vagón decorado con la temática de alfombra volante se mueve arriba y abajo cíclicamente",
             "it-IT": "Una vasta carrozza che ricorda un tappeto magico, che si muove su e giù ciclicamente sulle estremità di quattro bracci",
-            "nl-NL": "Een grote wagen in de vorm van een vliegend tapijt dat periodiek omhoog en omlaag beweegt aan het einde van vier armen",
+            "nl-NL": "Een grote wagen in de vorm van een vliegend tapijt draait rond aan de uiteinden van vier draaiarmen.",
             "sv-SE": "En stor flygande matta som rör sig i cirklar upp och ner fasthållen av 4 armar",
-            "ko-KR": "하늘을 나는 양탄자라는 테마의 큰 기구로, 4개의 팔 끝에 올라타서 위아래로 회전하며 움직입니다.",
+            "ko-KR": "양쪽 끝에 있는 4개의 관절 구조에 의해 원형으로 오르락 내리락하는 커다란 마법 양탄자 테마의 차량",
             "zh-CN": "一辆超大飞毯特色的车由底部四支支架循环式地上上下下移动",
             "zh-TW": "一輛超大飛毯特色的車由底部四支支架循環式地上上下下移動",
-            "pt-BR": "Um enorme vagão com tema de tapete voador que se move para cima e para baixo, ciclicamente, na ponta de 4 braços"
+            "pt-BR": "Um enorme vagão com tema de tapete voador que se move para cima e para baixo, ciclicamente, na ponta de 4 braços",
+            "cs-CZ": "Velký vůz připomínající koberec se pohybuje krouživými pohyby hýbe nahoru a dolů za pomoci 4 ramen",
+            "ja-JP": "4本のアームの端に大きな空飛ぶじゅうたんの車両が付き、上下しながら回転する乗物です",
+            "pl-PL": "Wagony w kształcie latającego dywanu poruszające się na przemian w górę i w dół na końcach czterech ramion",
+            "ru-RU": "Большой летающий ковер, двигающийся вверх-вниз."
         },
         "capacity": {
             "en-GB": "12 passengers",
@@ -72,10 +80,14 @@
             "it-IT": "12 passeggeri",
             "nl-NL": "12 passagiers",
             "sv-SE": "12 passagerare",
-            "ko-KR": "12명의 승객",
+            "ko-KR": "승객 12명",
             "zh-CN": "12 位乘客",
             "zh-TW": "12 位乘客",
-            "pt-BR": "12 passageiros"
+            "pt-BR": "12 passageiros",
+            "cs-CZ": "12 návštěvníků",
+            "ja-JP": "定員12名",
+            "pl-PL": "12 pasażerów",
+            "ru-RU": "12 пассажиров"
         }
     }
 }

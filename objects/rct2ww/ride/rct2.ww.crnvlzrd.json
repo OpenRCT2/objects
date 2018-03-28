@@ -64,8 +64,12 @@
             "de-DE": "Karnevalswagenbahn - Echsenwagen",
             "es-ES": "Atracción flotadores de carnaval; vagones lagarto",
             "it-IT": "Carnevale sull'acqua - Carrozze lucertola",
-            "nl-NL": "Attractie met Carnavalwagens - hagadis-wagentjes",
-            "sv-SE": "Karnevalsbåtar med ödlevagnar"
+            "nl-NL": "Hagediswagentjes",
+            "sv-SE": "Karnevalsbåtar med ödlevagnar",
+            "cs-CZ": "Ještěrčí autodráha",
+            "ko-KR": "카니발 플로트 라이드 - 도마뱀 차량",
+            "pl-PL": "Parada na platformach - jaszczurki",
+            "ru-RU": "Карнавал - Вараны"
         },
         "description": {
             "en-GB": "Roller coaster cars in the shape of lizard carnival floats",
@@ -73,8 +77,12 @@
             "de-DE": "Achterbahnwagen mit dem Aussehen von Echsen-Karnevalswagens",
             "es-ES": "Vagones de montaña rusa con forma de flotadores lagarto de carnaval",
             "it-IT": "Carrozze galleggianti di ottovolante a forma di lucertola",
-            "nl-NL": "Achtbaanwagentjes met hagadisvormige carnavalwagens",
-            "sv-SE": "Karnevalsliknande berg- och dalbanevagnar med ödlemotiv"
+            "nl-NL": "Elektrische carnivalsoptochtwagentjes in de vorm van een hagedis.",
+            "sv-SE": "Karnevalsliknande berg- och dalbanevagnar med ödlemotiv",
+            "cs-CZ": "Vozy ve tvaru ještěrek jezdí po postavené dráze",
+            "ko-KR": "도마뱀 퍼레이드 차량 모양의 롤러코스터 차량",
+            "pl-PL": "Wagoniki w kształcie jaszczurczych platform",
+            "ru-RU": "Вагончики в форме варана"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -82,8 +90,12 @@
             "de-DE": "2 pro Wagen",
             "es-ES": "2 pasajeros por vagón",
             "it-IT": "2 passeggeri per carrozza",
-            "nl-NL": "2 passagiers per wagentje",
-            "sv-SE": "2 passagerare per båt"
+            "nl-NL": "2 passagiers per karretje",
+            "sv-SE": "2 passagerare per båt",
+            "cs-CZ": "2 místa v každém voze",
+            "ko-KR": "차량당 2명의 승객",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира"
         }
     }
 }

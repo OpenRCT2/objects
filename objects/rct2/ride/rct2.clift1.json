@@ -46,12 +46,16 @@
             "de-DE": "Sesselliftwagen",
             "es-ES": "Coches de telesilla",
             "it-IT": "Carrozze",
-            "nl-NL": "Kabelbaanstoeltjes",
+            "nl-NL": "Stoeltjesliftkarretjes",
             "sv-SE": "linbanekorgar",
-            "ko-KR": "리프트",
+            "ko-KR": "리프트 차량",
             "zh-CN": "升降机列车",
-            "zh-TW": "升降機列車",
-            "pt-BR": "Carros de Teleférico"
+            "zh-TW": "纜車車卡",
+            "pt-BR": "Carros de Teleférico",
+            "cs-CZ": "Kryté sedačkové lanovky",
+            "ja-JP": "チェアリフト車両",
+            "pl-PL": "Latające krzesełka",
+            "ru-RU": "Кресло-лифт"
         },
         "description": {
             "en-GB": "Open cars for chairlift",
@@ -59,12 +63,16 @@
             "de-DE": "Offene Wagen für Sessellift",
             "es-ES": "Vagones abiertos para el telesilla",
             "it-IT": "Carrozze aperte che vengono trainate",
-            "nl-NL": "Open wagentjes voor Kabelbaan",
+            "nl-NL": "Open stoeltjesliftkarretjes.",
             "sv-SE": "Öppna vagnar för linbana",
-            "ko-KR": "리프트 타는 곳",
+            "ko-KR": "철제 리프트 차량",
             "zh-CN": "开放列车让游客上下山使用",
-            "zh-TW": "開放列車讓遊客上下山使用",
-            "pt-BR": "Carros abertos para teleférico"
+            "zh-TW": "供纜車使用的開放式車卡",
+            "pt-BR": "Carros abertos para teleférico",
+            "cs-CZ": "Lanovka se sedačkami se střechou",
+            "ja-JP": "屋根のないリフトカーです",
+            "pl-PL": "Kolejka krzesełkowa z otwartymi siedziskami",
+            "ru-RU": "Открытые вагончики"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -72,12 +80,16 @@
             "de-DE": "2 Fahrgäste pro Wagen",
             "es-ES": "2 pasajeros por vagón",
             "it-IT": "2 passeggeri a carrozza",
-            "nl-NL": "2 passagiers per wagentje",
+            "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "ko-KR": "차량 정원 2명",
+            "ko-KR": "차량당 2명의 승객",
             "zh-CN": "2 位乘客/每个车厢",
-            "zh-TW": "2 位乘客/每個車廂",
-            "pt-BR": "2 passageiros por carro"
+            "zh-TW": "每車卡2位乘客",
+            "pt-BR": "2 passageiros por carro",
+            "cs-CZ": "2 místa na jedné sedačce",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира"
         }
     }
 }

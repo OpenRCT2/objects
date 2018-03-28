@@ -39,14 +39,21 @@
     "images": ["$RCT2:OBJDATA/DHOWWATR.DAT[0..114]"],
     "strings": {
         "name": {
-            "en-GB": "Dhow water ride",
+            "en-GB": "Dhow boats",
             "fr-FR": "Ballade en sampan",
             "de-DE": "Dhau-Wasserbahn",
             "es-ES": "Atracción acuática Dhow",
             "it-IT": "Il sambuco",
-            "nl-NL": "Water-Attractie met Arabisch zeilschip",
+            "nl-NL": "Dhowbootjes",
             "sv-SE": "Dau-båt",
-            "zh-CN": "帆船水上游乐设施"
+            "zh-CN": "帆船水上游乐设施",
+            "ar-EG": "Dhow boats",
+            "cs-CZ": "Plachetnice",
+            "en-US": "Dhow boats",
+            "ko-KR": "아랍식 보트",
+            "pl-PL": "Przejażdżka na dawach",
+            "pt-BR": "Barcos Veleiros",
+            "ru-RU": "Кораблик"
         },
         "description": {
             "en-GB": "Decorative fishing boat, which the passengers paddle themselves",
@@ -54,9 +61,13 @@
             "de-DE": "Dekoratives Fischerboot, das die Fahrgäste selbst durch Paddeln bewegen",
             "es-ES": "Bote de pesca decorativo en el que los pasajeros pedalean",
             "it-IT": "Una nave da pesca ornamentale, che deve essere mossa dai passeggeri con i remi",
-            "nl-NL": "Decoratieve vissersboot waarin de passagiers zelf peddelen",
+            "nl-NL": "Decoratieve vissersboot waarbij de passagiers zelf trappen.",
             "sv-SE": "En dekorativ fiskebåt som paddlas av föraren",
-            "zh-CN": "装饰的钓鱼船，由游客自行踩踏行进"
+            "zh-CN": "装饰的钓鱼船，由游客自行踩踏行进",
+            "cs-CZ": "Ozdobné plachetnice, u kterých musí návštěvníci pádlovat",
+            "ko-KR": "탑승객이 스스로 페달을 밟는, 장식된 낚시 배",
+            "pl-PL": "Ozdobne arabskie łodzie rybackie, w których pasażerowie sami wiosłują",
+            "ru-RU": "Рыбацкий кораблик, пассажиры гребут сами"
         },
         "capacity": {
             "en-GB": "2 passengers per boat",
@@ -66,7 +77,11 @@
             "it-IT": "2 passeggeri per imbarcazione",
             "nl-NL": "2 passagiers per boot",
             "sv-SE": "2 passagerare per båt",
-            "zh-CN": "每艘船限乘2人"
+            "zh-CN": "每艘船限乘2人",
+            "cs-CZ": "2 místa na každé lodi",
+            "ko-KR": "보트당 2명의 승객",
+            "pl-PL": "2 pasażerów na łódkę",
+            "ru-RU": "2 человека в лодке"
         }
     }
 }

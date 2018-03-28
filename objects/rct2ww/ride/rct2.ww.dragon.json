@@ -112,7 +112,11 @@
             "it-IT": "Ottovolante drago",
             "nl-NL": "Draak-Achtbaan",
             "sv-SE": "Berg- och drakbana",
-            "zh-CN": "龙舟"
+            "zh-CN": "龙舟",
+            "cs-CZ": "Dračí horská dráha",
+            "ko-KR": "드래곤 코스터",
+            "pl-PL": "Smocza kolejka",
+            "ru-RU": "Дракон-Коастер"
         },
         "description": {
             "en-GB": "Roller coaster with dragon-themed cars",
@@ -122,7 +126,11 @@
             "it-IT": "Ottovolante con carrozze a forma di drago",
             "nl-NL": "Achtbaan met als draken vormgegeven wagentjes",
             "sv-SE": "Berg- och dalbana med drakvagnar",
-            "zh-CN": "以龙为主题车辆的云霄飞车"
+            "zh-CN": "以龙为主题车辆的云霄飞车",
+            "cs-CZ": "Horská dráha s vozy ve tvaru draků",
+            "ko-KR": "드래곤 테마의 롤러코스터 차량",
+            "pl-PL": "Kolejka górska z wagonikami opartymi na motywie smoka",
+            "ru-RU": "Горки с вагончиками-драконами"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -132,7 +140,11 @@
             "it-IT": "4 passeggeri per carrozza",
             "nl-NL": "4 passagiers per wagentje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "每辆车限乘4人"
+            "zh-CN": "每辆车限乘4人",
+            "cs-CZ": "4 místa v každém voze",
+            "ko-KR": "차량당 4명의 승객",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 чел. в вагончике"
         }
     }
 }

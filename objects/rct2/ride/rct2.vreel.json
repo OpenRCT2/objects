@@ -43,14 +43,21 @@
     "images": ["$RCT2:OBJDATA/VREEL.DAT[0..362]"],
     "strings": {
         "name": {
-            "en-GB": "Virginia Reel",
+            "en-GB": "Virginia Reel tubs",
             "es-ES": "Danza de Virginia",
             "it-IT": "Bobine della Virginia",
-            "nl-NL": "Virginia Haspel",
+            "nl-NL": "Virginia Reel",
             "sv-SE": "Virginiavirveln",
-            "ko-KR": "버지니아 릴",
+            "ko-KR": "버지니아 릴 차량",
             "zh-CN": "维吉尼亚式旋转",
-            "zh-TW": "維吉尼亞式旋轉"
+            "zh-TW": "維吉尼亞式旋轉",
+            "ar-EG": "Virginia Reel tubs",
+            "cs-CZ": "Virginský moták",
+            "en-US": "Virginia Reel tubs",
+            "ja-JP": "バージニア・リール",
+            "pl-PL": "W koło Macieju",
+            "pt-BR": "Toneis Virginia Reel",
+            "ru-RU": "Вирджиния"
         },
         "description": {
             "en-GB": "Circular cars spin around as they travel along the zig-zagging wooden track",
@@ -58,12 +65,16 @@
             "de-DE": "Runde Wagen drehen sich auf der Zickzack-Holzstrecke",
             "es-ES": "Vagones circulares que rebotan mientras corren sobre la pista de madera en zigzag",
             "it-IT": "Carrozze circolari ruotano per il tracciato di legno a zig-zag",
-            "nl-NL": "Ronde wagentjes draaien rond terwijl ze langs de zigzaggende houten baan gaan",
+            "nl-NL": "Ronde karretjes gaan over een zigzaggende houten baan en draaien daarbij rond.",
             "sv-SE": "Runda vagnar snurrar runt medan de åker längs ett zick-zack-spår av trä",
-            "ko-KR": "지그재그로 되어 있는 나무 트랙을 이동하면서 회전하는 원형차",
+            "ko-KR": "나무 트랙을 이리 저리 따라 이동함에 따라 빙글빙글 돌아가는 원형 차량",
             "zh-CN": "圆形车辆延着急弯的木架轨道自旋",
             "zh-TW": "圓形車輛延著急彎的木架軌道自旋",
-            "pt-BR": "Carros circulares giram enquanto viajam pela pista de madeira em ziguezague"
+            "pt-BR": "Carros circulares giram enquanto viajam pela pista de madeira em ziguezague",
+            "cs-CZ": "Kulaté vozy se točí během jízdy po cik-cak dřevěné trati",
+            "ja-JP": "円形の車両が木製のコース上を回転しながらジグザグに進んで行く乗物です",
+            "pl-PL": "Okrągłe wagoniki wirują, jadąc po zygzakowatym drewnianym torze",
+            "ru-RU": "Круглые вагончики едут по трассе и одновременно крутятся."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -71,12 +82,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por carro"
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

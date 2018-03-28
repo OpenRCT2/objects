@@ -133,7 +133,12 @@
             "ko-KR": "서커스",
             "zh-CN": "马戏团",
             "zh-TW": "馬戲團",
-            "pt-BR": "Circo"
+            "pt-BR": "Circo",
+            "cs-CZ": "Cirkus",
+            "ja-JP": "サーカス",
+            "nl-NL": "Circus",
+            "pl-PL": "Cyrk",
+            "ru-RU": "Цирк"
         },
         "description": {
             "en-GB": "Circus animal show inside a big-top tent",
@@ -141,12 +146,16 @@
             "de-DE": "Zirkustiershow in einem großen Zelt",
             "es-ES": "Show de animales de circo bajo una gran carpa",
             "it-IT": "Spettacolo circense con animali tenuto all'interno di una tenda molto alta",
-            "nl-NL": "Een dierennummer in een circustent",
+            "nl-NL": "Een dierennummer in een circustent.",
             "sv-SE": "Cirkusdjurföreställning inuti ett stort kupoltält",
-            "ko-KR": "큰 천막 안에서 동물들의 서커스를 보여주는 곳",
+            "ko-KR": "안에서 서커스 동물 쇼를 진행하는 커다란 텐트",
             "zh-CN": "马戏团的动物在大帐篷里表演节目",
-            "zh-TW": "馬戲團的動物在大帳篷裡表演節目",
-            "pt-BR": "Show circense de animais dentro de uma enorme barraca"
+            "zh-TW": "於大型帳幕內進行動物馬戲團表演",
+            "pt-BR": "Show circense de animais dentro de uma enorme barraca",
+            "cs-CZ": "Zvířecí představení uvnitř velkého stanu",
+            "ja-JP": "動物のサーカスショーをやっている大テントです",
+            "pl-PL": "Cyrk ze zwierzętami występującymi w wielkim namiocie",
+            "ru-RU": "Цирковое выступление со зверями"
         },
         "capacity": {
             "en-GB": "30 guests",
@@ -156,10 +165,14 @@
             "it-IT": "30 spettatori",
             "nl-NL": "30 bezoekers",
             "sv-SE": "30 besökare",
-            "ko-KR": "정원 30",
+            "ko-KR": "손님 30명",
             "zh-CN": "30位客人",
-            "zh-TW": "30位客人",
-            "pt-BR": "30 visitantes"
+            "zh-TW": "30位遊客",
+            "pt-BR": "30 visitantes",
+            "cs-CZ": "30 návštěvníků",
+            "ja-JP": "定員30名",
+            "pl-PL": "30 widzów",
+            "ru-RU": "30 чел"
         }
     }
 }

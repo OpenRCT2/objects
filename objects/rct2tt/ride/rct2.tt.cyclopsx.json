@@ -43,11 +43,14 @@
             "de-DE": "Zyklopen-Attraktion",
             "es-ES": "Viaje del cíclope",
             "it-IT": "Corsa del Ciclope",
-            "nl-NL": "Cyclopen-attractie",
+            "nl-NL": "Cyclopenogen",
             "sv-SE": "Cyklop",
             "ko-KR": "사이클롭스 라이드",
             "zh-TW": "獨眼巨人遊樂設施",
-            "pt-BR": "Brinquedo do Ciclope"
+            "pt-BR": "Brinquedo do Ciclope",
+            "cs-CZ": "Kyklopský autodrom",
+            "pl-PL": "Cyklopowa jazda",
+            "ru-RU": "Циклоп"
         },
         "description": {
             "en-GB": "Riders drive the Eye of a Giant Cyclops",
@@ -55,11 +58,14 @@
             "de-DE": "Die Fahrer fahren im Auge eines Gigantischen Zyklopen.",
             "es-ES": "Los usuarios viajan en el ojo de un cíclope gigante.",
             "it-IT": "I passeggeri viaggiano nell'occhio di un ciclope gigante.",
-            "nl-NL": "Bezoekers rijden in het oog van een enorme cycloop.",
+            "nl-NL": "Passagiers rijden in het oog van een grote cycloop.",
             "sv-SE": "Förarna kör ögat från en jättecyklop.",
-            "ko-KR": "사이클롭스의 눈을 타는 기구",
+            "ko-KR": "대형 사이클롭스의 눈을 운전하는 놀이기구",
             "zh-TW": "乘客駕駛獨眼巨人之眼",
-            "pt-BR": "Os visitantes dirigem o Olho de um Ciclope Gigante"
+            "pt-BR": "Os visitantes dirigem o Olho de um Ciclope Gigante",
+            "cs-CZ": "Autodrom s elektrickými autíčky ve tvaru oka gigantického kyklopa",
+            "pl-PL": "Pasażerowie podróżują w oczach wielkich cyklopów",
+            "ru-RU": "Люди управляют машинками в форме глаз."
         },
         "capacity": {
             "en-GB": "1 person per car",
@@ -67,11 +73,14 @@
             "de-DE": "1 Person pro Wagen",
             "es-ES": "1 pasajero por coche",
             "it-IT": "1 persona per carrozza",
-            "nl-NL": "1 persoon per wagentje",
+            "nl-NL": "1 passagier per karretje",
             "sv-SE": "1 person per bil",
-            "ko-KR": "차량 정원 1명",
+            "ko-KR": "차량당 1명의 손님",
             "zh-TW": "每輛車限乘1人",
-            "pt-BR": "1 pessoa por vagão"
+            "pt-BR": "1 pessoa por vagão",
+            "cs-CZ": "1 místo v každém voze",
+            "pl-PL": "1 osoba na wagonik",
+            "ru-RU": "1 чел. в машине"
         }
     }
 }

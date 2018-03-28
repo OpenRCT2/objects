@@ -133,7 +133,10 @@
             "sv-SE": "Tidsmaskin",
             "ko-KR": "타임 머신",
             "zh-TW": "時光機",
-            "pt-BR": "Máquina do Tempo"
+            "pt-BR": "Máquina do Tempo",
+            "cs-CZ": "Stroj času",
+            "pl-PL": "Wehikuł czasu",
+            "ru-RU": "Время"
         },
         "description": {
             "en-GB": "Guests sit in a specially designed sphere, and experience the illusion of time travel",
@@ -141,11 +144,14 @@
             "de-DE": "Die Gäste sitzen in einer speziell dafür gebauten Kugel und erfahren die Illusion einer Zeitreise.",
             "es-ES": "Los invitados se sientan en esferas diseñadas especialmente experimentando una simulación de viaje en el tiempo.",
             "it-IT": "I visitatori siedono all'interno di una sfera appositamente creata per dare l'illusione del viaggio nel tempo.",
-            "nl-NL": "Gasten zitten in een speciaal ontworpen bol, en ervaren de illusie door de tijd te reizen",
+            "nl-NL": "Bezoekers zitten in een speciaal ontwerpen bol en krijgen de illusie dat ze door de tijd reizen.",
             "sv-SE": "Passagerarna sitter i en specialdesignad sfär och upplever en illusion av att resa i tiden.",
-            "ko-KR": "승객은 특별히 설계된 구 안에서 시간 여행의 환상을 경험하게 됩니다.",
+            "ko-KR": "특수하게 고안된 구에 앉아, 시간 여행의 환상을 경험하는 놀이기구",
             "zh-TW": "乘客坐在特殊設計的球體中,體驗時光旅行的感覺",
-            "pt-BR": "Os visitantes sentam numa esfera especialmente projetada, e experimentam a ilusão da viagem no tempo"
+            "pt-BR": "Os visitantes sentam numa esfera especialmente projetada, e experimentam a ilusão da viagem no tempo",
+            "cs-CZ": "Návštěvníci sedí ve speciálně navržené kruhovité konstrukci a zažívají pocit cestování časem",
+            "pl-PL": "Pasażer zasiada w specjalnej kuli, zapewniającej mu złudzenie podróżowania w czasie",
+            "ru-RU": "Люди сидят в специальной сфере и путешествуют во времени."
         },
         "capacity": {
             "en-GB": "1 per guest",
@@ -153,11 +159,14 @@
             "de-DE": "1 pro Gast",
             "es-ES": "1 por invitado",
             "it-IT": "1 per visitatore",
-            "nl-NL": "1 per gast",
+            "nl-NL": "1 bezoeker per tijdmachine",
             "sv-SE": "1 per besökare",
-            "ko-KR": "승객당 1회",
+            "ko-KR": "손님 1명",
             "zh-TW": "限乘一人",
-            "pt-BR": "1 por visitante"
+            "pt-BR": "1 por visitante",
+            "cs-CZ": "1 místo v každém stroji času",
+            "pl-PL": "Jednomiejscowe",
+            "ru-RU": "1 человек"
         }
     }
 }

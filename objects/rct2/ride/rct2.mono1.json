@@ -103,12 +103,16 @@
             "de-DE": "Stromlinienf. Einschienenzüge",
             "es-ES": "Tren Monorrail Aerodinámico",
             "it-IT": "Treni monorotaia aerodinamici",
-            "nl-NL": "Gestroomlijnde Monorailtreinen",
+            "nl-NL": "Gestroomlijnde monorailtrein",
             "sv-SE": "Strömlinjetåg på enspårsskena",
-            "ko-KR": "모노레일",
+            "ko-KR": "유선형 모노레일 차량",
             "zh-CN": "现代化单轨列车",
-            "zh-TW": "現代化單軌列車",
-            "pt-BR": "Trens de Monotrilho"
+            "zh-TW": "流線型單軌電車",
+            "pt-BR": "Trens de Monotrilho",
+            "cs-CZ": "Aerodynamické jednokolejné vlaky",
+            "ja-JP": "流線型のモノレール車両",
+            "pl-PL": "Opływowa kolejka jednoszynowa",
+            "ru-RU": "Моно-паровозики"
         },
         "description": {
             "en-GB": "Large capacity monorail trains with streamlined front and rear cars",
@@ -116,12 +120,16 @@
             "de-DE": "Große Einschienenzüge mit stromlinienförmigen Wagen vorne und hinten",
             "es-ES": "Trenes monoraíl de gran capacidad con coches delateros y traseros aerodinámicos",
             "it-IT": "Treni monorotaia dalla grande capienza, con carrozze alle estremità dalle forme aerodinamiche",
-            "nl-NL": "Monorailtreintjes met een gestroomlijnde voorkant en wagentjes aan de achterkant",
+            "nl-NL": "Monorailtrein met gestroomlijnde voor- en achterkant en een hoge capaciteit.",
             "sv-SE": "Högkapacitets enpårståg med vagnar med strömlinjeformad front och bak",
-            "ko-KR": "앞뒤로 좁은 모노레일을 타고 움직이는 넓은 열차",
+            "ko-KR": "유선형의 전두부와 후두부 차량을 가진 대용량의 모노레일 차량",
             "zh-CN": "前後列车为流线设计，具高载客量的单轨火车。",
-            "zh-TW": "前後列車為流線設計，具高載客量的單軌火車。",
-            "pt-BR": "Trens de Monotrilho de grande capacidade com carros frontais e traseiros alinhados"
+            "zh-TW": "大載客量的單軌電車, 車頭車尾都配備著流線型設計",
+            "pt-BR": "Trens de Monotrilho de grande capacidade com carros frontais e traseiros alinhados",
+            "cs-CZ": "Velkokapacitní jednokolejné vlaky s aerodynamickou přídí a zádí",
+            "ja-JP": "流線型の先頭車と客車から成る、定員の多いモノレールです",
+            "pl-PL": "Pojemne wagony jednoszynowe, opływowe na obu końcach",
+            "ru-RU": "Вместимые монорельсовые поезда с паровозами"
         },
         "capacity": {
             "en-GB": "5 or 10 passengers per car",
@@ -129,12 +137,16 @@
             "de-DE": "5 oder 10 Fahrgäste pro Wagen",
             "es-ES": "5 ó 10 pasajeros por vagón",
             "it-IT": "5 o 10 passeggeri a carrozza",
-            "nl-NL": "5 of 10 passagiers per wagentje",
+            "nl-NL": "10 passagiers per karretje (voor en achter 5)",
             "sv-SE": "5 eller 10 passagerare per vagn",
-            "ko-KR": "차량 정원 5-10명",
+            "ko-KR": "차량당 5명 또는 10명의 승객",
             "zh-CN": "5或10位乘客/每个车厢",
-            "zh-TW": "5或10位乘客/每個車廂",
-            "pt-BR": "5 ou 10 passageiros por carro"
+            "zh-TW": "每車卡5或10位乘客",
+            "pt-BR": "5 ou 10 passageiros por carro",
+            "cs-CZ": "5 nebo 10 míst v každém vagónu",
+            "ja-JP": "各車両5名または10名",
+            "pl-PL": "5 lub 10 pasażerów na wagonik",
+            "ru-RU": "5 или 10 пассажиров"
         }
     }
 }

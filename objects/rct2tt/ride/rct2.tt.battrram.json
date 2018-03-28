@@ -50,16 +50,21 @@
     "images": ["$RCT2:OBJDATA/BATTRRAM.DAT[0..2498]"],
     "strings": {
         "name": {
-            "en-GB": "Battering Ram Coaster",
+            "en-GB": "Battering Ram Trains",
             "fr-FR": "Le bélier",
             "de-DE": "Rammbock-Achterbahn",
             "es-ES": "Montaña rusa Ariete",
             "it-IT": "Ottovolante Ariete",
-            "nl-NL": "Stormram-achtbaan",
+            "nl-NL": "Stormramkarretjes",
             "sv-SE": "Rusande murbräcka",
-            "ko-KR": "배터링 램 코스터",
+            "ko-KR": "공성 망치 차량",
             "zh-TW": "破城槌雲霄飛車",
-            "pt-BR": "Montanha-Russa de Aríete"
+            "pt-BR": "Trens Aríete",
+            "ar-EG": "Battering Ram Trains",
+            "cs-CZ": "Beranidlová horská dráha",
+            "en-US": "Battering Ram Trains",
+            "pl-PL": "Kolejka taranowa",
+            "ru-RU": "Таранные горки"
         },
         "description": {
             "en-GB": "A compact steel-tracked roller coaster with a spiral lift hill and cars with in-line seating",
@@ -67,11 +72,14 @@
             "de-DE": "Eine kompakte Achterbahn auf Stahlträgern mit spiralförmigem Lifthügel und Wagen mit einreihigen Einsitzern.",
             "es-ES": "Una montaña rusa compacta, de metal, con una subida en espiral y coches con asientos en línea.",
             "it-IT": "Un ottovolante d'acciaio compatto, caratterizzato da una salita da traino a spirale e da carrozze con sedili in fila.",
-            "nl-NL": "Een compacte stalen achtbaan met een spiralerende liftheuvel en achter elkaar geplaatste zetels.",
+            "nl-NL": "Een compacte achtbaan met een spiraalvormige kettingheuvel en karretjes waarin de passagiers achter elkaar zitten.",
             "sv-SE": "En kompakt berg-och dalbana med stålskena, spiralformad lyftbacke och vagnar med säten i rad.",
-            "ko-KR": "나선형 언덕 견인과 횡렬 좌석을 갖춘 소형 철제 롤러코스터",
+            "ko-KR": "한 줄로 된 좌석과 나선형 리프트 힐이 있는 강철 트랙 롤러코스터",
             "zh-TW": "一座以螺旋上升斜坡結合鋼鐵軌道的雲霄飛車且以成列就座的車輛運行",
-            "pt-BR": "Uma montanha-russa compacta de aço com uma subida em espiral e vagões com assentos em linha"
+            "pt-BR": "Uma montanha-russa compacta de aço com uma subida em espiral e vagões com assentos em linha",
+            "cs-CZ": "Malá ocelová horská dráha se spirálovitým profilem a vozy se sedadly za sebou",
+            "pl-PL": "Zwarta przestrzennie kolejka ze stalowymi torami, spiralnym podjazdem i siedzeniami ustawionymi jedno za drugim",
+            "ru-RU": "Небольшие горки на стальном рельсе со спиральным подъёмом и вагончиками с сидениями в ряд."
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -79,11 +87,14 @@
             "de-DE": "6 Fahrgäste pro Wagen",
             "es-ES": "6 pasajeros por coche",
             "it-IT": "6 passeggeri per vettura",
-            "nl-NL": "6 passagiers per wagentje",
+            "nl-NL": "6 passagiers per karretje",
             "sv-SE": "6 passagerare per vagn",
-            "ko-KR": "차량 정원 6명",
+            "ko-KR": "차량당 6명의 승객",
             "zh-TW": "每輛車限乘6人",
-            "pt-BR": "6 passageiros por vagão"
+            "pt-BR": "6 passageiros por vagão",
+            "cs-CZ": "6 míst v každém voze",
+            "pl-PL": "6 pasażerów na wagonik",
+            "ru-RU": "6 человек в вагоне"
         }
     }
 }

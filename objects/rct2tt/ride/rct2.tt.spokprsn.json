@@ -127,9 +127,12 @@
             "it-IT": "Carcere dei ricercati",
             "nl-NL": "Spookgevangenis",
             "sv-SE": "Spökfängelse",
-            "ko-KR": "헌티드 제일 하우스",
+            "ko-KR": "유령의 감옥",
             "zh-TW": "監獄鬼屋",
-            "pt-BR": "Cadeia Assombrada"
+            "pt-BR": "Cadeia Assombrada",
+            "cs-CZ": "Strašidelná věznice",
+            "pl-PL": "Nawiedzone kazamaty",
+            "ru-RU": "Тюрьма"
         },
         "description": {
             "en-GB": "Building containing dungeons and mannequins of incarcerated figures, to scare people walking through it",
@@ -137,11 +140,14 @@
             "de-DE": "Haus mit eingekerkerten Figuren, die die Besucher erschrecken sollen",
             "es-ES": "El edificio contiene mazmorras y maniquíes de personas encarceladas, para atemorizar a los que pasen por allí.",
             "it-IT": "Edificio composto da prigioni e manichini raffiguranti individui carcerati, ricostruito al fine di impaurire i visitatori che l'attraversano.",
-            "nl-NL": "Gebouw met kerkers en poppen van opgesloten personen om mensen die er lopen bang te maken.",
+            "nl-NL": "Gebouw met kerkers en poppen van opgesloten mensen, om de bezoekers die er doorheen lopen angst aan te jagen.",
             "sv-SE": "Byggnad med fängelsehålor och vaxdockor av inspärrade fångar avsedda att skrämma besökare.",
-            "ko-KR": "지하 동굴과 감금된 생물의 마네킹이 지나가는 사람을 겁주는 건물",
+            "ko-KR": "지나가는 사람들을 겁주기 위해 지하 감옥에 감금된 마네킹 인형이 있는 건물",
             "zh-TW": "建築物內有地牢和犯人的人體模型,驚嚇走進鬼屋的人",
-            "pt-BR": "Prédio contendo calabouços e manequins de pessoas encarceradas, para assustar os visitantes"
+            "pt-BR": "Prédio contendo calabouços e manequins de pessoas encarceradas, para assustar os visitantes",
+            "cs-CZ": "Budova s podzemím a figurínami vězňů straší procházející návštěvníky",
+            "pl-PL": "Budynek z lochami i manekinami przedstawiającymi więţniów, które mają straszyć odwiedzających",
+            "ru-RU": "Здание с опасными преступниками, которые пугают добропорядочных прохожих."
         },
         "capacity": {
             "en-GB": "16 Guests",
@@ -149,11 +155,14 @@
             "de-DE": "16 Gäste",
             "es-ES": "16 usuarios",
             "it-IT": "16 visitatori",
-            "nl-NL": "16 gasten",
+            "nl-NL": "5 bezoekers",
             "sv-SE": "16 besökare",
-            "ko-KR": "정원 16명",
+            "ko-KR": "손님 16명",
             "zh-TW": "限16人",
-            "pt-BR": "16 Visitantes"
+            "pt-BR": "16 Visitantes",
+            "cs-CZ": "16 návštěvníků",
+            "pl-PL": "16 gości",
+            "ru-RU": "16 чел."
         }
     }
 }

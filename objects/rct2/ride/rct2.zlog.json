@@ -99,10 +99,14 @@
             "it-IT": "Tronchi",
             "nl-NL": "Boomstronktreinen",
             "sv-SE": "Stocktåg",
-            "ko-KR": "통나무 열차",
+            "ko-KR": "통나무 차량",
             "zh-CN": "原木列车",
             "zh-TW": "原木列車",
-            "pt-BR": "Trens de Tronco"
+            "pt-BR": "Trens de Tronco",
+            "cs-CZ": "Kládové vozy",
+            "ja-JP": "ログ車両",
+            "pl-PL": "Pociąg drwali",
+            "ru-RU": "Бревна"
         },
         "description": {
             "en-GB": "Roller coaster trains with small log shaped cars",
@@ -110,12 +114,16 @@
             "de-DE": "Achterbahnzüge mit kleinen baumstammförmigen Wagen",
             "es-ES": "Montaña rusa con vagones en forma de tronco",
             "it-IT": "Treni da ottovolante con carrozze a forma di tronchi",
-            "nl-NL": "Achtbaantreintjes met kleine wagentjes in de vorm van boomstronken",
+            "nl-NL": "Achtbaantrein met kleine karretjes in de vorm van een boomstronk.",
             "sv-SE": "Berg- och dalbanetåg med små stockformade vagnar",
-            "ko-KR": "작은 통나무 모양의 롤러코스터",
+            "ko-KR": "작은 통나무 모양의 롤러코스터 차량",
             "zh-CN": "过山车列车是以小型原木外形的",
             "zh-TW": "雲霄飛車列車是以小型原木外形的",
-            "pt-BR": "Trens de montanha-russa com pequenos vagões em forma de tronco"
+            "pt-BR": "Trens de montanha-russa com pequenos vagões em forma de tronco",
+            "cs-CZ": "Horská dráha s vozy ve tvaru klád",
+            "ja-JP": "丸太の形をした車両のローラーコースターです",
+            "pl-PL": "Kolejka górska z wagonikami w kształcie pni drzew",
+            "ru-RU": "Поезда с небольшими вагончиками."
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -123,12 +131,16 @@
             "de-DE": "2 Fahrgäste pro Wagen",
             "es-ES": "2 pasajeros por vagón",
             "it-IT": "2 passeggeri a carrozza",
-            "nl-NL": "2 passagiers per wagentje",
+            "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "ko-KR": "차량 정원 2명",
+            "ko-KR": "차량당 2명의 승객",
             "zh-CN": "2 位乘客/每个车厢",
             "zh-TW": "2 位乘客/每個車廂",
-            "pt-BR": "2 passageiros por vagão"
+            "pt-BR": "2 passageiros por vagão",
+            "cs-CZ": "2 místa v každém vozu",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира"
         }
     }
 }

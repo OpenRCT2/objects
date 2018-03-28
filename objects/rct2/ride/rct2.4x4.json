@@ -76,10 +76,15 @@
             "fr-FR": "Monster Truck",
             "de-DE": "Monster-Trucks",
             "it-IT": "Monster Truck",
-            "ko-KR": "거인 트럭",
+            "ko-KR": "몬스터 트럭",
             "zh-CN": "怪物货车",
-            "zh-TW": "怪物貨車",
-            "pt-BR": "Caminhões Monstros"
+            "zh-TW": "怪獸卡車",
+            "pt-BR": "Caminhões Monstros",
+            "cs-CZ": "Monster Trucks",
+            "ja-JP": "モンスタートラック",
+            "nl-NL": "Monstertrucks",
+            "pl-PL": "Potworne pikapy",
+            "ru-RU": "Грузовики"
         },
         "description": {
             "en-GB": "Powered giant 4 x 4 trucks which can climb steep slopes",
@@ -87,12 +92,16 @@
             "de-DE": "Angetriebene, gigantische Trucks mit Allradantrieb, die steile Hänge bezwingen können",
             "es-ES": "Camiones gigantes autopropulsados 4x4 que pueden subir cuestas impresionantes",
             "it-IT": "Camion giganti 4 x 4 capaci di arrampicarsi per pendii scoscesi",
-            "nl-NL": "Elektrische gigantische  4 x 4 trucks die steile hellingen kunnen beklimmen",
+            "nl-NL": "Gigantische elektrische 4x4-trucks die steile hellingen kunnen nemen.",
             "sv-SE": "Motordrivna jättejeepar med 4-hjulsdrift som kan klättra upp för branta lutningar",
-            "ko-KR": "가파른 경사길을 올라갈 수 있는 4륜 구동 트럭",
+            "ko-KR": "급경사를 오를 수 있는 초대형 4 x 4 트럭",
             "zh-CN": "以4 x 4大型动力货车爬上陡峭的斜坡",
-            "zh-TW": "以4 x 4大型動力貨車爬上陡峭的斜坡",
-            "pt-BR": "Enormes caminhões motorizados 4 x 4 que podem subir ladeiras íngremes"
+            "zh-TW": "能爬上陡斜坡道, 而且帶有動力的巨型4 x 4卡車",
+            "pt-BR": "Enormes caminhões motorizados 4 x 4 que podem subir ladeiras íngremes",
+            "cs-CZ": "Obří auta s pohonem 4x4, které jsou schopna vyjíždět velmi strmé svahy",
+            "ja-JP": "動力付きで、急斜面もものともしない巨大な四輪駆動車です",
+            "pl-PL": "Samochody na olbrzymich kołach z napędem 4 x 4, które mogą wjeżdżać na strome zbocza",
+            "ru-RU": "Люди катаются на огромных внедорожниках."
         },
         "capacity": {
             "en-GB": "2 passengers per truck",
@@ -102,10 +111,14 @@
             "it-IT": "2 passeggeri per camion",
             "nl-NL": "2 passagiers per truck",
             "sv-SE": "2 passagerare per lastbil",
-            "ko-KR": "차량 정원 2명",
+            "ko-KR": "트럭당 2명의 승객",
             "zh-CN": "2 位乘客 /每辆货车",
-            "zh-TW": "2 位乘客 /每輛貨車",
-            "pt-BR": "2 passageiros por caminhão"
+            "zh-TW": "每卡車2位乘客",
+            "pt-BR": "2 passageiros por caminhão",
+            "cs-CZ": "2 místa v každém vozu",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na samochód",
+            "ru-RU": "2 пассажира"
         }
     }
 }

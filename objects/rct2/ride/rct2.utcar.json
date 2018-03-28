@@ -78,12 +78,16 @@
             "de-DE": "Twister-Wagen",
             "es-ES": "Coches Tornado",
             "it-IT": "Carrozze per Serpentone",
-            "nl-NL": "Draaiende Wagentjes",
+            "nl-NL": "Twisterkarretjes",
             "sv-SE": "Spinnvagnar",
-            "ko-KR": "트위스터 카",
+            "ko-KR": "트위스터 차량",
             "zh-CN": "旋转列车",
             "zh-TW": "旋轉列車",
-            "pt-BR": "Carros Tornado"
+            "pt-BR": "Carros Tornado",
+            "cs-CZ": "Zatočené vozy",
+            "ja-JP": "ツイスト",
+            "pl-PL": "Wagoniki zwijki",
+            "ru-RU": "Твистер-Кар"
         },
         "description": {
             "en-GB": "Roller coaster cars capable of heartline twists",
@@ -91,12 +95,16 @@
             "de-DE": "Achterbahnwagen, mit denen Heartline-Twists möglich sind",
             "es-ES": "Montaña rusa con vagones capaces de giros a media altura",
             "it-IT": "Carrozze da ottovolante adatte alle curve ondulate",
-            "nl-NL": "Achtbaan wagentjes die heartline draaien maken",
+            "nl-NL": "Achtbaankarretjes die geschikt zijn voor heartline twists.",
             "sv-SE": "Berg- och dalbanevagnar som klarar hjärtlinjeskruvar",
-            "ko-KR": "하트라인을 따라 회전하는 롤러코스터",
+            "ko-KR": "하트라인 트위스트에 적합한 롤러코스터 차량",
             "zh-CN": "过山车车辆可以中心旋转运行",
             "zh-TW": "雲霄飛車車輛可以中心旋轉運行",
-            "pt-BR": "Carros de montanha-russa capazes de girar para cima e para baixo"
+            "pt-BR": "Carros de montanha-russa capazes de girar para cima e para baixo",
+            "cs-CZ": "Horská dráha, která se točí dokola tak, že návštěvníci jsou pořád na stejném místě.",
+            "ja-JP": "ハート形のひねりを持つローラーコースターです",
+            "pl-PL": "Wagoniki kolejki górskiej wykonującej zabójcze zakręty",
+            "ru-RU": "Вагончики, способные вращаться"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -104,12 +112,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por carro"
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

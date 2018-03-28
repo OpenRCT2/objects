@@ -23,11 +23,14 @@
             "de-DE": "Marktstand Limonade",
             "es-ES": "Puesto de limonada",
             "it-IT": "Chiosco di limonata",
-            "nl-NL": "Limonade marktkraampje",
+            "nl-NL": "Marktkraam met limonade",
             "sv-SE": "Lemonadstånd",
-            "ko-KR": "레모네이드 가게",
+            "ko-KR": "레모네이드 시장 상점",
             "zh-TW": "檸檬水攤位",
-            "pt-BR": "Quiosque de Limonada"
+            "pt-BR": "Quiosque de Limonada",
+            "cs-CZ": "Jarmarkový stánek s citronádou",
+            "pl-PL": "Stragan z lemoniadą",
+            "ru-RU": "Палатка с Лимонадом"
         },
         "description": {
             "en-GB": "A themed stall selling old style, fresh lemonade.",
@@ -35,11 +38,14 @@
             "de-DE": "Ein Stand, der frische Limonade nach Omas Rezept verkauft",
             "es-ES": "Un puesto de época en el que se vende limonada al viejo estilo, fresca.",
             "it-IT": "Un chiosco che vende tradizionali e rinfrescanti limonate.",
-            "nl-NL": "Een thematisch kraampje met authentieke verse limonade",
+            "nl-NL": "Een marktkraam waar ouderwetse, frisse limonade wordt verkocht.",
             "sv-SE": "Ett marknadsstånd som säljer kyld, gammaldags lemonad",
-            "ko-KR": "레모네이드를 파는 테마 가게",
+            "ko-KR": "신선한 레모네이드를 파는 오래된 테마의 가게",
             "zh-TW": "販賣老式新鮮檸檬水的主題攤位。",
-            "pt-BR": "Um quiosque temático vendendo a velha e boa limonada fresca"
+            "pt-BR": "Um quiosque temático vendendo a velha e boa limonada fresca",
+            "cs-CZ": "Stánek prodávající starou dobrou čerstvou citronádu",
+            "pl-PL": "Stylizowane stoisko sprzedające staroświecką świeżą lemoniadę.",
+            "ru-RU": "Палатка, продающая лимонад."
         }
     }
 }

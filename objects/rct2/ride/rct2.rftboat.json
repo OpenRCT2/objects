@@ -45,17 +45,23 @@
     "images": ["$RCT2:OBJDATA/RFTBOAT.DAT[0..98]"],
     "strings": {
         "name": {
-            "en-GB": "River Rafts",
+            "en-GB": "Rafts",
             "fr-FR": "Radeau médusé",
             "de-DE": "Floße",
             "es-ES": "Balsas de Río",
             "it-IT": "Zattere lungo il fiume",
-            "nl-NL": "Rivier Vlotten",
+            "nl-NL": "Overdekte vlotten",
             "sv-SE": "Flodflottar",
-            "ko-KR": "리버 래프팅",
+            "ko-KR": "뗏목",
             "zh-CN": "水上橡皮艇",
             "zh-TW": "水上橡皮艇",
-            "pt-BR": "Balsas no Rio"
+            "pt-BR": "Jangadas",
+            "ar-EG": "Rafts",
+            "cs-CZ": "Říční rafty",
+            "en-US": "Rafts",
+            "ja-JP": "川いかだ",
+            "pl-PL": "Tratwy rzeczne",
+            "ru-RU": "Рафтинг"
         },
         "description": {
             "en-GB": "Raft-shaped boats gently meander around a river track",
@@ -63,12 +69,16 @@
             "de-DE": "Floßförmige Boote winden sich sanft durch eine Flussstrecke",
             "es-ES": "Botes con forma de balsa",
             "it-IT": "Barche a forma di zattera si muovono dolcemente lungo una pista d'acqua",
-            "nl-NL": "Boten in de vorm van Vlotten gaan zachtjes over een rivierbaan",
+            "nl-NL": "Boten in de vorm van een vlot varen rustig door een waterbak.",
             "sv-SE": "Flottformade båtar som lugnt snirklar sig runt ett flodspår",
-            "ko-KR": "수로를 따라 구불구불 내려오는 뗏목 모양의 보트",
+            "ko-KR": "구불구불한 강 모양의 트랙을 따라 얌전히 이동하는 뗏목 모양의 보트",
             "zh-CN": "橡皮艇外形的船在水道上温和地曲折前进",
             "zh-TW": "橡皮艇外形的船在水道上溫和地曲折前進",
-            "pt-BR": "Barcos em forma de balsa vagueiam suavemente em um rio"
+            "pt-BR": "Barcos em forma de balsa vagueiam suavemente em um rio",
+            "cs-CZ": "Rafty se plaví po meandrech na vodním kanále",
+            "ja-JP": "川いかだの形のボートが、ゆるやかに曲がりくねった川のコースを進む乗物です",
+            "pl-PL": "Tratwy manewrujące zręcznie po wodnym torze",
+            "ru-RU": "Люди плывут по каналу на деревянных плотах."
         },
         "capacity": {
             "en-GB": "4 passengers per raft",
@@ -76,12 +86,16 @@
             "de-DE": "4 Fahrgäste pro Floß",
             "es-ES": "4 pasajeros por balsa",
             "it-IT": "4 passeggeri a zattera",
-            "nl-NL": "4 passagiers per Vlot",
+            "nl-NL": "4 passagiers per vlot",
             "sv-SE": "4 passagerare per flotte",
-            "ko-KR": "보트 정원 4명",
+            "ko-KR": "래프트당 4명의 승객",
             "zh-CN": "4 位乘客 /每艘橡皮艇",
             "zh-TW": "4 位乘客 /每艘橡皮艇",
-            "pt-BR": "4 passageiros por balsa"
+            "pt-BR": "4 passageiros por balsa",
+            "cs-CZ": "4 místa na každém raftu",
+            "ja-JP": "各ボート4名",
+            "pl-PL": "4 pasażerów na tratwę",
+            "ru-RU": "4 пассажира"
         }
     }
 }

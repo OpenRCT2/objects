@@ -50,17 +50,23 @@
     "images": ["$RCT2:OBJDATA/WMSPIN.DAT[0..4610]"],
     "strings": {
         "name": {
-            "en-GB": "Spinning Wild Mouse",
+            "en-GB": "Spinning Mouse Cars",
             "fr-FR": "Souris folle tournante",
             "de-DE": "Rotierende Wilde Maus",
             "es-ES": "Ratón Loco Giratorio",
             "it-IT": "Topo rotante tutto matto",
-            "nl-NL": "Draaiende Wilde Mouse",
+            "nl-NL": "Draaiende karretjes",
             "sv-SE": "Snurriga vilda möss",
-            "ko-KR": "스피닝 와일드 마우스",
+            "ko-KR": "회전 와일드 마우스 차량",
             "zh-CN": "太空飞鼠",
             "zh-TW": "太空飛鼠",
-            "pt-BR": "Rato Maluco Giratório"
+            "pt-BR": "Carros Rato Giratório",
+            "ar-EG": "Spinning Mouse Cars",
+            "cs-CZ": "Točící se divoká myš",
+            "en-US": "Spinning Mouse Cars",
+            "ja-JP": "スピニング・ワイルド・マウス車両",
+            "pl-PL": "Wirująca szalona mysz",
+            "ru-RU": "Вращающаяся мышка"
         },
         "description": {
             "en-GB": "Mouse shaped cars speed through tight corners and short drops, gently spinning around to disorientate the riders",
@@ -68,12 +74,16 @@
             "de-DE": "Mausförmige Wagen rasen um enge Kurven und kurze Gefälle herunter, wobei sie sich sanft drehen, um die Fahrgäste zu desorientieren",
             "es-ES": "Vagones con forma de ratón efectúan curvas bruscas",
             "it-IT": "Le carrozze a forma di topo sfrecciano lungo curve molto strette e ripide discese, ruotando lentamente su se stesse per disorientare i passeggeri",
-            "nl-NL": "Wagentjes in de vorm van muizen die snel door nauwe bochten en korte afdalingen snellen en langzaam ronddraaien om de bezoekers te desorienteren.",
+            "nl-NL": "Muisvormige karretjes rijden snel door scherpe bochten en korte afdalingen, en draaien daarbij zachtjes rond om de passagiers te desoriënteren.",
             "sv-SE": "Musformade vagnar rusar genom snäva svängar och korta backar och snurrar runt för att disorientera passagerarna",
-            "ko-KR": "빙글빙글 돌며 급회전이나 짧은 경사로를 내려가며 승객들의 방향감각을 혼란시키는 쥐 모양의 롤러코스터",
+            "ko-KR": "급격한 코너와 짧은 낙하를 지나면서 속도를 내고, 차량의 부드러운 회전이 탑승객의 방향 감각을 잃게 만드는 쥐 모양의 차량",
             "zh-CN": "老鼠外形车辆疾迅穿过牢固转角及短程下坡,再温和地旋转着使你迷失方向感",
             "zh-TW": "老鼠外形車輛疾迅穿過牢固轉角及短程下坡,再溫和地旋轉著使你迷失方向感",
-            "pt-BR": "Carros em forma de rato aceleram por curvas fechadas e quedas curtas, girando suavemente para desorientar os passageiros"
+            "pt-BR": "Carros em forma de rato aceleram por curvas fechadas e quedas curtas, girando suavemente para desorientar os passageiros",
+            "cs-CZ": "Vozy ve tvaru myší jedou po dřevěné trati a pro dezorientaci návštěvníků se točí, zatímco se naklání v ostrých zatáčkách a drsných pádech",
+            "ja-JP": "ネズミの形をした車両がタイトコーナーや短い降下を走り回り、スピンして方向感覚が失われる乗物です",
+            "pl-PL": "Wagoniki w kształcie myszy pokonujące ostre zakręty i krótkie zjazdy, wirujące łagodnie w celu zdezorientowania pasażerów",
+            "ru-RU": "Машинки в виде мышек едут по трассе, слегка вращаясь."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -81,12 +91,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por vagão"
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

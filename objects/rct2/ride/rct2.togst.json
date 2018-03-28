@@ -102,17 +102,23 @@
     "images": ["$RCT2:OBJDATA/TOGST.DAT[0..4470]"],
     "strings": {
         "name": {
-            "en-GB": "Stand-up Roller Coaster",
+            "en-GB": "Stand-up Roller Coaster Trains",
             "fr-FR": "Montagnes russes debout",
             "de-DE": "Stehachterbahn",
             "es-ES": "Montaña Rusa En Pie",
             "it-IT": "Corsa in posiz. eretta",
-            "nl-NL": "Staande Achtbaan",
+            "nl-NL": "Staande achtbaantrein",
             "sv-SE": "Stå-upp-berg- och dalbana",
-            "ko-KR": "스탠드업 롤러코스터",
+            "ko-KR": "스탠드 업 롤러코스터 차량",
             "zh-CN": "站立式过山车",
             "zh-TW": "站立式雲霄飛車",
-            "pt-BR": "Montanha-russa em Pé"
+            "pt-BR": "Trens Montanha-Russa em Pé",
+            "ar-EG": "Stand-up Roller Coaster Trains",
+            "cs-CZ": "Horská dráha \"na stojáka\"",
+            "en-US": "Stand-up Roller Coaster Trains",
+            "ja-JP": "立ち乗りローラーコースター",
+            "pl-PL": "Stojąca kolejka",
+            "ru-RU": "Стоячие горки"
         },
         "description": {
             "en-GB": "A looping roller coaster where the riders ride in a standing position",
@@ -120,12 +126,16 @@
             "de-DE": "Eine Looping-Achterbahn, bei der sich die Fahrgäste in einer stehenden Position befinden",
             "es-ES": "Una montaña rusa en el que los pasajeros permanecen de pie",
             "it-IT": "Un ottovolante con giro della morte in cui i passeggeri stanno in posizione eretta",
-            "nl-NL": "Een achtbaan met loopings waarin de bezoekers staan",
+            "nl-NL": "Een achtbaan met loopings waar de passagiers in de karretjes staan.",
             "sv-SE": "En loopberg- och dalbana där passagerarna åker stående",
-            "ko-KR": "원형 코스를 승객들이 서서 즐기는 롤러코스터",
+            "ko-KR": "손님이 일어선 자세로 탑승하는 루핑 롤러코스터",
             "zh-CN": "一座循环式过山车让乘客以站立姿势搭乘",
             "zh-TW": "一座循環式雲霄飛車讓乘客以站立姿勢搭乘",
-            "pt-BR": "Uma montanha-russa com loops, na qual os passageiros andam em pé"
+            "pt-BR": "Uma montanha-russa com loops, na qual os passageiros andam em pé",
+            "cs-CZ": "Návštěvníci jedou po horské dráze ve stoje",
+            "ja-JP": "立ち乗りの、ループローラーコースターです",
+            "pl-PL": "Zapętlona kolejka, w której pasażerowie jadą w pozycji stojącej",
+            "ru-RU": "Кольцевые горки, где люди катаются стоя."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -133,12 +143,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por vagão"
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

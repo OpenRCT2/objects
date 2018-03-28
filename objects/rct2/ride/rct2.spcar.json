@@ -65,10 +65,14 @@
             "it-IT": "Auto sportive",
             "nl-NL": "Sportauto's",
             "sv-SE": "Sportbilar",
-            "ko-KR": "스포츠카",
+            "ko-KR": "스포츠 카",
             "zh-CN": "运动车",
             "zh-TW": "運動車",
-            "pt-BR": "Carros Esporte"
+            "pt-BR": "Carros Esporte",
+            "cs-CZ": "Sportovní auta",
+            "ja-JP": "スポーツカー",
+            "pl-PL": "Wyścigówki",
+            "ru-RU": "Спорткары"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of sportscars",
@@ -76,12 +80,16 @@
             "de-DE": "Angetriebene Fahrzeuge in Form von Sportwagen",
             "es-ES": "Vehículos autopropulsados de forma de carreras",
             "it-IT": "Veicoli a motore che ricordano le auto sportive",
-            "nl-NL": "Elektrische voertuigen in de vorm van sportauto's",
+            "nl-NL": "Elektrische voertuigen in de vorm van een sportauto.",
             "sv-SE": "Motordrivna fordon i form av sportbilar",
-            "ko-KR": "스포츠카의 모양을 본떠 만든 동력 자동차",
+            "ko-KR": "스포츠 카 모양의 차량",
             "zh-CN": "运动车外形的动力机械车辆",
             "zh-TW": "運動車外形的動力機械車輛",
-            "pt-BR": "Veículos motorizados na forma de carros esporte"
+            "pt-BR": "Veículos motorizados na forma de carros esporte",
+            "cs-CZ": "Vozy ve tvaru sportovních aut",
+            "ja-JP": "スポーツカーの形をした、動力付きの車両です",
+            "pl-PL": "Pojazdy z napędem w kształcie samochodów wyścigowych",
+            "ru-RU": "Машинки в форме спорткаров"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -89,12 +97,16 @@
             "de-DE": "2 Fahrgäste pro Wagen",
             "es-ES": "2 pasajeros por coche",
             "it-IT": "2 passeggeri a carrozza",
-            "nl-NL": "2 passagiers per wagentje",
+            "nl-NL": "1 passagier per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "ko-KR": "차량 정원 2명",
+            "ko-KR": "차량당 2명의 승객",
             "zh-CN": "2 位乘客/每个车厢",
             "zh-TW": "2 位乘客/每個車廂",
-            "pt-BR": "2 passageiros por carro"
+            "pt-BR": "2 passageiros por carro",
+            "cs-CZ": "2 místa v každém vozu",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира"
         }
     }
 }

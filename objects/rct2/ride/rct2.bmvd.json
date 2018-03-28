@@ -49,17 +49,23 @@
     "images": ["$RCT2:OBJDATA/BMVD.DAT[0..2882]"],
     "strings": {
         "name": {
-            "en-GB": "Vertical Drop Roller Coaster",
+            "en-GB": "Six-seater Twister Trains",
             "fr-FR": "Montagnes russes en chute vert.",
             "de-DE": "Vertikaler Fall",
             "es-ES": "Montaña Rusa Caída Vertical",
             "it-IT": "Ottovolante a caduta verticale",
-            "nl-NL": "Achtbaan met Verticale val",
+            "nl-NL": "Trein voor verticale achtbaan",
             "sv-SE": "Vertikalt stup",
-            "ko-KR": "수직 하강 롤러코스터",
+            "ko-KR": "6인승 트위스터 차량",
             "zh-CN": "自由落体过山车",
             "zh-TW": "自由落體雲霄飛車",
-            "pt-BR": "Montanha-russa de Queda Vertical"
+            "pt-BR": "Trens Tornado (6 assentos)",
+            "ar-EG": "Six-seater Twister Trains",
+            "cs-CZ": "Šestimístná zakroucená horská dráha",
+            "en-US": "Six-seater Twister Trains",
+            "ja-JP": "バーティカル・ドロップ・ジェットコースター",
+            "pl-PL": "Pionospadajka",
+            "ru-RU": "Вертикальные горки"
         },
         "description": {
             "en-GB": "Extra-wide cars descend completely vertical sloped track for the ultimate freefall roller coaster experience",
@@ -67,12 +73,16 @@
             "de-DE": "Besonders breite Wagen fallen eine vollständige Vertikale herunter - das ultimative Erlebnis des freien Falls",
             "es-ES": "Vagones superanchos descienden completamente verticales para una experiencia definitiva",
             "it-IT": "Carrozze larghissime scendono giù per un tracciato completamente in verticale per offrire l'esperienza di caduta libera definitiva per quel che riguarda un ottovolante",
-            "nl-NL": "Extra wijde wagentjes gaan een geheel verticaal gezette baan af voor de ultieme vrije val ervaring in een achtbaan",
+            "nl-NL": "Extra brede karretjes rijden over een compleet verticale baan voor de ultieme vrijevalbeleving.",
             "sv-SE": "Extrabreda vagnar går ner för fullständigt lodräta spår för den ultimata frittfall-upplevelsen i berg- och dalbanan",
-            "ko-KR": "궁극적인 자유낙하를 경험할 수 있는 수직 트랙을 내려오는 아주 넓은 롤러코스터",
+            "ko-KR": "자유 낙하의 극한 경험을 선사하기 위해 완전히 수직 경사 트랙을 따라 하강하는 아주 폭이 넓은 차량",
             "zh-CN": "完全延着垂直斜度轨道落下的附加大型列车体验由顶点自由落下的快感",
             "zh-TW": "完全延著垂直斜度軌道落下的附加大型列車體驗由頂點自由落下的快感",
-            "pt-BR": "Carros extralargos descem numa pista de descida completamente vertical, na definitiva experiência de queda livre"
+            "pt-BR": "Carros extralargos descem numa pista de descida completamente vertical, na definitiva experiência de queda livre",
+            "cs-CZ": "Extra-široké vozy letí dolů po zcela kolmé dráze a poskytují tím pocit volného pádu",
+            "ja-JP": "超幅広の車両が垂直に切り立ったコースを降下する、究極のフリーフォール体験ができるコースターです",
+            "pl-PL": "Bardzo szerokie wagoniki zjeżdżają po całkowicie pionowym torze, zapewniając pasażerom jedyne w swoim rodzaju wrażenie swobodnego spadania",
+            "ru-RU": "Широкие вагончики падают по вертикальному треку."
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -80,12 +90,16 @@
             "de-DE": "6 Fahrgäste pro Wagen",
             "es-ES": "6 pasajeros por vagón",
             "it-IT": "6 passeggeri a carrozza",
-            "nl-NL": "6 passagiers per wagentje",
+            "nl-NL": "6 passagiers per karretje",
             "sv-SE": "6 passagerare per vagn",
-            "ko-KR": "차량 정원 6명",
+            "ko-KR": "차량당 6명의 승객",
             "zh-CN": "6 位乘客/每个车厢",
             "zh-TW": "6 位乘客/每個車廂",
-            "pt-BR": "6 passageiros por carro"
+            "pt-BR": "6 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両6名",
+            "pl-PL": "6 pasażerów na wagonik",
+            "ru-RU": "6 пассажиров"
         }
     }
 }

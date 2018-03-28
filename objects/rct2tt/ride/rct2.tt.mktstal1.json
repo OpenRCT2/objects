@@ -23,11 +23,14 @@
             "de-DE": "Marktstand Kandierte Äpfel",
             "es-ES": "Puesto de manzanas de caramelo",
             "it-IT": "Chiosco di mele caramellate",
-            "nl-NL": "Marktkraampje geglazuurde appels",
+            "nl-NL": "Marktkraam met gevulde appels",
             "sv-SE": "Marknadsstånd med äppleklubbor",
-            "ko-KR": "토피 애플 가게",
+            "ko-KR": "사과 토피 사탕 시장 상점",
             "zh-TW": "太妃糖店",
-            "pt-BR": "Quiosque de Maçã do Amor"
+            "pt-BR": "Quiosque de Maçã do Amor",
+            "cs-CZ": "Jarmarkový stánek s jablky v županu",
+            "pl-PL": "Stragan z jabłkami toffee",
+            "ru-RU": "Палатка с конфетами"
         },
         "description": {
             "en-GB": "A themed stall selling sticky toffee apples.",
@@ -35,11 +38,14 @@
             "de-DE": "Ein Stand, der kandierte Äpfel verkauft",
             "es-ES": "Un puesto de comida que vende manzanas de caramelo.",
             "it-IT": "Un chiosco che vende appiccicose mele caramellate",
-            "nl-NL": "Een thematisch kraampje met kleverige appels",
+            "nl-NL": "Een marktkraam waar gevulde appels worden verkocht.",
             "sv-SE": "Ett stånd som säljer äpplen med klibbigt knäcköverdrag",
-            "ko-KR": "토피 애플을 파는 테마 가게",
+            "ko-KR": "끈적거리는 사과 토피 사탕을 파는 가게",
             "zh-TW": "販賣太妃糖的主題攤位",
-            "pt-BR": "Um quiosque temático vendendo maçã caramelada"
+            "pt-BR": "Um quiosque temático vendendo maçã caramelada",
+            "cs-CZ": "Stánek prodávající jablka v županu",
+            "pl-PL": "Stylizowane stoisko sprzedające lepkie słodkie jabłka.",
+            "ru-RU": "Палатка, где продают ириски."
         }
     }
 }

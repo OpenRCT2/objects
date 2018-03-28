@@ -64,16 +64,21 @@
     "images": ["$RCT2:OBJDATA/PEGASUSX.DAT[0..866]"],
     "strings": {
         "name": {
-            "en-GB": "Pegasus Ride",
+            "en-GB": "Pegasus Cars",
             "fr-FR": "Pégase",
             "de-DE": "Pegasus-Attraktion",
             "es-ES": "Viaje de pegaso",
             "it-IT": "Corsa di Pegaso",
-            "nl-NL": "Pegasus-attractie",
+            "nl-NL": "Pegasuskarretjes",
             "sv-SE": "Pegasus",
-            "ko-KR": "페가수스 라이드",
+            "ko-KR": "페가수스 차량",
             "zh-TW": "飛馬遊樂設施",
-            "pt-BR": "Brinquedo de Pégaso"
+            "pt-BR": "Carros Pegasus",
+            "ar-EG": "سيارات بيجسوس",
+            "cs-CZ": "Autodráha s Pegasem",
+            "en-US": "Pegasus Cars",
+            "pl-PL": "Przejażdżka na Pegazie",
+            "ru-RU": "Пегас"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of Pegasus drawing a cart, follow a track-based route",
@@ -81,11 +86,14 @@
             "de-DE": "Direkt angetriebene Fahrzeuge in Form eines Pegasus ziehen einen Wagen über die Schienentrassen.",
             "es-ES": "Poderosos vehículos en forma de pegaso tiran de un carro, siguiendo una ruta prefijada.",
             "it-IT": "I veicoli elettrici, a forma di Pegaso che traina un carrello, seguono un circuito prestabilito.",
-            "nl-NL": "Aangedreven voertuigen, in de vorm van Pegasus die een wagen voorttrekt, volgen een baan.",
+            "nl-NL": "Elektrische voertuigen in de vorm van een kar die wordt voortgetrokken door Pegasus.",
             "sv-SE": "Maskindrivna fordon i form av Pegasus med vagn följer en spårbana.",
-            "ko-KR": "트랙을 따라 카트를 끄는 페가수스 모양의 동력 차량",
+            "ko-KR": "트랙을 따라 이동하는 페가수스가 끄는 수레 모양의 차량",
             "zh-TW": "具動力裝置及飛馬外形的車輛沿著以軌道構成的路徑行進",
-            "pt-BR": "Veículos motorizados na forma de Pégaso puxando uma carruagem, seguindo uma rota de pista"
+            "pt-BR": "Veículos motorizados na forma de Pégaso puxando uma carruagem, seguindo uma rota de pista",
+            "cs-CZ": "Vozy ve tvaru povozů tažených Pegasem jezdí po postavené dráze",
+            "pl-PL": "Po torze jadą napędzane wagoniki w kształcie Pegaza ciągnącego wózek",
+            "ru-RU": "Машинки в форме Пегасов едут по треку"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -93,11 +101,14 @@
             "de-DE": "2 Fahrgäste pro Wagen",
             "es-ES": "2 pasajeros por coche",
             "it-IT": "2 passeggeri per carrozza",
-            "nl-NL": "2 passagiers per wagentje",
+            "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "ko-KR": "차량 정원 2명",
+            "ko-KR": "차량당 2명의 승객",
             "zh-TW": "每輛車限乘2人",
-            "pt-BR": "2 passageiros por vagão"
+            "pt-BR": "2 passageiros por vagão",
+            "cs-CZ": "2 místa v každém voze",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 чел. в кабине"
         }
     }
 }

@@ -23,12 +23,16 @@
             "de-DE": "Burger-Bar",
             "es-ES": "Hamburguesería",
             "it-IT": "Panineria",
-            "nl-NL": "Hamburger Bar",
+            "nl-NL": "Hamburgerbar",
             "sv-SE": "Hamburgarbar",
-            "ko-KR": "버거 매점",
+            "ko-KR": "햄버거 가게",
             "zh-CN": "汉堡店",
             "zh-TW": "漢堡店",
-            "pt-BR": "Lanchonete"
+            "pt-BR": "Lanchonete",
+            "cs-CZ": "Stánek s burgery",
+            "ja-JP": "バーガーショップ",
+            "pl-PL": "Bar hamburger",
+            "ru-RU": "Бургер-бар"
         },
         "description": {
             "en-GB": "A burger-shaped building selling burgers",
@@ -36,12 +40,16 @@
             "de-DE": "Ein Gebäude in Burger-Form, in dem Burger verkauft werden",
             "es-ES": "Edificio con forma de hamburguesa que vende hamburguesas",
             "it-IT": "Un edificio a forma di panino che vende panini",
-            "nl-NL": "Een gebouw in de vorm van een hamburger waarin hamburgers worden verkocht",
+            "nl-NL": "Een hamburgervormig gebouw dat hamburgers verkoopt.",
             "sv-SE": "En hamburgarformad byggnad där man säljer hamburgare",
-            "ko-KR": "버거를 파는 버거모양의 긴 건물",
+            "ko-KR": "햄버거를 파는 햄버거 모양의 건물",
             "zh-CN": "汉堡形状的建筑物在卖汉堡",
             "zh-TW": "漢堡形狀的建築物在賣漢堡",
-            "pt-BR": "Uma construção em forma de hambúrguer, vendendo hambúrgueres"
+            "pt-BR": "Uma construção em forma de hambúrguer, vendendo hambúrgueres",
+            "cs-CZ": "Stánek ve tvaru burgeru podávající burgery",
+            "ja-JP": "ハンバーガー形をしたバーガーショップです",
+            "pl-PL": "Budynek w kształcie hamburgera, w którym można kupić hamburgery",
+            "ru-RU": "Бар, где продаются гамбургеры."
         }
     }
 }

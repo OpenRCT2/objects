@@ -23,12 +23,16 @@
             "de-DE": "Fruchtsaft-Stand",
             "es-ES": "Puesto de bebidas de frutas",
             "it-IT": "Chiosco dei succhi di frutta",
-            "nl-NL": "Kraampje vruchtendrankjes",
+            "nl-NL": "Vruchtendrankkraam",
             "sv-SE": "Stjärnfruktsdrycksstånd",
-            "ko-KR": "스타 과일 주스 판매점",
+            "ko-KR": "스타프루트 음료 가게",
             "zh-CN": "杨桃汁店",
             "zh-TW": "楊桃汁店",
-            "pt-BR": "Barraca de Sucos de Frutas"
+            "pt-BR": "Barraca de Sucos de Frutas",
+            "cs-CZ": "Stánek s džusy",
+            "ja-JP": "スターフルーツ・ショップ",
+            "pl-PL": "Kiosk z gwiezdnymi napojami",
+            "ru-RU": "Фруктовые напитки"
         },
         "description": {
             "en-GB": "A stall selling star fruit drinks",
@@ -36,12 +40,16 @@
             "de-DE": "Ein Stand, an dem Fruchtsaftgetränke verkauft werden",
             "es-ES": "Puesto que vende bebidas de frutas",
             "it-IT": "Un chiosco che vende succhi di frutta",
-            "nl-NL": "Een kraampje dat vruchtendrankjes verkoopt",
+            "nl-NL": "Een kraam waar vruchtendrankjes worden verkocht.",
             "sv-SE": "Ett stånd som säljer stjärnfruktsdrycker",
-            "ko-KR": "스타 과일 주스를 판매하는 판매점",
+            "ko-KR": "스타푸르트 음료를 파는 가게",
             "zh-CN": "一家卖杨桃汁饮料的店",
             "zh-TW": "一家賣楊桃汁飲料的店",
-            "pt-BR": "Uma barraca vendendo sucos de frutas"
+            "pt-BR": "Uma barraca vendendo sucos de frutas",
+            "cs-CZ": "Stánek prodávající ovocné nápoje",
+            "ja-JP": "スターフルーツの飲み物を売る売店です",
+            "pl-PL": "Stoisko sprzedające gwiezdne napoje owocowe",
+            "ru-RU": "Палатка фруктовых напитков"
         }
     }
 }

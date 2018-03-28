@@ -404,10 +404,14 @@
             "en-GB": "Twist",
             "fr-FR": "Vrille",
             "it-IT": "Contorsione",
-            "nl-NL": "Draai",
+            "nl-NL": "Twist",
             "ko-KR": "트위스트",
             "zh-CN": "龙卷风",
-            "zh-TW": "龍捲風"
+            "zh-TW": "龍捲風",
+            "cs-CZ": "Twist",
+            "ja-JP": "ツイスト",
+            "pl-PL": "Twist",
+            "ru-RU": "Твист"
         },
         "description": {
             "en-GB": "Riders ride in pairs of seats rotating around the ends of three long rotating arms",
@@ -415,12 +419,16 @@
             "de-DE": "Die Fahrgäste befinden sich in Sitzpaaren am Ende von drei langen, rotierenden Armen",
             "es-ES": "Los pasajeros se sientan en parejas rotando alrededor de tres largos brazos",
             "it-IT": "I passeggeri si siedono in coppia su sedili che ruotano intorno a tre lunghi bracci rotanti",
-            "nl-NL": "Attractie waarin twee stoelen roteren aan het eind van drie lange roterende armen",
+            "nl-NL": "Passagiers zitten per twee in stoelen die ronddraaien aan de uiteinden van drie lange draaiarmen.",
             "sv-SE": "Passagerarna åker i parsäten som roterar runt ändarna på tre långa roterande armar",
-            "ko-KR": "짝을 지어 자리에 앉아 세 개의 기다란 회전축 주위를 도는 기구",
+            "ko-KR": "탑승객이 세 개의 긴 회전 팔 구조 끝에 있는 좌석에 짝지어 앉아 빙글빙글 도는 놀이기구",
             "zh-CN": "乘客坐在成对的座位上,由底部三支旋转臂旋转环绕运行",
             "zh-TW": "乘客坐在成對的座位上,由底部三支旋轉臂旋轉環繞運行",
-            "pt-BR": "Os passageiros se acomodam em pares de assentos que giram ao redor das pontas de três longos braços giratórios"
+            "pt-BR": "Os passageiros se acomodam em pares de assentos que giram ao redor das pontas de três longos braços giratórios",
+            "cs-CZ": "Návštěvníci sedí po dvou v jedné ze tří kabin, které kolem sebe rotují",
+            "ja-JP": "3本の回転する長いアームの先に、それぞれペアシートが付いた乗物です",
+            "pl-PL": "Pasażerowie jadą w parach siedzeń wirujących na końcach trzech obracających się ramion",
+            "ru-RU": "Люди катаются попарно, сидя в креслах."
         },
         "capacity": {
             "en-GB": "18 passengers",
@@ -430,10 +438,14 @@
             "it-IT": "18 passeggeri",
             "nl-NL": "18 passagiers",
             "sv-SE": "18 passagerare",
-            "ko-KR": "정원 18명",
+            "ko-KR": "승객 18명",
             "zh-CN": "18 位乘客",
             "zh-TW": "18 位乘客",
-            "pt-BR": "18 passageiros"
+            "pt-BR": "18 passageiros",
+            "cs-CZ": "18 návštěvníků",
+            "ja-JP": "定員18名",
+            "pl-PL": "18 pasażerów",
+            "ru-RU": "18 пассажиров"
         }
     }
 }

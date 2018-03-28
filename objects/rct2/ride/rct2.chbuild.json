@@ -122,12 +122,16 @@
             "de-DE": "Schiefes Haus",
             "es-ES": "Casa Inclinada",
             "it-IT": "Casa distorta",
-            "nl-NL": "Spookhuis",
+            "nl-NL": "Crooked House",
             "sv-SE": "Lustiga huset",
-            "ko-KR": "뒤틀린 방",
+            "ko-KR": "비뚤어진 집",
             "zh-CN": "妙妙屋",
-            "zh-TW": "妙妙屋",
-            "pt-BR": "Casa Maluca"
+            "zh-TW": "古怪屋",
+            "pt-BR": "Casa Maluca",
+            "cs-CZ": "Křivý dům",
+            "ja-JP": "ねじれた家",
+            "pl-PL": "Krzywy dom",
+            "ru-RU": "Кривой дом"
         },
         "description": {
             "en-GB": "Building containing warped rooms and angled corridors to disorientate people walking through it",
@@ -135,12 +139,16 @@
             "de-DE": "Gebäude mit verzerrten Räumen und verwinkelten Korridoren, in denen die Besucher die Orientierung verlieren",
             "es-ES": "Edificio con habitaciones combadas y pasillos angulosos para desorientar a la gente que entra",
             "it-IT": "Un edificio con stanze distorte e dagli angoli assurdi che disorienta chi vi entra dentro",
-            "nl-NL": "Gebouw dat verwrongen kamers bevat en gangen met hoeken om mensen die er doorheen lopen te desoriënteren",
+            "nl-NL": "Gebouw met scheve kamers en gangen die de bezoekers desoriënteren.",
             "sv-SE": "Byggnad som innehåller skeva rum och vinklade korridorer för att disorientera personerna som går igenom den",
-            "ko-KR": "뒤틀린 방, 기울어진 복도로 이루어져 있어 들어온 사람들의 감각을 혼란케 하는 집",
+            "ko-KR": "사람들이 비뚤어진 방과 각진 복도를 통과하면서 방향을 헷갈리게 만드는 건물",
             "zh-CN": "建筑物内含有变形的房间及多方向走廊使通过它的人容易迷失方向",
-            "zh-TW": "建築物內含有變形的房間及多方向走廊使通過它的人容易迷失方向",
-            "pt-BR": "Construção contendo salas tortas e corredores angulados para desorientar as pessoas que andarem por eles"
+            "zh-TW": "一座建築物, 含有扭曲房間及傾斜走道使人於行走中失去方向感",
+            "pt-BR": "Construção contendo salas tortas e corredores angulados para desorientar as pessoas que andarem por eles",
+            "cs-CZ": "Budova s pokřivenými místnostmi a nakloněnými chodbami, které dezorientují návštěvníky",
+            "ja-JP": "中に入った人の方向感覚を失わせるために、ゆがんだ部屋と曲がった廊下がある建物です",
+            "pl-PL": "Budynek z powykrzywianymi ścianami i zakręconymi korytarzami, dezorientujący ludzi, którzy do niego wejdą",
+            "ru-RU": "Здание с кривыми комнатами и коридорами"
         },
         "capacity": {
             "en-GB": "5 guests",
@@ -150,10 +158,14 @@
             "it-IT": "5 visitatori",
             "nl-NL": "5 bezoekers",
             "sv-SE": "5 besökare",
-            "ko-KR": "정원 5명",
+            "ko-KR": "손님 5명",
             "zh-CN": "5位客人",
-            "zh-TW": "5位客人",
-            "pt-BR": "5 visitantes"
+            "zh-TW": "5位遊客",
+            "pt-BR": "5 visitantes",
+            "cs-CZ": "5 návštěvníků",
+            "ja-JP": "定員5名",
+            "pl-PL": "5 widzów",
+            "ru-RU": "5 чел"
         }
     }
 }

@@ -40,14 +40,21 @@
     "images": ["$RCT2:OBJDATA/OUTRIGGR.DAT[0..114]"],
     "strings": {
         "name": {
-            "en-GB": "Outrigger Ride",
+            "en-GB": "Outrigger canoes",
             "fr-FR": "Outrigger",
             "de-DE": "Auslegerbahn",
             "es-ES": "Atracción de Canoa",
             "it-IT": "Fuoriscalmo",
-            "nl-NL": "Outrigger-Attractie",
+            "nl-NL": "Outriggerkano's",
             "sv-SE": "Utriggarbana",
-            "zh-CN": "水上浮舟游乐设施"
+            "zh-CN": "水上浮舟游乐设施",
+            "ar-EG": "Outrigger canoes",
+            "cs-CZ": "Loď s vahadly",
+            "en-US": "Outrigger canoes",
+            "ko-KR": "아웃리거 카누",
+            "pl-PL": "Wiosła w dłoń",
+            "pt-BR": "Canoas Polinésia",
+            "ru-RU": "Каноэ"
         },
         "description": {
             "en-GB": "Long canoes which the passengers paddle themselves",
@@ -55,9 +62,13 @@
             "de-DE": "Lange Kanus, in denen die Passagiere selbst rudern",
             "es-ES": "Canoas largas en las que los pasajeros pedalean",
             "it-IT": "Lunghe canoe sospinte a remi dai passeggeri",
-            "nl-NL": "Lange kano's waarin de passagiers zelf peddelen",
+            "nl-NL": "Lange kano's waarin de passagiers zelf roeien.",
             "sv-SE": "Långa kanoter som paddlas av passagerare",
-            "zh-CN": "由乘客自行踩踏的长型独木舟"
+            "zh-CN": "由乘客自行踩踏的长型独木舟",
+            "cs-CZ": "Dlouhé kánoe s postranními vahadly, u kterých musí návštěvníci pádlovat",
+            "ko-KR": "탑승객들이 스스로 페달을 밟는 긴 카누",
+            "pl-PL": "Długie kanoe, w których pasażerowie sami wiosłują",
+            "ru-RU": "Длинные каноэ, люди гребут сами."
         },
         "capacity": {
             "en-GB": "2 passengers per canoe",
@@ -67,7 +78,11 @@
             "it-IT": "2 passeggeri per canoa",
             "nl-NL": "2 passagiers per kano",
             "sv-SE": "2 passagerare per kanot",
-            "zh-CN": "每舟限乘2人"
+            "zh-CN": "每舟限乘2人",
+            "cs-CZ": "2 místa v každé lodi",
+            "ko-KR": "카누당 2명의 승객",
+            "pl-PL": "2 pasażerów na kanoe",
+            "ru-RU": "2 пассажира в каноэ"
         }
     }
 }

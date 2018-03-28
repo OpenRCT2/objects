@@ -55,17 +55,23 @@
     "images": ["$RCT2:OBJDATA/NEMT.DAT[0..2522]"],
     "strings": {
         "name": {
-            "en-GB": "Inverted Roller Coaster",
+            "en-GB": "4-across Inverted Roller Coaster Trains",
             "fr-FR": "Montagnes russes inversées",
             "de-DE": "Umgekehrte Achterbahn",
             "es-ES": "Montaña Rusa Invertida",
             "it-IT": "Ottovolante invertito",
-            "nl-NL": "Inversie Achtbaan",
+            "nl-NL": "Vierpersoonstrein",
             "sv-SE": "Omvänd berg- och dalbana",
-            "ko-KR": "역방향 롤러코스터",
+            "ko-KR": "4인승 인버티드 롤러코스터 차량",
             "zh-CN": "倒转式过山车",
             "zh-TW": "倒轉式雲霄飛車",
-            "pt-BR": "Montanha-russa Invertida"
+            "pt-BR": "Trens Montanha-Russa Invertida (4 assentos)",
+            "ar-EG": "4-across Inverted Roller Coaster Trains",
+            "cs-CZ": "Čtyřmístná zavěšená horská dráha",
+            "en-US": "4-across Inverted Roller Coaster Trains",
+            "ja-JP": "インバーテッド・ジェットコースター",
+            "pl-PL": "Kolejka odwrotna",
+            "ru-RU": "Перевёрнутые горки"
         },
         "description": {
             "en-GB": "Riders sit in seats suspended beneath the track as they speed through giant loops, twists, and large swooping drops",
@@ -73,12 +79,16 @@
             "de-DE": "Die Fahrgäste sind in Sitzen, die unter den Schienen hängen und durch riesige Schleifen, Kurven und große Gefälle rasen",
             "es-ES": "Los pasajeros se sientan en asientos suspendidos bajo la vía y corren por rizos gigantes, giros y grandes caídas",
             "it-IT": "I passeggeri siedono su sedili sospesi sotto il tracciato e affrontano giri della morte giganti, curve e lunghe discese a strapiombo",
-            "nl-NL": "Bezoekers zitten in stoelen die onder de baan hangen en met veel snelheid door gigantische loopings, bochten en hoge abrupte afdalingen denderen",
+            "nl-NL": "Passagiers zitten in stoelen die onder de baan hangen terwijl ze door grote loopings, twists en grote adembenemende afdelingen gaan.",
             "sv-SE": "Passagerarna sitter i säten upphängda under spåret medan de rusar genom jätteloopar, skruvar och stora ryckiga stup",
-            "ko-KR": "승객들이 트랙 아래쪽에 매달려 있어 원형 코스, 뒤틀린 코스, 급하강 코스를 빠른 속도로 통과하는 롤러코스터",
+            "ko-KR": "거대한 루프, 트위스트와 급격한 낙하 트랙을 따라 이동하며, 탑승객이 트랙 아래에 매달린 좌석에 앉는 차량",
             "zh-CN": "游客坐在悬吊在轨道下的座椅上，当快速通过大型旋转回圈，令人感觉有俯冲下坠感。",
             "zh-TW": "遊客坐在懸吊在軌道下的座椅上，當快速通過大型旋轉迴圈，令人感覺有俯衝下墜感。",
-            "pt-BR": "Os passageiros sentam em assentos suspensos abaixo da pista e aceleram por loops gigantes, parafusos, e grandes quedas"
+            "pt-BR": "Os passageiros sentam em assentos suspensos abaixo da pista e aceleram por loops gigantes, parafusos, e grandes quedas",
+            "cs-CZ": "Vozy jsou zavěšeny na kolejnicích se zatáčkami, pády a loopingy",
+            "ja-JP": "コースの下にぶら下がった座席があり、コースには巨大ループ、ひねり、急降下があります",
+            "pl-PL": "Pasażerowie siedzą w fotelach podwieszonych pod torem, pokonując wielkie pętle, zakręty i zakręcone zjazdy",
+            "ru-RU": "Пассажиры сидят под треком и несутся по огромным кольцам с переворотами и падениями."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -86,12 +96,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por carro"
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

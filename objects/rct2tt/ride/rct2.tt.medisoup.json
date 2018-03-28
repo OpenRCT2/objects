@@ -23,11 +23,14 @@
             "de-DE": "Hexensuppe",
             "es-ES": "Brujas preparando caldero",
             "it-IT": "Brodaglia delle streghe",
-            "nl-NL": "Heksenbrouwsel",
+            "nl-NL": "Heksensoep",
             "sv-SE": "Häxköket",
-            "ko-KR": "마녀 브루 수프",
+            "ko-KR": "마녀의 비약 수프",
             "zh-TW": "巫婆湯",
-            "pt-BR": "Sopa das Bruxas"
+            "pt-BR": "Sopa das Bruxas",
+            "cs-CZ": "Čarodějnický kotlík",
+            "pl-PL": "Kocioł czarownic",
+            "ru-RU": "Супчик"
         },
         "description": {
             "en-GB": "A Stall selling a thick broth style soup",
@@ -35,11 +38,14 @@
             "de-DE": "Ein Stand, der eine dickflüssige Fleischbrühe verkauft",
             "es-ES": "Un puesto en el que se vende caldo tradicional",
             "it-IT": "Un chiosco che vende porzioni di brodo dalla consistenza di una zuppa.",
-            "nl-NL": "Een kraampje waar gebonden soep verkocht wordt",
+            "nl-NL": "Een kraam waar dikke gebonden soep wordt verkocht.",
             "sv-SE": "Ett stånd som säljer en tjock spadliknande soppa",
-            "ko-KR": "짙은 육즙 수프를 파는 가게",
+            "ko-KR": "걸쭉한 죽 스타일의 수프를 파는 가게",
             "zh-TW": "販賣濃湯類的攤位",
-            "pt-BR": "Um quiosque vendendo uma sopa espessa de carne"
+            "pt-BR": "Um quiosque vendendo uma sopa espessa de carne",
+            "cs-CZ": "Stánek prodávající hustou polévku",
+            "pl-PL": "Stoisko sprzedające gęsty bulion",
+            "ru-RU": "Палатка, где продают суп."
         }
     }
 }

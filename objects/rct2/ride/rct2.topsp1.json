@@ -122,22 +122,38 @@
             "en-GB": "Top Spin",
             "fr-FR": "Méga Vrille",
             "it-IT": "Sottosopra",
-            "ko-KR": "탑 스핀",
+            "ko-KR": "톱 스핀",
             "zh-CN": "上空旋转",
-            "zh-TW": "上空旋轉"
+            "zh-TW": "上空旋轉",
+            "ar-EG": "اللفة العالية",
+            "ca-ES": "Top Spin",
+            "cs-CZ": "Top Spin",
+            "en-US": "Top Spin",
+            "ja-JP": "トップスピン",
+            "nl-NL": "Topspin",
+            "pl-PL": "Wirówka",
+            "pt-BR": "Top Spin",
+            "ru-RU": "Топ Спин"
         },
         "description": {
-            "en-GB": "Passengers ride in a gondola suspended by large rotating arms, rotating forwards and backwards head-over-heals",
+            "en-GB": "Passengers ride in a gondola suspended by large rotating arms, rotating forwards and backwards head-over-heels",
             "fr-FR": "Nacelle suspendue à de grands bras rotatifs tournant en avant et en arrière, et plaçant les passagers tête en bas",
             "de-DE": "Die Passagiere sitzen in einer Gondel, die an großen sich drehenden Armen hängt und sich vorwärts und rückwärts überkopf dreht",
             "es-ES": "Los pasajeros montan en góndolas suspendidas por largos brazos que rotan hacia delante y hacia atrás",
             "it-IT": "I passeggeri, seduti su una gondola sospesa tenuta da due grandi bracci rotanti, ruotano capovolti in avanti e all'indietro",
-            "nl-NL": "Attractie in een aan grote roterende armen hangende gondola's, die naar voren en achteren roteren en kopje over duikelen",
+            "nl-NL": "Passagiers zitten in een gondel die is opgehangen aan grote roterende armen, en worden halsoverkop vooruit en achteruit gedraaid.",
             "sv-SE": "Passagerare åker i en gondol upphängd i stora roterande armar, roterar framåt och bakåt helt vilt",
-            "ko-KR": "상하좌우로 움직이는 거대한 회전 축에 매달린 곤돌라",
+            "ko-KR": "대형 회전 팔 구조에 매달려있고 앞뒤로 공중제비를 도는 곤돌라에 탑승하는 놀이기구",
             "zh-CN": "乘客搭乘着悬挂式小船由大型旋臂,旋转向前及向後运作",
             "zh-TW": "乘客搭乘著懸掛式小船由大型旋臂,旋轉向前及向後運作",
-            "pt-BR": "Os passageiros ficam numa gôndola suspensa por grandes braços giratórios, girando para frente e para trás, de ponta-cabeça"
+            "pt-BR": "Passageiros brincam numa gôndola suspensa por grandes braços rotatórios, rodando de pernas para o ar para frente e para trás",
+            "ar-EG": "Passengers ride in a gondola suspended by large rotating arms, rotating forwards and backwards head-over-heels",
+            "ca-ES": "Les cabines on estan els passatgers estan suspeses per braços que dirigeixen les cabines girant-les, balancejant-les i movent-les cap endavant i cap enrere.",
+            "cs-CZ": "Návštěvníci sedí v gondole zavěšené na podpěrách, otáčející se dopředu a dozadu vzhůru nohama",
+            "en-US": "Passengers ride in a gondola suspended by large rotating arms, rotating forwards and backwards head-over-heels",
+            "ja-JP": "大きな回転するアームからぶら下がったゴンドラが前後・上下に回転する乗物です",
+            "pl-PL": "Pasażerowie podróżują w gondoli zawieszonej na wielkich obrotowych ramionach, która może huśtać się w przód i w tył, a także do góry nogami",
+            "ru-RU": "Пассажиры едут в гондоле, подвешенной на большом рычаге, раскачивающемся вперед-назад."
         },
         "capacity": {
             "en-GB": "8 passengers",
@@ -147,10 +163,17 @@
             "it-IT": "8 passeggeri",
             "nl-NL": "8 passagiers",
             "sv-SE": "8 passagerare",
-            "ko-KR": "정원 8명",
+            "ko-KR": "승객 8명",
             "zh-CN": "8 位乘客",
             "zh-TW": "8 位乘客",
-            "pt-BR": "8 passageiros"
+            "pt-BR": "8 passageiros",
+            "ar-EG": "8 راكبين",
+            "ca-ES": "8 passatgers",
+            "cs-CZ": "8 návštěvníků",
+            "en-US": "8 passengers",
+            "ja-JP": "定員8名",
+            "pl-PL": "8 pasażerów",
+            "ru-RU": "8 пассажиров"
         }
     }
 }

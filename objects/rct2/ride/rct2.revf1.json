@@ -50,12 +50,16 @@
             "de-DE": "Umgekehrter Freefall-Wagen",
             "es-ES": "Coche Caída Libre Inversa",
             "it-IT": "Carr. a caduta libera rovesciata",
-            "nl-NL": "Wagentje Achterwaartse Vrije Val",
+            "nl-NL": "Wagen voor achterwaartse vrije val",
             "sv-SE": "Baklänges fallande vagn",
-            "ko-KR": "역방향 자유 낙하차",
+            "ko-KR": "역방향 자유낙하 차량",
             "zh-CN": "倒退式自由落体",
             "zh-TW": "倒退式自由落體",
-            "pt-BR": "Carro de Queda Livre Reversa"
+            "pt-BR": "Carro de Queda Livre Reversa",
+            "cs-CZ": "Volný pád pozpátku",
+            "ja-JP": "逆向きフリーフォールカー",
+            "pl-PL": "Wagonik",
+            "ru-RU": "Обратный вагончик"
         },
         "description": {
             "en-GB": "Large coaster car for the Reverse Freefall Coaster",
@@ -63,12 +67,16 @@
             "de-DE": "Großer Wagen für die umgekehrte Freefall-Bahn",
             "es-ES": "Montaña Rusa Invertida",
             "it-IT": "Grande carrozza usata nell'ottovolante a caduta libera rovesciata",
-            "nl-NL": "Groot wagentje voor Achterwaartse Vrije Val Achtbaan",
+            "nl-NL": "Grote wagen voor de achterwaartstevrijevalachtbaan.",
             "sv-SE": "Stor vagn för omvänd fritt-fall",
-            "ko-KR": "반대 방향으로 자유 낙하 할 수 있는 커다란 롤러코스터",
+            "ko-KR": "역방향 자유낙하 코스터를 위한 대형 코스터 차량",
             "zh-CN": "大型的车辆是倒退式自由落体设施",
             "zh-TW": "大型的車輛是倒退式自由落體設施",
-            "pt-BR": "Grande carro de montanha-russa para a Queda Livre Reversa"
+            "pt-BR": "Grande carro de montanha-russa para a Queda Livre Reversa",
+            "cs-CZ": "Velká dráha s vozem pro volný pád pozpátku",
+            "ja-JP": "逆向きフリーフォールのある、大型コースターです",
+            "pl-PL": "Duży wagonik dla kolejki o swobodnym spadku",
+            "ru-RU": "Большой вагончик для реверсивных горок"
         },
         "capacity": {
             "en-GB": "8 passengers",
@@ -78,10 +86,14 @@
             "it-IT": "8 passeggeri",
             "nl-NL": "8 passagiers",
             "sv-SE": "8 passagerare",
-            "ko-KR": "정원 8명",
+            "ko-KR": "승객 8명",
             "zh-CN": "8 位乘客",
             "zh-TW": "8 位乘客",
-            "pt-BR": "8 passageiros"
+            "pt-BR": "8 passageiros",
+            "cs-CZ": "8 návštěvníků",
+            "ja-JP": "各車両8名",
+            "pl-PL": "8 pasażerów",
+            "ru-RU": "8 пассажиров"
         }
     }
 }

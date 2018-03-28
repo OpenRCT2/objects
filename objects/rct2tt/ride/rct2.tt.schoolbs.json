@@ -69,11 +69,14 @@
             "de-DE": "Schulbus-Attraktion",
             "es-ES": "Viaje del autocar escolar",
             "it-IT": "Corsa sullo scuolabus",
-            "nl-NL": "Schoolbus-attractie",
+            "nl-NL": "Schoolbussen",
             "sv-SE": "Skolbuss",
-            "ko-KR": "스쿨버스 라이드",
+            "ko-KR": "스쿨 버스 라이드",
             "zh-TW": "校車遊樂設施",
-            "pt-BR": "Brinquedo de Ônibus Escolar"
+            "pt-BR": "Brinquedo de Ônibus Escolar",
+            "cs-CZ": "Školní autobus - tramvaj",
+            "pl-PL": "Przejażdżka gimbusem",
+            "ru-RU": "Автобус"
         },
         "description": {
             "en-GB": "Replica Yellow Bus themed trams",
@@ -81,11 +84,14 @@
             "de-DE": "Bahnen als Nachbauten von gelben Schulbussen",
             "es-ES": "Réplica del clásico autocar amarillo",
             "it-IT": "Riproduzioni dei caratteristici autobus gialli",
-            "nl-NL": "Replica Gele Bus-treintjes",
+            "nl-NL": "Replica's van Amerikaanse gele schoolbussen.",
             "sv-SE": "Spårvagnar som ser ut som gula skolbussar.",
-            "ko-KR": "스쿨버스를 재현한 테마 전차",
+            "ko-KR": "노란 버스 테마의 모형 전차",
             "zh-TW": "仿黃巴士主題列車",
-            "pt-BR": "Bondes temáticos, réplicas de ônibus escolares"
+            "pt-BR": "Bondes temáticos, réplicas de ônibus escolares",
+            "cs-CZ": "Replika amerických žlutých školních autobusů",
+            "pl-PL": "Wagoniki w kształcie żółtych autobusów szkolnych",
+            "ru-RU": "Старый жёлтый автобус"
         },
         "capacity": {
             "en-GB": "10 passengers per car",
@@ -93,11 +99,14 @@
             "de-DE": "10 Fahrgäste pro Wagen",
             "es-ES": "10 pasajeros por coche",
             "it-IT": "10 passeggeri per carrozza",
-            "nl-NL": "10 passagiers per treintje",
+            "nl-NL": "10 passagiers per bus",
             "sv-SE": "10 passagerare per vagn",
-            "ko-KR": "차량 정원 10명",
+            "ko-KR": "차량당 10명의 승객",
             "zh-TW": "每輛車限乘10人",
-            "pt-BR": "10 passageiros por vagão"
+            "pt-BR": "10 passageiros por vagão",
+            "cs-CZ": "10 míst v každém voze",
+            "pl-PL": "10 pasażerów na wagonik",
+            "ru-RU": "10 человек"
         }
     }
 }

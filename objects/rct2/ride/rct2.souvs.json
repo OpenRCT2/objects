@@ -26,12 +26,16 @@
             "de-DE": "Souvenirstand",
             "es-ES": "Puesto de souvenirs",
             "it-IT": "Chiosco di souvenir",
-            "nl-NL": "Souvenirkraampje",
+            "nl-NL": "Souvenirkraam",
             "sv-SE": "Souvenirstånd",
-            "ko-KR": "기념품 가게",
+            "ko-KR": "기념품 상점",
             "zh-CN": "纪念品店",
             "zh-TW": "紀念品店",
-            "pt-BR": "Barraca de Souvenires"
+            "pt-BR": "Barraca de Souvenires",
+            "cs-CZ": "Stánek se suvenýry",
+            "ja-JP": "お土産ショップ",
+            "pl-PL": "Kiosk z pamiątkami",
+            "ru-RU": "Сувениры"
         },
         "description": {
             "en-GB": "A stall selling souvenir cuddly toys and umbrellas",
@@ -39,12 +43,16 @@
             "de-DE": "Ein Stand, an dem Souvenirplüschtiere und -regenschirme verkauft werden",
             "es-ES": "Puesto que vende juguetitos y paraguas",
             "it-IT": "Un chiosco che vende peluche e ombrelli",
-            "nl-NL": "Een kraampje dat teddyberen en paraplu's als souvenirs verkoopt",
+            "nl-NL": "Een souvenirkraam waar knuffels en paraplu's worden verkocht.",
             "sv-SE": "Ett stånd som säljer kramgoa leksaker och paraplyer som souvenirer",
-            "ko-KR": "껴안는 인형과 우산을 파는 건물",
+            "ko-KR": "귀여운 장난감 기념품과 우산을 파는 가게",
             "zh-CN": "一家在卖纪念品 酷迪玩具 和 雨伞的店",
             "zh-TW": "一家在賣紀念品 酷迪玩具 和 雨傘的店",
-            "pt-BR": "Uma barraca vendendo brinquedos de pelúcia e guarda-chuvas de lembrança"
+            "pt-BR": "Uma barraca vendendo brinquedos de pelúcia e guarda-chuvas de lembrança",
+            "cs-CZ": "Stánek prodávající suvenýry - plyšáky a deštníky",
+            "ja-JP": "ぬいぐるみや傘を売る売店です",
+            "pl-PL": "Stoisko sprzedające pamiątki, przytulanki i parasole",
+            "ru-RU": "Палатка с игрушками и зонтиками"
         }
     }
 }

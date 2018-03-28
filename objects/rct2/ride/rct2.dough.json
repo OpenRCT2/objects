@@ -24,12 +24,16 @@
             "de-DE": "Doughnut-Laden",
             "es-ES": "Tienda de Donuts",
             "it-IT": "Negozio di ciambelle",
-            "nl-NL": "Winkel voor Donuts",
+            "nl-NL": "Donutkraam",
             "sv-SE": "Munkaffär",
             "ko-KR": "도넛 가게",
             "zh-CN": "甜甜圈店",
             "zh-TW": "甜甜圈店",
-            "pt-BR": "Loja de Rosquinhas"
+            "pt-BR": "Loja de Rosquinhas",
+            "cs-CZ": "Stánek s koblížky",
+            "ja-JP": "ドーナツショップ",
+            "pl-PL": "Sklepik z pączkami",
+            "ru-RU": "Бублики"
         },
         "description": {
             "en-GB": "A stall selling ring-shaped doughnuts",
@@ -38,12 +42,16 @@
             "de-DE": "Ein Stand, an dem ringförmige Doughnuts verkauft werden",
             "es-ES": "Un puesto que vende donuts",
             "it-IT": "Un chiosco che vende ciambelle",
-            "nl-NL": "Een kraampje dat ringvormige donuts verkoopt",
+            "nl-NL": "Een kraam waar donuts worden verkocht.",
             "sv-SE": "Ett stånd som säljer ringformade munkar",
-            "ko-KR": "링 도넛을 파는 가게",
+            "ko-KR": "도넛을 파는 가게",
             "zh-CN": "一家卖圆形的油炸圈饼",
             "zh-TW": "一家賣圓形的油炸圈餅",
-            "pt-BR": "Uma barraca vendendo rosquinhas"
+            "pt-BR": "Uma barraca vendendo rosquinhas",
+            "cs-CZ": "Stánek prodávající americké koblížky",
+            "ja-JP": "リングドーナツを売る売店です",
+            "pl-PL": "Stoisko sprzedające amerykańskie pączki, zwane też donatami",
+            "ru-RU": "Палатка с бубликами"
         }
     }
 }

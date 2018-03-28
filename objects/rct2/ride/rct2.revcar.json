@@ -99,30 +99,42 @@
     "images": ["$RCT2:OBJDATA/REVCAR.DAT[0..938]"],
     "strings": {
         "name": {
-            "en-GB": "Reverser Roller Coaster",
+            "en-GB": "Reverser Cars",
             "fr-FR": "Inverseur",
             "de-DE": "Umgekehrte Achterbahn",
             "es-ES": "Montaña Rusa Inversora",
             "it-IT": "Ottovolante alla rovescia",
-            "nl-NL": "Omgekeerde Achtbaan",
+            "nl-NL": "Houten achteruitachtbaan",
             "sv-SE": "Vändberg- och dalbana",
-            "ko-KR": "리버서 롤러코스터",
+            "ko-KR": "반전 차량",
             "zh-CN": "倒退式过山车",
             "zh-TW": "倒退式雲霄飛車",
-            "pt-BR": "Montanha-russa Reversa"
+            "pt-BR": "Carros Reversos",
+            "ar-EG": "Reverser Cars",
+            "cs-CZ": "Otáčivá horská dráha",
+            "en-US": "Reverser Cars",
+            "ja-JP": "逆向きジェットコースター",
+            "pl-PL": "Zawracajka",
+            "ru-RU": "Горки с 4м измерением"
         },
         "description": {
-            "en-GB": "Bogied cars run on wooden tracks, turning around on special reversing sections",
+            "en-GB": "Bogied cars capable of turning around on special reversing sections",
             "fr-FR": "Chariot dévalant une voie en bois, tournant à des sections inverseuses spéciales",
             "de-DE": "Wagen mit Drehgestell fahren auf einer Holzstrecke und rotieren dabei auf speziellen Umkehrabschnitten",
             "es-ES": "Vagones que corren por una vía de madera girando en secciones especiales de inversión",
             "it-IT": "Dei carrelli corrono su un tracciato di legno, ruotando di 180° in speciali sezioni",
-            "nl-NL": "Kleine wagentjes gaan over houten banen, en worden omgekeerd op speciale baandelen",
+            "nl-NL": "Karretjes met draaistellen rijden op een houten baan en kunnen omkeren op speciale stukken baan.",
             "sv-SE": "Bogeyvagnar kör på ett träspår, vänder runt på speciella vändsektioner",
-            "ko-KR": "구형의 뒤집힌 구역을 돌아서 달리는 화물차",
+            "ko-KR": "특수한 반전 섹션 위에서 앞뒤가 뒤집히는 나무 트랙 위를 운행하는 불안한 차량",
             "zh-CN": "妖怪列车在木架轨道上运行,转进特殊倒转区域",
             "zh-TW": "妖怪列車在木架軌道上運行,轉進特殊倒轉區域",
-            "pt-BR": "Os vagões correm em pistas de madeira, virando em seções especiais de reversão"
+            "pt-BR": "Carros Truque capaz de virar em torno de si em seções de reversão especiais",
+            "ar-EG": "Bogied cars capable of turning around on special reversing sections",
+            "cs-CZ": "Horská dráha s vozy, které se ve speciálních místech se otočí a jedou pozpátku",
+            "en-US": "Bogied cars capable of turning around on special reversing sections",
+            "ja-JP": "特殊な反転ターンがある木製のコースをボギー車両が走行するコースターです",
+            "pl-PL": "Wózki kopalniane jeżdżące po drewnianych torach, zawracające na specjalnych obrotowych sekcjach",
+            "ru-RU": "Вагончики на деревянных рельсах, меняющие направление на середине трека."
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -130,12 +142,16 @@
             "de-DE": "6 Fahrgäste pro Wagen",
             "es-ES": "6 pasajeros por vagón",
             "it-IT": "6 passeggeri a carrozza",
-            "nl-NL": "6 passagiers per wagentje",
+            "nl-NL": "6 passagiers per karretje",
             "sv-SE": "6 passagerare per vagn",
-            "ko-KR": "차량 정원 6명",
+            "ko-KR": "차량당 6명의 승객",
             "zh-CN": "6 位乘客/每个车厢",
             "zh-TW": "6 位乘客/每個車廂",
-            "pt-BR": "6 passageiros por vagão"
+            "pt-BR": "6 passageiros por vagão",
+            "cs-CZ": "6 míst v každém voze",
+            "ja-JP": "各車両6名",
+            "pl-PL": "6 pasażerów na wagonik",
+            "ru-RU": "6 пассажиров"
         }
     }
 }

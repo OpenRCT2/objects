@@ -23,12 +23,16 @@
             "de-DE": "Brathähnchenstand",
             "es-ES": "Puesto de pollo frito",
             "it-IT": "Chiosco del pollo fritto",
-            "nl-NL": "Kraampje met Gebakken Kip",
+            "nl-NL": "Gebakkenkipkraam",
             "sv-SE": "Friterad kycklingstånd",
             "ko-KR": "프라이드 치킨 가게",
             "zh-CN": "炸鸡店",
             "zh-TW": "炸雞店",
-            "pt-BR": "Barraca de Frango Frito"
+            "pt-BR": "Barraca de Frango Frito",
+            "cs-CZ": "Stánek se smaženým kuřetem",
+            "ja-JP": "フライドチキン・ショップ",
+            "pl-PL": "Stoisko z kurczakami",
+            "ru-RU": "Куры-гриль"
         },
         "description": {
             "en-GB": "A stall selling tubs of fried chicken",
@@ -36,12 +40,16 @@
             "de-DE": "Ein Stand, an dem Brathähnchen verkauft werden",
             "es-ES": "Un puesto que vende pollo frito",
             "it-IT": "Un chiosco che vende porzioni di pollo fritto",
-            "nl-NL": "Een kraampje dat bakjes gebakken kip verkoopt",
+            "nl-NL": "Een kraam waar bakjes gebakken kip worden verkocht.",
             "sv-SE": "Ett stånd som säljer fat med friterad kyckling",
-            "ko-KR": "프라이드 치킨을 파는 매점",
+            "ko-KR": "프라이드 치킨 한 통을 파는 가게",
             "zh-CN": "一间卖整桶式炸鸡的商店",
             "zh-TW": "一間賣整桶式炸雞的商店",
-            "pt-BR": "Uma barraca vendendo baldes de frango frito"
+            "pt-BR": "Uma barraca vendendo baldes de frango frito",
+            "cs-CZ": "Stánek prodávající kyblíky smaženého kuřete",
+            "ja-JP": "フライドチキンを売る売店です",
+            "pl-PL": "Stoisko sprzedające kubełki z pieczonym kurczakiem",
+            "ru-RU": "Палатка, где продают куры-гриль."
         }
     }
 }

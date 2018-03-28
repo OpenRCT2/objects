@@ -51,11 +51,14 @@
             "de-DE": "Autoskooter-Wagen Kämpfende Ritter",
             "es-ES": "Coches de choque Caballeros en combate",
             "it-IT": "Autoscontro dei Cavalieri Duellanti",
-            "nl-NL": "Vechtende ridders dodgemwagentjes",
+            "nl-NL": "Riddergevecht-botsauto's",
             "sv-SE": "Stridande riddare",
-            "ko-KR": "파이팅 나이츠 닷젬 카",
+            "ko-KR": "파이팅 나이트 범퍼카",
             "zh-TW": "戰鬥騎士碰碰車",
-            "pt-BR": "Carrinhos de Batida de Cavaleiros em Duelo"
+            "pt-BR": "Carrinhos de Batida de Cavaleiros em Duelo",
+            "cs-CZ": "Rytířský autodrom",
+            "pl-PL": "Walczący rycerze",
+            "ru-RU": "Рыцари"
         },
         "description": {
             "en-GB": "Riders joust on Horse-themed dodgem cars",
@@ -63,11 +66,14 @@
             "de-DE": "Die Fahrer kämpfen im Autoskooter auf Pferdewagen.",
             "es-ES": "Los usuarios se suben en coches de choque decorados como caballos.",
             "it-IT": "I passeggeri viaggiano in auto simili a cavalli.",
-            "nl-NL": "Bezoekers rijden op paarden-dodgemwagentjes.",
+            "nl-NL": "De passagiers strijden om de eer in paardvormige botsauto's.",
             "sv-SE": "Hästformade radiobilar som förarna kan tornera med.",
-            "ko-KR": "말 모양 닷젬 카 놀이기구",
+            "ko-KR": "말 테마의 범퍼카에서 마상 창 시합을 하는 느낌을 받게 해주는 놀이기구",
             "zh-TW": "乘客在主題為馬的碰碰車上競技",
-            "pt-BR": "Os visitantes competem em carrinhos de batida temáticos"
+            "pt-BR": "Os visitantes competem em carrinhos de batida temáticos",
+            "cs-CZ": "Autodrom s elektrickými autíčky ve tvaru koní",
+            "pl-PL": "Pasażerowie zderzają się samochodzikami w kształcie koni",
+            "ru-RU": "Люди катаются в машинках в виде лошадей"
         },
         "capacity": {
             "en-GB": "1 person per car",
@@ -75,11 +81,14 @@
             "de-DE": "1 Person pro Wagen",
             "es-ES": "1 pasajero por coche",
             "it-IT": "1 persona per carrozza",
-            "nl-NL": "1 persoon per wagentje",
+            "nl-NL": "1 passagier per botsauto",
             "sv-SE": "1 person per bil",
-            "ko-KR": "차량 정원 1명",
+            "ko-KR": "차량당 1명의 손님",
             "zh-TW": "每輛車限乘1人",
-            "pt-BR": "1 pessoa por vagão"
+            "pt-BR": "1 pessoa por vagão",
+            "cs-CZ": "1 místo v každém voze",
+            "pl-PL": "1 osoba na samochodzik",
+            "ru-RU": "1 чел."
         }
     }
 }

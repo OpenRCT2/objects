@@ -23,12 +23,16 @@
             "de-DE": "Bratwurststand",
             "es-ES": "Puesto de salchichas asadas",
             "it-IT": "Chiosco delle salsicce",
-            "nl-NL": "Kraampje Chinese geroosterde worstjes",
+            "nl-NL": "Gebradenworstkraam",
             "sv-SE": "Kinesisk korvkiosk",
-            "ko-KR": "구운 소시지 판매점",
+            "ko-KR": "구운 소시지 가게",
             "zh-CN": "烤香肠店",
             "zh-TW": "烤香腸店",
-            "pt-BR": "Barraca de Salsicha Assada"
+            "pt-BR": "Barraca de Salsicha Assada",
+            "cs-CZ": "Stánek s klobásami",
+            "ja-JP": "ローストソーセージショップ",
+            "pl-PL": "Kiosk z pieczonymi kiełbaskami",
+            "ru-RU": "Сосисочная"
         },
         "description": {
             "en-GB": "A stall selling Chinese style roast sausage",
@@ -36,12 +40,16 @@
             "de-DE": "Ein Stand, an dem Bratwürste verkauft werden",
             "es-ES": "Puesto que vende salchichas asadas",
             "it-IT": "Un chiosco che vende salsicce arrosto alla cinese",
-            "nl-NL": "Een kraampje dat Chinese geroosterde worstjes verkoopt",
+            "nl-NL": "Een kraam waar Chinese gebraden worst wordt verkocht.",
             "sv-SE": "Ett stånd som säljer kinesiska korvar",
-            "ko-KR": "중국식 구운 소시지를 파는 판매점",
+            "ko-KR": "중국식 구운 소시지를 파는 가게",
             "zh-CN": "一家卖中国式烤香肠的店",
             "zh-TW": "一家賣中國式烤香腸的店",
-            "pt-BR": "Uma barraca vendendo salsicha assada à moda chinesa"
+            "pt-BR": "Uma barraca vendendo salsicha assada à moda chinesa",
+            "cs-CZ": "Stánek prodávající grilované klobásy",
+            "ja-JP": "中華風のローストソーセージを売る売店です",
+            "pl-PL": "Stoisko sprzedające chińskie pieczone kiełbaski",
+            "ru-RU": "Лавка с сосисками."
         }
     }
 }

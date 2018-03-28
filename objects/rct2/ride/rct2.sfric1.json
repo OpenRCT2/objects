@@ -51,12 +51,16 @@
             "de-DE": "Führungsrollen (Holzwagen).",
             "es-ES": "Coches Madera Fricción Lat.",
             "it-IT": "Carrozze di legno a frizione lat.",
-            "nl-NL": "Hout. Side-Friction Wagens",
+            "nl-NL": "Houten zijfrictiekarretjes",
             "sv-SE": "Sidofriktionsvagnar av trä",
-            "ko-KR": "측면 충돌 나무 자동차",
+            "ko-KR": "우든 사이드 프릭션 차량",
             "zh-CN": "木架的摩擦侧边列车",
             "zh-TW": "木架的摩擦側邊列車",
-            "pt-BR": "Carros de Madeira de Fricção Lateral"
+            "pt-BR": "Carros de Madeira de Fricção Lateral",
+            "cs-CZ": "Horská dráha s bočním uchycením",
+            "ja-JP": "木造のサイドフリクション車両",
+            "pl-PL": "Drewniane wagoniki \"Tarcie Boczne\"",
+            "ru-RU": "Дерев. вагончики"
         },
         "description": {
             "en-GB": "Basic cars for the Side-Friction Roller Coaster",
@@ -64,12 +68,16 @@
             "de-DE": "Basiswagen für die Achterbahn mit seitlichen Führungsrollen",
             "es-ES": "Vagones básicos para la montaña rusa de fricción lateral",
             "it-IT": "Carrozze di base per l'ottovolante a frizione laterale",
-            "nl-NL": "Gewone wagentjes voor Side-Friction Achtbaan",
+            "nl-NL": "Eenvoudige karretjes voor de zijfrictieachtbaan.",
             "sv-SE": "Grundvagnar till sidofriktionsberg- och dalbanan",
-            "ko-KR": "측면 충돌 롤러코스터에 있어서 기초적인 자동차",
+            "ko-KR": "사이드 프릭션 롤러코스터를 위한 기본 차량",
             "zh-CN": "摩擦侧边的过山车的基本车辆",
             "zh-TW": "摩擦側邊的雲霄飛車的基本車輛",
-            "pt-BR": "Carros básicos para a Montanha-russa de Fricção Lateral"
+            "pt-BR": "Carros básicos para a Montanha-russa de Fricção Lateral",
+            "cs-CZ": "Po dráze jezdí vozy, které mají kola horizontálně uložená pod podlahou a opírají se jimi o stěny dráhy",
+            "ja-JP": "ベーシックな車両の、サイドフリクションローラーコースターです",
+            "pl-PL": "Podstawowe wagoniki dla kolejki \"Tarcie Boczne\"",
+            "ru-RU": "Вагончики для боковых горок."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -77,12 +85,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretjes",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por carro"
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

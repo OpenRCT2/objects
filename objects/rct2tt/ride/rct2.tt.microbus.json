@@ -128,11 +128,14 @@
             "de-DE": "Mikrobus-Attraktion",
             "es-ES": "Viaje en microbús",
             "it-IT": "Corsa Minibus",
-            "nl-NL": "MicroBus-attractie",
+            "nl-NL": "Hippiebus",
             "sv-SE": "Hippiebuss",
             "ko-KR": "마이크로버스 라이드",
             "zh-TW": "小型巴士遊樂設施",
-            "pt-BR": "Brinquedo Microônibus"
+            "pt-BR": "Brinquedo Microônibus",
+            "cs-CZ": "Jízda v MicroBusu",
+            "pl-PL": "Przejażdżka mikrobusem",
+            "ru-RU": "Микробус"
         },
         "description": {
             "en-GB": "Riders view a film inside the motion simulator pod while it is twisted and moved around by a hydraulic arm",
@@ -140,11 +143,14 @@
             "de-DE": "Die Fahrer sehen in der Bewegungssimulations-Kapsel einen Film, während diese von einem hydraulischen Arm bewegt und gedreht wird.",
             "es-ES": "Los viajeros ven una película en el interior de un sistema de simulación mientras son movidos y girados por un brazo hidráulico.",
             "it-IT": "I visitatori, all'interno di una capsula fatta ondeggiare attraverso un braccio idraulico, vedono un film vivendone i movimenti.",
-            "nl-NL": "Bezoekers zien een film in de bewegingssimulator terwijl deze door een hydraulische arm wordt gedraaid en bewogen.",
+            "nl-NL": "Passagiers bekijken een film in de cabine van een bewegingssimulator die wordt gedraaid en bewogen door een hydraulische arm.",
             "sv-SE": "Passagerarna tittar på en film inuti en rörelsesimulator som vrider och rör på sig med hjälp av en hydraulisk arm.",
-            "ko-KR": "내부에서 영상을 보며 유압으로 움직이는 받침대에 의해 실제와 비슷한 움직임을 경험할 수 있는 기구",
+            "ko-KR": "수압식 관절에 의해 흔들리고 움직이는 모션 시뮬레이터 안에서 영화를 보는 놀이기구",
             "zh-TW": "遊客坐在摸擬天體運行艙內觀看影片利用水力學支臂使旋轉及移動",
-            "pt-BR": "Os visitantes vêem um filme dentro do simulador de movimento enquanto ele é mexido e agitado por um braço hidráulico"
+            "pt-BR": "Os visitantes vêem um filme dentro do simulador de movimento enquanto ele é mexido e agitado por um braço hidráulico",
+            "cs-CZ": "Návštěvníci sledují film uvnitř simulátoru pohybu, zatímco se simulátorem hýbe hydraulika",
+            "pl-PL": "Symulator ruchu, wewnątrz którego wyświetlany jest film, zaś pojazd jest wstrząsany i przechylany zgodnie z obrazem za pomocą siłownika hydraulicznego",
+            "ru-RU": "Люди смотрят кино внутри подвижной кабины, крутящейся на гидравл. рычаге"
         },
         "capacity": {
             "en-GB": "8 passengers",
@@ -154,9 +160,12 @@
             "it-IT": "8 passeggeri",
             "nl-NL": "8 passagiers",
             "sv-SE": "8 passagerare",
-            "ko-KR": "정원 8명",
+            "ko-KR": "승객 8명",
             "zh-TW": "限乘8人",
-            "pt-BR": "8 passageiros"
+            "pt-BR": "8 passageiros",
+            "cs-CZ": "8 návštěvníků",
+            "pl-PL": "8 pasażerów",
+            "ru-RU": "8 человек"
         }
     }
 }

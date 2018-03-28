@@ -90,16 +90,21 @@
     "images": ["$RCT2:OBJDATA/GANSTRCR.DAT[0..5042]"],
     "strings": {
         "name": {
-            "en-GB": "Gangster Car Coaster",
+            "en-GB": "Gangster Cars",
             "fr-FR": "Voiture de gangster",
             "de-DE": "Fluchtwagen-Achterbahn",
             "es-ES": "Montaña rusa coche de gangster",
             "it-IT": "Ottovolante dei gangster",
-            "nl-NL": "Gangsterauto-achtbaan",
+            "nl-NL": "Gangsterautotrein",
             "sv-SE": "Gangsterbil",
-            "ko-KR": "갱스터 카 코스터",
+            "ko-KR": "갱스터 차량",
             "zh-TW": "盜匪車雲霄飛車",
-            "pt-BR": "Montanha de Carros de Gângster"
+            "pt-BR": "Carros Gangster",
+            "ar-EG": "سيارات العصابات",
+            "cs-CZ": "Gangsterská horská dráha",
+            "en-US": "Gangster Cars",
+            "pl-PL": "Gangsterska kolejka",
+            "ru-RU": "Горки гангстеров"
         },
         "description": {
             "en-GB": "1920s Themed Gangster cars are accelerated out of the station by linear induction motors to speed through twisting inversions",
@@ -107,11 +112,14 @@
             "de-DE": "Die Gangster-Fluchtwagen aus den Zwanzigern werden aus der Station heraus mit Linearmotoren beschleunigt und rasen durch verdrehte Loopings.",
             "es-ES": "Los coches, ambientados como de gángsteres de los años veinte tienen que ser acelerados por motores de inducción lineal, para coger velocidad para los giros en inversión.",
             "it-IT": "Le tipiche auto dei gangster degli anni '20 vengono fatte accelerare dalla stazione con motori a induzione lineare (MIL), per poter affrontare vari capovolgimenti e serpentine.",
-            "nl-NL": "Gangsterauto's uit de jaren 20 worden vanuit het station door lineaire inductiemotoren versneld en racen door slingerende loopings.",
+            "nl-NL": "Achtbaantreinen in de stijl van een gangsterauto uit de jaren '20 worden door lineaire inductiemotoren het station uit gelanceerd en razen door een kronkelende baan die vaak over de kop gaat.",
             "sv-SE": "20-talsinspirerade gangsterbilvagnar accelereras från stationen med induktionsmotorer och far fram genom slingrande och inverterade spår.",
-            "ko-KR": "1920년대 테마 갱스터 카는 직선 유도 모터를 이용하여 뒤틀린 역전 코스를 통해 속도를 올립니다.",
+            "ko-KR": "역에서 선형 유도 모터에 의해 가속되어 꼬여있는 트랙을 빠른 속도로 통과하는 1920년대 테마의 갱스터 롤러코스터 차량",
             "zh-TW": "以1920年代為主題的盜匪車輛,被直線推進動力以加速推離車站並快速通過倒置旋轉軌道",
-            "pt-BR": "Vagões temáticos de gângsteres dos anos 20 saem da estação acelerados por motores de indução linear para correr por inversões sinuosas"
+            "pt-BR": "Vagões temáticos de gângsteres dos anos 20 saem da estação acelerados por motores de indução linear para correr por inversões sinuosas",
+            "cs-CZ": "Horská dráha s vozy ve stylu gangsterů 20. let, poháněnými elektromotorem, které sviští skrze propletenou dráhu",
+            "pl-PL": "Wagoniki stylizowane na gangsterskie samochody z lat 20. są wystrzeliwane ze stacji za pomocą silnika liniowego i suną po zawiłym torze",
+            "ru-RU": "Машинки в стиле 1920х проезжают по головокружительной трассе."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -119,11 +127,14 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por coche",
             "it-IT": "4 passeggeri per carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-TW": "每輛車限乘4人",
-            "pt-BR": "4 passageiros por vagão"
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 чел. в кабине"
         }
     }
 }

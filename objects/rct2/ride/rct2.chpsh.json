@@ -24,12 +24,16 @@
             "de-DE": "Fritten-Laden",
             "es-ES": "Puesto patatas fritas",
             "it-IT": "Chiosco a patatina",
-            "nl-NL": "Winkel met Chips",
+            "nl-NL": "Frietkot",
             "sv-SE": "Chipsaffär",
-            "ko-KR": "과자 가게",
+            "ko-KR": "감자칩 가게",
             "zh-CN": "薯片店",
             "zh-TW": "洋芋片店",
-            "pt-BR": "Loja de Fritas"
+            "pt-BR": "Loja de Fritas",
+            "cs-CZ": "Stánek s hranolkami",
+            "ja-JP": "フライドポテト・ショップ",
+            "pl-PL": "Sklepik z żetonami",
+            "ru-RU": "Картошка"
         },
         "description": {
             "en-GB": "A hut selling chips",
@@ -38,12 +42,16 @@
             "de-DE": "Ein Häuschen, in dem Pommes Frites verkauft werden",
             "es-ES": "Un puesto que vende patatas fritas",
             "it-IT": "Una capanna che vende patatine",
-            "nl-NL": "Een hut waarin chips wordt verkocht",
+            "nl-NL": "Een kraam waar friet wordt verkocht.",
             "sv-SE": "En butik där man säljer chips",
-            "ko-KR": "과자를 파는 건물",
+            "ko-KR": "감자칩을 파는 가게",
             "zh-CN": "一间卖薯片的小屋子",
             "zh-TW": "一間賣洋芋片的小屋子",
-            "pt-BR": "Uma cabana vendendo batatas fritas"
+            "pt-BR": "Uma cabana vendendo batatas fritas",
+            "cs-CZ": "Stánek prodávající hranolky",
+            "ja-JP": "フライドポテトを売る小屋です",
+            "pl-PL": "Można tu kupić żetony",
+            "ru-RU": "Ларек с картошкой"
         }
     }
 }

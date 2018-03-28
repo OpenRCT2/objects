@@ -401,9 +401,13 @@
             "de-DE": "Diamantenbahn",
             "es-ES": "Atracción Diamante",
             "it-IT": "I diamanti",
-            "nl-NL": "Diamant-Attractie",
+            "nl-NL": "Diamant-twist",
             "sv-SE": "Diamantbana",
-            "zh-CN": "钻石游乐设施"
+            "zh-CN": "钻石游乐设施",
+            "cs-CZ": "Diamantová jízda",
+            "ko-KR": "다이아몬드 라이드",
+            "pl-PL": "Brylantowa karuzela",
+            "ru-RU": "Алмаз"
         },
         "description": {
             "en-GB": "Riders ride in pairs of seats rotating around the ends of three long rotating arms",
@@ -411,9 +415,13 @@
             "de-DE": "Die Fahrgäste nehmen auf rotierenden Sitzpaaren Platz, die sich an den Enden dreier langer kreisender Arme befinden",
             "es-ES": "Los pasajeros montan en parejas de dos asientos que giran alrededor de los extremos de tres largos brazos rotatorios",
             "it-IT": "I passeggeri trovano posto, a coppie, su seggiolini che ruotano all'estremità di tre lunghi bracci rotanti",
-            "nl-NL": "Passagiers zitten in twee aan twee gekoppelde stoelen die roteren aan het eind van drie lange roterende armen",
+            "nl-NL": "Passagiers zitten per twee in stoelen die ronddraaien aan de uiteinden van drie lange draaiarmen.",
             "sv-SE": "Passagerare åker parvis i säten som roterar runt tre långa, roterande armar",
-            "zh-CN": "乘客乘坐在成对的座位上循着末端三支长形旋转臂旋转"
+            "zh-CN": "乘客乘坐在成对的座位上循着末端三支长形旋转臂旋转",
+            "cs-CZ": "Návštěvníci sedí po dvou na sedačkách, které se otáčejí okolo diamantu uprostřed",
+            "ko-KR": "탑승객이 세 개의 긴 회전 팔 구조 끝에 있는 좌석에 짝지어 앉아 빙글빙글 도는 놀이기구",
+            "pl-PL": "Pasażerowie jadą w parach siedzisk wirujących na końcach trzech obracających się ramion",
+            "ru-RU": "Люди сидят попарно и катаются в свободно раскачивающихся вагончиках"
         },
         "capacity": {
             "en-GB": "18 passengers",
@@ -423,7 +431,11 @@
             "it-IT": "18 passeggeri",
             "nl-NL": "18 passagiers",
             "sv-SE": "18 passagerare",
-            "zh-CN": "限乘18人"
+            "zh-CN": "限乘18人",
+            "cs-CZ": "18 návštěvníků",
+            "ko-KR": "승객 18명",
+            "pl-PL": "18 pasażerów",
+            "ru-RU": "18 пассажиров"
         }
     }
 }

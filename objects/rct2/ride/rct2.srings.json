@@ -130,12 +130,16 @@
             "de-DE": "Weltraumringe",
             "es-ES": "Anillos Espaciales",
             "it-IT": "Anelli spaziali",
-            "nl-NL": "Ruimte Ringen",
+            "nl-NL": "Ruimteringen",
             "sv-SE": "Rymdringar",
             "ko-KR": "스페이스 링",
             "zh-CN": "环形空间",
             "zh-TW": "環形空間",
-            "pt-BR": "Anéis Espaciais"
+            "pt-BR": "Anéis Espaciais",
+            "cs-CZ": "Vesmírné kruhy",
+            "ja-JP": "スペースリング",
+            "pl-PL": "Kosmiczne pierścienie",
+            "ru-RU": "Космокольца"
         },
         "description": {
             "en-GB": "Concentric pivoting rings allowing the riders free rotation in all directions",
@@ -143,12 +147,16 @@
             "de-DE": "Konzentrische, rotierende Ringe ermöglichen den Passagieren, sich in alle Richtungen frei zu drehen",
             "es-ES": "Anillos concéntricos que pivotan permitiendo a los pasajeros rotar libremente en cualquier dirección",
             "it-IT": "Anelli concentrici e che ruotano su un asse, permettendo ai visitatori di ruotare liberamente in tutte le direzioni",
-            "nl-NL": "Concentrische draaiende ringen die het mogelijk maken dat bezoekers vrij in alle richtingen roteren",
+            "nl-NL": "Concentrische draaiende ringen waarmee de passagiers vrij kunnen draaien in alle richtingen.",
             "sv-SE": "Koncentriska svängringar där passagerarna roterar fritt i alla riktningar",
-            "ko-KR": "어느 위치에서도 회전을 느낄 수 있는 동심원 모양의 기구",
+            "ko-KR": "동심원 모양의 고리가 탑승자를 어느 방향이든 회전시킬 수 있는 놀이기구",
             "zh-CN": "在中心枢轴上转动,允许乘客自由转动方向",
             "zh-TW": "在中心樞軸上轉動,允?乘客自由轉動方向",
-            "pt-BR": "Anéis concêntricos giratórios permitem que o visitante gire livremente em todas as direções"
+            "pt-BR": "Anéis concêntricos giratórios permitem que o visitante gire livremente em todas as direções",
+            "cs-CZ": "Tři v sobě zasazené rotující kruhy dají návštěvníkům možnost volného pohybu ve všech třech rozměrech",
+            "ja-JP": "同軸のスペースリングで、全方向に回転する乗物です",
+            "pl-PL": "Koncentryczne obrotowe obręcze, umożliwiające swobodne kręcenie się we wszystkich kierunkach",
+            "ru-RU": "Концентрические кольца позволяют вращаться во всех направлениях"
         },
         "capacity": {
             "en-GB": "1 guest each",
@@ -158,8 +166,12 @@
             "it-IT": "1 visitatore ciascuno",
             "nl-NL": "1 bezoeker per ring",
             "sv-SE": "1 besökare var",
-            "ko-KR": "각 정원 1명",
-            "pt-BR": "1 visitante"
+            "ko-KR": "각 1명",
+            "pt-BR": "1 visitante",
+            "cs-CZ": "1 místo v každém kruhu",
+            "ja-JP": "各1名",
+            "pl-PL": "1 osoba",
+            "ru-RU": "1 чел."
         }
     }
 }

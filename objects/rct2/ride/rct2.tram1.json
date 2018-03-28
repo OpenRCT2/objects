@@ -77,8 +77,13 @@
             "sv-SE": "Gruvkärror",
             "ko-KR": "전차",
             "zh-CN": "有轨电车",
-            "zh-TW": "有軌電車",
-            "pt-BR": "Bondes Elétricos"
+            "zh-TW": "電車",
+            "pt-BR": "Bondes Elétricos",
+            "cs-CZ": "Tramvaje",
+            "ja-JP": "トラム",
+            "nl-NL": "Trams",
+            "pl-PL": "Tramwaje",
+            "ru-RU": "Трамвай"
         },
         "description": {
             "en-GB": "Old-timer replica trams",
@@ -88,10 +93,14 @@
             "it-IT": "Repliche dei tram d'altri tempi",
             "nl-NL": "Replica's van oude trams",
             "sv-SE": "Gammaldags gruvkärror",
-            "ko-KR": "오래 전에 이용되던 전차를 재현시킨 기구",
+            "ko-KR": "옛날 스타일의 전차 모형",
             "zh-CN": "古老式复制有轨电车",
-            "zh-TW": "古老式複製有軌電車",
-            "pt-BR": "Réplicas de bondes antigos"
+            "zh-TW": "復刻的懷舊電車",
+            "pt-BR": "Réplicas de bondes antigos",
+            "cs-CZ": "Retro repliky tramvají",
+            "ja-JP": "昔の路面電車のレプリカです",
+            "pl-PL": "Repliki staroświeckich tramwajów",
+            "ru-RU": "Старый трамвай"
         },
         "capacity": {
             "en-GB": "10 passengers per car",
@@ -99,12 +108,16 @@
             "de-DE": "10 Fahrgäste pro Wagen",
             "es-ES": "10 pasajeros por tranvía",
             "it-IT": "10 passeggeri a carrozza",
-            "nl-NL": "10 passagiers per wagentje",
+            "nl-NL": "10 passagiers per tram",
             "sv-SE": "10 passagerare per vagn",
-            "ko-KR": "차량 정원 10명",
+            "ko-KR": "차량당 10명의 승객",
             "zh-CN": "10 位乘客/每个车厢",
-            "zh-TW": "10 位乘客/每個車廂",
-            "pt-BR": "10 passageiros por vagão"
+            "zh-TW": "每車卡10位乘客",
+            "pt-BR": "10 passageiros por vagão",
+            "cs-CZ": "10 míst v každém vozu",
+            "ja-JP": "各車両10名",
+            "pl-PL": "10 pasażerów na wagonik",
+            "ru-RU": "10 пасс. на вагон"
         }
     }
 }

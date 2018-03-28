@@ -27,12 +27,16 @@
             "de-DE": "Schachbrettblock",
             "es-ES": "Tablero",
             "it-IT": "Blocco da scacchiera",
-            "nl-NL": "Dambord Blok",
+            "nl-NL": "Dambord-basisblok",
             "sv-SE": "Chackbrädsblock",
-            "ko-KR": "체커판 블록",
+            "ko-KR": "체스판 블록",
             "zh-CN": "西洋跳棋棋盘",
             "zh-TW": "西洋跳棋棋盤",
-            "pt-BR": "Bloco Quadriculado"
+            "pt-BR": "Bloco Quadriculado",
+            "cs-CZ": "Blok šachovnice",
+            "ja-JP": "市松模様ブロック",
+            "pl-PL": "Blok szachownicy",
+            "ru-RU": "Шахматы"
         }
     }
 }

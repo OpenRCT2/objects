@@ -59,12 +59,16 @@
             "de-DE": "Wagen ohne Boden",
             "es-ES": "Coches Balancín Sin Suelo",
             "it-IT": "Carr. oscillanti senza pavimento",
-            "nl-NL": "Wagentjes zonder bodem",
+            "nl-NL": "Karretjes zonder vloer",
             "sv-SE": "Gungande golvlösa vagnar",
-            "ko-KR": "스윙 플로어리스 카",
+            "ko-KR": "스윙잉 플로어리스 차량",
             "zh-CN": "摇摆列车",
             "zh-TW": "搖?列車",
-            "pt-BR": "Carros de Balanço Sem-Chão"
+            "pt-BR": "Carros de Balanço Sem-Chão",
+            "cs-CZ": "Houpající se vozy bez podlahy",
+            "ja-JP": "スイング・フロアレス車両",
+            "pl-PL": "Dyndające krzesełka",
+            "ru-RU": "Вагончики"
         },
         "description": {
             "en-GB": "Suspended roller coaster train consisting of chairlift style seats able to swing freely as the train goes around corners",
@@ -72,12 +76,16 @@
             "de-DE": "Hängender Achterbahnzug mit Sessellift-artigen Sitzen, die in Kurven frei schwingen können",
             "es-ES": "Vagones suspendidos como en los telesilla que pueden balancearse libremente en las curvas",
             "it-IT": "Treno da ottovolante sospeso che traina sedili da seggiovia capaci di oscillare liberamente nelle curve",
-            "nl-NL": "Opgehangen achtbaan die bestaat uit op een kabelbaan lijkende stoelen die vrij kunnen zwaaien als de trein door bochten dendert",
+            "nl-NL": "Omgekeerde achtbaantrein bestaande uit stoeltjesliftachtige karretjes die vrijuit kunnen schommelen als de trein door een bocht gaat.",
             "sv-SE": "Tåg till upphängd berg- och dalbana som består av linbanekorgar som kan svänga fritt när tåget kör runt svängarna",
-            "ko-KR": "트랙에 매달려서 매점을 돌 때마다 자유롭게 흔들리는 리프트 모양의 롤러코스터",
+            "ko-KR": "코너를 돌면 차량이 자유롭게 흔들리고, 체어 리프트 스타일의 좌석이 있는 매달린 롤러코스터 차량",
             "zh-CN": "悬挂式过山车列车的的组成是由升降机式坐椅可以在行进间经过转角处时自由摆动摇晃",
             "zh-TW": "懸掛式雲霄飛車列車的的組成是由升降機式坐椅可以在行進間經過轉角處時自由?動搖晃",
-            "pt-BR": "Trens de montanha-russa suspensa consistindo de assentos de estilo teleférico, capazes de balançar livremente quando o trem passa por curvas"
+            "pt-BR": "Trens de montanha-russa suspensa consistindo de assentos de estilo teleférico, capazes de balançar livremente quando o trem passa por curvas",
+            "cs-CZ": "Zavěšená horská dráha připomínající sedačkovou lanovku, houpající se v zatáčkách",
+            "ja-JP": "チェアリフトタイプの座席に座ってぶら下がるローラーコースターで、コーナーで大きく揺れ動きます",
+            "pl-PL": "Kolejka górska z podwieszanymi fotelikami typu wyciągu krzesełkowego, które bujają się swobodnie na zakrętach",
+            "ru-RU": "Подвесные вагончики, раскачивающиеся во всех направлениях."
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -85,12 +93,16 @@
             "de-DE": "2 Fahrgäste pro Wagen",
             "es-ES": "2 pasajeros por vagón",
             "it-IT": "2 passeggeri a carrozza",
-            "nl-NL": "2 passagiers per wagentje",
+            "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "ko-KR": "차량 정원 2명",
+            "ko-KR": "차량당 2명의 승객",
             "zh-CN": "2 位乘客/每个车厢",
             "zh-TW": "2 位乘客/每個車廂",
-            "pt-BR": "2 passageiros por vagão"
+            "pt-BR": "2 passageiros por vagão",
+            "cs-CZ": "2 místa v každém vozu",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира"
         }
     }
 }

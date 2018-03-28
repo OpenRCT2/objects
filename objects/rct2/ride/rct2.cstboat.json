@@ -75,12 +75,16 @@
             "de-DE": "Achterbahnboote",
             "es-ES": "Buques Costeros",
             "it-IT": "Barche",
-            "nl-NL": "Boot achtbaan",
+            "nl-NL": "Boten",
             "sv-SE": "Båtattraktion",
             "ko-KR": "코스터 보트",
             "zh-CN": "飞船",
             "zh-TW": "飛船",
-            "pt-BR": "Barcos Costeiros"
+            "pt-BR": "Barcos Costeiros",
+            "cs-CZ": "Lodě horské dráhy",
+            "ja-JP": "コースター・ボート",
+            "pl-PL": "Kolejka łódkowa",
+            "ru-RU": "Лодки-горки"
         },
         "description": {
             "en-GB": "Boat-shaped roller coaster cars",
@@ -88,12 +92,16 @@
             "de-DE": "Bootsförmige Achterbahnwagen",
             "es-ES": "Vagones con forma de bote",
             "it-IT": "Carrozze da ottovolante a forma di barche",
-            "nl-NL": "Achtbaanwagentjes in de vorm van een boot",
+            "nl-NL": "Achtbaankarretjes in de vorm van een boot.",
             "sv-SE": "Båtformade berg- och dalbanevagnar",
-            "ko-KR": "보트 모양의 롤러코스터",
+            "ko-KR": "보트 모양의 롤러코스터 차량",
             "zh-CN": "船形式的过山车车辆",
             "zh-TW": "船形式的雲霄飛車車輛",
-            "pt-BR": "Vagões de montanha-russa em forma de barcos"
+            "pt-BR": "Vagões de montanha-russa em forma de barcos",
+            "cs-CZ": "Lodě ve tvaru vozů horské dráhy",
+            "ja-JP": "ボート型の車両を持つローラーコースターです",
+            "pl-PL": "Wagoniki w kształcie łódek",
+            "ru-RU": "Вагончки в виде лодок"
         },
         "capacity": {
             "en-GB": "6 passengers per boat",
@@ -103,10 +111,14 @@
             "it-IT": "6 passeggeri a barca",
             "nl-NL": "6 passagiers per boot",
             "sv-SE": "6 passagerare per båt",
-            "ko-KR": "보트 정원 6명",
+            "ko-KR": "보트당 6명의 승객",
             "zh-CN": "6 位乘客/每辆船",
             "zh-TW": "6 位乘客/每輛船",
-            "pt-BR": "6 passageiros por barco"
+            "pt-BR": "6 passageiros por barco",
+            "cs-CZ": "6 míst v každé lodi",
+            "ja-JP": "各車両6名",
+            "pl-PL": "6 pasażerów na łódkę",
+            "ru-RU": "6 пассажиров"
         }
     }
 }

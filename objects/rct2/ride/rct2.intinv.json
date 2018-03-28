@@ -47,17 +47,23 @@
     "images": ["$RCT2:OBJDATA/INTINV.DAT[0..938]"],
     "strings": {
         "name": {
-            "en-GB": "Inverted Impulse Coaster",
+            "en-GB": "Impulse Trains",
             "fr-FR": "Impulsion inversée",
             "de-DE": "Umgekehrte Impuls-Bahn",
             "es-ES": "Montaña Rusa Impulso Inverso",
             "it-IT": "Corsa invertita a impulsi",
-            "nl-NL": "Inversie Impuls Achtbaan",
+            "nl-NL": "Impulse-trein",
             "sv-SE": "Inverterad impulsbana",
-            "ko-KR": "인버티드 임펄스 코스터",
+            "ko-KR": "임펄스 차량",
             "zh-CN": "瞬间反转过山车",
             "zh-TW": "瞬間反轉飛車",
-            "pt-BR": "Montanha de Impulso Invertida"
+            "pt-BR": "Trens Impulso",
+            "ar-EG": "Impulse Trains",
+            "cs-CZ": "Horská dráha ve tvaru \"U\"",
+            "en-US": "Impulse Trains",
+            "ja-JP": "インバーテッド・インパルス・コースター",
+            "pl-PL": "Kolejka zwrotna",
+            "ru-RU": "Обратно-импульсные горки"
         },
         "description": {
             "en-GB": "Inverted roller coaster trains are accelerated out of the station to travel up a vertical spike of track, then reverse back through the station to travel backwards up another vertical spike of track",
@@ -65,12 +71,16 @@
             "de-DE": "Umgekehrte Achterbahnzüge werden aus der Station heraus auf einer vertikalen Strecke beschleunigt und kommen zurück zur Station, von wo sie rückwärts eine andere vertikale Strecke hinaufgeschossen werden",
             "es-ES": "Los vagones de la montaña rusa invertida aceleran saliendo del andén y toman un tramo de vía vertical, entonces vuelven marcha atrás pasando por el andén y subiendo por otro tramo de vía vertical",
             "it-IT": "Treni da ottovolante invertiti accelerano partendo dalla stazione lungo un braccio verticale del tracciato, quindi tornano in retromarcia alla stazione per salire su un altro braccio verticale",
-            "nl-NL": "Omgekeerde treintjes worden buiten het station versneld en gaan omhoog langs een verticaal stuk baan, en dan omgekeerd achteruit langs het station om achterwaards terug omhoog te gaan langs een ander verticaal stuk baan",
+            "nl-NL": "Een omgekeerde achtbaantrein wordt het station uit gelanceerd en gaat een verticale kronkelende baan op, waarna deze terugzakt, door het station heengaat en achteruit een ander stuk verticale baan opgaat.",
             "sv-SE": "Omvända berg- och dalbanevagnar som accelereras ut från stationen kör upp för en lodrät brant vänder sedan och åker baklänges genom stationen upp för en annan lodrät brant",
-            "ko-KR": "수직으로 언덕 위까지 올라갔다가 방향을 바꿔 다시 정류장을 지나쳐 반대 방향을 향해 달리는 롤러코스터",
+            "ko-KR": "수직으로 솟은 트랙을 오르기 위해 역에서 급가속한 뒤, 다시 역방향으로 되돌아와 역을 통과해서 뒷쪽의 또다른 수직 트랙을 올라가는 인버티드 롤러코스터 차량",
             "zh-CN": "反转过山车是由车站加速射出如大钉子般垂直轨道上方,然後再倒退回到车站并冲向另一边垂直轨道上",
             "zh-TW": "反轉雲霄飛車是由車站加速射出如大釘子般垂直軌道上方,然後再倒退回到車站並衝向另一邊垂直軌道上",
-            "pt-BR": "Trens de montanha-russa invertida saem acelerados da estação, sobem uma seção de pista vertical, voltam de costas, passam de novo pela estação e sobem de costas outra seção de pista vertical"
+            "pt-BR": "Trens de montanha-russa invertida saem acelerados da estação, sobem uma seção de pista vertical, voltam de costas, passam de novo pela estação e sobem de costas outra seção de pista vertical",
+            "cs-CZ": "Vozy vyrazí vstříc jednomu konci trati, poté prosviští pozpátku stanicí a vyletí až na druhý konec trati",
+            "ja-JP": "逆向きのローラーコースターで、発着所から加速して発進し、垂直な絶壁を駆け上ると今度は後ろから発着所に戻り、もうひとつの絶壁を後ろ向きに登ります",
+            "pl-PL": "Wagoniki tego typu kolejki są wciągane ze stacji na pionowy odcinek toru, po czym zjeżdżają z niego, przejeżdżają z powrotem przez stację i wjeżdżają siłą rozpędu tyłem na drugi pionowy odcinek",
+            "ru-RU": "Развернутые поезда разгоняются от станции по вертикальному треку, спускаются вниз и забираются на новый подъём."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -78,12 +88,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por vagão"
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

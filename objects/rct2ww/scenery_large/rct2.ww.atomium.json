@@ -127,7 +127,11 @@
     "images": ["$RCT2:OBJDATA/ATOMIUM.DAT[0..67]"],
     "strings": {
         "name": {
-            "en-GB": "Atomium"
+            "en-GB": "Atomium",
+            "cs-CZ": "Atomium",
+            "ko-KR": "아토미움",
+            "pl-PL": "Atomium",
+            "ru-RU": "Атомиум"
         }
     }
 }

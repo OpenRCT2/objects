@@ -23,12 +23,16 @@
             "de-DE": "Pommes Frites-Stand",
             "es-ES": "Puesto de patatas fritas",
             "it-IT": "Chiosco dei fritti",
-            "nl-NL": "Patatkraampje",
+            "nl-NL": "Frietkraam",
             "sv-SE": "Pommes frites-bod",
-            "ko-KR": "튀김 가게",
+            "ko-KR": "감자튀김 가게",
             "zh-CN": "炸薯条店",
             "zh-TW": "炸薯條店",
-            "pt-BR": "Barraca de Fritas"
+            "pt-BR": "Barraca de Fritas",
+            "cs-CZ": "Stánek s hranolkami",
+            "ja-JP": "フライドポテト・ショップ",
+            "pl-PL": "Kiosk z frytkami",
+            "ru-RU": "Картошка"
         },
         "description": {
             "en-GB": "A stall selling fries",
@@ -36,12 +40,16 @@
             "de-DE": "Ein Stand, an dem Pommes Frites verkauft werden",
             "es-ES": "Puesto que vende patatas fritas",
             "it-IT": "Un chiosco che vende cibi fritti",
-            "nl-NL": "Een kraampje dat patat verkoopt",
+            "nl-NL": "Een kraam waar friet wordt verkocht.",
             "sv-SE": "Ett stånd som säljer pommes frites",
-            "ko-KR": "튀김을 파는 건물",
+            "ko-KR": "감자튀김을 파는 가게",
             "zh-CN": "一家卖炸薯条的店",
             "zh-TW": "一家賣炸薯條的店",
-            "pt-BR": "Uma barraca vendendo batatas fritas"
+            "pt-BR": "Uma barraca vendendo batatas fritas",
+            "cs-CZ": "Stánek prodávající hranolky",
+            "ja-JP": "フライドポテトを売る売店です",
+            "pl-PL": "Stoisko sprzedające frytki",
+            "ru-RU": "Продажа картошки"
         }
     }
 }

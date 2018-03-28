@@ -58,10 +58,14 @@
             "it-IT": "Tricicli acquatici",
             "nl-NL": "Waterfietsen",
             "sv-SE": "Vattentrehjulingar",
-            "ko-KR": "수중 삼륜자전거",
+            "ko-KR": "수중 세발자전거",
             "zh-CN": "水上三轮车",
             "zh-TW": "水上三輪車",
-            "pt-BR": "Triciclos de Água"
+            "pt-BR": "Triciclos de Água",
+            "cs-CZ": "Vodní tricykly",
+            "ja-JP": "ウォーター・トライサイクル",
+            "pl-PL": "Rowery wodne",
+            "ru-RU": "Водные трициклы"
         },
         "description": {
             "en-GB": "Pedal-tricycle with large buoyant wheels",
@@ -69,12 +73,16 @@
             "de-DE": "Pedaldreirad mit großen Schwimmrädern",
             "es-ES": "Triciclos acuáticos a pedales con ruedas gigantes",
             "it-IT": "Tricicli a pedali con grandi ruote galleggianti",
-            "nl-NL": "Driewielige fiets met grote radwielen",
+            "nl-NL": "Driewielige waterfietsen met grote raderwielen.",
             "sv-SE": "Trehjuling med stora flytande hjul, drivs genom trampor",
-            "ko-KR": "페달로 움직이며 물에 뜨는 삼륜 자전거",
+            "ko-KR": "물에 뜨는 바퀴를 가진 페달 달린 세발자전거",
             "zh-CN": "有大型浮力轮子的脚踏-三轮车",
             "zh-TW": "有大型浮力輪子的腳踏-三輪車",
-            "pt-BR": "Pedalinhos com grandes rodas flutuantes"
+            "pt-BR": "Pedalinhos com grandes rodas flutuantes",
+            "cs-CZ": "Šlapadla ve tvaru tricyklů s velkými plovoucími koly",
+            "ja-JP": "浮力を持った車輪の、ペダル漕ぎ三輪車です",
+            "pl-PL": "Wodne pojazdy napędzane pedałami, z dużymi kołami-pływakami",
+            "ru-RU": "Педальные трициклы"
         },
         "capacity": {
             "en-GB": "2 passengers per tricycle",
@@ -84,10 +92,14 @@
             "it-IT": "2 passeggeri a triciclo",
             "nl-NL": "2 passagiers per waterfiets",
             "sv-SE": "2 passagerare per trehjuling",
-            "ko-KR": "차량 정원 2명",
+            "ko-KR": "세발자전거당 2명의 승객",
             "zh-CN": "2 位乘客 /每辆三轮车",
             "zh-TW": "2 位乘客 /每輛三輪車",
-            "pt-BR": "2 passageiros por triciclo"
+            "pt-BR": "2 passageiros por triciclo",
+            "cs-CZ": "2 místa na každém kole",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na rower",
+            "ru-RU": "2 passengers per tricycle"
         }
     }
 }

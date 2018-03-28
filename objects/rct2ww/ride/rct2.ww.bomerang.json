@@ -70,14 +70,21 @@
     "images": ["$RCT2:OBJDATA/BOMERANG.DAT[0..1166]"],
     "strings": {
         "name": {
-            "en-GB": "Boomerang Coaster",
+            "en-GB": "Boomerang Trains",
             "fr-FR": "Montagnes boomerang",
             "de-DE": "Bumerang-Achterbahn",
             "es-ES": "Montaña Bumerang",
             "it-IT": "Ottovolante boomerang",
-            "nl-NL": "Boemerang-Achtbaan",
+            "nl-NL": "Boemerangtrein",
             "sv-SE": "Bumerangbana",
-            "zh-CN": "回力式游乐设施"
+            "zh-CN": "回力式游乐设施",
+            "ar-EG": "Boomerang Trains",
+            "cs-CZ": "Bumerang",
+            "en-US": "Boomerang Trains",
+            "ko-KR": "부메랑 차량",
+            "pl-PL": "Bumerang",
+            "pt-BR": "Trens Bumerangue",
+            "ru-RU": "Бумеранг"
         },
         "description": {
             "en-GB": "After an exhilarating air-powered launch, the train speeds up a vertical track, over the top, and vertically down the other side to return to the station",
@@ -85,9 +92,13 @@
             "de-DE": "Nach einem atemberaubenden Luftdruck-Start schnellt der Zug eine vertikale Strecke hoch, saust über die Spitze und auf der anderen Seite vertikal nach unten zurück zur Station",
             "es-ES": "Después de un emocionante lanzamiento propulsado por aire, el tren acelera por una vía vertical, pasa sobre la cima, y luego desciende verticalmente por el otro lado para volver a la estación",
             "it-IT": "Dopo un esilarante lancio con aria compressa, il treno prende velocità lungo un tratto verticale, arriva in cima scende verticalmente dalla parte opposta per tornare alla stazione",
-            "nl-NL": "Na een opwindende start door de lucht, snelt de trein een verticale baan omhoog, gaat over de top, en gaat aan de andere kant verticaal naar beneden om terug te keren in het station",
+            "nl-NL": "Na een enerverende pneumatische lancering rijdt de trein met hogere snelheid over een verticale baan, over de top, en vervolgens over de andere kant weer naar beneden om terug te keren naar het station.",
             "sv-SE": "Efter en luftdriven snabbstart susar vagnarna uppför och nedför en vertikal bana innan de återvänder till stationen",
-            "zh-CN": "在一阵令人兴奋的高速气压式堆进器激活,列车以高速冲向垂直顶端轨道,接着再垂直下坠到车站的另一端再回到车站"
+            "zh-CN": "在一阵令人兴奋的高速气压式堆进器激活,列车以高速冲向垂直顶端轨道,接着再垂直下坠到车站的另一端再回到车站",
+            "cs-CZ": "Po mocném startu na stlačený vzduch se vozy rozjedou po svislé dráze, přes vrchol a svisle dolů zpět do stanice",
+            "ko-KR": "아주 짜릿한 공기 압축 방식으로 발진하여 차량이 수직 트랙을 향해 속력을 높인 뒤, 꼭대기에 다다르면 다시 수직으로 하강하며 다시 탑승장에 도착하는 놀이기구",
+            "pl-PL": "Po rozrywkowym starcie z wyrzutni pneumatycznej wagoniki wjeżdżają po pionowym torze, po czym wykonują pionowy zjazd w dół, z powrotem do stacji",
+            "ru-RU": "Поезд едет вертикально до вершины и затем вниз на станцию"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -95,9 +106,13 @@
             "de-DE": "2 pro Wagen",
             "es-ES": "2 pasajeros por vagón",
             "it-IT": "2 passeggeri per carrozza",
-            "nl-NL": "2 passagiers per wagentje",
+            "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "zh-CN": "?每辆车限乘2人"
+            "zh-CN": "?每辆车限乘2人",
+            "cs-CZ": "2 místa v každém voze",
+            "ko-KR": "차량당 2명의 승객",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира"
         }
     }
 }

@@ -43,12 +43,16 @@
             "de-DE": "Piratenschiff",
             "es-ES": "Barco Pirata",
             "it-IT": "Nave dei pirati",
-            "nl-NL": "Piratenschip",
+            "nl-NL": "Schommelschip",
             "sv-SE": "Piratskepp",
-            "ko-KR": "해적선",
+            "ko-KR": "바이킹",
             "zh-CN": "海盗船",
             "zh-TW": "海盜船",
-            "pt-BR": "Navio Pirata"
+            "pt-BR": "Navio Pirata",
+            "cs-CZ": "Pirátská loď",
+            "ja-JP": "パイレーツシップ",
+            "pl-PL": "Okręt piracki",
+            "ru-RU": "Корабль"
         },
         "description": {
             "en-GB": "Large swinging pirate ship",
@@ -56,12 +60,16 @@
             "de-DE": "Großes schwingendes Piratenschiff",
             "es-ES": "Gran barco pirata que se balancea",
             "it-IT": "Enorme nave dei pirati oscillante",
-            "nl-NL": "Groot draaiend piratenschip",
+            "nl-NL": "Groot schommelend piratenschip",
             "sv-SE": "Stort svängande piratskepp",
-            "ko-KR": "앞뒤로 흔들리는 거대한 배",
+            "ko-KR": "흔들리는 거대한 해적선",
             "zh-CN": "大规模摆动的海盗船",
             "zh-TW": "大規模?動的海盜船",
-            "pt-BR": "Grande navio pirata de balanço"
+            "pt-BR": "Grande navio pirata de balanço",
+            "cs-CZ": "Velká houpající se pirátská loď",
+            "ja-JP": "前後にスイングする大きなパイレーツです",
+            "pl-PL": "Wielka huśtawka w kształcie statku",
+            "ru-RU": "Большой пиратский корабль"
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -71,10 +79,14 @@
             "it-IT": "16 passeggeri",
             "nl-NL": "16 passagiers",
             "sv-SE": "16 passagerare",
-            "ko-KR": "정원 16명",
+            "ko-KR": "승객 16명",
             "zh-CN": "16 位乘客",
             "zh-TW": "16 位乘客",
-            "pt-BR": "16 passageiros"
+            "pt-BR": "16 passageiros",
+            "cs-CZ": "16 návštěvníků",
+            "ja-JP": "定員16名",
+            "pl-PL": "16 pasażerów",
+            "ru-RU": "16 чел"
         }
     }
 }

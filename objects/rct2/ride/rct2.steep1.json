@@ -43,30 +43,42 @@
     "images": ["$RCT2:OBJDATA/STEEP1.DAT[0..258]"],
     "strings": {
         "name": {
-            "en-GB": "Steeplechase",
+            "en-GB": "Horses",
             "fr-FR": "Rodéo montagnes",
             "de-DE": "Hindernislauf",
             "es-ES": "Carrera Ciega",
             "it-IT": "Corsa a ostacoli",
-            "nl-NL": "Hindernisrace",
+            "nl-NL": "Paarden",
             "sv-SE": "Hinderlopp",
-            "ko-KR": "장애물 경마",
+            "ko-KR": "말 차량",
             "zh-CN": "越野障碍赛马",
             "zh-TW": "越野障礙賽馬",
-            "pt-BR": "Corrida de Cavalos"
+            "pt-BR": "Cavalos",
+            "ar-EG": "Horses",
+            "cs-CZ": "Dostihy",
+            "en-US": "Horses",
+            "ja-JP": "障害物競馬",
+            "pl-PL": "Bieg z przeszkodami",
+            "ru-RU": "Стиплчез"
         },
         "description": {
-            "en-GB": "Riders ride horse-shaped vehicles which run along a single-rail roller coaster track",
+            "en-GB": "Single cars shaped like a horse",
             "fr-FR": "Véhicule en forme de cheval parcourant des montagnes russes sur une voie monorail",
             "de-DE": "Die Passagiere sitzen in Fahrzeugen in Form von Pferden, die auf einer Einschienen-Achterbahnstrecke fahren",
             "es-ES": "Los pasajeros se montan en unos vagones con forma de caballo que recorren sobre un monoraíl",
             "it-IT": "I passeggeri attraversano un tracciato monorotaia su veicoli a forma di cavallo",
-            "nl-NL": "Attractie in voertuigen in de vorm van een paard die over enkele rails gaan",
+            "nl-NL": "Passagiers zitten op paardvormige voertuigen die over een enkele rail lopen.",
             "sv-SE": "Passagerarna åker hästformade fordon som kör längs en enspårig berg- och dalbana",
-            "ko-KR": "말 모양의 기구를 타고 모노 레일 위를 달리는 기구",
+            "ko-KR": "단선 롤러코스터 트랙을 따라 달리는 말 모양의 차량에 탑승하는 놀이기구",
             "zh-CN": "乘客骑着马形车辆循着单轨式过山车轨道",
             "zh-TW": "乘客騎著馬形車輛循著單軌式雲霄飛車軌道",
-            "pt-BR": "Os passageiros andam em veículos na forma de cavalos que correm numa pista de montanha-russa de monotrilho"
+            "pt-BR": "Carros únicos moldados como um cavalo",
+            "ar-EG": "Single cars shaped like a horse",
+            "cs-CZ": "Vozy ve tvaru koní vozí návštěvníky po jednokolejné trati",
+            "en-US": "Single cars shaped like a horse",
+            "ja-JP": "シングルレールコースを馬の形の車両が走行する乗物です",
+            "pl-PL": "Pasażerowie jadą pojazdami w kształcie koni, poruszającymi się po jednoszynowym torze kolejki",
+            "ru-RU": "Люди едут на машинках в виде лошадей."
         },
         "capacity": {
             "en-GB": "2 riders per horse",
@@ -74,12 +86,16 @@
             "de-DE": "2 Fahrgäste pro Pferd",
             "es-ES": "2 jinetes por caballo",
             "it-IT": "2 passeggeri per cavallo",
-            "nl-NL": "2 bezoekers per paard",
+            "nl-NL": "2 passagiers per paard",
             "sv-SE": "2 passagerare per häst",
-            "ko-KR": "말 정원 2명",
+            "ko-KR": "차량당 2명의 승객",
             "zh-CN": "2 位乘客/每辆马",
             "zh-TW": "2 位乘客/每輛馬",
-            "pt-BR": "2 passageiros por cavalo"
+            "pt-BR": "2 passageiros por cavalo",
+            "cs-CZ": "2 místa na každém koni",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na konia",
+            "ru-RU": "2 пассажира"
         }
     }
 }

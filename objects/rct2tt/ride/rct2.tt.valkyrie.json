@@ -47,16 +47,21 @@
     "images": ["$RCT2:OBJDATA/VALKYRIE.DAT[0..2882]"],
     "strings": {
         "name": {
-            "en-GB": "Valkyries Coaster",
+            "en-GB": "Valkyries Trains",
             "fr-FR": "La chevauchée des Walkyries",
             "de-DE": "Walküren-Achterbahn",
             "es-ES": "Montaña rusa de las valkirias",
             "it-IT": "Ottovolante Valchiria",
-            "nl-NL": "Valkyren-achtbaan",
+            "nl-NL": "Walkürentrein",
             "sv-SE": "Valkyria",
-            "ko-KR": "발키리 코스터",
+            "ko-KR": "발키리 차량",
             "zh-TW": "女武神雲霄飛車",
-            "pt-BR": "Montanha-Russa das Valkirias"
+            "pt-BR": "Trens Valquírias",
+            "ar-EG": "Valkyries Trains",
+            "cs-CZ": "Valkýrská horská dráha",
+            "en-US": "Valkyries Trains",
+            "pl-PL": "Jazda z Walkiriami",
+            "ru-RU": "Валькирии"
         },
         "description": {
             "en-GB": "Extra-wide cars descend completely vertical sloped track for the ultimate freefall roller coaster experience",
@@ -64,11 +69,14 @@
             "de-DE": "Die extrabreiten Wagen fahren ein senkrechtes Gefälle hinab und bieten die ultimative Erfahrung des freien Falls.",
             "es-ES": "Coches especialmente anchos que descienden verticalmente en la experiencia de caída libre definitiva.",
             "it-IT": "Carrozze larghissime scendono per un tracciato completamente in verticale per offrire l'esperienza di caduta libera suprema, per quel che riguarda un ottovolante.",
-            "nl-NL": "Extra brede wagentjes gaan bij volledig verticale hellingen neer voor de ultieme vrije-val-ervaring.",
+            "nl-NL": "Extra brede karretjes rijden over een compleet verticale baan voor de ultieme vrijevalbeleving.",
             "sv-SE": "Extra breda vagnar faller nedför ett fullkomligt lodrätt spår och ger passagerarna den ultimata fritt fall-upplevelsen.",
-            "ko-KR": "궁극적인 자유낙하를 경험할 수 있는 수직 트랙을 내려오는 아주 넓은 롤러코스터",
+            "ko-KR": "자유 낙하의 극한 경험을 선사하기 위해 완전히 수직 경사 트랙을 따라 하강하는 아주 폭이 넓은 차량",
             "zh-TW": "完全延著垂直斜度軌道落下的附加大型列車體驗由頂點自由落下的快感",
-            "pt-BR": "Vagões extragrandes descem numa pista completamente vertical, na experiência definitiva de montanha-russa de queda livre"
+            "pt-BR": "Vagões extragrandes descem numa pista completamente vertical, na experiência definitiva de montanha-russa de queda livre",
+            "cs-CZ": "Extra-široké vozy letí dolů po zcela kolmé dráze a poskytují tím pocit volného pádu",
+            "pl-PL": "Bardzo szerokie wagoniki zjeżdżają z całkowicie pionowego toru, zapewniając pasażerom niesamowite wrażenie swobodnego spadku",
+            "ru-RU": "Широкие вагончики спускаются по отвесному треку с участками свободного падения"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -76,11 +84,14 @@
             "de-DE": "6 Fahrgäste pro Wagen",
             "es-ES": "6 pasajeros por coche",
             "it-IT": "6 passeggeri per vettura",
-            "nl-NL": "6 passagiers per wagentje",
+            "nl-NL": "6 passagiers per karretje",
             "sv-SE": "6 passagerare per vagn",
-            "ko-KR": "차량 정원 6명",
+            "ko-KR": "차량당 6명의 승객",
             "zh-TW": "每輛車限乘6人",
-            "pt-BR": "6 passageiros por vagão"
+            "pt-BR": "6 passageiros por vagão",
+            "cs-CZ": "6 míst v každém voze",
+            "pl-PL": "6 pasażerów na wagonik",
+            "ru-RU": "6 человек"
         }
     }
 }

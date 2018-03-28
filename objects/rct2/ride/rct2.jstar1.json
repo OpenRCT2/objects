@@ -60,12 +60,16 @@
             "de-DE": "Schlittenwagen",
             "es-ES": "Coches Tobogán",
             "it-IT": "Toboghe",
-            "nl-NL": "Toboggan Wagentjes",
+            "nl-NL": "Rodelsleekarretjes",
             "sv-SE": "Kälkvagnar",
-            "ko-KR": "썰매차",
+            "ko-KR": "터보건 썰매 차량",
             "zh-CN": "平底雪橇",
             "zh-TW": "平底雪橇",
-            "pt-BR": "Vagões de Tobogã"
+            "pt-BR": "Vagões de Tobogã",
+            "cs-CZ": "Tobogánová horská dráha",
+            "ja-JP": "トボガン車両",
+            "pl-PL": "Na saneczki",
+            "ru-RU": "Сани"
         },
         "description": {
             "en-GB": "Toboggan-shaped roller coaster cars with in-line seating",
@@ -73,12 +77,16 @@
             "de-DE": "Schlittenförmige Achterbahnwagen mit hintereinander liegenden Sitzen",
             "es-ES": "Montaña rusa con forma de toboganes",
             "it-IT": "Carrozze da ottovolante a forma di toboghe con i sedili l'uno dietro l'altro",
-            "nl-NL": "Achtbaanwagentjes in de vorm van een Toboggan met in één rij geplaatste stoelen",
+            "nl-NL": "Achtbaankarretjes in de vorm van een rodelslee, waarin de passagiers achter elkaar zitten.",
             "sv-SE": "Kälkformade berg- och dalbanevagnar med sätena på rad",
-            "ko-KR": "일렬로 늘어선 썰매 모양의 롤러코스터",
+            "ko-KR": "한 줄로 탑승하는 터보건 썰매 모양의 롤러코스터",
             "zh-CN": "平底雪橇外形的过山车与同轴座位",
             "zh-TW": "平底雪橇外形的雲霄飛車與同軸座位",
-            "pt-BR": "Vagões de montanha-russa em forma de tobogã com assentos em linha"
+            "pt-BR": "Vagões de montanha-russa em forma de tobogã com assentos em linha",
+            "cs-CZ": "Horská dráha ve stylu tobogánu s vozy se sedačkami za sebou",
+            "ja-JP": "リュージュ形の座席が直列したローラーコースターです",
+            "pl-PL": "Kolejka górska z wagonikami w kształcie sanek, w których pasażerowie siedzą jeden za drugim",
+            "ru-RU": "Вагончики в виде саней для горок"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -86,12 +94,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por vagão"
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

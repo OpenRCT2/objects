@@ -92,14 +92,21 @@
     "images": ["$RCT2:OBJDATA/SURFBRDC.DAT[0..3350]"],
     "strings": {
         "name": {
-            "en-GB": "Surfing Coaster",
+            "en-GB": "Surfing Trains",
             "fr-FR": "Montagnes surf",
             "de-DE": "Surfbahn",
             "es-ES": "Montaña Surfing",
             "it-IT": "Ottovolante surf",
-            "nl-NL": "Surf-Achtbaan",
+            "nl-NL": "Surftrein",
             "sv-SE": "Surfingbana",
-            "zh-CN": "冲浪设施"
+            "zh-CN": "冲浪设施",
+            "ar-EG": "Surfing Trains",
+            "cs-CZ": "Surferská horská dráha",
+            "en-US": "Surfing Trains",
+            "ko-KR": "서핑 차량",
+            "pl-PL": "Surfingowe szaleństwo",
+            "pt-BR": "Trens Surfing",
+            "ru-RU": "Серфинг Коастер"
         },
         "description": {
             "en-GB": "Riders ride in a standing position in wide coaster trains with specially designed restraints as they race down smooth drops and through multiple inversions",
@@ -107,9 +114,13 @@
             "de-DE": "Die Passagiere fahren stehend in breiten Zügen mit speziellen Halterungen durch sanfte Gefälle und mehrere Überkopfteile",
             "es-ES": "Los pasajeros viajan de pie en amplios trenes con sujeciones especialmente diseñadas, y recorren suaves caídas con múltiples inversiones",
             "it-IT": "I passeggeri trovano posto in piedi su carrozze larghe e sono trattenuti da appositi elementi di sicurezza mentre affrontano discese dolci e numerose inversioni",
-            "nl-NL": "Attractie waarin bezoekers staan in ruime achtbaantreinen met speciaal vormgegeven beveiligingen, die omlaag racen langs glooiende hellingen en vele omkeringen",
+            "nl-NL": "Passagiers staan in de brede achtbaantrein met speciaal ontworpen beugels terwijl ze door soepele afdalingen en meerdere omkeringen razen.",
             "sv-SE": "Passagerarna står upp i breda vagnar som är utrustade med specialbälten och färdas utför branta stup och genom avsnitt med tvära omkastningar",
-            "zh-CN": "乘客搭乘有特殊设计保护的宽敞列车中以站立姿态平稳地通过下坠及多样化的回转装置"
+            "zh-CN": "乘客搭乘有特殊设计保护的宽敞列车中以站立姿态平稳地通过下坠及多样化的回转装置",
+            "cs-CZ": "Návštěvníci jedou ve stoje v širokých vozech se speciálně navrženým držením po propletené dráze s pády",
+            "ko-KR": "탑승자들이 선 자세로 낙하와 여러 특수 트랙을 즐길 수 있도록 특수하게 디자인된 안전바가 있는 넓은 롤러코스터 차량",
+            "pl-PL": "Pasażerowie jadą w pozycji stojącej w szerokich wagonikach ze specjalnie zaprojektowanymi zabezpieczeniami, pokonując gładkie zjazdy i liczne ostre zakręty",
+            "ru-RU": "Пассажир стоит в широком вагончике со спец системой безопасности."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -117,9 +128,13 @@
             "de-DE": "4 pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri per carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "每辆车限乘4人4 passengers per car"
+            "zh-CN": "每辆车限乘4人4 passengers per car",
+            "cs-CZ": "4 místa v každém voze",
+            "ko-KR": "차량당 4명의 승객",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 passengers per car"
         }
     }
 }

@@ -47,9 +47,13 @@
             "de-DE": "Chinesische Dschunken-Schaukel",
             "es-ES": "Columpio de junco chino",
             "it-IT": "La giunca cinese",
-            "nl-NL": "Draaiende Attractie met Chinese Jonk",
+            "nl-NL": "Chinese jonk",
             "sv-SE": "Kinesisk djonk",
-            "zh-CN": "中国舢舨游乐设施"
+            "zh-CN": "中国舢舨游乐设施",
+            "cs-CZ": "Čínská loď",
+            "ko-KR": "차이니즈 정크 스윙 라이드",
+            "pl-PL": "Zakręcona dżonka",
+            "ru-RU": "Китайская джонка"
         },
         "description": {
             "en-GB": "Ship is attached to an arm with a counterweight at the opposite end, and swings through a complete 360 degrees",
@@ -57,9 +61,13 @@
             "de-DE": "Das Schiff ist an einem Schwungarm mit Gegengewicht montiert und dreht sich um volle 360 Grad",
             "es-ES": "El barco está enganchado a un brazo con un contrapeso en el extremo opuesto, y hace un giro completo de 360 grados",
             "it-IT": "La nave è montata su un lungo braccio con un contrappeso dalla parte opposta e ruota di 360 gradi completi",
-            "nl-NL": "Een Schip is aan een arm bevestigd met aan de andere kant een tegengewicht, en draait over een volledige 360 graden rond",
+            "nl-NL": "Chinese jonk die is bevestigd aan een arm met een contragewicht, en 360 graden kan draaien.",
             "sv-SE": "I ena änden på en lång arm sitter djonken och i den andra änden sitter en motvikt som får djonken att rotera i 360 grader",
-            "zh-CN": "船是以在相对尾端的平衡力距以360度摇摆行进"
+            "zh-CN": "船是以在相对尾端的平衡力距以360度摇摆行进",
+            "cs-CZ": "Loď je připevněna na podpěru, která se chová jako protizávaží a otáčí se o 360 stupňů",
+            "ko-KR": "반대편에 균형추가 있는 지지대에 달려있어 완전히 360도로 회전하는 배 모양의 놀이기구",
+            "pl-PL": "Statek jest przymocowany do ramienia z przeciwwagą i wykonuje pełne obroty",
+            "ru-RU": "Кораблик прикреплён к маятнику и вращается на 360 градусов."
         },
         "capacity": {
             "en-GB": "12 passengers",
@@ -69,7 +77,11 @@
             "it-IT": "12 passeggeri",
             "nl-NL": "12 passagiers",
             "sv-SE": "12 passagerare",
-            "zh-CN": "限乘12人"
+            "zh-CN": "限乘12人",
+            "cs-CZ": "12 návštěvníků",
+            "ko-KR": "승객 12명",
+            "pl-PL": "12 pasażerów",
+            "ru-RU": "12 пассажиров"
         }
     }
 }

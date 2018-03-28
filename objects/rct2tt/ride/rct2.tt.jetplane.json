@@ -73,16 +73,21 @@
     "images": ["$RCT2:OBJDATA/JETPLANE.DAT[0..1814]"],
     "strings": {
         "name": {
-            "en-GB": "Jet Plane Coaster",
+            "en-GB": "Jet Plane Cars",
             "fr-FR": "Avion à réaction",
             "de-DE": "Düsenflugzeug-Achterbahn",
             "es-ES": "Montaña rusa avión a reacción",
             "it-IT": "Ottovolante aviogetto",
-            "nl-NL": "Straalvliegtuig-achtbaan",
+            "nl-NL": "Straalvliegtuigachtbaan",
             "sv-SE": "Jetbana",
-            "ko-KR": "젯 플레인 코스터",
+            "ko-KR": "제트여객기 차량",
             "zh-TW": "噴射機雲霄飛車",
-            "pt-BR": "Montanha-Russa de Avião a Jato"
+            "pt-BR": "Carros Avião a Jato",
+            "ar-EG": "سيارات الطائرات النفاثة",
+            "cs-CZ": "Stíhačková horské dráha",
+            "en-US": "Jet Plane Cars",
+            "pl-PL": "Lot odrzutowcem",
+            "ru-RU": "Горки-Самолет"
         },
         "description": {
             "en-GB": "A compact roller coaster with individual cars and smooth twisting drops",
@@ -90,11 +95,14 @@
             "de-DE": "Eine kompakte Achterbahn mit individuellen Wagen und sanften, gewundenen Abfahrten",
             "es-ES": "Una montaña rusa compacta con vagones individuales y suaves caídas en espiral.",
             "it-IT": "Un ottovolante compatto con carrozze individuali e rapide curve in discesa.",
-            "nl-NL": "Een compacte achtbaan met individuele wagentjes en vloeiende, draaiende afdalingen.",
+            "nl-NL": "Een compacte achtbaan met individuele karretjes en steile, kronkelende afdalingen.",
             "sv-SE": "En kompakt berg- och dalbana med individuella vagnar och mjuka, slingrande fall.",
-            "ko-KR": "완만한 커브와 경사의 트랙을 달리는 개별 차량을 갖춘 소형 롤러코스터",
+            "ko-KR": "개별적인 차량이 부드러운 트위스트 낙하를 짜임새 있게 내려오는 롤러코스터",
             "zh-TW": "一座以個人列車在小巧型雲霄飛車設施上平緩地旋轉落下。",
-            "pt-BR": "Uma montanha-russa compacta com vagões individuais e quedas sinuosas"
+            "pt-BR": "Uma montanha-russa compacta com vagões individuais e quedas sinuosas",
+            "cs-CZ": "Malá horská dráha, na které vozy po jednom projíždí trať s kroucenými pády",
+            "pl-PL": "Zwarta przestrzennie kolejka górska z oddzielnymi wagonikami i gładkimi, krętymi zjazdami",
+            "ru-RU": "Небольшие горки с отдельными кабинками и плавными перепадами."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -102,11 +110,14 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por coche",
             "it-IT": "4 passeggeri per carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-TW": "每輛車限乘4人",
-            "pt-BR": "4 passageiros por vagão"
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 чел. в вагоне"
         }
     }
 }

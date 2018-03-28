@@ -51,14 +51,21 @@
     "images": ["$RCT2:OBJDATA/MINECART.DAT[0..2162]"],
     "strings": {
         "name": {
-            "en-GB": "Mine Cart Ride",
+            "en-GB": "Mine Cart Trains",
             "fr-FR": "Mine en folie",
             "de-DE": "Minenkarren",
             "es-ES": "Atracción Vagonetas",
             "it-IT": "La miniera",
-            "nl-NL": "Mijnwagen-Attractie",
+            "nl-NL": "Mijnkarretjes",
             "sv-SE": "Gruvbana",
-            "zh-CN": "矿车游乐设施"
+            "zh-CN": "矿车游乐设施",
+            "ar-EG": "Mine Cart Trains",
+            "cs-CZ": "Dulní jízda",
+            "en-US": "Mine Cart Trains",
+            "ko-KR": "탄광 카트 차량",
+            "pl-PL": "Wagoniki kopalniane",
+            "pt-BR": "Trens Carro de Mina",
+            "ru-RU": "Вагонетки"
         },
         "description": {
             "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints",
@@ -66,9 +73,13 @@
             "de-DE": "Holzachterbahnzüge mit gepolsterten Sitzen und Beckenhalterungen",
             "es-ES": "Trenes de madera con asientos acolchados y barras de sujeción",
             "it-IT": "Ottovolante percorso da carrozze di legno con sedili imbottiti e barre di sicurezza che bloccano le gambe",
-            "nl-NL": "Houten treintjes met gevulde zittingen en beveiligingen op schoothoogte",
+            "nl-NL": "Houten achtbaantrein met gevoerde zittingen en schootbeugels.",
             "sv-SE": "Berg- och dalbanevagnar av trä med stoppade säten och säkerhetsbälten",
-            "zh-CN": "有装填物的座位及护膝吧装置的木制云霄飞车"
+            "zh-CN": "有装填物的座位及护膝吧装置的木制云霄飞车",
+            "cs-CZ": "Dřevěná horská dráha s vozy s polstrovanými sedadly a opěrkou v klíně",
+            "ko-KR": "푹신한 좌석과 무릎 안전바가 있는 나무 롤러코스터 차량",
+            "pl-PL": "Drewniane wagoniki z wyściełanymi siedzeniami i zabezpieczeniami obejmującymi pasażerów w pasie",
+            "ru-RU": "Деревянные горки со скамейками."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -76,9 +87,13 @@
             "de-DE": "4 pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri per carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "每辆车限乘4人"
+            "zh-CN": "每辆车限乘4人",
+            "cs-CZ": "4 místa v každém voze",
+            "ko-KR": "차량당 4명의 승객",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира в вагоне"
         }
     }
 }

@@ -24,12 +24,16 @@
             "de-DE": "Zuckerwattestand",
             "es-ES": "Puesto de algodón de azúcar",
             "it-IT": "Chiosco dello zucchero filato",
-            "nl-NL": "Suikerspin Kraampje",
+            "nl-NL": "Suikerspinkraam",
             "sv-SE": "Sockervaddsstånd",
             "ko-KR": "솜사탕 가게",
             "zh-CN": "棉花糖店",
             "zh-TW": "棉花糖店",
-            "pt-BR": "Barraca de Algodão-doce"
+            "pt-BR": "Barraca de Algodão-doce",
+            "cs-CZ": "Stánek s cukrovou vatou",
+            "ja-JP": "綿菓子ショップ",
+            "pl-PL": "Kiosk z watą cukrową",
+            "ru-RU": "Кондитерская"
         },
         "description": {
             "en-GB": "A candyfloss shaped building selling pink candyfloss",
@@ -38,12 +42,16 @@
             "de-DE": "Ein Stand in Zuckerwatte-Form, an dem pinkfarbene Zuckerwatte verkauft wird",
             "es-ES": "Un edificio con forma de algodón de azúcar que vende algodón de azúcar rosa",
             "it-IT": "Un edificio a forma di zucchero filato che vende dello zucchero filato rosa",
-            "nl-NL": "Een gebouw in de vorm van een suikerspin waar roze suikerspinnen worden verkocht",
+            "nl-NL": "Een suikerspinvormige kraam waar roze suikerspinnen worden verkocht.",
             "sv-SE": "En sockervaddsformad byggnad där man säljer rosa sockervadd",
-            "ko-KR": "분홍색 솜사탕을 파는 솜사탕 모양 건물",
+            "ko-KR": "분홍색 솜사탕을 파는 솜사탕 모양의 건물",
             "zh-CN": "一间棉花糖式的建筑物在卖粉红色棉色糖",
             "zh-TW": "一間棉花糖式的建築物在賣粉紅色棉花糖",
-            "pt-BR": "Uma construção em forma de algodão-doce, vendendo algodão-doce rosado"
+            "pt-BR": "Uma construção em forma de algodão-doce, vendendo algodão-doce rosado",
+            "cs-CZ": "Stánek prodávající cukrovou vatu",
+            "ja-JP": "ピンク色の綿菓子を売る、綿菓子形の売店です",
+            "pl-PL": "Budynek w kształcie kłębu waty cukrowej, w którym można kupić różową watę cukrową",
+            "ru-RU": "Палатка с конфетами"
         }
     }
 }

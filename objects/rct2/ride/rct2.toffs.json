@@ -24,12 +24,16 @@
             "de-DE": "Karamellapfelstand",
             "es-ES": "Puesto manzanas de caramelo",
             "it-IT": "Chiosco di mele caramellate",
-            "nl-NL": "Kraampje voor Gevulde appels",
+            "nl-NL": "Kraam met gevulde appels",
             "sv-SE": "Äppelklubba",
-            "ko-KR": "땅콩 캔디 가게",
+            "ko-KR": "사과 토피 사탕 가게",
             "zh-CN": "太妃糖苹果店",
             "zh-TW": "太妃糖蘋果店",
-            "pt-BR": "Barraca de Maçã-do-amor"
+            "pt-BR": "Barraca de Maçã-do-amor",
+            "cs-CZ": "Stánek s jablky v županu",
+            "ja-JP": "リンゴ飴店",
+            "pl-PL": "Kiosk z jabłkami w polewie",
+            "ru-RU": "Конфеты"
         },
         "description": {
             "en-GB": "An apple-shaped stall selling toffee apples on a stick",
@@ -38,12 +42,16 @@
             "de-DE": "Ein apfelförmiger Stand, an dem Karamelläpfel am Stiel verkauft werden",
             "es-ES": "Un puesto con forma de manzana que vende manzanas de caramelo",
             "it-IT": "Un chiosco a forma di mela che vende mele caramellate infilzate su un bastoncino",
-            "nl-NL": "Een kraampje in de vorm van een appel dat gevulde appels verkoopt",
+            "nl-NL": "Een appelvormige kraam waar gevulde appels op een stokje worden verkocht.",
             "sv-SE": "Ett äppleformat stånd som säljer äppelklubbor med knäcköverdrag",
-            "ko-KR": "막대기 끝에 달린 사과 모양의 땅콩 캔디를 파는 가게",
+            "ko-KR": "사과 토피 사탕을 막대기에 꽂아 파는 사과 모양의 가게",
             "zh-CN": "一间太妃糖苹果店在卖太妃糖苹果棒",
             "zh-TW": "一間太妃糖蘋果店在賣太妃糖蘋果棒",
-            "pt-BR": "Uma barraca na forma de maça vendendo maçãs-do-amor"
+            "pt-BR": "Uma barraca na forma de maça vendendo maçãs-do-amor",
+            "cs-CZ": "Stánek prodávající jablka v županu na tyčce",
+            "ja-JP": "棒にさしたリンゴアメを売る、リンゴ形の売店です",
+            "pl-PL": "Stoisko w kształcie jabłka, sprzedające jabłka oblane polewą toffi",
+            "ru-RU": "Палатка с яблочными конфетами."
         }
     }
 }

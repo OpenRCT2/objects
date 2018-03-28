@@ -124,11 +124,14 @@
             "de-DE": "Katapult-Attraktion",
             "es-ES": "El viaje en el trabuco",
             "it-IT": "Corsa del trabocco",
-            "nl-NL": "Trebuchet-attractie",
+            "nl-NL": "Trebuchet-topspin",
             "sv-SE": "Trebuchet",
-            "ko-KR": "트레뷰셋 라이드",
+            "ko-KR": "투석기 라이드",
             "zh-TW": "拋石機遊樂設施",
-            "pt-BR": "Brinquedo Trebuchet"
+            "pt-BR": "Brinquedo Trebuchet",
+            "cs-CZ": "Katapultující jízda",
+            "pl-PL": "Trebuszowa jazda",
+            "ru-RU": "Катапульта"
         },
         "description": {
             "en-GB": "Passengers ride in a carriage suspended by two large arms, based on a Dark Age Siege Weapon",
@@ -136,11 +139,14 @@
             "de-DE": "Die Fahrgäste fahren in einem Waggon, der von zwei langen Armen gehalten wird, basierend auf einer Belagerungswaffe aus dem finsteren Mittelalter.",
             "es-ES": "Los pasajeros viajan suspendidos en dos grandes brazos, basados en el arma de asedio medieval.",
             "it-IT": "I passeggeri viaggiano su una carrozza sospesa su due grandi bracci, che richiamano un'arma di assedio del periodo dell'Età Oscura.",
-            "nl-NL": "Passagiers zitten in een rijtuig dat aan twee grote armen hangt, gebaseerd op een Middeleeuws Belegeringswapen.",
+            "nl-NL": "Passagiers zitten in een gondel die is opgehangen aan grote roterende armen, gebaseerd op een middeleeuws belegeringswapen.",
             "sv-SE": "Passagerarna åker i en vagn baserad på ett medeltidsvapen, som hänger i två stora balkar.",
-            "ko-KR": "암흑시대의 무기를 본 딴, 두 개의 거대한 가로대에 매달린 객차를 타는 놀이기구",
+            "ko-KR": "승객들이 암흑 시대의 공성 병기를 기반으로 한 두 개의 거대한 팔에 달린 차량에 타는 놀이기구",
             "zh-TW": "乘客乘坐在依照黑暗時代圍城武器設計，以兩隻手臂懸吊的車廂中",
-            "pt-BR": "Os passageiros viajam numa carruagem suspensa por dois grandes braços, baseada numa catapulta da Idade Média"
+            "pt-BR": "Os passageiros viajam numa carruagem suspensa por dois grandes braços, baseada numa catapulta da Idade Média",
+            "cs-CZ": "Návštěvníci sedí v gondole zavěšené na podpěrách, otáčející se dopředu a dozadu vzhůru nohama, která vypadá jako obléhací zbraň z dávných dob",
+            "pl-PL": "Pasażerowie jadą w wózku zawieszonym na dwóch wielkich ramionach. Atrakcja w stylu średniowiecznej broni oblężniczej",
+            "ru-RU": "Люди качаются в подвешенных вагончиках в стиле осадных орудий."
         },
         "capacity": {
             "en-GB": "8 passengers",
@@ -150,9 +156,12 @@
             "it-IT": "8 passeggeri",
             "nl-NL": "8 passagiers",
             "sv-SE": "8 passagerare",
-            "ko-KR": "정원 8명",
+            "ko-KR": "승객 8명",
             "zh-TW": "限乘8人",
-            "pt-BR": "8 passageiros"
+            "pt-BR": "8 passageiros",
+            "cs-CZ": "8 návštěvníků",
+            "pl-PL": "8 pasażerów",
+            "ru-RU": "8 человек"
         }
     }
 }

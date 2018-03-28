@@ -17,7 +17,11 @@
     "images": ["$RCT2:OBJDATA/WCUZCO21.DAT[0..3]"],
     "strings": {
         "name": {
-            "en-GB": "Monumental Wall Corner Piece"
+            "en-GB": "Monumental Wall Corner Piece",
+            "cs-CZ": "Monumentální rohová stěna",
+            "ko-KR": "기념물 벽 구석 조각",
+            "pl-PL": "Monumentalny narożnik ściany",
+            "ru-RU": "Деталь стены"
         }
     }
 }

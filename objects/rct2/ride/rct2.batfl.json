@@ -47,12 +47,16 @@
             "de-DE": "Schwingwagen",
             "es-ES": "Coches Balancín",
             "it-IT": "Carrozze oscillanti",
-            "nl-NL": "Draaiende Wagentjes",
+            "nl-NL": "Schommelkarretjes",
             "sv-SE": "Gungande vagnar",
-            "ko-KR": "스윙 카",
+            "ko-KR": "스윙잉 차량",
             "zh-CN": "摇摆车",
             "zh-TW": "搖?車",
-            "pt-BR": "Vagões de Balanço"
+            "pt-BR": "Vagões de Balanço",
+            "cs-CZ": "Houpající se vozy",
+            "ja-JP": "スイング車両",
+            "pl-PL": "Dyndające wagoniki",
+            "ru-RU": "Свинг-вагоны."
         },
         "description": {
             "en-GB": "Small cars which swing from the rail above",
@@ -60,12 +64,16 @@
             "de-DE": "Kleine Wagen, die von der darüberliegenden Schiene schwingen",
             "es-ES": "Pequeños vagones que cuelgan del raíl superior",
             "it-IT": "Piccole carrozze che oscillano da sotto la rotaia",
-            "nl-NL": "Kleine wagentjes die draaien aan de rails erboven",
+            "nl-NL": "Kleine karretjes die aan de rail erboven schommelen.",
             "sv-SE": "Små vagnar som gungar under spåret",
-            "ko-KR": "레일 위에서 흔들리며 달리는 조그마한 차",
+            "ko-KR": "레일을 따라 흔들거리는 작은 차량",
             "zh-CN": "小型车辆在铁道上振动摇摆",
             "zh-TW": "小型車輛在鐵道上振動搖?",
-            "pt-BR": "Pequenos vagões que balançam pendurados no trilho acima"
+            "pt-BR": "Pequenos vagões que balançam pendurados no trilho acima",
+            "cs-CZ": "Malé houpající se vozy zavěšené na kolejnici",
+            "ja-JP": "上部のレールからスイングする、小さい車両です",
+            "pl-PL": "Wagoniki podwieszone na górnej szynie",
+            "ru-RU": "Вагончики, качающиеся на рельсе."
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -73,12 +81,16 @@
             "de-DE": "2 Fahrgäste pro Wagen",
             "es-ES": "2 pasajeros por vagón",
             "it-IT": "2 passeggeri a carrozza",
-            "nl-NL": "2 passagiers per wagentje",
+            "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "ko-KR": "차량 정원 2명",
+            "ko-KR": "차량당 2명의 승객",
             "zh-CN": "2 位乘客/每个车厢",
             "zh-TW": "2 位乘客/每個車廂",
-            "pt-BR": "2 passageiros por vagão"
+            "pt-BR": "2 passageiros por vagão",
+            "cs-CZ": "2 místa v každém vozu",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира"
         }
     }
 }

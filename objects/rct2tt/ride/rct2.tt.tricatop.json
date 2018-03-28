@@ -50,11 +50,14 @@
             "de-DE": "Triceratops-Autoskooter-Wagen",
             "es-ES": "Coches de choque Triceratops",
             "it-IT": "Autoscontro Triceratopo",
-            "nl-NL": "Triceratops Dodgem-wagens",
+            "nl-NL": "Triceratopsbotsauto's",
             "sv-SE": "Triceratopsbilar",
-            "ko-KR": "트리케라톱스 닷젬 카",
+            "ko-KR": "트리케라톱스 범퍼카",
             "zh-TW": "三角龍碰碰車",
-            "pt-BR": "Carrinhos de Triceratops"
+            "pt-BR": "Carrinhos de Triceratops",
+            "cs-CZ": "Autodrom s Triceratopsem",
+            "pl-PL": "Dinozaurowe samochodziki",
+            "ru-RU": "Трицерапторы"
         },
         "description": {
             "en-GB": "Riders lock horns with each other in Triceratops dodgem cars",
@@ -62,11 +65,14 @@
             "de-DE": "Die Fahrer liefern sich beim Autoskooter harte Gefechte in Triceratops-Wagen.",
             "es-ES": "Los usuarios se pegan cornadas en los coches de choque Triceratops.",
             "it-IT": "I passeggeri si lanciano uno contro l'altro in auto a forma di Triceratopo.",
-            "nl-NL": "Bezoekers klemmen elkaars hoorns vast in Triceratops Dodgem-wagentjes.",
+            "nl-NL": "De passagiers vatten elkaar bij de horens in triceratopsvormige botsauto's.",
             "sv-SE": "Triceratops-formade radiobilar som förarna kan stångas med.",
-            "ko-KR": "트리케라톱스 닷젬 카에서 승객들이 서로 뿔을 맞부딪히는 놀이기구",
+            "ko-KR": "트리케라톱스 모양의 범퍼카에 타고 서로 함께 부딛히는 차량",
             "zh-TW": "三角龍形碰碰車乘客以角彼此纏鬥",
-            "pt-BR": "Os visitantes batem os chifres entre si em carrinhos de batida de Triceratops"
+            "pt-BR": "Os visitantes batem os chifres entre si em carrinhos de batida de Triceratops",
+            "cs-CZ": "Autodrom s vozy ve tvaru Triceratopsů",
+            "pl-PL": "Pasażerowie jeżdżą samochodzikami w kształcie triceratopsów i atakują się ich rogami",
+            "ru-RU": "Люди катаются в маленьких электромобильчиках."
         },
         "capacity": {
             "en-GB": "1 person per car",
@@ -74,11 +80,14 @@
             "de-DE": "1 Person pro Wagen",
             "es-ES": "1 usuario por coche",
             "it-IT": "1 persona per carrozza",
-            "nl-NL": "1 persoon per wagentje",
+            "nl-NL": "1 passagier per botsauto",
             "sv-SE": "1 person per bil",
-            "ko-KR": "차량 정원 1명",
+            "ko-KR": "차량당 1명의 손님",
             "zh-TW": "每輛車限乘1人",
-            "pt-BR": "1 pessoa por vagão"
+            "pt-BR": "1 pessoa por vagão",
+            "cs-CZ": "1 místo v každém voze",
+            "pl-PL": "Jednomiejscowe",
+            "ru-RU": "1 чел. в машине"
         }
     }
 }

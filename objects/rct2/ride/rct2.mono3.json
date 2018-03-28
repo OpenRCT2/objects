@@ -97,12 +97,16 @@
             "de-DE": "Einschienenzüge im Retro-Look",
             "es-ES": "Trenes Monorrail Estilo Retro",
             "it-IT": "Treni monorotaia retrò",
-            "nl-NL": "Monorail Treinen in Retro-stijl",
+            "nl-NL": "Retro-monorailtreinen",
             "sv-SE": "Enspårståg i retrostil",
-            "ko-KR": "레트로 스타일 모노레일",
+            "ko-KR": "복고풍 모노레일 차량",
             "zh-CN": "复古型单轨列车",
-            "zh-TW": "復古型單軌列車",
-            "pt-BR": "Trens de Monotrilho Estilo Retrô"
+            "zh-TW": "懷舊風格單軌電車",
+            "pt-BR": "Trens de Monotrilho Estilo Retrô",
+            "cs-CZ": "Retro jednokolejné vlaky",
+            "ja-JP": "レトロスタイル・モノレール車両",
+            "pl-PL": "Retrokolejka jednoszynowa",
+            "ru-RU": "Старинный монорельс"
         },
         "description": {
             "en-GB": "Monorail trains with open cabins",
@@ -110,12 +114,16 @@
             "de-DE": "Einschienenzüge mit offenen Kabinen",
             "es-ES": "Monoraíl con cabina abierta",
             "it-IT": "Treni monorotaia dalle cabine aperte",
-            "nl-NL": "Monorail treinen met open cabines",
+            "nl-NL": "Monorailtreinen met open karretjes.",
             "sv-SE": "Enspårståg med öppna hytter",
-            "ko-KR": "뚜껑 없는 모노레일 열차",
+            "ko-KR": "개방형 객차를 가진 모노레일 차량",
             "zh-CN": "以开放式客舱的单轨列车",
-            "zh-TW": "以開放式客艙的單軌列車",
-            "pt-BR": "Trens de monotrilho com cabines abertas"
+            "zh-TW": "使用開放式設計車廂的單軌電車",
+            "pt-BR": "Trens de monotrilho com cabines abertas",
+            "cs-CZ": "Retro jednokolejné vlaky bez oken",
+            "ja-JP": "オープンキャビンを持つモノレールです",
+            "pl-PL": "Otwarte wagoniki jednoszynowe",
+            "ru-RU": "Монорельсовые поезда"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -123,12 +131,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4位乘客/每个车厢",
-            "zh-TW": "4位乘客/每個車廂",
-            "pt-BR": "4 passageiros por carro"
+            "zh-TW": "每車卡4位乘客",
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

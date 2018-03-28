@@ -75,12 +75,16 @@
             "de-DE": "Minihubschrauber",
             "es-ES": "Mini Helicópteros",
             "it-IT": "Mini-elicotteri",
-            "nl-NL": "Mini-Helicopters",
+            "nl-NL": "Minihelikopters",
             "sv-SE": "Minihelikoptrar",
             "ko-KR": "미니 헬리콥터",
             "zh-CN": "矿坑升降机",
             "zh-TW": "礦坑升降機",
-            "pt-BR": "Mini-Helicópteros"
+            "pt-BR": "Mini-Helicópteros",
+            "cs-CZ": "Mini vrtulníky",
+            "ja-JP": "ミニヘリコプター",
+            "pl-PL": "Minihelikoptery",
+            "ru-RU": "Вертолётики"
         },
         "description": {
             "en-GB": "Powered helicopter shaped cars running on a steel track, controlled by the pedalling of the riders",
@@ -89,12 +93,16 @@
             "de-DE": "Helikopterförmige Wagen fahren auf einer Stahlstrecke und werden von den Pedaltritten der Fahrer angetrieben",
             "es-ES": "Vagones con forma de helicópteros corren por una vía de acero controlados por los pedales de los pasajeros",
             "it-IT": "Carrozze a motore a forma di elicotteri corrono lungo un tracciato d'acciaio spinte dalle pedalate dei passeggeri",
-            "nl-NL": "Elektrische wagentjes in de vorm van een helikopter gaan over een stalen baan, en worden bestuurd door het pedaleren van de bezoekers",
+            "nl-NL": "Aangedreven karretjes in de vorm van een helikopter rijden over een stalen baan, bestuurd door het trappen van de passagiers.",
             "sv-SE": "Motordrivna helikopterformade vagnar kör på ett stålspår och styrs med pedaler av passagerarna",
-            "ko-KR": "승객이 직접 페달을 구르며 철제 트랙을 달리는 헬리콥터모양의 차",
+            "ko-KR": "탑승자가 페달을 밟아서 철제 트랙을 따라 움직이는 헬리콥터 모양의 차량",
             "zh-CN": "具动力的升降机外形列车在钢制轨道上运行由乘客的踏板控制速度",
             "zh-TW": "具動力的升降機外形列車在鋼製軌道上運行由乘客的踏板控制速度",
-            "pt-BR": "Vagões em forma de helicópteros correm numa pista de aço, controlados pelas pedaladas dos passageiros"
+            "pt-BR": "Vagões em forma de helicópteros correm numa pista de aço, controlados pelas pedaladas dos passageiros",
+            "cs-CZ": "Po ocelové kolejnici jezdí miniaturní helikoptéry, ovládané šlapáním návštěvníků",
+            "ja-JP": "スチール製コースを走るヘリコプター型の動力付き車両で、乗客がペダルを使って操作します",
+            "pl-PL": "Wagoniki w kształcie helikopterów jadące po stalowym torze, sterowane przez pedałujących pasażerów",
+            "ru-RU": "Машинки в виде вертолетиков."
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -102,12 +110,16 @@
             "de-DE": "2 Fahrgäste pro Wagen",
             "es-ES": "2 pasajeros por vagón",
             "it-IT": "2 passeggeri a carrozza",
-            "nl-NL": "2 passagiers per wagentje",
+            "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "ko-KR": "차량 정원 2명",
+            "ko-KR": "차량당 2명의 승객",
             "zh-CN": "2 位乘客/每个车厢",
             "zh-TW": "2 位乘客/每個車廂",
-            "pt-BR": "2 passageiros por vagão"
+            "pt-BR": "2 passageiros por vagão",
+            "cs-CZ": "2 místa v každém vozu",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 passengers per car"
         }
     }
 }

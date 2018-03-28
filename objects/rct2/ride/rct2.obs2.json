@@ -126,17 +126,23 @@
     "images": ["$RCT2:OBJDATA/OBS2.DAT[0..38]"],
     "strings": {
         "name": {
-            "en-GB": "Double-deck Observation Tower",
+            "en-GB": "Double-deck Cabin",
             "fr-FR": "Tour d'observation 2-ponts",
             "de-DE": "Doppeldecker-Aussichtsturm",
             "es-ES": "Torre de Observación DobleDouble-deck Observation Tower",
             "it-IT": "Torre d'osservazione a due piani",
-            "nl-NL": "Observatietoren, twee verdiepingen",
+            "nl-NL": "Dubbelsdekscabine",
             "sv-SE": "Dubbeldäckat observationstorn",
-            "ko-KR": "2층 전망대",
+            "ko-KR": "2층 전망탑",
             "zh-CN": "双层式了望台",
             "zh-TW": "雙層式瞭望台",
-            "pt-BR": "Torre de Observação de Cabine Dupla"
+            "pt-BR": "Cabine Plataforma dupla",
+            "ar-EG": "Double-deck Cabin",
+            "cs-CZ": "Dvoupatrová vyhlídková věž",
+            "en-US": "Double-deck Cabin",
+            "ja-JP": "二階建て展望台",
+            "pl-PL": "Dwupiętrowa wieża obserwacyjna",
+            "ru-RU": "Наблюдательная башня"
         },
         "description": {
             "en-GB": "Twin-deck rotating observation cabin which travels up a tall tower",
@@ -144,12 +150,16 @@
             "de-DE": "Rotierende Doppeldecker-Aussichtskabine, die sich an einem hohen Turm hinauf bewegt",
             "es-ES": "Cabinas de observación gemelas que viajan hasta una torre alta",
             "it-IT": "Cabina d'osservazione rotante a due piani che sale su un'alta torre",
-            "nl-NL": "Roterende observatiecabine met twee verdiepingen die een hoge toren omhoog gaat",
+            "nl-NL": "Draaiende observatiecabine met twee dekken die langs een verticale toren omhoog gaat.",
             "sv-SE": "Dubbeldäckad roterande observationskabin som åker upp för ett högt torn",
-            "ko-KR": "높은 탑을 빙빙 돌며 올라 가면서 경치를 감상하는 두 층의 객실이 있는 전망대",
+            "ko-KR": "높은 탑을 따라 올라가면서 회전하는 2층 전망대 객실",
             "zh-CN": "双层式观察舱旋转移动到高塔上面",
             "zh-TW": "雙層式觀察艙旋轉移動到高塔上面",
-            "pt-BR": "Cabine dupla giratória de observação que sobe numa torre alta"
+            "pt-BR": "Cabine dupla giratória de observação que sobe numa torre alta",
+            "cs-CZ": "Otáčející se dvoupatrová vyhlídková věž, která postupně vyjíždí na vysokou věž",
+            "ja-JP": "2階建ての展望キャビンが回転しながら高い塔を登ります",
+            "pl-PL": "Obrotowa piętrowa kabina obserwacyjna wjeżdżająca na wysoką wieżę",
+            "ru-RU": "Вращающаяся кабинка поднимается на высокую башню."
         },
         "capacity": {
             "en-GB": "32 passengers",
@@ -159,10 +169,14 @@
             "it-IT": "32 passeggeri",
             "nl-NL": "32 passagiers",
             "sv-SE": "32 passagerare",
-            "ko-KR": "정원 32명",
+            "ko-KR": "승객 32명",
             "zh-CN": "32 位乘客",
             "zh-TW": "32 位乘客",
-            "pt-BR": "32 passageiros"
+            "pt-BR": "32 passageiros",
+            "cs-CZ": "32 návštěvníků",
+            "ja-JP": "定員32名",
+            "pl-PL": "32 pasażerów",
+            "ru-RU": "32 пассажира"
         }
     }
 }

@@ -73,11 +73,14 @@
             "de-DE": "Trilobitenboote",
             "es-ES": "Botes trilobite",
             "it-IT": "Navi trilobiti",
-            "nl-NL": "Trilobite-bootjes",
+            "nl-NL": "Trilobietenbaan",
             "sv-SE": "Trilobitbåtar",
-            "ko-KR": "트릴로바이트 보트",
+            "ko-KR": "삼엽충 보트",
             "zh-TW": "三葉蟲小船",
-            "pt-BR": "Barcos Trilobitas"
+            "pt-BR": "Barcos Trilobitas",
+            "cs-CZ": "Trilobití lodě",
+            "pl-PL": "Trylobitowe łódki",
+            "ru-RU": "Трилобиты"
         },
         "description": {
             "en-GB": "Trilobite shaped cars run on roller coaster track to allow twisting curves and steep drops, splashing down into sections of water for gentle river sections",
@@ -85,11 +88,14 @@
             "de-DE": "Die Wagen in Form von Trilobiten fahren auf einer kurvenreichen Achterbahnstrecke mit steilem Gefälle, Wasserspektakel und sanften Flussabschnitten.",
             "es-ES": "Los vagones con forma de trilobite se desplazan por una montaña rusa de giros cerrados y pronunciadas caídas, pasando por zonas de agua de un río tranquilo.",
             "it-IT": "Carrozze a forma di trilobite viaggiano lungo l'ottovolante, caratterizzato da ripide discese, curve avvitate e tuffi in sezioni acquatiche più tranquille.",
-            "nl-NL": "Trilobite-wagentjes rijden over een achtbaan met draaiende bochten en steile hellingen die in het water neerplonsen voor wat rustigere riviergedeeltes.",
+            "nl-NL": "Bootvormige karretjes in de vorm van trilobiet rijden over achtbaanrails, waardoor ze hellende bochten en diepe afdalingen kunnen maken, waarna ze in bakken water neerplonzen en rustig een stukje kunnen varen.",
             "sv-SE": "Trilobit-formade vagnar åker på berg- och dalbanespår som tillåter snäva kurvor och djupa fall ned till lugnare vattenfyllda sektioner.",
-            "ko-KR": "삼엽충처럼 생긴 보트를 타고 롤러 코스터 트랙을 따라 잔잔한 강물 위로 뒤틀린 커브와 급격한 낙하, 물이 튀는 지역을 지나가는 놀이기구",
+            "ko-KR": "삼엽충 모양의 차량이 꼬인 커브와 낙하로 구성된 롤러코스터 트랙을 따라 내려온 뒤 물보라를 일으키며 부드럽게 강 섹션으로 내려오는 놀이기구",
             "zh-TW": "三葉蟲外形的列車在雲霄飛車的曲線迴轉及陡坡急墜軌道上運行,將平靜的河面激起大量的水花。",
-            "pt-BR": "Vagões em forma de trilobitas correm numa pista de montanha-russa com curvas sinuosas e quedas íngremes, caindo em seções de água e seções suaves de rio"
+            "pt-BR": "Vagões em forma de trilobitas correm numa pista de montanha-russa com curvas sinuosas e quedas íngremes, caindo em seções de água e seções suaves de rio",
+            "cs-CZ": "Vozy ve tvaru trilobitů jedou po trati horské dráhy, což umožňuje ostré zatáčky, strmé klesání a cákající zpomalení pro mírnější říční úseky",
+            "pl-PL": "Wagoniki w kształcie trylobitów jadą po torze, pokonując ostre zakręty i strome zjazdy, i wpadając od czasu do czasu w odcinki rzeczne",
+            "ru-RU": "Лодки в форме трилобитов несутся по головокружительному треку с падениями в воду."
         },
         "capacity": {
             "en-GB": "16 passengers per boat",
@@ -97,11 +103,14 @@
             "de-DE": "16 Fahrgäste pro Boot",
             "es-ES": "16 pasajeros por bote",
             "it-IT": "16 passeggeri per nave",
-            "nl-NL": "16 passagiers per boot",
+            "nl-NL": "6 passagiers per boot",
             "sv-SE": "16 passagerare per båt",
-            "ko-KR": "보트 정원 16명",
+            "ko-KR": "보트당 16명의 승객",
             "zh-TW": "每艘船限乘16人",
-            "pt-BR": "16 passageiros por barco"
+            "pt-BR": "16 passageiros por barco",
+            "cs-CZ": "16 míst v každé lodi",
+            "pl-PL": "16 pasażerów na łódkę",
+            "ru-RU": "16 чел в лодке"
         }
     }
 }

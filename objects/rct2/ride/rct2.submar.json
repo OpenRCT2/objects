@@ -43,17 +43,23 @@
     "images": ["$RCT2:OBJDATA/SUBMAR.DAT[0..90]"],
     "strings": {
         "name": {
-            "en-GB": "Submarine Ride",
+            "en-GB": "Submarines",
             "fr-FR": "Sous-marin",
             "de-DE": "U-Boot-Fahrt",
             "es-ES": "Paseo en Submarino",
             "it-IT": "Corsa sottomarina",
-            "nl-NL": "Attractie met onderzeeër",
+            "nl-NL": "Onderzeeërs",
             "sv-SE": "Undervattensattraktion",
             "ko-KR": "잠수함",
             "zh-CN": "海底旅行Submarine Ride",
             "zh-TW": "海底旅行",
-            "pt-BR": "Brinquedo Submarino"
+            "pt-BR": "Submarinos",
+            "ar-EG": "Submarines",
+            "cs-CZ": "Ponorky",
+            "en-US": "Submarines",
+            "ja-JP": "サブマリンライド",
+            "pl-PL": "Podwodna podróż",
+            "ru-RU": "Подлодки"
         },
         "description": {
             "en-GB": "Riders ride in a submerged submarine through an underwater course",
@@ -61,12 +67,16 @@
             "de-DE": "Die Passagiere fahren in einem U-Boot unter Wasser",
             "es-ES": "Los pasajeros van en un submarino sumergido bajo una vía acuática",
             "it-IT": "I passeggeri si trovano in sottomarini che viaggiano immersi lungo un percorso acquatico",
-            "nl-NL": "Attractie waar passagiers in een onderzeeër door een onderwaterbaan gaan",
+            "nl-NL": "Passagiers rijden over een onderwaterparcours in onderzeeërs.",
             "sv-SE": "Passagerarna åker i en nedsänkt ubåt genom en undervattensbana",
-            "ko-KR": "잠수함이 수중 코스로 운행하는 기구",
+            "ko-KR": "수면 아래 코스를 이동하는 잠수함에 탑승하는 놀이기구",
             "zh-CN": "乘客坐在水中的潜艇在水面下游动参观",
             "zh-TW": "乘客坐在水中的潛艇在水面下游動參觀",
-            "pt-BR": "Os passageiros andam num submarino submerso por um percurso subaquático"
+            "pt-BR": "Os passageiros andam num submarino submerso por um percurso subaquático",
+            "cs-CZ": "Návštěvníci vyrazí na podvodní jízdu v ponorce",
+            "ja-JP": "水中のコースを、潜水艦に乗り込んで進む乗物です",
+            "pl-PL": "Pasażerowie usadowieni w łodzi podwodnej podróżują podwodnym torem",
+            "ru-RU": "Люди плавают на подводных лодках"
         },
         "capacity": {
             "en-GB": "4 passengers per submarine",
@@ -76,10 +86,14 @@
             "it-IT": "4 passeggeri a sottomarino",
             "nl-NL": "4 passagiers per onderzeeër",
             "sv-SE": "4 passagerare per ubåt",
-            "ko-KR": "잠수함 당 승객 4명",
+            "ko-KR": "잠수함당 4명의 승객",
             "zh-CN": "4 位乘客 /每艘潜艇",
             "zh-TW": "4 位乘客 /每艘潛艇",
-            "pt-BR": "4 passageiros por submarino"
+            "pt-BR": "4 passageiros por submarino",
+            "cs-CZ": "4 návštěvníci v každé ponorce",
+            "ja-JP": "各鑑4名",
+            "pl-PL": "4 pasażerów na łódţ podwodną",
+            "ru-RU": "4 Пассажира"
         }
     }
 }

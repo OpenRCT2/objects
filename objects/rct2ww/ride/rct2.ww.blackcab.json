@@ -57,14 +57,21 @@
     "images": ["$RCT2:OBJDATA/BLACKCAB.DAT[0..242]"],
     "strings": {
         "name": {
-            "en-GB": "London Taxi Black Cab Ride",
+            "en-GB": "Black Cabs",
             "fr-FR": "Taxis londoniens",
             "de-DE": "Londoner Taxi-Bahn",
             "es-ES": "Atracción de taxi londinense negro",
             "it-IT": "Corsa sui taxi neri di Londra",
-            "nl-NL": "Attractie met Zwarte Taxi's uit Londen",
+            "nl-NL": "Londonse taxi's",
             "sv-SE": "Svart London-taxi",
-            "zh-CN": "伦敦出租车游乐设施"
+            "zh-CN": "伦敦出租车游乐设施",
+            "ar-EG": "Black Cabs",
+            "cs-CZ": "Autodráha s Londýnskými taxíky",
+            "en-US": "Black Cabs",
+            "ko-KR": "런던 택시",
+            "pl-PL": "Przejażdżka londyńską taksówką",
+            "pt-BR": "Taxis Pretos",
+            "ru-RU": "Лондонское такси"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of London Taxis",
@@ -72,9 +79,13 @@
             "de-DE": "Fahrzeuge mit Eigenantrieb und dem Aussehen von Londoner Taxis.",
             "es-ES": "Vehículos eléctricos con la forma de taxis londinenses",
             "it-IT": "Veicoli semoventi a forma di taxi londinesi",
-            "nl-NL": "Aangedreven wagentjes in de vorm van Taxi's uit Londen",
+            "nl-NL": "Elektrische voertuigen in de vorm van een Londense taxi.",
             "sv-SE": "Eldrivna taxibilar av London-typ",
-            "zh-CN": "以伦敦出租车为外型具动力的载运工具"
+            "zh-CN": "以伦敦出租车为外型具动力的载运工具",
+            "cs-CZ": "Vozy ve tvaru Londýnských taxíků jezdí po postavené dráze",
+            "ko-KR": "런던 택시 모양의 차량",
+            "pl-PL": "Pojazdy z napędem zbudowane na wzór czarnych londyńskich taksówek",
+            "ru-RU": "Лондонское такси"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -82,9 +93,13 @@
             "de-DE": "2 pro Wagen",
             "es-ES": "2 pasajeros por vagón",
             "it-IT": "2 passeggeri per carrozza",
-            "nl-NL": "2 passagiers per wagentje",
+            "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per bil",
-            "zh-CN": "每辆车限乘2人"
+            "zh-CN": "每辆车限乘2人",
+            "cs-CZ": "2 místa v každém voze",
+            "ko-KR": "차량당 2명의 승객",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира"
         }
     }
 }

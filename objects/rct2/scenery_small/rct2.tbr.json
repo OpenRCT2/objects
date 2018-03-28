@@ -15,17 +15,21 @@
     "images": ["$RCT2:OBJDATA/TBR.DAT[0..3]"],
     "strings": {
         "name": {
-            "en-GB": "Bullrushes",
+            "en-GB": "Bulrushes",
             "fr-FR": "Roseaux",
             "de-DE": "Rohrkolben",
             "es-ES": "Gladiolos",
             "it-IT": "Giunchi",
             "nl-NL": "Riet",
             "sv-SE": "Vass",
-            "ko-KR": "고랭이 관목",
+            "ko-KR": "부들",
             "zh-CN": "香蒲",
             "zh-TW": "香蒲",
-            "pt-BR": "Junco"
+            "pt-BR": "Junco",
+            "cs-CZ": "Rákos",
+            "ja-JP": "ガマ",
+            "pl-PL": "Sitowie",
+            "ru-RU": "Камыш"
         }
     }
 }

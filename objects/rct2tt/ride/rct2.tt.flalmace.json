@@ -135,11 +135,14 @@
             "de-DE": "Streitkolben-Attraktion",
             "es-ES": "Viaje de la maza",
             "it-IT": "Corsa del martello",
-            "nl-NL": "Goedendag-attractie",
+            "nl-NL": "Goedendags",
             "sv-SE": "Spikklubba",
             "ko-KR": "메이스 라이드",
             "zh-TW": "硬頭錘遊樂設施",
-            "pt-BR": "Brinquedo de Maça"
+            "pt-BR": "Brinquedo de Maça",
+            "cs-CZ": "Palicová jízda",
+            "pl-PL": "Jazda na maczudze",
+            "ru-RU": "Булавы"
         },
         "description": {
             "en-GB": "Riders sit on a themed chair which is attached to a motor driven spinning arm.",
@@ -147,11 +150,14 @@
             "de-DE": "Die Fahrgäste sitzen auf einem thematisch gestalteten Sessel, der an einem motorbetriebenen Dreharm befestigt ist.",
             "es-ES": "Los usuarios se sientan en un asiento ambientado en la época que está unido a un brazo giratorio.",
             "it-IT": "I passeggeri siedono su un sedile speciale, collegato a un braccio rotante controllato da un motore.",
-            "nl-NL": "Bezoekers zitten op een thematische stoel die bevestigd is aan een door een motor aangedreven arm.",
+            "nl-NL": "Passagiers zitten op stoel in de vorm van een goedendag die ronddraait aan een paal.",
             "sv-SE": "Passagerarna sitter på stolar fastsatta på en motordriven snurrande arm.",
-            "ko-KR": "모터로 회전하는 가로대에 부착된 테마 의자",
+            "ko-KR": "탑승객이 모터에 의해 회전하는 팔에 달린 의자에 앉아서 즐기는 놀이기구",
             "zh-TW": "乘客乘坐在此主題的座椅上，座椅連接至以發動機驅動的旋轉手臂上。",
-            "pt-BR": "Os visitantes sentam numa cadeira temática que é presa a um braço giratório motorizado"
+            "pt-BR": "Os visitantes sentam numa cadeira temática que é presa a um braço giratório motorizado",
+            "cs-CZ": "Návštěvníci sedí na židlích připevněných na otáčející se ramena",
+            "pl-PL": "Pasażerowie siedzą w stylizowanym wagoniku, przymocowanym do napędzanego obrotowego ramienia",
+            "ru-RU": "Люди сидят в кресле, вращающемся вокруг шеста."
         },
         "capacity": {
             "en-GB": "1 guest per chair",
@@ -159,11 +165,14 @@
             "de-DE": "1 Fahrgast pro Sessel",
             "es-ES": "1 usuario por asiento",
             "it-IT": "1 occupante per sedile",
-            "nl-NL": "1 gast per stoel",
+            "nl-NL": "1 bezoeker per stoel",
             "sv-SE": "1 passagerare per stol",
-            "ko-KR": "1인승",
+            "ko-KR": "의자당 1명의 승객",
             "zh-TW": "每座限乘1人",
-            "pt-BR": "1 visitante por cadeira"
+            "pt-BR": "1 visitante por cadeira",
+            "cs-CZ": "1 místo na každé židli",
+            "pl-PL": "1 osoba na wagonik",
+            "ru-RU": "1 чел. в кресле"
         }
     }
 }

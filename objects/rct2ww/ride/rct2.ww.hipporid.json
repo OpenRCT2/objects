@@ -43,14 +43,21 @@
     "images": ["$RCT2:OBJDATA/HIPPORID.DAT[0..90]"],
     "strings": {
         "name": {
-            "en-GB": "Hippo Ride",
+            "en-GB": "Hippo Submarines",
             "fr-FR": "Hippopotame",
             "de-DE": "Nilpferdbahn",
             "es-ES": "Atracción Hipopótamo",
             "it-IT": "L'ippopotamo",
-            "nl-NL": "Hippo-Attractie",
+            "nl-NL": "Nijlpaardonderzeeërs",
             "sv-SE": "Flodhästbåt",
-            "zh-CN": "河马游乐设施"
+            "zh-CN": "河马游乐设施",
+            "ar-EG": "غواصات الهيبو",
+            "cs-CZ": "Hroší jízda",
+            "en-US": "Hippo Submarines",
+            "ko-KR": "하마 잠수함",
+            "pl-PL": "Przejażdżka hipopotamem",
+            "pt-BR": "Submarinos Hipopótamo",
+            "ru-RU": "Гиппопотам"
         },
         "description": {
             "en-GB": "Riders ride in a submerged submarine through an underwater course",
@@ -58,9 +65,13 @@
             "de-DE": "Die Fahrgäste fahren in einem U-Boot auf einer Unterwasserstrecke",
             "es-ES": "Los pasajeros montan en un submarino sumergido que viaja por una ruta submarina",
             "it-IT": "I passeggeri entrano in un sottomarino che si muove lungo un percorso subacqueo",
-            "nl-NL": "De passagiers zitten in een ondergedoken onderzeeër en volgen onderwater een baan",
+            "nl-NL": "Passagiers rijden over een onderwaterparcours in onderzeeërs.",
             "sv-SE": "En upphängd ubåt som följer en undervattensbana",
-            "zh-CN": "乘客乘坐在水中的潜艇在水中顺着水流行进"
+            "zh-CN": "乘客乘坐在水中的潜艇在水中顺着水流行进",
+            "cs-CZ": "Návštěvníci vyrazí na podvodní jízdu v ponorce",
+            "ko-KR": "수면 아래 코스를 이동하는 잠수함에 탑승하는 놀이기구",
+            "pl-PL": "Pasażerowie podróżują podwodnym torem, usadowieni w łodzi podwodnej",
+            "ru-RU": "Путешествие на субмарине по подводной трассе."
         },
         "capacity": {
             "en-GB": "5 passengers per car",
@@ -68,9 +79,13 @@
             "de-DE": "5 pro Wagen",
             "es-ES": "pasajeros por vehículo",
             "it-IT": "passeggeri per carrozza",
-            "nl-NL": "passagiers per wagentje",
+            "nl-NL": "5 passagiers per onderzeeër",
             "sv-SE": "passagerare per båt",
-            "zh-CN": "?每辆车限乘?人"
+            "zh-CN": "?每辆车限乘?人",
+            "cs-CZ": "5 míst v každé ponorce",
+            "ko-KR": "차량당 5명의 승객",
+            "pl-PL": "5 pasażerów na wagonik",
+            "ru-RU": "5 человек в вагоне"
         }
     }
 }

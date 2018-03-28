@@ -87,30 +87,42 @@
     "images": ["$RCT2:OBJDATA/BMSD.DAT[0..3350]"],
     "strings": {
         "name": {
-            "en-GB": "Twister Roller Coaster",
+            "en-GB": "Twister Trains",
             "fr-FR": "Montagnes tornado",
             "de-DE": "Twister-Achterbahn",
             "es-ES": "Montaña Rusa Tornado",
             "it-IT": "Ottovolante contorsionista",
-            "nl-NL": "Draaiende Achtbaan",
+            "nl-NL": "Twistertrein",
             "sv-SE": "Twistberg- och dalbana",
-            "ko-KR": "트위스터 롤러코스터",
+            "ko-KR": "트위스터 열차",
             "zh-CN": "旋风式过山车",
             "zh-TW": "旋風式雲霄飛車",
-            "pt-BR": "Montanha-russa Tornado"
+            "pt-BR": "Trens Tornado",
+            "ar-EG": "Twister Trains",
+            "cs-CZ": "Zakroucená horská dráha",
+            "en-US": "Twister Trains",
+            "ja-JP": "ツイスター・ジェットコースター",
+            "pl-PL": "Zwijka",
+            "ru-RU": "Твистер-коастер"
         },
         "description": {
-            "en-GB": "Wide roller coaster trains glide along smooth steel track, traveling through a variety of inversions",
+            "en-GB": "A spacious train with shoulder restraints",
             "fr-FR": "De larges trains glissent le long de montagnes russes métalliques régulières proposant un grand éventail d'inversions",
             "de-DE": "Breite Achterbahnzüge gleiten auf glatten Stahlschienen mit verdrehter Streckenführung",
             "es-ES": "Montaña rusa amplia sobre vías de acero que efectúa varias inversiones",
             "it-IT": "Dei grandi treni sfrecciano su un tracciato di acciaio passando per tutta una serie di inversioni",
-            "nl-NL": "Grote treinen glijden over een soepele stalen achtbaan die door verschillende loopings gaat",
+            "nl-NL": "Brede achtbaantrein die langs de soepele stalen baan glijdt en door diverse soorten omkeringen gaat.",
             "sv-SE": "Ett brett berg- och dalbanetåg som glider längs mjuka stålskenor, åker genom en blandning av omvändningar",
-            "ko-KR": "부드러운 철로를 따라 내려오면서 여러 번의 전복을 경험할 수 있는 넓은 롤러코스터 열차",
+            "ko-KR": "여러 종류의 루프를 돌면서 부드러운 강철 트랙을 달리는 넓은 롤러코스터 차량",
             "zh-CN": "过山车列车延着平滑的轨道上一起穿过多变反转式的钢制轨道滑行",
             "zh-TW": "雲霄飛車列車延著平滑的軌道上一起穿過多變反轉式的鋼製軌道滑行",
-            "pt-BR": "Trens largos andam por uma pista lisa de aço, passando por uma variedade de inversões"
+            "pt-BR": "Um trem espaçoso com travas de ombro",
+            "ar-EG": "A spacious train with shoulder restraints",
+            "cs-CZ": "Rozměrná horská dráha s vozy vybavenými ramenními opěrkami",
+            "en-US": "A spacious train with shoulder restraints",
+            "ja-JP": "さまざまな反転を持つスムーズなスチールコースを滑走する幅広のローラーコースターです",
+            "pl-PL": "Szerokie wagoniki suną po gładkim stalowym torze, pokonując liczne ostre zakręty",
+            "ru-RU": "Широкие поезда скользят по гладким рельсам со множеством поворотов"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -118,12 +130,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por carro"
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

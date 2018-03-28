@@ -36,10 +36,14 @@
             "it-IT": "Bancomat",
             "nl-NL": "Geldautomaat",
             "sv-SE": "Bankautomat",
-            "ko-KR": "현금 인출기",
+            "ko-KR": "ATM 기기",
             "zh-CN": "提款机",
             "zh-TW": "提款機",
-            "pt-BR": "Caixa Eletrônico"
+            "pt-BR": "Caixa Eletrônico",
+            "cs-CZ": "Bankomat",
+            "ja-JP": "ATM",
+            "pl-PL": "Bankomat",
+            "ru-RU": "Банкомат"
         },
         "description": {
             "en-GB": "An A.T.M. (Cash Machine) for guests to use if they run low on funds",
@@ -47,12 +51,16 @@
             "de-DE": "Ein Geldautomat für Besucher, falls ihnen das Bargeld ausgeht",
             "es-ES": "Un cajero automático para que los visitantes saquen si andan cortos de dinero",
             "it-IT": "Un bancomat (ATM) che i visitatori possono usare se sono a corto di denaro",
-            "nl-NL": "Een geldautomaat waar bezoekers geld kunnen halen als ze krap komen te zitten",
+            "nl-NL": "Een geldautomaat die de bezoekers kunnen gebruiken als ze bijna door hun contante geld heen zijn.",
             "sv-SE": "En bankautomat som gästerna kan använda om de använder alla sina pengar",
-            "ko-KR": "돈이 부족할 때 이용할 수 있는 기계",
+            "ko-KR": "손님들이 가진 돈이 떨어졌을 때 돈을 찾을 수 있는 ATM 기기",
             "zh-CN": "一台提款机可以提供游客钱花光时可以提领现金",
             "zh-TW": "一台提款機可以提供遊客錢花光時可以提領現金",
-            "pt-BR": "Um posto bancário eletrônico para os visitantes usarem se ficarem com pouco dinheiro"
+            "pt-BR": "Um posto bancário eletrônico para os visitantes usarem se ficarem com pouco dinheiro",
+            "cs-CZ": "Bankomat pro návštěvníky, kterým by došla hotovost",
+            "ja-JP": "所持金を使い果たした来園客が利用する、ATM(キャッシュディスペンサー)です",
+            "pl-PL": "Maszynka z pieniędzmi - dla gości, którzy wszystko już wydali",
+            "ru-RU": "Банкомат"
         }
     }
 }

@@ -82,17 +82,23 @@
     "images": ["$RCT2:OBJDATA/PMT1.DAT[0..1822]"],
     "strings": {
         "name": {
-            "en-GB": "Mine Ride",
+            "en-GB": "Powered mine train",
             "fr-FR": "Mineur",
             "de-DE": "Minenbahn",
             "es-ES": "Trenes Mineros",
             "it-IT": "Corsa in miniera",
-            "nl-NL": "Mijnattractie",
+            "nl-NL": "Aangedreven mijntrein",
             "sv-SE": "Gruvattraktion",
-            "ko-KR": "마인 라이드",
+            "ko-KR": "탄광 차량",
             "zh-CN": "矿坑列车",
             "zh-TW": "礦坑列車",
-            "pt-BR": "Brinquedo de Mina"
+            "pt-BR": "Trens de Mina Motorizados",
+            "ar-EG": "Powered mine train",
+            "cs-CZ": "Důlní jízda",
+            "en-US": "Powered mine train",
+            "ja-JP": "マイン・ライド",
+            "pl-PL": "Przejażdżka kopalniana",
+            "ru-RU": "Рудник"
         },
         "description": {
             "en-GB": "Powered mine trains career along a smooth and twisted track layout",
@@ -100,12 +106,16 @@
             "de-DE": "Angetriebene Minenzüge fahren auf einer gemäßigten und verwundenen Strecke",
             "es-ES": "Trenes mineros autopropulsados corren a lo largo de una vía enredada",
             "it-IT": "Treni a motore da miniera si fanno strada lungo un tracciato pianeggiante ma pieno di curve",
-            "nl-NL": "Elektrische mijntreinen rijden over een vloeiende en draaiende baan",
+            "nl-NL": "Aangedreven mijntreinen rijden over een soepele en kronkelende baan.",
             "sv-SE": "Motordrivna gruvtåg rusar längs en mjuk tvinnad spårlayout",
-            "ko-KR": "뒤틀린 트랙을 미끄러져 내려오는 광물 운반차",
+            "ko-KR": "부드럽게 꼬인 트랙 구조를 따라 달리는 탄광 차량",
             "zh-CN": "具动力式矿坑列车冲向平滑旋转式轨道上",
             "zh-TW": "具動力式礦坑列車衝向平滑旋轉式軌道上",
-            "pt-BR": "Trens de mina correm por uma pista plana e sinuosa"
+            "pt-BR": "Trens de mina correm por uma pista plana e sinuosa",
+            "cs-CZ": "Horská dráha s vozy ve stylu důlních vagónů, které jedou po hladkých kolejnicích skrze propletenou dráhu",
+            "ja-JP": "動力付きの鉱山列車がスムーズでひねりのあるコースを進む乗物です",
+            "pl-PL": "Napędzane wagoniki kopalniane jadą po gładkim i zakręconym torze",
+            "ru-RU": "Шахтёрские поезда несутся по сложному треку."
         },
         "capacity": {
             "en-GB": "2 or 4 passengers per car",
@@ -113,12 +123,16 @@
             "de-DE": "2 bzw. 4 Fahrgäste pro Wagen",
             "es-ES": "2 ó 4 pasajeros por vagón",
             "it-IT": "2 o 4 passeggeri a carrozza",
-            "nl-NL": "2 of 4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje (voorste karretje 2)",
             "sv-SE": "2 eller 4 passagerare per vagn",
-            "ko-KR": "차량 정원 2-4명",
+            "ko-KR": "차량당 2명 또는 4명의 승객",
             "zh-CN": "2 或 4 位乘客/每个车厢",
             "zh-TW": "2 或 4 位乘客/每個車廂",
-            "pt-BR": "2 ou 4 passageiros por vagão"
+            "pt-BR": "2 ou 4 passageiros por vagão",
+            "cs-CZ": "2 nebo 4 místa v každém voze",
+            "ja-JP": "各車両2名または4名",
+            "pl-PL": "2 lub 4 pasażerów na wagonik",
+            "ru-RU": "2 или 4 пассажира"
         }
     }
 }

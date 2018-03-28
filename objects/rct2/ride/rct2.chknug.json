@@ -23,12 +23,16 @@
             "de-DE": "Chicken Nuggets-Stand",
             "es-ES": "Puesto de nuggets",
             "it-IT": "Chiosco crocchette di pollo",
-            "nl-NL": "Kraampje Gebakken Kip",
+            "nl-NL": "Kipnuggetskraam",
             "sv-SE": "Chicken Nuggets-stånd",
-            "ko-KR": "치킨 너겟 판매점",
+            "ko-KR": "치킨 너겟 가게",
             "zh-CN": "香鸡肉珍品店",
             "zh-TW": "香雞肉珍品店",
-            "pt-BR": "Barraca de Nuggets de Frango"
+            "pt-BR": "Barraca de Nuggets de Frango",
+            "cs-CZ": "Stánek s kuřecími nugety",
+            "ja-JP": "チキンナゲット・ショップ",
+            "pl-PL": "Kiosk z kotlecikami z kurczaka",
+            "ru-RU": "Куры-гриль"
         },
         "description": {
             "en-GB": "A stall selling fried chicken nuggets",
@@ -36,12 +40,16 @@
             "de-DE": "Ein Stand, an dem Chicken Nuggets verkauft werden",
             "es-ES": "Puesto que vende trozos de pollo frito",
             "it-IT": "Un chiosco che vende crocchette di pollo",
-            "nl-NL": "Een kraampje dat gebakken stukjes kip verkoopt",
+            "nl-NL": "Een kraam waar kipnuggets worden verkocht.",
             "sv-SE": "Ett stånd som säljer friterade kycklingbitar",
-            "ko-KR": "후라이드 치킨 너겟을 파는 판매점",
+            "ko-KR": "프라이드 치킨 너겟을 파는 가게",
             "zh-CN": "一家卖炸鸡肉的店",
             "zh-TW": "一家賣炸雞肉的店",
-            "pt-BR": "Uma barraca vendendo nuggets fritos de frango"
+            "pt-BR": "Uma barraca vendendo nuggets fritos de frango",
+            "cs-CZ": "Stánek prodávající kuřecí nugety",
+            "ja-JP": "チキンナゲットを売る売店です",
+            "pl-PL": "Stoisko sprzedające pieczone kotleciki z kurczaka",
+            "ru-RU": "Палатка, где продают куры-гриль."
         }
     }
 }

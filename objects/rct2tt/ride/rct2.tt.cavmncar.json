@@ -73,11 +73,14 @@
             "de-DE": "Höhlenmenschen-Wagen",
             "es-ES": "Coches cavernícolas",
             "it-IT": "Carrozze dei cavernicoli",
-            "nl-NL": "Holbewonerwagens",
+            "nl-NL": "Holbewoners-go-karts",
             "sv-SE": "Grottbilar",
-            "ko-KR": "케이브맨 카",
+            "ko-KR": "석기시대 차",
             "zh-TW": "原始人列車",
-            "pt-BR": "Carros de Homens das Cavernas"
+            "pt-BR": "Carros de Homens das Cavernas",
+            "cs-CZ": "Prehistorické motokáry",
+            "pl-PL": "Jaskiniowe samochodziki",
+            "ru-RU": "Пещ. машины"
         },
         "description": {
             "en-GB": "Riders race each other in Stone-Age Go-Karts",
@@ -85,11 +88,14 @@
             "de-DE": "Die Fahrer fahren Rennen mit Gokarts aus der Steinzeit",
             "es-ES": "Los usuarios compiten en los karts de la edad de piedra",
             "it-IT": "I passeggeri si sfidano su go-kart dell'Età della Pietra",
-            "nl-NL": "Bezoekers racen tegen elkaar in Steentijd-karts.",
+            "nl-NL": "Passagiers racen in go-karts met een steentijdthema.",
             "sv-SE": "Förarna tävlar mot varandra i stenåldersgokarts.",
-            "ko-KR": "석기시대 고 카트 경주",
+            "ko-KR": "석기시대의 고 카트에 타고 레이스를 펼치는 놀이기구",
             "zh-TW": "乘客以石器時代高卡賽車彼此競速",
-            "pt-BR": "Os visitantes correm entre si em Karts da Idade da Pedra"
+            "pt-BR": "Os visitantes correm entre si em Karts da Idade da Pedra",
+            "cs-CZ": "Benzínové ovladatelné motokáry ve stylu pravěku",
+            "pl-PL": "Pasażerowie ścigają się gokartami w stylu epoki kamiennej",
+            "ru-RU": "Люди гоняются на стильных машинках"
         },
         "capacity": {
             "en-GB": "Single-seater",
@@ -97,11 +103,14 @@
             "de-DE": "Einsitzer",
             "es-ES": "Monoplaza",
             "it-IT": "Un solo passeggero",
-            "nl-NL": "Eenzitter",
+            "nl-NL": "1 persoon per kart",
             "sv-SE": "Ensitsig",
             "ko-KR": "1인승",
             "zh-TW": "單一乘客",
-            "pt-BR": "Assento único"
+            "pt-BR": "Assento único",
+            "cs-CZ": "1 místo v každém voze",
+            "pl-PL": "Jednomiejscowe",
+            "ru-RU": "Одиночные"
         }
     }
 }

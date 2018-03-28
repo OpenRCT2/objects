@@ -105,24 +105,38 @@
     "images": ["$RCT2:OBJDATA/GRATWHTE.DAT[0..4470]"],
     "strings": {
         "name": {
-            "en-GB": "Great White Shark Ride",
+            "en-GB": "Great White Shark Trains",
             "fr-FR": "Grand requin blanc",
             "de-DE": "Weißer Hai-Bahn",
             "es-ES": "Atracción Gran Tiburón Blanco",
             "it-IT": "Il grande squalo bianco",
-            "nl-NL": "Attractie Grote Witte Haai",
+            "nl-NL": "Haaientrein",
             "sv-SE": "Vita hajen",
-            "zh-CN": "巨大的大白鲨游乐设施"
+            "zh-CN": "巨大的大白鲨游乐设施",
+            "ar-EG": "Great White Shark Trains",
+            "cs-CZ": "Žraločí horská dráha",
+            "en-US": "Great White Shark Trains",
+            "ko-KR": "대백상어 차량",
+            "pl-PL": "Wielki biały rekin",
+            "pt-BR": "Trens Grande Tubarão Branco",
+            "ru-RU": "Белая акула"
         },
         "description": {
-            "en-GB": "Spacious trains with simple lap restraints",
+            "en-GB": "Trains with shoulder restraints, in the shape of a Great White Shark",
             "fr-FR": "Train spacieux disposant d'une simple barre de protection au niveau des jambes",
             "de-DE": "Geräumige Züge mit einfachen Beckenhalterungen",
             "es-ES": "Trenes espaciosos con simples barras de sujeción",
             "it-IT": "Usa ampie carrozze con semplici cinture di sicurezza",
-            "nl-NL": "Ruime treintjes met eenvoudige beveiliging op schoothoogte",
+            "nl-NL": "Trein in de vorm van een grote witte haai.",
             "sv-SE": "Rymliga vagnar med enkel fastspänning",
-            "zh-CN": "?有简单护膝的宽敞列车"
+            "zh-CN": "?有简单护膝的宽敞列车",
+            "ar-EG": "Trains with shoulder restraints, in the shape of a Great White Shark",
+            "cs-CZ": "Horská dríha s vozy vybavenými ramenní opěrkou, které připomínají žraloka bílého",
+            "en-US": "Trains with shoulder restraints, in the shape of a Great White Shark",
+            "ko-KR": "어깨 안전바가 있는 대백상어 모양의 차량",
+            "pl-PL": "Przestronne wagoniki z prostymi zabezpieczeniami obejmującymi pasażerów w pasie",
+            "pt-BR": "Trens com travas de ombro, moldados como um Grande Tubarão Branco",
+            "ru-RU": "Просторные поезда с ремнем безопасности"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -130,9 +144,13 @@
             "de-DE": "6 pro Wagen",
             "es-ES": "6 pasajeros por vagón",
             "it-IT": "6 passeggeri per carrozza",
-            "nl-NL": "6 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "6 passagerare per vagn",
-            "zh-CN": "? 每辆车限乘6人"
+            "zh-CN": "? 每辆车限乘6人",
+            "cs-CZ": "6 míst v každém voze",
+            "ko-KR": "차량당 6명의 승객",
+            "pl-PL": "6 pasażerów na wagonik",
+            "ru-RU": "6 человек на вагон"
         }
     }
 }

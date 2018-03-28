@@ -17,7 +17,11 @@
     "images": ["$RCT2:OBJDATA/WAZTEC20.DAT[0..3]"],
     "strings": {
         "name": {
-            "en-GB": "Temple Stairway Piece"
+            "en-GB": "Temple Stairway Piece",
+            "cs-CZ": "Chrámové schody",
+            "ko-KR": "사원 계단 조각",
+            "pl-PL": "Segment schodów świątynnych",
+            "ru-RU": "Деталь Ступеней"
         }
     }
 }

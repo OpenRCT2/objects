@@ -23,12 +23,16 @@
             "de-DE": "Heiße Schokolade-Stand",
             "es-ES": "Puesto de chocolate caliente",
             "it-IT": "Chiosco della cioccolata calda",
-            "nl-NL": "Kraampje Warme Chocolademelk",
+            "nl-NL": "Warmechocolademelkkraam",
             "sv-SE": "Varm chokladstånd",
             "ko-KR": "핫초코 가게",
             "zh-CN": "热巧克力店",
             "zh-TW": "熱巧克力店",
-            "pt-BR": "Barraca de Chocolate Quente"
+            "pt-BR": "Barraca de Chocolate Quente",
+            "cs-CZ": "Stánek s horkou čokoládou",
+            "ja-JP": "ホットココア・ショップ",
+            "pl-PL": "Stragan z grzaną czekoladą",
+            "ru-RU": "Горячий шоколад"
         },
         "description": {
             "en-GB": "A stall selling hot chocolate drinks",
@@ -36,12 +40,16 @@
             "de-DE": "Ein Stand, an dem heiße Schokolade verkauft wird",
             "es-ES": "Puesto que vende chocolate caliente",
             "it-IT": "Un chiosco che vende cioccolate calde",
-            "nl-NL": "Een kraampje dat Warme Chocolademelk verkoopt",
+            "nl-NL": "Een kraam waar warme chocolademelk wordt verkocht.",
             "sv-SE": "Ett stånd som säljer varma chokladdrinkar",
-            "ko-KR": "핫초코를 파는 건물",
+            "ko-KR": "핫초코 음료를 파는 가게",
             "zh-CN": "一家卖热巧克力饮料的店",
             "zh-TW": "一家賣熱巧克力飲料的店",
-            "pt-BR": "Uma barraca vendendo copos de chocolate quente"
+            "pt-BR": "Uma barraca vendendo copos de chocolate quente",
+            "cs-CZ": "Stánek prodávající horkou čokoládu",
+            "ja-JP": "ホットチョコレートを売る売店です",
+            "pl-PL": "Stragan z czekoladą do picia.",
+            "ru-RU": "Палатка с горячим шоколадом"
         }
     }
 }

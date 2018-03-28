@@ -59,12 +59,16 @@
             "de-DE": "Raketenwagen",
             "es-ES": "Coches Cohete",
             "it-IT": "Razzi",
-            "nl-NL": "Racketwagentjes",
+            "nl-NL": "Raketkarretjes",
             "sv-SE": "Stenvagnar",
-            "ko-KR": "로켓 자동차",
+            "ko-KR": "로켓 차량",
             "zh-CN": "火箭车",
             "zh-TW": "火箭車",
-            "pt-BR": "Carros-foguetes"
+            "pt-BR": "Carros-foguetes",
+            "cs-CZ": "Raketová auta",
+            "ja-JP": "ロケットカー",
+            "pl-PL": "Samochody rakietowe",
+            "ru-RU": "Ракеты"
         },
         "description": {
             "en-GB": "Roller coaster cars themed to look like rockets",
@@ -72,12 +76,16 @@
             "de-DE": "Achterbahnwagen, die aussehen wie Raketen",
             "es-ES": "Montaña rusa con vagones en forma de cohetes",
             "it-IT": "Carrozze di ottovolante a forma di razzi",
-            "nl-NL": "Achtbaanwagentjes die als raketten zijn vormgeven",
+            "nl-NL": "Achtbaankarretjes in de vorm van een raket.",
             "sv-SE": "Berg- och dalbanevagnar med stentema",
-            "ko-KR": "로켓 모양으로 만들어진 롤러코스터",
+            "ko-KR": "로켓처럼 꾸며져 있는 롤러코스터 차량",
             "zh-CN": "过山车列车的特色像火箭",
             "zh-TW": "雲霄飛車列車的特色像火箭",
-            "pt-BR": "Carros de montanha-russa que se parecem com foguetes"
+            "pt-BR": "Carros de montanha-russa que se parecem com foguetes",
+            "cs-CZ": "Horská dráha s vozy vypadajícími jako rakety",
+            "ja-JP": "車両をロケットに見立てたローラーコースターです",
+            "pl-PL": "Wagoniki w kształcie rakiet",
+            "ru-RU": "Вагончики для горок в виде ракет"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -85,12 +93,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por carro"
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

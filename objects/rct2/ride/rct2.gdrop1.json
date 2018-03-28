@@ -368,12 +368,16 @@
             "fr-FR": "Roto-toboggan",
             "es-ES": "Caída Giratoria",
             "it-IT": "Roto-discesa",
-            "nl-NL": "Roto-Val",
+            "nl-NL": "Roto-drop",
             "sv-SE": "Roto-fall",
-            "ko-KR": "회전 낙하",
+            "ko-KR": "자이로드롭",
             "zh-CN": "落下旋转车Roto-Drop",
             "zh-TW": "落下旋轉車",
-            "pt-BR": "Queda Giratória"
+            "pt-BR": "Queda Giratória",
+            "cs-CZ": "Roto-pád",
+            "ja-JP": "ロトドロップ",
+            "pl-PL": "Obrotospad",
+            "ru-RU": "Рото-дроп"
         },
         "description": {
             "en-GB": "A ring of seats is pulled to the top of a tall tower while gently rotating, then allowed to free-fall down, stopping gently at the bottom using magnetic brakes",
@@ -381,12 +385,16 @@
             "de-DE": "Ein Ring mit Sitzen, der zur Spitze eines hohen Turms gezogen wird, während er sich leicht dreht, und dann im freien Fall heruntersaust, wobei er unten sanft von Magnetbremsen angehalten wird",
             "es-ES": "Un anillo de asientos arrastrados a lo alto de una torre mientras gira, y después cae libremente, parando suavemente en el fondo usando unos frenos magnéticos",
             "it-IT": "Un anello di sedili viene innalzato su un'alta torre mentre ruota lentamente su se stesso; viene poi fatto precipitare in caduta libera e quindi fermato poco prima di arrivare al suolo da freni magnetici",
-            "nl-NL": "Een ring met stoelen wordt naar de top van een hoge toren gebracht terwijl deze langzaam ronddraait, en maakt daarna een vrije val omlaag, en stopt langzaam bij de grond waarbij het magnetische remmen gebruikt",
+            "nl-NL": "Een ring van stoelen wordt naar de bovenkant van een hoge toren getrokken terwijl hij rustig ronddraait, waarna hij losgelaten wordt in een vrije val, waarna hij beneden rustig wordt afgeremd door middel van magnetische remmen.",
             "sv-SE": "En ring med säten dras upp till toppen av ett högt torn medan det roterar sakta, därefter faller det fritt varefter det stoppas mjukt vid botten med hjälp av magnetbromsar",
-            "ko-KR": "의자들이 원형을 이루어 돌면서 탑 꼭대기까지 올라갔다가 자유 낙하하며 바닥에 이르러서는 자석 브레이크에 의해 부드럽게 멈추는 기구",
+            "ko-KR": "고리 모양의 좌석이 부드럽게 회전하면서 탑 꼭대기로 들어올려진 뒤에 자유낙하하고, 자기 제동에 의해 바닥에 부드럽게 정지하는 놀이기구",
             "zh-CN": "一个环状坐位被拉到高塔顶端再温和地旋转及自由缓慢地落下利用底部的磁性煞车温和地停止住",
             "zh-TW": "一個環狀坐位被拉到高塔頂端再溫和地旋轉及自由緩慢地落下利用底部的磁性煞車溫和地停止住",
-            "pt-BR": "Um anel de assentos é erguido até o alto de uma torre alta enquanto gira lentamente, e então cai em queda livre, parando suavemente usando freios magnéticos"
+            "pt-BR": "Um anel de assentos é erguido até o alto de uma torre alta enquanto gira lentamente, e então cai em queda livre, parando suavemente usando freios magnéticos",
+            "cs-CZ": "Kruh sedadel je za pomalé rotace vytažen na vrchol vysoké věže, spuštěn volným pádem k zemi a opatrně zastaven pomocí magnetických brzd",
+            "ja-JP": "円形の座席がゆっくりと回りながら高い塔の上まで上がり、落下して磁気ブレーキでリフトに止まります",
+            "pl-PL": "Pierścień z zamocowanymi fotelami jest wciągany na szczyt wysokiej wieży, obracając się powoli. Następnie spada swobodnie, wyhamowując delikatnie u dołu z użyciem hamulców magnetycznych",
+            "ru-RU": "Ряд кресел загоняют на верх высокой башни и вращают, затем они падают вниз, остановившись внизу на магнитных тормозах."
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -396,10 +404,14 @@
             "it-IT": "16 passeggeri",
             "nl-NL": "16 passagiers",
             "sv-SE": "16 ?",
-            "ko-KR": "정원 16명",
+            "ko-KR": "승객 16명",
             "zh-CN": "16位客人",
             "zh-TW": "16位客人",
-            "pt-BR": "16 passageiros"
+            "pt-BR": "16 passageiros",
+            "cs-CZ": "16 návštěvníků",
+            "ja-JP": "定員16名",
+            "pl-PL": "16 pasażerów",
+            "ru-RU": "16 пассажиро"
         }
     }
 }

@@ -88,12 +88,16 @@
             "de-DE": "Achterbahnzüge",
             "es-ES": "Trenes de Montaña Rusa",
             "it-IT": "Treni da ottovolante",
-            "nl-NL": "Achtbaantreintjes",
+            "nl-NL": "Achtbaantrein",
             "sv-SE": "Berg- och dalbanetåg",
-            "ko-KR": "롤러코스터 열차",
+            "ko-KR": "롤러코스터 차량",
             "zh-CN": "火车的过山车",
             "zh-TW": "火車的雲霄飛車",
-            "pt-BR": "Trens de Montanha-russa"
+            "pt-BR": "Trens de Montanha-russa",
+            "cs-CZ": "Horská dráha",
+            "ja-JP": "ジェットコースター車両",
+            "pl-PL": "Kolejka górska",
+            "ru-RU": "Американские горки"
         },
         "description": {
             "en-GB": "Roller coaster trains with lap bars capable of travelling through vertical loops",
@@ -102,12 +106,16 @@
             "de-DE": "Achterbahnzüge mit Beckenhalterungen, die durch vertikale Schleifen fahren können",
             "es-ES": "Montaña rusa con barras de regazo capaz de rizos verticales",
             "it-IT": "Treni da ottovolante con barre al petto capaci di correre lungo giri della morte in verticale",
-            "nl-NL": "Achtbaantreinen met beveiligingen op schoothoogte die door verticale loopings kunnen komen",
+            "nl-NL": "Achtbaantrein met schootbeugels, die door loopings kan rijden.",
             "sv-SE": "Berg- och dalbanetåg med knästänger som klarar av att åka genom lodräta loopar",
-            "ko-KR": "무릎에 안전 장치가 내려오며 수직의 원형 코스를 돌 수 있는 롤러코스터",
+            "ko-KR": "무릎 안전바가 있으며 수직 루프를 돌 수 있는 롤러코스터 차량",
             "zh-CN": "火车的过山车在历经垂直回圈时有膝部安全设备",
             "zh-TW": "火車的雲霄飛車在歷經垂直迴圈時有膝部安全設備",
-            "pt-BR": "Trens de montanha-russa com protetores de colo capazes de passar por loops verticais"
+            "pt-BR": "Trens de montanha-russa com protetores de colo capazes de passar por loops verticais",
+            "cs-CZ": "Horská dráha s loopingy, po které jezdí vozy s opěrkou v klíně",
+            "ja-JP": "垂直ループが可能な、膝の安全バーが付いたローラーコースターです",
+            "pl-PL": "Wagoniki kolejki górskiej z zabezpieczeniami obejmującymi pasażerów w pasie, mogące pokonywać pionowe pętle",
+            "ru-RU": "Поезда, способные ездить по вертикальным кольцам."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -115,12 +123,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por carro"
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пасс на вагон"
         }
     }
 }

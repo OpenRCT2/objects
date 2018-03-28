@@ -48,14 +48,21 @@
     "images": ["$RCT2:OBJDATA/ROCKET.DAT[0..4622]"],
     "strings": {
         "name": {
-            "en-GB": "1950's Rocket Ride",
+            "en-GB": "1950's Rockets",
             "fr-FR": "Fusée 1950",
             "de-DE": "50er Jahre Raketenbahn",
             "es-ES": "Atracción Cohete de 1950",
             "it-IT": "Razzo del 1950",
-            "nl-NL": "Attractie Raketten uit jaren '50",
+            "nl-NL": "Raketten uit de jaren '50",
             "sv-SE": "50-talsraket",
-            "zh-CN": "1950年代火箭游乐设施"
+            "zh-CN": "1950年代火箭游乐设施",
+            "ar-EG": "صواريخ 1950",
+            "cs-CZ": "Raketová jízda z 50. let",
+            "en-US": "1950's Rockets",
+            "ko-KR": "1950년대 로켓",
+            "pl-PL": "Rakietowy odlot",
+            "pt-BR": "Foguetes de 1950",
+            "ru-RU": "Ракета 1950"
         },
         "description": {
             "en-GB": "Inverted roller coaster trains are accelerated out of the station to travel up a vertical spike of track, then reverse back through the station to travel backwards up another vertical spike of track",
@@ -63,9 +70,13 @@
             "de-DE": "Umgekehrte Achterbahnzüge werden aus der Station heraus auf einer vertikalen Strecke beschleunigt und kommen zurück zur Station, von wo sie rückwärts eine andere vertikale Strecke hinaufgeschossen werden",
             "es-ES": "Trenes invertidos que aceleran al salir de la estación para subir por un tramo vertical de la vía, luego retroceden de vuelta a través de la estación para viajar hacia atrás y subir por otra vía vertical",
             "it-IT": "Le carrozze sono invertite ed escono dalla stazione per raggiungere un tratto verticale del percorso, salgono e invertono la direzione per tornare alla stazione scendendo lungo un altro tratto verticale",
-            "nl-NL": "Achtbaantreintjes worden achterwaarts uit het station gelanceerd en gaan een verticaal stuk baan omhoog, en gaan dan weer terug door het station en een ander verticaal stuk baan omhoog",
+            "nl-NL": "Omgekeerde achtbaantrein bestaande uit karretjes in de vorm van een raket uit de jaren '50, die vrijuit kunnen schommelen als de trein door een bocht gaat.",
             "sv-SE": "Berg- och dalbanevagnar accelererar först ut från stationen och färdas snabbt uppför en vertikal bana för att sedan snabbt backa genom stationen och färdas uppför en ny vertikal bana",
-            "zh-CN": "倒悬的云霄飞车被加速推出车站到垂直轨道顶端,再翻转回头到车站的另一端垂直轨道顶端"
+            "zh-CN": "倒悬的云霄飞车被加速推出车站到垂直轨道顶端,再翻转回头到车站的另一端垂直轨道顶端",
+            "cs-CZ": "Vozy vyrazí vstříc jednomu konci trati, poté prosviští pozpátku stanicí a vyletí až na druhý konec trati",
+            "ko-KR": "수직으로 솟은 트랙을 오르기 위해 역에서 급가속한 뒤, 다시 역방향으로 되돌아와 역을 통과해서 뒷쪽의 또다른 수직 트랙을 올라가는 인버티드 롤러코스터 차량",
+            "pl-PL": "Wagoniki tego typu kolejki są wciągane ze stacji na pionowy odcinek toru, po czym zjeżdżają z niego, przejeżdżają z powrotem przez stację i wjeżdżają siłą rozpędu tyłem na drugi pionowy odcinek",
+            "ru-RU": "Обратные горки поднимают вертикально вверх и бросают вниз на станцию."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -73,9 +84,13 @@
             "de-DE": "4 pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri per carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "每车限乘4人"
+            "zh-CN": "每车限乘4人",
+            "cs-CZ": "4 místa v každém voze",
+            "ko-KR": "차량당 4명의 승객",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира в вагон"
         }
     }
 }

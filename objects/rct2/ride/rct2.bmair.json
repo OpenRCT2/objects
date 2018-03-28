@@ -85,17 +85,23 @@
     "images": ["$RCT2:OBJDATA/BMAIR.DAT[0..4562]"],
     "strings": {
         "name": {
-            "en-GB": "Flying Roller Coaster",
+            "en-GB": "Flying Roller Coaster Trains",
             "fr-FR": "Montagnes russes volantes",
             "de-DE": "Fliegende Achterbahn",
             "es-ES": "Montaña Rusa Volante",
             "it-IT": "Ottovolante volante",
-            "nl-NL": "Vliegende Achtbaan",
+            "nl-NL": "Trein voor vliegachtbaan",
             "sv-SE": "Flygande berg- och dalbana",
-            "ko-KR": "플라잉 롤러코스터",
+            "ko-KR": "플라잉 롤러코스터 차량",
             "zh-CN": "飞行过山车",
             "zh-TW": "飛行雲霄飛車",
-            "pt-BR": "Montanha-russa Voadora"
+            "pt-BR": "Trens Montanha-Russa Voadora",
+            "ar-EG": "Flying Roller Coaster Trains",
+            "cs-CZ": "Létající horská dráha",
+            "en-US": "Flying Roller Coaster Trains",
+            "ja-JP": "フライング・ローラーコースター",
+            "pl-PL": "Latająca kolejka",
+            "ru-RU": "Летающие горки"
         },
         "description": {
             "en-GB": "Riders are held in comfortable seats below the track, travelling through twisted track to give the ultimate flying experience",
@@ -103,12 +109,16 @@
             "de-DE": "Die Passagiere sind in komfortablen Sitzen unter den Schienen und fahren entlang einer gewundenen Strecke, was ihnen das Gefühl gibt zu fliegen",
             "es-ES": "Los pasajeros están sentados confortablemente bajo la vía sintiendo una experiencia de casi-vuelo",
             "it-IT": "I passeggeri siedono in comodi sedili posti sotto il tracciato e corrono lungo una pista piena di curve che garantisce loro un'estrema esperienza di volo",
-            "nl-NL": "Bezoekers zitten vast in comfortabele stoelen onder de baan, en gaan langs de slingerende baan voor een ultieme vliegervaring",
+            "nl-NL": "Bezoekers hangen in treinen onder de baan met enkel schouderbeugels en krijgen zo de ervaring dat ze vliegen.",
             "sv-SE": "Passagerarnas hålls fast i bekväma säten under spåret, åker genom skruvade spår som ger ultimat flygkänsla",
-            "ko-KR": "극한의 비행 기분을 느낄 수 있게 뒤틀린 트랙에 매달려 편안한 의자에 앉아서 가는 롤러코스터",
+            "ko-KR": "탑승객에게 정말로 나는 듯한 경험을 주기 위해, 트랙 밑에 달린 편안한 좌석에 앉아서 꼬여있는 트랙을 따라 움직이는 놀이기구",
             "zh-CN": "乘客被固定轨道下的舒适座位,途经穿过最终极疯狂轨道的飞行体验",
             "zh-TW": "乘客被固定軌道下的舒適座位,途經穿過最終極瘋狂軌道的飛行體驗",
-            "pt-BR": "Os passageiros são colocados em assentos confortáveis abaixo da pista, viajando por pistas sinuosas para uma experiência aérea definitiva"
+            "pt-BR": "Os passageiros são colocados em assentos confortáveis abaixo da pista, viajando por pistas sinuosas para uma experiência aérea definitiva",
+            "cs-CZ": "Návštěvníci sedí v pohodlných sedadlech pod tratí cestující skrze propletenou dráhu, poskytující pocit letu",
+            "ja-JP": "コースの下にある快適な座席に座り、ひねったコースによって究極の飛行体験が楽しめるコースターです",
+            "pl-PL": "Pasażerowie zasiadają w wygodnych fotelach zawieszonych pod torem i jadą zawiłą trasą, czując się, jakby potrafili latać",
+            "ru-RU": "Люди сидят в удобных креслах и едут по очень сложной трассе, испытывая чувство полёта."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -116,12 +126,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por vagão"
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

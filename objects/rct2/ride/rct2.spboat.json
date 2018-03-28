@@ -80,10 +80,14 @@
             "it-IT": "Barche con lo schizzo",
             "nl-NL": "Plonsboten",
             "sv-SE": "Plaskbåtar",
-            "ko-KR": "스프래쉬 보트",
+            "ko-KR": "스플래시 보트",
             "zh-CN": "水花四溅",
             "zh-TW": "水花四濺",
-            "pt-BR": "Splash"
+            "pt-BR": "Splash",
+            "cs-CZ": "Cákající lodě",
+            "ja-JP": "スプラッシュ・ボート",
+            "pl-PL": "Pluskołódki",
+            "ru-RU": "Лодки"
         },
         "description": {
             "en-GB": "Large capacity boats travel along a wide water channel, propelled up slopes by a conveyor belt, accelerating down steep slopes to soak the riders with a giant splash",
@@ -91,12 +95,16 @@
             "de-DE": "Große Boote bewegen sich in einem breiten Wasserkanal, fahren von einem Fließband befördert Anstiege hoch und sausen steile Gefälle hinunter, damit die Fahrgäste mit einem gigantischen Platscher durchnässt werden",
             "es-ES": "Botes de gran capacidad que viajan por un amplio canal impulsados por una cinta transportadora que producen grandes salpicaduras",
             "it-IT": "Barche molto capienti viaggiano per un largo canale d'acqua, trainate da nastri trasportatori, per poi prendere velocità lungo ripidi pendii bagnando i passeggeri con schizzi d'acqua giganti",
-            "nl-NL": "Boten met een grote capaciteit gaan over een wijd kanaal, en worden hellingen opgetild door een grote lopende band, en gaan snel steile hellingen omlaag en maken bezoekers nat met een enorme plons",
+            "nl-NL": "Boten met een hoge capaciteit varen door een brede waterbak, worden naar boven vervoerd door een lopende band, en gaan met hoge snelheid steile heuvels af om met een grote plons de passagiers te doorweken.",
             "sv-SE": "Högkapacitetsbåtar färdas längs en bred vattenkanal, drivs upp för lutningar av ett transportband, accelererar ner för branter för att blöta ner passagerarna med ett jätteplask",
-            "ko-KR": "컨베이어 벨트에 의해 넓은 수로를 따라 올라갔다가 가파른 경사를 내려오며 승객들을 흠뻑 적셔주는 커다란 보트",
+            "ko-KR": "광폭형 수로를 따라 이동하며 컨베이어 벨트로 경사를 오른 다음, 급경사로 가속하여 탑승객을 커다란 물보라로 홀딱 젖게 만드는 대용량의 보트",
             "zh-CN": "大型容量的船体延着水道利用传输带送上斜坡,再加速向下滑落并溅起水花使乘客浸泡到水",
             "zh-TW": "大型容量的船體延著水道利用傳輸帶送上斜坡,再加速向下滑落並濺起水花使乘客浸泡到水",
-            "pt-BR": "Barcos de grande capacidade viajam num largo canal de água, puxados em subidas por uma correia de transporte, e descem em quedas íngremes para molhar os passageiros ao cair na água"
+            "pt-BR": "Barcos de grande capacidade viajam num largo canal de água, puxados em subidas por uma correia de transporte, e descem em quedas íngremes para molhar os passageiros ao cair na água",
+            "cs-CZ": "Velkokapacitní lodě se plaví po vodním kanále, poháněny do pásem do strmých úseků, zrychlují sjížděním svahů a namočí návštěvníky pořádným šplouchnutím",
+            "ja-JP": "大定員のボートが幅の広い水路を進んでいき、ベルトコンベヤーで傾斜を上がると加速して一気に急傾斜を下り、水に突っ込んで乗客がずぶ濡れになる乗物です",
+            "pl-PL": "Pojemne łodzie płynące szerokim kanałem, wciągane po nachyleniu przez pasy napędowe, zjeżdżające ze wzniesień i w wielkim plusku moczące pasażerów",
+            "ru-RU": "Вместительные лодки плывут по широкому каналу при помощи ременного привода."
         },
         "capacity": {
             "en-GB": "16 passengers per boat",
@@ -106,10 +114,14 @@
             "it-IT": "16 passeggeri a barca",
             "nl-NL": "16 passagiers per boot",
             "sv-SE": "16 passagerare per båt",
-            "ko-KR": "보트 정원 16명",
+            "ko-KR": "보트당 16명의 승객",
             "zh-CN": "16 位乘客 /每艘船",
             "zh-TW": "16 位乘客 /每艘船",
-            "pt-BR": "16 passageiros por barco"
+            "pt-BR": "16 passageiros por barco",
+            "cs-CZ": "16 míst na každé lodi",
+            "ja-JP": "定員16名",
+            "pl-PL": "16 pasażerów na łódkę",
+            "ru-RU": "16 пассажиров"
         }
     }
 }

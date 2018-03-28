@@ -71,16 +71,21 @@
     "images": ["$RCT2:OBJDATA/FLYGBOAT.DAT[0..1762]"],
     "strings": {
         "name": {
-            "en-GB": "Flying Boat Ride",
+            "en-GB": "Flying boats",
             "fr-FR": "Bateau volant",
             "de-DE": "Fliegendes Schiff-Attraktion",
             "es-ES": "Viaje en el bote volante",
             "it-IT": "Corsa delle navi volanti",
-            "nl-NL": "Vliegende boot-attractie",
+            "nl-NL": "Vliegende boten",
             "sv-SE": "Flygbåtar",
-            "ko-KR": "플라잉 보트 라이드",
+            "ko-KR": "플라잉 보트",
             "zh-TW": "飛行船遊樂設施",
-            "pt-BR": "Brinquedo de Hidroplano"
+            "pt-BR": "Barcos voadores",
+            "ar-EG": "القوارب الطائرة",
+            "cs-CZ": "Létající lodě",
+            "en-US": "Flying boats",
+            "pl-PL": "Latający Holender",
+            "ru-RU": "Парящая лодка"
         },
         "description": {
             "en-GB": "Flying Boat shaped cars run on roller coaster track to allow twisting curves and steep drops, splashing down into sections of water for gentle river sections",
@@ -88,11 +93,14 @@
             "de-DE": "Die Wagen in Form von Fliegenden Schiffen fahren auf einer kurvenreichen Achterbahnstrecke mit steilem Gefälle, Wasserspektakel und sanften Flussabschnitten.",
             "es-ES": "Los vagones en forma de bote volante corren por el recorrido de la montaña rusa, con curvas cerradas y caídas pronunciadas, pasando por zonas de agua.",
             "it-IT": "Carrozze volanti a forma di barca viaggiano lungo l'ottovolante, caratterizzato da ripide discese, curve avvitate e tuffi in sezioni acquatiche più tranquille.",
-            "nl-NL": "Vliegende bootvormige-wagentjes rijden over een achtbaan met draaiende bochten en steile hellingen, die in het water neerplonsen voor wat rustigere riviergedeeltes.",
+            "nl-NL": "Bootvormige karretjes rijden over achtbaanrails, waardoor ze hellende bochten en diepe afdalingen kunnen maken, waarna ze in bakken water neerplonzen en rustig een stukje kunnen varen.",
             "sv-SE": "Flygbåt-formade vagnar åker på berg- och dalbanespår som tillåter snäva kurvor och djupa fall ned till lugnare vattenfyllda sektioner.",
-            "ko-KR": "비행정 모양의 차량을 타고 롤러 코스터 트랙 위를 달리며 잔잔한 물을 향해 뒤틀린 커브와 급격한 낙하, 물이 튀는 지역을 지나가는 놀이기구",
+            "ko-KR": "비행정 모양의 차량이 꼬인 커브와 낙하로 구성된 롤러코스터 트랙을 따라 내려온 뒤 물보라를 일으키며 부드럽게 강 섹션으로 내려오는 놀이기구",
             "zh-TW": "飛船外形的列車在雲霄飛車軌道上的曲線迴轉及陡坡急墜軌道上運行,將平靜的河面激起大量的水花。",
-            "pt-BR": "Vagões na forma de hidroaviões correm numa pista de montanha-russa com curvas sinuosas e quedas íngremes, caindo em seções de água e seções suaves de rio"
+            "pt-BR": "Vagões na forma de hidroaviões correm numa pista de montanha-russa com curvas sinuosas e quedas íngremes, caindo em seções de água e seções suaves de rio",
+            "cs-CZ": "Vozy ve tvaru létajících lodí jedou po trati horské dráhy, což umožňuje ostré zatáčky, strmé klesání a cákající zpomalení pro mírnější říční úseky",
+            "pl-PL": "Wagoniki w kształcie latających łodzi jadą po torze z ostrymi zakrętami i stromymi zjazdami, wpadając w odcinki wodne spokojnie płynącej rzeki",
+            "ru-RU": "Кабинка в виде летающей лодки катится по стремительному треку, иногда падая в воду"
         },
         "capacity": {
             "en-GB": "16 passengers per boat",
@@ -100,11 +108,14 @@
             "de-DE": "16 Fahrgäste pro Boot",
             "es-ES": "16 pasajeros por bote",
             "it-IT": "16 passeggeri per nave",
-            "nl-NL": "16 passagiers per boot",
+            "nl-NL": "6 passagiers per boot",
             "sv-SE": "16 passagerare per båt",
-            "ko-KR": "보트 정원 16명",
+            "ko-KR": "보트당 16명의 승객",
             "zh-TW": "每艘船限乘16人",
-            "pt-BR": "16 passageiros por barco"
+            "pt-BR": "16 passageiros por barco",
+            "cs-CZ": "16 míst v každé lodi",
+            "pl-PL": "16 pasażerów na łódkę",
+            "ru-RU": "16 пасс. в лодке"
         }
     }
 }

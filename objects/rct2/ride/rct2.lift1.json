@@ -124,7 +124,7 @@
     "images": ["$RCT2:OBJDATA/LIFT1.DAT[0..146]"],
     "strings": {
         "name": {
-            "en-GB": "Elevator",
+            "en-GB": "Lift Cabin",
             "fr-FR": "Ascenseur",
             "de-DE": "Aufzug",
             "es-ES": "Ascensor",
@@ -133,21 +133,33 @@
             "sv-SE": "Hiss",
             "ko-KR": "엘리베이터",
             "zh-CN": "电梯",
-            "zh-TW": "電梯",
-            "pt-BR": "Elevador"
+            "zh-TW": "升降機",
+            "pt-BR": "Cabine do Elevador",
+            "ar-EG": "Lift Cabin",
+            "cs-CZ": "Výtah",
+            "en-US": "Lift Cabin",
+            "ja-JP": "エレベーター",
+            "pl-PL": "Winda",
+            "ru-RU": "Лифт"
         },
         "description": {
-            "en-GB": "Guests ride in an elevator up or down a vertical tower to get from one level to another",
+            "en-GB": "Steel lift cabin",
             "fr-FR": "Ascenseur montant ou descendant un à un les étages d'une tour verticale",
             "de-DE": "Die Besucher fahren in einem Aufzug einen Turm hinauf oder hinab, um in ein anderes Stockwerk zu gelangen",
             "es-ES": "Los pasajeros suben o bajan en un ascensor para acceder a distintos niveles de una torre vertical",
             "it-IT": "I visitatori corrono dentro un ascensore su e giù per una torre per passare da un livello all'altro",
-            "nl-NL": "Attractie in een lift. Passagiers gaan omhoog of omlaag in een verticale toren om van het ene naar het andere niveau te komen",
+            "nl-NL": "Bezoekers gaan in een lift in een toren omhoog of omlaag om naar een ander hoogteniveau te komen.",
             "sv-SE": "Besökarna åker i en hiss upp och ner för ett lodrätt torn för att komma från en nivå till en annan",
-            "ko-KR": "탑을 오르내리는 엘리베이터",
+            "ko-KR": "손님들이 엘리베이터에 타서 수직 탑을 따라 위나 아래 층으로 이동하는 놀이기구",
             "zh-CN": "游客在垂直塔楼内的电梯上下,由某一楼层到其它楼层",
-            "zh-TW": "遊客在垂直塔樓內的電梯上下,由某一樓層到其它樓層",
-            "pt-BR": "Os visitantes andam num elevador subindo ou descendo uma torre vertical para ir de um andar para o outro"
+            "zh-TW": "遊客乘搭升降機上下穿梭於垂直的管道中, 並借此訪問另一層",
+            "pt-BR": "Cabine de aço do elevador",
+            "ar-EG": "Steel lift cabin",
+            "cs-CZ": "Výtah s ocelovou kabinou",
+            "en-US": "Steel lift cabin",
+            "ja-JP": "垂直なタワーの各階を移動する際のエレベーターです",
+            "pl-PL": "Pasażerowie jeżdżą w dół lub w górę windą w wieży, aby przejść z jednego poziomu na drugi",
+            "ru-RU": "Гости переезжают с уровня на уровень"
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -157,10 +169,14 @@
             "it-IT": "16 passeggeri",
             "nl-NL": "16 passagiers",
             "sv-SE": "16 passagerare",
-            "ko-KR": "정원 16명",
+            "ko-KR": "승객 16명",
             "zh-CN": "16 位乘客",
-            "zh-TW": "16 位乘客",
-            "pt-BR": "16 passageiros"
+            "zh-TW": "16位乘客",
+            "pt-BR": "16 passageiros",
+            "cs-CZ": "16 návštěvníků",
+            "ja-JP": "定員16名",
+            "pl-PL": "16 pasażerów",
+            "ru-RU": "16 пассажиров"
         }
     }
 }

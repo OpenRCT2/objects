@@ -199,17 +199,23 @@
     "images": ["$RCT2:OBJDATA/SSC1.DAT[0..23]"],
     "strings": {
         "name": {
-            "en-GB": "Launched Freefall",
+            "en-GB": "Launched Freefall car",
             "fr-FR": "Chute libre lancée",
             "de-DE": "Hochgeschossener Freefall",
             "es-ES": "Caída Libre Propulsada",
             "it-IT": "Lancio in caduta libera",
-            "nl-NL": "Gelanceerde Vrije val",
+            "nl-NL": "Wagen voor gelanceerde vrije val",
             "sv-SE": "Fritt fall",
-            "ko-KR": "런치드 프리폴",
+            "ko-KR": "발진 자유낙하 차량",
             "zh-CN": "发射自由落体",
             "zh-TW": "發射自由落體",
-            "pt-BR": "Queda Livre de Propulsão"
+            "pt-BR": "Carro Queda Livre Lançada",
+            "ar-EG": "Launched Freefall car",
+            "cs-CZ": "Volný pád",
+            "en-US": "Launched Freefall car",
+            "ja-JP": "ローンチ・フリーフォール",
+            "pl-PL": "Wystrzałowa spadajka",
+            "ru-RU": "Падение"
         },
         "description": {
             "en-GB": "Freefall car is pneumatically launched up a tall steel tower and then allowed to freefall down",
@@ -217,12 +223,16 @@
             "de-DE": "Der Freefall-Wagen wird mit Druckluft einen hohen Stahlturm hochgeschossen, von wo er dann im freien Fall nach unten saust",
             "es-ES": "Un vagón es lanzado en un neumático a lo alto de una elevada torre de acero, cayendo libremente",
             "it-IT": "La carrozza per la caduta libera viene issata pneumaticamente su un'alta torre e poi lanciata in caduta libera",
-            "nl-NL": "Het wagentje wordt pneumatisch omhoog gelanceerd langs een hoge stalen toren en valt daarna in vrije val omlaag",
+            "nl-NL": "Een vrijevalwagen wordt pneumatisch langs een hoge stalen toren gelanceerd en gaat daarna in een vrije val weer naar beneden.",
             "sv-SE": "Frifallsvagnar skjuts med lufttryck upp för ett ståltorn och får sen falla fritt ner",
-            "ko-KR": "높은 철제 탑 위에서 쏘아져 자유 낙하하는 기구",
+            "ko-KR": "압축 공기에 의해 높은 철제 탑을 향해 쏘아올려진 다음 자유 낙하하는 자유 낙하 차량",
             "zh-CN": "自由落体车辆以气压式发射朝高塔上方上升然後再自行自由落下",
             "zh-TW": "自由落體車輛以氣壓式發射朝高塔上方上升然後再自行自由落下",
-            "pt-BR": "O carro de queda livre é lançado pneumaticamente numa torre alta de aço e então desce em queda livre"
+            "pt-BR": "O carro de queda livre é lançado pneumaticamente numa torre alta de aço e então desce em queda livre",
+            "cs-CZ": "Vůz pro volný pád je pneumaticky vystřeleno vzhůru po vysoké ocelové věži a následně volně padá k zemi",
+            "ja-JP": "圧搾空気により高いスチールの塔に上がった車両が、重力で下ってくる乗物です",
+            "pl-PL": "Wagonik jest wystrzeliwany pneumatycznie na szczyt wysokiej wieży, a potem swobodnie opada",
+            "ru-RU": "Кабинки запускаются на высокую башню и затем падают вниз"
         },
         "capacity": {
             "en-GB": "8 passengers",
@@ -232,10 +242,14 @@
             "it-IT": "8 passeggeri",
             "nl-NL": "8 passagiers",
             "sv-SE": "8 passagerare",
-            "ko-KR": "정원 8명",
+            "ko-KR": "승객 8명",
             "zh-CN": "8 位乘客",
             "zh-TW": "8 位乘客",
-            "pt-BR": "8 passageiros"
+            "pt-BR": "8 passageiros",
+            "cs-CZ": "8 návštěvníků",
+            "ja-JP": "定員8名",
+            "pl-PL": "8 pasażerów",
+            "ru-RU": "8 пассажиров"
         }
     }
 }

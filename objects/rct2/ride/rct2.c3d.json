@@ -138,12 +138,16 @@
             "de-DE": "3D-Kino",
             "es-ES": "Cine 3D",
             "it-IT": "Cinema 3D",
-            "nl-NL": "3D Bioscoop",
+            "nl-NL": "3D-bioscoop",
             "sv-SE": "3D-bio",
             "ko-KR": "3D 영화관",
             "zh-CN": "3D立体电影院",
             "zh-TW": "3D立體電影院",
-            "pt-BR": "Cinema 3D"
+            "pt-BR": "Cinema 3D",
+            "cs-CZ": "3D Kino",
+            "ja-JP": "3D映画",
+            "pl-PL": "Kino trójwymiarowe",
+            "ru-RU": "3D Кино"
         },
         "description": {
             "en-GB": "Cinema showing 3D films inside a geodesic sphere shaped building",
@@ -151,12 +155,16 @@
             "de-DE": "Kino, in dem 3D-Filme in einer geodätischen Kugelstruktur gezeigt werden",
             "es-ES": "Cine que proyecta películas en 3D en una esfera geodésica",
             "it-IT": "Cinema che proietta film in 3D all'interno di un edificio a forma di sfera geodetica",
-            "nl-NL": "Bioscoop waarin 3D films worden getoond in een bolvormig gebouw",
+            "nl-NL": "Bioscoop in een bolvormig gebouw waarin 3D-films worden getoond.",
             "sv-SE": "Bio som visar 3D filmer inuti en geodetisk sfäriskt formad byggnad",
-            "ko-KR": "3D 영화를 상영하는 구형의 영화관",
+            "ko-KR": "둥근 구 모양의 건물 안에서 3D 영화를 상영하는 영화관",
             "zh-CN": "电影院是一座由测地线球体形状组成的建筑物内部播放３Ｄ立体影片",
             "zh-TW": "電影院是一座由測地線球體形狀組成的建築物內部播放３Ｄ立體影片",
-            "pt-BR": "Cinema mostrando filmes em 3D dentro de uma construção em forma de esfera geodésica"
+            "pt-BR": "Cinema mostrando filmes em 3D dentro de uma construção em forma de esfera geodésica",
+            "cs-CZ": "Kin promítající 3D filmy uvnitř duté kulovité konstrukce",
+            "ja-JP": "3D映画を上映する、球形の映画館です",
+            "pl-PL": "Kino wyświetlające trójwymiarowe filmy na ekranie stanowiącym wewnętrzną ścianę kulistego budynku",
+            "ru-RU": "Кинотеатр с 3D фильмами в сферическом здании"
         },
         "capacity": {
             "en-GB": "20 guests",
@@ -164,12 +172,16 @@
             "de-DE": "20 Besucher",
             "es-ES": "20 visitantes",
             "it-IT": "20 spettatori",
-            "nl-NL": "20 bezoekers",
+            "nl-NL": "20 passagiers",
             "sv-SE": "20 besökare",
-            "ko-KR": "정원 20명",
+            "ko-KR": "손님 20명",
             "zh-CN": "２０位客人",
             "zh-TW": "２０位客人",
-            "pt-BR": "20 visitantes"
+            "pt-BR": "20 visitantes",
+            "cs-CZ": "20 návštěvníků",
+            "ja-JP": "定員20名",
+            "pl-PL": "20 widzów",
+            "ru-RU": "20 чел."
         }
     }
 }

@@ -23,12 +23,16 @@
             "de-DE": "Wonton-Suppenstand",
             "es-ES": "Puesto de sopa wonton",
             "it-IT": "Chiosco della zuppa di wonton",
-            "nl-NL": "Kraampje met Wonton-Soep",
+            "nl-NL": "Wantansoepkraam",
             "sv-SE": "Wonton-soppstånd",
-            "ko-KR": "완탕 수프 음식점",
+            "ko-KR": "만둣국 가게",
             "zh-CN": "馄饨汤 店",
             "zh-TW": "餛飩湯 店",
-            "pt-BR": "Barraca de Comida Chinesa"
+            "pt-BR": "Barraca de Comida Chinesa",
+            "cs-CZ": "Stánek s čínskou polévkou",
+            "ja-JP": "ワンタンスープ店",
+            "pl-PL": "Kiosk z zupą wonton",
+            "ru-RU": "Супная"
         },
         "description": {
             "en-GB": "A stall selling Wonton Soup",
@@ -36,12 +40,16 @@
             "de-DE": "Ein Stand, an dem Wonton-Suppe verkauft wird",
             "es-ES": "Un puesto que vende sopa wonton",
             "it-IT": "Un chiosco che vende zuppa di wonton",
-            "nl-NL": "Een kraampje dat Wonton-Soep verkoopt",
+            "nl-NL": "Een kraam waar wantansoep wordt verkocht.",
             "sv-SE": "Ett stånd som säljer Wonton-soppa",
-            "ko-KR": "완탕 수프를 파는 음식점",
+            "ko-KR": "만둣국을 파는 가게",
             "zh-CN": "一家卖馄饨汤的店",
             "zh-TW": "一家賣餛飩湯的店",
-            "pt-BR": "Uma barraca vendendo Sopa Wonton"
+            "pt-BR": "Uma barraca vendendo Sopa Wonton",
+            "cs-CZ": "Stánek prodávající čínskou knedlíčkovou polévku",
+            "ja-JP": "ワンタンスープを売る売店です",
+            "pl-PL": "Stoisko sprzedające zupę z uszkami wonton",
+            "ru-RU": "Лоток, где разливают суп."
         }
     }
 }

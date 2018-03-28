@@ -45,14 +45,21 @@
     "images": ["$RCT2:OBJDATA/KOLARIDE.DAT[0..1562]"],
     "strings": {
         "name": {
-            "en-GB": "Koala Ride",
+            "en-GB": "Koala car",
             "fr-FR": "Koala",
             "de-DE": "Koalabahn",
             "es-ES": "Atracción Koala",
             "it-IT": "Il koala",
-            "nl-NL": "Koala-Attractie",
+            "nl-NL": "Koalabaan",
             "sv-SE": "Koala-bana",
-            "zh-CN": "无尾熊游乐设施"
+            "zh-CN": "无尾熊游乐设施",
+            "ar-EG": "Koala car",
+            "cs-CZ": "Koalí dráha",
+            "en-US": "Koala car",
+            "ko-KR": "코알라 차량",
+            "pl-PL": "Koala",
+            "pt-BR": "Carro Coala",
+            "ru-RU": "Коала Райд"
         },
         "description": {
             "en-GB": "Large coaster car for the Reverse Freefall Coaster",
@@ -60,9 +67,13 @@
             "de-DE": "Großer Wagen für die umgekehrte Freefall-Bahn",
             "es-ES": "Gran vagón para la montaña rusa invertida de caída libre",
             "it-IT": "Usa le grandi carrozze dell'ottovolante invertito a caduta libera",
-            "nl-NL": "Grote Achtbaanwagen op een Achterwaartse Vrije Val Achtbaan",
+            "nl-NL": "Grote wagen voor de achterwaartstevrijevalachtbaan.",
             "sv-SE": "?Rymliga vagnar störtar baklänges nedför en bana",
-            "zh-CN": "?大型云霄飞车颠倒自由落下"
+            "zh-CN": "?大型云霄飞车颠倒自由落下",
+            "cs-CZ": "Velká dráha s vozem pro volný pád pozpátku",
+            "ko-KR": "역방향 자유낙하 코스터를 위한 대형 코스터 차량",
+            "pl-PL": "Duży wagonik dla kolejki o swobodnym spadku",
+            "ru-RU": "Крупные машины реверсивного паден."
         },
         "capacity": {
             "en-GB": "8 passengers per car",
@@ -70,9 +81,13 @@
             "de-DE": "8 pro Wagen",
             "es-ES": "8 pasajeros por vagón",
             "it-IT": "8 passeggeri per carrozza",
-            "nl-NL": "8 passagiers per wagentje",
+            "nl-NL": "8 passagiers",
             "sv-SE": "8 passagerare per vagn",
-            "zh-CN": "?每辆车限乘8人"
+            "zh-CN": "?每辆车限乘8人",
+            "cs-CZ": "8 návštěvníků",
+            "ko-KR": "차량당 8명의 승객",
+            "pl-PL": "8 pasażerów na wagonik",
+            "ru-RU": "8 пассажиров"
         }
     }
 }

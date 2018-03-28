@@ -23,11 +23,14 @@
             "de-DE": "Neptuns Stand der Meeresfrüchte",
             "es-ES": "Puesto de comida marina de Neptuno",
             "it-IT": "Chiosco di frutti di mare di Nettuno",
-            "nl-NL": "Neptunus' viskraampje",
+            "nl-NL": "Neptunus' zeevruchtenkraam",
             "sv-SE": "Neptunus havsdelikatesser",
-            "ko-KR": "넵튠 해산물 가게",
+            "ko-KR": "포세이돈의 해산물 가게",
             "zh-TW": "海神海鮮攤",
-            "pt-BR": "Quiosque de Frutos do Mar de Netuno"
+            "pt-BR": "Quiosque de Frutos do Mar de Netuno",
+            "cs-CZ": "Neptunův stánek s plody moře",
+            "pl-PL": "Morskie jadło Neptuna",
+            "ru-RU": "Палатка Нептуна"
         },
         "description": {
             "en-GB": "A stall selling Neptunes salty treats",
@@ -35,11 +38,14 @@
             "de-DE": "Ein Stand, der Neptuns salzige Gaumenfreuden verkauft",
             "es-ES": "Un puesto en el que se venden las saladas delicias de Neptuno",
             "it-IT": "Un chiosco che vende le specialità salmastre di Nettuno",
-            "nl-NL": "Een kraampje met Neptunus' zoute lekkernijen",
+            "nl-NL": "Een kraam met Neptunus' zoute lekkernijen.",
             "sv-SE": "Stånd som säljer Neptunus salta godsaker.",
-            "ko-KR": "짠 음식을 파는 넵튠의 가게",
+            "ko-KR": "포세이돈의 짭짤한 음식을 파는 가게",
             "zh-TW": "販賣海神的海味點心的攤位",
-            "pt-BR": "Um quiosque vendendo os quitutes salgados de Netuno"
+            "pt-BR": "Um quiosque vendendo os quitutes salgados de Netuno",
+            "cs-CZ": "Stánek prodávající Neptunovy mořské dobroty",
+            "pl-PL": "Stoisko sprzedające słone smakołyki Neptuna",
+            "ru-RU": "Палатка с угощениями от Нептуна"
         }
     }
 }

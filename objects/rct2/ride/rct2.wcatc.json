@@ -79,12 +79,16 @@
             "de-DE": "Automobil-Wagen",
             "es-ES": "Automóviles",
             "it-IT": "Automobili",
-            "nl-NL": "Automobielwagentjes",
+            "nl-NL": "Autokarretjes",
             "sv-SE": "Bilar",
-            "ko-KR": "자동차",
+            "ko-KR": "자동차 차량",
             "zh-CN": "冲锋汽车",
             "zh-TW": "衝鋒汽車",
-            "pt-BR": "Vagões de Automóveis"
+            "pt-BR": "Vagões de Automóveis",
+            "cs-CZ": "Automobilové vozy",
+            "ja-JP": "自動車",
+            "pl-PL": "Czar automobilizmu",
+            "ru-RU": "Автомобили"
         },
         "description": {
             "en-GB": "Roller coaster cars in the shape of automobiles",
@@ -92,12 +96,16 @@
             "de-DE": "Achterbahnwagen in Form von PKWs",
             "es-ES": "Montaña rusa con forma de coche",
             "it-IT": "Carrozze da ottovolante a forma di automobili",
-            "nl-NL": "Achtbaanwagentjes in de vorm van auto's",
+            "nl-NL": "Achtbaankarretjes in de vorm van een auto.",
             "sv-SE": "Berg- och dalbanevagnar i form av bilar",
-            "ko-KR": "자동차 모양의 롤러코스터",
+            "ko-KR": "자동차 모양의 롤러코스터 차량",
             "zh-CN": "过山车车辆的外形是汽车",
             "zh-TW": "雲霄飛車車輛的外形是汽車",
-            "pt-BR": "Vagões de montanha-russa na forma de automóveis"
+            "pt-BR": "Vagões de montanha-russa na forma de automóveis",
+            "cs-CZ": "Horská dráha s vozy, které připomínají automobily",
+            "ja-JP": "自動車の形をしたローラーコースターです",
+            "pl-PL": "Wagoniki kolejki górskiej w kształcie starych samochodów",
+            "ru-RU": "Вагончики в виде автомобилей"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -105,12 +113,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por vagão"
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

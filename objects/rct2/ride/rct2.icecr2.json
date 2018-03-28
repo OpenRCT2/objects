@@ -23,12 +23,16 @@
             "de-DE": "Waffeleis-Stand",
             "es-ES": "Puesto de helados",
             "it-IT": "Chiosco di coni gelato",
-            "nl-NL": "Kraampje met Slagroomijs",
+            "nl-NL": "Roomijskraam",
             "sv-SE": "Glasstrutsstånd",
             "ko-KR": "아이스크림 콘 가게",
             "zh-CN": "冰淇淋店",
             "zh-TW": "冰淇淋店",
-            "pt-BR": "Barraca de Casquinhas"
+            "pt-BR": "Barraca de Casquinhas",
+            "cs-CZ": "Stánek se zmrzlinou",
+            "ja-JP": "アイスクリームショップ",
+            "pl-PL": "Kiosk z rożkami",
+            "ru-RU": "Мороженое"
         },
         "description": {
             "en-GB": "A stall selling ice cream cones",
@@ -36,12 +40,16 @@
             "de-DE": "Ein Stand, an dem Waffeleis verkauft wird",
             "es-ES": "Un puesto que vende conos de helados",
             "it-IT": "Un chiosco che vende coni gelato",
-            "nl-NL": "Een kraampje dat slagroomijs verkoopt",
+            "nl-NL": "Een kraam waar roomijs wordt verkocht.",
             "sv-SE": "Ett stånd som säljer glasstrutar",
             "ko-KR": "아이스크림 콘을 파는 가게",
             "zh-CN": "一间卖蛋角冰淇淋的店",
             "zh-TW": "一間賣蛋角冰淇淋的店",
-            "pt-BR": "Uma barraca vendendo sorvetes de casquinha"
+            "pt-BR": "Uma barraca vendendo sorvetes de casquinha",
+            "cs-CZ": "Stánek prodávající kornouty zmrzliny",
+            "ja-JP": "アイスクリームを売る売店です",
+            "pl-PL": "Stoisko sprzedające lodowe rożki",
+            "ru-RU": "Палатка с мороженым"
         }
     }
 }

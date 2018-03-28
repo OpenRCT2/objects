@@ -47,16 +47,21 @@
     "images": ["$RCT2:OBJDATA/BARNSTRM.DAT[0..938]"],
     "strings": {
         "name": {
-            "en-GB": "BarnStorming Coaster",
+            "en-GB": "BarnStorming Cars",
             "fr-FR": "Attaque de l'entrepôt",
             "de-DE": "Der Sturm Achterbahn",
             "es-ES": "Montaña rusa Políticos",
             "it-IT": "Ottovolante acrobatico",
-            "nl-NL": "Schuurstormende achtbaan",
+            "nl-NL": "Stuntvliegerstrein",
             "sv-SE": "Ladugårdsstorm",
-            "ko-KR": "반스토밍 코스터",
+            "ko-KR": "곡예 비행기 코스터",
             "zh-TW": "巡迴演出雲霄飛車",
-            "pt-BR": "Montanha do Celeiro"
+            "pt-BR": "Carros Avião BarnStorming",
+            "ar-EG": "سيارات بارنستورمينغ",
+            "cs-CZ": "Stodolní střela",
+            "en-US": "BarnStorming Cars",
+            "pl-PL": "Inwazja agrarna",
+            "ru-RU": "Гастрольные горки"
         },
         "description": {
             "en-GB": "Riders sit in seats suspended beneath the track as they speed through giant loops, twists, and large swooping drops",
@@ -64,11 +69,14 @@
             "de-DE": "Die Sitze befinden sich unter der Spur und rasen durch riesige Loopings, Drehungen und große, plötzliche Gefälle hinab.",
             "es-ES": "Los usuarios se sientan suspendidos debajo de la estructura, pasando a toda velocidad por bucles gigantes, giros y grandes caídas en picado.",
             "it-IT": "I passeggeri siedono su sedili sospesi sotto il tracciato e affrontano giri della morte giganti, curve e lunghe discese a strapiombo.",
-            "nl-NL": "Bezoekers bevinden zich in zetels die onder de baan hangen terwijl ze door enorme loopings, draaiingen en grote afdalingen racen.",
+            "nl-NL": "Een omgekeerde achtbaantrein wordt het station uit gelanceerd en gaat een verticale kronkelende baan op, waarna deze terugzakt, door het station heengaat en achteruit een ander stuk verticale baan opgaat.",
             "sv-SE": "Passagerarna sitter i säten som hänger under spåret och färdas i hög fart genom gigantiska loopar, svängar och höga fall.",
-            "ko-KR": "승객들이 트랙 아래쪽에 매달려 있어 원형 코스, 뒤틀린 코스, 급하강 코스를 빠른 속도로 통과하는 롤러코스터",
+            "ko-KR": "거대한 루프, 트위스트와 급격한 낙하 트랙을 따라 이동하며, 탑승객이 트랙 아래에 매달린 좌석에 앉는 차량",
             "zh-TW": "遊客坐在懸吊在軌道下的座椅上，當快速通過大型旋轉迴圈，令人感覺有俯衝下墜感。",
-            "pt-BR": "Os visitantes se acomodam em assentos suspensos abaixo da pista enquanto correm por loops gigantes, inversões e quedas grandes e íngremes"
+            "pt-BR": "Os visitantes se acomodam em assentos suspensos abaixo da pista enquanto correm por loops gigantes, inversões e quedas grandes e íngremes",
+            "cs-CZ": "Vozy jsou zavěšeny na kolejnicích s ostrými zatáčkami a ostrými pády",
+            "pl-PL": "Pasażerowie jadą w podwieszanych wagonikach, pokonujących błyskawicznie wielkie pętle, wiraże i długie zjazdy",
+            "ru-RU": "Кабинки подвешены, горки допускают вращение и резкие падения."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -76,11 +84,14 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por coche",
             "it-IT": "4 passeggeri per carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-TW": "每輛車限乘4人",
-            "pt-BR": "4 passageiros por vagão"
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 человека в вагоне"
         }
     }
 }

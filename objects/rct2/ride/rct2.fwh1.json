@@ -138,7 +138,12 @@
             "sv-SE": "Pariserhjul",
             "zh-CN": "摩天轮",
             "zh-TW": "摩天輪",
-            "pt-BR": "Roda-Gigante"
+            "pt-BR": "Roda-Gigante",
+            "cs-CZ": "Ruské kolo",
+            "ja-JP": "観覧車",
+            "ko-KR": "관람차",
+            "pl-PL": "Diabelski młyn",
+            "ru-RU": "Колесо"
         },
         "description": {
             "en-GB": "Rotating big wheel with open chairs",
@@ -146,12 +151,16 @@
             "de-DE": "Rotierendes Riesenrad mit offenen Sitzen",
             "es-ES": "Gran rueda rotante con asientos al aire libre",
             "it-IT": "Grande ruota rotante con sedili aperti",
-            "nl-NL": "Roterend groot rad met open stoelen",
+            "nl-NL": "Groot draaiend rad met open stoeltjes.",
             "sv-SE": "Roterande stora hjul med öppna stolar",
-            "ko-KR": "뚜껑 없는 의자로 이루어진 커다란 회전 바퀴",
+            "ko-KR": "개방형 의자를 가진 대형 회전 관람차",
             "zh-CN": "大型的轮子上有16张座椅",
-            "zh-TW": "大型的輪子上有16張座椅",
-            "pt-BR": "Grande roda-gigante com cadeiras abertas"
+            "zh-TW": "不斷旋轉, 附有露天座椅的巨大輪環",
+            "pt-BR": "Grande roda-gigante com cadeiras abertas",
+            "cs-CZ": "Velké otáčející se kolo s otevřenými sedadly",
+            "ja-JP": "屋根のないイスが付いた、大きな観覧車です",
+            "pl-PL": "Wielkie obrotowe koło z otwartymi wagonikami",
+            "ru-RU": "Большое колесо обозрения"
         },
         "capacity": {
             "en-GB": "32 passengers",
@@ -161,10 +170,14 @@
             "it-IT": "32 passeggeri",
             "nl-NL": "32 passagiers",
             "sv-SE": "32 passagerare",
-            "ko-KR": "정원 32명",
+            "ko-KR": "승객 32명",
             "zh-CN": "32位客人",
-            "zh-TW": "32位客人",
-            "pt-BR": "32 passageiros"
+            "zh-TW": "32位乘客",
+            "pt-BR": "32 passageiros",
+            "cs-CZ": "32 návštěvníků",
+            "ja-JP": "定員32名",
+            "pl-PL": "32 pasażerów",
+            "ru-RU": "32 пассажира"
         }
     }
 }

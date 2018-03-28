@@ -47,14 +47,21 @@
     "images": ["$RCT2:OBJDATA/FOOTBALL.DAT[0..4622]"],
     "strings": {
         "name": {
-            "en-GB": "Football Ride",
+            "en-GB": "Football Trains",
             "fr-FR": "Coupe du monde",
             "de-DE": "Fußballbahn",
             "es-ES": "Atracción Fútbol",
             "it-IT": "Calcio",
-            "nl-NL": "Voetbal-Attractie",
+            "nl-NL": "Voetbalkarretjes",
             "sv-SE": "Fotbollsbana",
-            "zh-CN": "足球游乐设施"
+            "zh-CN": "足球游乐设施",
+            "ar-EG": "قطارات كرة القدم",
+            "cs-CZ": "Fotbalová horská dráha",
+            "en-US": "Football Trains",
+            "ko-KR": "풋볼 차량",
+            "pl-PL": "Kolejka futbolowa",
+            "pt-BR": "Trens Bola de Futebol",
+            "ru-RU": "Футбол"
         },
         "description": {
             "en-GB": "Suspended roller coaster train consisting of football-shaped cars able to swing freely as the train goes around corners",
@@ -62,9 +69,13 @@
             "de-DE": "Hängender Achterbahnzug mit Wagen, die Fußbällen nachempfunden sind und in Kurven frei schwingen können",
             "es-ES": "Tren suspendido consistente en vagones con forma de balón de fútbol, los cuales se balancean libremente al tomar las curvas",
             "it-IT": "Ottovolante sospeso con carrozze a forma di pallone da calcio che possono oscillare liberamente quando percorrono le curve",
-            "nl-NL": "Hangende Achtbaantrein die bestaat uit voetbalvormige wagentjes die ongehinderd kunnen slingeren als de trein door bochten gaat",
+            "nl-NL": "Omgekeerde achtbaantrein bestaande uit karretjes in de vorm van een enorme voetbal, die vrijuit kunnen schommelen als de trein door een bocht gaat.",
             "sv-SE": "Upphängda berg- och dalbanevagnar i form av fotbollar som gungar fritt runt hörn",
-            "zh-CN": "悬吊式云霄飞车以足球为车辆外型使其能在转弯时能自由摆动摇荡"
+            "zh-CN": "悬吊式云霄飞车以足球为车辆外型使其能在转弯时能自由摆动摇荡",
+            "cs-CZ": "Zavěšená horská dráha s vozy připomínající fotbalové míče, které se houpají v zatáčkách",
+            "ko-KR": "차량이 코너를 돌면 자유롭게 흔들거리게 만들어진 풋볼 모양의 서스펜디드 롤러코스터 차량",
+            "pl-PL": "Kolejka górska z podwieszanymi wagonikami w kształcie piłek, które bujają się swobodnie na zakrętach",
+            "ru-RU": "Подвешенные горки на футбольную тему"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -72,9 +83,13 @@
             "de-DE": "4 pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri per carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "?每辆车限乘4人"
+            "zh-CN": "?每辆车限乘4人",
+            "cs-CZ": "4 místa v každém voze",
+            "ko-KR": "차량당 4명의 승객",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 человека на вагон"
         }
     }
 }

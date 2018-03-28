@@ -80,16 +80,21 @@
     "images": ["$RCT2:OBJDATA/POLCHASE.DAT[0..4322]"],
     "strings": {
         "name": {
-            "en-GB": "Police Chase Coaster",
+            "en-GB": "Police Car Trains",
             "fr-FR": "Course poursuite policière",
             "de-DE": "Polizeiverfolgungsjagd-Achterbahn",
             "es-ES": "Montaña rusa Persecución policial",
             "it-IT": "Ottovolante inseguimento della polizia",
-            "nl-NL": "Politieachtervolging-achtbaan",
+            "nl-NL": "Politietrein",
             "sv-SE": "Polisjakt",
-            "ko-KR": "폴리스 체이스 코스터",
+            "ko-KR": "경찰차 차량",
             "zh-TW": "警匪追逐戰雲霄飛車",
-            "pt-BR": "Montanha de Perseguição Policial"
+            "pt-BR": "Trens Carro de Polícia",
+            "ar-EG": "قطار سيارات الشرطة",
+            "cs-CZ": "Policejní honička",
+            "en-US": "Police Car Trains",
+            "pl-PL": "Policyjny pościg",
+            "ru-RU": "Горки-Погоня"
         },
         "description": {
             "en-GB": "A looping roller coaster where the riders ride in a sitting position",
@@ -97,11 +102,14 @@
             "de-DE": "Eine Achterbahn mit Loopings, in der die Fahrer sitzend fahren",
             "es-ES": "Una montaña rusa llena de bucles en la que los viajeros van sentados",
             "it-IT": "Un ottovolante con giro della morte in cui i passeggeri stanno in posizione seduta.",
-            "nl-NL": "Een achtbaan met loopings waarin de bezoekers zittend rijden.",
+            "nl-NL": "Achtbaantrein met schootbeugels, die door loopings kan rijden.",
             "sv-SE": "En berg- och dalbana med loopar där passagerarna åker sittande.",
-            "ko-KR": "앉아서 타는 루핑 롤러코스터",
+            "ko-KR": "손님이 일어선 자세로 탑승하는 루핑 롤러코스터",
             "zh-TW": "一座由乘客以站立姿態乘座的迴圈式雲霄飛車",
-            "pt-BR": "Uma montanha-russa com loop onde os visitantes viajam sentados"
+            "pt-BR": "Uma montanha-russa com loop onde os visitantes viajam sentados",
+            "cs-CZ": "Horská dráha s loopingy, na které návštěvníci ve vozech sedí",
+            "pl-PL": "Kolejka górska z pętlami, w której pasażerowie jadą na siedząco",
+            "ru-RU": "Круговые горки. Люди едут сидя."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -109,11 +117,14 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por coche",
             "it-IT": "4 passeggeri per carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-TW": "每輛車限乘4人",
-            "pt-BR": "4 passageiros por vagão"
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 чел. в кабине"
         }
     }
 }

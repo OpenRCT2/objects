@@ -43,17 +43,23 @@
     "images": ["$RCT2:OBJDATA/IVMC1.DAT[0..590]"],
     "strings": {
         "name": {
-            "en-GB": "Inverted Hairpin Coaster",
+            "en-GB": "Four-seater Cars",
             "fr-FR": "Epingle à cheveux inversée",
             "de-DE": "Umgekehrte Haarnadelbahn",
             "es-ES": "Horquilla Invertida",
             "it-IT": "Corsa a U invertita",
-            "nl-NL": "Inversie Haarspeld Achtbaan",
+            "nl-NL": "Vierpersoonskarretje",
             "sv-SE": "Inverterad hårnålsbana",
-            "ko-KR": "인버티드 헤어핀 코스터",
+            "ko-KR": "4인승 인버티드 헤어핀 차량",
             "zh-CN": "反转U型过山车",
             "zh-TW": "反轉U型飛車",
-            "pt-BR": "Montanha Invertida Fechada"
+            "pt-BR": "Carros com 4 assentos",
+            "ar-EG": "Four-seater Cars",
+            "cs-CZ": "Čtyřmístná horská dráha",
+            "en-US": "Four-seater Cars",
+            "ja-JP": "インバーテッド・ヘアピン・コースター",
+            "pl-PL": "Kolejka serpentynowa",
+            "ru-RU": "Обратные поворот. горки"
         },
         "description": {
             "en-GB": "Individual cars run beneath a zig-zagging track with hairpin turns and sharp drops",
@@ -61,12 +67,16 @@
             "de-DE": "Einzelne Wagen fahren unter einer Zickzack-Strecke mit Haarnadelkurven und steilen Gefällen",
             "es-ES": "Vagones individuales corren bajo una vía zig-zageante",
             "it-IT": "Carrozze individuali corrono sotto un tracciato a zig-zag con curve a U e ripide discese",
-            "nl-NL": "Individuele wagentjes lopen over een zigzag baan met haarspeldbochten en plotselinge vallen",
+            "nl-NL": "Losse karretjes hangen onder een zigzaggende baan met haarspeldbochten en scherpe afdalingen.",
             "sv-SE": "Individuella vagnar kör nedanför ett spår med hårnålssvängar och kraftiga nerförsbackar",
-            "ko-KR": "헤어핀 모양의 트랙과 가파른 경사길을 트랙에 매달려 지그재그로 내려오는 분리된 롤러코스터",
+            "ko-KR": "급회전과 급경사를 가진 지그재그 모양의 트랙 아래를 달리는 개별 차량",
             "zh-CN": "反转过山车在U型回转及垂直向下急转轨道上运行",
             "zh-TW": "反轉飛車在U型迴轉及垂直向下急轉軌道上運行",
-            "pt-BR": "Vagões individuais correm abaixo de uma pista de zigue-zague com curvas fechadas e quedas íngremes"
+            "pt-BR": "Vagões individuais correm abaixo de uma pista de zigue-zague com curvas fechadas e quedas íngremes",
+            "cs-CZ": "Vozy jsou zavěšeny na kolejnicích s ostrými zatáčkami a ostrými pády",
+            "ja-JP": "ジグザグのコースの下に個別の車両があり、ヘアピンや急降下を進むコースターです",
+            "pl-PL": "Pojedyncze wagoniki jeżdżą podwieszone pod torem z ostrymi zakrętami i gwałtownymi spadkami",
+            "ru-RU": "Отдельные вагончики едут по зигзагообразному треку с разворотами и падениями"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -74,12 +84,16 @@
             "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri a carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "ko-KR": "차량 정원 4명",
+            "ko-KR": "차량당 4명의 승객",
             "zh-CN": "4 位乘客/每个车厢",
             "zh-TW": "4 位乘客/每個車廂",
-            "pt-BR": "4 passageiros por vagão"
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

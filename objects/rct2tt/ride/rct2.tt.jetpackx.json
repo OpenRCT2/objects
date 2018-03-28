@@ -50,11 +50,14 @@
             "de-DE": "Jet Pack-Beschleuniger",
             "es-ES": "Mochila de impulsión a chorro",
             "it-IT": "Razzi propulsori",
-            "nl-NL": "Straalpak Booster",
+            "nl-NL": "Jetpack-booster",
             "sv-SE": "Jetpackfärd",
-            "ko-KR": "젯 팩 부스터",
+            "ko-KR": "제트 팩 부스터",
             "zh-TW": "噴射背包推進器",
-            "pt-BR": "Nave a Jato"
+            "pt-BR": "Nave a Jato",
+            "cs-CZ": "Jet Pack Booster",
+            "pl-PL": "Lot z plecakiem rakietowym",
+            "ru-RU": "Бустер"
         },
         "description": {
             "en-GB": "Riders sit in a vehicle which is launched up a vertical section of track",
@@ -62,11 +65,14 @@
             "de-DE": "Die Fahrgäste sitzen in einem Wagen, der senkrecht hinaufkatapultiert wird.",
             "es-ES": "Los viajeros se montan en un vehículo que se lanza por un guía vertical.",
             "it-IT": "I passeggeri siedono su un veicolo lanciato lungo una sezione verticale del tracciato.",
-            "nl-NL": "Rijders zitten in een voertuig dat bij een verticaal stuk van de baan omhoog wordt gelanceerd",
+            "nl-NL": "Passagiers zitten in een voertuig dat gelanceerd wordt over een verticale baan.",
             "sv-SE": "Passagerarna sitter i ett fordon som skjuts upp längs ett vertikalt spår.",
-            "ko-KR": "승객은 트랙의 수직 부분에서 발사되는 차량에 탑승합니다.",
+            "ko-KR": "탑승객이 트랙의 수직 섹션을 따라 발사되는 차량에 탑승하는 놀이기구",
             "zh-TW": "乘客乘坐在朝軌道垂直段往上發射的交通工具上",
-            "pt-BR": "Os passageiros se sentam num veículo que é lançado para cima numa seção vertical de pista"
+            "pt-BR": "Os passageiros se sentam num veículo que é lançado para cima numa seção vertical de pista",
+            "cs-CZ": "Návštěvníci sedí ve voze, který je vystřelen po kolmé dráze",
+            "pl-PL": "Pasażerowie podróżują w pojeţdzie wystrzeliwanym na pionowy odcinek toru",
+            "ru-RU": "Люди сидят в машине, запускаемой по вертикальному треку"
         },
         "capacity": {
             "en-GB": "8 passengers per car",
@@ -74,11 +80,14 @@
             "de-DE": "8 Fahrgäste pro Wagen",
             "es-ES": "8 pasajeros por coche",
             "it-IT": "8 passeggeri per carrozza",
-            "nl-NL": "8 passagiers per wagentje",
+            "nl-NL": "8 passagiers",
             "sv-SE": "8 passagerare per fordon",
-            "ko-KR": "차량 정원 8명",
+            "ko-KR": "차량당 8명의 승객",
             "zh-TW": "每輛車限乘8人",
-            "pt-BR": "8 passageiros por vagão"
+            "pt-BR": "8 passageiros por vagão",
+            "cs-CZ": "8 míst v každém voze",
+            "pl-PL": "8 pasażerów na pojazd",
+            "ru-RU": "8 человек"
         }
     }
 }

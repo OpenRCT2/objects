@@ -47,14 +47,21 @@
     "images": ["$RCT2:OBJDATA/GORILLA.DAT[0..4622]"],
     "strings": {
         "name": {
-            "en-GB": "Gorilla Ride",
+            "en-GB": "Gorilla Trains",
             "fr-FR": "Gorille",
             "de-DE": "Gorillabahn",
             "es-ES": "Atracción Gorila",
             "it-IT": "I gorilla",
-            "nl-NL": "Gorilla-Attractie",
+            "nl-NL": "Gorillakarretjes",
             "sv-SE": "Gorillabana",
-            "zh-CN": "大猩猩游乐设施"
+            "zh-CN": "大猩猩游乐设施",
+            "ar-EG": "Gorilla Trains",
+            "cs-CZ": "Gorilí horská dráha",
+            "en-US": "Gorilla Trains",
+            "ko-KR": "고릴라 차량",
+            "pl-PL": "Przejażdżka na gorylu",
+            "pt-BR": "Trens Gorila",
+            "ru-RU": "Горилла"
         },
         "description": {
             "en-GB": "Suspended roller coaster train consisting of gorilla-shaped cars able to swing freely as the train goes around corners",
@@ -62,9 +69,13 @@
             "de-DE": "Aufgehängter Achterbahnzug, dessen gorillaförmige Wagen frei schwingen können, wenn der Zug in die Kurven geht",
             "es-ES": "Tren en suspensión consistentes en vagones con forma de gorila capaces de balancearse con libertad al tomar las esquinas",
             "it-IT": "Ottovolante sospeso con carrozze a forma di gorilla che possono oscillare liberamente quando percorrono le curve",
-            "nl-NL": "Hangende achtbaan bestaand uit gorillawagentjes die vrij kunnen draaien als de trein door de bochten gaat",
+            "nl-NL": "Omgekeerde achtbaantrein bestaande uit karretjes in de vorm van een gorilla, die vrijuit kunnen schommelen als de trein door een bocht gaat.",
             "sv-SE": "Berg- och dalbana med upphängda, gorillaformade vagnar som svänger fritt i kurvorna",
-            "zh-CN": "由大猩猩外型车辆组成的悬挂式云霄飞车列车在转弯处自由摇荡运行"
+            "zh-CN": "由大猩猩外型车辆组成的悬挂式云霄飞车列车在转弯处自由摇荡运行",
+            "cs-CZ": "Zavěšená horská dráha s vozy připomínající gorily, které se houpají v zatáčkách",
+            "ko-KR": "차량이 코너를 돌면 자유롭게 흔들거리게 만들어진 고릴라 모양의 서스펜디드 롤러코스터 차량",
+            "pl-PL": "Kolejka górska z podwieszanymi wagonikami w kształcie goryli, które bujają się swobodnie na zakrętach",
+            "ru-RU": "Подвешенные вагончики в форме горилл, свободно качает в поворотах"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -72,9 +83,13 @@
             "de-DE": "4 pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri per carrozza",
-            "nl-NL": "4 passagiers per wagentje",
+            "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "每辆车限乘4人"
+            "zh-CN": "每辆车限乘4人",
+            "cs-CZ": "4 místa v každém voze",
+            "ko-KR": "차량당 4명의 승객",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 человека в вагоне"
         }
     }
 }

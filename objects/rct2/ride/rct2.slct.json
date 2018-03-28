@@ -53,17 +53,23 @@
     "images": ["$RCT2:OBJDATA/SLCT.DAT[0..1362]"],
     "strings": {
         "name": {
-            "en-GB": "Compact Inverted Coaster",
+            "en-GB": "Compact Inverted Coaster Trains",
             "fr-FR": "Montagnes compactes inversées",
             "de-DE": "Kompakte umgekehrte Bahn",
             "es-ES": "Montaña Rusa Compacta",
             "it-IT": "Ottovolante invertito compatto",
-            "nl-NL": "Compacte Inversie Achtbaan",
+            "nl-NL": "Compacte omgekeerde achtbaan",
             "sv-SE": "Kompakt omvänd bana",
-            "ko-KR": "컴팩트 인버티드 코스터",
+            "ko-KR": "컴팩트 인버티드 코스터 차량",
             "zh-CN": "简洁的反转过山车",
             "zh-TW": "簡潔的反轉飛車",
-            "pt-BR": "Montanha Compacta Invertida"
+            "pt-BR": "Trens Montanha Invertida Compacta",
+            "ar-EG": "Compact Inverted Coaster Trains",
+            "cs-CZ": "Malá zavěšená horská dráha",
+            "en-US": "Compact Inverted Coaster Trains",
+            "ja-JP": "コンパクト・インバーテッド・コースター",
+            "pl-PL": "Mała kolejka odwrócona",
+            "ru-RU": "Компактные горки"
         },
         "description": {
             "en-GB": "Riders sit in pairs of seats suspended beneath the track as they loop and twist through tight inversions",
@@ -71,12 +77,16 @@
             "de-DE": "Die Fahrgäste hängen in Sitzpaaren unter der Strecke und fahren Schleifen und Wendungen durch enge Kurven",
             "es-ES": "Los pasajeros se sientan en parejas atravesando rizos e inversiones",
             "it-IT": "I passeggeri siedono in coppia sospesi al tracciato e affrontano giri della morte, curve e improvvise inversioni",
-            "nl-NL": "Bezoekers zitten in paarsgewijs gekoppelde stoelen die onder de baan hangen en maken loopings en draaien door nauwe bochten",
+            "nl-NL": "Passagiers zitten in stoelparen die onder de baan hangen terwijl ze door kronkelende en scherpe omkeringen gaan.",
             "sv-SE": "Passagerarna sitter i par i säten upphängda under spåret då de åker genom loopar och skruvar med snabba omkastningar",
-            "ko-KR": "원형 코스를 돌거나 급회전을 할 때마다 트랙에 매달려 짝을 지어 앉은 승객들의 방향이 바뀌어 서로 마주보기도 하고 등돌리기도 하는 롤러코스터",
+            "ko-KR": "트랙 밑에 매달린 좌석에 2명씩 마주보고 짝지어 앉아 루프와 트위스트와 급격한 전이 트랙을 지나는 차량",
             "zh-CN": "乘客成对地坐在悬挂在轨道下的坐椅一起历经牢固的反转回圈快速旋转",
             "zh-TW": "乘客成對地坐在懸掛在軌道下的坐椅一起歷經牢固的反轉迴圈快速旋轉",
-            "pt-BR": "Os passageiros sentam em pares de assentos suspensos entre a pista e passam por loops, curvas sinuosas e inversões fechadas"
+            "pt-BR": "Os passageiros sentam em pares de assentos suspensos entre a pista e passam por loops, curvas sinuosas e inversões fechadas",
+            "cs-CZ": "Návštěvníci sedí po dvou zavěšení pod tratí a jedou skrze loopingy a ostré zatáčky",
+            "ja-JP": "乗客はペアになってコースの下にぶら下がり、きつい反転やループ、ひねりのあるコースを走行するコースターです",
+            "pl-PL": "Pasażerowie podróżują parami w fotelach podwieszonych pod torem, pokonując pętle i ostre zakręty",
+            "ru-RU": "Люди сидят парами в подвешенных вагончиках."
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -84,12 +94,16 @@
             "de-DE": "2 Fahrgäste pro Wagen",
             "es-ES": "2 pasajeros por vagón",
             "it-IT": "2 passeggeri a carrozza",
-            "nl-NL": "2 passagiers per wagentje",
+            "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "ko-KR": "차량 정원 2명",
+            "ko-KR": "차량당 2명의 승객",
             "zh-CN": "2 位乘客/每个车厢",
             "zh-TW": "2 位乘客/每個車廂",
-            "pt-BR": "2 passageiros por carro"
+            "pt-BR": "2 passageiros por carro",
+            "cs-CZ": "2 místa v každém vozu",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира"
         }
     }
 }
