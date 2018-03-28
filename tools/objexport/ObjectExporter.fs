@@ -234,8 +234,8 @@ module ObjectExporter =
                 | Some includeType ->
                     (fun (obj: ObjectData) -> includeType = getObjTypeName obj.Type)
 
-            let processObject (path, obj) =
-                if not (isNull obj) && shouldObjectBeProcessed obj then
+            let processObject (path, (obj: ObjectData)) =
+                if not (isNull obj) && obj.Type <> ObjectTypes.ScenarioText && shouldObjectBeProcessed obj then
                     let strings =
                         match objectStrings.TryGetValue obj.ObjectHeader.FileName with
                         | true, value -> value
