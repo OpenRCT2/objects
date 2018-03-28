@@ -1,0 +1,14 @@
+image: ubuntu
+build_script:
+- sh: ./package.sh
+artifacts:
+- path: 'artifacts\objects.zip'
+deploy:
+  provider: GitHub
+  auth_token:
+    secure: 49K/y43epwh5Sb8uY1l/TbIFRPcEq6fraQaYGS0bgWQJfONznd6hCqPUCg7WSX16
+  artifact: artifacts\objects.zip
+  draft: true
+  on:
+    branch: master
+    appveyor_repo_tag: true
