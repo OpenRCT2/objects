@@ -1,0 +1,38 @@
+{
+    "id": "rct2.tt.pdflag14",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F921|PDFLAG14|22CF0E79",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 12,
+        "removalPrice": -9,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 96,
+        "animationDelay": 2,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/PDFLAG14.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Period Flag",
+            "fr-FR": "Drapeau moyenâgeux",
+            "de-DE": "Antike Flagge",
+            "es-ES": "Bandera final",
+            "it-IT": "Bandiera ricorrente",
+            "nl-NL": "Tijdperkvlag",
+            "sv-SE": "Historisk flagga",
+            "ko-KR": "시대 깃발",
+            "zh-TW": "區間旗標",
+            "pt-BR": "Bandeira de Época"
+        }
+    }
+}

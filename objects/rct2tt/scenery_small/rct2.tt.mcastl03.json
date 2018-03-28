@@ -1,0 +1,32 @@
+{
+    "id": "rct2.tt.mcastl03",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F821|MCASTL03|6C5F64CE",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 24,
+        "removalPrice": -18,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 128,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "2/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/MCASTL03.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Castle Wall",
+            "fr-FR": "Mur du château",
+            "de-DE": "Schlossmauer",
+            "es-ES": "Muro de castillo",
+            "it-IT": "Muro del Castello",
+            "nl-NL": "Muur Kasteel",
+            "sv-SE": "Slottsvägg",
+            "ko-KR": "성곽",
+            "zh-TW": "城堡牆",
+            "pt-BR": "Muro de Castelo"
+        }
+    }
+}

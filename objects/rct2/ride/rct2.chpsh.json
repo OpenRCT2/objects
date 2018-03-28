@@ -1,0 +1,49 @@
+{
+    "id": "rct2.chpsh",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|CHPSH   |7A476E0A",
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": "chips",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/CHPSH.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Chip Shop",
+            "en-US": "Fries Shop",
+            "fr-FR": "Chips shop",
+            "de-DE": "Fritten-Laden",
+            "es-ES": "Puesto patatas fritas",
+            "it-IT": "Chiosco a patatina",
+            "nl-NL": "Winkel met Chips",
+            "sv-SE": "Chipsaffär",
+            "ko-KR": "과자 가게",
+            "zh-CN": "薯片店",
+            "zh-TW": "洋芋片店",
+            "pt-BR": "Loja de Fritas"
+        },
+        "description": {
+            "en-GB": "A hut selling chips",
+            "en-US": "A hut selling fries",
+            "fr-FR": "Cabane vendant des chips",
+            "de-DE": "Ein Häuschen, in dem Pommes Frites verkauft werden",
+            "es-ES": "Un puesto que vende patatas fritas",
+            "it-IT": "Una capanna che vende patatine",
+            "nl-NL": "Een hut waarin chips wordt verkocht",
+            "sv-SE": "En butik där man säljer chips",
+            "ko-KR": "과자를 파는 건물",
+            "zh-CN": "一间卖薯片的小屋子",
+            "zh-TW": "一間賣洋芋片的小屋子",
+            "pt-BR": "Uma cabana vendendo batatas fritas"
+        }
+    }
+}

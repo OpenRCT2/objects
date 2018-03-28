@@ -1,0 +1,36 @@
+{
+    "id": "rct2.tt.jailxx07",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|JAILXX07|EC3C6702",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": -6,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 8,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/JAILXX07.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Prison Wall Roof",
+            "fr-FR": "Toit de mur de prison",
+            "de-DE": "Gefängnismauerdach",
+            "es-ES": "Tejado de muro de prisión",
+            "it-IT": "Tetto del muro della prigione",
+            "nl-NL": "Dak Gevangenis",
+            "sv-SE": "Takdel, fängelse",
+            "ko-KR": "감옥 벽 지붕",
+            "zh-TW": "監獄屋頂牆",
+            "pt-BR": "Topo de Parede de Prisão"
+        }
+    }
+}

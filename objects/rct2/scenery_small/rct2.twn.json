@@ -1,0 +1,30 @@
+{
+    "id": "rct2.twn",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F81|TWN     |2F72F539",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": 11,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 76,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TWN.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Walnut Tree",
+            "fr-FR": "Noyer",
+            "de-DE": "Walnussbaum",
+            "es-ES": "Nogal",
+            "it-IT": "Nocciolo",
+            "nl-NL": "Walnootboom",
+            "sv-SE": "Valnöt",
+            "ko-KR": "호두나무",
+            "zh-CN": "胡桃树",
+            "zh-TW": "胡桃樹",
+            "pt-BR": "Árvore Nogueira"
+        }
+    }
+}

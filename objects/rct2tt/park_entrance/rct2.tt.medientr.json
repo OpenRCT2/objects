@@ -1,0 +1,26 @@
+{
+    "id": "rct2.tt.medientr",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F928|MEDIENTR|0C237B4D",
+    "objectType": "park_entrance",
+    "properties": {
+        "scrollingMode": 3,
+        "textHeight": 79
+    },
+    "images": ["$RCT2:OBJDATA/MEDIENTR.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Dark Age Entrance",
+            "fr-FR": "Entrée médiévale",
+            "de-DE": "Eingang zum Finsteren Mittelalter",
+            "es-ES": "Entrada a Edad Media",
+            "it-IT": "Entrata dell'Età Oscura",
+            "nl-NL": "Ingang Middeleeuwen",
+            "sv-SE": "Medeltida entré",
+            "ko-KR": "암흑 시대 입구",
+            "zh-TW": "黑暗時代入口",
+            "pt-BR": "Entrada da Idade Média"
+        }
+    }
+}

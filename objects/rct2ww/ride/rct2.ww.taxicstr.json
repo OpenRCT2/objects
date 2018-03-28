@@ -1,0 +1,132 @@
+{
+    "id": "rct2.ww.taxicstr",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC4D810|TAXICSTR|1724490B",
+    "objectType": "ride",
+    "properties": {
+        "type": "giga_rc",
+        "category": "rollercoaster",
+        "hasShelter": true,
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 8,
+        "numEmptyCars": 1,
+        "defaultCar": 1,
+        "headCars": 0,
+        "tailCars": 2,
+        "carColours": [
+            [
+                ["white", "bright_red", "yellow"]
+            ],
+            [
+                ["bright_red", "dark_green", "black"]
+            ],
+            [
+                ["yellow", "black", "bright_red"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 244048,
+                "mass": 600,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [5, 3, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 226616,
+                "mass": 500,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [7, 9, -3, -1]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 52296,
+                "mass": 50,
+                "frictionSoundId": 2,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true
+                }
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/TAXICSTR.DAT[0..4470]"],
+    "strings": {
+        "name": {
+            "en-GB": "Yellow Taxi Coaster",
+            "fr-FR": "Taxi 1",
+            "de-DE": "Taxi-Achterbahn",
+            "es-ES": "1 Montaña del Taxi",
+            "it-IT": "Ottovolante taxi",
+            "nl-NL": "1 Taxi Achtbaan",
+            "sv-SE": "1 taxibana",
+            "zh-CN": "1 出租车设施"
+        },
+        "description": {
+            "en-GB": "A giant steel roller coaster capable of smooth drops and hills of over 300ft",
+            "fr-FR": "Montagnes russes géantes proposant des chutes régulières depuis des collines dépassant les 100 mètres d'altitude",
+            "de-DE": "Eine gigantische Stahlachterbahn mit gemäßigten Gefällen und Anstiegen von über 90 Metern",
+            "es-ES": "Una montaña rusa gigante capaz de caídas suaves y subidas de más de 300 pies",
+            "it-IT": "Un gigantesco ottovolante d'acciaio che alterna dolci discese a salite di oltre 100 metri",
+            "nl-NL": "Een Gigantische stalen achtbaan die glooiende hellingen en heuvels van 100 meter hoog afdaalt",
+            "sv-SE": "En gigantisk berg- och dalbana av stål som färdas på och nedför över 90 meter höga kullar",
+            "zh-CN": "一座巨大的云霄飞车可以缓慢地降落及拉升到300英尺高的山丘A"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "zh-CN": "每辆车限乘4人"
+        }
+    }
+}

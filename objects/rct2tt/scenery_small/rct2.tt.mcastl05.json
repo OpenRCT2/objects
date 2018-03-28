@@ -1,0 +1,32 @@
+{
+    "id": "rct2.tt.mcastl05",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F821|MCASTL05|E583150F",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 28,
+        "removalPrice": -20,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 128,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/MCASTL05.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Castle Ramparts Corner",
+            "fr-FR": "Virage des remparts du château",
+            "de-DE": "Schlosswall-Ecke",
+            "es-ES": "Esquina de muralla de castillo",
+            "it-IT": "Curva dei bastioni del Castello",
+            "nl-NL": "Bocht bolwerken Kasteel",
+            "sv-SE": "Vallhörn, slott",
+            "ko-KR": "성 누벽 모서리",
+            "zh-TW": "城堡壁壘牆角",
+            "pt-BR": "Canto de Baluartes de Castelo"
+        }
+    }
+}

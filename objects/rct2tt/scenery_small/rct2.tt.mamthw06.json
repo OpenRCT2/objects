@@ -1,0 +1,36 @@
+{
+    "id": "rct2.tt.mamthw06",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F721|MAMTHW06|1F3FA18A",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 7,
+        "removalPrice": -4,
+        "cursor": "CURSOR_FENCE_DOWN",
+        "height": 24,
+        "sceneryGroup": "SCGFENCE",
+        "shape": "2/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/MAMTHW06.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Small Angled Mammoth Fence",
+            "fr-FR": "Clôture à mammouths peu courbée",
+            "de-DE": "Kleiner Abgewinkelter Mammutzaun",
+            "es-ES": "Pequeña valla angulosa de mamut",
+            "it-IT": "Piccola recinzione di mammut ad angolo",
+            "nl-NL": "Mammoethek onder kleine hoek",
+            "sv-SE": "Litet vinklat mammutstaket",
+            "ko-KR": "작게 각진 매머드 울타리",
+            "zh-TW": "小型多方向長毛象柵欄",
+            "pt-BR": "Cerca de Mamute Inclinada Pequena"
+        }
+    }
+}

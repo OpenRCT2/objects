@@ -1,0 +1,40 @@
+{
+    "id": "rct2.scgpathx",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGPATHX|C2272849",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "LAMP1",
+            "LAMP2",
+            "LITTER1",
+            "BENCH1",
+            "QTV1",
+            "BN1",
+            "WALLPOST",
+            "WALLSIGN",
+            "SSIG1",
+            "SSIG2",
+            "SSIG3",
+            "SSIG4"
+        ],
+        "priority": 10
+    },
+    "images": ["$RCT2:OBJDATA/SCGPATHX.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Signs and Items for Footpaths",
+            "fr-FR": "Panneaux et éléments pour allées",
+            "de-DE": "Schilder und Objekte für Fußwege",
+            "es-ES": "Señales y artículos para caminos",
+            "it-IT": "Insegne e oggetti per i sentieri",
+            "nl-NL": "Wegbewijzering en onderdelen voor Voetpaden",
+            "sv-SE": "Skyltar och föremål till gångvägar",
+            "ko-KR": "보도용 신호와 항목",
+            "zh-CN": "道路标示与事物",
+            "zh-TW": "道路標示與事物",
+            "pt-BR": "Placas e Itens para Caminhos"
+        }
+    }
+}

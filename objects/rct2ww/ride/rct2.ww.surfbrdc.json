@@ -1,0 +1,125 @@
+{
+    "id": "rct2.ww.surfbrdc",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0810|SURFBRDC|D0447CB8",
+    "objectType": "ride",
+    "properties": {
+        "type": "twister_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 4,
+        "maxCarsPerTrain": 7,
+        "numEmptyCars": 1,
+        "tabCar": 1,
+        "headCars": 1,
+        "ratingMultipler": {
+            "excitement": 2,
+            "intensity": 15,
+            "nausea": 10
+        },
+        "maxHeight": 40,
+        "carColours": [
+            [
+                ["yellow", "black", "bright_red"]
+            ],
+            [
+                ["light_purple", "bordeaux_red", "yellow"]
+            ],
+            [
+                ["light_blue", "black", "teal"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 130740,
+                "mass": 740,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [-2, -4, -2, -4]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 69728,
+                "mass": 525,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "corkscrews": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SURFBRDC.DAT[0..3350]"],
+    "strings": {
+        "name": {
+            "en-GB": "Surfing Coaster",
+            "fr-FR": "Montagnes surf",
+            "de-DE": "Surfbahn",
+            "es-ES": "Montaña Surfing",
+            "it-IT": "Ottovolante surf",
+            "nl-NL": "Surf-Achtbaan",
+            "sv-SE": "Surfingbana",
+            "zh-CN": "冲浪设施"
+        },
+        "description": {
+            "en-GB": "Riders ride in a standing position in wide coaster trains with specially designed restraints as they race down smooth drops and through multiple inversions",
+            "fr-FR": "Les passagers suivent un parcours jalonné de pentes régulières et de multiples inversions, debouts dans de grands trains disposant de protections spéciales",
+            "de-DE": "Die Passagiere fahren stehend in breiten Zügen mit speziellen Halterungen durch sanfte Gefälle und mehrere Überkopfteile",
+            "es-ES": "Los pasajeros viajan de pie en amplios trenes con sujeciones especialmente diseñadas, y recorren suaves caídas con múltiples inversiones",
+            "it-IT": "I passeggeri trovano posto in piedi su carrozze larghe e sono trattenuti da appositi elementi di sicurezza mentre affrontano discese dolci e numerose inversioni",
+            "nl-NL": "Attractie waarin bezoekers staan in ruime achtbaantreinen met speciaal vormgegeven beveiligingen, die omlaag racen langs glooiende hellingen en vele omkeringen",
+            "sv-SE": "Passagerarna står upp i breda vagnar som är utrustade med specialbälten och färdas utför branta stup och genom avsnitt med tvära omkastningar",
+            "zh-CN": "乘客搭乘有特殊设计保护的宽敞列车中以站立姿态平稳地通过下坠及多样化的回转装置"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "zh-CN": "每辆车限乘4人4 passengers per car"
+        }
+    }
+}

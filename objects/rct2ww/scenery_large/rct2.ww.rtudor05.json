@@ -1,0 +1,38 @@
+{
+    "id": "rct2.ww.rtudor05",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A12|RTUDOR05|7993B8F5",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": -150,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 32,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 32,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/RTUDOR05.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tudor Roof Piece 3",
+            "fr-FR": "Pan de toit Tudor 3",
+            "de-DE": "Tudor Dach-Bauteil 3",
+            "es-ES": "Pieza de tejado Tudor 3",
+            "it-IT": "Pezzo di tetto Tudor 3",
+            "nl-NL": "Stuk Dak in Tudorstijl 3",
+            "sv-SE": "Tudor-takdel 3"
+        }
+    }
+}

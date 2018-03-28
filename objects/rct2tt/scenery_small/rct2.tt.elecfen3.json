@@ -1,0 +1,42 @@
+{
+    "id": "rct2.tt.elecfen3",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F721|ELECFEN3|0B32C3FE",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 33,
+        "removalPrice": -26,
+        "cursor": "CURSOR_FENCE_DOWN",
+        "height": 72,
+        "animationDelay": 2,
+        "animationMask": 15,
+        "numFrames": 16,
+        "sceneryGroup": "SCGFENCE",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/ELECFEN3.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Electric Fence with Light",
+            "fr-FR": "Clôture électrique illuminée",
+            "de-DE": "Elektrozaun mit Licht",
+            "es-ES": "Valla electrificada con luz",
+            "it-IT": "Recinzione elettrica con illuminazione",
+            "nl-NL": "Elektrisch hek met licht",
+            "sv-SE": "Elektriskt staket med ljus",
+            "ko-KR": "조명이 있는 전기 울타리",
+            "zh-TW": "有燈光的通電柵欄",
+            "pt-BR": "Cerca Elétrica com Luz"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": "rct2.ww.wmayan10",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31C11|WMAYAN10|2C0195B6",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 16,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WMAYAN10.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Lost City Wall Piece",
+            "fr-FR": "?Pan de mur de cité perdue",
+            "de-DE": "?Verlorene Stadt - Wand-Bauteil",
+            "es-ES": "Pieza de pared de ciudad perdida",
+            "it-IT": "Pezzo di muro di città perduta",
+            "nl-NL": "Stuk Muur Vergeten Stad",
+            "sv-SE": "Väggdel för förlorad stad"
+        }
+    }
+}

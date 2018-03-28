@@ -1,0 +1,29 @@
+{
+    "id": "rct2.wcw1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WCW1    |E2F42BBC",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50,
+        "sceneryGroup": "SCGFENCE"
+    },
+    "images": ["$RCT2:OBJDATA/WCW1.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Playing Card Wall",
+            "fr-FR": "Mur en cartes à jouer",
+            "de-DE": "Spielkartenwand",
+            "es-ES": "Pared de cartas",
+            "it-IT": "Muro a carta da gioco",
+            "nl-NL": "Speelkaarten muur",
+            "sv-SE": "Spelkortsmur",
+            "ko-KR": "카드 그림 벽",
+            "zh-CN": "卜克牌墙",
+            "zh-TW": "卜克牌牆",
+            "pt-BR": "Parede de Cartas"
+        }
+    }
+}

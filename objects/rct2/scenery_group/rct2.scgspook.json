@@ -1,0 +1,41 @@
+{
+    "id": "rct2.scgspook",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGSPOOK|E05DA063",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "SSK1",
+            "TDT1",
+            "TDT2",
+            "TDT3",
+            "TMM1",
+            "TMM2",
+            "TMM3",
+            "TGS1",
+            "TGS2",
+            "TGS3",
+            "TGS4",
+            "SMSKULL",
+            "WALLRK32"
+        ],
+        "priority": 32
+    },
+    "images": ["$RCT2:OBJDATA/SCGSPOOK.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Spooky Themeing",
+            "fr-FR": "Thème Terreur",
+            "de-DE": "Spukthema",
+            "es-ES": "Temática fantasmal",
+            "it-IT": "Tema spettrale",
+            "nl-NL": "Spook Thema",
+            "sv-SE": "Spöktema",
+            "ko-KR": "유령 테마",
+            "zh-CN": "幽灵主题区",
+            "zh-TW": "幽靈主題區",
+            "pt-BR": "Temática Fantasmagórica"
+        }
+    }
+}

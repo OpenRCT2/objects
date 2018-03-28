@@ -1,0 +1,29 @@
+{
+    "id": "rct2.wbw",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WBW     |09DC2C82",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 2,
+        "price": 50,
+        "sceneryGroup": "SCGFENCE"
+    },
+    "images": ["$RCT2:OBJDATA/WBW.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Bone Fence",
+            "fr-FR": "Clôture d'ossements",
+            "de-DE": "Knochenzaun",
+            "es-ES": "Valla de huesos",
+            "it-IT": "Recinto d'ossa",
+            "nl-NL": "Hek beenderen",
+            "sv-SE": "Benstaket",
+            "ko-KR": "뼈 울타리",
+            "zh-CN": "骨头栅栏",
+            "zh-TW": "骨頭柵欄",
+            "pt-BR": "Cerca de Ossos"
+        }
+    }
+}

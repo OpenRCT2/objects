@@ -1,0 +1,36 @@
+{
+    "id": "rct2.ssh",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C82|SSH     |DAB16EE4",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 70,
+        "removalPrice": -60,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 64,
+                "hasSupports": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SSH.DAT[0..7]"],
+    "strings": {
+        "name": {
+            "en-GB": "Space Capsule",
+            "fr-FR": "Navette spatiale",
+            "de-DE": "Weltraumzeichen",
+            "es-ES": "Cápsula espacial",
+            "it-IT": "Capsula spaziale",
+            "nl-NL": "Ruimtecapsule",
+            "sv-SE": "Rymdkapsel",
+            "ko-KR": "우주 캡슐",
+            "zh-CN": "太空船",
+            "zh-TW": "太空船",
+            "pt-BR": "Cápsula Espacial"
+        }
+    }
+}

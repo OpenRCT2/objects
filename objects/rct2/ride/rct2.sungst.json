@@ -1,0 +1,48 @@
+{
+    "id": "rct2.sungst",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SUNGST  |33E79400",
+    "objectType": "ride",
+    "properties": {
+        "type": "shop",
+        "category": "stall",
+        "sells": "sunglasses",
+        "disablePainting": true,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SUNGST.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sunglasses Stall",
+            "fr-FR": "Lunetier",
+            "de-DE": "Sonnenbrillenstand",
+            "es-ES": "Puesto de gafas de sol",
+            "it-IT": "Chiosco degli occhiali da sole",
+            "nl-NL": "Kraampje met Zonnebrillen",
+            "sv-SE": "Solglasögonstånd",
+            "ko-KR": "무설탕 껌 가게",
+            "zh-CN": "太阳眼镜店",
+            "zh-TW": "太陽眼鏡店",
+            "pt-BR": "Barraca de Óculos de Sol"
+        },
+        "description": {
+            "en-GB": "A stall selling all kinds of sunglasses",
+            "fr-FR": "Boutique vendant toute sorte de lunettes de soleil",
+            "de-DE": "Ein Stand, an dem alle Arten von Sonnenbrillen verkauft werden",
+            "es-ES": "Puesto que vende toda clase de gafas de sol",
+            "it-IT": "Un chiosco che vende tutti i tipi di occhiali da sole",
+            "nl-NL": "Een kraampje dat allerlei soorten zonnebrillen verkoopt",
+            "sv-SE": "Ett stånd som säljer alla sorters solglasögon",
+            "ko-KR": "무설탕 껌을 파는 건물",
+            "zh-CN": "一家卖各种款式的太阳眼镜的店",
+            "zh-TW": "一家賣各種款式的太陽眼鏡的店",
+            "pt-BR": "Uma barraca vendendo todos os  tipos de óculos"
+        }
+    }
+}

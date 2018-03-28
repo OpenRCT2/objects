@@ -1,0 +1,27 @@
+{
+    "id": "rct2.pathash",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188785|PATHASH |E3E40173",
+    "objectType": "footpath",
+    "properties": {
+        "supportType": "pole",
+        "scrollingMode": 0
+    },
+    "images": ["$RCT2:OBJDATA/PATHASH.DAT[0..145]"],
+    "strings": {
+        "name": {
+            "en-GB": "Ash Footpath",
+            "fr-FR": "Allée en bois",
+            "de-DE": "Aschefußweg",
+            "es-ES": "Sendero de ceniza",
+            "it-IT": "Sentiero di cenere",
+            "nl-NL": "As Voetpad",
+            "sv-SE": "Gångväg av aska",
+            "ko-KR": "회색 보도",
+            "zh-CN": "梣木步道",
+            "zh-TW": "梣木步道",
+            "pt-BR": "Caminho de Cascalho"
+        }
+    }
+}

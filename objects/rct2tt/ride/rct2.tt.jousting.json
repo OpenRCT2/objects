@@ -1,0 +1,79 @@
+{
+    "id": "rct2.tt.jousting",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F820|JOUSTING|B8B67191",
+    "objectType": "ride",
+    "properties": {
+        "type": "steeplechase",
+        "category": "rollercoaster",
+        "carColours": [
+            [
+                ["saturated_brown", "light_brown", "yellow"]
+            ],
+            [
+                ["black", "grey", "bright_red"]
+            ],
+            [
+                ["grey", "bordeaux_red", "yellow"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 278912,
+            "mass": 800,
+            "numSeats": 2,
+            "numSeatRows": 2,
+            "frictionSoundId": 2,
+            "soundRange": 0,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "diagonalSlopes": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [4, -4]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/JOUSTING.DAT[0..386]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jousting Knights Coaster",
+            "fr-FR": "Joute médiévale",
+            "de-DE": "Kämpfende Ritter-Achterbahn",
+            "es-ES": "Montaña rusa Caballero en la justa",
+            "it-IT": "Ottovolante del Torneo dei Cavalieri",
+            "nl-NL": "Duellerende ridder-achtbaan",
+            "sv-SE": "Riddartornering",
+            "ko-KR": "저스팅 나이츠 코스터",
+            "zh-TW": "騎士競技雲霄飛車",
+            "pt-BR": "Montanha-Russa de Cavaleiros em Duelo"
+        },
+        "description": {
+            "en-GB": "Riders sit on the back of Horse-shaped vehicles along a single-rail track",
+            "fr-FR": "Les passagers voyagent à bord de véhicules en forme de chevaux le long d'une voie monorail",
+            "de-DE": "Die Fahrgäste sitzen auf dem Rücken von Pferde-artigen Wagen auf einer Einschienen-Strecke.",
+            "es-ES": "Los pasajeros se montan en la grupa de vehículos en forma de caballos que van por una vía monorraíl.",
+            "it-IT": "I passeggeri attraversano un tracciato monorotaia, su veicoli a forma di cavallo.",
+            "nl-NL": "Bezoekers zitten achterop paardvormige voertuigen die langs één rail gaan.",
+            "sv-SE": "Passagerarna sitter på hästformade fordon och åker längs en enspårsbana.",
+            "ko-KR": "말 모양의 객차 뒤에 타고 하나의 레일 트랙을 따라 가는 놀이기구",
+            "zh-TW": "乘客坐在單軌軌道上戰馬外形的車輛後方",
+            "pt-BR": "Os visitantes sentam em veículos na forma de cavalos que correm por uma pista de monotrilho"
+        },
+        "capacity": {
+            "en-GB": "2 riders per vehicle",
+            "fr-FR": "2 passagers par véhicule",
+            "de-DE": "2 Fahrer pro Wagen",
+            "es-ES": "2 pasajeros por coche",
+            "it-IT": "2 passeggeri per veicolo",
+            "nl-NL": "2 rijders per voertuig",
+            "sv-SE": "2 passagerare per fordon",
+            "ko-KR": "차량 정원 2명",
+            "zh-TW": "每輛車限乘2人",
+            "pt-BR": "2 visitantes por veículo"
+        }
+    }
+}

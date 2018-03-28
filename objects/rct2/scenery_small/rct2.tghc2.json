@@ -1,0 +1,30 @@
+{
+    "id": "rct2.tghc2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TGHC2   |F29BA5F2",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 17,
+        "removalPrice": 10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 64,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TGHC2.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Hiba Tree",
+            "fr-FR": "Arbre d'Hiba",
+            "de-DE": "Hiba-Baum",
+            "es-ES": "Hiba",
+            "it-IT": "Hiba",
+            "nl-NL": "Hiba-Boom",
+            "sv-SE": "Hiba",
+            "ko-KR": "히바나무",
+            "zh-CN": "桸柏树",
+            "zh-TW": "桸柏樹",
+            "pt-BR": "Árvore Hiba"
+        }
+    }
+}

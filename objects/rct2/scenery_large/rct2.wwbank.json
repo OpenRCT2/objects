@@ -1,0 +1,55 @@
+{
+    "id": "rct2.wwbank",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C82|WWBANK  |81B53415",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 120,
+        "removalPrice": -75,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 48,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 48,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 48,
+                "hasSupports": true,
+                "walls": 12
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 48,
+                "hasSupports": true,
+                "walls": 6
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/WWBANK.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Bank",
+            "fr-FR": "Banque",
+            "es-ES": "Banco",
+            "it-IT": "Banca",
+            "ko-KR": "은행",
+            "zh-CN": "银行",
+            "zh-TW": "銀行",
+            "pt-BR": "Banco"
+        }
+    }
+}

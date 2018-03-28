@@ -1,0 +1,55 @@
+{
+    "id": "rct2.ww.eiffel",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0B12|EIFFEL  |D391688F",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": -150,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 225,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 225,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 225,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 225,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/EIFFEL.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Eiffel Tower",
+            "fr-FR": "Tour Eiffel",
+            "de-DE": "Eiffelturm",
+            "es-ES": "Torre Eiffel",
+            "it-IT": "Torre Eiffel",
+            "nl-NL": "Eiffeltoren",
+            "sv-SE": "Eiffeltornet",
+            "zh-CN": "艾菲尔铁塔"
+        }
+    }
+}

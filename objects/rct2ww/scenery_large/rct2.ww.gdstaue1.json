@@ -1,0 +1,55 @@
+{
+    "id": "rct2.ww.gdstaue1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31D12|GDSTAUE1|CAB537F2",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": -150,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 178,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 178,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 178,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 178,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/GDSTAUE1.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Gold Statue 1",
+            "fr-FR": "?Statue d'or 1",
+            "de-DE": "?Goldene Statue 1",
+            "es-ES": "?Estatua de oro 1",
+            "it-IT": "Statua d'oro 1",
+            "nl-NL": "Gouden beeld 1",
+            "sv-SE": "Guldstaty 1"
+        }
+    }
+}

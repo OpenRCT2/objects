@@ -1,0 +1,40 @@
+{
+    "id": "rct2.scgegypt",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGEGYPT|020ADF77",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "SSPX",
+            "SCLN",
+            "SPYR",
+            "TES1",
+            "TEN",
+            "TERS",
+            "TERB",
+            "TEP",
+            "WEW",
+            "LAMP3",
+            "BN4",
+            "BENCHSTN"
+        ],
+        "priority": 22
+    },
+    "images": ["$RCT2:OBJDATA/SCGEGYPT.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Egyptian Themeing",
+            "fr-FR": "Thème égyptien",
+            "de-DE": "Ägyptisches Thema",
+            "es-ES": "Temática egipcia",
+            "it-IT": "Tema egiziano",
+            "nl-NL": "Egyptisch Thema",
+            "sv-SE": "Egyptiskt tema",
+            "ko-KR": "이집트 테마",
+            "zh-CN": "埃及主题区",
+            "zh-TW": "埃及主題區",
+            "pt-BR": "Temática Egípcia"
+        }
+    }
+}

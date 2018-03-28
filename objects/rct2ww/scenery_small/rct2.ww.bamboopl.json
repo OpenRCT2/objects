@@ -1,0 +1,31 @@
+{
+    "id": "rct2.ww.bamboopl",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0011|BAMBOOPL|E31E80D9",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/BAMBOOPL.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Bamboo Plinth",
+            "fr-FR": "Plinthe de bambou",
+            "de-DE": "Bambussockel",
+            "es-ES": "Peana de bambú",
+            "it-IT": "Plinto di bambù",
+            "nl-NL": "Sokkel van Bamboe",
+            "sv-SE": "Bambuplint",
+            "zh-CN": "竹架"
+        }
+    }
+}

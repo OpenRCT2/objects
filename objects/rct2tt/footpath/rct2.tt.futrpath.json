@@ -1,0 +1,28 @@
+{
+    "id": "rct2.tt.futrpath",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB25|FUTRPATH|70FF71AD",
+    "objectType": "footpath",
+    "properties": {
+        "hasSupportImages": true,
+        "hasElevatedPathImages": true,
+        "supportType": "pole",
+        "scrollingMode": 0
+    },
+    "images": ["$RCT2:OBJDATA/FUTRPATH.DAT[0..164]"],
+    "strings": {
+        "name": {
+            "en-GB": "Circuit FootPath",
+            "fr-FR": "Allée circuit",
+            "de-DE": "Rundweg",
+            "es-ES": "Sendero circuito",
+            "it-IT": "Sentiero circuito",
+            "nl-NL": "Printplaatvoetpad",
+            "sv-SE": "Kretsgång",
+            "ko-KR": "순환 보도",
+            "zh-TW": "循環道路",
+            "pt-BR": "Trilha de Circuito"
+        }
+    }
+}

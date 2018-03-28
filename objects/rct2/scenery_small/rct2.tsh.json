@@ -1,0 +1,34 @@
+{
+    "id": "rct2.tsh",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TSH     |2FA50686",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 64,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TSH.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Horse Statue",
+            "fr-FR": "Statue de cheval",
+            "de-DE": "Pferdestatue",
+            "es-ES": "Estatua de caballo",
+            "it-IT": "Statua di cavallo",
+            "nl-NL": "Beeld Paard",
+            "sv-SE": "Häststaty",
+            "ko-KR": "말 동상",
+            "zh-CN": "马雕像",
+            "zh-TW": "馬雕像",
+            "pt-BR": "Estátua de Cavalo"
+        }
+    }
+}

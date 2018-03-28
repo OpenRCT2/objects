@@ -1,0 +1,36 @@
+{
+    "id": "rct2.stg2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C82|STG2    |A204C8AB",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 150,
+        "removalPrice": -125,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 160,
+                "hasSupports": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/STG2.DAT[0..7]"],
+    "strings": {
+        "name": {
+            "en-GB": "Castle Tower",
+            "fr-FR": "Tour de château",
+            "de-DE": "Burgturm",
+            "es-ES": "Torre del castillo",
+            "it-IT": "Torre del castello",
+            "nl-NL": "Kasteeltoren",
+            "sv-SE": "Slottstorn",
+            "ko-KR": "성곽",
+            "zh-CN": "城堡塔楼",
+            "zh-TW": "城堡塔樓",
+            "pt-BR": "Torre de Castelo"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "id": "rct2.tt.psntwl27",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F822|PSNTWL27|6B451D6D",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 28,
+        "removalPrice": -22,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "hasPrimaryColour": true,
+        "isPhotogenic": true,
+        "sceneryGroup": "SCGWALLS",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 32,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 32,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 32,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 32,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/PSNTWL27.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Dark Age Village Corner Roof Piece",
+            "fr-FR": "Section de toit du virage du village médiéval",
+            "de-DE": "Dacheckstück Mittelalterliches Dorf",
+            "es-ES": "Sección de esquina de tejado de pueblo medieval",
+            "it-IT": "Tratto di tetto in curva del villaggio dell'Età Oscura",
+            "nl-NL": "Bochtstuk dak Middeleeuws Dorp",
+            "sv-SE": "Takhörndel, medeltida by",
+            "ko-KR": "암흑시대 마을 코너 지붕조각",
+            "zh-TW": "黑暗時代村莊屋頂轉角塊",
+            "pt-BR": "Peça de Canto de Telhado de Vila da Idade Média"
+        }
+    }
+}

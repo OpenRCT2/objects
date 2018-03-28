@@ -1,0 +1,31 @@
+{
+    "id": "rct2.wallsign",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WALLSIGN|7FC85B12",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isBanner": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "height": 2,
+        "price": 120,
+        "scrollingMode": 34
+    },
+    "images": ["$RCT2:OBJDATA/WALLSIGN.DAT[0..7]"],
+    "strings": {
+        "name": {
+            "en-GB": "Scrolling Sign",
+            "fr-FR": "Panneau à défilement",
+            "de-DE": "Laufschrift-Tafel",
+            "es-ES": "Señal",
+            "it-IT": "Insegna scorrevole",
+            "nl-NL": "Elektronisch mededelingenbord",
+            "sv-SE": "Rullande skylt",
+            "ko-KR": "두루말이 표시",
+            "zh-CN": "卷动招牌",
+            "zh-TW": "捲動招牌",
+            "pt-BR": "Placa Giratória"
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "id": "rct2.tt.cyclopsx",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F820|CYCLOPSX|FFBAFCD6",
+    "objectType": "ride",
+    "properties": {
+        "type": "flying_saucers",
+        "category": "gentle",
+        "carsPerFlatRide": 12,
+        "carColours": [
+            [
+                ["white", "light_orange", "black"]
+            ],
+            [
+                ["light_purple", "bright_red", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 139456,
+            "mass": 190,
+            "numSeats": 1,
+            "numSeatRows": 1,
+            "poweredAcceleration": 7,
+            "poweredMaxSpeed": 10,
+            "drawOrder": 7,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "VEHICLE_ENTRY_FLAG_BOAT_HIRE_COLLISION_DETECTION": true,
+            "VEHICLE_ENTRY_FLAG_DODGEM_CAR_PLACEMENT": true,
+            "loadingPositions": [0]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/CYCLOPSX.DAT[0..66]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cyclops Ride",
+            "fr-FR": "Le cyclope",
+            "de-DE": "Zyklopen-Attraktion",
+            "es-ES": "Viaje del cíclope",
+            "it-IT": "Corsa del Ciclope",
+            "nl-NL": "Cyclopen-attractie",
+            "sv-SE": "Cyklop",
+            "ko-KR": "사이클롭스 라이드",
+            "zh-TW": "獨眼巨人遊樂設施",
+            "pt-BR": "Brinquedo do Ciclope"
+        },
+        "description": {
+            "en-GB": "Riders drive the Eye of a Giant Cyclops",
+            "fr-FR": "Les passagers sont installés dans l'œil du cyclope",
+            "de-DE": "Die Fahrer fahren im Auge eines Gigantischen Zyklopen.",
+            "es-ES": "Los usuarios viajan en el ojo de un cíclope gigante.",
+            "it-IT": "I passeggeri viaggiano nell'occhio di un ciclope gigante.",
+            "nl-NL": "Bezoekers rijden in het oog van een enorme cycloop.",
+            "sv-SE": "Förarna kör ögat från en jättecyklop.",
+            "ko-KR": "사이클롭스의 눈을 타는 기구",
+            "zh-TW": "乘客駕駛獨眼巨人之眼",
+            "pt-BR": "Os visitantes dirigem o Olho de um Ciclope Gigante"
+        },
+        "capacity": {
+            "en-GB": "1 person per car",
+            "fr-FR": "1 personne par voiture",
+            "de-DE": "1 Person pro Wagen",
+            "es-ES": "1 pasajero por coche",
+            "it-IT": "1 persona per carrozza",
+            "nl-NL": "1 persoon per wagentje",
+            "sv-SE": "1 person per bil",
+            "ko-KR": "차량 정원 1명",
+            "zh-TW": "每輛車限乘1人",
+            "pt-BR": "1 pessoa por vagão"
+        }
+    }
+}

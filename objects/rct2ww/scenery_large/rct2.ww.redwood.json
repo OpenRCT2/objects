@@ -1,0 +1,52 @@
+{
+    "id": "rct2.ww.redwood",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0812|REDWOOD |3B8F9D07",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": 150,
+        "cursor": "CURSOR_TREE_DOWN",
+        "sceneryGroup": "SCGTREES",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 255,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 255,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 255,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 255,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/REDWOOD.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Redwood Tree",
+            "fr-FR": "Séquoia",
+            "de-DE": "Mammutbaum",
+            "es-ES": "Secuoya",
+            "it-IT": "Sequoia",
+            "nl-NL": "Redwood-boom",
+            "sv-SE": "Redwoodträd",
+            "zh-CN": "红杉木"
+        }
+    }
+}

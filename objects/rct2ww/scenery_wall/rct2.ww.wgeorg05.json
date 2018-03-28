@@ -1,0 +1,25 @@
+{
+    "id": "rct2.ww.wgeorg05",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A13|WGEORG05|F7DD6BDF",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WGEORG05.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Georgian Wall Piece 3",
+            "fr-FR": "Pan de mur géorgien 3",
+            "de-DE": "Georgianisches Wand-Bauteil 3",
+            "es-ES": "Pieza de pared georgiana 3",
+            "it-IT": "Pezzo di muro georgiano 3",
+            "nl-NL": "Stuk Muur in Georgische stijl 3",
+            "sv-SE": "Georgiansk väggdel 3"
+        }
+    }
+}

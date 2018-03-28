@@ -1,0 +1,37 @@
+{
+    "id": "rct2.twf",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F81|TWF     |9ADDF494",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 50,
+        "removalPrice": -40,
+        "cursor": "CURSOR_FOUNTAIN_DOWN",
+        "height": 76,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "hasOverlayImage": true,
+        "SMALL_SCENERY_FLAG_FOUNTAIN_SPRAY_1": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TWF.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Geometric Fountain",
+            "fr-FR": "Fontaine géométrique",
+            "de-DE": "Geometrischer Springbrunnen",
+            "es-ES": "Fuente geométrica",
+            "it-IT": "Fontana geometrica",
+            "nl-NL": "Geometrische Fontein",
+            "sv-SE": "Geometrisk fontän",
+            "ko-KR": "기하학적인 파운데이션",
+            "zh-CN": "几何状的水池",
+            "zh-TW": "幾何狀的水池",
+            "pt-BR": "Chafariz Geométrico"
+        }
+    }
+}

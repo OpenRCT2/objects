@@ -1,0 +1,58 @@
+{
+    "id": "rct2.tt.feastabl",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F822|FEASTABL|B45B5645",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 24,
+        "removalPrice": -18,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/FEASTABL.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Feast Table",
+            "fr-FR": "Table forestière",
+            "de-DE": "Festtisch",
+            "es-ES": "Mesa de banquetes",
+            "it-IT": "Tavolata del banchetto",
+            "nl-NL": "Feesttafel",
+            "sv-SE": "Festmåltid",
+            "ko-KR": "축제 식탁",
+            "zh-TW": "宴席桌",
+            "pt-BR": "Mesa de Banquete"
+        }
+    }
+}

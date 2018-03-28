@@ -1,0 +1,26 @@
+{
+    "id": "rct2.tgg",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TGG     |B032CE70",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 10,
+        "removalPrice": -8,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 24,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TGG.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Gong",
+            "ko-KR": "공",
+            "zh-CN": "铜锣",
+            "zh-TW": "銅鑼",
+            "pt-BR": "Gongo"
+        }
+    }
+}

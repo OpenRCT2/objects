@@ -1,0 +1,52 @@
+{
+    "id": "rct2.ww.rkreml09",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0912|RKREML09|9D332FBA",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": -150,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 128,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 128,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 128,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 128,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/RKREML09.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Kremlin Large Tower Top",
+            "fr-FR": "Sommet de grande tour du Kremlin",
+            "de-DE": "Kreml - Großer Turm - Spitze",
+            "es-ES": "Cima de torre grande de Kremlin",
+            "it-IT": "Sommità di torre grande del Cremlino",
+            "nl-NL": "Grote top toren Kremlin",
+            "sv-SE": "Topp till stort Kreml-torn"
+        }
+    }
+}

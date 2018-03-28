@@ -1,0 +1,90 @@
+{
+    "id": "rct2.skytr",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SKYTR   |AB64B391",
+    "objectType": "ride",
+    "properties": {
+        "type": "mini_suspended_rc",
+        "category": "rollercoaster",
+        "ratingMultipler": {
+            "excitement": 10,
+            "intensity": 25,
+            "nausea": 15
+        },
+        "carColours": [
+            [
+                ["bright_red", "yellow", "black"]
+            ],
+            [
+                ["dark_green", "yellow", "black"]
+            ],
+            [
+                ["bordeaux_red", "bright_red", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 165604,
+            "mass": 300,
+            "tabOffset": -17,
+            "numSeats": 1,
+            "numSeatRows": 1,
+            "frictionSoundId": 2,
+            "soundRange": 0,
+            "drawOrder": 2,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "diagonalSlopes": true,
+                "restraintAnimation": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_SWINGING": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [1]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/SKYTR.DAT[0..1402]"],
+    "strings": {
+        "name": {
+            "en-GB": "Mini Suspended Flying Coaster",
+            "fr-FR": "Mini montagnes suspendues",
+            "de-DE": "Fliegende Minihängebahn",
+            "es-ES": "Mini Montaña Rusa Suspendida",
+            "it-IT": "Mini-ottovolante sospeso",
+            "nl-NL": "Mini Hangende Vlieg-Achtbaan",
+            "sv-SE": "Upphängd miniflygbana",
+            "ko-KR": "미니 플라잉 코스터",
+            "zh-CN": "迷你悬挂式飞行列车",
+            "zh-TW": "迷你懸掛式飛行列車",
+            "pt-BR": "Minimontanha Voadora Suspensa"
+        },
+        "description": {
+            "en-GB": "Passengers ride face-down in a lying position, suspended in a specially designed car from the single-rail track, swinging freely from side to side around corners",
+            "fr-FR": "Les passagers sont couchés à plat ventre dans une voiture spéciale se déplaçant sur un monorail et se balançant d'un côté à l'autre dans les virages",
+            "de-DE": "Die Passagiere fahren kopfüber liegend und hängen dabei in einem speziell entworfenen Wagen von einer Einschienenstrecke, wobei sie in den Kurven frei von Seite zu Seite schwingen.",
+            "es-ES": "Los pasajeros se colocan boca abajo en unos vagones especiales en ésta montaña rusa",
+            "it-IT": "I passeggeri, distesi a pancia in giù in una carrozza speciale, sono sospesi al tracciato monorotaia e oscillano da una parte all'altra a ogni curva",
+            "nl-NL": "Attractie waarin bezoekers omlaag kijken in een liggende positie, hangend in een speciaal vormgegeven wagentje aan de baan met een enkele rails, en draaien vrij van kant tot kant in de bochten",
+            "sv-SE": "Passagerarna  åker med ansiktet neråt i liggande ställning, upphängda i en specialdesignad vagn från enspårsbanan, svänger fritt från sida till sida runt svängarna",
+            "ko-KR": "모노레일에 매달려 있는 특이하게 제작된 객차에 승객들이 누운 자세로 매달려 매점을 돌 때마다 좌우로 이리 저리 흔들리게 되는 롤러코스터",
+            "zh-CN": "乘客乘坐在横卧向下的方向,悬挂在特殊设计的列车并在单轨轨道环行转角处时自由摇晃",
+            "zh-TW": "乘客乘坐在橫臥向下的方向,懸掛在特殊設計的列車並在單軌軌道環行轉角處時自由搖晃",
+            "pt-BR": "Os passageiros ficam de rosto para baixo na posição horizontal, suspensos do monotrilho num carro especialmente projetado, balançando livremente de um lado para o outro nas curvas"
+        },
+        "capacity": {
+            "en-GB": "1 passenger per car",
+            "fr-FR": "1 passager par voiture",
+            "de-DE": "1 Fahrgast pro Wagen",
+            "es-ES": "1 pasajero por vehículo",
+            "it-IT": "1 passeggero a carrozza",
+            "nl-NL": "1 passagier per wagentje",
+            "sv-SE": "1 passagerare per vagn/bil",
+            "ko-KR": "차량 정원 1명",
+            "zh-CN": "1 位乘客/每个车厢",
+            "zh-TW": "1 位乘客/每個車廂",
+            "pt-BR": "1 passageiro por carro"
+        }
+    }
+}

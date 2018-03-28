@@ -1,0 +1,82 @@
+{
+    "id": "rct2.cboat",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|CBOAT   |7E79535C",
+    "objectType": "ride",
+    "properties": {
+        "type": "boat_hire",
+        "category": [
+            "water",
+            "gentle"
+        ],
+        "disableBreakdown": true,
+        "carColours": [
+            [
+                ["saturated_brown", "bordeaux_red", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 15,
+            "spacing": 278912,
+            "mass": 180,
+            "numSeats": 2,
+            "animation": 3,
+            "numSeatRows": 6,
+            "poweredAcceleration": 8,
+            "poweredMaxSpeed": 5,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_11": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "VEHICLE_ENTRY_FLAG_BOAT_HIRE_COLLISION_DETECTION": true,
+            "VEHICLE_ENTRY_FLAG_RIDER_ANIMATION": true,
+            "loadingPositions": [3, -3]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/CBOAT.DAT[0..114]"],
+    "strings": {
+        "name": {
+            "en-GB": "Canoes",
+            "fr-FR": "Canoë",
+            "de-DE": "Kanus",
+            "es-ES": "Canoas",
+            "it-IT": "Canoe",
+            "nl-NL": "Kano's",
+            "sv-SE": "Kanoter",
+            "ko-KR": "카누",
+            "zh-CN": "独木舟",
+            "zh-TW": "獨木舟",
+            "pt-BR": "Canoas"
+        },
+        "description": {
+            "en-GB": "Long canoes which the passengers paddle themselves",
+            "fr-FR": "Longs canoës que les passagers dirigent en pagayant",
+            "de-DE": "Lange Kanus, in denen die Passagiere selbst rudern",
+            "es-ES": "Largas canoas en las que los pasajeros palean",
+            "it-IT": "Lunghe canoe mosse dalle pagaiate dei visitatori stessi",
+            "nl-NL": "Lange kano's waarin de passagiers zelf peddelen",
+            "sv-SE": "Långa kanoter som passagerarna paddlar själva",
+            "ko-KR": "승객이 스스로 노를 저으며 가는 길쭉한 카누",
+            "zh-CN": "长型的独木舟由游客自行划桨前进",
+            "zh-TW": "長型的獨木舟由遊客自行划槳前進",
+            "pt-BR": "Longas nas quais os passageiros remam"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per canoe",
+            "fr-FR": "2 passagers par canoë",
+            "de-DE": "2 Passagiere pro Kanu",
+            "es-ES": "2 pasajeros por canoa",
+            "it-IT": "2 passeggeri a canoa",
+            "nl-NL": "2 passagiers per kano",
+            "sv-SE": "2 passagerare per kanot",
+            "ko-KR": "카누당 정원 2명",
+            "zh-CN": "2位乘客/每个独木舟",
+            "zh-TW": "2位乘客/每個獨木舟",
+            "pt-BR": "2 passageiros por canoa"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": "rct2.badrack",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C82|BADRACK |FDA6D43F",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 23,
+        "removalPrice": -13,
+        "cursor": "CURSOR_ENTRANCE_DOWN",
+        "hasPrimaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 8,
+                "hasSupports": true,
+                "walls": 14
+            },
+            {
+                "x": -32,
+                "y": 0,
+                "clearance": 8,
+                "hasSupports": true,
+                "walls": 11
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/BADRACK.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Badminton Racket",
+            "fr-FR": "Raquette de badminton",
+            "de-DE": "Badminton-Schläger",
+            "es-ES": "Raqueta de badminton",
+            "it-IT": "Racchetta da volano",
+            "nl-NL": "Badmintonracket",
+            "sv-SE": "Badmintonracket",
+            "ko-KR": "배드민턴 라켓",
+            "zh-CN": "羽毛球拍",
+            "zh-TW": "羽毛球拍",
+            "pt-BR": "Raquete de Badminton"
+        }
+    }
+}

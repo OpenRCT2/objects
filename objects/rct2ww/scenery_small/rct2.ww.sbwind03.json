@@ -1,0 +1,34 @@
+{
+    "id": "rct2.ww.sbwind03",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0611|SBWIND03|F7D100E6",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 30,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/SBWIND03.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wind Sculpted Concave Wall Corner",
+            "fr-FR": "Coin de mur concave façonné par le vent",
+            "de-DE": "Erosionsfelsenwand - Konkave Ecke",
+            "es-ES": "Esquina de pared cóncava esculpida por el viento",
+            "it-IT": "Angolo di muro concavo eroso dal vento",
+            "nl-NL": "Door Wind gevormde Concave Hoek Muur",
+            "sv-SE": "Vindformat konkavt vägghörn",
+            "zh-CN": "风蚀造形凹面的墙转角"
+        }
+    }
+}

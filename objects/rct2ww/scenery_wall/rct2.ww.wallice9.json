@@ -1,0 +1,25 @@
+{
+    "id": "rct2.ww.wallice9",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0113|WALLICE9|5526892F",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 2,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WICE09.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Ice Wall",
+            "fr-FR": "Mur de glace",
+            "de-DE": "Eiswand",
+            "es-ES": "Pared de hielo",
+            "it-IT": "Parete di ghiaccio",
+            "nl-NL": "IJsmuren",
+            "sv-SE": "Isvägg",
+            "zh-CN": "冰墙"
+        }
+    }
+}

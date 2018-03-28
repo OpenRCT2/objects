@@ -1,0 +1,107 @@
+{
+    "id": "rct2.tt.trilobte",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F720|TRILOBTE|4F91E524",
+    "objectType": "ride",
+    "properties": {
+        "type": "water_coaster",
+        "category": [
+            "water",
+            "rollercoaster"
+        ],
+        "playSplashSoundSlide": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "carColours": [
+            [
+                ["dark_brown", "bright_red", "black"]
+            ],
+            [
+                ["grey", "dark_brown", "black"]
+            ],
+            [
+                ["saturated_brown", "dark_green", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 313776,
+                "mass": 950,
+                "numSeats": 6,
+                "numSeatRows": 3,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "effectVisual": 14,
+                "drawOrder": 10,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true
+                },
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [7, 9, 2, 4, -3, -1]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 87160,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "carVisual": 8,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/TRILOBTE.DAT[0..1762]"],
+    "strings": {
+        "name": {
+            "en-GB": "Trilobite Boats",
+            "fr-FR": "Bateaux trilobites",
+            "de-DE": "Trilobitenboote",
+            "es-ES": "Botes trilobite",
+            "it-IT": "Navi trilobiti",
+            "nl-NL": "Trilobite-bootjes",
+            "sv-SE": "Trilobitbåtar",
+            "ko-KR": "트릴로바이트 보트",
+            "zh-TW": "三葉蟲小船",
+            "pt-BR": "Barcos Trilobitas"
+        },
+        "description": {
+            "en-GB": "Trilobite shaped cars run on roller coaster track to allow twisting curves and steep drops, splashing down into sections of water for gentle river sections",
+            "fr-FR": "Les voitures en forme de trilobites dévalent une voie en zigzag qui descend à toute vitesse dans l'eau, éclaboussant allègrement les passagers avant de traverser des passages en eau calme",
+            "de-DE": "Die Wagen in Form von Trilobiten fahren auf einer kurvenreichen Achterbahnstrecke mit steilem Gefälle, Wasserspektakel und sanften Flussabschnitten.",
+            "es-ES": "Los vagones con forma de trilobite se desplazan por una montaña rusa de giros cerrados y pronunciadas caídas, pasando por zonas de agua de un río tranquilo.",
+            "it-IT": "Carrozze a forma di trilobite viaggiano lungo l'ottovolante, caratterizzato da ripide discese, curve avvitate e tuffi in sezioni acquatiche più tranquille.",
+            "nl-NL": "Trilobite-wagentjes rijden over een achtbaan met draaiende bochten en steile hellingen die in het water neerplonsen voor wat rustigere riviergedeeltes.",
+            "sv-SE": "Trilobit-formade vagnar åker på berg- och dalbanespår som tillåter snäva kurvor och djupa fall ned till lugnare vattenfyllda sektioner.",
+            "ko-KR": "삼엽충처럼 생긴 보트를 타고 롤러 코스터 트랙을 따라 잔잔한 강물 위로 뒤틀린 커브와 급격한 낙하, 물이 튀는 지역을 지나가는 놀이기구",
+            "zh-TW": "三葉蟲外形的列車在雲霄飛車的曲線迴轉及陡坡急墜軌道上運行,將平靜的河面激起大量的水花。",
+            "pt-BR": "Vagões em forma de trilobitas correm numa pista de montanha-russa com curvas sinuosas e quedas íngremes, caindo em seções de água e seções suaves de rio"
+        },
+        "capacity": {
+            "en-GB": "16 passengers per boat",
+            "fr-FR": "16 passagers par bateau",
+            "de-DE": "16 Fahrgäste pro Boot",
+            "es-ES": "16 pasajeros por bote",
+            "it-IT": "16 passeggeri per nave",
+            "nl-NL": "16 passagiers per boot",
+            "sv-SE": "16 passagerare per båt",
+            "ko-KR": "보트 정원 16명",
+            "zh-TW": "每艘船限乘16人",
+            "pt-BR": "16 passageiros por barco"
+        }
+    }
+}

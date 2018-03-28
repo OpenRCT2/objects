@@ -1,0 +1,164 @@
+{
+    "id": "rct2.obs1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|OBS1    |D59D67B3",
+    "objectType": "ride",
+    "properties": {
+        "type": "observation_tower",
+        "category": "gentle",
+        "tabScale": 0.5,
+        "hasShelter": true,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["yellow", "white", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 7,
+            "spacing": 862884,
+            "mass": 2500,
+            "tabOffset": 7,
+            "numSeats": 20,
+            "seatsInPairs": false,
+            "spriteWidth": 32,
+            "spriteHeightNegative": 39,
+            "spriteHeightPositive": 14,
+            "animation": 6,
+            "carVisual": 3,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION": true,
+            "numSegments": 0,
+            "loadingWaypoints": [
+                [
+                    [28, 28],
+                    [-28, 28],
+                    [-20, 0]
+                ],
+                [
+                    [-28, -28],
+                    [-20, 0],
+                    [-20, 0]
+                ],
+                [
+                    [-20, 0],
+                    [-20, 0],
+                    [-20, 0]
+                ],
+                [
+                    [-28, 28],
+                    [-20, 0],
+                    [-20, 0]
+                ],
+                [
+                    [28, 28],
+                    [0, 20],
+                    [0, 20]
+                ],
+                [
+                    [28, -28],
+                    [28, 28],
+                    [0, 20]
+                ],
+                [
+                    [-28, 28],
+                    [0, 20],
+                    [0, 20]
+                ],
+                [
+                    [0, 20],
+                    [0, 20],
+                    [0, 20]
+                ],
+                [
+                    [20, 0],
+                    [20, 0],
+                    [20, 0]
+                ],
+                [
+                    [28, -28],
+                    [20, 0],
+                    [20, 0]
+                ],
+                [
+                    [-28, -28],
+                    [28, -28],
+                    [20, 0]
+                ],
+                [
+                    [28, 28],
+                    [20, 0],
+                    [20, 0]
+                ],
+                [
+                    [28, -28],
+                    [0, -20],
+                    [0, -20]
+                ],
+                [
+                    [0, -20],
+                    [0, -20],
+                    [0, -20]
+                ],
+                [
+                    [-28, -28],
+                    [0, -20],
+                    [0, -20]
+                ],
+                [
+                    [-28, 28],
+                    [-28, -28],
+                    [0, -20]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/OBS1.DAT[0..38]"],
+    "strings": {
+        "name": {
+            "en-GB": "Observation Tower",
+            "fr-FR": "Tour d'observation",
+            "de-DE": "Aussichtsturm",
+            "es-ES": "Torre de Observación",
+            "it-IT": "Torre d'osservazione",
+            "nl-NL": "Observatietoren",
+            "sv-SE": "Observationstorn",
+            "ko-KR": "전망대",
+            "zh-CN": "了望台",
+            "zh-TW": "瞭望台",
+            "pt-BR": "Torre de Observação"
+        },
+        "description": {
+            "en-GB": "Rotating observation cabin which travels up a tall tower",
+            "fr-FR": "Cabine rotative d'observation qui se hisse au sommet d'une grande tour",
+            "de-DE": "Rotierende Aussichtskabine, die sich an einem hohen Turm hinauf bewegt",
+            "es-ES": "Cabina de observación que viaja hasta una torre alta",
+            "it-IT": "Cabina di osservazione rotante che sale su un'alta torre",
+            "nl-NL": "Roterende observatiecabine die een hoge toren omhoog gaat",
+            "sv-SE": "Roterande utsiktskabin som åker upp för ett högt torn",
+            "ko-KR": "높은 탑을 빙빙 돌며 올라 가면서 경치를 감상하는 객실이 있는 전망대",
+            "zh-CN": "观察舱旋转移动到高塔上面。",
+            "zh-TW": "觀察艙旋轉移動到高塔上面。",
+            "pt-BR": "Cabine giratória de observação que sobe numa torre alta"
+        },
+        "capacity": {
+            "en-GB": "20 passengers",
+            "fr-FR": "20 passagers",
+            "de-DE": "20 Fahrgäste",
+            "es-ES": "20 pasajeros",
+            "it-IT": "20 passeggeri",
+            "nl-NL": "20 passagiers",
+            "sv-SE": "20 passagerare",
+            "ko-KR": "정원 20명",
+            "zh-CN": "20 位乘客",
+            "zh-TW": "20 位乘客",
+            "pt-BR": "20 passageiros"
+        }
+    }
+}

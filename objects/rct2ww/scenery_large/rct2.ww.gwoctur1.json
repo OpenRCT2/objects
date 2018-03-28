@@ -1,0 +1,91 @@
+{
+    "id": "rct2.ww.gwoctur1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0012|GWOCTUR1|00BE6E35",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": -150,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 255,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 255,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 255,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 255,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 255,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 255,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 255,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 255,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 255,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/GWOCTUR1.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Great Wall Of China Turret Straight",
+            "fr-FR": "Tourelle droite de la Grande Muraille de Chine",
+            "de-DE": "Große Mauer von China - Geradentürmchen",
+            "es-ES": "Recta de torre de la Gran Muralla China",
+            "it-IT": "Angolo della Grande Muraglia Cinese con torre",
+            "nl-NL": "Rechte Koepel Grote Chinese Muur",
+            "sv-SE": "Kinesiska muren, rak del",
+            "zh-CN": "万里长城笔直的塔楼"
+        }
+    }
+}

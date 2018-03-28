@@ -1,0 +1,29 @@
+{
+    "id": "rct2.wjf",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WJF     |B8DF3244",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 2,
+        "price": 40,
+        "sceneryGroup": "SCGFENCE"
+    },
+    "images": ["$RCT2:OBJDATA/WJF.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jungle Fence",
+            "fr-FR": "Clôture de jungle",
+            "de-DE": "Dschungelzaun",
+            "es-ES": "Cerca de jungla",
+            "it-IT": "Recinto tropicale",
+            "nl-NL": "Jungle Hek",
+            "sv-SE": "Djungelstaket",
+            "ko-KR": "정글벽",
+            "zh-CN": "丛林式栅栏",
+            "zh-TW": "叢林式柵欄",
+            "pt-BR": "Cerca da Selva"
+        }
+    }
+}

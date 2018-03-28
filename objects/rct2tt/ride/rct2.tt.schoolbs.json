@@ -1,0 +1,103 @@
+{
+    "id": "rct2.tt.schoolbs",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA20|SCHOOLBS|BF619A2B",
+    "objectType": "ride",
+    "properties": {
+        "type": "miniature_railway",
+        "category": "transport",
+        "tabScale": 0.5,
+        "hasShelter": true,
+        "playDepartSound": true,
+        "RIDE_ENTRY_FLAG_18": true,
+        "minCarsPerTrain": 2,
+        "maxCarsPerTrain": 2,
+        "numEmptyCars": 2,
+        "tailCars": 1,
+        "carColours": [
+            [
+                ["bright_red", "yellow", "black"]
+            ],
+            [
+                ["yellow", "white", "black"]
+            ],
+            [
+                ["light_blue", "white", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 278912,
+                "mass": 3000,
+                "numSeats": 6,
+                "numSeatRows": 5,
+                "frictionSoundId": 31,
+                "soundRange": 4,
+                "poweredAcceleration": 250,
+                "poweredMaxSpeed": 19,
+                "drawOrder": 10,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "loadingPositions": [12, -12, 12, -12, 12, -12, 13, 11, -13, -11]
+            },
+            {
+                "spacing": 139456,
+                "frictionSoundId": 31,
+                "soundRange": 4,
+                "poweredAcceleration": 250,
+                "poweredMaxSpeed": 19,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_POWERED": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SCHOOLBS.DAT[0..802]"],
+    "strings": {
+        "name": {
+            "en-GB": "School Bus Ride",
+            "fr-FR": "Bus scolaire",
+            "de-DE": "Schulbus-Attraktion",
+            "es-ES": "Viaje del autocar escolar",
+            "it-IT": "Corsa sullo scuolabus",
+            "nl-NL": "Schoolbus-attractie",
+            "sv-SE": "Skolbuss",
+            "ko-KR": "스쿨버스 라이드",
+            "zh-TW": "校車遊樂設施",
+            "pt-BR": "Brinquedo de Ônibus Escolar"
+        },
+        "description": {
+            "en-GB": "Replica Yellow Bus themed trams",
+            "fr-FR": "Tramways reprenant la thématique des bus scolaires jaunes américains",
+            "de-DE": "Bahnen als Nachbauten von gelben Schulbussen",
+            "es-ES": "Réplica del clásico autocar amarillo",
+            "it-IT": "Riproduzioni dei caratteristici autobus gialli",
+            "nl-NL": "Replica Gele Bus-treintjes",
+            "sv-SE": "Spårvagnar som ser ut som gula skolbussar.",
+            "ko-KR": "스쿨버스를 재현한 테마 전차",
+            "zh-TW": "仿黃巴士主題列車",
+            "pt-BR": "Bondes temáticos, réplicas de ônibus escolares"
+        },
+        "capacity": {
+            "en-GB": "10 passengers per car",
+            "fr-FR": "10 passagers par voiture",
+            "de-DE": "10 Fahrgäste pro Wagen",
+            "es-ES": "10 pasajeros por coche",
+            "it-IT": "10 passeggeri per carrozza",
+            "nl-NL": "10 passagiers per treintje",
+            "sv-SE": "10 passagerare per vagn",
+            "ko-KR": "차량 정원 10명",
+            "zh-TW": "每輛車限乘10人",
+            "pt-BR": "10 passageiros por vagão"
+        }
+    }
+}

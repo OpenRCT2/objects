@@ -1,0 +1,34 @@
+{
+    "id": "rct2.tg15",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TG15    |36D7A72A",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 4,
+        "removalPrice": 1,
+        "cursor": "CURSOR_FLOWER_DOWN",
+        "height": 8,
+        "shape": "1/4",
+        "requiresFlatSurface": true,
+        "canWither": true,
+        "canBeWatered": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TG15.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Gardens",
+            "fr-FR": "Jardins",
+            "de-DE": "Beete",
+            "es-ES": "Jardines",
+            "it-IT": "Giardini",
+            "nl-NL": "Tuinen",
+            "sv-SE": "Rabatter",
+            "ko-KR": "정원",
+            "zh-CN": "花园",
+            "zh-TW": "花園",
+            "pt-BR": "Jardins"
+        }
+    }
+}

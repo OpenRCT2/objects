@@ -1,0 +1,31 @@
+{
+    "id": "rct2.ww.bamboobs",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0011|BambooBs|D5F209DB",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 96,
+        "sceneryGroup": "SCGTREES",
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/BAMBOOBS.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Bamboo Bush",
+            "fr-FR": "Haie de bambous",
+            "de-DE": "Bambus-Busch",
+            "es-ES": "Arbusto de bambú",
+            "it-IT": "Canneto di bambù",
+            "nl-NL": "Bamboestruik",
+            "sv-SE": "Bambubuske",
+            "zh-CN": "竹子林"
+        }
+    }
+}

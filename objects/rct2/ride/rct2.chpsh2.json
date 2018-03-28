@@ -1,0 +1,47 @@
+{
+    "id": "rct2.chpsh2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|CHPSH2  |080C4E7D",
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": "chips",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/CHPSH2.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Fries Stall",
+            "fr-FR": "Stand de frites",
+            "de-DE": "Pommes Frites-Stand",
+            "es-ES": "Puesto de patatas fritas",
+            "it-IT": "Chiosco dei fritti",
+            "nl-NL": "Patatkraampje",
+            "sv-SE": "Pommes frites-bod",
+            "ko-KR": "튀김 가게",
+            "zh-CN": "炸薯条店",
+            "zh-TW": "炸薯條店",
+            "pt-BR": "Barraca de Fritas"
+        },
+        "description": {
+            "en-GB": "A stall selling fries",
+            "fr-FR": "Boutique vendant des frites",
+            "de-DE": "Ein Stand, an dem Pommes Frites verkauft werden",
+            "es-ES": "Puesto que vende patatas fritas",
+            "it-IT": "Un chiosco che vende cibi fritti",
+            "nl-NL": "Een kraampje dat patat verkoopt",
+            "sv-SE": "Ett stånd som säljer pommes frites",
+            "ko-KR": "튀김을 파는 건물",
+            "zh-CN": "一家卖炸薯条的店",
+            "zh-TW": "一家賣炸薯條的店",
+            "pt-BR": "Uma barraca vendendo batatas fritas"
+        }
+    }
+}

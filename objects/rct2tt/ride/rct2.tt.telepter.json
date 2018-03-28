@@ -1,0 +1,161 @@
+{
+    "id": "rct2.tt.telepter",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA20|TELEPTER|F17CB5D9",
+    "objectType": "ride",
+    "properties": {
+        "type": "lift",
+        "category": "transport",
+        "tabScale": 0.5,
+        "hasShelter": true,
+        "disableBreakdown": true,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "dark_brown", "black"]
+            ],
+            [
+                ["dark_green", "black", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 862884,
+            "mass": 1000,
+            "tabOffset": 7,
+            "numSeats": 16,
+            "numSeatRows": 8,
+            "poweredAcceleration": 255,
+            "poweredMaxSpeed": 15,
+            "drawOrder": 15,
+            "frames": {
+                "flat": true,
+                "restraintAnimation": true,
+                "VEHICLE_SPRITE_FLAG_15": true
+            },
+            "VEHICLE_ENTRY_FLAG_15": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "numSegments": 0,
+            "loadingWaypoints": [
+                [
+                    [28, 28],
+                    [-28, 28],
+                    [-16, 0]
+                ],
+                [
+                    [-28, -28],
+                    [-20, 0],
+                    [-16, 0]
+                ],
+                [
+                    [-20, 0],
+                    [-20, 0],
+                    [-16, 0]
+                ],
+                [
+                    [-28, 28],
+                    [-20, 0],
+                    [-16, 0]
+                ],
+                [
+                    [28, 28],
+                    [0, 20],
+                    [0, 16]
+                ],
+                [
+                    [28, -28],
+                    [28, 28],
+                    [0, 16]
+                ],
+                [
+                    [-28, 28],
+                    [0, 20],
+                    [0, 16]
+                ],
+                [
+                    [0, 20],
+                    [0, 20],
+                    [0, 16]
+                ],
+                [
+                    [20, 0],
+                    [20, 0],
+                    [16, 0]
+                ],
+                [
+                    [28, -28],
+                    [20, 0],
+                    [16, 0]
+                ],
+                [
+                    [-28, -28],
+                    [28, -28],
+                    [16, 0]
+                ],
+                [
+                    [28, 28],
+                    [20, 0],
+                    [16, 0]
+                ],
+                [
+                    [28, -28],
+                    [0, -20],
+                    [0, -16]
+                ],
+                [
+                    [0, -20],
+                    [0, -20],
+                    [0, -16]
+                ],
+                [
+                    [-28, -28],
+                    [0, -20],
+                    [0, -16]
+                ],
+                [
+                    [-28, 28],
+                    [-28, -28],
+                    [0, -16]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/TELEPTER.DAT[0..146]"],
+    "strings": {
+        "name": {
+            "en-GB": "Teleporter",
+            "fr-FR": "Téléporteur",
+            "es-ES": "Teletransportador",
+            "it-IT": "Teletrasportatore",
+            "nl-NL": "Teleporteur",
+            "sv-SE": "Teleportör",
+            "ko-KR": "텔레포터",
+            "zh-TW": "傳送點",
+            "pt-BR": "Teletransportador"
+        },
+        "description": {
+            "en-GB": "Guests are transported up or down from one level to another",
+            "fr-FR": "Les visiteurs sont transportés vers le haut ou le bas d'un niveau à l'autre",
+            "de-DE": "Die Gäste werden von einem Niveau zum anderen hinauf- oder hinuntertransportiert.",
+            "es-ES": "Los invitados son transportados arriba y abajo, de un nivel a otro.",
+            "it-IT": "I visitatori vengono trasportati su e giù da un livello all'altro",
+            "nl-NL": "Gasten worden omhoog en omlaag vervoerd van de ene verdieping naar de andere",
+            "sv-SE": "Gäster transporteras upp eller ned en nivå.",
+            "ko-KR": "다른 층으로 순간이동합니다.",
+            "zh-TW": "將遊客由某一層傳送到另一層",
+            "pt-BR": "Os visitantes são transportados para cima ou para baixo entre um andar e outro"
+        },
+        "capacity": {
+            "en-GB": "16 passengers",
+            "fr-FR": "16 passagers",
+            "de-DE": "16 Fahrgäste",
+            "es-ES": "16 pasajeros",
+            "it-IT": "16 passeggeri",
+            "nl-NL": "16 passagiers",
+            "sv-SE": "16 passagerare",
+            "ko-KR": "정원 16명",
+            "zh-TW": "限乘16人",
+            "pt-BR": "16 passageiros"
+        }
+    }
+}

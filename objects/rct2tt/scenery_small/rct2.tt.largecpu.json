@@ -1,0 +1,42 @@
+{
+    "id": "rct2.tt.largecpu",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|LARGECPU|434AA618",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 24,
+        "removalPrice": -16,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 96,
+        "animationDelay": 3,
+        "animationMask": 15,
+        "numFrames": 16,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "SMALL_SCENERY_FLAG_COG": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/LARGECPU.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Super Computer Large CPU",
+            "fr-FR": "Grande unité centrale de super ordinateur",
+            "de-DE": "Supercomputer Große Zentraleinheit",
+            "es-ES": "Gran CPU de superordenador",
+            "it-IT": "Grande CPU del super computer",
+            "nl-NL": "Grote CPU Supercomputer",
+            "sv-SE": "Stor processor till superdator",
+            "ko-KR": "수퍼 컴퓨터 대형 CPU",
+            "zh-TW": "超級電腦大CPU",
+            "pt-BR": "CPU Grande de Supercomputador"
+        }
+    }
+}

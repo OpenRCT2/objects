@@ -1,0 +1,127 @@
+{
+    "id": "rct2.bmair",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|BMAIR   |28DE8ACD",
+    "objectType": "ride",
+    "properties": {
+        "type": "flying_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 7,
+        "carColours": [
+            [
+                ["bright_red", "yellow", "dark_purple"]
+            ],
+            [
+                ["teal", "grey", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 183036,
+                "mass": 950,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_HAS_INVERTED_SPRITE_SET": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_13": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [2, -2, 2, -2]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 183036,
+                "mass": 950,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 2,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_HAS_INVERTED_SPRITE_SET": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [2, -2, 2, -2]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/BMAIR.DAT[0..4562]"],
+    "strings": {
+        "name": {
+            "en-GB": "Flying Roller Coaster",
+            "fr-FR": "Montagnes russes volantes",
+            "de-DE": "Fliegende Achterbahn",
+            "es-ES": "Montaña Rusa Volante",
+            "it-IT": "Ottovolante volante",
+            "nl-NL": "Vliegende Achtbaan",
+            "sv-SE": "Flygande berg- och dalbana",
+            "ko-KR": "플라잉 롤러코스터",
+            "zh-CN": "飞行过山车",
+            "zh-TW": "飛行雲霄飛車",
+            "pt-BR": "Montanha-russa Voadora"
+        },
+        "description": {
+            "en-GB": "Riders are held in comfortable seats below the track, travelling through twisted track to give the ultimate flying experience",
+            "fr-FR": "Installés dans des sièges confortables, les passagers sont suspendus à une voie alambiquée leur donnant le sentiment de voler",
+            "de-DE": "Die Passagiere sind in komfortablen Sitzen unter den Schienen und fahren entlang einer gewundenen Strecke, was ihnen das Gefühl gibt zu fliegen",
+            "es-ES": "Los pasajeros están sentados confortablemente bajo la vía sintiendo una experiencia de casi-vuelo",
+            "it-IT": "I passeggeri siedono in comodi sedili posti sotto il tracciato e corrono lungo una pista piena di curve che garantisce loro un'estrema esperienza di volo",
+            "nl-NL": "Bezoekers zitten vast in comfortabele stoelen onder de baan, en gaan langs de slingerende baan voor een ultieme vliegervaring",
+            "sv-SE": "Passagerarnas hålls fast i bekväma säten under spåret, åker genom skruvade spår som ger ultimat flygkänsla",
+            "ko-KR": "극한의 비행 기분을 느낄 수 있게 뒤틀린 트랙에 매달려 편안한 의자에 앉아서 가는 롤러코스터",
+            "zh-CN": "乘客被固定轨道下的舒适座位,途经穿过最终极疯狂轨道的飞行体验",
+            "zh-TW": "乘客被固定軌道下的舒適座位,途經穿過最終極瘋狂軌道的飛行體驗",
+            "pt-BR": "Os passageiros são colocados em assentos confortáveis abaixo da pista, viajando por pistas sinuosas para uma experiência aérea definitiva"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 정원 4명",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por vagão"
+        }
+    }
+}

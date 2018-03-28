@@ -1,0 +1,31 @@
+{
+    "id": "rct2.benchstn",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188786|BENCHSTN|9408AFDE",
+    "objectType": "footpath_item",
+    "properties": {
+        "isBench": true,
+        "isBreakable": true,
+        "renderAs": "bench",
+        "cursor": "CURSOR_BENCH_DOWN",
+        "price": 50,
+        "sceneryGroup": "SCGPATHX"
+    },
+    "images": ["$RCT2:OBJDATA/BENCHSTN.DAT[0..8]"],
+    "strings": {
+        "name": {
+            "en-GB": "Stone Bench",
+            "fr-FR": "Banc en pierre",
+            "de-DE": "Steinbank",
+            "es-ES": "Banco de piedra",
+            "it-IT": "Panchina di pietra",
+            "nl-NL": "Stenen Bank",
+            "sv-SE": "Stenbänk",
+            "ko-KR": "돌 벤치",
+            "zh-CN": "石椅",
+            "zh-TW": "石椅",
+            "pt-BR": "Banco de Pedra"
+        }
+    }
+}

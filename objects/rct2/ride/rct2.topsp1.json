@@ -1,0 +1,156 @@
+{
+    "id": "rct2.topsp1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|TOPSP1  |99EDA9D5",
+    "objectType": "ride",
+    "properties": {
+        "type": "top_spin",
+        "category": "thrill",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "bright_red", "black"]
+            ],
+            [
+                ["black", "yellow", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 15,
+            "spacing": 139456,
+            "mass": 3000,
+            "numSeats": 8,
+            "spriteWidth": 63,
+            "spriteHeightNegative": 128,
+            "spriteHeightPositive": 28,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "numSegments": 0,
+            "loadingWaypoints": [
+                [
+                    [40, 40],
+                    [-40, 40],
+                    [-16, 0]
+                ],
+                [
+                    [-40, -40],
+                    [-16, 0],
+                    [-16, 0]
+                ],
+                [
+                    [-16, 0],
+                    [-16, 0],
+                    [-16, 0]
+                ],
+                [
+                    [-40, 40],
+                    [-16, 0],
+                    [-16, 0]
+                ],
+                [
+                    [40, 40],
+                    [0, 12],
+                    [0, 12]
+                ],
+                [
+                    [40, -40],
+                    [40, 40],
+                    [0, 12]
+                ],
+                [
+                    [-40, 40],
+                    [0, 12],
+                    [0, 12]
+                ],
+                [
+                    [0, 12],
+                    [0, 12],
+                    [0, 12]
+                ],
+                [
+                    [12, 0],
+                    [12, 0],
+                    [12, 0]
+                ],
+                [
+                    [40, -40],
+                    [12, 0],
+                    [12, 0]
+                ],
+                [
+                    [-40, -40],
+                    [40, -40],
+                    [12, 0]
+                ],
+                [
+                    [40, 40],
+                    [12, 0],
+                    [12, 0]
+                ],
+                [
+                    [40, -40],
+                    [0, -16],
+                    [0, -16]
+                ],
+                [
+                    [0, -16],
+                    [0, -16],
+                    [0, -16]
+                ],
+                [
+                    [-40, -40],
+                    [0, -16],
+                    [0, -16]
+                ],
+                [
+                    [-40, 40],
+                    [-40, -40],
+                    [0, -16]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/TOPSP1.DAT[0..578]"],
+    "strings": {
+        "name": {
+            "en-GB": "Top Spin",
+            "fr-FR": "Méga Vrille",
+            "it-IT": "Sottosopra",
+            "ko-KR": "탑 스핀",
+            "zh-CN": "上空旋转",
+            "zh-TW": "上空旋轉"
+        },
+        "description": {
+            "en-GB": "Passengers ride in a gondola suspended by large rotating arms, rotating forwards and backwards head-over-heals",
+            "fr-FR": "Nacelle suspendue à de grands bras rotatifs tournant en avant et en arrière, et plaçant les passagers tête en bas",
+            "de-DE": "Die Passagiere sitzen in einer Gondel, die an großen sich drehenden Armen hängt und sich vorwärts und rückwärts überkopf dreht",
+            "es-ES": "Los pasajeros montan en góndolas suspendidas por largos brazos que rotan hacia delante y hacia atrás",
+            "it-IT": "I passeggeri, seduti su una gondola sospesa tenuta da due grandi bracci rotanti, ruotano capovolti in avanti e all'indietro",
+            "nl-NL": "Attractie in een aan grote roterende armen hangende gondola's, die naar voren en achteren roteren en kopje over duikelen",
+            "sv-SE": "Passagerare åker i en gondol upphängd i stora roterande armar, roterar framåt och bakåt helt vilt",
+            "ko-KR": "상하좌우로 움직이는 거대한 회전 축에 매달린 곤돌라",
+            "zh-CN": "乘客搭乘着悬挂式小船由大型旋臂,旋转向前及向後运作",
+            "zh-TW": "乘客搭乘著懸掛式小船由大型旋臂,旋轉向前及向後運作",
+            "pt-BR": "Os passageiros ficam numa gôndola suspensa por grandes braços giratórios, girando para frente e para trás, de ponta-cabeça"
+        },
+        "capacity": {
+            "en-GB": "8 passengers",
+            "fr-FR": "8 passagers",
+            "de-DE": "8 Fahrgäste",
+            "es-ES": "8 pasajeros",
+            "it-IT": "8 passeggeri",
+            "nl-NL": "8 passagiers",
+            "sv-SE": "8 passagerare",
+            "ko-KR": "정원 8명",
+            "zh-CN": "8 位乘客",
+            "zh-TW": "8 位乘客",
+            "pt-BR": "8 passageiros"
+        }
+    }
+}

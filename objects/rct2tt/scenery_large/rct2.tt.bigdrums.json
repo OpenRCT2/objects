@@ -1,0 +1,94 @@
+{
+    "id": "rct2.tt.bigdrums",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA22|BIGDRUMS|98B793D6",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 102,
+        "removalPrice": -88,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "hasPrimaryColour": true,
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 192,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 192,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 192,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 192,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 192,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 192,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 192,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 192,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 192,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/BIGDRUMS.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Giant Drum Kit",
+            "fr-FR": "Batterie géante",
+            "de-DE": "Riesiges Schlagzeug",
+            "es-ES": "Batería gigante",
+            "it-IT": "Batteria gigante",
+            "nl-NL": "Reusachtig Drumstel",
+            "sv-SE": "Jättetrumset",
+            "ko-KR": "대형 드럼 세트",
+            "zh-TW": "巨型鼓",
+            "pt-BR": "Bateria Gigante"
+        }
+    }
+}

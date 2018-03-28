@@ -1,0 +1,28 @@
+{
+    "id": "rct2.wwtwa",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WWTWA   |94A393D0",
+    "objectType": "scenery_wall",
+    "properties": {
+        "height": 4,
+        "price": 60,
+        "sceneryGroup": "SCGWALLS"
+    },
+    "images": ["$RCT2:OBJDATA/WWTWA.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wooden Fence Wall",
+            "fr-FR": "Mur en clôture de bois",
+            "de-DE": "Holzzaunwand",
+            "es-ES": "Valla de madera",
+            "it-IT": "Muro a recinto di legno",
+            "nl-NL": "Houten hek muur",
+            "sv-SE": "Trästängsel",
+            "ko-KR": "목재로된 담벽",
+            "zh-CN": "木式围墙",
+            "zh-TW": "木式圍牆",
+            "pt-BR": "Cerca de Madeira"
+        }
+    }
+}

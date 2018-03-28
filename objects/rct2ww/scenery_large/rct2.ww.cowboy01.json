@@ -1,0 +1,47 @@
+{
+    "id": "rct2.ww.cowboy01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0812|COWBOY01|E7503A5D",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": -150,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 136,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 136,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 136,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 136,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/COWBOY01.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cowboy 1",
+            "fr-FR": "Cow-boy 1",
+            "es-ES": "Vaquero 1",
+            "zh-CN": "牛仔1"
+        }
+    }
+}

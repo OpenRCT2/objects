@@ -1,0 +1,71 @@
+{
+    "id": "rct2.ww.dragdodg",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFB10|DRAGDODG|747E159E",
+    "objectType": "ride",
+    "properties": {
+        "type": "flying_saucers",
+        "category": "gentle",
+        "carsPerFlatRide": 12,
+        "carColours": [
+            [
+                ["white", "light_orange", "black"]
+            ],
+            [
+                ["light_purple", "bright_red", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 139456,
+            "mass": 190,
+            "numSeats": 1,
+            "numSeatRows": 1,
+            "poweredAcceleration": 7,
+            "poweredMaxSpeed": 10,
+            "drawOrder": 7,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "VEHICLE_ENTRY_FLAG_BOAT_HIRE_COLLISION_DETECTION": true,
+            "VEHICLE_ENTRY_FLAG_DODGEM_CAR_PLACEMENT": true,
+            "loadingPositions": [0]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/DRAGDODG.DAT[0..66]"],
+    "strings": {
+        "name": {
+            "en-GB": "Chinese Dragonhead Ride",
+            "fr-FR": "La tête du dragon",
+            "de-DE": "Chinesischer Drachenkopf",
+            "es-ES": "Montaña Rusa Cabeza de Dragón Chino",
+            "it-IT": "Testa del drago cinese",
+            "nl-NL": "Attractie met Chinese Drakenkop",
+            "sv-SE": "Kinesiska drakar",
+            "zh-CN": "东方祥龙游乐设施"
+        },
+        "description": {
+            "en-GB": "Self-drive electric dodgem cars",
+            "fr-FR": "Auto-tamponneuses électriques programmées",
+            "de-DE": "Selbstgesteuerte elektrische Autoskooter",
+            "es-ES": "Coches de choque eléctricos autopropulsados",
+            "it-IT": "Vetture elettriche tipo autoscontro",
+            "nl-NL": "Zelf te besturen elektrische botsautootjes",
+            "sv-SE": "Elektriskt drivna radiobilar",
+            "zh-CN": "自助式电动碰碰车"
+        },
+        "capacity": {
+            "en-GB": "1 person per car",
+            "fr-FR": "1 personne par voiture",
+            "de-DE": "1 Fahrgast pro Wagen",
+            "es-ES": "1 persona por coche",
+            "it-IT": "1 persona per vettura",
+            "nl-NL": "1 persoon per wagentje",
+            "sv-SE": "1 passagerare per bil",
+            "zh-CN": "每辆车限乘1人"
+        }
+    }
+}

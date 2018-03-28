@@ -1,0 +1,168 @@
+{
+    "id": "rct2.obs2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|OBS2    |E9506DED",
+    "objectType": "ride",
+    "properties": {
+        "type": "observation_tower",
+        "category": "gentle",
+        "tabScale": 0.5,
+        "hasShelter": true,
+        "carsPerFlatRide": 1,
+        "ratingMultipler": {
+            "excitement": 2
+        },
+        "carColours": [
+            [
+                ["white", "white", "yellow"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 7,
+            "spacing": 862884,
+            "mass": 2500,
+            "tabOffset": 7,
+            "numSeats": 32,
+            "seatsInPairs": false,
+            "spriteWidth": 32,
+            "spriteHeightNegative": 63,
+            "spriteHeightPositive": 14,
+            "animation": 6,
+            "carVisual": 3,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION": true,
+            "numSegments": 0,
+            "loadingWaypoints": [
+                [
+                    [28, 28],
+                    [-28, 28],
+                    [-20, 0]
+                ],
+                [
+                    [-28, -28],
+                    [-20, 0],
+                    [-20, 0]
+                ],
+                [
+                    [-20, 0],
+                    [-20, 0],
+                    [-20, 0]
+                ],
+                [
+                    [-28, 28],
+                    [-20, 0],
+                    [-20, 0]
+                ],
+                [
+                    [28, 28],
+                    [0, 20],
+                    [0, 20]
+                ],
+                [
+                    [28, -28],
+                    [28, 28],
+                    [0, 20]
+                ],
+                [
+                    [-28, 28],
+                    [0, 20],
+                    [0, 20]
+                ],
+                [
+                    [0, 20],
+                    [0, 20],
+                    [0, 20]
+                ],
+                [
+                    [20, 0],
+                    [20, 0],
+                    [20, 0]
+                ],
+                [
+                    [28, -28],
+                    [20, 0],
+                    [20, 0]
+                ],
+                [
+                    [-28, -28],
+                    [28, -28],
+                    [20, 0]
+                ],
+                [
+                    [28, 28],
+                    [20, 0],
+                    [20, 0]
+                ],
+                [
+                    [28, -28],
+                    [0, -20],
+                    [0, -20]
+                ],
+                [
+                    [0, -20],
+                    [0, -20],
+                    [0, -20]
+                ],
+                [
+                    [-28, -28],
+                    [0, -20],
+                    [0, -20]
+                ],
+                [
+                    [-28, 28],
+                    [-28, -28],
+                    [0, -20]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/OBS2.DAT[0..38]"],
+    "strings": {
+        "name": {
+            "en-GB": "Double-deck Observation Tower",
+            "fr-FR": "Tour d'observation 2-ponts",
+            "de-DE": "Doppeldecker-Aussichtsturm",
+            "es-ES": "Torre de Observación DobleDouble-deck Observation Tower",
+            "it-IT": "Torre d'osservazione a due piani",
+            "nl-NL": "Observatietoren, twee verdiepingen",
+            "sv-SE": "Dubbeldäckat observationstorn",
+            "ko-KR": "2층 전망대",
+            "zh-CN": "双层式了望台",
+            "zh-TW": "雙層式瞭望台",
+            "pt-BR": "Torre de Observação de Cabine Dupla"
+        },
+        "description": {
+            "en-GB": "Twin-deck rotating observation cabin which travels up a tall tower",
+            "fr-FR": "Cabine rotative d'observation à double pont qui se hisse au sommet d'une grande tour",
+            "de-DE": "Rotierende Doppeldecker-Aussichtskabine, die sich an einem hohen Turm hinauf bewegt",
+            "es-ES": "Cabinas de observación gemelas que viajan hasta una torre alta",
+            "it-IT": "Cabina d'osservazione rotante a due piani che sale su un'alta torre",
+            "nl-NL": "Roterende observatiecabine met twee verdiepingen die een hoge toren omhoog gaat",
+            "sv-SE": "Dubbeldäckad roterande observationskabin som åker upp för ett högt torn",
+            "ko-KR": "높은 탑을 빙빙 돌며 올라 가면서 경치를 감상하는 두 층의 객실이 있는 전망대",
+            "zh-CN": "双层式观察舱旋转移动到高塔上面",
+            "zh-TW": "雙層式觀察艙旋轉移動到高塔上面",
+            "pt-BR": "Cabine dupla giratória de observação que sobe numa torre alta"
+        },
+        "capacity": {
+            "en-GB": "32 passengers",
+            "fr-FR": "32 passagers",
+            "de-DE": "32 Fahrgäste",
+            "es-ES": "32 pasajeros",
+            "it-IT": "32 passeggeri",
+            "nl-NL": "32 passagiers",
+            "sv-SE": "32 passagerare",
+            "ko-KR": "정원 32명",
+            "zh-CN": "32 位乘客",
+            "zh-TW": "32 位乘客",
+            "pt-BR": "32 passageiros"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "rct2.wallwdps",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WALLWDPS|1E81D5B7",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "isOpaque": true,
+        "isAllowedOnSlope": true,
+        "height": 1,
+        "price": 40,
+        "sceneryGroup": "SCGFENCE"
+    },
+    "images": ["$RCT2:OBJDATA/WALLWDPS.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wooden Post Fence",
+            "fr-FR": "Clôture avec poteaux de bois",
+            "de-DE": "Holzpfostenzaun",
+            "es-ES": "Poste de madera",
+            "it-IT": "Recinto di sostegno in legno",
+            "nl-NL": "Houten Post Hek",
+            "sv-SE": "Stolpstaket",
+            "ko-KR": "목재 기둥 담벽",
+            "zh-CN": "木桩栅栏",
+            "zh-TW": "木樁柵欄",
+            "pt-BR": "Cerca de Poste de Madeira"
+        }
+    }
+}

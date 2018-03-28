@@ -1,0 +1,51 @@
+{
+    "id": "rct2.ww.largeju1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31D12|LARGEJU1|84F7EC19",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": 150,
+        "cursor": "CURSOR_TREE_DOWN",
+        "sceneryGroup": "SCGTREES",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 235,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 235,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 235,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 235,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/LARGEJU1.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Large Rainforest Tree",
+            "fr-FR": "?Arbre forêt équatoriale 1 4",
+            "de-DE": "?Regenwaldbaum 4",
+            "es-ES": "Árbol tropical 4",
+            "it-IT": "Albero di foresta pluviale 4",
+            "nl-NL": "Boom Regenwoud 4",
+            "sv-SE": "Regnskogsträd 4"
+        }
+    }
+}

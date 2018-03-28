@@ -1,0 +1,84 @@
+{
+    "id": "rct2.tt.jetpackx",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA20|JETPACKX|781A25FB",
+    "objectType": "ride",
+    "properties": {
+        "type": "reverse_freefall_rc",
+        "category": "rollercoaster",
+        "tabScale": 0.5,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["bright_red", "grey", "light_purple"]
+            ],
+            [
+                ["yellow", "bordeaux_red", "bordeaux_red"]
+            ],
+            [
+                ["bright_purple", "yellow", "yellow"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 366072,
+            "mass": 5500,
+            "numSeats": 8,
+            "numSeatRows": 4,
+            "frictionSoundId": 57,
+            "soundRange": 0,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "verticalSlopes": true,
+                "restraintAnimation": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [7, 5, 2, 0, -5, -7, -6, 1]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/JETPACKX.DAT[0..1562]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jet Pack Booster",
+            "fr-FR": "Sac à dos à propulsion",
+            "de-DE": "Jet Pack-Beschleuniger",
+            "es-ES": "Mochila de impulsión a chorro",
+            "it-IT": "Razzi propulsori",
+            "nl-NL": "Straalpak Booster",
+            "sv-SE": "Jetpackfärd",
+            "ko-KR": "젯 팩 부스터",
+            "zh-TW": "噴射背包推進器",
+            "pt-BR": "Nave a Jato"
+        },
+        "description": {
+            "en-GB": "Riders sit in a vehicle which is launched up a vertical section of track",
+            "fr-FR": "Les passagers sont installés dans un véhicule propulsé sur une paroi verticale",
+            "de-DE": "Die Fahrgäste sitzen in einem Wagen, der senkrecht hinaufkatapultiert wird.",
+            "es-ES": "Los viajeros se montan en un vehículo que se lanza por un guía vertical.",
+            "it-IT": "I passeggeri siedono su un veicolo lanciato lungo una sezione verticale del tracciato.",
+            "nl-NL": "Rijders zitten in een voertuig dat bij een verticaal stuk van de baan omhoog wordt gelanceerd",
+            "sv-SE": "Passagerarna sitter i ett fordon som skjuts upp längs ett vertikalt spår.",
+            "ko-KR": "승객은 트랙의 수직 부분에서 발사되는 차량에 탑승합니다.",
+            "zh-TW": "乘客乘坐在朝軌道垂直段往上發射的交通工具上",
+            "pt-BR": "Os passageiros se sentam num veículo que é lançado para cima numa seção vertical de pista"
+        },
+        "capacity": {
+            "en-GB": "8 passengers per car",
+            "fr-FR": "8 passagers par voiture",
+            "de-DE": "8 Fahrgäste pro Wagen",
+            "es-ES": "8 pasajeros por coche",
+            "it-IT": "8 passeggeri per carrozza",
+            "nl-NL": "8 passagiers per wagentje",
+            "sv-SE": "8 passagerare per fordon",
+            "ko-KR": "차량 정원 8명",
+            "zh-TW": "每輛車限乘8人",
+            "pt-BR": "8 passageiros por vagão"
+        }
+    }
+}

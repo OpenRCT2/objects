@@ -1,0 +1,59 @@
+{
+    "id": "rct2.tt.strvs2x2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F822|STRVS2X2|6EE2E024",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 44,
+        "removalPrice": -40,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "sceneryGroup": "SCGWALLS",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 72,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 72,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 72,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 72,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/STRVS2X2.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Roman Palace Straight Piece",
+            "fr-FR": "Section droite de palais romain",
+            "de-DE": "Gerades Stück des Römischen Palastes",
+            "es-ES": "Sección recta de palacio romano",
+            "it-IT": "Tratto rettilineo del Palazzo Romano",
+            "nl-NL": "Recht Stuk Romeins paleis",
+            "sv-SE": "Rak del, romerskt palats",
+            "ko-KR": "로마 궁전 직선 조각",
+            "zh-TW": "羅馬皇宮直線塊",
+            "pt-BR": "Peça Reta de Palácio Romano"
+        }
+    }
+}

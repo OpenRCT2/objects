@@ -1,0 +1,36 @@
+{
+    "id": "rct2.tge2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TGE2    |2DF3FB8A",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 16,
+        "removalPrice": -14,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "hasGlass": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasSecondaryColour": true
+    },
+    "images": ["$RCT2:OBJDATA/TGE2.DAT[0..7]"],
+    "strings": {
+        "name": {
+            "en-GB": "Geometric Sculpture",
+            "fr-FR": "Sculpture géométrique",
+            "de-DE": "Geometrische Skulptur",
+            "es-ES": "Escultura geométrica",
+            "it-IT": "Scultura geometrica",
+            "nl-NL": "Geometrisch Beeld",
+            "sv-SE": "Geometrisk skulptur",
+            "ko-KR": "기하학적 조각술",
+            "zh-CN": "几何状的雕刻品",
+            "zh-TW": "幾何狀的雕刻品",
+            "pt-BR": "Escultura Geométrica"
+        }
+    }
+}

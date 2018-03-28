@@ -1,0 +1,37 @@
+{
+    "id": "rct2.tgh2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TGH2    |A7E7C942",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 38,
+        "removalPrice": -30,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 76,
+        "animationDelay": 1,
+        "animationMask": 511,
+        "numFrames": 16,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isAnimated": true,
+        "hasOverlayImage": true,
+        "SMALL_SCENERY_FLAG17": true,
+        "isStackable": true,
+        "frameOffsets": [1, 2, 3, 4, 3, 2, 1, 0, 1, 2, 3, 4, 3, 2, 1, 0]
+    },
+    "images": ["$RCT2:OBJDATA/TGH2.DAT[0..23]"],
+    "strings": {
+        "name": {
+            "en-GB": "Statue",
+            "es-ES": "Estatua",
+            "it-IT": "Statua",
+            "nl-NL": "Beeld",
+            "sv-SE": "Staty",
+            "ko-KR": "동상",
+            "zh-CN": "雕像",
+            "zh-TW": "雕像",
+            "pt-BR": "Estátua"
+        }
+    }
+}

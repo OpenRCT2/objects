@@ -1,0 +1,45 @@
+{
+    "id": "rct2.tt.softoyst",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F720|SOFTOYST|38EB9911",
+    "objectType": "ride",
+    "properties": {
+        "type": "shop",
+        "category": "stall",
+        "sells": "toy",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SOFTOYST.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Soft Toy Stall",
+            "fr-FR": "Magasin de peluches",
+            "de-DE": "Stofftier-Stand",
+            "es-ES": "Puesto de peluches",
+            "it-IT": "Chiosco di pupazzi di peluche",
+            "nl-NL": "Kraampje zacht speelgoed",
+            "sv-SE": "Stånd med kramdjur",
+            "ko-KR": "소프트 장난감 가게",
+            "zh-TW": "填充玩具攤位",
+            "pt-BR": "Quiosque de Brinquedo Fofo"
+        },
+        "description": {
+            "en-GB": "A stall selling a cute soft toy Dinosaur",
+            "fr-FR": "Une boutique proposant des peluches de dinosaures",
+            "de-DE": "Ein Stand, der süße Stoffdinosaurier verkauft",
+            "es-ES": "Un puesto de venta de preciosos peluches de dinosaurio",
+            "it-IT": "Un chiosco che vende un simpatico dinosauro di peluche.",
+            "nl-NL": "Een kraampje met schattige speelgoeddinosaurussen.",
+            "sv-SE": "Stånd som säljer söta leksaksdinosaurier.",
+            "ko-KR": "공룡 장난감을 파는 가게",
+            "zh-TW": "販賣可愛恐龍填充玩具的攤位",
+            "pt-BR": "Um quiosque vendendo um Dinossauro de pelúcia fofinho"
+        }
+    }
+}

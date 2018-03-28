@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.rbrick03",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0911|RBRICK03|683186E2",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RBRICK03.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Red Brick Flat Roof Edge Piece",
+            "fr-FR": "Bord de toit plat de brique rouge",
+            "de-DE": "Backstein Flachdach-Kantenbauteil",
+            "es-ES": "Pieza de borde de tejado plano de ladrillo rojo",
+            "it-IT": "Pezzo d'orlo di tetto piatto di mattoni rossi",
+            "nl-NL": "Randstuk voor platdak van Rode Baksteen",
+            "sv-SE": "Platt kantdel för rött tegeltak"
+        }
+    }
+}

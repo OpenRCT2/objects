@@ -1,0 +1,24 @@
+{
+    "id": "rct2.ww.naent",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0818|NAENT   |D32C31BD",
+    "objectType": "park_entrance",
+    "properties": {
+        "scrollingMode": 3,
+        "textHeight": 66
+    },
+    "images": ["$RCT2:OBJDATA/NAENT.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "North America Park Entrance",
+            "fr-FR": "Entrée du parc nord-américain",
+            "de-DE": "Nordamerikapark-Eingang",
+            "es-ES": "Entrada al parque Norteamérica",
+            "it-IT": "Ingresso del parco nordamericano",
+            "nl-NL": "Noord-Amerikaanse Ingang Pretpark",
+            "sv-SE": "Ingång till nordamerikansk park",
+            "zh-CN": "北美公园入口"
+        }
+    }
+}

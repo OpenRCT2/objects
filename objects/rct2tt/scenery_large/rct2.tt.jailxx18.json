@@ -1,0 +1,59 @@
+{
+    "id": "rct2.tt.jailxx18",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA22|JAILXX18|A7A0C68A",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 114,
+        "removalPrice": -84,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "sceneryGroup": "SCGWALLS",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 178,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 178,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 178,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 178,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/JAILXX18.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Prison Water Tower",
+            "fr-FR": "Château d'eau de prison",
+            "de-DE": "Gefängniswasserturm",
+            "es-ES": "Depósito de agua de prisión",
+            "it-IT": "Torretta di guardia della prigione",
+            "nl-NL": "Watertoren Gevangenis",
+            "sv-SE": "Vattentorn, fängelse",
+            "ko-KR": "감옥 워터 타워",
+            "zh-TW": "監獄水塔",
+            "pt-BR": "Torre de Água de Prisão"
+        }
+    }
+}

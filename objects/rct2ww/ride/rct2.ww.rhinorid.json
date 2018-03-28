@@ -1,0 +1,83 @@
+{
+    "id": "rct2.ww.rhinorid",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0310|RHINORID|CCE62FC6",
+    "objectType": "ride",
+    "properties": {
+        "type": "spiral_rc",
+        "category": "rollercoaster",
+        "maxCarsPerTrain": 4,
+        "carColours": [
+            [
+                ["black", "yellow", "bordeaux_red"]
+            ],
+            [
+                ["saturated_red", "bright_red", "black"]
+            ],
+            [
+                ["grey", "white", "yellow"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 357356,
+            "mass": 1100,
+            "numSeats": 6,
+            "numSeatRows": 3,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "diagonalSlopes": true,
+                "flatBanked": true,
+                "flatToGentleSlopeBankedTransitions": true,
+                "diagonalGentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTurns": true,
+                "flatToGentleSlopeWhileBankedTransitions": true,
+                "curvedLiftHill": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [8, 6, -8, -6, 1, -1]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/RHINORID.DAT[0..2498]"],
+    "strings": {
+        "name": {
+            "en-GB": "Rhino Ride",
+            "fr-FR": "Rhinocéros",
+            "de-DE": "Nashornbahn",
+            "es-ES": "Atracción Rinoceronte",
+            "it-IT": "Il rinoceronte",
+            "nl-NL": "Rinoceros-Attractie",
+            "sv-SE": "Noshörningsbana",
+            "zh-CN": "犀牛游乐设施"
+        },
+        "description": {
+            "en-GB": "A compact steel-tracked roller coaster with a spiral lift hill and cars with in-line seating",
+            "fr-FR": "Montagnes russes compactes et métalliques avec une remontée en spirale et des voitures disposant de sièges en ligne",
+            "de-DE": "Eine kompakte Stahlachterbahn mit einem Spirallifthügel und Wagen mit Sitzen in einer Reihe",
+            "es-ES": "Una montaña rusa compacta de acero con una colina de subida en espiral y vagones con asientos en línea",
+            "it-IT": "Un compatto ottovolante d'acciaio con una collina che si risale a spirale e carrozze con sedili in fila",
+            "nl-NL": "Een compacte achtbaan die over een stalen baan loopt die een spiraallift-heuvel heeft en wagentjes met achter elkaar geplaatste stoelen heeft",
+            "sv-SE": "En berg- och dalbana av kompakt stål med ett spiralformat stigningsfält och vagnar med enkla säten placerade bakom varandra",
+            "zh-CN": "一座以螺旋上升斜坡结合钢铁轨道的云霄飞车且以成列就座的车辆运行"
+        },
+        "capacity": {
+            "en-GB": "6 passengers per car",
+            "fr-FR": "6 passagers par voiture",
+            "de-DE": "6 pro Wagen",
+            "es-ES": "6 pasajeros por vagón",
+            "it-IT": "6 passeggeri per carrozza",
+            "nl-NL": "6 passagiers per wagentje",
+            "sv-SE": "6 passagerare per vagn",
+            "zh-CN": "每辆车限乘6人"
+        }
+    }
+}

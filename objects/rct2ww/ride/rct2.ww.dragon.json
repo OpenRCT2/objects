@@ -1,0 +1,138 @@
+{
+    "id": "rct2.ww.dragon",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFC10|DRAGON  |B6850D40",
+    "objectType": "ride",
+    "properties": {
+        "type": "corkscrew_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 8,
+        "numEmptyCars": 1,
+        "defaultCar": 1,
+        "headCars": 0,
+        "tailCars": 2,
+        "ratingMultipler": {
+            "intensity": 10
+        },
+        "carColours": [
+            [
+                ["light_blue", "white", "yellow"]
+            ],
+            [
+                ["bright_red", "yellow", "yellow"]
+            ],
+            [
+                ["white", "bordeaux_red", "bordeaux_red"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 261480,
+                "mass": 600,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [5, 3, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 226616,
+                "mass": 500,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [7, 9, -3, -1]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 52296,
+                "mass": 50,
+                "frictionSoundId": 2,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true
+                }
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/DRAGON.DAT[0..4470]"],
+    "strings": {
+        "name": {
+            "en-GB": "Dragon Coaster",
+            "fr-FR": "Montagnes du dragon",
+            "de-DE": "Drachen-Achterbahn",
+            "es-ES": "Montaña del Dragón",
+            "it-IT": "Ottovolante drago",
+            "nl-NL": "Draak-Achtbaan",
+            "sv-SE": "Berg- och drakbana",
+            "zh-CN": "龙舟"
+        },
+        "description": {
+            "en-GB": "Roller coaster with dragon-themed cars",
+            "fr-FR": "Montagnes russes avec voitures en forme de dragon",
+            "de-DE": "Eine Achterbahn mit Wagen im Drachen-Stil",
+            "es-ES": "Montaña rusa con vagones inspirados en dragones",
+            "it-IT": "Ottovolante con carrozze a forma di drago",
+            "nl-NL": "Achtbaan met als draken vormgegeven wagentjes",
+            "sv-SE": "Berg- och dalbana med drakvagnar",
+            "zh-CN": "以龙为主题车辆的云霄飞车"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "zh-CN": "每辆车限乘4人"
+        }
+    }
+}

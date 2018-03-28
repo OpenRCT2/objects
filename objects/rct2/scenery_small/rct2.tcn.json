@@ -1,0 +1,32 @@
+{
+    "id": "rct2.tcn",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TCN     |2349F948",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 11,
+        "removalPrice": -9,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 16,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TCN.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cannon",
+            "fr-FR": "Canon",
+            "de-DE": "Kanone",
+            "es-ES": "Cañón",
+            "it-IT": "Cannone",
+            "nl-NL": "Kanon",
+            "sv-SE": "Kanon",
+            "ko-KR": "대포",
+            "zh-CN": "大炮",
+            "zh-TW": "大砲",
+            "pt-BR": "Canhão"
+        }
+    }
+}

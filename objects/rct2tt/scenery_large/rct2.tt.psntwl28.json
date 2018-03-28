@@ -1,0 +1,56 @@
+{
+    "id": "rct2.tt.psntwl28",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F822|PSNTWL28|8639D01B",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 28,
+        "removalPrice": -22,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "hasPrimaryColour": true,
+        "isPhotogenic": true,
+        "sceneryGroup": "SCGWALLS",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 32,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 32,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 32,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 32,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/PSNTWL28.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Dark Age Village Inverted Roof Piece",
+            "fr-FR": "Section de toit inversé du village médiéval",
+            "de-DE": "Umgedrehtes Dachstück Mittelalterliches Dorf",
+            "es-ES": "Sección inversa de tejado de pueblo medieval",
+            "it-IT": "Tratto di tetto invertito del villaggio dell'Età Oscura",
+            "nl-NL": "Omgekeerd dakstuk Middeleeuws Dorp",
+            "sv-SE": "Omvänd takdel, medeltida by",
+            "ko-KR": "암흑시대 마을 반대 지붕조각",
+            "zh-TW": "反向黑暗時代村莊屋頂塊",
+            "pt-BR": "Peça de Telhado Invertido de Vila da Idade Média"
+        }
+    }
+}

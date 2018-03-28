@@ -1,0 +1,44 @@
+{
+    "id": "rct2.scgfence",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGFENCE|AD30FA67",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "WMF",
+            "WMFG",
+            "WSW",
+            "WSWG",
+            "WFW1",
+            "WFWG",
+            "WPF",
+            "WPFG",
+            "WSW1",
+            "WSW2",
+            "WBR1",
+            "WBRG",
+            "WBR2",
+            "WBR3",
+            "WALLMM16",
+            "WALLMM17"
+        ],
+        "priority": 4
+    },
+    "images": ["$RCT2:OBJDATA/SCGFENCE.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Fences and Walls",
+            "fr-FR": "Clôtures et façades",
+            "de-DE": "Zäune und Mauern",
+            "es-ES": "Vallas y paredes",
+            "it-IT": "Recinti e muri",
+            "nl-NL": "Hekken en Muren",
+            "sv-SE": "Staket och murar",
+            "ko-KR": "담장과 벽",
+            "zh-CN": "栅栏和墙",
+            "zh-TW": "柵欄和牆",
+            "pt-BR": "Cercas e Muros"
+        }
+    }
+}

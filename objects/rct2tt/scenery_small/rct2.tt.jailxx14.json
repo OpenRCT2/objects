@@ -1,0 +1,35 @@
+{
+    "id": "rct2.tt.jailxx14",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|JAILXX14|1E23EAC9",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 16,
+        "removalPrice": -10,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true
+    },
+    "images": ["$RCT2:OBJDATA/JAILXX14.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Prison Watch Tower Stairs",
+            "fr-FR": "Escalier de mirador de prison",
+            "de-DE": "Gefängniswachturm-Treppen",
+            "es-ES": "Escaleras de torre de vigilancia de prisión",
+            "it-IT": "Scale della torretta di guardia della prigione",
+            "nl-NL": "Trappen wachttoren Gevangenis",
+            "sv-SE": "Trappa till vakttorn, fängelse",
+            "ko-KR": "감옥 감시탑 계단",
+            "zh-TW": "監獄監視塔階梯",
+            "pt-BR": "Escadas de Torre de Vigia de Prisão"
+        }
+    }
+}

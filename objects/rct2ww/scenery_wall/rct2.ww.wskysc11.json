@@ -1,0 +1,25 @@
+{
+    "id": "rct2.ww.wskysc11",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0613|WSKYSC11|989AE5AE",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WSKYSC11.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Stone Skyscaper Wall Piece",
+            "fr-FR": "Pan de mur de gratte-ciel de pierre",
+            "de-DE": "Steinwolkenkratzerwand-Bauteil",
+            "es-ES": "Pieza de pared de rascacielos de piedra",
+            "it-IT": "Pezzo di parete di grattacielo in pietra",
+            "nl-NL": "Stuk Muur Stenen Wolkenkrabber",
+            "sv-SE": "Väggdel till stenskrapa",
+            "zh-CN": "石制摩天大楼墙一片"
+        }
+    }
+}

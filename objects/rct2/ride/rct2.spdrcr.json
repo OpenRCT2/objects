@@ -1,0 +1,92 @@
+{
+    "id": "rct2.spdrcr",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SPDRCR  |82355DA3",
+    "objectType": "ride",
+    "properties": {
+        "type": "spiral_rc",
+        "category": "rollercoaster",
+        "maxCarsPerTrain": 4,
+        "carColours": [
+            [
+                ["black", "yellow", "bordeaux_red"]
+            ],
+            [
+                ["saturated_red", "bright_red", "black"]
+            ],
+            [
+                ["grey", "white", "yellow"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 357356,
+            "mass": 1100,
+            "numSeats": 6,
+            "numSeatRows": 3,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "diagonalSlopes": true,
+                "flatBanked": true,
+                "flatToGentleSlopeBankedTransitions": true,
+                "diagonalGentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTurns": true,
+                "flatToGentleSlopeWhileBankedTransitions": true,
+                "curvedLiftHill": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [8, 6, -8, -6, 1, -1]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/SPDRCR.DAT[0..2498]"],
+    "strings": {
+        "name": {
+            "en-GB": "Spiral Roller Coaster",
+            "fr-FR": "Montagnes russes en spirale",
+            "de-DE": "Spiral-Achterbahn",
+            "es-ES": "Montaña Rusa Espiral",
+            "it-IT": "Ottovolante a spirale",
+            "nl-NL": "Spiraal Achtbaan",
+            "sv-SE": "Spiralberg- och dalbana",
+            "ko-KR": "나선형 롤러코스터",
+            "zh-CN": "螺旋式过山车",
+            "zh-TW": "螺旋式雲霄飛車",
+            "pt-BR": "Montanha-Russa Espiral"
+        },
+        "description": {
+            "en-GB": "A compact steel-tracked roller coaster with a spiral lift hill and cars with in-line seating",
+            "fr-FR": "Montagnes russes compactes et métalliques avec une remontée en spirale et des voitures disposant de sièges en ligne",
+            "de-DE": "Eine kompakte Stahlachterbahn mit einem Spirallifthügel und Wagen mit Sitzen in einer Reihe",
+            "es-ES": "Una montaña rusa pequeña de acero con una subida en espiral y vagones con asientos en línea",
+            "it-IT": "Un ottovolante d'acciaio compatto caratterizzato da una salita da traino a spirale e da carrozze con sedili in fila",
+            "nl-NL": "Een compacte achtbaan die over een stalen baan loopt die een spiraallift-heuvel bevat en wagentjes met gealigneerde stoelen heeft",
+            "sv-SE": "En solid stålberg- och dalbana med en spiralformad uppförsbacke och vagnar med  sätena på rad",
+            "ko-KR": "차량이 일렬로 늘어서서 나선형의 오르막을 통해 조밀하게 들어찬 트랙을 타고 달리는 롤러코스터",
+            "zh-CN": "一座紧密的钢制轨道的过山车有着螺旋上升斜坡及同轴列车座椅",
+            "zh-TW": "一座緊密的鋼製軌道的雲霄飛車有著螺旋上升斜坡及同軸列車座椅",
+            "pt-BR": "Uma montanha-russa de aço compacta com subida em espiral e vagões com assentos em linha"
+        },
+        "capacity": {
+            "en-GB": "6 passengers per car",
+            "fr-FR": "6 passagers par voiture",
+            "de-DE": "6 Fahrgäste pro Wagen",
+            "es-ES": "6 pasajeros por vagón",
+            "it-IT": "6 passeggeri a carrozza",
+            "nl-NL": "6 passagiers per wagentje",
+            "sv-SE": "6 passagerare per vagn",
+            "ko-KR": "차량 정원 6명",
+            "zh-CN": "6 位乘客/每个车厢",
+            "zh-TW": "6 位乘客/每個車廂",
+            "pt-BR": "6 passageiros por vagão"
+        }
+    }
+}

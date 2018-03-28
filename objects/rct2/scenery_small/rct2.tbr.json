@@ -1,0 +1,31 @@
+{
+    "id": "rct2.tbr",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TBR     |AEBAC51E",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 6,
+        "removalPrice": 4,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 20,
+        "shape": "1/4",
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TBR.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Bullrushes",
+            "fr-FR": "Roseaux",
+            "de-DE": "Rohrkolben",
+            "es-ES": "Gladiolos",
+            "it-IT": "Giunchi",
+            "nl-NL": "Riet",
+            "sv-SE": "Vass",
+            "ko-KR": "고랭이 관목",
+            "zh-CN": "香蒲",
+            "zh-TW": "香蒲",
+            "pt-BR": "Junco"
+        }
+    }
+}

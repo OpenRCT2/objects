@@ -1,0 +1,72 @@
+{
+    "id": "rct2.ww.dhowwatr",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFB10|DHOWWATR|A290AEE5",
+    "objectType": "ride",
+    "properties": {
+        "type": "boat_hire",
+        "category": [
+            "water",
+            "gentle"
+        ],
+        "disableBreakdown": true,
+        "carColours": [
+            [
+                ["saturated_brown", "bordeaux_red", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 15,
+            "spacing": 278912,
+            "mass": 180,
+            "numSeats": 2,
+            "animation": 3,
+            "numSeatRows": 6,
+            "poweredAcceleration": 8,
+            "poweredMaxSpeed": 5,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_11": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "VEHICLE_ENTRY_FLAG_BOAT_HIRE_COLLISION_DETECTION": true,
+            "VEHICLE_ENTRY_FLAG_RIDER_ANIMATION": true,
+            "loadingPositions": [3, -3]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/DHOWWATR.DAT[0..114]"],
+    "strings": {
+        "name": {
+            "en-GB": "Dhow water ride",
+            "fr-FR": "Ballade en sampan",
+            "de-DE": "Dhau-Wasserbahn",
+            "es-ES": "Atracción acuática Dhow",
+            "it-IT": "Il sambuco",
+            "nl-NL": "Water-Attractie met Arabisch zeilschip",
+            "sv-SE": "Dau-båt",
+            "zh-CN": "帆船水上游乐设施"
+        },
+        "description": {
+            "en-GB": "Decorative fishing boat, which the passengers paddle themselves",
+            "fr-FR": "Bateau de pêche décoratif, propulsé par les passagers à l'aide de pagaies",
+            "de-DE": "Dekoratives Fischerboot, das die Fahrgäste selbst durch Paddeln bewegen",
+            "es-ES": "Bote de pesca decorativo en el que los pasajeros pedalean",
+            "it-IT": "Una nave da pesca ornamentale, che deve essere mossa dai passeggeri con i remi",
+            "nl-NL": "Decoratieve vissersboot waarin de passagiers zelf peddelen",
+            "sv-SE": "En dekorativ fiskebåt som paddlas av föraren",
+            "zh-CN": "装饰的钓鱼船，由游客自行踩踏行进"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per boat",
+            "fr-FR": "2 passagers par bateau",
+            "de-DE": "2 pro Boot",
+            "es-ES": "2 pasajeros por bote",
+            "it-IT": "2 passeggeri per imbarcazione",
+            "nl-NL": "2 passagiers per boot",
+            "sv-SE": "2 passagerare per båt",
+            "zh-CN": "每艘船限乘2人"
+        }
+    }
+}

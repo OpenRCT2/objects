@@ -1,0 +1,82 @@
+{
+    "id": "rct2.ww.mbskyr01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0612|MBSKYR01|48FEA0E4",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": -150,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 104,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 104,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 104,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 104,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 104,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 104,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 104,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 104,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 104,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/MBSKYR01.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sky Scraper Roof Piece",
+            "fr-FR": "Pan de toit de gratte-ciel",
+            "de-DE": "Wolkenkratzerdach-Bauteil",
+            "es-ES": "Pieza de tejado de rascacielos",
+            "it-IT": "Pezzo di tetto di grattacielo",
+            "nl-NL": "Stuk dak Wolkenkrabber",
+            "sv-SE": "Takdel till skyskrapa",
+            "zh-CN": "高楼大厦屋顶块"
+        }
+    }
+}

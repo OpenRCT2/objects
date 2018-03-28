@@ -1,0 +1,33 @@
+{
+    "id": "rct2.wallcbpc",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F83|WALLCBPC|98C6D52C",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isDoor": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTernaryColour": true,
+        "doorSound": 2,
+        "height": 4,
+        "price": 250,
+        "sceneryGroup": "SCGWALLS"
+    },
+    "images": ["$RCT2:OBJDATA/WALLCBPC.DAT[0..35]"],
+    "strings": {
+        "name": {
+            "en-GB": "Portcullis Door",
+            "fr-FR": "Porte coulissante",
+            "de-DE": "Falltür",
+            "es-ES": "Puerta rastrillo",
+            "it-IT": "Saracinesca",
+            "nl-NL": "Valhek als ingang",
+            "sv-SE": "Fällgallerdörr",
+            "ko-KR": "창살문",
+            "zh-CN": "升降闸门",
+            "zh-TW": "升降閘門",
+            "pt-BR": "Porta Corrediça"
+        }
+    }
+}

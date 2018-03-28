@@ -1,0 +1,42 @@
+{
+    "id": "rct2.tt.elecfen1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F721|ELECFEN1|25DCE9DD",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 33,
+        "removalPrice": -26,
+        "cursor": "CURSOR_FENCE_DOWN",
+        "height": 64,
+        "animationDelay": 2,
+        "animationMask": 15,
+        "numFrames": 16,
+        "sceneryGroup": "SCGFENCE",
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/ELECFEN1.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Electric Fence Corner Piece",
+            "fr-FR": "Section de virage de clôture électrique",
+            "de-DE": "Elektrozaun-Eckstück",
+            "es-ES": "Esquina de valla electrificada",
+            "it-IT": "Recinzione elettrica con tratto di curva",
+            "nl-NL": "Bochtstuk elektrisch hek",
+            "sv-SE": "Hörndel, elektriskt staket",
+            "ko-KR": "전기 울타리 모서리 조각",
+            "zh-TW": "通電柵欄牆角塊",
+            "pt-BR": "Peça de Canto de Cerca Elétrica"
+        }
+    }
+}

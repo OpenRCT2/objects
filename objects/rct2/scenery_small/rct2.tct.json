@@ -1,0 +1,30 @@
+{
+    "id": "rct2.tct",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TCT     |70765FAB",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 80,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TCT.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cabbage Tree",
+            "fr-FR": "Palmiste",
+            "de-DE": "Rote Angelin",
+            "es-ES": "Árbol repollo",
+            "it-IT": "Albero dei cavoli",
+            "nl-NL": "Koolpalm",
+            "sv-SE": "Kålträd",
+            "ko-KR": "양배추",
+            "zh-CN": "甘蓝树",
+            "zh-TW": "甘藍樹",
+            "pt-BR": "Palmeira"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "rct2.tm2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TM2     |3317B612",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 19,
+        "removalPrice": 10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 90,
+        "sceneryGroup": "SCGTREES",
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TM2.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tree",
+            "fr-FR": "Arbre",
+            "de-DE": "Baum",
+            "es-ES": "Árbol",
+            "it-IT": "Albero",
+            "nl-NL": "Boom",
+            "sv-SE": "Träd",
+            "ko-KR": "나무",
+            "zh-CN": "树",
+            "zh-TW": "樹",
+            "pt-BR": "Árvore"
+        }
+    }
+}

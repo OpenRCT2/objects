@@ -1,0 +1,24 @@
+{
+    "id": "rct2.ww.wdrab06",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A13|WDRAB06 |864A8872",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WDRAB06.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Wall Piece 6",
+            "fr-FR": "Pan de mur terne 6",
+            "de-DE": "Düsteres Wand-Bauteil 6",
+            "es-ES": "Pieza de pared apagada 6",
+            "it-IT": "Pezzo di muro smorto 6",
+            "nl-NL": "Vaal stuk dak 6",
+            "sv-SE": "Gråbrun väggdel 6"
+        }
+    }
+}

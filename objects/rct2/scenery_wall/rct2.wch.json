@@ -1,0 +1,30 @@
+{
+    "id": "rct2.wch",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WCH     |2BD5344E",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 3,
+        "price": 60,
+        "cursor": "CURSOR_TREE_DOWN",
+        "sceneryGroup": "SCGFENCE"
+    },
+    "images": ["$RCT2:OBJDATA/WCH.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Conifer Hedge",
+            "fr-FR": "Haie de conifères",
+            "de-DE": "Nadelbaumhecke",
+            "es-ES": "Cerca de coníferas",
+            "it-IT": "Siepe di conifere",
+            "nl-NL": "Heg van coniferen",
+            "sv-SE": "Barrhäck",
+            "ko-KR": "침엽수 울타리",
+            "zh-CN": "松柏篱芭",
+            "zh-TW": "松柏籬芭",
+            "pt-BR": "Sebe de Conífera"
+        }
+    }
+}

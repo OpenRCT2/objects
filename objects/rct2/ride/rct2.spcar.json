@@ -1,0 +1,100 @@
+{
+    "id": "rct2.spcar",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SPCAR   |69F23BC4",
+    "objectType": "ride",
+    "properties": {
+        "type": "car_ride",
+        "category": "gentle",
+        "RIDE_ENTRY_FLAG_18": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "carColours": [
+            [
+                ["bright_red", "yellow", "black"]
+            ],
+            [
+                ["dark_green", "olive_green", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 174320,
+                "mass": 300,
+                "numSeats": 2,
+                "numSeatRows": 1,
+                "poweredAcceleration": 90,
+                "poweredMaxSpeed": 8,
+                "drawOrder": 9,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "loadingPositions": [4, -4]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "poweredAcceleration": 90,
+                "poweredMaxSpeed": 8,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SPCAR.DAT[0..242]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sportscars",
+            "fr-FR": "Voitures de sport",
+            "de-DE": "Sportwagen",
+            "es-ES": "Deportivos",
+            "it-IT": "Auto sportive",
+            "nl-NL": "Sportauto's",
+            "sv-SE": "Sportbilar",
+            "ko-KR": "스포츠카",
+            "zh-CN": "运动车",
+            "zh-TW": "運動車",
+            "pt-BR": "Carros Esporte"
+        },
+        "description": {
+            "en-GB": "Powered vehicles in the shape of sportscars",
+            "fr-FR": "Véhicules à propulsion en forme de voitures de sport",
+            "de-DE": "Angetriebene Fahrzeuge in Form von Sportwagen",
+            "es-ES": "Vehículos autopropulsados de forma de carreras",
+            "it-IT": "Veicoli a motore che ricordano le auto sportive",
+            "nl-NL": "Elektrische voertuigen in de vorm van sportauto's",
+            "sv-SE": "Motordrivna fordon i form av sportbilar",
+            "ko-KR": "스포츠카의 모양을 본떠 만든 동력 자동차",
+            "zh-CN": "运动车外形的动力机械车辆",
+            "zh-TW": "運動車外形的動力機械車輛",
+            "pt-BR": "Veículos motorizados na forma de carros esporte"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por coche",
+            "it-IT": "2 passeggeri a carrozza",
+            "nl-NL": "2 passagiers per wagentje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량 정원 2명",
+            "zh-CN": "2 位乘客/每个车厢",
+            "zh-TW": "2 位乘客/每個車廂",
+            "pt-BR": "2 passageiros por carro"
+        }
+    }
+}

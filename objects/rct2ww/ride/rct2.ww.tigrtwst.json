@@ -1,0 +1,104 @@
+{
+    "id": "rct2.ww.tigrtwst",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFC10|TIGRTWST|16352D82",
+    "objectType": "ride",
+    "properties": {
+        "type": "heartline_twister_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "carColours": [
+            [
+                ["white", "light_blue", "black"]
+            ],
+            [
+                ["yellow", "bright_red", "black"]
+            ],
+            [
+                ["bright_red", "yellow", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 278912,
+                "mass": 950,
+                "tabOffset": -10,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "effectVisual": 10,
+                "drawOrder": 11,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [5, 3, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 278912,
+                "mass": 950,
+                "tabOffset": -10,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "effectVisual": 10,
+                "drawOrder": 11,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [-7, -9, 5, 3]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/TIGRTWST.DAT[0..2594]"],
+    "strings": {
+        "name": {
+            "en-GB": "Bengal Tiger Rollercoaster",
+            "fr-FR": "Montagnes Tigre du Bengale",
+            "de-DE": "Bengalischer Tiger-Achterbahn",
+            "es-ES": "Montaña Rusa Tigre de Bengala",
+            "it-IT": "Ottovolante Tigre del Bengala",
+            "nl-NL": "Bengaalse Tijger-Achtbaan",
+            "sv-SE": "Bengalisk tiger",
+            "zh-CN": "孟加拉虎云霄飞车"
+        },
+        "description": {
+            "en-GB": "Roller coaster cars capable of heartline twists",
+            "fr-FR": "Montagnes russes avec inversions à 360°",
+            "de-DE": "Achterbahnwagen, die sich um ihre Mittelachse drehen können",
+            "es-ES": "Vagones capaces de dar giros a media altura",
+            "it-IT": "Ottovolante con carrozze capaci di avvitamento",
+            "nl-NL": "Achtbaanwagentjes die Heartline-draaien kunnen maken",
+            "sv-SE": "Berg- och dalbana med tvära svängar",
+            "zh-CN": "云霄飞车能以中心作旋转"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "zh-CN": "每辆车限乘4人"
+        }
+    }
+}

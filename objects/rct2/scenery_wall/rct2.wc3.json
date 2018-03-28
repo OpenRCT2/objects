@@ -1,0 +1,30 @@
+{
+    "id": "rct2.wc3",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WC3     |6D7B0A93",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isBanner": true,
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 110,
+        "sceneryGroup": "SCGWALLS"
+    },
+    "images": ["$RCT2:OBJDATA/WC3.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Roman Column Wall",
+            "fr-FR": "Façade de colonnes romaines",
+            "de-DE": "Römische Säulenmauer",
+            "es-ES": "Columna romana",
+            "it-IT": "Muro a colonne romane",
+            "nl-NL": "Romeinse Zuilenmuur",
+            "sv-SE": "Romansk pelarmur",
+            "ko-KR": "로마 기둥 벽",
+            "zh-CN": "罗马圆柱墙",
+            "zh-TW": "羅馬圓柱牆",
+            "pt-BR": "Muro de Colunas Romanas"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "rct2.tap",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TAP     |F3D8B277",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": 10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 80,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TAP.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Aleppo Pine Tree",
+            "fr-FR": "Pin d'Alep",
+            "de-DE": "Aleppokiefer",
+            "es-ES": "Pino de Aleppo",
+            "it-IT": "Pino di Aleppo",
+            "nl-NL": "Pijnboom uit Aleppo",
+            "sv-SE": "Aleppo-tall",
+            "ko-KR": "어레포 소나무",
+            "zh-CN": "松树",
+            "zh-TW": "松樹",
+            "pt-BR": "Árvore Pinheiro-de-Aleppo"
+        }
+    }
+}

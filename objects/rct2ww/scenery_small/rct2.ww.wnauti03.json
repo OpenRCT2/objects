@@ -1,0 +1,29 @@
+{
+    "id": "rct2.ww.wnauti03",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0F11|WNAUTI03|4DE39BBE",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WNAUTI03.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Nautical Roof Piece",
+            "fr-FR": "Pan de toit nautique",
+            "de-DE": "Nautisches Dach-Bauteil",
+            "es-ES": "Pieza de tejado náutico",
+            "it-IT": "Pezzo di tetto in stile nautico",
+            "nl-NL": "Nautisch Stuk Dak",
+            "sv-SE": "Nautisk takdel"
+        }
+    }
+}

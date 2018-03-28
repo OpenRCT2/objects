@@ -1,0 +1,85 @@
+{
+    "id": "rct2.steep1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|STEEP1  |68721AAF",
+    "objectType": "ride",
+    "properties": {
+        "type": "steeplechase",
+        "category": "rollercoaster",
+        "ratingMultipler": {
+            "excitement": 5
+        },
+        "carColours": [
+            [
+                ["white", "bright_red", "black"]
+            ],
+            [
+                ["white", "yellow", "black"]
+            ],
+            [
+                ["white", "light_blue", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 244048,
+            "mass": 800,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "frictionSoundId": 2,
+            "soundRange": 0,
+            "drawOrder": 9,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "diagonalSlopes": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [4, -4]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/STEEP1.DAT[0..258]"],
+    "strings": {
+        "name": {
+            "en-GB": "Steeplechase",
+            "fr-FR": "Rodéo montagnes",
+            "de-DE": "Hindernislauf",
+            "es-ES": "Carrera Ciega",
+            "it-IT": "Corsa a ostacoli",
+            "nl-NL": "Hindernisrace",
+            "sv-SE": "Hinderlopp",
+            "ko-KR": "장애물 경마",
+            "zh-CN": "越野障碍赛马",
+            "zh-TW": "越野障礙賽馬",
+            "pt-BR": "Corrida de Cavalos"
+        },
+        "description": {
+            "en-GB": "Riders ride horse-shaped vehicles which run along a single-rail roller coaster track",
+            "fr-FR": "Véhicule en forme de cheval parcourant des montagnes russes sur une voie monorail",
+            "de-DE": "Die Passagiere sitzen in Fahrzeugen in Form von Pferden, die auf einer Einschienen-Achterbahnstrecke fahren",
+            "es-ES": "Los pasajeros se montan en unos vagones con forma de caballo que recorren sobre un monoraíl",
+            "it-IT": "I passeggeri attraversano un tracciato monorotaia su veicoli a forma di cavallo",
+            "nl-NL": "Attractie in voertuigen in de vorm van een paard die over enkele rails gaan",
+            "sv-SE": "Passagerarna åker hästformade fordon som kör längs en enspårig berg- och dalbana",
+            "ko-KR": "말 모양의 기구를 타고 모노 레일 위를 달리는 기구",
+            "zh-CN": "乘客骑着马形车辆循着单轨式过山车轨道",
+            "zh-TW": "乘客騎著馬形車輛循著單軌式雲霄飛車軌道",
+            "pt-BR": "Os passageiros andam em veículos na forma de cavalos que correm numa pista de montanha-russa de monotrilho"
+        },
+        "capacity": {
+            "en-GB": "2 riders per horse",
+            "fr-FR": "2 passagers par cheval",
+            "de-DE": "2 Fahrgäste pro Pferd",
+            "es-ES": "2 jinetes por caballo",
+            "it-IT": "2 passeggeri per cavallo",
+            "nl-NL": "2 bezoekers per paard",
+            "sv-SE": "2 passagerare per häst",
+            "ko-KR": "말 정원 2명",
+            "zh-CN": "2 位乘客/每辆马",
+            "zh-TW": "2 位乘客/每輛馬",
+            "pt-BR": "2 passageiros por cavalo"
+        }
+    }
+}

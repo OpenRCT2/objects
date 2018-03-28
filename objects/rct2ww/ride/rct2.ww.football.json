@@ -1,0 +1,80 @@
+{
+    "id": "rct2.ww.football",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31C10|FOOTBALL|80A1B1A4",
+    "objectType": "ride",
+    "properties": {
+        "type": "suspended_swinging_rc",
+        "category": "rollercoaster",
+        "maxCarsPerTrain": 8,
+        "carColours": [
+            [
+                ["bright_red", "saturated_red", "yellow"]
+            ],
+            [
+                ["dark_green", "dark_purple", "white"]
+            ],
+            [
+                ["white", "grey", "bright_red"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 331208,
+            "mass": 950,
+            "tabOffset": -22,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 4,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "diagonalSlopes": true,
+                "restraintAnimation": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_SWINGING": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "VEHICLE_ENTRY_FLAG_21": true,
+            "loadingPositions": [4, 6, -6, -4]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/FOOTBALL.DAT[0..4622]"],
+    "strings": {
+        "name": {
+            "en-GB": "Football Ride",
+            "fr-FR": "Coupe du monde",
+            "de-DE": "Fußballbahn",
+            "es-ES": "Atracción Fútbol",
+            "it-IT": "Calcio",
+            "nl-NL": "Voetbal-Attractie",
+            "sv-SE": "Fotbollsbana",
+            "zh-CN": "足球游乐设施"
+        },
+        "description": {
+            "en-GB": "Suspended roller coaster train consisting of football-shaped cars able to swing freely as the train goes around corners",
+            "fr-FR": "Train de montagnes russes suspendu constitué de voitures en forme de ballon de football qui se balancent librement dans les virages",
+            "de-DE": "Hängender Achterbahnzug mit Wagen, die Fußbällen nachempfunden sind und in Kurven frei schwingen können",
+            "es-ES": "Tren suspendido consistente en vagones con forma de balón de fútbol, los cuales se balancean libremente al tomar las curvas",
+            "it-IT": "Ottovolante sospeso con carrozze a forma di pallone da calcio che possono oscillare liberamente quando percorrono le curve",
+            "nl-NL": "Hangende Achtbaantrein die bestaat uit voetbalvormige wagentjes die ongehinderd kunnen slingeren als de trein door bochten gaat",
+            "sv-SE": "Upphängda berg- och dalbanevagnar i form av fotbollar som gungar fritt runt hörn",
+            "zh-CN": "悬吊式云霄飞车以足球为车辆外型使其能在转弯时能自由摆动摇荡"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "zh-CN": "?每辆车限乘4人"
+        }
+    }
+}

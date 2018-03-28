@@ -1,0 +1,31 @@
+{
+    "id": "rct2.ww.rlog03",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0511|RLOG03  |57A7A38E",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 30,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RLOG03.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Log Cabin Wall Piece",
+            "fr-FR": "Pan de mur de cabane en rondins",
+            "de-DE": "Holzhüttenwand-Bauteil",
+            "es-ES": "Pieza de pared de cabaña de troncos",
+            "it-IT": "Pezzo di parete di capanna di tronchi",
+            "nl-NL": "Stuk Muur Blokhut",
+            "sv-SE": "Väggdel till timmerstuga",
+            "zh-CN": "原木墙一片"
+        }
+    }
+}

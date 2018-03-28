@@ -1,0 +1,86 @@
+{
+    "id": "rct2.tt.valkyrie",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F820|VALKYRIE|38768495",
+    "objectType": "ride",
+    "properties": {
+        "type": "vertical_drop_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "maxCarsPerTrain": 3,
+        "carColours": [
+            [
+                ["black", "light_orange", "light_orange"]
+            ],
+            [
+                ["light_purple", "bright_red", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 174320,
+            "mass": 2000,
+            "numSeats": 6,
+            "numSeatRows": 3,
+            "frictionSoundId": 57,
+            "soundRange": 0,
+            "drawOrder": 7,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "verticalSlopes": true,
+                "diagonalSlopes": true,
+                "flatBanked": true,
+                "flatToGentleSlopeBankedTransitions": true,
+                "diagonalGentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTurns": true,
+                "flatToGentleSlopeWhileBankedTransitions": true,
+                "restraintAnimation": true
+            },
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [3, -3, 3, -3, 3, -3]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/VALKYRIE.DAT[0..2882]"],
+    "strings": {
+        "name": {
+            "en-GB": "Valkyries Coaster",
+            "fr-FR": "La chevauchée des Walkyries",
+            "de-DE": "Walküren-Achterbahn",
+            "es-ES": "Montaña rusa de las valkirias",
+            "it-IT": "Ottovolante Valchiria",
+            "nl-NL": "Valkyren-achtbaan",
+            "sv-SE": "Valkyria",
+            "ko-KR": "발키리 코스터",
+            "zh-TW": "女武神雲霄飛車",
+            "pt-BR": "Montanha-Russa das Valkirias"
+        },
+        "description": {
+            "en-GB": "Extra-wide cars descend completely vertical sloped track for the ultimate freefall roller coaster experience",
+            "fr-FR": "Des voitures très larges descendent des voies en pente verticale. Pour amateurs de chute libre",
+            "de-DE": "Die extrabreiten Wagen fahren ein senkrechtes Gefälle hinab und bieten die ultimative Erfahrung des freien Falls.",
+            "es-ES": "Coches especialmente anchos que descienden verticalmente en la experiencia de caída libre definitiva.",
+            "it-IT": "Carrozze larghissime scendono per un tracciato completamente in verticale per offrire l'esperienza di caduta libera suprema, per quel che riguarda un ottovolante.",
+            "nl-NL": "Extra brede wagentjes gaan bij volledig verticale hellingen neer voor de ultieme vrije-val-ervaring.",
+            "sv-SE": "Extra breda vagnar faller nedför ett fullkomligt lodrätt spår och ger passagerarna den ultimata fritt fall-upplevelsen.",
+            "ko-KR": "궁극적인 자유낙하를 경험할 수 있는 수직 트랙을 내려오는 아주 넓은 롤러코스터",
+            "zh-TW": "完全延著垂直斜度軌道落下的附加大型列車體驗由頂點自由落下的快感",
+            "pt-BR": "Vagões extragrandes descem numa pista completamente vertical, na experiência definitiva de montanha-russa de queda livre"
+        },
+        "capacity": {
+            "en-GB": "6 passengers per car",
+            "fr-FR": "6 passagers par voiture",
+            "de-DE": "6 Fahrgäste pro Wagen",
+            "es-ES": "6 pasajeros por coche",
+            "it-IT": "6 passeggeri per vettura",
+            "nl-NL": "6 passagiers per wagentje",
+            "sv-SE": "6 passagerare per vagn",
+            "ko-KR": "차량 정원 6명",
+            "zh-TW": "每輛車限乘6人",
+            "pt-BR": "6 passageiros por vagão"
+        }
+    }
+}

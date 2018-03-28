@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.wgeorg07",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A11|WGEORG07|A46B5687",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 48,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WGEORG07.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Georgian Ground Floor Wall Piece 4",
+            "fr-FR": "Pan de mur de rez-de-chaussée géorgien 4",
+            "de-DE": "Georgianisches Erdgeschoss-Wandbauteil 4",
+            "es-ES": "Pieza de pared de suelo georgiano 4",
+            "it-IT": "Pezzo di muro georgiano del piano terra 4",
+            "nl-NL": "Grondstuk muur in Georgische stijl 4",
+            "sv-SE": "Georgiansk väggdel för nedre våning 4"
+        }
+    }
+}

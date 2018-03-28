@@ -1,0 +1,60 @@
+{
+    "id": "rct2.scgmedie",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGMEDIE|B3E24B69",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "TCT1",
+            "STB1",
+            "STB2",
+            "WC1",
+            "WC4",
+            "WC5",
+            "WC6",
+            "WC7",
+            "WC8",
+            "WALLCZ32",
+            "WALLCY32",
+            "TCT2",
+            "STG1",
+            "STG2",
+            "WC2",
+            "WC9",
+            "WC10",
+            "WC11",
+            "WC12",
+            "WC13",
+            "WALLCW32",
+            "WALLCX32",
+            "TCN",
+            "TTG",
+            "SCT",
+            "SOH1",
+            "SOH2",
+            "SOH3",
+            "WPW3",
+            "WALLCFPC",
+            "WALLCBPC"
+        ],
+        "priority": 27,
+        "entertainerCostumes": "knight"
+    },
+    "images": ["$RCT2:OBJDATA/SCGMEDIE.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Medieval Themeing",
+            "fr-FR": "Thème Médiéval",
+            "de-DE": "Mittelalterthema",
+            "es-ES": "Temática medieval",
+            "it-IT": "Tema medievale",
+            "nl-NL": "Middeleeuwse Thema",
+            "sv-SE": "Medeltidstema",
+            "ko-KR": "중세 테마",
+            "zh-CN": "中古世纪主题区",
+            "zh-TW": "中古世紀主題區",
+            "pt-BR": "Temática Medieval"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": "rct2.tt.metoan01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F722|METOAN01|203569DD",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 23,
+        "removalPrice": 20,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "sceneryGroup": "SCGWALLS",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 90,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 90,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/METOAN01.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Meteor Crater Corner",
+            "fr-FR": "Virage de cratère météoritique",
+            "de-DE": "Meteoritenkrater-Ecke",
+            "es-ES": "Esquina de cráter de meteorito",
+            "it-IT": "Curva del cratere meteoritico",
+            "nl-NL": "Bocht meteoorkrater",
+            "sv-SE": "Hörn, meteorkrater",
+            "ko-KR": "운석 구멍 모서리",
+            "zh-TW": "隕石坑牆角",
+            "pt-BR": "Canto de Cratera de Meteoro"
+        }
+    }
+}

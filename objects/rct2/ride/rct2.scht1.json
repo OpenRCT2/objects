@@ -1,0 +1,126 @@
+{
+    "id": "rct2.scht1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SCHT1   |4862FCC8",
+    "objectType": "ride",
+    "properties": {
+        "type": "looping_rc",
+        "category": "rollercoaster",
+        "minCarsPerTrain": 2,
+        "maxCarsPerTrain": 7,
+        "defaultCar": 1,
+        "headCars": 0,
+        "carColours": [
+            [
+                ["bright_red", "bright_red", "yellow"]
+            ],
+            [
+                ["dark_green", "bright_red", "dark_green"]
+            ],
+            [
+                ["light_blue", "white", "light_blue"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 270196,
+                "mass": 550,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [5, 3, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 183036,
+                "mass": 525,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 0,
+                "soundRange": 0,
+                "drawOrder": 7,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [7, 9, -3, -1]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SCHT1.DAT[0..4322]"],
+    "strings": {
+        "name": {
+            "en-GB": "Roller Coaster Trains",
+            "fr-FR": "Trains de montagnes russes",
+            "de-DE": "Achterbahnzüge",
+            "es-ES": "Trenes de Montaña Rusa",
+            "it-IT": "Treni da ottovolante",
+            "nl-NL": "Achtbaantreintjes",
+            "sv-SE": "Berg- och dalbanetåg",
+            "ko-KR": "롤러코스터 열차",
+            "zh-CN": "火车的过山车",
+            "zh-TW": "火車的雲霄飛車",
+            "pt-BR": "Trens de Montanha-russa"
+        },
+        "description": {
+            "en-GB": "Roller coaster trains with lap bars capable of travelling through vertical loops",
+            "en-US": "Roller coaster trains with lap bars capable of traveling through vertical loops",
+            "fr-FR": "Trains de montagnes russes avec des barres de protection au niveau des jambes et capables de passer dans des boucles verticales",
+            "de-DE": "Achterbahnzüge mit Beckenhalterungen, die durch vertikale Schleifen fahren können",
+            "es-ES": "Montaña rusa con barras de regazo capaz de rizos verticales",
+            "it-IT": "Treni da ottovolante con barre al petto capaci di correre lungo giri della morte in verticale",
+            "nl-NL": "Achtbaantreinen met beveiligingen op schoothoogte die door verticale loopings kunnen komen",
+            "sv-SE": "Berg- och dalbanetåg med knästänger som klarar av att åka genom lodräta loopar",
+            "ko-KR": "무릎에 안전 장치가 내려오며 수직의 원형 코스를 돌 수 있는 롤러코스터",
+            "zh-CN": "火车的过山车在历经垂直回圈时有膝部安全设备",
+            "zh-TW": "火車的雲霄飛車在歷經垂直迴圈時有膝部安全設備",
+            "pt-BR": "Trens de montanha-russa com protetores de colo capazes de passar por loops verticais"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 정원 4명",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por carro"
+        }
+    }
+}

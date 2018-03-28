@@ -1,0 +1,138 @@
+{
+    "id": "rct2.ww.congaeel",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0E10|CONGAEEL|BA9C3EE9",
+    "objectType": "ride",
+    "properties": {
+        "type": "corkscrew_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 8,
+        "numEmptyCars": 1,
+        "defaultCar": 1,
+        "headCars": 0,
+        "tailCars": 2,
+        "ratingMultipler": {
+            "intensity": 10
+        },
+        "carColours": [
+            [
+                ["light_blue", "white", "yellow"]
+            ],
+            [
+                ["bright_red", "yellow", "yellow"]
+            ],
+            [
+                ["white", "bordeaux_red", "bordeaux_red"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 261480,
+                "mass": 600,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [5, 3, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 226616,
+                "mass": 500,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [7, 9, -3, -1]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 52296,
+                "mass": 50,
+                "frictionSoundId": 2,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true
+                }
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/CONGAEEL.DAT[0..4470]"],
+    "strings": {
+        "name": {
+            "en-GB": "Conga Eel Coaster",
+            "fr-FR": "Montagnes du congre",
+            "de-DE": "Conga-Aal-Bahn",
+            "es-ES": "Montaña Rusa Anguila Conga",
+            "it-IT": "L'anguilla",
+            "nl-NL": "Conga Paling-Achtbaan",
+            "sv-SE": "Berg- och ålbana",
+            "zh-CN": "鳗鱼飞车"
+        },
+        "description": {
+            "en-GB": "A compact steel-tracked roller coaster where the Eel-shaped train travels through corkscrews and loops",
+            "fr-FR": "Montagnes russes compactes et métalliques sur lesquelles le train en forme d'anguille effectue tire-bouchons et boucles",
+            "de-DE": "Eine kompakte Stahlachterbahn, bei der ein aalförmiger Zug durch Schrauben und Schleifen fährt",
+            "es-ES": "Una montaña rusa compacta de acero, donde un tren con forma de anguila circula por rizos y sacacorchos",
+            "it-IT": "Un compatto ottovolante d'acciaio con carrozze a forma di anguilla che percorrono avvitamenti e giri della morte",
+            "nl-NL": "Een compacte Achtbaan waarop Paling-vormige treintjes op een stalen baan door kurkentrekkers en loopings gaan",
+            "sv-SE": "Berg- och dalbana av kompakt stål med ålformade vagnar som ringlar sig fram genom korkskruvar och spiraler",
+            "zh-CN": "一座以钢铁轨道组成的云霄飞车它的鳗鱼外型列车会穿过曲折循环的轨道"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "zh-CN": "? 每辆车限乘4人"
+        }
+    }
+}

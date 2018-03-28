@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.wkreml06",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0911|WKREML06|F033D07F",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WKREML06.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Kremlin Wall Piece 4",
+            "fr-FR": "Pan de mur du Kremlin 4",
+            "de-DE": "Kreml - Wandbauteil 4",
+            "es-ES": "Pieza de pared del Kremlin 4",
+            "it-IT": "Pezzo di muro del Cremlino 4",
+            "nl-NL": "Stuk muur Kremlin 4",
+            "sv-SE": "Kreml-mur del 4"
+        }
+    }
+}

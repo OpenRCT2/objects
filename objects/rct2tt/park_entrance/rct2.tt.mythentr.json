@@ -1,0 +1,26 @@
+{
+    "id": "rct2.tt.mythentr",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F828|MYTHENTR|58E99AAF",
+    "objectType": "park_entrance",
+    "properties": {
+        "scrollingMode": 32,
+        "textHeight": 79
+    },
+    "images": ["$RCT2:OBJDATA/MYTHENTR.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Mythological Entrance",
+            "fr-FR": "Entrée mythologique",
+            "de-DE": "Mythologischer Eingang",
+            "es-ES": "Entrada mitológica",
+            "it-IT": "Entrata mitologica",
+            "nl-NL": "Mythologische Ingang",
+            "sv-SE": "Mytologisk entré",
+            "ko-KR": "신화 입구",
+            "zh-TW": "神話主題入口",
+            "pt-BR": "Entrada Mitológica"
+        }
+    }
+}

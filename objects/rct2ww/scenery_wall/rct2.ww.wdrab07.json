@@ -1,0 +1,24 @@
+{
+    "id": "rct2.ww.wdrab07",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A13|WDRAB07 |CF292D79",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WDRAB07.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Wall Piece 7",
+            "fr-FR": "Pan de mur terne 7",
+            "de-DE": "Düsteres Wand-Bauteil 7",
+            "es-ES": "Pieza de pared apagada 7",
+            "it-IT": "Pezzo di muro smorto 7",
+            "nl-NL": "Vaal stuk dak 7",
+            "sv-SE": "Gråbrun väggdel 7"
+        }
+    }
+}

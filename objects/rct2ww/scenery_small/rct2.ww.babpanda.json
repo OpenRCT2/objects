@@ -1,0 +1,29 @@
+{
+    "id": "rct2.ww.babpanda",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0011|BABPANDA|B0218CC2",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/BABPANDA.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Baby Panda",
+            "fr-FR": "Bébé panda",
+            "de-DE": "Baby-Pandabär",
+            "es-ES": "Cría de panda",
+            "it-IT": "Cucciolo di panda",
+            "sv-SE": "Babypanda",
+            "zh-CN": "幼儿期的熊猫"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.rdrab07",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A11|RDRAB07 |2E8178AC",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 64,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RDRAB07.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Small Tower Base",
+            "fr-FR": "Base de petite tour terne",
+            "de-DE": "Düsterer Kleiner Turm - Basis",
+            "es-ES": "Base de torre pequeña apagada",
+            "it-IT": "Base di torre piccola smorta",
+            "nl-NL": "Vale basis kleine toren",
+            "sv-SE": "Gråbrun liten tornbas"
+        }
+    }
+}

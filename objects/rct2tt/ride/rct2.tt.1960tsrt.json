@@ -1,0 +1,45 @@
+{
+    "id": "rct2.tt.1960tsrt",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA20|1960TSRT|4241E72B",
+    "objectType": "ride",
+    "properties": {
+        "type": "shop",
+        "category": "stall",
+        "sells": "tshirt",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/1960TSRT.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Flower Power T-Shirts",
+            "fr-FR": "T-shirts Flower Power",
+            "de-DE": "Flower Power-T-Shirts",
+            "es-ES": "Camisetas de poder floral",
+            "it-IT": "T-shirt floreali",
+            "nl-NL": "T-shirts Flower Power",
+            "sv-SE": "Flower power-t-shirts",
+            "ko-KR": "플라워 파워 티셔츠",
+            "zh-TW": "花的魅力T恤",
+            "pt-BR": "Camisetas Paz e Amor"
+        },
+        "description": {
+            "en-GB": "Stall selling T-shirts with a flower motif",
+            "fr-FR": "Magasin proposant des T-shirts de hippies",
+            "de-DE": "Stand, der T-Shirts mit Blumenmotiven verkauft",
+            "es-ES": "Puesto de venta de camisetas de motivos florales",
+            "it-IT": "Chiosco che vende T-shirt con motivi floreali.",
+            "nl-NL": "Kraampje waar T-shirts met een bloemmotief worden verkocht.",
+            "sv-SE": "Stånd som säljer t-shirts med blommotiv.",
+            "ko-KR": "꽃 티셔츠를 파는 가게",
+            "zh-TW": "販賣有花朵圖案的T恤",
+            "pt-BR": "Quiosque vendendo camisetas com temas floridos"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": "rct2.tt.1920sand",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA20|1920SAND|9B962B58",
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": [
+            "beef_noodles",
+            "lemonade"
+        ],
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/1920SAND.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Art Deco Food Stall",
+            "fr-FR": "Restaurant art déco",
+            "de-DE": "Art Déco Essensstand",
+            "es-ES": "Puesto de comida de prisión",
+            "it-IT": "Chiosco alimentare in art decò",
+            "nl-NL": "Eetkraampje Art Deco",
+            "sv-SE": "Art déco-matstånd",
+            "ko-KR": "아르데코 음식 가게",
+            "zh-TW": "裝置藝術食物攤位",
+            "pt-BR": "Quiosque de Comida de Arte Déco"
+        },
+        "description": {
+            "en-GB": "A stall selling Noodles and Fresh Lemonade",
+            "fr-FR": "Un restaurant proposant des pâtes et de la limonade",
+            "de-DE": "Ein Stand, der Nudeln und Frische Limonade verkauft",
+            "es-ES": "Un puesto en el que se venden tallarines y limonada fresca",
+            "it-IT": "Un chiosco che vende tagliatelle e limonata fresca",
+            "nl-NL": "Een kraampje met Noodles en verse limonade.",
+            "sv-SE": "Stånd som säljer nudlar och kyld lemonad",
+            "ko-KR": "국수와 레모네이드 가게",
+            "zh-TW": "販賣麵類與新鮮檸檬水的攤位",
+            "pt-BR": "Um quiosque vendendo Macarrão e Limonada Fresca"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "rct2.ww.jpflag05",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFD11|JPFLAG05|8536219E",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 40,
+        "removalPrice": -30,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 90,
+        "animationDelay": 2,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/JSF5.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Japanese Silk Flag",
+            "fr-FR": "Drapeau de soie japonaise",
+            "de-DE": "Japanische Seidenflagge",
+            "es-ES": "Bandera de seda japonesa",
+            "it-IT": "Bandiera giapponese di seta",
+            "nl-NL": "Japanse Vlag van zijde",
+            "sv-SE": "Japansk silkesflagga",
+            "zh-CN": "日本的丝织旗"
+        }
+    }
+}

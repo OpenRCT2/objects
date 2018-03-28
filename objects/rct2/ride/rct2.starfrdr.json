@@ -1,0 +1,47 @@
+{
+    "id": "rct2.starfrdr",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|STARFRDR|2FB4B79C",
+    "objectType": "ride",
+    "properties": {
+        "type": "drink_stall",
+        "category": "stall",
+        "sells": "fruit_juice",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/STARFRDR.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Star Fruit Drink Stall",
+            "fr-FR": "Fruitier",
+            "de-DE": "Fruchtsaft-Stand",
+            "es-ES": "Puesto de bebidas de frutas",
+            "it-IT": "Chiosco dei succhi di frutta",
+            "nl-NL": "Kraampje vruchtendrankjes",
+            "sv-SE": "Stjärnfruktsdrycksstånd",
+            "ko-KR": "스타 과일 주스 판매점",
+            "zh-CN": "杨桃汁店",
+            "zh-TW": "楊桃汁店",
+            "pt-BR": "Barraca de Sucos de Frutas"
+        },
+        "description": {
+            "en-GB": "A stall selling star fruit drinks",
+            "fr-FR": "Boutique vendant des jus de fruits",
+            "de-DE": "Ein Stand, an dem Fruchtsaftgetränke verkauft werden",
+            "es-ES": "Puesto que vende bebidas de frutas",
+            "it-IT": "Un chiosco che vende succhi di frutta",
+            "nl-NL": "Een kraampje dat vruchtendrankjes verkoopt",
+            "sv-SE": "Ett stånd som säljer stjärnfruktsdrycker",
+            "ko-KR": "스타 과일 주스를 판매하는 판매점",
+            "zh-CN": "一家卖杨桃汁饮料的店",
+            "zh-TW": "一家賣楊桃汁飲料的店",
+            "pt-BR": "Uma barraca vendendo sucos de frutas"
+        }
+    }
+}

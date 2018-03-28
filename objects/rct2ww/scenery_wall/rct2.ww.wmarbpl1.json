@@ -1,0 +1,25 @@
+{
+    "id": "rct2.ww.wmarbpl1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFC13|WMARBPL1|91C2F57F",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WMARBPL1.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Plain Marble Wall",
+            "fr-FR": "Mur de marbre simple",
+            "de-DE": "Einfache Marmorwand",
+            "es-ES": "Pared de mármol simple",
+            "it-IT": "Muro di marmo semplice",
+            "nl-NL": "Gesloten Marmeren muur",
+            "sv-SE": "Osmyckad marmorvägg",
+            "zh-CN": "印度成象"
+        }
+    }
+}

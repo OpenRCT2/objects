@@ -1,0 +1,166 @@
+{
+    "id": "rct2.lift1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|LIFT1   |F43C91B2",
+    "objectType": "ride",
+    "properties": {
+        "type": "lift",
+        "category": "transport",
+        "tabScale": 0.5,
+        "hasShelter": true,
+        "disableBreakdown": true,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "dark_brown", "black"]
+            ],
+            [
+                ["dark_green", "black", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 862884,
+            "mass": 1000,
+            "tabOffset": 7,
+            "numSeats": 16,
+            "numSeatRows": 8,
+            "poweredAcceleration": 255,
+            "poweredMaxSpeed": 15,
+            "drawOrder": 15,
+            "frames": {
+                "flat": true,
+                "restraintAnimation": true,
+                "VEHICLE_SPRITE_FLAG_15": true
+            },
+            "VEHICLE_ENTRY_FLAG_15": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "numSegments": 0,
+            "loadingWaypoints": [
+                [
+                    [28, 28],
+                    [-28, 28],
+                    [-16, 0]
+                ],
+                [
+                    [-28, -28],
+                    [-20, 0],
+                    [-16, 0]
+                ],
+                [
+                    [-20, 0],
+                    [-20, 0],
+                    [-16, 0]
+                ],
+                [
+                    [-28, 28],
+                    [-20, 0],
+                    [-16, 0]
+                ],
+                [
+                    [28, 28],
+                    [0, 20],
+                    [0, 16]
+                ],
+                [
+                    [28, -28],
+                    [28, 28],
+                    [0, 16]
+                ],
+                [
+                    [-28, 28],
+                    [0, 20],
+                    [0, 16]
+                ],
+                [
+                    [0, 20],
+                    [0, 20],
+                    [0, 16]
+                ],
+                [
+                    [20, 0],
+                    [20, 0],
+                    [16, 0]
+                ],
+                [
+                    [28, -28],
+                    [20, 0],
+                    [16, 0]
+                ],
+                [
+                    [-28, -28],
+                    [28, -28],
+                    [16, 0]
+                ],
+                [
+                    [28, 28],
+                    [20, 0],
+                    [16, 0]
+                ],
+                [
+                    [28, -28],
+                    [0, -20],
+                    [0, -16]
+                ],
+                [
+                    [0, -20],
+                    [0, -20],
+                    [0, -16]
+                ],
+                [
+                    [-28, -28],
+                    [0, -20],
+                    [0, -16]
+                ],
+                [
+                    [-28, 28],
+                    [-28, -28],
+                    [0, -16]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/LIFT1.DAT[0..146]"],
+    "strings": {
+        "name": {
+            "en-GB": "Elevator",
+            "fr-FR": "Ascenseur",
+            "de-DE": "Aufzug",
+            "es-ES": "Ascensor",
+            "it-IT": "Ascensore",
+            "nl-NL": "Lift",
+            "sv-SE": "Hiss",
+            "ko-KR": "엘리베이터",
+            "zh-CN": "电梯",
+            "zh-TW": "電梯",
+            "pt-BR": "Elevador"
+        },
+        "description": {
+            "en-GB": "Guests ride in an elevator up or down a vertical tower to get from one level to another",
+            "fr-FR": "Ascenseur montant ou descendant un à un les étages d'une tour verticale",
+            "de-DE": "Die Besucher fahren in einem Aufzug einen Turm hinauf oder hinab, um in ein anderes Stockwerk zu gelangen",
+            "es-ES": "Los pasajeros suben o bajan en un ascensor para acceder a distintos niveles de una torre vertical",
+            "it-IT": "I visitatori corrono dentro un ascensore su e giù per una torre per passare da un livello all'altro",
+            "nl-NL": "Attractie in een lift. Passagiers gaan omhoog of omlaag in een verticale toren om van het ene naar het andere niveau te komen",
+            "sv-SE": "Besökarna åker i en hiss upp och ner för ett lodrätt torn för att komma från en nivå till en annan",
+            "ko-KR": "탑을 오르내리는 엘리베이터",
+            "zh-CN": "游客在垂直塔楼内的电梯上下,由某一楼层到其它楼层",
+            "zh-TW": "遊客在垂直塔樓內的電梯上下,由某一樓層到其它樓層",
+            "pt-BR": "Os visitantes andam num elevador subindo ou descendo uma torre vertical para ir de um andar para o outro"
+        },
+        "capacity": {
+            "en-GB": "16 passengers",
+            "fr-FR": "16 passagers",
+            "de-DE": "16 Personen",
+            "es-ES": "16 pasajeros",
+            "it-IT": "16 passeggeri",
+            "nl-NL": "16 passagiers",
+            "sv-SE": "16 passagerare",
+            "ko-KR": "정원 16명",
+            "zh-CN": "16 位乘客",
+            "zh-TW": "16 位乘客",
+            "pt-BR": "16 passageiros"
+        }
+    }
+}

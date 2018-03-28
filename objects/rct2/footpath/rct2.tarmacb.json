@@ -1,0 +1,29 @@
+{
+    "id": "rct2.tarmacb",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188885|TARMACB |519C6D36",
+    "objectType": "footpath",
+    "properties": {
+        "hasSupportImages": true,
+        "hasElevatedPathImages": true,
+        "supportType": "pole",
+        "scrollingMode": 0
+    },
+    "images": ["$RCT2:OBJDATA/TARMACB.DAT[0..164]"],
+    "strings": {
+        "name": {
+            "en-GB": "Brown Tarmac Footpath",
+            "fr-FR": "Allée en bitume marron",
+            "de-DE": "Brauner Makadam-Fußweg",
+            "es-ES": "Sendero asfaltado marrón",
+            "it-IT": "Sentiero di catrame marrone",
+            "nl-NL": "Bruin Voetpad van Asfalt",
+            "sv-SE": "Brun plattformsgång",
+            "ko-KR": "갈색 타맥 보도",
+            "zh-CN": "棕色柏油碎石步道",
+            "zh-TW": "棕色柏油碎石步道",
+            "pt-BR": "Caminho de Asfalto Marrom"
+        }
+    }
+}

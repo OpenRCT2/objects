@@ -1,0 +1,85 @@
+{
+    "id": "rct2.swans",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SWANS   |EF4071FD",
+    "objectType": "ride",
+    "properties": {
+        "type": "boat_hire",
+        "category": [
+            "water",
+            "gentle"
+        ],
+        "ratingMultipler": {
+            "excitement": 5,
+            "intensity": 2
+        },
+        "carColours": [
+            [
+                ["white", "white", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 15,
+            "spacing": 278912,
+            "mass": 350,
+            "numSeats": 4,
+            "animation": 2,
+            "numSeatRows": 3,
+            "poweredAcceleration": 8,
+            "poweredMaxSpeed": 5,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_11": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "VEHICLE_ENTRY_FLAG_BOAT_HIRE_COLLISION_DETECTION": true,
+            "VEHICLE_ENTRY_FLAG_RIDER_ANIMATION": true,
+            "loadingPositions": [6, 8, -4, -2]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/SWANS.DAT[0..66]"],
+    "strings": {
+        "name": {
+            "en-GB": "Swans",
+            "fr-FR": "Cygnes",
+            "de-DE": "Schwäne",
+            "es-ES": "Cisnes",
+            "it-IT": "Cigni",
+            "nl-NL": "Zwanen",
+            "sv-SE": "Svanar",
+            "ko-KR": "백조",
+            "zh-CN": "天鹅",
+            "zh-TW": "天鵝",
+            "pt-BR": "Cisnes"
+        },
+        "description": {
+            "en-GB": "Swan shaped boat, propelled by the pedalling front seat passengers",
+            "en-US": "Swan shaped boat, propelled by the pedaling front seat passengers",
+            "fr-FR": "Pédalos en forme de cygne",
+            "de-DE": "Schwanförmiges Boot mit Pedalantrieb, das von den vorderen Passagieren getreten wird",
+            "es-ES": "Bote con forma de cisne impulsado mediante pedaleo por los pasajeros",
+            "it-IT": "Barche a forma di cigno, spinte dalle pedalate dei passeggeri in prima fila",
+            "nl-NL": "Boot in de vorm van een zwaan, voortgedreven door de pedallerende, op de eerste rij zittende passagiers",
+            "sv-SE": "Svanformad båt, drivs med pedaler som passagerarna i framsätet trampar på",
+            "ko-KR": "앞 좌석의 승객이 페달을 밟아 스크류를 돌려 나아가는 백조 모양의 보트",
+            "zh-CN": "天鹅外形的船, 由前座的乘客脚踏前进",
+            "zh-TW": "天鵝外形的船, 由前座的乘客腳踏前進",
+            "pt-BR": "Barco em forma de cisne, propulsionado pelos pedais dos passageiros da frente"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per boat",
+            "fr-FR": "4 passagers par bateau",
+            "de-DE": "4 Fahrgäste pro Boot",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a barca",
+            "nl-NL": "4 passagiers per boot",
+            "sv-SE": "4 passagerare per båt",
+            "ko-KR": "보트 정원 4명",
+            "zh-CN": "4 位乘客/每艘船",
+            "zh-TW": "4 位乘客 /每艘船",
+            "pt-BR": "4 passageiros por barco"
+        }
+    }
+}

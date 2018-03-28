@@ -1,0 +1,55 @@
+{
+    "id": "rct2.ww.fatbudda",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0012|FATBUDDA|BDC1CA56",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": -150,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 80,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 80,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 80,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 80,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/FATBUDDA.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Fat Buddha",
+            "fr-FR": "Bouddha heureux",
+            "de-DE": "Dicker Buddha",
+            "es-ES": "Buda obeso",
+            "it-IT": "Budda grasso",
+            "nl-NL": "Dikke Boeddha",
+            "sv-SE": "Fet buddha",
+            "zh-CN": "喜佛陀"
+        }
+    }
+}

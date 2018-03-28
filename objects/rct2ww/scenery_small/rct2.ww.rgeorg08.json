@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.rgeorg08",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A11|RGEORG08|765DDE9F",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RGEORG08.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Georgian Ground Floor Wall Piece 7",
+            "fr-FR": "Pan de toit géorgien 6",
+            "de-DE": "Georgianisches Dach-Bauteil 6",
+            "es-ES": "Pieza de tejado georgiano 6",
+            "it-IT": "Pezzo di tetto georgiano 6",
+            "nl-NL": "Stuk dak in Georgische stijl 6",
+            "sv-SE": "Georgiansk takdel 6"
+        }
+    }
+}

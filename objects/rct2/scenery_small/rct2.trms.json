@@ -1,0 +1,33 @@
+{
+    "id": "rct2.trms",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TRMS    |C0521CF0",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 76,
+        "shape": "4/4",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TRMS.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Roman Statue",
+            "fr-FR": "Statue romaine",
+            "de-DE": "Römische Statue",
+            "es-ES": "Estatua romana",
+            "it-IT": "Statua romana",
+            "nl-NL": "Romeins Beeld",
+            "sv-SE": "Romersk staty",
+            "ko-KR": "로마 동상",
+            "zh-CN": "罗马雕像",
+            "zh-TW": "羅馬雕像",
+            "pt-BR": "Estátua Romana"
+        }
+    }
+}

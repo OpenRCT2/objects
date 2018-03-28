@@ -1,0 +1,41 @@
+{
+    "id": "rct2.scgabstr",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGABSTR|FC2ADB99",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "TGE1",
+            "TGE2",
+            "TGE3",
+            "TGE4",
+            "TGE5",
+            "TGC1",
+            "TGC2",
+            "WALLGL8",
+            "WALLGL16",
+            "WALLGL32",
+            "GEOROOF1",
+            "WGW2",
+            "GEOROOF2"
+        ],
+        "priority": 20
+    },
+    "images": ["$RCT2:OBJDATA/SCGABSTR.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Abstract Themeing",
+            "fr-FR": "Thème abstrait",
+            "de-DE": "Abstraktes Thema",
+            "es-ES": "Temática abstracta",
+            "it-IT": "Tema astratto",
+            "nl-NL": "Abstract Thema",
+            "sv-SE": "Abstrakt tema",
+            "ko-KR": "추상적 테마",
+            "zh-CN": "现代抽象主题区",
+            "zh-TW": "現代抽象主題區",
+            "pt-BR": "Temática Abstrata"
+        }
+    }
+}

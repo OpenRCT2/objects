@@ -1,0 +1,87 @@
+{
+    "id": "rct2.rftboat",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|RFTBOAT |9C39AB46",
+    "objectType": "ride",
+    "properties": {
+        "type": "river_rafts",
+        "category": [
+            "water",
+            "transport"
+        ],
+        "hasShelter": true,
+        "RIDE_ENTRY_FLAG_18": true,
+        "carColours": [
+            [
+                ["light_brown", "white", "white"]
+            ],
+            [
+                ["light_brown", "yellow", "bright_red"]
+            ],
+            [
+                ["light_brown", "dark_green", "dark_green"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 244048,
+            "mass": 950,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "poweredAcceleration": 255,
+            "poweredMaxSpeed": 5,
+            "drawOrder": 9,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "VEHICLE_ENTRY_FLAG_WATER_RIDE": true,
+            "loadingPositions": [6, 4, -6, -4]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/RFTBOAT.DAT[0..98]"],
+    "strings": {
+        "name": {
+            "en-GB": "River Rafts",
+            "fr-FR": "Radeau médusé",
+            "de-DE": "Floße",
+            "es-ES": "Balsas de Río",
+            "it-IT": "Zattere lungo il fiume",
+            "nl-NL": "Rivier Vlotten",
+            "sv-SE": "Flodflottar",
+            "ko-KR": "리버 래프팅",
+            "zh-CN": "水上橡皮艇",
+            "zh-TW": "水上橡皮艇",
+            "pt-BR": "Balsas no Rio"
+        },
+        "description": {
+            "en-GB": "Raft-shaped boats gently meander around a river track",
+            "fr-FR": "Des bateaux en forme de radeau descendent paisiblement une voie navigable",
+            "de-DE": "Floßförmige Boote winden sich sanft durch eine Flussstrecke",
+            "es-ES": "Botes con forma de balsa",
+            "it-IT": "Barche a forma di zattera si muovono dolcemente lungo una pista d'acqua",
+            "nl-NL": "Boten in de vorm van Vlotten gaan zachtjes over een rivierbaan",
+            "sv-SE": "Flottformade båtar som lugnt snirklar sig runt ett flodspår",
+            "ko-KR": "수로를 따라 구불구불 내려오는 뗏목 모양의 보트",
+            "zh-CN": "橡皮艇外形的船在水道上温和地曲折前进",
+            "zh-TW": "橡皮艇外形的船在水道上溫和地曲折前進",
+            "pt-BR": "Barcos em forma de balsa vagueiam suavemente em um rio"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per raft",
+            "fr-FR": "4 passagers par radeau",
+            "de-DE": "4 Fahrgäste pro Floß",
+            "es-ES": "4 pasajeros por balsa",
+            "it-IT": "4 passeggeri a zattera",
+            "nl-NL": "4 passagiers per Vlot",
+            "sv-SE": "4 passagerare per flotte",
+            "ko-KR": "보트 정원 4명",
+            "zh-CN": "4 位乘客 /每艘橡皮艇",
+            "zh-TW": "4 位乘客 /每艘橡皮艇",
+            "pt-BR": "4 passageiros por balsa"
+        }
+    }
+}

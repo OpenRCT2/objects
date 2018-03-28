@@ -1,0 +1,42 @@
+{
+    "id": "rct2.tt.futsky39",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB21|FUTSKY39|9243979C",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": 4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "animationDelay": 3,
+        "animationMask": 15,
+        "numFrames": 16,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/FUTSKY39.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Obsidian SkyScraper Shallow Slope Corner",
+            "fr-FR": "Virage en pente douce du gratte-ciel d'obsidienne",
+            "de-DE": "Obsidian-Wolkenkratzer Flache Schrägenecke",
+            "es-ES": "Esquina de pendiente suave de rascacielos de obsidiana",
+            "it-IT": "Curva del pendio poco profondo del grattacielo in ossidiana",
+            "nl-NL": "Bocht flauwe helling Wolkenkrabber van Lavaglas",
+            "sv-SE": "Flack hörnsluttning, obsidianskyskrapa",
+            "ko-KR": "흑석 마천루 완경사 모서리",
+            "zh-TW": "黑躍石摩天大樓緩斜坡牆角",
+            "pt-BR": "Canto de Inclinação Rasa de Arranha-Céu Obsidiana"
+        }
+    }
+}

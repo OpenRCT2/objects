@@ -1,0 +1,55 @@
+{
+    "id": "rct2.ww.goldbuda",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0012|GOLDBUDA|2C78AA6A",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": -150,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/GOLDBUDA.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Golden Buddha",
+            "fr-FR": "Bouddha d'or",
+            "de-DE": "Goldener Buddha",
+            "es-ES": "Buda dorado",
+            "it-IT": "Budda dorato",
+            "nl-NL": "Gouden Boeddha",
+            "sv-SE": "Gyllene buddha",
+            "zh-CN": "金佛Golden Buddha"
+        }
+    }
+}

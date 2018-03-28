@@ -1,0 +1,87 @@
+{
+    "id": "rct2.bob1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|BOB1    |2A8F112F",
+    "objectType": "ride",
+    "properties": {
+        "type": "bobsleigh_rc",
+        "category": "rollercoaster",
+        "maxCarsPerTrain": 8,
+        "carColours": [
+            [
+                ["light_blue", "white", "bright_red"]
+            ],
+            [
+                ["bright_red", "saturated_red", "yellow"]
+            ],
+            [
+                ["yellow", "dark_olive_green", "light_orange"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 200468,
+            "mass": 600,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "frictionSoundId": 2,
+            "soundRange": 0,
+            "drawOrder": 7,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true
+            },
+            "VEHICLE_ENTRY_FLAG_NO_UPSTOP_BOBSLEIGH": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_SWINGING": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "VEHICLE_ENTRY_FLAG_21": true,
+            "VEHICLE_ENTRY_FLAG_SLIDE_SWING": true,
+            "loadingPositions": [3, -3]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/BOB1.DAT[0..2706]"],
+    "strings": {
+        "name": {
+            "en-GB": "Bobsleigh Coaster",
+            "fr-FR": "Bobsleigh",
+            "de-DE": "Bob-Achterbahn",
+            "es-ES": "Montaña Rusa Bobsleigh",
+            "it-IT": "Ottovolante a slittino",
+            "nl-NL": "Bobslee Achtbaan",
+            "sv-SE": "Bobslädesbana",
+            "ko-KR": "봅슬레이 코스터",
+            "zh-CN": "雪橇过山车",
+            "zh-TW": "雪橇飛車",
+            "pt-BR": "Montanha de Trenó"
+        },
+        "description": {
+            "en-GB": "Riders career down a twisting track in bobsleigh-shaped cars guided only by the curvature and banking of the semi-circular track",
+            "fr-FR": "Les passagers descendent un parcours plein de virages à bord d'une voiture en forme de bobsleigh dirigée uniquement par les courbes et l'inclinaison de la voie semi-circulaire",
+            "de-DE": "Die Passagiere fahren in Bob-förmigen Wagen, die nur von der Krümmung und der seitlichen Neigung der halbkreisförmigen Strecke geführt werden, auf einer verdrehten Strecke",
+            "es-ES": "Los pasajeros viajan por unas vías retorcidas en vagones tipo bobsleigh guiados únicamente por la curvatura y los peraltes de la vía semicircular",
+            "it-IT": "I passeggeri si fanno strada lungo un tracciato con molte curve all'interno di carrozze a forma di slittino guidate solo dalla curvatura e dall'inclinazione del tracciato semi-circolare",
+            "nl-NL": "Bezoekers denderen een bochtige baan omlaag in op bobsleeën lijkende wagentjes die alleen worden geleid door de wanden en de hellende halfronde baan",
+            "sv-SE": "Passagerarna åker ner för ett skruvat spår i en bobslädeformad vagn som endast styrs av svängarna och böjningen av det halvrunda spåret",
+            "ko-KR": "뒤틀린 반원형의 트랙을 봅슬레이처럼 생긴 차를 타고 질주하는 트랙",
+            "zh-CN": "以雪橇成型的车子，在弯曲的斜坡铁轨上仅由曲率导引向下俯冲",
+            "zh-TW": "以雪橇成型的車子，在彎曲的斜坡鐵軌上僅由曲率導引向下俯衝",
+            "pt-BR": "Os passageiros descem em uma pista sinuosa em carros em forma de trenós, guiados apenas pela curvatura e inclinação da pista semi-circular"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por vagón",
+            "it-IT": "2 passeggeri a carrozza",
+            "nl-NL": "2 passagiers per wagentje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량 정원 2명",
+            "zh-CN": "2位乘客/每个车厢",
+            "zh-TW": "2位乘客/每個車廂",
+            "pt-BR": "2 passageiros por carro"
+        }
+    }
+}

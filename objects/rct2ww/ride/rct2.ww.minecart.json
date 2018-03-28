@@ -1,0 +1,84 @@
+{
+    "id": "rct2.ww.minecart",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0210|MINECART|CC5270CE",
+    "objectType": "ride",
+    "properties": {
+        "type": "wooden_rc",
+        "category": "rollercoaster",
+        "minCarsPerTrain": 2,
+        "maxCarsPerTrain": 6,
+        "carColours": [
+            [
+                ["yellow", "black", "light_orange"]
+            ],
+            [
+                ["bright_red", "saturated_brown", "yellow"]
+            ],
+            [
+                ["bright_green", "grey", "bright_red"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 209184,
+            "mass": 540,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 54,
+            "soundRange": 1,
+            "effectVisual": 10,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "verticalSlopes": true,
+                "diagonalSlopes": true,
+                "flatBanked": true,
+                "flatToGentleSlopeBankedTransitions": true,
+                "diagonalGentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTurns": true,
+                "flatToGentleSlopeWhileBankedTransitions": true,
+                "restraintAnimation": true
+            },
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [5, 3, -7, -9]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/MINECART.DAT[0..2162]"],
+    "strings": {
+        "name": {
+            "en-GB": "Mine Cart Ride",
+            "fr-FR": "Mine en folie",
+            "de-DE": "Minenkarren",
+            "es-ES": "Atracción Vagonetas",
+            "it-IT": "La miniera",
+            "nl-NL": "Mijnwagen-Attractie",
+            "sv-SE": "Gruvbana",
+            "zh-CN": "矿车游乐设施"
+        },
+        "description": {
+            "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints",
+            "fr-FR": "Train pour montagnes russes en bois avec des sièges rembourrés et des barres de protection au niveau des jambes",
+            "de-DE": "Holzachterbahnzüge mit gepolsterten Sitzen und Beckenhalterungen",
+            "es-ES": "Trenes de madera con asientos acolchados y barras de sujeción",
+            "it-IT": "Ottovolante percorso da carrozze di legno con sedili imbottiti e barre di sicurezza che bloccano le gambe",
+            "nl-NL": "Houten treintjes met gevulde zittingen en beveiligingen op schoothoogte",
+            "sv-SE": "Berg- och dalbanevagnar av trä med stoppade säten och säkerhetsbälten",
+            "zh-CN": "有装填物的座位及护膝吧装置的木制云霄飞车"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "zh-CN": "每辆车限乘4人"
+        }
+    }
+}

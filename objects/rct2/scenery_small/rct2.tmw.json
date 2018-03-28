@@ -1,0 +1,32 @@
+{
+    "id": "rct2.tmw",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TMW     |2433DF21",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 12,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TMW.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wheels",
+            "fr-FR": "Roues",
+            "de-DE": "Räder",
+            "es-ES": "Ruedas",
+            "it-IT": "Ruote",
+            "nl-NL": "Wielen",
+            "sv-SE": "Hjul",
+            "ko-KR": "바퀴들",
+            "zh-CN": "车子",
+            "zh-TW": "車子",
+            "pt-BR": "Rodas"
+        }
+    }
+}

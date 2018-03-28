@@ -1,0 +1,98 @@
+{
+    "id": "rct2.ptct2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|PTCT2   |064CCE3B",
+    "objectType": "ride",
+    "properties": {
+        "type": [
+            "none",
+            "wooden_rc"
+        ],
+        "category": "rollercoaster",
+        "minCarsPerTrain": 2,
+        "maxCarsPerTrain": 4,
+        "carColours": [
+            [
+                ["bright_red", "bright_red", "saturated_brown"]
+            ],
+            [
+                ["white", "dark_green", "black"]
+            ],
+            [
+                ["black", "bordeaux_red", "bordeaux_red"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 287628,
+            "mass": 800,
+            "numSeats": 6,
+            "numSeatRows": 3,
+            "frictionSoundId": 54,
+            "soundRange": 1,
+            "effectVisual": 10,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "verticalSlopes": true,
+                "diagonalSlopes": true,
+                "flatBanked": true,
+                "flatToGentleSlopeBankedTransitions": true,
+                "diagonalGentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTurns": true,
+                "flatToGentleSlopeWhileBankedTransitions": true,
+                "restraintAnimation": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [15, 13, 1, -1, -13, -15]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/PTCT2.DAT[0..2882]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wooden Roller Coaster Trains (6 seater)",
+            "fr-FR": "Trains montagnes en bois (6 places)",
+            "de-DE": "Holzachterbahnzüge (6-Sitzer-Züge)",
+            "es-ES": "Montaña Rusa Madera (6 asi.)",
+            "it-IT": "Ottovolante di legno",
+            "nl-NL": "Houten Treintjes (6 pl.)",
+            "sv-SE": "Träberg- och dalbanetåg (6-sitsiga vagnar)",
+            "ko-KR": "목재 롤러코스터(6인승)",
+            "zh-CN": "木制式过山车列车(6 个座位)",
+            "zh-TW": "木製式雲霄飛車列車(6 個座位)",
+            "pt-BR": "Trens de Montanha-russa de Madeira (6 assentos)"
+        },
+        "description": {
+            "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints",
+            "fr-FR": "Train pour montagnes russes en bois avec des sièges rembourrés et des barres de protection au niveau des jambes",
+            "de-DE": "Holzachterbahnzüge mit gepolsterten Sitzen und Beckenhalterungen",
+            "es-ES": "Montaña rusa de madera con asientos acolchados y barras de sujección",
+            "it-IT": "Treni di legno da ottovolante con sedili imbottiti e barre al petto per protezione",
+            "nl-NL": "Houten treintjes met gevulde zittingen en beveiligingen op schoothoogte",
+            "sv-SE": "Tåg till träberg- och dalbana med stoppade säten och en knästång",
+            "ko-KR": "쿠션이 있는 의자와 무릎에 안전장치가 설치된 목재 롤러코스터",
+            "zh-CN": "木制式过山车是有安全装置护具的列车",
+            "zh-TW": "木製式雲霄飛車是有安全裝置護具的列車",
+            "pt-BR": "Trens de montanha-russa de madeira com assentos acolchoados e proteções de colo"
+        },
+        "capacity": {
+            "en-GB": "6 passengers per car",
+            "fr-FR": "6 passagers par voiture",
+            "de-DE": "6 Fahrgäste pro Wagen",
+            "es-ES": "6 pasajeros por vagón",
+            "it-IT": "6 passeggeri a carrozza",
+            "nl-NL": "6 passagiers per wagentje",
+            "sv-SE": "6 passagerare per vagn",
+            "ko-KR": "차량 정원 6명",
+            "zh-CN": "6 位乘客/每个车厢",
+            "zh-TW": "6 位乘客/每個車廂",
+            "pt-BR": "6 passageiros por carro"
+        }
+    }
+}

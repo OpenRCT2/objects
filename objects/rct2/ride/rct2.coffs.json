@@ -1,0 +1,46 @@
+{
+    "id": "rct2.coffs",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|COFFS   |10FA5768",
+    "objectType": "ride",
+    "properties": {
+        "type": "drink_stall",
+        "category": "stall",
+        "sells": "coffee",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/COFFS.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Coffee Shop",
+            "fr-FR": "Café",
+            "de-DE": "Kaffeeladen",
+            "it-IT": "Negozio del caffè",
+            "nl-NL": "Koffiewinkel",
+            "sv-SE": "Kafé",
+            "ko-KR": "커피숍",
+            "zh-CN": "咖啡店",
+            "zh-TW": "咖啡店",
+            "pt-BR": "Loja de Café"
+        },
+        "description": {
+            "en-GB": "An art-deco style shop selling cups of coffee",
+            "fr-FR": "Café de style art déco proposant des tasses de café",
+            "de-DE": "Ein Laden im Art-Deco-Stil, in dem Kaffee verkauft wird",
+            "es-ES": "Una tienda de estilo art-deco que vende tazas de café",
+            "it-IT": "Un negozio in stile art-deco che vende tazzine di tè",
+            "nl-NL": "Een winkel in art-deco stijl waarin koppen koffie worden verkocht",
+            "sv-SE": "En affär i art-decostil som säljer kaffe i koppar",
+            "ko-KR": "예술 장식이 되어있는 커피 가게",
+            "zh-CN": "一间立体派装饰风格的商店在卖咖啡",
+            "zh-TW": "一間立體派裝飾風格的商店在賣咖啡",
+            "pt-BR": "Uma loja em estilo art déco vendendo xícaras de café"
+        }
+    }
+}

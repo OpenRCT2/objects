@@ -1,0 +1,94 @@
+{
+    "id": "rct2.vekdv",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C80|VEKDV   |F1CEB26E",
+    "objectType": "ride",
+    "properties": {
+        "type": "compact_inverted_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 4,
+        "maxCarsPerTrain": 7,
+        "ratingMultipler": {
+            "excitement": 8,
+            "intensity": 12,
+            "nausea": 10
+        },
+        "carColours": [
+            [
+                ["yellow", "bright_green", "yellow"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 174320,
+            "mass": 590,
+            "tabOffset": -15,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 1,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "verticalSlopes": true,
+                "diagonalSlopes": true,
+                "flatBanked": true,
+                "inlineTwists": true,
+                "flatToGentleSlopeBankedTransitions": true,
+                "diagonalGentleSlopeBankedTransitions": true,
+                "corkscrews": true,
+                "restraintAnimation": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [1, 3, 1, 3]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/VEKDV.DAT[0..2042]"],
+    "strings": {
+        "name": {
+            "en-GB": "Inverted Vertical Shuttle",
+            "fr-FR": "Navette verticale inversée",
+            "de-DE": "Umgekehrtes vertikales Shuttle",
+            "es-ES": "Lanzadera Vertical Inversa",
+            "it-IT": "Navetta verticale invertita",
+            "nl-NL": "Inversie Verticale Shuttle",
+            "sv-SE": "Inverterad lodrätt skyttel",
+            "ko-KR": "인버티드 버티컬 셔틀",
+            "zh-CN": "短程垂直反转穿梭",
+            "zh-TW": "短程垂直反轉穿梭",
+            "pt-BR": "Montanha Vertical Invertida"
+        },
+        "description": {
+            "en-GB": "Riders sit in cars suspended beneath the track, pulled backwards up a vertical track and then dropped to loop and twist around tight inversions",
+            "fr-FR": "Voitures suspendues à la voie, hissées en marche arrière au sommet d'une voie verticale, puis lâchées  dans un parcours fait de boucles et d'inversions serrées",
+            "de-DE": "Die Fahrgäste sitzen in Wagen, die unter den Schienen hängen, werden rückwärts eine vertikale Strecke hochgezogen und dann fallengelassen, um durch Schleifen, Schrauben und andere Ueberkopfteile zu rasen",
+            "es-ES": "Los pasajeros están sentados suspendidos bajo la vía",
+            "it-IT": "I passeggeri siedono in carrozze sospese sotto il tracciato, trainate in retromarcia su per un tratto verticale e poi sganciate per effettuare giri della morte e curve molto strette",
+            "nl-NL": "Bezoekers zitten in wagentjes die aan de baan hangen, en worden achterwaarts omhoog getrokken langs een verticale baan en vallen dan neer om via loopings en draaien in nauwe bochten te denderen",
+            "sv-SE": "Passagerarna sitter i vagnar upphängda under spåret, dras baklänges uppåt längs ett lodrätt spår och släpps mot en loop och snos runt tajta inversioner",
+            "ko-KR": "트랙에 매달려 뒤쪽으로 수직으로 끌려 올라가다가 원형 트랙과 심하게 뒤틀린 트랙을 향해 질주하는 롤러코스터",
+            "zh-CN": "乘客坐在车辆内悬挂在轨道下方,被向後垂直方向向上拉然後再快速坠下到旋转回圈紧接反转运行",
+            "zh-TW": "乘客坐在車輛內懸掛在軌道下方,被向後垂直方向向上拉然後再快速墜下到旋轉迴圈緊接反轉運行",
+            "pt-BR": "Os passageiros sentam em vagões suspensos abaixo da pista, puxados para trás numa pista vertical e então soltos para viajar por inversões e loops"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 정원 4명",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por vagão"
+        }
+    }
+}

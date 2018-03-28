@@ -1,0 +1,104 @@
+{
+    "id": "rct2.smc2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SMC2    |8A13DDE5",
+    "objectType": "ride",
+    "properties": {
+        "type": [
+            "none",
+            "steel_wild_mouse"
+        ],
+        "category": "rollercoaster",
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "carColours": [
+            [
+                ["light_brown", "bordeaux_red", "black"]
+            ],
+            [
+                ["dark_brown", "bordeaux_red", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 174320,
+                "mass": 440,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [7, 9, -3, -1]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SMC2.DAT[0..586]"],
+    "strings": {
+        "name": {
+            "en-GB": "Mine Cars",
+            "fr-FR": "Chariots",
+            "de-DE": "Minenwagen",
+            "es-ES": "Coches de Mina",
+            "it-IT": "Carri da miniera",
+            "nl-NL": "Mijnwagentjes",
+            "sv-SE": "Gruvvagnar",
+            "ko-KR": "탄광차",
+            "zh-CN": "矿坑车辆",
+            "zh-TW": "礦坑車輛",
+            "pt-BR": "Vagões de Mina"
+        },
+        "description": {
+            "en-GB": "Individual cars shaped like wooden mine trucks",
+            "fr-FR": "Voitures individuelles en forme de chariot de mine en bois",
+            "de-DE": "Einzelne Wagen in Form von hölzernen Minenkarren",
+            "es-ES": "Vehículos individuales con forma de vagonetas de madera",
+            "it-IT": "Carrozze individuali a forma di carri da miniera di legno",
+            "nl-NL": "Individuele wagentjes in de vorm van houten mijnwagens",
+            "sv-SE": "Individuella vagnar formade som gruvvagnar av trä",
+            "ko-KR": "나무로 만든 탄광차처럼 생긴 차량",
+            "zh-CN": "像矿坑中载木货车的独特车形",
+            "zh-TW": "像礦坑中載木貨車的獨特車形",
+            "pt-BR": "Vagões individuais em forma de carrinhos de mina de madeira"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 당 승객 4명",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por vagão"
+        }
+    }
+}

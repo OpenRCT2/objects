@@ -1,0 +1,435 @@
+{
+    "id": "rct2.tt.gintspdr",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA20|GINTSPDR|506598CA",
+    "objectType": "ride",
+    "properties": {
+        "type": "twist",
+        "category": "thrill",
+        "rotationMode": 1,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["moss_green", "yellow", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "mass": 200,
+            "tabOffset": -12,
+            "numSeats": 18,
+            "spriteWidth": 64,
+            "spriteHeightNegative": 88,
+            "spriteHeightPositive": 32,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "numSegments": 4,
+            "loadingWaypoints": [
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [3, -42],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [-43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [0, -42]
+                ],
+                [
+                    [43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [3, -42],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [-43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [0, -42]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-42, 0]
+                ],
+                [
+                    [-43, -43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-42, -3],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-43, 43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-42, 0]
+                ],
+                [
+                    [-43, -43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-42, -3],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-43, 43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [3, -42],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [-43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [0, -42]
+                ],
+                [
+                    [43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [3, -42],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [-43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [0, -42]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-42, 0]
+                ],
+                [
+                    [-43, -43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-42, -3],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-43, 43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-42, 0]
+                ],
+                [
+                    [-43, -43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-42, -3],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-43, 43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [3, -42],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [-43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [0, -42]
+                ],
+                [
+                    [43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [3, -42],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [-43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [0, -42]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-42, 0]
+                ],
+                [
+                    [-43, -43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-42, -3],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-43, 43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-42, 0]
+                ],
+                [
+                    [-43, -43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-42, -3],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-43, 43],
+                    [-42, -3],
+                    [-42, 0]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/GINTSPDR.DAT[0..242]"],
+    "strings": {
+        "name": {
+            "en-GB": "B-Movie Giant Spider Ride",
+            "fr-FR": "Araignée géante de film de série B",
+            "de-DE": "Riesige B-Movie-Spinnen-Attraktion",
+            "es-ES": "Viaje en araña gigante de película de serie B",
+            "it-IT": "Corsa del ragno gigante di film di 2a cat.",
+            "nl-NL": "B-film Reuzespin-attractie",
+            "sv-SE": "B-filmsspindel",
+            "ko-KR": "B 무비 대형 거미 라이드",
+            "zh-TW": "二流片大蜘蛛遊樂設施",
+            "pt-BR": "Brinquedo de Aranha Gigante de Filme B"
+        },
+        "description": {
+            "en-GB": "Riders ride in pairs of themed seats which rotate around a large B-Movie Spider.",
+            "fr-FR": "Les passagers voyagent par deux à bord de sièges thématiques autour d'une araignée géante de film de série B.",
+            "de-DE": "Die Fahrer sitzen zu zweit in thematisch gestalteten Sitzen, die sich um eine große B-Movie-Spinne drehen.",
+            "es-ES": "Los usuarios van en parejas, en asientos decorados que giran en torno a una gran araña de películas de serie B.",
+            "it-IT": "I passeggeri siedono su sedili che ruotano intorno a un grande ragno da B-Movie.",
+            "nl-NL": "Bezoekers rijden in thematische stoeltjes die rond een grote spin uit een B-film draaien.",
+            "sv-SE": "Passagerarna åker i par i säten som roterar kring en jättespindel som tagen ur en B-film.",
+            "ko-KR": "B 무비 거미 주위를 회전하는 테마 의자에 짝을 지어 탑승합니다.",
+            "zh-TW": "乘客兩人一組乘坐在主題座椅上，繞著一隻二流片中的大蜘蛛旋轉",
+            "pt-BR": "Os visitantes andam em pares de assentos temáticos que giram ao redor de uma enorme Aranha de Filme B"
+        },
+        "capacity": {
+            "en-GB": "18 passengers",
+            "fr-FR": "18 passagers",
+            "de-DE": "18 Fahrgäste",
+            "es-ES": "18 usuarios",
+            "it-IT": "18 passeggeri",
+            "nl-NL": "18 passagiers",
+            "sv-SE": "18 passagerare",
+            "ko-KR": "정원 18명",
+            "zh-TW": "限乘18人",
+            "pt-BR": "18 passageiros"
+        }
+    }
+}

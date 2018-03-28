@@ -1,0 +1,109 @@
+{
+    "id": "rct2.wmouse",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C80|WMOUSE  |32C36628",
+    "objectType": "ride",
+    "properties": {
+        "type": "wooden_wild_mouse",
+        "category": "rollercoaster",
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "ratingMultipler": {
+            "excitement": 3
+        },
+        "carColours": [
+            [
+                ["bright_red", "white", "light_pink"]
+            ],
+            [
+                ["saturated_brown", "yellow", "white"]
+            ],
+            [
+                ["white", "bright_pink", "bright_purple"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 148172,
+                "mass": 300,
+                "numSeats": 2,
+                "numSeatRows": 1,
+                "frictionSoundId": 1,
+                "soundRange": 0,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_SWINGING": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "VEHICLE_ENTRY_FLAG_25": true,
+                "loadingPositions": [4, -4]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "frictionSoundId": 1,
+                "soundRange": 0,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/WMOUSE.DAT[0..1138]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wooden Wild Mouse",
+            "fr-FR": "Souris folle en bois",
+            "de-DE": "Hölzerne Wilde Maus",
+            "es-ES": "Ratón Loco de Madera",
+            "it-IT": "Topo tutto matto di legno",
+            "nl-NL": "Houten Wild Mouse Achtbaan",
+            "sv-SE": "Vildmus av trä",
+            "ko-KR": "나무 쥐",
+            "zh-CN": "木制野地飞鼠",
+            "zh-TW": "木製野地飛鼠",
+            "pt-BR": "Rato Maluco de Madeira"
+        },
+        "description": {
+            "en-GB": "Small mouse shaped cars run on a wooden track, the cars leaning over precariously as they traverse hairpin corners and sharp dips",
+            "fr-FR": "De petites voitures en forme de souris dévalent une voie en bois et sont chahutées dans des virages en épingle à cheveux et des descentes abruptes",
+            "de-DE": "Kleine mausförmige Wagen fahren auf einer Holzstrecke, wobei sich die Wagen in Haarnadelkurven und steilen Senken neigen",
+            "es-ES": "Coches con forma de ratones que corren sobre una pista de madera",
+            "it-IT": "Piccole carrozze a forma di topo sfrecciano lungo un tracciato di legno, inclinandosi pericolosamente nelle curve a U e nelle discese ripide",
+            "nl-NL": "Kleine wagentjes in de vorm van een muis gaan over een houten baan, de wagentjes hellen gevaarlijk over als ze door haarspeldbochten en scherpe duiken gaan",
+            "sv-SE": "Små musformade vagnar kör på ett träspår, vagnarna lutar farligt över då de korsar hårnålssvängar och skarpa nedgångar",
+            "ko-KR": "나무로 된 트랙에 기대어 달리며 헤어핀 모양의 트랙이나 가파른 경사를 달리는 쥐 모양의 롤러코스터",
+            "zh-CN": "小老鼠外形的车辆在木架轨道上运行,车子以倾斜穿越U型转弯及陡峭坠下时有极大的不安全刺激感",
+            "zh-TW": "小老鼠外形的車輛在木架軌道上運行,車子以傾斜穿越U型轉彎及陡峭墜下時有極大的不安全刺激感",
+            "pt-BR": "Pequenos carros em forma de rato correm numa pista de madeira, inclinando-se 'perigosamente' em curvas fechadas e quedas íngremes"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por coche",
+            "it-IT": "2 passeggeri a carrozza",
+            "nl-NL": "2 passagiers per wagentje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량 정원 2명",
+            "zh-CN": "2 位乘客/每个车厢",
+            "zh-TW": "2 位乘客/每個車廂",
+            "pt-BR": "2 passageiros por carro"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "rct2.tef",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TEF     |0E3C9A27",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 55,
+        "removalPrice": -50,
+        "cursor": "CURSOR_FOUNTAIN_DOWN",
+        "height": 80,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "hasOverlayImage": true,
+        "SMALL_SCENERY_FLAG_FOUNTAIN_SPRAY_1": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TEF.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Elephant Fountain",
+            "fr-FR": "Fontaine éléphant",
+            "de-DE": "Elefantenspringbrunnen",
+            "es-ES": "Fuente elefante",
+            "it-IT": "Fontana con elefanti",
+            "nl-NL": "Fontein met Olifanten",
+            "sv-SE": "Elefantfontän",
+            "ko-KR": "코끼리 파운데이션",
+            "zh-CN": "大象喷水池",
+            "zh-TW": "大象噴水池",
+            "pt-BR": "Chafariz de Elefante"
+        }
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "id": "rct2.tt.timemach",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA20|TIMEMACH|8FA57E56",
+    "objectType": "ride",
+    "properties": {
+        "type": "space_rings",
+        "category": "gentle",
+        "tabScale": 0.5,
+        "carsPerFlatRide": 4,
+        "carColours": [
+            [
+                ["light_blue", "yellow", "black"]
+            ],
+            [
+                ["dark_green", "yellow", "black"]
+            ],
+            [
+                ["bright_red", "white", "black"]
+            ],
+            [
+                ["black", "bright_red", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "mass": 1000,
+            "numSeats": 1,
+            "spriteWidth": 55,
+            "spriteHeightNegative": 48,
+            "spriteHeightPositive": 28,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "numSegments": 0,
+            "loadingWaypoints": [
+                [
+                    [40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, -40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [-40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, 40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, -40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [-40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, 40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, -40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [-40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, 40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, -40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [-40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, 40],
+                    [0, 0],
+                    [0, 0]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/TIMEMACH.DAT[0..706]"],
+    "strings": {
+        "name": {
+            "en-GB": "Time Machine",
+            "fr-FR": "Machine à voyager dans le temps",
+            "de-DE": "Zeitmaschine",
+            "es-ES": "Máquina del tiempo",
+            "it-IT": "Macchina del tempo",
+            "nl-NL": "Tijdmachine",
+            "sv-SE": "Tidsmaskin",
+            "ko-KR": "타임 머신",
+            "zh-TW": "時光機",
+            "pt-BR": "Máquina do Tempo"
+        },
+        "description": {
+            "en-GB": "Guests sit in a specially designed sphere, and experience the illusion of time travel",
+            "fr-FR": "Les visiteurs sont installés dans une sphère spécialement conçue pour donner l'illusion d'un voyage dans le temps",
+            "de-DE": "Die Gäste sitzen in einer speziell dafür gebauten Kugel und erfahren die Illusion einer Zeitreise.",
+            "es-ES": "Los invitados se sientan en esferas diseñadas especialmente experimentando una simulación de viaje en el tiempo.",
+            "it-IT": "I visitatori siedono all'interno di una sfera appositamente creata per dare l'illusione del viaggio nel tempo.",
+            "nl-NL": "Gasten zitten in een speciaal ontworpen bol, en ervaren de illusie door de tijd te reizen",
+            "sv-SE": "Passagerarna sitter i en specialdesignad sfär och upplever en illusion av att resa i tiden.",
+            "ko-KR": "승객은 특별히 설계된 구 안에서 시간 여행의 환상을 경험하게 됩니다.",
+            "zh-TW": "乘客坐在特殊設計的球體中,體驗時光旅行的感覺",
+            "pt-BR": "Os visitantes sentam numa esfera especialmente projetada, e experimentam a ilusão da viagem no tempo"
+        },
+        "capacity": {
+            "en-GB": "1 per guest",
+            "fr-FR": "1 visiteur par siège",
+            "de-DE": "1 pro Gast",
+            "es-ES": "1 por invitado",
+            "it-IT": "1 per visitatore",
+            "nl-NL": "1 per gast",
+            "sv-SE": "1 per besökare",
+            "ko-KR": "승객당 1회",
+            "zh-TW": "限乘一人",
+            "pt-BR": "1 por visitante"
+        }
+    }
+}

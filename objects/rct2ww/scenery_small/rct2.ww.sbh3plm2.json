@@ -1,0 +1,29 @@
+{
+    "id": "rct2.ww.sbh3plm2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CCCCD11|SBH3PLM2|D8BCDA76",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 104,
+        "sceneryGroup": "SCGTREES",
+        "shape": "4/4",
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/SBH3PLM2.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Palm Tree",
+            "fr-FR": "Palmier",
+            "de-DE": "Palme",
+            "es-ES": "Palmera",
+            "it-IT": "Palma",
+            "nl-NL": "Palmboom",
+            "sv-SE": "Palm",
+            "zh-CN": "棕榈树"
+        }
+    }
+}

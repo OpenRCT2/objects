@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.sb2palm1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0711|SB2PALM1|8CEBB5A8",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 60,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/SB2PALM1.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cabana Porch",
+            "fr-FR": "Auvent de hutte",
+            "de-DE": "Cabana-Vorbau",
+            "es-ES": "Porche de cabaña",
+            "it-IT": "Veranda di capanna da spiaggia",
+            "nl-NL": "Deur Hut",
+            "sv-SE": "Veranda till stuga",
+            "zh-CN": "小屋门廊"
+        }
+    }
+}

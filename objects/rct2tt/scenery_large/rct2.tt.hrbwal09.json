@@ -1,0 +1,54 @@
+{
+    "id": "rct2.tt.hrbwal09",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA22|HRBWAL09|4FAFE923",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 24,
+        "removalPrice": -18,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 96,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 96,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 96,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 96,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/HRBWAL09.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Harbour Wall with Dock",
+            "fr-FR": "Mur du port avec quai",
+            "de-DE": "Hafenmauer mit Dock",
+            "es-ES": "Muro del puerto con embarcadero",
+            "it-IT": "Muro del porto con banchina",
+            "nl-NL": "Havenmuur met Dok",
+            "sv-SE": "Hamnvägg med kaj",
+            "ko-KR": "항구 벽과 부두",
+            "zh-TW": "港口牆面(含船塢)",
+            "pt-BR": "Parede de Porto com Doca"
+        }
+    }
+}

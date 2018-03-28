@@ -1,0 +1,39 @@
+{
+    "id": "rct2.tt.horsecrt",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F821|HORSECRT|B8CE601D",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 68,
+        "removalPrice": -42,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "animationDelay": 2,
+        "animationMask": 63,
+        "numFrames": 48,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "images": ["$RCT2:OBJDATA/HORSECRT.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Horse",
+            "fr-FR": "Cheval",
+            "de-DE": "Pferd",
+            "es-ES": "Caballo",
+            "it-IT": "Cavallo",
+            "nl-NL": "Paard",
+            "sv-SE": "Häst",
+            "ko-KR": "말",
+            "zh-TW": "馬",
+            "pt-BR": "Cavalo"
+        }
+    }
+}

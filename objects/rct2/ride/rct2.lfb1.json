@@ -1,0 +1,103 @@
+{
+    "id": "rct2.lfb1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|LFB1    |202DF350",
+    "objectType": "ride",
+    "properties": {
+        "type": "log_flume",
+        "category": "water",
+        "playSplashSound": true,
+        "RIDE_ENTRY_FLAG_18": true,
+        "carColours": [
+            [
+                ["dark_brown", "black", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 252764,
+                "mass": 250,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "logFlumeReverserVehicleType": 1,
+                "soundRange": 0,
+                "poweredAcceleration": 100,
+                "poweredMaxSpeed": 6,
+                "effectVisual": 12,
+                "drawOrder": 9,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "VEHICLE_ENTRY_FLAG_WATER_RIDE": true,
+                "loadingPositions": [6, 4, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 252764,
+                "mass": 250,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "soundRange": 0,
+                "poweredAcceleration": 100,
+                "poweredMaxSpeed": 6,
+                "effectVisual": 12,
+                "drawOrder": 9,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "VEHICLE_ENTRY_FLAG_WATER_RIDE": true,
+                "loadingPositions": [6, 4, -7, -9]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/LFB1.DAT[0..626]"],
+    "strings": {
+        "name": {
+            "en-GB": "Log Flume",
+            "fr-FR": "Bûches",
+            "de-DE": "Baumstammkanal",
+            "es-ES": "Leños de agua",
+            "it-IT": "Canale con i tronchi",
+            "nl-NL": "Boomstam Rivier",
+            "sv-SE": "Vattenrutschbana med stockar",
+            "ko-KR": "통나무 배",
+            "zh-CN": "原木溪谷",
+            "zh-TW": "原木溪谷",
+            "pt-BR": "Canal de Troncos"
+        },
+        "description": {
+            "en-GB": "Log-shaped boats travel along a water channel, splashing down steep slopes to soak the riders",
+            "fr-FR": "Bateaux en forme de bûches géantes parcourant un tube aquatique dont les pentes abruptes auront pour effet de tremper les passagers",
+            "de-DE": "Baumstammförmige Boote fahren in einem Wasserkanal und rutschen steile Gefälle herunter, damit die Fahrgäste unten nass werden",
+            "es-ES": "Barcos con forma de tronco que viajan por un canal de agua, salpicando hasta empapar a los pasajeros",
+            "it-IT": "Barche a forma di tronco viaggiano lungo un canale d'acqua, generando al termine delle discese enormi spruzzi che inzuppano i passeggeri",
+            "nl-NL": "Boten in de vorm van boomstammen gaan door een kanaal, en gaan steile hellingen neer zodat bezoekers nat worden gespat",
+            "sv-SE": "Stockformade båtar som åker längs en lång vattenkanal, plaskar ner längs branta lutningar för att blöta ner passagerarna",
+            "ko-KR": "좁고 가파를 골짜기를 타고 내려가며 물에 흠뻑 젖게 만드는 통나무 배",
+            "zh-CN": "原木风格的船延着水道在陡峭斜坡急速下滑水溢四溅喷洒到游客",
+            "zh-TW": "原木風格的船延著水道在陡峭斜坡急速下滑水溢四濺噴灑到遊客",
+            "pt-BR": "Barcos em forma de tronco viajam num canal de água, caindo em descidas íngremes para espalhar água e encharcar os passageiros"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per boat",
+            "fr-FR": "4 passagers par bateau",
+            "de-DE": "4 Fahrgäste pro Boot",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per barca",
+            "nl-NL": "4 passagiers per boot",
+            "sv-SE": "4 passagerare per båt",
+            "ko-KR": "보트 정원 4명",
+            "zh-CN": "4 位乘客 /每艘船",
+            "zh-TW": "4 位乘客 /每艘船",
+            "pt-BR": "4 passageiros por barco"
+        }
+    }
+}

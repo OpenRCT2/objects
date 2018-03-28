@@ -1,0 +1,162 @@
+{
+    "id": "rct2.tt.microbus",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA20|MICROBUS|72D94CA8",
+    "objectType": "ride",
+    "properties": {
+        "type": "motion_simulator",
+        "category": "thrill",
+        "tabScale": 0.5,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["bright_red", "yellow", "black"]
+            ],
+            [
+                ["yellow", "white", "black"]
+            ],
+            [
+                ["light_blue", "white", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "mass": 3000,
+            "numSeats": 8,
+            "seatsInPairs": false,
+            "spriteWidth": 55,
+            "spriteHeightNegative": 68,
+            "spriteHeightPositive": 28,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "numSegments": 0,
+            "loadingWaypoints": [
+                [
+                    [42, 33],
+                    [42, 33],
+                    [16, 33]
+                ],
+                [
+                    [42, -10],
+                    [42, 33],
+                    [16, 33]
+                ],
+                [
+                    [-10, 42],
+                    [42, 33],
+                    [16, 33]
+                ],
+                [
+                    [42, 42],
+                    [42, 33],
+                    [16, 33]
+                ],
+                [
+                    [42, -42],
+                    [33, -42],
+                    [33, -16]
+                ],
+                [
+                    [33, -42],
+                    [33, -42],
+                    [33, -16]
+                ],
+                [
+                    [-10, -42],
+                    [33, -42],
+                    [33, -16]
+                ],
+                [
+                    [42, 10],
+                    [33, -42],
+                    [33, -16]
+                ],
+                [
+                    [10, -42],
+                    [-42, -33],
+                    [-16, -33]
+                ],
+                [
+                    [-42, -42],
+                    [-42, -33],
+                    [-16, -33]
+                ],
+                [
+                    [-42, -33],
+                    [-42, -33],
+                    [-16, -33]
+                ],
+                [
+                    [-42, 10],
+                    [-42, -33],
+                    [-16, -33]
+                ],
+                [
+                    [10, 42],
+                    [-33, 42],
+                    [-33, 16]
+                ],
+                [
+                    [-42, -10],
+                    [-33, 42],
+                    [-33, 16]
+                ],
+                [
+                    [-42, 42],
+                    [-33, 42],
+                    [-33, 16]
+                ],
+                [
+                    [-33, 42],
+                    [-33, 42],
+                    [-33, 16]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/MICROBUS.DAT[0..142]"],
+    "strings": {
+        "name": {
+            "en-GB": "MicroBus Ride",
+            "fr-FR": "Minibus",
+            "de-DE": "Mikrobus-Attraktion",
+            "es-ES": "Viaje en microbús",
+            "it-IT": "Corsa Minibus",
+            "nl-NL": "MicroBus-attractie",
+            "sv-SE": "Hippiebuss",
+            "ko-KR": "마이크로버스 라이드",
+            "zh-TW": "小型巴士遊樂設施",
+            "pt-BR": "Brinquedo Microônibus"
+        },
+        "description": {
+            "en-GB": "Riders view a film inside the motion simulator pod while it is twisted and moved around by a hydraulic arm",
+            "fr-FR": "Les spectateurs visionnent un film dans une nacelle simulant les mouvements grâce à un bras hydraulique",
+            "de-DE": "Die Fahrer sehen in der Bewegungssimulations-Kapsel einen Film, während diese von einem hydraulischen Arm bewegt und gedreht wird.",
+            "es-ES": "Los viajeros ven una película en el interior de un sistema de simulación mientras son movidos y girados por un brazo hidráulico.",
+            "it-IT": "I visitatori, all'interno di una capsula fatta ondeggiare attraverso un braccio idraulico, vedono un film vivendone i movimenti.",
+            "nl-NL": "Bezoekers zien een film in de bewegingssimulator terwijl deze door een hydraulische arm wordt gedraaid en bewogen.",
+            "sv-SE": "Passagerarna tittar på en film inuti en rörelsesimulator som vrider och rör på sig med hjälp av en hydraulisk arm.",
+            "ko-KR": "내부에서 영상을 보며 유압으로 움직이는 받침대에 의해 실제와 비슷한 움직임을 경험할 수 있는 기구",
+            "zh-TW": "遊客坐在摸擬天體運行艙內觀看影片利用水力學支臂使旋轉及移動",
+            "pt-BR": "Os visitantes vêem um filme dentro do simulador de movimento enquanto ele é mexido e agitado por um braço hidráulico"
+        },
+        "capacity": {
+            "en-GB": "8 passengers",
+            "fr-FR": "8 passagers",
+            "de-DE": "8 Fahrgäste",
+            "es-ES": "8 pasajeros",
+            "it-IT": "8 passeggeri",
+            "nl-NL": "8 passagiers",
+            "sv-SE": "8 passagerare",
+            "ko-KR": "정원 8명",
+            "zh-TW": "限乘8人",
+            "pt-BR": "8 passageiros"
+        }
+    }
+}

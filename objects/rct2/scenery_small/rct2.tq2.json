@@ -1,0 +1,32 @@
+{
+    "id": "rct2.tq2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TQ2     |9E04B1DF",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TQ2.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Black Queen",
+            "fr-FR": "Reine noire",
+            "de-DE": "Schwarze Königin",
+            "es-ES": "Reina negra",
+            "it-IT": "Regina nera",
+            "nl-NL": "Zwarte Koningin",
+            "sv-SE": "Svart drottning",
+            "ko-KR": "블랙 퀸",
+            "zh-CN": "黑棋皇后",
+            "zh-TW": "黑棋皇后",
+            "pt-BR": "Rainha Preta"
+        }
+    }
+}

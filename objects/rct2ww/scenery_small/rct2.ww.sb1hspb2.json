@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.sb1hspb2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0811|SB1HSPB2|76C0715D",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/SB1HSPB2.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Suspension Bridge Base Spacer Piece",
+            "fr-FR": "Pièce d'espacement de pont suspendu",
+            "de-DE": "Hängebrücke - Basisdistanzstück",
+            "es-ES": "Pieza espaciadora de la base del puente suspendido",
+            "it-IT": "Pezzo di distanziatore della base di ponte sospeso",
+            "nl-NL": "Basisstuk Hangbrug Afstandsstuk",
+            "sv-SE": "Baskopplingsdel för hängbro",
+            "zh-CN": "吊桥基底间隔一块"
+        }
+    }
+}

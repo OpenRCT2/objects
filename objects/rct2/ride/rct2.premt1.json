@@ -1,0 +1,134 @@
+{
+    "id": "rct2.premt1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|PREMT1  |6E69293A",
+    "objectType": "ride",
+    "properties": {
+        "type": "lim_launched_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 7,
+        "defaultCar": 1,
+        "headCars": 0,
+        "ratingMultipler": {
+            "intensity": 10
+        },
+        "carColours": [
+            [
+                ["light_blue", "white", "yellow"]
+            ],
+            [
+                ["bright_red", "yellow", "yellow"]
+            ],
+            [
+                ["white", "bordeaux_red", "bordeaux_red"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 244048,
+                "mass": 600,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 9,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [5, 3, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 244048,
+                "mass": 500,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 9,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [7, 9, -3, -1]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/PREMT1.DAT[0..5042]"],
+    "strings": {
+        "name": {
+            "en-GB": "LIM Launched Roller Coaster",
+            "fr-FR": "Moteur à induction linéaire",
+            "de-DE": "LIM Achterbahn",
+            "es-ES": "Montaña Rusa Impulso MLI",
+            "it-IT": "Ottovolante lanciato con MIL",
+            "nl-NL": "Door LIM Gelandeerde Achtbaan",
+            "sv-SE": "Induktionsberg- och dalbana",
+            "ko-KR": "림 런치드 롤러코스터",
+            "zh-CN": "极限发射过山车",
+            "zh-TW": "極限發射雲霄飛車",
+            "pt-BR": "Montanha-russa de Indução Linear"
+        },
+        "description": {
+            "en-GB": "Roller coaster trains are accelerated out of the station by linear induction motors to speed through twisting inversions",
+            "fr-FR": "Train de montagnes russes propulsé hors de la station par des moteurs à induction linéaire et fonçant dans des inversion renversantes",
+            "de-DE": "Achterbahnzüge werden aus der Station mit Hilfe von linearen Induktionsmotoren beschleunigt und rasen durch gewundene Ueberkopfteile",
+            "es-ES": "Los vagones se aceleran por los motores lineales de inducción",
+            "it-IT": "I treni da ottovolante vengono fatti accelerare dalla stazione con motori a induzione lineare (MIL) per poter affrontare vari capovolgimenti e serpentine",
+            "nl-NL": "Achtbaantreinen worden buiten het station versneld door lineaire inductiemotoren en gaan snel door draaiende loopings",
+            "sv-SE": "Berg- och dalbanetågen accelereras ut från stationen med induktionsmotorer för att fara genom tvinnade inversioner",
+            "ko-KR": "선형 유도 모터를 이용해 정류장 바깥으로 잡아당겨 가속시킨 후 뒤틀린 전환 코스를 향해 달려가는 롤러코스터",
+            "zh-CN": "过山车列车由车站被直线加速机械射出到反转式旋转轨道",
+            "zh-TW": "雲霄飛車列車由車站被直線加速機械射出到反轉式旋轉軌道",
+            "pt-BR": "Trens de montanha-russa saem da estação impulsionados por motores de indução linear e passam com velocidade por inversões sinuosas"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 정원 4명",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por vagão"
+        }
+    }
+}

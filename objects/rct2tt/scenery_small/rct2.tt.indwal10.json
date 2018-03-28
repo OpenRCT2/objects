@@ -1,0 +1,36 @@
+{
+    "id": "rct2.tt.indwal10",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F921|INDWAL10|4CB7C2A9",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 16,
+        "removalPrice": -10,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "2/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/INDWAL10.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Industrial Wall with Doorway",
+            "fr-FR": "Mur industriel avec porte",
+            "de-DE": "Industriemauer mit Eingang",
+            "es-ES": "Muro industrial con entrada",
+            "it-IT": "Muro industriale con entrata",
+            "nl-NL": "Muur met deuropening Industrie",
+            "sv-SE": "Industriell vägg med dörr",
+            "ko-KR": "산업 벽과 현관",
+            "zh-TW": "工業牆面(含門口)",
+            "pt-BR": "Parede Industrial com Vão de Porta"
+        }
+    }
+}

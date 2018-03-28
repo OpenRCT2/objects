@@ -1,0 +1,32 @@
+{
+    "id": "rct2.tk3",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TK3     |E9484E00",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TK3.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "White King",
+            "fr-FR": "Roi blanc",
+            "de-DE": "Weißer König",
+            "es-ES": "Rey blanco",
+            "it-IT": "Re bianco",
+            "nl-NL": "Witte Koning",
+            "sv-SE": "Vit kung",
+            "ko-KR": "화이트 킹",
+            "zh-CN": "白棋国王",
+            "zh-TW": "白棋國王",
+            "pt-BR": "Rei Branco"
+        }
+    }
+}

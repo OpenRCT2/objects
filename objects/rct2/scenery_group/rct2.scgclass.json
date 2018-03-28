@@ -1,0 +1,41 @@
+{
+    "id": "rct2.scgclass",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGCLASS|6B93200F",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "SCOL",
+            "TT1",
+            "TRMS",
+            "TRWS",
+            "TRC",
+            "TQF",
+            "WRW",
+            "WRWA",
+            "ROMROOF2",
+            "WC3",
+            "ROMROOF1",
+            "BN3"
+        ],
+        "priority": 21,
+        "entertainerCostumes": "roman"
+    },
+    "images": ["$RCT2:OBJDATA/SCGCLASS.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Classical/Roman Themeing",
+            "fr-FR": "Thème classique/romain",
+            "de-DE": "Klassisches/römisches Thema",
+            "es-ES": "Temática clásica/romana",
+            "it-IT": "Tema romano/classico",
+            "nl-NL": "Klassiek/Romeins Thema",
+            "sv-SE": "Klassiskt/romanskt tema",
+            "ko-KR": "고전/로마 테마",
+            "zh-CN": "古典/古罗马主题区",
+            "zh-TW": "古典/古羅馬主題區",
+            "pt-BR": "Temática Clássica/Romana"
+        }
+    }
+}

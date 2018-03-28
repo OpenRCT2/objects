@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.rbrick01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0911|RBRICK01|C0C3F20B",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RBRICK01.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Red Brick Inverted Roof Piece",
+            "fr-FR": "Pan de toit inversé de brique rouge",
+            "de-DE": "Backstein umgedrehtes Dach-Bauteil",
+            "es-ES": "Pieza invertida de tejado de ladrillo rojo",
+            "it-IT": "Pezzo di tetto invertito di mattoni rossi",
+            "nl-NL": "Omgekeerd Stuk dak van Rode Baksteen",
+            "sv-SE": "Omvänd röd tegeltakdel"
+        }
+    }
+}

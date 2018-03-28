@@ -1,0 +1,37 @@
+{
+    "id": "rct2.tt.psntwl13",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F821|PSNTWL13|CA6C22FC",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "2/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/PSNTWL13.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Dark Age Village Upper Wall Piece",
+            "fr-FR": "Section haute de mur du village médiéval",
+            "de-DE": "Oberes Mauerstück Mittelalterliches Dorf",
+            "es-ES": "Sección superior de muro de pueblo medieval",
+            "it-IT": "Tratto di muro superiore del villaggio dell'Età Oscura",
+            "nl-NL": "Bovenstuk muur Middeleeuws Dorp",
+            "sv-SE": "Övre väggdel, medeltida by",
+            "ko-KR": "암흑 시대 마을 윗 벽 조각",
+            "zh-TW": "黑暗時代高牆塊",
+            "pt-BR": "Peça Superior de Parede de Vila da Idade Média"
+        }
+    }
+}

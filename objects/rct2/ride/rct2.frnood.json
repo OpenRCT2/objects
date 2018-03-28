@@ -1,0 +1,47 @@
+{
+    "id": "rct2.frnood",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|FRNOOD  |8CCC386A",
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": "fried_rice_noodles",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/FRNOOD.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Fried Rice Noodles Stall",
+            "fr-FR": "Traiteur chinois",
+            "de-DE": "Reisnudelstand",
+            "es-ES": "Puesto de arroz frito",
+            "it-IT": "Chiosco del riso fritto",
+            "nl-NL": "Kraampje Gebakken Rijstnoedels",
+            "sv-SE": "Stånd med friterade risnudlar",
+            "ko-KR": "볶은 쌀국수 음식점",
+            "zh-CN": "炒米粉 店",
+            "zh-TW": "炒米粉 店",
+            "pt-BR": "Barraca de Macarrão com Arroz Frito"
+        },
+        "description": {
+            "en-GB": "A stall selling Chinese style fried rice noodles",
+            "fr-FR": "Boutique vendant des pâtes de riz",
+            "de-DE": "Ein Stand, an dem chinesische Reisnudeln verkauft werden",
+            "es-ES": "Puesto que vende dados de arroz frito",
+            "it-IT": "Un chiosco che vende spaghetti di riso fritto alla cinese",
+            "nl-NL": "Een kraampje dat Chinese gebakken rijstnoedels verkoopt",
+            "sv-SE": "Ett stånd som säljer kinesiskt ris med nudlar",
+            "ko-KR": "중국식 볶은 쌀국수를 파는 음식점",
+            "zh-CN": "一家卖中式炒米粉的店",
+            "zh-TW": "一家賣中式炒米粉的店",
+            "pt-BR": "Uma barraca vendendo macarrão chinês com arroz frito"
+        }
+    }
+}

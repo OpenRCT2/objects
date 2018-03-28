@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.wgeorg10",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A11|WGEORG10|35DB7949",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WGEORG10.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Georgian Wall Piece 4",
+            "fr-FR": "Pan de mur géorgien 4",
+            "de-DE": "Georgianisches Wand-Bauteil 4",
+            "es-ES": "Pieza de pared georgiana 4",
+            "it-IT": "Pezzo di muro georgiano 4",
+            "nl-NL": "Stuk Muur in Georgische stijl 4",
+            "sv-SE": "Georgiansk väggdel 4"
+        }
+    }
+}

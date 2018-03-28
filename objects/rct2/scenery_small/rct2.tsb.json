@@ -1,0 +1,30 @@
+{
+    "id": "rct2.tsb",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TSB     |DA1EC744",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 21,
+        "removalPrice": 10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 140,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TSB.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Silver Birch Tree",
+            "fr-FR": "Bouleau argenté",
+            "de-DE": "Weißbirke",
+            "es-ES": "Abedul plateado",
+            "it-IT": "Betulla argentata",
+            "nl-NL": "Zilverberk",
+            "sv-SE": "Silverbjörk",
+            "ko-KR": "은색 자작나무",
+            "zh-CN": "银桦树",
+            "zh-TW": "銀樺樹",
+            "pt-BR": "Árvore Vidoeiro-de-Prata"
+        }
+    }
+}

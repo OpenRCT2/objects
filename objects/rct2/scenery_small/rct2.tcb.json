@@ -1,0 +1,33 @@
+{
+    "id": "rct2.tcb",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TCB     |D9942162",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 7,
+        "removalPrice": 5,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 32,
+        "shape": "1/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TCB.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Club Shaped Tree",
+            "fr-FR": "Arbre en forme de trèfle",
+            "de-DE": "Kreuzförmiger Baum",
+            "es-ES": "Árbol con forma de bastón",
+            "it-IT": "Albero a forma di fiori",
+            "nl-NL": "Boom in vorm golfstick",
+            "sv-SE": "Klöverformat träd",
+            "ko-KR": "클럽 모양의 나무",
+            "zh-CN": "梅花形的树",
+            "zh-TW": "梅花形的樹",
+            "pt-BR": "Árvore em Forma de Clava"
+        }
+    }
+}

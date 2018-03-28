@@ -1,0 +1,124 @@
+{
+    "id": "rct2.tt.pterodac",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F720|PTERODAC|83F40281",
+    "objectType": "ride",
+    "properties": {
+        "type": "flying_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 7,
+        "carColours": [
+            [
+                ["bright_red", "yellow", "dark_purple"]
+            ],
+            [
+                ["teal", "grey", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 183036,
+                "mass": 950,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_HAS_INVERTED_SPRITE_SET": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_13": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [2, -2, 2, -2]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 183036,
+                "mass": 900,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 2,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_HAS_INVERTED_SPRITE_SET": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [2, -2, 2, -2]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/PTERODAC.DAT[0..4562]"],
+    "strings": {
+        "name": {
+            "en-GB": "Pterodactyl Coaster",
+            "fr-FR": "Le ptérodactyle",
+            "de-DE": "Pterodaktylus-Achterbahn",
+            "es-ES": "Montaña rusa Pterodáctilo",
+            "it-IT": "Ottovolante Pterodattilo",
+            "nl-NL": "Pterodactyl-achtbaan",
+            "sv-SE": "Pterodaktyl",
+            "ko-KR": "태러댁틸 코스터",
+            "zh-TW": "翼手龍雲霄飛車",
+            "pt-BR": "Montanha-Russa do Pterodáctilo"
+        },
+        "description": {
+            "en-GB": "Riders are held in comfortable seats below the track, travelling through twisted track to give the ultimate prehistoric flying experience",
+            "fr-FR": "Les passagers sont confortablement assis et voyagent suspendus à une voie en zigzag offrant des sensations de vol préhistorique",
+            "de-DE": "Die Fahrer sitzen in bequemen Sitzen unterhalb der verschlungenen Strecke mit ultimativer prähistorischer Flugerfahrung.",
+            "es-ES": "Los pasajeros se acomodan en asientos debajo de la vía, viajando por un retorcido circuito que les proporciona la experiencia definitiva de vuelo prehistórico.",
+            "it-IT": "I passeggeri siedono su comodi sedili posti sotto il tracciato e corrono lungo una pista piena di curve che garantisce loro un'esperienza di volo preistorico.",
+            "nl-NL": "Bezoekers zitten in comfortabele zetels onder de baan en reizen langs de slingerende baan voor de ultieme prehistorische vliegervaring.",
+            "sv-SE": "Passagerarna sitter i bekväma säten under spåret och färdas genom slingriga kurvor i en förstklassig urtidsflygtur.",
+            "ko-KR": "극한의 비행 기분을 느낄 수 있게 뒤틀린 트랙에 매달린 편안한 의자에 앉아서 가는 롤러코스터",
+            "zh-TW": "乘客被固定軌道下的舒適座位,途經穿過最終極瘋狂軌道的史前飛行體驗",
+            "pt-BR": "Os visitantes são mantidos em assentos confortáveis abaixo do trilho, viajando por uma pista sinuosa numa experiência definitiva de vôo pré-histórico"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por coche",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 정원 4명",
+            "zh-TW": "每輛車限乘4人",
+            "pt-BR": "4 passageiros por vagão"
+        }
+    }
+}

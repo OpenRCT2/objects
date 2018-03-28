@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.wtudor16",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0B11|WTUDOR16|9E14AD4A",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WTUDOR16.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tudor Ground Floor Wall Piece 3",
+            "fr-FR": "Pan de mur de rez-de-chaussée Tudor 3",
+            "de-DE": "Tudor Erdgeschoss-Wandbauteil 3",
+            "es-ES": "Pieza de pared de suelo Tudor 3",
+            "it-IT": "Pezzo di muro Tudor del piano terra 3",
+            "nl-NL": "Grondstuk muur in Tudorstijl 3",
+            "sv-SE": "Tudor-väggdel för nedre våning 3"
+        }
+    }
+}

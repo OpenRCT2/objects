@@ -1,0 +1,47 @@
+{
+    "id": "rct2.pretst",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|PRETST  |C65F6B89",
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": "pretzel",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/PRETST.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Pretzel Stall",
+            "fr-FR": "Bretzellier",
+            "de-DE": "Bretzelstand",
+            "es-ES": "Puesto de pretzel",
+            "it-IT": "Chiosco dei biscottini",
+            "nl-NL": "Kraampje met Zoute krakelingen",
+            "sv-SE": "Kringlestånd",
+            "ko-KR": "프레첼 비스킷 가게",
+            "zh-CN": "椒盐脆饼店",
+            "zh-TW": "椒鹽脆餅店",
+            "pt-BR": "Barraca de Pretzels"
+        },
+        "description": {
+            "en-GB": "A stall selling crispy pretzels",
+            "fr-FR": "Boutique vendant des bretzels croustillants",
+            "de-DE": "Ein Stand, an dem knusprige Bretzeln verkauft werden",
+            "es-ES": "Puesto que vende galletas pretzel",
+            "it-IT": "Un chiosco che vende biscottini croccanti",
+            "nl-NL": "Een kraampje dat knapperige zoute krakelingen verkoopt",
+            "sv-SE": "Ett stånd som säljer frasiga salta kringlor",
+            "ko-KR": "프레첼 비스킷을 파는 건물",
+            "zh-CN": "一家卖酥脆的椒盐脆饼的店",
+            "zh-TW": "一家賣酥脆的椒鹽脆餅的店",
+            "pt-BR": "Uma barraca vendendo pretzels crocantes"
+        }
+    }
+}

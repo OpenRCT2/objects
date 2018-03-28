@@ -1,0 +1,76 @@
+{
+    "id": "rct2.ww.penguinb",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0110|PENGUINB|D859D92B",
+    "objectType": "ride",
+    "properties": {
+        "type": "bobsleigh_rc",
+        "category": "rollercoaster",
+        "maxCarsPerTrain": 8,
+        "carColours": [
+            [
+                ["light_blue", "white", "bright_red"]
+            ],
+            [
+                ["bright_red", "saturated_red", "yellow"]
+            ],
+            [
+                ["yellow", "dark_olive_green", "light_orange"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 200468,
+            "mass": 600,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "frictionSoundId": 2,
+            "soundRange": 0,
+            "drawOrder": 7,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true
+            },
+            "VEHICLE_ENTRY_FLAG_NO_UPSTOP_BOBSLEIGH": true,
+            "VEHICLE_ENTRY_FLAG_SWINGING": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "VEHICLE_ENTRY_FLAG_21": true,
+            "VEHICLE_ENTRY_FLAG_SLIDE_SWING": true,
+            "loadingPositions": [3, -3]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/PENGUINB.DAT[0..2706]"],
+    "strings": {
+        "name": {
+            "en-GB": "Penguin Bobsleigh",
+            "fr-FR": "Bobsleigh pingouin",
+            "de-DE": "Pinguinschlitten",
+            "es-ES": "Bobsleigh Pingüino",
+            "it-IT": "Bob dei pinguini",
+            "nl-NL": "Pinguïn Bobslee",
+            "sv-SE": "Pingvin-bob",
+            "zh-CN": "企鹅雪橇"
+        },
+        "description": {
+            "en-GB": "Riders career down a twisting track in penguin-shaped cars guided only by the curvature and banking of the semi-circular track",
+            "fr-FR": "Les passagers suivent un tracé sinueux dans des voitures en forme de pingouin, dirigés uniquement par la courbure et l'inclinaison semi-circulaire de la piste",
+            "de-DE": "Die Fahrgäste schlittern in pinguinförmigen Wagen eine Zickzackbahn hinunter, wobei sie nur durch die Kurvenführung und den Neigungswinkel der Strecke geführt werden",
+            "es-ES": "Los pasajeros viajan por unas vías retorcidas en vagones con forma de pingüino guiados únicamente por la curvatura y los peraltes de la vía semicircular",
+            "it-IT": "I passeggeri procedono lungo un tortuoso tracciato su carrozze a forma di pinguino, guidate solo dalla curvatura e dall'inclinazione del tracciato a sezione semicircolare",
+            "nl-NL": "De passagiers gaan een slingerende baan naar beneden in als Pinguïns vormgegeven wagentjes die alleen door de bochten en zijkanten van de semi-circulaire baan worden geleid",
+            "sv-SE": "Passagerare susar fram i en kurvig bana i pingvinformade vagnar som enbart hålls kvar i den halvcirkulära banan med hjälp av kurvornas dosering",
+            "zh-CN": "乘客在企鹅造型车辆中只有依循着弯曲的半圆形轨道急速地猛冲旋转前进"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 pro Wagen",
+            "es-ES": "2 pasajeros por vagón",
+            "it-IT": "2 passeggeri per carrozza",
+            "nl-NL": "2 passagiers per wagentje",
+            "sv-SE": "2 passagerare per vagn",
+            "zh-CN": "每辆车限乘2人"
+        }
+    }
+}

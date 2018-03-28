@@ -1,0 +1,29 @@
+{
+    "id": "rct2.ww.wmayan17",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31C11|WMAYAN17|53022DBA",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 50,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WMAYAN17.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Lost City Column Piece",
+            "fr-FR": "?Pièce de colonne de cité perdue",
+            "de-DE": "?Verlorene Stadt - Säulen-Bauteil",
+            "es-ES": "Pieza de columna de ciudad perdida",
+            "it-IT": "Pezzo di colonna di città perduta",
+            "nl-NL": "Stuk Zuil Vergeten Stad",
+            "sv-SE": "Kolumndel till förlorad stad"
+        }
+    }
+}

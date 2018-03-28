@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.wgeorg12",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A11|WGEORG12|27D57DC0",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WGEORG12.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Georgian Wall Piece 6",
+            "fr-FR": "Pan de mur géorgien 6",
+            "de-DE": "Georgianisches Wand-Bauteil 6",
+            "es-ES": "Pieza de pared georgiana 6",
+            "it-IT": "Pezzo di muro georgiano 6",
+            "nl-NL": "Stuk Muur in Georgische stijl 6",
+            "sv-SE": "Georgiansk väggdel 6"
+        }
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": "rct2.tt.trebucht",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F820|TREBUCHT|4056417D",
+    "objectType": "ride",
+    "properties": {
+        "type": "top_spin",
+        "category": "thrill",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "bright_red", "black"]
+            ],
+            [
+                ["black", "yellow", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 15,
+            "spacing": 139456,
+            "mass": 3000,
+            "numSeats": 8,
+            "spriteWidth": 63,
+            "spriteHeightNegative": 128,
+            "spriteHeightPositive": 28,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "numSegments": 0,
+            "loadingWaypoints": [
+                [
+                    [40, 40],
+                    [-40, 40],
+                    [-16, 0]
+                ],
+                [
+                    [-40, -40],
+                    [-16, 0],
+                    [-16, 0]
+                ],
+                [
+                    [-16, 0],
+                    [-16, 0],
+                    [-16, 0]
+                ],
+                [
+                    [-40, 40],
+                    [-16, 0],
+                    [-16, 0]
+                ],
+                [
+                    [40, 40],
+                    [0, 12],
+                    [0, 12]
+                ],
+                [
+                    [40, -40],
+                    [40, 40],
+                    [0, 12]
+                ],
+                [
+                    [-40, 40],
+                    [0, 12],
+                    [0, 12]
+                ],
+                [
+                    [0, 12],
+                    [0, 12],
+                    [0, 12]
+                ],
+                [
+                    [12, 0],
+                    [12, 0],
+                    [12, 0]
+                ],
+                [
+                    [40, -40],
+                    [12, 0],
+                    [12, 0]
+                ],
+                [
+                    [-40, -40],
+                    [40, -40],
+                    [12, 0]
+                ],
+                [
+                    [40, 40],
+                    [12, 0],
+                    [12, 0]
+                ],
+                [
+                    [40, -40],
+                    [0, -16],
+                    [0, -16]
+                ],
+                [
+                    [0, -16],
+                    [0, -16],
+                    [0, -16]
+                ],
+                [
+                    [-40, -40],
+                    [0, -16],
+                    [0, -16]
+                ],
+                [
+                    [-40, 40],
+                    [-40, -40],
+                    [0, -16]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/TREBUCHT.DAT[0..578]"],
+    "strings": {
+        "name": {
+            "en-GB": "Trebuchet Ride",
+            "fr-FR": "La catapulte",
+            "de-DE": "Katapult-Attraktion",
+            "es-ES": "El viaje en el trabuco",
+            "it-IT": "Corsa del trabocco",
+            "nl-NL": "Trebuchet-attractie",
+            "sv-SE": "Trebuchet",
+            "ko-KR": "트레뷰셋 라이드",
+            "zh-TW": "拋石機遊樂設施",
+            "pt-BR": "Brinquedo Trebuchet"
+        },
+        "description": {
+            "en-GB": "Passengers ride in a carriage suspended by two large arms, based on a Dark Age Siege Weapon",
+            "fr-FR": "Chariot suspendu à deux grands bras, inspiré d'une arme médiévale",
+            "de-DE": "Die Fahrgäste fahren in einem Waggon, der von zwei langen Armen gehalten wird, basierend auf einer Belagerungswaffe aus dem finsteren Mittelalter.",
+            "es-ES": "Los pasajeros viajan suspendidos en dos grandes brazos, basados en el arma de asedio medieval.",
+            "it-IT": "I passeggeri viaggiano su una carrozza sospesa su due grandi bracci, che richiamano un'arma di assedio del periodo dell'Età Oscura.",
+            "nl-NL": "Passagiers zitten in een rijtuig dat aan twee grote armen hangt, gebaseerd op een Middeleeuws Belegeringswapen.",
+            "sv-SE": "Passagerarna åker i en vagn baserad på ett medeltidsvapen, som hänger i två stora balkar.",
+            "ko-KR": "암흑시대의 무기를 본 딴, 두 개의 거대한 가로대에 매달린 객차를 타는 놀이기구",
+            "zh-TW": "乘客乘坐在依照黑暗時代圍城武器設計，以兩隻手臂懸吊的車廂中",
+            "pt-BR": "Os passageiros viajam numa carruagem suspensa por dois grandes braços, baseada numa catapulta da Idade Média"
+        },
+        "capacity": {
+            "en-GB": "8 passengers",
+            "fr-FR": "8 passagers",
+            "de-DE": "8 Fahrgäste",
+            "es-ES": "8 pasajeros",
+            "it-IT": "8 passeggeri",
+            "nl-NL": "8 passagiers",
+            "sv-SE": "8 passagerare",
+            "ko-KR": "정원 8명",
+            "zh-TW": "限乘8人",
+            "pt-BR": "8 passageiros"
+        }
+    }
+}

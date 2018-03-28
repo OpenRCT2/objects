@@ -1,0 +1,37 @@
+{
+    "id": "rct2.tdf",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TDF     |2E7F67EC",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 57,
+        "removalPrice": -50,
+        "cursor": "CURSOR_FOUNTAIN_DOWN",
+        "height": 76,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "hasOverlayImage": true,
+        "SMALL_SCENERY_FLAG_FOUNTAIN_SPRAY_1": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TDF.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Dolphin Fountain",
+            "fr-FR": "Fontaine dauphin",
+            "de-DE": "Delfinspringbrunnen",
+            "es-ES": "Fuente delfín",
+            "it-IT": "Fontana del delfino",
+            "nl-NL": "Fontein met Dolfijnen",
+            "sv-SE": "Delfinfontän",
+            "ko-KR": "고래 파운데이션",
+            "zh-CN": "海豚喷泉",
+            "zh-TW": "海豚噴泉",
+            "pt-BR": "Chafariz de Golfinho"
+        }
+    }
+}

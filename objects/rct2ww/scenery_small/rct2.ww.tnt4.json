@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.tnt4",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0511|TNT4    |A690C263",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TNT4.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "TNT Crates",
+            "fr-FR": "Caisses de T.N.T.",
+            "de-DE": "TNT-Kisten",
+            "es-ES": "Cajas de TNT",
+            "it-IT": "Casse di TNT",
+            "nl-NL": "TNT-Kisten",
+            "sv-SE": "TNT-lådor",
+            "zh-CN": "装炸药箱"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": "rct2.tt.mktstal2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F920|MKTSTAL2|8FCBFEB0",
+    "objectType": "ride",
+    "properties": {
+        "type": "drink_stall",
+        "category": "stall",
+        "sells": "lemonade",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/MKTSTAL2.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Lemonade Market Stall",
+            "fr-FR": "Stand de limonades",
+            "de-DE": "Marktstand Limonade",
+            "es-ES": "Puesto de limonada",
+            "it-IT": "Chiosco di limonata",
+            "nl-NL": "Limonade marktkraampje",
+            "sv-SE": "Lemonadstånd",
+            "ko-KR": "레모네이드 가게",
+            "zh-TW": "檸檬水攤位",
+            "pt-BR": "Quiosque de Limonada"
+        },
+        "description": {
+            "en-GB": "A themed stall selling old style, fresh lemonade.",
+            "fr-FR": "Un stand thématique proposant de la limonade fraîche, à l'ancienne.",
+            "de-DE": "Ein Stand, der frische Limonade nach Omas Rezept verkauft",
+            "es-ES": "Un puesto de época en el que se vende limonada al viejo estilo, fresca.",
+            "it-IT": "Un chiosco che vende tradizionali e rinfrescanti limonate.",
+            "nl-NL": "Een thematisch kraampje met authentieke verse limonade",
+            "sv-SE": "Ett marknadsstånd som säljer kyld, gammaldags lemonad",
+            "ko-KR": "레모네이드를 파는 테마 가게",
+            "zh-TW": "販賣老式新鮮檸檬水的主題攤位。",
+            "pt-BR": "Um quiosque temático vendendo a velha e boa limonada fresca"
+        }
+    }
+}

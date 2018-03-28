@@ -1,0 +1,35 @@
+{
+    "id": "rct2.suppw1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|SUPPW1  |6EE1E491",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 17,
+        "removalPrice": -12,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 96,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "supportsHavePrimaryColour": true
+    },
+    "images": ["$RCT2:OBJDATA/SUPPW1.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Support Structure",
+            "fr-FR": "Structure de support",
+            "de-DE": "Stützkonstruktion",
+            "es-ES": "Estructura de soporte",
+            "it-IT": "Struttura di supporto",
+            "nl-NL": "Ondersteunende Constructie",
+            "sv-SE": "Stödstruktur",
+            "ko-KR": "구조 지원",
+            "zh-CN": "支架结构",
+            "zh-TW": "支架結構",
+            "pt-BR": "Estrutura Suporte"
+        }
+    }
+}

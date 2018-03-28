@@ -1,0 +1,24 @@
+{
+    "id": "rct2.ww.wtudor02",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A13|WTUDOR02|FD826100",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WTUDOR02.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tudor Ground Floor Wall Piece 2",
+            "fr-FR": "Pan de mur de rez-de-chaussée Tudor 2",
+            "de-DE": "Tudor Erdgeschoss-Wandbauteil 2",
+            "es-ES": "Pieza de pared de suelo Tudor 2",
+            "it-IT": "Pezzo di muro Tudor del piano terra 2",
+            "nl-NL": "Grondstuk muur in Tudorstijl 2",
+            "sv-SE": "Tudor-väggdel för nedre våning 2"
+        }
+    }
+}

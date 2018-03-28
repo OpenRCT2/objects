@@ -1,0 +1,80 @@
+{
+    "id": "rct2.ww.dolphinr",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0E10|DOLPHINR|54291652",
+    "objectType": "ride",
+    "properties": {
+        "type": "boat_hire",
+        "category": [
+            "water",
+            "thrill"
+        ],
+        "ratingMultipler": {
+            "excitement": 75,
+            "intensity": 75,
+            "nausea": 40
+        },
+        "carColours": [
+            [
+                ["bright_red", "yellow", "black"]
+            ],
+            [
+                ["white", "bright_red", "black"]
+            ],
+            [
+                ["black", "bright_pink", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 278912,
+            "mass": 160,
+            "numSeats": 1,
+            "numSeatRows": 1,
+            "poweredAcceleration": 220,
+            "poweredMaxSpeed": 25,
+            "drawOrder": 7,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "VEHICLE_ENTRY_FLAG_BOAT_HIRE_COLLISION_DETECTION": true,
+            "loadingPositions": [0]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/DOLPHINR.DAT[0..66]"],
+    "strings": {
+        "name": {
+            "en-GB": "Dolphin Ride",
+            "fr-FR": "Dauphin",
+            "de-DE": "Delfinbahn",
+            "es-ES": "Atracción Delfín",
+            "it-IT": "Il delfino",
+            "nl-NL": "Dolfijn-Attractie",
+            "sv-SE": "Delfinbana",
+            "zh-CN": "海豚游乐设施"
+        },
+        "description": {
+            "en-GB": "Single-seater Dolphin-shaped vehicles which riders can drive themselves",
+            "fr-FR": "Véhicules individuels en forme de dauphins que les visiteurs peuvent conduire eux-mêmes",
+            "de-DE": "Einsitzige delfinförmige Fahrzeuge, die die Passagiere selbst steuern können",
+            "es-ES": "Vehículos de uno solo asiento con forma de delfín que son conducidos por el propio pasajero",
+            "it-IT": "Usa veicoli monoposto a forma di delfino che sono controllati dai passeggeri",
+            "nl-NL": "Eenpersoons Dolfijn-vormige wagentjes die de passagiers zelf besturen",
+            "sv-SE": "Delfinformade enmansvagnar som styrs av passageraren",
+            "zh-CN": "由乘客自行驾驶单一座位以海豚为外型的运载工具"
+        },
+        "capacity": {
+            "en-GB": "1 rider per vehicle",
+            "fr-FR": "1 passager par véhicule",
+            "de-DE": "1 Fahrgast pro Fahrzeug",
+            "es-ES": "1 pasajero por vehículo",
+            "it-IT": "1 passeggero per veicolo",
+            "nl-NL": "1 passagier per wagentje",
+            "sv-SE": "1 passagerare per vagn",
+            "zh-CN": "每辆车限乘1人"
+        }
+    }
+}

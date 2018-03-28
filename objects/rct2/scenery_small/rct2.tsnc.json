@@ -1,0 +1,33 @@
+{
+    "id": "rct2.tsnc",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F81|TSNC    |030D3FA4",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 23,
+        "removalPrice": -20,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 48,
+        "shape": "4/4",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TSNC.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Log Cabin",
+            "fr-FR": "Cabane en rondins",
+            "de-DE": "Blockhütte",
+            "es-ES": "Cabaña de madera",
+            "it-IT": "Capanna di legno",
+            "nl-NL": "Blokhut",
+            "sv-SE": "Timmerkoja",
+            "ko-KR": "통나무 오두막",
+            "zh-CN": "木造小屋",
+            "zh-TW": "木造小屋",
+            "pt-BR": "Cabine de Madeira"
+        }
+    }
+}

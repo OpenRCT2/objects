@@ -1,0 +1,50 @@
+{
+    "id": "rct2.ww.rkreml08",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0912|RKREML08|D815D3C5",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": -150,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 64,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 64,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/RKREML08.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Kremlin Large Tower Base",
+            "fr-FR": "Base de grande tour du Kremlin",
+            "de-DE": "Kreml - Großer Turm - Basis",
+            "es-ES": "Base de torre grande del Kremlin",
+            "it-IT": "Base di torre grande del Cremlino",
+            "nl-NL": "Grote basis toren Kremlin",
+            "sv-SE": "Bas till stort Kreml-torn"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": "rct2.dough",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|DOUGH   |197EC555",
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": "doughnut",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/DOUGH.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Doughnut Shop",
+            "en-US": "Donut Shop",
+            "fr-FR": "Beignetterie",
+            "de-DE": "Doughnut-Laden",
+            "es-ES": "Tienda de Donuts",
+            "it-IT": "Negozio di ciambelle",
+            "nl-NL": "Winkel voor Donuts",
+            "sv-SE": "Munkaffär",
+            "ko-KR": "도넛 가게",
+            "zh-CN": "甜甜圈店",
+            "zh-TW": "甜甜圈店",
+            "pt-BR": "Loja de Rosquinhas"
+        },
+        "description": {
+            "en-GB": "A stall selling ring-shaped doughnuts",
+            "en-US": "A stall selling ring-shaped donuts",
+            "fr-FR": "Boutique vendant des beignets en forme d'anneaux",
+            "de-DE": "Ein Stand, an dem ringförmige Doughnuts verkauft werden",
+            "es-ES": "Un puesto que vende donuts",
+            "it-IT": "Un chiosco che vende ciambelle",
+            "nl-NL": "Een kraampje dat ringvormige donuts verkoopt",
+            "sv-SE": "Ett stånd som säljer ringformade munkar",
+            "ko-KR": "링 도넛을 파는 가게",
+            "zh-CN": "一家卖圆形的油炸圈饼",
+            "zh-TW": "一家賣圓形的油炸圈餅",
+            "pt-BR": "Uma barraca vendendo rosquinhas"
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "id": "rct2.ww.junkswng",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFC10|JUNKSWNG|88A9282C",
+    "objectType": "ride",
+    "properties": {
+        "type": "swinging_inverter_ship",
+        "category": "thrill",
+        "tabScale": 0.5,
+        "swingMode": 1,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["dark_brown", "yellow", "black"]
+            ],
+            [
+                ["bordeaux_red", "white", "black"]
+            ],
+            [
+                ["black", "bordeaux_red", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "mass": 200,
+            "tabOffset": -20,
+            "numSeats": 12,
+            "seatsInPairs": false,
+            "spriteWidth": 90,
+            "spriteHeightNegative": 170,
+            "spriteHeightPositive": 17,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "loadingPositions": [10, -10, 10, -10, 18, -18, 18, -18, 26, -26, 26, -26]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/JUNKSWNG.DAT[0..176]"],
+    "strings": {
+        "name": {
+            "en-GB": "Chinese Junk Swing Ride",
+            "fr-FR": "Jonque chinoise",
+            "de-DE": "Chinesische Dschunken-Schaukel",
+            "es-ES": "Columpio de junco chino",
+            "it-IT": "La giunca cinese",
+            "nl-NL": "Draaiende Attractie met Chinese Jonk",
+            "sv-SE": "Kinesisk djonk",
+            "zh-CN": "中国舢舨游乐设施"
+        },
+        "description": {
+            "en-GB": "Ship is attached to an arm with a counterweight at the opposite end, and swings through a complete 360 degrees",
+            "fr-FR": "Un bateau attaché à un bras avec contrepoids à l'autre côté effectue un tour complet à 360 degrés",
+            "de-DE": "Das Schiff ist an einem Schwungarm mit Gegengewicht montiert und dreht sich um volle 360 Grad",
+            "es-ES": "El barco está enganchado a un brazo con un contrapeso en el extremo opuesto, y hace un giro completo de 360 grados",
+            "it-IT": "La nave è montata su un lungo braccio con un contrappeso dalla parte opposta e ruota di 360 gradi completi",
+            "nl-NL": "Een Schip is aan een arm bevestigd met aan de andere kant een tegengewicht, en draait over een volledige 360 graden rond",
+            "sv-SE": "I ena änden på en lång arm sitter djonken och i den andra änden sitter en motvikt som får djonken att rotera i 360 grader",
+            "zh-CN": "船是以在相对尾端的平衡力距以360度摇摆行进"
+        },
+        "capacity": {
+            "en-GB": "12 passengers",
+            "fr-FR": "12 passagers",
+            "de-DE": "12 Fahrgäste",
+            "es-ES": "12 pasajeros",
+            "it-IT": "12 passeggeri",
+            "nl-NL": "12 passagiers",
+            "sv-SE": "12 passagerare",
+            "zh-CN": "限乘12人"
+        }
+    }
+}

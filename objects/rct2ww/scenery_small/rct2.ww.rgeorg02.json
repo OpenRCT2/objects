@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.rgeorg02",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0911|RGEORG02|E8C351B2",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RGEORG02.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Georgian Roof End Piece 2",
+            "fr-FR": "Fin de toit géorgien 2",
+            "de-DE": "Georgianisches Dachende-Bauteil 2",
+            "es-ES": "Pieza final de tejado georgiano 2",
+            "it-IT": "Pezzo di orlo di tetto georgiano 1",
+            "nl-NL": "Eindstuk dak in Georgische stijl 2",
+            "sv-SE": "Slutdel för georgianskt tak 2"
+        }
+    }
+}

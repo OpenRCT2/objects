@@ -1,0 +1,42 @@
+{
+    "id": "rct2.scgspace",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGSPACE|452286E1",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "SSR",
+            "SST",
+            "SSH",
+            "TSCP",
+            "TSPH",
+            "TSC2",
+            "TSP1",
+            "TSP2",
+            "WALLSP32",
+            "SPCROOF1",
+            "BN9",
+            "BENCHSPC",
+            "LITTERSP"
+        ],
+        "priority": 31,
+        "entertainerCostumes": "astronaut"
+    },
+    "images": ["$RCT2:OBJDATA/SCGSPACE.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Space Themeing",
+            "fr-FR": "Thème Espace",
+            "de-DE": "Weltraumthema",
+            "es-ES": "Temática espacial",
+            "it-IT": "Tema spaziale",
+            "nl-NL": "Ruimte Thema",
+            "sv-SE": "Rymdtema",
+            "ko-KR": "우주 테마",
+            "zh-CN": "太空世界主题区",
+            "zh-TW": "太空世界主題區",
+            "pt-BR": "Temática Espacial"
+        }
+    }
+}

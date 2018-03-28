@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.tnt1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0511|TNT1    |8771F82F",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 48,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TNT1.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "TNT Stack",
+            "fr-FR": "Bâtons de T.N.T.",
+            "de-DE": "TNT-Stapel",
+            "es-ES": "Pila de TNT",
+            "it-IT": "Candelotti di TNT",
+            "nl-NL": "TNT-Stapel",
+            "sv-SE": "TNT-trave",
+            "zh-CN": "炸药堆"
+        }
+    }
+}

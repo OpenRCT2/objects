@@ -1,0 +1,32 @@
+{
+    "id": "rct2.badshut",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C81|BADSHUT |B94F0EDC",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 11,
+        "removalPrice": -8,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 24,
+        "shape": "1/4",
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/BADSHUT.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Shuttlecock",
+            "fr-FR": "Volant (de badminton)",
+            "de-DE": "Federball",
+            "es-ES": "Volante",
+            "it-IT": "Shuttle",
+            "nl-NL": "Shuttle",
+            "sv-SE": "Badmintonboll",
+            "ko-KR": "셔틀콕",
+            "zh-CN": "羽毛球",
+            "zh-TW": "羽毛球",
+            "pt-BR": "Peteca"
+        }
+    }
+}

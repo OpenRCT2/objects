@@ -1,0 +1,25 @@
+{
+    "id": "rct2.ww.wwind04",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0713|WWIND04 |BC561673",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WWIND04.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wind Sculpted Wall Piece",
+            "fr-FR": "Pan de mur façonné par le vent",
+            "de-DE": "Erosionsfelsenwand-Bauteil",
+            "es-ES": "Pieza de pared esculpida por el viento",
+            "it-IT": "Pezzo di parete erosa dal vento",
+            "nl-NL": "Door Wind gevormd Stuk Muur",
+            "sv-SE": "Vindformad väggdel",
+            "zh-CN": "风蚀雕饰墙面一片"
+        }
+    }
+}

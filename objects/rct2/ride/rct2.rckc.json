@@ -1,0 +1,96 @@
+{
+    "id": "rct2.rckc",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|RCKC    |546E3576",
+    "objectType": "ride",
+    "properties": {
+        "type": [
+            "none",
+            "mini_rc"
+        ],
+        "category": "rollercoaster",
+        "ratingMultipler": {
+            "excitement": 5
+        },
+        "carColours": [
+            [
+                ["grey", "bright_red", "bordeaux_red"]
+            ],
+            [
+                ["grey", "yellow", "saturated_brown"]
+            ],
+            [
+                ["bright_red", "yellow", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 322492,
+            "mass": 790,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "diagonalSlopes": true,
+                "flatBanked": true,
+                "flatToGentleSlopeBankedTransitions": true,
+                "diagonalGentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTurns": true,
+                "flatToGentleSlopeWhileBankedTransitions": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [4, -4, 4, -4]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/RCKC.DAT[0..1778]"],
+    "strings": {
+        "name": {
+            "en-GB": "Rocket Cars",
+            "fr-FR": "Fusées",
+            "de-DE": "Raketenwagen",
+            "es-ES": "Coches Cohete",
+            "it-IT": "Razzi",
+            "nl-NL": "Racketwagentjes",
+            "sv-SE": "Stenvagnar",
+            "ko-KR": "로켓 자동차",
+            "zh-CN": "火箭车",
+            "zh-TW": "火箭車",
+            "pt-BR": "Carros-foguetes"
+        },
+        "description": {
+            "en-GB": "Roller coaster cars themed to look like rockets",
+            "fr-FR": "Voitures de montagnes russes en forme de fusées",
+            "de-DE": "Achterbahnwagen, die aussehen wie Raketen",
+            "es-ES": "Montaña rusa con vagones en forma de cohetes",
+            "it-IT": "Carrozze di ottovolante a forma di razzi",
+            "nl-NL": "Achtbaanwagentjes die als raketten zijn vormgeven",
+            "sv-SE": "Berg- och dalbanevagnar med stentema",
+            "ko-KR": "로켓 모양으로 만들어진 롤러코스터",
+            "zh-CN": "过山车列车的特色像火箭",
+            "zh-TW": "雲霄飛車列車的特色像火箭",
+            "pt-BR": "Carros de montanha-russa que se parecem com foguetes"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 정원 4명",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por carro"
+        }
+    }
+}

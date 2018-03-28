@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.pcg",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0211|PCG     |627949A3",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/PCG.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Pipe",
+            "fr-FR": "Tuyau",
+            "de-DE": "Rohr",
+            "es-ES": "Tubería",
+            "it-IT": "Tubo",
+            "nl-NL": "Pijp",
+            "sv-SE": "Rör",
+            "zh-CN": "输送管"
+        }
+    }
+}

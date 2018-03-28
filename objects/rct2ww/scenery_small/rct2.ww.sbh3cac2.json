@@ -1,0 +1,25 @@
+{
+    "id": "rct2.ww.sbh3cac2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CCCCE11|SBH3CAC2|C44669DB",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 112,
+        "sceneryGroup": "SCGTREES",
+        "shape": "4/4",
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/SBH3CAC2.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cactus",
+            "de-DE": "Kaktus",
+            "sv-SE": "Kaktus",
+            "zh-CN": "仙人掌"
+        }
+    }
+}

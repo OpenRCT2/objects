@@ -1,0 +1,29 @@
+{
+    "id": "rct2.wwtw",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WWTW    |280B4965",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 6,
+        "price": 60,
+        "sceneryGroup": "SCGFENCE"
+    },
+    "images": ["$RCT2:OBJDATA/WWTW.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tall Wooden Fence",
+            "fr-FR": "Grande clôture en bois",
+            "de-DE": "Hoher Holzzaun",
+            "es-ES": "Valla alta de madera",
+            "it-IT": "Alto recinto di legno",
+            "nl-NL": "Groot Houten Hek",
+            "sv-SE": "Högt trästaket",
+            "ko-KR": "높은 목재 담벽",
+            "zh-CN": "高大的木式栅栏",
+            "zh-TW": "高大的木式柵欄",
+            "pt-BR": "Cerca Alta de Madeira"
+        }
+    }
+}

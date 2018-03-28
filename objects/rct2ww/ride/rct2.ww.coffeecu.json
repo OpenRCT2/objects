@@ -1,0 +1,430 @@
+{
+    "id": "rct2.ww.coffeecu",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31B10|COFFEECU|E104B3ED",
+    "objectType": "ride",
+    "properties": {
+        "type": "twist",
+        "category": "thrill",
+        "rotationMode": 1,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["moss_green", "yellow", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "mass": 200,
+            "tabOffset": -12,
+            "numSeats": 18,
+            "spriteWidth": 64,
+            "spriteHeightNegative": 88,
+            "spriteHeightPositive": 32,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "numSegments": 4,
+            "loadingWaypoints": [
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [3, -42],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [-43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [0, -42]
+                ],
+                [
+                    [43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [3, -42],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [-43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [0, -42]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-42, 0]
+                ],
+                [
+                    [-43, -43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-42, -3],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-43, 43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-42, 0]
+                ],
+                [
+                    [-43, -43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-42, -3],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-43, 43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [3, -42],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [-43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [0, -42]
+                ],
+                [
+                    [43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [3, -42],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [-43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [0, -42]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-42, 0]
+                ],
+                [
+                    [-43, -43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-42, -3],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-43, 43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-42, 0]
+                ],
+                [
+                    [-43, -43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-42, -3],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-43, 43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [3, -42],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [-43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [0, -42]
+                ],
+                [
+                    [43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [3, -42],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [-43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [0, -42]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-42, 0]
+                ],
+                [
+                    [-43, -43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-42, -3],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-43, 43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-42, 0]
+                ],
+                [
+                    [-43, -43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-42, -3],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-43, 43],
+                    [-42, -3],
+                    [-42, 0]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/COFFEECU.DAT[0..242]"],
+    "strings": {
+        "name": {
+            "en-GB": "Coffee Cup Ride",
+            "fr-FR": "Tasse de café",
+            "de-DE": "Kaffeetassenbahn",
+            "es-ES": "Atracción Tazas de Café",
+            "it-IT": "Tazze di caffè",
+            "nl-NL": "Koffiekop-Attractie",
+            "sv-SE": "Kaffekoppar",
+            "zh-CN": "咖啡杯游乐设施"
+        },
+        "description": {
+            "en-GB": "Riders ride in pairs of seats rotating around the ends of three long rotating arms",
+            "fr-FR": "Les passagers sont assis par deux et tournent autour de l'extrémité de trois longs bras rotatifs",
+            "de-DE": "Die Fahrgäste nehmen auf rotierenden Sitzpaaren Platz, die sich an den Enden dreier langer kreisender Arme befinden",
+            "es-ES": "Los pasajeros montan en parejas de dos asientos que giran alrededor de los extremos de tres largos brazos rotatorios",
+            "it-IT": "I passeggeri trovano posto, a coppie, su seggiolini che ruotano all'estremità di tre lunghi bracci rotanti",
+            "nl-NL": "Passagiers zitten in twee aan elkaar gekoppelde stoelen die aan de uiteinden van drie lange roterende armen ronddraaien",
+            "sv-SE": "Passagerare åker parvis i säten som roterar kring tre långa, roterande armar",
+            "zh-CN": "乘客搭乘以末端三支长型旋转臂旋转的成对座位设施"
+        },
+        "capacity": {
+            "en-GB": "18 passengers",
+            "fr-FR": "18 passagers",
+            "de-DE": "18 Fahrgäste",
+            "es-ES": "18 pasajeros",
+            "it-IT": "18 passeggeri",
+            "nl-NL": "18 passagiers",
+            "sv-SE": "18 passagerare",
+            "zh-CN": "?限乘18人"
+        }
+    }
+}

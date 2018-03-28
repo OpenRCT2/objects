@@ -1,0 +1,82 @@
+{
+    "id": "rct2.tt.blckdeth",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F820|BLCKDETH|EDB1E78A",
+    "objectType": "ride",
+    "properties": {
+        "type": "bobsleigh_rc",
+        "category": "rollercoaster",
+        "maxCarsPerTrain": 8,
+        "carColours": [
+            [
+                ["light_blue", "white", "bright_red"]
+            ],
+            [
+                ["bright_red", "saturated_red", "yellow"]
+            ],
+            [
+                ["yellow", "dark_olive_green", "light_orange"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 278912,
+            "mass": 600,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "frictionSoundId": 2,
+            "soundRange": 0,
+            "drawOrder": 7,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true
+            },
+            "VEHICLE_ENTRY_FLAG_NO_UPSTOP_BOBSLEIGH": true,
+            "VEHICLE_ENTRY_FLAG_SWINGING": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "VEHICLE_ENTRY_FLAG_21": true,
+            "VEHICLE_ENTRY_FLAG_SLIDE_SWING": true,
+            "loadingPositions": [3, -3]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/BLCKDETH.DAT[0..2706]"],
+    "strings": {
+        "name": {
+            "en-GB": "Black Death Ride",
+            "fr-FR": "La peste noire",
+            "de-DE": "Schwarzer Tod-Attraktion",
+            "es-ES": "El viaje de la peste negra",
+            "it-IT": "Corsa della morte nera",
+            "nl-NL": "Zwarte dood-attractie",
+            "sv-SE": "Digerdöden",
+            "ko-KR": "블랙 데스 라이드",
+            "zh-TW": "黑死病遊樂設施",
+            "pt-BR": "Brinquedo da Peste Negra"
+        },
+        "description": {
+            "en-GB": "Riders career down a twisting track in Rat-shaped cars guided only by the curvature and banking of the semi-circular track",
+            "fr-FR": "Les passagers descendent un parcours alambiqué à bord d'une grande voiture en forme de rat dirigée uniquement par les courbes et l'inclinaison de la voie semi-circulaire",
+            "de-DE": "Die Fahrer rasen in Ratten-artigen Wagen eine gewundene Strecke hinab, wobei sie nur durch die Kurvenführung der halbrunden Strecke geführt werden.",
+            "es-ES": "Los usuarios recorren, en coches en forma de rata, una ruta guiada únicamente por la curvatura y el desnivel del recorrido semicircular.",
+            "it-IT": "I passeggeri si fanno strada lungo un tracciato sinuoso in carrozze a forma di topi, guidati solo dalla curvatura e dall'inclinazione del tracciato semi-circolare.",
+            "nl-NL": "Bezoekers racen langs een slingerende baan in ratvormige wagentjes, slechts geleid door de glooiing en het scheefhangen van de halfcirkelvormige baan.",
+            "sv-SE": "Passagerarna dundrar nerför ett slingrande spår i råttvagnar som styrs enbart av det halvcirkelformade spårets kurvatur och lutning.",
+            "ko-KR": "쥐 모양의 객차를 차량을 타고 반원 모양 트랙의 굴곡과 경사를 따라 달리는 놀이기구",
+            "zh-TW": "乘客在老鼠外形的車輛中只有依循著彎曲的半圓形軌道急速地猛衝旋轉前進",
+            "pt-BR": "Os visitantes correm por uma pista sinuosa em vagões em forma de ratos guiados somente pela curvatura e inclinação da pista semicircular"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por coche",
+            "it-IT": "2 passeggeri per carrozza",
+            "nl-NL": "2 passagiers per wagentje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량 정원 2명",
+            "zh-TW": "每輛車限乘2人",
+            "pt-BR": "2 passageiros por vagão"
+        }
+    }
+}

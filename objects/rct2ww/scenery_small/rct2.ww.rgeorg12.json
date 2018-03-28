@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.rgeorg12",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A11|RGEORG12|804E26C5",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RGEORG12.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Georgian Roof Piece 7",
+            "fr-FR": "Pan de toit géorgien 7",
+            "de-DE": "Georgianisches Dach-Bauteil 7",
+            "es-ES": "Pieza de tejado georgiano 7",
+            "it-IT": "Pezzo di tetto georgiano 7",
+            "nl-NL": "Stuk dak in Georgische stijl 7",
+            "sv-SE": "Georgiansk takdel 7"
+        }
+    }
+}

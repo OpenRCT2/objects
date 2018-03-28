@@ -1,0 +1,24 @@
+{
+    "id": "rct2.ww.wdrab05",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A13|WDRAB05 |0850A81E",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WDRAB05.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Wall Piece 5",
+            "fr-FR": "Pan de mur terne 5",
+            "de-DE": "Düsteres Wand-Bauteil 5",
+            "es-ES": "Pieza de pared apagada 5",
+            "it-IT": "Pezzo di muro smorto 5",
+            "nl-NL": "Vaal stuk dak 5",
+            "sv-SE": "Gråbrun väggdel 5"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "id": "rct2.ww.wdrab03",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A13|WDRAB03 |8318CB65",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WDRAB03.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Wall Piece 3",
+            "fr-FR": "Pan de mur terne 3",
+            "de-DE": "Düsteres Wand-Bauteil 3",
+            "es-ES": "Pieza de pared apagada 3",
+            "it-IT": "Pezzo di muro smorto 3",
+            "nl-NL": "Vaal stuk dak 3",
+            "sv-SE": "Gråbrun väggdel 3"
+        }
+    }
+}

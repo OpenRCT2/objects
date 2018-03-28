@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.waborg04",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0E11|WABORG04|9F48AB0A",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasSecondaryColour": true
+    },
+    "images": ["$RCT2:OBJDATA/WABORG04.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Aboriginal Art Set Piece",
+            "fr-FR": "Oeuvre d'art aborigène",
+            "de-DE": "Aborigine-Kunst - Bauteil",
+            "es-ES": "Pieza de conjunto de arte aborigen",
+            "it-IT": "Opera d'arte aborigena",
+            "nl-NL": "Stuk Servies Aboriginals",
+            "sv-SE": "Del av urinnevånares konstverk"
+        }
+    }
+}

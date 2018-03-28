@@ -1,0 +1,30 @@
+{
+    "id": "rct2.wallsc16",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WALLSC16|F9E8A378",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "isAllowedOnSlope": true,
+        "height": 2,
+        "price": 40,
+        "sceneryGroup": "SCGFENCE"
+    },
+    "images": ["$RCT2:OBJDATA/WALLSC16.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Railings",
+            "fr-FR": "Grille",
+            "de-DE": "Geländer",
+            "es-ES": "Enrejado",
+            "it-IT": "Ringhiera",
+            "nl-NL": "Traliewerk",
+            "sv-SE": "Ledstång",
+            "ko-KR": "레일",
+            "zh-CN": "扶手",
+            "zh-TW": "扶手",
+            "pt-BR": "Grades"
+        }
+    }
+}

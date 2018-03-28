@@ -1,0 +1,397 @@
+{
+    "id": "rct2.ww.firecrak",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFC10|FIRECRAK|4153A187",
+    "objectType": "ride",
+    "properties": {
+        "type": "enterprise",
+        "category": "thrill",
+        "tabScale": 0.5,
+        "rotationMode": 2,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["bright_red", "white", "black"]
+            ],
+            [
+                ["saturated_green", "bright_red", "black"]
+            ],
+            [
+                ["light_blue", "yellow", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "mass": 200,
+            "tabOffset": -24,
+            "numSeats": 16,
+            "seatsInPairs": false,
+            "spriteWidth": 98,
+            "spriteHeightNegative": 128,
+            "spriteHeightPositive": 32,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "numSegments": 8,
+            "loadingWaypoints": [
+                [
+                    [53, 0],
+                    [53, 0],
+                    [53, 0]
+                ],
+                [
+                    [54, -54],
+                    [53, 0],
+                    [53, 0]
+                ],
+                [
+                    [-54, -54],
+                    [54, -54],
+                    [53, 0]
+                ],
+                [
+                    [54, 54],
+                    [53, 0],
+                    [53, 0]
+                ],
+                [
+                    [54, -54],
+                    [0, -53],
+                    [0, -53]
+                ],
+                [
+                    [0, -53],
+                    [0, -53],
+                    [0, -53]
+                ],
+                [
+                    [-54, -54],
+                    [0, -53],
+                    [0, -53]
+                ],
+                [
+                    [54, 54],
+                    [54, -54],
+                    [0, -53]
+                ],
+                [
+                    [54, 54],
+                    [-54, 54],
+                    [-53, 0]
+                ],
+                [
+                    [-54, -54],
+                    [-53, 0],
+                    [-53, 0]
+                ],
+                [
+                    [-53, 0],
+                    [-53, 0],
+                    [-53, 0]
+                ],
+                [
+                    [-54, 54],
+                    [-53, 0],
+                    [-53, 0]
+                ],
+                [
+                    [54, 54],
+                    [0, 53],
+                    [0, 53]
+                ],
+                [
+                    [54, -54],
+                    [54, 54],
+                    [0, 53]
+                ],
+                [
+                    [-54, 54],
+                    [0, 53],
+                    [0, 53]
+                ],
+                [
+                    [0, 53],
+                    [0, 53],
+                    [0, 53]
+                ],
+                [
+                    [53, -10],
+                    [53, -10],
+                    [53, -10]
+                ],
+                [
+                    [54, -54],
+                    [53, -10],
+                    [53, -10]
+                ],
+                [
+                    [-54, -54],
+                    [54, -54],
+                    [53, -10]
+                ],
+                [
+                    [54, 54],
+                    [53, -10],
+                    [53, -10]
+                ],
+                [
+                    [54, -54],
+                    [-10, -53],
+                    [-10, -53]
+                ],
+                [
+                    [-10, -53],
+                    [-10, -53],
+                    [-10, -53]
+                ],
+                [
+                    [-54, -54],
+                    [-10, -53],
+                    [-10, -53]
+                ],
+                [
+                    [54, 54],
+                    [54, -54],
+                    [-9, -53]
+                ],
+                [
+                    [54, 54],
+                    [-54, 54],
+                    [-53, 10]
+                ],
+                [
+                    [-54, -54],
+                    [-53, 10],
+                    [-53, 10]
+                ],
+                [
+                    [-53, 10],
+                    [-53, 10],
+                    [-53, 10]
+                ],
+                [
+                    [-54, 54],
+                    [-53, 10],
+                    [-53, 10]
+                ],
+                [
+                    [54, 54],
+                    [10, 53],
+                    [10, 53]
+                ],
+                [
+                    [54, -54],
+                    [54, 54],
+                    [10, 53]
+                ],
+                [
+                    [-54, 54],
+                    [10, 53],
+                    [10, 53]
+                ],
+                [
+                    [10, 53],
+                    [10, 53],
+                    [10, 53]
+                ],
+                [
+                    [54, -54],
+                    [54, -54],
+                    [44, -44]
+                ],
+                [
+                    [54, -54],
+                    [54, -54],
+                    [44, -44]
+                ],
+                [
+                    [-54, -54],
+                    [54, -54],
+                    [44, -44]
+                ],
+                [
+                    [54, 54],
+                    [54, -54],
+                    [44, -44]
+                ],
+                [
+                    [54, -54],
+                    [-54, -54],
+                    [-44, -44]
+                ],
+                [
+                    [-54, -54],
+                    [-54, -54],
+                    [-44, -44]
+                ],
+                [
+                    [-54, -54],
+                    [-54, -54],
+                    [-44, -44]
+                ],
+                [
+                    [-54, 54],
+                    [-54, -54],
+                    [-44, -44]
+                ],
+                [
+                    [54, 54],
+                    [-54, 54],
+                    [-44, 44]
+                ],
+                [
+                    [-54, -54],
+                    [-54, 54],
+                    [-44, 44]
+                ],
+                [
+                    [-54, 54],
+                    [-54, 54],
+                    [-44, 44]
+                ],
+                [
+                    [-54, 54],
+                    [-54, 54],
+                    [-44, 44]
+                ],
+                [
+                    [54, 54],
+                    [54, 54],
+                    [44, 44]
+                ],
+                [
+                    [54, -54],
+                    [54, 54],
+                    [44, 44]
+                ],
+                [
+                    [-54, 54],
+                    [54, 54],
+                    [44, 44]
+                ],
+                [
+                    [54, 54],
+                    [54, 54],
+                    [44, 44]
+                ],
+                [
+                    [54, -54],
+                    [54, -54],
+                    [44, -44]
+                ],
+                [
+                    [54, -54],
+                    [54, -54],
+                    [44, -44]
+                ],
+                [
+                    [-54, -54],
+                    [54, -54],
+                    [44, -44]
+                ],
+                [
+                    [54, 54],
+                    [54, -54],
+                    [44, -44]
+                ],
+                [
+                    [54, -54],
+                    [-54, -54],
+                    [-44, -44]
+                ],
+                [
+                    [-54, -54],
+                    [-54, -54],
+                    [-44, -44]
+                ],
+                [
+                    [-54, -54],
+                    [-54, -54],
+                    [-44, -44]
+                ],
+                [
+                    [-54, 54],
+                    [-54, -54],
+                    [-44, -44]
+                ],
+                [
+                    [54, 54],
+                    [-54, 54],
+                    [-44, 44]
+                ],
+                [
+                    [-54, -54],
+                    [-54, 54],
+                    [-44, 44]
+                ],
+                [
+                    [-54, 54],
+                    [-54, 54],
+                    [-44, 44]
+                ],
+                [
+                    [-54, 54],
+                    [-54, 54],
+                    [-44, 44]
+                ],
+                [
+                    [54, 54],
+                    [54, 54],
+                    [44, 44]
+                ],
+                [
+                    [54, -54],
+                    [54, 54],
+                    [44, 44]
+                ],
+                [
+                    [-54, 54],
+                    [54, 54],
+                    [44, 44]
+                ],
+                [
+                    [54, 54],
+                    [54, 54],
+                    [44, 44]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/FIRECRAK.DAT[0..246]"],
+    "strings": {
+        "name": {
+            "en-GB": "Fire Cracker Ride",
+            "fr-FR": "Les feux de Bengale",
+            "de-DE": "Feuerwerkskörper",
+            "es-ES": "Atracción Noria Fulgurante",
+            "it-IT": "I petardi",
+            "nl-NL": "Voetzoeker-Attractie",
+            "sv-SE": "Smällkaramell",
+            "zh-CN": "烟火缤纷游乐设施"
+        },
+        "description": {
+            "en-GB": "Rotating wheel with suspended passenger pods, which first starts spinning and is then tilted up by a supporting arm",
+            "fr-FR": "Grande roue rotative comprenant des nacelles qui tourne sur elle-même avant d'être levée par un bras",
+            "de-DE": "Ein rotierendes Rad, an dem Fahrgastkabinen aufgehängt sind. Es dreht sich zuerst nur und wird dann von einem Trägerarm nach oben gekippt",
+            "es-ES": "Rueda de la que cuelgan las vainas de los pasajeros, que comienza a girar y luego se inclina mediante un brazo soporte",
+            "it-IT": "Una ruota che regge delle capsule passeggeri sospese e inizia a ruotare per poi venire inclinata verso l'alto da un braccio portante",
+            "nl-NL": "Passagiercabines hangen aan een roterend wiel, dat eerst gaat draaien en daarna omhoog wordt getild door een ondersteunende arm",
+            "sv-SE": "Ett roterande hjul med hängande åkvagnar som först snurrar och sedan lutas med hjälp av en stödarm",
+            "zh-CN": "旋转悬挂着乘客的座舱，先以旋转开始，再以支撑臂倾斜升起"
+        },
+        "capacity": {
+            "en-GB": "16 passengers",
+            "fr-FR": "16 passagers",
+            "de-DE": "16 Fahrgäste",
+            "es-ES": "16 pasajeros",
+            "it-IT": "16 passeggeri",
+            "nl-NL": "16 passagiers",
+            "sv-SE": "16 passagerare",
+            "zh-CN": "限乘16人"
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "id": "rct2.golf1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|GOLF1   |FD380E73",
+    "objectType": "ride",
+    "properties": {
+        "type": "mini_golf",
+        "category": "gentle",
+        "minCarsPerTrain": 2,
+        "maxCarsPerTrain": 2,
+        "carsPerFlatRide": 20,
+        "numEmptyCars": 1,
+        "tabCar": 1,
+        "defaultCar": 1,
+        "headCars": 0,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "spacing": 17432,
+                "spriteWidth": 30,
+                "spriteHeightNegative": 35,
+                "spriteHeightPositive": 30,
+                "poweredAcceleration": 40,
+                "poweredMaxSpeed": 6,
+                "carVisual": 6,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_MINI_GOLF": true,
+                "VEHICLE_ENTRY_FLAG_10": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "loadingPositions": [0]
+            },
+            {
+                "spacing": 17432,
+                "mass": 100,
+                "numSeats": 1,
+                "spriteWidth": 30,
+                "spriteHeightNegative": 35,
+                "spriteHeightPositive": 30,
+                "poweredAcceleration": 40,
+                "poweredMaxSpeed": 6,
+                "carVisual": 5,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_MINI_GOLF": true,
+                "VEHICLE_ENTRY_FLAG_10": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "loadingPositions": [0]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/GOLF1.DAT[0..151]"],
+    "strings": {
+        "name": {
+            "en-GB": "Mini Golf",
+            "de-DE": "Minigolf",
+            "it-IT": "Mini golf",
+            "ko-KR": "미니 골프",
+            "zh-CN": "迷你高尔夫",
+            "zh-TW": "迷你高爾夫",
+            "pt-BR": "Minigolfe"
+        },
+        "description": {
+            "en-GB": "A gentle game of miniature golf",
+            "fr-FR": "Golf miniature",
+            "de-DE": "Ein leichtes Minigolfspiel",
+            "es-ES": "Un sencillo juego de mini golf",
+            "it-IT": "Un tranquillo campo per il golf in miniatura",
+            "nl-NL": "Een rustig spel minigolf",
+            "sv-SE": "Ett lugnt spel minigolf",
+            "ko-KR": "미니어쳐 골프를 하는 온건한 게임",
+            "zh-CN": "一种温和的小小高尔夫游戏",
+            "zh-TW": "一種溫和的小小高爾夫遊戲",
+            "pt-BR": "Um agradável jogo de golfe em miniatura"
+        }
+    }
+}

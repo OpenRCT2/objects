@@ -1,0 +1,91 @@
+{
+    "id": "rct2.bmvd",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|BMVD    |2652B6A8",
+    "objectType": "ride",
+    "properties": {
+        "type": "vertical_drop_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "maxCarsPerTrain": 3,
+        "carColours": [
+            [
+                ["black", "light_orange", "light_orange"]
+            ],
+            [
+                ["light_purple", "bright_red", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 156888,
+            "mass": 2000,
+            "numSeats": 6,
+            "numSeatRows": 3,
+            "frictionSoundId": 57,
+            "soundRange": 0,
+            "drawOrder": 7,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "verticalSlopes": true,
+                "diagonalSlopes": true,
+                "flatBanked": true,
+                "flatToGentleSlopeBankedTransitions": true,
+                "diagonalGentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTurns": true,
+                "flatToGentleSlopeWhileBankedTransitions": true,
+                "restraintAnimation": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [3, -3, 3, -3, 3, -3]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/BMVD.DAT[0..2882]"],
+    "strings": {
+        "name": {
+            "en-GB": "Vertical Drop Roller Coaster",
+            "fr-FR": "Montagnes russes en chute vert.",
+            "de-DE": "Vertikaler Fall",
+            "es-ES": "Montaña Rusa Caída Vertical",
+            "it-IT": "Ottovolante a caduta verticale",
+            "nl-NL": "Achtbaan met Verticale val",
+            "sv-SE": "Vertikalt stup",
+            "ko-KR": "수직 하강 롤러코스터",
+            "zh-CN": "自由落体过山车",
+            "zh-TW": "自由落體雲霄飛車",
+            "pt-BR": "Montanha-russa de Queda Vertical"
+        },
+        "description": {
+            "en-GB": "Extra-wide cars descend completely vertical sloped track for the ultimate freefall roller coaster experience",
+            "fr-FR": "Des voitures très larges descendent des voies en pente verticale. Pour amateurs de chute libre",
+            "de-DE": "Besonders breite Wagen fallen eine vollständige Vertikale herunter - das ultimative Erlebnis des freien Falls",
+            "es-ES": "Vagones superanchos descienden completamente verticales para una experiencia definitiva",
+            "it-IT": "Carrozze larghissime scendono giù per un tracciato completamente in verticale per offrire l'esperienza di caduta libera definitiva per quel che riguarda un ottovolante",
+            "nl-NL": "Extra wijde wagentjes gaan een geheel verticaal gezette baan af voor de ultieme vrije val ervaring in een achtbaan",
+            "sv-SE": "Extrabreda vagnar går ner för fullständigt lodräta spår för den ultimata frittfall-upplevelsen i berg- och dalbanan",
+            "ko-KR": "궁극적인 자유낙하를 경험할 수 있는 수직 트랙을 내려오는 아주 넓은 롤러코스터",
+            "zh-CN": "完全延着垂直斜度轨道落下的附加大型列车体验由顶点自由落下的快感",
+            "zh-TW": "完全延著垂直斜度軌道落下的附加大型列車體驗由頂點自由落下的快感",
+            "pt-BR": "Carros extralargos descem numa pista de descida completamente vertical, na definitiva experiência de queda livre"
+        },
+        "capacity": {
+            "en-GB": "6 passengers per car",
+            "fr-FR": "6 passagers par voiture",
+            "de-DE": "6 Fahrgäste pro Wagen",
+            "es-ES": "6 pasajeros por vagón",
+            "it-IT": "6 passeggeri a carrozza",
+            "nl-NL": "6 passagiers per wagentje",
+            "sv-SE": "6 passagerare per vagn",
+            "ko-KR": "차량 정원 6명",
+            "zh-CN": "6 位乘客/每个车厢",
+            "zh-TW": "6 位乘客/每個車廂",
+            "pt-BR": "6 passageiros por carro"
+        }
+    }
+}

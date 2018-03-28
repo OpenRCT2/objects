@@ -1,0 +1,86 @@
+{
+    "id": "rct2.jski",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|JSKI    |E08C3F3A",
+    "objectType": "ride",
+    "properties": {
+        "type": "boat_hire",
+        "category": [
+            "water",
+            "thrill"
+        ],
+        "ratingMultipler": {
+            "excitement": 75,
+            "intensity": 75,
+            "nausea": 40
+        },
+        "carColours": [
+            [
+                ["bright_red", "yellow", "black"]
+            ],
+            [
+                ["white", "bright_red", "black"]
+            ],
+            [
+                ["black", "bright_pink", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 183036,
+            "mass": 160,
+            "numSeats": 1,
+            "numSeatRows": 1,
+            "poweredAcceleration": 220,
+            "poweredMaxSpeed": 25,
+            "drawOrder": 7,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "VEHICLE_ENTRY_FLAG_BOAT_HIRE_COLLISION_DETECTION": true,
+            "loadingPositions": [0]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/JSKI.DAT[0..66]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jet Skis",
+            "de-DE": "Jetski",
+            "it-IT": "Moto d'acqua",
+            "nl-NL": "Jet Ski's",
+            "sv-SE": "Vattenskoter",
+            "ko-KR": "제트 스키",
+            "zh-CN": "喷射滑橇",
+            "zh-TW": "噴射滑橇"
+        },
+        "description": {
+            "en-GB": "Single-seater jet skis which riders can drive themselves",
+            "fr-FR": "Jet skis individuels que les visiteurs peuvent conduire eux-mêmes",
+            "de-DE": "Einsitziger Jetski, den der Passagier selbst steuern kann",
+            "es-ES": "Jet Skis que un único pasajero puede conducir",
+            "it-IT": "Moto d'acqua che il passeggero può guidare da solo",
+            "nl-NL": "Eenpersoons jetski's die bezoekers zelf kunnen besturen",
+            "sv-SE": "Ensitsig vattenskoter som besökaren kör själv",
+            "ko-KR": "직접 운전하며 탈 수 있는 일인용 제트 스키",
+            "zh-CN": "每台单一乘客自行操纵它的运作",
+            "zh-TW": "每台單一乘客自行操縱它的運作",
+            "pt-BR": "Jet skis com um assento, dirigível pelos próprios visitantes"
+        },
+        "capacity": {
+            "en-GB": "1 rider per vehicle",
+            "fr-FR": "1 passager par véhicule",
+            "de-DE": "1 Fahrer pro Fahrzeug",
+            "es-ES": "1 pasajero por vehículo",
+            "it-IT": "1 passeggero a veicolo",
+            "nl-NL": "1 bezoeker per wagentje",
+            "sv-SE": "1 passagerare per fordon",
+            "ko-KR": "차량 정원 1명",
+            "zh-CN": "1位乘客／每部机器",
+            "zh-TW": "1位乘客／每部機器",
+            "pt-BR": "1 passageiro por veículo"
+        }
+    }
+}

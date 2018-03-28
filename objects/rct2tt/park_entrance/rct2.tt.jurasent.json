@@ -1,0 +1,26 @@
+{
+    "id": "rct2.tt.jurasent",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F728|JURASENT|A2B32D74",
+    "objectType": "park_entrance",
+    "properties": {
+        "scrollingMode": 3,
+        "textHeight": 83
+    },
+    "images": ["$RCT2:OBJDATA/JURASENT.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Prehistoric Entrance",
+            "fr-FR": "Entrée préhistorique",
+            "de-DE": "Prähistorischer Eingang",
+            "es-ES": "Entrada prehistórica",
+            "it-IT": "Entrata preistorica",
+            "nl-NL": "Prehistorische Ingang",
+            "sv-SE": "Förhistorisk entré",
+            "ko-KR": "선사시대 입구",
+            "zh-TW": "史前時代入口",
+            "pt-BR": "Entrada Pré-Histórica"
+        }
+    }
+}

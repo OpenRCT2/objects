@@ -1,0 +1,33 @@
+{
+    "id": "rct2.tt.medstool",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F921|MEDSTOOL|A8E7BEAD",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 4,
+        "removalPrice": -2,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 8,
+        "shape": "1/4",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/MEDSTOOL.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Stool",
+            "fr-FR": "Tabouret",
+            "de-DE": "Hocker",
+            "es-ES": "Taburete",
+            "it-IT": "Sgabello",
+            "nl-NL": "Krukje",
+            "sv-SE": "Pall",
+            "ko-KR": "변기",
+            "zh-TW": "凳子",
+            "pt-BR": "Tamborete"
+        }
+    }
+}

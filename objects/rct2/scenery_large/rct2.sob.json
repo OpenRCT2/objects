@@ -1,0 +1,58 @@
+{
+    "id": "rct2.sob",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C82|SOB     |576396ED",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 220,
+        "removalPrice": 120,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 12
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 6
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SOB.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Office Block",
+            "fr-FR": "Bureaux",
+            "de-DE": "Bürogebäude",
+            "es-ES": "Bloque de oficinas",
+            "it-IT": "Uffici",
+            "nl-NL": "Kantoorgebouw",
+            "sv-SE": "Kontorsblock",
+            "ko-KR": "사무실 블록",
+            "zh-CN": "办公室区块",
+            "zh-TW": "辦公室區塊",
+            "pt-BR": "Bloco de Escritório"
+        }
+    }
+}

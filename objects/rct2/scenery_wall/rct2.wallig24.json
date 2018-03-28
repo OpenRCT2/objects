@@ -1,0 +1,28 @@
+{
+    "id": "rct2.wallig24",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WALLIG24|FFA037CA",
+    "objectType": "scenery_wall",
+    "properties": {
+        "height": 3,
+        "price": 80,
+        "sceneryGroup": "SCGWALLS"
+    },
+    "images": ["$RCT2:OBJDATA/WALLIG24.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Igloo Wall",
+            "fr-FR": "Mur d'igloo",
+            "de-DE": "Igluwand",
+            "es-ES": "Pared de iglú",
+            "it-IT": "Parete dell'igloo",
+            "nl-NL": "Iglo muur",
+            "sv-SE": "Igloovägg",
+            "ko-KR": "이글루 벽",
+            "zh-CN": "圆顶墙",
+            "zh-TW": "圓頂牆",
+            "pt-BR": "Parede de Iglu"
+        }
+    }
+}

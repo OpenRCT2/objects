@@ -1,0 +1,88 @@
+{
+    "id": "rct2.intbob",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|INTBOB  |499CD9EA",
+    "objectType": "ride",
+    "properties": {
+        "type": "bobsleigh_rc",
+        "category": "rollercoaster",
+        "ratingMultipler": {
+            "excitement": 5
+        },
+        "carColours": [
+            [
+                ["bright_red", "bright_red", "black"]
+            ],
+            [
+                ["teal", "bordeaux_red", "black"]
+            ],
+            [
+                ["white", "light_blue", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 296344,
+            "mass": 1400,
+            "numSeats": 6,
+            "numSeatRows": 3,
+            "frictionSoundId": 2,
+            "soundRange": 0,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true
+            },
+            "VEHICLE_ENTRY_FLAG_NO_UPSTOP_BOBSLEIGH": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_SWINGING": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "VEHICLE_ENTRY_FLAG_21": true,
+            "VEHICLE_ENTRY_FLAG_SLIDE_SWING": true,
+            "loadingPositions": [7, 9, 3, -3, -7, -9]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/INTBOB.DAT[0..5410]"],
+    "strings": {
+        "name": {
+            "en-GB": "Flying Turns",
+            "fr-FR": "Maxi-bobsleigh",
+            "de-DE": "Kurvenfliegen",
+            "es-ES": "Curvas Locas",
+            "it-IT": "Curve volanti",
+            "nl-NL": "Vliegende Bochten",
+            "sv-SE": "Flyganfall",
+            "ko-KR": "플라잉 턴",
+            "zh-CN": "飞行旋转",
+            "zh-TW": "飛行旋轉",
+            "pt-BR": "Curvas Voadoras"
+        },
+        "description": {
+            "en-GB": "Riders career down a twisting track in large bobsleigh cars guided only by the curvature and banking of the semi-circular track",
+            "fr-FR": "Les passagers descendent un parcours alambiqué à bord d'une grande voiture en forme de bobsleigh dirigée uniquement par les courbes et l'inclinaison de la voie semi-circulaire",
+            "de-DE": "Die Passagiere rasen in großen Bobwagen eine gewundene Strecke herunter, wobei sie nur von der Kurvenführung und Seitenneigung der halbkreisförmigen Strecke geführt werden",
+            "es-ES": "Los pasajeros están sentados en vagones estilo bobsleigh guiados únicamente por la curvatura y los peraltes de la vía semicircular",
+            "it-IT": "I passeggeri si fanno strada lungo un tracciato sinuoso in grandi carrozze a forma di bob guidati solo dalla curvatura e dall'inclinazione del tracciato semi-circolare",
+            "nl-NL": "Bezoekers denderen een bochtige baan omlaag in grote bobslee-wagens die alleen worden geleid door de wanden en de hellende halfronde baan",
+            "sv-SE": "Passagerarna halas nerför ett snott spår i en stor bobsläde som endast styrs av krökningen och påskjutningen av det halvcirkulära spåret",
+            "ko-KR": "반원형의 코스에서 오로지 커브와 난간에 의지해서 뒤틀린 트랙을 달리는 커다란 봅슬레이 모양의 차",
+            "zh-CN": "乘客在大型雪橇车内以几何率在半圆形轨道上弯曲冲锋陷阵",
+            "zh-TW": "乘客在大型雪橇車內以幾何率在半圓形軌道上彎曲衝鋒陷陣",
+            "pt-BR": "Os passageiros descem numa pista sinuosa em grandes vagões de trenó, guiados apenas pela curvatura e inclinação da pista semicircular"
+        },
+        "capacity": {
+            "en-GB": "6 passengers per car",
+            "fr-FR": "6 passagers par voiture",
+            "de-DE": "6 Fahrgäste pro Wagen",
+            "es-ES": "6 pasajeros por vagón",
+            "it-IT": "6 passeggeri a carrozza",
+            "nl-NL": "6 passagiers per wagentje",
+            "sv-SE": "6 passagerare per vagn",
+            "ko-KR": "차량 정원 6명",
+            "zh-CN": "6 位乘客/每个车厢",
+            "zh-TW": "6 位乘客/每個車廂",
+            "pt-BR": "6 passageiros por Vagão"
+        }
+    }
+}

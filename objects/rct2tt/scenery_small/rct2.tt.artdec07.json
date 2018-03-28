@@ -1,0 +1,36 @@
+{
+    "id": "rct2.tt.artdec07",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F921|ARTDEC07|94D8C6F0",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/ARTDEC07.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Art Deco Corner Section",
+            "fr-FR": "Section de virage art déco",
+            "de-DE": "Art Déco Eckabschnitt",
+            "es-ES": "Sección de esquina Art Decó",
+            "it-IT": "Sezione di curva in art decò",
+            "nl-NL": "Bochtstuk Art Deco",
+            "sv-SE": "Hörnsektion, art déco",
+            "ko-KR": "아르데코 모서리 부분",
+            "zh-TW": "裝飾藝術牆角區段",
+            "pt-BR": "Seção de Canto de Arte Déco"
+        }
+    }
+}

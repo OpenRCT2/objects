@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.antilopf",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0411|ANTILOPF|DD9B60A4",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 48,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/ANTILOPF.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Antelope Female",
+            "fr-FR": "Antilope femelle",
+            "de-DE": "Antilope (weiblich)",
+            "es-ES": "Antílope hembra",
+            "it-IT": "Antilope femmina",
+            "nl-NL": "Vrouwtjes Antiloop",
+            "sv-SE": "Antilop-hona",
+            "zh-CN": "雌性羚羊"
+        }
+    }
+}

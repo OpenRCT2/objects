@@ -1,0 +1,43 @@
+{
+    "id": "rct2.tt.rdmeto02",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB22|RDMETO02|E7D376FB",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 23,
+        "removalPrice": 20,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "sceneryGroup": "SCGWALLS",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 90,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 90,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/RDMETO02.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Red Meteor Crater Corner",
+            "fr-FR": "Virage de cratère météoritique rouge",
+            "de-DE": "Roter Meteoritenkrater-Ecke",
+            "es-ES": "Esquina de cráter de meteorito rojo",
+            "it-IT": "Curva del cratere meteoritico rosso",
+            "nl-NL": "Bocht Rode Meteoorkrater",
+            "sv-SE": "Rött meteorkraterhörn",
+            "ko-KR": "붉은 운석 구멍 모서리",
+            "zh-TW": "紅色隕石坑牆角",
+            "pt-BR": "Canto de Cratera de Meteoro Vermelho"
+        }
+    }
+}

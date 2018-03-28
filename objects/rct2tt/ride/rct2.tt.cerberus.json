@@ -1,0 +1,128 @@
+{
+    "id": "rct2.tt.cerberus",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F820|CERBERUS|7CE9E834",
+    "objectType": "ride",
+    "properties": {
+        "type": "twister_rc",
+        "category": "rollercoaster",
+        "noInversions": true,
+        "minCarsPerTrain": 4,
+        "maxCarsPerTrain": 10,
+        "numEmptyCars": 1,
+        "tabCar": 1,
+        "headCars": 1,
+        "ratingMultipler": {
+            "excitement": 15,
+            "intensity": 3
+        },
+        "carColours": [
+            [
+                ["dark_green", "bordeaux_red", "yellow"]
+            ],
+            [
+                ["light_purple", "black", "grey"]
+            ],
+            [
+                ["light_orange", "bordeaux_red", "dark_yellow"]
+            ],
+            [
+                ["bright_red", "light_brown", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 148172,
+                "mass": 680,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [-2, -4, -2, -4]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 130740,
+                "mass": 525,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/CERBERUS.DAT[0..2870]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cerberus Coaster",
+            "fr-FR": "Le cerbère",
+            "de-DE": "Zerberus-Achterbahn",
+            "es-ES": "Montaña rusa Cerbero",
+            "it-IT": "Ottovolante Cerbero",
+            "nl-NL": "Cerberus-achtbaan",
+            "sv-SE": "Kerberos",
+            "ko-KR": "케르베로스 코스터",
+            "zh-TW": "三頭狗雲霄飛車",
+            "pt-BR": "Montanha-Russa do Cérbero"
+        },
+        "description": {
+            "en-GB": "Sitting in comfortable trains with only simple lap restraints riders enjoy giant smooth drops and twisting track as well as plenty of 'air time' over the hills",
+            "fr-FR": "Retenus uniquement par les jambes dans des voitures confortables, les visiteurs effectuent des descentes géantes le long d'un tracé sinueux et décollent de leur siège en haut des collines",
+            "de-DE": "In bequemen Wagen mit einfacher Rückhaltevorrichtung genießen die Fahrgäste sanfte Stürze, eine kurvenreiche Strecke und einen schönen, ausgedehnten Ausblick über die Hügel.",
+            "es-ES": "Sentados en cómodos vagones con sujeciones simples, los viajeros disfrutan de grandes y suaves caídas así como de giros y gran cantidad de momentos de caída libre en los puntos superiores.",
+            "it-IT": "Seduti comodamente - il solo limite è che si può effettuare un solo giro alla volta - i passeggeri affrontano dolci discese e numerose curve, sperimentando una piacevole sensazione di assenza di gravità.",
+            "nl-NL": "Gezeten in comfortabele treintjes met alleen schootbevestiging, genieten de bezoekers van enorme glooiende valhoogten en een slingerende baan en van veel 'air time' bovenop de heuvels.",
+            "sv-SE": "Passagerarna sitter i bekväma tåg med enbart enkla knästöd vilket möjliggör långa, mjuka fall, slingrande svängar och dessutom gott om lufttid över krönen.",
+            "ko-KR": "승객은 무릎 안전 바만 착용하고 열차에 편안히 앉아서 '체공 시간'뿐만 아니라 자이언트 스무스 드롭과 트위스트 트랙을 즐길 수 있습니다.",
+            "zh-TW": "坐在只有單純循環設施的舒適列車中，享受著列車平穩地下降及轉彎和在山丘上空遊覽的空中時間。",
+            "pt-BR": "Sentados em trens confortáveis com proteção de colo simples, os visitantes passam por grandes e suaves quedas e pistas sinuosas, além de bastante 'tempo aéreo' nas colinas"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por coche",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 정원 4명",
+            "zh-TW": "每輛車限乘4人",
+            "pt-BR": "4 passageiros por vagão"
+        }
+    }
+}

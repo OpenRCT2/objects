@@ -1,0 +1,54 @@
+{
+    "id": "rct2.tt.mcastl11",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F822|MCASTL11|F0360459",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 68,
+        "removalPrice": -62,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "sceneryGroup": "SCGWALLS",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 160,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 160,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 160,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 160,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/MCASTL11.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Castle Portcullis",
+            "fr-FR": "Herse du château",
+            "de-DE": "Schloss-Fallgitter",
+            "es-ES": "Rastrillo de castillo",
+            "it-IT": "Saracinesca del Castello",
+            "nl-NL": "Kasteel Portcullis",
+            "sv-SE": "Fällgaller, slott",
+            "ko-KR": "성 격자문",
+            "zh-TW": "城堡升降門",
+            "pt-BR": "Porta Corrediça de Castelo"
+        }
+    }
+}

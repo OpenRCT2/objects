@@ -1,0 +1,41 @@
+{
+    "id": "rct2.tt.hvrbike3",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB21|HVRBIKE3|3A3F9132",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -8,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 24,
+        "animationDelay": 2,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "2/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasSecondaryColour": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/HVRBIKE3.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Hoverbike Flying",
+            "fr-FR": "Moto sur coussin d'air en vol",
+            "de-DE": "Fliegendes Schweberad",
+            "es-ES": "Moto jet volando",
+            "it-IT": "Bicicletta volante in volo",
+            "nl-NL": "Vliegende Zweefmotorfiets",
+            "sv-SE": "Flygande svävarcykel",
+            "ko-KR": "비행 중인 호버바이크",
+            "zh-TW": "飛行中的飛行腳踏車",
+            "pt-BR": "Moto Flutuante Voando"
+        }
+    }
+}

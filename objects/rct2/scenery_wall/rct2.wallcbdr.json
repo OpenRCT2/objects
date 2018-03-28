@@ -1,0 +1,32 @@
+{
+    "id": "rct2.wallcbdr",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F83|WALLCBDR|F80EC8AB",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isDoor": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTernaryColour": true,
+        "doorSound": 2,
+        "height": 4,
+        "price": 250
+    },
+    "images": ["$RCT2:OBJDATA/WALLCBDR.DAT[0..35]"],
+    "strings": {
+        "name": {
+            "en-GB": "Doorway",
+            "fr-FR": "Porte",
+            "de-DE": "Eingang",
+            "es-ES": "Portal",
+            "it-IT": "Cornice della porta",
+            "nl-NL": "Deur",
+            "sv-SE": "Dörröppning",
+            "ko-KR": "출입구",
+            "zh-CN": "门口",
+            "zh-TW": "門口",
+            "pt-BR": "Portal"
+        }
+    }
+}

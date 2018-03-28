@@ -1,0 +1,31 @@
+{
+    "id": "rct2.cnballs",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|CNBALLS |F19BE8B0",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 9,
+        "removalPrice": -6,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 16,
+        "shape": "1/4",
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/CNBALLS.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cannon Balls",
+            "fr-FR": "Boulets de canon",
+            "de-DE": "Kanonenkugeln",
+            "es-ES": "Balas de cañón",
+            "it-IT": "Palla di cannone",
+            "nl-NL": "Kanonkogels",
+            "sv-SE": "Kanonkulor",
+            "ko-KR": "대포알",
+            "zh-CN": "炮弹",
+            "zh-TW": "砲彈",
+            "pt-BR": "Balas de Canhão"
+        }
+    }
+}

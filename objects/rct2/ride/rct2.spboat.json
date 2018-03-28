@@ -1,0 +1,115 @@
+{
+    "id": "rct2.spboat",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SPBOAT  |1057649F",
+    "objectType": "ride",
+    "properties": {
+        "type": "splash_boats",
+        "category": [
+            "water",
+            "thrill"
+        ],
+        "tabScale": 0.5,
+        "playSplashSound": true,
+        "RIDE_ENTRY_FLAG_18": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "carColours": [
+            [
+                ["saturated_brown", "bordeaux_red", "black"]
+            ],
+            [
+                ["grey", "dark_purple", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 191752,
+                "mass": 1250,
+                "numSeats": 16,
+                "numSeatRows": 8,
+                "logFlumeReverserVehicleType": 1,
+                "soundRange": 0,
+                "poweredAcceleration": 255,
+                "poweredMaxSpeed": 5,
+                "effectVisual": 13,
+                "drawOrder": 10,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "VEHICLE_ENTRY_FLAG_WATER_RIDE": true,
+                "loadingPositions": [14, 12, 14, 12, 6, 4, 6, 4, -6, -4, -6, -4, -14, -12, -14, -12]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 87160,
+                "soundRange": 0,
+                "poweredAcceleration": 255,
+                "poweredMaxSpeed": 5,
+                "carVisual": 8,
+                "effectVisual": 13,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "VEHICLE_ENTRY_FLAG_WATER_RIDE": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SPBOAT.DAT[0..1690]"],
+    "strings": {
+        "name": {
+            "en-GB": "Splash Boats",
+            "fr-FR": "Eclabousseur",
+            "de-DE": "Splash-Boote",
+            "es-ES": "Botes Locos",
+            "it-IT": "Barche con lo schizzo",
+            "nl-NL": "Plonsboten",
+            "sv-SE": "Plaskbåtar",
+            "ko-KR": "스프래쉬 보트",
+            "zh-CN": "水花四溅",
+            "zh-TW": "水花四濺",
+            "pt-BR": "Splash"
+        },
+        "description": {
+            "en-GB": "Large capacity boats travel along a wide water channel, propelled up slopes by a conveyor belt, accelerating down steep slopes to soak the riders with a giant splash",
+            "fr-FR": "Grand bateau qui serpente le long d'une large voie navigable, monte sur des pentes grâce à un tapis roulant, et descend à toute vitesse de l'autre côté, éclaboussant allègrement les passagers",
+            "de-DE": "Große Boote bewegen sich in einem breiten Wasserkanal, fahren von einem Fließband befördert Anstiege hoch und sausen steile Gefälle hinunter, damit die Fahrgäste mit einem gigantischen Platscher durchnässt werden",
+            "es-ES": "Botes de gran capacidad que viajan por un amplio canal impulsados por una cinta transportadora que producen grandes salpicaduras",
+            "it-IT": "Barche molto capienti viaggiano per un largo canale d'acqua, trainate da nastri trasportatori, per poi prendere velocità lungo ripidi pendii bagnando i passeggeri con schizzi d'acqua giganti",
+            "nl-NL": "Boten met een grote capaciteit gaan over een wijd kanaal, en worden hellingen opgetild door een grote lopende band, en gaan snel steile hellingen omlaag en maken bezoekers nat met een enorme plons",
+            "sv-SE": "Högkapacitetsbåtar färdas längs en bred vattenkanal, drivs upp för lutningar av ett transportband, accelererar ner för branter för att blöta ner passagerarna med ett jätteplask",
+            "ko-KR": "컨베이어 벨트에 의해 넓은 수로를 따라 올라갔다가 가파른 경사를 내려오며 승객들을 흠뻑 적셔주는 커다란 보트",
+            "zh-CN": "大型容量的船体延着水道利用传输带送上斜坡,再加速向下滑落并溅起水花使乘客浸泡到水",
+            "zh-TW": "大型容量的船體延著水道利用傳輸帶送上斜坡,再加速向下滑落並濺起水花使乘客浸泡到水",
+            "pt-BR": "Barcos de grande capacidade viajam num largo canal de água, puxados em subidas por uma correia de transporte, e descem em quedas íngremes para molhar os passageiros ao cair na água"
+        },
+        "capacity": {
+            "en-GB": "16 passengers per boat",
+            "fr-FR": "16 passagers par bateau",
+            "de-DE": "16 Fahrgäste pro Boot",
+            "es-ES": "16 pasajeros por bote",
+            "it-IT": "16 passeggeri a barca",
+            "nl-NL": "16 passagiers per boot",
+            "sv-SE": "16 passagerare per båt",
+            "ko-KR": "보트 정원 16명",
+            "zh-CN": "16 位乘客 /每艘船",
+            "zh-TW": "16 位乘客 /每艘船",
+            "pt-BR": "16 passageiros por barco"
+        }
+    }
+}

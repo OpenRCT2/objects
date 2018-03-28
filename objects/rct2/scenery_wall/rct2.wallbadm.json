@@ -1,0 +1,29 @@
+{
+    "id": "rct2.wallbadm",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F83|WALLBADM|6623F4AE",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "isOpaque": true,
+        "height": 10,
+        "price": 230
+    },
+    "images": ["$RCT2:OBJDATA/WALLBADM.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Badminton Racket",
+            "fr-FR": "Raquette de badminton",
+            "de-DE": "Badminton-Schläger",
+            "es-ES": "Raqueta de badminton",
+            "it-IT": "Racchetta da volano",
+            "nl-NL": "Badmintonracket",
+            "sv-SE": "Badmintonracket",
+            "ko-KR": "배드민턴 라켓",
+            "zh-CN": "羽球拍",
+            "zh-TW": "羽球拍",
+            "pt-BR": "Raquete de Badminton"
+        }
+    }
+}

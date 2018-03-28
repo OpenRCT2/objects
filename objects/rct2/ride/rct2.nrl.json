@@ -1,0 +1,135 @@
+{
+    "id": "rct2.nrl",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|NRL     |EB8FF03D",
+    "objectType": "ride",
+    "properties": {
+        "type": "miniature_railway",
+        "category": "transport",
+        "tabScale": 0.5,
+        "playDepartSound": true,
+        "RIDE_ENTRY_FLAG_18": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 8,
+        "numEmptyCars": 2,
+        "defaultCar": 2,
+        "headCars": [
+            0,
+            1
+        ],
+        "ratingMultipler": {
+            "excitement": 3
+        },
+        "carColours": [
+            [
+                ["yellow", "bordeaux_red", "bright_yellow"]
+            ],
+            [
+                ["dark_green", "dark_brown", "yellow"]
+            ],
+            [
+                ["bordeaux_red", "dark_green", "yellow"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 296344,
+                "mass": 3000,
+                "animation": 1,
+                "frictionSoundId": 31,
+                "soundRange": 3,
+                "poweredAcceleration": 240,
+                "poweredMaxSpeed": 18,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION": true
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 183036,
+                "mass": 110,
+                "frictionSoundId": 31,
+                "soundRange": 3,
+                "drawOrder": 7,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 270196,
+                "mass": 600,
+                "numSeats": 6,
+                "numSeatRows": 3,
+                "frictionSoundId": 31,
+                "soundRange": 3,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "loadingPositions": [10, 8, 1, -1, -8, -10]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/NRL.DAT[0..1154]"],
+    "strings": {
+        "name": {
+            "en-GB": "Steam Trains",
+            "fr-FR": "Trains vapeur",
+            "de-DE": "Dampfzüge",
+            "es-ES": "Tren de Vapor",
+            "it-IT": "Treni a vapore",
+            "nl-NL": "Stoomtrein",
+            "sv-SE": "Ånglok",
+            "ko-KR": "증기 기관차",
+            "zh-CN": "蒸气火车",
+            "zh-TW": "蒸氣火車",
+            "pt-BR": "Trens a Vapor"
+        },
+        "description": {
+            "en-GB": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling open wooden carriages",
+            "fr-FR": "Trains miniatures comprenant une réplique de locomotive à vapeur et des petits wagons en bois et ouverts",
+            "de-DE": "Mini-Dampfzüge bestehend aus nachgemachter Dampflok und Tender mit offenen Holzwagons",
+            "es-ES": "Trenes vapor en miniatura que son réplicas de las auténticas, tirando de vagones de madera",
+            "it-IT": "Treni a vapore in miniatura che replicano le locomotive a vapore e i carri scorta. Trainano carrozze di legno aperte",
+            "nl-NL": "Miniatuur stoomtrein bestaan uit de replica van een stoomlocomotief en een kolenwagen, die open houten wagonnetjes voorttrekt",
+            "sv-SE": "Miniångtåg som består av en kopia av ånglokomotiv som mjukt drar de öppna trävagnarna",
+            "ko-KR": "부드러운 나무 재질의 객실을 가진 증기 기관차의 미니어쳐 모델",
+            "zh-CN": "微型蒸汽火车是由酷似蒸汽火车及媒车拖拉具有布织车顶的木制四轮马车所组成的",
+            "zh-TW": "微型蒸汽火車是由酷似蒸汽火車及媒車拖拉具有布織車頂的木製四輪馬車所組成的",
+            "pt-BR": "Trens a vapor em miniatura, consistindo de uma réplica de uma locomotiva a vapor e vagão de carga, puxando vagões de madeira abertos"
+        },
+        "capacity": {
+            "en-GB": "6 passengers per carriage",
+            "fr-FR": "6 passagers par voiture",
+            "de-DE": "6 Fahrgäste pro Wagon",
+            "es-ES": "6 pasajeros por vagón",
+            "it-IT": "6 passeggeri a carrozza",
+            "nl-NL": "6 passagiers per wagonnetjes",
+            "sv-SE": "6 passagerare per fordon",
+            "ko-KR": "차량 정원 6명",
+            "zh-CN": "6 位乘客/每辆马车",
+            "zh-TW": "6 位乘客/每輛馬車",
+            "pt-BR": "6 passageiros por vagão"
+        }
+    }
+}

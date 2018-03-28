@@ -1,0 +1,34 @@
+{
+    "id": "rct2.tt.rdmeto04",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB21|RDMETO04|7BA0FC9D",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 13,
+        "removalPrice": 10,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 48,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RDMETO04.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Red Meteor Crater Inverted Corner",
+            "fr-FR": "Virage inversé de cratère météoritique rouge",
+            "de-DE": "Umgedrehte roter Meteoritenkrater-Ecke",
+            "es-ES": "Esquina invertida de cráter de meteorito rojo",
+            "it-IT": "Curva invertita del cratere meteoritico rosso",
+            "nl-NL": "Rode Omgekeerde Bocht Meteoorkrater",
+            "sv-SE": "Rött omvänt meteorkraterhörn",
+            "ko-KR": "붉은 운석 구멍 반대 모서리",
+            "zh-TW": "反向紅色隕石坑牆角",
+            "pt-BR": "Canto Invertido de Cratera de Meteoro Vermelho"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "rct2.ww.wcorr03",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0313|WCORR03 |3C0C7F50",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WCORR03.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Corrugated Wall Piece",
+            "fr-FR": "Pan de mur ondulé",
+            "de-DE": "Gewelltes Wand-Bauteil",
+            "es-ES": "Pieza de pared ondulada",
+            "it-IT": "Pezzo di parete ondulata",
+            "nl-NL": "Geplooid Stuk Muur",
+            "sv-SE": "Del av kurrogerad vägg",
+            "zh-CN": "金属类墙面"
+        }
+    }
+}

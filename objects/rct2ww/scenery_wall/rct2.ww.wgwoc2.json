@@ -1,0 +1,25 @@
+{
+    "id": "rct2.ww.wgwoc2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFC13|WGWOC2  |CC654EC8",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 16,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WGWOC2.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Great Wall Of China Rear Wall Section",
+            "fr-FR": "Section de mur arrière de la Grande Muraille de Chine",
+            "de-DE": "Große Mauer von China - Rückwand-Abschnitt",
+            "es-ES": "Sec. trasera de la pared de la Gran Muralla China",
+            "it-IT": "Sezione posteriore di parete della Grande Muraglia Cinese",
+            "nl-NL": "Stuk Muur achterkant Grote Chinese Muur",
+            "sv-SE": "Kinesiska muren, bakre mur",
+            "zh-CN": "万里长城后背墙面区段"
+        }
+    }
+}

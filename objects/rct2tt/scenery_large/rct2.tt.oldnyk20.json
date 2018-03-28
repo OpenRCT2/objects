@@ -1,0 +1,43 @@
+{
+    "id": "rct2.tt.oldnyk20",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F922|OLDNYK20|7434B092",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "sceneryGroup": "SCGWALLS",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 8,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 8,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/OLDNYK20.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "New York Roof Piece",
+            "fr-FR": "Section de toit de New York",
+            "de-DE": "New York Dachstück",
+            "es-ES": "Sección de tejado de Nueva York",
+            "it-IT": "Tratto dei tetti di New York",
+            "nl-NL": "Dakstuk New York",
+            "sv-SE": "Takdel, New York",
+            "ko-KR": "뉴욕 지붕 조각",
+            "zh-TW": "紐約屋頂塊",
+            "pt-BR": "Peça de Telhado de Nova York"
+        }
+    }
+}

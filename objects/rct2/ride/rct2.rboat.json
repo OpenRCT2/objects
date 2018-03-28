@@ -1,0 +1,85 @@
+{
+    "id": "rct2.rboat",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|RBOAT   |E952C72A",
+    "objectType": "ride",
+    "properties": {
+        "type": "boat_hire",
+        "category": [
+            "water",
+            "gentle"
+        ],
+        "disableBreakdown": true,
+        "carColours": [
+            [
+                ["saturated_brown", "yellow", "black"]
+            ],
+            [
+                ["white", "moss_green", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 15,
+            "spacing": 235332,
+            "mass": 110,
+            "numSeats": 2,
+            "animation": 4,
+            "numSeatRows": 7,
+            "poweredAcceleration": 8,
+            "poweredMaxSpeed": 5,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_11": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "VEHICLE_ENTRY_FLAG_BOAT_HIRE_COLLISION_DETECTION": true,
+            "VEHICLE_ENTRY_FLAG_RIDER_ANIMATION": true,
+            "loadingPositions": [3, -3]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/RBOAT.DAT[0..130]"],
+    "strings": {
+        "name": {
+            "en-GB": "Rowing Boats",
+            "fr-FR": "Rameurs",
+            "de-DE": "Ruderboote",
+            "es-ES": "Bote a Remos",
+            "it-IT": "Barche a remi",
+            "nl-NL": "Roeiboten",
+            "sv-SE": "Roddbåtar",
+            "ko-KR": "노젓는 배",
+            "zh-CN": "划船",
+            "zh-TW": "划船",
+            "pt-BR": "Barco a Remo"
+        },
+        "description": {
+            "en-GB": "Rowing boats which passengers row themselves",
+            "fr-FR": "Bateaux que les passagers font avancer en ramant",
+            "de-DE": "Ruderboote, die von den Fahrgästen selbst gerudert werden",
+            "es-ES": "Botes de remos en los que los pasajeros reman",
+            "it-IT": "Barche in cui sono i passeggeri a remare",
+            "nl-NL": "Roeiboten voor passagiers die zelf roeien",
+            "sv-SE": "Roddbåtar som passagerarna ror själva",
+            "ko-KR": "승객들이 직접 노를 저어가는 보트",
+            "zh-CN": "由乘客靠自己划船",
+            "zh-TW": "由乘客靠自己划船",
+            "pt-BR": "Barcos a remo nos quais os próprios passageiros remam"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per boat",
+            "fr-FR": "2 passagers par bateau",
+            "de-DE": "2 Fahrgäste pro Boot",
+            "es-ES": "2 pasajeros por bote",
+            "it-IT": "2 passeggeri a barca",
+            "nl-NL": "2 passagiers per boot",
+            "sv-SE": "2 passagerare per båt",
+            "ko-KR": "보트 정원 2명",
+            "zh-CN": "2 位乘客 /每艘船",
+            "zh-TW": "2 位乘客 /每艘船",
+            "pt-BR": "2 passageiros por barco"
+        }
+    }
+}

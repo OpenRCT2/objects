@@ -1,0 +1,90 @@
+{
+    "id": "rct2.arrsw1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|ARRSW1  |0861F5A7",
+    "objectType": "ride",
+    "properties": {
+        "type": "suspended_swinging_rc",
+        "category": "rollercoaster",
+        "tabScale": 0.5,
+        "maxCarsPerTrain": 8,
+        "carColours": [
+            [
+                ["bright_red", "saturated_red", "yellow"]
+            ],
+            [
+                ["dark_green", "dark_purple", "white"]
+            ],
+            [
+                ["white", "grey", "bright_red"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 287628,
+            "mass": 950,
+            "tabOffset": -22,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 4,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "diagonalSlopes": true,
+                "restraintAnimation": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_SWINGING": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "VEHICLE_ENTRY_FLAG_21": true,
+            "loadingPositions": [4, 6, -6, -4]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/ARRSW1.DAT[0..4622]"],
+    "strings": {
+        "name": {
+            "en-GB": "Suspended Swinging Cars",
+            "fr-FR": "Voitures à bascule suspendues",
+            "de-DE": "Hängebahnwagen",
+            "es-ES": "Coches Suspendidos",
+            "it-IT": "Carrozze oscillanti sospese",
+            "nl-NL": "Wagentjes",
+            "sv-SE": "Upphängda svängande vagnar",
+            "ko-KR": "매달려가는 진동차",
+            "zh-CN": "悬晃列车",
+            "zh-TW": "懸晃列車",
+            "pt-BR": "Carros de Balanço Suspensos"
+        },
+        "description": {
+            "en-GB": "Suspended roller coaster train consisting of cars able to swing freely as the train goes around corners",
+            "fr-FR": "Train suspendu à des montagnes russes et dont les voitures se balancent dans les virages",
+            "de-DE": "Hängender Achterbahnzug, der aus Wagen besteht, die frei schwingen können, wenn der Zug um die Kurven fährt",
+            "es-ES": "Vagones suspendidos que se balancean libremente al tomar las curvas",
+            "it-IT": "I treni da ottovolante sospesi trainano carrozze capaci di oscillare liberamente quando il treno gira in una curva",
+            "nl-NL": "Hangende achtbaan bestaand uit wagentjes die vrij kunnen draaien als de trein door de bochten gaat",
+            "sv-SE": "Tåg till upphängd berg- och dalbana som består av vagnar som kan svänga fritt när tåget kör runt svängarna",
+            "ko-KR": "열차가 커브를 돌 때 자유로이 좌우로 흔들릴 수 있도록 고안된 객차를 가진 진동 열차",
+            "zh-CN": "是由当列车在转角处转弯时列车自由摇摆晃动组成的悬挂式过山车",
+            "zh-TW": "是由當列車在轉角處轉彎時列車自由搖?晃動組成的懸掛式雲霄飛車",
+            "pt-BR": "Trem de montanha-russa suspenso consistindo de carros capazes de balançar livremente quando o trem passa pelas curvas"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 정원 4명",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por carro"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "rct2.ww.japchblo",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0011|JAPCHBLO|8B67B32D",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 80,
+        "sceneryGroup": "SCGTREES",
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/JAPCHBLO.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Japanese Cherry Blossom Tree",
+            "fr-FR": "Cerisier du Japon en fleur",
+            "de-DE": "Blühender japanischer Kirschbaum",
+            "es-ES": "Cerezo en flor japonés",
+            "it-IT": "Ciliegio giapponese in boccio",
+            "nl-NL": "Bloeiende Japanse Kersenboom",
+            "sv-SE": "Blomstrande japanskt körsbärsträd",
+            "zh-CN": "日本樱花树"
+        }
+    }
+}

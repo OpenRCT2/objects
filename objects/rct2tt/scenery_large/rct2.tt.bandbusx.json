@@ -1,0 +1,93 @@
+{
+    "id": "rct2.tt.bandbusx",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA22|BANDBUSX|CF78C803",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 114,
+        "removalPrice": -82,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 120,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 120,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 120,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 120,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 120,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 120,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 120,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 120,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 120,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/BANDBUSX.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Rock Band Tour Bus",
+            "fr-FR": "Car de tournée de groupe de rock",
+            "de-DE": "Rockband-Tourbus",
+            "es-ES": "Autobús de gira de grupo de rock",
+            "it-IT": "Autobus per i tour del complesso rock",
+            "nl-NL": "Tourbus Rock Band",
+            "sv-SE": "Rockbands turnébuss",
+            "ko-KR": "록 밴드 투어 버스",
+            "zh-TW": "搖滾樂團巡迴巴士",
+            "pt-BR": "Ônibus de Turnê de Banda de Rock"
+        }
+    }
+}

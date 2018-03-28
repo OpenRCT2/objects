@@ -1,0 +1,170 @@
+{
+    "id": "rct2.fwh1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|FWH1    |BE0E9ADE",
+    "objectType": "ride",
+    "properties": {
+        "type": "ferris_wheel",
+        "category": "gentle",
+        "tabScale": 0.5,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["yellow", "bordeaux_red", "black"]
+            ],
+            [
+                ["light_orange", "white", "black"]
+            ],
+            [
+                ["light_blue", "dark_green", "black"]
+            ],
+            [
+                ["white", "yellow", "black"]
+            ],
+            [
+                ["white", "bright_red", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 7,
+            "spacing": 139456,
+            "mass": 3000,
+            "numSeats": 32,
+            "spriteWidth": 87,
+            "spriteHeightNegative": 170,
+            "spriteHeightPositive": 37,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "numSegments": 0,
+            "loadingWaypoints": [
+                [
+                    [44, -12],
+                    [-16, -12],
+                    [-16, -12]
+                ],
+                [
+                    [-16, -12],
+                    [-16, -12],
+                    [-16, -12]
+                ],
+                [
+                    [-76, -12],
+                    [-16, -12],
+                    [-16, -12]
+                ],
+                [
+                    [-16, 12],
+                    [-16, 12],
+                    [-16, 12]
+                ],
+                [
+                    [12, 16],
+                    [12, 16],
+                    [12, 16]
+                ],
+                [
+                    [12, -44],
+                    [12, 16],
+                    [12, 16]
+                ],
+                [
+                    [-12, 16],
+                    [-12, 16],
+                    [-12, 16]
+                ],
+                [
+                    [12, 76],
+                    [12, 16],
+                    [12, 16]
+                ],
+                [
+                    [76, -12],
+                    [16, -12],
+                    [16, -12]
+                ],
+                [
+                    [16, -12],
+                    [16, -12],
+                    [16, -12]
+                ],
+                [
+                    [-44, -12],
+                    [16, -12],
+                    [16, -12]
+                ],
+                [
+                    [16, 12],
+                    [16, 12],
+                    [16, 12]
+                ],
+                [
+                    [12, -16],
+                    [12, -16],
+                    [12, -16]
+                ],
+                [
+                    [12, -76],
+                    [12, -16],
+                    [12, -16]
+                ],
+                [
+                    [-12, -16],
+                    [-12, -16],
+                    [-12, -16]
+                ],
+                [
+                    [-12, 44],
+                    [-12, -16],
+                    [-12, -16]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/FWH1.DAT[0..546]"],
+    "strings": {
+        "name": {
+            "en-GB": "Ferris Wheel",
+            "fr-FR": "Grande roue",
+            "de-DE": "Riesenrad",
+            "es-ES": "Rueda Gigante",
+            "it-IT": "Ruota panoramica",
+            "nl-NL": "Reuzenrad",
+            "sv-SE": "Pariserhjul",
+            "zh-CN": "摩天轮",
+            "zh-TW": "摩天輪",
+            "pt-BR": "Roda-Gigante"
+        },
+        "description": {
+            "en-GB": "Rotating big wheel with open chairs",
+            "fr-FR": "Grande roue rotative constituée de sièges en plein air",
+            "de-DE": "Rotierendes Riesenrad mit offenen Sitzen",
+            "es-ES": "Gran rueda rotante con asientos al aire libre",
+            "it-IT": "Grande ruota rotante con sedili aperti",
+            "nl-NL": "Roterend groot rad met open stoelen",
+            "sv-SE": "Roterande stora hjul med öppna stolar",
+            "ko-KR": "뚜껑 없는 의자로 이루어진 커다란 회전 바퀴",
+            "zh-CN": "大型的轮子上有16张座椅",
+            "zh-TW": "大型的輪子上有16張座椅",
+            "pt-BR": "Grande roda-gigante com cadeiras abertas"
+        },
+        "capacity": {
+            "en-GB": "32 passengers",
+            "fr-FR": "32 passagers",
+            "de-DE": "32 Fahrgäste",
+            "es-ES": "32 pasajeros",
+            "it-IT": "32 passeggeri",
+            "nl-NL": "32 passagiers",
+            "sv-SE": "32 passagerare",
+            "ko-KR": "정원 32명",
+            "zh-CN": "32位客人",
+            "zh-TW": "32位客人",
+            "pt-BR": "32 passageiros"
+        }
+    }
+}

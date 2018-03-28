@@ -1,0 +1,80 @@
+{
+    "id": "rct2.ww.tutlboat",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0E10|TUTLBOAT|DF756C74",
+    "objectType": "ride",
+    "properties": {
+        "type": "boat_hire",
+        "category": [
+            "water",
+            "thrill"
+        ],
+        "ratingMultipler": {
+            "excitement": 30,
+            "intensity": 15,
+            "nausea": 15
+        },
+        "carColours": [
+            [
+                ["yellow", "light_blue", "black"]
+            ],
+            [
+                ["bright_red", "light_blue", "black"]
+            ],
+            [
+                ["dark_green", "yellow", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 270196,
+            "mass": 140,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "poweredAcceleration": 220,
+            "poweredMaxSpeed": 9,
+            "drawOrder": 7,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "VEHICLE_ENTRY_FLAG_BOAT_HIRE_COLLISION_DETECTION": true,
+            "loadingPositions": [3, -3]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/TUTLBOAT.DAT[0..66]"],
+    "strings": {
+        "name": {
+            "en-GB": "Turtle Water Ride",
+            "fr-FR": "Tortue aquatique",
+            "de-DE": "Schildkröten-Wasserbahn",
+            "es-ES": "Atracción acuática Tortuga",
+            "it-IT": "La tartaruga marina",
+            "nl-NL": "Schildpad Water-Attractie",
+            "sv-SE": "Sköldpaddsbana",
+            "zh-CN": "海龟水上设施"
+        },
+        "description": {
+            "en-GB": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
+            "fr-FR": "Petits canots pneumatiques de forme circulaire alimentés par un moteur central que contrôlent les passagers",
+            "de-DE": "Kleine, runde Schlauchboote, die von einem zentralen Motor angetrieben werden, der von den Fahrgästen gesteuert wird",
+            "es-ES": "Botes pequeños inflables redondos propulsados por un motor central controlado por los pasajeros",
+            "it-IT": "Usa piccole imbarcazioni circolari spinte da un motore centrale controllato dai passeggeri",
+            "nl-NL": "Kleine ronde bootjes die worden aangedreven door een centrale motor en bestuurd door de passagiers",
+            "sv-SE": "Små cirkelformade jollar drivs av en centralt monterad motor som kontrolleras av passagerare",
+            "zh-CN": "小型圆型小艇由中心马达操控每个乘客的方向"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per boat",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 pro Boot",
+            "es-ES": "2 pasajeros por bote",
+            "it-IT": "2 passeggeri per imbarcazione",
+            "nl-NL": "2 passagiers per boot",
+            "sv-SE": "2 passagerare per båt",
+            "zh-CN": "? 每艘船限乘2人"
+        }
+    }
+}

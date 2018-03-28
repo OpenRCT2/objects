@@ -1,0 +1,102 @@
+{
+    "id": "rct2.ww.sanftram",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0810|SANFTRAM|C15AC087",
+    "objectType": "ride",
+    "properties": {
+        "type": "miniature_railway",
+        "category": "transport",
+        "tabScale": 0.5,
+        "hasShelter": true,
+        "playDepartSound": true,
+        "RIDE_ENTRY_FLAG_18": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 4,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "carColours": [
+            [
+                ["bright_red", "yellow", "black"]
+            ],
+            [
+                ["yellow", "white", "black"]
+            ],
+            [
+                ["light_blue", "white", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 357356,
+                "mass": 3000,
+                "numSeats": 10,
+                "numSeatRows": 5,
+                "frictionSoundId": 31,
+                "soundRange": 4,
+                "poweredAcceleration": 250,
+                "poweredMaxSpeed": 19,
+                "drawOrder": 10,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "loadingPositions": [12, -12, 12, -12, 12, -12, 13, 11, -13, -11]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "frictionSoundId": 31,
+                "soundRange": 4,
+                "poweredAcceleration": 250,
+                "poweredMaxSpeed": 19,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SANFTRAM.DAT[0..802]"],
+    "strings": {
+        "name": {
+            "en-GB": "San Francisco Tram",
+            "fr-FR": "Tram de San Francisco",
+            "de-DE": "San Francisco-Straßenbahn",
+            "es-ES": "Tranvía de San Francisco",
+            "it-IT": "Tram di San Francisco",
+            "nl-NL": "Tram uit San Francisco",
+            "sv-SE": "Spårvagn från San Francisco",
+            "zh-CN": "旧金山有轨电车"
+        },
+        "description": {
+            "en-GB": "Replica trams",
+            "fr-FR": "Répliques de trams",
+            "de-DE": "Nachgebaute Straßenbahnwaggons",
+            "es-ES": "Réplica de tranvías",
+            "it-IT": "Riproduzioni di tram",
+            "nl-NL": "Replica van trams",
+            "sv-SE": "Gammal spårvagn",
+            "zh-CN": "有轨电车复制品"
+        },
+        "capacity": {
+            "en-GB": "10 passengers per car",
+            "fr-FR": "10 passagers par voiture",
+            "de-DE": "10 pro Waggon",
+            "es-ES": "10 pasajeros por vagón",
+            "it-IT": "10 passeggeri per carrozza",
+            "nl-NL": "10 passagiers per wagentje",
+            "sv-SE": "10 passagerare per vagn",
+            "zh-CN": "每辆车限乘10人"
+        }
+    }
+}

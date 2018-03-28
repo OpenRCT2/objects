@@ -1,0 +1,30 @@
+{
+    "id": "rct2.tas",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TAS     |F4B9DB16",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 11,
+        "removalPrice": 5,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 66,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TAS.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Aspen Tree",
+            "fr-FR": "Peuplier",
+            "de-DE": "Espe",
+            "es-ES": "Árbol de Aspen",
+            "it-IT": "Pioppo",
+            "nl-NL": "Espenboom",
+            "sv-SE": "Asp",
+            "ko-KR": "아스펜 나무",
+            "zh-CN": "山杨树",
+            "zh-TW": "山楊樹",
+            "pt-BR": "Árvore Aspen"
+        }
+    }
+}

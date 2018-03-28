@@ -1,0 +1,25 @@
+{
+    "id": "rct2.ww.wbrick05",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0913|WBRICK05|0BAF0217",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WBRICK05.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Red Brick Wall Piece 5",
+            "fr-FR": "Pan de mur de brique rouge 5",
+            "de-DE": "Backstein Wand-Bauteil 5",
+            "es-ES": "Pieza de pared de ladrillo rojo 5",
+            "it-IT": "Pezzo di muro di mattoni rossi 5",
+            "nl-NL": "Stuk Muur van Rode baksteen 5",
+            "sv-SE": "Röd tegelväggdel 5"
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "id": "rct2.tt.hoverbke",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA20|HOVERBKE|404935A3",
+    "objectType": "ride",
+    "properties": {
+        "type": "steeplechase",
+        "category": "rollercoaster",
+        "ratingMultipler": {
+            "excitement": 5
+        },
+        "carColours": [
+            [
+                ["white", "bright_red", "black"]
+            ],
+            [
+                ["white", "yellow", "black"]
+            ],
+            [
+                ["white", "light_blue", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 244048,
+            "mass": 800,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "frictionSoundId": 2,
+            "soundRange": 0,
+            "drawOrder": 9,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "diagonalSlopes": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [4, -4]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/HOVERBKE.DAT[0..258]"],
+    "strings": {
+        "name": {
+            "en-GB": "Hover Bike Ride",
+            "fr-FR": "Moto sur coussin d'air",
+            "de-DE": "Schweberad-Attraktion",
+            "es-ES": "Viaje en moto jet",
+            "it-IT": "Giro sulla bicicletta volante",
+            "nl-NL": "Zweeffiets Attractie",
+            "sv-SE": "Svävarcyklar",
+            "ko-KR": "호버 바이크 라이드",
+            "zh-TW": "飛行腳踏車遊樂設施",
+            "pt-BR": "Brinquedo de Moto Flutuante"
+        },
+        "description": {
+            "en-GB": "Riders sit on futuristic bike-shaped vehicles which travel along a single-rail track",
+            "fr-FR": "Les passagers prennent place à bord de véhicules en forme de motos qui dévalent une voie monorail",
+            "de-DE": "Die Fahrer fahren auf futuristischen Fahrrädern über eine Einschienen-Strecke",
+            "es-ES": "Los viajeros se sientan en vehículos con forma de moto que viajan por un monorraíl.",
+            "it-IT": "I passeggeri attraversano un tracciato monorotaia su veicoli a forma di biciclette volanti.",
+            "nl-NL": "Rijders zitten op futuristische motorfietsachtige voertuigen die langs een enkelrailsbaan gaan",
+            "sv-SE": "Förarna sitter på futuristiska cykelformade fordon som färdas längs en enspårsbana.",
+            "ko-KR": "미래의 오토바이처럼 생긴 차량 위에 앉아 하나의 레일 트랙을 따라가는 놀이기구",
+            "zh-TW": "乘客乘坐在有未來感的腳踏車外形車輛上,沿著單軌軌道前進",
+            "pt-BR": "Os visitantes se sentam em veículos na forma de motos futuristas que viajam por uma pista de monotrilho"
+        },
+        "capacity": {
+            "en-GB": "2 riders per vehicle",
+            "fr-FR": "2 passagers par véhicule",
+            "de-DE": "2 Fahrer pro Wagen",
+            "es-ES": "2 pasajeros por vehículo.",
+            "it-IT": "2 passeggeri per veicolo",
+            "nl-NL": "2 rijders per voertuig",
+            "sv-SE": "2 passagerare per fordon",
+            "ko-KR": "차량 정원 2명",
+            "zh-TW": "每輛車限乘2人",
+            "pt-BR": "2 visitantes por veículo"
+        }
+    }
+}

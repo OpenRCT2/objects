@@ -1,0 +1,97 @@
+{
+    "id": "rct2.jstar1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|JSTAR1  |5885991E",
+    "objectType": "ride",
+    "properties": {
+        "type": [
+            "none",
+            "mini_rc"
+        ],
+        "category": "rollercoaster",
+        "ratingMultipler": {
+            "excitement": 3,
+            "intensity": 1
+        },
+        "carColours": [
+            [
+                ["bright_red", "yellow", "black"]
+            ],
+            [
+                ["light_blue", "white", "dark_blue"]
+            ],
+            [
+                ["grey", "bordeaux_red", "bordeaux_red"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 322492,
+            "mass": 790,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "diagonalSlopes": true,
+                "flatBanked": true,
+                "flatToGentleSlopeBankedTransitions": true,
+                "diagonalGentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTurns": true,
+                "flatToGentleSlopeWhileBankedTransitions": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [-6, 6, -6, 6]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/JSTAR1.DAT[0..1778]"],
+    "strings": {
+        "name": {
+            "en-GB": "Toboggan Cars",
+            "fr-FR": "Voiture-toboggan",
+            "de-DE": "Schlittenwagen",
+            "es-ES": "Coches Tobogán",
+            "it-IT": "Toboghe",
+            "nl-NL": "Toboggan Wagentjes",
+            "sv-SE": "Kälkvagnar",
+            "ko-KR": "썰매차",
+            "zh-CN": "平底雪橇",
+            "zh-TW": "平底雪橇",
+            "pt-BR": "Vagões de Tobogã"
+        },
+        "description": {
+            "en-GB": "Toboggan-shaped roller coaster cars with in-line seating",
+            "fr-FR": "Voiture de montagnes russes en forme de toboggan avec des sièges disposés en ligne",
+            "de-DE": "Schlittenförmige Achterbahnwagen mit hintereinander liegenden Sitzen",
+            "es-ES": "Montaña rusa con forma de toboganes",
+            "it-IT": "Carrozze da ottovolante a forma di toboghe con i sedili l'uno dietro l'altro",
+            "nl-NL": "Achtbaanwagentjes in de vorm van een Toboggan met in één rij geplaatste stoelen",
+            "sv-SE": "Kälkformade berg- och dalbanevagnar med sätena på rad",
+            "ko-KR": "일렬로 늘어선 썰매 모양의 롤러코스터",
+            "zh-CN": "平底雪橇外形的过山车与同轴座位",
+            "zh-TW": "平底雪橇外形的雲霄飛車與同軸座位",
+            "pt-BR": "Vagões de montanha-russa em forma de tobogã com assentos em linha"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 정원 4명",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por vagão"
+        }
+    }
+}

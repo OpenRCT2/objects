@@ -1,0 +1,85 @@
+{
+    "id": "rct2.submar",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SUBMAR  |EE311547",
+    "objectType": "ride",
+    "properties": {
+        "type": "submarine_ride",
+        "category": [
+            "gentle",
+            "water"
+        ],
+        "RIDE_ENTRY_FLAG_18": true,
+        "carColours": [
+            [
+                ["yellow", "olive_green", "black"]
+            ],
+            [
+                ["grey", "bordeaux_red", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 278912,
+            "mass": 300,
+            "numSeats": 5,
+            "seatsInPairs": false,
+            "poweredAcceleration": 40,
+            "poweredMaxSpeed": 6,
+            "carVisual": 16,
+            "drawOrder": 5,
+            "numVerticalFramesOverride": 2,
+            "frames": {
+                "flat": true,
+                "restraintAnimation": true
+            },
+            "VEHICLE_ENTRY_FLAG_OVERRIDE_NUM_VERTICAL_FRAMES": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "loadingPositions": [-7, -7, -7, -7, -7]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/SUBMAR.DAT[0..90]"],
+    "strings": {
+        "name": {
+            "en-GB": "Submarine Ride",
+            "fr-FR": "Sous-marin",
+            "de-DE": "U-Boot-Fahrt",
+            "es-ES": "Paseo en Submarino",
+            "it-IT": "Corsa sottomarina",
+            "nl-NL": "Attractie met onderzeeër",
+            "sv-SE": "Undervattensattraktion",
+            "ko-KR": "잠수함",
+            "zh-CN": "海底旅行Submarine Ride",
+            "zh-TW": "海底旅行",
+            "pt-BR": "Brinquedo Submarino"
+        },
+        "description": {
+            "en-GB": "Riders ride in a submerged submarine through an underwater course",
+            "fr-FR": "Sous-marin immergé qui transporte les passagers dans un parcours sub-aquatique",
+            "de-DE": "Die Passagiere fahren in einem U-Boot unter Wasser",
+            "es-ES": "Los pasajeros van en un submarino sumergido bajo una vía acuática",
+            "it-IT": "I passeggeri si trovano in sottomarini che viaggiano immersi lungo un percorso acquatico",
+            "nl-NL": "Attractie waar passagiers in een onderzeeër door een onderwaterbaan gaan",
+            "sv-SE": "Passagerarna åker i en nedsänkt ubåt genom en undervattensbana",
+            "ko-KR": "잠수함이 수중 코스로 운행하는 기구",
+            "zh-CN": "乘客坐在水中的潜艇在水面下游动参观",
+            "zh-TW": "乘客坐在水中的潛艇在水面下游動參觀",
+            "pt-BR": "Os passageiros andam num submarino submerso por um percurso subaquático"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per submarine",
+            "fr-FR": "4 passagers par sous-marin",
+            "de-DE": "4 Passagiere pro U-Boot",
+            "es-ES": "4 pasajeros por submarino",
+            "it-IT": "4 passeggeri a sottomarino",
+            "nl-NL": "4 passagiers per onderzeeër",
+            "sv-SE": "4 passagerare per ubåt",
+            "ko-KR": "잠수함 당 승객 4명",
+            "zh-CN": "4 位乘客 /每艘潜艇",
+            "zh-TW": "4 位乘客 /每艘潛艇",
+            "pt-BR": "4 passageiros por submarino"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "rct2.ww.flamngo1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0511|FLAMNGO1|28E8B1E8",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 40,
+        "removalPrice": -30,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 56,
+        "animationDelay": 2,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/FLAMNGO1.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Flamingo Feeding",
+            "fr-FR": "Flamant rose mangeant",
+            "de-DE": "Flamingo (fressend)",
+            "es-ES": "Flamenco comiendo",
+            "it-IT": "Fenicottero che mangia",
+            "nl-NL": "Flamingo's Voeren",
+            "sv-SE": "Flamingo som äter",
+            "zh-CN": "饲育红鹤"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "rct2.ww.sballoon",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31D11|SBALLOON|76822559",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 40,
+        "removalPrice": -30,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 96,
+        "animationDelay": 2,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/SBALLOON.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Animated Balloons",
+            "fr-FR": "?Ballons 1",
+            "de-DE": "?Ballons 1",
+            "es-ES": "Globos",
+            "it-IT": "Palloni 1",
+            "nl-NL": "Ballonnen",
+            "sv-SE": "Ballonger 1"
+        }
+    }
+}

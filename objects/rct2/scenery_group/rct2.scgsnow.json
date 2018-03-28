@@ -1,0 +1,49 @@
+{
+    "id": "rct2.scgsnow",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGSNOW |255174BF",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "SIP",
+            "TSM",
+            "TIG",
+            "TSF1",
+            "TSF2",
+            "TSF3",
+            "TSNC",
+            "TSNB",
+            "WC16",
+            "WC17",
+            "WC18",
+            "JUMPSNW1",
+            "TCFS",
+            "TRFS",
+            "TRF3",
+            "TNSS",
+            "BN8",
+            "WALLIG16",
+            "WALLIG24",
+            "IGROOF"
+        ],
+        "priority": 30,
+        "entertainerCostumes": "snowman"
+    },
+    "images": ["$RCT2:OBJDATA/SCGSNOW.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Snow and Ice Themeing",
+            "fr-FR": "Thème Neige et glace",
+            "de-DE": "Schnee- und Eisthema",
+            "es-ES": "Temática de nieve y hielo",
+            "it-IT": "Tema nevoso/ghiacciato",
+            "nl-NL": "Sneeuw en IJs Thema",
+            "sv-SE": "Snö- och istema",
+            "ko-KR": "눈과 얼음 테마",
+            "zh-CN": "冰雪主题区",
+            "zh-TW": "冰雪主題區",
+            "pt-BR": "Temática de Neve e Gelo"
+        }
+    }
+}

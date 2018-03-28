@@ -1,0 +1,25 @@
+{
+    "id": "rct2.ww.wbrick13",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0913|WBRICK13|5B267E77",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "isAllowedOnSlope": true,
+        "height": 1,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WBRICK13.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Red Brick Wall Piece 13",
+            "fr-FR": "Pan de mur de brique rouge 13",
+            "de-DE": "Backstein Wand-Bauteil 13",
+            "es-ES": "Pieza de pared de ladrillo rojo 13",
+            "it-IT": "Pezzo di muro di mattoni rossi 13",
+            "nl-NL": "Stuk Muur van Rode baksteen 13",
+            "sv-SE": "Röd tegelväggdel 13"
+        }
+    }
+}

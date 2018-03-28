@@ -1,0 +1,29 @@
+{
+    "id": "rct2.wrw",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WRW     |13C8B592",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 2,
+        "price": 50,
+        "sceneryGroup": "SCGFENCE"
+    },
+    "images": ["$RCT2:OBJDATA/WRW.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Roman Wall",
+            "fr-FR": "Mur romain",
+            "de-DE": "Römische Wand",
+            "es-ES": "Pared romana",
+            "it-IT": "Mura romane",
+            "nl-NL": "Romeinse Muur",
+            "sv-SE": "Romansk mur",
+            "ko-KR": "로마식 벽",
+            "zh-CN": "罗马墙",
+            "zh-TW": "羅馬牆",
+            "pt-BR": "Muro Romano"
+        }
+    }
+}

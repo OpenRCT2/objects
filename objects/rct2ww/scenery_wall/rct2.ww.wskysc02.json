@@ -1,0 +1,25 @@
+{
+    "id": "rct2.ww.wskysc02",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0613|WSKYSC02|0497986F",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WSKYSC02.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Skyscaper Metal Set 2 Wall Piece",
+            "fr-FR": "Pan de mur d'élément de gratte-ciel 2",
+            "de-DE": "Metallwolkenkratzer Set 2 - Wand-Bauteil",
+            "es-ES": "Pieza de pared del set de metal 2 del rascacielos",
+            "it-IT": "Pezzo di parete di grattacielo metallico, gruppo 2",
+            "nl-NL": "Metaal Set 2 Stuk Muur voor Wolkenkrabber",
+            "sv-SE": "Väggdel till metallskrapa 2",
+            "zh-CN": "摩天大楼金属合金设定二面墙"
+        }
+    }
+}

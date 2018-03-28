@@ -1,0 +1,34 @@
+{
+    "id": "rct2.ww.sbskys12",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0611|SBSKYS12|742C49C9",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 30,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/SBSKYS12.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Skyscaper Convex Piece",
+            "fr-FR": "Pièce convexe de gratte-ciel",
+            "de-DE": "Wolkenkratzer - Konvexes Bauteil",
+            "es-ES": "Pieza convexa de rascacielos",
+            "it-IT": "Pezzo convesso di grattacielo",
+            "nl-NL": "Convex stuk voor Wolkenkrabber",
+            "sv-SE": "Konvex del till skyskrapa",
+            "zh-CN": "摩天大楼凸面体一片"
+        }
+    }
+}

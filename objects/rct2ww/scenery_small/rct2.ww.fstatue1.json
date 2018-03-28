@@ -1,0 +1,29 @@
+{
+    "id": "rct2.ww.fstatue1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0B11|FSTATUE1|81ED5BEB",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 96,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/FSTATUE1.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Fixed Statue",
+            "fr-FR": "Statue réparée",
+            "de-DE": "Reparierte Statue",
+            "es-ES": "Estatua arreglada",
+            "it-IT": "Statua riparata",
+            "nl-NL": "Gerepareerd Beeld",
+            "sv-SE": "Hel staty"
+        }
+    }
+}

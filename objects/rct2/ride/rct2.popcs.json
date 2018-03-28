@@ -1,0 +1,47 @@
+{
+    "id": "rct2.popcs",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|POPCS   |36E12446",
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": "popcorn",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/POPCS.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Popcorn Stall",
+            "fr-FR": "Popcorn",
+            "de-DE": "Popcornstand",
+            "es-ES": "Puesto de palomitas",
+            "it-IT": "Chiosco dei pop-corn",
+            "nl-NL": "Kraampje met Popcorn",
+            "sv-SE": "Popcornstånd",
+            "ko-KR": "가게",
+            "zh-CN": "爆米花店",
+            "zh-TW": "爆米花店",
+            "pt-BR": "Barraca de Pipoca"
+        },
+        "description": {
+            "en-GB": "A stall selling giant buckets of popcorn",
+            "fr-FR": "Boutique vendant de grands pots de popcorn",
+            "de-DE": "Ein Stand, an dem riesige Popcorneimer verkauft werden",
+            "es-ES": "Un puesto que vende gigantes cubos de palomitas",
+            "it-IT": "Un chiosco che vende cesti giganti di pop-corn",
+            "nl-NL": "Een kraampje dat gigantische emmers popcorn verkoopt",
+            "sv-SE": "Ett stånd som säljer jättebägare med popcorn",
+            "ko-KR": "팝콘을 파는 건물",
+            "zh-CN": "卖大桶爆米花的店",
+            "zh-TW": "賣大桶爆米花的店",
+            "pt-BR": "Uma barraca vendendo baldes gigantes de pipoca"
+        }
+    }
+}

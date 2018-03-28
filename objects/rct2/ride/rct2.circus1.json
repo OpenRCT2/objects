@@ -1,0 +1,165 @@
+{
+    "id": "rct2.circus1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|CIRCUS1 |2BCEECE3",
+    "objectType": "ride",
+    "properties": {
+        "type": "circus",
+        "category": "gentle",
+        "tabScale": 0.5,
+        "hasShelter": true,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["bright_red", "yellow", "black"]
+            ],
+            [
+                ["light_purple", "white", "black"]
+            ],
+            [
+                ["bordeaux_red", "light_orange", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "mass": 3000,
+            "numSeats": 30,
+            "seatsInPairs": false,
+            "spriteWidth": 55,
+            "spriteHeightNegative": 48,
+            "spriteHeightPositive": 28,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "numSegments": 0,
+            "loadingWaypoints": [
+                [
+                    [40, 40],
+                    [-40, 40],
+                    [-36, 0]
+                ],
+                [
+                    [-40, -40],
+                    [-36, 0],
+                    [-36, 0]
+                ],
+                [
+                    [-36, 0],
+                    [-36, 0],
+                    [-36, 0]
+                ],
+                [
+                    [-40, 40],
+                    [-36, 0],
+                    [-36, 0]
+                ],
+                [
+                    [40, 40],
+                    [0, 36],
+                    [0, 36]
+                ],
+                [
+                    [40, -40],
+                    [40, 40],
+                    [0, 36]
+                ],
+                [
+                    [-40, 40],
+                    [0, 36],
+                    [0, 36]
+                ],
+                [
+                    [0, 36],
+                    [0, 36],
+                    [0, 36]
+                ],
+                [
+                    [36, 0],
+                    [36, 0],
+                    [36, 0]
+                ],
+                [
+                    [40, -40],
+                    [36, 0],
+                    [36, 0]
+                ],
+                [
+                    [-40, -40],
+                    [40, -40],
+                    [36, 0]
+                ],
+                [
+                    [40, 40],
+                    [36, 0],
+                    [36, 0]
+                ],
+                [
+                    [40, -40],
+                    [0, -36],
+                    [0, -36]
+                ],
+                [
+                    [0, -36],
+                    [0, -36],
+                    [0, -36]
+                ],
+                [
+                    [-40, -40],
+                    [0, -36],
+                    [0, -36]
+                ],
+                [
+                    [-40, 40],
+                    [-40, -40],
+                    [0, -36]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/CIRCUS1.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Circus",
+            "fr-FR": "Cirque",
+            "de-DE": "Zirkus",
+            "es-ES": "Circo",
+            "it-IT": "Circo",
+            "sv-SE": "Cirkus",
+            "ko-KR": "서커스",
+            "zh-CN": "马戏团",
+            "zh-TW": "馬戲團",
+            "pt-BR": "Circo"
+        },
+        "description": {
+            "en-GB": "Circus animal show inside a big-top tent",
+            "fr-FR": "Grand chapiteau dans lequel se produit un spectacle d'animaux",
+            "de-DE": "Zirkustiershow in einem großen Zelt",
+            "es-ES": "Show de animales de circo bajo una gran carpa",
+            "it-IT": "Spettacolo circense con animali tenuto all'interno di una tenda molto alta",
+            "nl-NL": "Een dierennummer in een circustent",
+            "sv-SE": "Cirkusdjurföreställning inuti ett stort kupoltält",
+            "ko-KR": "큰 천막 안에서 동물들의 서커스를 보여주는 곳",
+            "zh-CN": "马戏团的动物在大帐篷里表演节目",
+            "zh-TW": "馬戲團的動物在大帳篷裡表演節目",
+            "pt-BR": "Show circense de animais dentro de uma enorme barraca"
+        },
+        "capacity": {
+            "en-GB": "30 guests",
+            "fr-FR": "30 spectateurs",
+            "de-DE": "30 Besucher",
+            "es-ES": "30 visitantes",
+            "it-IT": "30 spettatori",
+            "nl-NL": "30 bezoekers",
+            "sv-SE": "30 besökare",
+            "ko-KR": "정원 30",
+            "zh-CN": "30位客人",
+            "zh-TW": "30位客人",
+            "pt-BR": "30 visitantes"
+        }
+    }
+}

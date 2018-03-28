@@ -1,0 +1,113 @@
+{
+    "id": "rct2.helicar",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|HELICAR |A4EBEE6C",
+    "objectType": "ride",
+    "properties": {
+        "type": "mini_helicopters",
+        "category": "gentle",
+        "hasShelter": true,
+        "RIDE_ENTRY_FLAG_18": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "carColours": [
+            [
+                ["light_blue", "yellow", "black"]
+            ],
+            [
+                ["bright_green", "white", "black"]
+            ],
+            [
+                ["bright_red", "white", "black"]
+            ],
+            [
+                ["yellow", "bright_red", "black"]
+            ],
+            [
+                ["light_purple", "bright_red", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 148172,
+                "mass": 270,
+                "numSeats": 2,
+                "animation": 7,
+                "numSeatRows": 1,
+                "poweredAcceleration": 40,
+                "poweredMaxSpeed": 5,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION": true,
+                "loadingPositions": [3, -3]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "poweredAcceleration": 40,
+                "poweredMaxSpeed": 5,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/HELICAR.DAT[0..866]"],
+    "strings": {
+        "name": {
+            "en-GB": "Mini Helicopters",
+            "fr-FR": "Mini hélicoptère",
+            "de-DE": "Minihubschrauber",
+            "es-ES": "Mini Helicópteros",
+            "it-IT": "Mini-elicotteri",
+            "nl-NL": "Mini-Helicopters",
+            "sv-SE": "Minihelikoptrar",
+            "ko-KR": "미니 헬리콥터",
+            "zh-CN": "矿坑升降机",
+            "zh-TW": "礦坑升降機",
+            "pt-BR": "Mini-Helicópteros"
+        },
+        "description": {
+            "en-GB": "Powered helicopter shaped cars running on a steel track, controlled by the pedalling of the riders",
+            "en-US": "Powered helicopter shaped cars running on a steel track, controlled by the pedaling of the riders",
+            "fr-FR": "Installés dans des voitures en forme d'hélicoptère, les passagers parcourent une voie métallique en pédalant pour avancer",
+            "de-DE": "Helikopterförmige Wagen fahren auf einer Stahlstrecke und werden von den Pedaltritten der Fahrer angetrieben",
+            "es-ES": "Vagones con forma de helicópteros corren por una vía de acero controlados por los pedales de los pasajeros",
+            "it-IT": "Carrozze a motore a forma di elicotteri corrono lungo un tracciato d'acciaio spinte dalle pedalate dei passeggeri",
+            "nl-NL": "Elektrische wagentjes in de vorm van een helikopter gaan over een stalen baan, en worden bestuurd door het pedaleren van de bezoekers",
+            "sv-SE": "Motordrivna helikopterformade vagnar kör på ett stålspår och styrs med pedaler av passagerarna",
+            "ko-KR": "승객이 직접 페달을 구르며 철제 트랙을 달리는 헬리콥터모양의 차",
+            "zh-CN": "具动力的升降机外形列车在钢制轨道上运行由乘客的踏板控制速度",
+            "zh-TW": "具動力的升降機外形列車在鋼製軌道上運行由乘客的踏板控制速度",
+            "pt-BR": "Vagões em forma de helicópteros correm numa pista de aço, controlados pelas pedaladas dos passageiros"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por vagón",
+            "it-IT": "2 passeggeri a carrozza",
+            "nl-NL": "2 passagiers per wagentje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량 정원 2명",
+            "zh-CN": "2 位乘客/每个车厢",
+            "zh-TW": "2 位乘客/每個車廂",
+            "pt-BR": "2 passageiros por vagão"
+        }
+    }
+}

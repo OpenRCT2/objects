@@ -1,0 +1,80 @@
+{
+    "id": "rct2.ww.gorilla",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0210|GORILLA |E8224108",
+    "objectType": "ride",
+    "properties": {
+        "type": "suspended_swinging_rc",
+        "category": "rollercoaster",
+        "maxCarsPerTrain": 8,
+        "carColours": [
+            [
+                ["bright_red", "saturated_red", "yellow"]
+            ],
+            [
+                ["dark_green", "dark_purple", "white"]
+            ],
+            [
+                ["white", "grey", "bright_red"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 287628,
+            "mass": 950,
+            "tabOffset": -22,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 4,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "diagonalSlopes": true,
+                "restraintAnimation": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_SWINGING": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "VEHICLE_ENTRY_FLAG_21": true,
+            "loadingPositions": [4, 6, -6, -4]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/GORILLA.DAT[0..4622]"],
+    "strings": {
+        "name": {
+            "en-GB": "Gorilla Ride",
+            "fr-FR": "Gorille",
+            "de-DE": "Gorillabahn",
+            "es-ES": "Atracción Gorila",
+            "it-IT": "I gorilla",
+            "nl-NL": "Gorilla-Attractie",
+            "sv-SE": "Gorillabana",
+            "zh-CN": "大猩猩游乐设施"
+        },
+        "description": {
+            "en-GB": "Suspended roller coaster train consisting of gorilla-shaped cars able to swing freely as the train goes around corners",
+            "fr-FR": "Train de montagnes russes suspendu constitué de voitures en forme de gorille qui se balancent librement dans les virages",
+            "de-DE": "Aufgehängter Achterbahnzug, dessen gorillaförmige Wagen frei schwingen können, wenn der Zug in die Kurven geht",
+            "es-ES": "Tren en suspensión consistentes en vagones con forma de gorila capaces de balancearse con libertad al tomar las esquinas",
+            "it-IT": "Ottovolante sospeso con carrozze a forma di gorilla che possono oscillare liberamente quando percorrono le curve",
+            "nl-NL": "Hangende achtbaan bestaand uit gorillawagentjes die vrij kunnen draaien als de trein door de bochten gaat",
+            "sv-SE": "Berg- och dalbana med upphängda, gorillaformade vagnar som svänger fritt i kurvorna",
+            "zh-CN": "由大猩猩外型车辆组成的悬挂式云霄飞车列车在转弯处自由摇荡运行"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "zh-CN": "每辆车限乘4人"
+        }
+    }
+}

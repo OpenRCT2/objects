@@ -1,0 +1,23 @@
+{
+    "id": "rct2.ww.wmayan23",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31C11|WMAYAN23|170BAFFE",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 24,
+        "shape": "4/4+D",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WMAYAN23.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Lost City Wall Corner Piece"
+        }
+    }
+}

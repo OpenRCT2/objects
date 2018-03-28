@@ -1,0 +1,43 @@
+{
+    "id": "rct2.tt.prdyacht",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA22|PRDYACHT|0941A3AD",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 136,
+        "removalPrice": -118,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "hasPrimaryColour": true,
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 56,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 56,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/PRDYACHT.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Period Sailing Yacht",
+            "fr-FR": "Bateau de plaisance d'époque",
+            "de-DE": "Antike Segelyacht",
+            "es-ES": "Punto de regata",
+            "it-IT": "Yacht in navigazione ricorrente",
+            "nl-NL": "Periode zeiljacht",
+            "sv-SE": "Tidsenlig yacht",
+            "ko-KR": "시대 항해 요트",
+            "zh-TW": "區間快艇",
+            "pt-BR": "Iate de Época"
+        }
+    }
+}

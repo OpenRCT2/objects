@@ -1,0 +1,106 @@
+{
+    "id": "rct2.rcr",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|RCR     |14407591",
+    "objectType": "ride",
+    "properties": {
+        "type": "car_ride",
+        "category": "gentle",
+        "RIDE_ENTRY_FLAG_18": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "ratingMultipler": {
+            "excitement": 3
+        },
+        "carColours": [
+            [
+                ["bright_green", "light_orange", "black"]
+            ],
+            [
+                ["bright_red", "yellow", "black"]
+            ],
+            [
+                ["light_blue", "bright_red", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 139456,
+                "mass": 270,
+                "numSeats": 1,
+                "numSeatRows": 1,
+                "poweredAcceleration": 110,
+                "poweredMaxSpeed": 9,
+                "drawOrder": 7,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "loadingPositions": [0]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "poweredAcceleration": 110,
+                "poweredMaxSpeed": 9,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/RCR.DAT[0..242]"],
+    "strings": {
+        "name": {
+            "en-GB": "Racing Cars",
+            "fr-FR": "Voitures de course",
+            "de-DE": "Rennwagen",
+            "es-ES": "Coches de Carreras",
+            "it-IT": "Auto da corsa",
+            "nl-NL": "Raceautootjes",
+            "sv-SE": "Racerbilar",
+            "ko-KR": "레이싱 카",
+            "zh-CN": "赛车",
+            "zh-TW": "賽車",
+            "pt-BR": "Carros de Corrida"
+        },
+        "description": {
+            "en-GB": "Powered vehicles in the shape of racing cars",
+            "fr-FR": "Véhicules à propulsion en forme de voitures de course",
+            "de-DE": "Angetriebene Fahrzeuge in Form von Rennwagen",
+            "es-ES": "Vehículos autopropulsados con forma de coches de carreras",
+            "it-IT": "Veicoli a motore che ricordano le auto da corsa",
+            "nl-NL": "Elektrische voertuigen in de vorm van Raceautootjes",
+            "sv-SE": "Motordrivna fordon i form av racerbilar",
+            "ko-KR": "레이싱 카를 본 떠 만든 자동차",
+            "zh-CN": "赛车外形具动力机械的车辆",
+            "zh-TW": "賽車外形具動力機械的車輛",
+            "pt-BR": "Veículos motorizados na forma de carros de corrida"
+        },
+        "capacity": {
+            "en-GB": "1 passenger per car",
+            "fr-FR": "1 passager par voiture",
+            "de-DE": "1 Passagier pro Wagen",
+            "es-ES": "1 pasajero por vehículo",
+            "it-IT": "1 passeggero a carrozza",
+            "nl-NL": "1 passagier per wagentje",
+            "sv-SE": "1 passagerare per vagn/bil",
+            "ko-KR": "차량 정원 1명",
+            "zh-CN": "1 位乘客/每个车厢",
+            "zh-TW": "1 位乘客/每個車廂",
+            "pt-BR": "1 passageiro por carro"
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "id": "rct2.tt.rivrstyx",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F820|RIVRSTYX|E701FD53",
+    "objectType": "ride",
+    "properties": {
+        "type": "river_rafts",
+        "category": [
+            "water",
+            "transport"
+        ],
+        "RIDE_ENTRY_FLAG_18": true,
+        "carColours": [
+            [
+                ["light_brown", "white", "white"]
+            ],
+            [
+                ["light_brown", "yellow", "bright_red"]
+            ],
+            [
+                ["light_brown", "dark_green", "dark_green"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 313776,
+            "mass": 950,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "poweredAcceleration": 255,
+            "poweredMaxSpeed": 5,
+            "drawOrder": 9,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "VEHICLE_ENTRY_FLAG_WATER_RIDE": true,
+            "loadingPositions": [6, 4, -6, -4]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/RIVRSTYX.DAT[0..98]"],
+    "strings": {
+        "name": {
+            "en-GB": "River Styx",
+            "fr-FR": "Le Styx",
+            "de-DE": "Styx",
+            "es-ES": "Río Styx",
+            "it-IT": "Lo Stige",
+            "nl-NL": "Rivier Styx",
+            "sv-SE": "Floden Styx",
+            "ko-KR": "리버 스틱스",
+            "zh-TW": "冥河",
+            "pt-BR": "Rio Styx"
+        },
+        "description": {
+            "en-GB": "Raft-shaped boats gently meander around a river track",
+            "fr-FR": "Des bateaux en forme de radeau descendent paisiblement une voie navigable",
+            "de-DE": "Wildwasserboote gleiten einen Flusslauf entlang.",
+            "es-ES": "Botes con forma de balsa que serpentean tranquilamente por un circuito de río.",
+            "it-IT": "Barche a forma di zattere si muovono dolcemente lungo una pista d'acqua.",
+            "nl-NL": "Bootjes in de vorm van een vlot kronkelen langs een rivierbaan.",
+            "sv-SE": "Flottliknande båtar vaggar lugnt fram längs ett flodspår.",
+            "ko-KR": "수로를 따라 흐르는 뗏목보트",
+            "zh-TW": "橡皮艇形的船在水道上曲折前進",
+            "pt-BR": "Barcos em forma de balsa vagueiam gentilmente por uma pista de rio"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per raft",
+            "fr-FR": "4 passagers par radeau",
+            "de-DE": "4 Fahrgäste pro Boot",
+            "es-ES": "4 pasajeros por coche",
+            "it-IT": "4 passeggeri per zattera",
+            "nl-NL": "4 passagiers per vlot",
+            "sv-SE": "4 passagerare per flotte",
+            "ko-KR": "보트 정원 4명",
+            "zh-TW": "4 位乘客 /每艘橡皮艇",
+            "pt-BR": "4 passageiros por balsa"
+        }
+    }
+}

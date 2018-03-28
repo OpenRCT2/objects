@@ -1,0 +1,27 @@
+{
+    "id": "rct2.ww.1x1didge",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0E11|1X1DIDGE|46CB7427",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 168,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/1X1DIDGE.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Digeridoo",
+            "de-DE": "Didjeridu",
+            "es-ES": "Digeridu",
+            "nl-NL": "Didgeridoo",
+            "zh-CN": "澳洲民俗乐器"
+        }
+    }
+}

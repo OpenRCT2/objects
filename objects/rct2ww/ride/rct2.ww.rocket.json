@@ -1,0 +1,81 @@
+{
+    "id": "rct2.ww.rocket",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0810|ROCKET  |D16519F9",
+    "objectType": "ride",
+    "properties": {
+        "type": "suspended_swinging_rc",
+        "category": "rollercoaster",
+        "tabScale": 0.5,
+        "maxCarsPerTrain": 8,
+        "carColours": [
+            [
+                ["bright_red", "saturated_red", "yellow"]
+            ],
+            [
+                ["dark_green", "dark_purple", "white"]
+            ],
+            [
+                ["white", "grey", "bright_red"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 418368,
+            "mass": 950,
+            "tabOffset": -22,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 4,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "diagonalSlopes": true,
+                "restraintAnimation": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_SWINGING": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "VEHICLE_ENTRY_FLAG_21": true,
+            "loadingPositions": [4, 6, -6, -4]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/ROCKET.DAT[0..4622]"],
+    "strings": {
+        "name": {
+            "en-GB": "1950's Rocket Ride",
+            "fr-FR": "Fusée 1950",
+            "de-DE": "50er Jahre Raketenbahn",
+            "es-ES": "Atracción Cohete de 1950",
+            "it-IT": "Razzo del 1950",
+            "nl-NL": "Attractie Raketten uit jaren '50",
+            "sv-SE": "50-talsraket",
+            "zh-CN": "1950年代火箭游乐设施"
+        },
+        "description": {
+            "en-GB": "Inverted roller coaster trains are accelerated out of the station to travel up a vertical spike of track, then reverse back through the station to travel backwards up another vertical spike of track",
+            "fr-FR": "Les trains de montagnes russes inversées sont propulsés hors de la station puis, après avoir atteint une pointe verticale, redescendent vers la station et entament une nouvelle montée verticale en sens inverse",
+            "de-DE": "Umgekehrte Achterbahnzüge werden aus der Station heraus auf einer vertikalen Strecke beschleunigt und kommen zurück zur Station, von wo sie rückwärts eine andere vertikale Strecke hinaufgeschossen werden",
+            "es-ES": "Trenes invertidos que aceleran al salir de la estación para subir por un tramo vertical de la vía, luego retroceden de vuelta a través de la estación para viajar hacia atrás y subir por otra vía vertical",
+            "it-IT": "Le carrozze sono invertite ed escono dalla stazione per raggiungere un tratto verticale del percorso, salgono e invertono la direzione per tornare alla stazione scendendo lungo un altro tratto verticale",
+            "nl-NL": "Achtbaantreintjes worden achterwaarts uit het station gelanceerd en gaan een verticaal stuk baan omhoog, en gaan dan weer terug door het station en een ander verticaal stuk baan omhoog",
+            "sv-SE": "Berg- och dalbanevagnar accelererar först ut från stationen och färdas snabbt uppför en vertikal bana för att sedan snabbt backa genom stationen och färdas uppför en ny vertikal bana",
+            "zh-CN": "倒悬的云霄飞车被加速推出车站到垂直轨道顶端,再翻转回头到车站的另一端垂直轨道顶端"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "zh-CN": "每车限乘4人"
+        }
+    }
+}

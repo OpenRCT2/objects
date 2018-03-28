@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.rbrick04",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0911|RBRICK04|DEA54156",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RBRICK04.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Red Brick Flat Roof Corner",
+            "fr-FR": "Coin de toit plat de brique rouge",
+            "de-DE": "Backstein Flachdachecke",
+            "es-ES": "Esquina de tejado plano de ladrillo rojo",
+            "it-IT": "Angolo di tetto piatto di mattoni rossi",
+            "nl-NL": "Hoekstuk voor platdak van Rode Baksteen",
+            "sv-SE": "Platt röd hörntakdel"
+        }
+    }
+}

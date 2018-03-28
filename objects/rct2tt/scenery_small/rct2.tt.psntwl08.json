@@ -1,0 +1,36 @@
+{
+    "id": "rct2.tt.psntwl08",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F821|PSNTWL08|316E91B6",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/PSNTWL08.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Dark Age Village Lower Corner Piece",
+            "fr-FR": "Section basse de virage du village médiéval",
+            "de-DE": "Unteres Eckstück Mittelalterliches Dorf",
+            "es-ES": "Sección inferior de esquina de pueblo medieval",
+            "it-IT": "Tratto di curva inferiore del villaggio dell'Età Oscura",
+            "nl-NL": "Benedenstuk bocht Middeleeuws Dorp",
+            "sv-SE": "Nedre hörndel, medeltida by",
+            "ko-KR": "암흑시대 마을 아래 코너조각",
+            "zh-TW": "黑暗時代矮牆角塊",
+            "pt-BR": "Peça Inferior de Canto de Vila da Idade Média"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": "rct2.tt.jailxx19",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA23|JAILXX19|B7DDB24C",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 16,
+        "price": 70,
+        "sceneryGroup": "SCGWALLS"
+    },
+    "images": ["$RCT2:OBJDATA/JAILXX19.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Prison Fence",
+            "fr-FR": "Clôture de prison",
+            "de-DE": "Gefängniszaun",
+            "es-ES": "Valla de prisión",
+            "it-IT": "Recinto della prigione",
+            "nl-NL": "Hek Gevangenis",
+            "sv-SE": "Stängsel, fängelse",
+            "ko-KR": "감옥 울타리",
+            "zh-TW": "監獄柵欄",
+            "pt-BR": "Cerca de Prisão"
+        }
+    }
+}

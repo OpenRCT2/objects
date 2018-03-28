@@ -1,0 +1,89 @@
+{
+    "id": "rct2.ding1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|DING1   |7EB3E178",
+    "objectType": "ride",
+    "properties": {
+        "type": "dinghy_slide",
+        "category": [
+            "water",
+            "rollercoaster"
+        ],
+        "RIDE_ENTRY_FLAG_18": true,
+        "carColours": [
+            [
+                ["yellow", "bordeaux_red", "black"]
+            ],
+            [
+                ["bright_red", "white", "black"]
+            ],
+            [
+                ["white", "light_blue", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 200468,
+            "mass": 300,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "frictionSoundId": 32,
+            "soundRange": 0,
+            "drawOrder": 7,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true
+            },
+            "VEHICLE_ENTRY_FLAG_NO_UPSTOP_BOBSLEIGH": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_SWINGING": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "VEHICLE_ENTRY_FLAG_SLIDE_SWING": true,
+            "loadingPositions": [3, -3]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/DING1.DAT[0..2578]"],
+    "strings": {
+        "name": {
+            "en-GB": "Dinghy Slide",
+            "fr-FR": "Canotube",
+            "de-DE": "Schlauchboot-Gleitbahn",
+            "es-ES": "Botes deslizantes",
+            "it-IT": "Scivolo con canotto",
+            "nl-NL": "Dinghy Baan",
+            "sv-SE": "Jollebana",
+            "ko-KR": "고무보트 슬라이드",
+            "zh-CN": "滑行小船",
+            "zh-TW": "滑行小船",
+            "pt-BR": "Descida de Barcos"
+        },
+        "description": {
+            "en-GB": "Riders travel in inflatable dinghies down a twisting semi-circular or completely enclosed tube track",
+            "fr-FR": "Les passagers descendent un tube semi-circulaire ou entièrement fermé à bord d'un canot pneumatique",
+            "de-DE": "Die Passagiere fahren in Schlauchbooten eine sich windende, halbkreisförmige oder komplett in sich geschlossene Rohrstrecke herunter",
+            "es-ES": "Los pasajeros viajan en botes hinchables por tubos semicirculares o totalmente cerrados",
+            "it-IT": "I passeggeri viaggiano su canotti gonfiabili lungo un percorso semi-circolare pieno di curve o lungo un percorso a tubo completamente chiuso",
+            "nl-NL": "Bezoekers zoeven omlaag in opblaasbare dinghies over een bochtige halfronde of geheel gesloten buis",
+            "sv-SE": "Passagerarna åker i uppblåsbara jollar ner för ett skruvat halvrunt eller helt slutet rörspår",
+            "ko-KR": "고무보트를 타고 도는 폐쇄되거나 반 폐쇄된 코스",
+            "zh-CN": "乘客在膨胀的小船滑下到半圆型或完整封闭管道内滑行",
+            "zh-TW": "乘客在膨脹的小船滑下到半圓型或完整封閉管道內滑行",
+            "pt-BR": "Os passageiros viajam em barcos infláveis numa pista sinuosa semicircular ou de tubo fechado"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per dinghy",
+            "fr-FR": "2 passagers par canot",
+            "de-DE": "2 Fahrgäste pro Schlauchboot",
+            "es-ES": "2 pasajeros por bote",
+            "it-IT": "2 passeggeri per canotto",
+            "nl-NL": "2 passagiers per dinghy",
+            "sv-SE": "2 passagerare per livbåt",
+            "ko-KR": "보트당 정원 2명",
+            "zh-CN": "2 位乘客 /每艘小船",
+            "zh-TW": "2 位乘客 /每艘小船",
+            "pt-BR": "2 passageiros por barco"
+        }
+    }
+}

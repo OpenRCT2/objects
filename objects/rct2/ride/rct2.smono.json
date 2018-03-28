@@ -1,0 +1,89 @@
+{
+    "id": "rct2.smono",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SMONO   |31FC6615",
+    "objectType": "ride",
+    "properties": {
+        "type": "suspended_monorail",
+        "category": "transport",
+        "tabScale": 0.5,
+        "hasShelter": true,
+        "RIDE_ENTRY_FLAG_18": true,
+        "maxCarsPerTrain": 4,
+        "carColours": [
+            [
+                ["white", "bright_red", "black"]
+            ],
+            [
+                ["yellow", "white", "black"]
+            ],
+            [
+                ["bordeaux_red", "light_brown", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 331208,
+            "mass": 1100,
+            "tabOffset": -25,
+            "numSeats": 8,
+            "numSeatRows": 4,
+            "frictionSoundId": 2,
+            "poweredAcceleration": 110,
+            "poweredMaxSpeed": 27,
+            "drawOrder": 3,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "diagonalSlopes": true,
+                "restraintAnimation": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "loadingPositions": [-15, -12, 15, 12, -15, -12, 15, 12]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/SMONO.DAT[0..702]"],
+    "strings": {
+        "name": {
+            "en-GB": "Suspended Monorail Trains",
+            "fr-FR": "Train monorail suspendu",
+            "de-DE": "Eingleisige Hängezüge",
+            "es-ES": "Trenes Monorrail Suspendidos",
+            "it-IT": "Treni monorotaia sospesi",
+            "nl-NL": "Hangende Treintjes",
+            "sv-SE": "Upphängda enrälståg",
+            "ko-KR": "서스펜디드 모노레일",
+            "zh-CN": "悬挂式单轨铁路列车",
+            "zh-TW": "懸掛式單軌鐵路列車",
+            "pt-BR": "Trens Monotrilho Suspenso"
+        },
+        "description": {
+            "en-GB": "Large capacity monorail train cars",
+            "fr-FR": "Grande voiture de train monorail",
+            "de-DE": "Einschienenzug-Wagen mit großem Fassungsvermögen",
+            "es-ES": "Vagones de monoraíl de gran capacidad",
+            "it-IT": "Grandi carrozze di treni monorotaia",
+            "nl-NL": "Monorail wagentjes met grote capaciteit",
+            "sv-SE": "Högkapacitetsvagnar till bana av enspårstyp",
+            "ko-KR": "크기가 큰 모노레일 열차",
+            "zh-CN": "大容量的单轨铁路车辆",
+            "zh-TW": "大容量的單軌鐵路車輛",
+            "pt-BR": "Vagões de trem de monotrilho de grande capacidade"
+        },
+        "capacity": {
+            "en-GB": "8 passengers per car",
+            "fr-FR": "8 passagers par voiture",
+            "de-DE": "8 Fahrgäste pro Wagen",
+            "es-ES": "8 pasajeros por vagón",
+            "it-IT": "8 passeggeri a carrozza",
+            "nl-NL": "8 passagiers per wagentje",
+            "sv-SE": "8 passagerare per vagn",
+            "ko-KR": "차량 정원 8명",
+            "zh-CN": "8 位乘客/每个车厢",
+            "zh-TW": "8 位乘客/每個車廂",
+            "pt-BR": "8 passageiros por vagão"
+        }
+    }
+}

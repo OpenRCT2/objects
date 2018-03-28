@@ -1,0 +1,30 @@
+{
+    "id": "rct2.tic",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TIC     |A400F7DE",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 30,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 136,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TIC.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Incense Cedar Tree",
+            "fr-FR": "Cèdre d'encens",
+            "de-DE": "Weihrauchzeder",
+            "es-ES": "Cedro de incienso",
+            "it-IT": "Cedro da incenso",
+            "nl-NL": "Geurige Cederboom",
+            "sv-SE": "Doftceder",
+            "ko-KR": "향내가 나는 향나무",
+            "zh-CN": "檀香杉树",
+            "zh-TW": "檀香杉樹",
+            "pt-BR": "Árvore Cedro-de-Incenso"
+        }
+    }
+}

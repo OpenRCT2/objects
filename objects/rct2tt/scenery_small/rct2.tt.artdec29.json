@@ -1,0 +1,37 @@
+{
+    "id": "rct2.tt.artdec29",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F921|ARTDEC29|8C0F3CB0",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": -6,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/ARTDEC29.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Art Deco Inverted Corner Section",
+            "fr-FR": "Section de virage inversé art déco",
+            "de-DE": "Art Déco umgedrehter Eckabschnitt",
+            "es-ES": "Sección de esquina inversa Art Decó",
+            "it-IT": "Sezione di curva invertita in art decò",
+            "nl-NL": "Omgekeerd Bochtstuk Art Deco",
+            "sv-SE": "Omvänd hörnsektion, art déco",
+            "ko-KR": "아르데코 반대 모서리 부분",
+            "zh-TW": "反向裝置藝術牆角區段",
+            "pt-BR": "Seção de Canto Invertido de Arte Déco"
+        }
+    }
+}

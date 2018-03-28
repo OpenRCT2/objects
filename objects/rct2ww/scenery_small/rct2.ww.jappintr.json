@@ -1,0 +1,32 @@
+{
+    "id": "rct2.ww.jappintr",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0011|JAPPINTR|9C761CE0",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 64,
+        "sceneryGroup": "SCGTREES",
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/JAPPINTR.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Japanese Pine Tree",
+            "fr-FR": "Pin du Japon",
+            "de-DE": "Japanische Kiefer",
+            "es-ES": "Pino japonés",
+            "it-IT": "Pino giapponese",
+            "nl-NL": "Japanse Pijnboom",
+            "sv-SE": "Japansk tall",
+            "zh-CN": "日本松树"
+        }
+    }
+}

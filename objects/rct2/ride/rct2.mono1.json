@@ -1,0 +1,140 @@
+{
+    "id": "rct2.mono1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|MONO1   |6DF225FF",
+    "objectType": "ride",
+    "properties": {
+        "type": "monorail",
+        "category": "transport",
+        "tabScale": 0.5,
+        "hasShelter": true,
+        "RIDE_ENTRY_FLAG_18": true,
+        "minCarsPerTrain": 2,
+        "maxCarsPerTrain": 8,
+        "headCars": 1,
+        "tailCars": 2,
+        "carColours": [
+            [
+                ["white", "bright_red", "dark_blue"]
+            ],
+            [
+                ["white", "yellow", "dark_purple"]
+            ],
+            [
+                ["bordeaux_red", "yellow", "black"]
+            ],
+            [
+                ["black", "bright_red", "dark_purple"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 313776,
+                "mass": 1100,
+                "tabOffset": 2,
+                "numSeats": 10,
+                "seatsInPairs": false,
+                "frictionSoundId": 2,
+                "poweredAcceleration": 180,
+                "poweredMaxSpeed": 44,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "loadingPositions": [10, -10, 8, -8, 10, -10, 8, -8, 10, -10]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 313776,
+                "mass": 1600,
+                "tabOffset": 2,
+                "numSeats": 5,
+                "seatsInPairs": false,
+                "frictionSoundId": 2,
+                "poweredAcceleration": 180,
+                "poweredMaxSpeed": 44,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "loadingPositions": [-10, -8, -10, -8, -10]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 313776,
+                "mass": 1600,
+                "tabOffset": 2,
+                "numSeats": 5,
+                "seatsInPairs": false,
+                "frictionSoundId": 2,
+                "poweredAcceleration": 180,
+                "poweredMaxSpeed": 44,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "loadingPositions": [10, 8, 10, 8, 10]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/MONO1.DAT[0..422]"],
+    "strings": {
+        "name": {
+            "en-GB": "Streamlined Monorail Trains",
+            "fr-FR": "Trains monorail aérodynamiques",
+            "de-DE": "Stromlinienf. Einschienenzüge",
+            "es-ES": "Tren Monorrail Aerodinámico",
+            "it-IT": "Treni monorotaia aerodinamici",
+            "nl-NL": "Gestroomlijnde Monorailtreinen",
+            "sv-SE": "Strömlinjetåg på enspårsskena",
+            "ko-KR": "모노레일",
+            "zh-CN": "现代化单轨列车",
+            "zh-TW": "現代化單軌列車",
+            "pt-BR": "Trens de Monotrilho"
+        },
+        "description": {
+            "en-GB": "Large capacity monorail trains with streamlined front and rear cars",
+            "fr-FR": "Trains monorail composés de voitures aérodynamiques à l'avant et à l'arrière",
+            "de-DE": "Große Einschienenzüge mit stromlinienförmigen Wagen vorne und hinten",
+            "es-ES": "Trenes monoraíl de gran capacidad con coches delateros y traseros aerodinámicos",
+            "it-IT": "Treni monorotaia dalla grande capienza, con carrozze alle estremità dalle forme aerodinamiche",
+            "nl-NL": "Monorailtreintjes met een gestroomlijnde voorkant en wagentjes aan de achterkant",
+            "sv-SE": "Högkapacitets enpårståg med vagnar med strömlinjeformad front och bak",
+            "ko-KR": "앞뒤로 좁은 모노레일을 타고 움직이는 넓은 열차",
+            "zh-CN": "前後列车为流线设计，具高载客量的单轨火车。",
+            "zh-TW": "前後列車為流線設計，具高載客量的單軌火車。",
+            "pt-BR": "Trens de Monotrilho de grande capacidade com carros frontais e traseiros alinhados"
+        },
+        "capacity": {
+            "en-GB": "5 or 10 passengers per car",
+            "fr-FR": "5 ou 10 passagers par voiture",
+            "de-DE": "5 oder 10 Fahrgäste pro Wagen",
+            "es-ES": "5 ó 10 pasajeros por vagón",
+            "it-IT": "5 o 10 passeggeri a carrozza",
+            "nl-NL": "5 of 10 passagiers per wagentje",
+            "sv-SE": "5 eller 10 passagerare per vagn",
+            "ko-KR": "차량 정원 5-10명",
+            "zh-CN": "5或10位乘客/每个车厢",
+            "zh-TW": "5或10位乘客/每個車廂",
+            "pt-BR": "5 ou 10 passageiros por carro"
+        }
+    }
+}

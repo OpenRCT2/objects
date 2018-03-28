@@ -1,0 +1,40 @@
+{
+    "id": "rct2.fire1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|FIRE1   |C2AE864A",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 40,
+        "removalPrice": -30,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 88,
+        "animationDelay": 1,
+        "animationMask": 31,
+        "numFrames": 32,
+        "shape": "1/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isAnimated": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]
+    },
+    "images": ["$RCT2:OBJDATA/FIRE1.DAT[0..131]"],
+    "strings": {
+        "name": {
+            "en-GB": "Flames",
+            "fr-FR": "Flammes",
+            "de-DE": "Flammen",
+            "es-ES": "Llamas",
+            "it-IT": "Fiamme",
+            "nl-NL": "Vlammen",
+            "sv-SE": "Lågor",
+            "ko-KR": "불꽃",
+            "zh-CN": "火焰",
+            "zh-TW": "火焰",
+            "pt-BR": "Chamas"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "rct2.pirflag",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|PIRFLAG |12998D0D",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 10,
+        "removalPrice": -7,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/PIRFLAG.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Pirate Flag",
+            "fr-FR": "Drapeau pirate",
+            "de-DE": "Piratenflagge",
+            "es-ES": "Bandera pirata",
+            "it-IT": "Bandiera dei pirati",
+            "nl-NL": "Piratenvlag",
+            "sv-SE": "Piratflagga",
+            "ko-KR": "해적선 깃발",
+            "zh-CN": "海盗旗",
+            "zh-TW": "海盜旗",
+            "pt-BR": "Bandeira Pirata"
+        }
+    }
+}

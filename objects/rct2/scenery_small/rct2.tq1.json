@@ -1,0 +1,32 @@
+{
+    "id": "rct2.tq1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TQ1     |FB9D5F2E",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TQ1.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "White Queen",
+            "fr-FR": "Reine blanche",
+            "de-DE": "Weiße Königin",
+            "es-ES": "Reina blanca",
+            "it-IT": "Regina bianca",
+            "nl-NL": "Witte Koningin",
+            "sv-SE": "Vit drottning",
+            "ko-KR": "화이트 퀸",
+            "zh-CN": "白棋皇合",
+            "zh-TW": "白棋皇合",
+            "pt-BR": "Rainha Branca"
+        }
+    }
+}

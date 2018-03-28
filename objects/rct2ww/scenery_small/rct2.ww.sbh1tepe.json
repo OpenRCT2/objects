@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.sbh1tepe",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0711|SBH1TEPE|314C1286",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 64,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/SBH1TEPE.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tee Pee",
+            "fr-FR": "Tipi",
+            "de-DE": "Indianerzelt",
+            "es-ES": "Tipi",
+            "it-IT": "Teepee",
+            "nl-NL": "Wigwam",
+            "sv-SE": "Tee-pee",
+            "zh-CN": "印第安人旅行皮革屋"
+        }
+    }
+}

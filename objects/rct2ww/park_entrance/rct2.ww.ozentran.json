@@ -1,0 +1,24 @@
+{
+    "id": "rct2.ww.ozentran",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0E18|OZENTRAN|D4C5B34C",
+    "objectType": "park_entrance",
+    "properties": {
+        "scrollingMode": 3,
+        "textHeight": 82
+    },
+    "images": ["$RCT2:OBJDATA/OZENTRAN.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Australasian Park Entrance",
+            "fr-FR": "Entrée du parc océanien",
+            "de-DE": "Australasischer Park-Eingang",
+            "es-ES": "Entrada al parque Austral",
+            "it-IT": "Ingresso del parco australiano",
+            "nl-NL": "Austraal-Aziatische Ingang pretpark",
+            "sv-SE": "Ingång till australiensisk park",
+            "zh-CN": "澳大拉西亚公园入口"
+        }
+    }
+}

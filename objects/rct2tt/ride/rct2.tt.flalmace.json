@@ -1,0 +1,169 @@
+{
+    "id": "rct2.tt.flalmace",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F820|FLALMACE|D18A4C96",
+    "objectType": "ride",
+    "properties": {
+        "type": "space_rings",
+        "category": "thrill",
+        "tabScale": 0.5,
+        "rotationMode": 1,
+        "carsPerFlatRide": 4,
+        "ratingMultipler": {
+            "excitement": 75,
+            "intensity": 75,
+            "nausea": 20
+        },
+        "carColours": [
+            [
+                ["light_blue", "yellow", "black"]
+            ],
+            [
+                ["dark_green", "yellow", "black"]
+            ],
+            [
+                ["bright_red", "white", "black"]
+            ],
+            [
+                ["black", "bright_red", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "mass": 1000,
+            "numSeats": 1,
+            "spriteWidth": 55,
+            "spriteHeightNegative": 48,
+            "spriteHeightPositive": 28,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "numSegments": 0,
+            "loadingWaypoints": [
+                [
+                    [40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, -40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [-40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, 40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, -40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [-40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, 40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, -40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [-40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, 40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, -40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [-40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, 40],
+                    [0, 0],
+                    [0, 0]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/FLALMACE.DAT[0..706]"],
+    "strings": {
+        "name": {
+            "en-GB": "Mace Ride",
+            "fr-FR": "Coup de massue",
+            "de-DE": "Streitkolben-Attraktion",
+            "es-ES": "Viaje de la maza",
+            "it-IT": "Corsa del martello",
+            "nl-NL": "Goedendag-attractie",
+            "sv-SE": "Spikklubba",
+            "ko-KR": "메이스 라이드",
+            "zh-TW": "硬頭錘遊樂設施",
+            "pt-BR": "Brinquedo de Maça"
+        },
+        "description": {
+            "en-GB": "Riders sit on a themed chair which is attached to a motor driven spinning arm.",
+            "fr-FR": "Les passagers sont assis sur un siège thématique attaché à un bras articulé motorisé.",
+            "de-DE": "Die Fahrgäste sitzen auf einem thematisch gestalteten Sessel, der an einem motorbetriebenen Dreharm befestigt ist.",
+            "es-ES": "Los usuarios se sientan en un asiento ambientado en la época que está unido a un brazo giratorio.",
+            "it-IT": "I passeggeri siedono su un sedile speciale, collegato a un braccio rotante controllato da un motore.",
+            "nl-NL": "Bezoekers zitten op een thematische stoel die bevestigd is aan een door een motor aangedreven arm.",
+            "sv-SE": "Passagerarna sitter på stolar fastsatta på en motordriven snurrande arm.",
+            "ko-KR": "모터로 회전하는 가로대에 부착된 테마 의자",
+            "zh-TW": "乘客乘坐在此主題的座椅上，座椅連接至以發動機驅動的旋轉手臂上。",
+            "pt-BR": "Os visitantes sentam numa cadeira temática que é presa a um braço giratório motorizado"
+        },
+        "capacity": {
+            "en-GB": "1 guest per chair",
+            "fr-FR": "1 visiteur par siège",
+            "de-DE": "1 Fahrgast pro Sessel",
+            "es-ES": "1 usuario por asiento",
+            "it-IT": "1 occupante per sedile",
+            "nl-NL": "1 gast per stoel",
+            "sv-SE": "1 passagerare per stol",
+            "ko-KR": "1인승",
+            "zh-TW": "每座限乘1人",
+            "pt-BR": "1 visitante por cadeira"
+        }
+    }
+}

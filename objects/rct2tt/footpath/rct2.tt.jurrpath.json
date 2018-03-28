@@ -1,0 +1,28 @@
+{
+    "id": "rct2.tt.jurrpath",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F725|JURRPATH|0C9E8775",
+    "objectType": "footpath",
+    "properties": {
+        "hasSupportImages": true,
+        "hasElevatedPathImages": true,
+        "supportType": "pole",
+        "scrollingMode": 0
+    },
+    "images": ["$RCT2:OBJDATA/JURRPATH.DAT[0..164]"],
+    "strings": {
+        "name": {
+            "en-GB": "Rocky FootPath",
+            "fr-FR": "Allée rocailleuse",
+            "de-DE": "Steiniger Fußweg",
+            "es-ES": "Sendero rocoso",
+            "it-IT": "Sentiero roccioso",
+            "nl-NL": "Rotsachtig voetpad",
+            "sv-SE": "Stenig gång",
+            "ko-KR": "자갈 보도",
+            "zh-TW": "石頭道路",
+            "pt-BR": "Trilha Rochosa"
+        }
+    }
+}

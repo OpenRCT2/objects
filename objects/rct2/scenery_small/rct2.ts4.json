@@ -1,0 +1,32 @@
+{
+    "id": "rct2.ts4",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TS4     |4E7C8DC7",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 6,
+        "removalPrice": 5,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 28,
+        "shape": "1/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TS4.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Ornamental Tree",
+            "fr-FR": "Arbre ornemental",
+            "de-DE": "Zierbaum",
+            "es-ES": "Árbol ornamental",
+            "it-IT": "Albero ornamentale",
+            "nl-NL": "Sierboom",
+            "sv-SE": "Dekorationsträd",
+            "ko-KR": "장식용 나무",
+            "zh-CN": "装饰用的树",
+            "zh-TW": "裝飾用的樹",
+            "pt-BR": "Árvore Ornamental"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "rct2.ww.wbambo15",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFC13|WBambo15|90843326",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 1,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WBAMBO15.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Bamboo Wall",
+            "fr-FR": "Cloison de bambou",
+            "de-DE": "Bambuswand",
+            "es-ES": "Pared de bambú",
+            "it-IT": "Parete di bambù",
+            "nl-NL": "Bamboemuur",
+            "sv-SE": "Bambumur",
+            "zh-CN": "竹墙"
+        }
+    }
+}

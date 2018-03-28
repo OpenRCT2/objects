@@ -1,0 +1,38 @@
+{
+    "id": "rct2.ww.1x2azt01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31C12|1X2AZT01|0FE6F391",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": -150,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 32,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 32,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/1X2AZT01.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Temple Wall Piece with Head",
+            "fr-FR": "?Pan de mur de temple avec tête",
+            "de-DE": "?Tempelwand-Bauteil mit Kopf",
+            "es-ES": "Pieza de pared de templo con cabeza",
+            "it-IT": "Pezzo di muro di tempio con testa",
+            "nl-NL": "Stuk Tempelmuur met hoofd",
+            "sv-SE": "Tempelväggdel med huvud"
+        }
+    }
+}

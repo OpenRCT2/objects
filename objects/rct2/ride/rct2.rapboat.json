@@ -1,0 +1,100 @@
+{
+    "id": "rct2.rapboat",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|RAPBOAT |2271B2DD",
+    "objectType": "ride",
+    "properties": {
+        "type": "river_rapids",
+        "category": [
+            "water",
+            "thrill"
+        ],
+        "playSplashSound": true,
+        "RIDE_ENTRY_FLAG_18": true,
+        "carColours": [
+            [
+                ["bright_red", "bright_red", "black"]
+            ],
+            [
+                ["light_blue", "light_blue", "black"]
+            ],
+            [
+                ["yellow", "yellow", "black"]
+            ],
+            [
+                ["bright_green", "bright_green", "black"]
+            ],
+            [
+                ["light_orange", "light_orange", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 7,
+            "spacing": 244048,
+            "mass": 450,
+            "numSeats": 8,
+            "numSeatRows": 4,
+            "spinningInertia": 8,
+            "spinningFriction": 8,
+            "frictionSoundId": 32,
+            "soundRange": 0,
+            "poweredAcceleration": 100,
+            "poweredMaxSpeed": 6,
+            "carVisual": 4,
+            "effectVisual": 11,
+            "drawOrder": 9,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_SPINNING": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "VEHICLE_ENTRY_FLAG_WATER_RIDE": true,
+            "loadingPositions": [4, -4, 4, -4, 4, -4, 4, -4]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/RAPBOAT.DAT[0..362]"],
+    "strings": {
+        "name": {
+            "en-GB": "River Rapids",
+            "fr-FR": "Rapides",
+            "de-DE": "Stromschnellen",
+            "es-ES": "Rápidos",
+            "it-IT": "Rapide",
+            "nl-NL": "Stroomversnelling Rivier",
+            "sv-SE": "Forsränning",
+            "ko-KR": "급류 타기",
+            "zh-CN": "急流",
+            "zh-TW": "急流",
+            "pt-BR": "Correnteza Veloz"
+        },
+        "description": {
+            "en-GB": "Circular boats meander along a wide water channel, splashing through waterfalls and thrilling riders through foaming rapids",
+            "fr-FR": "Des bateaux de forme circulaire serpentent le long d'un large cours d'eau, puis dévalent des rapides et des chutes d'eau spectaculaires",
+            "de-DE": "Runde Boote winden sich durch einen breiten Wasserkanal, platschen dabei durch Wasserfälle und aufregende, schäumende Stromschnellen",
+            "es-ES": "Botes circulares que corren por canales de agua salpicando",
+            "it-IT": "Barche circolari si fanno strada lungo un largo canale d'acqua per poi tuffarsi dalle cascate e seguire un eccitante percorso fra le rapide",
+            "nl-NL": "Ronde boten drijven in een wijd kanaal en gaan door watervallen en boezemen bezoekers angst in de schuimende stroomversnellingen",
+            "sv-SE": "Runda båtar snirklar sig längs en lång bred vattenkanal, plaskar genom vattenfall och för de nervösa passagerarna genom skummande forsar",
+            "ko-KR": "구불구불한 넓은 골짜기를 따라 내려가다가 폭포를 통과하기도 하며 물거품 사이를 헤치고 나오는 스릴을 맛볼 수 있는 원형의 보트",
+            "zh-CN": "圆形船体沿着水道航道进行,穿过溅下的瀑布及令人兴奋的急湍水流",
+            "zh-TW": "圓形船體沿著水道航道進行,穿過濺下的瀑布及令人興奮的急湍水流",
+            "pt-BR": "Barcos circulares vagueiam por um largo canal de água, descendo cachoeiras e corredeiras espumantes"
+        },
+        "capacity": {
+            "en-GB": "8 passengers per boat",
+            "fr-FR": "8 passagers par bateau",
+            "de-DE": "8 Fahrgäste pro Boot",
+            "es-ES": "8 pasajeros por bote",
+            "it-IT": "8 passeggeri per barca",
+            "nl-NL": "8 passagiers per boot",
+            "sv-SE": "8 passagerare per båt",
+            "ko-KR": "보트 정원 8명",
+            "zh-CN": "8 位乘客 /每艘船",
+            "zh-TW": "8 位乘客 /每艘船",
+            "pt-BR": "8 passageiros por barco"
+        }
+    }
+}

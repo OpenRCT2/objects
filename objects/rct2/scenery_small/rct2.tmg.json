@@ -1,0 +1,30 @@
+{
+    "id": "rct2.tmg",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TMG     |0181736A",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 12,
+        "removalPrice": 5,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 48,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TMG.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Magnolia Tree",
+            "fr-FR": "Magnolia",
+            "de-DE": "Magnolie",
+            "es-ES": "Magnolio",
+            "it-IT": "Magnolia",
+            "nl-NL": "Magnoliaboom",
+            "sv-SE": "Magnolia",
+            "ko-KR": "목련꽃 나무",
+            "zh-CN": "木兰花树",
+            "zh-TW": "木蘭花樹",
+            "pt-BR": "Árvore Magnólia"
+        }
+    }
+}

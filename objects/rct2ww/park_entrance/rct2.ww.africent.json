@@ -1,0 +1,24 @@
+{
+    "id": "rct2.ww.africent",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0318|AFRICENT|81E879FB",
+    "objectType": "park_entrance",
+    "properties": {
+        "scrollingMode": 3,
+        "textHeight": 82
+    },
+    "images": ["$RCT2:OBJDATA/AFRICENT.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Africa Park Entrance",
+            "fr-FR": "Entrée du parc africain",
+            "de-DE": "Afrikapark-Eingang",
+            "es-ES": "Entrada al parque África",
+            "it-IT": "Ingresso del parco africano",
+            "nl-NL": "Afrikaanse Ingang pretpark",
+            "sv-SE": "Ingång till afrikansk park",
+            "zh-CN": "非洲公园入口"
+        }
+    }
+}

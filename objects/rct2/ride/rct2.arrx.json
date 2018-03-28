@@ -1,0 +1,127 @@
+{
+    "id": "rct2.arrx",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|ARRX    |9BA47335",
+    "objectType": "ride",
+    "properties": {
+        "type": "multi_dimension_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 4,
+        "maxCarsPerTrain": 7,
+        "carColours": [
+            [
+                ["dark_purple", "bright_pink", "yellow"]
+            ],
+            [
+                ["bordeaux_red", "black", "light_orange"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 174320,
+                "mass": 1000,
+                "numSeats": 4,
+                "animation": 9,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 7,
+                "numVerticalFramesOverride": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true
+                },
+                "VEHICLE_ENTRY_FLAG_HAS_INVERTED_SPRITE_SET": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_OVERRIDE_NUM_VERTICAL_FRAMES": true,
+                "VEHICLE_ENTRY_FLAG_13": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION": true,
+                "loadingPositions": [3, -3, 3, -3]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 174320,
+                "mass": 1000,
+                "numSeats": 4,
+                "animation": 9,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 2,
+                "numVerticalFramesOverride": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true
+                },
+                "VEHICLE_ENTRY_FLAG_HAS_INVERTED_SPRITE_SET": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_OVERRIDE_NUM_VERTICAL_FRAMES": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION": true,
+                "loadingPositions": [3, -3, 3, -3]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/ARRX.DAT[0..28226]"],
+    "strings": {
+        "name": {
+            "en-GB": "Multi-Dimension Coaster Train",
+            "fr-FR": "Train multidimension",
+            "de-DE": "Mehrdimensionaler-Achterbahnzug",
+            "es-ES": "Montaña Rusa Multi-Dimensión",
+            "it-IT": "Treno corsa multi-dimensionale",
+            "nl-NL": "Multi-Dimensie Achtbaantrein",
+            "sv-SE": "Flerdimensionståg",
+            "ko-KR": "멀티 디멘션 코스터",
+            "zh-CN": "多种尺寸冲锋列车",
+            "zh-TW": "多種尺寸衝鋒列車",
+            "pt-BR": "Trem de Montanha Multidimensional"
+        },
+        "description": {
+            "en-GB": "Cars with seats capable of pitching the riders head-over-heels",
+            "fr-FR": "Train dont les sièges sont conçus pour mettre les passagers la tête à l'envers",
+            "de-DE": "Wagen mit Sitzen, bei denen die Passagiere überkopf gekippt werden können",
+            "es-ES": "Vagones con asientos capaces de poner a los pasajeros cabeza abajo",
+            "it-IT": "Carrozze con sedili capaci di capovolgere i visitatori",
+            "nl-NL": "Wagentjes met stoelen die de bezoekers hals over kop laten neervallen",
+            "sv-SE": "Vagnar med säten som klarar att kasta passagerarna huvudstupa",
+            "ko-KR": "승객들이 심한 요동을 느끼며 달리는 롤러코스터",
+            "zh-CN": "车辆以高脚跟式投射乘客坐椅",
+            "zh-TW": "車輛以高腳跟式投射乘客坐椅",
+            "pt-BR": "Vagões com assentos capazes de levantar os passageiros de ponta-cabeça"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 정원 4명",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por vagão"
+        }
+    }
+}

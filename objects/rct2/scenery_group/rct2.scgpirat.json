@@ -1,0 +1,43 @@
+{
+    "id": "rct2.scgpirat",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGPIRAT|013DAB9B",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "PRSHIP",
+            "CHEST1",
+            "CHEST2",
+            "WALLPR32",
+            "PIRFLAG",
+            "CNBALLS",
+            "PRCAN",
+            "TAVERN",
+            "LAMPPIR",
+            "PIRROOF1",
+            "PIRROOF2",
+            "WALLPR34",
+            "WALLPR33",
+            "WALLPR35"
+        ],
+        "priority": 38,
+        "entertainerCostumes": "pirate"
+    },
+    "images": ["$RCT2:OBJDATA/SCGPIRAT.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Pirates Themeing",
+            "fr-FR": "Thème Pirates",
+            "de-DE": "Piratenthema",
+            "es-ES": "Temática pirata",
+            "it-IT": "Tema piratesco",
+            "nl-NL": "Piraten Thema",
+            "sv-SE": "Pirattema",
+            "ko-KR": "해적선 테마",
+            "zh-CN": "海盗主题馆",
+            "zh-TW": "海盜主題館",
+            "pt-BR": "Temática Pirata"
+        }
+    }
+}

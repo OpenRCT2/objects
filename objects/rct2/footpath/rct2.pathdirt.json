@@ -1,0 +1,27 @@
+{
+    "id": "rct2.pathdirt",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188885|PATHDIRT|592C0F57",
+    "objectType": "footpath",
+    "properties": {
+        "supportType": "pole",
+        "scrollingMode": 0
+    },
+    "images": ["$RCT2:OBJDATA/PATHDIRT.DAT[0..145]"],
+    "strings": {
+        "name": {
+            "en-GB": "Dirt Footpath",
+            "fr-FR": "Allée en terre",
+            "de-DE": "Dreckfußweg",
+            "es-ES": "Sendero sucio",
+            "it-IT": "Sentiero di terra",
+            "nl-NL": "Zandpad",
+            "sv-SE": "Smutsig gångväg",
+            "ko-KR": "흙 보도",
+            "zh-CN": "泥土步道",
+            "zh-TW": "泥土步道",
+            "pt-BR": "Caminho de Terra"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "rct2.pathspce",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188885|PATHSPCE|9D5B63FF",
+    "objectType": "footpath",
+    "properties": {
+        "supportType": "pole",
+        "scrollingMode": 0
+    },
+    "images": ["$RCT2:OBJDATA/PATHSPCE.DAT[0..145]"],
+    "strings": {
+        "name": {
+            "en-GB": "Space Style Footpath",
+            "fr-FR": "Allée spatiale",
+            "de-DE": "Space Style Fußweg",
+            "es-ES": "Sendero estilo espacial",
+            "it-IT": "Sentiero spaziale",
+            "nl-NL": "Voetpad in Ruimtestijl",
+            "sv-SE": "Rymdstilsgångväg",
+            "ko-KR": "공간 스타일 보도",
+            "zh-CN": "太空风格步道",
+            "zh-TW": "太空風格步道",
+            "pt-BR": "Caminho Estilo Espacial"
+        }
+    }
+}

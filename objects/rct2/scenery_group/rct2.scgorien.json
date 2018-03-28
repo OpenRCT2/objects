@@ -1,0 +1,42 @@
+{
+    "id": "rct2.scgorien",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGORIEN|94A48203",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "SPG",
+            "TLY",
+            "TGG",
+            "TOH1",
+            "TOH2",
+            "TOT1",
+            "TOT2",
+            "TOS",
+            "TOT3",
+            "TOT4",
+            "TOH3",
+            "WALLPG32",
+            "PAGROOF1",
+            "BN7"
+        ],
+        "priority": 29
+    },
+    "images": ["$RCT2:OBJDATA/SCGORIEN.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Pagoda Themeing",
+            "fr-FR": "Thème Pagode",
+            "de-DE": "Pagodenthema",
+            "es-ES": "Temática de pagoda",
+            "it-IT": "Tema pagoda",
+            "nl-NL": "Pagode Thema",
+            "sv-SE": "Pagod-tema",
+            "ko-KR": "탑 테마",
+            "zh-CN": "塔/凉亭主题区",
+            "zh-TW": "塔/涼亭主題區",
+            "pt-BR": "Temática Oriental"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "rct2.pkemm",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188088|PKEMM   |EBF07219",
+    "objectType": "park_entrance",
+    "properties": {
+        "scrollingMode": 32,
+        "textHeight": 36
+    },
+    "images": ["$RCT2:OBJDATA/PKEMM.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Park Entrance Gates",
+            "fr-FR": "Portes d'entrée du parc",
+            "de-DE": "Parkeingangstore",
+            "es-ES": "Puertas de entrada al parque",
+            "it-IT": "Cancelli d'entrata del parco",
+            "nl-NL": "Poorten Ingang Park",
+            "sv-SE": "Ingångsportar till parken",
+            "ko-KR": "공원 입구",
+            "zh-CN": "游乐园入口栅门",
+            "zh-TW": "遊樂園入口柵門",
+            "pt-BR": "Portões de Entrada de Parque"
+        }
+    }
+}

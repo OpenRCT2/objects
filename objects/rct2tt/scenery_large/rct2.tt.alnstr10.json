@@ -1,0 +1,93 @@
+{
+    "id": "rct2.tt.alnstr10",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB22|ALNSTR10|0DC6B21A",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 66,
+        "removalPrice": -58,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 56,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 56,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 56,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 56,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 56,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 56,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 56,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 56,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 56,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/ALNSTR10.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Alien Structure Large",
+            "fr-FR": "Grande structure extraterrestre",
+            "de-DE": "Außerirdische Struktur Groß",
+            "es-ES": "Estructura alienígena grande",
+            "it-IT": "Grande struttura aliena",
+            "nl-NL": "Grote Buitenaardse Constructie",
+            "sv-SE": "Stor utomjordisk struktur",
+            "ko-KR": "외계 구조물 대형",
+            "zh-TW": "外星建築(大)",
+            "pt-BR": "Estrutura Alienígena Grande"
+        }
+    }
+}

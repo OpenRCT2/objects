@@ -1,0 +1,38 @@
+{
+    "id": "rct2.tt.artdec13",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F921|ARTDEC13|DB0A670A",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasSecondaryColour": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/ARTDEC13.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Art Deco Top Corner Section",
+            "fr-FR": "Section de virage haut art déco",
+            "de-DE": "Art Déco oberer Eckabschnitt",
+            "es-ES": "Sección superior de esquina Art Decó",
+            "it-IT": "Sezione di curva superiore in art decò",
+            "nl-NL": "Bovenbochtstuk Art Deco",
+            "sv-SE": "Övre hörnsektion, art déco",
+            "ko-KR": "아르데코 꼭대기 모서리 부분",
+            "zh-TW": "裝飾藝術頂部牆角區段",
+            "pt-BR": "Seção de Topo de Canto de Arte Déco"
+        }
+    }
+}

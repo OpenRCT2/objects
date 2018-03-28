@@ -1,0 +1,103 @@
+{
+    "id": "rct2.vcr",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C80|VCR     |04C462E7",
+    "objectType": "ride",
+    "properties": {
+        "type": "car_ride",
+        "category": "gentle",
+        "RIDE_ENTRY_FLAG_18": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "carColours": [
+            [
+                ["bordeaux_red", "light_orange", "black"]
+            ],
+            [
+                ["yellow", "bright_red", "black"]
+            ],
+            [
+                ["dark_blue", "light_blue", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 165604,
+                "mass": 330,
+                "numSeats": 2,
+                "numSeatRows": 1,
+                "poweredAcceleration": 60,
+                "poweredMaxSpeed": 7,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "loadingPositions": [4, -4]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "poweredAcceleration": 60,
+                "poweredMaxSpeed": 7,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/VCR.DAT[0..242]"],
+    "strings": {
+        "name": {
+            "en-GB": "Vintage Cars",
+            "fr-FR": "Voiture vintage",
+            "de-DE": "Oldie-Wagen",
+            "es-ES": "Coches de Época",
+            "it-IT": "Auto d'epoca",
+            "nl-NL": "Antieke Wagentjes",
+            "sv-SE": "Veteranbilar",
+            "ko-KR": "포도차",
+            "zh-CN": "葡萄酒列车",
+            "zh-TW": "葡萄酒列車",
+            "pt-BR": "Carros Antigos"
+        },
+        "description": {
+            "en-GB": "Powered vehicles in the shape of vintage cars which follow a track-based route",
+            "fr-FR": "Véhicule à propulsion en forme de voiture ancienne et parcourant une route plane",
+            "de-DE": "Angetriebene Fahrzeuge in Form von Oldie-Wagen, die auf einer Schienenstrecke fahren",
+            "es-ES": "Vehículos con forma de coches antiguos que recorren una vía",
+            "it-IT": "Veicoli a motore che ricordano le auto d'epoca seguono un percorso fisso su un tracciato",
+            "nl-NL": "Elektrische voertuigen in de vorm van antieke wagentjes volgen de route van de baan",
+            "sv-SE": "Motordrivna fordon i form av veteranbilar som följer en spårbaserad bana",
+            "ko-KR": "트랙을 따라 이동하는 포도 모양의 동력차",
+            "zh-CN": "具动力装置及葡萄酒外型的车辆在即定航线轨道上运行",
+            "zh-TW": "具動力裝置及葡萄酒外型的車輛在即定航線軌道上運行",
+            "pt-BR": "Veículos motorizados na forma de carros antigos que seguem numa pista"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por vehículo",
+            "it-IT": "2 passeggeri a carrozza",
+            "nl-NL": "2 passagiers per wagentje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량 정원 2명",
+            "zh-CN": "2 位乘客/每个车厢",
+            "zh-TW": "2 位乘客/每個車廂",
+            "pt-BR": "2 passageiros por carro"
+        }
+    }
+}

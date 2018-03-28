@@ -1,0 +1,42 @@
+{
+    "id": "rct2.cog2ur",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|COG2UR  |A38E3712",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 15,
+        "removalPrice": -10,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 16,
+        "animationDelay": 1,
+        "animationMask": 3,
+        "numFrames": 4,
+        "shape": "1/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "SMALL_SCENERY_FLAG_COG": true,
+        "frameOffsets": [0, 3, 2, 1]
+    },
+    "images": ["$RCT2:OBJDATA/COG2UR.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Small Cogwheel",
+            "fr-FR": "Petite roue dentée",
+            "de-DE": "Kleines Zahnrad",
+            "es-ES": "Pequeña rueda dentada",
+            "it-IT": "Piccola ruota dentata",
+            "nl-NL": "Klein Tandrad",
+            "sv-SE": "Litet kugghjul",
+            "ko-KR": "소형 물림기어",
+            "zh-CN": "小木齿铁轮",
+            "zh-TW": "小木齒鐵輪",
+            "pt-BR": "Roda Dentada Pequena"
+        }
+    }
+}

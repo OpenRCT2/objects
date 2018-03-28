@@ -1,0 +1,138 @@
+{
+    "id": "rct2.tt.policecr",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F920|POLICECR|FC44F45E",
+    "objectType": "ride",
+    "properties": {
+        "type": "reverser_rc",
+        "category": "rollercoaster",
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 2,
+        "tailCars": 2,
+        "carColours": [
+            [
+                ["bright_red", "dark_green", "black"]
+            ],
+            [
+                ["yellow", "dark_brown", "black"]
+            ],
+            [
+                ["light_blue", "dark_green", "black"]
+            ],
+            [
+                ["white", "bordeaux_red", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 104592,
+                "mass": 900,
+                "numSeats": 6,
+                "spriteWidth": 31,
+                "spriteHeightNegative": 40,
+                "spriteHeightPositive": 15,
+                "numSeatRows": 3,
+                "frictionSoundId": 1,
+                "logFlumeReverserVehicleType": 1,
+                "soundRange": 1,
+                "carVisual": 7,
+                "drawOrder": 12,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_NO_UPSTOP_BOBSLEIGH": true,
+                "VEHICLE_ENTRY_FLAG_5": true,
+                "VEHICLE_ENTRY_FLAG_10": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [11, 7, 2, -2, -7, -11]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 104592,
+                "mass": 900,
+                "numSeats": 6,
+                "spriteWidth": 31,
+                "spriteHeightNegative": 40,
+                "spriteHeightPositive": 15,
+                "numSeatRows": 3,
+                "frictionSoundId": 1,
+                "soundRange": 1,
+                "carVisual": 7,
+                "drawOrder": 12,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_NO_UPSTOP_BOBSLEIGH": true,
+                "VEHICLE_ENTRY_FLAG_5": true,
+                "VEHICLE_ENTRY_FLAG_10": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [-7, -11, 2, -2, 11, 7]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 122024,
+                "spriteWidth": 13,
+                "spriteHeightNegative": 8,
+                "spriteHeightPositive": 12,
+                "frictionSoundId": 1,
+                "soundRange": 1,
+                "drawOrder": 13,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_NO_UPSTOP_BOBSLEIGH": true,
+                "VEHICLE_ENTRY_FLAG_4": true,
+                "VEHICLE_ENTRY_FLAG_10": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/POLICECR.DAT[0..938]"],
+    "strings": {
+        "name": {
+            "en-GB": "Police Car Coaster",
+            "fr-FR": "Voiture de police",
+            "de-DE": "Polizeiauto-Achterbahn",
+            "es-ES": "Montaña rusa Coche de policía",
+            "it-IT": "Ottovolante auto della polizia",
+            "nl-NL": "Politieauto-achtbaan",
+            "sv-SE": "Polisbil",
+            "ko-KR": "폴리스 카 코스터",
+            "zh-TW": "警車雲霄飛車",
+            "pt-BR": "Montanha de Carro de Polícia"
+        },
+        "description": {
+            "en-GB": "1960s Themed Police cars run on wooden tracks, turning around on special reversing sections",
+            "fr-FR": "Voitures de police des années 60 dévalant une voie en bois, tournant à des sections inverseuses spéciales",
+            "de-DE": "Polizeiautos aus den 60ern fahren über eine Holzstrecke und drehen an speziellen Wendeabschnitten.",
+            "es-ES": "Coches decorados como de la policía en los años sesenta que circulan por guías de madera, girando completamente en secciones de inversión especiales.",
+            "it-IT": "Auto della polizia in perfetto stile anni '60 corrono su un tracciato di legno, ruotando di 180° in speciali sezioni.",
+            "nl-NL": "Politieauto's uit de jaren 60 lopen over houten rails en keren om op speciale keerpunten.",
+            "sv-SE": "60-talsinspirerade polisbilvagnar åker på träspår och vänder i speciella vändsektioner.",
+            "ko-KR": "1960년대 테마 폴리스 카는 나무 트랙위를 달리며 특수한 역전 구역에서 회전합니다.",
+            "zh-TW": "以1960年代為主題的警車在木架軌道上奔馳,轉進特殊倒轉區域",
+            "pt-BR": "Vagões temáticos de polícia dos anos 20 correm em pista de madeira, virando em seções especiais de reversão"
+        },
+        "capacity": {
+            "en-GB": "6 passengers per car",
+            "fr-FR": "6 passagers par voiture",
+            "de-DE": "6 Fahrgäste pro Wagen",
+            "es-ES": "6 pasajeros por coche",
+            "it-IT": "6 passeggeri per vettura",
+            "nl-NL": "6 passagiers per wagentje",
+            "sv-SE": "6 passagerare per vagn",
+            "ko-KR": "차량 정원 6명",
+            "zh-TW": "每輛車限乘6人",
+            "pt-BR": "6 passageiros por vagão"
+        }
+    }
+}

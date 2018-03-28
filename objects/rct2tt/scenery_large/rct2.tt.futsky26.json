@@ -1,0 +1,54 @@
+{
+    "id": "rct2.tt.futsky26",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB22|FUTSKY26|6F878AB4",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 18,
+        "removalPrice": 8,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "sceneryGroup": "SCGWALLS",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 32,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 32,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 32,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 32,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/FUTSKY26.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone Skyscraper Bottom Inverted Corner",
+            "fr-FR": "Virage inversé bas du gratte-ciel",
+            "de-DE": "Sandstein-Wolkenkratzer Untere Umgedrehte Ecke",
+            "es-ES": "Esquina inferior inversa de rascacielos de arenisca",
+            "it-IT": "Curva invertita inferiore del grattacielo in arenaria",
+            "nl-NL": "Omgekeerde Benedenbocht Zandstenen Wolkenkrabber",
+            "sv-SE": "Nedre omvänt hörn, sandstensskyskrapa",
+            "ko-KR": "사암 마천루 바닥 반대 코너",
+            "zh-TW": "反向沙岩製摩天大樓底部牆角",
+            "pt-BR": "Inferior de Canto Invertido de Arranha-Céu de Arenito"
+        }
+    }
+}

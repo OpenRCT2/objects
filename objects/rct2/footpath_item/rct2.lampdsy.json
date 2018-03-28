@@ -1,0 +1,33 @@
+{
+    "id": "rct2.lampdsy",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188786|LAMPDSY |761C944D",
+    "objectType": "footpath_item",
+    "properties": {
+        "isLamp": true,
+        "isBreakable": true,
+        "isAllowedOnQueue": true,
+        "isAllowedOnSlope": true,
+        "renderAs": "lamp",
+        "cursor": "CURSOR_LAMPPOST_DOWN",
+        "price": 60,
+        "sceneryGroup": "SCGPATHX"
+    },
+    "images": ["$RCT2:OBJDATA/LAMPDSY.DAT[0..8]"],
+    "strings": {
+        "name": {
+            "en-GB": "Daisy Lamp",
+            "fr-FR": "Lampadaire marguerite",
+            "de-DE": "Gänseblümchen-Lampe",
+            "es-ES": "Lámpara margarita",
+            "it-IT": "Lampione a margherita",
+            "nl-NL": "Lamp in Madeliefjes vorm",
+            "sv-SE": "Prästkragelampa",
+            "ko-KR": "데이지 램프",
+            "zh-CN": "雏菊灯",
+            "zh-TW": "雛菊燈",
+            "pt-BR": "Luminária Margarida"
+        }
+    }
+}

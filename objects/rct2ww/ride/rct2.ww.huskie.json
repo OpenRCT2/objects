@@ -1,0 +1,95 @@
+{
+    "id": "rct2.ww.huskie",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0010|HUSKIE  |24E6EAB8",
+    "objectType": "ride",
+    "properties": {
+        "type": "car_ride",
+        "category": "gentle",
+        "RIDE_ENTRY_FLAG_18": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "carColours": [
+            [
+                ["bordeaux_red", "light_orange", "black"]
+            ],
+            [
+                ["yellow", "bright_red", "black"]
+            ],
+            [
+                ["dark_blue", "light_blue", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 244048,
+                "mass": 3000,
+                "numSeats": 2,
+                "animation": 7,
+                "numSeatRows": 1,
+                "poweredAcceleration": 60,
+                "poweredMaxSpeed": 7,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION": true,
+                "loadingPositions": [4, -4]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "poweredAcceleration": 60,
+                "poweredMaxSpeed": 7,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/HUSKIE.DAT[0..866]"],
+    "strings": {
+        "name": {
+            "en-GB": "Huskie Car",
+            "fr-FR": "Traîneau husky",
+            "de-DE": "Husky-Wagen",
+            "es-ES": "Vagón Huskie",
+            "it-IT": "La slitta coi cani",
+            "nl-NL": "Husky-Wagen",
+            "sv-SE": "Hundsläde",
+            "zh-CN": "哈士奇车"
+        },
+        "description": {
+            "en-GB": "Powered vehicles in the shape of Huskie sleds which follow a track-based route",
+            "fr-FR": "Véhicules en forme de traîneaux suivant un itinéraire sur piste",
+            "de-DE": "Huskyschlittenförmige Fahrzeuge mit Eigenantrieb, die einer Schienenstrecke folgen",
+            "es-ES": "Vehículos eléctricos con forma de trineos de perros huskies, que siguen una ruta sobre raíles",
+            "it-IT": "Attrazione composta da veicoli a propulsione autonoma a forma di slitta coi cani, che procedono lungo un percorso",
+            "nl-NL": "Aangedreven wagens in de vorm van Husky-sleden die een route volgen die op een sneeuwspoor lijkt",
+            "sv-SE": "Eldrivna hundslädesvagnar följer en utlagd bana",
+            "zh-CN": "依循着基层轨道运行以哈士奇雪橇为外形的动力式运载工具"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par traîneau",
+            "de-DE": "2 pro Wagen",
+            "es-ES": "2 pasajeros por vagón",
+            "it-IT": "2 passeggeri per carrozza",
+            "nl-NL": "2 passagiers per wagentje",
+            "sv-SE": "2 passagerare per vagn",
+            "zh-CN": "每辆车限乘2人"
+        }
+    }
+}

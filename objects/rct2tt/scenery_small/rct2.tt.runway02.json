@@ -1,0 +1,36 @@
+{
+    "id": "rct2.tt.runway02",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|RUNWAY02|D61A232C",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 8,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RUNWAY02.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Runway Piece",
+            "fr-FR": "Section de piste d'atterrissage",
+            "de-DE": "Landebahnstück",
+            "es-ES": "Sección de autopista",
+            "it-IT": "Tratto in salita",
+            "nl-NL": "Stuk Startbaan",
+            "sv-SE": "Del till landningsbana",
+            "ko-KR": "활주로 조각",
+            "zh-TW": "跑道塊",
+            "pt-BR": "Peça de Pista de Decolagem"
+        }
+    }
+}

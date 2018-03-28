@@ -1,0 +1,32 @@
+{
+    "id": "rct2.ww.jachtree",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0011|JACHTREE|E731445B",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 64,
+        "sceneryGroup": "SCGTREES",
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/JACHTREE.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Japanese Cherry Tree",
+            "fr-FR": "Cerisier du Japon",
+            "de-DE": "Japanischer Kirschbaum",
+            "es-ES": "Cerezo japonés",
+            "it-IT": "Ciliegio giapponese",
+            "nl-NL": "Japanse Kersenboom",
+            "sv-SE": "Japanskt körsbärsträd",
+            "zh-CN": "日本樱桃树Japanese Cherry Tree"
+        }
+    }
+}

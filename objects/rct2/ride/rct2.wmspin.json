@@ -1,0 +1,92 @@
+{
+    "id": "rct2.wmspin",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C80|WMSPIN  |0E117B71",
+    "objectType": "ride",
+    "properties": {
+        "type": "steel_wild_mouse",
+        "category": "rollercoaster",
+        "RIDE_ENTRY_FLAG_16": true,
+        "ratingMultipler": {
+            "excitement": 7,
+            "intensity": 5,
+            "nausea": 43
+        },
+        "carColours": [
+            [
+                ["bright_green", "yellow", "bordeaux_red"]
+            ],
+            [
+                ["bright_red", "yellow", "dark_purple"]
+            ],
+            [
+                ["yellow", "light_blue", "saturated_brown"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 209184,
+            "mass": 950,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "spinningInertia": 7,
+            "spinningFriction": 6,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_SPINNING_ADDITIONAL_FRAMES": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_SPINNING": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [2, -2, 2, -2]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/WMSPIN.DAT[0..4610]"],
+    "strings": {
+        "name": {
+            "en-GB": "Spinning Wild Mouse",
+            "fr-FR": "Souris folle tournante",
+            "de-DE": "Rotierende Wilde Maus",
+            "es-ES": "Ratón Loco Giratorio",
+            "it-IT": "Topo rotante tutto matto",
+            "nl-NL": "Draaiende Wilde Mouse",
+            "sv-SE": "Snurriga vilda möss",
+            "ko-KR": "스피닝 와일드 마우스",
+            "zh-CN": "太空飞鼠",
+            "zh-TW": "太空飛鼠",
+            "pt-BR": "Rato Maluco Giratório"
+        },
+        "description": {
+            "en-GB": "Mouse shaped cars speed through tight corners and short drops, gently spinning around to disorientate the riders",
+            "fr-FR": "Voiture en forme de souris fonçant dans des virages serrés et des petites chutes, tout en tournant sur elle-même afin de désorienter les passagers",
+            "de-DE": "Mausförmige Wagen rasen um enge Kurven und kurze Gefälle herunter, wobei sie sich sanft drehen, um die Fahrgäste zu desorientieren",
+            "es-ES": "Vagones con forma de ratón efectúan curvas bruscas",
+            "it-IT": "Le carrozze a forma di topo sfrecciano lungo curve molto strette e ripide discese, ruotando lentamente su se stesse per disorientare i passeggeri",
+            "nl-NL": "Wagentjes in de vorm van muizen die snel door nauwe bochten en korte afdalingen snellen en langzaam ronddraaien om de bezoekers te desorienteren.",
+            "sv-SE": "Musformade vagnar rusar genom snäva svängar och korta backar och snurrar runt för att disorientera passagerarna",
+            "ko-KR": "빙글빙글 돌며 급회전이나 짧은 경사로를 내려가며 승객들의 방향감각을 혼란시키는 쥐 모양의 롤러코스터",
+            "zh-CN": "老鼠外形车辆疾迅穿过牢固转角及短程下坡,再温和地旋转着使你迷失方向感",
+            "zh-TW": "老鼠外形車輛疾迅穿過牢固轉角及短程下坡,再溫和地旋轉著使你迷失方向感",
+            "pt-BR": "Carros em forma de rato aceleram por curvas fechadas e quedas curtas, girando suavemente para desorientar os passageiros"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 정원 4명",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por vagão"
+        }
+    }
+}

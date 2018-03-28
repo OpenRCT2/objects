@@ -1,0 +1,31 @@
+{
+    "id": "rct2.ww.rlog01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0511|RLOG01  |FBE0DBF5",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 30,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RLOG01.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Log Cabin Roof Piece",
+            "fr-FR": "Pan de toit de cabane en rondins",
+            "de-DE": "Holzhüttendach-Bauteil",
+            "es-ES": "Pieza de tejado de cabaña de troncos",
+            "it-IT": "Pezzo di tetto di capanna di tronchi",
+            "nl-NL": "Stuk dak Blokhut",
+            "sv-SE": "takdel till timmerstuga",
+            "zh-CN": "原木舱屋顶一块"
+        }
+    }
+}

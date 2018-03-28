@@ -1,0 +1,28 @@
+{
+    "id": "rct2.bn9",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F84|BN9     |7B2F8CCC",
+    "objectType": "footpath_banner",
+    "properties": {
+        "scrollingMode": 28,
+        "price": 300,
+        "sceneryGroup": "SCGPATHX"
+    },
+    "images": ["$RCT2:OBJDATA/BN9.DAT[0..7]"],
+    "strings": {
+        "name": {
+            "en-GB": "Space Style Sign",
+            "fr-FR": "Panneau spatial",
+            "de-DE": "Weltraumschild",
+            "es-ES": "Señal estilo espacial",
+            "it-IT": "Insegna stile spaziale",
+            "nl-NL": "Bord in Ruimtestijl",
+            "sv-SE": "Skylt - rymdstil",
+            "ko-KR": "우주공간 스타일 표시",
+            "zh-CN": "太空式风格 招牌",
+            "zh-TW": "太空式風格 招牌",
+            "pt-BR": "Placa Estilo Espacial"
+        }
+    }
+}

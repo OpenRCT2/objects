@@ -1,0 +1,35 @@
+{
+    "id": "rct2.scgsixfl",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGSIXFL|F822A559",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "GLTHENT",
+            "MDSAENT",
+            "NITROENT",
+            "WALLTXGT",
+            "MMENT1",
+            "MMENT2",
+            "MMENT3"
+        ],
+        "priority": 255
+    },
+    "images": ["$RCT2:OBJDATA/SCGSIXFL.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Six Flags Themeing",
+            "fr-FR": "Thème Six Flags",
+            "de-DE": "Six Flags-Thema",
+            "es-ES": "Temática six flags",
+            "it-IT": "Tema Six Flags",
+            "nl-NL": "Six Flags Thema",
+            "sv-SE": "Six Flags tema",
+            "ko-KR": "식스 플래그 테마",
+            "zh-CN": "六旗主题区",
+            "zh-TW": "六旗主題區",
+            "pt-BR": "Temática Six Flags"
+        }
+    }
+}

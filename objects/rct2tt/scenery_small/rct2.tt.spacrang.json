@@ -1,0 +1,39 @@
+{
+    "id": "rct2.tt.spacrang",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB21|SPACRANG|07BE5FFA",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 46,
+        "removalPrice": -38,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 72,
+        "animationDelay": 3,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/SPACRANG.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Animatronic Space Ranger",
+            "fr-FR": "Automate : shérif de l'espace",
+            "de-DE": "Animatronic Weltraumaufsicht",
+            "es-ES": "Animatrónica explorador espacial",
+            "it-IT": "Animatrone ranger spaziale",
+            "nl-NL": "Animatronisch Ruimte Opzichter",
+            "sv-SE": "Rymdfarare (animatronisk)",
+            "ko-KR": "움직이는 우주 경비대",
+            "zh-TW": "太空騎警機械偶",
+            "pt-BR": "Policial do Espaço Animatrônico"
+        }
+    }
+}

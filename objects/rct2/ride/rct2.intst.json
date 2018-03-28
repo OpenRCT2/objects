@@ -1,0 +1,124 @@
+{
+    "id": "rct2.intst",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|INTST   |59F1CF92",
+    "objectType": "ride",
+    "properties": {
+        "type": "giga_rc",
+        "category": "rollercoaster",
+        "minCarsPerTrain": 4,
+        "maxCarsPerTrain": 9,
+        "defaultCar": 1,
+        "headCars": 0,
+        "carColours": [
+            [
+                ["white", "bright_red", "yellow"]
+            ],
+            [
+                ["bright_red", "dark_green", "black"]
+            ],
+            [
+                ["yellow", "black", "bright_red"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 296344,
+                "mass": 600,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [5, 3, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 191752,
+                "mass": 550,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 7,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [7, 9, -3, -1]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/INTST.DAT[0..3626]"],
+    "strings": {
+        "name": {
+            "en-GB": "Giga Coaster",
+            "fr-FR": "Giga montagnes russes",
+            "de-DE": "Giga-Bahn",
+            "es-ES": "Gigamontaña Rusa",
+            "it-IT": "Giga-coaster",
+            "nl-NL": "Giga Achtbaan",
+            "sv-SE": "Giga-banan",
+            "ko-KR": "기가 코스터",
+            "zh-CN": "巨大过山车",
+            "zh-TW": "巨大雲霄飛車",
+            "pt-BR": "Gigamontanha"
+        },
+        "description": {
+            "en-GB": "A giant steel roller coaster capable of smooth drops and hills of over 300ft",
+            "fr-FR": "Montagnes russes géantes proposant des chutes régulières depuis des collines dépassant les 100 mètres d'altitude",
+            "de-DE": "Eine gigantische Stahlachterbahn mit gemäßigten Gefällen und Anstiegen von über 90 Meter",
+            "es-ES": "Una montaña rusa gigante capaz de caídas suaves y subidas de más de 300 pies",
+            "it-IT": "Un ottovolante gigante d'acciaio con lunghe cadute e colline di più di 100 metri d'altezza",
+            "nl-NL": "Een gigantische stalen achtbaan die glooiende hellingen en heuvels van 100 meter hoog afraast",
+            "sv-SE": "En gigantisk stålberg- och dalbana som klara mjuka fall och höjder på över 1000 m",
+            "ko-KR": "300 피트가 넘는 언덕에서 미끄러져 내려오는 거대한 철제 롤러코스터",
+            "zh-CN": "一座巨大的钢制过山车有能力可以缓慢的落下及爬坡达300英尺",
+            "zh-TW": "一座巨大的鋼製雲霄飛車有能力可以緩慢的落下及爬坡達300英尺",
+            "pt-BR": "Uma montanha-russa gigante de aço com quedas diretas e morros de mais de 100 m"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 정원 4명",
+            "zh-CN": "4位乘客/每个车厢",
+            "zh-TW": "4位乘客/每個車廂",
+            "pt-BR": "4 passageiros por carro"
+        }
+    }
+}

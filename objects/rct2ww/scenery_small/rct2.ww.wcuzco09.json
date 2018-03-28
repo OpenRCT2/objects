@@ -1,0 +1,29 @@
+{
+    "id": "rct2.ww.wcuzco09",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31D11|WCUZCO09|68974FC1",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WCUZCO09.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Monumental Wall Piece",
+            "fr-FR": "?Pan de toit de monument 2",
+            "de-DE": "?Monumentaldach-Bauteil 2",
+            "es-ES": "?Pieza de tejado monumental 2",
+            "it-IT": "Pezzo di tetto monumentale 2",
+            "nl-NL": "Monumentaal Stuk Dak 2",
+            "sv-SE": "?Monument takdel 2"
+        }
+    }
+}

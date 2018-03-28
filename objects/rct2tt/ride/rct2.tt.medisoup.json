@@ -1,0 +1,45 @@
+{
+    "id": "rct2.tt.medisoup",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F920|MEDISOUP|7FD6B0FF",
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": "wonton_soup",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/MEDISOUP.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Witches Brew Soup",
+            "fr-FR": "Soupe des sorcières",
+            "de-DE": "Hexensuppe",
+            "es-ES": "Brujas preparando caldero",
+            "it-IT": "Brodaglia delle streghe",
+            "nl-NL": "Heksenbrouwsel",
+            "sv-SE": "Häxköket",
+            "ko-KR": "마녀 브루 수프",
+            "zh-TW": "巫婆湯",
+            "pt-BR": "Sopa das Bruxas"
+        },
+        "description": {
+            "en-GB": "A Stall selling a thick broth style soup",
+            "fr-FR": "Restaurant proposant un bouillon épais",
+            "de-DE": "Ein Stand, der eine dickflüssige Fleischbrühe verkauft",
+            "es-ES": "Un puesto en el que se vende caldo tradicional",
+            "it-IT": "Un chiosco che vende porzioni di brodo dalla consistenza di una zuppa.",
+            "nl-NL": "Een kraampje waar gebonden soep verkocht wordt",
+            "sv-SE": "Ett stånd som säljer en tjock spadliknande soppa",
+            "ko-KR": "짙은 육즙 수프를 파는 가게",
+            "zh-TW": "販賣濃湯類的攤位",
+            "pt-BR": "Um quiosque vendendo uma sopa espessa de carne"
+        }
+    }
+}

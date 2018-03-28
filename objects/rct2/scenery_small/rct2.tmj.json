@@ -1,0 +1,32 @@
+{
+    "id": "rct2.tmj",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TMJ     |847E3C80",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 6,
+        "removalPrice": -4,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TMJ.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Junk",
+            "fr-FR": "Jonque",
+            "de-DE": "Gerümpel",
+            "es-ES": "Chatarra",
+            "it-IT": "Giunca",
+            "nl-NL": "Afval",
+            "sv-SE": "Skräp",
+            "ko-KR": "쓰레기",
+            "zh-CN": "废弃物",
+            "zh-TW": "廢棄物",
+            "pt-BR": "Lixo"
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "id": "rct2.tt.hovrbord",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA20|HOVRBORD|28FAF04B",
+    "objectType": "ride",
+    "properties": {
+        "type": "mini_suspended_rc",
+        "category": "rollercoaster",
+        "carColours": [
+            [
+                ["black", "light_orange", "black"]
+            ],
+            [
+                ["bright_red", "yellow", "black"]
+            ],
+            [
+                ["dark_green", "bright_red", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 313776,
+            "mass": 320,
+            "tabOffset": -17,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "frictionSoundId": 2,
+            "soundRange": 0,
+            "drawOrder": 2,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "diagonalSlopes": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_SWINGING": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [3, -3]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/HOVRBORD.DAT[0..1282]"],
+    "strings": {
+        "name": {
+            "en-GB": "Hoverboard Coaster",
+            "fr-FR": "Aéroglisseur",
+            "de-DE": "Schwebebord-Achterbahn",
+            "es-ES": "Montaña rusa Tabla de suspensión",
+            "it-IT": "Ottovolante sulla tavola volante",
+            "nl-NL": "Zweefplank Achtbaan",
+            "sv-SE": "Svävarbräda",
+            "ko-KR": "호버보드 코스터",
+            "zh-TW": "滑板雲霄飛車",
+            "pt-BR": "Montanha-Russa Flututante"
+        },
+        "description": {
+            "en-GB": "Guests ride on a futuristic hoverboard, swinging freely from side to side around corners",
+            "fr-FR": "Les passagers sont installés dans un aéroglisseur futuriste se balançant d'un côté à l'autre dans les virages",
+            "de-DE": "Die Gäste fahren auf einem futuristischen Schwebebord und schwingen in den Kurven frei hin und her.",
+            "es-ES": "Los usuarios montan en una tabla de suspensión, balanceándose libremente de lado a lado al realizar giros.",
+            "it-IT": "I passeggeri viaggiano su una futuristica tavola volante, oscillando liberamente da lato a lato a ogni curva.",
+            "nl-NL": "Gasten rijden door de bochten op futuristische zweefplanken, die vrij van links naar rechts kunnen slingeren",
+            "sv-SE": "Passagerarna åker på futuristiska svävarbrädor som svingar fritt i sidled i kurvorna.",
+            "ko-KR": "승객들은 미래의 호버보드를 타고 자유롭게 날아 다닙니다.",
+            "zh-TW": "乘客乘坐在未來的滑板上,在角落間自由?盪",
+            "pt-BR": "Os visitantes andam num veículo futurista flutuante, balançando livremente para os lados nas curvas"
+        },
+        "capacity": {
+            "en-GB": "2 passenger per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por coche",
+            "it-IT": "2 passeggeri per carrozza",
+            "nl-NL": "2 passagiers per wagentje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량 정원 2명",
+            "zh-TW": "每輛車限乘2人",
+            "pt-BR": "2 passageiros por vagão"
+        }
+    }
+}

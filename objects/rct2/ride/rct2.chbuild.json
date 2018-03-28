@@ -1,0 +1,159 @@
+{
+    "id": "rct2.chbuild",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|CHBUILD |B3C76043",
+    "objectType": "ride",
+    "properties": {
+        "type": "crooked_house",
+        "category": "gentle",
+        "tabScale": 0.5,
+        "hasShelter": true,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["moss_green", "yellow", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "mass": 3000,
+            "numSeats": 5,
+            "seatsInPairs": false,
+            "spriteWidth": 55,
+            "spriteHeightNegative": 150,
+            "spriteHeightPositive": 28,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "numSegments": 0,
+            "loadingWaypoints": [
+                [
+                    [40, 40],
+                    [-40, 40],
+                    [-36, 0]
+                ],
+                [
+                    [-40, -40],
+                    [-36, 0],
+                    [-36, 0]
+                ],
+                [
+                    [-36, 0],
+                    [-36, 0],
+                    [-36, 0]
+                ],
+                [
+                    [-40, 40],
+                    [-36, 0],
+                    [-36, 0]
+                ],
+                [
+                    [40, 40],
+                    [0, 36],
+                    [0, 36]
+                ],
+                [
+                    [40, -40],
+                    [40, 40],
+                    [0, 36]
+                ],
+                [
+                    [-40, 40],
+                    [0, 36],
+                    [0, 36]
+                ],
+                [
+                    [0, 36],
+                    [0, 36],
+                    [0, 36]
+                ],
+                [
+                    [36, 0],
+                    [36, 0],
+                    [36, 0]
+                ],
+                [
+                    [40, -40],
+                    [36, 0],
+                    [36, 0]
+                ],
+                [
+                    [-40, -40],
+                    [40, -40],
+                    [36, 0]
+                ],
+                [
+                    [40, 40],
+                    [36, 0],
+                    [36, 0]
+                ],
+                [
+                    [40, -40],
+                    [0, -36],
+                    [0, -36]
+                ],
+                [
+                    [0, -36],
+                    [0, -36],
+                    [0, -36]
+                ],
+                [
+                    [-40, -40],
+                    [0, -36],
+                    [0, -36]
+                ],
+                [
+                    [-40, 40],
+                    [-40, -40],
+                    [0, -36]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/CHBUILD.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Crooked House",
+            "fr-FR": "Maison biscornue",
+            "de-DE": "Schiefes Haus",
+            "es-ES": "Casa Inclinada",
+            "it-IT": "Casa distorta",
+            "nl-NL": "Spookhuis",
+            "sv-SE": "Lustiga huset",
+            "ko-KR": "뒤틀린 방",
+            "zh-CN": "妙妙屋",
+            "zh-TW": "妙妙屋",
+            "pt-BR": "Casa Maluca"
+        },
+        "description": {
+            "en-GB": "Building containing warped rooms and angled corridors to disorientate people walking through it",
+            "fr-FR": "Bâtiment constitué de pièces déformantes et de couloirs tournants destinés à désorienter ceux qui s'y aventurent",
+            "de-DE": "Gebäude mit verzerrten Räumen und verwinkelten Korridoren, in denen die Besucher die Orientierung verlieren",
+            "es-ES": "Edificio con habitaciones combadas y pasillos angulosos para desorientar a la gente que entra",
+            "it-IT": "Un edificio con stanze distorte e dagli angoli assurdi che disorienta chi vi entra dentro",
+            "nl-NL": "Gebouw dat verwrongen kamers bevat en gangen met hoeken om mensen die er doorheen lopen te desoriënteren",
+            "sv-SE": "Byggnad som innehåller skeva rum och vinklade korridorer för att disorientera personerna som går igenom den",
+            "ko-KR": "뒤틀린 방, 기울어진 복도로 이루어져 있어 들어온 사람들의 감각을 혼란케 하는 집",
+            "zh-CN": "建筑物内含有变形的房间及多方向走廊使通过它的人容易迷失方向",
+            "zh-TW": "建築物內含有變形的房間及多方向走廊使通過它的人容易迷失方向",
+            "pt-BR": "Construção contendo salas tortas e corredores angulados para desorientar as pessoas que andarem por eles"
+        },
+        "capacity": {
+            "en-GB": "5 guests",
+            "fr-FR": "5 personnes",
+            "de-DE": "5 Besucher",
+            "es-ES": "5 visitantes",
+            "it-IT": "5 visitatori",
+            "nl-NL": "5 bezoekers",
+            "sv-SE": "5 besökare",
+            "ko-KR": "정원 5명",
+            "zh-CN": "5位客人",
+            "zh-TW": "5位客人",
+            "pt-BR": "5 visitantes"
+        }
+    }
+}

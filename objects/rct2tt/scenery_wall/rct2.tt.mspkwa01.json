@@ -1,0 +1,28 @@
+{
+    "id": "rct2.tt.mspkwa01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F823|MSPKWA01|7F475DE3",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50,
+        "sceneryGroup": "SCGWALLS"
+    },
+    "images": ["$RCT2:OBJDATA/MSPKWA01.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Spiked Fence",
+            "fr-FR": "Clôture à pointes",
+            "de-DE": "Stacheldrahtzaun",
+            "es-ES": "Valla de espino",
+            "it-IT": "Recinto chiodato",
+            "nl-NL": "Hek met punten",
+            "sv-SE": "Spetsigt staket",
+            "ko-KR": "못 박힌 울타리",
+            "zh-TW": "有尖刺的柵欄",
+            "pt-BR": "Cerca de Esporões"
+        }
+    }
+}

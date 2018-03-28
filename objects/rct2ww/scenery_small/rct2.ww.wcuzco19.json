@@ -1,0 +1,29 @@
+{
+    "id": "rct2.ww.wcuzco19",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31D11|WCUZCO19|32F7EE98",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 16,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WCUZCO19.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Monumental Stairway Piece",
+            "fr-FR": "?Pan de toit de monument 4",
+            "de-DE": "?Monumentaldach-Bauteil 4",
+            "es-ES": "?Pieza de tejado monumental 4",
+            "it-IT": "Pezzo di tetto monumentale 4",
+            "nl-NL": "Monumentaal Stuk Dak 4",
+            "sv-SE": "?Monument takdel 4"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.sbh4totm",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0711|SBH4TOTM|1FEABACD",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 184,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/SBH4TOTM.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Large Totem Pole",
+            "fr-FR": "Grand totem",
+            "de-DE": "Großer Totempfahl",
+            "es-ES": "Gran poste tótem",
+            "it-IT": "Grande totem",
+            "nl-NL": "Grote Totempaal",
+            "sv-SE": "Stor totempåle",
+            "zh-CN": "大型的图腾柱"
+        }
+    }
+}

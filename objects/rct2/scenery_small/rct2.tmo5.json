@@ -1,0 +1,33 @@
+{
+    "id": "rct2.tmo5",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TMO5    |04C8891E",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 45,
+        "removalPrice": -35,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 52,
+        "shape": "4/4",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TMO5.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Martian Object",
+            "fr-FR": "Objet alien",
+            "de-DE": "Marsobjekt",
+            "es-ES": "Objeto marciano",
+            "it-IT": "Oggetto marziano",
+            "nl-NL": "Martiaans voorwerp",
+            "sv-SE": "Marsföremål",
+            "ko-KR": "화성 객체물",
+            "zh-CN": "火星人的物体",
+            "zh-TW": "火星人的物體",
+            "pt-BR": "Objeto Marciano"
+        }
+    }
+}

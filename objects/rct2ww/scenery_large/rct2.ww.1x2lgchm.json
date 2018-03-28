@@ -1,0 +1,39 @@
+{
+    "id": "rct2.ww.1x2lgchm",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CCCCE12|1X2LGCHM|B43B4150",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": -150,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 80,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 80,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/1X2LGCHM.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Log Cabin Side Chimney",
+            "fr-FR": "Cheminée de cabane en rondins",
+            "de-DE": "Holzhütte - Seitenkamin",
+            "es-ES": "Chimenea lateral de la cabaña de troncos",
+            "it-IT": "Comignolo laterale di capanna di tronchi",
+            "nl-NL": "Zijschoorsteen Blokhut",
+            "sv-SE": "Sidoskorsten för timmerkoja",
+            "zh-CN": "原木舱边的烟囱"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": "rct2.ssig1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C82|SSIG1   |D8D09AB5",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 20,
+        "removalPrice": -10,
+        "cursor": "CURSOR_ENTRANCE_DOWN",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isAnimated": true,
+        "scrollingMode": 30,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 16,
+                "walls": 4,
+                "corners": 12
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 16,
+                "walls": 4,
+                "corners": 12
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SSIG1.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Scrolling Sign",
+            "fr-FR": "Panneau de défilement",
+            "de-DE": "Laufschrift-Tafel",
+            "es-ES": "Señal desplazante",
+            "it-IT": "Insegna a scorrimento",
+            "nl-NL": "Elektronisch mededelingenbord",
+            "sv-SE": "Rullskylt",
+            "ko-KR": "두루마리 표지",
+            "zh-CN": "卷动式招牌",
+            "zh-TW": "捲動式招牌",
+            "pt-BR": "Placa Giratória"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "rct2.ten",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TEN     |12BD8AB3",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 12,
+        "removalPrice": -10,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "1/4",
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TEN.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cleopatra's Needle",
+            "fr-FR": "Obélisque de Cléopâtre",
+            "de-DE": "Kleopatras Nadel",
+            "es-ES": "Aguja de Cleopatra",
+            "it-IT": "Ago di Cleopatra",
+            "nl-NL": "Naald van Cleopatra",
+            "sv-SE": "Cleopatras nål",
+            "ko-KR": "클레오파트라의 바늘",
+            "zh-CN": "古埃及艳后针柱",
+            "zh-TW": "古埃及豔后針柱",
+            "pt-BR": "Obelisco de Cleópatra"
+        }
+    }
+}

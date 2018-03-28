@@ -1,0 +1,32 @@
+{
+    "id": "rct2.tk1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TK1     |8D491CB3",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TK1.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "White Knight",
+            "fr-FR": "Cavalier blanc",
+            "de-DE": "Weißer Springer",
+            "es-ES": "Caballero blanco",
+            "it-IT": "Cavallo bianco",
+            "nl-NL": "Wit Paard",
+            "sv-SE": "Vit riddare",
+            "ko-KR": "화이트 나이트",
+            "zh-CN": "白棋骑士",
+            "zh-TW": "白棋騎士",
+            "pt-BR": "Cavalo Branco"
+        }
+    }
+}

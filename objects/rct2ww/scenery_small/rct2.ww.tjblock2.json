@@ -1,0 +1,31 @@
+{
+    "id": "rct2.ww.tjblock2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFD11|TJBLOCK2|10652482",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/TJBLOCK2.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Maharaja Palace Piece",
+            "fr-FR": "Pièce du palais du maharajah",
+            "de-DE": "Maharadschapalast-Bauteil",
+            "es-ES": "Pieza del palacio del Maharajá",
+            "it-IT": "Pezzo di palazzo del Maragià",
+            "nl-NL": "Stuk Maharadja-Paleis",
+            "sv-SE": "Del till maharadjans palats",
+            "zh-CN": "印度邦主皇宫片段"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "rct2.whg",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WHG     |3B72463A",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 2,
+        "price": 50,
+        "cursor": "CURSOR_TREE_DOWN",
+        "sceneryGroup": "SCGFENCE"
+    },
+    "images": ["$RCT2:OBJDATA/WHG.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Hedge",
+            "fr-FR": "Haie",
+            "de-DE": "Hecke",
+            "es-ES": "Cerca",
+            "it-IT": "Siepe",
+            "nl-NL": "Heg",
+            "sv-SE": "Häck",
+            "ko-KR": "울타리",
+            "zh-CN": "围篱",
+            "zh-TW": "圍籬",
+            "pt-BR": "Sebe"
+        }
+    }
+}

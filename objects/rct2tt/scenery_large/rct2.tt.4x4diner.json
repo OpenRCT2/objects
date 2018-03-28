@@ -1,0 +1,126 @@
+{
+    "id": "rct2.tt.4x4diner",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA22|4X4DINER|2ACC3BEC",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 134,
+        "removalPrice": -114,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 128,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 128,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 128,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 96,
+                "clearance": 128,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 128,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 128,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 128,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 96,
+                "clearance": 128,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 128,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 128,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 128,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 96,
+                "clearance": 128,
+                "walls": 2
+            },
+            {
+                "x": 96,
+                "y": 0,
+                "clearance": 128,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 32,
+                "clearance": 128,
+                "walls": 6
+            },
+            {
+                "x": 96,
+                "y": 64,
+                "clearance": 128,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 96,
+                "clearance": 128,
+                "walls": 6
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/4X4DINER.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Period Diner",
+            "fr-FR": "Restaurants d'époque",
+            "de-DE": "Antikes Café",
+            "es-ES": "Punto de comida",
+            "it-IT": "Ristorante ricorrente",
+            "nl-NL": "Periode cafetaria",
+            "sv-SE": "Tidsenligt kafé",
+            "ko-KR": "시대 식당",
+            "zh-TW": "區間?車",
+            "pt-BR": "Lanchonete de Época"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "rct2.corroof",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|CORROOF |157BA6B7",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/CORROOF.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Corrugated Steel Roof",
+            "fr-FR": "Toit en tôle ondulée",
+            "de-DE": "Wellblechdach",
+            "es-ES": "Tejado de acero arrugado",
+            "it-IT": "Tetto d'acciaio ondulato",
+            "nl-NL": "Geplooide Stalen Dak",
+            "sv-SE": "Korrugerat ståltak",
+            "ko-KR": "골이 파일 강철 지붕",
+            "zh-CN": "波纹的钢制屋顶",
+            "zh-TW": "波紋的鋼製屋頂",
+            "pt-BR": "Teto de Aço Ondulado"
+        }
+    }
+}

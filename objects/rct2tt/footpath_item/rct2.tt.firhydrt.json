@@ -1,0 +1,31 @@
+{
+    "id": "rct2.tt.firhydrt",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA26|FIRHYDRT|5CF8AEBA",
+    "objectType": "footpath_item",
+    "properties": {
+        "isLamp": true,
+        "isBreakable": true,
+        "isAllowedOnQueue": true,
+        "isAllowedOnSlope": true,
+        "renderAs": "lamp",
+        "cursor": "CURSOR_LAMPPOST_DOWN",
+        "price": 40
+    },
+    "images": ["$RCT2:OBJDATA/FIRHYDRT.DAT[0..8]"],
+    "strings": {
+        "name": {
+            "en-GB": "Fire Hydrant",
+            "fr-FR": "Bouche d'incendie",
+            "de-DE": "Hydrant",
+            "es-ES": "Boca de incendios",
+            "it-IT": "Pompa antincendio",
+            "nl-NL": "Brandweerkraan",
+            "sv-SE": "Brandpost",
+            "ko-KR": "급수전",
+            "zh-TW": "消防栓",
+            "pt-BR": "Hidrante"
+        }
+    }
+}

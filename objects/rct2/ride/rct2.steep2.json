@@ -1,0 +1,85 @@
+{
+    "id": "rct2.steep2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|STEEP2  |773C635C",
+    "objectType": "ride",
+    "properties": {
+        "type": "steeplechase",
+        "category": "rollercoaster",
+        "ratingMultipler": {
+            "excitement": 3
+        },
+        "carColours": [
+            [
+                ["bright_red", "white", "black"]
+            ],
+            [
+                ["bright_green", "white", "black"]
+            ],
+            [
+                ["light_blue", "white", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 209184,
+            "mass": 800,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "frictionSoundId": 2,
+            "soundRange": 0,
+            "drawOrder": 9,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "diagonalSlopes": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [4, -4]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/STEEP2.DAT[0..258]"],
+    "strings": {
+        "name": {
+            "en-GB": "Motorbike Races",
+            "fr-FR": "Courses de moto",
+            "de-DE": "Motorradrennen",
+            "es-ES": "Carrera de Motos",
+            "it-IT": "Corsa in motocicletta",
+            "nl-NL": "Motorfiets Races",
+            "sv-SE": "Motorcykeltävling",
+            "ko-KR": "모터바이크 레이스",
+            "zh-CN": "摩托车竞速赛",
+            "zh-TW": "摩托車競速賽",
+            "pt-BR": "Corrida de Moto"
+        },
+        "description": {
+            "en-GB": "Riders ride motorbike-shaped roller coaster vehicles along a single-rail track",
+            "fr-FR": "Véhicule en forme de moto de course parcourant des montagnes russes sur une voie monorail",
+            "de-DE": "Die Passagiere fahren in motorradförmigen Achterbahnfahrzeugen auf einer Einschienenstrecke",
+            "es-ES": "Los pasajeros se montan en unos vagones con forma de moto que recorren sobre un monoraíl",
+            "it-IT": "I passeggeri attraversano un tracciato monorotaia su veicoli a forma di motocicletta",
+            "nl-NL": "Attractie bestaand uit wagentjes in de vorm van een motorfiets die over een enkele rails gaan",
+            "sv-SE": "Passagerarna åker motorcykelformade fordon längs en enspårig berg- och dalbana",
+            "ko-KR": "모노레일을 타고 달리는 오토바이 모양의 롤러코스터",
+            "zh-CN": "乘客搭着摩托车形的过山车车辆延着单轨轨道前进",
+            "zh-TW": "乘客搭著摩托車形的雲霄飛車車輛延著單軌軌道前進",
+            "pt-BR": "Os passageiros andam em veículos de montanha-russa na forma de motos, que correm numa pista de monotrilho"
+        },
+        "capacity": {
+            "en-GB": "2 riders per bike",
+            "fr-FR": "2 passagers par moto",
+            "de-DE": "2 Fahrgäste pro Motorrad",
+            "es-ES": "2 pasajeros por moto",
+            "it-IT": "2 passeggeri per motocicletta",
+            "nl-NL": "2 bezoekers per fiets",
+            "sv-SE": "2 passagerare per cykel",
+            "ko-KR": "차량 정원 2명",
+            "zh-CN": "2 位乘客/每辆摩托车",
+            "zh-TW": "2 位乘客/每輛摩托車",
+            "pt-BR": "2 passageiros por moto"
+        }
+    }
+}

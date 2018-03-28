@@ -1,0 +1,38 @@
+{
+    "id": "rct2.scgmart",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGMART |4CDEB2CA",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "SMB",
+            "TMO1",
+            "TMO2",
+            "TMO3",
+            "TMO4",
+            "TMO5",
+            "SVLC",
+            "WMW",
+            "LAMP4"
+        ],
+        "priority": 26,
+        "entertainerCostumes": "astronaut"
+    },
+    "images": ["$RCT2:OBJDATA/SCGMART.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Martian Themeing",
+            "fr-FR": "Thème Alien",
+            "de-DE": "Mars-Thema",
+            "es-ES": "Temática marciana",
+            "it-IT": "Tema marziano",
+            "nl-NL": "Martiaans Thema",
+            "sv-SE": "Mars-tema",
+            "ko-KR": "화성 테마",
+            "zh-CN": "火星人主题区",
+            "zh-TW": "火星人主題區",
+            "pt-BR": "Temática Marciana"
+        }
+    }
+}

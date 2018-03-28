@@ -1,0 +1,24 @@
+{
+    "id": "rct2.ww.wtudor10",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0B13|WTUDOR10|322C21A2",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WTUDOR10.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tudor Wall Piece 2",
+            "fr-FR": "Pan de mur Tudor 2",
+            "de-DE": "Tudor Wand-Bauteil 2",
+            "es-ES": "Pieza de pared Tudor 2",
+            "it-IT": "Pezzo di muro Tudor 2",
+            "nl-NL": "Stuk muur in Tudorstijl 2",
+            "sv-SE": "Tudor-väggdel 2"
+        }
+    }
+}

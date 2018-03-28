@@ -1,0 +1,32 @@
+{
+    "id": "rct2.tsh4",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TSH4    |D40D037A",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": 5,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 16,
+        "shape": "1/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TSH4.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Shrub",
+            "fr-FR": "Arbuste",
+            "de-DE": "Strauch",
+            "es-ES": "Arbusto",
+            "it-IT": "Arbusto",
+            "nl-NL": "Struik",
+            "sv-SE": "Buske",
+            "ko-KR": "관목",
+            "zh-CN": "灌木",
+            "zh-TW": "灌木",
+            "pt-BR": "Arbusto"
+        }
+    }
+}

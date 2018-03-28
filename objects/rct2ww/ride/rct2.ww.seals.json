@@ -1,0 +1,136 @@
+{
+    "id": "rct2.ww.seals",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0110|SEALS   |EC944C51",
+    "objectType": "ride",
+    "properties": {
+        "type": "corkscrew_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 8,
+        "numEmptyCars": 1,
+        "defaultCar": 1,
+        "headCars": 0,
+        "tailCars": 2,
+        "ratingMultipler": {
+            "intensity": 10
+        },
+        "carColours": [
+            [
+                ["light_blue", "white", "yellow"]
+            ],
+            [
+                ["bright_red", "yellow", "yellow"]
+            ],
+            [
+                ["white", "bordeaux_red", "bordeaux_red"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 261480,
+                "mass": 600,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [5, 3, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 226616,
+                "mass": 500,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [7, 9, -3, -1]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 52296,
+                "mass": 50,
+                "frictionSoundId": 2,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true
+                }
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SEALS.DAT[0..4470]"],
+    "strings": {
+        "name": {
+            "en-GB": "Seals Rollercoaster",
+            "fr-FR": "Montagnes des phoques",
+            "de-DE": "Robben-Achterbahn",
+            "es-ES": "Montaña Rusa Focas",
+            "it-IT": "Ottovolante delle foche",
+            "nl-NL": "Zeerob-Achtbaan",
+            "sv-SE": "Spiralbana",
+            "zh-CN": "海豹云霄飞车"
+        },
+        "description": {
+            "en-GB": "A compact steel-tracked roller coaster where the train travels through corkscrews and loops",
+            "fr-FR": "Montagnes russes compactes et métalliques dont le train effectue tire-bouchons et boucles",
+            "de-DE": "Eine kompakte Stahlschienen-Achterbahn, auf welcher der Zug Korkenzieher und Loopings fährt",
+            "es-ES": "Una montaña rusa compacta de acero donde los vagones circulan por rizos y sacacorchos",
+            "it-IT": "Un ottovolante compatto, di acciaio, in cui le carrozze percorrono avvitamenti e giri della morte",
+            "nl-NL": "Een compacte, op stalen rails lopende achtbaan waarop de trein door Kurkentrekkers en loopings loopt",
+            "sv-SE": "Berg- och dalbana av kompakt stål som ringlar sig fram genom korkskruvar och spiraler",
+            "zh-CN": "一座以螺旋循环式运行前进并以钢铁轨道组合而成的云霄飞车"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "zh-CN": "每辆车限乘4人"
+        }
+    }
+}

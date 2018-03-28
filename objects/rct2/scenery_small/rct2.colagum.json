@@ -1,0 +1,33 @@
+{
+    "id": "rct2.colagum",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|COLAGUM |9FFA33A5",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 15,
+        "removalPrice": -11,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 48,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/COLAGUM.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cola Candy",
+            "fr-FR": "Bonbon cola",
+            "de-DE": "Cola-Bonbon",
+            "es-ES": "Caramelo de cola",
+            "it-IT": "Dolce alla cola",
+            "nl-NL": "Colasnoep",
+            "sv-SE": "Kola",
+            "ko-KR": "콜라캔디",
+            "zh-CN": "可乐糖果",
+            "zh-TW": "可樂糖果",
+            "pt-BR": "Doce de Cola"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": "rct2.sqdst",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SQDST   |D85DF877",
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": "tentacle",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SQDST.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sea Food Stall",
+            "fr-FR": "Fruits de mer",
+            "de-DE": "Meeresfrüchtestand",
+            "es-ES": "Puesto de mariscos",
+            "it-IT": "Chiosco dei frutti di mare",
+            "nl-NL": "Kraampje met Visgerechten",
+            "sv-SE": "Havsdelikatessbod",
+            "ko-KR": "튀김 가게",
+            "zh-CN": "海鲜店",
+            "zh-TW": "海鮮店",
+            "pt-BR": "Barraca de Frutos do Mar"
+        },
+        "description": {
+            "en-GB": "A stall selling fried tentacles",
+            "fr-FR": "Boutique vendant du poulpe grillé",
+            "de-DE": "Ein Stand, an dem Meeresfrüchte verkauft werden",
+            "es-ES": "Un puesto que vende calamares fritos",
+            "it-IT": "Un chiosco che vende tentacoli fritti",
+            "nl-NL": "Een kraampje dat gebakken visgerechten verkoopt",
+            "sv-SE": "Ett stånd som säljer friterade tentakler",
+            "ko-KR": "오징어 튀김을 파는 건물",
+            "zh-CN": "一家卖炸触角的店",
+            "zh-TW": "一家賣炸觸角的店",
+            "pt-BR": "Uma barraca vendendo lula frita"
+        }
+    }
+}

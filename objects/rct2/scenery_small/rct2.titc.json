@@ -1,0 +1,30 @@
+{
+    "id": "rct2.titc",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TITC    |8C95880F",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 25,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 120,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TITC.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Italian Cypress Tree",
+            "fr-FR": "Cyprès d'Italie",
+            "de-DE": "Italienische Zypresse",
+            "es-ES": "Ciprés italiano",
+            "it-IT": "Cipresso italiano",
+            "nl-NL": "Italiaanse Cipres",
+            "sv-SE": "Italiensk cypress",
+            "ko-KR": "이탈리아산 사이프러스 나무",
+            "zh-CN": "义大利扁柏树",
+            "zh-TW": "義大利扁柏樹",
+            "pt-BR": "Árvore Cipreste-Italiano"
+        }
+    }
+}

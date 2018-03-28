@@ -1,0 +1,37 @@
+{
+    "id": "rct2.tt.gangster",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|GANGSTER|36C4B048",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 46,
+        "removalPrice": -38,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 80,
+        "animationDelay": 3,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/GANGSTER.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Animatronic Gangster",
+            "fr-FR": "Automate : gangster",
+            "es-ES": "Animatrónico de gangster",
+            "it-IT": "Animatrone gangster",
+            "nl-NL": "Animatronische gangster",
+            "sv-SE": "Gangster (animatronisk)",
+            "ko-KR": "움직이는 갱단",
+            "zh-TW": "流氓機械偶",
+            "pt-BR": "Gângster Animatrônico"
+        }
+    }
+}

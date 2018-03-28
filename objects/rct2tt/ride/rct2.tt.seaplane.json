@@ -1,0 +1,86 @@
+{
+    "id": "rct2.tt.seaplane",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F920|SEAPLANE|5502749C",
+    "objectType": "ride",
+    "properties": {
+        "type": "suspended_swinging_rc",
+        "category": "rollercoaster",
+        "tabScale": 0.5,
+        "maxCarsPerTrain": 8,
+        "carColours": [
+            [
+                ["bright_red", "saturated_red", "yellow"]
+            ],
+            [
+                ["dark_green", "dark_purple", "white"]
+            ],
+            [
+                ["white", "grey", "bright_red"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 348640,
+            "mass": 950,
+            "tabOffset": -22,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 4,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "diagonalSlopes": true,
+                "restraintAnimation": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_SWINGING": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "VEHICLE_ENTRY_FLAG_21": true,
+            "loadingPositions": [4, 6, -6, -4]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/SEAPLANE.DAT[0..4622]"],
+    "strings": {
+        "name": {
+            "en-GB": "Seaplane Ride",
+            "fr-FR": "Le planeur",
+            "de-DE": "Wasserflugzeug-Attraktion",
+            "es-ES": "Viaje del hidroavión",
+            "it-IT": "Corsa sull'idrovolante",
+            "nl-NL": "Watervliegtuig-attractie",
+            "sv-SE": "Sjöflygplan",
+            "ko-KR": "씨플레인 라이드",
+            "zh-TW": "水上飛機遊樂設施",
+            "pt-BR": "Brinquedo de Hidroavião"
+        },
+        "description": {
+            "en-GB": "Suspended roller coaster train consisting of cars able to swing freely as the train goes around corners",
+            "fr-FR": "Train suspendu à des montagnes russes et dont les voitures se balancent dans les virages",
+            "de-DE": "Ein aufgehängter Achterbahnzug mit Wagen, die frei schwingen, wenn der Zug durch die Kurven fährt",
+            "es-ES": "Tren de montaña rusa suspendido consistente en vagones capaces de girar con libertad cuando el tren coge curvas.",
+            "it-IT": "I treni sospesi trainano carrozze capaci di oscillare liberamente quando il treno affronta una curva.",
+            "nl-NL": "Hangende achtbaantrein bestaande uit wagentjes die vrij kunnen slingeren wanneer de trein door bochten gaat.",
+            "sv-SE": "Hängande berg- och dalbanetåg med vagnar som svingar fritt i sidled i kurvorna.",
+            "ko-KR": "열차가 커브를 돌 때 자유로이 좌우로 흔들릴 수 있도록 고안된 객차를 가진 진동 열차",
+            "zh-TW": "是由當列車在轉角處轉彎時列車自由搖?晃動組成的懸掛式雲霄飛車",
+            "pt-BR": "Trem suspenso de montanha-russa consistindo de vagões capazes de balançar livremente quando o trem corre por curvas"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por coche",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 정원 4명",
+            "zh-TW": "每輛車限乘4人",
+            "pt-BR": "4 passageiros por vagão"
+        }
+    }
+}

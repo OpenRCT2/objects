@@ -1,0 +1,38 @@
+{
+    "id": "rct2.whoriz",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F81|WHORIZ  |8EB1913D",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -10,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "animationMask": 7,
+        "numFrames": 8,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    "images": ["$RCT2:OBJDATA/WHORIZ.DAT[0..35]"],
+    "strings": {
+        "name": {
+            "en-GB": "Water Jet",
+            "fr-FR": "Jet d'eau",
+            "de-DE": "Wasserstrahl",
+            "es-ES": "Chorro de agua",
+            "it-IT": "Schizzo d'acqua",
+            "nl-NL": "Waterstraal",
+            "sv-SE": "Vattenstråle",
+            "ko-KR": "워터젯",
+            "zh-CN": "水上摩托车",
+            "zh-TW": "水上摩托車",
+            "pt-BR": "Jato d'Água"
+        }
+    }
+}

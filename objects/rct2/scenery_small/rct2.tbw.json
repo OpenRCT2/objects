@@ -1,0 +1,32 @@
+{
+    "id": "rct2.tbw",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TBW     |02722C6B",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TBW.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Broken Wheel",
+            "fr-FR": "Roue cassée",
+            "de-DE": "Gebrochenes Rad",
+            "es-ES": "Rueda rota",
+            "it-IT": "Ruota rotta",
+            "nl-NL": "Kapot Wiel",
+            "sv-SE": "Trasiga hjul",
+            "ko-KR": "부서진 바퀴",
+            "zh-CN": "破轮子",
+            "zh-TW": "破輪子",
+            "pt-BR": "Roda Quebrada"
+        }
+    }
+}

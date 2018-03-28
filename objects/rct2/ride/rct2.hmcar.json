@@ -1,0 +1,112 @@
+{
+    "id": "rct2.hmcar",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|HMCAR   |A151BA28",
+    "objectType": "ride",
+    "properties": {
+        "type": "ghost_train",
+        "category": "gentle",
+        "RIDE_ENTRY_FLAG_18": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "carColours": [
+            [
+                ["bright_red", "dark_brown", "black"]
+            ],
+            [
+                ["yellow", "bordeaux_red", "black"]
+            ],
+            [
+                ["bright_purple", "bordeaux_red", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 87160,
+                "mass": 300,
+                "numSeats": 2,
+                "numSeatRows": 1,
+                "soundRange": 0,
+                "poweredAcceleration": 80,
+                "poweredMaxSpeed": 9,
+                "drawOrder": 7,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_POWERED_RIDE_UNRESTRICTED_GRAVITY": true,
+                "VEHICLE_ENTRY_FLAG_NO_UPSTOP_WHEELS": true,
+                "VEHICLE_ENTRY_FLAG_NO_UPSTOP_BOBSLEIGH": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [3, -3]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "poweredAcceleration": 80,
+                "poweredMaxSpeed": 9,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_POWERED_RIDE_UNRESTRICTED_GRAVITY": true,
+                "VEHICLE_ENTRY_FLAG_NO_UPSTOP_WHEELS": true,
+                "VEHICLE_ENTRY_FLAG_NO_UPSTOP_BOBSLEIGH": true,
+                "VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/HMCAR.DAT[0..242]"],
+    "strings": {
+        "name": {
+            "en-GB": "Haunted Mansion Ride",
+            "fr-FR": "Maison fantôme",
+            "de-DE": "Geisterbahnfahrt",
+            "es-ES": "Paseo por la Casa Encantada",
+            "it-IT": "Corsa del palazzo infestato",
+            "nl-NL": "Spookhuis Attractie",
+            "sv-SE": "Spökslottet",
+            "ko-KR": "유령의 저택 모험",
+            "zh-CN": "猛鬼屋",
+            "zh-TW": "猛鬼屋",
+            "pt-BR": "Brinquedo Mansão Assombrada"
+        },
+        "description": {
+            "en-GB": "Powered cars travel along a multi-level track past special effects and scenery",
+            "fr-FR": "Des voitures à propulsion parcourent les étages d'un bâtiment bourré d'effets spéciaux et de décors",
+            "de-DE": "Angetriebene Wagen fahren auf einer mehrstöckigen Strecke an Spezialeffekten und Aufbauten vorbei",
+            "es-ES": "Vagones autopropulsados que corren sobre una vía multinivel",
+            "it-IT": "Carrozze a motore si muovono lungo un tracciato multi-livello attraverso uno scenario con effetti speciali",
+            "nl-NL": "Elektrische wagentjes gaan over een baan met vele niveaus langs speciale effecten en decors",
+            "sv-SE": "Motordrivna vagnar åker längs ett spår i flera nivåer förbi specialeffekter och scener",
+            "ko-KR": "여러 음향 효과와 장면들을 통과하는 롤러코스터",
+            "zh-CN": "动力式车辆延着多层次轨道通过一些特效及景物",
+            "zh-TW": "動力式車輛延著多層次軌道通過一些特效及景物",
+            "pt-BR": "Carros motorizados andam numa pista de vários níveis, passando por cenários e efeitos especiais"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por vagón",
+            "it-IT": "2 passeggeri a carrozza",
+            "nl-NL": "2 passagiers per wagentje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량 정원 2명",
+            "zh-CN": "2 位乘客/每个车厢",
+            "zh-TW": "2 位乘客/每個車廂",
+            "pt-BR": "2 passageiros por vagão"
+        }
+    }
+}

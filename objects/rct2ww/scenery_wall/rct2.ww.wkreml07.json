@@ -1,0 +1,24 @@
+{
+    "id": "rct2.ww.wkreml07",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0913|WKREML07|CC26B9AE",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WKREML07.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Kremlin Wall Piece 5",
+            "fr-FR": "Pan de mur du Kremlin 5",
+            "de-DE": "Kreml - Wandbauteil 5",
+            "es-ES": "Pieza de pared del Kremlin 5",
+            "it-IT": "Pezzo di muro del Cremlino 5",
+            "nl-NL": "Stuk muur Kremlin 5",
+            "sv-SE": "Kreml-mur del 5"
+        }
+    }
+}

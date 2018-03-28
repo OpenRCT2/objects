@@ -1,0 +1,47 @@
+{
+    "id": "rct2.burgb",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|BURGB   |2BBB59E4",
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": "burger",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/BURGB.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Burger Bar",
+            "fr-FR": "Bar burger",
+            "de-DE": "Burger-Bar",
+            "es-ES": "Hamburguesería",
+            "it-IT": "Panineria",
+            "nl-NL": "Hamburger Bar",
+            "sv-SE": "Hamburgarbar",
+            "ko-KR": "버거 매점",
+            "zh-CN": "汉堡店",
+            "zh-TW": "漢堡店",
+            "pt-BR": "Lanchonete"
+        },
+        "description": {
+            "en-GB": "A burger-shaped building selling burgers",
+            "fr-FR": "Bâtiment en forme de hamburger vendant... des hamburgers",
+            "de-DE": "Ein Gebäude in Burger-Form, in dem Burger verkauft werden",
+            "es-ES": "Edificio con forma de hamburguesa que vende hamburguesas",
+            "it-IT": "Un edificio a forma di panino che vende panini",
+            "nl-NL": "Een gebouw in de vorm van een hamburger waarin hamburgers worden verkocht",
+            "sv-SE": "En hamburgarformad byggnad där man säljer hamburgare",
+            "ko-KR": "버거를 파는 버거모양의 긴 건물",
+            "zh-CN": "汉堡形状的建筑物在卖汉堡",
+            "zh-TW": "漢堡形狀的建築物在賣漢堡",
+            "pt-BR": "Uma construção em forma de hambúrguer, vendendo hambúrgueres"
+        }
+    }
+}

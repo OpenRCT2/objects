@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.ukphone",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0B11|UKPHONE |C11242A6",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 96,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/UKPHONE.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "British Telephone Box",
+            "fr-FR": "Cabine téléphonique anglaise",
+            "de-DE": "Britische Telefonzelle",
+            "es-ES": "Cabina telefónica británica",
+            "it-IT": "Cabina telefonica inglese",
+            "nl-NL": "Engelse Telefooncel",
+            "sv-SE": "Brittisk telefonkiosk",
+            "zh-CN": "英国电话亭"
+        }
+    }
+}

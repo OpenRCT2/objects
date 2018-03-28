@@ -1,0 +1,78 @@
+{
+    "id": "rct2.ww.kolaride",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0E10|KOLARIDE|53611988",
+    "objectType": "ride",
+    "properties": {
+        "type": "reverse_freefall_rc",
+        "category": "rollercoaster",
+        "tabScale": 0.5,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["bright_red", "grey", "light_purple"]
+            ],
+            [
+                ["yellow", "bordeaux_red", "bordeaux_red"]
+            ],
+            [
+                ["bright_purple", "yellow", "yellow"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 348640,
+            "mass": 5500,
+            "numSeats": 8,
+            "numSeatRows": 4,
+            "frictionSoundId": 57,
+            "soundRange": 0,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "verticalSlopes": true,
+                "restraintAnimation": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [7, 5, 2, 0, -5, -7, -6, 1]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/KOLARIDE.DAT[0..1562]"],
+    "strings": {
+        "name": {
+            "en-GB": "Koala Ride",
+            "fr-FR": "Koala",
+            "de-DE": "Koalabahn",
+            "es-ES": "Atracción Koala",
+            "it-IT": "Il koala",
+            "nl-NL": "Koala-Attractie",
+            "sv-SE": "Koala-bana",
+            "zh-CN": "无尾熊游乐设施"
+        },
+        "description": {
+            "en-GB": "Large coaster car for the Reverse Freefall Coaster",
+            "fr-FR": "Voiture destinée à la Chute libre renversée",
+            "de-DE": "Großer Wagen für die umgekehrte Freefall-Bahn",
+            "es-ES": "Gran vagón para la montaña rusa invertida de caída libre",
+            "it-IT": "Usa le grandi carrozze dell'ottovolante invertito a caduta libera",
+            "nl-NL": "Grote Achtbaanwagen op een Achterwaartse Vrije Val Achtbaan",
+            "sv-SE": "?Rymliga vagnar störtar baklänges nedför en bana",
+            "zh-CN": "?大型云霄飞车颠倒自由落下"
+        },
+        "capacity": {
+            "en-GB": "8 passengers per car",
+            "fr-FR": "8 passagers par voiture",
+            "de-DE": "8 pro Wagen",
+            "es-ES": "8 pasajeros por vagón",
+            "it-IT": "8 passeggeri per carrozza",
+            "nl-NL": "8 passagiers per wagentje",
+            "sv-SE": "8 passagerare per vagn",
+            "zh-CN": "?每辆车限乘8人"
+        }
+    }
+}

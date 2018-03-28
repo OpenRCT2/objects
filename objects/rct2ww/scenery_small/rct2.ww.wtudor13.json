@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.wtudor13",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0B11|WTUDOR13|B81F0D39",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WTUDOR13.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tudor Ground Bay Wall Piece",
+            "fr-FR": "Pan de baie de rez-de-chaussée Tudor",
+            "de-DE": "Tudor Erdgeschoss-Erkerwandbauteil",
+            "es-ES": "Pieza de pared de bahía de suelo Tudor",
+            "it-IT": "Pezzo di rientro a terra di muro Tudor",
+            "nl-NL": "Stuk muur nis in Tudorstijl",
+            "sv-SE": "Tudor-väggdel för nedre burspråk"
+        }
+    }
+}

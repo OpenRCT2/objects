@@ -1,0 +1,24 @@
+{
+    "id": "rct2.ww.tmarch1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFD13|TMARCH1 |159D24DD",
+    "objectType": "scenery_wall",
+    "properties": {
+        "height": 8,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/TMARCH1.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Maharaja Palace Arch 1",
+            "fr-FR": "Arc du palais du maharajah 1",
+            "de-DE": "Maharadschapalast - Torbogen 1",
+            "es-ES": "Arco 1 del palacio del Maharajá",
+            "it-IT": "Arco 1 del palazzo del Maragià",
+            "nl-NL": "Boog 1 Maharadja-Paleis",
+            "sv-SE": "Maharadjans palats, båge 1",
+            "zh-CN": "印度邦主皇宫拱门1"
+        }
+    }
+}

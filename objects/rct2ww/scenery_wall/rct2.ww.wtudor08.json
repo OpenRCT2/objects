@@ -1,0 +1,24 @@
+{
+    "id": "rct2.ww.wtudor08",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0B13|WTUDOR08|38DC34AA",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WTUDOR08.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tudor Ground Floor Wall Piece 8",
+            "fr-FR": "Pan de mur de rez-de-chaussée Tudor 8",
+            "de-DE": "Tudor Erdgeschoss-Wandbauteil 8",
+            "es-ES": "Pieza de pared de suelo Tudor 8",
+            "it-IT": "Pezzo di muro Tudor del piano terra 8",
+            "nl-NL": "Grondstuk muur in Tudorstijl 8",
+            "sv-SE": "Tudor-väggdel för nedre våning 8"
+        }
+    }
+}

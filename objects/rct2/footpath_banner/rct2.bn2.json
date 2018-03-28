@@ -1,0 +1,28 @@
+{
+    "id": "rct2.bn2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F84|BN2     |0E9A9E27",
+    "objectType": "footpath_banner",
+    "properties": {
+        "scrollingMode": 7,
+        "price": 300,
+        "sceneryGroup": "SCGPATHX"
+    },
+    "images": ["$RCT2:OBJDATA/BN2.DAT[0..7]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jungle Style Sign",
+            "fr-FR": "Panneau jungle",
+            "de-DE": "Dschungelschild",
+            "es-ES": "Señal estilo jungla",
+            "it-IT": "Insegna stile tropicale",
+            "nl-NL": "Bord in Jungle Stijl",
+            "sv-SE": "Skylt - Djungelstil",
+            "ko-KR": "정글 스타일 표시",
+            "zh-CN": "丛林式风格 招牌",
+            "zh-TW": "叢林式風格 招牌",
+            "pt-BR": "Placa Estilo Selva"
+        }
+    }
+}

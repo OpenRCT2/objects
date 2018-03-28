@@ -1,0 +1,33 @@
+{
+    "id": "rct2.tt.goldflec",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F821|GOLDFLEC|552B7B8F",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 399,
+        "removalPrice": -399,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 72,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/GOLDFLEC.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Golden Fleece",
+            "fr-FR": "Toison d'or",
+            "de-DE": "Das Goldene Vlies",
+            "es-ES": "Vellocino de oro",
+            "it-IT": "Vello d'oro",
+            "nl-NL": "Gouden vlies",
+            "sv-SE": "Gyllene Skinnet",
+            "ko-KR": "황금 양피",
+            "zh-TW": "黃金羊毛",
+            "pt-BR": "Velo de Ouro"
+        }
+    }
+}

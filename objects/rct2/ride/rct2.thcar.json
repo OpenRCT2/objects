@@ -1,0 +1,110 @@
+{
+    "id": "rct2.thcar",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|THCAR   |45DFCE16",
+    "objectType": "ride",
+    "properties": {
+        "type": "air_powered_vertical_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 5,
+        "maxCarsPerTrain": 9,
+        "numEmptyCars": 1,
+        "tabCar": 1,
+        "headCars": 1,
+        "carColours": [
+            [
+                ["bright_red", "bright_yellow", "black"]
+            ],
+            [
+                ["light_blue", "bright_red", "black"]
+            ],
+            [
+                ["yellow", "bright_red", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 95876,
+                "mass": 600,
+                "numSeats": 2,
+                "numSeatRows": 1,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "flatBanked": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [3, -3]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 95876,
+                "mass": 500,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "flatBanked": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/THCAR.DAT[0..1166]"],
+    "strings": {
+        "name": {
+            "en-GB": "Air Powered Vertical Coaster",
+            "fr-FR": "Voiture propulsée dans les airs",
+            "de-DE": "Luftbetriebene Vertikalbahn",
+            "es-ES": "Montaña Rusa Vertical de Aire",
+            "it-IT": "Corsa verticale ad aria",
+            "nl-NL": "Luchtige Elektrische Verticale Achtbaan",
+            "sv-SE": "Lufttrycksdriven lodrät bana",
+            "ko-KR": "강력한 수직 코스터",
+            "zh-CN": "气压式垂直过山车",
+            "zh-TW": "氣壓式垂直飛車",
+            "pt-BR": "Montanha Vertical de Propulsão Hidráulica"
+        },
+        "description": {
+            "en-GB": "After an exhilarating air-powered launch, the train speeds up a vertical track, over the top, and vertically down the other side to return to the station",
+            "fr-FR": "Après avoir été propulsé dans les airs, le train accélère sur une voie verticale, passe le sommet, et retombe de l'autre côté en direction de la station",
+            "de-DE": "Nach einem atemberaubenden luftbetriebenen Start schnellt der Zug eine vertikale Strecke hoch, über die Spitze und auf der anderen Seite vertikal nach unten zurück zur Station",
+            "es-ES": "Tras un excitante lanzamiento el vagón corre por una vía vertical hasta el tope y baja vertical por el otro lado",
+            "it-IT": "Dopo un esilarante lancio effettuato sfruttando l'aria, il treno accelera lungo una salita verticale, supera la cima e scende per un pendio verticale per tornare infine alla stazione",
+            "nl-NL": "Na een opwindende start door de lucht, snelt de trein omhoog over een verticale baan, gaat over the top, om aan de andere kant verticaal omlaag te gaan, terug naar het station",
+            "sv-SE": "Efter en upprymd luftdriven start ökar tåget hastigheten upp för ett lodrätt spår över toppen och lodrätt ner på andra sidan för att återvända till stationen",
+            "ko-KR": "공기 압력에 의해 시원하게 속도를 내며 꼭대기까지 올라갔다가 다시 수직하강하여 내려오는 롤러코스터",
+            "zh-CN": "在令人振奋的气压式发射後,列车冲向垂直轨道,并垂直下冲到另一侧再回到车站",
+            "zh-TW": "在令人振奮的氣壓式發射後,列車衝向垂直軌道,並垂直下衝到另一側再回到車站",
+            "pt-BR": "Depois de um lançamento por propulsão hidráulica, o trem sobe uma pista vertical, até o topo, e desce verticalmente pelo outro lado para voltar à estação"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por vagón",
+            "it-IT": "2 passeggeri a carrozza",
+            "nl-NL": "2 passagiers per wagentje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량 정원 2명",
+            "zh-CN": "2 位乘客/每个车厢",
+            "zh-TW": "2 位乘客/每個車廂",
+            "pt-BR": "2 passageiros por vagão"
+        }
+    }
+}

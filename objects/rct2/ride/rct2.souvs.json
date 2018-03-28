@@ -1,0 +1,50 @@
+{
+    "id": "rct2.souvs",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SOUVS   |CDADB499",
+    "objectType": "ride",
+    "properties": {
+        "type": "shop",
+        "category": "stall",
+        "sells": [
+            "toy",
+            "umbrella"
+        ],
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SOUVS.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Souvenir Stall",
+            "fr-FR": "Souvenirs",
+            "de-DE": "Souvenirstand",
+            "es-ES": "Puesto de souvenirs",
+            "it-IT": "Chiosco di souvenir",
+            "nl-NL": "Souvenirkraampje",
+            "sv-SE": "Souvenirstånd",
+            "ko-KR": "기념품 가게",
+            "zh-CN": "纪念品店",
+            "zh-TW": "紀念品店",
+            "pt-BR": "Barraca de Souvenires"
+        },
+        "description": {
+            "en-GB": "A stall selling souvenir cuddly toys and umbrellas",
+            "fr-FR": "Boutiques vendant des peluches et des parapluies",
+            "de-DE": "Ein Stand, an dem Souvenirplüschtiere und -regenschirme verkauft werden",
+            "es-ES": "Puesto que vende juguetitos y paraguas",
+            "it-IT": "Un chiosco che vende peluche e ombrelli",
+            "nl-NL": "Een kraampje dat teddyberen en paraplu's als souvenirs verkoopt",
+            "sv-SE": "Ett stånd som säljer kramgoa leksaker och paraplyer som souvenirer",
+            "ko-KR": "껴안는 인형과 우산을 파는 건물",
+            "zh-CN": "一家在卖纪念品 酷迪玩具 和 雨伞的店",
+            "zh-TW": "一家在賣紀念品 酷迪玩具 和 雨傘的店",
+            "pt-BR": "Uma barraca vendendo brinquedos de pelúcia e guarda-chuvas de lembrança"
+        }
+    }
+}

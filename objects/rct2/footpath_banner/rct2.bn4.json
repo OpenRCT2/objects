@@ -1,0 +1,28 @@
+{
+    "id": "rct2.bn4",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F84|BN4     |FD7EF62E",
+    "objectType": "footpath_banner",
+    "properties": {
+        "scrollingMode": 11,
+        "price": 300,
+        "sceneryGroup": "SCGPATHX"
+    },
+    "images": ["$RCT2:OBJDATA/BN4.DAT[0..7]"],
+    "strings": {
+        "name": {
+            "en-GB": "Egyptian Style Sign",
+            "fr-FR": "Panneau égyptien",
+            "de-DE": "Ägyptisches Schild",
+            "es-ES": "Señal estilo egipcio",
+            "it-IT": "Insegna stile egiziano",
+            "nl-NL": "Bord in Egyptische Stijl",
+            "sv-SE": "Egyptisk skylt",
+            "ko-KR": "이집트 스타일 표시",
+            "zh-CN": "埃及风格 招牌",
+            "zh-TW": "埃及風格 招牌",
+            "pt-BR": "Placa Estilo Egípcio"
+        }
+    }
+}

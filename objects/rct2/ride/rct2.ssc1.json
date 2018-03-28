@@ -1,0 +1,241 @@
+{
+    "id": "rct2.ssc1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SSC1    |582A63A3",
+    "objectType": "ride",
+    "properties": {
+        "type": "launched_freefall",
+        "category": "thrill",
+        "tabScale": 0.5,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["white", "bright_red", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 862884,
+            "mass": 1500,
+            "tabOffset": 10,
+            "numSeats": 8,
+            "spriteWidth": 30,
+            "spriteHeightNegative": 60,
+            "spriteHeightPositive": 13,
+            "soundRange": 0,
+            "carVisual": 2,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "numSegments": 4,
+            "loadingWaypoints": [
+                [
+                    [28, 28],
+                    [-28, 28],
+                    [-22, 4]
+                ],
+                [
+                    [-28, -28],
+                    [-22, 4],
+                    [-22, 4]
+                ],
+                [
+                    [-22, 4],
+                    [-22, 4],
+                    [-22, 4]
+                ],
+                [
+                    [-28, 28],
+                    [-22, 4],
+                    [-22, 4]
+                ],
+                [
+                    [28, -28],
+                    [-28, -28],
+                    [-22, -4]
+                ],
+                [
+                    [-28, -28],
+                    [-22, -4],
+                    [-22, -4]
+                ],
+                [
+                    [-22, -4],
+                    [-22, -4],
+                    [-22, -4]
+                ],
+                [
+                    [-28, 28],
+                    [-22, -4],
+                    [-22, -4]
+                ],
+                [
+                    [28, 28],
+                    [4, 22],
+                    [4, 22]
+                ],
+                [
+                    [28, -28],
+                    [28, 28],
+                    [4, 22]
+                ],
+                [
+                    [-28, 28],
+                    [4, 22],
+                    [4, 22]
+                ],
+                [
+                    [4, 22],
+                    [4, 22],
+                    [4, 22]
+                ],
+                [
+                    [28, 28],
+                    [-4, 22],
+                    [-4, 22]
+                ],
+                [
+                    [-28, -28],
+                    [-28, 28],
+                    [-4, 22]
+                ],
+                [
+                    [-28, 28],
+                    [-4, 22],
+                    [-4, 22]
+                ],
+                [
+                    [-4, 22],
+                    [-4, 22],
+                    [-4, 22]
+                ],
+                [
+                    [22, -4],
+                    [22, -4],
+                    [22, -4]
+                ],
+                [
+                    [28, -28],
+                    [22, -4],
+                    [22, -4]
+                ],
+                [
+                    [-28, -28],
+                    [28, -28],
+                    [22, -4]
+                ],
+                [
+                    [28, 28],
+                    [22, -4],
+                    [22, -4]
+                ],
+                [
+                    [22, 4],
+                    [22, 4],
+                    [22, 4]
+                ],
+                [
+                    [28, -28],
+                    [22, 4],
+                    [22, 4]
+                ],
+                [
+                    [-28, 28],
+                    [28, 28],
+                    [22, 4]
+                ],
+                [
+                    [28, 28],
+                    [22, 4],
+                    [22, 4]
+                ],
+                [
+                    [28, -28],
+                    [-4, -22],
+                    [-4, -22]
+                ],
+                [
+                    [-4, -22],
+                    [-4, -22],
+                    [-4, -22]
+                ],
+                [
+                    [-28, -28],
+                    [-4, -22],
+                    [-4, -22]
+                ],
+                [
+                    [-28, 28],
+                    [-28, -28],
+                    [-4, -22]
+                ],
+                [
+                    [28, -28],
+                    [4, -22],
+                    [4, -22]
+                ],
+                [
+                    [4, -22],
+                    [4, -22],
+                    [4, -22]
+                ],
+                [
+                    [-28, -28],
+                    [4, -22],
+                    [4, -22]
+                ],
+                [
+                    [28, 28],
+                    [28, -28],
+                    [4, -22]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/SSC1.DAT[0..23]"],
+    "strings": {
+        "name": {
+            "en-GB": "Launched Freefall",
+            "fr-FR": "Chute libre lancée",
+            "de-DE": "Hochgeschossener Freefall",
+            "es-ES": "Caída Libre Propulsada",
+            "it-IT": "Lancio in caduta libera",
+            "nl-NL": "Gelanceerde Vrije val",
+            "sv-SE": "Fritt fall",
+            "ko-KR": "런치드 프리폴",
+            "zh-CN": "发射自由落体",
+            "zh-TW": "發射自由落體",
+            "pt-BR": "Queda Livre de Propulsão"
+        },
+        "description": {
+            "en-GB": "Freefall car is pneumatically launched up a tall steel tower and then allowed to freefall down",
+            "fr-FR": "Voiture lancée pneumatiquement au sommet d'une grande tour métallique puis lâchée en chute libre",
+            "de-DE": "Der Freefall-Wagen wird mit Druckluft einen hohen Stahlturm hochgeschossen, von wo er dann im freien Fall nach unten saust",
+            "es-ES": "Un vagón es lanzado en un neumático a lo alto de una elevada torre de acero, cayendo libremente",
+            "it-IT": "La carrozza per la caduta libera viene issata pneumaticamente su un'alta torre e poi lanciata in caduta libera",
+            "nl-NL": "Het wagentje wordt pneumatisch omhoog gelanceerd langs een hoge stalen toren en valt daarna in vrije val omlaag",
+            "sv-SE": "Frifallsvagnar skjuts med lufttryck upp för ett ståltorn och får sen falla fritt ner",
+            "ko-KR": "높은 철제 탑 위에서 쏘아져 자유 낙하하는 기구",
+            "zh-CN": "自由落体车辆以气压式发射朝高塔上方上升然後再自行自由落下",
+            "zh-TW": "自由落體車輛以氣壓式發射朝高塔上方上升然後再自行自由落下",
+            "pt-BR": "O carro de queda livre é lançado pneumaticamente numa torre alta de aço e então desce em queda livre"
+        },
+        "capacity": {
+            "en-GB": "8 passengers",
+            "fr-FR": "8 passagers",
+            "de-DE": "8 Fahrgäste",
+            "es-ES": "8 pasajeros",
+            "it-IT": "8 passeggeri",
+            "nl-NL": "8 passagiers",
+            "sv-SE": "8 passagerare",
+            "ko-KR": "정원 8명",
+            "zh-CN": "8 位乘客",
+            "zh-TW": "8 位乘客",
+            "pt-BR": "8 passageiros"
+        }
+    }
+}

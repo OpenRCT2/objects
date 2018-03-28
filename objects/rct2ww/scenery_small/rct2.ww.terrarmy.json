@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.terrarmy",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0011|TERRARMY|A08D2A22",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TERRARMY.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Terracotta Army",
+            "fr-FR": "Armée de terre cuite",
+            "de-DE": "Terrakotta-Armee",
+            "es-ES": "Ejército de terracota",
+            "it-IT": "Esercito di terracotta",
+            "nl-NL": "Leger van Terracotta",
+            "sv-SE": "Terrakottaarmé",
+            "zh-CN": "兵马俑"
+        }
+    }
+}

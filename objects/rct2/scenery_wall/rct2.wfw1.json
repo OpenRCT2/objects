@@ -1,0 +1,29 @@
+{
+    "id": "rct2.wfw1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WFW1    |D1026E02",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "isAllowedOnSlope": true,
+        "height": 2,
+        "price": 40
+    },
+    "images": ["$RCT2:OBJDATA/WFW1.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wooden Fence",
+            "fr-FR": "Clôture en bois",
+            "de-DE": "Holzzaun",
+            "es-ES": "Valla de madera",
+            "it-IT": "Recinto di legno",
+            "nl-NL": "Houten Hek",
+            "sv-SE": "Trästaket",
+            "ko-KR": "목재 담벽",
+            "zh-CN": "木式栅栏",
+            "zh-TW": "木式柵欄",
+            "pt-BR": "Cerca de Madeira"
+        }
+    }
+}

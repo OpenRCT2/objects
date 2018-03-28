@@ -1,0 +1,38 @@
+{
+    "id": "rct2.stbase",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|STBASE  |CF101998",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "allowSupportsAbove": true
+    },
+    "images": ["$RCT2:OBJDATA/STBASE.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Steel Block",
+            "fr-FR": "Bloc métallique",
+            "de-DE": "Stahlblock",
+            "es-ES": "Bloque de acero",
+            "it-IT": "Blocco d'acciaio",
+            "nl-NL": "Stalen Blok",
+            "sv-SE": "Stålblock",
+            "ko-KR": "강철 블록",
+            "zh-CN": "铁块",
+            "zh-TW": "鐵塊",
+            "pt-BR": "Bloco de Aço"
+        }
+    }
+}

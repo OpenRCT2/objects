@@ -1,0 +1,26 @@
+{
+    "id": "rct2.tt.1920sent",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA28|1920SENT|5D8EA3D5",
+    "objectType": "park_entrance",
+    "properties": {
+        "scrollingMode": 3,
+        "textHeight": 74
+    },
+    "images": ["$RCT2:OBJDATA/1920SENT.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Roaring Twenties Park Entrance",
+            "fr-FR": "Entrée du parc des années folles",
+            "de-DE": "Eingang Wilde Zwanziger-Park",
+            "es-ES": "Entrada a parque de los locos años veinte",
+            "it-IT": "Entrata del Parco dei Ruggenti Anni Venti",
+            "nl-NL": "Roaring Twenties Ingang Park",
+            "sv-SE": "Parkentré, glada tjugotalet",
+            "ko-KR": "번창한 20세기 공원 입구",
+            "zh-TW": "喧騰的20年代主題公園入口",
+            "pt-BR": "Entrada de Parque dos Anos 20"
+        }
+    }
+}

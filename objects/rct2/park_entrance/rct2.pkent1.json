@@ -1,0 +1,27 @@
+{
+    "id": "rct2.pkent1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188088|PKENT1  |E3FB2B4B",
+    "objectType": "park_entrance",
+    "properties": {
+        "scrollingMode": 3,
+        "textHeight": 81
+    },
+    "images": ["$RCT2:OBJDATA/PKENT1.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Traditional Park Entrance",
+            "fr-FR": "Entrée de parc traditionnelle",
+            "de-DE": "Traditioneller Parkeingang",
+            "es-ES": "Entrada al parque tradicional",
+            "it-IT": "Entrata del parco tradizionale",
+            "nl-NL": "Traditionele Parkingang",
+            "sv-SE": "Vanlig parkentré",
+            "ko-KR": "전통적인 공원 입구",
+            "zh-CN": "传统游乐园入口",
+            "zh-TW": "傳統遊樂園入口",
+            "pt-BR": "Entrada de Parque Tradicional"
+        }
+    }
+}

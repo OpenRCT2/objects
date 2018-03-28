@@ -1,0 +1,28 @@
+{
+    "id": "rct2.bn7",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F84|BN7     |EC6F693C",
+    "objectType": "footpath_banner",
+    "properties": {
+        "scrollingMode": 24,
+        "price": 300,
+        "sceneryGroup": "SCGPATHX"
+    },
+    "images": ["$RCT2:OBJDATA/BN7.DAT[0..7]"],
+    "strings": {
+        "name": {
+            "en-GB": "Pagoda Style Sign",
+            "fr-FR": "Panneau pagode",
+            "de-DE": "Pagodenschild",
+            "es-ES": "Señal estilo pagoda",
+            "it-IT": "Insegna stile pagoda",
+            "nl-NL": "Bord  in Pagode Stijl",
+            "sv-SE": "Skylt - Pagodstil",
+            "ko-KR": "탑 스타일 표시",
+            "zh-CN": "塔/凉亭风格 招牌",
+            "zh-TW": "塔/涼亭風格 招牌",
+            "pt-BR": "Placa Estilo Pagode"
+        }
+    }
+}

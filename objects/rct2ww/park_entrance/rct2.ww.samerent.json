@@ -1,0 +1,23 @@
+{
+    "id": "rct2.ww.samerent",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31D18|SAMERENT|E08AF168",
+    "objectType": "park_entrance",
+    "properties": {
+        "scrollingMode": 3,
+        "textHeight": 82
+    },
+    "images": ["$RCT2:OBJDATA/SAMERENT.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "South American Park Entrance",
+            "fr-FR": "Entrée du parc sud-américain",
+            "de-DE": "Südamerikapark-Eingang",
+            "es-ES": "Entrada al parque de Sudamérica",
+            "it-IT": "Ingresso del parco sudamericano",
+            "nl-NL": "Zuid-Amerikaanse Parkingang",
+            "sv-SE": "Ingång till sydamerikansk park"
+        }
+    }
+}

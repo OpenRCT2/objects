@@ -1,0 +1,35 @@
+{
+    "id": "rct2.tt.jailxx20",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|JAILXX20|0EC88F57",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": -6,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "1/4+D",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/JAILXX20.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Prison Wall Corner",
+            "fr-FR": "Virage de mur de prison",
+            "de-DE": "Gefängnismauerecke",
+            "es-ES": "Esquina de muro de prisión",
+            "it-IT": "Curva del muro della prigione",
+            "nl-NL": "Bocht Gevangenismuur",
+            "sv-SE": "Vägghörn, fängelse",
+            "ko-KR": "감옥 벽 모서리",
+            "zh-TW": "監獄牆牆角",
+            "pt-BR": "Canto de Parede de Prisão"
+        }
+    }
+}

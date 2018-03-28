@@ -1,0 +1,36 @@
+{
+    "id": "rct2.tt.artdec28",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F921|ARTDEC28|2AC15105",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 8,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/ARTDEC28.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Art Deco Roof Section",
+            "fr-FR": "Section de toit art déco",
+            "de-DE": "Art Déco Dachabschnitt",
+            "es-ES": "Sección de tejado Art Decó",
+            "it-IT": "Sezione di tetto in art decò",
+            "nl-NL": "Dakstuk Art Deco",
+            "sv-SE": "Taksektion, art déco",
+            "ko-KR": "아르데코 지붕 부분",
+            "zh-TW": "裝飾藝術屋頂區段",
+            "pt-BR": "Seção de Telhado de Arte Déco"
+        }
+    }
+}

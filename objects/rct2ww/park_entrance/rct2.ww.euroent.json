@@ -1,0 +1,23 @@
+{
+    "id": "rct2.ww.euroent",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0B18|EUROENT |B2CD7437",
+    "objectType": "park_entrance",
+    "properties": {
+        "scrollingMode": 36,
+        "textHeight": 51
+    },
+    "images": ["$RCT2:OBJDATA/EUROENT.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "European Park Entrance",
+            "fr-FR": "Entrée du parc européen",
+            "de-DE": "Europäischer Park-Eingang",
+            "es-ES": "Entrada al parque europeo",
+            "it-IT": "Ingresso del parco europeo",
+            "nl-NL": "Europese Ingang Pretpark",
+            "sv-SE": "Ingång till europeisk park"
+        }
+    }
+}

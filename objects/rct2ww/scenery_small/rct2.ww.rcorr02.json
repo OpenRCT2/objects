@@ -1,0 +1,31 @@
+{
+    "id": "rct2.ww.rcorr02",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0411|RCORR02 |20C47B9F",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RCORR02.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Corrugated Roof Piece",
+            "fr-FR": "Pan de toit ondulé",
+            "de-DE": "Gewelltes Dach-Bauteil",
+            "es-ES": "Pieza de tejado ondulado",
+            "it-IT": "Pezzo di tetto ondulato",
+            "nl-NL": "Geplooid Stuk dak",
+            "sv-SE": "Del av korrugerat tak",
+            "zh-CN": "金属类屋顶"
+        }
+    }
+}

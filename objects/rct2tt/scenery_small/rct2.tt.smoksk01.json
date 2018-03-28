@@ -1,0 +1,39 @@
+{
+    "id": "rct2.tt.smoksk01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|SMOKSK01|65B4753E",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 96,
+        "animationDelay": 2,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/SMOKSK01.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Large Smoking Chimney",
+            "fr-FR": "Grande cheminée fumante",
+            "de-DE": "Großer Rauchender Kamin",
+            "es-ES": "Gran chimenea humeante",
+            "it-IT": "Grande ciminiera fumante",
+            "nl-NL": "Grote rokende schoorsteen",
+            "sv-SE": "Stor rykande skorsten",
+            "ko-KR": "연기가 많이 나는 굴뚝",
+            "zh-TW": "冒煙的大煙囪",
+            "pt-BR": "Chaminé Fumacenta Grande"
+        }
+    }
+}

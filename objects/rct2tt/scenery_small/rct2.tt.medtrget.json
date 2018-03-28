@@ -1,0 +1,34 @@
+{
+    "id": "rct2.tt.medtrget",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F921|MEDTRGET|98F3F298",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 24,
+        "shape": "1/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/MEDTRGET.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Archery Target",
+            "fr-FR": "Cible de tir à l'arc",
+            "de-DE": "Bogenschießen-Zielscheibe",
+            "es-ES": "Campo de tira",
+            "it-IT": "Bersaglio del tiro con l'arco",
+            "nl-NL": "Blazoen Boogschieten",
+            "sv-SE": "Piltavla",
+            "ko-KR": "궁수 과녁",
+            "zh-TW": "箭靶",
+            "pt-BR": "Alvo de Flechas"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.rdrab05",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A11|RDRAB05 |A3750172",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 64,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RDRAB05.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Small Tower Minaret Base",
+            "fr-FR": "Base de petite tour de dôme terne",
+            "de-DE": "Düsterer Kleiner Turm - Zwiebelkuppel-Basis",
+            "es-ES": "Base de torre pequeña de minareteapagado",
+            "it-IT": "Base di torre piccola smorta a minareto",
+            "nl-NL": "Vale basis kleine Minaret-toren",
+            "sv-SE": "Gråbrun bas för litet minarettorn"
+        }
+    }
+}

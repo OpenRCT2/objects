@@ -1,0 +1,40 @@
+{
+    "id": "rct2.scgjuras",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGJURAS|FEEFC769",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "TBN",
+            "TBN1",
+            "TDN4",
+            "TDN5",
+            "SDN1",
+            "SDN2",
+            "SDN3",
+            "WWTW",
+            "WMWW",
+            "WWTWA",
+            "WBW",
+            "BN6"
+        ],
+        "priority": 25
+    },
+    "images": ["$RCT2:OBJDATA/SCGJURAS.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jurassic Themeing",
+            "fr-FR": "Thème Jurassique",
+            "de-DE": "Jurassic-Thema",
+            "es-ES": "Temática jurásica",
+            "it-IT": "Tema giurassico",
+            "nl-NL": "Jurassic park Thema",
+            "sv-SE": "Jurassic-tema",
+            "ko-KR": "쥐라기 테마",
+            "zh-CN": "侏罗纪主题区",
+            "zh-TW": "侏羅紀主題區",
+            "pt-BR": "Temática Jurássica"
+        }
+    }
+}

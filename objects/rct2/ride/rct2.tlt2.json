@@ -1,0 +1,48 @@
+{
+    "id": "rct2.tlt2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|TLT2    |BC739425",
+    "objectType": "ride",
+    "properties": {
+        "type": "toilets",
+        "category": "stall",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/TLT2.DAT[0..8]"],
+    "strings": {
+        "name": {
+            "en-GB": "Toilets",
+            "en-US": "Restroom",
+            "fr-FR": "Toilettes",
+            "de-DE": "Toiletten",
+            "es-ES": "Servicios",
+            "it-IT": "Servizi igienici",
+            "nl-NL": "Toiletten",
+            "sv-SE": "Toaletter",
+            "ko-KR": "화장실",
+            "zh-CN": "厕所",
+            "zh-TW": "廁所",
+            "pt-BR": "Banheiros"
+        },
+        "description": {
+            "en-GB": "Toilets housed in a log cabin style building",
+            "en-US": "Restroom facilities housed in a log cabin style building",
+            "fr-FR": "Toilettes placées dans un bâtiment en rondins",
+            "de-DE": "Toiletten in einer Art Blockhütte",
+            "es-ES": "Lavabos en una cabina de forma de tronco",
+            "it-IT": "Servizi igienici situati in una costruzione simile a una capanna di legno",
+            "nl-NL": "Toiletten in een gebouw in de stijl van een blokhut",
+            "sv-SE": "Toaletter i ett blockhus",
+            "ko-KR": "통나무집 스타일의 건물에 있는 화장실",
+            "zh-CN": "厕所房子是一座原木小屋风格的建筑物",
+            "zh-TW": "廁所房子是一座原木小屋風格的建築物",
+            "pt-BR": "Banheiros abrigados numa cabana de madeira"
+        }
+    }
+}

@@ -1,0 +1,402 @@
+{
+    "id": "rct2.tt.mgr2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F920|MGR2    |C660DD44",
+    "objectType": "ride",
+    "properties": {
+        "type": "merry_go_round",
+        "category": "gentle",
+        "tabScale": 0.5,
+        "hasShelter": true,
+        "carsPerFlatRide": 1,
+        "ratingMultipler": {
+            "excitement": 11,
+            "intensity": 3,
+            "nausea": 1
+        },
+        "carColours": [
+            [
+                ["dark_blue", "light_pink", "yellow"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 139456,
+            "mass": 200,
+            "tabOffset": -24,
+            "numSeats": 32,
+            "spriteWidth": 55,
+            "spriteHeightNegative": 109,
+            "spriteHeightPositive": 28,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "numSegments": 4,
+            "loadingWaypoints": [
+                [
+                    [43, 43],
+                    [-43, 43],
+                    [-42, 3]
+                ],
+                [
+                    [-43, -43],
+                    [-42, 3],
+                    [-42, 3]
+                ],
+                [
+                    [-42, 3],
+                    [-42, 3],
+                    [-42, 3]
+                ],
+                [
+                    [-43, 43],
+                    [-42, 3],
+                    [-42, 3]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-42, -3]
+                ],
+                [
+                    [-43, -43],
+                    [-42, -3],
+                    [-42, -3]
+                ],
+                [
+                    [-42, -3],
+                    [-42, -3],
+                    [-42, -3]
+                ],
+                [
+                    [-43, 43],
+                    [-42, -3],
+                    [-42, -3]
+                ],
+                [
+                    [43, 43],
+                    [3, 42],
+                    [3, 42]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [3, 42]
+                ],
+                [
+                    [-43, 43],
+                    [3, 42],
+                    [3, 42]
+                ],
+                [
+                    [3, 42],
+                    [3, 42],
+                    [3, 42]
+                ],
+                [
+                    [43, 43],
+                    [-3, 42],
+                    [-3, 42]
+                ],
+                [
+                    [-43, -43],
+                    [-43, 43],
+                    [-3, 42]
+                ],
+                [
+                    [-43, 43],
+                    [-3, 42],
+                    [-3, 42]
+                ],
+                [
+                    [-3, 42],
+                    [-3, 42],
+                    [-3, 42]
+                ],
+                [
+                    [42, -3],
+                    [42, -3],
+                    [42, -3]
+                ],
+                [
+                    [43, -43],
+                    [42, -3],
+                    [42, -3]
+                ],
+                [
+                    [-43, -43],
+                    [43, -43],
+                    [42, -3]
+                ],
+                [
+                    [43, 43],
+                    [42, -3],
+                    [42, -3]
+                ],
+                [
+                    [42, 3],
+                    [42, 3],
+                    [42, 3]
+                ],
+                [
+                    [43, -43],
+                    [42, 3],
+                    [42, 3]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [42, 3]
+                ],
+                [
+                    [43, 43],
+                    [42, 3],
+                    [42, 3]
+                ],
+                [
+                    [43, -43],
+                    [-3, -42],
+                    [-3, -42]
+                ],
+                [
+                    [-3, -42],
+                    [-3, -42],
+                    [-3, -42]
+                ],
+                [
+                    [-43, -43],
+                    [-3, -42],
+                    [-3, -42]
+                ],
+                [
+                    [-43, 43],
+                    [-43, -43],
+                    [-3, -42]
+                ],
+                [
+                    [43, -43],
+                    [3, -42],
+                    [3, -42]
+                ],
+                [
+                    [3, -42],
+                    [3, -42],
+                    [3, -42]
+                ],
+                [
+                    [-43, -43],
+                    [3, -42],
+                    [3, -42]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [3, -42]
+                ],
+                [
+                    [43, 43],
+                    [-43, 43],
+                    [-33, 31]
+                ],
+                [
+                    [-43, -43],
+                    [-43, 43],
+                    [-33, 31]
+                ],
+                [
+                    [-43, 43],
+                    [-43, 43],
+                    [-33, 31]
+                ],
+                [
+                    [-43, 43],
+                    [-43, 43],
+                    [-33, 31]
+                ],
+                [
+                    [43, 43],
+                    [-43, 43],
+                    [-31, 33]
+                ],
+                [
+                    [-43, -43],
+                    [-43, 43],
+                    [-31, 33]
+                ],
+                [
+                    [-43, 43],
+                    [-43, 43],
+                    [-31, 33]
+                ],
+                [
+                    [-43, 43],
+                    [-43, 43],
+                    [-31, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 31]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [33, 31]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [33, 31]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 31]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [31, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [31, 33]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [31, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [31, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, -43],
+                    [33, -31]
+                ],
+                [
+                    [43, -43],
+                    [43, -43],
+                    [33, -31]
+                ],
+                [
+                    [-43, -43],
+                    [43, -43],
+                    [33, -31]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [33, -31]
+                ],
+                [
+                    [43, -43],
+                    [43, -43],
+                    [31, -33]
+                ],
+                [
+                    [43, -43],
+                    [43, -43],
+                    [31, -33]
+                ],
+                [
+                    [-43, -43],
+                    [43, -43],
+                    [31, -33]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [31, -33]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-33, -31]
+                ],
+                [
+                    [-43, -43],
+                    [-43, -43],
+                    [-33, -31]
+                ],
+                [
+                    [-43, -43],
+                    [-43, -43],
+                    [-33, -31]
+                ],
+                [
+                    [-43, 43],
+                    [-43, -43],
+                    [-33, -31]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-31, -33]
+                ],
+                [
+                    [-43, -43],
+                    [-43, -43],
+                    [-31, -33]
+                ],
+                [
+                    [-43, -43],
+                    [-43, -43],
+                    [-31, -33]
+                ],
+                [
+                    [-43, 43],
+                    [-43, -43],
+                    [-31, -33]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/MGR2.DAT[0..102]"],
+    "strings": {
+        "name": {
+            "en-GB": "Double Deck Carousel",
+            "fr-FR": "Manège à deux étages",
+            "de-DE": "Zweistöckiges Karussell",
+            "es-ES": "Tiovivo de dos niveles",
+            "it-IT": "Giostra a due piani",
+            "nl-NL": "Dubbeldekscarrousel",
+            "sv-SE": "Dubbeldäckarkarusell",
+            "ko-KR": "더블 데크 캐러셀",
+            "zh-TW": "雙層旋轉木馬",
+            "pt-BR": "Carrossel de Dois Andares"
+        },
+        "description": {
+            "en-GB": "Traditional enclosed double-deck carousel with carved wooden horses",
+            "fr-FR": "Manège traditionnel de chevaux de bois à deux étages",
+            "de-DE": "Traditionelles, geschlossenes zweistöckiges Karussell mit geschnitzten Holzpferden",
+            "es-ES": "Tiovivo tradicional, cerrado, de dos niveles, con caballos tallados en madera.",
+            "it-IT": "La tradizionale giostra a due piani con i cavalli scolpiti in legno.",
+            "nl-NL": "Traditionele dichte dubbeldekscarrousel met gesneden houten paarden.",
+            "sv-SE": "Traditionell dubbeldäckskarusell med snidade trähästar.",
+            "ko-KR": "전통적인 이중 갑판으로 둘러싸여 있고 나무로 조각된 말이 있는 회전목마",
+            "zh-TW": "傳統隔絕式雙層旋轉木馬,內有木雕馬匹",
+            "pt-BR": "Carrossel tradicional de dois andares com cavalos em madeira esculpida"
+        },
+        "capacity": {
+            "en-GB": "32 passengers",
+            "fr-FR": "32 passagers",
+            "de-DE": "32 Fahrgäste",
+            "es-ES": "32 pasajeros",
+            "it-IT": "32 passeggeri",
+            "nl-NL": "32 passagiers",
+            "sv-SE": "32 passagerare",
+            "ko-KR": "정원 32명",
+            "zh-TW": "限乘32人",
+            "pt-BR": "32 passageiros"
+        }
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "id": "rct2.zlog",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C80|ZLOG    |EB0041B6",
+    "objectType": "ride",
+    "properties": {
+        "type": [
+            "none",
+            "junior_rc"
+        ],
+        "category": "rollercoaster",
+        "noInversions": true,
+        "minCarsPerTrain": 5,
+        "maxCarsPerTrain": 12,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "defaultCar": 1,
+        "headCars": [
+            2,
+            0
+        ],
+        "tailCars": 2,
+        "carColours": [
+            [
+                ["dark_brown", "black", "black"]
+            ],
+            [
+                ["saturated_brown", "bordeaux_red", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 148172,
+                "mass": 240,
+                "numSeats": 2,
+                "numSeatRows": 1,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [2, 4]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 122024,
+                "mass": 220,
+                "numSeats": 2,
+                "numSeatRows": 1,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [2, 4]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/ZLOG.DAT[0..1490]"],
+    "strings": {
+        "name": {
+            "en-GB": "Log Trains",
+            "fr-FR": "Train-bûche",
+            "de-DE": "Baumstammzüge",
+            "es-ES": "Trenes Tronco",
+            "it-IT": "Tronchi",
+            "nl-NL": "Boomstronktreinen",
+            "sv-SE": "Stocktåg",
+            "ko-KR": "통나무 열차",
+            "zh-CN": "原木列车",
+            "zh-TW": "原木列車",
+            "pt-BR": "Trens de Tronco"
+        },
+        "description": {
+            "en-GB": "Roller coaster trains with small log shaped cars",
+            "fr-FR": "Train de montagnes russes composé de petites voitures en forme de bûche",
+            "de-DE": "Achterbahnzüge mit kleinen baumstammförmigen Wagen",
+            "es-ES": "Montaña rusa con vagones en forma de tronco",
+            "it-IT": "Treni da ottovolante con carrozze a forma di tronchi",
+            "nl-NL": "Achtbaantreintjes met kleine wagentjes in de vorm van boomstronken",
+            "sv-SE": "Berg- och dalbanetåg med små stockformade vagnar",
+            "ko-KR": "작은 통나무 모양의 롤러코스터",
+            "zh-CN": "过山车列车是以小型原木外形的",
+            "zh-TW": "雲霄飛車列車是以小型原木外形的",
+            "pt-BR": "Trens de montanha-russa com pequenos vagões em forma de tronco"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por vagón",
+            "it-IT": "2 passeggeri a carrozza",
+            "nl-NL": "2 passagiers per wagentje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량 정원 2명",
+            "zh-CN": "2 位乘客/每个车厢",
+            "zh-TW": "2 位乘客/每個車廂",
+            "pt-BR": "2 passageiros por vagão"
+        }
+    }
+}

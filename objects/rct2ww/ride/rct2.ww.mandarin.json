@@ -1,0 +1,82 @@
+{
+    "id": "rct2.ww.mandarin",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFC10|MANDARIN|A46F57A6",
+    "objectType": "ride",
+    "properties": {
+        "type": "boat_hire",
+        "category": [
+            "water",
+            "gentle"
+        ],
+        "ratingMultipler": {
+            "excitement": 5,
+            "intensity": 2
+        },
+        "carColours": [
+            [
+                ["white", "bordeaux_red", "black"]
+            ],
+            [
+                ["saturated_brown", "bordeaux_red", "black"]
+            ],
+            [
+                ["yellow", "bordeaux_red", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 15,
+            "spacing": 278912,
+            "mass": 350,
+            "numSeats": 4,
+            "animation": 2,
+            "numSeatRows": 3,
+            "poweredAcceleration": 8,
+            "poweredMaxSpeed": 5,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_11": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "VEHICLE_ENTRY_FLAG_BOAT_HIRE_COLLISION_DETECTION": true,
+            "VEHICLE_ENTRY_FLAG_RIDER_ANIMATION": true,
+            "loadingPositions": [6, 8, -4, -2]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/MANDARIN.DAT[0..66]"],
+    "strings": {
+        "name": {
+            "en-GB": "Mandarin Duck Water Ride",
+            "fr-FR": "Le canard mandarin",
+            "de-DE": "Mandarinenten-Wasserbahn",
+            "es-ES": "Atracción acuática Pato Mandarín",
+            "it-IT": "L'anatra mandarina",
+            "nl-NL": "Water-Attractie in vorm van Mandarijneend",
+            "sv-SE": "Svansjön",
+            "zh-CN": "鸳鸯水上游乐设施"
+        },
+        "description": {
+            "en-GB": "Swan shaped boat, propelled by the pedalling front seat passengers",
+            "fr-FR": "Bateau en forme de cygne, propulsé par les passagers avant à l'aide d'un pédalier",
+            "de-DE": "Ein schwanenförmiges Boot, das von den Fahrgästen auf den Vordersitzen angetrieben wird, die selber in die Pedale treten müssen",
+            "es-ES": "Bote con forma de cisne, impulsado por el pedaleo de los pasajeros del asiento delantero",
+            "it-IT": "Un'imbarcazione a forma di cigno che utilizza da pedali azionati dai passeggeri seduti davanti",
+            "nl-NL": "Boot in de vorm van een zwaan, die vooruit beweegt door het pedaleren van de passagiers die op de voorste stoelen zitten",
+            "sv-SE": "Svanformade båtar som drivs av paddlande passagerare i båtens framsäte",
+            "zh-CN": "天鹅造型的船，由前前座位的乘客踩踏前进"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per boat",
+            "fr-FR": "4 passagers par bateau",
+            "de-DE": "4 pro Boot",
+            "es-ES": "4 pasajeros por bote",
+            "it-IT": "4 passeggeri per imbarcazione",
+            "nl-NL": "4 passagiers per boot",
+            "sv-SE": "4 passagerare per båt",
+            "zh-CN": "每艘船限乘4人"
+        }
+    }
+}

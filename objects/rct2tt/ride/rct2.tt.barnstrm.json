@@ -1,0 +1,86 @@
+{
+    "id": "rct2.tt.barnstrm",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F920|BARNSTRM|52510CB2",
+    "objectType": "ride",
+    "properties": {
+        "type": "inverted_impulse_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 4,
+        "maxCarsPerTrain": 9,
+        "carColours": [
+            [
+                ["light_blue", "black", "bright_red"]
+            ],
+            [
+                ["black", "bordeaux_red", "yellow"]
+            ],
+            [
+                ["bordeaux_red", "white", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 244048,
+            "mass": 770,
+            "tabOffset": -18,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 1,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "verticalSlopes": true,
+                "restraintAnimation": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [6, 8, -4, -6]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/BARNSTRM.DAT[0..938]"],
+    "strings": {
+        "name": {
+            "en-GB": "BarnStorming Coaster",
+            "fr-FR": "Attaque de l'entrepôt",
+            "de-DE": "Der Sturm Achterbahn",
+            "es-ES": "Montaña rusa Políticos",
+            "it-IT": "Ottovolante acrobatico",
+            "nl-NL": "Schuurstormende achtbaan",
+            "sv-SE": "Ladugårdsstorm",
+            "ko-KR": "반스토밍 코스터",
+            "zh-TW": "巡迴演出雲霄飛車",
+            "pt-BR": "Montanha do Celeiro"
+        },
+        "description": {
+            "en-GB": "Riders sit in seats suspended beneath the track as they speed through giant loops, twists, and large swooping drops",
+            "fr-FR": "Les passagers parcourent des boucles géantes, des virages et des grandes descentes en piqué, installés sur des sièges suspendus à la voie",
+            "de-DE": "Die Sitze befinden sich unter der Spur und rasen durch riesige Loopings, Drehungen und große, plötzliche Gefälle hinab.",
+            "es-ES": "Los usuarios se sientan suspendidos debajo de la estructura, pasando a toda velocidad por bucles gigantes, giros y grandes caídas en picado.",
+            "it-IT": "I passeggeri siedono su sedili sospesi sotto il tracciato e affrontano giri della morte giganti, curve e lunghe discese a strapiombo.",
+            "nl-NL": "Bezoekers bevinden zich in zetels die onder de baan hangen terwijl ze door enorme loopings, draaiingen en grote afdalingen racen.",
+            "sv-SE": "Passagerarna sitter i säten som hänger under spåret och färdas i hög fart genom gigantiska loopar, svängar och höga fall.",
+            "ko-KR": "승객들이 트랙 아래쪽에 매달려 있어 원형 코스, 뒤틀린 코스, 급하강 코스를 빠른 속도로 통과하는 롤러코스터",
+            "zh-TW": "遊客坐在懸吊在軌道下的座椅上，當快速通過大型旋轉迴圈，令人感覺有俯衝下墜感。",
+            "pt-BR": "Os visitantes se acomodam em assentos suspensos abaixo da pista enquanto correm por loops gigantes, inversões e quedas grandes e íngremes"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por coche",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 정원 4명",
+            "zh-TW": "每輛車限乘4人",
+            "pt-BR": "4 passageiros por vagão"
+        }
+    }
+}

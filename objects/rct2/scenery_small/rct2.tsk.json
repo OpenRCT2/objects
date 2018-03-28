@@ -1,0 +1,37 @@
+{
+    "id": "rct2.tsk",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F81|TSK     |748BAFAA",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 35,
+        "removalPrice": -29,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 48,
+        "animationDelay": 1,
+        "animationMask": 127,
+        "numFrames": 65535,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "frameOffsets": [1, 0, 1, 2, 1, 2, 3, 2, 3, 4, 3, 4, 3, 4, 3, 4, 3, 4, 3, 4, 3, 2, 3, 2, 1, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "images": ["$RCT2:OBJDATA/TSK.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Skull",
+            "fr-FR": "Crâne",
+            "de-DE": "Schädel",
+            "es-ES": "Calavera",
+            "it-IT": "Teschio",
+            "nl-NL": "Schedel",
+            "sv-SE": "Skalle",
+            "ko-KR": "해골",
+            "zh-CN": "头骨",
+            "zh-TW": "頭骨",
+            "pt-BR": "Caveira"
+        }
+    }
+}

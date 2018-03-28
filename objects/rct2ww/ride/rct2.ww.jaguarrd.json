@@ -1,0 +1,107 @@
+{
+    "id": "rct2.ww.jaguarrd",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31C10|JAGUARRD|56C7DB7E",
+    "objectType": "ride",
+    "properties": {
+        "type": "mini_rc",
+        "category": "rollercoaster",
+        "carColours": [
+            [
+                ["olive_green", "saturated_brown", "bright_red"],
+                ["bordeaux_red", "saturated_brown", "bright_red"],
+                ["light_purple", "saturated_brown", "bright_red"],
+                ["black", "saturated_brown", "bright_red"],
+                ["salmon_pink", "saturated_brown", "bright_red"],
+                ["light_blue", "saturated_brown", "bright_red"],
+                ["light_pink", "saturated_brown", "bright_red"],
+                ["yellow", "saturated_brown", "bright_red"],
+                ["olive_green", "saturated_brown", "bright_red"],
+                ["bordeaux_red", "saturated_brown", "bright_red"],
+                ["light_purple", "saturated_brown", "bright_red"],
+                ["black", "saturated_brown", "bright_red"],
+                ["salmon_pink", "saturated_brown", "bright_red"],
+                ["light_blue", "saturated_brown", "bright_red"],
+                ["light_pink", "saturated_brown", "bright_red"],
+                ["yellow", "saturated_brown", "bright_red"],
+                ["olive_green", "saturated_brown", "bright_red"],
+                ["bordeaux_red", "saturated_brown", "bright_red"],
+                ["light_purple", "saturated_brown", "bright_red"],
+                ["black", "saturated_brown", "bright_red"],
+                ["salmon_pink", "saturated_brown", "bright_red"],
+                ["light_blue", "saturated_brown", "bright_red"],
+                ["light_pink", "saturated_brown", "bright_red"],
+                ["yellow", "saturated_brown", "bright_red"],
+                ["olive_green", "saturated_brown", "bright_red"],
+                ["bordeaux_red", "saturated_brown", "bright_red"],
+                ["light_purple", "saturated_brown", "bright_red"],
+                ["black", "saturated_brown", "bright_red"],
+                ["salmon_pink", "saturated_brown", "bright_red"],
+                ["light_blue", "saturated_brown", "bright_red"],
+                ["light_pink", "saturated_brown", "bright_red"],
+                ["yellow", "saturated_brown", "bright_red"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 235332,
+            "mass": 790,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "diagonalSlopes": true,
+                "flatBanked": true,
+                "flatToGentleSlopeBankedTransitions": true,
+                "diagonalGentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTurns": true,
+                "flatToGentleSlopeWhileBankedTransitions": true,
+                "restraintAnimation": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [5, 3, -5, -3]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/JAGUARRD.DAT[0..1814]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jaguar Ride",
+            "fr-FR": "Jaguar",
+            "de-DE": "Jaguarbahn",
+            "es-ES": "Atracción Jaguar",
+            "it-IT": "Il giaguaro",
+            "nl-NL": "Jaguar-Attractie",
+            "sv-SE": "Jaguarbana",
+            "zh-CN": "美洲?游乐设施"
+        },
+        "description": {
+            "en-GB": "A compact roller coaster with individual cars and smooth twisting drops.",
+            "fr-FR": "A compact roller coaster with individual cars and smooth twisting drops @@",
+            "de-DE": "A compact roller coaster with individual cars and smooth twisting drops @@",
+            "es-ES": "A compact roller coaster with individual cars and smooth twisting drops.@@",
+            "it-IT": "A compact roller coaster with individual cars and smooth twisting drops.@@",
+            "nl-NL": "A compact roller coaster with individual cars and smooth twisting drops.@@",
+            "sv-SE": "A compact roller coaster with individual cars and smooth twisting drops.@@",
+            "zh-CN": "? 乘客以躺卧姿势面向下乘坐,以特殊设计的单轨悬吊辆车,在转弯时自由左右摇摆"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 pro Wagen",
+            "es-ES": "4 pasajero por vagón",
+            "it-IT": "4 passeggero per carrozza",
+            "nl-NL": "4 passagier per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "zh-CN": "?每辆车限乘1人"
+        }
+    }
+}

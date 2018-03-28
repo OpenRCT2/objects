@@ -1,0 +1,36 @@
+{
+    "id": "rct2.ww.inflag01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFD11|INFLAG01|11EC8C51",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 40,
+        "removalPrice": -30,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 104,
+        "animationDelay": 2,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "1/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/ISF1.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Indian Silk Flag",
+            "fr-FR": "Drapeau de soie indienne",
+            "de-DE": "Indische Seidenflagge",
+            "es-ES": "Bandera de seda india",
+            "it-IT": "Bandiera indiana di seta",
+            "nl-NL": "Indische Vlag van Zijde",
+            "sv-SE": "Indisk silkesflagga",
+            "zh-CN": "印度丝织旗"
+        }
+    }
+}

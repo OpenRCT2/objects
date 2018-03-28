@@ -1,0 +1,103 @@
+{
+    "id": "rct2.tt.pegasusx",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F820|PEGASUSX|488EFEF6",
+    "objectType": "ride",
+    "properties": {
+        "type": "car_ride",
+        "category": "gentle",
+        "RIDE_ENTRY_FLAG_18": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "carColours": [
+            [
+                ["bordeaux_red", "light_orange", "black"]
+            ],
+            [
+                ["yellow", "bright_red", "black"]
+            ],
+            [
+                ["dark_blue", "light_blue", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 244048,
+                "mass": 3000,
+                "numSeats": 2,
+                "animation": 7,
+                "numSeatRows": 1,
+                "poweredAcceleration": 60,
+                "poweredMaxSpeed": 7,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION": true,
+                "loadingPositions": [4, -4]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "poweredAcceleration": 60,
+                "poweredMaxSpeed": 7,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/PEGASUSX.DAT[0..866]"],
+    "strings": {
+        "name": {
+            "en-GB": "Pegasus Ride",
+            "fr-FR": "Pégase",
+            "de-DE": "Pegasus-Attraktion",
+            "es-ES": "Viaje de pegaso",
+            "it-IT": "Corsa di Pegaso",
+            "nl-NL": "Pegasus-attractie",
+            "sv-SE": "Pegasus",
+            "ko-KR": "페가수스 라이드",
+            "zh-TW": "飛馬遊樂設施",
+            "pt-BR": "Brinquedo de Pégaso"
+        },
+        "description": {
+            "en-GB": "Powered vehicles in the shape of Pegasus drawing a cart, follow a track-based route",
+            "fr-FR": "Véhicule à propulsion en forme de Pégase tirant une charrette et parcourant une route plane",
+            "de-DE": "Direkt angetriebene Fahrzeuge in Form eines Pegasus ziehen einen Wagen über die Schienentrassen.",
+            "es-ES": "Poderosos vehículos en forma de pegaso tiran de un carro, siguiendo una ruta prefijada.",
+            "it-IT": "I veicoli elettrici, a forma di Pegaso che traina un carrello, seguono un circuito prestabilito.",
+            "nl-NL": "Aangedreven voertuigen, in de vorm van Pegasus die een wagen voorttrekt, volgen een baan.",
+            "sv-SE": "Maskindrivna fordon i form av Pegasus med vagn följer en spårbana.",
+            "ko-KR": "트랙을 따라 카트를 끄는 페가수스 모양의 동력 차량",
+            "zh-TW": "具動力裝置及飛馬外形的車輛沿著以軌道構成的路徑行進",
+            "pt-BR": "Veículos motorizados na forma de Pégaso puxando uma carruagem, seguindo uma rota de pista"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por coche",
+            "it-IT": "2 passeggeri per carrozza",
+            "nl-NL": "2 passagiers per wagentje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량 정원 2명",
+            "zh-TW": "每輛車限乘2人",
+            "pt-BR": "2 passageiros por vagão"
+        }
+    }
+}

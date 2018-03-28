@@ -1,0 +1,129 @@
+{
+    "id": "rct2.smc1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SMC1    |4B7812BB",
+    "objectType": "ride",
+    "properties": {
+        "type": "steel_wild_mouse",
+        "category": "rollercoaster",
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "carColours": [
+            [
+                ["white", "saturated_brown", "black"],
+                ["light_brown", "saturated_brown", "black"],
+                ["bordeaux_red", "saturated_brown", "black"],
+                ["yellow", "saturated_brown", "black"],
+                ["light_pink", "saturated_brown", "black"],
+                ["light_blue", "saturated_brown", "black"],
+                ["grey", "saturated_brown", "black"],
+                ["light_purple", "saturated_brown", "black"],
+                ["light_orange", "saturated_brown", "black"],
+                ["bright_red", "saturated_brown", "black"],
+                ["black", "saturated_brown", "black"],
+                ["light_pink", "saturated_brown", "black"],
+                ["aquamarine", "saturated_brown", "black"],
+                ["dark_green", "saturated_brown", "black"],
+                ["dark_brown", "saturated_brown", "black"],
+                ["salmon_pink", "saturated_brown", "black"],
+                ["white", "saturated_brown", "black"],
+                ["light_brown", "saturated_brown", "black"],
+                ["bordeaux_red", "saturated_brown", "black"],
+                ["yellow", "saturated_brown", "black"],
+                ["light_pink", "saturated_brown", "black"],
+                ["light_blue", "saturated_brown", "black"],
+                ["grey", "saturated_brown", "black"],
+                ["light_purple", "saturated_brown", "black"],
+                ["light_orange", "saturated_brown", "black"],
+                ["bright_red", "saturated_brown", "black"],
+                ["black", "saturated_brown", "black"],
+                ["light_pink", "saturated_brown", "black"],
+                ["aquamarine", "saturated_brown", "black"],
+                ["dark_green", "saturated_brown", "black"],
+                ["dark_brown", "saturated_brown", "black"],
+                ["salmon_pink", "saturated_brown", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 174320,
+                "mass": 440,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [7, 9, -3, -1]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SMC1.DAT[0..622]"],
+    "strings": {
+        "name": {
+            "en-GB": "Mouse Cars",
+            "fr-FR": "Souris",
+            "de-DE": "Mauswagen",
+            "es-ES": "Coches Ratón",
+            "it-IT": "Topolini",
+            "nl-NL": "Muiswagentjes",
+            "sv-SE": "Musvagnar",
+            "ko-KR": "생쥐 차",
+            "zh-CN": "老鼠小车车",
+            "zh-TW": "老鼠小車車",
+            "pt-BR": "Carros de Rato"
+        },
+        "description": {
+            "en-GB": "Individual cars shaped like mice",
+            "fr-FR": "Voitures individuelles en forme de souris",
+            "de-DE": "Einzelne Wagen in Form von Mäusen",
+            "es-ES": "Coches individuales con forma de ratón",
+            "it-IT": "Carrozze individuali a forma di topolini",
+            "nl-NL": "Individuele wagentjes in de vorm van muizen",
+            "sv-SE": "Individuella vagnar formade som möss",
+            "ko-KR": "생쥐 모양의 개인 차",
+            "zh-CN": "像老鼠外形特色的车辆",
+            "zh-TW": "像老鼠外形特色的車輛",
+            "pt-BR": "Carros individuais na forma de ratos"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 정원 4명",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por carro"
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "id": "rct2.ww.bigben",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0B12|BIGBEN  |C8E1988D",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": -150,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 175,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 175,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 175,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 175,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 175,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 175,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 175,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 175,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 175,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/BIGBEN.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Big Ben and the Houses of Parliament",
+            "fr-FR": "Big Ben et le Parlement anglais",
+            "de-DE": "Big Ben und die Houses of Parliament",
+            "es-ES": "El Big Ben y las Casas Parlamentarias",
+            "it-IT": "Big Ben e Palazzo del Parlamento",
+            "nl-NL": "?Big Ben en de Parlementshuizen",
+            "sv-SE": "Big Ben och parlamentet",
+            "zh-CN": "?英国议会古钟摆"
+        }
+    }
+}

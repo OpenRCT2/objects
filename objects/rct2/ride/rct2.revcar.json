@@ -1,0 +1,141 @@
+{
+    "id": "rct2.revcar",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|REVCAR  |50718182",
+    "objectType": "ride",
+    "properties": {
+        "type": "reverser_rc",
+        "category": "rollercoaster",
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 2,
+        "tailCars": 2,
+        "carColours": [
+            [
+                ["bright_red", "dark_green", "black"]
+            ],
+            [
+                ["yellow", "dark_brown", "black"]
+            ],
+            [
+                ["light_blue", "dark_green", "black"]
+            ],
+            [
+                ["white", "bordeaux_red", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 87160,
+                "mass": 900,
+                "numSeats": 6,
+                "spriteWidth": 31,
+                "spriteHeightNegative": 40,
+                "spriteHeightPositive": 15,
+                "numSeatRows": 3,
+                "frictionSoundId": 1,
+                "logFlumeReverserVehicleType": 1,
+                "soundRange": 1,
+                "carVisual": 7,
+                "drawOrder": 12,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_NO_UPSTOP_BOBSLEIGH": true,
+                "VEHICLE_ENTRY_FLAG_5": true,
+                "VEHICLE_ENTRY_FLAG_10": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [11, 7, 2, -2, -7, -11]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 87160,
+                "mass": 900,
+                "numSeats": 6,
+                "spriteWidth": 31,
+                "spriteHeightNegative": 40,
+                "spriteHeightPositive": 15,
+                "numSeatRows": 3,
+                "frictionSoundId": 1,
+                "soundRange": 1,
+                "carVisual": 7,
+                "drawOrder": 12,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_NO_UPSTOP_BOBSLEIGH": true,
+                "VEHICLE_ENTRY_FLAG_5": true,
+                "VEHICLE_ENTRY_FLAG_10": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [-7, -11, 2, -2, 11, 7]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 95876,
+                "spriteWidth": 13,
+                "spriteHeightNegative": 8,
+                "spriteHeightPositive": 12,
+                "frictionSoundId": 1,
+                "soundRange": 1,
+                "drawOrder": 13,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_NO_UPSTOP_BOBSLEIGH": true,
+                "VEHICLE_ENTRY_FLAG_4": true,
+                "VEHICLE_ENTRY_FLAG_10": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/REVCAR.DAT[0..938]"],
+    "strings": {
+        "name": {
+            "en-GB": "Reverser Roller Coaster",
+            "fr-FR": "Inverseur",
+            "de-DE": "Umgekehrte Achterbahn",
+            "es-ES": "Montaña Rusa Inversora",
+            "it-IT": "Ottovolante alla rovescia",
+            "nl-NL": "Omgekeerde Achtbaan",
+            "sv-SE": "Vändberg- och dalbana",
+            "ko-KR": "리버서 롤러코스터",
+            "zh-CN": "倒退式过山车",
+            "zh-TW": "倒退式雲霄飛車",
+            "pt-BR": "Montanha-russa Reversa"
+        },
+        "description": {
+            "en-GB": "Bogied cars run on wooden tracks, turning around on special reversing sections",
+            "fr-FR": "Chariot dévalant une voie en bois, tournant à des sections inverseuses spéciales",
+            "de-DE": "Wagen mit Drehgestell fahren auf einer Holzstrecke und rotieren dabei auf speziellen Umkehrabschnitten",
+            "es-ES": "Vagones que corren por una vía de madera girando en secciones especiales de inversión",
+            "it-IT": "Dei carrelli corrono su un tracciato di legno, ruotando di 180° in speciali sezioni",
+            "nl-NL": "Kleine wagentjes gaan over houten banen, en worden omgekeerd op speciale baandelen",
+            "sv-SE": "Bogeyvagnar kör på ett träspår, vänder runt på speciella vändsektioner",
+            "ko-KR": "구형의 뒤집힌 구역을 돌아서 달리는 화물차",
+            "zh-CN": "妖怪列车在木架轨道上运行,转进特殊倒转区域",
+            "zh-TW": "妖怪列車在木架軌道上運行,轉進特殊倒轉區域",
+            "pt-BR": "Os vagões correm em pistas de madeira, virando em seções especiais de reversão"
+        },
+        "capacity": {
+            "en-GB": "6 passengers per car",
+            "fr-FR": "6 passagers par voiture",
+            "de-DE": "6 Fahrgäste pro Wagen",
+            "es-ES": "6 pasajeros por vagón",
+            "it-IT": "6 passeggeri a carrozza",
+            "nl-NL": "6 passagiers per wagentje",
+            "sv-SE": "6 passagerare per vagn",
+            "ko-KR": "차량 정원 6명",
+            "zh-CN": "6 位乘客/每个车厢",
+            "zh-TW": "6 位乘客/每個車廂",
+            "pt-BR": "6 passageiros por vagão"
+        }
+    }
+}

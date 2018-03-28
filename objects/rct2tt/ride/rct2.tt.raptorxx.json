@@ -1,0 +1,81 @@
+{
+    "id": "rct2.tt.raptorxx",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F720|RAPTORXX|F7E91DF1",
+    "objectType": "ride",
+    "properties": {
+        "type": "steeplechase",
+        "category": "rollercoaster",
+        "ratingMultipler": {
+            "excitement": 3
+        },
+        "carColours": [
+            [
+                ["bright_red", "white", "black"]
+            ],
+            [
+                ["bright_green", "white", "black"]
+            ],
+            [
+                ["light_blue", "white", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 209184,
+            "mass": 800,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "frictionSoundId": 2,
+            "soundRange": 0,
+            "drawOrder": 9,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "diagonalSlopes": true
+            },
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [4, -4]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/RAPTORXX.DAT[0..258]"],
+    "strings": {
+        "name": {
+            "en-GB": "Raptor Racers Coaster",
+            "fr-FR": "La course du raptor",
+            "de-DE": "Raptor-Rennachterbahn",
+            "es-ES": "Montaña rusa Raptor",
+            "it-IT": "Ottovolante dei rapaci",
+            "nl-NL": "Raptor Racer-achtbaan",
+            "sv-SE": "Velociraptor-race",
+            "ko-KR": "랩터 레이서 코스터",
+            "zh-TW": "迅猛龍雲霄飛車",
+            "pt-BR": "Montanha-Russa de Corrida de Raptors"
+        },
+        "description": {
+            "en-GB": "Riders sit on the back of Raptor-shaped vehicles along a single-rail track",
+            "fr-FR": "Les passagers voyagent à l'arrière de véhicules en forme de raptor sur une voie monorail",
+            "de-DE": "Die Fahrgäste sitzen auf dem Rücken von Raptor-artigen Wagen auf einer Einschienen-Strecke.",
+            "es-ES": "Los usuarios se sientan en vehículos con forma de velocirraptor, en un circuito monorraíl.",
+            "it-IT": "I passeggeri attraversano un tracciato monorotaia su veicoli a forma di rapaci.",
+            "nl-NL": "Bezoekers zitten achterop Raptor-voertuigen die langs één rail rijden.",
+            "sv-SE": "Passagerarna sitter på velociraptor-formade fordon och åker längs en enspårig bana.",
+            "ko-KR": "랩터 모양의 차량 뒤에 앉아 하나의 레일 트랙을 따라 앉아서 가는 롤러 코스터",
+            "zh-TW": "乘客坐在單軌軌道上的迅猛龍外形的車輛後方",
+            "pt-BR": "Os visitantes sentam no banco de trás de veículos em forma de Raptor que correm ao longo de um monotrilho"
+        },
+        "capacity": {
+            "en-GB": "2 riders per vehicle",
+            "fr-FR": "2 passagers par véhicule",
+            "de-DE": "2 Fahrer pro Wagen",
+            "es-ES": "2 pasajeros por vehículo",
+            "it-IT": "2 passeggeri per veicolo",
+            "nl-NL": "2 rijders per wagentje",
+            "sv-SE": "2 passagerare per fordon",
+            "ko-KR": "차량 정원 2명",
+            "zh-TW": "每輛車限乘2人",
+            "pt-BR": "2 visitantes por veículo"
+        }
+    }
+}

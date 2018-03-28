@@ -1,0 +1,47 @@
+{
+    "id": "rct2.chknug",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|CHKNUG  |FB824A39",
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": "chicken",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/CHKNUG.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Chicken Nuggets Stall",
+            "fr-FR": "Nuggets",
+            "de-DE": "Chicken Nuggets-Stand",
+            "es-ES": "Puesto de nuggets",
+            "it-IT": "Chiosco crocchette di pollo",
+            "nl-NL": "Kraampje Gebakken Kip",
+            "sv-SE": "Chicken Nuggets-stånd",
+            "ko-KR": "치킨 너겟 판매점",
+            "zh-CN": "香鸡肉珍品店",
+            "zh-TW": "香雞肉珍品店",
+            "pt-BR": "Barraca de Nuggets de Frango"
+        },
+        "description": {
+            "en-GB": "A stall selling fried chicken nuggets",
+            "fr-FR": "Boutique vendant des nuggets au poulet",
+            "de-DE": "Ein Stand, an dem Chicken Nuggets verkauft werden",
+            "es-ES": "Puesto que vende trozos de pollo frito",
+            "it-IT": "Un chiosco che vende crocchette di pollo",
+            "nl-NL": "Een kraampje dat gebakken stukjes kip verkoopt",
+            "sv-SE": "Ett stånd som säljer friterade kycklingbitar",
+            "ko-KR": "후라이드 치킨 너겟을 파는 판매점",
+            "zh-CN": "一家卖炸鸡肉的店",
+            "zh-TW": "一家賣炸雞肉的店",
+            "pt-BR": "Uma barraca vendendo nuggets fritos de frango"
+        }
+    }
+}

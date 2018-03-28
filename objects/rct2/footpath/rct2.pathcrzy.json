@@ -1,0 +1,29 @@
+{
+    "id": "rct2.pathcrzy",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188885|PATHCRZY|51E64899",
+    "objectType": "footpath",
+    "properties": {
+        "hasSupportImages": true,
+        "hasElevatedPathImages": true,
+        "supportType": "pole",
+        "scrollingMode": 0
+    },
+    "images": ["$RCT2:OBJDATA/PATHCRZY.DAT[0..164]"],
+    "strings": {
+        "name": {
+            "en-GB": "Crazy Paving Footpath",
+            "fr-FR": "Allée pavée",
+            "de-DE": "Fußweg mit verrücktem Belag",
+            "es-ES": "Sendero de empedrado loco",
+            "it-IT": "Sentiero strampalato",
+            "nl-NL": "Leuk belegd Voetpad",
+            "sv-SE": "Rolig stengång",
+            "ko-KR": "포장 보도",
+            "zh-CN": "古怪步道",
+            "zh-TW": "古怪步道",
+            "pt-BR": "Caminho de Pavimento Doido"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "rct2.jeldrop1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|JELDROP1|2BF8DAD8",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 10,
+        "removalPrice": -8,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 24,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/JELDROP1.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Fruit Drop",
+            "fr-FR": "Bonbon aux fruits",
+            "de-DE": "Fruchtdrop",
+            "es-ES": "Caída de la fruta",
+            "it-IT": "Goccia di frutta",
+            "nl-NL": "Fruitsnoepje",
+            "sv-SE": "Fruktkaramell",
+            "ko-KR": "낙과",
+            "zh-CN": "成熟果实",
+            "zh-TW": "成熟果實",
+            "pt-BR": "Gota de Frutas"
+        }
+    }
+}

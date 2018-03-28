@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.trckprt3",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0511|TRCKPRT3|0E272566",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TRCKPRT3.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Diamond Shaft",
+            "fr-FR": "Puits à diamants",
+            "de-DE": "Diamantenschacht",
+            "es-ES": "Galería Diamante",
+            "it-IT": "Pozzo diamantifero",
+            "nl-NL": "Diamant-schacht",
+            "sv-SE": "Diamantgruva",
+            "zh-CN": "钻石把手"
+        }
+    }
+}

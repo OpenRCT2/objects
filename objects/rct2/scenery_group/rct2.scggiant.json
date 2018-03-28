@@ -1,0 +1,38 @@
+{
+    "id": "rct2.scggiant",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGGIANT|B50C9606",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "GGRS1",
+            "CARROT",
+            "FERN1",
+            "SPIDER1",
+            "BEANST1",
+            "BEANST2",
+            "BUTTFLY",
+            "SNAIL",
+            "WASP",
+            "LAMPDSY"
+        ],
+        "priority": 36
+    },
+    "images": ["$RCT2:OBJDATA/SCGGIANT.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Giant Garden Themeing",
+            "fr-FR": "Thème Jardin géant",
+            "de-DE": "Riesengarten-Thema",
+            "es-ES": "Temática jardín gigante",
+            "it-IT": "Tema giardino gigante",
+            "nl-NL": "Gigantische tuin thema",
+            "sv-SE": "Jätteträdgårdstema",
+            "ko-KR": "장대한 정원 테마",
+            "zh-CN": "巨大花园主题区",
+            "zh-TW": "巨大花園主題區",
+            "pt-BR": "Temática de Jardim Gigante"
+        }
+    }
+}

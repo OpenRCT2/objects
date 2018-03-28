@@ -1,0 +1,129 @@
+{
+    "id": "rct2.bmsd",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|BMSD    |E64D1747",
+    "objectType": "ride",
+    "properties": {
+        "type": "twister_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 5,
+        "maxCarsPerTrain": 8,
+        "numEmptyCars": 1,
+        "tabCar": 1,
+        "headCars": 1,
+        "maxHeight": 40,
+        "carColours": [
+            [
+                ["bright_green", "yellow", "yellow"]
+            ],
+            [
+                ["bright_red", "white", "light_orange"]
+            ],
+            [
+                ["light_blue", "light_blue", "white"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 130740,
+                "mass": 650,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [-2, -4, -2, -4]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 95876,
+                "mass": 525,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "corkscrews": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/BMSD.DAT[0..3350]"],
+    "strings": {
+        "name": {
+            "en-GB": "Twister Roller Coaster",
+            "fr-FR": "Montagnes tornado",
+            "de-DE": "Twister-Achterbahn",
+            "es-ES": "Montaña Rusa Tornado",
+            "it-IT": "Ottovolante contorsionista",
+            "nl-NL": "Draaiende Achtbaan",
+            "sv-SE": "Twistberg- och dalbana",
+            "ko-KR": "트위스터 롤러코스터",
+            "zh-CN": "旋风式过山车",
+            "zh-TW": "旋風式雲霄飛車",
+            "pt-BR": "Montanha-russa Tornado"
+        },
+        "description": {
+            "en-GB": "Wide roller coaster trains glide along smooth steel track, traveling through a variety of inversions",
+            "fr-FR": "De larges trains glissent le long de montagnes russes métalliques régulières proposant un grand éventail d'inversions",
+            "de-DE": "Breite Achterbahnzüge gleiten auf glatten Stahlschienen mit verdrehter Streckenführung",
+            "es-ES": "Montaña rusa amplia sobre vías de acero que efectúa varias inversiones",
+            "it-IT": "Dei grandi treni sfrecciano su un tracciato di acciaio passando per tutta una serie di inversioni",
+            "nl-NL": "Grote treinen glijden over een soepele stalen achtbaan die door verschillende loopings gaat",
+            "sv-SE": "Ett brett berg- och dalbanetåg som glider längs mjuka stålskenor, åker genom en blandning av omvändningar",
+            "ko-KR": "부드러운 철로를 따라 내려오면서 여러 번의 전복을 경험할 수 있는 넓은 롤러코스터 열차",
+            "zh-CN": "过山车列车延着平滑的轨道上一起穿过多变反转式的钢制轨道滑行",
+            "zh-TW": "雲霄飛車列車延著平滑的軌道上一起穿過多變反轉式的鋼製軌道滑行",
+            "pt-BR": "Trens largos andam por uma pista lisa de aço, passando por uma variedade de inversões"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 정원 4명",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por carro"
+        }
+    }
+}

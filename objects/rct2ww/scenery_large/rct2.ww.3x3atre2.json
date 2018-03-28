@@ -1,0 +1,83 @@
+{
+    "id": "rct2.ww.3x3atre2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0512|3X3ATRE2|5B53716A",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": 150,
+        "cursor": "CURSOR_TREE_DOWN",
+        "isPhotogenic": true,
+        "sceneryGroup": "SCGTREES",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 136,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 136,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 136,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 136,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 136,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 136,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 136,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 136,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 136,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/3X3ATRE2.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jungle Tree 1",
+            "fr-FR": "Arbre jungle 1",
+            "de-DE": "Dschungelbaum 1",
+            "es-ES": "Árbol tropical 1",
+            "it-IT": "Albero della giungla 1",
+            "nl-NL": "Boom Jungle 1",
+            "sv-SE": "Djungelträd 1",
+            "zh-CN": "热带树林1"
+        }
+    }
+}

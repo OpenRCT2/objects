@@ -1,0 +1,31 @@
+{
+    "id": "rct2.ww.rkreml03",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0911|RKREML03|8EAFE251",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasSecondaryColour": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RKREML03.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Kremlin Minaret Piece 3",
+            "fr-FR": "Pièce de dôme du Kremlin 3",
+            "de-DE": "Kreml - Zwiebelkuppel-Bauteil 3",
+            "es-ES": "Pieza de cúpula del Kremlin 3",
+            "it-IT": "Pezzo di cupola del Cremlino 3",
+            "nl-NL": "Stuk Kremlin-Minaret 3",
+            "sv-SE": "Del 3 till Kreml-minarettorn"
+        }
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "id": "rct2.slct",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SLCT    |702E2F19",
+    "objectType": "ride",
+    "properties": {
+        "type": "compact_inverted_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 2,
+        "maxCarsPerTrain": 8,
+        "carColours": [
+            [
+                ["yellow", "black", "bright_red"]
+            ],
+            [
+                ["black", "bright_red", "bright_red"]
+            ],
+            [
+                ["dark_green", "yellow", "yellow"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 139456,
+            "mass": 560,
+            "tabOffset": -15,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 1,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "verticalSlopes": true,
+                "diagonalSlopes": true,
+                "flatBanked": true,
+                "inlineTwists": true,
+                "flatToGentleSlopeBankedTransitions": true,
+                "diagonalGentleSlopeBankedTransitions": true,
+                "corkscrews": true,
+                "restraintAnimation": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "loadingPositions": [1, 3]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/SLCT.DAT[0..1362]"],
+    "strings": {
+        "name": {
+            "en-GB": "Compact Inverted Coaster",
+            "fr-FR": "Montagnes compactes inversées",
+            "de-DE": "Kompakte umgekehrte Bahn",
+            "es-ES": "Montaña Rusa Compacta",
+            "it-IT": "Ottovolante invertito compatto",
+            "nl-NL": "Compacte Inversie Achtbaan",
+            "sv-SE": "Kompakt omvänd bana",
+            "ko-KR": "컴팩트 인버티드 코스터",
+            "zh-CN": "简洁的反转过山车",
+            "zh-TW": "簡潔的反轉飛車",
+            "pt-BR": "Montanha Compacta Invertida"
+        },
+        "description": {
+            "en-GB": "Riders sit in pairs of seats suspended beneath the track as they loop and twist through tight inversions",
+            "fr-FR": "Les passagers sont assis par deux, suspendus à la voie tandis qu'ils zigzaguent et sont chahutés lors d'inversions serrées",
+            "de-DE": "Die Fahrgäste hängen in Sitzpaaren unter der Strecke und fahren Schleifen und Wendungen durch enge Kurven",
+            "es-ES": "Los pasajeros se sientan en parejas atravesando rizos e inversiones",
+            "it-IT": "I passeggeri siedono in coppia sospesi al tracciato e affrontano giri della morte, curve e improvvise inversioni",
+            "nl-NL": "Bezoekers zitten in paarsgewijs gekoppelde stoelen die onder de baan hangen en maken loopings en draaien door nauwe bochten",
+            "sv-SE": "Passagerarna sitter i par i säten upphängda under spåret då de åker genom loopar och skruvar med snabba omkastningar",
+            "ko-KR": "원형 코스를 돌거나 급회전을 할 때마다 트랙에 매달려 짝을 지어 앉은 승객들의 방향이 바뀌어 서로 마주보기도 하고 등돌리기도 하는 롤러코스터",
+            "zh-CN": "乘客成对地坐在悬挂在轨道下的坐椅一起历经牢固的反转回圈快速旋转",
+            "zh-TW": "乘客成對地坐在懸掛在軌道下的坐椅一起歷經牢固的反轉迴圈快速旋轉",
+            "pt-BR": "Os passageiros sentam em pares de assentos suspensos entre a pista e passam por loops, curvas sinuosas e inversões fechadas"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por vagón",
+            "it-IT": "2 passeggeri a carrozza",
+            "nl-NL": "2 passagiers per wagentje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량 정원 2명",
+            "zh-CN": "2 位乘客/每个车厢",
+            "zh-TW": "2 位乘客/每個車廂",
+            "pt-BR": "2 passageiros por carro"
+        }
+    }
+}

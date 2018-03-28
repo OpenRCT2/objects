@@ -1,0 +1,45 @@
+{
+    "id": "rct2.scghallo",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGHALLO|749D76D8",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "TCD",
+            "TSG",
+            "TSK",
+            "TGH1",
+            "TGH2",
+            "TSMP",
+            "SGP",
+            "WC14",
+            "WC15",
+            "TL0",
+            "TL1",
+            "TL2",
+            "TL3",
+            "TM0",
+            "TM1",
+            "TM2",
+            "TM3"
+        ],
+        "priority": 23
+    },
+    "images": ["$RCT2:OBJDATA/SCGHALLO.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Creepy Themeing",
+            "fr-FR": "Thème Terreur",
+            "de-DE": "Gruselthema",
+            "es-ES": "Temática horripilante",
+            "it-IT": "Tema spaventoso",
+            "nl-NL": "Griezelig Thema",
+            "sv-SE": "Kräldjurstema",
+            "ko-KR": "섬뜩한 테마",
+            "zh-CN": "战栗主题区",
+            "zh-TW": "戰慄主題區",
+            "pt-BR": "Temática Assustadora"
+        }
+    }
+}

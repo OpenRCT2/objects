@@ -1,0 +1,30 @@
+{
+    "id": "rct2.tel",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TEL     |D438EAFD",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 26,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 116,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TEL.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "European Larch Tree",
+            "fr-FR": "Mélèze",
+            "de-DE": "Europäische Lärche",
+            "es-ES": "Larch europeo",
+            "it-IT": "Larice europeo",
+            "nl-NL": "Europese Lariks",
+            "sv-SE": "Europeiskt lärkträd",
+            "ko-KR": "유럽향 낙엽송",
+            "zh-CN": "欧洲落叶松树",
+            "zh-TW": "歐洲落葉松樹",
+            "pt-BR": "Árvore Larício-Europeu"
+        }
+    }
+}

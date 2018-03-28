@@ -1,0 +1,42 @@
+{
+    "id": "rct2.tt.hevbth01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F821|HEVBTH01|37A21E0C",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 32,
+        "removalPrice": -26,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 8,
+        "animationDelay": 3,
+        "animationMask": 15,
+        "numFrames": 16,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/HEVBTH01.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Heavenly Bath Pool",
+            "fr-FR": "Bassin des thermes divins",
+            "de-DE": "Pool des Himmlischen Bades",
+            "es-ES": "Piscina de termas de los dioses",
+            "it-IT": "Piscina delle Terme Celestiali",
+            "nl-NL": "Hemels bad",
+            "sv-SE": "Bassäng, himmelskt bad",
+            "ko-KR": "천상의 욕실 풀",
+            "zh-TW": "天國浴場水池",
+            "pt-BR": "Piscina de Banho Celestial"
+        }
+    }
+}

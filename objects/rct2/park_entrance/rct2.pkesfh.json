@@ -1,0 +1,27 @@
+{
+    "id": "rct2.pkesfh",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188088|PKESFH  |EA422021",
+    "objectType": "park_entrance",
+    "properties": {
+        "scrollingMode": 36,
+        "textHeight": 30
+    },
+    "images": ["$RCT2:OBJDATA/PKESFH.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Park Entrance Building",
+            "fr-FR": "Bâtiment d'entrée du parc",
+            "de-DE": "Parkeingangsgebäude",
+            "es-ES": "Entrada al parque",
+            "it-IT": "Edificio d'entrata del parco",
+            "nl-NL": "Gebouw met Ingang Park",
+            "sv-SE": "Entrébyggnad",
+            "ko-KR": "공원 입장소",
+            "zh-CN": "游乐园入口建造",
+            "zh-TW": "遊樂園入口建造",
+            "pt-BR": "Prédio de Entrada de Parque"
+        }
+    }
+}

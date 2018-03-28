@@ -1,0 +1,47 @@
+{
+    "id": "rct2.tshrt",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|TSHRT   |A497AD40",
+    "objectType": "ride",
+    "properties": {
+        "type": "shop",
+        "category": "stall",
+        "sells": "tshirt",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/TSHRT.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "T-Shirt Stall",
+            "fr-FR": "T-Shirt",
+            "de-DE": "T-Shirt-Stand",
+            "es-ES": "Puesto de camisetas",
+            "it-IT": "Chiosco delle magliette",
+            "nl-NL": "Kraampje met T-shirts",
+            "sv-SE": "T-shirtstånd",
+            "ko-KR": "티셔츠 가게",
+            "zh-CN": "T恤店",
+            "zh-TW": "T恤店",
+            "pt-BR": "Barraca de Camisetas"
+        },
+        "description": {
+            "en-GB": "A stall selling souvenir T-Shirts",
+            "fr-FR": "Boutiques vendant des T-Shirts souvenirs",
+            "de-DE": "Ein Stand, an dem Souvenir-T-Shirts verkauft werden",
+            "es-ES": "Un puesto que vende camisetas",
+            "it-IT": "Un chiosco che vende magliette come souvenir",
+            "nl-NL": "Een kraampje dat souvenir T-shirts verkoopt",
+            "sv-SE": "Ett stånd som säljer souvenir T-shirts",
+            "ko-KR": "티셔츠를 파는 기념품 가게",
+            "zh-CN": "一家卖T恤纪念品的店",
+            "zh-TW": "一家賣T恤紀念品的店",
+            "pt-BR": "Uma barraca vendendo camisetas de lembrança"
+        }
+    }
+}

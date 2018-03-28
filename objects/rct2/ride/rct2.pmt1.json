@@ -1,0 +1,124 @@
+{
+    "id": "rct2.pmt1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|PMT1    |F8FD41B4",
+    "objectType": "ride",
+    "properties": {
+        "type": "mine_ride",
+        "category": "rollercoaster",
+        "minCarsPerTrain": 4,
+        "maxCarsPerTrain": 10,
+        "defaultCar": 1,
+        "headCars": 0,
+        "carColours": [
+            [
+                ["bright_red", "dark_brown", "saturated_brown"]
+            ],
+            [
+                ["dark_brown", "bordeaux_red", "yellow"]
+            ],
+            [
+                ["bordeaux_red", "black", "saturated_brown"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 191752,
+                "mass": 500,
+                "numSeats": 2,
+                "numSeatRows": 1,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "poweredAcceleration": 130,
+                "poweredMaxSpeed": 65,
+                "drawOrder": 7,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_POWERED_RIDE_UNRESTRICTED_GRAVITY": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [3, -1]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 191752,
+                "mass": 500,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "poweredAcceleration": 130,
+                "poweredMaxSpeed": 65,
+                "drawOrder": 7,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_POWERED_RIDE_UNRESTRICTED_GRAVITY": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [7, 9, -3, -1]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/PMT1.DAT[0..1822]"],
+    "strings": {
+        "name": {
+            "en-GB": "Mine Ride",
+            "fr-FR": "Mineur",
+            "de-DE": "Minenbahn",
+            "es-ES": "Trenes Mineros",
+            "it-IT": "Corsa in miniera",
+            "nl-NL": "Mijnattractie",
+            "sv-SE": "Gruvattraktion",
+            "ko-KR": "마인 라이드",
+            "zh-CN": "矿坑列车",
+            "zh-TW": "礦坑列車",
+            "pt-BR": "Brinquedo de Mina"
+        },
+        "description": {
+            "en-GB": "Powered mine trains career along a smooth and twisted track layout",
+            "fr-FR": "Train de mine à propulsion franchissant une voie régulière et alambiquée",
+            "de-DE": "Angetriebene Minenzüge fahren auf einer gemäßigten und verwundenen Strecke",
+            "es-ES": "Trenes mineros autopropulsados corren a lo largo de una vía enredada",
+            "it-IT": "Treni a motore da miniera si fanno strada lungo un tracciato pianeggiante ma pieno di curve",
+            "nl-NL": "Elektrische mijntreinen rijden over een vloeiende en draaiende baan",
+            "sv-SE": "Motordrivna gruvtåg rusar längs en mjuk tvinnad spårlayout",
+            "ko-KR": "뒤틀린 트랙을 미끄러져 내려오는 광물 운반차",
+            "zh-CN": "具动力式矿坑列车冲向平滑旋转式轨道上",
+            "zh-TW": "具動力式礦坑列車衝向平滑旋轉式軌道上",
+            "pt-BR": "Trens de mina correm por uma pista plana e sinuosa"
+        },
+        "capacity": {
+            "en-GB": "2 or 4 passengers per car",
+            "fr-FR": "2 ou 4 passagers par voiture",
+            "de-DE": "2 bzw. 4 Fahrgäste pro Wagen",
+            "es-ES": "2 ó 4 pasajeros por vagón",
+            "it-IT": "2 o 4 passeggeri a carrozza",
+            "nl-NL": "2 of 4 passagiers per wagentje",
+            "sv-SE": "2 eller 4 passagerare per vagn",
+            "ko-KR": "차량 정원 2-4명",
+            "zh-CN": "2 或 4 位乘客/每个车厢",
+            "zh-TW": "2 或 4 位乘客/每個車廂",
+            "pt-BR": "2 ou 4 passageiros por vagão"
+        }
+    }
+}

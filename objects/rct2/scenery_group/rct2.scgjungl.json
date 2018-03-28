@@ -1,0 +1,50 @@
+{
+    "id": "rct2.scgjungl",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGJUNGL|D133B62D",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "TJT1",
+            "TJT2",
+            "TJB1",
+            "TJT3",
+            "TJT4",
+            "TJP1",
+            "TJB2",
+            "TJT5",
+            "TJB3",
+            "TJB4",
+            "TJT6",
+            "TJP2",
+            "TJF",
+            "WPW1",
+            "WPW2",
+            "WJF",
+            "BN2",
+            "WALLJN32",
+            "JNGROOF1",
+            "ROOF14",
+            "BENCHLOG"
+        ],
+        "priority": 24,
+        "entertainerCostumes": "gorilla"
+    },
+    "images": ["$RCT2:OBJDATA/SCGJUNGL.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jungle Themeing",
+            "fr-FR": "Thème Jungle",
+            "de-DE": "Dschungelthema",
+            "es-ES": "Temática de jungla",
+            "it-IT": "Tema tropicale",
+            "nl-NL": "Jungle Thema",
+            "sv-SE": "Djungeltema",
+            "ko-KR": "정글 테마",
+            "zh-CN": "丛林主题区",
+            "zh-TW": "叢林主題區",
+            "pt-BR": "Temática de Selva"
+        }
+    }
+}

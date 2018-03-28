@@ -1,0 +1,97 @@
+{
+    "id": "rct2.ww.crocflum",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0E10|CROCFLUM|E73057F7",
+    "objectType": "ride",
+    "properties": {
+        "type": "log_flume",
+        "category": "water",
+        "tabScale": 0.5,
+        "playSplashSound": true,
+        "RIDE_ENTRY_FLAG_18": true,
+        "carsPerFlatRide": 5,
+        "carColours": [
+            [
+                ["dark_brown", "black", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 278912,
+                "mass": 250,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "logFlumeReverserVehicleType": 1,
+                "soundRange": 0,
+                "poweredAcceleration": 100,
+                "poweredMaxSpeed": 6,
+                "effectVisual": 12,
+                "drawOrder": 9,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "VEHICLE_ENTRY_FLAG_WATER_RIDE": true,
+                "loadingPositions": [6, 4, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 8716,
+                "mass": 250,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "soundRange": 0,
+                "poweredAcceleration": 100,
+                "poweredMaxSpeed": 6,
+                "effectVisual": 12,
+                "drawOrder": 9,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "VEHICLE_ENTRY_FLAG_WATER_RIDE": true,
+                "loadingPositions": [6, 4, -7, -9]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/CROCFLUM.DAT[0..626]"],
+    "strings": {
+        "name": {
+            "en-GB": "Crocodile Ride",
+            "fr-FR": "Crocodile",
+            "de-DE": "Krokodilbahn",
+            "es-ES": "Atracción Cocodrilo",
+            "it-IT": "Il coccodrillo",
+            "nl-NL": "Krokodil-Attractie",
+            "sv-SE": "Krokodilbana",
+            "zh-CN": "鳄鱼游乐设施"
+        },
+        "description": {
+            "en-GB": "Crocodile-shaped boats travel along a water channel, splashing down steep slopes to soak the riders",
+            "fr-FR": "Bateaux en forme de crocodiles parcourant un tube aquatique dont les pentes abruptes auront pour effet de tremper les passagers",
+            "de-DE": "Krokodilförmige Boote fahren in einem Wasserkanal und rutschen steile Gefälle herunter, damit die Fahrgäste nass werden",
+            "es-ES": "Botes con forma de cocodrilo viajan por un canal de agua, salpicando por las empinadas cuestas de descenso para empapar a sus ocupantes",
+            "it-IT": "Le carrozze hanno la forma di coccodrillo e si muovono lungo un canale, piombando in acqua dopo le discese ripide e facendo infradiciare i passeggeri",
+            "nl-NL": "Krokodil-vormige boten varen op een kanaal, en denderen steile hellingen af om de passagiers nat te maken",
+            "sv-SE": "Krokodilformade båtar forsar fram i en vattenfylld kanal och stänker ned åskådare vid foten av dödsföraktande stup",
+            "zh-CN": "鳄鱼造型的船沿着水道运行,在斜坡上滑水而下使乘客浸泡到水中"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per boat",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 pro Boot",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per imbarcazione",
+            "nl-NL": "4 passagiers per boot",
+            "sv-SE": "4 passagerare per båt",
+            "zh-CN": "?每艘船限乘4人"
+        }
+    }
+}

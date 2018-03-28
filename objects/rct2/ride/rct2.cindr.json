@@ -1,0 +1,47 @@
+{
+    "id": "rct2.cindr",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|CINDR   |E62108E8",
+    "objectType": "ride",
+    "properties": {
+        "type": "drink_stall",
+        "category": "stall",
+        "sells": "su_jongkwa",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/CINDR.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sujongkwa Stall",
+            "fr-FR": "Rhumerie",
+            "de-DE": "Sujongkwa-Stand",
+            "es-ES": "Puesto de sujongkwa",
+            "it-IT": "Chiosco di sujongkwa",
+            "nl-NL": "Kraampje Sujongkwa drankjes",
+            "sv-SE": "Sujongkwa-stånd",
+            "ko-KR": "수정과 판매점",
+            "zh-CN": "姜糖茶店",
+            "zh-TW": "Sujongkwa 店",
+            "pt-BR": "Barraca de Ponche de Caqui"
+        },
+        "description": {
+            "en-GB": "A stall selling Korean style Sujongkwa drinks",
+            "fr-FR": "Boutique vendant du punch",
+            "de-DE": "Ein Stand, an dem koreanische Sujongkwa-Getränke verkauft werden",
+            "es-ES": "Puesto que vende bebidas estilo koreano sujongkwa",
+            "it-IT": "Un chiosco che vende bevande di sujongkwa alla coreana",
+            "nl-NL": "Een kraampje dat Koreaanse Sujongkwa drankjes verkoopt",
+            "sv-SE": "Ett stånd som säljer Koreanska Sujongkwadrinkar",
+            "ko-KR": "한국식 수정과 음료를 파는 판매점",
+            "zh-CN": "一家卖韩式姜糖茶饮料的店",
+            "zh-TW": "一家賣韓式Sujongkwa飲料的店",
+            "pt-BR": "Uma barraca vendendo ponche de caqui à moda coreana"
+        }
+    }
+}

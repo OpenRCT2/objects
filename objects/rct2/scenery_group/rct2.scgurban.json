@@ -1,0 +1,38 @@
+{
+    "id": "rct2.scgurban",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGURBAN|B7B8C7C2",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "SHS1",
+            "SHS2",
+            "STH",
+            "SAH",
+            "SPS",
+            "SAH2",
+            "SAH3",
+            "SOB",
+            "WALLU132",
+            "WALLU232"
+        ],
+        "priority": 33
+    },
+    "images": ["$RCT2:OBJDATA/SCGURBAN.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Urban Themeing",
+            "fr-FR": "Thème Urbain",
+            "de-DE": "Stadtthema",
+            "es-ES": "Temática urbana",
+            "it-IT": "Tema urbano",
+            "nl-NL": "Stedelijk Thema",
+            "sv-SE": "Stadstema",
+            "ko-KR": "도시 테마",
+            "zh-CN": "都市化主题",
+            "zh-TW": "都市化主題",
+            "pt-BR": "Urbana Temática"
+        }
+    }
+}

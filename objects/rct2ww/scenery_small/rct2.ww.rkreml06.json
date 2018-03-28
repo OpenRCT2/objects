@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.rkreml06",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0911|RKREML06|6FEE45E9",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 64,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RKREML06.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Kremlin Small Tower Mid-Section",
+            "fr-FR": "Section moyenne de petite tour du Kremlin",
+            "de-DE": "Kreml - Kleiner Turm - Mitte",
+            "es-ES": "Sección intermedia de torre pequeña del Kremlin",
+            "it-IT": "Sezione centrale di torre piccola del Cremlino",
+            "nl-NL": "Kleine middengedeelte Minaret-toren Kremlin",
+            "sv-SE": "Mittparti till litet Kreml-torn"
+        }
+    }
+}

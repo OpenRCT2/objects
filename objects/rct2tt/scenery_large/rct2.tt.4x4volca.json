@@ -1,0 +1,142 @@
+{
+    "id": "rct2.tt.4x4volca",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F722|4X4VOLCA|660F3BFF",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 292,
+        "removalPrice": -246,
+        "cursor": "CURSOR_VOLCANO_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 96,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 96,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 96,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 96,
+                "y": 0,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 32,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 6
+            },
+            {
+                "x": 96,
+                "y": 64,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 96,
+                "clearance": 176,
+                "hasSupports": true,
+                "walls": 6
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/4X4VOLCA.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Volcano with small trees",
+            "fr-FR": "Volcan avec de petits arbres",
+            "de-DE": "Vulkan mit kleinen Bäumen",
+            "es-ES": "Volcán con árboles pequeños",
+            "it-IT": "Vulcano con piccoli alberi",
+            "nl-NL": "Vulkaan met kleine bomen",
+            "sv-SE": "Vulkan med små träd",
+            "ko-KR": "화산과 작은 나무",
+            "zh-TW": "火山與小型樹木",
+            "pt-BR": "Vulcão com Pequenas Árvores"
+        }
+    }
+}

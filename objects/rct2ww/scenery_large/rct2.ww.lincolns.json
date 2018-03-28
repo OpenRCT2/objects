@@ -1,0 +1,51 @@
+{
+    "id": "rct2.ww.lincolns",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0812|LINCOLNS|ABD15128",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": -150,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 136,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 136,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 136,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 136,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/LINCOLNS.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Washington Statue",
+            "fr-FR": "Statue de Washington",
+            "de-DE": "Washington-Statue",
+            "es-ES": "Estatua de Washington",
+            "it-IT": "Statua di Washington",
+            "nl-NL": "??Beeld van Washington",
+            "sv-SE": "??Washington-staty",
+            "zh-CN": "??华盛顿像"
+        }
+    }
+}

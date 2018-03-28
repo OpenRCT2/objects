@@ -1,0 +1,47 @@
+{
+    "id": "rct2.funcake",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|FUNCAKE |042CE30B",
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": "funnel_cake",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/FUNCAKE.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Funnel Cake Shop",
+            "fr-FR": "Pâtisserie",
+            "de-DE": "Kuchenladen",
+            "es-ES": "Puesto de pasteles",
+            "it-IT": "Negozio delle torte",
+            "nl-NL": "Winkel met taart",
+            "sv-SE": "Trattkaksaffär",
+            "ko-KR": "호두과자",
+            "zh-CN": "糕饼店",
+            "zh-TW": "糕餅店",
+            "pt-BR": "Loja de Bolos"
+        },
+        "description": {
+            "en-GB": "A stall selling funnel cakes",
+            "fr-FR": "Boutique vendant des gâteaux",
+            "de-DE": "Ein Stand, an dem Kuchen verkauft wird",
+            "es-ES": "Puesto que vende pasteles",
+            "it-IT": "Un chiosco che vende torte a ciambella",
+            "nl-NL": "Een kraampje dat taart verkoopt",
+            "sv-SE": "Ett stånd som säljer trattkakor",
+            "ko-KR": "호두과자를 파는 판매점",
+            "zh-CN": "一家卖糕饼的店",
+            "zh-TW": "一家賣糕餅的店",
+            "pt-BR": "Uma barraca vendendo pedaços de bolo"
+        }
+    }
+}

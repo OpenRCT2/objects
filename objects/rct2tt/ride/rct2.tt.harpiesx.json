@@ -1,0 +1,121 @@
+{
+    "id": "rct2.tt.harpiesx",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F820|HARPIESX|EB713E06",
+    "objectType": "ride",
+    "properties": {
+        "type": "lay_down_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 6,
+        "carColours": [
+            [
+                ["dark_purple", "black", "bright_red"]
+            ],
+            [
+                ["yellow", "dark_green", "black"]
+            ],
+            [
+                ["bright_red", "light_blue", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 209184,
+                "mass": 950,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_HAS_INVERTED_SPRITE_SET": true,
+                "VEHICLE_ENTRY_FLAG_13": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [2, -2, 2, -2]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 209184,
+                "mass": 950,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 2,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_HAS_INVERTED_SPRITE_SET": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [2, -2, 2, -2]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/HARPIESX.DAT[0..4082]"],
+    "strings": {
+        "name": {
+            "en-GB": "Harpies Coaster",
+            "fr-FR": "Les harpies",
+            "de-DE": "Harpyien-Achterbahn",
+            "es-ES": "Montaña rusa de las arpías",
+            "it-IT": "Ottovolante delle Arpie",
+            "nl-NL": "Harpijen-achtbaan",
+            "sv-SE": "Selbana",
+            "ko-KR": "하피 코스터",
+            "zh-TW": "鳥身女妖雲霄飛車",
+            "pt-BR": "Montanha das Harpias"
+        },
+        "description": {
+            "en-GB": "Riders are held in special harnesses in a lying-down position, travelling through twisted track and inversions either on their backs or facing the ground",
+            "fr-FR": "Les passagers franchissent une voie alambiquée pleine d'inversions, couchés à plat ventre ou sur le dos, et maintenus par des harnais spéciaux",
+            "de-DE": "Die Fahrer sind mit speziellen Gurten auf dem Rücken oder auf dem Bauch liegend angeschnallt und fahren über kurvenreiche, verdrehte Strecken.",
+            "es-ES": "Los usuarios están sujetos con arneses especiales para quedar en una posición tumbada y viajar por un circuito lleno de giros e inversiones, bien sobre las espaldas o de cara al suelo.",
+            "it-IT": "I passeggeri sono tenuti distesi da speciali bardature e viaggiano lungo un tracciato contorto caratterizzato da inversioni, guardando ora verso la terra e ora verso il cielo.",
+            "nl-NL": "Bezoekers liggen in speciale tuigjes en gaan langs de slingerende baan en de loopings, liggend op hun rug of met het gezicht naar beneden.",
+            "sv-SE": "Passagerarna åker liggande fastspända i speciella selar genom slingrande och inverterade spår, antingen på ryggen eller på magen.",
+            "ko-KR": "승객들이 누운 자세로 또는 엎드린 자세로 뒤틀린 트랙을 통해 달려가는 구형의 마차",
+            "zh-TW": "乘客被以橫臥姿勢固定在特殊挽具上,歷經疾速旋轉軌道及反轉,甚至以幾近貼地方式與地面接觸",
+            "pt-BR": "Os visitantes são mantidos em arreios especiais numa posição deitada, viajando por pistas sinuosas e inversões, deitados para cima ou para baixo"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por coche",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 정원 4명",
+            "zh-TW": "每輛車限乘4人",
+            "pt-BR": "4 passageiros por vagão"
+        }
+    }
+}

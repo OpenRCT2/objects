@@ -1,0 +1,134 @@
+{
+    "id": "rct2.mft",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|MFT     |52488B03",
+    "objectType": "ride",
+    "properties": {
+        "type": [
+            "none",
+            "wooden_rc"
+        ],
+        "category": "rollercoaster",
+        "minCarsPerTrain": 6,
+        "maxCarsPerTrain": 12,
+        "defaultCar": 1,
+        "headCars": 0,
+        "ratingMultipler": {
+            "excitement": 4,
+            "nausea": 2
+        },
+        "carColours": [
+            [
+                ["dark_green", "bordeaux_red", "black"]
+            ],
+            [
+                ["bordeaux_red", "dark_brown", "yellow"]
+            ],
+            [
+                ["dark_brown", "black", "bordeaux_red"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 174320,
+                "mass": 350,
+                "numSeats": 2,
+                "numSeatRows": 1,
+                "frictionSoundId": 54,
+                "soundRange": 2,
+                "effectVisual": 10,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [5, 3, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 122024,
+                "mass": 290,
+                "numSeats": 2,
+                "numSeatRows": 1,
+                "frictionSoundId": 54,
+                "soundRange": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [7, 9, -3, -1]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/MFT.DAT[0..2882]"],
+    "strings": {
+        "name": {
+            "en-GB": "Articulated Roller Coaster Trains",
+            "fr-FR": "Trains articulés",
+            "de-DE": "Gelenkverbundene Züge",
+            "es-ES": "Tren Montaña Rusa Articulado",
+            "it-IT": "Treni da ottovolante articolati",
+            "nl-NL": "Verbonden Achtbaantreintjes",
+            "sv-SE": "Tåg med ledvagnar",
+            "ko-KR": "2인승 롤러코스터",
+            "zh-CN": "绞接式的过山车",
+            "zh-TW": "絞接式的雲霄飛車",
+            "pt-BR": "Trens de Montanha-russa Articulados"
+        },
+        "description": {
+            "en-GB": "Roller coaster trains with short single-row cars and open fronts",
+            "fr-FR": "Trains composés de voitures de petite taille disposées en une seule rangée et dévalant des montagnes russes",
+            "de-DE": "Achterbahnzüge mit kurzen einreihigen Wagen und offenen Fronten",
+            "es-ES": "Montaña rusa con pequeños vagones en una única fila",
+            "it-IT": "Treni da ottovolante con piccole carrozze a unica fila aperte sul davanti",
+            "nl-NL": "Achtbaantreintjes met een korte rij wagentjes met open voorkanten",
+            "sv-SE": "Berg- och dalbanetåg med korta enkelradsvagnar och öppna fronter",
+            "ko-KR": "객차들이 서로 분리되어 있어 앞쪽을 모두 볼 수 있는 롤러코스터",
+            "zh-CN": "过山车以短截单排列车及前面开放型的",
+            "zh-TW": "雲霄飛車以前面開放型的短截單排列車為主",
+            "pt-BR": "Trens de montanha-russa com carros curtos de fila única e frente aberta"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por vagón",
+            "it-IT": "2 passeggeri a carrozza",
+            "nl-NL": "2 passagiers per wagentje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량 정원 2명",
+            "zh-CN": "2位乘客/每个车厢",
+            "zh-TW": "2位乘客/每個車廂",
+            "pt-BR": "2 passageiros por carro"
+        }
+    }
+}

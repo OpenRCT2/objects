@@ -1,0 +1,47 @@
+{
+    "id": "rct2.rsaus",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|RSAUS   |33756690",
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": "roast_sausage",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/RSAUS.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Roast Sausage Stall",
+            "fr-FR": "Saucisserie",
+            "de-DE": "Bratwurststand",
+            "es-ES": "Puesto de salchichas asadas",
+            "it-IT": "Chiosco delle salsicce",
+            "nl-NL": "Kraampje Chinese geroosterde worstjes",
+            "sv-SE": "Kinesisk korvkiosk",
+            "ko-KR": "구운 소시지 판매점",
+            "zh-CN": "烤香肠店",
+            "zh-TW": "烤香腸店",
+            "pt-BR": "Barraca de Salsicha Assada"
+        },
+        "description": {
+            "en-GB": "A stall selling Chinese style roast sausage",
+            "fr-FR": "Boutique vendant des saucisses",
+            "de-DE": "Ein Stand, an dem Bratwürste verkauft werden",
+            "es-ES": "Puesto que vende salchichas asadas",
+            "it-IT": "Un chiosco che vende salsicce arrosto alla cinese",
+            "nl-NL": "Een kraampje dat Chinese geroosterde worstjes verkoopt",
+            "sv-SE": "Ett stånd som säljer kinesiska korvar",
+            "ko-KR": "중국식 구운 소시지를 파는 판매점",
+            "zh-CN": "一家卖中国式烤香肠的店",
+            "zh-TW": "一家賣中國式烤香腸的店",
+            "pt-BR": "Uma barraca vendendo salsicha assada à moda chinesa"
+        }
+    }
+}

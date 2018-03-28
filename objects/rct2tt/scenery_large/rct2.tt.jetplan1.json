@@ -1,0 +1,93 @@
+{
+    "id": "rct2.tt.jetplan1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA22|JETPLAN1|EFD4A04D",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 204,
+        "removalPrice": -168,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/JETPLAN1.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jet Aeroplane",
+            "fr-FR": "Avion à réaction",
+            "de-DE": "Düsenflugzeug",
+            "es-ES": "Avión a reacción",
+            "it-IT": "Aviogetto",
+            "nl-NL": "Straalvliegtuig",
+            "sv-SE": "Jetplan",
+            "ko-KR": "젯 비행기",
+            "zh-TW": "噴射機",
+            "pt-BR": "Avião a Jato"
+        }
+    }
+}

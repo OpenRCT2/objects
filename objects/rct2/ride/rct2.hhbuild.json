@@ -1,0 +1,159 @@
+{
+    "id": "rct2.hhbuild",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|HHBUILD |36C99378",
+    "objectType": "ride",
+    "properties": {
+        "type": "haunted_house",
+        "category": "gentle",
+        "tabScale": 0.5,
+        "hasShelter": true,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["moss_green", "yellow", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "mass": 3000,
+            "numSeats": 15,
+            "seatsInPairs": false,
+            "spriteWidth": 55,
+            "spriteHeightNegative": 150,
+            "spriteHeightPositive": 28,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "numSegments": 0,
+            "loadingWaypoints": [
+                [
+                    [40, 40],
+                    [-40, 40],
+                    [-36, 0]
+                ],
+                [
+                    [-40, -40],
+                    [-36, 0],
+                    [-36, 0]
+                ],
+                [
+                    [-36, 0],
+                    [-36, 0],
+                    [-36, 0]
+                ],
+                [
+                    [-40, 40],
+                    [-36, 0],
+                    [-36, 0]
+                ],
+                [
+                    [40, 40],
+                    [0, 36],
+                    [0, 36]
+                ],
+                [
+                    [40, -40],
+                    [40, 40],
+                    [0, 36]
+                ],
+                [
+                    [-40, 40],
+                    [0, 36],
+                    [0, 36]
+                ],
+                [
+                    [0, 36],
+                    [0, 36],
+                    [0, 36]
+                ],
+                [
+                    [36, 0],
+                    [36, 0],
+                    [36, 0]
+                ],
+                [
+                    [40, -40],
+                    [36, 0],
+                    [36, 0]
+                ],
+                [
+                    [-40, -40],
+                    [40, -40],
+                    [36, 0]
+                ],
+                [
+                    [40, 40],
+                    [36, 0],
+                    [36, 0]
+                ],
+                [
+                    [40, -40],
+                    [0, -36],
+                    [0, -36]
+                ],
+                [
+                    [0, -36],
+                    [0, -36],
+                    [0, -36]
+                ],
+                [
+                    [-40, -40],
+                    [0, -36],
+                    [0, -36]
+                ],
+                [
+                    [-40, 40],
+                    [-40, -40],
+                    [0, -36]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/HHBUILD.DAT[0..78]"],
+    "strings": {
+        "name": {
+            "en-GB": "Haunted House",
+            "fr-FR": "Maison hantée",
+            "de-DE": "Spukhaus",
+            "es-ES": "Casa Encantada",
+            "it-IT": "Casa infestata",
+            "nl-NL": "Spookhuis",
+            "sv-SE": "Spökhus",
+            "ko-KR": "유령의 집",
+            "zh-CN": "鬼屋",
+            "zh-TW": "鬼屋",
+            "pt-BR": "Casa Mal-assombrada"
+        },
+        "description": {
+            "en-GB": "Large themed building containing scary corridors and spooky rooms",
+            "fr-FR": "Grand bâtiment thématique rempli de couloirs effrayants et de salles terrifiantes",
+            "de-DE": "Großes Themengebäude mit gruseligen Gängen und spukigen Räumen",
+            "es-ES": "Gran edificio con pasillos tenebrosos y salas espectrales",
+            "it-IT": "Un grande edificio a tema pieno di corridoi e stanze terrorizzanti",
+            "nl-NL": "Groot gebouw dat enge gangen en spookachtige kamers bevat",
+            "sv-SE": "Stor temabyggnad som innehåller skrämmande korridorer och spöklika rum",
+            "ko-KR": "무서운 복도와 방들을 가진 커다란 테마 건물",
+            "zh-CN": "大型的主题建筑物包含可怕的长廊以及幽灵房间",
+            "zh-TW": "大型的主題建築物包含可怕的長廊以及幽靈房間",
+            "pt-BR": "Grande construção temática contendo corredores e salas assustadores"
+        },
+        "capacity": {
+            "en-GB": "15 guests",
+            "fr-FR": "15 personnes",
+            "de-DE": "15 Besucher",
+            "es-ES": "15 visitantes",
+            "it-IT": "15 visitatori",
+            "nl-NL": "15 bezoekers",
+            "sv-SE": "15 besökare",
+            "ko-KR": "정원 15명",
+            "zh-CN": "15位游客",
+            "zh-TW": "15位遊客",
+            "pt-BR": "15 visitantes"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "rct2.tt.1920slmp",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|1920SLMP|F4E542CD",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 12,
+        "removalPrice": -9,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 72,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/1920SLMP.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Period Street Lamps",
+            "fr-FR": "Réverbères d'époque",
+            "de-DE": "Antike Straßenlaternen",
+            "es-ES": "Punto de farolas",
+            "it-IT": "Lampioni ricorrenti",
+            "nl-NL": "Periode straatlantaarns",
+            "sv-SE": "Tidsenliga gatlyktor",
+            "ko-KR": "시대 거리 램프",
+            "zh-TW": "區間路燈",
+            "pt-BR": "Postes de Luz de Época"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "rct2.tck",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TCK     |7C2FC2BB",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 40,
+        "removalPrice": -34,
+        "cursor": "CURSOR_FLOWER_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "hasOverlayImage": true,
+        "isClock": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TCK.DAT[0..115]"],
+    "strings": {
+        "name": {
+            "en-GB": "Clock",
+            "fr-FR": "Horloge",
+            "de-DE": "Uhr",
+            "es-ES": "Reloj",
+            "it-IT": "Orologio",
+            "nl-NL": "Klok",
+            "sv-SE": "Klocka",
+            "ko-KR": "시계",
+            "zh-CN": "时钟",
+            "zh-TW": "時鐘",
+            "pt-BR": "Relógio"
+        }
+    }
+}

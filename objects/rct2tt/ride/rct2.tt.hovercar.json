@@ -1,0 +1,104 @@
+{
+    "id": "rct2.tt.hovercar",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA20|HOVERCAR|10724616",
+    "objectType": "ride",
+    "properties": {
+        "type": [
+            "none",
+            "car_ride"
+        ],
+        "category": "gentle",
+        "RIDE_ENTRY_FLAG_18": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "carColours": [
+            [
+                ["bright_red", "bright_red", "black"]
+            ],
+            [
+                ["light_blue", "saturated_brown", "black"]
+            ],
+            [
+                ["yellow", "black", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 217900,
+                "mass": 330,
+                "numSeats": 1,
+                "numSeatRows": 1,
+                "poweredAcceleration": 80,
+                "poweredMaxSpeed": 8,
+                "drawOrder": 9,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "loadingPositions": [4]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "poweredAcceleration": 80,
+                "poweredMaxSpeed": 8,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/HOVERCAR.DAT[0..266]"],
+    "strings": {
+        "name": {
+            "en-GB": "Hover Car Ride",
+            "fr-FR": "Voiture sur coussin d'air",
+            "de-DE": "Schwebewagen-Attraktion",
+            "es-ES": "Viaje en aerodeslizador",
+            "it-IT": "Auto volante",
+            "nl-NL": "Zweefwagen Attractie",
+            "sv-SE": "Svävarbilar",
+            "ko-KR": "호버 카 라이드",
+            "zh-TW": "飛行車遊樂設施",
+            "pt-BR": "Brinquedo de Carro Flutuante"
+        },
+        "description": {
+            "en-GB": "Mag Lev technology has been implemented to create the illusion of futuristic hover cars",
+            "fr-FR": "La technologie de lévitation magnétique a été intégrée pour donner l'illusion de voitures futuristes sur coussins d'air",
+            "de-DE": "Magnetschwebe-Technologie für die Illusion futuristischer Schwebewagen",
+            "es-ES": "La tecnología de levitación magnética se ha implementado para crear la ilusión de aerodeslizadores futuristas.",
+            "it-IT": "La tecnologia a levitazione magnetica è stata implementata per creare l'illusione di futuristiche auto che viaggiano sospese in aria.",
+            "nl-NL": "Mag Lev-technologie is toegepast om de illusie van toekomstige zweefauto's te creëren",
+            "sv-SE": "Magnetteknologi har använts för att skapa en illusion av futuristiska svävarbilar.",
+            "ko-KR": "미래의 공중 자동차의 환영을 실현하기 위해 자기 부상 기술이 적용된 놀이기구",
+            "zh-TW": "使用磁浮運輸技術營造乘坐未來車的感覺",
+            "pt-BR": "A tecnologia de levitação magnética foi implementada para criar a ilusão de carros flutuantes futuristas"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por coche",
+            "it-IT": "2 passeggeri per carrozza",
+            "nl-NL": "2 passagiers per wagentje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량 정원 2명",
+            "zh-TW": "每輛車限乘2人",
+            "pt-BR": "2 passageiros por vagão"
+        }
+    }
+}

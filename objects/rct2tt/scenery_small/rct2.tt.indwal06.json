@@ -1,0 +1,36 @@
+{
+    "id": "rct2.tt.indwal06",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F921|INDWAL06|1D56F4CA",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -14,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/INDWAL06.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Industrial Roof Corner Piece",
+            "fr-FR": "Section de toit de virage industriel",
+            "de-DE": "Industriedach Eckstück",
+            "es-ES": "Sección de esquina de tejado industrial",
+            "it-IT": "Tratto di curva dei tetti di New York",
+            "nl-NL": "Dak Bochtstuk Industrie",
+            "sv-SE": "Industriell takhörndel",
+            "ko-KR": "산업 지붕 모서리 조각",
+            "zh-TW": "工業屋頂轉角塊",
+            "pt-BR": "Peça de Canto de Telhado Industrial"
+        }
+    }
+}

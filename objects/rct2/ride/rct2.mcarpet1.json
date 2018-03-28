@@ -1,0 +1,81 @@
+{
+    "id": "rct2.mcarpet1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|MCARPET1|073E5C11",
+    "objectType": "ride",
+    "properties": {
+        "type": "magic_carpet",
+        "category": "thrill",
+        "tabScale": 0.5,
+        "swingMode": 2,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["bordeaux_red", "bright_red", "black"]
+            ],
+            [
+                ["grey", "bright_red", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "mass": 200,
+            "tabOffset": -20,
+            "numSeats": 12,
+            "spriteWidth": 90,
+            "spriteHeightNegative": 137,
+            "spriteHeightPositive": 17,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "loadingPositions": [-27, -25, 27, 25, -17, -15, 17, 15, -7, -5, 7, 5]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/MCARPET1.DAT[0..30]"],
+    "strings": {
+        "name": {
+            "en-GB": "Magic Carpet",
+            "fr-FR": "Tapis volant",
+            "de-DE": "Fliegender Teppich",
+            "es-ES": "Alfombras Mágicas",
+            "it-IT": "Tappeto magico",
+            "nl-NL": "Magisch Tapijt",
+            "sv-SE": "Magisk matta",
+            "ko-KR": "마술 양탄자",
+            "zh-CN": "魔毯",
+            "zh-TW": "魔毯",
+            "pt-BR": "Tapete Mágico"
+        },
+        "description": {
+            "en-GB": "A large flying-carpet themed car which moves up and down cyclically on the ends of 4 arms",
+            "fr-FR": "Grande voiture en forme de tapis volant qui monte et descend de manière cyclique, au bout de 4 bras",
+            "de-DE": "Ein großer Wagen im `Fliegender-Teppich-Outfit', der sich zyklisch am Ende von 4 Armen auf und ab bewegt",
+            "es-ES": "Un vagón decorado con la temática de alfombra volante se mueve arriba y abajo cíclicamente",
+            "it-IT": "Una vasta carrozza che ricorda un tappeto magico, che si muove su e giù ciclicamente sulle estremità di quattro bracci",
+            "nl-NL": "Een grote wagen in de vorm van een vliegend tapijt dat periodiek omhoog en omlaag beweegt aan het einde van vier armen",
+            "sv-SE": "En stor flygande matta som rör sig i cirklar upp och ner fasthållen av 4 armar",
+            "ko-KR": "하늘을 나는 양탄자라는 테마의 큰 기구로, 4개의 팔 끝에 올라타서 위아래로 회전하며 움직입니다.",
+            "zh-CN": "一辆超大飞毯特色的车由底部四支支架循环式地上上下下移动",
+            "zh-TW": "一輛超大飛毯特色的車由底部四支支架循環式地上上下下移動",
+            "pt-BR": "Um enorme vagão com tema de tapete voador que se move para cima e para baixo, ciclicamente, na ponta de 4 braços"
+        },
+        "capacity": {
+            "en-GB": "12 passengers",
+            "fr-FR": "12 passagers",
+            "de-DE": "12 Fahrgäste",
+            "es-ES": "12 pasajeros",
+            "it-IT": "12 passeggeri",
+            "nl-NL": "12 passagiers",
+            "sv-SE": "12 passagerare",
+            "ko-KR": "12명의 승객",
+            "zh-CN": "12 位乘客",
+            "zh-TW": "12 位乘客",
+            "pt-BR": "12 passageiros"
+        }
+    }
+}

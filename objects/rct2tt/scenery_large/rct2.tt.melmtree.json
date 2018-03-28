@@ -1,0 +1,54 @@
+{
+    "id": "rct2.tt.melmtree",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F922|MELMTREE|99673EFE",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 36,
+        "removalPrice": 28,
+        "cursor": "CURSOR_TREE_DOWN",
+        "sceneryGroup": "SCGTREES",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 128,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 128,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 128,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 128,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/MELMTREE.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Large Elm Tree",
+            "fr-FR": "Grand orme",
+            "de-DE": "Großer Ulmenbaum",
+            "es-ES": "Olmo grande",
+            "it-IT": "Grande olmo",
+            "nl-NL": "Grote iep",
+            "sv-SE": "Stor alm",
+            "ko-KR": "대형 느릅나무",
+            "zh-TW": "大榆樹",
+            "pt-BR": "Olmeiro Grande"
+        }
+    }
+}

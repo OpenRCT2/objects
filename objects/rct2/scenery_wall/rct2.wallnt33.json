@@ -1,0 +1,29 @@
+{
+    "id": "rct2.wallnt33",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WALLNT33|7260EE4B",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "isOpaque": true,
+        "height": 4,
+        "price": 90
+    },
+    "images": ["$RCT2:OBJDATA/WALLNT33.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tennis Net Wall",
+            "fr-FR": "Mur en filet de tennis",
+            "de-DE": "Tennisnetzwand",
+            "es-ES": "Pared de red de tenis",
+            "it-IT": "Muro a rete da tennis",
+            "nl-NL": "Tennisnet Muur",
+            "sv-SE": "Tennisnätsvägg",
+            "ko-KR": "테니스 네트 벽",
+            "zh-CN": "网球网墙",
+            "zh-TW": "網球網牆",
+            "pt-BR": "Parede de Rede de Tênis"
+        }
+    }
+}

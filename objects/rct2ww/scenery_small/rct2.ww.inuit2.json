@@ -1,0 +1,32 @@
+{
+    "id": "rct2.ww.inuit2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0211|INUIT2  |F489FF2F",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 40,
+        "removalPrice": -30,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 34,
+        "animationDelay": 2,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/INUIT2.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Inuit",
+            "es-ES": "Esquimal",
+            "nl-NL": "Eskimo",
+            "zh-CN": "古老土著"
+        }
+    }
+}

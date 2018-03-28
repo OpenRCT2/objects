@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.smallgeo",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0111|SMALLGEO|D3856DB8",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/RSSB1H01.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Small Geosphere",
+            "fr-FR": "Petite géosphère",
+            "de-DE": "Kleine Geosphäre",
+            "es-ES": "Geosfera pequeña",
+            "it-IT": "Piccola geosfera",
+            "nl-NL": "Kleine Geosfeer",
+            "sv-SE": "Liten geosfär",
+            "zh-CN": "小型地质"
+        }
+    }
+}

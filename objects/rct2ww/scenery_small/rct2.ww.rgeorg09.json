@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.rgeorg09",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A11|RGEORG09|853B5909",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 16,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RGEORG09.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Georgian Flat Roof Edge 1",
+            "fr-FR": "Bord de toit plat géorgien 1",
+            "de-DE": "Georgianische Flachdachkante 1",
+            "es-ES": "Borde de tejado plano georgiano 1",
+            "it-IT": "Orlo di tetto piatto georgiano 1",
+            "nl-NL": "Rand platdak in Georgische stijl 1",
+            "sv-SE": "Georgiansk platt tak-kant 1"
+        }
+    }
+}

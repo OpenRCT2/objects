@@ -1,0 +1,46 @@
+{
+    "id": "rct2.scgcandy",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGCANDY|C645A8BC",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "JELBAB1",
+            "MINT1",
+            "LOLLY1",
+            "JBEAN1",
+            "WALLJB16",
+            "CNDYRK1",
+            "JELDROP1",
+            "JELDROP2",
+            "COLAGUM",
+            "CHOCROOF",
+            "MALLOW1",
+            "MALLOW2",
+            "TAS1",
+            "TAS2",
+            "TAS3",
+            "TAS4",
+            "ALLSORT1",
+            "ALLSORT2"
+        ],
+        "priority": 39
+    },
+    "images": ["$RCT2:OBJDATA/SCGCANDY.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Giant Candy Themeing",
+            "fr-FR": "Thème Bonbon",
+            "de-DE": "Süßwarenland-Thema",
+            "es-ES": "Temática caramelolandia",
+            "it-IT": "Tema paese dei dolci",
+            "nl-NL": "Snoepland Thema",
+            "sv-SE": "Godislandstema",
+            "ko-KR": "캔디랜드 테마 공원",
+            "zh-CN": "糖果屋主题",
+            "zh-TW": "糖果屋主題",
+            "pt-BR": "Temática de Terra dos Doces"
+        }
+    }
+}

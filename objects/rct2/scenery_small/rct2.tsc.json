@@ -1,0 +1,28 @@
+{
+    "id": "rct2.tsc",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TSC     |7007B2D2",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 9,
+        "removalPrice": 5,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 44,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TSC.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cactus",
+            "de-DE": "Kaktus",
+            "sv-SE": "Kaktus",
+            "ko-KR": "선인장",
+            "zh-CN": "仙人掌",
+            "zh-TW": "仙人掌",
+            "pt-BR": "Cacto"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "rct2.ww.wpalm02",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0713|WPALM02 |C874C589",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WPALM02.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cabana Wall Piece",
+            "fr-FR": "Pan de mur de hutte",
+            "de-DE": "Cabanawand-Bauteil",
+            "es-ES": "Pieza de pared de cabaña",
+            "it-IT": "Pezzo di parete di capanna da spiaggia",
+            "nl-NL": "Stuk Muur Hut",
+            "sv-SE": "Väggdel till stuga",
+            "zh-CN": "小屋墙面一片"
+        }
+    }
+}

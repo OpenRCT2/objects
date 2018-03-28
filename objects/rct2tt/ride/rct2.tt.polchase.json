@@ -1,0 +1,119 @@
+{
+    "id": "rct2.tt.polchase",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F920|POLCHASE|8BACAB3E",
+    "objectType": "ride",
+    "properties": {
+        "type": "looping_rc",
+        "category": "rollercoaster",
+        "minCarsPerTrain": 2,
+        "maxCarsPerTrain": 7,
+        "defaultCar": 1,
+        "headCars": 0,
+        "carColours": [
+            [
+                ["bright_red", "bright_red", "yellow"]
+            ],
+            [
+                ["dark_green", "bright_red", "dark_green"]
+            ],
+            [
+                ["light_blue", "white", "light_blue"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 278912,
+                "mass": 700,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [5, 3, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 261480,
+                "mass": 600,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 0,
+                "soundRange": 0,
+                "drawOrder": 7,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [7, 9, -3, -1]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/POLCHASE.DAT[0..4322]"],
+    "strings": {
+        "name": {
+            "en-GB": "Police Chase Coaster",
+            "fr-FR": "Course poursuite policière",
+            "de-DE": "Polizeiverfolgungsjagd-Achterbahn",
+            "es-ES": "Montaña rusa Persecución policial",
+            "it-IT": "Ottovolante inseguimento della polizia",
+            "nl-NL": "Politieachtervolging-achtbaan",
+            "sv-SE": "Polisjakt",
+            "ko-KR": "폴리스 체이스 코스터",
+            "zh-TW": "警匪追逐戰雲霄飛車",
+            "pt-BR": "Montanha de Perseguição Policial"
+        },
+        "description": {
+            "en-GB": "A looping roller coaster where the riders ride in a sitting position",
+            "fr-FR": "Grand huit que les passagers parcourent assis",
+            "de-DE": "Eine Achterbahn mit Loopings, in der die Fahrer sitzend fahren",
+            "es-ES": "Una montaña rusa llena de bucles en la que los viajeros van sentados",
+            "it-IT": "Un ottovolante con giro della morte in cui i passeggeri stanno in posizione seduta.",
+            "nl-NL": "Een achtbaan met loopings waarin de bezoekers zittend rijden.",
+            "sv-SE": "En berg- och dalbana med loopar där passagerarna åker sittande.",
+            "ko-KR": "앉아서 타는 루핑 롤러코스터",
+            "zh-TW": "一座由乘客以站立姿態乘座的迴圈式雲霄飛車",
+            "pt-BR": "Uma montanha-russa com loop onde os visitantes viajam sentados"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por coche",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 정원 4명",
+            "zh-TW": "每輛車限乘4人",
+            "pt-BR": "4 passageiros por vagão"
+        }
+    }
+}

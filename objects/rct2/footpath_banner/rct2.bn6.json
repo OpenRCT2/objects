@@ -1,0 +1,29 @@
+{
+    "id": "rct2.bn6",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F84|BN6     |927AF341",
+    "objectType": "footpath_banner",
+    "properties": {
+        "scrollingMode": 15,
+        "price": 300,
+        "hasPrimaryColour": true,
+        "sceneryGroup": "SCGPATHX"
+    },
+    "images": ["$RCT2:OBJDATA/BN6.DAT[0..7]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jurassic Style Sign",
+            "fr-FR": "Panneau jurassique",
+            "de-DE": "Jurassic-Schild",
+            "es-ES": "Señal estilo jurásico",
+            "it-IT": "Insegna stile giurassico",
+            "nl-NL": "Bord in stijl Jurassic park",
+            "sv-SE": "Skylt - Jurassic-stil",
+            "ko-KR": "쥬라기 스타일 표시",
+            "zh-CN": "侏罗纪风格 招牌",
+            "zh-TW": "侏羅紀風格 招牌",
+            "pt-BR": "Placa Estilo Jurássico"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "rct2.ww.wshogi17",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CCCCC13|WSHOGI17|CDE428DA",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 1,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WSHOGI17.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Shogi Wall",
+            "fr-FR": "Cloison shogi",
+            "de-DE": "Shogi-Wand",
+            "es-ES": "Pared Shogi",
+            "it-IT": "Muro di Shogi",
+            "nl-NL": "Muur gedecoreerd als Japans schaakspel",
+            "sv-SE": "Shogi-mur",
+            "zh-CN": "将棋墙"
+        }
+    }
+}

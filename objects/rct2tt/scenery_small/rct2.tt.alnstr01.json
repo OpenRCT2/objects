@@ -1,0 +1,42 @@
+{
+    "id": "rct2.tt.alnstr01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB21|ALNSTR01|1076AB86",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 24,
+        "removalPrice": -18,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 64,
+        "animationDelay": 3,
+        "animationMask": 15,
+        "numFrames": 16,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "SMALL_SCENERY_FLAG_COG": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/ALNSTR01.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Alien Structure Small",
+            "fr-FR": "Petite structure extraterrestre",
+            "de-DE": "Außerirdische Struktur Klein",
+            "es-ES": "Estructura alienígena pequeña",
+            "it-IT": "Piccola struttura aliena",
+            "nl-NL": "Kleine Buitenaardse Constructie",
+            "sv-SE": "Liten utomjordisk struktur",
+            "ko-KR": "외계 구조물 소형",
+            "zh-TW": "外星建築物(小)",
+            "pt-BR": "Estrutura Alienígena Pequena"
+        }
+    }
+}

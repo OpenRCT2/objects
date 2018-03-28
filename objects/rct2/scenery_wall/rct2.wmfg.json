@@ -1,0 +1,28 @@
+{
+    "id": "rct2.wmfg",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WMFG    |73C4330F",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isOpaque": true,
+        "height": 2,
+        "price": 40
+    },
+    "images": ["$RCT2:OBJDATA/WMFG.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Mesh Fence",
+            "fr-FR": "Grillage",
+            "de-DE": "Maschendrahtzaun",
+            "es-ES": "Cerca de malla",
+            "it-IT": "Recinto a rete",
+            "nl-NL": "Gaashek",
+            "sv-SE": "Nätstaket",
+            "ko-KR": "그물벽",
+            "zh-CN": "网状栅栏",
+            "zh-TW": "網狀柵欄",
+            "pt-BR": "Cerca de Tela"
+        }
+    }
+}

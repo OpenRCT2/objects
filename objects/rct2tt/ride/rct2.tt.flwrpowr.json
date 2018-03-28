@@ -1,0 +1,83 @@
+{
+    "id": "rct2.tt.flwrpowr",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA20|FLWRPOWR|B620436B",
+    "objectType": "ride",
+    "properties": {
+        "type": "flying_saucers",
+        "category": "gentle",
+        "carsPerFlatRide": 12,
+        "ratingMultipler": {
+            "excitement": 75,
+            "intensity": 40,
+            "nausea": 10
+        },
+        "carColours": [
+            [
+                ["white", "light_orange", "black"]
+            ],
+            [
+                ["light_purple", "bright_red", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 139456,
+            "mass": 190,
+            "numSeats": 1,
+            "numSeatRows": 1,
+            "poweredAcceleration": 9,
+            "poweredMaxSpeed": 20,
+            "drawOrder": 7,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "VEHICLE_ENTRY_FLAG_BOAT_HIRE_COLLISION_DETECTION": true,
+            "VEHICLE_ENTRY_FLAG_DODGEM_CAR_PLACEMENT": true,
+            "loadingPositions": [0]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/FLWRPOWR.DAT[0..66]"],
+    "strings": {
+        "name": {
+            "en-GB": "Flower Power Ride",
+            "fr-FR": "Flower Power",
+            "de-DE": "Flower Power-Attraktion",
+            "es-ES": "Viaje de poder de las flores",
+            "it-IT": "Corsa floreale",
+            "nl-NL": "Flower Power-attractie",
+            "sv-SE": "Flower power",
+            "ko-KR": "플라워 파워 라이드",
+            "zh-TW": "花的魅力遊樂設施",
+            "pt-BR": "Brinquedo Paz e Amor"
+        },
+        "description": {
+            "en-GB": "Small flower shaped dinghies powered by a centrally-mounted motor controlled by the passengers",
+            "fr-FR": "Petits canots pneumatiques en forme de fleurs alimentés par un moteur central que contrôlent les passagers",
+            "de-DE": "Kleine Schlauchboote in Blumenform, die durch einen in der Mitte angebrachten Motor betrieben und von den Fahrgästen gesteuert werden.",
+            "es-ES": "Pequeños botes decorados como flores controlados por un monitor central que controlan los pasajeros.",
+            "it-IT": "Piccoli fiori a forma di canotti circolari, alimentati da un motore montato al centro e controllati dai passeggeri.",
+            "nl-NL": "Klein bloemvormig bootje, aangedreven door een in het midden geplaatste motor en bestuurd door de passagiers.",
+            "sv-SE": "Små blomformade jollar drivna av en centralt monterad motor som kontrolleras av passagerarna.",
+            "ko-KR": "승객이 중앙에 설치된 모터를 조종하는 작은 꽃 모양의 작은 배",
+            "zh-TW": "由乘客操縱花朵外形,中央嵌有馬達的小艇",
+            "pt-BR": "Pequenos barcos em forma de flores alimentados por um motor central controlado pelos passageiros"
+        },
+        "capacity": {
+            "en-GB": "1 passenger per car",
+            "fr-FR": "1 passager par voiture",
+            "de-DE": "1 Fahrgast pro Wagen",
+            "es-ES": "1 pasajero por coche",
+            "it-IT": "1 passeggero per carrozza",
+            "nl-NL": "1 passagier per wagentje",
+            "sv-SE": "1 passagerare per vagn",
+            "ko-KR": "차량 정원 1명",
+            "zh-TW": "每輛車限乘1人",
+            "pt-BR": "1 passageiro por vagão"
+        }
+    }
+}

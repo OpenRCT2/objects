@@ -1,0 +1,58 @@
+{
+    "id": "rct2.sgp",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C82|SGP     |2FD8CCDF",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 115,
+        "removalPrice": -100,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 48,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 48,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 48,
+                "hasSupports": true,
+                "walls": 12
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 48,
+                "hasSupports": true,
+                "walls": 6
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SGP.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Giant Pumpkin",
+            "fr-FR": "Citrouille géante",
+            "de-DE": "Gigantischer Kürbis",
+            "es-ES": "Calabaza gigante",
+            "it-IT": "Zucca gigante",
+            "nl-NL": "Gigantische Pompoen",
+            "sv-SE": "Jättepumpa",
+            "ko-KR": "큰 호박",
+            "zh-CN": "巨大南瓜",
+            "zh-TW": "巨大南瓜",
+            "pt-BR": "Abóbora Gigante"
+        }
+    }
+}

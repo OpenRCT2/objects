@@ -1,0 +1,76 @@
+{
+    "id": "rct2.ww.hipporid",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0210|HIPPORID|89FABFD7",
+    "objectType": "ride",
+    "properties": {
+        "type": "submarine_ride",
+        "category": [
+            "gentle",
+            "water"
+        ],
+        "RIDE_ENTRY_FLAG_18": true,
+        "carColours": [
+            [
+                ["yellow", "olive_green", "black"]
+            ],
+            [
+                ["grey", "bordeaux_red", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 278912,
+            "mass": 300,
+            "numSeats": 5,
+            "seatsInPairs": false,
+            "poweredAcceleration": 40,
+            "poweredMaxSpeed": 6,
+            "carVisual": 16,
+            "drawOrder": 5,
+            "numVerticalFramesOverride": 2,
+            "frames": {
+                "flat": true,
+                "restraintAnimation": true
+            },
+            "VEHICLE_ENTRY_FLAG_OVERRIDE_NUM_VERTICAL_FRAMES": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "loadingPositions": [-7, -7, -7, -7, -7]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/HIPPORID.DAT[0..90]"],
+    "strings": {
+        "name": {
+            "en-GB": "Hippo Ride",
+            "fr-FR": "Hippopotame",
+            "de-DE": "Nilpferdbahn",
+            "es-ES": "Atracción Hipopótamo",
+            "it-IT": "L'ippopotamo",
+            "nl-NL": "Hippo-Attractie",
+            "sv-SE": "Flodhästbåt",
+            "zh-CN": "河马游乐设施"
+        },
+        "description": {
+            "en-GB": "Riders ride in a submerged submarine through an underwater course",
+            "fr-FR": "Les passagers sont dans un sous-marin immergé suivant un itinéraire",
+            "de-DE": "Die Fahrgäste fahren in einem U-Boot auf einer Unterwasserstrecke",
+            "es-ES": "Los pasajeros montan en un submarino sumergido que viaja por una ruta submarina",
+            "it-IT": "I passeggeri entrano in un sottomarino che si muove lungo un percorso subacqueo",
+            "nl-NL": "De passagiers zitten in een ondergedoken onderzeeër en volgen onderwater een baan",
+            "sv-SE": "En upphängd ubåt som följer en undervattensbana",
+            "zh-CN": "乘客乘坐在水中的潜艇在水中顺着水流行进"
+        },
+        "capacity": {
+            "en-GB": "5 passengers per car",
+            "fr-FR": "5 passagers par sous-marin",
+            "de-DE": "5 pro Wagen",
+            "es-ES": "pasajeros por vehículo",
+            "it-IT": "passeggeri per carrozza",
+            "nl-NL": "passagiers per wagentje",
+            "sv-SE": "passagerare per båt",
+            "zh-CN": "?每辆车限乘?人"
+        }
+    }
+}

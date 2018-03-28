@@ -1,0 +1,37 @@
+{
+    "id": "rct2.tqf",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TQF     |4C10299C",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 65,
+        "removalPrice": -55,
+        "cursor": "CURSOR_FOUNTAIN_DOWN",
+        "height": 48,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "hasOverlayImage": true,
+        "SMALL_SCENERY_FLAG_FOUNTAIN_SPRAY_4": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TQF.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cupid Fountains",
+            "fr-FR": "Fontaine de Cupidon",
+            "de-DE": "Amor-Springbrunnen",
+            "es-ES": "Fuentes de Cupido",
+            "it-IT": "Fontana di Cupido",
+            "nl-NL": "Fonteinen met Cupido's",
+            "sv-SE": "Amorfontäner",
+            "ko-KR": "큐피드 파운데이션",
+            "zh-CN": "邱比特喷泉",
+            "zh-TW": "邱比特噴泉",
+            "pt-BR": "Chafarizes de Cupido"
+        }
+    }
+}

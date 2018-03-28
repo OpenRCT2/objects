@@ -1,0 +1,25 @@
+{
+    "id": "rct2.ww.wigloo2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0113|WIGLOO2 |041A0F97",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WIGLOO2.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Igloo Wall",
+            "fr-FR": "Mur igloo",
+            "de-DE": "Igluwand",
+            "es-ES": "Pared de iglú",
+            "it-IT": "Parete di igloo",
+            "nl-NL": "Muur Iglo",
+            "sv-SE": "Igloo-vägg",
+            "zh-CN": "圆屋顶的小屋的墙"
+        }
+    }
+}

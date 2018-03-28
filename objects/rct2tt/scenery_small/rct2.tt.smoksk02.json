@@ -1,0 +1,34 @@
+{
+    "id": "rct2.tt.smoksk02",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|SMOKSK02|ED574818",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true
+    },
+    "images": ["$RCT2:OBJDATA/SMOKSK02.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Smoke Stack Mid",
+            "fr-FR": "Milieu de cheminée",
+            "de-DE": "Schornstein-Mittelstück",
+            "es-ES": "Chimeneas medias",
+            "it-IT": "Parte centrale del fumaiolo",
+            "nl-NL": "Rookstapel Midden",
+            "sv-SE": "Fabriksskorsten, mittdel",
+            "ko-KR": "연기 굴뚝 중간",
+            "zh-TW": "冒煙的乾草堆中段",
+            "pt-BR": "Meio de Chaminé de Fumaça"
+        }
+    }
+}

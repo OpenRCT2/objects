@@ -1,0 +1,116 @@
+{
+    "id": "rct2.ww.condorrd",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31B10|CONDORRD|12189574",
+    "objectType": "ride",
+    "properties": {
+        "type": "flying_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 7,
+        "carColours": [
+            [
+                ["bright_red", "yellow", "dark_purple"]
+            ],
+            [
+                ["teal", "grey", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 183036,
+                "mass": 950,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_HAS_INVERTED_SPRITE_SET": true,
+                "VEHICLE_ENTRY_FLAG_13": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [2, -2, 2, -2]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 183036,
+                "mass": 950,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 2,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_HAS_INVERTED_SPRITE_SET": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [2, -2, 2, -2]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/CONDORRD.DAT[0..4562]"],
+    "strings": {
+        "name": {
+            "en-GB": "Condor Ride",
+            "fr-FR": "Le condor",
+            "de-DE": "Kondorbahn",
+            "es-ES": "Atracción Cóndor",
+            "it-IT": "Condor",
+            "nl-NL": "Condor-Attractie",
+            "sv-SE": "Kondorbana",
+            "zh-CN": "兀鹰游乐设施"
+        },
+        "description": {
+            "en-GB": "Passengers ride face-down in a lying position, suspended in a Condor-shaped car from the single-rail track, swinging freely from side to side around corners",
+            "fr-FR": "Les passagers sont couchés à plat ventre dans une voiture en forme de condor se déplaçant sur un monorail et se balançant d'un côté à l'autre dans les virages",
+            "de-DE": "Die Passagiere fahren kopfüber liegend und hängen dabei in einem kondorförmigen Wagen von einer Einschienenstrecke, wobei sie in den Kurven frei von Seite zu Seite schwingen.",
+            "es-ES": "Los pasajeros viajan boca abajo en posición tumbada, suspendidos del monorraíl en un vagón con forma de Cóndor, y se balancean libremente de un lado a otro al tomar las curvas",
+            "it-IT": "I passeggeri si trovano in posizione prona, sospesi in speciali carrozze monorotaia a forma di condor che oscillano liberamente nelle curve",
+            "nl-NL": "Passagiers rijden in liggende positie met hun gezicht naar beneden in Condor-vormige wagens die aan een uit één rails bestaande baan hangen, en slingeren ongehinderd van kant naar kant in de bochten",
+            "sv-SE": "Passagerare ligger med ansiktet nedåt i upphängt läge och gungar fritt runt hörnen i kondorformade vagnar längs en enspårsbana",
+            "zh-CN": "?乘客以躺卧姿势面向下乘坐,以特殊设计的单轨悬吊辆车,在转弯时自由左右摇摆"
+        },
+        "capacity": {
+            "en-GB": "1 passenger per car",
+            "fr-FR": "1 passager par voiture",
+            "de-DE": "1 Fahrgast pro Wagen",
+            "es-ES": "1 pasajero por vagón",
+            "it-IT": "1 passeggero per carrozza",
+            "nl-NL": "1 passagier per wagentje",
+            "sv-SE": "1 passagerare per vagn",
+            "zh-CN": "?每辆车限乘1人"
+        }
+    }
+}

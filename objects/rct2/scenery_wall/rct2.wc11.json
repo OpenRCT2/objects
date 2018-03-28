@@ -1,0 +1,31 @@
+{
+    "id": "rct2.wc11",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WC11    |7890BCDE",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "isOpaque": true,
+        "isAllowedOnSlope": true,
+        "height": 9,
+        "price": 100,
+        "sceneryGroup": "SCGFENCE"
+    },
+    "images": ["$RCT2:OBJDATA/WC11.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Castle Wall",
+            "fr-FR": "Mur de château",
+            "de-DE": "Burgmauer",
+            "es-ES": "Muralla",
+            "it-IT": "Mura del castello",
+            "nl-NL": "Kasteelmuur",
+            "sv-SE": "Slottsmur",
+            "ko-KR": "성곽",
+            "zh-CN": "城堡墙",
+            "zh-TW": "城堡牆",
+            "pt-BR": "Muro de Castelo"
+        }
+    }
+}

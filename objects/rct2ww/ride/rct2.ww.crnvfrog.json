@@ -1,0 +1,89 @@
+{
+    "id": "rct2.ww.crnvfrog",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31C10|CRNVFROG|5C24055D",
+    "objectType": "ride",
+    "properties": {
+        "type": "car_ride",
+        "category": "gentle",
+        "RIDE_ENTRY_FLAG_18": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "carColours": [
+            [
+                ["bright_red", "yellow", "black"]
+            ],
+            [
+                ["dark_green", "olive_green", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 174320,
+                "mass": 300,
+                "numSeats": 2,
+                "numSeatRows": 1,
+                "poweredAcceleration": 90,
+                "poweredMaxSpeed": 8,
+                "drawOrder": 9,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "loadingPositions": [4, -4]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "poweredAcceleration": 90,
+                "poweredMaxSpeed": 8,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/CRNVFROG.DAT[0..242]"],
+    "strings": {
+        "name": {
+            "en-GB": "Carnival Float Ride - Frog Cars",
+            "fr-FR": "Carnaval - Voitures grenouilles",
+            "de-DE": "Karnevalswagenbahn - Froschwagen",
+            "es-ES": "Atracción flotadores de carnaval; vagones rana",
+            "it-IT": "Carnevale sull'acqua - Carrozze rana",
+            "nl-NL": "Attractie met Carnavalwagens - kikker-wagentjes",
+            "sv-SE": "Karnevalsbåtar med grodvagnar"
+        },
+        "description": {
+            "en-GB": "Roller coaster cars in the shape of frog carnival floats",
+            "fr-FR": "Voitures de montagnes russes en forme de chars grenouilles de carnaval",
+            "de-DE": "Achterbahnwagen mit dem Aussehen von Frosch-Karnevalswagen",
+            "es-ES": "Vagones de montaña rusa con forma de flotadores rana de carnaval",
+            "it-IT": "Carrozze galleggianti di ottovolante a forma di rana",
+            "nl-NL": "Achtbaanwagentjes met kikkervormige carnavalwagens",
+            "sv-SE": "Karnevalsliknande berg- och dalbanevagnar med grodmotiv"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 pro Wagen",
+            "es-ES": "2 pasajeros por vagón",
+            "it-IT": "2 passeggeri per carrozza",
+            "nl-NL": "2 passagiers per wagentje",
+            "sv-SE": "2 passagerare per båt"
+        }
+    }
+}

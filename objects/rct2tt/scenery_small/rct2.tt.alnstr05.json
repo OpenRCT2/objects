@@ -1,0 +1,42 @@
+{
+    "id": "rct2.tt.alnstr05",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB21|ALNSTR05|D1CF588C",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 24,
+        "removalPrice": -18,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 80,
+        "animationDelay": 3,
+        "animationMask": 15,
+        "numFrames": 16,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "SMALL_SCENERY_FLAG_COG": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/ALNSTR05.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Alien Tower Bottom",
+            "fr-FR": "Bas de la tour extraterrestre",
+            "de-DE": "Außerirdischer Turm Unten",
+            "es-ES": "Fondo de torre alienígena",
+            "it-IT": "Parte inferiore della torre aliena",
+            "nl-NL": "Onderkant Buitenaardse Toren",
+            "sv-SE": "Nedre del, utomjordiskt torn",
+            "ko-KR": "외계 탑 바닥",
+            "zh-TW": "外星塔底",
+            "pt-BR": "Base de Torre Alienígena"
+        }
+    }
+}

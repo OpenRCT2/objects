@@ -1,0 +1,29 @@
+{
+    "id": "rct2.ww.wmayan22",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31C11|WMAYAN22|C92578E4",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 24,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WMAYAN22.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Lost City Flat Roof Piece",
+            "fr-FR": "?Pan de toit plat de cité perdue",
+            "de-DE": "?Verlorene Stadt - Flachdach-Bauteil",
+            "es-ES": "Pieza de pared plana de ciudad perdida",
+            "it-IT": "Pezzo di tetto piatto di città perduta",
+            "nl-NL": "Stuk Platdak Vergeten Stad",
+            "sv-SE": "Platt takdel för förlorad stad"
+        }
+    }
+}

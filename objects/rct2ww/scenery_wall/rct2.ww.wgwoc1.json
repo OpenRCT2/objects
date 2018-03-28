@@ -1,0 +1,25 @@
+{
+    "id": "rct2.ww.wgwoc1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFC13|WGWOC1  |D7DC073F",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 16,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WGWOC1.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Great Wall Of China Front Wall Section",
+            "fr-FR": "Section du mur avant de la Grande Muraille de Chine",
+            "de-DE": "Große Mauer von China - Vordersektion",
+            "es-ES": "Sec. frontal de la pared de la Gran Muralla China",
+            "it-IT": "Sezione frontale di parete della Grande Muraglia Cinese",
+            "nl-NL": "Stuk Voorkant van Grote Chinese Muur",
+            "sv-SE": "Framdel till Kinesiska muren",
+            "zh-CN": "万里长城正面墙面区段"
+        }
+    }
+}

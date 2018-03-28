@@ -1,0 +1,29 @@
+{
+    "id": "rct2.wallco16",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F83|WALLCO16|DDA31F29",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isBanner": true,
+        "hasPrimaryColour": true,
+        "height": 2,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WALLCO16.DAT[0..7]"],
+    "strings": {
+        "name": {
+            "en-GB": "Corrugated Steel Wall",
+            "fr-FR": "Mur en tôle ondulée",
+            "de-DE": "Wellblechwand",
+            "es-ES": "Pared de acero corrugado",
+            "it-IT": "Muro d'acciaio ondulato",
+            "nl-NL": "Geplooide Stalen Muur",
+            "sv-SE": "Korrugerad stålmur",
+            "ko-KR": "골이 파인 강철 담",
+            "zh-CN": "波纹铁墙",
+            "zh-TW": "波紋鐵牆",
+            "pt-BR": "Parede de Aço Ondulado"
+        }
+    }
+}

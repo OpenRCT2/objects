@@ -1,0 +1,126 @@
+{
+    "id": "rct2.tt.schnpit2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA22|SCHNPIT2|36F108B5",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 134,
+        "removalPrice": -124,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 128,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 128,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 128,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 96,
+                "clearance": 128,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 128,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 128,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 128,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 96,
+                "clearance": 128,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 128,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 128,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 128,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 96,
+                "clearance": 128,
+                "walls": 2
+            },
+            {
+                "x": 96,
+                "y": 0,
+                "clearance": 128,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 32,
+                "clearance": 128,
+                "walls": 6
+            },
+            {
+                "x": 96,
+                "y": 64,
+                "clearance": 128,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 96,
+                "clearance": 128,
+                "walls": 6
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SCHNPIT2.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Seaplane Pits",
+            "fr-FR": "Hangars pour hydravions",
+            "de-DE": "Wasserflugzeug-Box",
+            "es-ES": "Pozos de hidroaviones",
+            "it-IT": "Fosse degli idrovolanti",
+            "nl-NL": "Pits Watervliegtuig",
+            "sv-SE": "Sjöflygplansdepå",
+            "ko-KR": "수상비행기 피트",
+            "zh-TW": "海上飛機修理站",
+            "pt-BR": "Hangar de Hidroavião"
+        }
+    }
+}

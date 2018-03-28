@@ -1,0 +1,42 @@
+{
+    "id": "rct2.tt.mcastl12",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F822|MCASTL12|F1EE8A92",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 58,
+        "removalPrice": -52,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "sceneryGroup": "SCGWALLS",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 128,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 128,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/MCASTL12.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Castle Entrance",
+            "fr-FR": "Entrée du château",
+            "de-DE": "Schlosseingang",
+            "es-ES": "Entrada de castillo",
+            "it-IT": "Entrata del Castello",
+            "nl-NL": "Ingang Kasteel",
+            "sv-SE": "Slottsentré",
+            "ko-KR": "성 입구",
+            "zh-TW": "城堡入口",
+            "pt-BR": "Entrada de Castelo"
+        }
+    }
+}

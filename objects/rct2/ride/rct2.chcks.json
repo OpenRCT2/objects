@@ -1,0 +1,47 @@
+{
+    "id": "rct2.chcks",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|CHCKS   |307F0F41",
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": "chicken",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/CHCKS.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Fried Chicken Stall",
+            "fr-FR": "Poule aux oeufs d'or",
+            "de-DE": "Brathähnchenstand",
+            "es-ES": "Puesto de pollo frito",
+            "it-IT": "Chiosco del pollo fritto",
+            "nl-NL": "Kraampje met Gebakken Kip",
+            "sv-SE": "Friterad kycklingstånd",
+            "ko-KR": "프라이드 치킨 가게",
+            "zh-CN": "炸鸡店",
+            "zh-TW": "炸雞店",
+            "pt-BR": "Barraca de Frango Frito"
+        },
+        "description": {
+            "en-GB": "A stall selling tubs of fried chicken",
+            "fr-FR": "Boutique vendant des barquettes de poulet",
+            "de-DE": "Ein Stand, an dem Brathähnchen verkauft werden",
+            "es-ES": "Un puesto que vende pollo frito",
+            "it-IT": "Un chiosco che vende porzioni di pollo fritto",
+            "nl-NL": "Een kraampje dat bakjes gebakken kip verkoopt",
+            "sv-SE": "Ett stånd som säljer fat med friterad kyckling",
+            "ko-KR": "프라이드 치킨을 파는 매점",
+            "zh-CN": "一间卖整桶式炸鸡的商店",
+            "zh-TW": "一間賣整桶式炸雞的商店",
+            "pt-BR": "Uma barraca vendendo baldes de frango frito"
+        }
+    }
+}

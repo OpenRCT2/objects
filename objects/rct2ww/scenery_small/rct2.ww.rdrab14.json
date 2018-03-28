@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.rdrab14",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A11|RDRAB14 |82836B14",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RDRAB14.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Roof Piece 4",
+            "fr-FR": "Pan de toit terne 4",
+            "de-DE": "Düsteres Dach-Bauteil 4",
+            "es-ES": "Pieza de tejado apagado 4",
+            "it-IT": "Pezzo di tetto smorto 4",
+            "nl-NL": "Vaal stuk dak 4",
+            "sv-SE": "Gråbrun takdel 4"
+        }
+    }
+}

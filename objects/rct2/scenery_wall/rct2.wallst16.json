@@ -1,0 +1,29 @@
+{
+    "id": "rct2.wallst16",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WALLST16|FE9C7157",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "height": 2,
+        "price": 50,
+        "sceneryGroup": "SCGWALLS"
+    },
+    "images": ["$RCT2:OBJDATA/WALLST16.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Steel Wall",
+            "fr-FR": "Mur en tôle",
+            "de-DE": "Stahlwand",
+            "es-ES": "Pared de acero",
+            "it-IT": "Muro d'acciaio",
+            "nl-NL": "Stalen Muur",
+            "sv-SE": "Stålmur",
+            "ko-KR": "강철 담",
+            "zh-CN": "铁墙",
+            "zh-TW": "鐵牆",
+            "pt-BR": "Parede de Aço"
+        }
+    }
+}

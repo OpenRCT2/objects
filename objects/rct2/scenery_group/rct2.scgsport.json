@@ -1,0 +1,40 @@
+{
+    "id": "rct2.scgsport",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGSPORT|4CF0A796",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "BALL1",
+            "BALL2",
+            "HELMET1",
+            "BALL3",
+            "BADRACK",
+            "WALLBADM",
+            "BADSHUT",
+            "BADSHUT2",
+            "BALL4",
+            "WALLNT32",
+            "WALLNT33",
+            "BENCHPL"
+        ],
+        "priority": 38
+    },
+    "images": ["$RCT2:OBJDATA/SCGSPORT.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sports Themeing",
+            "fr-FR": "Thème Sports",
+            "de-DE": "Sport-Thema",
+            "es-ES": "Temática deportiva",
+            "it-IT": "Tema sportivo",
+            "nl-NL": "Sport Thema",
+            "sv-SE": "Sportstema",
+            "ko-KR": "스포츠 테마",
+            "zh-CN": "运动主题区",
+            "zh-TW": "運動主題區",
+            "pt-BR": "Temática Esportiva"
+        }
+    }
+}

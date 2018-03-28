@@ -1,0 +1,30 @@
+{
+    "id": "rct2.ww.trckprt5",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0511|TRCKPRT5|75848EF5",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TRCKPRT5.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Track Bend",
+            "fr-FR": "Voie en virage",
+            "de-DE": "Streckenkrümmung",
+            "es-ES": "Railes en curva",
+            "it-IT": "Curva dei binari",
+            "nl-NL": "Baan Gebogen",
+            "sv-SE": "Spårkurva",
+            "zh-CN": "轨道弯曲"
+        }
+    }
+}

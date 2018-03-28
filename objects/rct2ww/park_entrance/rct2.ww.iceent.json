@@ -1,0 +1,24 @@
+{
+    "id": "rct2.ww.iceent",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0218|ICEENT  |CABCD81F",
+    "objectType": "park_entrance",
+    "properties": {
+        "scrollingMode": 3,
+        "textHeight": 82
+    },
+    "images": ["$RCT2:OBJDATA/ICEENT.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Ice Park Entrance",
+            "fr-FR": "Entrée du parc de glace",
+            "de-DE": "Eispark-Eingang",
+            "es-ES": "Entrada al parque de hielo",
+            "it-IT": "Ingresso del parco di ghiaccio",
+            "nl-NL": "IJsingang pretpark",
+            "sv-SE": "Ingång till ispark",
+            "zh-CN": "冰霜公园入口"
+        }
+    }
+}

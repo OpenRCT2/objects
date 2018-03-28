@@ -1,0 +1,36 @@
+{
+    "id": "rct2.tt.artdec05",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F921|ARTDEC05|0207050F",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "2/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/ARTDEC05.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Art Deco Wall with Windows",
+            "fr-FR": "Mur art déco avec fenêtres",
+            "de-DE": "Art Déco Mauer mit Fenstern",
+            "es-ES": "Muro Art Decó con ventanas",
+            "it-IT": "Muro in art decò con finestre",
+            "nl-NL": "Muur met vensters Art Deco",
+            "sv-SE": "Vägg med fönster, art déco",
+            "ko-KR": "아르데코 벽과 창",
+            "zh-TW": "裝置藝術牆面(含窗戶)",
+            "pt-BR": "Parede de Arte Déco com Janelas"
+        }
+    }
+}

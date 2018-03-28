@@ -1,0 +1,51 @@
+{
+    "id": "rct2.ww.indianst",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0812|INDIANST|B70E843F",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": -150,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 168,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 168,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 168,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 168,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/INDIANST.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Native American",
+            "fr-FR": "Indien d'Amérique",
+            "de-DE": "Indianer",
+            "es-ES": "Nativo americano",
+            "it-IT": "Indiano",
+            "nl-NL": "Amerikaanse Inboorling",
+            "sv-SE": "Amerikansk indian",
+            "zh-CN": "印第安人"
+        }
+    }
+}

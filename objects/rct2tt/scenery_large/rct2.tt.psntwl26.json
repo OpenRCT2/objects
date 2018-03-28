@@ -1,0 +1,44 @@
+{
+    "id": "rct2.tt.psntwl26",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F822|PSNTWL26|CED430B7",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 20,
+        "removalPrice": -14,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "hasPrimaryColour": true,
+        "isPhotogenic": true,
+        "sceneryGroup": "SCGWALLS",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 24,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 24,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/PSNTWL26.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Dark Age Village Roof Piece",
+            "fr-FR": "Section de toit du village médiéval",
+            "de-DE": "Dachstück Mittelalterliches Dorf",
+            "es-ES": "Sección de tejado de pueblo medieval",
+            "it-IT": "Tratto di tetto del villaggio dell'Età Oscura",
+            "nl-NL": "Dakstuk Middeleeuws Dorp",
+            "sv-SE": "Takdel, medeltida by",
+            "ko-KR": "암흑 시대 마을 지붕 조각",
+            "zh-TW": "黑暗時代村莊屋頂塊",
+            "pt-BR": "Peça de Telhado de Vila da Idade Média"
+        }
+    }
+}

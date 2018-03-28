@@ -1,0 +1,96 @@
+{
+    "id": "rct2.tt.oakbarel",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F820|OAKBAREL|BB210474",
+    "objectType": "ride",
+    "properties": {
+        "type": "river_rapids",
+        "category": [
+            "water",
+            "thrill"
+        ],
+        "playSplashSound": true,
+        "RIDE_ENTRY_FLAG_18": true,
+        "carColours": [
+            [
+                ["bright_red", "bright_red", "black"]
+            ],
+            [
+                ["light_blue", "light_blue", "black"]
+            ],
+            [
+                ["yellow", "yellow", "black"]
+            ],
+            [
+                ["bright_green", "bright_green", "black"]
+            ],
+            [
+                ["light_orange", "light_orange", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 7,
+            "spacing": 296344,
+            "mass": 450,
+            "numSeats": 8,
+            "numSeatRows": 4,
+            "spinningInertia": 8,
+            "spinningFriction": 8,
+            "frictionSoundId": 32,
+            "soundRange": 0,
+            "poweredAcceleration": 100,
+            "poweredMaxSpeed": 6,
+            "carVisual": 4,
+            "effectVisual": 11,
+            "drawOrder": 9,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_SPINNING": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "VEHICLE_ENTRY_FLAG_WATER_RIDE": true,
+            "loadingPositions": [4, -4, 4, -4, 4, -4, 4, -4]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/OAKBAREL.DAT[0..362]"],
+    "strings": {
+        "name": {
+            "en-GB": "Oak Barrel Ride",
+            "fr-FR": "Le Tonneau",
+            "de-DE": "Eichenfass-Attraktion",
+            "es-ES": "Viaje en el barril de roble",
+            "it-IT": "Corsa dei tronchi",
+            "nl-NL": "Eikenhoutenvat-attractie",
+            "sv-SE": "Ektunna",
+            "ko-KR": "오크 배럴 라이드",
+            "zh-TW": "橡木桶遊樂設施",
+            "pt-BR": "Brinquedo de Barris de Carvalho"
+        },
+        "description": {
+            "en-GB": "Oak Barrels meander along a wide water channel, splashing through waterfalls and thrilling riders through foaming rapids",
+            "fr-FR": "Des tonneaux serpentent le long d'un large cours d'eau, puis dévalent des rapides et des chutes d'eau spectaculaires",
+            "de-DE": "Eichenfässer gleiten durch einen breiten Wasserkanal, zischen durch Wasserfälle und schäumende Stromschnellen.",
+            "es-ES": "Los barriles de roble van a la deriva por un ancho canal de agua, cayendo por cataratas y pasando por estremecedores rápidos.",
+            "it-IT": "Tronchi di quercia si fanno strada lungo un largo canale d'acqua, per poi tuffarsi dalle cascate e seguire un eccitante percorso fra le rapide.",
+            "nl-NL": "Eikenhouten vaten kronkelen langs een brede waterstroom, plonsen bij watervallen neer en zorgen voor sensatie bij de bezoekers als ze door schuimende stroomversnellingen gaan.",
+            "sv-SE": "Ektunnor forsar fram längs en bred vattenkanal genom plaskande vattenfall och skummande strömmar.",
+            "ko-KR": "오크 나무통을 타고 구불구불하고 넓은 물길을 따라 물이 떨어지는 폭포를 헤치고 거품이 이는 급류를 따라가는 짜릿한 놀이기구",
+            "zh-TW": "橡木桶沿著水道航道進行,穿過濺下的瀑布及令人興奮的急湍水流",
+            "pt-BR": "Barris de carvalho vagam por um largo canal d'água, espalhando água em cachoeiras e dando emoção aos visitantes em corredeiras espumantes"
+        },
+        "capacity": {
+            "en-GB": "8 passengers per boat",
+            "fr-FR": "8 passagers par bateau",
+            "de-DE": "8 Fahrgäste pro Boot",
+            "es-ES": "8 pasajeros por coche",
+            "it-IT": "8 passeggeri per nave",
+            "nl-NL": "8 passagiers per boot",
+            "sv-SE": "8 passagerare per båt",
+            "ko-KR": "보트 정원 8명",
+            "zh-TW": "每艘船限乘8人",
+            "pt-BR": "8 passageiros por barco"
+        }
+    }
+}

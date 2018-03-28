@@ -1,0 +1,45 @@
+{
+    "id": "rct2.nitroent",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C82|NITROENT|EC20D1C3",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 20,
+        "removalPrice": -10,
+        "cursor": "CURSOR_ENTRANCE_DOWN",
+        "hasPrimaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 40,
+                "walls": 4,
+                "corners": 12
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 40,
+                "walls": 4,
+                "corners": 12
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/NITROENT.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "'Nitro' Sign",
+            "fr-FR": "Panneau 'Nitro'",
+            "de-DE": "`Nitro'-Schild",
+            "es-ES": "Señal de nitro",
+            "it-IT": "Insegna della 'nitroglicerina'",
+            "nl-NL": "'Nitroglycerine' Bord",
+            "sv-SE": "'Nitro' skylt",
+            "ko-KR": "'니트로의 사인",
+            "zh-CN": "'「尼特若」招牌",
+            "zh-TW": "'「尼特若」招牌",
+            "pt-BR": "Placa 'Nitro'"
+        }
+    }
+}

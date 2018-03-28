@@ -1,0 +1,150 @@
+{
+    "id": "rct2.ww.tgvtrain",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0910|TGVTRAIN|B9C286EC",
+    "objectType": "ride",
+    "properties": {
+        "type": "lim_launched_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 7,
+        "defaultCar": 1,
+        "headCars": 0,
+        "tailCars": 2,
+        "ratingMultipler": {
+            "intensity": 10
+        },
+        "carColours": [
+            [
+                ["light_blue", "white", "yellow"]
+            ],
+            [
+                ["bright_red", "yellow", "yellow"]
+            ],
+            [
+                ["white", "bordeaux_red", "bordeaux_red"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 244048,
+                "mass": 600,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 9,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [5, 3, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 244048,
+                "mass": 500,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 9,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [7, 9, -3, -1]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 78444,
+                "mass": 50,
+                "frictionSoundId": 2,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                }
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/TGVTRAIN.DAT[0..5882]"],
+    "strings": {
+        "name": {
+            "en-GB": "TGV Train Roller Coaster",
+            "fr-FR": "Montagnes TGV",
+            "de-DE": "TGV-Achterbahn",
+            "es-ES": "Montaña Rusa de Tren TVG",
+            "it-IT": "Ottovolante TGV",
+            "nl-NL": "TGV Trein-Achtbaan",
+            "sv-SE": "TGV-tågbana",
+            "zh-CN": "大众捷运列车云霄飞车"
+        },
+        "description": {
+            "en-GB": "Roller coaster trains are accelerated out of the station by linear induction motors to speed through twisting inversions",
+            "fr-FR": "Train de montagnes russes propulsé hors de la station par des moteurs à induction linéaire et fonçant dans des inversions renversantes",
+            "de-DE": "Achterbahnzüge werden mithilfe von Linearmotoren aus der Station heraus beschleunigt und rasen durch gewundene Überkopfteile",
+            "es-ES": "Los trenes de la montaña rusa salen de la estación acelerados por unos motores de inducción para pasar a toda velocidad por unas retorcidas inversiones",
+            "it-IT": "Le carrozze dell'ottovolante sono spinte da motori lineari a induzione, che le lanciano lungo una serie di tortuose inversioni",
+            "nl-NL": "Achtbaantreintjes worden uit het station gelanceerd door lineaire inductiemotoren en gaan snel door draaiende loopings",
+            "sv-SE": "Berg- och dalbanevagnar accelererar snabbt ut från stationen med hjälp av induktionsmotorer och susar genom avsnitt med tvära omkastningar",
+            "zh-CN": "云霄飞车列车被直线推进动力以加速推离车站并快速通过倒置旋转轨道"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "zh-CN": "每辆车限乘4人"
+        }
+    }
+}

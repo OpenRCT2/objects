@@ -1,0 +1,405 @@
+{
+    "id": "rct2.gdrop1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|GDROP1  |CFBA20A5",
+    "objectType": "ride",
+    "properties": {
+        "type": "roto_drop",
+        "category": "thrill",
+        "tabScale": 0.5,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "yellow", "black"]
+            ],
+            [
+                ["light_purple", "bright_red", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 3,
+            "spacing": 174320,
+            "mass": 1800,
+            "tabOffset": -5,
+            "numSeats": 16,
+            "seatsInPairs": false,
+            "spriteWidth": 32,
+            "spriteHeightNegative": 40,
+            "spriteHeightPositive": 16,
+            "soundRange": 0,
+            "carVisual": 9,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+            "numSegments": 4,
+            "loadingWaypoints": [
+                [
+                    [28, 28],
+                    [-28, 28],
+                    [-23, 0]
+                ],
+                [
+                    [-28, -28],
+                    [-22, 4],
+                    [-23, 0]
+                ],
+                [
+                    [-22, 4],
+                    [-22, 4],
+                    [-23, 0]
+                ],
+                [
+                    [-28, 28],
+                    [-22, 4],
+                    [-23, 0]
+                ],
+                [
+                    [28, 28],
+                    [4, 22],
+                    [0, 23]
+                ],
+                [
+                    [28, -28],
+                    [28, 28],
+                    [0, 23]
+                ],
+                [
+                    [-28, 28],
+                    [4, 22],
+                    [0, 23]
+                ],
+                [
+                    [4, 22],
+                    [4, 22],
+                    [0, 23]
+                ],
+                [
+                    [22, -4],
+                    [22, -4],
+                    [23, 0]
+                ],
+                [
+                    [28, -28],
+                    [22, -4],
+                    [23, 0]
+                ],
+                [
+                    [-28, -28],
+                    [28, -28],
+                    [23, 0]
+                ],
+                [
+                    [28, 28],
+                    [22, -4],
+                    [23, 0]
+                ],
+                [
+                    [28, -28],
+                    [-4, -22],
+                    [0, -23]
+                ],
+                [
+                    [-4, -22],
+                    [-4, -22],
+                    [0, -23]
+                ],
+                [
+                    [-28, -28],
+                    [-4, -22],
+                    [0, -23]
+                ],
+                [
+                    [-28, 28],
+                    [-28, -28],
+                    [0, -23]
+                ],
+                [
+                    [28, 28],
+                    [-28, 28],
+                    [-23, 6]
+                ],
+                [
+                    [-28, -28],
+                    [-22, 4],
+                    [-23, 6]
+                ],
+                [
+                    [-22, 4],
+                    [-22, 4],
+                    [-23, 6]
+                ],
+                [
+                    [-28, 28],
+                    [-22, 4],
+                    [-23, 6]
+                ],
+                [
+                    [28, 28],
+                    [4, 22],
+                    [6, 23]
+                ],
+                [
+                    [28, -28],
+                    [28, 28],
+                    [6, 23]
+                ],
+                [
+                    [-28, 28],
+                    [4, 22],
+                    [6, 23]
+                ],
+                [
+                    [4, 22],
+                    [4, 22],
+                    [6, 23]
+                ],
+                [
+                    [22, -4],
+                    [22, -4],
+                    [23, -6]
+                ],
+                [
+                    [28, -28],
+                    [22, -4],
+                    [23, -6]
+                ],
+                [
+                    [-28, -28],
+                    [28, -28],
+                    [23, -6]
+                ],
+                [
+                    [28, 28],
+                    [22, -4],
+                    [23, -6]
+                ],
+                [
+                    [28, -28],
+                    [-4, -22],
+                    [-6, -23]
+                ],
+                [
+                    [-4, -22],
+                    [-4, -22],
+                    [-6, -23]
+                ],
+                [
+                    [-28, -28],
+                    [-4, -22],
+                    [-6, -23]
+                ],
+                [
+                    [-28, 28],
+                    [-28, -28],
+                    [-6, -23]
+                ],
+                [
+                    [28, 28],
+                    [-28, 28],
+                    [-16, 16]
+                ],
+                [
+                    [-28, -28],
+                    [-22, 4],
+                    [-16, 16]
+                ],
+                [
+                    [-22, 4],
+                    [-22, 4],
+                    [-16, 16]
+                ],
+                [
+                    [-28, 28],
+                    [-22, 4],
+                    [-16, 16]
+                ],
+                [
+                    [28, 28],
+                    [4, 22],
+                    [16, 16]
+                ],
+                [
+                    [28, -28],
+                    [28, 28],
+                    [16, 16]
+                ],
+                [
+                    [-28, 28],
+                    [4, 22],
+                    [16, 16]
+                ],
+                [
+                    [4, 22],
+                    [4, 22],
+                    [16, 16]
+                ],
+                [
+                    [22, -4],
+                    [22, -4],
+                    [16, -16]
+                ],
+                [
+                    [28, -28],
+                    [22, -4],
+                    [16, -16]
+                ],
+                [
+                    [-28, -28],
+                    [28, -28],
+                    [16, -16]
+                ],
+                [
+                    [28, 28],
+                    [22, -4],
+                    [16, -16]
+                ],
+                [
+                    [28, -28],
+                    [-4, -22],
+                    [-16, -16]
+                ],
+                [
+                    [-4, -22],
+                    [-4, -22],
+                    [-16, -16]
+                ],
+                [
+                    [-28, -28],
+                    [-4, -22],
+                    [-16, -16]
+                ],
+                [
+                    [-28, 28],
+                    [-28, -28],
+                    [-16, -16]
+                ],
+                [
+                    [28, 28],
+                    [4, 22],
+                    [-6, 23]
+                ],
+                [
+                    [28, -28],
+                    [28, 28],
+                    [-6, 23]
+                ],
+                [
+                    [-28, 28],
+                    [4, 22],
+                    [-6, 23]
+                ],
+                [
+                    [4, 22],
+                    [4, 22],
+                    [-6, 23]
+                ],
+                [
+                    [22, -4],
+                    [22, -4],
+                    [23, 6]
+                ],
+                [
+                    [28, -28],
+                    [22, -4],
+                    [23, 6]
+                ],
+                [
+                    [-28, -28],
+                    [28, -28],
+                    [23, 6]
+                ],
+                [
+                    [28, 28],
+                    [22, -4],
+                    [23, 6]
+                ],
+                [
+                    [28, -28],
+                    [-4, -22],
+                    [6, -23]
+                ],
+                [
+                    [-4, -22],
+                    [-4, -22],
+                    [6, -23]
+                ],
+                [
+                    [-28, -28],
+                    [-4, -22],
+                    [6, -23]
+                ],
+                [
+                    [-28, 28],
+                    [-28, -28],
+                    [6, -23]
+                ],
+                [
+                    [28, 28],
+                    [-28, 28],
+                    [-23, -6]
+                ],
+                [
+                    [-28, -28],
+                    [-22, 4],
+                    [-23, -6]
+                ],
+                [
+                    [-22, 4],
+                    [-22, 4],
+                    [-23, -6]
+                ],
+                [
+                    [-28, 28],
+                    [-22, 4],
+                    [-23, -6]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/GDROP1.DAT[0..150]"],
+    "strings": {
+        "name": {
+            "en-GB": "Roto-Drop",
+            "fr-FR": "Roto-toboggan",
+            "es-ES": "Caída Giratoria",
+            "it-IT": "Roto-discesa",
+            "nl-NL": "Roto-Val",
+            "sv-SE": "Roto-fall",
+            "ko-KR": "회전 낙하",
+            "zh-CN": "落下旋转车Roto-Drop",
+            "zh-TW": "落下旋轉車",
+            "pt-BR": "Queda Giratória"
+        },
+        "description": {
+            "en-GB": "A ring of seats is pulled to the top of a tall tower while gently rotating, then allowed to free-fall down, stopping gently at the bottom using magnetic brakes",
+            "fr-FR": "Un anneau de sièges est hissé au sommet d'une grande tour tout en tournant doucement sur lui-même. S'ensuit une chute libre, stoppée en bas par un système de freins magnétiques",
+            "de-DE": "Ein Ring mit Sitzen, der zur Spitze eines hohen Turms gezogen wird, während er sich leicht dreht, und dann im freien Fall heruntersaust, wobei er unten sanft von Magnetbremsen angehalten wird",
+            "es-ES": "Un anillo de asientos arrastrados a lo alto de una torre mientras gira, y después cae libremente, parando suavemente en el fondo usando unos frenos magnéticos",
+            "it-IT": "Un anello di sedili viene innalzato su un'alta torre mentre ruota lentamente su se stesso; viene poi fatto precipitare in caduta libera e quindi fermato poco prima di arrivare al suolo da freni magnetici",
+            "nl-NL": "Een ring met stoelen wordt naar de top van een hoge toren gebracht terwijl deze langzaam ronddraait, en maakt daarna een vrije val omlaag, en stopt langzaam bij de grond waarbij het magnetische remmen gebruikt",
+            "sv-SE": "En ring med säten dras upp till toppen av ett högt torn medan det roterar sakta, därefter faller det fritt varefter det stoppas mjukt vid botten med hjälp av magnetbromsar",
+            "ko-KR": "의자들이 원형을 이루어 돌면서 탑 꼭대기까지 올라갔다가 자유 낙하하며 바닥에 이르러서는 자석 브레이크에 의해 부드럽게 멈추는 기구",
+            "zh-CN": "一个环状坐位被拉到高塔顶端再温和地旋转及自由缓慢地落下利用底部的磁性煞车温和地停止住",
+            "zh-TW": "一個環狀坐位被拉到高塔頂端再溫和地旋轉及自由緩慢地落下利用底部的磁性煞車溫和地停止住",
+            "pt-BR": "Um anel de assentos é erguido até o alto de uma torre alta enquanto gira lentamente, e então cai em queda livre, parando suavemente usando freios magnéticos"
+        },
+        "capacity": {
+            "en-GB": "16 passengers",
+            "fr-FR": "16 passagers",
+            "de-DE": "16 Fahrgäste",
+            "es-ES": "16 pasajeros",
+            "it-IT": "16 passeggeri",
+            "nl-NL": "16 passagiers",
+            "sv-SE": "16 ?",
+            "ko-KR": "정원 16명",
+            "zh-CN": "16位客人",
+            "zh-TW": "16位客人",
+            "pt-BR": "16 passageiros"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "id": "rct2.tt.figtknit",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F820|FIGTKNIT|ACA0B9C9",
+    "objectType": "ride",
+    "properties": {
+        "type": "dodgems",
+        "category": "gentle",
+        "carsPerFlatRide": 12,
+        "carColours": [
+            [
+                ["bright_red", "white", "black"]
+            ],
+            [
+                ["light_blue", "white", "black"]
+            ],
+            [
+                ["yellow", "bright_red", "black"]
+            ],
+            [
+                ["bright_purple", "yellow", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 139456,
+            "mass": 200,
+            "numSeats": 1,
+            "numSeatRows": 1,
+            "poweredAcceleration": 7,
+            "poweredMaxSpeed": 15,
+            "drawOrder": 7,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_DODGEM_INUSE_LIGHTS": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "VEHICLE_ENTRY_FLAG_BOAT_HIRE_COLLISION_DETECTION": true,
+            "VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION": true,
+            "VEHICLE_ENTRY_FLAG_DODGEM_CAR_PLACEMENT": true,
+            "loadingPositions": [0]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/FIGTKNIT.DAT[0..130]"],
+    "strings": {
+        "name": {
+            "en-GB": "Fighting Knights Dodgem Cars",
+            "fr-FR": "Auto-tamponneuses des chevaliers",
+            "de-DE": "Autoskooter-Wagen Kämpfende Ritter",
+            "es-ES": "Coches de choque Caballeros en combate",
+            "it-IT": "Autoscontro dei Cavalieri Duellanti",
+            "nl-NL": "Vechtende ridders dodgemwagentjes",
+            "sv-SE": "Stridande riddare",
+            "ko-KR": "파이팅 나이츠 닷젬 카",
+            "zh-TW": "戰鬥騎士碰碰車",
+            "pt-BR": "Carrinhos de Batida de Cavaleiros em Duelo"
+        },
+        "description": {
+            "en-GB": "Riders joust on Horse-themed dodgem cars",
+            "fr-FR": "Les passagers participent à un tournoi médiéval d'auto-tamponneuses",
+            "de-DE": "Die Fahrer kämpfen im Autoskooter auf Pferdewagen.",
+            "es-ES": "Los usuarios se suben en coches de choque decorados como caballos.",
+            "it-IT": "I passeggeri viaggiano in auto simili a cavalli.",
+            "nl-NL": "Bezoekers rijden op paarden-dodgemwagentjes.",
+            "sv-SE": "Hästformade radiobilar som förarna kan tornera med.",
+            "ko-KR": "말 모양 닷젬 카 놀이기구",
+            "zh-TW": "乘客在主題為馬的碰碰車上競技",
+            "pt-BR": "Os visitantes competem em carrinhos de batida temáticos"
+        },
+        "capacity": {
+            "en-GB": "1 person per car",
+            "fr-FR": "1 personne par voiture",
+            "de-DE": "1 Person pro Wagen",
+            "es-ES": "1 pasajero por coche",
+            "it-IT": "1 persona per carrozza",
+            "nl-NL": "1 persoon per wagentje",
+            "sv-SE": "1 person per bil",
+            "ko-KR": "차량 정원 1명",
+            "zh-TW": "每輛車限乘1人",
+            "pt-BR": "1 pessoa por vagão"
+        }
+    }
+}

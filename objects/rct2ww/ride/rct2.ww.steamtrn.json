@@ -1,0 +1,130 @@
+{
+    "id": "rct2.ww.steamtrn",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFC10|STEAMTRN|F4C15AAC",
+    "objectType": "ride",
+    "properties": {
+        "type": "miniature_railway",
+        "category": "transport",
+        "tabScale": 0.5,
+        "playDepartSound": true,
+        "RIDE_ENTRY_FLAG_18": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 8,
+        "numEmptyCars": 2,
+        "defaultCar": 2,
+        "headCars": [
+            0,
+            1
+        ],
+        "ratingMultipler": {
+            "excitement": 3
+        },
+        "carColours": [
+            [
+                ["yellow", "bordeaux_red", "bright_yellow"]
+            ],
+            [
+                ["dark_green", "dark_brown", "yellow"]
+            ],
+            [
+                ["bordeaux_red", "dark_green", "yellow"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 296344,
+                "mass": 3000,
+                "spriteHeightNegative": 30,
+                "spriteHeightPositive": 30,
+                "animation": 1,
+                "frictionSoundId": 31,
+                "soundRange": 3,
+                "poweredAcceleration": 240,
+                "poweredMaxSpeed": 18,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION": true
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 183036,
+                "mass": 110,
+                "spriteHeightNegative": 30,
+                "spriteHeightPositive": 30,
+                "frictionSoundId": 31,
+                "soundRange": 3,
+                "drawOrder": 7,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_POWERED_RIDE_UNRESTRICTED_GRAVITY": true,
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 270196,
+                "mass": 600,
+                "numSeats": 6,
+                "spriteHeightNegative": 30,
+                "spriteHeightPositive": 30,
+                "numSeatRows": 3,
+                "frictionSoundId": 31,
+                "soundRange": 3,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "loadingPositions": [10, 8, 1, -1, -8, -10]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/STEAMTRN.DAT[0..1154]"],
+    "strings": {
+        "name": {
+            "en-GB": "Maharaja Steam Train",
+            "fr-FR": "Train à vapeur",
+            "de-DE": "Dampfeisenbahn",
+            "es-ES": "Tren de vapor",
+            "it-IT": "Treno a vapore",
+            "nl-NL": "Stoomtrein",
+            "sv-SE": "Ånglok med vagnar",
+            "zh-CN": "蒸气火车"
+        },
+        "description": {
+            "en-GB": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling closed-top wooden carriages",
+            "fr-FR": "Train à vapeur miniature composé d'une réplique de locomotive à vapeur et d'un tender, tirant des voitures à toit de bois",
+            "de-DE": "Miniatur-Dampfeisenbahn, bestehend aus einer Dampflokomotive plus Tender und geschlossenen Holzwaggons",
+            "es-ES": "Trenes de vapor en miniatura consistentes en una réplica de locomotora que tira de unos vagones de madera con capota",
+            "it-IT": "Un treno a vapore in miniatura, composto da una replica di locomotiva con tender che traina carrozze di legno coperte",
+            "nl-NL": "Miniatuur stoomtrein bestaand uit een replica van een stoomlocomotief en kolenwagen, die houten wagonnetjes met gesloten daken voorttrekt",
+            "sv-SE": "Ett miniatyrtåg med täckta trävagnar som dras av ett gammalt ånglok och en kolvagn",
+            "zh-CN": "小型蒸气火车是由蒸气火车头及给煤车复制制造，拖拉着木制乘客车箱"
+        },
+        "capacity": {
+            "en-GB": "6 passengers per carriage",
+            "fr-FR": "6 passagers par voiture",
+            "de-DE": "6 pro Waggon",
+            "es-ES": "6 pasajeros por vagón",
+            "it-IT": "6 passeggeri per carrozza",
+            "nl-NL": "6 passagiers per wagonnetje",
+            "sv-SE": "6 passagerare per vagn",
+            "zh-CN": "每节车箱限乘6人"
+        }
+    }
+}

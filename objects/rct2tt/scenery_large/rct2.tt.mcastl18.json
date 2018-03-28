@@ -1,0 +1,85 @@
+{
+    "id": "rct2.tt.mcastl18",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F822|MCASTL18|195F44F8",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 144,
+        "removalPrice": -114,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "sceneryGroup": "SCGWALLS",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 226,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 226,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 226,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 226,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 226,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 226,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 226,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 226,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 226,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/MCASTL18.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Castle Tower T Piece",
+            "fr-FR": "Section en T du donjon",
+            "de-DE": "Schlossturm-T-Stück",
+            "es-ES": "Sección en T de torre de castillo",
+            "it-IT": "Tratto a T della torre del Castello",
+            "nl-NL": "T-stuk Kasteeltoren",
+            "sv-SE": "T-del till torn, slott",
+            "ko-KR": "성 탑 T자 조각",
+            "zh-TW": "城樓 T 形塊",
+            "pt-BR": "Peça em T de Torre de Castelo"
+        }
+    }
+}

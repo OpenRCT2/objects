@@ -1,0 +1,28 @@
+{
+    "id": "rct2.tt.1920path",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA25|1920PATH|256783DF",
+    "objectType": "footpath",
+    "properties": {
+        "hasSupportImages": true,
+        "hasElevatedPathImages": true,
+        "supportType": "pole",
+        "scrollingMode": 0
+    },
+    "images": ["$RCT2:OBJDATA/1920PATH.DAT[0..164]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sidewalk FootPath",
+            "fr-FR": "Allée trottoir",
+            "de-DE": "Bürgersteig",
+            "es-ES": "Sendero acera",
+            "it-IT": "Sentiero con marciapiede",
+            "nl-NL": "Trottoirvoetpad",
+            "sv-SE": "Trottoargång",
+            "ko-KR": "포장 보도",
+            "zh-TW": "人行道路",
+            "pt-BR": "Trilha de Calçada"
+        }
+    }
+}

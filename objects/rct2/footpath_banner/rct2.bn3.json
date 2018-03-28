@@ -1,0 +1,28 @@
+{
+    "id": "rct2.bn3",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F84|BN3     |19B94BF5",
+    "objectType": "footpath_banner",
+    "properties": {
+        "scrollingMode": 9,
+        "price": 300,
+        "sceneryGroup": "SCGPATHX"
+    },
+    "images": ["$RCT2:OBJDATA/BN3.DAT[0..7]"],
+    "strings": {
+        "name": {
+            "en-GB": "Classical Style Sign",
+            "fr-FR": "Panneau classique",
+            "de-DE": "Klassisches Schild",
+            "es-ES": "Señal estilo clásico",
+            "it-IT": "Insegna stile classico",
+            "nl-NL": "Bord in Klassieke Stijl",
+            "sv-SE": "Klassisk skylt",
+            "ko-KR": "고전 스타일 표시",
+            "zh-CN": "古典风格 招牌",
+            "zh-TW": "古典風格 招牌",
+            "pt-BR": "Placa Estilo Clássico"
+        }
+    }
+}

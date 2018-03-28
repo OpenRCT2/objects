@@ -1,0 +1,34 @@
+{
+    "id": "rct2.tt.rdmeto03",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB21|RDMETO03|DC1CCEBB",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 13,
+        "removalPrice": 10,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 48,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RDMETO03.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Red Meteor Crater Wall",
+            "fr-FR": "Mur de cratère météoritique rouge",
+            "de-DE": "Roter Meteoritenkrater-Mauer",
+            "es-ES": "Muro de cráter de meteorito rojo",
+            "it-IT": "Parete del cratere meteoritico rosso",
+            "nl-NL": "Muur Rode Meteoorkrater",
+            "sv-SE": "Röd meteorkratervägg",
+            "ko-KR": "붉은 운석 구멍 벽",
+            "zh-TW": "紅色隕石坑牆面",
+            "pt-BR": "Parede de Cratera de Meteoro Vermelho"
+        }
+    }
+}

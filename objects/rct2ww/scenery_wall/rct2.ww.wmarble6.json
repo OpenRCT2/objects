@@ -1,0 +1,25 @@
+{
+    "id": "rct2.ww.wmarble6",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFC13|WMARBLE6|8C50305C",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 1,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WMARBLE6.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Ornate Marble Wall",
+            "fr-FR": "Mur de marbre ornementé",
+            "de-DE": "Verzierte Marmorwand",
+            "es-ES": "Pared de mármol ornada",
+            "it-IT": "Muro di marmo ornato",
+            "nl-NL": "Gedecoreerde Marmeren muur",
+            "sv-SE": "Utsmyckad marmorvägg",
+            "zh-CN": "华丽的大理石墙"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "rct2.tmm2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TMM2    |BD68126F",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 9,
+        "removalPrice": -6,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 44,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TMM2.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Graveyard Monument",
+            "fr-FR": "Monument aux morts",
+            "de-DE": "Friedhofsmonument",
+            "es-ES": "Monumento de cementerio",
+            "it-IT": "Monumento tombale",
+            "nl-NL": "Grafmonument",
+            "sv-SE": "Kyrkogårdsmonument",
+            "ko-KR": "기념묘",
+            "zh-CN": "墓园遗迹",
+            "zh-TW": "墓園遺蹟",
+            "pt-BR": "Monumento de Cemitério"
+        }
+    }
+}

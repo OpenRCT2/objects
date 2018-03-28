@@ -1,0 +1,32 @@
+{
+    "id": "rct2.tr1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TR1     |0BAA2C9A",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TR1.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "White Rook",
+            "fr-FR": "Tour blanche",
+            "de-DE": "Weißer Turm",
+            "es-ES": "Torre blanca",
+            "it-IT": "Torre bianca",
+            "nl-NL": "Wit Kasteel",
+            "sv-SE": "Vitt torn",
+            "ko-KR": "화이트 루크",
+            "zh-CN": "白棋车",
+            "zh-TW": "白棋車",
+            "pt-BR": "Torre Branca"
+        }
+    }
+}

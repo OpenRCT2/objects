@@ -1,0 +1,55 @@
+{
+    "id": "rct2.scgwond",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGWOND |E20FD0F4",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "TWH1",
+            "TWH2",
+            "TST1",
+            "TST2",
+            "TMS1",
+            "TST3",
+            "TST4",
+            "TST5",
+            "TAS1",
+            "TAS2",
+            "TAS3",
+            "TAS4",
+            "CHBBASE",
+            "TP1",
+            "TP2",
+            "TK1",
+            "TK2",
+            "TR1",
+            "TR2",
+            "TQ1",
+            "TQ2",
+            "TB1",
+            "TB2",
+            "TK3",
+            "TK4",
+            "WCW1",
+            "WCW2"
+        ],
+        "priority": 34
+    },
+    "images": ["$RCT2:OBJDATA/SCGWOND.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wonderland Themeing",
+            "fr-FR": "Thème Pays des merveilles",
+            "de-DE": "Wunderland-Thema",
+            "es-ES": "Temática fantástica",
+            "it-IT": "Tema del paese delle meraviglie",
+            "nl-NL": "Wonderland Thema",
+            "sv-SE": "Underlandstema",
+            "ko-KR": "원더랜드 테마",
+            "zh-CN": "仙境主题区",
+            "zh-TW": "仙境主題區",
+            "pt-BR": "Temática de Fantasia"
+        }
+    }
+}

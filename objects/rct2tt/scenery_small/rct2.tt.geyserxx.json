@@ -1,0 +1,36 @@
+{
+    "id": "rct2.tt.geyserxx",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F721|GEYSERXX|D47B1D7C",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 16,
+        "removalPrice": -12,
+        "cursor": "CURSOR_FOUNTAIN_DOWN",
+        "height": 112,
+        "animationDelay": 2,
+        "animationMask": 127,
+        "numFrames": 15,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "images": ["$RCT2:OBJDATA/GEYSERXX.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Geysers",
+            "de-DE": "Geysire",
+            "es-ES": "Géiseres",
+            "it-IT": "Geyser",
+            "nl-NL": "Geisers",
+            "sv-SE": "Gejsrar",
+            "ko-KR": "간헐천",
+            "zh-TW": "間歇泉",
+            "pt-BR": "Gêiseres"
+        }
+    }
+}

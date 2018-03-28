@@ -1,0 +1,31 @@
+{
+    "id": "rct2.tlc",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TLC     |173374FB",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 21,
+        "removalPrice": 10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 100,
+        "shape": "1/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true
+    },
+    "images": ["$RCT2:OBJDATA/TLC.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Lawson Cypress Tree",
+            "fr-FR": "Cyprès de Lawson",
+            "de-DE": "Lawson-Zypresse",
+            "es-ES": "Ciprés de Lawson",
+            "it-IT": "Cipresso di Lawson",
+            "nl-NL": "Lawson Cipresboom",
+            "sv-SE": "Lawson-cypress",
+            "ko-KR": "로손 사이프러스 나무",
+            "zh-CN": "罗生扁柏树",
+            "zh-TW": "羅生扁柏樹",
+            "pt-BR": "Árvore Cipreste-de-Lawson"
+        }
+    }
+}

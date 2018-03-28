@@ -1,0 +1,38 @@
+{
+    "id": "rct2.tt.robnhood",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F921|ROBNHOOD|6387A81C",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 46,
+        "removalPrice": -38,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 72,
+        "animationDelay": 2,
+        "animationMask": 31,
+        "numFrames": 15,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 0, 0, 0]
+    },
+    "images": ["$RCT2:OBJDATA/ROBNHOOD.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Animatronic Robin Hood",
+            "fr-FR": "Automate : Robin des Bois",
+            "es-ES": "Animatrónica Robin Hood",
+            "it-IT": "Robin Hood",
+            "nl-NL": "Animatronische Robin Hood",
+            "sv-SE": "Robin Hood (animatronisk)",
+            "ko-KR": "움직이는 로빈 후드",
+            "zh-TW": "羅賓漢機械偶",
+            "pt-BR": "Robin Hood Animatrônico"
+        }
+    }
+}

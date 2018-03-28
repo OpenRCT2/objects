@@ -1,0 +1,165 @@
+{
+    "id": "rct2.srings",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SRINGS  |BB605CD7",
+    "objectType": "ride",
+    "properties": {
+        "type": "space_rings",
+        "category": "gentle",
+        "tabScale": 0.5,
+        "carsPerFlatRide": 4,
+        "carColours": [
+            [
+                ["light_blue", "yellow", "black"]
+            ],
+            [
+                ["dark_green", "yellow", "black"]
+            ],
+            [
+                ["bright_red", "white", "black"]
+            ],
+            [
+                ["black", "bright_red", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "mass": 1000,
+            "numSeats": 1,
+            "spriteWidth": 55,
+            "spriteHeightNegative": 48,
+            "spriteHeightPositive": 28,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_10": true,
+            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "numSegments": 0,
+            "loadingWaypoints": [
+                [
+                    [40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, -40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [-40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, 40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, -40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [-40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, 40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, -40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [-40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, 40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, -40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [-40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, 40],
+                    [0, 0],
+                    [0, 0]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/SRINGS.DAT[0..706]"],
+    "strings": {
+        "name": {
+            "en-GB": "Space Rings",
+            "fr-FR": "Anneaux de l'espace",
+            "de-DE": "Weltraumringe",
+            "es-ES": "Anillos Espaciales",
+            "it-IT": "Anelli spaziali",
+            "nl-NL": "Ruimte Ringen",
+            "sv-SE": "Rymdringar",
+            "ko-KR": "스페이스 링",
+            "zh-CN": "环形空间",
+            "zh-TW": "環形空間",
+            "pt-BR": "Anéis Espaciais"
+        },
+        "description": {
+            "en-GB": "Concentric pivoting rings allowing the riders free rotation in all directions",
+            "fr-FR": "Anneaux pivotant de manière concentrique permettant aux visiteurs de tourner librement dans toutes les directions",
+            "de-DE": "Konzentrische, rotierende Ringe ermöglichen den Passagieren, sich in alle Richtungen frei zu drehen",
+            "es-ES": "Anillos concéntricos que pivotan permitiendo a los pasajeros rotar libremente en cualquier dirección",
+            "it-IT": "Anelli concentrici e che ruotano su un asse, permettendo ai visitatori di ruotare liberamente in tutte le direzioni",
+            "nl-NL": "Concentrische draaiende ringen die het mogelijk maken dat bezoekers vrij in alle richtingen roteren",
+            "sv-SE": "Koncentriska svängringar där passagerarna roterar fritt i alla riktningar",
+            "ko-KR": "어느 위치에서도 회전을 느낄 수 있는 동심원 모양의 기구",
+            "zh-CN": "在中心枢轴上转动,允许乘客自由转动方向",
+            "zh-TW": "在中心樞軸上轉動,允?乘客自由轉動方向",
+            "pt-BR": "Anéis concêntricos giratórios permitem que o visitante gire livremente em todas as direções"
+        },
+        "capacity": {
+            "en-GB": "1 guest each",
+            "fr-FR": "1 personne à la fois",
+            "de-DE": "Jeweils 1 Fahrgast",
+            "es-ES": "1 por visitante",
+            "it-IT": "1 visitatore ciascuno",
+            "nl-NL": "1 bezoeker per ring",
+            "sv-SE": "1 besökare var",
+            "ko-KR": "각 정원 1명",
+            "pt-BR": "1 visitante"
+        }
+    }
+}

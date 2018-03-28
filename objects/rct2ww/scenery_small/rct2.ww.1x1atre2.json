@@ -1,0 +1,32 @@
+{
+    "id": "rct2.ww.1x1atre2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0511|1X1ATRE2|CE9E318E",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 160,
+        "sceneryGroup": "SCGTREES",
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/1X1ATRE2.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Vine Tree",
+            "fr-FR": "Arbre avec lianes",
+            "de-DE": "Lianenbaum",
+            "es-ES": "Árbol trepador",
+            "it-IT": "Vite",
+            "nl-NL": "Lianenboom",
+            "sv-SE": "Träd med lianer",
+            "zh-CN": "树藤"
+        }
+    }
+}

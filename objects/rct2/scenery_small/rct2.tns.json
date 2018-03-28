@@ -1,0 +1,30 @@
+{
+    "id": "rct2.tns",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TNS     |539C9764",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 132,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TNS.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Norway Spruce Tree",
+            "fr-FR": "Epicéa de Norvège",
+            "de-DE": "Norwegische Fichte",
+            "es-ES": "Abeto de Noruega",
+            "it-IT": "Abete norvegese",
+            "nl-NL": "Noorse Spar",
+            "sv-SE": "Norsk gran",
+            "ko-KR": "노르웨이 가문비 나무",
+            "zh-CN": "挪威杉木",
+            "zh-TW": "挪威杉木",
+            "pt-BR": "Abeto-Norueguês"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": "rct2.soybean",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SOYBEAN |C4B8AF32",
+    "objectType": "ride",
+    "properties": {
+        "type": "drink_stall",
+        "category": "stall",
+        "sells": "soybean_milk",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SOYBEAN.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Soybean Milk Stall",
+            "fr-FR": "Laiterie",
+            "de-DE": "Sojamilch-Stand",
+            "es-ES": "Puesto leche de soja",
+            "it-IT": "Chiosco del latte di soia",
+            "nl-NL": "Kraampje met soja-melk",
+            "sv-SE": "Sojamjölkstånd",
+            "ko-KR": "두유 판매점",
+            "zh-CN": "豆浆店",
+            "zh-TW": "豆漿店",
+            "pt-BR": "Barraca de Leite de Soja"
+        },
+        "description": {
+            "en-GB": "A stall selling cartons of soybean milk",
+            "fr-FR": "Boutique vendant du lait de soja",
+            "de-DE": "Ein Stand, an dem Sojamilch-Kartons verkauft werden",
+            "es-ES": "Puesto que vende leche de soja",
+            "it-IT": "Un chiosco che vende cartoni di latte di soia",
+            "nl-NL": "Een kraampje dat bekers soja-melk verkoopt",
+            "sv-SE": "Ett stånd som säljer sojamjölkpaket",
+            "ko-KR": "두유를 파는 판매점",
+            "zh-CN": "一家卖盒装豆浆的店",
+            "zh-TW": "一家賣盒裝豆漿的店",
+            "pt-BR": "Uma barraca vendendo caixinhas de leite de soja"
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "id": "rct2.utcar",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|UTCAR   |3E35239B",
+    "objectType": "ride",
+    "properties": {
+        "type": "heartline_twister_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "carColours": [
+            [
+                ["white", "light_blue", "black"]
+            ],
+            [
+                ["yellow", "bright_red", "black"]
+            ],
+            [
+                ["bright_red", "yellow", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 278912,
+                "mass": 950,
+                "tabOffset": -10,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "effectVisual": 10,
+                "drawOrder": 11,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [5, 3, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 278912,
+                "mass": 950,
+                "tabOffset": -10,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "effectVisual": 10,
+                "drawOrder": 11,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [-7, -9, 5, 3]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/UTCAR.DAT[0..2594]"],
+    "strings": {
+        "name": {
+            "en-GB": "Twister Cars",
+            "fr-FR": "Voiture tornado",
+            "de-DE": "Twister-Wagen",
+            "es-ES": "Coches Tornado",
+            "it-IT": "Carrozze per Serpentone",
+            "nl-NL": "Draaiende Wagentjes",
+            "sv-SE": "Spinnvagnar",
+            "ko-KR": "트위스터 카",
+            "zh-CN": "旋转列车",
+            "zh-TW": "旋轉列車",
+            "pt-BR": "Carros Tornado"
+        },
+        "description": {
+            "en-GB": "Roller coaster cars capable of heartline twists",
+            "fr-FR": "Voiture de montagnes russes capable de passer dans des inversions à 360°",
+            "de-DE": "Achterbahnwagen, mit denen Heartline-Twists möglich sind",
+            "es-ES": "Montaña rusa con vagones capaces de giros a media altura",
+            "it-IT": "Carrozze da ottovolante adatte alle curve ondulate",
+            "nl-NL": "Achtbaan wagentjes die heartline draaien maken",
+            "sv-SE": "Berg- och dalbanevagnar som klarar hjärtlinjeskruvar",
+            "ko-KR": "하트라인을 따라 회전하는 롤러코스터",
+            "zh-CN": "过山车车辆可以中心旋转运行",
+            "zh-TW": "雲霄飛車車輛可以中心旋轉運行",
+            "pt-BR": "Carros de montanha-russa capazes de girar para cima e para baixo"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per wagentje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량 정원 4명",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por carro"
+        }
+    }
+}

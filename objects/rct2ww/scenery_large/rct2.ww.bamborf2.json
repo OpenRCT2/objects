@@ -1,0 +1,39 @@
+{
+    "id": "rct2.ww.bamborf2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0012|BAMBORF2|E3A89B02",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": -150,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 56,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 56,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/BAMBORF2.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Bamboo Roof",
+            "fr-FR": "Toit de bambou",
+            "de-DE": "Bambusdach",
+            "es-ES": "Tejado de bambú",
+            "it-IT": "Tetto di bambù",
+            "nl-NL": "Bamboedak",
+            "sv-SE": "Bambutak",
+            "zh-CN": "竹顶"
+        }
+    }
+}

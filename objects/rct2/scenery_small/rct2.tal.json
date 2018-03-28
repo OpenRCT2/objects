@@ -1,0 +1,33 @@
+{
+    "id": "rct2.tal",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TAL     |0A58F373",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 10,
+        "removalPrice": 5,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 32,
+        "shape": "1/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TAL.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Alligator Shaped Tree",
+            "fr-FR": "Arbre alligator",
+            "de-DE": "Alligatorförmiger Baum",
+            "es-ES": "Árbol con forma de caimán",
+            "it-IT": "Albero a forma di alligatore",
+            "nl-NL": "Boom in vorm Alligator",
+            "sv-SE": "Alligatorformat träd",
+            "ko-KR": "앨리게이터 형상의 나무",
+            "zh-CN": "短吻鳄形的树",
+            "zh-TW": "短吻鱷形的樹",
+            "pt-BR": "Árvore em Forma de Jacaré"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "rct2.tt.oldnyk13",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F921|OLDNYK13|3FC3C30F",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": -6,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 64,
+        "sceneryGroup": "SCGWALLS",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasSecondaryColour": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/OLDNYK13.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "New York Wall with Line",
+            "fr-FR": "Mur de New York avec corde à linge",
+            "de-DE": "New York Mauer mit Leitung",
+            "es-ES": "Muro con línea de Nueva York",
+            "it-IT": "Muro di New York con linea",
+            "nl-NL": "Muur met lijn New York",
+            "sv-SE": "Vägg med klädstreck, New York",
+            "ko-KR": "뉴욕 벽과 라인",
+            "zh-TW": "紐約牆面(含線條)",
+            "pt-BR": "Parede de Nova York com Varal"
+        }
+    }
+}

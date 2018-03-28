@@ -1,0 +1,41 @@
+{
+    "id": "rct2.tt.hevbth03",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F821|HEVBTH03|A13087FA",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 44,
+        "removalPrice": -38,
+        "cursor": "CURSOR_FOUNTAIN_DOWN",
+        "height": 72,
+        "animationDelay": 3,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/HEVBTH03.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Heavenly Baths Fountain",
+            "fr-FR": "Fontaine des thermes divins",
+            "de-DE": "Brunnen der Himmlischen Bäder",
+            "es-ES": "Fuente de termas de los dioses",
+            "it-IT": "Fontana delle Terme Celestiali",
+            "nl-NL": "Fontein Hemelse baden",
+            "sv-SE": "Fontän, himmelskt bad",
+            "ko-KR": "천상의 욕실 분수",
+            "zh-TW": "天國浴場噴泉",
+            "pt-BR": "Chafariz de Banho Celestial"
+        }
+    }
+}

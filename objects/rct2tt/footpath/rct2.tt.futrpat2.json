@@ -1,0 +1,28 @@
+{
+    "id": "rct2.tt.futrpat2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB25|FUTRPAT2|1C1C4C5A",
+    "objectType": "footpath",
+    "properties": {
+        "hasSupportImages": true,
+        "hasElevatedPathImages": true,
+        "supportType": "pole",
+        "scrollingMode": 0
+    },
+    "images": ["$RCT2:OBJDATA/FUTRPAT2.DAT[0..164]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sky Walk FootPath",
+            "fr-FR": "Allée aérienne",
+            "de-DE": "Himmelsweg",
+            "es-ES": "Sendero paseo espacial",
+            "it-IT": "Sentiero aereo",
+            "nl-NL": "Sky Walk-voetpad",
+            "sv-SE": "Luftgång",
+            "ko-KR": "스카이 워크 보도",
+            "zh-TW": "天橋道路",
+            "pt-BR": "Trilha Suspensa"
+        }
+    }
+}

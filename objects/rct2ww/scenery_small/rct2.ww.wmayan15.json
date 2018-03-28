@@ -1,0 +1,29 @@
+{
+    "id": "rct2.ww.wmayan15",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31C11|WMAYAN15|30596CD0",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WMAYAN15.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Lost City Stairway Piece",
+            "fr-FR": "?Pièce d'escalier de cité perdue",
+            "de-DE": "?Verlorene Stadt - Treppen-Bauteil",
+            "es-ES": "Pieza de escalinata de ciudad perdida",
+            "it-IT": "Pezzo di scala di città perduta",
+            "nl-NL": "Stuk Trap Vergeten Stad",
+            "sv-SE": "Trappa för förlorad stad"
+        }
+    }
+}

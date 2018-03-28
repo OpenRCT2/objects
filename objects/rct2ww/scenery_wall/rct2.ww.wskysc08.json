@@ -1,0 +1,25 @@
+{
+    "id": "rct2.ww.wskysc08",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0613|WSKYSC08|148E8F90",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 2,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WSKYSC08.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sky Scraper Wall Piece",
+            "fr-FR": "Pan de mur de gratte-ciel",
+            "de-DE": "Wolkenkratzerwand-Bauteil",
+            "es-ES": "Pieza de pared de rascacielos",
+            "it-IT": "Pezzo di parete di grattacielo",
+            "nl-NL": "Stuk Muur Wolkenkrabber",
+            "sv-SE": "Väggdel till skyskrapa",
+            "zh-CN": "高楼大厦墙面"
+        }
+    }
+}

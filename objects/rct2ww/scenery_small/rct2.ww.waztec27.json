@@ -1,0 +1,23 @@
+{
+    "id": "rct2.ww.waztec27",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31D11|WAZTEC27|9B148A0C",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4+D",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WAZTEC27.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Temple Wall Corner Piece"
+        }
+    }
+}

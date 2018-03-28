@@ -1,0 +1,30 @@
+{
+    "id": "rct2.tmc",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TMC     |7467803C",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 25,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 108,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TMC.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Monterey Cypress Tree",
+            "fr-FR": "Cyprès de Monterrey",
+            "de-DE": "Monterey-Zypresse",
+            "es-ES": "Ciprés de Monterrey",
+            "it-IT": "Cipresso di Monterey",
+            "nl-NL": "Monterey Cipresboom",
+            "sv-SE": "Monterey-cypress",
+            "ko-KR": "몬터리 사이프러스 나무",
+            "zh-CN": "蒙特瑞柏树",
+            "zh-TW": "蒙特瑞柏樹",
+            "pt-BR": "Árvore Cipreste-de-Monterey"
+        }
+    }
+}
