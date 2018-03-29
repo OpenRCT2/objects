@@ -394,7 +394,7 @@ module PropertyExtractor =
         | ItemTypes.IcedTea -> "iced_tea"
         | ItemTypes.FruitJuice -> "fruit_juice"
         | ItemTypes.SoybeanMilk -> "soybean_milk"
-        | ItemTypes.Sujongkwa -> "su_jongkwa"
+        | ItemTypes.Sujongkwa -> "sujeonggwa"
         | ItemTypes.Balloon -> "balloon"
         | ItemTypes.PlushToy -> "toy"
         | ItemTypes.Map -> "map"
