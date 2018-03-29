@@ -7,7 +7,7 @@
     "properties": {
         "type": "drink_stall",
         "category": "stall",
-        "sells": "su_jongkwa",
+        "sells": "sujeonggwa",
         "carsPerFlatRide": 1,
         "carColours": [
             [
@@ -18,37 +18,37 @@
     "images": ["$RCT2:OBJDATA/CINDR.DAT[0..6]"],
     "strings": {
         "name": {
-            "en-GB": "Sujongkwa Stall",
+            "en-GB": "Sujeonggwa Stall",
             "fr-FR": "Rhumerie",
-            "de-DE": "Sujongkwa-Stand",
-            "es-ES": "Puesto de sujongkwa",
-            "it-IT": "Chiosco di sujongkwa",
+            "de-DE": "Sujeonggwa-Stand",
+            "es-ES": "Puesto de sujeonggwa",
+            "it-IT": "Chiosco di sujeonggwa",
             "nl-NL": "Sujeonggwakraam",
-            "sv-SE": "Sujongkwa-stånd",
+            "sv-SE": "Sujeonggwa-stånd",
             "ko-KR": "수정과 가게",
             "zh-CN": "姜糖茶店",
-            "zh-TW": "Sujongkwa 店",
+            "zh-TW": "Sujeonggwa 店",
             "pt-BR": "Barraca de Ponche de Caqui",
             "cs-CZ": "Stánek s suzungkwa",
             "ja-JP": "スジョングァ・ショップ",
-            "pl-PL": "Kiosk Sujongkwa",
+            "pl-PL": "Kiosk Sujeonggwa",
             "ru-RU": "Рюмочная"
         },
         "description": {
-            "en-GB": "A stall selling Korean style Sujongkwa drinks",
+            "en-GB": "A stall selling Korean style Sujeonggwa drinks",
             "fr-FR": "Boutique vendant du punch",
-            "de-DE": "Ein Stand, an dem koreanische Sujongkwa-Getränke verkauft werden",
-            "es-ES": "Puesto que vende bebidas estilo koreano sujongkwa",
-            "it-IT": "Un chiosco che vende bevande di sujongkwa alla coreana",
+            "de-DE": "Ein Stand, an dem koreanische Sujeonggwa-Getränke verkauft werden",
+            "es-ES": "Puesto que vende bebidas estilo koreano sujeonggwa",
+            "it-IT": "Un chiosco che vende bevande di sujeonggwa alla coreana",
             "nl-NL": "Een kraam waar Koreaanse sujeonggwa-drankjes worden verkocht.",
-            "sv-SE": "Ett stånd som säljer Koreanska Sujongkwadrinkar",
+            "sv-SE": "Ett stånd som säljer Koreanska Sujeonggwadrinkar",
             "ko-KR": "한국식 수정과를 파는 가게",
             "zh-CN": "一家卖韩式姜糖茶饮料的店",
-            "zh-TW": "一家賣韓式Sujongkwa飲料的店",
+            "zh-TW": "一家賣韓式Sujeonggwa飲料的店",
             "pt-BR": "Uma barraca vendendo ponche de caqui à moda coreana",
             "cs-CZ": "Stánek prodávající suzungkwa",
             "ja-JP": "韓国風の柿ジュースを売る売店です",
-            "pl-PL": "Stoisko sprzedające koreańskie napoje Sujongkwa",
+            "pl-PL": "Stoisko sprzedające koreańskie napoje Sujeonggwa",
             "ru-RU": "Палатка, где разливают сухое вино."
         }
     }
