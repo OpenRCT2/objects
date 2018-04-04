@@ -1,14 +1,14 @@
 {
     "id": "rct2.ptct2r",
     "authors": ["Chris Sawyer", "Simon Foster"],
-    "version": "1.0",
+    "version": "1.1",
     "originalId": "0A188B80|PTCT2R  |4433BD4C",
     "objectType": "ride",
     "properties": {
         "type": "wooden_rc",
         "category": "rollercoaster",
         "minCarsPerTrain": 2,
-        "maxCarsPerTrain": 4,
+        "maxCarsPerTrain": 6,
         "ratingMultipler": {
             "excitement": 2,
             "intensity": 10,
