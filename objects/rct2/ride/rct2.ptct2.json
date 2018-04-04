@@ -8,7 +8,7 @@
         "type": "wooden_rc",
         "category": "rollercoaster",
         "minCarsPerTrain": 2,
-        "maxCarsPerTrain": 4,
+        "maxCarsPerTrain": 6,
         "carColours": [
             [
                 ["bright_red", "bright_red", "saturated_brown"]
