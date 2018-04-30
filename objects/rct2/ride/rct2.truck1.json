@@ -1,7 +1,7 @@
 {
     "id": "rct2.truck1",
     "authors": ["Chris Sawyer", "Simon Foster"],
-    "version": "1.0",
+    "version": "1.1",
     "originalId": "0A188B80|TRUCK1  |58B728C5",
     "objectType": "ride",
     "properties": {
@@ -63,7 +63,7 @@
         "$RCT2:OBJDATA/TRUCK1.DAT[1]",
         "",
         "",
-        "$RCT2:OBJDATA/TRUCK1.DAT[0..266]"
+        "$RCT2:OBJDATA/TRUCK1.DAT[3..266]"
     ],
     "strings": {
         "name": {
