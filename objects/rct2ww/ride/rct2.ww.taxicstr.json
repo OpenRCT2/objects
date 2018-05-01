@@ -101,7 +101,7 @@
         "name": {
             "en-GB": "Yellow Taxi Trains",
             "fr-FR": "Taxi 1",
-            "de-DE": "Taxi-Achterbahn",
+            "de-DE": "Taxi-Züge",
             "es-ES": "1 Montaña del Taxi",
             "it-IT": "Ottovolante taxi",
             "nl-NL": "Taxitrein",
@@ -138,7 +138,8 @@
             "zh-CN": "每辆车限乘4人",
             "cs-CZ": "4 místa v každém voze",
             "ko-KR": "차량당 4명의 승객",
-            "pl-PL": "4 pasażerów na wagonik"
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира"
         }
     }
 }

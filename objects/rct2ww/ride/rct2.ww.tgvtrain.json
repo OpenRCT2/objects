@@ -118,10 +118,10 @@
     "strings": {
         "name": {
             "en-GB": "TGV Trains",
-            "fr-FR": "Montagnes TGV",
-            "de-DE": "TGV-Achterbahn",
-            "es-ES": "Montaña Rusa de Tren TVG",
-            "it-IT": "Ottovolante TGV",
+            "fr-FR": "TGV",
+            "de-DE": "TGV-Züge",
+            "es-ES": "Tren TVG",
+            "it-IT": "TGV",
             "nl-NL": "TGV-trein",
             "sv-SE": "TGV-tågbana",
             "zh-CN": "大众捷运列车云霄飞车",
@@ -159,7 +159,8 @@
             "cs-CZ": "4 místa v každém voze",
             "ko-KR": "차량당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
-            "ru-RU": "4 пассажира"
+            "ru-RU": "4 пассажира",
+            "pt-BR": "4 passageiros por carro"
         }
     }
 }

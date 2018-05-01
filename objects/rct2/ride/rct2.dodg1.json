@@ -47,6 +47,7 @@
     "strings": {
         "name": {
             "en-GB": "Dodgems",
+            "en-US": "Bumper Cars",
             "fr-FR": "Autos tamponneuses",
             "de-DE": "Autoskooter",
             "es-ES": "Coches de choque",
@@ -63,6 +64,7 @@
         },
         "description": {
             "en-GB": "Self-drive electric dodgem cars",
+            "en-US": "Self-driven electric bumper cars",
             "fr-FR": "Autos tamponneuses électriques",
             "de-DE": "Selbstgesteuerte elektrische Autoskooter",
             "es-ES": "Coches de choque eléctricos autopropulsados",

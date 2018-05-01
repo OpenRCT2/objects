@@ -91,7 +91,6 @@
             "nl-NL": "Condortrein",
             "sv-SE": "Kondorhjulet",
             "zh-CN": "兀鹰游乐设施",
-            "ar-EG": "Condor Trains",
             "ca-ES": "El còndor",
             "cs-CZ": "Jízda kondorů",
             "en-US": "Condor Trains",
@@ -99,45 +98,45 @@
             "ko-KR": "콘도르 차량",
             "pl-PL": "Lot kondora",
             "pt-BR": "Condor",
-            "ru-RU": "Кондор"
+            "ru-RU": "Кондор",
+            "zh-TW": "神鷹暢遊"
         },
         "description": {
             "en-GB": "Riding in special harnesses below the track, riders experience the feeling of flight as they swoop through the air in Condor-shaped trains",
             "fr-FR": "Les passagers sont couchés à plat ventre dans une voiture en forme de condor se déplaçant sur un monorail et se balançant d'un côté à l'autre dans les virages",
-            "de-DE": "Die Passagiere fahren kopfüber liegend und hängen dabei in einem kondorförmigen Wagen von einer Einschienenstrecke, wobei sie in den Kurven frei von Seite zu Seite schwingen.",
+            "de-DE": "Die Passagiere fahren, in speziellen Gurten hängend, unterhalb der Strecke. In den kondorförmigen Wagen erleben sie dabei ein Gefühl des Fliegens.",
             "es-ES": "Los pasajeros viajan boca abajo y acostados, suspendidos del arnés debajo de la pista en un vagón con forma de Cóndor que se balancea libremente de un lado a otro al pasar por las curvas.",
-            "it-IT": "I passeggeri si trovano in posizione prona, sospesi in speciali carrozze monorotaia a forma di condor che oscillano liberamente nelle curve",
+            "it-IT": "Guidando in speciali carrelli sotto la pista, i piloti sperimentano la sensazione di volo mentre prendono aria nei treni Condor",
             "nl-NL": "Bezoekers hangen in Condorvormige treinen onder de baan met enkel schouderbeugels en krijgen zo de ervaring dat ze vliegen.",
             "sv-SE": "Åkandes i speciella byglar under spåret känner passagerarna känslan av flygning när de sveper genom luften i kondorformade vagnar",
-            "zh-CN": "?乘客以躺卧姿势面向下乘坐,以特殊设计的单轨悬吊辆车,在转弯时自由左右摇摆",
-            "ar-EG": "Riding in special harnesses below the track, riders experience the feeling of flight as they swoop through the air in Condor-shaped trains",
+            "zh-CN": "乘客以躺卧姿势面向下乘坐,以特殊设计的单轨悬吊辆车,在转弯时自由左右摇摆",
             "ca-ES": "Els passatgers, lligats amb subjeccions per baix de la via, experimenten la sensació de volar mentre cauen en picat per l'aire en vagons en forma de còndor.",
             "cs-CZ": "Návštěvníci jsou zavěšeni vleže hlavou napřed pod tratí a během jízdy mají pocit volného letu kondora",
-            "en-US": "Riding in special harnesses below the track, riders experience the feeling of flight as they swoop through the air in Condor-shaped trains",
-            "ja-JP": "Riding in special harnesses below the track, riders experience the feeling of flight as they swoop through the air in Condor-shaped trains",
             "ko-KR": "하나의 레일로 이루어진 트랙에 매달린 콘도르 모양의 차량에 얼굴을 아래로 한 자세로 타고 코너를 돌 때마다 이리 저리 자유롭게 흔들리는 차량",
             "pl-PL": "Pasażerowie podróżują w pozycji leżącej, twarzą w dół, w podwieszanych wagonikach w kształcie kondora, które bujają się swobodnie na zakrętach",
             "pt-BR": "Montando em travas especiais sob a pista, os passageiros experimentarão a sensação de voar pelo ar em uma estrutura na forma de Condor",
-            "ru-RU": "Люди едут лицом вперед лежа, в вагончиках в форме кондора"
+            "ru-RU": "Люди едут лицом вперед лежа, в вагончиках в форме кондора",
+            "zh-TW": "乘客乘坐於軌道下的神鷹造型列車上, 將會於飛馳中體驗飛一般的快感"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
-            "fr-FR": "1 passager par voiture",
-            "de-DE": "1 Fahrgast pro Wagen",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
-            "it-IT": "1 passeggero per carrozza",
+            "it-IT": "4 passeggeri per carrozza",
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "?每辆车限乘1人",
+            "zh-CN": "每辆车限乘4人",
             "ar-EG": "4 راكبين لكل عربة",
             "ca-ES": "4 passatgers per vagó",
             "cs-CZ": "4 místa v každém voze",
-            "en-US": "4 passengers per car",
             "ja-JP": "各車両4名",
             "ko-KR": "차량당 승객 4명",
-            "pl-PL": "1 pasażer na wagonik",
+            "pl-PL": "4 pasażerów na wagonik",
             "pt-BR": "4 passageiros por carro",
-            "ru-RU": "1 пассажир"
+            "ru-RU": "4 пассажира",
+            "fi-FI": "4 matkustajaa per auto",
+            "zh-TW": "每車卡4位乘客"
         }
     }
 }

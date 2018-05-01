@@ -77,9 +77,7 @@
             "nl-NL": "Manta's",
             "sv-SE": "Djävulsrocka",
             "zh-CN": "蝠魟游乐设施",
-            "ar-EG": "Manta Ray boats",
             "cs-CZ": "Rejnočí jízda",
-            "en-US": "Manta Ray boats",
             "ko-KR": "쥐가오리 보트",
             "pl-PL": "Wielka płaszczka",
             "pt-BR": "Barcos Arraia Manta",
@@ -93,7 +91,7 @@
             "it-IT": "Delle capienti imbarcazioni si muovono lungo un ampio canale, risalendo grazie a un nastro trasportatore e lanciandosi dalle discese per piombare in acqua e infradiciare i passeggeri",
             "nl-NL": "Achtbaankarretjes in de vorm van een manta (adelaarsrog).",
             "sv-SE": "Stora båtar som forsar fram i en vattenfylld kanal, bogseras uppåt på transportband och stänker ned åskådare vid foten av dödsföraktande stup",
-            "zh-CN": "?大型容量的船沿着宽敞的水道,以传道带送上斜坡,再加速荡下溅起巨大水花淋湿乘客",
+            "zh-CN": "大型容量的船沿着宽敞的水道,以传道带送上斜坡,再加速荡下溅起巨大水花淋湿乘客",
             "ar-EG": "Coaster boats in the shape of a Manta Ray",
             "cs-CZ": "Lodě ve tvaru rejnuků",
             "en-US": "Coaster boats in the shape of a Manta Ray",
@@ -103,18 +101,18 @@
             "ru-RU": "Путешествие на лодке по широкому каналу на транспортере"
         },
         "capacity": {
-            "en-GB": "16 passengers per boat",
-            "fr-FR": "16 passagers par bateau",
-            "de-DE": "16 pro Boot",
-            "es-ES": "16 pasajeros por bote",
-            "it-IT": "16 passeggeri per imbarcazione",
+            "en-GB": "6 passengers per boat",
+            "fr-FR": "6 passagers par bateau",
+            "de-DE": "6 pro Boot",
+            "es-ES": "6 pasajeros por bote",
+            "it-IT": "6 passeggeri per imbarcazione",
             "nl-NL": "6 passagiers per boot",
-            "sv-SE": "16 passagerare per båt",
-            "zh-CN": "? 每辆车限乘16人",
-            "cs-CZ": "16 míst na každé lodi",
-            "ko-KR": "보트당 16명의 승객",
-            "pl-PL": "16 pasażerów na łódkę",
-            "ru-RU": "16 пассажиров в лодке"
+            "sv-SE": "6 passagerare per båt",
+            "zh-CN": "每辆车限乘6人",
+            "cs-CZ": "6 míst na každé lodi",
+            "ko-KR": "보트당 6명의 승객",
+            "pl-PL": "6 pasażerów na łódkę",
+            "ru-RU": "6 пассажиров в лодке"
         }
     }
 }
