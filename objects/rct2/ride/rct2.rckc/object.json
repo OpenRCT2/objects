@@ -1,11 +1,11 @@
 {
     "id": "rct2.rckc",
     "authors": ["Chris Sawyer", "Simon Foster"],
-    "version": "1.0",
+    "version": "1.1",
     "originalId": "0A188B80|RCKC    |546E3576",
     "objectType": "ride",
     "properties": {
-        "type": "mini_rc",
+        "type": ["junior_rc", "mini_rc"],
         "category": "rollercoaster",
         "minCarsPerTrain": 1,
         "maxCarsPerTrain": 3,
@@ -51,8 +51,8 @@
         }
     },
     "images": [
+        { "path": "images/preview2.png", "format": "raw" },
         "$RCT2:OBJDATA/RCKC.DAT[1]",
-        "",
         "",
         "$RCT2:OBJDATA/RCKC.DAT[3..1778]"
     ],
