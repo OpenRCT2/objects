@@ -1,6 +1,6 @@
 image: ubuntu
 build_script:
-- sh: ./package.sh
+- ps: ./package.ps1
 artifacts:
 - path: 'artifacts\objects.zip'
 deploy:
