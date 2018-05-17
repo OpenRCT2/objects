@@ -6,7 +6,10 @@
     "objectType": "terrain_edge",
     "properties": {
     },
-    "images": ["$CSG[40590..40757]"],
+    "images": [
+        { "path": "icon.png", "format": "raw" },
+        "$CSG[40590..40757]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Iron"

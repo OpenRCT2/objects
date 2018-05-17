@@ -6,7 +6,10 @@
     "objectType": "terrain_edge",
     "properties": {
     },
-    "images": ["$CSG[41030..41197]"],
+    "images": [
+        { "path": "icon.png", "format": "raw" },
+        "$CSG[41030..41197]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Stucco (Yellow)"

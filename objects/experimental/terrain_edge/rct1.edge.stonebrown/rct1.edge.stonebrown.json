@@ -6,7 +6,10 @@
     "objectType": "terrain_edge",
     "properties": {
     },
-    "images": ["$CSG[41446..41613]"],
+    "images": [
+        { "path": "icon.png", "format": "raw" },
+        "$CSG[41446..41613]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Stone (Brown)"

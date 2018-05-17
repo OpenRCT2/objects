@@ -6,7 +6,10 @@
     "objectType": "terrain_edge",
     "properties": {
     },
-    "images": ["$CSG[41758..41925]"],
+    "images": [
+        { "path": "icon.png", "format": "raw" },
+        "$CSG[41758..41925]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Skyscraper (B)"

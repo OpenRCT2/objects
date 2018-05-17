@@ -6,7 +6,10 @@
     "objectType": "terrain_edge",
     "properties": {
     },
-    "images": ["$G1[1579..1746]"],
+    "images": [
+        "$G1[5593]",
+        "$G1[1579..1746]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Rock"

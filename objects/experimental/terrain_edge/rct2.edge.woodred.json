@@ -6,7 +6,10 @@
     "objectType": "terrain_edge",
     "properties": {
     },
-    "images": ["$G1[1747..1830]"],
+    "images": [
+        "$G1[5594]",
+        "$G1[1747..1830]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Wood (red)"

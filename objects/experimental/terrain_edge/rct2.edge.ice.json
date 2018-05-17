@@ -6,7 +6,10 @@
     "objectType": "terrain_edge",
     "properties": {
     },
-    "images": ["$G1[1831..1998]"],
+    "images": [
+        "$G1[5596]",
+        "$G1[1831..1998]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Ice"
