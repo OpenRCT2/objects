@@ -5,8 +5,12 @@
     "originalId": "0000008B|#RCT2SSY|00000000",
     "objectType": "terrain_surface",
     "properties": {
+        "price": 100
     },
-    "images": ["$G1[2086..2142]"],
+    "images": [
+        "$G1[5580]",
+        "$G1[2086..2142]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Sand (Yellow)"

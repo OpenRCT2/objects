@@ -5,8 +5,12 @@
     "originalId": "0000008B|#RCT2SCH|00000000",
     "objectType": "terrain_surface",
     "properties": {
+        "price": 100
     },
-    "images": ["$G1[2371..2427]"],
+    "images": [
+        "$G1[5584]",
+        "$G1[2371..2427]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Chequerboard",

@@ -5,8 +5,12 @@
     "originalId": "0000008B|#RCT2SGC|00000000",
     "objectType": "terrain_surface",
     "properties": {
+        "price": 110
     },
-    "images": ["$G1[2200..2256]"],
+    "images": [
+        "$G1[5585]",
+        "$G1[2200..2256]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Grass Clumps"

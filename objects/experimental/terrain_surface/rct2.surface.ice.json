@@ -5,8 +5,12 @@
     "originalId": "0000008B|#RCT2SIC|00000000",
     "objectType": "terrain_surface",
     "properties": {
+        "price": 130
     },
-    "images": ["$G1[2143..2199]"],
+    "images": [
+        "$G1[5586]",
+        "$G1[2143..2199]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Ice"

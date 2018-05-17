@@ -5,8 +5,12 @@
     "originalId": "0000008B|#RCT2SGR|00000000",
     "objectType": "terrain_surface",
     "properties": {
+        "price": 300
     },
-    "images": ["$G1[1915..1971]"],
+    "images": [
+        "$G1[5579]",
+        "$G1[1915..1971]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Grass"

@@ -5,8 +5,12 @@
     "originalId": "0000008B|#RCT1SRG|00000000",
     "objectType": "terrain_surface",
     "properties": {
+        "price": 100
     },
-    "images": ["$CSG[42147..42203]"],
+    "images": [
+        "",
+        "$CSG[42147..42203]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Roof (Grey)"

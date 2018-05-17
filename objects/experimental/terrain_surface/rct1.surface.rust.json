@@ -5,8 +5,12 @@
     "originalId": "0000008B|#RCT1SRU|00000000",
     "objectType": "terrain_surface",
     "properties": {
+        "price": 100
     },
-    "images": ["$CSG[42375..42431]"],
+    "images": [
+        "",
+        "$CSG[42375..42431]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Rust"

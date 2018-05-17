@@ -1,19 +1,20 @@
 {
-    "id": "rct2.surface.rock",
+    "id": "rct2.surface.ice",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0000008B|#RCT2SRO|00000000",
+    "originalId": "0000008B|#RCT2SIG|00000000",
     "objectType": "terrain_surface",
     "properties": {
-        "price": 120
+        "colour": "bright_green",
+        "price": 110
     },
     "images": [
-        "$G1[5582]",
-        "$G1[2542..2598]"
+        "$G1[5587]",
+        "$G1[2257..2313]"
     ],
     "strings": {
         "name": {
-            "en-GB": "Rock"
+            "en-GB": "Ice"
         }
     }
 }
