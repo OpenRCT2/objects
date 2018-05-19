@@ -6,7 +6,14 @@
     "objectType": "terrain_surface",
     "properties": {
         "price": 100,
-        "rotations": 2
+        "special": [
+            { "rotation": 1, "index": 3 },
+            { "rotation": 1, "grid": true, "index": 4 },
+            { "rotation": 1, "underground": true, "index": 5 },
+            { "rotation": 3, "index": 3 },
+            { "rotation": 3, "grid": true, "index": 4 },
+            { "rotation": 3, "underground": true, "index": 5 }
+        ]
     },
     "images": [
         "$G1[5584]",
