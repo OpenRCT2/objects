@@ -5,11 +5,14 @@
     "originalId": "0000008B|#RCT2SGC|00000000",
     "objectType": "terrain_surface",
     "properties": {
-        "price": 110
+        "price": 110,
+        "smoothWithSelf": true,
+        "smoothWithOther": true
     },
     "images": [
         "$G1[5585]",
-        "$G1[2200..2256]"
+        "$G1[2200..2256]",
+        "$G1[29001..29006]"
     ],
     "strings": {
         "name": {
