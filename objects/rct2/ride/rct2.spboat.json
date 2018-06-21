@@ -12,7 +12,7 @@
         ],
         "tabScale": 0.5,
         "playSplashSound": true,
-        "RIDE_ENTRY_FLAG_18": true,
+        "disableCollisionCrashes": true,
         "minCarsPerTrain": 3,
         "maxCarsPerTrain": 3,
         "numEmptyCars": 2,
