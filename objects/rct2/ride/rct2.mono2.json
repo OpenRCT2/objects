@@ -8,7 +8,7 @@
         "type": "monorail",
         "category": "transport",
         "hasShelter": true,
-        "RIDE_ENTRY_FLAG_18": true,
+        "disableCollisionCrashes": true,
         "maxCarsPerTrain": 6,
         "ratingMultipler": {
             "excitement": 3
