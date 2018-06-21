@@ -7,7 +7,7 @@
     "properties": {
         "type": "car_ride",
         "category": "gentle",
-        "RIDE_ENTRY_FLAG_18": true,
+        "RIDE_ENTRY_FLAG_DISABLE_COLLISION_CRASHES": true,
         "minCarsPerTrain": 3,
         "maxCarsPerTrain": 3,
         "numEmptyCars": 2,
