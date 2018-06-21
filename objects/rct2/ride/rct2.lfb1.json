@@ -8,7 +8,7 @@
         "type": "log_flume",
         "category": "water",
         "playSplashSound": true,
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "carColours": [
             [
                 ["dark_brown", "black", "black"]
