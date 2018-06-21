@@ -10,7 +10,7 @@
         "tabScale": 0.5,
         "hasShelter": true,
         "playDepartSound": true,
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "minCarsPerTrain": 3,
         "maxCarsPerTrain": 8,
         "numEmptyCars": 2,

@@ -9,7 +9,7 @@
         "category": "transport",
         "tabScale": 0.5,
         "hasShelter": true,
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "minCarsPerTrain": 2,
         "maxCarsPerTrain": 8,
         "headCars": 1,

@@ -10,7 +10,7 @@
             "water",
             "rollercoaster"
         ],
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "carColours": [
             [
                 ["yellow", "bordeaux_red", "black"]

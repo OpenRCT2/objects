@@ -480,9 +480,9 @@ module PropertyExtractor =
               if ride.Header.Flags.HasFlag(AttractionFlags.AlternativeRotationMode1) then 1
               elif ride.Header.Flags.HasFlag(AttractionFlags.AlternativeRotationMode2) then 2
               else 0
-          RIDE_ENTRY_FLAG_7 = ride.Header.Flags.HasFlag(AttractionFlags.UnknownBoatHireFlag)
-          RIDE_ENTRY_FLAG_16 = ride.Header.Flags.HasFlag(AttractionFlags.DisableDoors)
-          RIDE_ENTRY_FLAG_18 = ride.Header.Flags.HasFlag(AttractionFlags.UnknownVehicleTrackMotionFlag)
+          disallowWandering = ride.Header.Flags.HasFlag(AttractionFlags.UnknownBoatHireFlag)
+          noDoorsOverTrack = ride.Header.Flags.HasFlag(AttractionFlags.DisableDoors)
+          noCollisionCrashes = ride.Header.Flags.HasFlag(AttractionFlags.UnknownVehicleTrackMotionFlag)
           minCarsPerTrain = int ride.Header.MinCarsPerTrain
           maxCarsPerTrain = int ride.Header.MaxCarsPerTrain
           carsPerFlatRide = int ride.Header.CarsPerFlatRide

@@ -10,7 +10,7 @@
             "water",
             "transport"
         ],
-        "RIDE_ENTRY_FLAG_18": true,
+        "noCollisionCrashes": true,
         "carColours": [
             [
                 ["light_brown", "white", "white"]

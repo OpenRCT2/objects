@@ -231,11 +231,11 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           rotationMode: int
           [<DataMember(EmitDefaultValue = false)>]
-          RIDE_ENTRY_FLAG_7: bool
+          disallowWandering: bool
           [<DataMember(EmitDefaultValue = false)>]
-          RIDE_ENTRY_FLAG_16: bool
+          noDoorsOverTrack: bool
           [<DataMember(EmitDefaultValue = false)>]
-          RIDE_ENTRY_FLAG_18: bool
+          noCollisionCrashes: bool
           [<DataMember(EmitDefaultValue = false)>]
           [<DefaultValue(1)>]
           minCarsPerTrain: int
