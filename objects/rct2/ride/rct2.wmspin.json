@@ -7,7 +7,7 @@
     "properties": {
         "type": "steel_wild_mouse",
         "category": "rollercoaster",
-        "RIDE_ENTRY_FLAG_16": true,
+        "disableDoorConstruction": true,
         "ratingMultipler": {
             "excitement": 7,
             "intensity": 5,
