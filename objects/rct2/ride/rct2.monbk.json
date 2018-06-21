@@ -10,7 +10,7 @@
             "gentle",
             "transport"
         ],
-        "RIDE_ENTRY_FLAG_18": true,
+        "disableCollisionCrashes": true,
         "carColours": [
             [
                 ["bordeaux_red", "black", "black"]

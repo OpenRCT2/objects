@@ -11,7 +11,7 @@
             "thrill"
         ],
         "playSplashSound": true,
-        "RIDE_ENTRY_FLAG_18": true,
+        "disableCollisionCrashes": true,
         "carColours": [
             [
                 ["bright_red", "bright_red", "black"]

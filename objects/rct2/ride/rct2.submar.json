@@ -10,7 +10,7 @@
             "gentle",
             "water"
         ],
-        "RIDE_ENTRY_FLAG_18": true,
+        "disableCollisionCrashes": true,
         "carColours": [
             [
                 ["yellow", "olive_green", "black"]
