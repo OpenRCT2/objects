@@ -8,7 +8,7 @@
         "type": "mini_helicopters",
         "category": "gentle",
         "hasShelter": true,
-        "RIDE_ENTRY_FLAG_18": true,
+        "disableCollisionCrashes": true,
         "minCarsPerTrain": 3,
         "maxCarsPerTrain": 3,
         "numEmptyCars": 2,
