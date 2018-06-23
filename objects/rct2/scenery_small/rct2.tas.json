@@ -9,6 +9,7 @@
         "removalPrice": 5,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 66,
+        "isTree": true,
         "shape": "4/4"
     },
     "images": ["$RCT2:OBJDATA/TAS.DAT[0..3]"],

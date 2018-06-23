@@ -10,6 +10,7 @@
         "cursor": "CURSOR_TREE_DOWN",
         "height": 116,
         "sceneryGroup": "SCGTREES",
+        "isTree": true,
         "shape": "4/4"
     },
     "images": ["$RCT2:OBJDATA/TRFS.DAT[0..3]"],

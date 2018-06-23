@@ -10,6 +10,7 @@
         "cursor": "CURSOR_TREE_DOWN",
         "isPhotogenic": true,
         "sceneryGroup": "SCGTREES",
+        "isTree": true,
         "tiles": [
             {
                 "x": 0,
