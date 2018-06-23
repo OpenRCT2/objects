@@ -149,7 +149,7 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           VEHICLE_ENTRY_FLAG_SPINNING_ADDITIONAL_FRAMES: bool
           [<DataMember(EmitDefaultValue = false)>]
-          VEHICLE_ENTRY_FLAG_15: bool
+          VEHICLE_ENTRY_FLAG_LIFT: bool
           [<DataMember(EmitDefaultValue = false)>]
           VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1: bool
           [<DataMember(EmitDefaultValue = false)>]
