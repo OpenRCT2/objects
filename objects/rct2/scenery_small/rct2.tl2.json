@@ -10,6 +10,7 @@
         "cursor": "CURSOR_TREE_DOWN",
         "height": 108,
         "sceneryGroup": "SCGTREES",
+        "isTree": true,
         "shape": "4/4",
         "requiresFlatSurface": true
     },

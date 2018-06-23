@@ -9,6 +9,7 @@
         "removalPrice": 116,
         "cursor": "CURSOR_TREE_DOWN",
         "sceneryGroup": "SCGTREES",
+        "isTree": true,
         "tiles": [
             {
                 "x": 0,

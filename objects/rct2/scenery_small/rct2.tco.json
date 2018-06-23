@@ -9,6 +9,7 @@
         "removalPrice": 18,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 112,
+        "isTree": true,
         "shape": "4/4"
     },
     "images": ["$RCT2:OBJDATA/TCO.DAT[0..3]"],
