@@ -33,7 +33,7 @@
                 "restraintAnimation": true,
                 "VEHICLE_SPRITE_FLAG_15": true
             },
-            "VEHICLE_ENTRY_FLAG_15": true,
+            "VEHICLE_ENTRY_FLAG_LIFT": true,
             "VEHICLE_ENTRY_FLAG_POWERED": true,
             "numSegments": 0,
             "loadingWaypoints": [
