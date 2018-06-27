@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188C82|STH     |0A20D974",
-    "sourceGame": "rct2",
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "scenery_large",
     "properties": {
         "price": 165,
@@ -48,7 +48,7 @@
             "de-DE": "Rathaus",
             "es-ES": "Ayuntamiento",
             "it-IT": "Municipio",
-            "nl-NL": "Stadshuis",
+            "nl-NL": "Stadhuis",
             "sv-SE": "Rådhus",
             "ko-KR": "시청",
             "zh-CN": "市政府",

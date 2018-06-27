@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188F81|TSM     |43DD2192",
-    "sourceGame": "rct2",
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "scenery_small",
     "properties": {
         "price": 12,
@@ -22,7 +22,7 @@
             "de-DE": "Schneemann",
             "es-ES": "Muñeco de nieve",
             "it-IT": "Pupazzo di neve",
-            "nl-NL": "Sneeuwman",
+            "nl-NL": "Sneeuwpop",
             "sv-SE": "Snöman",
             "ko-KR": "눈사람",
             "zh-CN": "雪人",
