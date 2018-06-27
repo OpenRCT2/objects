@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.1",
     "originalId": "0A188B80|TRUCK1  |58B728C5",
-    "sourceGame": "rct2",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "car_ride",
