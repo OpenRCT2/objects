@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188C80|WMMINE  |F15E8338",
-    "sourceGame": "rct2",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "ride",
     "properties": {
         "type": "wooden_wild_mouse",

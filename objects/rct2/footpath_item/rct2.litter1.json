@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188786|LITTER1 |EB15BAD4",
-    "sourceGame": "rct2",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "footpath_item",
     "properties": {
         "isBin": true,
