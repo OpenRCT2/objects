@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0A188B80|LEMST   |B20D8919",
-    "sourceGame": "rct2",
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "ride",
     "properties": {
         "type": "drink_stall",
