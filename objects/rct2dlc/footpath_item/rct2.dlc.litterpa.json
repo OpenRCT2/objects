@@ -1,0 +1,32 @@
+{
+    "id": "rct2.dlc.litterpa",
+    "authors": [],
+    "version": "1.0",
+    "originalId": "09F8EC06|LITTERPA|1C515E44",
+    "sourceGame": "rct2dlc",
+    "objectType": "footpath_item",
+    "properties": {
+        "isBin": true,
+        "isBreakable": true,
+        "isAllowedOnSlope": true,
+        "renderAs": "bin",
+        "cursor": "CURSOR_BIN_DOWN",
+        "price": 40,
+        "sceneryGroup": "SCGPATHX"
+    },
+    "images": ["$RCT2:OBJDATA/LITTERPA.DAT[0..12]"],
+    "strings": {
+        "name": {
+            "en-GB": "Panda Litter Bin",
+            "fr-FR": "Poubelle panda",
+            "de-DE": "Panda-Abfalleimer",
+            "es-ES": "Papelera panda",
+            "it-IT": "Cestino dei rifiuti a panda",
+            "nl-NL": "Panda Vuilnisbak",
+            "sv-SE": "Pandaskräpkorg",
+            "ko-KR": "팬더 휴지통",
+            "zh-TW": "熊貓垃圾桶",
+            "pt-BR": "Lixeira de Panda"
+        }
+    }
+}

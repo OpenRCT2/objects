@@ -1,0 +1,32 @@
+{
+    "id": "rct2.dlc.pandagr",
+    "authors": [],
+    "version": "1.0",
+    "originalId": "09F8EC01|PANDAGR |F6EE677C",
+    "sourceGame": "rct2dlc",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 19,
+        "removalPrice": -14,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 64,
+        "shape": "1/4",
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": [ "$RCT2:OBJDATA/PANDAGR.DAT[0..3]" ],
+    "strings": {
+        "name": {
+            "en-GB": "Bamboo Shoots",
+            "fr-FR": "Pousses de bambou",
+            "de-DE": "Bambussprossen",
+            "es-ES": "Brote de bambú",
+            "it-IT": "Germogli di bambù",
+            "nl-NL": "Bamboe Loten",
+            "sv-SE": "Bambuskott",
+            "ko-KR": "범버카",
+            "zh-TW": "竹子林",
+            "pt-BR": "Ramos de Bambu"
+        }
+    }
+}

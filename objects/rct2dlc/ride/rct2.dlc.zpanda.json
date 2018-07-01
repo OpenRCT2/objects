@@ -1,0 +1,107 @@
+{
+    "id": "rct2.dlc.zpanda",
+    "authors": [],
+    "version": "1.0",
+    "originalId": "09F8EB00|ZPANDA  |3AA2065C",
+    "sourceGame": "rct2dlc",
+    "objectType": "ride",
+    "properties": {
+        "type": [
+            "none",
+            "junior_rc"
+        ],
+        "category": "rollercoaster",
+        "noInversions": true,
+        "minCarsPerTrain": 4,
+        "maxCarsPerTrain": 12,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "ratingMultipler": {
+            "excitement": 15,
+            "intensity": 5
+        },
+        "carColours": [
+            [
+                [ "black", "white", "black" ]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 148172,
+                "mass": 240,
+                "numSeats": 1,
+                "numSeatRows": 1,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "loadingPositions": [ 0 ]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED": true,
+                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true
+            }
+        ]
+    },
+    "images": [ "$RCT2:OBJDATA/ZPANDA.DAT[0..762]" ],
+    "strings": {
+        "name": {
+            "en-GB": "Panda Trains",
+            "fr-FR": "Train panda",
+            "de-DE": "Panda-Züge",
+            "es-ES": "Trenes Panda",
+            "it-IT": "Treni panda",
+            "nl-NL": "Panda-Treintjes",
+            "sv-SE": "Pandatåg",
+            "ko-KR": "팬더 열차",
+            "zh-TW": "熊貓列車",
+            "pt-BR": "Trens Panda"
+        },
+        "description": {
+            "en-GB": "Roller coaster trains with cuddly panda cars",
+            "fr-FR": "Train de montagnes russes dont les voitures ont la forme de gentils pandas",
+            "de-DE": "Achterbahnzüge mit plüschtierartigen Pandawagen",
+            "es-ES": "Montaña rusa con vagones de forma de mimosos osos panda",
+            "it-IT": "Treni da ottovolante con carrozze a forma di teneri panda",
+            "nl-NL": "Achtbaan-treintjes met leuke panda-wagentjes",
+            "sv-SE": "Berg- och dalbanetåg med gosiga pandavagnar",
+            "ko-KR": "귀여운 팬더 차량이 달린 롤러코스터 열차",
+            "zh-TW": "雲霄飛車列車是逗人喜愛的熊貓車輛",
+            "pt-BR": "Trens de montanha-russa com vagões em forma de panda"
+        },
+        "capacity": {
+            "en-GB": "1 passenger per car",
+            "fr-FR": "1 passager par voiture",
+            "de-DE": "1 Fahrgast pro Wagen",
+            "es-ES": "1 pasajero por vagón",
+            "it-IT": "1 passeggero a carrozza",
+            "nl-NL": "1 passagier per wagentje",
+            "sv-SE": "1 passagerare per vagn",
+            "ko-KR": "차량 당 승객 1명",
+            "zh-TW": "1 位乘客/每個車廂",
+            "pt-BR": "1 passageiro por vagão"
+        }
+    }
+}

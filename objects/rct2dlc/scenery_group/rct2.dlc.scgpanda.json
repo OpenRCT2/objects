@@ -1,0 +1,31 @@
+{
+    "id": "rct2.dlc.scgpanda",
+    "authors": [],
+    "version": "1.0",
+    "originalId": "09F8ED07|SCGPANDA|34EFBA3D",
+    "sourceGame": "rct2dlc",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "BIGPANDA",
+            "PANDAGR",
+            "LITTERPA"
+        ],
+        "priority": 40
+    },
+    "images": [ "$RCT2:OBJDATA/SCGPANDA.DAT[0..1]" ],
+    "strings": {
+        "name": {
+            "en-GB": "Panda Themeing",
+            "fr-FR": "Thème Panda",
+            "de-DE": "Pandathema",
+            "es-ES": "Temática Panda",
+            "it-IT": "Tema panda",
+            "nl-NL": "Panda Thema",
+            "sv-SE": "Pandatema",
+            "ko-KR": "팬더 테마 공원",
+            "zh-TW": "熊貓主題區",
+            "pt-BR": "Temática Panda"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "rct2.dlc.bigpanda",
+    "authors": [],
+    "version": "1.0",
+    "originalId": "09F8EC01|BIGPANDA|F06CB437",
+    "sourceGame": "rct2dlc",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 24,
+        "removalPrice": -18,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "shape": "4/4",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [ "$RCT2:OBJDATA/BIGPANDA.DAT[0..3]" ],
+    "strings": {
+        "name": {
+            "en-GB": "Giant Panda",
+            "fr-FR": "Panda géant",
+            "de-DE": "Riesenpanda",
+            "es-ES": "Panda gigante",
+            "it-IT": "Panda gigante",
+            "nl-NL": "Gigantische Panda",
+            "sv-SE": "Jättepanda",
+            "ko-KR": "자이언트 팬더",
+            "zh-TW": "巨大的熊貓",
+            "pt-BR": "Panda Gigante"
+        }
+    }
+}
