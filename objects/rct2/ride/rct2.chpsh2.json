@@ -19,7 +19,8 @@
     "images": ["$RCT2:OBJDATA/CHPSH2.DAT[0..6]"],
     "strings": {
         "name": {
-            "en-GB": "Fries Stall",
+            "en-GB": "Chips Stall",
+            "en-US": "Fries Stall",
             "fr-FR": "Stand de frites",
             "de-DE": "Pommes Frites-Stand",
             "es-ES": "Puesto de patatas fritas",
@@ -36,7 +37,8 @@
             "ru-RU": "Картошка"
         },
         "description": {
-            "en-GB": "A stall selling fries",
+            "en-GB": "A stall selling chips",
+            "en-US": "A stall selling fries",
             "fr-FR": "Boutique vendant des frites",
             "de-DE": "Ein Stand, an dem Pommes Frites verkauft werden",
             "es-ES": "Puesto que vende patatas fritas",
