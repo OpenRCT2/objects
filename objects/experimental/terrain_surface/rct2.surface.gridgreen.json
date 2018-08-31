@@ -1,8 +1,9 @@
 {
-    "id": "rct2.surface.ice",
+    "id": "rct2.surface.gridgreen",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008B|#RCT2SIG|00000000",
+    "sourceGame": "rct1",
     "objectType": "terrain_surface",
     "properties": {
         "colour": "bright_green",
@@ -14,7 +15,7 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Ice"
+            "en-GB": "Grid (Green)"
         }
     }
 }
