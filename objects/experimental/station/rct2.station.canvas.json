@@ -6,8 +6,15 @@
     "sourceGame": "rct2",
     "objectType": "station",
     "properties": {
+        "height": 43,
+        "scrollingMode": 2,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
     },
-    "images": ["$G1[22680..22695]"],
+    "images": [
+        "$G1[22680..22695]",
+        "$G1[22445..22456]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Canvas Tent"

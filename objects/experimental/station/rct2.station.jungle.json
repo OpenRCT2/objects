@@ -6,8 +6,12 @@
     "sourceGame": "rct2",
     "objectType": "station",
     "properties": {
+        "height": 33,
+        "scrollingMode": 19
     },
-    "images": ["$G1[22776..22791]"],
+    "images": [
+        "$G1[22776..22791]",
+        "$G1[22481..22492]"],
     "strings": {
         "name": {
             "en-GB": "Jungle"

@@ -6,8 +6,13 @@
     "sourceGame": "rct2",
     "objectType": "station",
     "properties": {
+        "height": 31,
+        "scrollingMode": 21
     },
-    "images": ["$G1[22760..22775]"],
+    "images": [
+        "$G1[22760..22775]",
+        "$G1[22433..22444]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Wooden"

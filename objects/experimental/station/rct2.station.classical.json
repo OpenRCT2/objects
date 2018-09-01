@@ -2,15 +2,19 @@
     "id": "rct2.station.classical",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0000008D|#RCT2STI|00000000",
+    "originalId": "0000008D|#RCT2STC|00000000",
     "sourceGame": "rct2",
     "objectType": "station",
     "properties": {
+        "height": 34,
+        "scrollingMode": 19
     },
-    "images": ["$G1[22696..22711]"],
+    "images": [
+        "$G1[22696..22711]",
+        "$G1[22505..22516]"],
     "strings": {
         "name": {
-            "en-GB": "Classical"
+            "en-GB": "Classical / Roman"
         }
     }
 }

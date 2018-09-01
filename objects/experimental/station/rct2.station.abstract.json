@@ -6,8 +6,15 @@
     "sourceGame": "rct2",
     "objectType": "station",
     "properties": {
+        "height": 40,
+        "scrollingMode": 22,
+        "hasPrimaryColour": true,
+        "isTransparent": true
     },
-    "images": ["$G1[22792..22823]"],
+    "images": [
+        "$G1[22792..22823]",
+        "$G1[22517..22540]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Abstract"

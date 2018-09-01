@@ -1,0 +1,15 @@
+{
+    "id": "openrct2.station.none",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008D|#ORCT2SN|00000000",
+    "sourceGame": "official",
+    "objectType": "station",
+    "properties": {},
+    "images": [],
+    "strings": {
+        "name": {
+            "en-GB": "None"
+        }
+    }
+}

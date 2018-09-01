@@ -2,10 +2,12 @@
     "id": "rct2.station.plain",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0000008D|#RCT2STC|00000000",
+    "originalId": "0000008D|#RCT2STN|00000000",
     "sourceGame": "rct2",
     "objectType": "station",
     "properties": {
+        "height": 32,
+        "scrollingMode": 2
     },
     "images": ["$G1[22664..22679]"],
     "strings": {

@@ -6,8 +6,12 @@
     "sourceGame": "rct2",
     "objectType": "station",
     "properties": {
+        "height": 33,
+        "scrollingMode": 2
     },
-    "images": ["$G1[22856..22871]"],
+    "images": [
+        "$G1[22856..22871]",
+        "$G1[22565..22576]"],
     "strings": {
         "name": {
             "en-GB": "Space"

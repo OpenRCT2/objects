@@ -6,8 +6,12 @@
     "sourceGame": "rct2",
     "objectType": "station",
     "properties": {
+        "height": 43,
+        "scrollingMode": 19
     },
-    "images": ["$G1[22712..22727]"],
+    "images": [
+        "$G1[22712..22727]",
+        "$G1[22469..22480]"],
     "strings": {
         "name": {
             "en-GB": "Castle (Brown)"

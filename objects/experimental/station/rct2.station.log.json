@@ -6,8 +6,12 @@
     "sourceGame": "rct2",
     "objectType": "station",
     "properties": {
+        "height": 32,
+        "scrollingMode": 20
     },
-    "images": ["$G1[22744..22759]"],
+    "images": [
+        "$G1[22744..22759]",
+        "$G1[22493..22504]"],
     "strings": {
         "name": {
             "en-GB": "Log Cabin"

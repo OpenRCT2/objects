@@ -6,8 +6,12 @@
     "sourceGame": "rct2",
     "objectType": "station",
     "properties": {
+        "height": 33,
+        "scrollingMode": 19
     },
-    "images": ["$G1[22840..22855]"],
+    "images": [
+        "$G1[22840..22855]",
+        "$G1[22553..22564]"],
     "strings": {
         "name": {
             "en-GB": "Pagoda"

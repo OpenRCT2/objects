@@ -6,8 +6,12 @@
     "sourceGame": "rct2",
     "objectType": "station",
     "properties": {
+        "height": 35,
+        "scrollingMode": 23
     },
-    "images": ["$G1[22824..22839]"],
+    "images": [
+        "$G1[22824..22839]",
+        "$G1[22541..22552]"],
     "strings": {
         "name": {
             "en-GB": "Snow / Ice"
