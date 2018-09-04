@@ -76,7 +76,8 @@
             "sv-SE": "Pandatåg",
             "ko-KR": "팬더 열차",
             "zh-TW": "熊貓列車",
-            "pt-BR": "Trens Panda"
+            "pt-BR": "Trens Panda",
+            "ar-EG": "قطارات الباندا"
         },
         "description": {
             "en-GB": "Roller coaster trains with cuddly panda cars",
@@ -88,7 +89,8 @@
             "sv-SE": "Berg- och dalbanetåg med gosiga pandavagnar",
             "ko-KR": "귀여운 팬더 차량이 달린 롤러코스터 열차",
             "zh-TW": "雲霄飛車列車是逗人喜愛的熊貓車輛",
-            "pt-BR": "Trens de montanha-russa com vagões em forma de panda"
+            "pt-BR": "Trens de montanha-russa com vagões em forma de panda",
+            "ar-EG": "قطار أفعوانية مع عربات بشكل الباندا المحبب"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -100,7 +102,8 @@
             "sv-SE": "1 passagerare per vagn",
             "ko-KR": "차량 당 승객 1명",
             "zh-TW": "1 位乘客/每個車廂",
-            "pt-BR": "1 passageiro por vagão"
+            "pt-BR": "1 passageiro por vagão",
+            "ar-EG": "راكب واحد لكل عربة"
         }
     }
 }
