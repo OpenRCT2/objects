@@ -1,9 +1,9 @@
 {
-    "id": "rct1.surface.rust",
+    "id": "rct1.ll.surface.rust",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008B|#RCT1SRU|00000000",
-    "sourceGame": "rct1",
+    "sourceGame": "rct1ll",
     "objectType": "terrain_surface",
     "properties": {
         "price": 100
@@ -14,7 +14,8 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Rust"
+            "en-GB": "Rust",
+            "nl-NL": "Roest"
         }
     }
 }

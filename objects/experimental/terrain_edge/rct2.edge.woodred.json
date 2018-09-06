@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008C|#RCT2EWR|00000000",
-    "sourceGame": "rct2",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "terrain_edge",
     "properties": {
     },
@@ -13,7 +13,8 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Wood (red)"
+            "en-GB": "Wood (red)",
+            "nl-NL": "Rode houten palen"
         }
     }
 }

@@ -1,20 +1,21 @@
 {
-    "id": "rct1.surface.wood",
+    "id": "rct1.aa.surface.roofred",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0000008B|#RCT1SWO|00000000",
-    "sourceGame": "rct1",
+    "originalId": "0000008B|#RCT1SRR|00000000",
+    "sourceGame": "rct1aa",
     "objectType": "terrain_surface",
     "properties": {
         "price": 100
     },
     "images": [
         "",
-        "$CSG[42261..42317]"
+        "$CSG[42090..42146]"
     ],
     "strings": {
         "name": {
-            "en-GB": "Wood"
+            "en-GB": "Roof (Red)",
+            "nl-NL": "Rode dakpannen"
         }
     }
 }

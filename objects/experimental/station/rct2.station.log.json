@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008D|#RCT2STL|00000000",
-    "sourceGame": "rct2",
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "station",
     "properties": {
         "height": 32,
@@ -14,7 +14,8 @@
         "$G1[22493..22504]"],
     "strings": {
         "name": {
-            "en-GB": "Log Cabin"
+            "en-GB": "Log Cabin",
+            "nl-NL": "Blokhut"
         }
     }
 }

@@ -1,19 +1,20 @@
 {
-    "id": "rct1.edge.stonebrown",
+    "id": "rct1.aa.edge.grey",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0000008C|#RCT1ESN|00000000",
-    "sourceGame": "rct1",
+    "originalId": "0000008C|#RCT1EGY|00000000",
+    "sourceGame": "rct1aa",
     "objectType": "terrain_edge",
     "properties": {
     },
     "images": [
         { "path": "icon.png", "format": "raw" },
-        "$CSG[41446..41613]"
+        "$CSG[41134..41301]"
     ],
     "strings": {
         "name": {
-            "en-GB": "Stone (Brown)"
+            "en-GB": "Stucco (Grey)",
+            "nl-NL": "Grijs stucwerk"
         }
     }
 }

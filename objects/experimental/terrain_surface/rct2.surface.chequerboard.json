@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008B|#RCT2SCH|00000000",
-    "sourceGame": "rct1",
+    "sourceGame": ["rct2", "rct1aa"],
     "objectType": "terrain_surface",
     "properties": {
         "price": 100,
@@ -24,7 +24,8 @@
     "strings": {
         "name": {
             "en-GB": "Chequerboard",
-            "en-US": "Checkerboard"
+            "en-US": "Checkerboard",
+            "nl-NL": "Schaakbord"
         }
     }
 }

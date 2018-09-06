@@ -1,19 +1,20 @@
 {
-    "id": "rct1.edge.skyscraperb",
+    "id": "rct1.aa.edge.red",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0000008C|#RCT1ESB|00000000",
-    "sourceGame": "rct1",
+    "originalId": "0000008C|#RCT1ERE|00000000",
+    "sourceGame": "rct1aa",
     "objectType": "terrain_edge",
     "properties": {
     },
     "images": [
         { "path": "icon.png", "format": "raw" },
-        "$CSG[41758..41925]"
+        "$CSG[40926..41093]"
     ],
     "strings": {
         "name": {
-            "en-GB": "Skyscraper (B)"
+            "en-GB": "Stucco (Red)",
+            "nl-NL": "Rood stucwerk"
         }
     }
 }

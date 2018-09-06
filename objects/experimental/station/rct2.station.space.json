@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008D|#RCT2STE|00000000",
-    "sourceGame": "rct2",
+    "sourceGame": ["rct2", "rct1ll"],
     "objectType": "station",
     "properties": {
         "height": 33,
@@ -14,7 +14,8 @@
         "$G1[22565..22576]"],
     "strings": {
         "name": {
-            "en-GB": "Space"
+            "en-GB": "Space",
+            "nl-NL": "Ruimte"
         }
     }
 }

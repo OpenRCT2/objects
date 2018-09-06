@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008B|#RCT2SDI|00000000",
-    "sourceGame": "rct1",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "terrain_surface",
     "properties": {
         "price": 80,
@@ -17,7 +17,8 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Dirt"
+            "en-GB": "Dirt",
+            "nl-NL": "Modder"
         }
     }
 }

@@ -1,19 +1,20 @@
 {
-    "id": "rct1.edge.skyscrapera",
+    "id": "rct1.ll.edge.stonebrown",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0000008C|#RCT1ESA|00000000",
-    "sourceGame": "rct1",
+    "originalId": "0000008C|#RCT1ESN|00000000",
+    "sourceGame": "rct1ll",
     "objectType": "terrain_edge",
     "properties": {
     },
     "images": [
         { "path": "icon.png", "format": "raw" },
-        "$CSG[41654..41821]"
+        "$CSG[41446..41613]"
     ],
     "strings": {
         "name": {
-            "en-GB": "Skyscraper (A)"
+            "en-GB": "Sandstone (Brown)",
+            "nl-NL": "Bruine zandsteen"
         }
     }
 }

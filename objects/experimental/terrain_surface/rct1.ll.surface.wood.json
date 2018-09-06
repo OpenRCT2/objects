@@ -1,20 +1,21 @@
 {
-    "id": "rct1.surface.roofgrey",
+    "id": "rct1.ll.surface.wood",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0000008B|#RCT1SRG|00000000",
-    "sourceGame": "rct1",
+    "originalId": "0000008B|#RCT1SWO|00000000",
+    "sourceGame": "rct1ll",
     "objectType": "terrain_surface",
     "properties": {
         "price": 100
     },
     "images": [
         "",
-        "$CSG[42147..42203]"
+        "$CSG[42261..42317]"
     ],
     "strings": {
         "name": {
-            "en-GB": "Roof (Grey)"
+            "en-GB": "Wood",
+            "nl-NL": "Hout"
         }
     }
 }

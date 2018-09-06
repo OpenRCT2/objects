@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008B|#RCT2SIP|00000000",
-    "sourceGame": "rct1",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "terrain_surface",
     "properties": {
         "colour": "bright_purple",
@@ -15,7 +15,8 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Grid (Purple)"
+            "en-GB": "Grid (Purple)",
+            "nl-NL": "Paars raster"
         }
     }
 }

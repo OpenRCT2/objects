@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008B|#RCT2SSR|00000000",
-    "sourceGame": "rct1",
+    "sourceGame": "rct2",
     "objectType": "terrain_surface",
     "properties": {
         "price": 110,
@@ -17,7 +17,8 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Sand (Red)"
+            "en-GB": "Sand (Red)",
+            "nl-NL": "Rood zand"
         }
     }
 }
