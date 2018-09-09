@@ -9,7 +9,7 @@
         "price": 100
     },
     "images": [
-        { "path": "icon.png", "format": "raw" },
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
         "$CSG[42090..42146]"
     ],
     "strings": {

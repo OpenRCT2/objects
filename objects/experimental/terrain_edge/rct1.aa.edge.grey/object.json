@@ -8,7 +8,7 @@
     "properties": {
     },
     "images": [
-        { "path": "icon.png", "format": "raw" },
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
         "$CSG[41134..41301]"
     ],
     "strings": {
