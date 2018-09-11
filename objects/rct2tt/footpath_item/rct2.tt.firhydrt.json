@@ -12,7 +12,8 @@
         "isAllowedOnSlope": true,
         "renderAs": "lamp",
         "cursor": "CURSOR_LAMPPOST_DOWN",
-        "price": 40
+        "price": 40,
+        "sceneryGroup": "SCGPATHX"
     },
     "images": ["$RCT2:OBJDATA/FIRHYDRT.DAT[0..8]"],
     "strings": {
