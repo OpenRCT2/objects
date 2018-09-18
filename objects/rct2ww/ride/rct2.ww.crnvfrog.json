@@ -70,7 +70,8 @@
             "cs-CZ": "Žabí autodráha",
             "ko-KR": "카니발 플로트 라이드 - 개구리 차량",
             "pl-PL": "Parada na platformach - żaby",
-            "ru-RU": "Карнавал - Лягушки"
+            "ru-RU": "Карнавал - Лягушки",
+            "pt-BR": "Carros Sapo do Carnaval"
         },
         "description": {
             "en-GB": "Roller coaster cars in the shape of frog carnival floats",
@@ -83,7 +84,8 @@
             "cs-CZ": "Vozy ve tvaru žab jezdí po postavené dráze",
             "ko-KR": "개구리 퍼레이드 차량 모양의 롤러코스터 차량",
             "pl-PL": "Wagoniki w kształcie żabich platform",
-            "ru-RU": "Вагончики в форме лягушек"
+            "ru-RU": "Вагончики в форме лягушек",
+            "pt-BR": "Carros de montanha-russa em forma de sapos"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -96,7 +98,8 @@
             "cs-CZ": "2 místa v každém voze",
             "ko-KR": "차량당 2명의 승객",
             "pl-PL": "2 pasażerów na wagonik",
-            "ru-RU": "2 пассажира"
+            "ru-RU": "2 пассажира",
+            "pt-BR": "2 passageiros por carro"
         }
     }
 }

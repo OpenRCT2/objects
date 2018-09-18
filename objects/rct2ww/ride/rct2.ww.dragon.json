@@ -117,7 +117,8 @@
             "cs-CZ": "Dračí horská dráha",
             "ko-KR": "드래곤 코스터",
             "pl-PL": "Smocza kolejka",
-            "ru-RU": "Дракон-Коастер"
+            "ru-RU": "Дракон-Коастер",
+            "pt-BR": "Montanha do Dragão"
         },
         "description": {
             "en-GB": "Roller coaster with dragon-themed cars",
@@ -131,7 +132,8 @@
             "cs-CZ": "Horská dráha s vozy ve tvaru draků",
             "ko-KR": "드래곤 테마의 롤러코스터 차량",
             "pl-PL": "Kolejka górska z wagonikami opartymi na motywie smoka",
-            "ru-RU": "Горки с вагончиками-драконами"
+            "ru-RU": "Горки с вагончиками-драконами",
+            "pt-BR": "Montanha-russa com carros com tema de dragão"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -145,7 +147,8 @@
             "cs-CZ": "4 místa v každém voze",
             "ko-KR": "차량당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
-            "ru-RU": "4 чел. в вагончике"
+            "ru-RU": "4 чел. в вагончике",
+            "pt-BR": "2 passageiros por carro"
         }
     }
 }
