@@ -59,7 +59,8 @@
             "cs-CZ": "Lenochodí jízda",
             "ko-KR": "나무늘보 라이드",
             "pl-PL": "Leniwa przejażdżka",
-            "ru-RU": "Ленивец"
+            "ru-RU": "Ленивец",
+            "pt-BR": "Preguiça"
         },
         "description": {
             "en-GB": "Suspended roller coaster train consisting of Sloth-shaped cars able to swing freely as the train goes around corners",
@@ -73,7 +74,8 @@
             "cs-CZ": "Zavěšená horská dráha s vozy připomínající lenochody, které se houpají v zatáčkách",
             "ko-KR": "차량이 코너를 돌면 자유롭게 흔들거리게 만들어진 나무늘보 모양의 서스펜디드 롤러코스터 차량",
             "pl-PL": "Kolejka górska z podwieszanymi wagonikami w kształcie leniwców, które bujają się swobodnie na zakrętach",
-            "ru-RU": "Подвесные горки с вагончиками, свободно качаются на виражах."
+            "ru-RU": "Подвесные горки с вагончиками, свободно качаются на виражах.",
+            "pt-BR": "Trem de montanha-russa suspenso composto de carros em forma de preguiça capazes de balançar livremente enquanto o trem passa pelas curvas"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -87,7 +89,8 @@
             "cs-CZ": "4 místa v každém voze",
             "ko-KR": "차량당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
-            "ru-RU": "4 пассажира"
+            "ru-RU": "4 пассажира",
+            "pt-BR": "4 passageiros por carro"
         }
     }
 }

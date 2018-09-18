@@ -63,7 +63,8 @@
             "cs-CZ": "Dostavníková horská dráha",
             "ko-KR": "역마차 롤러코스터",
             "pl-PL": "Wędrówka pionierów",
-            "ru-RU": "Дилижанс"
+            "ru-RU": "Дилижанс",
+            "pt-BR": "Diligência"
         },
         "description": {
             "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints",
@@ -77,7 +78,8 @@
             "cs-CZ": "Dřevěná horská dráha s vozy s polstrovanými sedadly a opěrkou v klíně",
             "ko-KR": "좌석이 넓고 무릎에만 안전바가 있는 우든 롤러코스터 차량",
             "pl-PL": "Drewniana kolejka górska z wyściełanymi siedzeniami i zabezpieczeniami obejmującymi pasażerów w pasie",
-            "ru-RU": "Деревянные горки со скамейками"
+            "ru-RU": "Деревянные горки со скамейками",
+            "pt-BR": "Trens de madeira com assentos acolchoados e barras de proteção"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -91,7 +93,8 @@
             "cs-CZ": "4 místa v každém voze",
             "ko-KR": "차량당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
-            "ru-RU": "4 пассажира"
+            "ru-RU": "4 пассажира",
+            "pt-BR": "4 passageiros por vagão"
         }
     }
 }
