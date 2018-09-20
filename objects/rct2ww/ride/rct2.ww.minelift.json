@@ -152,7 +152,7 @@
             "en-US": "A steel lift cabin commonly used in mines",
             "ko-KR": "탄광에서 주로 사용하는 철제 엘리베이터",
             "pl-PL": "Pasażerowie jeżdżą w dół lub w górę windą w wieży, aby przejść z jednego poziomu na drugi",
-            "pt-BR": "Uma cabine de aço de elevator comumente usado em minas",
+            "pt-BR": "Uma cabine de elevador de aço comumente usada em minas",
             "ru-RU": "Люди едут на лифте вверх и вниз по вертикальной шахте"
         },
         "capacity": {
@@ -167,6 +167,7 @@
             "cs-CZ": "16 návštěvníků",
             "ko-KR": "승객 16명",
             "pl-PL": "16 pasażerów",
+            "pt-BR": "16 passageiros",
             "ru-RU": "16 пассажиров"
         }
     }
