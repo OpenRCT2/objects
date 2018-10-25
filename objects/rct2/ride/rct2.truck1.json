@@ -8,6 +8,7 @@
     "properties": {
         "type": "car_ride",
         "category": "gentle",
+        "hasShelter": true,
         "noCollisionCrashes": true,
         "minCarsPerTrain": 3,
         "maxCarsPerTrain": 3,

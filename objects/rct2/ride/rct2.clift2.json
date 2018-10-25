@@ -8,7 +8,6 @@
     "properties": {
         "type": "chairlift",
         "category": "transport",
-        "hasShelter": true,
         "ratingMultipler": {
             "intensity": 3,
             "nausea": 4
