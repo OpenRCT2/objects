@@ -1,0 +1,20 @@
+{
+    "id": "rct1.ll.edge.skyscraperb",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008C|#RCT1ESB|00000000",
+    "sourceGame": "rct1ll",
+    "objectType": "terrain_edge",
+    "properties": {
+    },
+    "images": [
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        "$CSG[41758..41925]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Skyscraper (B)",
+            "nl-NL": "Wolkenkrabber B"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "id": "rct2.surface.sandyellow",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT2SSY|00000000",
+    "sourceGame": "rct2",
+    "objectType": "terrain_surface",
+    "properties": {
+        "price": 100,
+        "smoothWithSelf": true,
+        "smoothWithOther": true
+    },
+    "images": [
+        "$G1[5580]",
+        "$G1[28983..28988]",
+        "$G1[2086..2142]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Sand (Brown)",
+            "nl-NL": "Bruin zand"
+        }
+    }
+}

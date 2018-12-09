@@ -1,0 +1,20 @@
+{
+    "id": "rct2.edge.ice",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008C|#RCT2EIC|00000000",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "terrain_edge",
+    "properties": {
+    },
+    "images": [
+        "$G1[5596]",
+        "$G1[1831..1998]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Ice",
+            "nl-NL": "IJs"
+        }
+    }
+}

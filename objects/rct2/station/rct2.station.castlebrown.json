@@ -1,0 +1,21 @@
+{
+    "id": "rct2.station.castlebrown",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008D|#RCT2ST4|00000000",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "station",
+    "properties": {
+        "height": 43,
+        "scrollingMode": 19
+    },
+    "images": [
+        "$G1[22712..22727]",
+        "$G1[22469..22480]"],
+    "strings": {
+        "name": {
+            "en-GB": "Castle (Brown)",
+            "nl-NL": "Kasteel (bruin)"
+        }
+    }
+}

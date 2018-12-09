@@ -1,0 +1,24 @@
+{
+    "id": "rct2.surface.sandred",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT2SSR|00000000",
+    "sourceGame": "rct2",
+    "objectType": "terrain_surface",
+    "properties": {
+        "price": 110,
+        "smoothWithSelf": true,
+        "smoothWithOther": true
+    },
+    "images": [
+        "$G1[5591]",
+        "$G1[28971..28976]",
+        "$G1[2029..2085]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Sand (Red)",
+            "nl-NL": "Rood zand"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "rct2.surface.martian",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT2SMA|00000000",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "terrain_surface",
+    "properties": {
+        "price": 100,
+        "smoothWithOther": true
+    },
+    "images": [
+        "$G1[5583]",
+        "$G1[28995..29000]",
+        "$G1[2314..2370]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Martian",
+            "nl-NL": "Buitenaards"
+        }
+    }
+}

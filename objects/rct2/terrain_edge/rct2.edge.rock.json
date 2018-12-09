@@ -1,0 +1,20 @@
+{
+    "id": "rct2.edge.rock",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008C|#RCT2ERO|00000000",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "terrain_edge",
+    "properties": {
+    },
+    "images": [
+        "$G1[5593]",
+        "$G1[1579..1746]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Rock",
+            "nl-NL": "Rotswand"
+        }
+    }
+}

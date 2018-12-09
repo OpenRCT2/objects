@@ -1,0 +1,21 @@
+{
+    "id": "rct1.ll.surface.wood",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT1SWO|00000000",
+    "sourceGame": "rct1ll",
+    "objectType": "terrain_surface",
+    "properties": {
+        "price": 100
+    },
+    "images": [
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        "$CSG[42261..42317]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Wood",
+            "nl-NL": "Hout"
+        }
+    }
+}

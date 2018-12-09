@@ -1,0 +1,21 @@
+{
+    "id": "rct1.ll.edge.stonegrey",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008C|#RCT1ESG|00000000",
+    "sourceGame": "rct1ll",
+    "objectType": "terrain_edge",
+    "properties": {
+    },
+    "images": [
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        "$CSG[41550..41717]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone (Grey)",
+            "en-US": "Sandstone (Gray)",
+            "nl-NL": "Grijze zandsteen"
+        }
+    }
+}

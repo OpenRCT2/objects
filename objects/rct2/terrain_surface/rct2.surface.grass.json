@@ -1,0 +1,62 @@
+{
+    "id": "rct2.surface.grass",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT2SGR|00000000",
+    "sourceGame": "rct1",
+    "objectType": "terrain_surface",
+    "properties": {
+        "price": 300,
+        "smoothWithSelf": true,
+        "smoothWithOther": true,
+        "canGrow": true,
+        "special": [
+            { "length": 0, "rotation": 0, "index": 3 },
+            { "length": 0, "rotation": 2, "index": 3 },
+            { "length": 0, "rotation": 0, "grid": true, "index": 4 },
+            { "length": 0, "rotation": 2, "grid": true, "index": 4 },
+            { "length": 0, "rotation": 1, "index": 5 },
+            { "length": 0, "rotation": 3, "index": 5 },
+            { "length": 0, "rotation": 1, "grid": true, "index": 6 },
+            { "length": 0, "rotation": 3, "grid": true, "index": 6 },
+
+            { "length": 4, "variation": 0, "index": 7 },
+            { "length": 4, "variation": 0, "grid": true, "index": 8 },
+            { "length": 4, "variation": 1, "index": 9 },
+            { "length": 4, "variation": 1, "grid": true, "index": 10 },
+            { "length": 4, "variation": 2, "index": 11 },
+            { "length": 4, "variation": 2, "grid": true, "index": 12 },
+            { "length": 4, "variation": 3, "index": 13 },
+            { "length": 4, "variation": 3, "grid": true, "index": 14 },
+            { "length": 5, "variation": 0, "index": 7 },
+            { "length": 5, "variation": 0, "grid": true, "index": 8 },
+            { "length": 5, "variation": 1, "index": 9 },
+            { "length": 5, "variation": 1, "grid": true, "index": 10 },
+            { "length": 5, "variation": 2, "index": 11 },
+            { "length": 5, "variation": 2, "grid": true, "index": 12 },
+            { "length": 5, "variation": 3, "index": 13 },
+            { "length": 5, "variation": 3, "grid": true, "index": 14 },
+
+            { "length": 6, "variation": 0, "index": 15 },
+            { "length": 6, "variation": 0, "grid": true, "index": 16 },
+            { "length": 6, "variation": 1, "index": 17 },
+            { "length": 6, "variation": 1, "grid": true, "index": 18 },
+            { "length": 6, "variation": 2, "index": 19 },
+            { "length": 6, "variation": 2, "grid": true, "index": 20 },
+            { "length": 6, "variation": 3, "index": 21 },
+            { "length": 6, "variation": 3, "grid": true, "index": 22 }
+        ]
+    },
+    "images": [
+        "$G1[5579]",
+        "$G1[28959..28964]",
+        "$G1[1915..1971]",
+        "$G1[2663..3042]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Grass",
+            "nl-NL": "Gras"
+        }
+    }
+}

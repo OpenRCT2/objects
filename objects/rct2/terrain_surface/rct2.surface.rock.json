@@ -1,0 +1,23 @@
+{
+    "id": "rct2.surface.rock",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT2SRO|00000000",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "terrain_surface",
+    "properties": {
+        "price": 120,
+        "smoothWithOther": true
+    },
+    "images": [
+        "$G1[5582]",
+        "$G1[28989..28994]",
+        "$G1[2542..2598]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Rock",
+            "nl-NL": "Rotsen"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "rct2.station.space",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008D|#RCT2STE|00000000",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "station",
+    "properties": {
+        "height": 33,
+        "scrollingMode": 2
+    },
+    "images": [
+        "$G1[22856..22871]",
+        "$G1[22565..22576]"],
+    "strings": {
+        "name": {
+            "en-GB": "Space",
+            "nl-NL": "Ruimte"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "id": "rct2.station.wooden",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008D|#RCT2STW|00000000",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "station",
+    "properties": {
+        "height": 31,
+        "scrollingMode": 21
+    },
+    "images": [
+        "$G1[22760..22775]",
+        "$G1[22433..22444]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Wooden",
+            "nl-NL": "Hout"
+        }
+    }
+}

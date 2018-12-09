@@ -1,0 +1,20 @@
+{
+    "id": "rct1.edge.brick",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008C|#RCT1EBR|00000000",
+    "sourceGame": "rct1",
+    "objectType": "terrain_edge",
+    "properties": {
+    },
+    "images": [
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        "$CSG[40506..40673]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Brick",
+            "nl-NL": "Stenen"
+        }
+    }
+}

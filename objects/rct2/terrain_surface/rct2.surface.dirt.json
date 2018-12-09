@@ -1,0 +1,24 @@
+{
+    "id": "rct2.surface.dirt",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT2SDI|00000000",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "terrain_surface",
+    "properties": {
+        "price": 80,
+        "smoothWithSelf": true,
+        "smoothWithOther": true
+    },
+    "images": [
+        "$G1[5581]",
+        "$G1[28977..28982]",
+        "$G1[2485..2541]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Dirt",
+            "nl-NL": "Modder"
+        }
+    }
+}

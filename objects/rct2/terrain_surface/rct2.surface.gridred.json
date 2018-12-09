@@ -1,0 +1,22 @@
+{
+    "id": "rct2.surface.gridred",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT2SIR|00000000",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "terrain_surface",
+    "properties": {
+        "colour": "bright_red",
+        "price": 110
+    },
+    "images": [
+        "$G1[5587]",
+        "$G1[2257..2313]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Grid (Red)",
+            "nl-NL": "Rood raster"
+        }
+    }
+}

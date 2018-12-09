@@ -1,0 +1,24 @@
+{
+    "id": "rct2.surface.ice",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT2SIC|00000000",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "terrain_surface",
+    "properties": {
+        "price": 130,
+        "smoothWithSelf": true,
+        "smoothWithOther": true
+    },
+    "images": [
+        "$G1[5586]",
+        "$G1[29007..29012]",
+        "$G1[2143..2199]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Ice",
+            "nl-NL": "IJs"
+        }
+    }
+}

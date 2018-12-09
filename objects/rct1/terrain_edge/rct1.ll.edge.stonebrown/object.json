@@ -1,0 +1,20 @@
+{
+    "id": "rct1.ll.edge.stonebrown",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008C|#RCT1ESN|00000000",
+    "sourceGame": "rct1ll",
+    "objectType": "terrain_edge",
+    "properties": {
+    },
+    "images": [
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        "$CSG[41446..41613]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone (Brown)",
+            "nl-NL": "Bruine zandsteen"
+        }
+    }
+}

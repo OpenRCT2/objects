@@ -1,0 +1,20 @@
+{
+    "id": "rct1.aa.edge.yellow",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008C|#RCT1EYE|00000000",
+    "sourceGame": "rct1aa",
+    "objectType": "terrain_edge",
+    "properties": {
+    },
+    "images": [
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        "$CSG[41030..41197]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Stucco (Yellow)",
+            "nl-NL": "Geel stucwerk"
+        }
+    }
+}

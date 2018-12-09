@@ -1,0 +1,20 @@
+{
+    "id": "rct2.station.jungle",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008D|#RCT2STJ|00000000",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "station",
+    "properties": {
+        "height": 33,
+        "scrollingMode": 19
+    },
+    "images": [
+        "$G1[22776..22791]",
+        "$G1[22481..22492]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jungle"
+        }
+    }
+}

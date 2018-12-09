@@ -1,0 +1,18 @@
+{
+    "id": "openrct2.station.noplatformnoentrance",
+    "authors": ["OpenRCT2 developers"],
+    "version": "1.0",
+    "originalId": "0000008D|#ORCT2SN|00000000",
+    "sourceGame": "official",
+    "objectType": "station",
+    "properties": {
+        "noPlatforms": true
+    },
+    "images": [],
+    "strings": {
+        "name": {
+            "en-GB": "None, and no platform",
+            "nl-NL": "Geen, ook geen perron"
+        }
+    }
+}

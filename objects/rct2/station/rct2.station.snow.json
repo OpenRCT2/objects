@@ -1,0 +1,21 @@
+{
+    "id": "rct2.station.snow",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008D|#RCT2STS|00000000",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "station",
+    "properties": {
+        "height": 35,
+        "scrollingMode": 23
+    },
+    "images": [
+        "$G1[22824..22839]",
+        "$G1[22541..22552]"],
+    "strings": {
+        "name": {
+            "en-GB": "Snow / Ice",
+            "nl-NL": "Sneeuw / IJs"
+        }
+    }
+}

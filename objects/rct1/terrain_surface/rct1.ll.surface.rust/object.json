@@ -1,0 +1,21 @@
+{
+    "id": "rct1.ll.surface.rust",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT1SRU|00000000",
+    "sourceGame": "rct1ll",
+    "objectType": "terrain_surface",
+    "properties": {
+        "price": 100
+    },
+    "images": [
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        "$CSG[42375..42431]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Rust",
+            "nl-NL": "Roest"
+        }
+    }
+}

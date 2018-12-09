@@ -1,0 +1,24 @@
+{
+    "id": "rct2.surface.sand",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT2SSA|00000000",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "terrain_surface",
+    "properties": {
+        "price": 110,
+        "smoothWithSelf": true,
+        "smoothWithOther": true
+    },
+    "images": [
+        "$G1[5592]",
+        "$G1[28965..28970]",
+        "$G1[1972..2028]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Sand",
+            "nl-NL": "Zand"
+        }
+    }
+}
