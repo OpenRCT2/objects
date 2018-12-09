@@ -16,7 +16,7 @@ New-Item -Force -ItemType Directory artifacts,artifacts/objects | Out-Null
 
 Write-Host -ForegroundColor Cyan "Copying objects..."
 Push-Location objects
-    Copy-Item -Recurse "rct2","rct2ww","rct2tt" ../artifacts/objects
+    Copy-Item -Recurse "official","rct1","rct2","rct2ww","rct2tt" ../artifacts/objects
 Pop-Location
 
 Write-Host -ForegroundColor Cyan "Creating parkobj files..."
