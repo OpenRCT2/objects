@@ -10,8 +10,25 @@
     "strings": {
         "name": {
             "en-GB": "No entrance",
+            "fr-FR": "Pas d'entrée",
+            "de-DE": "Kein Eingang",
+            "es-ES": "Entrada invisible",
+            "it-IT": "Nessuna entrata",
             "nl-NL": "Geen ingang",
-            "ko-KR": "감추기"
+            "sv-SE": "Ingen ingång",
+            "ko-KR": "입구 없음",
+            "zh-CN": "隐藏入口",
+            "zh-TW": "隱藏入口",
+            "pt-BR": "Sem entrada",
+            "cs-CZ": "Bez vstupu",
+            "ja-JP": "入口なし",
+            "pl-PL": "Brak wejścia",
+            "ar-EG": "لا مدخل",
+            "da-DK": "Ingen indgang",
+            "ca-ES": "Sense entrada",
+            "fi-FI": "Ei sisäänkäyntiä",
+            "hu-HU": "Nincs bejárat",
+            "tr-TR": "Giriş kulübesi yok"
         }
     }
 }
