@@ -6,8 +6,8 @@
     "sourceGame": "rct2tt",
     "objectType": "park_entrance",
     "properties": {
-        "scrollingMode": 3,
-        "textHeight": 79
+        "scrollingMode": 32,
+        "textHeight": 80
     },
     "images": ["$RCT2:OBJDATA/MEDIENTR.DAT[0..11]"],
     "strings": {
