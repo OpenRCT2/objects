@@ -9,6 +9,7 @@
         "type": "food_stall",
         "category": "stall",
         "sells": "toffee_apple",
+        "disablePainting": true,
         "carsPerFlatRide": 1,
         "carColours": [
             [

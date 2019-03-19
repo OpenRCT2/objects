@@ -9,6 +9,7 @@
         "type": "drink_stall",
         "category": "stall",
         "sells": "sujeonggwa",
+        "disablePainting": true,
         "carsPerFlatRide": 1,
         "carColours": [
             [

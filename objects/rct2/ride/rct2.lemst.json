@@ -9,6 +9,7 @@
         "type": "drink_stall",
         "category": "stall",
         "sells": "lemonade",
+        "disablePainting": true,
         "carsPerFlatRide": 1,
         "carColours": [
             [

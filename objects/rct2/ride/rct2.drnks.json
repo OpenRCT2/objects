@@ -9,6 +9,7 @@
         "type": "drink_stall",
         "category": "stall",
         "sells": "drink",
+        "disablePainting": true,
         "carsPerFlatRide": 1,
         "carColours": [
             [

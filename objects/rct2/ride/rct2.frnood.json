@@ -9,6 +9,7 @@
         "type": "food_stall",
         "category": "stall",
         "sells": "fried_rice_noodles",
+        "disablePainting": true,
         "carsPerFlatRide": 1,
         "carColours": [
             [

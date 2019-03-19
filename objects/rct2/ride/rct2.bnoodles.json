@@ -9,6 +9,7 @@
         "type": "food_stall",
         "category": "stall",
         "sells": "beef_noodles",
+        "disablePainting": true,
         "carsPerFlatRide": 1,
         "carColours": [
             [

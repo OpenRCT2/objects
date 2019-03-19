@@ -9,6 +9,7 @@
         "type": "food_stall",
         "category": "stall",
         "sells": "pretzel",
+        "disablePainting": true,
         "carsPerFlatRide": 1,
         "carColours": [
             [

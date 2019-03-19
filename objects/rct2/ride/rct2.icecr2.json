@@ -9,6 +9,7 @@
         "type": "food_stall",
         "category": "stall",
         "sells": "ice_cream",
+        "disablePainting": true,
         "carsPerFlatRide": 1,
         "carColours": [
             [

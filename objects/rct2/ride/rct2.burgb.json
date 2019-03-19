@@ -9,6 +9,7 @@
         "type": "food_stall",
         "category": "stall",
         "sells": "burger",
+        "disablePainting": true,
         "carsPerFlatRide": 1,
         "carColours": [
             [

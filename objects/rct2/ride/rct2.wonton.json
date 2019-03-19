@@ -9,6 +9,7 @@
         "type": "food_stall",
         "category": "stall",
         "sells": "wonton_soup",
+        "disablePainting": true,
         "carsPerFlatRide": 1,
         "carColours": [
             [

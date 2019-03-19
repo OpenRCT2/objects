@@ -9,6 +9,7 @@
         "type": "food_stall",
         "category": "stall",
         "sells": "roast_sausage",
+        "disablePainting": true,
         "carsPerFlatRide": 1,
         "carColours": [
             [

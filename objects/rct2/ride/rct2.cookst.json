@@ -9,6 +9,7 @@
         "type": "food_stall",
         "category": "stall",
         "sells": "cookie",
+        "disablePainting": true,
         "carsPerFlatRide": 1,
         "carColours": [
             [
