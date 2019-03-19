@@ -16,7 +16,13 @@
             ]
         ]
     },
-    "images": ["$RCT2:OBJDATA/ICECR1.DAT[0..6]"],
+    "images": [
+        "$RCT2:OBJDATA/ICECR1.DAT[0..2]",
+        { "path": "images/0.png", "x": -23, "y": -44 },
+        { "path": "images/1.png", "x": -23, "y": -44 },
+        { "path": "images/2.png", "x": -29, "y": -45 },
+        { "path": "images/3.png", "x": -29, "y": -38 }
+    ],
     "strings": {
         "name": {
             "en-GB": "Fruity Ices Stall",
