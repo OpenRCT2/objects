@@ -76,6 +76,7 @@
             "cs-CZ": "Vozy vyrazí vstříc jednomu konci trati, poté prosviští pozpátku stanicí a vyletí až na druhý konec trati",
             "ko-KR": "수직으로 솟은 트랙을 오르기 위해 역에서 급가속한 뒤, 다시 역방향으로 되돌아와 역을 통과해서 뒷쪽의 또다른 수직 트랙을 올라가는 인버티드 롤러코스터 차량",
             "pl-PL": "Wagoniki tego typu kolejki są wciągane ze stacji na pionowy odcinek toru, po czym zjeżdżają z niego, przejeżdżają z powrotem przez stację i wjeżdżają siłą rozpędu tyłem na drugi pionowy odcinek",
+            "pt-BR": "Trens de montanha-russa invertidos são acelerados a partir da estação para subir um pico e depois passar de ré pela estação para subir outra ponta",
             "ru-RU": "Обратные горки поднимают вертикально вверх и бросают вниз на станцию."
         },
         "capacity": {
@@ -90,6 +91,7 @@
             "cs-CZ": "4 místa v každém voze",
             "ko-KR": "차량당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
+            "pt-BR": "4 passsageiros por vagão",
             "ru-RU": "4 пассажира в вагон"
         }
     }
