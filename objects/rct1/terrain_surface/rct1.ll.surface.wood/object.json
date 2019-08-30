@@ -6,11 +6,20 @@
     "sourceGame": "rct1ll",
     "objectType": "terrain_surface",
     "properties": {
-        "price": 100
+        "price": 100,
+        "special": [
+            { "rotation": 1, "index": 3 },
+            { "rotation": 1, "grid": true, "index": 4 },
+            { "rotation": 1, "underground": true, "index": 5 },
+            { "rotation": 3, "index": 3 },
+            { "rotation": 3, "grid": true, "index": 4 },
+            { "rotation": 3, "underground": true, "index": 5 }
+        ]
     },
     "images": [
         { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$CSG[42261..42317]"
+        "$CSG[42261..42300]",
+        "$CSG[42301..42374]"
     ],
     "strings": {
         "name": {
