@@ -60,7 +60,7 @@
     "images": ["$RCT2:OBJDATA/CRNVFROG.DAT[0..242]"],
     "strings": {
         "name": {
-            "en-GB": "Carnival Float Ride - Frog Cars",
+            "en-GB": "Carnival Frog Cars",
             "fr-FR": "Carnaval - Voitures grenouilles",
             "de-DE": "Karnevalswagenbahn - Froschwagen",
             "es-ES": "Atracción flotadores de carnaval; vagones rana",
@@ -74,7 +74,7 @@
             "pt-BR": "Carros Sapo do Carnaval"
         },
         "description": {
-            "en-GB": "Roller coaster cars in the shape of frog carnival floats",
+            "en-GB": "Cars in the shape of frog carnival floats",
             "fr-FR": "Voitures de montagnes russes en forme de chars grenouilles de carnaval",
             "de-DE": "Achterbahnwagen mit dem Aussehen von Frosch-Karnevalswagen",
             "es-ES": "Vagones de montaña rusa con forma de flotadores rana de carnaval",

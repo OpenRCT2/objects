@@ -106,7 +106,7 @@
     "images": ["$RCT2:OBJDATA/CADDILAC.DAT[0..4470]"],
     "strings": {
         "name": {
-            "en-GB": "Limousine Rollercoaster",
+            "en-GB": "Limousine Trains",
             "fr-FR": "Limousines",
             "de-DE": "Limousinen-Achterbahn",
             "es-ES": "Montaña Rusa de Limusina",
@@ -121,7 +121,7 @@
             "pt-BR": "Montanha-russa Limusine"
         },
         "description": {
-            "en-GB": "Roller coaster with Limousine themed cars",
+            "en-GB": "Limousine themed roller coaster cars",
             "fr-FR": "Montagnes russes avec voitures en forme de limousine",
             "de-DE": "Achterbahn mit Wagen im Limousinenstil",
             "es-ES": "Montaña rusa con vagones inspirados en las limusinas",

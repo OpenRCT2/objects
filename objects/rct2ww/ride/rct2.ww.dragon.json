@@ -106,7 +106,7 @@
     "images": ["$RCT2:OBJDATA/DRAGON.DAT[0..4470]"],
     "strings": {
         "name": {
-            "en-GB": "Dragon Coaster",
+            "en-GB": "Dragon Trains",
             "fr-FR": "Montagnes du dragon",
             "de-DE": "Drachen-Achterbahn",
             "es-ES": "Montaña del Dragón",
@@ -121,7 +121,7 @@
             "pt-BR": "Montanha do Dragão"
         },
         "description": {
-            "en-GB": "Roller coaster with dragon-themed cars",
+            "en-GB": "Dragon-themed roller coaster cars",
             "fr-FR": "Montagnes russes avec voitures en forme de dragon",
             "de-DE": "Eine Achterbahn mit Wagen im Drachen-Stil",
             "es-ES": "Montaña rusa con vagones inspirados en dragones",
