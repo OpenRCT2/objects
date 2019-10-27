@@ -46,7 +46,7 @@
     "images": ["$RCT2:OBJDATA/TRICATOP.DAT[0..130]"],
     "strings": {
         "name": {
-            "en-GB": "Triceratops Dodgem Cars",
+            "en-GB": "Triceratops Dodgems",
             "fr-FR": "Auto-tamponneuses tricératops",
             "de-DE": "Triceratops-Autoskooter-Wagen",
             "es-ES": "Coches de choque Triceratops",
@@ -61,7 +61,7 @@
             "ru-RU": "Трицерапторы"
         },
         "description": {
-            "en-GB": "Riders lock horns with each other in Triceratops dodgem cars",
+            "en-GB": "Riders lock horns with each other in triceratops dodgem cars",
             "fr-FR": "Les passagers se rentrent dedans à bord d'auto-tamponneuses en forme de tricératops",
             "de-DE": "Die Fahrer liefern sich beim Autoskooter harte Gefechte in Triceratops-Wagen.",
             "es-ES": "Los usuarios se pegan cornadas en los coches de choque Triceratops.",

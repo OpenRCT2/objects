@@ -106,7 +106,7 @@
     "images": ["$RCT2:OBJDATA/BULLET.DAT[0..4470]"],
     "strings": {
         "name": {
-            "en-GB": "Bullet Coaster",
+            "en-GB": "Bullet Trains",
             "fr-FR": "Montagnes Shinkansen",
             "de-DE": "Bullet-Achterbahn",
             "es-ES": "Montaña Bala",
@@ -121,7 +121,7 @@
             "pt-BR": "Montanha Bala"
         },
         "description": {
-            "en-GB": "Roller coaster with Japanese Bullet Train themed cars",
+            "en-GB": "Japanese Bullet Train themed roller coaster cars",
             "fr-FR": "Montagnes russes avec voitures en forme de TGV japonais",
             "de-DE": "Eine Achterbahn im Stil japanischer Schnellzüge (sogenannter Bullet Trains)",
             "es-ES": "Montaña rusa con vagones inspirados en el tren bala japonés",

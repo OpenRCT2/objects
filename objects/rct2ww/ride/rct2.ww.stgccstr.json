@@ -52,7 +52,7 @@
     "images": ["$RCT2:OBJDATA/STGCCSTR.DAT[0..2162]"],
     "strings": {
         "name": {
-            "en-GB": "Stage Coach Rollercoaster",
+            "en-GB": "Stage Coaches",
             "fr-FR": "Diligence",
             "de-DE": "Postkutschen-Achterbahn",
             "es-ES": "Montaña Rusa de Carroza",
@@ -67,7 +67,7 @@
             "pt-BR": "Diligência"
         },
         "description": {
-            "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints",
+            "en-GB": "Single roller coaster cars in the shape of a stage coach, with padded seats and lap bar restraints",
             "fr-FR": "Train pour montagnes russes en bois avec des sièges rembourrés et des barres de protection au niveau des jambes",
             "de-DE": "Holzachterbahnzüge mit gepolsterten Sitzen und Beckenhalterungen",
             "es-ES": "Trenes de madera con asientos acolchados y barras de sujeción",

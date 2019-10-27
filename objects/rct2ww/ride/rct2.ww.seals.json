@@ -104,7 +104,7 @@
     "images": ["$RCT2:OBJDATA/SEALS.DAT[0..4470]"],
     "strings": {
         "name": {
-            "en-GB": "Seals Rollercoaster",
+            "en-GB": "Seal Trains",
             "fr-FR": "Montagnes des phoques",
             "de-DE": "Robben-Achterbahn",
             "es-ES": "Montaña Rusa Focas",
@@ -119,7 +119,7 @@
             "pt-BR": "Montanha-Russa de Foca"
         },
         "description": {
-            "en-GB": "A compact steel-tracked roller coaster where the train travels through corkscrews and loops",
+            "en-GB": "Roller coaster trains with shoulder restraints themed to look like seals",
             "fr-FR": "Montagnes russes compactes et métalliques dont le train effectue tire-bouchons et boucles",
             "de-DE": "Eine kompakte Stahlschienen-Achterbahn, auf welcher der Zug Korkenzieher und Loopings fährt",
             "es-ES": "Una montaña rusa compacta de acero donde los vagones circulan por rizos y sacacorchos",

@@ -65,7 +65,7 @@
     "images": ["$RCT2:OBJDATA/SCHOOLBS.DAT[0..802]"],
     "strings": {
         "name": {
-            "en-GB": "School Bus Ride",
+            "en-GB": "School Bus Trams",
             "fr-FR": "Bus scolaire",
             "de-DE": "Schulbus-Fahrt",
             "es-ES": "Viaje del autocar escolar",
@@ -80,7 +80,7 @@
             "ru-RU": "Автобус"
         },
         "description": {
-            "en-GB": "Replica Yellow Bus themed trams",
+            "en-GB": "Miniature trams themed to look like school buses",
             "fr-FR": "Tramways reprenant la thématique des bus scolaires jaunes américains",
             "de-DE": "Bahnen als Nachbauten von gelben Schulbussen",
             "es-ES": "Réplica del clásico autocar amarillo",

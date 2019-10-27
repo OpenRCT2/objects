@@ -60,7 +60,7 @@
     "images": ["$RCT2:OBJDATA/CRNVBFLY.DAT[0..242]"],
     "strings": {
         "name": {
-            "en-GB": "Carnival Float Ride - Butterfly Cars",
+            "en-GB": "Carnival Butterfly Cars",
             "fr-FR": "Carnaval - Voitures papillons",
             "de-DE": "Karnevalswagenbahn - Schmetterlingswagen",
             "es-ES": "Atracción flotadores de carnaval; vagones mariposa",
@@ -74,7 +74,7 @@
             "pt-BR": "Carros Borboleta do Carnaval"
         },
         "description": {
-            "en-GB": "Roller coaster cars in the shape of butterfly carnival floats",
+            "en-GB": "Cars in the shape of butterfly carnival floats",
             "fr-FR": "Voitures de montagnes russes en forme de chars papillons de carnaval",
             "de-DE": "Achterbahnwagen mit dem Aussehen von Schmetterlings-Karnevalswagen",
             "es-ES": "Coches de montaña rusa con forma de flotadores mariposa de carnaval",
