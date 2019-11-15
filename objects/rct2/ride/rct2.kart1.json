@@ -68,7 +68,7 @@
     "images": ["$RCT2:OBJDATA/KART1.DAT[0..210]"],
     "strings": {
         "name": {
-            "en-GB": "Go Karts",
+            "en-GB": "Go-Karts",
             "fr-FR": "Karting",
             "de-DE": "Go-Karts",
             "es-ES": "Karts",
@@ -84,8 +84,8 @@
             "ru-RU": "Картинг"
         },
         "description": {
-            "en-GB": "Self-drive petrol-engined go karts",
-            "en-US": "Self-drive gas-engined go karts",
+            "en-GB": "Riders race each other in self-drive petrol-engined go-karts",
+            "en-US": "Riders race each other in self-drive gas-engined go-karts",
             "fr-FR": "Karts individuels constitués de moteurs à essence",
             "de-DE": "Selbstbetriebene Benzin-Go-Karts",
             "es-ES": "Karts a gasolina autopropulsados",

@@ -59,7 +59,7 @@
     "images": ["$RCT2:OBJDATA/SPCAR.DAT[0..242]"],
     "strings": {
         "name": {
-            "en-GB": "Sportscars",
+            "en-GB": "Sports Cars",
             "fr-FR": "Voitures de sport",
             "de-DE": "Sportwagen",
             "es-ES": "Deportivos",
@@ -76,7 +76,7 @@
             "ru-RU": "Спорткары"
         },
         "description": {
-            "en-GB": "Powered vehicles in the shape of sportscars",
+            "en-GB": "Powered vehicles in the shape of sports cars",
             "fr-FR": "Véhicules à propulsion en forme de voitures de sport",
             "de-DE": "Angetriebene Fahrzeuge in Form von Sportwagen",
             "es-ES": "Vehículos autopropulsados de forma de carreras",
