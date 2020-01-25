@@ -8,6 +8,7 @@
     "properties": {
         "type": "wooden_rc",
         "category": "rollercoaster",
+        "hasShelter": true,
         "carColours": [
             [
                 ["yellow", "black", "light_orange"]
