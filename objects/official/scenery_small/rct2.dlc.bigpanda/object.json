@@ -15,7 +15,12 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": [ "$RCT2:OBJDATA/BIGPANDA.DAT[0..3]" ],
+    "images": [
+        { "path": "images/0.png", "x": -23, "y": -42 },
+        { "path": "images/1.png", "x": -23, "y": -48 },
+        { "path": "images/2.png", "x": -22, "y": -48 },
+        { "path": "images/3.png", "x": -22, "y": -42 } 
+    ],
     "strings": {
         "name": {
             "en-GB": "Giant Panda",
