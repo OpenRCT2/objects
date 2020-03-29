@@ -48,7 +48,7 @@
     "images": ["$RCT2:OBJDATA/BARNSTRM.DAT[0..938]"],
     "strings": {
         "name": {
-            "en-GB": "BarnStorming Cars",
+            "en-GB": "BarnStorming Trains",
             "fr-FR": "Attaque de l'entrepôt",
             "de-DE": "Barnstorm-Wagen",
             "es-ES": "Montaña rusa Políticos",
@@ -57,14 +57,16 @@
             "sv-SE": "Ladugårdsstorm",
             "ko-KR": "곡예 비행기 코스터",
             "zh-TW": "巡迴演出雲霄飛車",
-            "pt-BR": "Carros Avião BarnStorming",
+            "ja-JP": "バーンストーミングトレーン",
+            "pt-BR": "Trens Avião BarnStorming",
             "ar-EG": "سيارات بارنستورمينغ",
             "cs-CZ": "Stodolní střela",
             "pl-PL": "Inwazja agrarna",
             "ru-RU": "Гастрольные горки"
         },
         "description": {
-            "en-GB": "Riders sit in seats suspended beneath the track as they speed through giant loops, twists, and large swooping drops",
+            "en-GB": "Inverted roller coaster trains for the Inverted Impulse Coaster, in the shape of double decker aeroplanes",
+            "en-US": "Inverted roller coaster trains for the Inverted Impulse Coaster, in the shape of double decker airplanes",
             "fr-FR": "Les passagers parcourent des boucles géantes, des virages et des grandes descentes en piqué, installés sur des sièges suspendus à la voie",
             "de-DE": "Die Sitze befinden sich unter der Spur und rasen durch riesige Loopings, Drehungen und große, plötzliche Gefälle hinab.",
             "es-ES": "Los usuarios se sientan suspendidos debajo de la estructura, pasando a toda velocidad por bucles gigantes, giros y grandes caídas en picado.",
@@ -88,6 +90,7 @@
             "sv-SE": "4 passagerare per vagn",
             "ko-KR": "차량당 4명의 승객",
             "zh-TW": "每輛車限乘4人",
+            "ja-JP": "各車両4名",
             "pt-BR": "4 passageiros por vagão",
             "cs-CZ": "4 místa v každém voze",
             "pl-PL": "4 pasażerów na wagonik",
