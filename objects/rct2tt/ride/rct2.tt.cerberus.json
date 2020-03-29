@@ -97,6 +97,7 @@
             "it-IT": "Ottovolante Cerbero",
             "nl-NL": "Cerberustrein",
             "sv-SE": "Kerberos",
+            "ja-JP": "ケルベロストレーン",
             "ko-KR": "케르베로스 차량",
             "zh-TW": "三頭狗雲霄飛車",
             "pt-BR": "Trens Cérbero",
@@ -105,13 +106,14 @@
             "ru-RU": "Горки Цербер"
         },
         "description": {
-            "en-GB": "Sitting in comfortable trains with only simple lap restraints riders enjoy giant smooth drops and twisting track as well as plenty of 'air time' over the hills",
-            "fr-FR": "Retenus uniquement par les jambes dans des voitures confortables, les visiteurs effectuent des descentes géantes le long d'un tracé sinueux et décollent de leur siège en haut des collines",
-            "de-DE": "In bequemen Wagen mit einfacher Rückhaltevorrichtung genießen die Fahrgäste sanfte Stürze, eine kurvenreiche Strecke und einen schönen, ausgedehnten Ausblick über die Hügel.",
-            "es-ES": "Sentados en cómodos vagones con sujeciones simples, los viajeros disfrutan de grandes y suaves caídas así como de giros y gran cantidad de momentos de caída libre en los puntos superiores.",
-            "it-IT": "Seduti comodamente - il solo limite è che si può effettuare un solo giro alla volta - i passeggeri affrontano dolci discese e numerose curve, sperimentando una piacevole sensazione di assenza di gravità.",
-            "nl-NL": "Bezoekers zitten in comfortabele treinen met enkel eenvoudige schootbeugels terwijl ze door soepele afdalingen gaan.",
-            "sv-SE": "Passagerarna sitter i bekväma tåg med enbart enkla knästöd vilket möjliggör långa, mjuka fall, slingrande svängar och dessutom gott om lufttid över krönen.",
+            "en-GB": "Wide 4-across cars with raised seating and simple lap restraints, themed to look like the multi-headed dog from the Underworld",
+            "fr-FR": "4 voitures disposées de chaque côté avec des sièges relevés et des barres de protection simples, mais avec un motif le cerbère",
+            "de-DE": "Breite Wagen mit einfachen Beckenhalterungen und erhöhten Sitzen, in denen 4 Personen nebeneinander sitzen, aber mit einem Zerberus-Thema",
+            "es-ES": "Vagones amplios con asientos elevados, con un tema de Cerbero",
+            "it-IT": "Grandi carrozze da quattro posti a fila con sedili rialzati e semplici protezioni al petto, con un tema di Cerbero",
+            "nl-NL": "Brede karretjes met vier verhoogde stoelen naast elkaar en eenvoudige schootbeugels, ontworpen om op Cerberus te lijken.",
+            "sv-SE": "Breda vagnar tvärsöver varandra som upphöjda säten och enkla knästång, utformad för att likna Kerberos.",
+            "ja-JP": "型で高い座席のある幅広のコースターで、簡単な膝の安全バーを備えていますが、ケルベロスモチーフがあります"
             "ko-KR": "탑승객들이 간단한 무릎 안전바만 있는 부드러운 열차에 타고 언덕을 넘으며, 많은 무중력 시간과 함께 크고 부드러운 낙하와 꼬여있는 트랙을 즐기는 놀이기구",
             "zh-TW": "坐在只有單純循環設施的舒適列車中，享受著列車平穩地下降及轉彎和在山丘上空遊覽的空中時間。",
             "pt-BR": "Sentados em trens confortáveis com proteção de colo simples, os visitantes passam por grandes e suaves quedas e pistas sinuosas, além de bastante 'tempo aéreo' nas colinas",
@@ -127,6 +129,7 @@
             "it-IT": "4 passeggeri per carrozza",
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
+            "ja-JP": "各車両4名"
             "ko-KR": "차량당 4명의 승객",
             "zh-TW": "每輛車限乘4人",
             "pt-BR": "4 passageiros por vagão",
