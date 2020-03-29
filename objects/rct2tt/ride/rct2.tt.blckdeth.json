@@ -53,6 +53,7 @@
             "sv-SE": "Digerdöden",
             "ko-KR": "흑사병 차량",
             "zh-TW": "黑死病遊樂設施",
+            "ja-JP": "黒死病トレーン",
             "pt-BR": "Trens Peste Negra",
             "ar-EG": "قطارات الموت الأسود",
             "cs-CZ": "Morová horská dráha",
@@ -60,7 +61,7 @@
             "ru-RU": "Чёрная Смерть"
         },
         "description": {
-            "en-GB": "Riders career down a twisting track in rat-shaped cars guided only by the curvature and banking of the semi-circular track",
+            "en-GB": "Rat-shaped trains consisting of 2-seater cars where the riders are behind each other",
             "fr-FR": "Les passagers descendent un parcours alambiqué à bord d'une grande voiture en forme de rat dirigée uniquement par les courbes et l'inclinaison de la voie semi-circulaire",
             "de-DE": "Die Fahrer rasen in Ratten-artigen Wagen eine gewundene Strecke hinab, wobei sie nur durch die Kurvenführung der halbrunden Strecke geführt werden.",
             "es-ES": "Los usuarios recorren, en coches en forma de rata, una ruta guiada únicamente por la curvatura y el desnivel del recorrido semicircular.",
@@ -84,6 +85,7 @@
             "sv-SE": "2 passagerare per vagn",
             "ko-KR": "차량당 2명의 승객",
             "zh-TW": "每輛車限乘2人",
+            "ja-JP": "各車両2名",
             "pt-BR": "2 passageiros por vagão",
             "cs-CZ": "2 místa v každém voze",
             "pl-PL": "2 pasażerów na wagonik",
