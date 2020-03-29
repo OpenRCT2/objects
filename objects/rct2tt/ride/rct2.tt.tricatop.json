@@ -47,6 +47,7 @@
     "strings": {
         "name": {
             "en-GB": "Triceratops Dodgems",
+            "en-US": "Triceratops Bumper Cars",
             "fr-FR": "Auto-tamponneuses tricératops",
             "de-DE": "Triceratops-Autoskooter-Wagen",
             "es-ES": "Coches de choque Triceratops",
@@ -55,13 +56,15 @@
             "sv-SE": "Triceratopsbilar",
             "ko-KR": "트리케라톱스 범퍼카",
             "zh-TW": "三角龍碰碰車",
+            "ja-JP": "トリケラトプスバンパーカー",
             "pt-BR": "Carrinhos de Triceratops",
             "cs-CZ": "Autodrom s Triceratopsem",
             "pl-PL": "Dinozaurowe samochodziki",
             "ru-RU": "Трицерапторы"
         },
         "description": {
-            "en-GB": "Riders lock horns with each other in triceratops dodgem cars",
+            "en-GB": "Riders lock horns with each other in triceratops dodgems",
+            "en-US": "Riders lock horns with each other in triceratops bumper cars",
             "fr-FR": "Les passagers se rentrent dedans à bord d'auto-tamponneuses en forme de tricératops",
             "de-DE": "Die Fahrer liefern sich beim Autoskooter harte Gefechte in Triceratops-Wagen.",
             "es-ES": "Los usuarios se pegan cornadas en los coches de choque Triceratops.",
@@ -70,6 +73,7 @@
             "sv-SE": "Triceratops-formade radiobilar som förarna kan stångas med.",
             "ko-KR": "트리케라톱스 모양의 범퍼카에 타고 서로 함께 부딛히는 차량",
             "zh-TW": "三角龍形碰碰車乘客以角彼此纏鬥",
+            "ja-JP": "乗客が運転する、トリケラトプス形の電動のバンパーカーです",
             "pt-BR": "Os visitantes batem os chifres entre si em carrinhos de batida de Triceratops",
             "cs-CZ": "Autodrom s vozy ve tvaru Triceratopsů",
             "pl-PL": "Pasażerowie jeżdżą samochodzikami w kształcie triceratopsów i atakują się ich rogami",
@@ -85,6 +89,7 @@
             "sv-SE": "1 person per bil",
             "ko-KR": "차량당 1명의 손님",
             "zh-TW": "每輛車限乘1人",
+            "ja-JP": "各車両1名",
             "pt-BR": "1 pessoa por vagão",
             "cs-CZ": "1 místo v každém voze",
             "pl-PL": "Jednomiejscowe",
