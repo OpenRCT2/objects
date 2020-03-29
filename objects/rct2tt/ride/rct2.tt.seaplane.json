@@ -57,6 +57,7 @@
             "sv-SE": "Sjöflygplan",
             "ko-KR": "수상비행기 차량",
             "zh-TW": "水上飛機遊樂設施",
+            "ja-JP": "水上飛行機車両",
             "pt-BR": "Carros Hidroavião Suspensos",
             "ar-EG": "سيارات الطائرة المائية المُعلقة",
             "cs-CZ": "Hydroplánská horská dráha",
@@ -64,7 +65,7 @@
             "ru-RU": "Акваплан"
         },
         "description": {
-            "en-GB": "Suspended roller coaster train consisting of cars able to swing freely as the train goes around corners",
+            "en-GB": "Suspended roller coaster train consisting of 1920s seaplane-shaped cars able to swing freely as the train goes around corners",
             "fr-FR": "Train suspendu à des montagnes russes et dont les voitures se balancent dans les virages",
             "de-DE": "Ein aufgehängter Achterbahnzug mit Wagen, die frei schwingen, wenn der Zug durch die Kurven fährt",
             "es-ES": "Tren de montaña rusa suspendido consistente en vagones capaces de girar con libertad cuando el tren coge curvas.",
@@ -73,6 +74,7 @@
             "sv-SE": "Hängande berg- och dalbanetåg med vagnar som svingar fritt i sidled i kurvorna.",
             "ko-KR": "차량이 코너를 돌면 자유롭게 흔들거리게 만들어진 서스펜디드 롤러코스터 차량",
             "zh-TW": "是由當列車在轉角處轉彎時列車自由搖?晃動組成的懸掛式雲霄飛車",
+            "ja-JP": "ぶら下がった1920年代の水上飛行機型の車両が、コーナーで大きく揺れ動くコースターです",
             "pt-BR": "Trem suspenso de montanha-russa consistindo de vagões capazes de balançar livremente quando o trem corre por curvas",
             "cs-CZ": "Zavěšená horská dráha z volné zavěšených vozů, které se naklání při jízdě do zatáček",
             "pl-PL": "Podwieszana kolejka, której wagoniki mogą się swobodnie przechylać na zakrętach",
@@ -88,6 +90,7 @@
             "sv-SE": "4 passagerare per vagn",
             "ko-KR": "차량당 4명의 승객",
             "zh-TW": "每輛車限乘4人",
+            "ja-JP": "各車両4名",
             "pt-BR": "4 passageiros por vagão",
             "cs-CZ": "4 místa v každém voze",
             "pl-PL": "4 pasażerów na wagonik",
