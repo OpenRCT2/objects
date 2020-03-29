@@ -48,6 +48,7 @@
     "strings": {
         "name": {
             "en-GB": "Fighting Knights Dodgems",
+            "en-US": "Fighting Knights Bumper Cars",
             "fr-FR": "Auto-tamponneuses des chevaliers",
             "de-DE": "Kampfritter-Autoskooterwagen",
             "es-ES": "Coches de choque Caballeros en combate",
@@ -56,13 +57,15 @@
             "sv-SE": "Stridande riddare",
             "ko-KR": "파이팅 나이트 범퍼카",
             "zh-TW": "戰鬥騎士碰碰車",
+            "ja-JP": "戦う騎士バンパーカー",
             "pt-BR": "Carrinhos de Batida de Cavaleiros em Duelo",
             "cs-CZ": "Rytířský autodrom",
             "pl-PL": "Walczący rycerze",
             "ru-RU": "Рыцари"
         },
         "description": {
-            "en-GB": "Riders joust on horse-themed dodgem cars",
+            "en-GB": "Riders joust on medieval horse-themed dodgems",
+            "en-US": "Riders joust on medieval horse-themed bumper cars",
             "fr-FR": "Les passagers participent à un tournoi médiéval d'auto-tamponneuses",
             "de-DE": "Die Fahrer kämpfen im Autoskooter auf Pferdewagen.",
             "es-ES": "Los usuarios se suben en coches de choque decorados como caballos.",
@@ -71,6 +74,7 @@
             "sv-SE": "Hästformade radiobilar som förarna kan tornera med.",
             "ko-KR": "말 테마의 범퍼카에서 마상 창 시합을 하는 느낌을 받게 해주는 놀이기구",
             "zh-TW": "乘客在主題為馬的碰碰車上競技",
+            "ja-JP": "乗客が運転する、馬上槍試合の騎士形の電動のバンパーカーです",
             "pt-BR": "Os visitantes competem em carrinhos de batida temáticos",
             "cs-CZ": "Autodrom s elektrickými autíčky ve tvaru koní",
             "pl-PL": "Pasażerowie zderzają się samochodzikami w kształcie koni",
@@ -86,6 +90,7 @@
             "sv-SE": "1 person per bil",
             "ko-KR": "차량당 1명의 손님",
             "zh-TW": "每輛車限乘1人",
+            "ja-JP": "各車両1名",
             "pt-BR": "1 pessoa por vagão",
             "cs-CZ": "1 místo v každém voze",
             "pl-PL": "1 osoba na samochodzik",
