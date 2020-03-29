@@ -100,6 +100,7 @@
             "sv-SE": "Gangsterbil",
             "ko-KR": "갱스터 차량",
             "zh-TW": "盜匪車雲霄飛車",
+            "ja-JP": "ギャングスターカー"
             "pt-BR": "Carros Gangster",
             "ar-EG": "سيارات العصابات",
             "cs-CZ": "Gangsterská horská dráha",
@@ -108,7 +109,7 @@
             "ru-RU": "Горки гангстеров"
         },
         "description": {
-            "en-GB": "1920s-themed gangster cars are accelerated out of the station by linear induction motors to speed through twisting inversions",
+            "en-GB": "Roller coaster trains in the style of 1920s gangster cars that are accelerated by linear induction motors",
             "fr-FR": "Train sur le thème des gangsters des années folles propulsé hors de la station par des moteurs à induction linéaire et fonçant dans des inversions renversantes",
             "de-DE": "Die Gangster-Fluchtwagen aus den Zwanzigern werden aus der Station heraus mit Linearmotoren beschleunigt und rasen durch verdrehte Loopings.",
             "es-ES": "Los coches, ambientados como de gángsteres de los años veinte tienen que ser acelerados por motores de inducción lineal, para coger velocidad para los giros en inversión.",
@@ -117,6 +118,7 @@
             "sv-SE": "20-talsinspirerade gangsterbilvagnar accelereras från stationen med induktionsmotorer och far fram genom slingrande och inverterade spår.",
             "ko-KR": "역에서 선형 유도 모터에 의해 가속되어 꼬여있는 트랙을 빠른 속도로 통과하는 1920년대 테마의 갱스터 롤러코스터 차량",
             "zh-TW": "以1920年代為主題的盜匪車輛,被直線推進動力以加速推離車站並快速通過倒置旋轉軌道",
+            "ja-JP": "1920年代のギャング車のようなリニアモーターコースタートレーンです",
             "pt-BR": "Vagões temáticos de gângsteres dos anos 20 saem da estação acelerados por motores de indução linear para correr por inversões sinuosas",
             "cs-CZ": "Horská dráha s vozy ve stylu gangsterů 20. let, poháněnými elektromotorem, které sviští skrze propletenou dráhu",
             "pl-PL": "Wagoniki stylizowane na gangsterskie samochody z lat 20. są wystrzeliwane ze stacji za pomocą silnika liniowego i suną po zawiłym torze",
@@ -132,6 +134,7 @@
             "sv-SE": "4 passagerare per vagn",
             "ko-KR": "차량당 4명의 승객",
             "zh-TW": "每輛車限乘4人",
+            "ja-JP": "各車両4名",
             "pt-BR": "4 passageiros por vagão",
             "cs-CZ": "4 místa v každém voze",
             "pl-PL": "4 pasażerów na wagonik",
