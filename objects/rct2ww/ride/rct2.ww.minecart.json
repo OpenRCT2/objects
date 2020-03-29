@@ -9,7 +9,7 @@
         "type": "wooden_rc",
         "category": "rollercoaster",
         "minCarsPerTrain": 2,
-        "maxCarsPerTrain": 6,
+        "maxCarsPerTrain": 7,
         "carColours": [
             [
                 ["yellow", "black", "light_orange"]
@@ -63,13 +63,14 @@
             "ar-EG": "Mine Cart Trains",
             "cs-CZ": "Dulní jízda",
             "en-US": "Mine Cart Trains",
+            "ja-JP": "鉱山カートトレーン"
             "ko-KR": "탄광 카트 차량",
             "pl-PL": "Wagoniki kopalniane",
             "pt-BR": "Trens Carro de Mina",
             "ru-RU": "Вагонетки"
         },
         "description": {
-            "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints",
+            "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints, themed to look like mine carts",
             "fr-FR": "Train pour montagnes russes en bois avec des sièges rembourrés et des barres de protection au niveau des jambes",
             "de-DE": "Holzachterbahnzüge mit gepolsterten Sitzen und Beckenhalterungen",
             "es-ES": "Trenes de madera con asientos acolchados y barras de sujeción",
@@ -78,6 +79,7 @@
             "sv-SE": "Berg- och dalbanevagnar av trä med stoppade säten och säkerhetsbälten",
             "zh-CN": "有装填物的座位及护膝吧装置的木制云霄飞车",
             "cs-CZ": "Dřevěná horská dráha s vozy s polstrovanými sedadly a opěrkou v klíně",
+            "ja-JP": "膝の安全バーが付いた、パッド入りの座席を持つ木製のコースターですが、鉱山カートのような外観があります"
             "ko-KR": "푹신한 좌석과 무릎 안전바가 있는 나무 롤러코스터 차량",
             "pl-PL": "Drewniane wagoniki z wyściełanymi siedzeniami i zabezpieczeniami obejmującymi pasażerów w pasie",
             "pt-BR": "Trens de montanha-russa de madeira com assentos acolchoados e barra fixadora no colo",
