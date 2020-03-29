@@ -133,6 +133,7 @@
             "sv-SE": "Teleportör",
             "ko-KR": "텔레포터 차량",
             "zh-TW": "傳送點",
+            "ja-JP": "テレポーター",
             "pt-BR": "Cabine Teletransportadora",
             "ar-EG": "المقصورة المتنقلة",
             "cs-CZ": "Teleportér",
@@ -140,7 +141,7 @@
             "ru-RU": "Лифт"
         },
         "description": {
-            "en-GB": "Guests are transported up or down from one level to another",
+            "en-GB": "Futuristic lift cabin that gives guests the illusion of teleportation",
             "fr-FR": "Les visiteurs sont transportés vers le haut ou le bas d'un niveau à l'autre",
             "de-DE": "Die Gäste werden von einem Niveau zum anderen hinauf- oder hinuntertransportiert.",
             "es-ES": "Los invitados son transportados arriba y abajo, de un nivel a otro.",
@@ -149,6 +150,7 @@
             "sv-SE": "Gäster transporteras upp eller ned en nivå.",
             "ko-KR": "탑승객이 수직 탑을 따라 이동하는 엘리베이터에 올라타 여러 높이를 손쉽게 이동하는 놀이기구",
             "zh-TW": "將遊客由某一層傳送到另一層",
+            "ja-JP": "テレポーテーションのような錯覚を与える未来的なエレベーターキャビン",
             "pt-BR": "Os visitantes são transportados para cima ou para baixo entre um andar e outro",
             "cs-CZ": "Návštěvníci jsou transportování z jednoho patra do druhého",
             "pl-PL": "Goście są transportowani między poziomami w górę lub w dół",
@@ -164,6 +166,7 @@
             "sv-SE": "16 passagerare",
             "ko-KR": "승객 16명",
             "zh-TW": "限乘16人",
+            "ja-JP": "定員16名",
             "pt-BR": "16 passageiros",
             "cs-CZ": "16 návštěvníků",
             "pl-PL": "16 pasażerów",
