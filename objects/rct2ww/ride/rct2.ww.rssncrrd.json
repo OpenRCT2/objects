@@ -8,6 +8,7 @@
     "properties": {
         "type": "mini_rc",
         "category": "rollercoaster",
+        "hasShelter": true,
         "carColours": [
             [
                 ["olive_green", "saturated_brown", "bright_red"],
@@ -74,7 +75,7 @@
     "images": ["$RCT2:OBJDATA/RSSNCRRD.DAT[0..1814]"],
     "strings": {
         "name": {
-            "en-GB": "Russian Cars",
+            "en-GB": "Trabant Cars",
             "fr-FR": "Trabant",
             "de-DE": "Trabant-Wagen",
             "es-ES": "Coches Trabant",
@@ -83,21 +84,24 @@
             "sv-SE": "Trabant-bilar",
             "zh-CN": "东欧车设施",
             "cs-CZ": "Moskvičová horská dráha",
+            "ja-JP": "トラバント車両",
             "ko-KR": "러시아 차량",
-            "pl-PL": "Rosyjskie samochody",
+            "pl-PL": "Trabant samochody",
             "ru-RU": "Трабант",
-            "pt-BR": "Carros Russos"
+            "pt-BR": "Carros Trabant"
         },
         "description": {
-            "en-GB": "Roller coaster cars in the shape of automobiles",
-            "fr-FR": "Montagnes russes avec voitures en fome d'automobiles",
+            "en-GB": "Roller coaster cars in the shape of replica Trabant automobiles",
+            "en-US": "Roller coaster cars in the shape of replica Trabant cars",
+            "fr-FR": "Montagnes russes avec voitures en fome d'automobiles Trabant",
             "de-DE": "Achterbahnwagen mit dem Aussehen von Trabantautos",
-            "es-ES": "Vagones con forma de automóviles",
+            "es-ES": "Vagones con forma de automóviles Trabant",
             "it-IT": "Le carrozze dell'ottovolante hanno la forma di auto Trabant",
-            "nl-NL": "Achtbaankarretjes in de vorm van een Russische auto.",
+            "nl-NL": "Achtbaankarretjes in de vorm van een Trabant auto.",
             "sv-SE": "Berg- och dalbanevagnar av Trabant-typ",
             "zh-CN": "以汽车为车辆外型的云霄飞车",
             "cs-CZ": "Horská dráha s Ruskými vozy",
+            "ja-JP": "トラバント車の形をしたローラーコースターです",
             "ko-KR": "자동차 모양의 롤러코스터 차량",
             "pl-PL": "Wagoniki kolejki górskiej w kształcie dawnych samochodów",
             "ru-RU": "Горки в форме автомобилей",
@@ -113,6 +117,7 @@
             "sv-SE": "4 passagerare per vagn",
             "zh-CN": "每辆车限乘4人",
             "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
             "ko-KR": "차량당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира в машине",
