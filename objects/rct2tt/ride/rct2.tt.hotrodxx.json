@@ -68,7 +68,7 @@
     "images": ["$RCT2:OBJDATA/HOTRODXX.DAT[0..1166]"],
     "strings": {
         "name": {
-            "en-GB": "Hot Rod Cars",
+            "en-GB": "Hot Rod Trains",
             "fr-FR": "Bolide extrême",
             "de-DE": "Hotrod-Wagen",
             "es-ES": "Montaña rusa bólido",
@@ -77,14 +77,15 @@
             "sv-SE": "Hot rod-bana",
             "ko-KR": "개조 자동차 차량",
             "zh-TW": "改裝車雲霄飛車",
-            "pt-BR": "Carros Hot Rod",
+            "ja-JP": "ホットロッド車両",
+            "pt-BR": "Trens Hot Rod",
             "ar-EG": "سيارات الطرق السريعة",
             "cs-CZ": "Hot Rod horská dráha",
             "pl-PL": "Podrasowane samochody",
             "ru-RU": "Горки-Хотрод"
         },
         "description": {
-            "en-GB": "After an exhilarating air-powered launch, the train speeds up a vertical track, over the top, and vertically down the other side to return to the station",
+            "en-GB": "Air-powered launched roller coaster trains in the shape of hot rod cars",
             "fr-FR": "Après avoir été propulsé dans les airs, le train accélère sur une voie verticale, passe le sommet, et retombe de l'autre côté en direction de la station",
             "de-DE": "Der Zug wird durch Luftdruck aus der Station katapultiert, fährt senkrecht hinauf und auf der anderen Seite wieder senkrecht hinunter.",
             "es-ES": "Después de un divertido lanzamiento por aire, el tren acelera por una vía vertical, hasta lo más alto, viajando verticalmente por el otro lado para llegar a la estación.",
@@ -93,6 +94,7 @@
             "sv-SE": "Efter en spektakulär, tryckluftsdriven start skjuts tåget uppför ett vertikalt spår för att sedan åka rakt vertikalt nedåt på andra sidan tillbaka till stationen.",
             "ko-KR": "아주 짜릿한 공기 압축 방식으로 발진하여 차량이 수직 트랙을 향해 속력을 높인 뒤, 꼭대기에 다다르면 다시 수직으로 하강하며 다시 탑승장에 도착하는 놀이기구",
             "zh-TW": "在一陣令人興奮的高速氣壓式堆進器啟動,列車以高速衝向垂直頂端軌道,接著再垂直下墜到車站的另一端再回到車站",
+            "ja-JP": "ホットロッド形状の空力で打ち上げられたジェットコースターの列車です",
             "pt-BR": "Depois de um lançamento arrebatador alimentado a ar, o trem acelera numa pista vertical, passando pelo topo, descendo verticalmente pelo outro lado para voltar à estação",
             "cs-CZ": "Po mocném startu na stlačený vzduch se vozy rozjedou po svislé dráze, přes vrchol a svisle dolů zpět do stanice",
             "pl-PL": "Po ekscytującym starcie z pneumatycznej wyrzutni pociąg rozpędza się pod górę pionowego toru, pokonuje szczyt i spada pionowo z drugiej strony, by powrócić na stację",
@@ -108,6 +110,7 @@
             "sv-SE": "2 passagerare per vagn",
             "ko-KR": "차량당 2명의 승객",
             "zh-TW": "每輛車限乘2人",
+            "ja-JP": "各車両2名",
             "pt-BR": "2 passageiros por vagão",
             "cs-CZ": "2 místa v každém voze",
             "pl-PL": "2 pasażerów na wagonik",
