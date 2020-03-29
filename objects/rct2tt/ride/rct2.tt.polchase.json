@@ -8,7 +8,7 @@
     "properties": {
         "type": "looping_rc",
         "category": "rollercoaster",
-        "hasShelter": true
+        "hasShelter": true,
         "minCarsPerTrain": 2,
         "maxCarsPerTrain": 8,
         "defaultCar": 1,
@@ -101,7 +101,7 @@
         },
         "description": {
             "en-GB": "Enclosed roller coaster trains with lap bars capable of travelling through vertical loops, themed to look like 1920s police cars",
-            "en-US": "Enclosed roller coaster trains with lap bars capable of traveling through vertical loops, themed to look like 1920s police cars"
+            "en-US": "Enclosed roller coaster trains with lap bars capable of traveling through vertical loops, themed to look like 1920s police cars",
             "fr-FR": "Grand huit que les passagers parcourent assis",
             "de-DE": "Eine Achterbahn mit Loopings, in der die Fahrer sitzend fahren",
             "es-ES": "Una montaña rusa llena de bucles en la que los viajeros van sentados",
@@ -124,6 +124,7 @@
             "it-IT": "4 passeggeri per carrozza",
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
+            "ja-JP": "各車両4名",
             "ko-KR": "차량당 4명의 승객",
             "zh-TW": "每輛車限乘4人",
             "pt-BR": "4 passageiros por vagão",
