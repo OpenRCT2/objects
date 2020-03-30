@@ -78,6 +78,7 @@
             "nl-NL": "Trams uit San Francisco",
             "sv-SE": "Spårvagn från San Francisco",
             "zh-CN": "旧金山有轨电车",
+            "ja-JP": "サンフランシスコトラム",
             "ar-EG": "مترو سان فرنسيسكو",
             "cs-CZ": "Tramvaj ze San Francisca",
             "en-US": "San Francisco Trams",
@@ -87,7 +88,7 @@
             "ru-RU": "Трамвай Сан-Франц."
         },
         "description": {
-            "en-GB": "Replica trams",
+            "en-GB": "Replicas of the San Francisco Trams",
             "fr-FR": "Répliques de trams",
             "de-DE": "Nachgebaute Straßenbahnen",
             "es-ES": "Réplica de tranvías",
@@ -95,6 +96,7 @@
             "nl-NL": "Replica's van oude trams uit San Francisco",
             "sv-SE": "Gammal spårvagn",
             "zh-CN": "有轨电车复制品",
+            "ja-JP": "サンフランシスコトラムのレプリカです",
             "cs-CZ": "Repliky tramvají",
             "ko-KR": "전차 모형",
             "pl-PL": "Replika tramwaju",
@@ -110,6 +112,7 @@
             "nl-NL": "10 passagiers per tram",
             "sv-SE": "10 passagerare per vagn",
             "zh-CN": "每辆车限乘10人",
+            "ja=JP": "各車両10名",
             "cs-CZ": "10 míst v každém voze",
             "ko-KR": "차량당 10명의 승객",
             "pl-PL": "10 pasażerów na wagonik",
