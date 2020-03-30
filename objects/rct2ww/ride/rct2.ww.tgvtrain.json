@@ -11,7 +11,7 @@
         "limitAirTimeBonus": true,
         "minCarsPerTrain": 3,
         "maxCarsPerTrain": 8,
-        "emptyCars": 1,
+        "numEmptyCars": 1,
         "defaultCar": 1,
         "headCars": 0,
         "tailCars": 2,
