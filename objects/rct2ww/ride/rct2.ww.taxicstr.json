@@ -111,12 +111,13 @@
             "ar-EG": "قطارات سيارات التاكسي الصفراء",
             "cs-CZ": "Taxi horská dráha",
             "en-US": "Yellow Taxi Trains",
+            "ja-JP": "黄色いタクシートレーン",
             "ko-KR": "옐로 택시 차량",
             "pl-PL": "Żółte taksówki",
             "pt-BR": "Trens Taxi Amarelo"
         },
         "description": {
-            "en-GB": "Roller coaster trains for the Giga Coaster, themed to look like long yellow taxis",
+            "en-GB": "Enclosed roller coaster trains for the Giga Coaster, themed to look like long yellow taxis",
             "fr-FR": "Montagnes russes géantes proposant des chutes régulières depuis des collines dépassant les 100 mètres d'altitude",
             "de-DE": "Eine gigantische Stahlachterbahn mit gemäßigten Gefällen und Anstiegen von über 90 Metern",
             "es-ES": "Una montaña rusa gigante capaz de caídas suaves y subidas de más de 300 pies",
@@ -125,6 +126,7 @@
             "sv-SE": "En gigantisk berg- och dalbana av stål som färdas på och nedför över 90 meter höga kullar",
             "zh-CN": "一座巨大的云霄飞车可以缓慢地降落及拉升到300英尺高的山丘A",
             "cs-CZ": "Gigantická ocelová horská dráha schopna volných pádů a kopců přes 90 metrů dlouhých",
+            "ja-JP": "長い黄色のタクシーの形をしたギガコースタートレーン",
             "ko-KR": "90m 이상의 부드러운 낙하와 상승이 가능한 거대한 강철 롤러코스터",
             "pl-PL": "Wielka stalowa kolejka górska jeżdżąca po łagodnych spadkach i wzniesieniach o wysokości 100 m",
             "pt-BR": "Uma gigante montanha-russa de aço capaz de quedas suaves e subidas de mais de 90m"
@@ -139,6 +141,7 @@
             "sv-SE": "4 passagerare per vagn",
             "zh-CN": "每辆车限乘4人",
             "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
             "ko-KR": "차량당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира"
