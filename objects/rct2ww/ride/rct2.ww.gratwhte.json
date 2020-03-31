@@ -140,19 +140,19 @@
             "ru-RU": "Просторные поезда с ремнем безопасности"
         },
         "capacity": {
-            "en-GB": "6 passengers per car",
-            "fr-FR": "6 passagers par voiture",
-            "de-DE": "6 pro Wagen",
-            "es-ES": "6 pasajeros por vagón",
-            "it-IT": "6 passeggeri per carrozza",
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per carrozza",
             "nl-NL": "4 passagiers per karretje",
-            "sv-SE": "6 passagerare per vagn",
-            "zh-CN": "每辆车限乘6人",
-            "cs-CZ": "6 míst v každém voze",
-            "ko-KR": "차량당 6명의 승객",
-            "pl-PL": "6 pasażerów na wagonik",
-            "pt-BR": "6 passageiros por vagão",
-            "ru-RU": "6 человек на вагон"
+            "sv-SE": "4 passagerare per vagn",
+            "zh-CN": "每辆车限乘4人",
+            "cs-CZ": "4 míst v každém voze",
+            "ko-KR": "차량당 4명의 승객",
+            "pl-PL": "4 pasażerów na wagonik",
+            "pt-BR": "4 passageiros por vagão",
+            "ru-RU": "4 человек на вагон"
         }
     }
 }
