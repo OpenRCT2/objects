@@ -13,19 +13,19 @@
     "images": ["$RCT2:OBJDATA/WSHOGI05.DAT[0..5]"],
     "strings": {
         "name": {
-            "en-GB": "Shogi Wall",
+            "en-GB": "Shōji Wall",
             "fr-FR": "Cloison shogi",
-            "de-DE": "Shogi-Wand",
-            "es-ES": "Pared Shogi",
-            "it-IT": "Muro di Shogi",
-            "nl-NL": "Muur gedecoreerd als Japans schaakspel",
-            "sv-SE": "Shogi-mur",
+            "de-DE": "Shōji-Wand",
+            "es-ES": "Pared Shōji",
+            "it-IT": "Muro di Shōji",
+            "nl-NL": "Shōjimuur",
+            "sv-SE": "Shōji-mur",
             "zh-CN": "将棋墙",
             "cs-CZ": "Čínská zeď",
             "ko-KR": "쇼기 벽",
             "pl-PL": "Ściana japońska",
             "ru-RU": "Стена",
-            "pt-BR": "Parede Shogi"
+            "pt-BR": "Parede Shōji"
         }
     }
 }
