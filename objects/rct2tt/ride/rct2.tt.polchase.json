@@ -8,6 +8,7 @@
     "properties": {
         "type": "looping_rc",
         "category": "rollercoaster",
+        "hasShelter": true,
         "minCarsPerTrain": 2,
         "maxCarsPerTrain": 7,
         "defaultCar": 1,

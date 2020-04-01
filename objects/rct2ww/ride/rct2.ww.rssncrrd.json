@@ -8,6 +8,7 @@
     "properties": {
         "type": "mini_rc",
         "category": "rollercoaster",
+        "hasShelter": true,
         "carColours": [
             [
                 ["olive_green", "saturated_brown", "bright_red"],
