@@ -48,6 +48,7 @@
     "strings": {
         "name": {
             "en-GB": "Fighting Knights Dodgems",
+            "en-US": "Fighting Knights Bumper Cars",
             "fr-FR": "Auto-tamponneuses des chevaliers",
             "de-DE": "Kampfritter-Autoskooterwagen",
             "es-ES": "Coches de choque Caballeros en combate",
@@ -62,7 +63,8 @@
             "ru-RU": "Рыцари"
         },
         "description": {
-            "en-GB": "Riders joust on horse-themed dodgem cars",
+            "en-GB": "Riders joust on horse-themed dodgems",
+            "en-US": "Riders joust on horse-themed bumper cars",
             "fr-FR": "Les passagers participent à un tournoi médiéval d'auto-tamponneuses",
             "de-DE": "Die Fahrer kämpfen im Autoskooter auf Pferdewagen.",
             "es-ES": "Los usuarios se suben en coches de choque decorados como caballos.",

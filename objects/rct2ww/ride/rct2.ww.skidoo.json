@@ -40,6 +40,7 @@
     "strings": {
         "name": {
             "en-GB": "Skidoo Dodgems",
+            "en-US": "Skidoo Bumper Cars",
             "fr-FR": "Motoneiges tamponneuses",
             "de-DE": "Schlitterskooter",
             "es-ES": "Coches de choque esquimales",
@@ -54,7 +55,8 @@
             "pt-BR": "Carro Esquimó"
         },
         "description": {
-            "en-GB": "Self-drive electric dodgem cars",
+            "en-GB": "Self-drive skidoo-shaped dodgems",
+            "en-US": "Self-driven skidoo-shaped bumper cars",
             "fr-FR": "Auto-tamponneuses électriques programmées",
             "de-DE": "Selbstgesteuerte elektrische Autoskooter",
             "es-ES": "Coches de choque eléctricos de conducción propia",
