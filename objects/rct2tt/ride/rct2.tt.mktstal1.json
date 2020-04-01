@@ -21,6 +21,7 @@
     "strings": {
         "name": {
             "en-GB": "Toffee Apple Market Stall",
+            "en-US": "Candy Apple Market Stall",
             "fr-FR": "Marchand de pommes d'amour",
             "de-DE": "Marktstand Kandierte Äpfel",
             "es-ES": "Puesto de manzanas de caramelo",
@@ -35,7 +36,8 @@
             "ru-RU": "Палатка с конфетами"
         },
         "description": {
-            "en-GB": "A themed stall selling sticky toffee apples.",
+            "en-GB": "A themed stall selling sticky toffee apples",
+            "en-US": "A themed stall selling sticky candy apples",
             "fr-FR": "Un stand thématique proposant des pommes d'amour.",
             "de-DE": "Ein Stand, der kandierte Äpfel verkauft",
             "es-ES": "Un puesto de comida que vende manzanas de caramelo.",
