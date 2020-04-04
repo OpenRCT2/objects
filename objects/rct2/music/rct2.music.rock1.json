@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.rock1",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC17|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 17,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css33.dat",
+                "name": "Airtime Rock"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Rock style",
+            "ca-ES": "Estil rock",
+            "cs-CZ": "Rock",
+            "da-DK": "Rock stil",
+            "de-DE": "Rock-Stil",
+            "es-ES": "Estilo rock",
+            "fi-FI": "Kivityyli",
+            "fr-FR": "Rock",
+            "hu-HU": "Rock stílus",
+            "it-IT": "Stile rock",
+            "ja-JP": "ロック・スタイル",
+            "ko-KR": "록 스타일",
+            "nl-NL": "Rockstijl",
+            "pl-PL": "Styl rockowy",
+            "pt-BR": "Estilo Rock",
+            "ru-RU": "Рок",
+            "sv-SE": "Rocktema",
+            "tr-TR": "Rock tarzı",
+            "zh-CN": "摇滚风格",
+            "zh-TW": "搖滾風格"
+        }
+    }
+}

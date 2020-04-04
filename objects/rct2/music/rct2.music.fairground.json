@@ -1,0 +1,90 @@
+{
+    "id": "rct2.music.fairground",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC01|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "rideTypes": ["merry_go_round"],
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css4.dat",
+                "name": "Children of the regiment",
+                "composer": "Die Regimentskinder; Julius Fučík"
+            },
+            {
+                "source": "$RCT2:DATA/css5.dat",
+                "name": "Serenade, op. 21",
+                "composer": "Jonny Heykens"
+            },
+            {
+                "source": "$RCT2:DATA/css6.dat",
+                "name": "In Continental Mood",
+                "composer": "Unknown"
+            },
+            {
+                "source": "$RCT2:DATA/css7.dat",
+                "name": "Wedding Journey",
+                "composer": "Traumfahrt; traditional"
+            },
+            {
+                "source": "$RCT2:DATA/css8.dat",
+                "name": "Tales from the Vienna Woods",
+                "composer": "Johann Strauss jr."
+            },
+            {
+                "source": "$RCT2:DATA/css9.dat",
+                "name": "Slavonic Dance",
+                "composer": "Traditional"
+            },
+            {
+                "source": "$RCT2:DATA/css11.dat",
+                "name": "Das Alpenhorn",
+                "composer": "Traditional"
+            },
+            {
+                "source": "$RCT2:DATA/css12.dat",
+                "name": "Bella Bella Bimba",
+                "composer": "Traditional"
+            },
+            {
+                "source": "$RCT2:DATA/css13.dat",
+                "name": "The Blond Sailor",
+                "composer": "Traditional"
+            },
+            {
+                "source": "$RCT2:DATA/css14.dat",
+                "name": "Poet & Peasant Overture",
+                "composer": "Franz von Suppé"
+            },
+            {
+                "source": "$RCT2:DATA/css15.dat",
+                "name": "Waltz Medley",
+                "composer": "Johann Strauss jr."
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Fairground organ style",
+            "ca-ES": "Estil orgue de fira",
+            "cs-CZ": "Tržnice",
+            "da-DK": "Karnevalsmusik stil",
+            "de-DE": "Jahrmarktsorgelstil",
+            "fr-FR": "Orgue champ de foire",
+            "hu-HU": "Vásári orgona stílus",
+            "it-IT": "Stile organo da fiera",
+            "ja-JP": "フェアグラウンドオルガン・スタイル",
+            "ko-KR": "축제 오르간 스타일",
+            "nl-NL": "Kermisorgelstijl",
+            "pl-PL": "Styl organów wesołego miasteczka",
+            "pt-BR": "Estilo Órgão de Parque de Diversões",
+            "ru-RU": "Ярмарочный стиль",
+            "sv-SE": "Tivolitema",
+            "tr-TR": "Atlıkarınca tarzı",
+            "zh-CN": "游乐场风琴风格",
+            "zh-TW": "遊樂場風琴風格"
+        }
+    }
+}

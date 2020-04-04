@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.rock2",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC20|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 20,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css36.dat",
+                "name": "Big Rock"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Rock style 2",
+            "ca-ES": "Estil rock 2",
+            "cs-CZ": "Rock 2",
+            "da-DK": "Rock stil 2",
+            "de-DE": "Rock-Stil 2",
+            "es-ES": "Estilo rock 2",
+            "fi-FI": "Kivityyli 2",
+            "fr-FR": "Rock 2",
+            "hu-HU": "Rock stílus 2",
+            "it-IT": "Stile rock 2",
+            "ja-JP": "ロック・スタイル ２番",
+            "ko-KR": "록 스타일 2",
+            "nl-NL": "Rockstijl 2",
+            "pl-PL": "Styl rockowy 2",
+            "pt-BR": "Estilo Rock 2",
+            "ru-RU": "Рок 2",
+            "sv-SE": "Rocktema 2",
+            "tr-TR": "Rock tarzı 2",
+            "zh-CN": "摇滚风格2",
+            "zh-TW": "搖滾風格2"
+        }
+    }
+}

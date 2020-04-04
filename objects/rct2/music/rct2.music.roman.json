@@ -1,0 +1,40 @@
+{
+    "id": "rct2.music.roman",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC02|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 2,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css18.dat",
+                "name": "Caesar's March"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Roman fanfare style",
+            "ca-ES": "Estil fanfàrria romana",
+            "cs-CZ": "Římská fanfára",
+            "da-DK": "Romersk fanfare stil",
+            "de-DE": "Römischer Fanfarenstil",
+            "es-ES": "Estilo fanfarria romana",
+            "fr-FR": "Fanfare romaine",
+            "hu-HU": "Római harsona stílus",
+            "it-IT": "Stile fanfara romana",
+            "ja-JP": "ローマンファンファーレ・スタイル",
+            "ko-KR": "로마 팡파르 스타일",
+            "nl-NL": "Romeinsefanfarestijl",
+            "pl-PL": "Styl rzymskich fanfarów",
+            "pt-BR": "Estilo Fanfarra Romana",
+            "ru-RU": "Стиль римских фанфар",
+            "sv-SE": "Romerskt tema",
+            "tr-TR": "Roma tarzi",
+            "zh-CN": "罗马号角风格",
+            "zh-TW": "羅馬號角風格"
+        }
+    }
+}

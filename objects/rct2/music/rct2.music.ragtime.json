@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.ragtime",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC18|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 18,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css34.dat",
+                "name": "Searchlight Rag",
+                "composer": "Scott Joplin"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Ragtime style",
+            "ca-ES": "Estil ragtime",
+            "cs-CZ": "Ragtime",
+            "da-DK": "Ragtime stil",
+            "de-DE": "Ragtime-Stil",
+            "es-ES": "Estilo ragtime",
+            "fr-FR": "Ragtime",
+            "hu-HU": "Ragtime stílus",
+            "it-IT": "Stile ragtime",
+            "ja-JP": "ラグタイム・スタイル",
+            "ko-KR": "래그타임 스타일",
+            "nl-NL": "Ragtimestijl",
+            "pl-PL": "Styl ragtime",
+            "pt-BR": "Estilo Ragtime",
+            "ru-RU": "Стиль Регги",
+            "sv-SE": "Glade Chapplies piano",
+            "tr-TR": "Ragtime tarzı",
+            "zh-CN": "拉格泰姆风格",
+            "zh-TW": "雷格泰姆音樂風格"
+        }
+    }
+}

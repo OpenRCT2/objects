@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.martian",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC04|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 4,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css20.dat",
+                "name": "Invaders"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Martian style",
+            "ca-ES": "Estil marcià",
+            "cs-CZ": "Marťan",
+            "da-DK": "Maritim stil",
+            "de-DE": "Mars-Stil",
+            "es-ES": "Estilo marciano",
+            "fi-FI": "Marssilainen tyyli",
+            "fr-FR": "Alien",
+            "hu-HU": "Marsi stílus",
+            "it-IT": "Stile marziano",
+            "ja-JP": "火星スタイル",
+            "ko-KR": "화성 스타일",
+            "nl-NL": "Marsstijl",
+            "pl-PL": "Styl marsjański",
+            "pt-BR": "Estilo Marciano",
+            "ru-RU": "Марсианский стиль",
+            "sv-SE": "Marstema",
+            "tr-TR": "Marslı tarzı",
+            "zh-CN": "火星风格",
+            "zh-TW": "火星風格"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.space",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC09|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 9,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css25.dat",
+                "name": "Voyage to Andromeda"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Space style",
+            "ca-ES": "Estil espacial",
+            "cs-CZ": "Vesmír",
+            "da-DK": "Rum stil",
+            "de-DE": "Weltraumstil",
+            "es-ES": "Estilo espacio",
+            "fi-FI": "Avaruustyyli",
+            "fr-FR": "Espace",
+            "hu-HU": "Űrbéli stílus",
+            "it-IT": "Stile spaziale",
+            "ja-JP": "スペース・スタイル",
+            "ko-KR": "우주 스타일",
+            "nl-NL": "Ruimtestijl",
+            "pl-PL": "Styl kosmiczny",
+            "pt-BR": "Estilo Espaço",
+            "ru-RU": "Космический стиль",
+            "sv-SE": "Rymdtema",
+            "tr-TR": "Uzay tarzı",
+            "zh-CN": "太空风格",
+            "zh-TW": "太空風格"
+        }
+    }
+}

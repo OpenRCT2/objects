@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.wildwest",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC15|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 15,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css31.dat",
+                "name": "Wild West Kid"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Wild west style",
+            "ca-ES": "Estil salvatge oest",
+            "cs-CZ": "Divoký západ",
+            "da-DK": "Western stil",
+            "de-DE": "Wildwest-Stil",
+            "es-ES": "Estilo salvaje oeste",
+            "fi-FI": "Villilänsityyli",
+            "fr-FR": "Western",
+            "hu-HU": "Vadnyugati stílus",
+            "it-IT": "Stile far west",
+            "ja-JP": "ワイルドウエスト・スタイル",
+            "ko-KR": "서부 스타일",
+            "nl-NL": "Wildweststijl",
+            "pl-PL": "Styl dziki zachód",
+            "pt-BR": "Estilo Oeste Selvagem",
+            "ru-RU": "Стиль Дикого Запада",
+            "sv-SE": "Vilda västern-tema",
+            "tr-TR": "Vahşi batı tarzı",
+            "zh-CN": "西部荒野风格",
+            "zh-TW": "美國西部風格"
+        }
+    }
+}

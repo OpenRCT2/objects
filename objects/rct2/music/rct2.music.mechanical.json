@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.mechanical",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC28|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 28,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css42.dat",
+                "name": "Manic Mechanic"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Mechanical style",
+            "ca-ES": "Estil mecànic",
+            "cs-CZ": "Mechanika",
+            "da-DK": "Mekanisk stil",
+            "de-DE": "Maschinenstil",
+            "es-ES": "Estilo mecánico",
+            "fi-FI": "Mekaaninen tyyli",
+            "fr-FR": "Mécanique",
+            "hu-HU": "Gépi stílus",
+            "it-IT": "Stile meccanico",
+            "ja-JP": "メカニカル・スタイル",
+            "ko-KR": "기계적인 스타일",
+            "nl-NL": "Mechanische stijl",
+            "pl-PL": "Styl mechaniczny",
+            "pt-BR": "Estilo Mecânico",
+            "ru-RU": "Механический стиль",
+            "sv-SE": "Mekaniktema",
+            "tr-TR": "Mekanik tarz",
+            "zh-CN": "机械风格",
+            "zh-TW": "機械風格"
+        }
+    }
+}

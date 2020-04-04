@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.urban",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC26|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 26,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css40.dat",
+                "name": "Traffic Jam"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Urban style",
+            "ca-ES": "Estil urbà",
+            "cs-CZ": "Urban",
+            "da-DK": "Undergrunds stil",
+            "de-DE": "Stadtstil",
+            "es-ES": "Estilo urbano",
+            "fi-FI": "Kaupunkimainen tyyli",
+            "fr-FR": "Urbain",
+            "hu-HU": "Városi stílus",
+            "it-IT": "Stile urbano",
+            "ja-JP": "都市・スタイル",
+            "ko-KR": "도시 스타일",
+            "nl-NL": "Stadsstijl",
+            "pl-PL": "Styl uliczny",
+            "pt-BR": "Estilo Urbano",
+            "ru-RU": "Город",
+            "sv-SE": "Stadstema",
+            "tr-TR": "Şehir tarzı",
+            "zh-CN": "都市风格",
+            "zh-TW": "都市風格"
+        }
+    }
+}

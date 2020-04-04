@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.oriental",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC03|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 3,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css19.dat",
+                "name": "Ninja's Noodles"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Oriental style",
+            "ca-ES": "Estil oriental",
+            "cs-CZ": "Orient",
+            "da-DK": "Orientalsk stil",
+            "de-DE": "Orientstil",
+            "es-ES": "Estilo oriental",
+            "fi-FI": "Itämainen tyyli",
+            "fr-FR": "Oriental",
+            "hu-HU": "Keleti stílus",
+            "it-IT": "Stile orientale",
+            "ja-JP": "オリエンタル・スタイル",
+            "ko-KR": "동양 스타일",
+            "nl-NL": "Oosterse stijl",
+            "pl-PL": "Styl orientalny",
+            "pt-BR": "Estilo Oriental",
+            "ru-RU": "Восточный стиль",
+            "sv-SE": "Pagod-tema",
+            "tr-TR": "Oryantal tarzı",
+            "zh-CN": "东方风格",
+            "zh-TW": "東方風格"
+        }
+    }
+}

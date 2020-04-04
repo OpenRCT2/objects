@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.organ",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC27|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 27,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css41.dat",
+                "name": "Toccata",
+                "composer": "Charles-Marie Widor"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Organ style",
+            "ca-ES": "Estil orgue",
+            "cs-CZ": "Varhany",
+            "da-DK": "Orgel stil",
+            "de-DE": "Orgelstil",
+            "es-ES": "Estilo órgano",
+            "fr-FR": "Orgue",
+            "hu-HU": "Orgona stílus",
+            "it-IT": "Stile organo",
+            "ja-JP": "オルガン・スタイル",
+            "ko-KR": "오르간 스타일",
+            "nl-NL": "Orgelstijl",
+            "pl-PL": "Styl organowy",
+            "pt-BR": "Estilo Órgão",
+            "ru-RU": "Органный стиль",
+            "sv-SE": "Orgeltema",
+            "tr-TR": "Kilise tarzı",
+            "zh-CN": "风琴风格",
+            "zh-TW": "風琴風格"
+        }
+    }
+}

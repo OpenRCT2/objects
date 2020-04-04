@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.horror",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC10|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 10,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css26.dat",
+                "name": "Vampire's Lair"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Horror style",
+            "ca-ES": "Estil de pel·lícula de por",
+            "cs-CZ": "Horor",
+            "da-DK": "Gyser stil",
+            "de-DE": "Horrorstil",
+            "es-ES": "Estilo horror",
+            "fi-FI": "Kauhutyyli",
+            "fr-FR": "Horreur",
+            "hu-HU": "Rémisztő stílus",
+            "it-IT": "Stile horror",
+            "ja-JP": "ホラー・スタイル",
+            "ko-KR": "호러 스타일",
+            "nl-NL": "Horrorstijl",
+            "pl-PL": "Styl horror",
+            "pt-BR": "Estilo Horror",
+            "ru-RU": "Страшный стиль",
+            "sv-SE": "Skräcktema",
+            "tr-TR": "Korku tarzı",
+            "zh-CN": "恐怖风格",
+            "zh-TW": "恐怖風格"
+        }
+    }
+}
