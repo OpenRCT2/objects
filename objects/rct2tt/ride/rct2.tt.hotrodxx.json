@@ -81,7 +81,8 @@
             "ar-EG": "سيارات الطرق السريعة",
             "cs-CZ": "Hot Rod horská dráha",
             "pl-PL": "Podrasowane samochody",
-            "ru-RU": "Горки-Хотрод"
+            "ru-RU": "Горки-Хотрод",
+            "ja-JP": "ホットロッドレーストレイン",
         },
         "description": {
             "en-GB": "Air-powered launched roller coaster trains in the shape of hot rod cars",
@@ -94,6 +95,7 @@
             "ko-KR": "아주 짜릿한 공기 압축 방식으로 발진하여 차량이 수직 트랙을 향해 속력을 높인 뒤, 꼭대기에 다다르면 다시 수직으로 하강하며 다시 탑승장에 도착하는 놀이기구",
             "zh-TW": "在一陣令人興奮的高速氣壓式堆進器啟動,列車以高速衝向垂直頂端軌道,接著再垂直下墜到車站的另一端再回到車站",
             "pt-BR": "Vagões em formato de hot rod das montanhas russas com lançamento de propulsão a ar",
+            "ja-JP": "ホットロッド形状の空力で打ち上げられたジェットコースターの列車です",
             "cs-CZ": "Po mocném startu na stlačený vzduch se vozy rozjedou po svislé dráze, přes vrchol a svisle dolů zpět do stanice",
             "pl-PL": "Po ekscytującym starcie z pneumatycznej wyrzutni pociąg rozpędza się pod górę pionowego toru, pokonuje szczyt i spada pionowo z drugiej strony, by powrócić na stację",
             "ru-RU": "После ускоряющего толчка поезд разгоняется по вертикальному треку и опускается вниз на станцию."
@@ -108,6 +110,7 @@
             "sv-SE": "2 passagerare per vagn",
             "ko-KR": "차량당 2명의 승객",
             "zh-TW": "每輛車限乘2人",
+            "ja-JP": "各車両2名",
             "pt-BR": "2 passageiros por vagão",
             "cs-CZ": "2 místa v každém voze",
             "pl-PL": "2 pasażerów na wagonik",
