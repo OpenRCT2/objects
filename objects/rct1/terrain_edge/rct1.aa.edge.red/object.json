@@ -6,6 +6,7 @@
     "sourceGame": "rct1aa",
     "objectType": "terrain_edge",
     "properties": {
+        "hasDoors": true
     },
     "images": [
         { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
