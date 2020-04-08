@@ -15,11 +15,13 @@ parser.add_argument('-o', '--objects', default="objects", help='JSON objects dir
 parser.add_argument('-f', '--fallback', default="en-GB", help='Fallback language to check against', choices=supported_languages)
 parser.add_argument('-d', '--dumpfile', help='Translation file to export to', required=True)
 parser.add_argument('-l', '--language', help='Language that should be extracted, e.g. ja-JP', required=True, choices=supported_languages)
+parser.add_argument('-v', '--verbose', action='store_true', default=False, help='Maximize information printed on screen')
 args = parser.parse_args()
 
 language_to_extract = args.language
 fallback_language = args.fallback
 dump_file_name = args.dumpfile
+verbose = args.verbose
 
 strings_by_object = {}
 
@@ -36,13 +38,15 @@ for filename in glob.iglob(args.objects + '/**/*.json', recursive=True):
                 strings_by_object[data['id']] = {}
 
             if language_to_extract in data['strings'][string_key]:
-                print("Found existing translation for " + data['id'])
+                if verbose:
+                    print("Found existing translation for " + data['id'])
                 strings_by_object[data['id']][string_key] = data['strings'][string_key][language_to_extract]
             elif fallback_language in data['strings'][string_key]:
                 print("No existing translation for " + data['id'] + " yet, using English")
                 strings_by_object[data['id']][string_key] = data['strings'][string_key][fallback_language]
             else:
-                print("No existing translation for " + data['id'] + " yet, but no English string either -- skipping")
+                if verbose:
+                    print("No existing translation for " + data['id'] + " yet, but no English string either -- skipping")
                 # pprint(data)
 
 out = open(dump_file_name, "w", encoding="utf8")
