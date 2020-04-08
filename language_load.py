@@ -15,10 +15,12 @@ parser.add_argument('-o', '--objects', default="objects", help='JSON objects dir
 parser.add_argument('-f', '--fallback', default="en-GB", help='Fallback language to check against', choices=supported_languages)
 parser.add_argument('-i', '--input', help='Translation dump file to import from', required=True)
 parser.add_argument('-l', '--language', help='Language that is being translated, e.g. ja-JP', required=True, choices=supported_languages)
+parser.add_argument('-v', '--verbose', action='store_true', default=False, help='Maximize information printed on screen')
 args = parser.parse_args()
 
 language_to_import = args.language
 fallback_language = args.fallback
+verbose = args.verbose
 
 in_file = open(args.input, encoding="utf8")
 strings_by_object = json.load(in_file)
@@ -47,36 +49,43 @@ for filename in glob.iglob(args.objects + '/**/*.json', recursive=True):
     file.close()
 
     if not 'strings' in data:
-        print("No strings in " + data['id'] + " -- skipping")
+        if verbose:
+            print("No strings in " + data['id'] + " -- skipping")
         continue
 
     if not data['id'] in strings_by_object:
-        print("No translations for " + data['id'] + " in dump file -- skipping")
+        if verbose:
+            print("No translations for " + data['id'] + " in dump file -- skipping")
         continue
 
     updated = False
     for string_key in data['strings']:
 
         if not string_key in strings_by_object[data['id']]:
-            print("No translation for " + data['id'] + " string '" + string_key + "' in dump file -- skipping")
+            if verbose:
+                print("No translation for " + data['id'] + " string '" + string_key + "' in dump file -- skipping")
             continue
 
         if not fallback_language in data['strings'][string_key]:
-            print("No en-GB reference for " + data['id'] + " string '" + string_key + "' in dump file -- probably shouldn't exist; skipping")
+            if verbose:
+                print("No en-GB reference for " + data['id'] + " string '" + string_key + "' in dump file -- probably shouldn't exist; skipping")
             continue
 
         if not language_to_import in data['strings'][string_key]:
             if strings_by_object[data['id']][string_key] == data['strings'][string_key][fallback_language]:
                 # TODO: Is this desirable behaviour?
-                print("Translation for " + data['id'] + " string '" + string_key + "' is identical to en-GB -- skipping")
+                if verbose:
+                    print("Translation for " + data['id'] + " string '" + string_key + "' is identical to en-GB -- skipping")
                 continue
 
-            print("Adding " + data['id'] + " string '" + string_key + "'")
+            if verbose:
+                print("Adding " + data['id'] + " string '" + string_key + "'")
             data['strings'][string_key][language_to_import] = strings_by_object[data['id']][string_key]
             updated = True
         else:
             if strings_by_object[data['id']][string_key] == data['strings'][string_key][language_to_import]:
-                print("Translation for " + data['id'] + " string '" + string_key + "' has not changed -- skipping")
+                if verbose:
+                    print("Translation for " + data['id'] + " string '" + string_key + "' has not changed -- skipping")
                 continue
 
             print("Updating " + data['id'] + " string '" + string_key + "'")
