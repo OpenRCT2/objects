@@ -20,7 +20,7 @@ dump_file_name = args.dumpfile
 strings_by_object = {}
 
 for filename in glob.iglob(args.objects + '/**/*.json', recursive=True):
-    with open(filename) as file:
+    with open(filename, encoding="utf8") as file:
         data = json.load(file)
 
         if not 'strings' in data:
@@ -41,7 +41,7 @@ for filename in glob.iglob(args.objects + '/**/*.json', recursive=True):
                 print("No existing translation for " + data['id'] + " yet, but no English string either -- skipping")
                 # pprint(data)
 
-out = open(dump_file_name, "w")
+out = open(dump_file_name, "w", encoding="utf8")
 json.dump(strings_by_object, out, indent=4, ensure_ascii=False, separators=(',', ': '))
 out.write("\n")
 out.close()
