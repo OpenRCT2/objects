@@ -5,12 +5,16 @@ import glob
 import json
 # from pprint import pprint
 
+supported_languages = ["ar-EG", "ca-ES", "cs-CZ", "da-DK", "de-DE", "en-GB", "en-US", "es-ES", "fi-FI",\
+                       "fr-FR", "hu-HU", "it-IT", "ja-JP", "ko-KR", "nb-NO", "nl-NL", "pl-PL", "pt-BR",\
+                       "ru-RU", "sv-SE", "tr-TR", "zh-CN", "zh-TW"]
+
 # Command line arguments.
 parser = argparse.ArgumentParser(description='Dump translations for OpenRCT2\'s JSON objects.', formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 parser.add_argument('-o', '--objects', default="objects", help='JSON objects directory')
-parser.add_argument('-f', '--fallback', default="en-GB", help='Fallback language to check against')
+parser.add_argument('-f', '--fallback', default="en-GB", help='Fallback language to check against', choices=supported_languages)
 parser.add_argument('-d', '--dumpfile', help='Translation file to export to', required=True)
-parser.add_argument('-l', '--language', help='Language that should be extracted, e.g. ja-JP', required=True)
+parser.add_argument('-l', '--language', help='Language that should be extracted, e.g. ja-JP', required=True, choices=supported_languages)
 args = parser.parse_args()
 
 language_to_extract = args.language
