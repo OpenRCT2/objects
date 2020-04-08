@@ -16,7 +16,7 @@ args = parser.parse_args()
 language_to_import = args.language
 fallback_language = args.fallback
 
-in_file = open(args.input)
+in_file = open(args.input, encoding="utf8")
 strings_by_object = json.load(in_file)
 in_file.close()
 
@@ -38,7 +38,7 @@ class LessVerboseJSONEncoder(json.JSONEncoder):
             yield s
 
 for filename in glob.iglob(args.objects + '/**/*.json', recursive=True):
-    file = open(filename)
+    file = open(filename, encoding="utf8")
     data = json.load(file)
     file.close()
 
@@ -80,7 +80,7 @@ for filename in glob.iglob(args.objects + '/**/*.json', recursive=True):
             updated = True
 
     if updated:
-        file = open(filename, "w")
+        file = open(filename, "w", encoding="utf8")
         json.dump(data, file, indent=4, separators=(',', ': '), ensure_ascii=False, cls=LessVerboseJSONEncoder)
         file.write("\n")
         file.close()
