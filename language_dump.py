@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Dump translations for OpenRCT2\'s JSON objects given a language and a file
+Dump translations for OpenRCT2's JSON objects given a language and a file
 """
 
 import argparse
@@ -34,7 +34,7 @@ def extract_translations(language_to_extract, fallback_language, verbose, filena
         data = json.load(file)
 
         if not 'strings' in data:
-            print("No strings in " + data['id'] + ", skipping")
+            print(f"No strings in {data['id']}, skipping")
             return
 
         for string_key in data['strings']:
@@ -43,21 +43,20 @@ def extract_translations(language_to_extract, fallback_language, verbose, filena
 
             if language_to_extract in data['strings'][string_key]:
                 if verbose:
-                    print("Found existing translation for " + data['id'])
-                strings_by_object[data['id']][string_key] = \
-                    data['strings'][string_key][language_to_extract]
+                    print(f"Found existing translation for {data['id']}")
+                current_translation = data['strings'][string_key][language_to_extract]
+                strings_by_object[data['id']][string_key] = current_translation
             elif fallback_language in data['strings'][string_key]:
-                print("No existing translation for " + data['id'] + \
-                      " yet, using English")
-                strings_by_object[data['id']][string_key] = \
-                    data['strings'][string_key][fallback_language]
+                print(f"No existing translation for {data['id']} yet, using {fallback_language}")
+                fallback_translation = data['strings'][string_key][fallback_language]
+                strings_by_object[data['id']][string_key] = fallback_translation
             else:
                 if verbose:
-                    print("No existing translation for " + data['id'] + \
-                          " yet, but no English string either -- skipping")
+                    print(f"No existing translation for {data['id']} yet,"
+                          f" but no {fallback_language} string either -- skipping")
 
 def dump_translations():
-    """ Dump translations for OpenRCT2\'s JSON objects """
+    """ Dump translations for OpenRCT2's JSON objects """
     parser = get_arg_parser()
     args = parser.parse_args()
     language_to_extract = args.language
