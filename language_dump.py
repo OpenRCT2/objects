@@ -79,7 +79,7 @@ def dump_translations():
         reference_str_count += ref_obj_translation
         translated_str_count += obj_translations
 
-    translation_progress = round(100*translated_str_count/reference_str_count, 2)
+    translation_progress = round(100 * translated_str_count / reference_str_count, 2)
     print(f'{language_to_extract}: {translation_progress}% completeness')
 
     dump_file_name = args.dumpfile
