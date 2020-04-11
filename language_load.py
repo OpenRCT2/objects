@@ -123,18 +123,12 @@ def update_translation(target_lang, ref_lang, verbose, filename, strings_by_obje
             continue
 
         previously_translated = translation_existed(target_lang, data['strings'][string_key])
-        translation_needs_update = False
         if previously_translated:
             translation = data['strings'][string_key][target_lang]
-            target_string = strings_by_object[obj_id][string_key]
-            translation_needs_update = translation_changed(verbose, obj_id, string_key,\
-                                          translation, target_string)
         else:
             translation = data['strings'][string_key][ref_lang]
-            target_string = strings_by_object[obj_id][string_key]
-            translation_needs_update = translation_changed(verbose, obj_id, string_key,\
-                                          translation, target_string)
-        if translation_needs_update:
+        target_string = strings_by_object[obj_id][string_key]
+        if translation_changed(verbose, obj_id, string_key, translation, target_string):
             print("Updating " + obj_id + " string '" + string_key + "'")
             data['strings'][string_key][target_lang] = strings_by_object[obj_id][string_key]
             updated = True
