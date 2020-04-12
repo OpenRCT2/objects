@@ -27,12 +27,14 @@ def get_arg_parser():
     parser.add_argument('-o', '--objects', default="objects", help='JSON objects directory')
     parser.add_argument('-f', '--fallback', default="en-GB",\
                         help='Fallback language to check against', choices=SUPPORTED_LANGUAGES)
-    group = parser.add_mutually_exclusive_group(required=True)
-    group.add_argument('-i', '--input', help='Translation dump file to import from')
-    group.add_argument('-d', '--dir', help='Directory with translation dump files to import from',\
-                       type=dir_path)
-    parser.add_argument('-l', '--language', help='Language that is being translated, e.g. ja-JP',\
-                        required=True, choices=SUPPORTED_LANGUAGES)
+    input_group = parser.add_mutually_exclusive_group(required=True)
+    input_group.add_argument('-i', '--input', help='Translation dump file to import from')
+    input_group.add_argument('-d', '--dir', type=dir_path,\
+                             help='Directory with translation dump files to import from')
+    language_group = parser.add_mutually_exclusive_group(required=True)
+    language_group.add_argument('-l', '--language', choices=SUPPORTED_LANGUAGES,\
+                                help='Language that is being translated, e.g. ja-JP')
+    language_group.add_argument('-a', '--all-languages', action='store_true')
     parser.add_argument('-v', '--verbose', action='store_true', default=False,\
                         help='Maximize information printed on screen')
     return parser
@@ -68,7 +70,7 @@ def translatable(verbose, data):
     if 'strings' in data:
         return True
     if verbose:
-        print("No strings in " + data['id'] + " -- skipping")
+        print(f"No strings in {data['id']} -- skipping")
     return False
 
 def is_object_translated(verbose, object_id, strings_by_object):
@@ -76,7 +78,7 @@ def is_object_translated(verbose, object_id, strings_by_object):
     if object_id in strings_by_object:
         return True
     if verbose:
-        print("No translations for " + object_id + " in dump file -- skipping")
+        print(f"No translations for {object_id} in dump file -- skipping")
     return False
 
 def is_key_translated(verbose, obj_id, key, object_json):
@@ -84,7 +86,7 @@ def is_key_translated(verbose, obj_id, key, object_json):
     if key in object_json:
         return True
     if verbose:
-        print("No translation for " + obj_id + " string '" + key + "' in dump file -- skipping")
+        print(f"No translation for {obj_id} string '{key}' in dump file -- skipping")
     return False
 
 def fallback_key_exists(verbose, fallback_language, obj_id, key, object_json):
@@ -92,8 +94,8 @@ def fallback_key_exists(verbose, fallback_language, obj_id, key, object_json):
     if fallback_language in object_json:
         return True
     if verbose:
-        print("No en-GB reference for " + obj_id + " string '" + key + \
-              "' in dump file -- probably shouldn't exist; skipping")
+        print(f"No {fallback_language} reference for {obj_id} string '{key}'"
+              f" in dump file -- probably shouldn't exist; skipping")
     return False
 
 def translation_existed(target_lang, translations):
@@ -106,7 +108,7 @@ def translation_changed(verbose, obj_id, key, translation, target_string):
     """ Checks if the translation for a given key changed """
     if target_string == translation:
         if verbose:
-            print("Translation for " + obj_id + " string '" + key + "' has not changed -- skipping")
+            print(f"Translation for {obj_id} string '{key}' has not changed -- skipping")
         return False
     return True
 
@@ -139,24 +141,30 @@ def update_translation(target_lang, ref_lang, verbose, filename, strings_by_obje
             translation = data['strings'][string_key][ref_lang]
         target_string = strings_by_object[obj_id][string_key]
         if translation_changed(verbose, obj_id, string_key, translation, target_string):
-            print("Updating " + obj_id + " string '" + string_key + "'")
+            print(f"{target_lang}: Updating {obj_id} string '{string_key}'")
             data['strings'][string_key][target_lang] = strings_by_object[obj_id][string_key]
             updated = True
 
     if updated:
         update_object_translation(filename, data, file)
 
-def load_translations():
-    """ Load translations from the given file into each object JSON """
-    parser = get_arg_parser()
-    args = parser.parse_args()
-
-    in_file = open(args.input, encoding="utf8")
+def load_translation(language, fallback_language, verbose, input_filename, objects):
+    """ Load translation from the given file into each object JSON """
+    in_file = open(input_filename, encoding="utf8")
     strings_by_object = json.load(in_file)
     in_file.close()
 
-    for filename in glob.iglob(args.objects + '/**/*.json', recursive=True):
-        update_translation(args.language, args.fallback, args.verbose, filename, strings_by_object)
+    for filename in glob.iglob(objects + '/**/*.json', recursive=True):
+        update_translation(language, fallback_language, verbose, filename, strings_by_object)
+
+def load_translations():
+    """ Load translations from the given files into each object JSON """
+    parser = get_arg_parser()
+    args = parser.parse_args()
+    languages_to_extract = SUPPORTED_LANGUAGES if args.all_languages else args.language
+    for lang in languages_to_extract:
+        read_file_name = f'{args.dir}/{lang}.json' if args.all_languages else args.input
+        load_translation(lang, args.fallback, args.verbose, read_file_name, args.objects)
 
 if __name__ == "__main__":
     load_translations()
