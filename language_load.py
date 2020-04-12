@@ -161,7 +161,7 @@ def load_translations():
     """ Load translations from the given files into each object JSON """
     parser = get_arg_parser()
     args = parser.parse_args()
-    languages_to_extract = SUPPORTED_LANGUAGES if args.all_languages else args.language
+    languages_to_extract = SUPPORTED_LANGUAGES if args.all_languages else [args.language]
     for lang in languages_to_extract:
         read_file_name = f'{args.dir}/{lang}.json' if args.all_languages else args.input
         load_translation(lang, args.fallback, args.verbose, read_file_name, args.objects)
