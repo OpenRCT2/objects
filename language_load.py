@@ -27,12 +27,14 @@ def get_arg_parser():
     parser.add_argument('-o', '--objects', default="objects", help='JSON objects directory')
     parser.add_argument('-f', '--fallback', default="en-GB",\
                         help='Fallback language to check against', choices=SUPPORTED_LANGUAGES)
-    group = parser.add_mutually_exclusive_group(required=True)
-    group.add_argument('-i', '--input', help='Translation dump file to import from')
-    group.add_argument('-d', '--dir', help='Directory with translation dump files to import from',\
-                       type=dir_path)
-    parser.add_argument('-l', '--language', help='Language that is being translated, e.g. ja-JP',\
-                        required=True, choices=SUPPORTED_LANGUAGES)
+    input_group = parser.add_mutually_exclusive_group(required=True)
+    input_group.add_argument('-i', '--input', help='Translation dump file to import from')
+    input_group.add_argument('-d', '--dir', type=dir_path,\
+                             help='Directory with translation dump files to import from')
+    language_group = parser.add_mutually_exclusive_group(required=True)
+    language_group.add_argument('-l', '--language', choices=SUPPORTED_LANGUAGES,\
+                                help='Language that is being translated, e.g. ja-JP')
+    language_group.add_argument('-a', '--all-languages', action='store_true')
     parser.add_argument('-v', '--verbose', action='store_true', default=False,\
                         help='Maximize information printed on screen')
     return parser
@@ -146,17 +148,23 @@ def update_translation(target_lang, ref_lang, verbose, filename, strings_by_obje
     if updated:
         update_object_translation(filename, data, file)
 
-def load_translations():
-    """ Load translations from the given file into each object JSON """
-    parser = get_arg_parser()
-    args = parser.parse_args()
-
-    in_file = open(args.input, encoding="utf8")
+def load_translation(language, fallback_language, verbose, input_filename, objects):
+    """ Load translation from the given file into each object JSON """
+    in_file = open(input_filename, encoding="utf8")
     strings_by_object = json.load(in_file)
     in_file.close()
 
-    for filename in glob.iglob(args.objects + '/**/*.json', recursive=True):
-        update_translation(args.language, args.fallback, args.verbose, filename, strings_by_object)
+    for filename in glob.iglob(objects + '/**/*.json', recursive=True):
+        update_translation(language, fallback_language, verbose, filename, strings_by_object)
+
+def load_translations():
+    """ Load translations from the given files into each object JSON """
+    parser = get_arg_parser()
+    args = parser.parse_args()
+    languages_to_extract = SUPPORTED_LANGUAGES if args.all_languages else args.language
+    for lang in languages_to_extract:
+        read_file_name = f'{args.dir}/{lang}.json' if args.all_languages else args.input
+        load_translation(lang, args.fallback, args.verbose, read_file_name, args.objects)
 
 if __name__ == "__main__":
     load_translations()
