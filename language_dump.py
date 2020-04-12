@@ -26,12 +26,14 @@ def get_arg_parser():
     parser.add_argument('-o', '--objects', default="objects", help='JSON objects directory')
     parser.add_argument('-f', '--fallback', default="en-GB",\
                         help='Fallback language to check against', choices=SUPPORTED_LANGUAGES)
-    group = parser.add_mutually_exclusive_group(required=True)
-    group.add_argument('-t', '--target_dir', help='Directory to dump translation files',\
-                       type=dir_path)
-    group.add_argument('-d', '--dumpfile', help='Translation file to export to')
-    parser.add_argument('-l', '--language', help='Language that should be extracted, e.g. ja-JP',\
-                        required=True, choices=SUPPORTED_LANGUAGES)
+    target_group = parser.add_mutually_exclusive_group(required=True)
+    target_group.add_argument('-t', '--target_dir', help='Directory to dump translation files',\
+                              type=dir_path)
+    target_group.add_argument('-d', '--dumpfile', help='Translation file to export to')
+    language_group = parser.add_mutually_exclusive_group(required=True)
+    language_group.add_argument('-l', '--language', choices=SUPPORTED_LANGUAGES,\
+                                help='Language that should be extracted, e.g. ja-JP')
+    language_group.add_argument('-a', '--all-languages', action='store_true')
     parser.add_argument('-v', '--verbose', action='store_true', default=False,\
                         help='Maximize information printed on screen')
     return parser
@@ -61,7 +63,9 @@ def extract_translations(language_to_extract, fallback_language, verbose, filena
                 reference_str_count += 1
                 translated_str_count += 1
             elif fallback_language in data['strings'][string_key]:
-                print(f"No existing translation for {data['id']} yet, using {fallback_language}")
+                if verbose:
+                    print(f"No existing translation for {data['id']} yet,"
+                          f" using {fallback_language}")
                 fallback_translation = data['strings'][string_key][fallback_language]
                 strings_by_object[data['id']][string_key] = fallback_translation
                 reference_str_count += 1
@@ -71,18 +75,13 @@ def extract_translations(language_to_extract, fallback_language, verbose, filena
                           f" but no {fallback_language} string either -- skipping")
     return (translated_str_count, reference_str_count)
 
-def dump_translations():
-    """ Dump translations for OpenRCT2's JSON objects """
-    parser = get_arg_parser()
-    args = parser.parse_args()
-    language_to_extract = args.language
-    fallback_language = args.fallback
-    verbose = args.verbose
+def dump_translation(language_to_extract, fallback_language, verbose, dump_file_name, objects):
+    """ Dump a language translation for OpenRCT2's JSON objects """
     strings_by_object = {}
     reference_str_count = 0
     translated_str_count = 0
 
-    for filename in glob.iglob(args.objects + '/**/*.json', recursive=True):
+    for filename in glob.iglob(objects + '/**/*.json', recursive=True):
         obj_translations, ref_obj_translation =\
             extract_translations(language_to_extract, fallback_language, verbose,\
                                  filename, strings_by_object)
@@ -92,11 +91,21 @@ def dump_translations():
     translation_progress = round(100 * translated_str_count / reference_str_count, 2)
     print(f'{language_to_extract}: {translation_progress}% completeness')
 
-    dump_file_name = args.dumpfile
     out = open(dump_file_name, "w", encoding="utf8")
     json.dump(strings_by_object, out, indent=4, ensure_ascii=False, separators=(',', ': '))
     out.write("\n")
     out.close()
+
+def dump_translations():
+    """ Dump translations for OpenRCT2's JSON objects """
+    parser = get_arg_parser()
+    args = parser.parse_args()
+    languages_to_extract = SUPPORTED_LANGUAGES if args.all_languages else args.language
+    fallback_language = args.fallback
+    verbose = args.verbose
+    for lang in languages_to_extract:
+        dump_file_name = f'{args.target_dir}/{lang}.json' if args.all_languages else args.dumpfile
+        dump_translation(lang, fallback_language, verbose, dump_file_name, args.objects)
 
 if __name__ == "__main__":
     dump_translations()
