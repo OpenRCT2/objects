@@ -7,6 +7,7 @@ import argparse
 import glob
 import json
 import os
+import sys
 # from pprint import pprint
 
 SUPPORTED_LANGUAGES = ["ar-EG", "ca-ES", "cs-CZ", "da-DK", "de-DE", "en-GB", "en-US", "es-ES",\
@@ -39,6 +40,14 @@ def get_arg_parser():
     parser.add_argument('-m', '--missing', action='store_true', default=False,\
                         help='Only dump keys with missing translation')
     return parser
+
+def parse_required_switch_pairs(args):
+    """ Make sure only valid switch pairs are used """
+    single_language = args.language and args.dumpfile
+    all_languages = args.all_languages and args.target_dir
+    if not single_language and not all_languages:
+        print(f"Invalid switch pair. Use '-l <lang> -d <file>' or '-a -t <target_dir>")
+        sys.exit()
 
 def add_key_value(strings_by_object, obj_id, key, value):
     """ Add key-value pair to id entry in dict, initializing id if not valid """
@@ -116,6 +125,7 @@ def dump_translations():
     """ Dump translations for OpenRCT2's JSON objects """
     parser = get_arg_parser()
     args = parser.parse_args()
+    parse_required_switch_pairs(args)
     languages_to_extract = SUPPORTED_LANGUAGES if args.all_languages else [args.language]
     for lang in languages_to_extract:
         dump_file_name = f'{args.target_dir}/{lang}.json' if args.all_languages else args.dumpfile
