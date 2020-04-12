@@ -106,7 +106,7 @@ def dump_translations():
     """ Dump translations for OpenRCT2's JSON objects """
     parser = get_arg_parser()
     args = parser.parse_args()
-    languages_to_extract = SUPPORTED_LANGUAGES if args.all_languages else args.language
+    languages_to_extract = SUPPORTED_LANGUAGES if args.all_languages else [args.language]
     fallback_language = args.fallback
     verbose = args.verbose
     for lang in languages_to_extract:
