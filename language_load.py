@@ -70,7 +70,7 @@ def translatable(verbose, data):
     if 'strings' in data:
         return True
     if verbose:
-        print("No strings in " + data['id'] + " -- skipping")
+        print(f"No strings in {data['id']} -- skipping")
     return False
 
 def is_object_translated(verbose, object_id, strings_by_object):
@@ -78,7 +78,7 @@ def is_object_translated(verbose, object_id, strings_by_object):
     if object_id in strings_by_object:
         return True
     if verbose:
-        print("No translations for " + object_id + " in dump file -- skipping")
+        print(f"No translations for {object_id} in dump file -- skipping")
     return False
 
 def is_key_translated(verbose, obj_id, key, object_json):
@@ -86,7 +86,7 @@ def is_key_translated(verbose, obj_id, key, object_json):
     if key in object_json:
         return True
     if verbose:
-        print("No translation for " + obj_id + " string '" + key + "' in dump file -- skipping")
+        print(f"No translation for {obj_id} string '{key}' in dump file -- skipping")
     return False
 
 def fallback_key_exists(verbose, fallback_language, obj_id, key, object_json):
@@ -94,8 +94,8 @@ def fallback_key_exists(verbose, fallback_language, obj_id, key, object_json):
     if fallback_language in object_json:
         return True
     if verbose:
-        print("No en-GB reference for " + obj_id + " string '" + key + \
-              "' in dump file -- probably shouldn't exist; skipping")
+        print(f"No {fallback_language} reference for {obj_id} string '{key}'"
+              f" in dump file -- probably shouldn't exist; skipping")
     return False
 
 def translation_existed(target_lang, translations):
@@ -108,7 +108,7 @@ def translation_changed(verbose, obj_id, key, translation, target_string):
     """ Checks if the translation for a given key changed """
     if target_string == translation:
         if verbose:
-            print("Translation for " + obj_id + " string '" + key + "' has not changed -- skipping")
+            print(f"Translation for {obj_id} string '{key}' has not changed -- skipping")
         return False
     return True
 
@@ -141,7 +141,7 @@ def update_translation(target_lang, ref_lang, verbose, filename, strings_by_obje
             translation = data['strings'][string_key][ref_lang]
         target_string = strings_by_object[obj_id][string_key]
         if translation_changed(verbose, obj_id, string_key, translation, target_string):
-            print("Updating " + obj_id + " string '" + string_key + "'")
+            print(f"{target_lang}: Updating {obj_id} string '{string_key}'")
             data['strings'][string_key][target_lang] = strings_by_object[obj_id][string_key]
             updated = True
 
