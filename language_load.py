@@ -6,11 +6,18 @@ Imports translations into OpenRCT2's JSON objects given a language and an input 
 import argparse
 import glob
 import json
+import os
 import re
 
 SUPPORTED_LANGUAGES = ["ar-EG", "ca-ES", "cs-CZ", "da-DK", "de-DE", "en-GB", "en-US", "es-ES",\
                        "fi-FI", "fr-FR", "hu-HU", "it-IT", "ja-JP", "ko-KR", "nb-NO", "nl-NL",\
                        "pl-PL", "pt-BR", "ru-RU", "sv-SE", "tr-TR", "zh-CN", "zh-TW"]
+
+def dir_path(string):
+    """ Checks for a valid dir_path """
+    if os.path.isdir(string):
+        return string
+    raise NotADirectoryError(string)
 
 def get_arg_parser():
     """ Command line arguments """
@@ -20,7 +27,10 @@ def get_arg_parser():
     parser.add_argument('-o', '--objects', default="objects", help='JSON objects directory')
     parser.add_argument('-f', '--fallback', default="en-GB",\
                         help='Fallback language to check against', choices=SUPPORTED_LANGUAGES)
-    parser.add_argument('-i', '--input', help='Translation dump file to import from', required=True)
+    group = parser.add_mutually_exclusive_group(required=True)
+    group.add_argument('-i', '--input', help='Translation dump file to import from')
+    group.add_argument('-d', '--dir', help='Directory with translation dump files to import from',\
+                       type=dir_path)
     parser.add_argument('-l', '--language', help='Language that is being translated, e.g. ja-JP',\
                         required=True, choices=SUPPORTED_LANGUAGES)
     parser.add_argument('-v', '--verbose', action='store_true', default=False,\
