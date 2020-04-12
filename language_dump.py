@@ -55,10 +55,16 @@ def extract_translations(language_to_extract, fallback_language, verbose, filena
             if not data['id'] in strings_by_object:
                 strings_by_object[data['id']] = {}
 
+            if fallback_language in data['strings'][string_key]:
+                fallback_translation = data['strings'][string_key][fallback_language]
+            else:
+                fallback_translation = ""
+
             if language_to_extract in data['strings'][string_key]:
                 if verbose:
                     print(f"Found existing translation for {data['id']}")
                 current_translation = data['strings'][string_key][language_to_extract]
+                strings_by_object[data['id']][f'reference-{string_key}'] = fallback_translation
                 strings_by_object[data['id']][string_key] = current_translation
                 reference_str_count += 1
                 translated_str_count += 1
@@ -66,7 +72,7 @@ def extract_translations(language_to_extract, fallback_language, verbose, filena
                 if verbose:
                     print(f"No existing translation for {data['id']} yet,"
                           f" using {fallback_language}")
-                fallback_translation = data['strings'][string_key][fallback_language]
+                strings_by_object[data['id']][f'reference-{string_key}'] = fallback_translation
                 strings_by_object[data['id']][string_key] = fallback_translation
                 reference_str_count += 1
             else:
