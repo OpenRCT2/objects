@@ -36,12 +36,21 @@ def get_arg_parser():
     language_group.add_argument('-a', '--all-languages', action='store_true')
     parser.add_argument('-v', '--verbose', action='store_true', default=False,\
                         help='Maximize information printed on screen')
+    parser.add_argument('-m', '--missing', action='store_true', default=False,\
+                        help='Only dump keys with missing translation')
     return parser
 
-def extract_translations(language_to_extract, fallback_language, verbose, filename,\
-                         strings_by_object):
+def add_key_value(strings_by_object, obj_id, key, value):
+    """ Add key-value pair to id entry in dict, initializing id if not valid """
+    if not obj_id in strings_by_object:
+        strings_by_object[obj_id] = {}
+    strings_by_object[obj_id][key] = value
+
+def extract_translations(language_to_extract, args, filename, strings_by_object):
     """ Read JSON file and extracts translations for a given language """
 
+    fallback_language = args.fallback
+    verbose = args.verbose
     reference_str_count = 0
     translated_str_count = 0
     with open(filename, encoding="utf8") as file:
@@ -52,8 +61,7 @@ def extract_translations(language_to_extract, fallback_language, verbose, filena
             return (translated_str_count, reference_str_count)
 
         for string_key in data['strings']:
-            if not data['id'] in strings_by_object:
-                strings_by_object[data['id']] = {}
+
 
             if fallback_language in data['strings'][string_key]:
                 fallback_translation = data['strings'][string_key][fallback_language]
@@ -64,16 +72,19 @@ def extract_translations(language_to_extract, fallback_language, verbose, filena
                 if verbose:
                     print(f"Found existing translation for {data['id']}")
                 current_translation = data['strings'][string_key][language_to_extract]
-                strings_by_object[data['id']][f'reference-{string_key}'] = fallback_translation
-                strings_by_object[data['id']][string_key] = current_translation
+                ref_key = f'reference-{string_key}'
+                if not args.missing:
+                    add_key_value(strings_by_object, data['id'], ref_key, fallback_translation)
+                    add_key_value(strings_by_object, data['id'], string_key, current_translation)
                 reference_str_count += 1
                 translated_str_count += 1
             elif fallback_language in data['strings'][string_key]:
                 if verbose:
                     print(f"No existing translation for {data['id']} yet,"
                           f" using {fallback_language}")
-                strings_by_object[data['id']][f'reference-{string_key}'] = fallback_translation
-                strings_by_object[data['id']][string_key] = fallback_translation
+                ref_key = f'reference-{string_key}'
+                add_key_value(strings_by_object, data['id'], ref_key, fallback_translation)
+                add_key_value(strings_by_object, data['id'], string_key, fallback_translation)
                 reference_str_count += 1
             else:
                 if verbose:
@@ -81,16 +92,15 @@ def extract_translations(language_to_extract, fallback_language, verbose, filena
                           f" but no {fallback_language} string either -- skipping")
     return (translated_str_count, reference_str_count)
 
-def dump_translation(language_to_extract, fallback_language, verbose, dump_file_name, objects):
+def dump_translation(language_to_extract, args, dump_file_name):
     """ Dump a language translation for OpenRCT2's JSON objects """
     strings_by_object = {}
     reference_str_count = 0
     translated_str_count = 0
 
-    for filename in glob.iglob(objects + '/**/*.json', recursive=True):
+    for filename in glob.iglob(args.objects + '/**/*.json', recursive=True):
         obj_translations, ref_obj_translation =\
-            extract_translations(language_to_extract, fallback_language, verbose,\
-                                 filename, strings_by_object)
+            extract_translations(language_to_extract, args, filename, strings_by_object)
         reference_str_count += ref_obj_translation
         translated_str_count += obj_translations
 
@@ -107,11 +117,9 @@ def dump_translations():
     parser = get_arg_parser()
     args = parser.parse_args()
     languages_to_extract = SUPPORTED_LANGUAGES if args.all_languages else [args.language]
-    fallback_language = args.fallback
-    verbose = args.verbose
     for lang in languages_to_extract:
         dump_file_name = f'{args.target_dir}/{lang}.json' if args.all_languages else args.dumpfile
-        dump_translation(lang, fallback_language, verbose, dump_file_name, args.objects)
+        dump_translation(lang, args, dump_file_name)
 
 if __name__ == "__main__":
     dump_translations()
