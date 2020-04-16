@@ -8,6 +8,7 @@ import glob
 import json
 import os
 import re
+import sys
 
 SUPPORTED_LANGUAGES = ["ar-EG", "ca-ES", "cs-CZ", "da-DK", "de-DE", "en-GB", "en-US", "es-ES",\
                        "fi-FI", "fr-FR", "hu-HU", "it-IT", "ja-JP", "ko-KR", "nb-NO", "nl-NL",\
@@ -38,6 +39,14 @@ def get_arg_parser():
     parser.add_argument('-v', '--verbose', action='store_true', default=False,\
                         help='Maximize information printed on screen')
     return parser
+
+def parse_required_switch_pairs(args):
+    """ Make sure only valid switch pairs are used """
+    single_language = args.language and args.input
+    all_languages = args.all_languages and args.dir
+    if not single_language and not all_languages:
+        print(f"Invalid switch pair. Use '-l <lang> -i <file>' or '-a -d <target_dir>")
+        sys.exit()
 
 class LessVerboseJSONEncoder(json.JSONEncoder):
     """ Custom JSON Encoder that reduces output verbosity """
@@ -161,6 +170,7 @@ def load_translations():
     """ Load translations from the given files into each object JSON """
     parser = get_arg_parser()
     args = parser.parse_args()
+    parse_required_switch_pairs(args)
     languages_to_extract = SUPPORTED_LANGUAGES if args.all_languages else [args.language]
     for lang in languages_to_extract:
         read_file_name = f'{args.dir}/{lang}.json' if args.all_languages else args.input
