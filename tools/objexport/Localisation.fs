@@ -21,7 +21,7 @@ module Localisation =
                 |> Seq.map (fun (_, b, c) -> (b, c))
             (key, newValue))
 
-    let private getObjectStringsFromLanguageFile path =
+    let private getObjectStringsFromLanguageFile (path: string) =
         printfn "Reading object strings from %s" (Path.GetFileName path)
 
         let (|Object|_|) (s : string) =

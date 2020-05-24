@@ -102,7 +102,7 @@ module ObjectExporter =
         | 13 -> "pt-BR"
         | i -> i.ToString()
 
-    let exportObject outputPath (ourStrings: IDictionary<string, IDictionary<string, string>>) (inputPath, (obj: ObjectData)) =
+    let exportObject outputPath (ourStrings: IDictionary<string, IDictionary<string, string>>) (inputPath: string, (obj: ObjectData)) =
         let inputFileName = Path.GetFileNameWithoutExtension(inputPath).ToUpper()
         let objName = obj.ObjectHeader.FileName.ToUpper()
         let objId = getObjId obj
