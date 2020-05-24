@@ -1,0 +1,36 @@
+{
+    "id": "rct2.dlc.scgpanda",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "09F8ED07|SCGPANDA|34EFBA3D",
+    "sourceGame": "official",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "BIGPANDA",
+            "PANDAGR",
+            "LITTERPA"
+        ],
+        "priority": 40
+    },
+    "images": [
+        { "path": "images/0.png", "x": 0, "y": 0 },
+        { "path": "images/1.png", "x": 0, "y": 0 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Panda Themeing",
+            "fr-FR": "Thème Panda",
+            "de-DE": "Pandathema",
+            "es-ES": "Temática Panda",
+            "it-IT": "Tema panda",
+            "nl-NL": "Pandathema",
+            "sv-SE": "Pandatema",
+            "ko-KR": "판다 테마 공원",
+            "zh-TW": "熊貓主題區",
+            "pt-BR": "Temática Panda",
+            "ar_EG": "ثيم الباندا",
+            "ja-JP": "パンダのテーマ"
+        }
+    }
+}
