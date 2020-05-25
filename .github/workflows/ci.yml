@@ -1,0 +1,28 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  build-objexport:
+    name: Build objexport
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup .NET Core SDK
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: 3.1.300
+      - name: Restore
+        working-directory: tools/objexport
+        run: dotnet restore
+      - name: Build
+        working-directory: tools/objexport
+        run: dotnet build --configuration Release --no-restore
+      - name: Test
+        working-directory: tools/objexport
+        run: |
+          dotnet run --no-restore || ec=$?
+          if [ $ec = 1 ]; then
+              exit 0
+          else
+              exit 1
+          fi
