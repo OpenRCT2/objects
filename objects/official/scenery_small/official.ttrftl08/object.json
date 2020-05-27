@@ -1,9 +1,9 @@
 {
-    "id": "rct2.roof4",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "id": "other.ttrftl08",
+    "authors": ["Simon Foster", "ToonTowner"],
     "version": "1.0",
-    "originalId": "0A188D81|ROOF4   |82C4310B",
-    "sourceGame": "rct2",
+    "originalId": "09F55801|TTRFTL08|B01CC127",
+    "sourceGame": "official",
     "objectType": "scenery_small",
     "properties": {
         "price": 20,
@@ -19,7 +19,12 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/ROOF4.DAT[0..3]"],
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -2 },
+        { "path": "images/1.png", "x": -32, "y": -2 },
+        { "path": "images/2.png", "x": -32, "y": -2 },
+        { "path": "images/3.png", "x": -32, "y": -2 }
+    ],
     "strings": {
         "name": {
             "en-GB": "Roof",
