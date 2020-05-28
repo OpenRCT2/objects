@@ -646,7 +646,8 @@ module PropertyExtractor =
           isLongDoorAnimation = ((int wall.Header.Flags) &&& 32) <> 0
           isDoor = wall.Header.Flags.HasFlag(WallFlags.Door)
           isBanner = wall.Header.Flags.HasFlag(WallFlags.TwoSides)
-          hasPrimaryColour = wall.Header.Flags.HasFlag(WallFlags.Remap1)
+          // Remap1 is always set if there is *any* remap colour. To suppress remap colour 1, the lowest bit of "Effects" can be set to 1.
+          hasPrimaryColour = (wall.Header.Flags.HasFlag(WallFlags.Remap1) && ((int wall.Header.Effects) &&& (1 <<< 0)) = 0)
           hasSecondaryColour = wall.Header.Flags.HasFlag(WallFlags.Remap2)
           hasTernaryColour = wall.Header.Flags.HasFlag(WallFlags.Remap3)
           hasGlass = wall.Header.Flags.HasFlag(WallFlags.Glass)
