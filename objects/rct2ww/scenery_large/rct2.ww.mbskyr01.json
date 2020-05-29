@@ -6,9 +6,9 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
-        "price": 190,
-        "removalPrice": -150,
-        "cursor": "CURSOR_STATUE_DOWN",
+        "price": 36,
+        "removalPrice": -28,
+        "cursor": "CURSOR_HOUSE_DOWN",
         "isPhotogenic": true,
         "tiles": [
             {
@@ -70,7 +70,7 @@
     "images": ["$RCT2:OBJDATA/MBSKYR01.DAT[0..39]"],
     "strings": {
         "name": {
-            "en-GB": "Sky Scraper Roof Piece",
+            "en-GB": "Skyscraper Roof Piece",
             "fr-FR": "Pan de toit de gratte-ciel",
             "de-DE": "Wolkenkratzerdach-Bauteil",
             "es-ES": "Pieza de tejado de rascacielos",

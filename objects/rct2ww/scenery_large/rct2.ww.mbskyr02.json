@@ -6,9 +6,9 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_large",
     "properties": {
-        "price": 190,
-        "removalPrice": -150,
-        "cursor": "CURSOR_STATUE_DOWN",
+        "price": 82,
+        "removalPrice": -78,
+        "cursor": "CURSOR_HOUSE_DOWN",
         "isPhotogenic": true,
         "tiles": [
             {
@@ -70,7 +70,7 @@
     "images": ["$RCT2:OBJDATA/MBSKYR02.DAT[0..39]"],
     "strings": {
         "name": {
-            "en-GB": "Sky Scraper Tip",
+            "en-GB": "Skyscraper Tip",
             "fr-FR": "Sommet de gratte-ciel",
             "de-DE": "Wolkenkratzerspitze",
             "es-ES": "Punta de rascacielos",
