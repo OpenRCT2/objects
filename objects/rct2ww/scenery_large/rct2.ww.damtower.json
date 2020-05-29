@@ -14,24 +14,28 @@
                 "x": 0,
                 "y": 0,
                 "clearance": 96,
+                "hasSupports": true,
                 "walls": 9
             },
             {
                 "x": 0,
                 "y": 32,
                 "clearance": 96,
+                "hasSupports": true,
                 "walls": 3
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 96,
+                "hasSupports": true,
                 "walls": 8
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 96,
+                "hasSupports": true,
                 "walls": 2
             }
         ]
