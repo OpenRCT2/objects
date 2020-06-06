@@ -2,7 +2,7 @@
     "id": "rct1.aa.pathtils",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "00000055|#RCT1PTS|00000000", 
+    "originalId": "00000055|#RCT1PTS|00000000",
     "sourceGame": "rct1aa",
     "objectType": "footpath",
     "properties": {
@@ -18,7 +18,8 @@
             "nl-NL": "Grijze klinkers",
             "ar-EG": "قرميد ممشي رمادي",
             "pt-BR": "Calçada de Azulejo Cinza",
-            "fr-FR": "Allée pavée grise"
+            "fr-FR": "Allée pavée grise",
+            "ja-JP": "グレーのタイルの歩道"
         }
     }
 }
