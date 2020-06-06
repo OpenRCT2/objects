@@ -2,7 +2,7 @@
     "id": "rct1.ll.pathtilr",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "00000065|#RCT1PTR|00000000",     
+    "originalId": "00000065|#RCT1PTR|00000000",
     "sourceGame": "rct1ll",
     "objectType": "footpath",
     "properties": {
@@ -18,7 +18,8 @@
             "nl-NL": "Rode en bruine klinkers",
             "ar-EG": "قرميد ممشي أحمر وبني",
             "pt-BR": "Calçada de Azulejo Vermelho e Marrom",
-            "fr-FR": "Allée pavée rouge et marron"
+            "fr-FR": "Allée pavée rouge et marron",
+            "ja-JP": "赤と茶色のタイルの歩道"
         }
     }
 }
