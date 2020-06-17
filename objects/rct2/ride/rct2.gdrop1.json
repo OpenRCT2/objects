@@ -360,7 +360,8 @@
                     [-23, -6]
                 ]
             ]
-        }
+        },
+        "buildMenuPriority": 1
     },
     "images": ["$RCT2:OBJDATA/GDROP1.DAT[0..150]"],
     "strings": {

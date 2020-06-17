@@ -36,7 +36,8 @@
             "VEHICLE_ENTRY_FLAG_POWERED": true,
             "VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION": true,
             "loadingPositions": [0]
-        }
+        },
+        "buildMenuPriority": 1
     },
     "images": ["$RCT2:OBJDATA/MONBK.DAT[0..258]"],
     "strings": {

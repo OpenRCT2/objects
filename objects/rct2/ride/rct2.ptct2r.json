@@ -54,7 +54,8 @@
             "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
             "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
             "loadingPositions": [-15, -13, 1, -1, 13, 15]
-        }
+        },
+        "buildMenuPriority": 1
     },
     "images": [
         "$RCT2:OBJDATA/PTCT2R.DAT[2]",

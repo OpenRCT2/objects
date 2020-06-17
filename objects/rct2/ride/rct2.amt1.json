@@ -68,7 +68,8 @@
                 "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
                 "loadingPositions": [7, 9, -3, -1]
             }
-        ]
+        ],
+        "buildMenuPriority": 1
     },
     "images": ["$RCT2:OBJDATA/AMT1.DAT[0..2222]"],
     "strings": {

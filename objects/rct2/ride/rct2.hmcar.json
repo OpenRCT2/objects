@@ -66,7 +66,8 @@
                 "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
                 "VEHICLE_ENTRY_FLAG_POWERED": true
             }
-        ]
+        ],
+        "buildMenuPriority": 1
     },
     "images": ["$RCT2:OBJDATA/HMCAR.DAT[0..242]"],
     "strings": {

@@ -42,7 +42,8 @@
             "VEHICLE_ENTRY_FLAG_21": true,
             "VEHICLE_ENTRY_FLAG_SLIDE_SWING": true,
             "loadingPositions": [7, 9, 3, -3, -7, -9]
-        }
+        },
+        "buildMenuPriority": 1
     },
     "images": ["$RCT2:OBJDATA/INTBOB.DAT[0..5410]"],
     "strings": {

@@ -85,7 +85,8 @@
                 "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
                 "loadingPositions": [7, 9, -3, -1]
             }
-        ]
+        ],
+        "buildMenuPriority": 3
     },
     "images": [
         "$RCT2:OBJDATA/MFT.DAT[1]",

@@ -40,7 +40,8 @@
             "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
             "VEHICLE_ENTRY_FLAG_POWERED": true,
             "loadingPositions": [-7, -7, -7, -7, -7]
-        }
+        },
+        "buildMenuPriority": 1
     },
     "images": ["$RCT2:OBJDATA/SUBMAR.DAT[0..90]"],
     "strings": {

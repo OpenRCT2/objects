@@ -54,7 +54,8 @@
             "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
             "VEHICLE_ENTRY_FLAG_WATER_RIDE": true,
             "loadingPositions": [4, -4, 4, -4, 4, -4, 4, -4]
-        }
+        },
+        "buildMenuPriority": 1
     },
     "images": ["$RCT2:OBJDATA/RAPBOAT.DAT[0..362]"],
     "strings": {

@@ -37,7 +37,8 @@
             "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
             "VEHICLE_ENTRY_FLAG_CHAIRLIFT": true,
             "loadingPositions": [4, 0]
-        }
+        },
+        "buildMenuPriority": 2
     },
     "images": ["$RCT2:OBJDATA/CLIFT1.DAT[0..90]"],
     "strings": {

@@ -63,7 +63,8 @@
             "VEHICLE_ENTRY_FLAG_BOAT_HIRE_COLLISION_DETECTION": true,
             "VEHICLE_ENTRY_FLAG_GO_KART": true,
             "loadingPositions": [-1]
-        }
+        },
+        "buildMenuPriority": 1
     },
     "images": ["$RCT2:OBJDATA/KART1.DAT[0..210]"],
     "strings": {

@@ -101,7 +101,8 @@
                     "corkscrews": true
                 }
             }
-        ]
+        ],
+        "buildMenuPriority": 2
     },
     "images": ["$RCT2:OBJDATA/ARRT1.DAT[0..4470]"],
     "strings": {

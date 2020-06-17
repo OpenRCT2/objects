@@ -120,7 +120,8 @@
                     [0, -16]
                 ]
             ]
-        }
+        },
+        "buildMenuPriority": 1
     },
     "images": ["$RCT2:OBJDATA/LIFT1.DAT[0..146]"],
     "strings": {

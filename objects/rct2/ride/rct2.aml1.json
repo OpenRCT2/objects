@@ -84,7 +84,8 @@
                 "VEHICLE_ENTRY_FLAG_POWERED": true,
                 "loadingPositions": [10, 8, 1, -1, -8, -10]
             }
-        ]
+        ],
+        "buildMenuPriority": 2
     },
     "images": ["$RCT2:OBJDATA/AML1.DAT[0..1154]"],
     "strings": {

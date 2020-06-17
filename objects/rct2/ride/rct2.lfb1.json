@@ -57,7 +57,8 @@
                 "VEHICLE_ENTRY_FLAG_WATER_RIDE": true,
                 "loadingPositions": [6, 4, -7, -9]
             }
-        ]
+        ],
+        "buildMenuPriority": 1
     },
     "images": ["$RCT2:OBJDATA/LFB1.DAT[0..626]"],
     "strings": {

@@ -98,7 +98,8 @@
                     "corkscrews": true
                 }
             }
-        ]
+        ],
+        "buildMenuPriority": 1
     },
     "images": ["$RCT2:OBJDATA/TOGST.DAT[0..4470]"],
     "strings": {

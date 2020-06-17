@@ -94,7 +94,8 @@
                 "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
                 "loadingPositions": [10, 8, 10, 8, 10]
             }
-        ]
+        ],
+        "buildMenuPriority": 3
     },
     "images": ["$RCT2:OBJDATA/MONO1.DAT[0..422]"],
     "strings": {

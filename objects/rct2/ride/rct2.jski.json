@@ -43,7 +43,8 @@
             "VEHICLE_ENTRY_FLAG_POWERED": true,
             "VEHICLE_ENTRY_FLAG_BOAT_HIRE_COLLISION_DETECTION": true,
             "loadingPositions": [0]
-        }
+        },
+        "buildMenuPriority": 1
     },
     "images": ["$RCT2:OBJDATA/JSKI.DAT[0..66]"],
     "strings": {

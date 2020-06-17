@@ -195,7 +195,8 @@
                     [4, -22]
                 ]
             ]
-        }
+        },
+        "buildMenuPriority": 1
     },
     "images": ["$RCT2:OBJDATA/SSC1.DAT[0..23]"],
     "strings": {

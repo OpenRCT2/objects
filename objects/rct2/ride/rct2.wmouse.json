@@ -63,7 +63,8 @@
                 "VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED": true,
                 "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true
             }
-        ]
+        ],
+        "buildMenuPriority": 2
     },
     "images": ["$RCT2:OBJDATA/WMOUSE.DAT[0..1138]"],
     "strings": {

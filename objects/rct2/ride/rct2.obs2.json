@@ -122,7 +122,8 @@
                     [0, -20]
                 ]
             ]
-        }
+        },
+        "buildMenuPriority": 1
     },
     "images": ["$RCT2:OBJDATA/OBS2.DAT[0..38]"],
     "strings": {

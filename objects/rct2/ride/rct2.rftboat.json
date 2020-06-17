@@ -41,7 +41,8 @@
             "VEHICLE_ENTRY_FLAG_POWERED": true,
             "VEHICLE_ENTRY_FLAG_WATER_RIDE": true,
             "loadingPositions": [6, 4, -6, -4]
-        }
+        },
+        "buildMenuPriority": 1
     },
     "images": ["$RCT2:OBJDATA/RFTBOAT.DAT[0..98]"],
     "strings": {
