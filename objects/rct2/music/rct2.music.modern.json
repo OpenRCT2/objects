@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.modern",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC29|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 29,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css43.dat",
+                "name": "Techno Torture"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Modern style",
+            "ca-ES": "Estil modern",
+            "cs-CZ": "Moderní",
+            "da-DK": "Moderne stil",
+            "de-DE": "Moderner Stil",
+            "es-ES": "Estilo moderno",
+            "fi-FI": "Modernityyli",
+            "fr-FR": "Moderne",
+            "hu-HU": "Modern stílus",
+            "it-IT": "Stile moderno",
+            "ja-JP": "モダン・スタイル",
+            "ko-KR": "현대적인 스타일",
+            "nl-NL": "Moderne stijl",
+            "pl-PL": "Styl nowoczesny",
+            "pt-BR": "Estilo Moderno",
+            "ru-RU": "Современный стиль",
+            "sv-SE": "Modernt tema",
+            "tr-TR": "Modern tarz",
+            "zh-CN": "摩登风格",
+            "zh-TW": "摩登風格"
+        }
+    }
+}

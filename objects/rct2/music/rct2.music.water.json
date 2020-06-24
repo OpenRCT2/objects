@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.water",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC14|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 14,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css30.dat",
+                "name": "Atlantis"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Water style",
+            "ca-ES": "Estil aquàtic",
+            "cs-CZ": "Vodní",
+            "da-DK": "Vand stil",
+            "de-DE": "Wasserstil",
+            "es-ES": "Estilo acuático",
+            "fi-FI": "Vesityyli",
+            "fr-FR": "Aquatique",
+            "hu-HU": "Vizes stílus",
+            "it-IT": "Stile acquatico",
+            "ja-JP": "ウォーター・スタイル",
+            "ko-KR": "수중 스타일",
+            "nl-NL": "Waterstijl",
+            "pl-PL": "Styl wodny",
+            "pt-BR": "Estilo Água",
+            "ru-RU": "Водный стиль",
+            "sv-SE": "Vattentema",
+            "tr-TR": "Su tarzı",
+            "zh-CN": "水上风格",
+            "zh-TW": "水文風格"
+        }
+    }
+}

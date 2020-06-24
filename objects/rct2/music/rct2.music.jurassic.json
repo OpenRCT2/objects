@@ -1,0 +1,40 @@
+{
+    "id": "rct2.music.jurassic",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC16|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 16,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css32.dat",
+                "name": "Blockbuster"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Jurassic style",
+            "ca-ES": "Estil juràssic",
+            "cs-CZ": "Jurský styl",
+            "da-DK": "Jurassic stil",
+            "de-DE": "Jurassic-Stil",
+            "es-ES": "Estilo jurásico",
+            "fr-FR": "Jurassique",
+            "hu-HU": "Jura kori stílus",
+            "it-IT": "Stile giurassico",
+            "ja-JP": "ジュラ紀・スタイル",
+            "ko-KR": "쥐라기 스타일",
+            "nl-NL": "Jurastijl",
+            "pl-PL": "Styl jurajski",
+            "pt-BR": "Estilo Jurássico",
+            "ru-RU": "Юрский стиль",
+            "sv-SE": "Dinosaurietema",
+            "tr-TR": "Dinozor tarzı",
+            "zh-CN": "侏罗纪风格",
+            "zh-TW": "侏儸紀風格"
+        }
+    }
+}

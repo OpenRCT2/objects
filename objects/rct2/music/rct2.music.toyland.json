@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.toyland",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC07|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 7,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css23.dat",
+                "name": "Eternal Toybox"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Toyland style",
+            "ca-ES": "Estil de joguines",
+            "cs-CZ": "Země hraček",
+            "da-DK": "Legetøjs land stil",
+            "de-DE": "Spielzeuglandstil",
+            "es-ES": "Estilo juguete",
+            "fi-FI": "Lelumaatyyli",
+            "fr-FR": "Jouets par milliers",
+            "hu-HU": "Játékország stílus",
+            "it-IT": "Stile giocattolo",
+            "ja-JP": "トイランド・スタイル",
+            "ko-KR": "장난감나라 스타일",
+            "nl-NL": "Speelgoedlandstijl",
+            "pl-PL": "Styl krainy zabawek",
+            "pt-BR": "Estilo Brinquedolândia",
+            "ru-RU": "Игрушечный стиль",
+            "sv-SE": "Underlandstema",
+            "tr-TR": "Oyuncak dünyası tarzı",
+            "zh-CN": "童真风格",
+            "zh-TW": "童真風格"
+        }
+    }
+}

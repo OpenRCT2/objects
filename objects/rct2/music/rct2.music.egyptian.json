@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.egyptian",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC06|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 6,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css22.dat",
+                "name": "Pharaoh's Tomb"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Egyptian style",
+            "ca-ES": "Estil egipci",
+            "cs-CZ": "Egypt",
+            "da-DK": "Egyptisk stil",
+            "de-DE": "Ägyptischer Stil",
+            "es-ES": "Estilo egipcio",
+            "fi-FI": "Egyptiläinen tyyli",
+            "fr-FR": "Egyptien",
+            "hu-HU": "Egyiptomi stílus",
+            "it-IT": "Stile egiziano",
+            "ja-JP": "エジプト・スタイル",
+            "ko-KR": "이집트 스타일",
+            "nl-NL": "Egyptische stijl",
+            "pl-PL": "Styl egipski",
+            "pt-BR": "Estilo Egípcio",
+            "ru-RU": "Египетский стиль",
+            "sv-SE": "Egyptiskt tema",
+            "tr-TR": "Mısırlı tarzı",
+            "zh-CN": "埃及风格",
+            "zh-TW": "埃及風格"
+        }
+    }
+}

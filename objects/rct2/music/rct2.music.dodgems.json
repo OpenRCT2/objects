@@ -1,0 +1,40 @@
+{
+    "id": "rct2.music.dodgems",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC00|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 0,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css3.dat",
+                "name": "Dodgems beat"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Dodgems beat style",
+            "ca-ES": "Estil cotxes de xoc",
+            "cs-CZ": "Autodrom",
+            "da-DK": "Radiobil musik stil",
+            "de-DE": "Autoskooter-Beat-Stil",
+            "es-ES": "Estilo coches de choque",
+            "fr-FR": "Auto-tamponneuse",
+            "hu-HU": "Dodzsem beat stílus",
+            "it-IT": "Stile auto da scontro",
+            "ja-JP": "ダージャムズ・ビート・スタイル",
+            "ko-KR": "범퍼카 비트 스타일",
+            "nl-NL": "Botsautostijl",
+            "pl-PL": "Styl zderzaków (autodromy)",
+            "pt-BR": "Estilo Carrinho de Bate-Bate",
+            "ru-RU": "Электро стиль",
+            "sv-SE": "Abstrakt tema",
+            "tr-TR": "Çarpışan araba tarzı",
+            "zh-CN": "碰碰车节奏风格",
+            "zh-TW": "碰碰車節奏風格"
+        }
+    }
+}

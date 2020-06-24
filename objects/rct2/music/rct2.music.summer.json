@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.summer",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC13|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 13,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css29.dat",
+                "name": "Mid Summer's Heat"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Summer style",
+            "ca-ES": "Estil estival",
+            "cs-CZ": "Letní hudba",
+            "da-DK": "Sommer stil",
+            "de-DE": "Sommerstil",
+            "es-ES": "Estilo verano",
+            "fi-FI": "Kesätyyli",
+            "fr-FR": "Estival",
+            "hu-HU": "Nyári stílus",
+            "it-IT": "Stile estivo",
+            "ja-JP": "サマー・スタイル",
+            "ko-KR": "여름 스타일",
+            "nl-NL": "Zomerstijl",
+            "pl-PL": "Styl letni",
+            "pt-BR": "Estilo Verão",
+            "ru-RU": "Летний стиль",
+            "sv-SE": "Sommartider",
+            "tr-TR": "Yaz tarzı",
+            "zh-CN": "夏日风格",
+            "zh-TW": "夏日風格"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.medieval",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC25|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 25,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css39.dat",
+                "name": "Pipes of Glencairn"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Medieval style",
+            "ca-ES": "Estil medieval",
+            "cs-CZ": "Středověk",
+            "da-DK": "Middelalder stil",
+            "de-DE": "Mittelalterstil",
+            "es-ES": "Estilo medieval",
+            "fi-FI": "Keskiaikainen tyyli",
+            "fr-FR": "Médiéval",
+            "hu-HU": "Középkori stílus",
+            "it-IT": "Stile medievale",
+            "ja-JP": "中世・スタイル",
+            "ko-KR": "중세 스타일",
+            "nl-NL": "Middeleeuwse stijl",
+            "pl-PL": "Styl średniowieczny",
+            "pt-BR": "Estilo Medieval",
+            "ru-RU": "Средневековье",
+            "sv-SE": "Medeltidstema",
+            "tr-TR": "Ortaçağ tarzı",
+            "zh-CN": "中世纪风格",
+            "zh-TW": "中世紀風格"
+        }
+    }
+}

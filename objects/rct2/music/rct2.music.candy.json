@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.candy",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC32|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 32,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css46.dat",
+                "name": "Sweat Dreams"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Candy style",
+            "ca-ES": "Estil caramel",
+            "cs-CZ": "Sladkosti",
+            "da-DK": "Slik stil",
+            "de-DE": "Candyland-Stil",
+            "es-ES": "Estilo caramelo",
+            "fi-FI": "Karkkityyli",
+            "fr-FR": "Bonbon-ville",
+            "hu-HU": "Cukorka stílus",
+            "it-IT": "Stile dolciumi",
+            "ja-JP": "キャンディ・スタイル",
+            "ko-KR": "사탕 스타일",
+            "nl-NL": "Snoepstijl",
+            "pl-PL": "Styl cukierkowy",
+            "pt-BR": "Estilo Doce",
+            "ru-RU": "Конфетный стиль",
+            "sv-SE": "Godislandstema",
+            "tr-TR": "Şeker dünyası tarzı",
+            "zh-CN": "糖果风格",
+            "zh-TW": "糖果風格"
+        }
+    }
+}

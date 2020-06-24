@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.snow",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC22|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 22,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css38.dat",
+                "name": "Last Sleigh Ride"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Snow style",
+            "ca-ES": "Estil nevat",
+            "cs-CZ": "Sníh",
+            "da-DK": "Sne stil",
+            "de-DE": "Schnee-Stil",
+            "es-ES": "Estilo nieve",
+            "fi-FI": "Lumityyli",
+            "fr-FR": "Neige",
+            "hu-HU": "Havas stílus",
+            "it-IT": "Stile nevoso",
+            "ja-JP": "スノー・スタイル",
+            "ko-KR": "눈 스타일",
+            "nl-NL": "Sneeuwstijl",
+            "pl-PL": "Styl śnieżny",
+            "pt-BR": "Estilo Neve",
+            "ru-RU": "Снежный стиль",
+            "sv-SE": "Snötema",
+            "tr-TR": "Kar tarzı",
+            "zh-CN": "雪地风格",
+            "zh-TW": "雪地風格"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.fantasy",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC19|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 19,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css35.dat",
+                "name": "Flight of Fantasy"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Fantasy style",
+            "ca-ES": "Estil fantàstic",
+            "cs-CZ": "Fantasy",
+            "da-DK": "Fantasy stil",
+            "de-DE": "Fantasy-Stil",
+            "es-ES": "Estilo fantasía",
+            "fi-FI": "Fantasiatyyli",
+            "fr-FR": "Imaginaire",
+            "hu-HU": "Fantázia stílus",
+            "it-IT": "Stile fantastico",
+            "ja-JP": "ファンタジー・スタイル",
+            "ko-KR": "판타지 스타일",
+            "nl-NL": "Fantasiestijl",
+            "pl-PL": "Styl fantasty",
+            "pt-BR": "Estilo Fantasia",
+            "ru-RU": "Фэнтези стиль",
+            "sv-SE": "Fantasitema",
+            "tr-TR": "Fantazi tarzı",
+            "zh-CN": "梦幻风格",
+            "zh-TW": "夢幻風格"
+        }
+    }
+}

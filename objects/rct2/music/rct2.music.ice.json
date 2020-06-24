@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.ice",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC21|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 21,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css37.dat",
+                "name": "Hypothermia"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Ice style",
+            "ca-ES": "Estil gèlid",
+            "cs-CZ": "Led",
+            "da-DK": "Is stil",
+            "de-DE": "Eis-Stil",
+            "es-ES": "Estilo hielo",
+            "fi-FI": "Jäätyyli",
+            "fr-FR": "Glace",
+            "hu-HU": "Jeges stílus",
+            "it-IT": "Stile ghiacciato",
+            "ja-JP": "アイス・スタイル",
+            "ko-KR": "얼음 스타일",
+            "nl-NL": "IJsstijl",
+            "pl-PL": "Styl lodowy",
+            "pt-BR": "Estilo Gelo",
+            "ru-RU": "Ледяной стиль",
+            "sv-SE": "Istema",
+            "tr-TR": "Buz tarzı",
+            "zh-CN": "冰封风格",
+            "zh-TW": "冰封風格"
+        }
+    }
+}

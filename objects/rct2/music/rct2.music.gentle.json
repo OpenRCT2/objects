@@ -1,0 +1,41 @@
+{
+    "id": "rct2.music.gentle",
+    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC12|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 12,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/css28.dat",
+                "name": "Drifting to Heaven"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Gentle style",
+            "ca-ES": "Estil suau",
+            "cs-CZ": "Mírná hudba",
+            "da-DK": "Rolig stil",
+            "de-DE": "Gemäßigter Stil",
+            "es-ES": "Estilo suave",
+            "fi-FI": "Hempeätyyli",
+            "fr-FR": "Tranquille",
+            "hu-HU": "Könnyed stílus",
+            "it-IT": "Stile tranquillo",
+            "ja-JP": "ジェントル・スタイル",
+            "ko-KR": "젠틀 스타일",
+            "nl-NL": "Rustige stijl",
+            "pl-PL": "Styl delikatny",
+            "pt-BR": "Estilo Suave/Calmo",
+            "ru-RU": "Нежный стиль",
+            "sv-SE": "Stillsamt tema",
+            "tr-TR": "Sakin tarz",
+            "zh-CN": "温和风格",
+            "zh-TW": "溫和風格"
+        }
+    }
+}
