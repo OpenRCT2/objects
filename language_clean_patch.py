@@ -1,62 +1,44 @@
 #!/usr/bin/env python3
 
 from unidiff import PatchSet
-from unidiff.constants import (
-    # DEFAULT_ENCODING,
-    LINE_TYPE_ADDED,
-    LINE_TYPE_CONTEXT,
-    LINE_TYPE_EMPTY,
-    LINE_TYPE_REMOVED,
-    # LINE_TYPE_NO_NEWLINE,
-    # LINE_VALUE_NO_NEWLINE,
-    # RE_HUNK_BODY_LINE,
-    # RE_HUNK_EMPTY_BODY_LINE,
-    # RE_HUNK_HEADER,
-    # RE_RENAME_SOURCE_FILENAME,
-    # RE_RENAME_TARGET_FILENAME,
-    # RE_SOURCE_FILENAME,
-    # RE_TARGET_FILENAME,
-    # RE_NO_NEWLINE_MARKER,
-    # RE_BINARY_DIFF,
-)
+from unidiff.constants import LINE_TYPE_EMPTY
 
-import os
-import sys
+class PatchCleaner:
+    """
+    Cleans a given unified diff such that only lines matching the language parameter are included,
+    as well as any preceding lines that may be giving way to them (e.g. by adding a trailing comma).
+    """
 
-def clean_patch(filename, language):
-    patch = PatchSet.from_filename(filename)
-    files_to_be_removed = []
-    for i, file in enumerate(patch):
+    def __init__(self, filename, language):
+        self.patch = PatchSet.from_filename(filename)
+        self.language = language
+        self.clean_patch()
+
+    def __str__(self):
+        return str(self.patch)
+
+    def clean_patch(self):
+        """ Cleans the patch, removing irrelevant files. """
+
+        files_to_be_removed = []
+        for i, file in enumerate(self.patch):
+            self.clean_file(file)
+
+            if not file.added and not file.removed:
+                files_to_be_removed.append(i)
+
+        # Any files to be removed?
+        # (In reverse order, as we'll be reindexing.)
+        if len(files_to_be_removed):
+            for i in reversed(files_to_be_removed):
+                del self.patch[i]
+
+    def clean_file(self, file):
+        """ Cleans one particular file in the patch set, removing empty hunks. """
+
         hunks_to_be_removed = []
         for j, hunk in enumerate(file):
-            prev_line = None
-            for k, line in enumerate(hunk):
-                # Is this line modifying anything?
-                if line.is_added or line.is_removed:
-                    # We're definitely keeping lines that have something to do
-                    # with the target language.
-                    if language in line.value:
-                        continue
-
-                    # Is this line a removal followed by an addition of the same language,
-                    # in turn followed by the target language?
-                    if line.is_removed and hunk[k + 1].is_added and \
-                        language in hunk[k + 2].value:
-                        # Check languages match
-                        continue
-
-                    # Indeed, is the previous line a removal and the next line an addition
-                    # of the target language?
-                    elif hunk[k - 1].is_removed and line.is_added and \
-                        language in hunk[k + 1].value:
-                        continue
-
-                    # Otherwise, exclude this change from the patch.
-                    else:
-                        line.line_type = LINE_TYPE_EMPTY
-
-
-                prev_line = k
+            self.clean_hunk(hunk)
 
             # Is this hunk still modifying anything?
             # If not, we'll drop it after iterating everything.
@@ -69,20 +51,39 @@ def clean_patch(filename, language):
             for j in reversed(hunks_to_be_removed):
                 del file[j]
 
-        if not file.added and not file.removed:
-            files_to_be_removed.append(i)
+    def clean_hunk(self, hunk):
+        """ Cleans one particular hunk in the patch set, removing irrelevant lines. """
 
-    # Any files to be removed?
-    # (In reverse order, as we'll be reindexing.)
-    if len(files_to_be_removed):
-        for i in reversed(files_to_be_removed):
-            del patch[i]
+        prev_line = None
+        for k, line in enumerate(hunk):
+            # Is this line modifying anything?
+            if line.is_added or line.is_removed:
+                # We're definitely keeping lines that have something to do
+                # with the target language.
+                if self.language in line.value:
+                    continue
 
-    print(patch)
+                # Is this line a removal followed by an addition of the same language,
+                # in turn followed by the target language?
+                if line.is_removed and hunk[k + 1].is_added and \
+                    self.language in hunk[k + 2].value:
+                    # TODO: Check languages match -- good enough a heuristic for now.
+                    continue
 
-    return patch
+                # Indeed, is the previous line a removal and the next line an addition
+                # of the target language?
+                elif hunk[k - 1].is_removed and line.is_added and \
+                    self.language in hunk[k + 1].value:
+                    # TODO: Check languages match -- good enough a heuristic for now.
+                    continue
 
+                # Otherwise, exclude this change from the patch.
+                else:
+                    line.line_type = LINE_TYPE_EMPTY
+
+            prev_line = k
 
 
 if __name__ == "__main__":
-    clean_patch("patch.diff", "nl-NL")
+    patch = PatchCleaner("patch.diff", "nl-NL")
+    print(patch)
