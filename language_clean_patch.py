@@ -54,7 +54,6 @@ class PatchCleaner:
     def clean_hunk(self, hunk):
         """ Cleans one particular hunk in the patch set, removing irrelevant lines. """
 
-        prev_line = None
         for k, line in enumerate(hunk):
             # Is this line modifying anything?
             if line.is_added or line.is_removed:
@@ -65,15 +64,7 @@ class PatchCleaner:
 
                 # Is this line a removal followed by an addition of the same language,
                 # in turn followed by the target language?
-                if line.is_removed and hunk[k + 1].is_added and \
-                    self.language in hunk[k + 2].value:
-                    # TODO: Check languages match -- good enough a heuristic for now.
-                    continue
-
-                # Indeed, is the previous line a removal and the next line an addition
-                # of the target language?
-                elif hunk[k - 1].is_removed and line.is_added and \
-                    self.language in hunk[k + 1].value:
+                if self.is_accommodating_change(hunk, k):
                     # TODO: Check languages match -- good enough a heuristic for now.
                     continue
 
@@ -81,7 +72,30 @@ class PatchCleaner:
                 else:
                     line.line_type = LINE_TYPE_EMPTY
 
-            prev_line = k
+    def is_accommodating_change(self, hunk, k):
+        """
+        Determines whether the line current line 'k' is part of a change that's
+        accommodating the target language in some way. For example, the addition
+        of a trailing comma in a seemingly unrelated line:
+
+        -"en-GB": "Penguin Trains"
+        +"en-GB": "Penguin Trains",
+        +"ja-JP": "ペンギンボブスレー"
+        """
+
+        # Is line k a removal followed by an addition of the same language,
+        # in turn followed by the target language?
+        if hunk[k].is_removed and hunk[k + 1].is_added and \
+            self.language in hunk[k + 2].value:
+            return True
+
+        # Indeed, is the previous line a removal and the next line an addition
+        # of the target language?
+        elif hunk[k - 1].is_removed and hunk[k].is_added and \
+            self.language in hunk[k + 1].value:
+            return True
+
+        return False
 
 
 if __name__ == "__main__":
