@@ -3,6 +3,29 @@
 from unidiff import PatchSet
 from unidiff.constants import LINE_TYPE_EMPTY
 
+import argparse
+import os
+
+SUPPORTED_LANGUAGES = ["ar-EG", "ca-ES", "cs-CZ", "da-DK", "de-DE", "en-GB", "en-US", "es-ES",\
+                       "fi-FI", "fr-FR", "hu-HU", "it-IT", "ja-JP", "ko-KR", "nb-NO", "nl-NL",\
+                       "pl-PL", "pt-BR", "ru-RU", "sv-SE", "tr-TR", "zh-CN", "zh-TW"]
+
+def dir_path(string):
+    """ Checks for a valid dir_path """
+    if os.path.isdir(string):
+        return string
+    raise NotADirectoryError(string)
+
+def get_arg_parser():
+    """ Command line arguments """
+    parser = argparse.ArgumentParser(description=\
+                                     'Cleans up a patch file to apply to the objects repository.',
+                                     formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+    parser.add_argument('-p', '--patch', required=True, help='Path to the patch file to clean up.')
+    parser.add_argument('-l', '--language', required=True, choices=SUPPORTED_LANGUAGES,\
+                                help='Language that is being translated, e.g. ja-JP')
+    return parser
+
 class PatchCleaner:
     """
     Cleans a given unified diff such that only lines matching the language parameter are included,
@@ -99,5 +122,8 @@ class PatchCleaner:
 
 
 if __name__ == "__main__":
-    patch = PatchCleaner("patch.diff", "nl-NL")
+    parser = get_arg_parser()
+    args = parser.parse_args()
+
+    patch = PatchCleaner(args.patch, args.language)
     print(patch)
