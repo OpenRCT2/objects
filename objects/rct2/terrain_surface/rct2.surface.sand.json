@@ -2,18 +2,18 @@
     "id": "rct2.surface.sand",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0000008B|#RCT2SSA|00000000",
-    "sourceGame": ["rct2", "rct1"],
+    "originalId": "0000008B|#RCT2SSY|00000000",
+    "sourceGame": "rct2",
     "objectType": "terrain_surface",
     "properties": {
-        "price": 110,
+        "price": 100,
         "smoothWithSelf": true,
         "smoothWithOther": true
     },
     "images": [
-        "$G1[5592]",
-        "$G1[28965..28970]",
-        "$G1[1972..2028]"
+        "$G1[5580]",
+        "$G1[28983..28988]",
+        "$G1[2086..2142]"
     ],
     "strings": {
         "name": {
