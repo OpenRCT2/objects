@@ -1,0 +1,40 @@
+{
+    "id": "rct2.music.custom2",
+    "authors": [],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSIC24|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "originalStyleId": 24,
+        "tracks": [
+            {
+                "source": "$RCT2:DATA/CUSTOM2.WAV",
+                "name": ""
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Custom music 2",
+            "ca-ES": "Peça personalitzada 2",
+            "cs-CZ": "Vlastní hudba 2",
+            "da-DK": "Valgfrit musik 2",
+            "de-DE": "Eigene Musik 2",
+            "es-ES": "Música personalizada 2",
+            "fr-FR": "Musique perso 2",
+            "hu-HU": "Egyedi stílus 2",
+            "it-IT": "Musica personalizzata 2",
+            "ja-JP": "カスタム・スタイル １番",
+            "ko-KR": "사용자 음악 2",
+            "nl-NL": "Extra muziek 2",
+            "pl-PL": "Muzyka niestandardowa 2",
+            "pt-BR": "Música Personalizada 2",
+            "ru-RU": "Своя музыка 2",
+            "sv-SE": "Egen musik 2",
+            "tr-TR": "Özel müzik 2",
+            "zh-CN": "自定义音乐2",
+            "zh-TW": "自訂音樂2"
+        }
+    }
+}
