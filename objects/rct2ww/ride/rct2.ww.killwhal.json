@@ -11,6 +11,7 @@
             "gentle",
             "water"
         ],
+        "hasShelter": true,
         "noCollisionCrashes": true,
         "carColours": [
             [
@@ -77,7 +78,7 @@
             "ru-RU": "Люди плывут в субмарине по подводной трассе"
         },
         "capacity": {
-            "en-GB": "5 passengers per car",
+            "en-GB": "5 passengers per submarine",
             "fr-FR": "5 passagers par sous-marin",
             "de-DE": "5 pro Wagen",
             "es-ES": "pasajeros por vehículo",
