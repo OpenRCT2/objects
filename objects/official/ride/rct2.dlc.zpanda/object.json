@@ -843,7 +843,8 @@
             "zh-TW": "熊貓列車",
             "pt-BR": "Trens Panda",
             "ar-EG": "قطارات الباندا",
-            "ja-JP": "パンダのトレイン"
+            "ja-JP": "パンダのトレイン",
+            "pl-PL": "Pandzie Pociągi"
         },
         "description": {
             "en-GB": "Roller coaster trains with cuddly panda cars",
@@ -857,7 +858,8 @@
             "zh-TW": "雲霄飛車列車是逗人喜愛的熊貓車輛",
             "pt-BR": "Trens de montanha-russa com vagões em forma de panda",
             "ar-EG": "قطار أفعوانية مع عربات بشكل الباندا المحبب",
-            "ja-JP": "可愛いパンダカーのジェットコースタートレイン"
+            "ja-JP": "可愛いパンダカーのジェットコースタートレイン",
+            "pl-PL": "Kolejka górska z puchatymi pandzimi wagonikami"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -871,7 +873,8 @@
             "zh-TW": "1 位乘客/每個車廂",
             "pt-BR": "1 passageiro por vagão",
             "ar-EG": "راكب واحد لكل عربة",
-            "ja-JP": "各車両1名"
+            "ja-JP": "各車両1名",
+            "pl-PL": "1 pasażer na wagonik"
         }
     }
 }

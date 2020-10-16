@@ -19,7 +19,7 @@
         { "path": "images/0.png", "x": -23, "y": -42 },
         { "path": "images/1.png", "x": -23, "y": -48 },
         { "path": "images/2.png", "x": -22, "y": -48 },
-        { "path": "images/3.png", "x": -22, "y": -42 } 
+        { "path": "images/3.png", "x": -22, "y": -42 }
     ],
     "strings": {
         "name": {
@@ -34,7 +34,8 @@
             "zh-TW": "巨大的熊貓",
             "pt-BR": "Panda Gigante",
             "ar-EG": "الباندا العملاق",
-            "ja-JP": "ジャイアントパンダ"
+            "ja-JP": "ジャイアントパンダ",
+            "pl-PL": "Wielka Panda"
         }
     }
 }
