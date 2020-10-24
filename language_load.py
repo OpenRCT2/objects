@@ -10,9 +10,7 @@ import os
 import re
 import sys
 
-SUPPORTED_LANGUAGES = ["ar-EG", "ca-ES", "cs-CZ", "da-DK", "de-DE", "en-GB", "en-US", "es-ES",\
-                       "fi-FI", "fr-FR", "hu-HU", "it-IT", "ja-JP", "ko-KR", "nb-NO", "nl-NL",\
-                       "pl-PL", "pt-BR", "ru-RU", "sv-SE", "tr-TR", "zh-CN", "zh-TW"]
+from languages import SUPPORTED_LANGUAGES
 
 def dir_path(string):
     """ Checks for a valid dir_path """
