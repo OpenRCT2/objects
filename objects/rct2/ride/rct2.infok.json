@@ -49,7 +49,8 @@
             "ja-JP": "インフォーメーションセンター",
             "nb-NO": "Informasjonskiosk",
             "pl-PL": "Kiosk informacyjny",
-            "ru-RU": "Справка"
+            "ru-RU": "Справка",
+            "eo-OO": "Informokiosko"
         },
         "description": {
             "en-GB": "A stall where guests can obtain park maps and purchase umbrellas",
@@ -66,7 +67,8 @@
             "cs-CZ": "Stínek s informacemi o parku, prodávající mapy a deštníky",
             "ja-JP": "園内の案内図や傘を売る売店です",
             "pl-PL": "Tutaj goście mogą otrzymać mapy parku i zakupić parasole",
-            "ru-RU": "Киоск, где гости берут карты и зонтики."
+            "ru-RU": "Киоск, где гости берут карты и зонтики.",
+            "eo-OO": "Budo, kie gastoj povas akiri parkmapojn kaj aĉeti ombrelojn"
         }
     }
 }
