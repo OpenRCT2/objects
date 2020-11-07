@@ -7,18 +7,18 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
-            "BALL1",
-            "BALL2",
-            "HELMET1",
-            "BALL3",
-            "BADRACK",
-            "WALLBADM",
-            "BADSHUT",
-            "BADSHUT2",
-            "BALL4",
-            "WALLNT32",
-            "WALLNT33",
-            "BENCHPL"
+            "rct2.ball1",
+            "rct2.ball2",
+            "rct2.helmet1",
+            "rct2.ball3",
+            "rct2.badrack",
+            "rct2.wallbadm",
+            "rct2.badshut",
+            "rct2.badshut2",
+            "rct2.ball4",
+            "rct2.wallnt32",
+            "rct2.wallnt33",
+            "rct2.benchpl"
         ],
         "priority": 38
     },

@@ -7,19 +7,19 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
-            "TGE1",
-            "TGE2",
-            "TGE3",
-            "TGE4",
-            "TGE5",
-            "TGC1",
-            "TGC2",
-            "WALLGL8",
-            "WALLGL16",
-            "WALLGL32",
-            "GEOROOF1",
-            "WGW2",
-            "GEOROOF2"
+            "rct2.tge1",
+            "rct2.tge2",
+            "rct2.tge3",
+            "rct2.tge4",
+            "rct2.tge5",
+            "rct2.tgc1",
+            "rct2.tgc2",
+            "rct2.wallgl8",
+            "rct2.wallgl16",
+            "rct2.wallgl32",
+            "rct2.georoof1",
+            "rct2.wgw2",
+            "rct2.georoof2"
         ],
         "priority": 20
     },

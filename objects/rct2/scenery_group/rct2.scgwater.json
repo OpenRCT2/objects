@@ -7,12 +7,12 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
-            "WALLWF32",
-            "WHORIZ",
-            "JUMPFNT1",
-            "WSPOUT",
-            "ICECUBE",
-            "WDIAG"
+            "rct2.wallwf32",
+            "rct2.whoriz",
+            "rct2.jumpfnt1",
+            "rct2.wspout",
+            "rct2.icecube",
+            "rct2.wdiag"
         ],
         "priority": 37
     },

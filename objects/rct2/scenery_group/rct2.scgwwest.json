@@ -7,16 +7,16 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
-            "WAG1",
-            "WAG2",
-            "WALLWDPS",
-            "GENSTORE",
-            "SALOON",
-            "WWBANK",
-            "HANG1",
-            "TOTEM1",
-            "TEEPEE1",
-            "LITTERWW"
+            "rct2.wag1",
+            "rct2.wag2",
+            "rct2.wallwdps",
+            "rct2.genstore",
+            "rct2.saloon",
+            "rct2.wwbank",
+            "rct2.hang1",
+            "rct2.totem1",
+            "rct2.teepee1",
+            "rct2.litterww"
         ],
         "priority": 38,
         "entertainerCostumes": [

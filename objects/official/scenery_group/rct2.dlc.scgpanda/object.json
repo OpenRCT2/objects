@@ -7,9 +7,9 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
-            "BIGPANDA",
-            "PANDAGR",
-            "LITTERPA"
+            "official.bigpanda",
+            "official.pandagr",
+            "official.litterpa"
         ],
         "priority": 40
     },

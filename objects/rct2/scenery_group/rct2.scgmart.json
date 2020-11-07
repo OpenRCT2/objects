@@ -7,15 +7,15 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
-            "SMB",
-            "TMO1",
-            "TMO2",
-            "TMO3",
-            "TMO4",
-            "TMO5",
-            "SVLC",
-            "WMW",
-            "LAMP4"
+            "rct2.smb",
+            "rct2.tmo1",
+            "rct2.tmo2",
+            "rct2.tmo3",
+            "rct2.tmo4",
+            "rct2.tmo5",
+            "rct2.svlc",
+            "rct2.wmw",
+            "rct2.lamp4"
         ],
         "priority": 26,
         "entertainerCostumes": "astronaut"

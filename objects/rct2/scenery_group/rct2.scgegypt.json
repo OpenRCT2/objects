@@ -7,18 +7,18 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
-            "SSPX",
-            "SCLN",
-            "SPYR",
-            "TES1",
-            "TEN",
-            "TERS",
-            "TERB",
-            "TEP",
-            "WEW",
-            "LAMP3",
-            "BN4",
-            "BENCHSTN"
+            "rct2.sspx",
+            "rct2.scln",
+            "rct2.spyr",
+            "rct2.tes1",
+            "rct2.ten",
+            "rct2.ters",
+            "rct2.terb",
+            "rct2.tep",
+            "rct2.wew",
+            "rct2.lamp3",
+            "rct2.bn4",
+            "rct2.benchstn"
         ],
         "priority": 22
     },

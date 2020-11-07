@@ -7,13 +7,13 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
-            "GLTHENT",
-            "MDSAENT",
-            "NITROENT",
-            "WALLTXGT",
-            "MMENT1",
-            "MMENT2",
-            "MMENT3"
+            "rct2.glthent",
+            "rct2.mdsaent",
+            "rct2.nitroent",
+            "rct2.walltxgt",
+            "rct2.mment1",
+            "rct2.mment2",
+            "rct2.mment3"
         ],
         "priority": 255
     },

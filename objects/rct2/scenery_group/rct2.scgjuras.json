@@ -7,18 +7,18 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
-            "TBN",
-            "TBN1",
-            "TDN4",
-            "TDN5",
-            "SDN1",
-            "SDN2",
-            "SDN3",
-            "WWTW",
-            "WMWW",
-            "WWTWA",
-            "WBW",
-            "BN6"
+            "rct2.tbn",
+            "rct2.tbn1",
+            "rct2.tdn4",
+            "rct2.tdn5",
+            "rct2.sdn1",
+            "rct2.sdn2",
+            "rct2.sdn3",
+            "rct2.wwtw",
+            "rct2.wmww",
+            "rct2.wwtwa",
+            "rct2.wbw",
+            "rct2.bn6"
         ],
         "priority": 25
     },

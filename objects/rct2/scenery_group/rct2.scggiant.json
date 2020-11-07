@@ -7,16 +7,16 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
-            "GGRS1",
-            "CARROT",
-            "FERN1",
-            "SPIDER1",
-            "BEANST1",
-            "BEANST2",
-            "BUTTFLY",
-            "SNAIL",
-            "WASP",
-            "LAMPDSY"
+            "rct2.ggrs1",
+            "rct2.carrot",
+            "rct2.fern1",
+            "rct2.spider1",
+            "rct2.beanst1",
+            "rct2.beanst2",
+            "rct2.buttfly",
+            "rct2.snail",
+            "rct2.wasp",
+            "rct2.lampdsy"
         ],
         "priority": 36
     },

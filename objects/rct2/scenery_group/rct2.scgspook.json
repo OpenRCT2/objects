@@ -7,19 +7,19 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
-            "SSK1",
-            "TDT1",
-            "TDT2",
-            "TDT3",
-            "TMM1",
-            "TMM2",
-            "TMM3",
-            "TGS1",
-            "TGS2",
-            "TGS3",
-            "TGS4",
-            "SMSKULL",
-            "WALLRK32"
+            "rct2.ssk1",
+            "rct2.tdt1",
+            "rct2.tdt2",
+            "rct2.tdt3",
+            "rct2.tmm1",
+            "rct2.tmm2",
+            "rct2.tmm3",
+            "rct2.tgs1",
+            "rct2.tgs2",
+            "rct2.tgs3",
+            "rct2.tgs4",
+            "rct2.smskull",
+            "rct2.wallrk32"
         ],
         "priority": 32
     },

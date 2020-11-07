@@ -7,18 +7,18 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
-            "LAMP1",
-            "LAMP2",
-            "LITTER1",
-            "BENCH1",
-            "QTV1",
-            "BN1",
-            "WALLPOST",
-            "WALLSIGN",
-            "SSIG1",
-            "SSIG2",
-            "SSIG3",
-            "SSIG4"
+            "rct2.lamp1",
+            "rct2.lamp2",
+            "rct2.litter1",
+            "rct2.bench1",
+            "rct2.qtv1",
+            "rct2.bn1",
+            "rct2.wallpost",
+            "rct2.wallsign",
+            "rct2.ssig1",
+            "rct2.ssig2",
+            "rct2.ssig3",
+            "rct2.ssig4"
         ],
         "priority": 10
     },

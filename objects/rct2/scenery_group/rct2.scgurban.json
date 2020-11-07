@@ -7,16 +7,16 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
-            "SHS1",
-            "SHS2",
-            "STH",
-            "SAH",
-            "SPS",
-            "SAH2",
-            "SAH3",
-            "SOB",
-            "WALLU132",
-            "WALLU232"
+            "rct2.shs1",
+            "rct2.shs2",
+            "rct2.sth",
+            "rct2.sah",
+            "rct2.sps",
+            "rct2.sah2",
+            "rct2.sah3",
+            "rct2.sob",
+            "rct2.wallu132",
+            "rct2.wallu232"
         ],
         "priority": 33
     },
