@@ -140,7 +140,8 @@
             "cs-CZ": "Výtah",
             "ja-JP": "エレベーター",
             "pl-PL": "Winda",
-            "ru-RU": "Лифт"
+            "ru-RU": "Лифт",
+            "eo-OO": "Liftokajuto"
         },
         "description": {
             "en-GB": "Steel lift cabin",
@@ -157,7 +158,8 @@
             "cs-CZ": "Výtah s ocelovou kabinou",
             "ja-JP": "垂直なタワーの各階を移動する際のエレベーターです",
             "pl-PL": "Pasażerowie jeżdżą w dół lub w górę windą w wieży, aby przejść z jednego poziomu na drugi",
-            "ru-RU": "Гости переезжают с уровня на уровень"
+            "ru-RU": "Гости переезжают с уровня на уровень",
+            "eo-OO": "Ŝtala liftokajuto"
         },
         "capacity": {
             "en-GB": "16 passengers",

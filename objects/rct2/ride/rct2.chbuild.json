@@ -133,7 +133,8 @@
             "ja-JP": "ねじれた家",
             "nb-NO": "Skjevt hus",
             "pl-PL": "Krzywy dom",
-            "ru-RU": "Кривой дом"
+            "ru-RU": "Кривой дом",
+            "eo-OO": "Malrekta Domo"
         },
         "description": {
             "en-GB": "Building containing warped rooms and angled corridors to disorientate people walking through it",
@@ -150,7 +151,8 @@
             "cs-CZ": "Budova s pokřivenými místnostmi a nakloněnými chodbami, které dezorientují návštěvníky",
             "ja-JP": "中に入った人の方向感覚を狂わせる、ゆがんだ部屋と曲がった廊下がある建物です",
             "pl-PL": "Budynek z powykrzywianymi ścianami i zakręconymi korytarzami, dezorientujący ludzi, którzy do niego wejdą",
-            "ru-RU": "Здание с кривыми комнатами и коридорами"
+            "ru-RU": "Здание с кривыми комнатами и коридорами",
+            "eo-OO": "Konstruaĵo, kiu enhavas ĉambrojn torditajn kaj koridorojn angulajn por malorienti homojn tie"
         },
         "capacity": {
             "en-GB": "5 guests",

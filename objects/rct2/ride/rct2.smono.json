@@ -63,7 +63,8 @@
             "cs-CZ": "Zavěšené jednokolejné vlaky",
             "ja-JP": "サスベンデッド・モノレール・トレーン",
             "pl-PL": "Podwieszane wagoniki jednoszynowe",
-            "ru-RU": "Подвесные поезда"
+            "ru-RU": "Подвесные поезда",
+            "eo-OO": "Penditaj Monorelaj Trajnoj"
         },
         "description": {
             "en-GB": "Large capacity monorail train cars",
@@ -80,7 +81,8 @@
             "cs-CZ": "Velkokapacitní jednokolejné vlaky",
             "ja-JP": "大定員のモノレールです",
             "pl-PL": "Pojemne wagoniki jednoszynowe",
-            "ru-RU": "Большие монорельсовые поезда"
+            "ru-RU": "Большие монорельсовые поезда",
+            "eo-OO": "Grandspacaj monorelaj trajnoĉaroj"
         },
         "capacity": {
             "en-GB": "8 passengers per car",

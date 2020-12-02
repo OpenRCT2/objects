@@ -108,7 +108,8 @@
             "cs-CZ": "Horská dráha s elektromotorem",
             "ja-JP": "リニアモーターコースター",
             "pl-PL": "Kolejka z napędem liniowym",
-            "ru-RU": "Горки на LIM"
+            "ru-RU": "Горки на LIM",
+            "eo-OO": "Trajnoj de Onda Fervojo Lanĉitaj per LIM-oj"
         },
         "description": {
             "en-GB": "Roller coaster trains that are accelerated by linear induction motors",
@@ -125,7 +126,8 @@
             "cs-CZ": "Horská dráha s vozy poháněnými elektromotorem, které sviští skrze propletenou dráhu",
             "ja-JP": "リニアモーターで急速発進するローラーコースターで、加速してひねりのある反転を走行します",
             "pl-PL": "Wagoniki są rozpędzane za pomocą magnetycznego silnika liniowego i podróżują tam i z powrotem po zakręconym torze",
-            "ru-RU": "Поезда, разгоняемые от станции линейным индукционным мотором."
+            "ru-RU": "Поезда, разгоняемые от станции линейным индукционным мотором.",
+            "eo-OO": "Trajnoj de onda fervojo, kiujn linearaj induktaj motoroj plirapidigas"
         },
         "capacity": {
             "en-GB": "4 passengers per car",

@@ -84,7 +84,8 @@
             "ja-JP": "ピックアップトラック",
             "nl-NL": "Pickuptrucks",
             "pl-PL": "Furgonetki",
-            "ru-RU": "Грузовики"
+            "ru-RU": "Грузовики",
+            "eo-OO": "Kamionetoj"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of pickup trucks",
@@ -101,7 +102,8 @@
             "cs-CZ": "Vozy ve tvaru nákladních aut (pickupů)",
             "ja-JP": "ピックアップトラックの形をした、動力付きの乗物です",
             "pl-PL": "Pojazdy z napędem mające kształt półciężarówek",
-            "ru-RU": "Powered vehicles in the shape of pickup trucks"
+            "ru-RU": "Powered vehicles in the shape of pickup trucks",
+            "eo-OO": "Ŝaltitaj veturiloj formitaj kiel kamionetoj"
         },
         "capacity": {
             "en-GB": "1 passenger per truck",
