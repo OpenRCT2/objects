@@ -9,6 +9,7 @@
         "price": 64,
         "removalPrice": -56,
         "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
         "tiles": [
             {
                 "x": 0,
