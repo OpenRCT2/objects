@@ -10,7 +10,6 @@
             "single_rail_rc"
         ],
         "category": "rollercoaster",
-        "separateRide": true,
         "minCarsPerTrain": 4,
         "maxCarsPerTrain": 12,
         "defaultCar": 1,
