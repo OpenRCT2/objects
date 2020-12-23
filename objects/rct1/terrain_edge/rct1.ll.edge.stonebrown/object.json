@@ -6,7 +6,8 @@
     "sourceGame": "rct1ll",
     "objectType": "terrain_edge",
     "properties": {
-        "hasDoors": true
+        "hasDoors": true,
+        "doorSound": 2
     },
     "images": [
         { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
