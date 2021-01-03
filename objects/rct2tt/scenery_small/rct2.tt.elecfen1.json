@@ -13,7 +13,7 @@
         "animationDelay": 2,
         "animationMask": 15,
         "numFrames": 16,
-        "sceneryGroup": "SCGFENCE",
+        "sceneryGroup": "rct2.scgfence",
         "shape": "3/4+D",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,

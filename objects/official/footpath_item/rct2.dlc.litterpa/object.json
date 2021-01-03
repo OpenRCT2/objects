@@ -12,7 +12,7 @@
         "renderAs": "bin",
         "cursor": "CURSOR_BIN_DOWN",
         "price": 40,
-        "sceneryGroup": "SCGPATHX"
+        "sceneryGroup": "rct2.scgpathx"
     },
     "images": [
         { "path": "images/0.png", "x": 16, "y": 16 },

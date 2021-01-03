@@ -9,7 +9,7 @@
         "isAllowedOnSlope": true,
         "height": 16,
         "price": 70,
-        "sceneryGroup": "SCGWALLS"
+        "sceneryGroup": "rct2.scgwalls"
     },
     "images": ["$RCT2:OBJDATA/JAILXX19.DAT[0..5]"],
     "strings": {

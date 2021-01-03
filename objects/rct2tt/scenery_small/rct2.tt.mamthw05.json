@@ -10,7 +10,7 @@
         "removalPrice": -4,
         "cursor": "CURSOR_FENCE_DOWN",
         "height": 24,
-        "sceneryGroup": "SCGFENCE",
+        "sceneryGroup": "rct2.scgfence",
         "shape": "2/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,

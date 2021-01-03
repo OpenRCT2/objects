@@ -11,7 +11,7 @@
         "renderAs": "bench",
         "cursor": "CURSOR_BENCH_DOWN",
         "price": 50,
-        "sceneryGroup": "SCGPATHX"
+        "sceneryGroup": "rct2.scgpathx"
     },
     "images": ["$RCT2:OBJDATA/MEDBENCH.DAT[0..8]"],
     "strings": {
