@@ -12,7 +12,7 @@
         "renderAs": "bin",
         "cursor": "CURSOR_BIN_DOWN",
         "price": 40,
-        "sceneryGroup": "SCGPATHX"
+        "sceneryGroup": "rct2.scgpathx"
     },
     "images": ["$RCT2:OBJDATA/LITTERWW.DAT[0..12]"],
     "strings": {

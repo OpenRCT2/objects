@@ -10,7 +10,7 @@
         "renderAs": "fountain",
         "cursor": "CURSOR_FOUNTAIN_DOWN",
         "price": 200,
-        "sceneryGroup": "SCGPATHX"
+        "sceneryGroup": "rct2.scgpathx"
     },
     "images": ["$RCT2:OBJDATA/JUMPFNT1.DAT[0..4]"],
     "strings": {

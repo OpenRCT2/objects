@@ -10,7 +10,7 @@
         "height": 2,
         "price": 50,
         "cursor": "CURSOR_TREE_DOWN",
-        "sceneryGroup": "SCGFENCE"
+        "sceneryGroup": "rct2.scgfence"
     },
     "images": ["$RCT2:OBJDATA/WHG.DAT[0..5]"],
     "strings": {

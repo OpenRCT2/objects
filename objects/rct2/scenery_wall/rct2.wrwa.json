@@ -8,7 +8,7 @@
     "properties": {
         "height": 3,
         "price": 50,
-        "sceneryGroup": "SCGWALLS"
+        "sceneryGroup": "rct2.scgwalls"
     },
     "images": ["$RCT2:OBJDATA/WRWA.DAT[0..1]"],
     "strings": {

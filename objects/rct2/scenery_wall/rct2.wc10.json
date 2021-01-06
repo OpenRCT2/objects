@@ -10,7 +10,7 @@
         "isAllowedOnSlope": true,
         "height": 9,
         "price": 100,
-        "sceneryGroup": "SCGFENCE"
+        "sceneryGroup": "rct2.scgfence"
     },
     "images": ["$RCT2:OBJDATA/WC10.DAT[0..5]"],
     "strings": {

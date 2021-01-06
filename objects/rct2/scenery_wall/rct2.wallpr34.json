@@ -8,7 +8,7 @@
     "properties": {
         "height": 4,
         "price": 110,
-        "sceneryGroup": "SCGFENCE"
+        "sceneryGroup": "rct2.scgfence"
     },
     "images": ["$RCT2:OBJDATA/WALLPR34.DAT[0..1]"],
     "strings": {

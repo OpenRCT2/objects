@@ -13,7 +13,7 @@
         "renderAs": "lamp",
         "cursor": "CURSOR_LAMPPOST_DOWN",
         "price": 60,
-        "sceneryGroup": "SCGPATHX"
+        "sceneryGroup": "rct2.scgpathx"
     },
     "images": ["$RCT2:OBJDATA/LAMPDSY.DAT[0..8]"],
     "strings": {
