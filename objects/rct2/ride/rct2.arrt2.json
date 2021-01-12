@@ -6,7 +6,7 @@
     "sourceGame": ["rct2", "rct1ll"],
     "objectType": "ride",
     "properties": {
-        "type": "corkscrew_rc",
+        "type": "hypercoaster",
         "category": "rollercoaster",
         "noInversions": true,
         "minCarsPerTrain": 2,

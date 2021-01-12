@@ -6,7 +6,7 @@
     "sourceGame": "rct2",
     "objectType": "ride",
     "properties": {
-        "type": "car_ride",
+        "type": "monster_trucks",
         "category": "gentle",
         "noCollisionCrashes": true,
         "minCarsPerTrain": 3,

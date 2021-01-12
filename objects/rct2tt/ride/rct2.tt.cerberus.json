@@ -6,7 +6,7 @@
     "sourceGame": "rct2tt",
     "objectType": "ride",
     "properties": {
-        "type": "twister_rc",
+        "type": "hyper_twister",
         "category": "rollercoaster",
         "noInversions": true,
         "minCarsPerTrain": 4,
