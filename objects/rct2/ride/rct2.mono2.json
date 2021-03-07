@@ -73,7 +73,8 @@
             "cs-CZ": "Malé jednokolejné vozy",
             "ja-JP": "小さなモノレール車両",
             "pl-PL": "Wagoniki jednoszynowe",
-            "ru-RU": "Моно-вагончики"
+            "ru-RU": "Моно-вагончики",
+            "eo-OO": "Malgrandaj Monorelaj Ĉaroj"
         },
         "description": {
             "en-GB": "Small monorail cars with open sides",
@@ -90,7 +91,8 @@
             "cs-CZ": "Malé jednokolejné vozy bez dveří",
             "ja-JP": "横の空いた小さなモノレールです",
             "pl-PL": "Wagoniki jednoszynowe z otwartymi bokami",
-            "ru-RU": "Мал. монорельсовые вагончики"
+            "ru-RU": "Мал. монорельсовые вагончики",
+            "eo-OO": "Malgrandaj monorelaj ĉaroj kun subĉielaj flankoj"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -108,7 +110,7 @@
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-OO": "Po 4 pasaĝeroj por aŭto"
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
         }
     }
 }

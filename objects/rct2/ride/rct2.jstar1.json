@@ -73,7 +73,8 @@
             "cs-CZ": "Tobogánová horská dráha",
             "ja-JP": "トボガン車両",
             "pl-PL": "Na saneczki",
-            "ru-RU": "Сани"
+            "ru-RU": "Сани",
+            "eo-OO": "Sledo-Ĉaroj"
         },
         "description": {
             "en-GB": "Toboggan-shaped roller coaster cars with in-line seating",
@@ -90,7 +91,8 @@
             "cs-CZ": "Horská dráha ve stylu tobogánu s vozy se sedačkami za sebou",
             "ja-JP": "リュージュ形の座席が直列したローラーコースターです",
             "pl-PL": "Kolejka górska z wagonikami w kształcie sanek, w których pasażerowie siedzą jeden za drugim",
-            "ru-RU": "Вагончики в виде саней для горок"
+            "ru-RU": "Вагончики в виде саней для горок",
+            "eo-OO": "Sledformaj ĉaroj de onda fervojo kun kolono da seĝoj"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -108,7 +110,7 @@
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-OO": "Po 4 pasaĝeroj por aŭto"
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
         }
     }
 }

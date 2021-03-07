@@ -78,7 +78,8 @@
             "ko-KR": "런던 버스",
             "pl-PL": "Londyński piętrus",
             "pt-BR": "Ônibus Routemaster",
-            "ru-RU": "Автобус"
+            "ru-RU": "Автобус",
+            "eo-OO": "Londonaj Etaĝaj Busoj"
         },
         "description": {
             "en-GB": "Replicas of the famous London Routemaster bus",
@@ -96,7 +97,8 @@
             "ko-KR": "유명한 런던 루트마스터 버스의 모형",
             "pl-PL": "Wagoniki są replikami londyńskich autobusów",
             "pt-BR": "Réplicas do famoso ônibus Routemaster de Londres",
-            "ru-RU": "Автобус"
+            "ru-RU": "Автобус",
+            "eo-OO": "Replikaĵoj de la fama Londona Etaĝa Buso"
         },
         "capacity": {
             "en-GB": "10 passengers per car",
@@ -113,7 +115,7 @@
             "pl-PL": "10 pasażerów na wagonik",
             "pt-BR": "10 passageiros por carro",
             "ru-RU": "10 пассажиров в вагон",
-            "eo-OO": "Po 10 pasaĝeroj por aŭto"
+            "eo-OO": "Po 10 pasaĝeroj por ĉaro"
         }
     }
 }

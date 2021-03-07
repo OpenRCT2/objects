@@ -57,7 +57,8 @@
             "cs-CZ": "Sedačkové lanovky",
             "ja-JP": "スキーリフト車両",
             "pl-PL": "Podniebne krzesełka",
-            "ru-RU": "Лыжные кресла"
+            "ru-RU": "Лыжные кресла",
+            "eo-OO": "Skilifto-Seĝoj"
         },
         "description": {
             "en-GB": "Open cars for chairlift",
@@ -74,7 +75,8 @@
             "cs-CZ": "Lanovka se sedačkami",
             "ja-JP": "屋根のないリフトカーです",
             "pl-PL": "Kolejka krzesełkowa z otwartymi siedziskami",
-            "ru-RU": "Открытые вагончики"
+            "ru-RU": "Открытые вагончики",
+            "eo-OO": "Subĉielaj ĉaroj de seĝlifto"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -92,7 +94,7 @@
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
-            "eo-OO": "Po 2 pasaĝeroj por aŭto"
+            "eo-OO": "Po 2 pasaĝeroj por ĉaro"
         }
     }
 }

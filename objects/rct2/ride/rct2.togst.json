@@ -120,7 +120,8 @@
             "en-US": "Stand-up Roller Coaster Trains",
             "ja-JP": "立ち乗りローラーコースター",
             "pl-PL": "Stojąca kolejka",
-            "ru-RU": "Стоячие горки"
+            "ru-RU": "Стоячие горки",
+            "eo-OO": "Stariĝantaj Trajnoj de Onda Fervojo"
         },
         "description": {
             "en-GB": "Roller coaster trains in which the riders ride in a standing position",
@@ -137,7 +138,8 @@
             "cs-CZ": "Návštěvníci jedou po horské dráze ve stoje",
             "ja-JP": "立ち乗りの、ループローラーコースターです",
             "pl-PL": "Zapętlona kolejka, w której pasażerowie jadą w pozycji stojącej",
-            "ru-RU": "Кольцевые горки, где люди катаются стоя."
+            "ru-RU": "Кольцевые горки, где люди катаются стоя.",
+            "eo-OO": "Trajnoj de onda fervojo, en kiuj la rajdantoj rajdas en staranta pozicio"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -155,7 +157,7 @@
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-OO": "Po 4 pasaĝeroj por aŭto"
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
         }
     }
 }

@@ -97,7 +97,8 @@
             "en-US": "Police Car Trains",
             "ja-JP": "パトカー型トレイン",
             "pl-PL": "Policyjny pościg",
-            "ru-RU": "Горки-Погоня"
+            "ru-RU": "Горки-Погоня",
+            "eo-OO": "Policaj-Aŭtoj-Trajnoj"
         },
         "description": {
             "en-GB": "Roller coaster trains with lap bars capable of travelling through vertical loops, themed to look like police cars",
@@ -113,7 +114,8 @@
             "cs-CZ": "Horská dráha s loopingy, na které návštěvníci ve vozech sedí",
             "ja-JP": "垂直ループが可能な、膝の安全バーが付いたパトロールカーのようなローラーコースターです",
             "pl-PL": "Kolejka górska z pętlami, w której pasażerowie jadą na siedząco",
-            "ru-RU": "Круговые горки. Люди едут сидя."
+            "ru-RU": "Круговые горки. Люди едут сидя.",
+            "eo-OO": "Trajnoj de onda fervojo kun sinobridoj, kiuj kapablas veturi tra vertikalaj lopoj, kaj estas temitaj por aspeki kiel policajn aŭtojn"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -130,7 +132,7 @@
             "cs-CZ": "4 místa v každém voze",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 чел. в кабине",
-            "eo-OO": "Po 4 pasaĝeroj por aŭto"
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
         }
     }
 }

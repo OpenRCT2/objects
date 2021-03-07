@@ -98,7 +98,8 @@
             "cs-CZ": "Důlní jízda",
             "ja-JP": "マイン・ライド",
             "pl-PL": "Przejażdżka kopalniana",
-            "ru-RU": "Рудник"
+            "ru-RU": "Рудник",
+            "eo-OO": "Ŝaltitaj Mino-Trajnoj"
         },
         "description": {
             "en-GB": "Mine train-themed roller coaster trains that propel themselves",
@@ -115,7 +116,8 @@
             "cs-CZ": "Horská dráha s vozy ve stylu důlních vagónů, které jedou po hladkých kolejnicích skrze propletenou dráhu",
             "ja-JP": "動力付きの鉱山列車がスムーズでひねりのあるコースを進む乗物です",
             "pl-PL": "Napędzane wagoniki kopalniane jadą po gładkim i zakręconym torze",
-            "ru-RU": "Шахтёрские поезда несутся по сложному треку."
+            "ru-RU": "Шахтёрские поезда несутся по сложному треку.",
+            "eo-OO": "Minotrajno-temitaj trajnoj de onda fervojo, kiuj iras per si mem"
         },
         "capacity": {
             "en-GB": "2 or 4 passengers per car",
@@ -133,7 +135,7 @@
             "ja-JP": "各車両2名または4名",
             "pl-PL": "2 lub 4 pasażerów na wagonik",
             "ru-RU": "2 или 4 пассажира",
-            "eo-OO": "Po 2 aŭ 4 pasaĝeroj por aŭto"
+            "eo-OO": "Po 2 aŭ 4 pasaĝeroj por ĉaro"
         }
     }
 }

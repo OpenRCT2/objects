@@ -74,7 +74,8 @@
             "cs-CZ": "Sportovní auta",
             "ja-JP": "スポーツカー",
             "pl-PL": "Wyścigówki",
-            "ru-RU": "Спорткары"
+            "ru-RU": "Спорткары",
+            "eo-OO": "Sportaŭtoj"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of sports cars",
@@ -91,7 +92,8 @@
             "cs-CZ": "Vozy ve tvaru sportovních aut",
             "ja-JP": "スポーツカーの形をした、動力付きの車両です",
             "pl-PL": "Pojazdy z napędem w kształcie samochodów wyścigowych",
-            "ru-RU": "Машинки в форме спорткаров"
+            "ru-RU": "Машинки в форме спорткаров",
+            "eo-OO": "Ŝaltitaj veturiloj formitaj kiel sportaŭtoj"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -109,7 +111,7 @@
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
-            "eo-OO": "Po 2 pasaĝeroj por aŭto"
+            "eo-OO": "Po 2 pasaĝeroj por ĉaro"
         }
     }
 }

@@ -115,7 +115,8 @@
             "cs-CZ": "Otáčivá horská dráha",
             "ja-JP": "逆向きジェットコースター",
             "pl-PL": "Zawracajka",
-            "ru-RU": "Горки с 4м измерением"
+            "ru-RU": "Горки с 4м измерением",
+            "eo-OO": "Inversiĝantaj Ĉaroj"
         },
         "description": {
             "en-GB": "Bogied cars capable of turning around on special reversing sections",
@@ -134,7 +135,8 @@
             "en-US": "Bogied cars capable of turning around on special reversing sections",
             "ja-JP": "特殊な反転ターンがある木製のコースをボギー車両が走行するコースターです",
             "pl-PL": "Wózki kopalniane jeżdżące po drewnianych torach, zawracające na specjalnych obrotowych sekcjach",
-            "ru-RU": "Вагончики на деревянных рельсах, меняющие направление на середине трека."
+            "ru-RU": "Вагончики на деревянных рельсах, меняющие направление на середине трека.",
+            "eo-OO": "Boĝiĉaroj kapablas je turniĝi ĉirkaŭ specialaj inversigantaj partoj"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -152,7 +154,7 @@
             "ja-JP": "各車両6名",
             "pl-PL": "6 pasażerów na wagonik",
             "ru-RU": "6 пассажиров",
-            "eo-OO": "Po 6 pasaĝeroj por aŭto"
+            "eo-OO": "Po 6 pasaĝeroj por ĉaro"
         }
     }
 }

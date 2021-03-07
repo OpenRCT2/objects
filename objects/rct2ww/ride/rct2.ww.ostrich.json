@@ -116,7 +116,8 @@
             "ja-JP": "ダチョウトレイン",
             "pl-PL": "Ostrygowa jazda",
             "pt-BR": "Trens Avestruz",
-            "ru-RU": "Австрийцы"
+            "ru-RU": "Австрийцы",
+            "eo-OO": "Struto-Trajnoj"
         },
         "description": {
             "en-GB": "Roller coaster trains in which the riders ride in a standing position and the cars are themed to look like ostriches",
@@ -132,7 +133,8 @@
             "ko-KR": "손님이 일어선 자세로 탑승하는 루핑 롤러코스터",
             "pl-PL": "Kolejka górska, w której pasażerowie pokonują pętle, stojąc",
             "pt-BR": "Uma montanha-russa de loops onde os passageiros vão de pé",
-            "ru-RU": "Круговые горки, люди катаются стоя."
+            "ru-RU": "Круговые горки, люди катаются стоя.",
+            "eo-OO": "Trajnoj de onda fervojo, en kiuj la rajdantoj rajdas en staranta pozicio, kaj la aŭtoj estas temitaj por aspekti kiel strutoj"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -149,7 +151,7 @@
             "pl-PL": "4 pasażerów na wagonik",
             "pt-BR": "4 passageiros por vagão",
             "ru-RU": "4 пассажира",
-            "eo-OO": "Po 4 pasaĝeroj por aŭto"
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
         }
     }
 }

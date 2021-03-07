@@ -133,7 +133,8 @@
             "ko-KR": "TGV 차량",
             "pl-PL": "Pociąg TGV",
             "pt-BR": "Trens TGV",
-            "ru-RU": "Поезд TGV"
+            "ru-RU": "Поезд TGV",
+            "eo-OO": "TGV Trajnoj"
         },
         "description": {
             "en-GB": "Roller coaster trains in the style of French high-speed trains (TGV) that are accelerated by linear induction motors",
@@ -149,7 +150,8 @@
             "ko-KR": "역에서 선형 유도 모터에 의해 가속되어 꼬여있는 트랙을 빠른 속도로 통과하는 롤러코스터 차량",
             "pl-PL": "Wagoniki są rozpędzane za pomocą magnetycznego silnika liniowego i podróżują po zakręconym torze",
             "pt-BR": "Trens de montanha-russa no estilo dos trens-bala franceses (TGV) que são acelerados por motores de indução linear",
-            "ru-RU": "Поезд с линейным индукционным мотором с крутыми виражами"
+            "ru-RU": "Поезд с линейным индукционным мотором с крутыми виражами",
+            "eo-OO": "Trajnoj de onda fervojo en la stilo de francaj rapidaj trajnoj (TGV), kiuj akceliĝas per linearaj induktaj motoroj"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -166,7 +168,7 @@
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
             "pt-BR": "4 passageiros por carro",
-            "eo-OO": "Po 4 pasaĝeroj por aŭto"
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
         }
     }
 }

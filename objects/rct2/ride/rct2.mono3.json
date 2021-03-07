@@ -108,7 +108,8 @@
             "cs-CZ": "Retro jednokolejné vlaky",
             "ja-JP": "レトロスタイル・モノレール車両",
             "pl-PL": "Retrokolejka jednoszynowa",
-            "ru-RU": "Старинный монорельс"
+            "ru-RU": "Старинный монорельс",
+            "eo-OO": "Retrostilaj Monorelaj Trajnoj"
         },
         "description": {
             "en-GB": "Monorail trains with open cabins",
@@ -125,7 +126,8 @@
             "cs-CZ": "Retro jednokolejné vlaky bez oken",
             "ja-JP": "オープンキャビンを持つモノレールです",
             "pl-PL": "Otwarte wagoniki jednoszynowe",
-            "ru-RU": "Монорельсовые поезда"
+            "ru-RU": "Монорельсовые поезда",
+            "eo-OO": "Monorelaj trajnoj kun subĉielaj kajutoj"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -143,7 +145,7 @@
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-OO": "Po 4 pasaĝeroj por aŭto"
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
         }
     }
 }

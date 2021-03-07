@@ -103,7 +103,8 @@
             "cs-CZ": "Zakroucená horská dráha",
             "ja-JP": "ツイスター・ジェットコースター",
             "pl-PL": "Zwijka",
-            "ru-RU": "Твистер-коастер"
+            "ru-RU": "Твистер-коастер",
+            "eo-OO": "Tvisto-Trajnoj"
         },
         "description": {
             "en-GB": "Spacious trains with shoulder restraints",
@@ -122,7 +123,8 @@
             "en-US": "A spacious train with shoulder restraints",
             "ja-JP": "さまざまな反転を持つスムーズなスチールコースを滑走する幅広のローラーコースターです",
             "pl-PL": "Szerokie wagoniki suną po gładkim stalowym torze, pokonując liczne ostre zakręty",
-            "ru-RU": "Широкие поезда скользят по гладким рельсам со множеством поворотов"
+            "ru-RU": "Широкие поезда скользят по гладким рельсам со множеством поворотов",
+            "eo-OO": "Grandspacaj trajnoj kun ŝultrobridoj"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -140,7 +142,7 @@
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-OO": "Po 4 pasaĝeroj por aŭto"
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
         }
     }
 }

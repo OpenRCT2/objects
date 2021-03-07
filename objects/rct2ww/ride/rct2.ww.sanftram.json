@@ -85,7 +85,8 @@
             "ko-KR": "샌프란시스코 전차",
             "pl-PL": "Tramwaj z San Francisco",
             "pt-BR": "Bondes de São Francisco",
-            "ru-RU": "Трамвай Сан-Франц."
+            "ru-RU": "Трамвай Сан-Франц.",
+            "eo-OO": "Tramoj de San Francisco"
         },
         "description": {
             "en-GB": "Replicas of the San Francisco Trams",
@@ -101,7 +102,8 @@
             "ko-KR": "전차 모형",
             "pl-PL": "Replika tramwaju",
             "pt-BR": "Réplicas dos antigos bondes de São Francisco",
-            "ru-RU": "Трамвайчики"
+            "ru-RU": "Трамвайчики",
+            "eo-OO": "Replikaĵoj de la tramoj de San Francisco"
         },
         "capacity": {
             "en-GB": "10 passengers per car",
@@ -118,7 +120,7 @@
             "pl-PL": "10 pasażerów na wagonik",
             "pt-BR": "10 passageiros por bonde",
             "ru-RU": "10 пассажиров",
-            "eo-OO": "Po 10 pasaĝeroj por aŭto"
+            "eo-OO": "Po 10 pasaĝeroj por ĉaro"
         }
     }
 }
