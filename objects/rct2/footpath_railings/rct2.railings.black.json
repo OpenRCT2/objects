@@ -1,0 +1,21 @@
+{
+    "id": "rct2.railings.black",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008F|#RAILIN4|00000000",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "footpath_railings",
+    "properties": {
+        "supportType": "pole",
+        "scrollingMode": 0
+    },
+    "images": [
+        "$RCT2:OBJDATA/PATHASH.DAT[71]",
+        "$RCT2:OBJDATA/PATHASH.DAT[73..145]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Black Railings"
+        }
+    }
+}

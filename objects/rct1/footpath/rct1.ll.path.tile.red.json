@@ -1,14 +1,14 @@
 {
-    "id": "rct1.ll.pathtilr",
+    "id": "rct1.ll.path.tile.red",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "00000065|#RCT1PTR|00000000",
     "sourceGame": "rct1ll",
     "objectType": "footpath",
     "properties": {
         "hasElevatedPathImages": true,
         "supportType": "box",
-        "scrollingMode": 0
+        "scrollingMode": 0,
+        "noSlopeRailings": true
     },
     "images": ["$CSG[43983..44033]", "$CSG[43251..43270]", "$CSG[47328]", "$CSG[47307]", "$RCT2:OBJDATA/TARMAC.DAT[73..169]"],
     "strings": {
