@@ -10,7 +10,13 @@
         "scrollingMode": 0,
         "noSlopeRailings": true
     },
-    "images": ["$RCT2:OBJDATA/PATHASH.DAT[0..50]", "$RCT2:OBJDATA/TARMAC.DAT[51..167]"],
+    "images": [
+        "$RCT2:OBJDATA/PATHASH.DAT[0..50]",
+        "$CSG[43291..43310]",
+        "$RCT2:OBJDATA/PATHASH.DAT[71]",
+        "$RCT2:OBJDATA/PATHASH.DAT[72]",
+        "$RCT2:OBJDATA/TARMAC.DAT[73..167]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Ash Footpath",

@@ -10,7 +10,13 @@
         "scrollingMode": 0,
         "noSlopeRailings": true
     },
-    "images": ["$CSG[43371..43421]", "$CSG[43211..43230]", "$RCT2:OBJDATA/TARMAC.DAT[71]", "$RCT2:OBJDATA/TARMAC.DAT[72]", "$RCT2:OBJDATA/TARMAC.DAT[73..169]"],
+    "images": [
+        "$CSG[43371..43421]",
+        "$CSG[43211..43230]",
+        "$RCT2:OBJDATA/TARMAC.DAT[71]",
+        "$RCT2:OBJDATA/TARMAC.DAT[72]",
+        "$RCT2:OBJDATA/TARMAC.DAT[73..167]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Tarmac Footpath",

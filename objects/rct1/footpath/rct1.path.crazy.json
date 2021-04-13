@@ -2,7 +2,7 @@
     "id": "rct1.path.crazy",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "sourceGame": ["rct1"],
+    "sourceGame": "rct1",
     "objectType": "footpath",
     "properties": {
         "hasSupportImages": true,
@@ -11,7 +11,13 @@
         "scrollingMode": 0,
         "noSlopeRailings": true
     },
-    "images": ["$RCT2:OBJDATA/PATHCRZY.DAT[0..164]"],
+    "images": [
+        "$CSG[44493..44543]",
+        "$CSG[43291..43310]",
+        "$RCT2:OBJDATA/PATHCRZY.DAT[71]",
+        "$RCT2:OBJDATA/PATHCRZY.DAT[72]",
+        "$RCT2:OBJDATA/TARMAC.DAT[73..167]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Crazy Paving Footpath",

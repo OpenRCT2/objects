@@ -10,7 +10,13 @@
         "scrollingMode": 0,
         "noSlopeRailings": true
     },
-    "images": ["$CSG[43779..43829]", "$CSG[43291..43310]", "$CSG[47326]", "$CSG[47308]", "$RCT2:OBJDATA/TARMAC.DAT[73..169]"],
+    "images": [
+        "$CSG[43779..43829]",
+        "$CSG[43291..43310]",
+        "$CSG[47326]",
+        "$CSG[47308]",
+        "$RCT2:OBJDATA/TARMAC.DAT[73..167]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Pink Tiled Footpath"
