@@ -10,7 +10,13 @@
         "scrollingMode": 0,
         "noSlopeRailings": true
     },
-    "images": ["$RCT2:OBJDATA/PATHSPCE.DAT[0..145]"],
+    "images": [
+        "$CSG[43473..43523]",
+        "$CSG[43251..43270]",
+        "$RCT2:OBJDATA/PATHSPCE.DAT[71]",
+        "$RCT2:OBJDATA/PATHSPCE.DAT[72]",
+        "$RCT2:OBJDATA/TARMAC.DAT[73..167]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Space Style Footpath",

@@ -10,7 +10,13 @@
         "scrollingMode": 0,
         "noSlopeRailings": true
     },
-    "images": ["$RCT2:OBJDATA/TARMACG.DAT[0..164]"],
+    "images": [
+        "$CSG[43677..43727]",
+        "$CSG[43331..43350]",
+        "$RCT2:OBJDATA/TARMACG.DAT[71]",
+        "$RCT2:OBJDATA/TARMACG.DAT[72]",
+        "$RCT2:OBJDATA/TARMAC.DAT[73..167]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Green Tarmac Footpath",

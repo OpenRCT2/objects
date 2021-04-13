@@ -10,7 +10,13 @@
         "scrollingMode": 0,
         "noSlopeRailings": true
     },
-    "images": ["$CSG[43983..44033]", "$CSG[43251..43270]", "$CSG[47328]", "$CSG[47307]", "$RCT2:OBJDATA/TARMAC.DAT[73..167]"],
+    "images": [
+        "$CSG[43983..44033]",
+        "$CSG[43251..43270]",
+        "$CSG[47328]",
+        "$CSG[47307]",
+        "$RCT2:OBJDATA/TARMAC.DAT[73..167]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Red and Brown Tiled Footpath",
