@@ -7,7 +7,8 @@
     "properties": {
         "hasElevatedPathImages": true,
         "supportType": "pole",
-        "scrollingMode": 0
+        "scrollingMode": 0,
+        "colour": "yellow"
     },
     "images": [
         "$RCT2:OBJDATA/PATHDIRT.DAT[71]",
