@@ -1,0 +1,32 @@
+{
+    "id": "rct2.pathsurface.crazy",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "footpath_surface",
+    "images": [
+        "$RCT2:OBJDATA/PATHCRZY.DAT[0..19]",
+        "$RCT2:OBJDATA/PATHCRZY.DAT[71]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Crazy Paving Footpath",
+            "fr-FR": "Allée pavée",
+            "de-DE": "Fußweg mit verrücktem Belag",
+            "es-ES": "Sendero de empedrado loco",
+            "it-IT": "Sentiero strampalato",
+            "nl-NL": "Voetpad met onregelmatig plaveisel",
+            "sv-SE": "Rolig stengång",
+            "ko-KR": "벽돌 보도",
+            "zh-CN": "古怪步道",
+            "zh-TW": "古怪步道",
+            "pt-BR": "Caminho de Pavimento Doido",
+            "cs-CZ": "Šílená cesta",
+            "ja-JP": "クレイジー敷石歩道",
+            "pl-PL": "Zwariowana dróżka",
+            "ru-RU": "Дорожка",
+            "ar-EG": "ممشي مجنون مرصوف",
+            "eo-OO": "Freneza Trotuaro"
+        }
+    }
+}

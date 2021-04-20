@@ -1,0 +1,29 @@
+{
+    "id": "rct1.aa.pathsurface.tile.grey",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": "rct1aa",
+    "objectType": "footpath_surface",
+    "properties": {
+        "noSlopeRailings": true
+    },
+    "images": [
+        "$CSG[43881..43931]",
+        "$CSG[47327]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Grey Tiled Footpath",
+            "de-DE": "Grauer Mosaikfußweg",
+            "nl-NL": "Grijze klinkers",
+            "ar-EG": "قرميد ممشي رمادي",
+            "pt-BR": "Calçada de Azulejo Cinza",
+            "fr-FR": "Allée pavée grise",
+            "ja-JP": "グレーのタイルの歩道",
+            "pl-PL": "Szara Mozaikowa Ścieżka",
+            "ko-KR": "회색 타일 보도",
+            "eo-OO": "Griza Kahelita Trotuaro",
+            "sv-SE": "Grå stenlagd gångväg"
+        }
+    }
+}

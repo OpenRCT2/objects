@@ -1,0 +1,20 @@
+{
+    "id": "rct2.pathsurface.queue.red",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": "rct2",
+    "objectType": "footpath_surface",
+    "properties": {
+        "isQueue": true,
+        "noSlopeRailings": true
+    },
+    "images": [
+        "$RCT2:OBJDATA/PATHSPCE.DAT[51..70]",
+        "$RCT2:OBJDATA/PATHSPCE.DAT[72]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Queue (Red)"
+        }
+    }
+}

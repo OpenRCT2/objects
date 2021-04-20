@@ -1,0 +1,20 @@
+{
+    "id": "rct1.pathsurface.queue.blue",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": "rct1",
+    "objectType": "footpath_surface",
+    "properties": {
+        "isQueue": true,
+        "noSlopeRailings": true
+    },
+    "images": [
+        "$CSG[43211..43230]",
+        "$RCT2:OBJDATA/TARMAC.DAT[72]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Queue (Blue)"
+        }
+    }
+}
