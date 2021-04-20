@@ -1,0 +1,35 @@
+{
+    "id": "rct2.pathsurface.road",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "footpath_surface",
+    "properties": {
+        "editorOnly": true
+    },
+    "images": [
+        "$RCT2:OBJDATA/ROAD.DAT[0..50]",
+        "$RCT2:OBJDATA/ROAD.DAT[71]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Road",
+            "fr-FR": "Route",
+            "de-DE": "Straße",
+            "es-ES": "Carretera",
+            "it-IT": "Strada",
+            "nl-NL": "Weg",
+            "sv-SE": "Väg",
+            "ko-KR": "도로",
+            "zh-CN": "道路",
+            "zh-TW": "道路",
+            "pt-BR": "Estrada",
+            "cs-CZ": "Silnice",
+            "ja-JP": "道路",
+            "pl-PL": "Droga",
+            "ru-RU": "Путь",
+            "ar-Eg": "طريق",
+            "eo-OO": "Strato"
+        }
+    }
+}

@@ -5,7 +5,7 @@
     "sourceGame": ["rct2", "rct1aa"],
     "objectType": "footpath_surface",
     "images": [
-        "$RCT2:OBJDATA/PATHSPCE.DAT[0..19]",
+        "$RCT2:OBJDATA/PATHSPCE.DAT[0..50]",
         "$RCT2:OBJDATA/PATHSPCE.DAT[71]"
     ],
     "strings": {
