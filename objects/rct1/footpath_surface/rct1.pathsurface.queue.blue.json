@@ -9,8 +9,8 @@
         "noSlopeRailings": true
     },
     "images": [
-        "$CSG[43211..43230]",
-        "$RCT2:OBJDATA/TARMAC.DAT[72]"
+        "$RCT2:OBJDATA/TARMAC.DAT[72]",
+        "$CSG[43211..43230]"
     ],
     "strings": {
         "name": {
