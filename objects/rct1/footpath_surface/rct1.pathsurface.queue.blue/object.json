@@ -1,0 +1,20 @@
+{
+    "id": "rct1.pathsurface.queue.blue",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": "rct1",
+    "objectType": "footpath_surface",
+    "properties": {
+        "isQueue": true
+    },
+    "images": [
+        { "path": "preview.png", "x": 1, "y": 1 },
+        "$CSG[43211..43230]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Queue (Blue)",
+            "nl-NL": "Wachtrij (blauw)"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "rct1.aa.pathsurface.space",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": "rct1aa",
+    "objectType": "footpath_surface",
+    "properties": {
+        "noSlopeRailings": true
+    },
+    "images": [
+        { "path": "preview.png", "x": 1, "y": 1 },
+        "$CSG[43473..43523]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Space Style Footpath",
+            "fr-FR": "Allée spatiale",
+            "de-DE": "Weltraumstil-Fußweg",
+            "es-ES": "Sendero estilo espacial",
+            "it-IT": "Sentiero spaziale",
+            "nl-NL": "Voetpad in ruimtestijl",
+            "sv-SE": "Rymdstilsgångväg",
+            "ko-KR": "우주 스타일 보도",
+            "zh-CN": "太空风格步道",
+            "zh-TW": "太空風格步道",
+            "pt-BR": "Caminho Estilo Espacial",
+            "cs-CZ": "Cesta ve vesmírném stylu",
+            "ja-JP": "スペース風歩道",
+            "pl-PL": "Dróżka kosmiczna",
+            "ru-RU": "Дорожка",
+            "ar-EG": "ممشي بشكل فضائي",
+            "eo-OO": "Trotuaro de Kosma Stilo"
+        }
+    }
+}

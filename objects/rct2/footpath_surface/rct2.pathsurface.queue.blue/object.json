@@ -1,0 +1,20 @@
+{
+    "id": "rct2.pathsurface.queue.blue",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": "rct2",
+    "objectType": "footpath_surface",
+    "properties": {
+        "isQueue": true
+    },
+    "images": [
+        { "path": "preview.png" },
+        "$RCT2:OBJDATA/TARMAC.DAT[51..70]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Queue (Blue)",
+            "nl-NL": "Wachtrij (blauw)"
+        }
+    }
+}
