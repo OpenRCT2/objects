@@ -8,7 +8,7 @@
         "isQueue": true
     },
     "images": [
-        { "path": "preview.png" },
+        "$RCT2:OBJDATA/TARMAC.DAT[72]",
         "$RCT2:OBJDATA/TARMAC.DAT[51..70]"
     ],
     "strings": {
