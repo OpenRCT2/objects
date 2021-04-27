@@ -1,0 +1,20 @@
+{
+  "id": "openrct2.railings.invisible",
+  "authors": ["OpenRCT2 developers"],
+  "version": "1.0",
+  "sourceGame": ["official"],
+  "objectType": "footpath_railings",
+  "properties": {
+    "supportType": "pole",
+    "scrollingMode": 0
+  },
+  "images": [
+    "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
+  ],
+  "strings": {
+    "name": {
+      "en-GB": "Invisible railings",
+      "nl-NL": "Onzichtbare ondersteuningen"
+    }
+  }
+}

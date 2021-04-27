@@ -1,17 +1,13 @@
 {
-    "id": "rct2.tt.medipath",
+    "id": "rct2.tt.pathsurface.medieval",
     "authors": ["Frontier Studios"],
     "version": "1.0",
-    "originalId": "0E24F925|MEDIPATH|10566FF2",
-    "sourceGame": "rct2tt",
-    "objectType": "footpath",
-    "properties": {
-        "hasSupportImages": true,
-        "hasElevatedPathImages": true,
-        "supportType": "pole",
-        "scrollingMode": 0
-    },
-    "images": ["$RCT2:OBJDATA/MEDIPATH.DAT[0..164]"],
+    "sourceGame": ["rct2tt"],
+    "objectType": "footpath_surface",
+    "images": [
+        { "path": "preview.png", "x": 1, "y": 1 },
+        "$RCT2:OBJDATA/MEDIPATH.DAT[0..50]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Wooden FootPath",

@@ -1,0 +1,23 @@
+{
+    "id": "rct2.tt.pathrailings.circuitboard",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": ["rct2tt"],
+    "objectType": "footpath_railings",
+    "properties": {
+        "hasSupportImages": true,
+        "hasElevatedPathImages": true,
+        "supportType": "pole",
+        "scrollingMode": 0
+    },
+    "images": [
+        { "path": "preview.png", "x": 1, "y": 1 },
+        "$RCT2:OBJDATA/FUTRPATH.DAT[73..164]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Circuit board railings",
+            "nl-NL": "Printplaatondersteuningen"
+        }
+    }
+}
