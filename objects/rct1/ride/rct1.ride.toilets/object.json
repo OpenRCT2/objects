@@ -1,0 +1,65 @@
+{
+    "id": "rct1.ride.toilets",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": "rct1",
+    "objectType": "ride",
+    "properties": {
+        "type": "toilets",
+        "category": "stall"
+    },
+    "images": [
+        { "path": "images/preview.png", "format": "raw" },
+        "",
+        "",
+        { "path": "images/0.png", "format": "raw", "x": -32, "y": -18 },
+        { "path": "images/1.png", "format": "raw", "x": -32, "y": -27 },
+        { "path": "images/2.png", "format": "raw", "x": -32, "y": -27 },
+        { "path": "images/3.png", "format": "raw", "x": 11, "y": -17 },
+        { "path": "images/4.png", "format": "raw", "x": -20, "y": -27 },
+        { "path": "images/5.png", "format": "raw", "x": -32, "y": -27 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Toilets",
+            "en-US": "Restroom",
+            "fr-FR": "Toilettes",
+            "de-DE": "Toiletten",
+            "es-ES": "Servicios",
+            "it-IT": "Servizi igienici",
+            "nl-NL": "Toiletten",
+            "sv-SE": "Toaletter",
+            "ko-KR": "화장실",
+            "zh-CN": "厕所",
+            "zh-TW": "廁所",
+            "pt-BR": "Banheiros",
+            "cs-CZ": "Toalety",
+            "ja-JP": "トイレ",
+            "nb-NO": "Toaletter",
+            "pl-PL": "Toalety",
+            "ru-RU": "Туалет",
+            "ar-EG": "حمامات",
+            "eo-OO": "Necesejoj"
+        },
+        "description": {
+            "en-GB": "Basic toilets housed in a prefabricated concrete building",
+            "en-US": "Basic restroom facilities housed in a prefabricated concrete building",
+            "fr-FR": "Toilettes classiques placées dans un bâtiment préfabriqué en béton",
+            "de-DE": "Herkömmliche Toiletten in einem vorgefertigen Betongebäude",
+            "es-ES": "Lavabos hechos de hormigón prefabricado",
+            "it-IT": "Servizi igienici di base situati in costruzioni di cemento prefabbricate",
+            "nl-NL": "Eenvoudige toiletten in een prefab betonnen gebouw.",
+            "sv-SE": "Ordinära toaletter i en förtillverkad betongbyggnad",
+            "ko-KR": "조립식 콘크리트 건물 안에 있는 기본형 화장실",
+            "zh-CN": "一座基本厕所建筑物",
+            "zh-TW": "一座基本廁所建築物",
+            "pt-BR": "Banheiros básicos alojados numa construção pré-fabricada de concreto",
+            "cs-CZ": "Toalety v betonové zástavbě",
+            "ja-JP": "コンクリートのプレハブでできた、ベーシックなトイレです",
+            "pl-PL": "Podstawowe toalety w budynku z prefabrykowanego betonu",
+            "ru-RU": "Уборная для посетителей парка",
+            "ar-EG": "حمامات عادية موضوعة في مباني أسمنتية مسبقة الصنع",
+            "eo-OO": "Bazaj necesejoj, kiuj troviĝas en pretkonstruita betona konstruaĵo"
+        }
+    }
+}

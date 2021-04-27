@@ -1,0 +1,29 @@
+{
+    "id": "rct1.pathsurface.tile.brown",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": "rct1",
+    "objectType": "footpath_surface",
+    "properties": {
+        "noSlopeRailings": true
+    },
+    "images": [
+        { "path": "preview.png", "x": 1, "y": 1 },
+        "$CSG[43779..43829]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Brown Tiled Footpath",
+            "de-DE": "Brauner Mosaikfußweg",
+            "nl-NL": "Bruine klinkers",
+            "ar-EG": "قرميد ممشي بُني",
+            "pt-BR": "Calçada de Azulejos Marrons",
+            "ja-JP": "茶色のタイルの歩道",
+            "fr-FR": "Allée pavée marron",
+            "pl-PL": "Brązowa Mozaikowa Ścieżka",
+            "ko-KR": "갈색 타일 보도",
+            "eo-OO": "Bruna Kahelita Trotuaro",
+            "sv-SE": "Brun stenlagd gångväg"
+        }
+    }
+}
