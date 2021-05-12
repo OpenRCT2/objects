@@ -6,6 +6,7 @@
     "sourceGame": "official",
     "objectType": "station",
     "properties": {
+        "hasShelter": false,
         "noPlatforms": true
     },
     "images": [],

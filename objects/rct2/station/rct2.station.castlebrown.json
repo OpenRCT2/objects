@@ -7,7 +7,8 @@
     "objectType": "station",
     "properties": {
         "height": 43,
-        "scrollingMode": 19
+        "scrollingMode": 19,
+        "hasShelter": true
     },
     "images": [
         "$G1[22712..22727]",

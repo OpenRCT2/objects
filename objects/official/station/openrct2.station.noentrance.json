@@ -5,7 +5,9 @@
     "originalId": "0000008D|#ORCT2SN|00000000",
     "sourceGame": "official",
     "objectType": "station",
-    "properties": {},
+    "properties": {
+        "hasShelter": false
+    },
     "images": [],
     "strings": {
         "name": {
