@@ -59,10 +59,10 @@
                 "flat": true,
                 "gentleSlopes": true
             },
-            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-            "VEHICLE_ENTRY_FLAG_POWERED": true,
-            "VEHICLE_ENTRY_FLAG_BOAT_HIRE_COLLISION_DETECTION": true,
-            "VEHICLE_ENTRY_FLAG_GO_KART": true,
+            "hasAdditionalColour1": true,
+            "isPowered": true,
+            "useBoatHireCollisionDetection": true,
+            "isGoKart": true,
             "loadingPositions": [-1]
         }
     },

@@ -35,8 +35,8 @@
             "frames": {
                 "flat": true
             },
-            "VEHICLE_ENTRY_FLAG_POWERED": true,
-            "VEHICLE_ENTRY_FLAG_WATER_RIDE": true,
+            "isPowered": true,
+            "isWaterRide": true,
             "loadingPositions": [6, 4, -6, -4]
         }
     },

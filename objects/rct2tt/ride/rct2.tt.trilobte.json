@@ -49,7 +49,7 @@
                     "flatToGentleSlopeBankedTransitions": true,
                     "diagonalGentleSlopeBankedTransitions": true
                 },
-                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "hasScreamingRiders": true,
                 "loadingPositions": [7, 9, 2, 4, -3, -1]
             },
             {
@@ -62,7 +62,7 @@
                 "frames": {
                     "flat": true
                 },
-                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true
+                "hasScreamingRiders": true
             }
         ]
     },

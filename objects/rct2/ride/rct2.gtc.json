@@ -41,13 +41,13 @@
                     "flat": true,
                     "gentleSlopes": true
                 },
-                "VEHICLE_ENTRY_FLAG_POWERED_RIDE_UNRESTRICTED_GRAVITY": true,
-                "VEHICLE_ENTRY_FLAG_NO_UPSTOP_WHEELS": true,
-                "VEHICLE_ENTRY_FLAG_NO_UPSTOP_BOBSLEIGH": true,
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-                "VEHICLE_ENTRY_FLAG_POWERED": true,
-                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "isPoweredRideWithUnrestrictedGravity": true,
+                "hasNoUpstopWheels": true,
+                "hasNoUpstopWheelsBobsleigh": true,
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "isPowered": true,
+                "hasScreamingRiders": true,
                 "loadingPositions": [3, -3]
             },
             {
@@ -60,12 +60,11 @@
                 "frames": {
                     "flat": true
                 },
-                "VEHICLE_ENTRY_FLAG_POWERED_RIDE_UNRESTRICTED_GRAVITY": true,
-                "VEHICLE_ENTRY_FLAG_NO_UPSTOP_WHEELS": true,
-                "VEHICLE_ENTRY_FLAG_NO_UPSTOP_BOBSLEIGH": true,
-                "VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED": true,
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
-                "VEHICLE_ENTRY_FLAG_POWERED": true
+                "isPoweredRideWithUnrestrictedGravity": true,
+                "hasNoUpstopWheels": true,
+                "hasNoUpstopWheelsBobsleigh": true,
+                "hasAdditionalColour2": true,
+                "isPowered": true
             }
         ],
         "buildMenuPriority": 2

@@ -40,8 +40,8 @@
                     "flat": true,
                     "gentleSlopes": true
                 },
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "hasAdditionalColour1": true,
+                "isPowered": true,
                 "loadingPositions": [4, -4]
             },
             {
@@ -54,8 +54,7 @@
                 "frames": {
                     "flat": true
                 },
-                "VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED": true,
-                "VEHICLE_ENTRY_FLAG_POWERED": true
+                "isPowered": true
             }
         ],
         "buildMenuPriority": 2

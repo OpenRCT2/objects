@@ -40,8 +40,8 @@
                 "diagonalSlopes": true,
                 "restraintAnimation": true
             },
-            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "hasAdditionalColour1": true,
+            "isPowered": true,
             "loadingPositions": [-15, -12, 15, 12, -15, -12, 15, 12]
         },
         "buildMenuPriority": 1

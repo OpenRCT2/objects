@@ -33,13 +33,13 @@
                 "flat": true,
                 "gentleSlopes": true
             },
-            "VEHICLE_ENTRY_FLAG_NO_UPSTOP_BOBSLEIGH": true,
-            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
-            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-            "VEHICLE_ENTRY_FLAG_SWINGING": true,
-            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
-            "VEHICLE_ENTRY_FLAG_21": true,
-            "VEHICLE_ENTRY_FLAG_SLIDE_SWING": true,
+            "hasNoUpstopWheelsBobsleigh": true,
+            "hasAdditionalColour2": true,
+            "hasAdditionalColour1": true,
+            "hasSwinging": true,
+            "hasScreamingRiders": true,
+            "useSuspendedSwing": true,
+            "useSlideSwing": true,
             "loadingPositions": [3, -3]
         },
         "buildMenuPriority": 2

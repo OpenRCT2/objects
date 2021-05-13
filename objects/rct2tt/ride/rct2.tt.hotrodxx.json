@@ -43,8 +43,8 @@
                     "flatBanked": true,
                     "restraintAnimation": true
                 },
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
                 "loadingPositions": [3, -3]
             },
             {
@@ -61,7 +61,7 @@
                     "verticalSlopes": true,
                     "flatBanked": true
                 },
-                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true
+                "hasScreamingRiders": true
             }
         ]
     },
