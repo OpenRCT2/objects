@@ -35,12 +35,12 @@
             "frames": {
                 "flat": true
             },
-            "VEHICLE_ENTRY_FLAG_DODGEM_INUSE_LIGHTS": true,
-            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-            "VEHICLE_ENTRY_FLAG_POWERED": true,
-            "VEHICLE_ENTRY_FLAG_BOAT_HIRE_COLLISION_DETECTION": true,
-            "VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION": true,
-            "VEHICLE_ENTRY_FLAG_DODGEM_CAR_PLACEMENT": true,
+            "hasDodgemInUseLights": true,
+            "hasAdditionalColour1": true,
+            "isPowered": true,
+            "useBoatHireCollisionDetection": true,
+            "hasVehicleAnimation": true,
+            "useDodgemCarPlacement": true,
             "loadingPositions": [0]
         }
     },

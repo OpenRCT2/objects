@@ -34,8 +34,8 @@
                 "flat": true,
                 "restraintAnimation": true
             },
-            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-            "VEHICLE_ENTRY_FLAG_CHAIRLIFT": true,
+            "hasAdditionalColour1": true,
+            "isChairlift": true,
             "loadingPositions": [4, 0]
         },
         "buildMenuPriority": 2

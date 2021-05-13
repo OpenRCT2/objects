@@ -44,7 +44,7 @@
                     "gentleSlopes": true,
                     "diagonalSlopes": true
                 },
-                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "isPowered": true,
                 "loadingPositions": [12, -12, 12, -12, 12, -12, 13, 11, -13, -11]
             },
             {
@@ -58,7 +58,7 @@
                 "frames": {
                     "flat": true
                 },
-                "VEHICLE_ENTRY_FLAG_POWERED": true
+                "isPowered": true
             }
         ]
     },

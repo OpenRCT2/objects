@@ -39,9 +39,9 @@
                     "diagonalGentleSlopeBankedTransitions": true,
                     "restraintAnimation": true
                 },
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
                 "loadingPositions": [3, -1]
             },
             {
@@ -63,9 +63,9 @@
                     "diagonalGentleSlopeBankedTransitions": true,
                     "restraintAnimation": true
                 },
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
                 "loadingPositions": [7, 9, -3, -1]
             }
         ],
