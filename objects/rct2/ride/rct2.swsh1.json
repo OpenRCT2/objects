@@ -31,8 +31,8 @@
             "frames": {
                 "flat": true
             },
-            "VEHICLE_ENTRY_FLAG_10": true,
-            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
+            "recalculateSpriteBounds": true,
+            "hasAdditionalColour1": true,
             "loadingPositions": [30, 28, -30, -28, 20, 18, -20, -18, 12, 10, -12, -10, 5, 3, -5, -3]
         }
     },

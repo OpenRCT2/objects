@@ -33,10 +33,10 @@
                     "flat": true,
                     "gentleSlopes": true
                 },
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-                "VEHICLE_ENTRY_FLAG_POWERED": true,
-                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
-                "VEHICLE_ENTRY_FLAG_WATER_RIDE": true,
+                "hasAdditionalColour1": true,
+                "isPowered": true,
+                "hasScreamingRiders": true,
+                "isWaterRide": true,
                 "loadingPositions": [6, 4, -7, -9]
             },
             {
@@ -54,9 +54,9 @@
                     "flat": true,
                     "gentleSlopes": true
                 },
-                "VEHICLE_ENTRY_FLAG_POWERED": true,
-                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
-                "VEHICLE_ENTRY_FLAG_WATER_RIDE": true,
+                "isPowered": true,
+                "hasScreamingRiders": true,
+                "isWaterRide": true,
                 "loadingPositions": [6, 4, -7, -9]
             }
         ]

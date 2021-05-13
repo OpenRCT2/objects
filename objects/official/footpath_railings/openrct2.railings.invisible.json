@@ -6,6 +6,7 @@
   "objectType": "footpath_railings",
   "properties": {
     "supportType": "pole",
+    "hasElevatedPathImages": true,
     "scrollingMode": 0
   },
   "images": [

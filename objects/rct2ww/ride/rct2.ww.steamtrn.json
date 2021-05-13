@@ -51,9 +51,9 @@
                     "gentleSlopes": true,
                     "diagonalSlopes": true
                 },
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-                "VEHICLE_ENTRY_FLAG_POWERED": true,
-                "VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION": true
+                "hasAdditionalColour1": true,
+                "isPowered": true,
+                "hasVehicleAnimation": true
             },
             {
                 "rotationFrameMask": 31,
@@ -69,9 +69,9 @@
                     "gentleSlopes": true,
                     "diagonalSlopes": true
                 },
-                "VEHICLE_ENTRY_FLAG_POWERED_RIDE_UNRESTRICTED_GRAVITY": true,
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-                "VEHICLE_ENTRY_FLAG_POWERED": true
+                "isPoweredRideWithUnrestrictedGravity": true,
+                "hasAdditionalColour1": true,
+                "isPowered": true
             },
             {
                 "rotationFrameMask": 31,
@@ -89,8 +89,8 @@
                     "gentleSlopes": true,
                     "diagonalSlopes": true
                 },
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "hasAdditionalColour1": true,
+                "isPowered": true,
                 "loadingPositions": [10, 8, 1, -1, -8, -10]
             }
         ]

@@ -52,9 +52,9 @@
                     "corkscrews": true,
                     "restraintAnimation": true
                 },
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
                 "loadingPositions": [-2, -4, -2, -4]
             },
             {
@@ -79,9 +79,9 @@
                     "flatToGentleSlopeWhileBankedTransitions": true,
                     "corkscrews": true
                 },
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true
             }
         ],
         "buildMenuPriority": 5

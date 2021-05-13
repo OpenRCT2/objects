@@ -46,8 +46,8 @@
                     "gentleSlopes": true,
                     "diagonalSlopes": true
                 },
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-                "VEHICLE_ENTRY_FLAG_POWERED": true,
+                "hasAdditionalColour1": true,
+                "isPowered": true,
                 "loadingPositions": [12, -12, 12, -12, 12, -12, 13, 11, -13, -11]
             },
             {
@@ -62,8 +62,8 @@
                 "frames": {
                     "flat": true
                 },
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-                "VEHICLE_ENTRY_FLAG_POWERED": true
+                "hasAdditionalColour1": true,
+                "isPowered": true
             }
         ],
         "buildMenuPriority": 1

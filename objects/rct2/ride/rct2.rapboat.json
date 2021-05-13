@@ -48,11 +48,11 @@
             "frames": {
                 "flat": true
             },
-            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-            "VEHICLE_ENTRY_FLAG_SPINNING": true,
-            "VEHICLE_ENTRY_FLAG_POWERED": true,
-            "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
-            "VEHICLE_ENTRY_FLAG_WATER_RIDE": true,
+            "hasAdditionalColour1": true,
+            "hasSpinning": true,
+            "isPowered": true,
+            "hasScreamingRiders": true,
+            "isWaterRide": true,
             "loadingPositions": [4, -4, 4, -4, 4, -4, 4, -4]
         },
         "buildMenuPriority": 1

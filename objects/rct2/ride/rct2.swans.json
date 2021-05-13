@@ -34,9 +34,9 @@
                 "flat": true
             },
             "VEHICLE_ENTRY_FLAG_11": true,
-            "VEHICLE_ENTRY_FLAG_POWERED": true,
-            "VEHICLE_ENTRY_FLAG_BOAT_HIRE_COLLISION_DETECTION": true,
-            "VEHICLE_ENTRY_FLAG_RIDER_ANIMATION": true,
+            "isPowered": true,
+            "useBoatHireCollisionDetection": true,
+            "hasRiderAnimation": true,
             "loadingPositions": [6, 8, -4, -2]
         },
         "buildMenuPriority": 3

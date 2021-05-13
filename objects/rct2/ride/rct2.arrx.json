@@ -42,13 +42,13 @@
                     "flatToGentleSlopeBankedTransitions": true,
                     "diagonalGentleSlopeBankedTransitions": true
                 },
-                "VEHICLE_ENTRY_FLAG_HAS_INVERTED_SPRITE_SET": true,
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
-                "VEHICLE_ENTRY_FLAG_OVERRIDE_NUM_VERTICAL_FRAMES": true,
-                "VEHICLE_ENTRY_FLAG_13": true,
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
-                "VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION": true,
+                "hasInvertedSpriteSet": true,
+                "hasAdditionalColour2": true,
+                "overrideNumberOfVerticalFrames": true,
+                "spriteBoundsIncludeInvertedSet": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "hasVehicleAnimation": true,
                 "loadingPositions": [3, -3, 3, -3]
             },
             {
@@ -73,12 +73,12 @@
                     "flatToGentleSlopeBankedTransitions": true,
                     "diagonalGentleSlopeBankedTransitions": true
                 },
-                "VEHICLE_ENTRY_FLAG_HAS_INVERTED_SPRITE_SET": true,
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_2": true,
-                "VEHICLE_ENTRY_FLAG_OVERRIDE_NUM_VERTICAL_FRAMES": true,
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
-                "VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION": true,
+                "hasInvertedSpriteSet": true,
+                "hasAdditionalColour2": true,
+                "overrideNumberOfVerticalFrames": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "hasVehicleAnimation": true,
                 "loadingPositions": [3, -3, 3, -3]
             }
         ],

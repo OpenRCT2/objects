@@ -41,9 +41,9 @@
                     "flat": true,
                     "gentleSlopes": true
                 },
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-                "VEHICLE_ENTRY_FLAG_POWERED": true,
-                "VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION": true,
+                "hasAdditionalColour1": true,
+                "isPowered": true,
+                "hasVehicleAnimation": true,
                 "loadingPositions": [4, -4]
             },
             {
@@ -56,9 +56,8 @@
                 "frames": {
                     "flat": true
                 },
-                "VEHICLE_ENTRY_FLAG_ALLOW_DOORS_DEPRECATED": true,
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-                "VEHICLE_ENTRY_FLAG_POWERED": true
+                "hasAdditionalColour1": true,
+                "isPowered": true
             }
         ]
     },

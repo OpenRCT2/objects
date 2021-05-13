@@ -36,9 +36,9 @@
                 "flat": true,
                 "restraintAnimation": true
             },
-            "VEHICLE_ENTRY_FLAG_OVERRIDE_NUM_VERTICAL_FRAMES": true,
-            "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-            "VEHICLE_ENTRY_FLAG_POWERED": true,
+            "overrideNumberOfVerticalFrames": true,
+            "hasAdditionalColour1": true,
+            "isPowered": true,
             "loadingPositions": [-7, -7, -7, -7, -7]
         }
     },

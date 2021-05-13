@@ -45,10 +45,10 @@
                     "corkscrews": true,
                     "restraintAnimation": true
                 },
-                "VEHICLE_ENTRY_FLAG_HAS_INVERTED_SPRITE_SET": true,
-                "VEHICLE_ENTRY_FLAG_13": true,
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "hasInvertedSpriteSet": true,
+                "spriteBoundsIncludeInvertedSet": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
                 "loadingPositions": [2, -2, 2, -2]
             },
             {
@@ -73,9 +73,9 @@
                     "corkscrews": true,
                     "restraintAnimation": true
                 },
-                "VEHICLE_ENTRY_FLAG_HAS_INVERTED_SPRITE_SET": true,
-                "VEHICLE_ENTRY_FLAG_ENABLE_ADDITIONAL_COLOUR_1": true,
-                "VEHICLE_ENTRY_FLAG_RIDERS_SCREAM": true,
+                "hasInvertedSpriteSet": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
                 "loadingPositions": [2, -2, 2, -2]
             }
         ]

@@ -33,8 +33,8 @@
             "frames": {
                 "flat": true
             },
-            "VEHICLE_ENTRY_FLAG_POWERED": true,
-            "VEHICLE_ENTRY_FLAG_VEHICLE_ANIMATION": true,
+            "isPowered": true,
+            "hasVehicleAnimation": true,
             "loadingPositions": [0]
         },
         "buildMenuPriority": 1
