@@ -1,5 +1,5 @@
 {
-    "id": "rct2.footpath_railings.bamboobrown",
+    "id": "rct2.footpath_railings.bamboo_black",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": ["rct2", "rct1aa"],
@@ -10,12 +10,12 @@
     },
     "images": [
         { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/PATHDIRT.DAT[73..145]"
+        "$RCT2:OBJDATA/PATHASH.DAT[73..145]"
     ],
     "strings": {
         "name": {
-            "en-GB": "Bamboo Railings (brown)",
-            "nl-NL": "Ondersteuningen van bamboo (bruin)"
+            "en-GB": "Bamboo Railings (black)",
+            "nl-NL": "Ondersteuningen van bamboo (zwart)"
         }
     }
 }
