@@ -1,0 +1,38 @@
+{
+    "id": "rct2.scenery_small.tbn",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TBN     |FB4D07BF",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 32,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TBN.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Bone",
+            "fr-FR": "Os",
+            "de-DE": "Knochen",
+            "es-ES": "Hueso",
+            "it-IT": "Osso",
+            "nl-NL": "Bot",
+            "sv-SE": "Ben",
+            "ko-KR": "뼈",
+            "zh-CN": "骨头",
+            "zh-TW": "骨頭",
+            "pt-BR": "Osso",
+            "cs-CZ": "Kost",
+            "ja-JP": "骨",
+            "pl-PL": "Kość",
+            "ru-RU": "Прах",
+            "eo-OO": "Osto"
+        }
+    }
+}

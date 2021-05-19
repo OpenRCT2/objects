@@ -1,0 +1,39 @@
+{
+    "id": "rct2tt.scenery_small.minotaur",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F821|MINOTAUR|AA6F7749",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 46,
+        "removalPrice": -38,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 72,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/MINOTAUR.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Minotaur Statue",
+            "fr-FR": "Statue du Minotaure",
+            "de-DE": "Minotaurus-Statue",
+            "es-ES": "Estatua de minotauro",
+            "it-IT": "Statua del Minotauro",
+            "nl-NL": "Minotaurusstandbeeld",
+            "sv-SE": "Minotaurusstaty",
+            "ko-KR": "미노타우로스 상",
+            "zh-TW": "人身牛頭怪雕像",
+            "pt-BR": "Estátua do Minotauro",
+            "cs-CZ": "Socha minotaura",
+            "pl-PL": "Posąg minotaura",
+            "ru-RU": "Минотавр",
+            "ja-JP": "ミノタウロスの像",
+            "eo-OO": "Statuo de Minotaŭro"
+        }
+    }
+}

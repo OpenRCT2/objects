@@ -1,0 +1,151 @@
+{
+    "id": "rct2.ride.mono3",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|MONO3   |E6D0B3B8",
+    "sourceGame": "rct2",
+    "objectType": "ride",
+    "properties": {
+        "type": "monorail",
+        "category": "transport",
+        "tabScale": 0.5,
+        "hasShelter": true,
+        "noCollisionCrashes": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 12,
+        "headCars": 1,
+        "tailCars": 2,
+        "carColours": [
+            [
+                ["bordeaux_red", "white", "yellow"]
+            ],
+            [
+                ["moss_green", "yellow", "dark_brown"]
+            ],
+            [
+                ["white", "teal", "yellow"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 191752,
+                "mass": 800,
+                "tabOffset": 2,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "poweredAcceleration": 190,
+                "poweredMaxSpeed": 27,
+                "drawOrder": 7,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "loadingPositions": [3, -3, 3, -3]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 296344,
+                "mass": 1200,
+                "tabOffset": 2,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "poweredAcceleration": 190,
+                "poweredMaxSpeed": 27,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "isPowered": true,
+                "loadingPositions": [3, -3, 3, -3]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 296344,
+                "mass": 1200,
+                "tabOffset": 2,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "poweredAcceleration": 190,
+                "poweredMaxSpeed": 27,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "loadingPositions": [3, -3, 3, -3]
+            }
+        ],
+        "buildMenuPriority": 1
+    },
+    "images": ["$RCT2:OBJDATA/MONO3.DAT[0..1154]"],
+    "strings": {
+        "name": {
+            "en-GB": "Retro-style Monorail Trains",
+            "fr-FR": "Trains monorail rétro",
+            "de-DE": "Einschienenzüge im Retro-Stil",
+            "es-ES": "Trenes Monorrail Estilo Retro",
+            "it-IT": "Treni monorotaia retrò",
+            "nl-NL": "Retro-monorailtreinen",
+            "sv-SE": "Balkbanetåg i retrostil",
+            "ko-KR": "복고풍 모노레일 차량",
+            "zh-CN": "复古型单轨列车",
+            "zh-TW": "懷舊風格單軌電車",
+            "pt-BR": "Trens de Monotrilho Estilo Retrô",
+            "cs-CZ": "Retro jednokolejné vlaky",
+            "ja-JP": "レトロスタイル・モノレール車両",
+            "pl-PL": "Retrokolejka jednoszynowa",
+            "ru-RU": "Старинный монорельс",
+            "eo-OO": "Retrostilaj Monorelaj Trajnoj"
+        },
+        "description": {
+            "en-GB": "Monorail trains with open cabins",
+            "fr-FR": "Trains monorail avec cabines ouvertes",
+            "de-DE": "Einschienenzüge mit offenen Kabinen",
+            "es-ES": "Monoraíl con cabina abierta",
+            "it-IT": "Treni monorotaia dalle cabine aperte",
+            "nl-NL": "Monorailtreinen met open karretjes.",
+            "sv-SE": "Balkbanetåg med öppna hytter",
+            "ko-KR": "개방형 객차를 가진 모노레일 차량",
+            "zh-CN": "以开放式客舱的单轨列车",
+            "zh-TW": "使用開放式設計車廂的單軌電車",
+            "pt-BR": "Trens de monotrilho com cabines abertas",
+            "cs-CZ": "Retro jednokolejné vlaky bez oken",
+            "ja-JP": "オープンキャビンを持つモノレールです",
+            "pl-PL": "Otwarte wagoniki jednoszynowe",
+            "ru-RU": "Монорельсовые поезда",
+            "eo-OO": "Monorelaj trajnoj kun subĉielaj kajutoj"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량당 4명의 승객",
+            "zh-CN": "4位乘客/每个车厢",
+            "zh-TW": "每車卡4位乘客",
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира",
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "rct2tt.scenery_small.jailxx16",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|JAILXX16|0B97CBD6",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 16,
+        "removalPrice": -10,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true
+    },
+    "images": ["$RCT2:OBJDATA/JAILXX16.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Prison Watch Tower",
+            "fr-FR": "Mirador de prison",
+            "de-DE": "Gefängniswachturm",
+            "es-ES": "Torre de vigilancia de prisión",
+            "it-IT": "Torretta di guardia della prigione",
+            "nl-NL": "Wachttoren gevangenis",
+            "sv-SE": "Vakttorn, fängelse",
+            "ko-KR": "감옥 감시탑",
+            "zh-TW": "監獄監視塔",
+            "pt-BR": "Torre de Vigia de Prisão",
+            "cs-CZ": "Věznice - Rozhledna",
+            "pl-PL": "Strażnica więzienna",
+            "ru-RU": "Смотровая башня",
+            "ja-JP": "刑務所　見張り塔",
+            "eo-OO": "Gardoturo de Malliberejo"
+        }
+    }
+}

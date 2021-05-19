@@ -1,0 +1,74 @@
+{
+    "id": "rct2.ride.infok",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|INFOK   |6888ED73",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": "information_kiosk",
+        "category": "stall",
+        "sells": [
+            "map",
+            "umbrella"
+        ],
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["bright_red", "black", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "spriteWidth": 1,
+            "spriteHeightNegative": 1,
+            "spriteHeightPositive": 1,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "recalculateSpriteBounds": true
+        }
+    },
+    "images": ["$RCT2:OBJDATA/INFOK.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Information Kiosk",
+            "fr-FR": "Point info",
+            "de-DE": "Informationskiosk",
+            "es-ES": "Quiosco de información",
+            "it-IT": "Ufficio informazioni",
+            "nl-NL": "Informatiekiosk",
+            "sv-SE": "Informationskiosk",
+            "ko-KR": "안내소",
+            "zh-CN": "服务台",
+            "zh-TW": "服務台",
+            "pt-BR": "Quiosque de Informações",
+            "cs-CZ": "Kiosek",
+            "ja-JP": "インフォーメーションセンター",
+            "nb-NO": "Informasjonskiosk",
+            "pl-PL": "Kiosk informacyjny",
+            "ru-RU": "Справка",
+            "eo-OO": "Informokiosko"
+        },
+        "description": {
+            "en-GB": "A stall where guests can obtain park maps and purchase umbrellas",
+            "fr-FR": "Boutique proposant des cartes du parc et des parapluies",
+            "de-DE": "Ein Stand, an dem die Besucher Parkkarten bekommen und Schirme kaufen können",
+            "es-ES": "Puesto en el que los visitantes obtienen mapas del parque y compran paraguas.",
+            "it-IT": "Un chiosco in cui i visitatori possono avere delle mappe del parco e comprare degli ombrelli",
+            "nl-NL": "Een kiosk waar bezoekers kaarten van het park en paraplu’s kunnen kopen.",
+            "sv-SE": "Ett stånd där besökarna kan hitta kartor över parken och köpa paraplyer",
+            "ko-KR": "손님들이 공원 지도를 얻거나 우산을 살 수 있는 상점",
+            "zh-CN": "一处游客可以取得游乐园地图及卖到雨伞的地方",
+            "zh-TW": "一處遊客可以取得遊樂園地圖及買到雨傘的地方",
+            "pt-BR": "Uma barraca onde os visitantes podem obter mapas do parque e comprar guarda-chuvas",
+            "cs-CZ": "Stínek s informacemi o parku, prodávající mapy a deštníky",
+            "ja-JP": "園内の案内図や傘を売る売店です",
+            "pl-PL": "Tutaj goście mogą otrzymać mapy parku i zakupić parasole",
+            "ru-RU": "Киоск, где гости берут карты и зонтики.",
+            "eo-OO": "Budo, kie gastoj povas akiri parkmapojn kaj aĉeti ombrelojn"
+        }
+    }
+}

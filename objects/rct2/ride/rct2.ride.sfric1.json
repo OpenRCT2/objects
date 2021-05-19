@@ -1,0 +1,105 @@
+{
+    "id": "rct2.ride.sfric1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SFRIC1  |9880CB23",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "ride",
+    "properties": {
+        "type": "side_friction_rc",
+        "category": "rollercoaster",
+        "maxCarsPerTrain": 3,
+        "carColours": [
+            [
+                ["bright_red", "light_brown", "black"]
+            ],
+            [
+                ["dark_green", "bordeaux_red", "black"]
+            ],
+            [
+                ["yellow", "saturated_brown", "black"]
+            ],
+            [
+                ["light_blue", "grey", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 209184,
+            "mass": 500,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 1,
+            "soundRange": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "diagonalSlopes": true
+            },
+            "hasNoUpstopWheelsBobsleigh": true,
+            "hasAdditionalColour1": true,
+            "hasScreamingRiders": true,
+            "loadingPositions": [5, 3, -7, -9]
+        },
+        "buildMenuPriority": 1
+    },
+    "images": ["$RCT2:OBJDATA/SFRIC1.DAT[0..626]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wooden Side-Friction Cars",
+            "fr-FR": "Voitu. à frottemt. laté.",
+            "de-DE": "Seitlich geführte Holzwagen",
+            "es-ES": "Coches Madera Fricción Lat.",
+            "it-IT": "Carrozze di legno a frizione lat.",
+            "nl-NL": "Houten zijfrictiekarretjes",
+            "sv-SE": "Sidofriktionsvagnar av trä",
+            "ko-KR": "우든 사이드 프릭션 차량",
+            "zh-CN": "木架的摩擦侧边列车",
+            "zh-TW": "木架的摩擦側邊列車",
+            "pt-BR": "Carros de Madeira de Fricção Lateral",
+            "cs-CZ": "Horská dráha s bočním uchycením",
+            "ja-JP": "木造のサイドフリクション車両",
+            "pl-PL": "Drewniane wagoniki \"Tarcie Boczne\"",
+            "ru-RU": "Дерев. вагончики",
+            "eo-OO": "Ĉaroj de Ligna Onda Fervojo kun Flanka Froto"
+        },
+        "description": {
+            "en-GB": "Basic cars for the Side-Friction Roller Coaster",
+            "fr-FR": "Voitures destinées aux montagnes à frottement latéral",
+            "de-DE": "Basiswagen für die Achterbahn mit seitlicher Führung",
+            "es-ES": "Vagones básicos para la montaña rusa de fricción lateral",
+            "it-IT": "Carrozze di base per l'ottovolante a frizione laterale",
+            "nl-NL": "Eenvoudige karretjes voor de zijfrictieachtbaan.",
+            "sv-SE": "Enkla trävagnar till sidofriktionsberg- och dalbanan",
+            "ko-KR": "사이드 프릭션 롤러코스터를 위한 기본 차량",
+            "zh-CN": "摩擦侧边的过山车的基本车辆",
+            "zh-TW": "摩擦側邊的雲霄飛車的基本車輛",
+            "pt-BR": "Carros básicos para a Montanha-russa de Fricção Lateral",
+            "cs-CZ": "Po dráze jezdí vozy, které mají kola horizontálně uložená pod podlahou a opírají se jimi o stěny dráhy",
+            "ja-JP": "ベーシックな車両の、サイドフリクションローラーコースターです",
+            "pl-PL": "Podstawowe wagoniki dla kolejki \"Tarcie Boczne\"",
+            "ru-RU": "Вагончики для боковых горок.",
+            "eo-OO": "Bazaj ĉaroj por la Ligna Onda Fervojo kun Flanka Froto"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per karretjes",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량당 4명의 승객",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира",
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

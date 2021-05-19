@@ -1,0 +1,56 @@
+{
+    "id": "rct2.scenery_group.scgjungl",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGJUNGL|D133B62D",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.tjt1",
+            "rct2.scenery_small.tjt2",
+            "rct2.scenery_small.tjb1",
+            "rct2.scenery_small.tjt3",
+            "rct2.scenery_small.tjt4",
+            "rct2.scenery_small.tjp1",
+            "rct2.scenery_small.tjb2",
+            "rct2.scenery_small.tjt5",
+            "rct2.scenery_small.tjb3",
+            "rct2.scenery_small.tjb4",
+            "rct2.scenery_small.tjt6",
+            "rct2.scenery_small.tjp2",
+            "rct2.scenery_small.tjf",
+            "rct2.scenery_wall.wpw1",
+            "rct2.scenery_wall.wpw2",
+            "rct2.scenery_wall.wjf",
+            "rct2.footpath_banner.bn2",
+            "rct2.scenery_wall.walljn32",
+            "rct2.scenery_small.jngroof1",
+            "rct2.scenery_small.roof14",
+            "rct2.footpath_item.benchlog"
+        ],
+        "priority": 24,
+        "entertainerCostumes": "gorilla"
+    },
+    "images": ["$RCT2:OBJDATA/SCGJUNGL.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jungle Theming",
+            "fr-FR": "Thème Jungle",
+            "de-DE": "Dschungelthema",
+            "es-ES": "Temática de jungla",
+            "it-IT": "Tema tropicale",
+            "nl-NL": "Junglethema",
+            "sv-SE": "Djungeltema",
+            "ko-KR": "정글 테마",
+            "zh-CN": "丛林主题区",
+            "zh-TW": "叢林主題區",
+            "pt-BR": "Temática de Selva",
+            "cs-CZ": "Jungle kulisy",
+            "ja-JP": "ジャングル風のテーマ",
+            "pl-PL": "Wystrój tropikalny",
+            "ru-RU": "Джунгли",
+            "eo-OO": "Ĝangalo-Temo"
+        }
+    }
+}

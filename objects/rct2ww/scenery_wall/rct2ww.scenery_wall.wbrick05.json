@@ -1,0 +1,33 @@
+{
+    "id": "rct2ww.scenery_wall.wbrick05",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0913|WBRICK05|0BAF0217",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WBRICK05.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Red Brick Wall Piece 5",
+            "fr-FR": "Pan de mur de brique rouge 5",
+            "de-DE": "Backsteinmauer-Bauteil 5",
+            "es-ES": "Pieza de pared de ladrillo rojo 5",
+            "it-IT": "Pezzo di muro di mattoni rossi 5",
+            "nl-NL": "Stuk muur van rode baksteen 5",
+            "sv-SE": "Röd tegelväggdel 5",
+            "cs-CZ": "Zeď z červených cihel 5",
+            "ko-KR": "붉은 벽돌 벽 조각 5",
+            "pl-PL": "Czerwona cegła - segment ściany 5",
+            "ru-RU": "Деталь стены",
+            "pt-BR": "Peça de Parede de Tijolo Vermelho 5",
+            "ja-JP": "赤レンガの壁5",
+            "eo-OO": "Ruĝa Brika Muroparto 5"
+        }
+    }
+}

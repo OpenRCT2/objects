@@ -1,0 +1,37 @@
+{
+    "id": "rct2.scenery_wall.wallstfn",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WALLSTFN|7BF74EB9",
+    "sourceGame": "rct2",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "isOpaque": true,
+        "isAllowedOnSlope": true,
+        "height": 1,
+        "price": 40,
+        "sceneryGroup": "rct2.scenery_group.scgfence"
+    },
+    "images": ["$RCT2:OBJDATA/WALLSTFN.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Steel Fence",
+            "fr-FR": "Clôture métallique",
+            "de-DE": "Stahlzaun",
+            "es-ES": "Valla de acero",
+            "it-IT": "Recinto d'acciaio",
+            "nl-NL": "Stalen hek",
+            "sv-SE": "Stålstaket",
+            "ko-KR": "강철 울타리",
+            "zh-CN": "铁栅栏",
+            "zh-TW": "鐵柵欄",
+            "pt-BR": "Cerca de Aço",
+            "cs-CZ": "Ocelový plot",
+            "ja-JP": "スチール製のフェンス",
+            "pl-PL": "Stalowy płot",
+            "ru-RU": "Забор",
+            "eo-OO": "Ŝtala Barilo"
+        }
+    }
+}

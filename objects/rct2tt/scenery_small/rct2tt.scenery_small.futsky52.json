@@ -1,0 +1,42 @@
+{
+    "id": "rct2tt.scenery_small.futsky52",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB21|FUTSKY52|5C7E2C3B",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": 4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/FUTSKY52.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone Skyscraper Bottom Inverted Corner",
+            "fr-FR": "Virage inversé bas du gratte-ciel",
+            "de-DE": "Sandstein-Wolkenkratzer Untere Umgedrehte Ecke",
+            "es-ES": "Esquina inferior inversa de rascacielos de arenisca",
+            "it-IT": "Curva invertita inferiore del grattacielo in arenaria",
+            "nl-NL": "Omgekeerde benedenbocht zandstenen wolkenkrabber",
+            "sv-SE": "Nedre omvänt hörn, sandstensskyskrapa",
+            "ko-KR": "반전된 사암 마천루 바닥 구석",
+            "zh-TW": "反向沙岩製摩天大樓底部牆角",
+            "pt-BR": "Inferior de Canto Invertido de Arranha-Céu de Arenito",
+            "cs-CZ": "Pískovcový mrakodrap - dolní obrácený roh",
+            "pl-PL": "Wieżowiec z piaskowca - dolny odwrócony narożnik",
+            "ru-RU": "Деталь небоскрёба",
+            "ja-JP": "砂岩 高層ビル　底 コーナー（内側）",
+            "eo-OO": "Inversigita Suba Angulo de Sabloŝtona Ĉielskrapanto"
+        }
+    }
+}

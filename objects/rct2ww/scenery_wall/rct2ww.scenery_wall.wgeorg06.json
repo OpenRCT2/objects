@@ -1,0 +1,32 @@
+{
+    "id": "rct2ww.scenery_wall.wgeorg06",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A13|WGEORG06|936757E9",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 2,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WGEORG06.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Georgian Ground Floor Wall Piece 3",
+            "fr-FR": "Pan de mur de rez-de-chaussée géorgien 3",
+            "de-DE": "Georgianisches Erdgeschoss-Wandbauteil 3",
+            "es-ES": "Pieza de pared de suelo georgiano 3",
+            "it-IT": "Pezzo di muro georgiano del piano terra 3",
+            "nl-NL": "Grondstuk muur in Georgiaanse stijl 3",
+            "sv-SE": "Georgiansk väggdel för nedre våning 3",
+            "cs-CZ": "Gregoriánská přízemní stěna - část 3",
+            "ko-KR": "조지아식 지면 바닥 벽 조각 3",
+            "pl-PL": "Georgiański segment ściany parteru 3",
+            "ru-RU": "Деталь стены",
+            "pt-BR": "Peça de Parede Georgiana do Andar Térreo 3",
+            "ja-JP": "ジョージア風の 一階 壁部分 3",
+            "eo-OO": "Georgia Ternivela Muroparto 3"
+        }
+    }
+}

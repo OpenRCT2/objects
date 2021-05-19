@@ -1,0 +1,40 @@
+{
+    "id": "rct2.scenery_small.twh2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F81|TWH2    |C779E5E9",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 30,
+        "removalPrice": -20,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 44,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TWH2.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Pumpkin House",
+            "fr-FR": "Maison-citrouille",
+            "de-DE": "Kürbishaus",
+            "es-ES": "Casa de calabaza",
+            "it-IT": "Casa a zucca",
+            "nl-NL": "Pompoenhuis",
+            "sv-SE": "Pumpformat hus",
+            "ko-KR": "호박 집",
+            "zh-CN": "南瓜屋",
+            "zh-TW": "南瓜屋",
+            "pt-BR": "Casa de Abóbora",
+            "cs-CZ": "Dýňový dům",
+            "ja-JP": "カボチャの家",
+            "pl-PL": "Dom dyniowy",
+            "ru-RU": "Тыквенный дом",
+            "eo-OO": "Kukurbo-Domo"
+        }
+    }
+}

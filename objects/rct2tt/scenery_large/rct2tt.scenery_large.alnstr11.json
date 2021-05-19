@@ -1,0 +1,148 @@
+{
+    "id": "rct2tt.scenery_large.alnstr11",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB22|ALNSTR11|9EC097F0",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 46,
+        "removalPrice": -40,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 112,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 112,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 112,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 96,
+                "clearance": 112,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 112,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 112,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 112,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 96,
+                "clearance": 112,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 112,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 112,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 112,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 96,
+                "clearance": 112,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 96,
+                "y": 0,
+                "clearance": 112,
+                "hasSupports": true,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 32,
+                "clearance": 112,
+                "hasSupports": true,
+                "walls": 6
+            },
+            {
+                "x": 96,
+                "y": 64,
+                "clearance": 112,
+                "hasSupports": true,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 96,
+                "clearance": 112,
+                "hasSupports": true,
+                "walls": 6
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/ALNSTR11.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Alien Skylight Large",
+            "fr-FR": "Grand voyant lumineux extraterrestre",
+            "de-DE": "Außerirdisches Oberlicht, groß",
+            "es-ES": "Claraboya alienígena grande",
+            "it-IT": "Grande lucernario alieno",
+            "nl-NL": "Groot buitenaards bovenlicht",
+            "sv-SE": "Stor utomjordisk strålkastare",
+            "ko-KR": "대형 외계 채광창",
+            "zh-TW": "外星天窗(大)",
+            "pt-BR": "Claraboia Alienígena Grande",
+            "cs-CZ": "Mimozemské světlo",
+            "pl-PL": "Duży lufcik kosmitów",
+            "ru-RU": "Инопланетная крыша",
+            "ja-JP": "エイリアンの天窓（大）",
+            "eo-OO": "Ekstertera Ĉiellumo Granda"
+        }
+    }
+}

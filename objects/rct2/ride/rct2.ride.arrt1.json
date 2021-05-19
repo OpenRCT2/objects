@@ -1,0 +1,168 @@
+{
+    "id": "rct2.ride.arrt1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|ARRT1   |6EAF6062",
+    "sourceGame": "rct2",
+    "objectType": "ride",
+    "properties": {
+        "type": "corkscrew_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 9,
+        "numEmptyCars": 1,
+        "defaultCar": 1,
+        "headCars": 0,
+        "tailCars": 2,
+        "ratingMultipler": {
+            "intensity": 10
+        },
+        "carColours": [
+            [
+                ["light_blue", "white", "yellow"]
+            ],
+            [
+                ["bright_red", "yellow", "yellow"]
+            ],
+            [
+                ["white", "bordeaux_red", "bordeaux_red"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 261480,
+                "mass": 600,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [5, 3, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 226616,
+                "mass": 500,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [7, 9, -3, -1]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 52296,
+                "mass": 50,
+                "frictionSoundId": 2,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true
+                }
+            }
+        ],
+        "buildMenuPriority": 2
+    },
+    "images": ["$RCT2:OBJDATA/ARRT1.DAT[0..4470]"],
+    "strings": {
+        "name": {
+            "en-GB": "Corkscrew Roller Coaster Trains",
+            "fr-FR": "Montagnes russes tire-bouchon",
+            "de-DE": "Korkenzieher-Achterbahnzüge",
+            "es-ES": "Montaña Rusa Sacacorchos",
+            "it-IT": "Ottovolante ad avvitamento",
+            "nl-NL": "Trein voor stalen schroefachtbaan",
+            "sv-SE": "Korkskruvsberg- och dalbanevagnar",
+            "ko-KR": "나선 롤러코스터 차량",
+            "zh-CN": "螺旋体过山车",
+            "zh-TW": "螺旋體雲霄飛車",
+            "pt-BR": "Trens Montanha-Russa Saca Rolhas",
+            "ar-EG": "Corkscrew Roller Coaster Trains",
+            "cs-CZ": "Vývrtková horská dráha",
+            "en-US": "Corkscrew Roller Coaster Trains",
+            "ja-JP": "コークスクリュー・ジェットコースター",
+            "pl-PL": "Kolejka korkociągowa",
+            "ru-RU": "Штопорные горки",
+            "eo-OO": "Trajnoj de Korktirila Onda Fervojo"
+        },
+        "description": {
+            "en-GB": "Roller coaster trains with shoulder restraints",
+            "fr-FR": "Montagnes russes compactes dont les voies en acier prennent la forme de tire-bouchons et de boucles",
+            "de-DE": "Achterbahnzüge mit Schulterhalterungen",
+            "es-ES": "Una montaña rusa compacta de acero donde los vagones circulan por rizos y  sacacorchos",
+            "it-IT": "Un ottovolante compatto d'acciaio in cui il treno compie giri della morte e avvitamenti vari",
+            "nl-NL": "Een compacte stalen achtbaan waar de trein door schroeven en loopings gaat.",
+            "sv-SE": "Berg- och dalbanevagnar med axelbyglar",
+            "ko-KR": "어깨 안전바가 있는 롤러코스터 차량",
+            "zh-CN": "一座过山车列车穿过成圈结实的钢制螺旋式轨道曲折前进",
+            "zh-TW": "一座雲霄飛車列車穿過成圈結實的鋼製螺旋式軌道曲折前進",
+            "pt-BR": "Trens de montanha-russa com travas de ombro",
+            "ar-EG": "Roller coaster train with shoulder restraints",
+            "cs-CZ": "Horská dráha s vozy vybavenými ramenními opěrkami",
+            "en-US": "Roller coaster train with shoulder restraints",
+            "ja-JP": "シートベルトのあるローラーコースター車両です",
+            "pl-PL": "Zwarta przestrzennie kolejka ze stalowymi torami, w której wagoniki pokonują korkociągi i pętle",
+            "ru-RU": "Небольшие железные горки, где поезда едут по спиралям и кольцам",
+            "eo-OO": "Trajnoj de onda fervojo kun ŝultrobridoj"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량당 4명의 승객",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира",
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

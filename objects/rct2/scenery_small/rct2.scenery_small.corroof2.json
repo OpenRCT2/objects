@@ -1,0 +1,44 @@
+{
+    "id": "rct2.scenery_small.corroof2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|CORROOF2|36DE9DD8",
+    "sourceGame": "rct2",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "allowSupportsAbove": true
+    },
+    "images": ["$RCT2:OBJDATA/CORROOF2.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Corrugated Steel Base",
+            "fr-FR": "Sol en tôle ondulée",
+            "de-DE": "Wellblechbasis",
+            "es-ES": "Base de acero arrugada",
+            "it-IT": "Base d'acciaio ondulata",
+            "nl-NL": "Basisblok van geplooid staal",
+            "sv-SE": "Korrugerad stålgrund",
+            "ko-KR": "물결 무늬 강철 기반",
+            "zh-CN": "波纹的钢制基底",
+            "zh-TW": "波紋的鋼製基底",
+            "pt-BR": "Base de Aço Ondulado",
+            "cs-CZ": "Kovová stěna",
+            "ja-JP": "スチール製の波形ベース",
+            "pl-PL": "Podstawa z blachy falistej",
+            "ru-RU": "Рифлёная база",
+            "eo-OO": "Onda Ŝtala Bazo"
+        }
+    }
+}

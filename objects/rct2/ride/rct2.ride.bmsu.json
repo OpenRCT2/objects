@@ -1,0 +1,151 @@
+{
+    "id": "rct2.ride.bmsu",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|BMSU    |53DA160D",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "ride",
+    "properties": {
+        "type": "twister_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 5,
+        "maxCarsPerTrain": 9,
+        "numEmptyCars": 1,
+        "tabCar": 1,
+        "headCars": 1,
+        "ratingMultipler": {
+            "excitement": 2,
+            "intensity": 15,
+            "nausea": 10
+        },
+        "maxHeight": 40,
+        "carColours": [
+            [
+                ["yellow", "black", "bright_red"]
+            ],
+            [
+                ["light_purple", "bordeaux_red", "yellow"]
+            ],
+            [
+                ["light_blue", "black", "teal"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 130740,
+                "mass": 740,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [-2, -4, -2, -4]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 95876,
+                "mass": 525,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "corkscrews": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true
+            }
+        ],
+        "buildMenuPriority": 4
+    },
+    "images": ["$RCT2:OBJDATA/BMSU.DAT[0..3350]"],
+    "strings": {
+        "name": {
+            "en-GB": "Stand-up Twister Trains",
+            "fr-FR": "Montagnes tornado debout",
+            "de-DE": "Steh-Twister-Züge",
+            "es-ES": "Montaña Rusa En Pie Tornado",
+            "it-IT": "Serpentone in pos..eretta",
+            "nl-NL": "Staande twistertrein",
+            "sv-SE": "Stående skruvbanevagnar",
+            "ko-KR": "스탠드 업 트위스터 열차",
+            "zh-CN": "站立式旋转过山车",
+            "zh-TW": "站立式旋轉飛車",
+            "pt-BR": "Trens Tornado em Pé",
+            "cs-CZ": "Zakroucená horská dráha \"na stojáka\"",
+            "ja-JP": "立ち乗り・ツイスター・コースター",
+            "pl-PL": "Kolejka stojąca",
+            "ru-RU": "Стоячие горки",
+            "eo-OO": "Stariĝantaj Tvisto-Trajnoj"
+        },
+        "description": {
+            "en-GB": "A train with shoulder restraints, in which the riders stand up",
+            "fr-FR": "Les passagers suivent un parcours jalonné de pentes régulières et de multiples inversions, debout dans de grands trains disposant de protections spéciales",
+            "de-DE": "Ein Zug mit Schulterhalterungen; die Fahrgäste stehen",
+            "es-ES": "Los pasajeros permanecen de pie en unos vagones con sujeciones especiales atravesando caídas y múltiples inversiones",
+            "it-IT": "I passeggeri si muovono stando in posizione eretta sopra grandi treni da ottovolante forniti di speciali misure di sicurezza, percorrendo lunghe discese e subendo numerose inversioni consecutive",
+            "nl-NL": "Brede achtbaantrein met speciaal ontworpen beugels waarin de passagiers moeten staan.",
+            "sv-SE": "Vagnar med axelbyglar, där passagerarna åker stående",
+            "ko-KR": "탑승자들이 선 자세로 낙하와 여러 특수 트랙을 즐길 수 있도록 특수하게 디자인된 안전바가 있는 넓은 롤러코스터 차량",
+            "zh-CN": "乘客搭乘在站立式的列车内以特殊设计的安全装置以确保在疾迅下坠及穿过多样式反转轨道时的安全",
+            "zh-TW": "乘客搭乘在站立式的列車內以特殊設計的安全裝置以確保在疾迅下墜及穿過多樣式反轉軌道時的安全",
+            "pt-BR": "Um trem com travas de ombro, onde passageiros passeiam em pé",
+            "cs-CZ": "Návštěvníci jedou ve stoje ve vozech vybavenými ramenními opěrkami",
+            "ja-JP": "特殊な安全装置の付いた幅広の立ち乗りコースターで、スムーズな降下や複数の反転のあるコースを疾走します",
+            "pl-PL": "Pasażerowie jadą w pozycji stojącej w szerokich wagonikach ze specjalnie zaprojektowanymi zabezpieczeniami, pokonując gładkie spadki i liczne ostre zakręty",
+            "ru-RU": "Посетители едут стоя в широких поездах в специальных креплениях.",
+            "eo-OO": "Trajno kun ŝultrobridoj, en kiuj la rajdantoj stariĝas"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량당 4명의 승객",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира",
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

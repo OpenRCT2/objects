@@ -1,0 +1,44 @@
+{
+    "id": "rct2.scenery_large.sct",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C82|SCT     |9175A252",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 30,
+        "removalPrice": -25,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 32,
+                "hasSupports": true,
+                "walls": 15
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SCT.DAT[0..7]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tent",
+            "fr-FR": "Tente",
+            "de-DE": "Zelt",
+            "es-ES": "Tienda",
+            "it-IT": "Tenda",
+            "sv-SE": "Tält",
+            "ko-KR": "텐트",
+            "zh-CN": "帐蓬",
+            "zh-TW": "帳蓬",
+            "pt-BR": "Tenda",
+            "cs-CZ": "Stan",
+            "ja-JP": "テント",
+            "pl-PL": "Namiot",
+            "ru-RU": "Тент",
+            "eo-OO": "Tendo"
+        }
+    }
+}

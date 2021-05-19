@@ -1,0 +1,41 @@
+{
+    "id": "rct2tt.scenery_small.elecfen5",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F721|ELECFEN5|3A233597",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 4,
+        "removalPrice": -2,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 64,
+        "sceneryGroup": "rct2.scenery_group.scgfence",
+        "shape": "1/4+D",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/ELECFEN5.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Electric Fence Inverted Corner Piece",
+            "fr-FR": "Section de virage de clôture électrique inversé",
+            "de-DE": "Umgedrehtes Elektrozaun-Eckstück",
+            "es-ES": "Esquina inversa de valla electrificada",
+            "it-IT": "Tratto di curva invertita di recinzione elettrica",
+            "nl-NL": "Omgekeerd bochtstuk elektrisch hek",
+            "sv-SE": "Omvänd hörndel, elektriskt staket",
+            "ko-KR": "반전된 전기 울타리 구석 조각",
+            "zh-TW": "反向通電柵欄牆角塊",
+            "pt-BR": "Peça de Canto Invertido de Cerca Elétrica",
+            "cs-CZ": "Elektrický plot - obrácená rohová část",
+            "pl-PL": "Odwrócony narożnik elektrycznego ogrodzenia",
+            "ru-RU": "Деталь ограды",
+            "ja-JP": "電気フェンス コーナー部分（反転）",
+            "eo-OO": "Inversigita Anguloparto de Elektra Barilo"
+        }
+    }
+}

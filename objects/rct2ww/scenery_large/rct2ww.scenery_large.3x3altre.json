@@ -1,0 +1,92 @@
+{
+    "id": "rct2ww.scenery_large.3x3altre",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0512|3X3ALTRE|8075FDE7",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 68,
+        "removalPrice": 64,
+        "cursor": "CURSOR_TREE_DOWN",
+        "isPhotogenic": true,
+        "sceneryGroup": "rct2.scenery_group.scgtrees",
+        "isTree": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 136,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 136,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 136,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 136,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 136,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 136,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 136,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 136,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 136,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/3X3ALTRE.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jungle Tree with Leopards",
+            "fr-FR": "Arbre jungle avec léopards",
+            "de-DE": "Dschungelbaum mit Leoparden",
+            "es-ES": "Árbol tropical con leopardos",
+            "it-IT": "Albero della giungla con leopardi",
+            "nl-NL": "Jungleboom met luipaarden",
+            "sv-SE": "Djungelträd med leoparder",
+            "zh-CN": "热带树林与美洲?",
+            "cs-CZ": "Strom z jungle s leopardy",
+            "ko-KR": "표범이 있는 정글의 나무",
+            "pl-PL": "Drzewo z dżungli z panterami",
+            "ru-RU": "Дерево с леопардами",
+            "pt-BR": "Árvore Selvagem com Leopardo",
+            "ja-JP": "ジャングルの木（ヒョウ付き）",
+            "eo-OO": "Ĝangaloarbo kun Leopardoj"
+        }
+    }
+}

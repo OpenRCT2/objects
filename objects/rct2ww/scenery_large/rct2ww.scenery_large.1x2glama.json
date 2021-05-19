@@ -1,0 +1,49 @@
+{
+    "id": "rct2ww.scenery_large.1x2glama",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31D12|1X2GLAMA|7B537B66",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 78,
+        "removalPrice": -70,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 119,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 119,
+                "hasSupports": true,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/1X2GLAMA.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Gold Llama",
+            "fr-FR": "Lama d'or",
+            "de-DE": "Goldenes Lama",
+            "es-ES": "Llama dorada",
+            "it-IT": "Lama dorato",
+            "nl-NL": "Gouden Lama",
+            "sv-SE": "Guldlama",
+            "cs-CZ": "Zlatá lama",
+            "ko-KR": "황금 라마",
+            "pl-PL": "Złota lama",
+            "ru-RU": "Лама",
+            "pt-BR": "Lhama Dourada",
+            "ja-JP": "黄金のリャマ",
+            "eo-OO": "Ora Lamo"
+        }
+    }
+}

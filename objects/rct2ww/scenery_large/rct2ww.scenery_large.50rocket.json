@@ -1,0 +1,58 @@
+{
+    "id": "rct2ww.scenery_large.50rocket",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0B12|50ROCKET|88E1069D",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 124,
+        "removalPrice": -102,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 176,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 176,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 176,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 176,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/50ROCKET.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "1950s Rocket",
+            "fr-FR": "Fusée 1950",
+            "de-DE": "50er-Jahre-Rakete",
+            "es-ES": "Cohete de 1950",
+            "it-IT": "Razzo anni '50",
+            "nl-NL": "Jarenvijftig-raket",
+            "sv-SE": "50-talsraket",
+            "cs-CZ": "Raketa z 50. let",
+            "ko-KR": "1950년대 로켓",
+            "pl-PL": "Rakieta z lat 50.",
+            "ru-RU": "1950 Ракета",
+            "pt-BR": "Foguete de 1950",
+            "ja-JP": "1950年代のロケット",
+            "eo-OO": "Raketo de la 1950-aj"
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "id": "rct2.ride.trike",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|TRIKE   |BBC25972",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": "boat_hire",
+        "category": [
+            "water",
+            "gentle"
+        ],
+        "ratingMultipler": {
+            "excitement": 3,
+            "nausea": 2
+        },
+        "carColours": [
+            [
+                ["light_blue", "bright_red", "black"]
+            ],
+            [
+                ["yellow", "black", "black"]
+            ],
+            [
+                ["teal", "light_orange", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 15,
+            "spacing": 278912,
+            "mass": 310,
+            "numSeats": 2,
+            "animation": 5,
+            "numSeatRows": 1,
+            "poweredAcceleration": 8,
+            "poweredMaxSpeed": 5,
+            "drawOrder": 5,
+            "numVerticalFramesOverride": 2,
+            "frames": {
+                "flat": true
+            },
+            "VEHICLE_ENTRY_FLAG_11": true,
+            "overrideNumberOfVerticalFrames": true,
+            "hasAdditionalColour1": true,
+            "isPowered": true,
+            "useBoatHireCollisionDetection": true,
+            "hasVehicleAnimation": true,
+            "loadingPositions": [3, -3]
+        },
+        "buildMenuPriority": 2
+    },
+    "images": ["$RCT2:OBJDATA/TRIKE.DAT[0..66]"],
+    "strings": {
+        "name": {
+            "en-GB": "Water Tricycles",
+            "fr-FR": "Tricycle aquatique",
+            "de-DE": "Wasserdreiräder",
+            "es-ES": "Triciclos de Agua",
+            "it-IT": "Tricicli acquatici",
+            "nl-NL": "Waterfietsen",
+            "sv-SE": "Vattentrehjulingar",
+            "ko-KR": "수중 세발자전거",
+            "zh-CN": "水上三轮车",
+            "zh-TW": "水上三輪車",
+            "pt-BR": "Triciclos de Água",
+            "cs-CZ": "Vodní tricykly",
+            "ja-JP": "ウォーター・トライサイクル",
+            "pl-PL": "Rowery wodne",
+            "ru-RU": "Водные трициклы",
+            "eo-OO": "Akvo-Tricikloj"
+        },
+        "description": {
+            "en-GB": "Pedal-tricycle with large buoyant wheels",
+            "fr-FR": "Pédalo avec trois grandes roues flottantes",
+            "de-DE": "Pedaldreiräder mit großen Schwimmrädern",
+            "es-ES": "Triciclos acuáticos a pedales con ruedas gigantes",
+            "it-IT": "Tricicli a pedali con grandi ruote galleggianti",
+            "nl-NL": "Driewielige waterfietsen met grote raderwielen.",
+            "sv-SE": "Pedaldrivna trehjulingar med stora flytande hjul",
+            "ko-KR": "물에 뜨는 바퀴를 가진 페달 달린 세발자전거",
+            "zh-CN": "有大型浮力轮子的脚踏-三轮车",
+            "zh-TW": "有大型浮力輪子的腳踏-三輪車",
+            "pt-BR": "Pedalinhos com grandes rodas flutuantes",
+            "cs-CZ": "Šlapadla ve tvaru tricyklů s velkými plovoucími koly",
+            "ja-JP": "浮力を持った車輪の、ペダル漕ぎ三輪車です",
+            "pl-PL": "Wodne pojazdy napędzane pedałami, z dużymi kołami-pływakami",
+            "ru-RU": "Педальные трициклы",
+            "eo-OO": "Pedal-tricikloj kun grandaj naĝemaj radoj"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per tricycle",
+            "fr-FR": "2 passagers par tricycle",
+            "de-DE": "2 Fahrgäste pro Dreirad",
+            "es-ES": "2 pasajeros por triciclo",
+            "it-IT": "2 passeggeri a triciclo",
+            "nl-NL": "2 passagiers per waterfiets",
+            "sv-SE": "2 passagerare per trehjuling",
+            "ko-KR": "세발자전거당 2명의 승객",
+            "zh-CN": "2 位乘客 /每辆三轮车",
+            "zh-TW": "2 位乘客 /每輛三輪車",
+            "pt-BR": "2 passageiros por triciclo",
+            "cs-CZ": "2 místa na každém kole",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na rower",
+            "ru-RU": "2 passengers per tricycle",
+            "eo-OO": "Po 2 pasaĝeroj por triciklo"
+        }
+    }
+}

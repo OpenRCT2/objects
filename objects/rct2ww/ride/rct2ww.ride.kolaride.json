@@ -1,0 +1,100 @@
+{
+    "id": "rct2ww.ride.kolaride",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0E10|KOLARIDE|53611988",
+    "sourceGame": "rct2ww",
+    "objectType": "ride",
+    "properties": {
+        "type": "reverse_freefall_rc",
+        "category": "rollercoaster",
+        "tabScale": 0.5,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["bright_red", "grey", "light_purple"]
+            ],
+            [
+                ["yellow", "bordeaux_red", "bordeaux_red"]
+            ],
+            [
+                ["bright_purple", "yellow", "yellow"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 348640,
+            "mass": 5500,
+            "numSeats": 8,
+            "numSeatRows": 4,
+            "frictionSoundId": 57,
+            "soundRange": 0,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "verticalSlopes": true,
+                "restraintAnimation": true
+            },
+            "hasAdditionalColour2": true,
+            "hasAdditionalColour1": true,
+            "hasScreamingRiders": true,
+            "loadingPositions": [7, 5, 2, 0, -5, -7, -6, 1]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/KOLARIDE.DAT[0..1562]"],
+    "strings": {
+        "name": {
+            "en-GB": "Koala Car",
+            "fr-FR": "Koala",
+            "de-DE": "Koalawagen",
+            "es-ES": "Atracción Koala",
+            "it-IT": "Il koala",
+            "nl-NL": "Koalakarretje",
+            "sv-SE": "Koala-vagn",
+            "zh-CN": "无尾熊游乐设施",
+            "ja-JP": "コアラ車両",
+            "cs-CZ": "Koalí dráha",
+            "ko-KR": "코알라 차량",
+            "pl-PL": "Koala",
+            "pt-BR": "Carro Coala",
+            "ru-RU": "Коала Райд",
+            "eo-OO": "Koalo-Ĉaro"
+        },
+        "description": {
+            "en-GB": "Large koala-shaped coaster car for the Reverse Freefall Coaster",
+            "fr-FR": "Voiture destinée à la Chute libre renversée",
+            "de-DE": "Großer koalaförmiger Wagen für die umgekehrte Freefall-Bahn",
+            "es-ES": "Gran vagón para la montaña rusa invertida de caída libre",
+            "it-IT": "Usa le grandi carrozze dell'ottovolante invertito a caduta libera",
+            "nl-NL": "Grote wagen voor de achterwaartstevrijevalachtbaan.",
+            "sv-SE": "Stor koalaformad vagn för bakvänd fritt fall-bana",
+            "zh-CN": "大型云霄飞车颠倒自由落下",
+            "ja-JP": "逆向きフリーフォールのある、コアラの形をした大型コースター車両",
+            "cs-CZ": "Velká dráha s vozem pro volný pád pozpátku",
+            "ko-KR": "역방향 자유낙하 코스터를 위한 대형 코스터 차량",
+            "pl-PL": "Duży wagonik dla kolejki o swobodnym spadku",
+            "pt-BR": "Grande vagão de montanha russa para a Montanha Reversa de Queda Livre",
+            "ru-RU": "Крупные машины реверсивного паден.",
+            "eo-OO": "Granda koaloforma ĉaro de onda fervojo por la Onda Fervojo kun Dorsantaŭa Libera Falo"
+        },
+        "capacity": {
+            "en-GB": "8 passengers per car",
+            "fr-FR": "8 passagers par voiture",
+            "de-DE": "8 pro Wagen",
+            "es-ES": "8 pasajeros por vagón",
+            "it-IT": "8 passeggeri per carrozza",
+            "nl-NL": "8 passagiers",
+            "sv-SE": "8 passagerare per vagn",
+            "zh-CN": "每辆车限乘8人",
+            "ja-JP": "各車両8名",
+            "cs-CZ": "8 návštěvníků",
+            "ko-KR": "차량당 8명의 승객",
+            "pl-PL": "8 pasażerów na wagonik",
+            "pt-BR": "8 passageiros por vagão",
+            "ru-RU": "8 пассажиров",
+            "eo-OO": "Po 8 pasaĝeroj por ĉaro"
+        }
+    }
+}

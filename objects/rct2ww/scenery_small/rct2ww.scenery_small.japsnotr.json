@@ -1,0 +1,41 @@
+{
+    "id": "rct2ww.scenery_small.japsnotr",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0011|JAPSNOTR|A51AF3D7",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 72,
+        "sceneryGroup": "rct2.scenery_group.scgtrees",
+        "isTree": true,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/JAPSNOTR.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Japanese Snowball Tree",
+            "fr-FR": "Boule-de-neige du Japon",
+            "de-DE": "Japanisches Schneeballgewächs",
+            "es-ES": "Árbol de nieve japonés",
+            "it-IT": "Albero palla di neve giapponese",
+            "nl-NL": "Japanse Gelderse Roos",
+            "sv-SE": "Japanskt snöbollsträd",
+            "zh-CN": "日本雪球树",
+            "cs-CZ": "Kalina řasnatá",
+            "ko-KR": "까마귀밥나무",
+            "pl-PL": "Japońskie ośnieżone drzewo",
+            "ru-RU": "Снежное дерево",
+            "pt-BR": "Árvore Bola-de-neve Japonesa",
+            "ja-JP": "セイヨウカンボク",
+            "eo-OO": "Japana Neĝbuloarbo"
+        }
+    }
+}

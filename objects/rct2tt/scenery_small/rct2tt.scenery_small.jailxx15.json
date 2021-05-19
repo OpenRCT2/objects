@@ -1,0 +1,41 @@
+{
+    "id": "rct2tt.scenery_small.jailxx15",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|JAILXX15|5C41F814",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 16,
+        "removalPrice": -10,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true
+    },
+    "images": ["$RCT2:OBJDATA/JAILXX15.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Prison Watch Tower Stairs",
+            "fr-FR": "Escalier de mirador de prison",
+            "de-DE": "Gefängniswachturm-Treppen",
+            "es-ES": "Escaleras de torre de vigilancia de prisión",
+            "it-IT": "Scale della torretta di guardia della prigione",
+            "nl-NL": "Trappen wachttoren gevangenis",
+            "sv-SE": "Trappa till vakttorn, fängelse",
+            "ko-KR": "감옥 감시탑 계단",
+            "zh-TW": "監獄監視塔階梯",
+            "pt-BR": "Escadas de Torre de Vigia de Prisão",
+            "cs-CZ": "Věznice - schodiště na rozhlednu",
+            "pl-PL": "Schody na strażnicę więzienną",
+            "ru-RU": "Ступени башни",
+            "ja-JP": "刑務所　見張り塔　階段",
+            "eo-OO": "Ŝtuparo de Gardoturo de Malliberejo"
+        }
+    }
+}

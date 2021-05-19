@@ -1,0 +1,43 @@
+{
+    "id": "rct2ww.scenery_large.afrzebra",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0512|AFRZEBRA|91CDF3FF",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 54,
+        "removalPrice": -48,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 48,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 48,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/1X2ZEBRA.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Zebra",
+            "fr-FR": "Zèbre",
+            "es-ES": "Cebra",
+            "zh-CN": "斑马",
+            "cs-CZ": "Zebra",
+            "ko-KR": "얼룩말",
+            "pl-PL": "Zebra",
+            "ru-RU": "Зебра",
+            "pt-BR": "Zebra",
+            "ja-JP": "ゼブラ",
+            "eo-OO": "Zebro"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "rct2.scenery_wall.wallrk32",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WALLRK32|161D5FEB",
+    "sourceGame": "rct2",
+    "objectType": "scenery_wall",
+    "properties": {
+        "height": 4,
+        "price": 120,
+        "sceneryGroup": "rct2.scenery_group.scgwalls"
+    },
+    "images": ["$RCT2:OBJDATA/WALLRK32.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Rock Wall",
+            "fr-FR": "Mur de roche",
+            "de-DE": "Felswand",
+            "es-ES": "Pared de roca",
+            "it-IT": "Muro di roccia",
+            "nl-NL": "Rotsmuur",
+            "sv-SE": "Stenblocksmur",
+            "ko-KR": "바위 벽",
+            "zh-CN": "岩石墙",
+            "zh-TW": "岩石牆",
+            "pt-BR": "Muro de Rocha",
+            "cs-CZ": "Kamenná stěna",
+            "ja-JP": "岩の壁",
+            "pl-PL": "Ściana skalna",
+            "ru-RU": "Стена",
+            "eo-OO": "Ŝtonmuro"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": "rct2.scenery_small.wdbase",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F81|WDBASE  |C7C2A874",
+    "sourceGame": "rct2",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "allowSupportsAbove": true
+    },
+    "images": ["$RCT2:OBJDATA/WDBASE.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wooden Block",
+            "fr-FR": "Bloc en bois",
+            "de-DE": "Holzblock",
+            "es-ES": "Bloque de madera",
+            "it-IT": "Blocco di legno",
+            "nl-NL": "Houten blok",
+            "sv-SE": "Träblock",
+            "ko-KR": "나무 블록",
+            "zh-CN": "木块",
+            "zh-TW": "木塊",
+            "pt-BR": "Bloco de Madeira",
+            "cs-CZ": "Dřevěný blok",
+            "ja-JP": "木製ブロック",
+            "pl-PL": "Blok drewniany",
+            "ru-RU": "Блок",
+            "eo-OO": "Ligna Bloko"
+        }
+    }
+}

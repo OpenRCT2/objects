@@ -1,0 +1,96 @@
+{
+    "id": "rct2.scenery_large.sspx",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C82|SSPX    |DC6E68D2",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 190,
+        "removalPrice": -150,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 80,
+                "hasSupports": true,
+                "walls": 9,
+                "corners": 11
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 80,
+                "hasSupports": true,
+                "walls": 3,
+                "corners": 7
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 80,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 80,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 80,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 80,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 96,
+                "y": 0,
+                "clearance": 80,
+                "hasSupports": true,
+                "walls": 12,
+                "corners": 13
+            },
+            {
+                "x": 96,
+                "y": 32,
+                "clearance": 80,
+                "hasSupports": true,
+                "walls": 6,
+                "corners": 14
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SSPX.DAT[0..35]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sphinx",
+            "es-ES": "Esfinge",
+            "it-IT": "Sfinge",
+            "nl-NL": "Sfinx",
+            "sv-SE": "Sfinx",
+            "ko-KR": "스핑크스",
+            "zh-CN": "斯芬克斯",
+            "zh-TW": "斯芬克斯",
+            "pt-BR": "Esfinge",
+            "cs-CZ": "Sfinga",
+            "ja-JP": "スフィンクス",
+            "pl-PL": "Sfinks",
+            "ru-RU": "Сфинкс",
+            "fr-FR": "Sphinx",
+            "eo-OO": "Sfinkso"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "rct2.scenery_wall.wbr2a",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WBR2A   |C81495F0",
+    "sourceGame": "rct2",
+    "objectType": "scenery_wall",
+    "properties": {
+        "height": 2,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WBR2A.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Stone Wall",
+            "fr-FR": "Mur de pierre",
+            "de-DE": "Steinmauer",
+            "es-ES": "Pared de piedra",
+            "it-IT": "Muro di pietra",
+            "nl-NL": "Stenen muur",
+            "sv-SE": "Stenmur",
+            "ko-KR": "돌 벽",
+            "zh-CN": "石墙",
+            "zh-TW": "石牆",
+            "pt-BR": "Parede de Pedra",
+            "cs-CZ": "Kamenná stěna",
+            "ja-JP": "石の壁",
+            "pl-PL": "Ściana kamienna",
+            "ru-RU": "Стена",
+            "eo-OO": "Ŝtona Muro"
+        }
+    }
+}

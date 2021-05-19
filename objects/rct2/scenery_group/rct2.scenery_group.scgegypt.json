@@ -1,0 +1,46 @@
+{
+    "id": "rct2.scenery_group.scgegypt",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGEGYPT|020ADF77",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_large.sspx",
+            "rct2.scenery_large.scln",
+            "rct2.scenery_large.spyr",
+            "rct2.scenery_small.tes1",
+            "rct2.scenery_small.ten",
+            "rct2.scenery_small.ters",
+            "rct2.scenery_small.terb",
+            "rct2.scenery_small.tep",
+            "rct2.scenery_wall.wew",
+            "rct2.footpath_item.lamp3",
+            "rct2.footpath_banner.bn4",
+            "rct2.footpath_item.benchstn"
+        ],
+        "priority": 22
+    },
+    "images": ["$RCT2:OBJDATA/SCGEGYPT.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Egyptian Theming",
+            "fr-FR": "Thème égyptien",
+            "de-DE": "Ägyptisches Thema",
+            "es-ES": "Temática egipcia",
+            "it-IT": "Tema egiziano",
+            "nl-NL": "Egyptisch thema",
+            "sv-SE": "Egyptiskt tema",
+            "ko-KR": "이집트 테마",
+            "zh-CN": "埃及主题区",
+            "zh-TW": "埃及主題區",
+            "pt-BR": "Temática Egípcia",
+            "cs-CZ": "Egyptské motivy",
+            "ja-JP": "エジプト風のテーマ",
+            "pl-PL": "Wystrój egipski",
+            "ru-RU": "Египет",
+            "eo-OO": "Egipta Temo"
+        }
+    }
+}

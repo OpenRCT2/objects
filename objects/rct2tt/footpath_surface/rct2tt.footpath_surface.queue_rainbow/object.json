@@ -1,0 +1,20 @@
+{
+    "id": "rct2tt.footpath_surface.queue_rainbow",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": ["rct2tt"],
+    "objectType": "footpath_surface",
+    "properties": {
+        "isQueue": true
+    },
+    "images": [
+        "$RCT2:OBJDATA/RANBPATH.DAT[72]",
+        "$RCT2:OBJDATA/RANBPATH.DAT[51..70]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Rainbow queue",
+            "nl-NL": "Regenboogwachtrij"
+        }
+    }
+}

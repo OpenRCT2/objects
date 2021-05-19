@@ -1,0 +1,419 @@
+{
+    "id": "rct2.ride.enterp",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|ENTERP  |CAD5290B",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "ride",
+    "properties": {
+        "type": "enterprise",
+        "category": "thrill",
+        "tabScale": 0.5,
+        "rotationMode": 2,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["bright_red", "white", "black"]
+            ],
+            [
+                ["saturated_green", "bright_red", "black"]
+            ],
+            [
+                ["light_blue", "yellow", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "mass": 200,
+            "tabOffset": -24,
+            "numSeats": 16,
+            "seatsInPairs": false,
+            "spriteWidth": 98,
+            "spriteHeightNegative": 128,
+            "spriteHeightPositive": 32,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "recalculateSpriteBounds": true,
+            "hasAdditionalColour1": true,
+            "numSegments": 8,
+            "loadingWaypoints": [
+                [
+                    [53, 0],
+                    [53, 0],
+                    [53, 0]
+                ],
+                [
+                    [54, -54],
+                    [53, 0],
+                    [53, 0]
+                ],
+                [
+                    [-54, -54],
+                    [54, -54],
+                    [53, 0]
+                ],
+                [
+                    [54, 54],
+                    [53, 0],
+                    [53, 0]
+                ],
+                [
+                    [54, -54],
+                    [0, -53],
+                    [0, -53]
+                ],
+                [
+                    [0, -53],
+                    [0, -53],
+                    [0, -53]
+                ],
+                [
+                    [-54, -54],
+                    [0, -53],
+                    [0, -53]
+                ],
+                [
+                    [54, 54],
+                    [54, -54],
+                    [0, -53]
+                ],
+                [
+                    [54, 54],
+                    [-54, 54],
+                    [-53, 0]
+                ],
+                [
+                    [-54, -54],
+                    [-53, 0],
+                    [-53, 0]
+                ],
+                [
+                    [-53, 0],
+                    [-53, 0],
+                    [-53, 0]
+                ],
+                [
+                    [-54, 54],
+                    [-53, 0],
+                    [-53, 0]
+                ],
+                [
+                    [54, 54],
+                    [0, 53],
+                    [0, 53]
+                ],
+                [
+                    [54, -54],
+                    [54, 54],
+                    [0, 53]
+                ],
+                [
+                    [-54, 54],
+                    [0, 53],
+                    [0, 53]
+                ],
+                [
+                    [0, 53],
+                    [0, 53],
+                    [0, 53]
+                ],
+                [
+                    [53, -10],
+                    [53, -10],
+                    [53, -10]
+                ],
+                [
+                    [54, -54],
+                    [53, -10],
+                    [53, -10]
+                ],
+                [
+                    [-54, -54],
+                    [54, -54],
+                    [53, -10]
+                ],
+                [
+                    [54, 54],
+                    [53, -10],
+                    [53, -10]
+                ],
+                [
+                    [54, -54],
+                    [-10, -53],
+                    [-10, -53]
+                ],
+                [
+                    [-10, -53],
+                    [-10, -53],
+                    [-10, -53]
+                ],
+                [
+                    [-54, -54],
+                    [-10, -53],
+                    [-10, -53]
+                ],
+                [
+                    [54, 54],
+                    [54, -54],
+                    [-9, -53]
+                ],
+                [
+                    [54, 54],
+                    [-54, 54],
+                    [-53, 10]
+                ],
+                [
+                    [-54, -54],
+                    [-53, 10],
+                    [-53, 10]
+                ],
+                [
+                    [-53, 10],
+                    [-53, 10],
+                    [-53, 10]
+                ],
+                [
+                    [-54, 54],
+                    [-53, 10],
+                    [-53, 10]
+                ],
+                [
+                    [54, 54],
+                    [10, 53],
+                    [10, 53]
+                ],
+                [
+                    [54, -54],
+                    [54, 54],
+                    [10, 53]
+                ],
+                [
+                    [-54, 54],
+                    [10, 53],
+                    [10, 53]
+                ],
+                [
+                    [10, 53],
+                    [10, 53],
+                    [10, 53]
+                ],
+                [
+                    [54, -54],
+                    [54, -54],
+                    [44, -44]
+                ],
+                [
+                    [54, -54],
+                    [54, -54],
+                    [44, -44]
+                ],
+                [
+                    [-54, -54],
+                    [54, -54],
+                    [44, -44]
+                ],
+                [
+                    [54, 54],
+                    [54, -54],
+                    [44, -44]
+                ],
+                [
+                    [54, -54],
+                    [-54, -54],
+                    [-44, -44]
+                ],
+                [
+                    [-54, -54],
+                    [-54, -54],
+                    [-44, -44]
+                ],
+                [
+                    [-54, -54],
+                    [-54, -54],
+                    [-44, -44]
+                ],
+                [
+                    [-54, 54],
+                    [-54, -54],
+                    [-44, -44]
+                ],
+                [
+                    [54, 54],
+                    [-54, 54],
+                    [-44, 44]
+                ],
+                [
+                    [-54, -54],
+                    [-54, 54],
+                    [-44, 44]
+                ],
+                [
+                    [-54, 54],
+                    [-54, 54],
+                    [-44, 44]
+                ],
+                [
+                    [-54, 54],
+                    [-54, 54],
+                    [-44, 44]
+                ],
+                [
+                    [54, 54],
+                    [54, 54],
+                    [44, 44]
+                ],
+                [
+                    [54, -54],
+                    [54, 54],
+                    [44, 44]
+                ],
+                [
+                    [-54, 54],
+                    [54, 54],
+                    [44, 44]
+                ],
+                [
+                    [54, 54],
+                    [54, 54],
+                    [44, 44]
+                ],
+                [
+                    [54, -54],
+                    [54, -54],
+                    [44, -44]
+                ],
+                [
+                    [54, -54],
+                    [54, -54],
+                    [44, -44]
+                ],
+                [
+                    [-54, -54],
+                    [54, -54],
+                    [44, -44]
+                ],
+                [
+                    [54, 54],
+                    [54, -54],
+                    [44, -44]
+                ],
+                [
+                    [54, -54],
+                    [-54, -54],
+                    [-44, -44]
+                ],
+                [
+                    [-54, -54],
+                    [-54, -54],
+                    [-44, -44]
+                ],
+                [
+                    [-54, -54],
+                    [-54, -54],
+                    [-44, -44]
+                ],
+                [
+                    [-54, 54],
+                    [-54, -54],
+                    [-44, -44]
+                ],
+                [
+                    [54, 54],
+                    [-54, 54],
+                    [-44, 44]
+                ],
+                [
+                    [-54, -54],
+                    [-54, 54],
+                    [-44, 44]
+                ],
+                [
+                    [-54, 54],
+                    [-54, 54],
+                    [-44, 44]
+                ],
+                [
+                    [-54, 54],
+                    [-54, 54],
+                    [-44, 44]
+                ],
+                [
+                    [54, 54],
+                    [54, 54],
+                    [44, 44]
+                ],
+                [
+                    [54, -54],
+                    [54, 54],
+                    [44, 44]
+                ],
+                [
+                    [-54, 54],
+                    [54, 54],
+                    [44, 44]
+                ],
+                [
+                    [54, 54],
+                    [54, 54],
+                    [44, 44]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/ENTERP.DAT[0..246]"],
+    "strings": {
+        "name": {
+            "en-GB": "Enterprise",
+            "it-IT": "Impresa",
+            "ko-KR": "엔터프라이즈",
+            "zh-CN": "飞天转轮",
+            "zh-TW": "飛天轉輪",
+            "pt-BR": "Empresa",
+            "cs-CZ": "Loď Enterprise",
+            "ja-JP": "エンタープライズ",
+            "nl-NL": "Enterprise",
+            "pl-PL": "Krynolina",
+            "ru-RU": "Энтерпрайз",
+            "eo-OO": "Centrifugilo"
+        },
+        "description": {
+            "en-GB": "Rotating wheel with suspended passenger pods, which first starts spinning and is then tilted up by a supporting arm",
+            "fr-FR": "Grande roue rotative comprenant des nacelles qui tournent sur elles-mêmes avant d'être levées par un bras",
+            "de-DE": "Rotierendes Rad mit hängenden Passagierkapseln, das sich zuerst dreht und dann von einem Hebearm hochgekippt wird",
+            "es-ES": "Rueda de la que cuelgan las vainas de los pasajeros, que comienza a girar y es entonces inclinada por un brazo soporte",
+            "it-IT": "Una ruota rotante cui sono attaccate le cabine dei passeggeri (sospese), che prima cominciano a ruotare su loro stesse e poi vengono inclinate verso l'alto da un braccio di sostegno",
+            "nl-NL": "Draaiend wiel met hangende passagierscabines, dat eerst gaat draaien en vervolgens wordt opgetild door een steunarm.",
+            "sv-SE": "Ett horisontellt hjul med hängande passagerarkapslar, som börjar med att rotera och sedan lutas upp av en stödarm",
+            "ko-KR": "원형 놀이기구에 매달린 객실에 탑승하면 처음에 회전하기 시작하여 이후에 지지대에 의해 기울어진 채로 회전하는 놀이기구",
+            "zh-CN": "旋转轮以悬吊游客太空舱,首先以旋转开始再以一支支架支撑升起",
+            "zh-TW": "旋轉輪以懸吊遊客太空艙,首先以旋轉開始再以一支支架支撐升起",
+            "pt-BR": "Roda-gigante com módulos suspensos para os passageiros, que primeiro começa a rodar e depois é inclinada por um braço de suporte",
+            "cs-CZ": "Otáčející se kolo se zavěšenými kabinami, které se napřed roztočí a pak se zvedne na pomocné podpěře",
+            "ja-JP": "乗客の乗ったポッドがぶら下がった大きな輪が、回転しながら傾斜する乗物です",
+            "pl-PL": "Obracające się koło z podwieszanymi wagonikami. Gdy się rozkręci, hydrauliczne ramię podnosi je do pionu",
+            "ru-RU": "Колесо с подвешенными капсулами вращается с большой скоростью",
+            "eo-OO": "Turniĝanta radego kun penditaj pasaĝerujoj, kiu unue komencas turniĝi, kaj tiam estas klinita supren per apoga brako"
+        },
+        "capacity": {
+            "en-GB": "16 passengers",
+            "fr-FR": "16 passagers",
+            "de-DE": "16 Fahrgäste",
+            "es-ES": "16 pasajeros",
+            "it-IT": "16 passeggeri",
+            "nl-NL": "16 passagiers",
+            "sv-SE": "16 passagerare",
+            "ko-KR": "승객 16명",
+            "zh-CN": "16位客人",
+            "zh-TW": "16位客人",
+            "pt-BR": "16 passageiros",
+            "cs-CZ": "16 návštěvníků",
+            "ja-JP": "定員16名",
+            "pl-PL": "16 pasażerów",
+            "ru-RU": "16 пассажиров",
+            "eo-OO": "16 pasaĝeroj"
+        }
+    }
+}

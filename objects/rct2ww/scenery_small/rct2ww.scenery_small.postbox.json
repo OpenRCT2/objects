@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.postbox",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0B11|POSTBOX |0E46A8BE",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 52,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/POSTBOX.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "British Post Box",
+            "fr-FR": "Boîte à lettres anglaise",
+            "de-DE": "Britischer Briefkasten",
+            "es-ES": "Cabina postal británica",
+            "it-IT": "Casella postale inglese",
+            "nl-NL": "Engelse Brievenbus",
+            "sv-SE": "Brittisk postlåda",
+            "zh-CN": "英国邮筒",
+            "cs-CZ": "Britská poštovní schránka",
+            "ko-KR": "영국식 우편함",
+            "pl-PL": "Angielska skrzynka pocztowa",
+            "ru-RU": "Почтовый ящик",
+            "pt-BR": "Caixa Postal Inglesa",
+            "ja-JP": "イギリス風郵便ポスト",
+            "eo-OO": "Brita Poŝtujo"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "rct2.scenery_small.tes1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TES1    |48A83E79",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 48,
+        "shape": "4/4",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TES1.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Egyptian Statue",
+            "fr-FR": "Statue égyptienne",
+            "de-DE": "Ägyptische Statue",
+            "es-ES": "Estatua egipcia",
+            "it-IT": "Statua egiziana",
+            "nl-NL": "Egyptisch beeld",
+            "sv-SE": "Egyptisk staty",
+            "ko-KR": "이집트 동상",
+            "zh-CN": "埃及的雕像",
+            "zh-TW": "埃及的雕像",
+            "pt-BR": "Estátua Egípcia",
+            "cs-CZ": "Egyptská socha",
+            "ja-JP": "エジプト風の像",
+            "pl-PL": "Egipski posąg",
+            "ru-RU": "Статуя",
+            "eo-OO": "Egipta Statuo"
+        }
+    }
+}

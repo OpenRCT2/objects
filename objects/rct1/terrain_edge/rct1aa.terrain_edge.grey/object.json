@@ -1,0 +1,30 @@
+{
+    "id": "rct1aa.terrain_edge.grey",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008C|#RCT1EGY|00000000",
+    "sourceGame": "rct1aa",
+    "objectType": "terrain_edge",
+    "properties": {
+        "hasDoors": true,
+        "doorSound": 1
+    },
+    "images": [
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        "$CSG[41134..41301]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Stucco (Grey)",
+            "de-DE": "Gipsputz (grau)",
+            "nl-NL": "Grijs stucwerk",
+            "pt-BR": "Estuque (cinza)",
+            "fr-FR": "Stuc (gris)",
+            "ja-JP": "スタッコ (灰色)",
+            "pl-PL": "Stiuk (Szary)",
+            "ko-KR": "흙벽 (회색)",
+            "eo-OO": "Stukaĵo (Griza)",
+            "sv-SE": "Stuck (grå)"
+        }
+    }
+}

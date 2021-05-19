@@ -1,0 +1,32 @@
+{
+    "id": "rct2ww.scenery_wall.wkreml10",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0913|WKREML10|8C03CDA4",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WKREML10.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Kremlin Wall Piece 8",
+            "fr-FR": "Pan de mur du Kremlin 8",
+            "de-DE": "Kreml - Wandbauteil 8",
+            "es-ES": "Pieza de pared del Kremlin 8",
+            "it-IT": "Pezzo di muro del Cremlino 8",
+            "nl-NL": "Stuk muur Kremlin 8",
+            "sv-SE": "Kreml-mur del 8",
+            "cs-CZ": "Kremlinská stěna - část 8",
+            "ko-KR": "크렘린 벽 조각 8",
+            "pl-PL": "Segment muru kremlowskiego 8",
+            "ru-RU": "Стена Кремля",
+            "pt-BR": "Peça de Parede do Kremlin 8",
+            "ja-JP": "クレムリンの壁8",
+            "eo-OO": "Muro de Kremlo, Parto 8"
+        }
+    }
+}

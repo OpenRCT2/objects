@@ -1,0 +1,65 @@
+{
+    "id": "rct2tt.scenery_large.romnm2x2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F822|ROMNM2X2|E78F4F01",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 82,
+        "removalPrice": -77,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/ROMNM2X2.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Roman Palace Cross Section",
+            "fr-FR": "Croisement de palais romain",
+            "de-DE": "Kreuzung im Römischen Palast",
+            "es-ES": "Sección de cruce de palacio romano",
+            "it-IT": "Sezione di intersezione del Palazzo Romano",
+            "nl-NL": "Kruising Romeins paleis",
+            "sv-SE": "Skarvdel, romerskt palats",
+            "ko-KR": "로마궁 교차 조각",
+            "zh-TW": "羅馬皇宮交叉區塊",
+            "pt-BR": "Seção Transversal de Palácio Romano",
+            "cs-CZ": "Římský palác - střední část",
+            "pl-PL": "Skrzyżowanie rzymskiego pałacu",
+            "ru-RU": "Деталь дворца",
+            "ja-JP": "ローマ風　宮殿 断面",
+            "eo-OO": "Sekco de Roma Palaco"
+        }
+    }
+}

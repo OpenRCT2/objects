@@ -1,0 +1,38 @@
+{
+    "id": "rct2.scenery_small.tml",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TML     |20C2E115",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 4,
+        "removalPrice": -3,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TML.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Logs",
+            "fr-FR": "Rondins",
+            "de-DE": "Baumstämme",
+            "es-ES": "Troncos",
+            "it-IT": "Tronchi",
+            "nl-NL": "Palen",
+            "sv-SE": "Stockar",
+            "ko-KR": "나무",
+            "zh-CN": "原木",
+            "zh-TW": "原木",
+            "pt-BR": "Troncos",
+            "cs-CZ": "Polena",
+            "ja-JP": "丸太",
+            "pl-PL": "Pnie",
+            "ru-RU": "Лага",
+            "eo-OO": "Ŝtipoj"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "id": "rct2tt.scenery_large.cyclopss",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F822|CYCLOPSS|91D50FE2",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 86,
+        "removalPrice": -78,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 168,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 168,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 168,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 168,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/CYCLOPSS.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cyclops Statue",
+            "fr-FR": "Statue du cyclope",
+            "de-DE": "Zyklopen-Statue",
+            "es-ES": "Estatua de cíclope",
+            "it-IT": "Statua dei Ciclopi",
+            "nl-NL": "Cyclopenstandbeeld",
+            "sv-SE": "Cyklopstaty",
+            "ko-KR": "사이클롭스 동상",
+            "zh-TW": "獨眼巨人雕像",
+            "pt-BR": "Estátua de Ciclope",
+            "cs-CZ": "Socha kyklopa",
+            "pl-PL": "Posąg cyklopa",
+            "ru-RU": "Циклоп",
+            "ja-JP": "サイクロプスの像",
+            "eo-OO": "Statuo de Ciklopo"
+        }
+    }
+}

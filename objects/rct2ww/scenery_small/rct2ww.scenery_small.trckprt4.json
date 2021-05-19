@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.trckprt4",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0511|TRCKPRT4|E0762124",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TRCKPRT4.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cart Shaft",
+            "fr-FR": "Puits à chariot",
+            "de-DE": "Wagenschacht",
+            "es-ES": "Galería Vagoneta",
+            "it-IT": "Entrata galleria",
+            "nl-NL": "Schacht voor mijnkarretjes",
+            "sv-SE": "Vagnskoppling",
+            "zh-CN": "推车把手",
+            "cs-CZ": "Povoz",
+            "ko-KR": "카트 수갱",
+            "pl-PL": "Szyb kopalniany",
+            "ru-RU": "Карт",
+            "pt-BR": "Entrada de Galeria",
+            "ja-JP": "カートシャフト",
+            "eo-OO": "Propulsakso de Ĉaro"
+        }
+    }
+}

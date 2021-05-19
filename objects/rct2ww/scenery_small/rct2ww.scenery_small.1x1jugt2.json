@@ -1,0 +1,37 @@
+{
+    "id": "rct2ww.scenery_small.1x1jugt2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31D11|1X1JUGT2|22687357",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 104,
+        "sceneryGroup": "rct2.scenery_group.scgtrees",
+        "isTree": true,
+        "shape": "4/4",
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/1X1JUGT2.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Small Rainforest Tree 1",
+            "fr-FR": "Arbre forêt équatoriale 1 1",
+            "de-DE": "Regenwaldbaum 1",
+            "es-ES": "Árbol tropical 1",
+            "it-IT": "Albero di foresta pluviale 1",
+            "nl-NL": "Kleine regenwoudboom 1",
+            "sv-SE": "Litet regnskogsträd 1",
+            "cs-CZ": "Strom z deštného pralesa 1",
+            "ko-KR": "작은 열대우림 나무 1",
+            "pl-PL": "Drzewko tropikalne 1",
+            "ru-RU": "Маленькое дерево",
+            "pt-BR": "Pequena Árvore Tropical 1",
+            "ja-JP": "小さな熱帯雨林の木 1",
+            "eo-OO": "Malgranda Arbo de Pluvarbaro 1"
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "id": "rct2ww.scenery_large.3x3atre3",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0512|3X3ATRE3|07BBC028",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 48,
+        "removalPrice": 36,
+        "cursor": "CURSOR_TREE_DOWN",
+        "isPhotogenic": true,
+        "sceneryGroup": "rct2.scenery_group.scgtrees",
+        "isTree": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 136,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 136,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 136,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 136,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 136,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 136,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 136,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 136,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 136,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/3X3ATRE3.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jungle Tree with Vines",
+            "fr-FR": "Arbre jungle avec lianes",
+            "de-DE": "Dschungelbaum mit Lianen",
+            "es-ES": "Árbol tropical con lianas",
+            "it-IT": "Albero della giungla con liane",
+            "nl-NL": "Jungleboom met lianen",
+            "sv-SE": "Djungelträd med lianer",
+            "zh-CN": "热带树藤蔓",
+            "cs-CZ": "Strom z jungle s liánami",
+            "ko-KR": "포도가 열린 정글의 나무",
+            "pl-PL": "Drzewo z dżungli z lianami",
+            "ru-RU": "Дерево",
+            "pt-BR": "Árvore Selvagem com Videira",
+            "ja-JP": "ジャングルの木（蔓植付き）",
+            "eo-OO": "Ĝangaloarbo kun Vitoj"
+        }
+    }
+}

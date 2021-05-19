@@ -1,0 +1,104 @@
+{
+    "id": "rct2.ride.bob1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|BOB1    |2A8F112F",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": "bobsleigh_rc",
+        "category": "rollercoaster",
+        "maxCarsPerTrain": 8,
+        "carColours": [
+            [
+                ["light_blue", "white", "bright_red"]
+            ],
+            [
+                ["bright_red", "saturated_red", "yellow"]
+            ],
+            [
+                ["yellow", "dark_olive_green", "light_orange"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 200468,
+            "mass": 600,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "frictionSoundId": 2,
+            "soundRange": 0,
+            "drawOrder": 7,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true
+            },
+            "hasNoUpstopWheelsBobsleigh": true,
+            "hasAdditionalColour2": true,
+            "hasAdditionalColour1": true,
+            "hasSwinging": true,
+            "hasScreamingRiders": true,
+            "useSuspendedSwing": true,
+            "useSlideSwing": true,
+            "loadingPositions": [3, -3]
+        },
+        "buildMenuPriority": 2
+    },
+    "images": ["$RCT2:OBJDATA/BOB1.DAT[0..2706]"],
+    "strings": {
+        "name": {
+            "en-GB": "Bobsleigh Trains",
+            "fr-FR": "Bobsleigh",
+            "de-DE": "Bobzüge",
+            "es-ES": "Montaña Rusa Bobsleigh",
+            "it-IT": "Ottovolante a slittino",
+            "nl-NL": "Bobslee-trein",
+            "sv-SE": "Bobslädesvagnar",
+            "ko-KR": "봅슬레이 차량",
+            "zh-CN": "雪橇过山车",
+            "zh-TW": "雪橇飛車",
+            "pt-BR": "Trens Bobsleigh",
+            "cs-CZ": "Horská bobová dráha",
+            "ja-JP": "ボブスレー・コースター",
+            "pl-PL": "Kolejka bobslejowa",
+            "ru-RU": "Бобслей-поезд",
+            "eo-OO": "Bobsledo-Trajnoj"
+        },
+        "description": {
+            "en-GB": "Trains consisting of 2-seater cars where the riders are behind each other",
+            "fr-FR": "Les passagers descendent un parcours plein de virages à bord d'une voiture en forme de bobsleigh dirigée uniquement par les courbes et l'inclinaison de la voie semi-circulaire",
+            "de-DE": "Züge mit Zweisitzerwagen, in denen die Fahrgäste hintereinander sitzen",
+            "es-ES": "Los pasajeros viajan por unas vías retorcidas en vagones tipo bobsleigh guiados únicamente por la curvatura y los peraltes de la vía semicircular",
+            "it-IT": "I passeggeri si fanno strada lungo un tracciato con molte curve all'interno di carrozze a forma di slittino guidate solo dalla curvatura e dall'inclinazione del tracciato semi-circolare",
+            "nl-NL": "Passagiers rijden over een kronkelende baan, waarbij ze enkel worden geleid door de ronding en banking van de halfronde baan.",
+            "sv-SE": "Tvåsitsiga vagnar där passagerarna sitter bakom varandra",
+            "ko-KR": "2인승 열차로 구성된 연결식 열차",
+            "zh-CN": "以雪橇成型的车子，在弯曲的斜坡铁轨上仅由曲率导引向下俯冲",
+            "zh-TW": "以雪橇成型的車子，在彎曲的斜坡鐵軌上僅由曲率導引向下俯衝",
+            "pt-BR": "Trens com carros de 2 assentos onde os passageiros sentam um atrás do outro",
+            "cs-CZ": "Návštěvníci sedí za sebou ve dvojmístných vozech",
+            "ja-JP": "乗客2人が前後に座るボブスレーです",
+            "pl-PL": "Pasażerowie zjeżdżają krętą trasą w wagonikach przypominających bobsleje, prowadzonych jedynie przez krzywizny i wychylenia półkolistego toru",
+            "ru-RU": "Поезд состоящий из двухместных вагонов, где пассажиры сидят друг за другом",
+            "eo-OO": "Trajnoj, konsistaj de ĉaroj kun 2 seĝoj, kie la rajdantoj estas malantaŭ unu la alian"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por vagón",
+            "it-IT": "2 passeggeri a carrozza",
+            "nl-NL": "2 passagiers per karretje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량당 2명의 승객",
+            "zh-CN": "2位乘客/每个车厢",
+            "zh-TW": "2位乘客/每個車廂",
+            "pt-BR": "2 passageiros por carro",
+            "cs-CZ": "2 místa v každém vozu",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира",
+            "eo-OO": "Po 2 pasaĝeroj por ĉaro"
+        }
+    }
+}

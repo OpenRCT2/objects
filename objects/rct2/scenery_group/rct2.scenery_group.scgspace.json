@@ -1,0 +1,48 @@
+{
+    "id": "rct2.scenery_group.scgspace",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGSPACE|452286E1",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_large.ssr",
+            "rct2.scenery_large.sst",
+            "rct2.scenery_large.ssh",
+            "rct2.scenery_small.tscp",
+            "rct2.scenery_small.tsph",
+            "rct2.scenery_small.tsc2",
+            "rct2.scenery_small.tsp1",
+            "rct2.scenery_small.tsp2",
+            "rct2.scenery_wall.wallsp32",
+            "rct2.scenery_small.spcroof1",
+            "rct2.footpath_banner.bn9",
+            "rct2.footpath_item.benchspc",
+            "rct2.footpath_item.littersp"
+        ],
+        "priority": 31,
+        "entertainerCostumes": "astronaut"
+    },
+    "images": ["$RCT2:OBJDATA/SCGSPACE.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Space Theming",
+            "fr-FR": "Thème Espace",
+            "de-DE": "Weltraumthema",
+            "es-ES": "Temática espacial",
+            "it-IT": "Tema spaziale",
+            "nl-NL": "Ruimtethema",
+            "sv-SE": "Rymdtema",
+            "ko-KR": "우주 테마",
+            "zh-CN": "太空世界主题区",
+            "zh-TW": "太空世界主題區",
+            "pt-BR": "Temática Espacial",
+            "cs-CZ": "Vesmírné kulisy",
+            "ja-JP": "スペース風のテーマ",
+            "pl-PL": "Wystrój kosmiczny",
+            "ru-RU": "Космос",
+            "eo-OO": "Kosma Temo"
+        }
+    }
+}

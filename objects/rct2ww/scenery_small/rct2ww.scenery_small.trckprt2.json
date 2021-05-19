@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.trckprt2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0511|TRCKPRT2|D8B0DA84",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TRCKPRT2.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Empty Cart",
+            "fr-FR": "Chariot vide",
+            "de-DE": "Leerer Wagen",
+            "es-ES": "Vagoneta vacía",
+            "it-IT": "Carrozza vuota",
+            "nl-NL": "Mijnspoor met leeg karretje",
+            "sv-SE": "Tom vagn",
+            "zh-CN": "空空的推车",
+            "cs-CZ": "Prázdný košík",
+            "ko-KR": "빈 카트",
+            "pl-PL": "Pusty wózek",
+            "ru-RU": "Вагонетка",
+            "pt-BR": "Carroça Vazia",
+            "ja-JP": "空のカート",
+            "eo-OO": "Malplena Ĉaro"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "rct2.scenery_small.tht",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|THT     |9A25A7CB",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 7,
+        "removalPrice": 5,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 32,
+        "shape": "1/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/THT.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Heart Shaped Tree",
+            "fr-FR": "Arbre en coeur",
+            "de-DE": "Herzförmiger Baum",
+            "es-ES": "Árbol con forma de corazón",
+            "it-IT": "Albero a forma di cuore",
+            "nl-NL": "Hartenboom",
+            "sv-SE": "Hjärterformat träd",
+            "ko-KR": "하트 모양 나무",
+            "zh-CN": "心形的树",
+            "zh-TW": "心形的樹",
+            "pt-BR": "Árvore em Forma de Coração",
+            "cs-CZ": "Strom ve tvaru srdce",
+            "ja-JP": "ハート形の木",
+            "pl-PL": "Drzewo sercowe",
+            "ru-RU": "Дерево",
+            "eo-OO": "Korforma Arbo"
+        }
+    }
+}

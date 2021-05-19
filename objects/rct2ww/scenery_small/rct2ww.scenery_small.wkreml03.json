@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.wkreml03",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0911|WKREML03|10F43D99",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WKREML03.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Kremlin Wall Piece 1",
+            "fr-FR": "Pan de mur du Kremlin 1",
+            "de-DE": "Kreml - Wandbauteil 1",
+            "es-ES": "Pieza de pared del Kremlin 1",
+            "it-IT": "Pezzo di muro del Cremlino 1",
+            "nl-NL": "Stuk muur Kremlin 1",
+            "sv-SE": "Kreml-mur del 1",
+            "cs-CZ": "Kremlinská stěna - část 1",
+            "ko-KR": "크렘린 벽 조각 1",
+            "pl-PL": "Segment muru kremlowskiego 1",
+            "ru-RU": "Стена Кремля",
+            "pt-BR": "Peça de Parede do Kremlim 1",
+            "ja-JP": "クレムリンの壁1",
+            "eo-OO": "Muro de Kremlo, Parto 1"
+        }
+    }
+}

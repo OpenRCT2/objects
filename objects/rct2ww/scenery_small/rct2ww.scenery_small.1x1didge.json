@@ -1,0 +1,36 @@
+{
+    "id": "rct2ww.scenery_small.1x1didge",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0E11|1X1DIDGE|46CB7427",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 168,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/1X1DIDGE.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Digeridoo",
+            "de-DE": "Didjeridu",
+            "es-ES": "Digeridu",
+            "nl-NL": "Didgeridoo",
+            "zh-CN": "澳洲民俗乐器",
+            "cs-CZ": "Didgeridoo",
+            "ko-KR": "디제리두",
+            "pl-PL": "Digeridoo",
+            "ru-RU": "Дигериду",
+            "pt-BR": "Didjeridu",
+            "ja-JP": "先住民族の楽器",
+            "fr-FR": "Didgeridoo",
+            "eo-OO": "Diĝeriduo"
+        }
+    }
+}

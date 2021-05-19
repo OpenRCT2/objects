@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.antilopm",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0411|ANTILOPM|D4588A11",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 48,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/ANTILOPM.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Antelope Male",
+            "fr-FR": "Antilope mâle",
+            "de-DE": "Antilope (männlich)",
+            "es-ES": "Antílope macho",
+            "it-IT": "Antilope maschio",
+            "nl-NL": "Mannetjesantilope",
+            "sv-SE": "Antilop-hanne",
+            "zh-CN": "雄性羚羊",
+            "cs-CZ": "Antilopa - samec",
+            "ko-KR": "수컷 영양",
+            "pl-PL": "Samiec antylopy",
+            "ru-RU": "Антилопа",
+            "pt-BR": "Antílope Macho",
+            "ja-JP": "レイヨウ（オス）",
+            "eo-OO": "Antilopo Vira"
+        }
+    }
+}

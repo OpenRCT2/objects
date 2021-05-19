@@ -1,0 +1,160 @@
+{
+    "id": "rct2.ride.revcar",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|REVCAR  |50718182",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "ride",
+    "properties": {
+        "type": "reverser_rc",
+        "category": "rollercoaster",
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 2,
+        "tailCars": 2,
+        "carColours": [
+            [
+                ["bright_red", "dark_green", "black"]
+            ],
+            [
+                ["yellow", "dark_brown", "black"]
+            ],
+            [
+                ["light_blue", "dark_green", "black"]
+            ],
+            [
+                ["white", "bordeaux_red", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 87160,
+                "mass": 900,
+                "numSeats": 6,
+                "spriteWidth": 31,
+                "spriteHeightNegative": 40,
+                "spriteHeightPositive": 15,
+                "numSeatRows": 3,
+                "frictionSoundId": 1,
+                "logFlumeReverserVehicleType": 1,
+                "soundRange": 1,
+                "carVisual": 7,
+                "drawOrder": 12,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "hasNoUpstopWheelsBobsleigh": true,
+                "isReverserPassengerCar": true,
+                "recalculateSpriteBounds": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [11, 7, 2, -2, -7, -11]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 87160,
+                "mass": 900,
+                "numSeats": 6,
+                "spriteWidth": 31,
+                "spriteHeightNegative": 40,
+                "spriteHeightPositive": 15,
+                "numSeatRows": 3,
+                "frictionSoundId": 1,
+                "soundRange": 1,
+                "carVisual": 7,
+                "drawOrder": 12,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "hasNoUpstopWheelsBobsleigh": true,
+                "isReverserPassengerCar": true,
+                "recalculateSpriteBounds": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [-7, -11, 2, -2, 11, 7]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 95876,
+                "spriteWidth": 13,
+                "spriteHeightNegative": 8,
+                "spriteHeightPositive": 12,
+                "frictionSoundId": 1,
+                "soundRange": 1,
+                "drawOrder": 13,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "hasNoUpstopWheelsBobsleigh": true,
+                "isReverserBogie": true,
+                "recalculateSpriteBounds": true
+            }
+        ],
+        "buildMenuPriority": 1
+    },
+    "images": ["$RCT2:OBJDATA/REVCAR.DAT[0..938]"],
+    "strings": {
+        "name": {
+            "en-GB": "Reverser Cars",
+            "fr-FR": "Inverseur",
+            "de-DE": "Umkehrwagen",
+            "es-ES": "Montaña Rusa Inversora",
+            "it-IT": "Ottovolante alla rovescia",
+            "nl-NL": "Omkeerbare karretjes",
+            "sv-SE": "Vändvagnar",
+            "ko-KR": "반전 차량",
+            "zh-CN": "倒退式过山车",
+            "zh-TW": "倒退式雲霄飛車",
+            "pt-BR": "Carros Reversos",
+            "cs-CZ": "Otáčivá horská dráha",
+            "ja-JP": "逆向きジェットコースター",
+            "pl-PL": "Zawracajka",
+            "ru-RU": "Горки с 4м измерением",
+            "eo-OO": "Inversiĝantaj Ĉaroj"
+        },
+        "description": {
+            "en-GB": "Bogied cars capable of turning around on special reversing sections",
+            "fr-FR": "Chariot dévalant une voie en bois, tournant à des sections inverseuses spéciales",
+            "de-DE": "Wagen mit Drehgestell fahren auf einer Holzstrecke und rotieren dabei auf speziellen Umkehrabschnitten",
+            "es-ES": "Vagones que corren por una vía de madera girando en secciones especiales de inversión",
+            "it-IT": "Dei carrelli corrono su un tracciato di legno, ruotando di 180° in speciali sezioni",
+            "nl-NL": "Karretjes met draaistellen rijden op een houten baan en kunnen omkeren op speciale stukken baan.",
+            "sv-SE": "Boggivagnar som kan vändas om på speciella vändsektioner",
+            "ko-KR": "특수한 반전 섹션 위에서 앞뒤가 뒤집히는 나무 트랙 위를 운행하는 불안한 차량",
+            "zh-CN": "妖怪列车在木架轨道上运行,转进特殊倒转区域",
+            "zh-TW": "妖怪列車在木架軌道上運行,轉進特殊倒轉區域",
+            "pt-BR": "Carros Truque capaz de virar em torno de si em seções de reversão especiais",
+            "ar-EG": "Bogied cars capable of turning around on special reversing sections",
+            "cs-CZ": "Horská dráha s vozy, které se ve speciálních místech se otočí a jedou pozpátku",
+            "en-US": "Bogied cars capable of turning around on special reversing sections",
+            "ja-JP": "特殊な反転ターンがある木製のコースをボギー車両が走行するコースターです",
+            "pl-PL": "Wózki kopalniane jeżdżące po drewnianych torach, zawracające na specjalnych obrotowych sekcjach",
+            "ru-RU": "Вагончики на деревянных рельсах, меняющие направление на середине трека.",
+            "eo-OO": "Boĝiĉaroj kapablas je turniĝi ĉirkaŭ specialaj inversigantaj partoj"
+        },
+        "capacity": {
+            "en-GB": "6 passengers per car",
+            "fr-FR": "6 passagers par voiture",
+            "de-DE": "6 Fahrgäste pro Wagen",
+            "es-ES": "6 pasajeros por vagón",
+            "it-IT": "6 passeggeri a carrozza",
+            "nl-NL": "6 passagiers per karretje",
+            "sv-SE": "6 passagerare per vagn",
+            "ko-KR": "차량당 6명의 승객",
+            "zh-CN": "6 位乘客/每个车厢",
+            "zh-TW": "6 位乘客/每個車廂",
+            "pt-BR": "6 passageiros por vagão",
+            "cs-CZ": "6 míst v každém voze",
+            "ja-JP": "各車両6名",
+            "pl-PL": "6 pasażerów na wagonik",
+            "ru-RU": "6 пассажиров",
+            "eo-OO": "Po 6 pasaĝeroj por ĉaro"
+        }
+    }
+}

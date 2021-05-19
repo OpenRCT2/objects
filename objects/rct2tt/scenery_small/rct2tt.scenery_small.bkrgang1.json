@@ -1,0 +1,45 @@
+{
+    "id": "rct2tt.scenery_small.bkrgang1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|BKRGANG1|22C97295",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 46,
+        "removalPrice": -38,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 72,
+        "animationDelay": 3,
+        "animationMask": 31,
+        "numFrames": 15,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 0, 0, 0]
+    },
+    "images": ["$RCT2:OBJDATA/BKRGANG1.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Biker",
+            "fr-FR": "Motard",
+            "de-DE": "Fahrradfahrer",
+            "es-ES": "Motero",
+            "it-IT": "Motociclista",
+            "nl-NL": "Motorrijder",
+            "sv-SE": "Motorcyklist",
+            "ko-KR": "자전거를 타는 사람",
+            "zh-TW": "摩托車騎士",
+            "pt-BR": "Motoqueiro",
+            "cs-CZ": "Cyklista",
+            "pl-PL": "Kolarz",
+            "ru-RU": "Мачо",
+            "ja-JP": "暴走族",
+            "eo-OO": "Biciklanto"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "rct2ww.scenery_small.wmayan11",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31C11|WMAYAN11|702D771E",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WMAYAN11.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Lost City Wall Piece",
+            "fr-FR": "Pan de mur de cité perdue",
+            "de-DE": "Verlorene Stadt - Wand-Bauteil",
+            "es-ES": "Pieza de pared de ciudad perdida",
+            "it-IT": "Pezzo di muro di città perduta",
+            "nl-NL": "Stuk muur Verloren Stad",
+            "sv-SE": "Väggdel till förlorad stad",
+            "cs-CZ": "Stěna Ztraceného města",
+            "ko-KR": "잃어버린 도시 벽 조각",
+            "pl-PL": "Zaginione miasto - segment ściany",
+            "ru-RU": "Деталь Ступеней",
+            "pt-BR": "Peça de Parede da Cidade Perdida",
+            "ja-JP": "失われた都市　壁部分",
+            "eo-OO": "Muroparto de Malaperinta Urbo"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "rct2tt.scenery_small.futsky17",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|FUTSKY17|4F56026D",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 4,
+        "removalPrice": 0,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "1/4+D",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/FUTSKY17.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone Skyscraper Filler",
+            "fr-FR": "Remplissage du gratte-ciel",
+            "de-DE": "Sandstein-Wolkenkratzer Füllstoff",
+            "es-ES": "Relleno de rascacielos de arenisca",
+            "it-IT": "Riporto del grattacielo in arenaria",
+            "nl-NL": "Vulstuk zandstenen wolkenkrabber",
+            "sv-SE": "Utfyllnad, sandstensskyskrapa",
+            "ko-KR": "사암 마천루 필러",
+            "zh-TW": "沙岩製摩天大樓填充塊",
+            "pt-BR": "Preenchimento de Arranha-Céu de Arenito",
+            "cs-CZ": "Pískovcový mrakodrap - výplň",
+            "pl-PL": "Wieżowiec z piaskowca - wypełnienie",
+            "ru-RU": "Деталь небоскрёба",
+            "ja-JP": "砂岩 高層ビル 充填材",
+            "eo-OO": "Diversaĵo de Sabloŝtona Ĉielskrapanto"
+        }
+    }
+}

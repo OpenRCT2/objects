@@ -1,0 +1,39 @@
+{
+    "id": "rct2.scenery_small.ters",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TERS    |8F9BD944",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -5,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 8,
+        "shape": "1/4",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TERS.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Ruined Statue",
+            "fr-FR": "Statue en ruines",
+            "de-DE": "Zerstörte Statue",
+            "es-ES": "Estatua rota",
+            "it-IT": "Statua rovinata",
+            "nl-NL": "Vervallen beeld",
+            "sv-SE": "Förstörd staty",
+            "ko-KR": "부서진 동상",
+            "zh-CN": "毁坏的雕像",
+            "zh-TW": "毀壞的雕像",
+            "pt-BR": "Estátua em Ruínas",
+            "cs-CZ": "Rozbitá socha",
+            "ja-JP": "壊れた像",
+            "pl-PL": "Zniszczony posąg",
+            "ru-RU": "Статуя",
+            "eo-OO": "Rompita Statuo"
+        }
+    }
+}

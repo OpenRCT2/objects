@@ -1,0 +1,38 @@
+{
+    "id": "rct2.scenery_small.tk4",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TK4     |9DB61514",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TK4.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Black King",
+            "fr-FR": "Roi noir",
+            "de-DE": "Schwarzer König",
+            "es-ES": "Rey negro",
+            "it-IT": "Re nero",
+            "nl-NL": "Zwarte koning",
+            "sv-SE": "Svart kung",
+            "ko-KR": "검은색 킹",
+            "zh-CN": "黑棋国王",
+            "zh-TW": "黑棋國王",
+            "pt-BR": "Rei Preto",
+            "cs-CZ": "Černý král",
+            "ja-JP": "黒キング",
+            "pl-PL": "Czarny król",
+            "ru-RU": "Король",
+            "eo-OO": "Nigra Reĝo"
+        }
+    }
+}

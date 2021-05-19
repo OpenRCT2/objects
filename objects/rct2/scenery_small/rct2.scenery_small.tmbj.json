@@ -1,0 +1,37 @@
+{
+    "id": "rct2.scenery_small.tmbj",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TMBJ    |5889C127",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": 5,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 56,
+        "isTree": true,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TMBJ.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Meyer's Blue Juniper Tree",
+            "fr-FR": "Genévrier bleu de Meyer",
+            "de-DE": "Meyers blauer Wacholderbaum",
+            "es-ES": "Enebro azul de Meyer",
+            "it-IT": "Ginepro blu di Meyer",
+            "nl-NL": "Blauwe jeneverbes",
+            "sv-SE": "Meyers blåa en",
+            "ko-KR": "메이어 향나무",
+            "zh-CN": "梅格蓝桧树",
+            "zh-TW": "梅格藍檜樹",
+            "pt-BR": "Árvore Zimbro-Azul-de-Meyer",
+            "cs-CZ": "Modrý jalovec",
+            "ja-JP": "マイヤーの青ネズの木",
+            "pl-PL": "Błękitny jałowiec",
+            "ru-RU": "Голубой можжевельник",
+            "eo-OO": "Blua Juniperoarbo de Meyer"
+        }
+    }
+}

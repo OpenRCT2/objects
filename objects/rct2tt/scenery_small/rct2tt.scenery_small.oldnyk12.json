@@ -1,0 +1,44 @@
+{
+    "id": "rct2tt.scenery_small.oldnyk12",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F921|OLDNYK12|8E7A72B5",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": -6,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 64,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasSecondaryColour": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/OLDNYK12.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "New York Washing Line",
+            "fr-FR": "Corde à linge de New York",
+            "de-DE": "New-York-Wäscheleine",
+            "es-ES": "Tendedero de Nueva York",
+            "it-IT": "Panni stesi di New York",
+            "nl-NL": "Waslijn New York",
+            "sv-SE": "Klädstreck, New York",
+            "ko-KR": "뉴욕 빨랫줄",
+            "zh-TW": "紐約晾衣繩",
+            "pt-BR": "Varal de Nova York",
+            "cs-CZ": "New York stěna",
+            "pl-PL": "Ściana nowojorska z linią mycia",
+            "ru-RU": "Деталь Нью-Йорка",
+            "ja-JP": "ニューヨーク　物干しロープ",
+            "eo-OO": "Novjorka Pendigŝnuro"
+        }
+    }
+}

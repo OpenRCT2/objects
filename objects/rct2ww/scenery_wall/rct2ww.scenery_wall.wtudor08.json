@@ -1,0 +1,32 @@
+{
+    "id": "rct2ww.scenery_wall.wtudor08",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0B13|WTUDOR08|38DC34AA",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WTUDOR08.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tudor Ground Floor Wall Piece 8",
+            "fr-FR": "Pan de mur de rez-de-chaussée Tudor 8",
+            "de-DE": "Tudor-Erdgeschoss-Wandbauteil 8",
+            "es-ES": "Pieza de pared de suelo Tudor 8",
+            "it-IT": "Pezzo di muro Tudor del piano terra 8",
+            "nl-NL": "Grondstuk muur in Tudorstijl 8",
+            "sv-SE": "Tudor-väggdel för nedre våning 8",
+            "cs-CZ": "Tudorská přízemní stěna - část 8",
+            "ko-KR": "튜더식 지면 바닥 벽 조각 8",
+            "pl-PL": "Elżbietański segment ściany parteru 8",
+            "ru-RU": "Деталь стены",
+            "pt-BR": "Peça da Parede do Andar Térreo Tudor 8",
+            "ja-JP": "チューダー1階の壁8",
+            "eo-OO": "Tudorstila Ternivela Muroparto 8"
+        }
+    }
+}

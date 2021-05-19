@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.rdrab06",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A11|RDRAB06 |6FEEC32A",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 64,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RDRAB06.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Small Tower Top or Mid-Section",
+            "fr-FR": "Section moyenne ou sommet de petite tour terne",
+            "de-DE": "Düsterer Kleiner Turm - Spitze oder Mitte",
+            "es-ES": "Sección intermedia o cima de torre pequeña apagada",
+            "it-IT": "Base o sezione centrale di torre piccola smorta",
+            "nl-NL": "Vale top of middengedeelte kleine toren",
+            "sv-SE": "Gråbrun liten torntopp eller mittparti",
+            "cs-CZ": "Střední část malého minaretu",
+            "ko-KR": "칙칙하고 작은 탑 상단 또는 중간 섹션",
+            "pl-PL": "Płowa wieżyczka - szczyt lub część środkowa",
+            "ru-RU": "Деталь башни",
+            "pt-BR": "Seção Intermediária ou Topo de Pequena Torre Gris",
+            "ja-JP": "壊れた小さな塔の頂上もしくは中間部分",
+            "eo-OO": "Dubekolora Malgranda Supro aŭ Mezparto de Turo"
+        }
+    }
+}

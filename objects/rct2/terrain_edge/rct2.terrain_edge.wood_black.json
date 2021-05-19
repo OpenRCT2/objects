@@ -1,0 +1,28 @@
+{
+    "id": "rct2.terrain_edge.wood_black",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008C|#RCT2EWB|00000000",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "terrain_edge",
+    "properties": {
+    },
+    "images": [
+        "$G1[5595]",
+        "$G1[1663..1746]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Wood (black)",
+            "de-DE": "Holz (schwarz)",
+            "nl-NL": "Zwarte houten palen",
+            "pt-BR": "Madeira (preta)",
+            "ja-JP": "木 (黒)",
+            "fr-FR": "Bois (noir)",
+            "pl-PL": "Drewno (czarne)",
+            "ko-KR": "나무 (검은색)",
+            "eo-OO": "Ligno (nigra)",
+            "sv-SE": "Trå (svart)"
+        }
+    }
+}

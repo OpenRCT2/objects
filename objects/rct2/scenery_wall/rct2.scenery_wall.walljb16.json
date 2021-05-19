@@ -1,0 +1,37 @@
+{
+    "id": "rct2.scenery_wall.walljb16",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WALLJB16|F17540CC",
+    "sourceGame": "rct2",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isAllowedOnSlope": true,
+        "height": 2,
+        "price": 70,
+        "sceneryGroup": "rct2.scenery_group.scgfence"
+    },
+    "images": ["$RCT2:OBJDATA/WALLJB16.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jellybean Wall",
+            "fr-FR": "Mur en dragées",
+            "de-DE": "Geleebonbon-Wand",
+            "es-ES": "Pared de gominolas",
+            "it-IT": "Muro di confetti ripieni",
+            "nl-NL": "Muur van zuurtjes",
+            "sv-SE": "Gelémur",
+            "ko-KR": "젤리빈 벽",
+            "zh-CN": "豆型糖果墙",
+            "zh-TW": "豆型糖果牆",
+            "pt-BR": "Parede de Bala de Mascar",
+            "cs-CZ": "Lentilková stěna",
+            "ja-JP": "ジェリービーンの壁",
+            "pl-PL": "Płot żelkowy",
+            "ru-RU": "Стена",
+            "eo-OO": "Muro el Ĝelateno-Faboj"
+        }
+    }
+}

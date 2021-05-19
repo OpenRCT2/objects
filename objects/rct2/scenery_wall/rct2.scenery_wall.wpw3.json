@@ -1,0 +1,35 @@
+{
+    "id": "rct2.scenery_wall.wpw3",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WPW3    |08815186",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 3,
+        "price": 40,
+        "sceneryGroup": "rct2.scenery_group.scgfence"
+    },
+    "images": ["$RCT2:OBJDATA/WPW3.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wooden Fence",
+            "fr-FR": "Clôture en bois",
+            "de-DE": "Holzzaun",
+            "es-ES": "Valla de madera",
+            "it-IT": "Recinto di legno",
+            "nl-NL": "Houten hek",
+            "sv-SE": "Trästaket",
+            "ko-KR": "나무 울타리",
+            "zh-CN": "木桩栅栏",
+            "zh-TW": "木樁柵欄",
+            "pt-BR": "Cerca de Madeira",
+            "cs-CZ": "Dřevěný plot",
+            "ja-JP": "木製のフェンス",
+            "pl-PL": "Drewniany płot",
+            "ru-RU": "Забор",
+            "eo-OO": "Ligna Barilo"
+        }
+    }
+}

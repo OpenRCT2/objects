@@ -1,0 +1,97 @@
+{
+    "id": "rct2tt.ride.raptorxx",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F720|RAPTORXX|F7E91DF1",
+    "sourceGame": "rct2tt",
+    "objectType": "ride",
+    "properties": {
+        "type": "steeplechase",
+        "category": "rollercoaster",
+        "ratingMultipler": {
+            "excitement": 3
+        },
+        "carColours": [
+            [
+                ["bright_red", "white", "black"]
+            ],
+            [
+                ["bright_green", "white", "black"]
+            ],
+            [
+                ["light_blue", "white", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 209184,
+            "mass": 800,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "frictionSoundId": 2,
+            "soundRange": 0,
+            "drawOrder": 9,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "diagonalSlopes": true
+            },
+            "hasScreamingRiders": true,
+            "loadingPositions": [4, -4]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/RAPTORXX.DAT[0..258]"],
+    "strings": {
+        "name": {
+            "en-GB": "Racing Raptors",
+            "fr-FR": "La course du raptor",
+            "de-DE": "Rasende Raptoren",
+            "es-ES": "Montaña rusa Raptor",
+            "it-IT": "Ottovolante dei rapaci",
+            "nl-NL": "Velociraptors",
+            "sv-SE": "Velociraptor-race",
+            "ko-KR": "랩터 레이서 코스터",
+            "zh-TW": "迅猛龍雲霄飛車",
+            "ja-JP": "ラプタ・レース",
+            "pt-BR": "Montanha-Russa de Corrida de Raptors",
+            "cs-CZ": "Raptorská horská dráha",
+            "pl-PL": "Wyścigi raptorów",
+            "ru-RU": "Раптор Рейсерс",
+            "eo-OO": "Vetkurantaj Raptoroj"
+        },
+        "description": {
+            "en-GB": "Separate raptor-shaped vehicles",
+            "fr-FR": "Les passagers voyagent à l'arrière de véhicules en forme de raptor sur une voie monorail",
+            "de-DE": "Raptorförmige Einzelwagen",
+            "es-ES": "Los usuarios se sientan en vehículos con forma de velocirraptor, en un circuito monorraíl.",
+            "it-IT": "I passeggeri attraversano un tracciato monorotaia su veicoli a forma di rapaci.",
+            "nl-NL": "Passagiers zitten op velociraptorvormige voertuigen die over een enkele rail lopen.",
+            "sv-SE": "Singelvagnar i velociraptor-utformning",
+            "ko-KR": "단선 롤러코스터 트랙을 따라 달리는 랩터 모양의 차량에 탑승하는 놀이기구",
+            "zh-TW": "乘客坐在單軌軌道上的迅猛龍外形的車輛後方",
+            "pt-BR": "Vagões separados em formato de Raptor",
+            "ja-JP": "シングルレールコースをラプタ形の車両が走行する乗物です",
+            "cs-CZ": "Návštěvníci sedí na zádi vozů ve tvaru raptorů, které jedou po jednokolejné dráze",
+            "pl-PL": "Pasażerowie siedzą na grzbietach wagoników w kształcie raptorów, jadących po jednoszynowym torze",
+            "ru-RU": "Люди сидят на машинках-Рапторах и едут по монорельсу",
+            "eo-OO": "Individuaj raptorformaj veturiloj"
+        },
+        "capacity": {
+            "en-GB": "2 riders per vehicle",
+            "fr-FR": "2 passagers par véhicule",
+            "de-DE": "2 Fahrer pro Wagen",
+            "es-ES": "2 pasajeros por vehículo",
+            "it-IT": "2 passeggeri per veicolo",
+            "nl-NL": "2 passagiers per velociraptor",
+            "sv-SE": "2 passagerare per fordon",
+            "ko-KR": "차량당 2명의 승객",
+            "zh-TW": "每輛車限乘2人",
+            "ja-JP": "各車両2名",
+            "pt-BR": "2 visitantes por veículo",
+            "cs-CZ": "2 místa v každém voze",
+            "pl-PL": "2 pasażerów na pojazd",
+            "ru-RU": "2 чел. в машине",
+            "eo-OO": "Po 2 rajdantoj por veturilo"
+        }
+    }
+}

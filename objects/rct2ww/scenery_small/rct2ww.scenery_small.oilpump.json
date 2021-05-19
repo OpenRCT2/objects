@@ -1,0 +1,44 @@
+{
+    "id": "rct2ww.scenery_small.oilpump",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0311|OILPUMP |EA115859",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 40,
+        "removalPrice": -30,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 80,
+        "animationDelay": 2,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/OILPUMP.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Oil Pump",
+            "fr-FR": "Pompe à essence",
+            "de-DE": "Ölpumpe",
+            "es-ES": "Bomba de petróleo",
+            "it-IT": "Pompa di petrolio",
+            "nl-NL": "Oliepomp",
+            "sv-SE": "Oljepump",
+            "zh-CN": "石油帮浦Oil Pump",
+            "cs-CZ": "Ropné čerpadlo",
+            "ko-KR": "오일 펌프",
+            "pl-PL": "Pompa naftowa",
+            "ru-RU": "Насос",
+            "pt-BR": "Bomba de Petróleo",
+            "ja-JP": "オイルポンプ",
+            "eo-OO": "Naftopumpilo"
+        }
+    }
+}

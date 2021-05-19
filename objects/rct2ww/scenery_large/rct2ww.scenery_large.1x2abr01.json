@@ -1,0 +1,48 @@
+{
+    "id": "rct2ww.scenery_large.1x2abr01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0E12|1X2ABR01|363717C0",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 34,
+        "removalPrice": -26,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 8,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 8,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/1X2ABR01.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Aboriginal Plain Tile",
+            "fr-FR": "Tuile aborigène unie",
+            "de-DE": "Aborigine-Kunst - Schlichte Kachel",
+            "es-ES": "Baldosa sencilla aborigen",
+            "it-IT": "Piastrella semplice in stile aborigeno",
+            "nl-NL": "Tegel Aboriginals",
+            "sv-SE": "Urinnevånare, tom platta",
+            "cs-CZ": "Domorodecká obyčejná dlaždice",
+            "ko-KR": "원주민 평면 타일",
+            "pl-PL": "Zwykły segment aborygeński",
+            "ru-RU": "Деталь аборигенов",
+            "pt-BR": "Azulejo Liso Aborígene",
+            "ja-JP": "アボリジニ・タイル",
+            "eo-OO": "Aborigena Senornama Bloko"
+        }
+    }
+}

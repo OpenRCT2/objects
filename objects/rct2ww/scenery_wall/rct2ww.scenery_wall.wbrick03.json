@@ -1,0 +1,32 @@
+{
+    "id": "rct2ww.scenery_wall.wbrick03",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0913|WBRICK03|7304E40B",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WBRICK03.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Red Brick Wall Piece 3",
+            "fr-FR": "Pan de mur de brique rouge 3",
+            "de-DE": "Backsteinmauer-Bauteil 3",
+            "es-ES": "Pieza de pared de ladrillo rojo 3",
+            "it-IT": "Pezzo di muro di mattoni rossi 3",
+            "nl-NL": "Stuk muur van rode baksteen 3",
+            "sv-SE": "Röd tegelväggdel 3",
+            "cs-CZ": "Zeď z červených cihel 3",
+            "ko-KR": "붉은 벽돌 벽 조각 3",
+            "pl-PL": "Czerwona cegła - segment ściany 3",
+            "ru-RU": "Деталь стены",
+            "pt-BR": "Peça de Parede de Tijolo Vermelho 3",
+            "ja-JP": "赤レンガの壁3",
+            "eo-OO": "Ruĝa Brika Muroparto 3"
+        }
+    }
+}

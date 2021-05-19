@@ -1,0 +1,51 @@
+{
+    "id": "rct2tt.scenery_large.ghotrod1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA22|GHOTROD1|28480F80",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 64,
+        "removalPrice": -40,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "hasPrimaryColour": true,
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/GHOTROD1.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Hot Rod Car",
+            "fr-FR": "Bolide",
+            "de-DE": "Hotrod-Auto",
+            "es-ES": "Bólido",
+            "it-IT": "Carrozza del brivido",
+            "nl-NL": "Hot Rod-auto",
+            "sv-SE": "Hot rod",
+            "ko-KR": "개조된 자동차",
+            "zh-TW": "改裝車",
+            "pt-BR": "Carrão",
+            "cs-CZ": "Hot Rod auto",
+            "pl-PL": "Podrasowany wóz",
+            "ru-RU": "Машина",
+            "ja-JP": "ホットロッドカー",
+            "eo-OO": "Hot-Rod Aŭto"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": "rct2tt.scenery_small.futsky15",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|FUTSKY15|CDB477A0",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": 4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "animationDelay": 3,
+        "animationMask": 15,
+        "numFrames": 16,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "2/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "SMALL_SCENERY_FLAG_COG": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/FUTSKY15.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone Skyscraper Docking Bay",
+            "fr-FR": "Voie d'amarrage du gratte-ciel",
+            "de-DE": "Sandstein-Wolkenkratzer Anlegebucht",
+            "es-ES": "Zona de atraque de rascacielos de arenisca",
+            "it-IT": "Baia di attracco del grattacielo in arenaria",
+            "nl-NL": "Zandstenen wolkenkrabber Aanlegbaai",
+            "sv-SE": "Dockningsstation, sandstensskyskrapa",
+            "ko-KR": "사암 마천루 도킹 베이",
+            "zh-TW": "沙岩製摩天大樓停機坪",
+            "pt-BR": "Baia de Doca de Arranha-Céu de Arenito",
+            "cs-CZ": "Pískovcový mrakodrap - dok",
+            "pl-PL": "Wieżowiec z piaskowca - podjazd",
+            "ru-RU": "Деталь небоскрёба",
+            "ja-JP": "砂岩 高層ビル ドッキングベイ",
+            "eo-OO": "Doko de Sabloŝtona Ĉielskrapanto"
+        }
+    }
+}

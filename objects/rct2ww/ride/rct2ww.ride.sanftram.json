@@ -1,0 +1,126 @@
+{
+    "id": "rct2ww.ride.sanftram",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0810|SANFTRAM|C15AC087",
+    "sourceGame": "rct2ww",
+    "objectType": "ride",
+    "properties": {
+        "type": "miniature_railway",
+        "category": "transport",
+        "tabScale": 0.5,
+        "hasShelter": true,
+        "playDepartSound": true,
+        "noCollisionCrashes": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 4,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "carColours": [
+            [
+                ["bright_red", "yellow", "black"]
+            ],
+            [
+                ["yellow", "white", "black"]
+            ],
+            [
+                ["light_blue", "white", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 357356,
+                "mass": 3000,
+                "numSeats": 10,
+                "numSeatRows": 5,
+                "frictionSoundId": 31,
+                "soundRange": 4,
+                "poweredAcceleration": 250,
+                "poweredMaxSpeed": 19,
+                "drawOrder": 10,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true
+                },
+                "hasAdditionalColour1": true,
+                "isPowered": true,
+                "loadingPositions": [12, -12, 12, -12, 12, -12, 13, 11, -13, -11]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "frictionSoundId": 31,
+                "soundRange": 4,
+                "poweredAcceleration": 250,
+                "poweredMaxSpeed": 19,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "hasAdditionalColour1": true,
+                "isPowered": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SANFTRAM.DAT[0..802]"],
+    "strings": {
+        "name": {
+            "en-GB": "San Francisco Trams",
+            "fr-FR": "Tram de San Francisco",
+            "de-DE": "San-Francisco-Straßenbahnen",
+            "es-ES": "Tranvía de San Francisco",
+            "it-IT": "Tram di San Francisco",
+            "nl-NL": "Trams uit San Francisco",
+            "sv-SE": "Spårvagn från San Francisco",
+            "zh-CN": "旧金山有轨电车",
+            "ja-JP": "サンフランシスコ・トラム",
+            "ar-EG": "مترو سان فرنسيسكو",
+            "cs-CZ": "Tramvaj ze San Francisca",
+            "en-US": "San Francisco Trams",
+            "ko-KR": "샌프란시스코 전차",
+            "pl-PL": "Tramwaj z San Francisco",
+            "pt-BR": "Bondes de São Francisco",
+            "ru-RU": "Трамвай Сан-Франц.",
+            "eo-OO": "Tramoj de San Francisco"
+        },
+        "description": {
+            "en-GB": "Replicas of the San Francisco Trams",
+            "fr-FR": "Répliques de trams",
+            "de-DE": "Nachgebaute Straßenbahnen",
+            "es-ES": "Réplica de tranvías",
+            "it-IT": "Replica dei tram di San Francisco",
+            "nl-NL": "Replica’s van oude trams uit San Francisco",
+            "sv-SE": "Kopior på San Franciscos gamla spårvagnar",
+            "zh-CN": "有轨电车复制品",
+            "ja-JP": "サンフランシスコ・トラムのレプリカです",
+            "cs-CZ": "Repliky tramvají",
+            "ko-KR": "전차 모형",
+            "pl-PL": "Replika tramwaju",
+            "pt-BR": "Réplicas dos antigos bondes de São Francisco",
+            "ru-RU": "Трамвайчики",
+            "eo-OO": "Replikaĵoj de la tramoj de San Francisco"
+        },
+        "capacity": {
+            "en-GB": "10 passengers per car",
+            "fr-FR": "10 passagers par voiture",
+            "de-DE": "10 pro Waggon",
+            "es-ES": "10 pasajeros por vagón",
+            "it-IT": "10 passeggeri per carrozza",
+            "nl-NL": "10 passagiers per tram",
+            "sv-SE": "10 passagerare per vagn",
+            "zh-CN": "每辆车限乘10人",
+            "ja-JP": "各車両10名",
+            "cs-CZ": "10 míst v každém voze",
+            "ko-KR": "차량당 10명의 승객",
+            "pl-PL": "10 pasażerów na wagonik",
+            "pt-BR": "10 passageiros por bonde",
+            "ru-RU": "10 пассажиров",
+            "eo-OO": "Po 10 pasaĝeroj por ĉaro"
+        }
+    }
+}

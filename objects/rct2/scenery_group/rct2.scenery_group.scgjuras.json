@@ -1,0 +1,46 @@
+{
+    "id": "rct2.scenery_group.scgjuras",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGJURAS|FEEFC769",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.tbn",
+            "rct2.scenery_small.tbn1",
+            "rct2.scenery_small.tdn4",
+            "rct2.scenery_small.tdn5",
+            "rct2.scenery_large.sdn1",
+            "rct2.scenery_large.sdn2",
+            "rct2.scenery_large.sdn3",
+            "rct2.scenery_wall.wwtw",
+            "rct2.scenery_wall.wmww",
+            "rct2.scenery_wall.wwtwa",
+            "rct2.scenery_wall.wbw",
+            "rct2.footpath_banner.bn6"
+        ],
+        "priority": 25
+    },
+    "images": ["$RCT2:OBJDATA/SCGJURAS.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jurassic Theming",
+            "fr-FR": "Thème Jurassique",
+            "de-DE": "Jurassic-Thema",
+            "es-ES": "Temática jurásica",
+            "it-IT": "Tema giurassico",
+            "nl-NL": "Jurassisch thema",
+            "sv-SE": "Dinosaurietema",
+            "ko-KR": "쥐라기 테마",
+            "zh-CN": "侏罗纪主题区",
+            "zh-TW": "侏羅紀主題區",
+            "pt-BR": "Temática Jurássica",
+            "cs-CZ": "Jurské kulisy",
+            "ja-JP": "ジュラシック風のテーマ",
+            "pl-PL": "Wystrój jurajski",
+            "ru-RU": "Юрский Парк",
+            "eo-OO": "Ĵurasa Temo"
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "id": "rct2ww.ride.skidoo",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0110|SKIDOO  |6C9D01B6",
+    "sourceGame": "rct2ww",
+    "objectType": "ride",
+    "properties": {
+        "type": "flying_saucers",
+        "category": "gentle",
+        "carsPerFlatRide": 12,
+        "carColours": [
+            [
+                ["white", "light_orange", "black"]
+            ],
+            [
+                ["light_purple", "bright_red", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 139456,
+            "mass": 190,
+            "numSeats": 1,
+            "numSeatRows": 1,
+            "poweredAcceleration": 7,
+            "poweredMaxSpeed": 10,
+            "drawOrder": 7,
+            "frames": {
+                "flat": true
+            },
+            "hasAdditionalColour1": true,
+            "isPowered": true,
+            "useBoatHireCollisionDetection": true,
+            "useDodgemCarPlacement": true,
+            "loadingPositions": [0]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/SKIDOO.DAT[0..66]"],
+    "strings": {
+        "name": {
+            "en-GB": "Skidoo Dodgems",
+            "en-US": "Skidoo Bumper Cars",
+            "fr-FR": "Motoneiges tamponneuses",
+            "de-DE": "Schlitterscooter",
+            "es-ES": "Coches de choque esquimales",
+            "it-IT": "Le motoslitte",
+            "nl-NL": "Sneeuwscooters",
+            "sv-SE": "Skidoo-bilar",
+            "zh-CN": "雪橇碰碰车",
+            "ja-JP": "スキードゥー・バンパーカー",
+            "cs-CZ": "Sněžné vozy",
+            "ko-KR": "설상 스쿠터 범퍼카",
+            "pl-PL": "Ślizgowe unikajki",
+            "ru-RU": "Скидо-машинки",
+            "pt-BR": "Carro Esquimó",
+            "eo-OO": "Motorsledoformaj Doĝemoj"
+        },
+        "description": {
+            "en-GB": "Guests slide around in skidoo-shaped vehicles that they freely control",
+            "fr-FR": "Auto-tamponneuses électriques programmées",
+            "de-DE": "Die Fahrgäste schlittern in selbstgesteuerten schlittenförmigen Fahrzeugen umher",
+            "es-ES": "Coches de choque eléctricos de conducción propia",
+            "it-IT": "Usa veicoli elettrici tipo autoscontro",
+            "nl-NL": "Elektrische sneeuwscooters die de passagiers zelf besturen",
+            "sv-SE": "Gäster halkar omkring på snöskotrar som de styr själva",
+            "zh-CN": "自助式电动碰碰车",
+            "ja-JP": "スキードゥーの形をしたバンパーカーです",
+            "cs-CZ": "Autodrom s vozy ve tvaru sněžných vozů",
+            "ko-KR": "스스로 운전하는 전기 범퍼카 차량",
+            "pl-PL": "Samochodziki z napędem elektrycznym",
+            "ru-RU": "Электрические машинки",
+            "pt-BR": "Passageiros deslizam por aí em motos de neve pilotáveis",
+            "eo-OO": "Gastoj glitas en motorsledoformaj veturiloj, kiujn ili stiras libere"
+        },
+        "capacity": {
+            "en-GB": "1 person per car",
+            "fr-FR": "1 personne par voiture",
+            "de-DE": "1 Fahrgast pro Wagen",
+            "es-ES": "1 persona por coche",
+            "it-IT": "1 persona per veicolo",
+            "nl-NL": "1 passagier per karretje",
+            "sv-SE": "1 passagerare per bil",
+            "zh-CN": "每辆车限乘1人",
+            "ja-JP": "各1名",
+            "cs-CZ": "1 místo v každém voze",
+            "ko-KR": "차량당 1명의 승객",
+            "pl-PL": "1 osoba na samochód",
+            "ru-RU": "1 человек",
+            "pt-BR": "1 pessoa por carro",
+            "eo-OO": "Po 1 ulo por ĉaro"
+        }
+    }
+}

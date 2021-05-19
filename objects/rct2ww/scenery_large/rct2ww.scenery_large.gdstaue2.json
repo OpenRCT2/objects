@@ -1,0 +1,63 @@
+{
+    "id": "rct2ww.scenery_large.gdstaue2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31D12|GDSTAUE2|6F780431",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 78,
+        "removalPrice": -70,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 178,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 178,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 178,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 178,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/GDSTAUE2.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Gold Statue 2",
+            "fr-FR": "Statue d'or 2",
+            "de-DE": "Goldene Statue 2",
+            "es-ES": "Estatua de oro 2",
+            "it-IT": "Statua d'oro 2",
+            "nl-NL": "Gouden standbeeld 2",
+            "sv-SE": "Guldstaty 2",
+            "cs-CZ": "Zlatá socha 2",
+            "ko-KR": "황금 조각상 2",
+            "pl-PL": "Złoty posąg 2",
+            "ru-RU": "Статуэтка 2",
+            "pt-BR": "Estátua Dourada 2",
+            "ja-JP": "黄金の像 2",
+            "eo-OO": "Ora Statuo 2"
+        }
+    }
+}

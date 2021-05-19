@@ -1,0 +1,37 @@
+{
+    "id": "rct2.scenery_small.teepee1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TEEPEE1 |49944D45",
+    "sourceGame": "rct2",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -13,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 64,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TEEPEE1.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tepee",
+            "fr-FR": "Tipi",
+            "de-DE": "Tipi",
+            "es-ES": "Tienda india",
+            "nl-NL": "Tipi",
+            "sv-SE": "Indiantält",
+            "ko-KR": "원뿔형 천막",
+            "zh-CN": "圆锥帐篷",
+            "zh-TW": "圓錐帳篷",
+            "pt-BR": "Tenda de Índio",
+            "cs-CZ": "Týpí",
+            "ja-JP": "テント小屋",
+            "pl-PL": "Tipi",
+            "ru-RU": "Вигвам",
+            "eo-OO": "Tipio"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": "rct2tt.scenery_small.laserx02",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB21|LASERX02|6C484BC8",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 12,
+        "removalPrice": -8,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "animationDelay": 3,
+        "animationMask": 15,
+        "numFrames": 16,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "SMALL_SCENERY_FLAG_COG": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/LASERX02.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Laser Fence Corner",
+            "fr-FR": "Virage de la barrière de laser",
+            "de-DE": "Laserzaun-Ecke",
+            "es-ES": "Esquina de valla láser",
+            "it-IT": "Curva della recinzione laser",
+            "nl-NL": "Bocht Laseromheining",
+            "sv-SE": "Hörn, laserstaket",
+            "ko-KR": "레이저 울타리 구석",
+            "zh-TW": "雷射柵欄牆角",
+            "pt-BR": "Canto de Cerca a Laser",
+            "cs-CZ": "Laserový plot - roh",
+            "pl-PL": "Narożnik ogrodzenia laserowego",
+            "ru-RU": "Лазерный забор",
+            "ja-JP": "レーザーフェンス（コーナー）",
+            "eo-OO": "Angulo de Lasera Barilo"
+        }
+    }
+}

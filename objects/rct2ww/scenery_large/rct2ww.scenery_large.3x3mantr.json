@@ -1,0 +1,90 @@
+{
+    "id": "rct2ww.scenery_large.3x3mantr",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31D12|3X3MANTR|6F932F9B",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 48,
+        "removalPrice": 36,
+        "cursor": "CURSOR_TREE_DOWN",
+        "sceneryGroup": "rct2.scenery_group.scgtrees",
+        "isTree": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 110,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 110,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 110,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 110,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 110,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 110,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 110,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 110,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 110,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/3X3MANTR.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Mangrove Tree",
+            "fr-FR": "Arbre forêt équatoriale 1 3",
+            "de-DE": "Mangrovenbaum",
+            "es-ES": "Árbol tropical 3",
+            "it-IT": "Albero di foresta pluviale 3",
+            "nl-NL": "Mangroveboom",
+            "sv-SE": "Mangroveträd",
+            "cs-CZ": "Mangrove",
+            "ko-KR": "맹그로브 나무",
+            "pl-PL": "Mangrowiec",
+            "ru-RU": "Дерево манго",
+            "pt-BR": "Árvore Manguezal",
+            "ja-JP": "マングローブの木",
+            "eo-OO": "Mangloarbo"
+        }
+    }
+}

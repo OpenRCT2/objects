@@ -1,0 +1,35 @@
+{
+    "id": "rct2.scenery_wall.wallpr32",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WALLPR32|0202049B",
+    "sourceGame": "rct2",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isOpaque": true,
+        "height": 4,
+        "price": 120,
+        "sceneryGroup": "rct2.scenery_group.scgfence"
+    },
+    "images": ["$RCT2:OBJDATA/WALLPR32.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Rigging",
+            "fr-FR": "Gréement",
+            "de-DE": "Gut",
+            "es-ES": "Cordaje",
+            "it-IT": "Attrezzatura",
+            "nl-NL": "Touwwerk",
+            "sv-SE": "Riggning",
+            "ko-KR": "지붕",
+            "zh-CN": "索具",
+            "zh-TW": "索具",
+            "pt-BR": "Cordame",
+            "cs-CZ": "Lanoví",
+            "ja-JP": "索具",
+            "pl-PL": "Olinowanie",
+            "ru-RU": "Снасти",
+            "eo-OO": "Rigo"
+        }
+    }
+}

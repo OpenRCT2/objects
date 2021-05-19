@@ -1,0 +1,38 @@
+{
+    "id": "rct2.scenery_small.ttg",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F81|TTG     |798F1CAE",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 9,
+        "removalPrice": -7,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 24,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TTG.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Target",
+            "fr-FR": "Cible",
+            "de-DE": "Zielscheibe",
+            "es-ES": "Objetivo",
+            "it-IT": "Obiettivo",
+            "nl-NL": "Schietschijf",
+            "sv-SE": "Mål",
+            "ko-KR": "과녁",
+            "zh-CN": "目标",
+            "zh-TW": "目標",
+            "pt-BR": "Alvo",
+            "cs-CZ": "Cíl",
+            "ja-JP": "ターゲット",
+            "pl-PL": "Tarcza",
+            "ru-RU": "Мишень",
+            "eo-OO": "Celaĵo"
+        }
+    }
+}

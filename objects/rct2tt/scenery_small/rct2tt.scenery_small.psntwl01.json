@@ -1,0 +1,47 @@
+{
+    "id": "rct2tt.scenery_small.psntwl01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F821|PSNTWL01|1C336140",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 24,
+        "removalPrice": -18,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 96,
+        "animationDelay": 2,
+        "animationMask": 15,
+        "numFrames": 16,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/PSNTWL01.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Dark Age Village Roof with Chimney",
+            "fr-FR": "Toit avec cheminée du village médiéval",
+            "de-DE": "Mittelalterdorf - Dach mit Kamin",
+            "es-ES": "Tejado con chimenea de pueblo medieval",
+            "it-IT": "Tetto con camino del villaggio dell'Età Oscura",
+            "nl-NL": "Dak met schoorsteen middeleeuws dorp",
+            "sv-SE": "Tak med skorsten, medeltida by",
+            "ko-KR": "굴뚝이 있는 암흑 시대 마을 지붕",
+            "zh-TW": "黑暗時代村莊屋頂(含煙囪)",
+            "pt-BR": "Telhado com Chaminé de Vila da Idade Média",
+            "cs-CZ": "Starodávná vesnice - střecha s komínem",
+            "pl-PL": "Miasteczko średniowieczne - dach z kominem",
+            "ru-RU": "Средневековая крыша с трубой",
+            "ja-JP": "暗黒時代の村の屋根（煙突付き）",
+            "eo-OO": "Tegmento de Vilaĝo de Malluma Epoko kun Fumtubo"
+        }
+    }
+}

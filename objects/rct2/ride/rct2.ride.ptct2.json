@@ -1,0 +1,117 @@
+{
+    "id": "rct2.ride.ptct2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.1",
+    "originalId": "0A188B80|PTCT2   |064CCE3B",
+    "sourceGame": "rct2",
+    "objectType": "ride",
+    "properties": {
+        "type": "wooden_rc",
+        "category": "rollercoaster",
+        "minCarsPerTrain": 2,
+        "maxCarsPerTrain": 6,
+        "carColours": [
+            [
+                ["bright_red", "bright_red", "saturated_brown"]
+            ],
+            [
+                ["white", "dark_green", "black"]
+            ],
+            [
+                ["black", "bordeaux_red", "bordeaux_red"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 287628,
+            "mass": 800,
+            "numSeats": 6,
+            "numSeatRows": 3,
+            "frictionSoundId": 54,
+            "soundRange": 1,
+            "effectVisual": 10,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "verticalSlopes": true,
+                "diagonalSlopes": true,
+                "flatBanked": true,
+                "flatToGentleSlopeBankedTransitions": true,
+                "diagonalGentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTurns": true,
+                "flatToGentleSlopeWhileBankedTransitions": true,
+                "restraintAnimation": true
+            },
+            "hasAdditionalColour2": true,
+            "hasAdditionalColour1": true,
+            "hasScreamingRiders": true,
+            "loadingPositions": [15, 13, 1, -1, -13, -15]
+        },
+        "buildMenuPriority": 2
+    },
+    "images": [
+        "$RCT2:OBJDATA/PTCT2.DAT[1]",
+        "",
+        "",
+        "$RCT2:OBJDATA/PTCT2.DAT[3..2882]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Wooden Roller Coaster Trains (6 seater)",
+            "fr-FR": "Trains montagnes en bois (6 places)",
+            "de-DE": "Holzachterbahnzüge (6-Sitzer)",
+            "es-ES": "Montaña Rusa Madera (6 asi.)",
+            "it-IT": "Ottovolante di legno",
+            "nl-NL": "Houten achtbaantrein (zespersoons)",
+            "sv-SE": "Vagnar till träberg- och dalbana (6-sitsiga)",
+            "ko-KR": "우든 롤러코스터 차량 (6인승)",
+            "zh-CN": "木制式过山车列车(6 个座位)",
+            "zh-TW": "木製式雲霄飛車列車(6 個座位)",
+            "pt-BR": "Trens de Montanha-russa de Madeira (6 assentos)",
+            "cs-CZ": "Dřevěná horská dráha (6 sedadel)",
+            "ja-JP": "木のコースター・トレーン (6人乗り)",
+            "pl-PL": "Drewniana kolejka górska (6 miejsc)",
+            "ru-RU": "Деревянные поезда (6 мест)",
+            "eo-OO": "Trajnoj de Ligna Onda Fervojo (6 seĝoj)"
+        },
+        "description": {
+            "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints",
+            "fr-FR": "Train pour montagnes russes en bois avec des sièges rembourrés et des barres de protection au niveau des jambes",
+            "de-DE": "Holzachterbahnzüge mit gepolsterten Sitzen und Beckenhalterungen",
+            "es-ES": "Montaña rusa de madera con asientos acolchados y barras de sujección",
+            "it-IT": "Treni di legno da ottovolante con sedili imbottiti e barre al petto per protezione",
+            "nl-NL": "Houten achtbaantrein met gevoerde zittingen en schootbeugels.",
+            "sv-SE": "Vagnar till träberg- och dalbana, med stoppade säten och enkla byglar",
+            "ko-KR": "푹신한 좌석과 무릎 안전바가 있는 나무 롤러코스터 차량",
+            "zh-CN": "木制式过山车是有安全装置护具的列车",
+            "zh-TW": "木製式雲霄飛車是有安全裝置護具的列車",
+            "pt-BR": "Trens de montanha-russa de madeira com assentos acolchoados e proteções de colo",
+            "cs-CZ": "Dřevěná horská dráha s vozy s polstrovanými sedadly a opěrkou v klína",
+            "ja-JP": "膝の安全バーが付いた、パッド入りの座席を持つ木製のコースターです",
+            "pl-PL": "Drewniana kolejka górska z wyściełanymi siedzeniami i zabezpieczeniami obejmującymi pasażerów w pasie",
+            "ru-RU": "Деревянные поезда для Горок с ремнями на колени",
+            "eo-OO": "Trajnoj de ligna onda fervojo kun komfortaj seĝoj kaj sinobridoj"
+        },
+        "capacity": {
+            "en-GB": "6 passengers per car",
+            "fr-FR": "6 passagers par voiture",
+            "de-DE": "6 Fahrgäste pro Wagen",
+            "es-ES": "6 pasajeros por vagón",
+            "it-IT": "6 passeggeri a carrozza",
+            "nl-NL": "6 passagiers per karretje",
+            "sv-SE": "6 passagerare per vagn",
+            "ko-KR": "차량당 6명의 승객",
+            "zh-CN": "6 位乘客/每个车厢",
+            "zh-TW": "6 位乘客/每個車廂",
+            "pt-BR": "6 passageiros por carro",
+            "cs-CZ": "6 míst v každém voze",
+            "ja-JP": "各車両6名",
+            "pl-PL": "6 pasażerów na wagonik",
+            "ru-RU": "6 пассажиров",
+            "eo-OO": "Po 6 pasaĝeroj por ĉaro"
+        }
+    }
+}

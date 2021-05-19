@@ -1,0 +1,60 @@
+{
+    "id": "rct2tt.scenery_large.footprnt",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F722|FOOTPRNT|EABC33FF",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 82,
+        "removalPrice": -77,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 24,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 24,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 24,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 24,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/FOOTPRNT.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Giant Dinosaur Footprint",
+            "fr-FR": "Empreinte de pas géante de dinosaure",
+            "de-DE": "Gigantischer Dinosaurier-Fußabdruck",
+            "es-ES": "Huella gigante de dinosaurio",
+            "it-IT": "Enorme impronta di dinosauro",
+            "nl-NL": "Enorme pootafdruk Dinosaurus",
+            "sv-SE": "Enormt dinosauriefotavtryck",
+            "ko-KR": "대형 공룡 발자국",
+            "zh-TW": "大恐龍的腳印",
+            "pt-BR": "Pegada Gigante de Dinossauro",
+            "cs-CZ": "Stopa velkého dinosaura",
+            "pl-PL": "Ślad olbrzymiego dinozaura",
+            "ru-RU": "След динозавра",
+            "ja-JP": "巨大な恐竜の足跡",
+            "eo-OO": "Giganta Piedsigno de Dinosaŭro"
+        }
+    }
+}

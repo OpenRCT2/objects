@@ -1,0 +1,36 @@
+{
+    "id": "rct2.scenery_wall.wallcbwn",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F83|WALLCBWN|1026EE04",
+    "sourceGame": "rct2",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasSecondaryColour": true,
+        "hasTernaryColour": true,
+        "doorSound": 2,
+        "height": 4,
+        "price": 100
+    },
+    "images": ["$RCT2:OBJDATA/WALLCBWN.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Window",
+            "fr-FR": "Fenêtre",
+            "de-DE": "Fenster",
+            "es-ES": "Ventana",
+            "it-IT": "Finestra",
+            "nl-NL": "Raam",
+            "sv-SE": "Fönster",
+            "ko-KR": "창문",
+            "zh-CN": "窗户",
+            "zh-TW": "窗戶",
+            "pt-BR": "Janela",
+            "cs-CZ": "Okno",
+            "ja-JP": "窓",
+            "pl-PL": "Okno",
+            "ru-RU": "Окно",
+            "eo-OO": "Fenestro"
+        }
+    }
+}

@@ -1,0 +1,452 @@
+{
+    "id": "rct2ww.ride.italypor",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0810|ITALYPOR|9AD8D1E5",
+    "sourceGame": "rct2ww",
+    "objectType": "ride",
+    "properties": {
+        "type": "twist",
+        "category": "thrill",
+        "rotationMode": 1,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["moss_green", "yellow", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "mass": 200,
+            "tabOffset": -12,
+            "numSeats": 18,
+            "spriteWidth": 64,
+            "spriteHeightNegative": 88,
+            "spriteHeightPositive": 32,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "recalculateSpriteBounds": true,
+            "hasAdditionalColour1": true,
+            "numSegments": 4,
+            "loadingWaypoints": [
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [3, -42],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [-43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [0, -42]
+                ],
+                [
+                    [43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [3, -42],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [-43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [0, -42]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-42, 0]
+                ],
+                [
+                    [-43, -43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-42, -3],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-43, 43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-42, 0]
+                ],
+                [
+                    [-43, -43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-42, -3],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-43, 43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [3, -42],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [-43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [0, -42]
+                ],
+                [
+                    [43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [3, -42],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [-43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [0, -42]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-42, 0]
+                ],
+                [
+                    [-43, -43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-42, -3],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-43, 43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-42, 0]
+                ],
+                [
+                    [-43, -43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-42, -3],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-43, 43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [-43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, 43],
+                    [43, 43],
+                    [33, 33]
+                ],
+                [
+                    [43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [3, -42],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [-43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [0, -42]
+                ],
+                [
+                    [43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [3, -42],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [-43, -43],
+                    [3, -42],
+                    [0, -42]
+                ],
+                [
+                    [43, 43],
+                    [43, -43],
+                    [0, -42]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-42, 0]
+                ],
+                [
+                    [-43, -43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-42, -3],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-43, 43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [43, -43],
+                    [-43, -43],
+                    [-42, 0]
+                ],
+                [
+                    [-43, -43],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-42, -3],
+                    [-42, -3],
+                    [-42, 0]
+                ],
+                [
+                    [-43, 43],
+                    [-42, -3],
+                    [-42, 0]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/ITALYPOR.DAT[0..242]"],
+    "strings": {
+        "name": {
+            "en-GB": "Italian Police Ride",
+            "fr-FR": "Police italienne",
+            "de-DE": "Italienische Polizeibahn",
+            "es-ES": "Atracción Policía Italiana",
+            "it-IT": "La polizia italiana",
+            "nl-NL": "Carabinieri-twist",
+            "sv-SE": "Italiensk polisbil",
+            "zh-CN": "意大利警局设施",
+            "ja-JP": "イタリアの警察ツイスター",
+            "cs-CZ": "Italská policejní jízda",
+            "ko-KR": "이탈리안 폴리스 라이드",
+            "pl-PL": "Karuzela karabinierów",
+            "ru-RU": "Полицейский",
+            "pt-BR": "Polícia Italiana",
+            "eo-OO": "Itala Polico-Atrakcio"
+        },
+        "description": {
+            "en-GB": "Riders ride in pairs in Italian police car replicas and rotate in circles",
+            "fr-FR": "Les passagers sont assis par deux et tournent autour de l'extrémité de trois longs bras rotatifs",
+            "de-DE": "Die Fahrgäste fahren paarweise in nachgebauten italienischen Polizeiautos im Kreis",
+            "es-ES": "Los pasajeros viajan en parejas de asientos que rotan alrededor de los extremos de tres largos brazos giratorios",
+            "it-IT": "I passeggeri trovano posto, a coppie, su seggiolini che ruotano all'estremità di tre lunghi bracci rotanti",
+            "nl-NL": "Passagiers zitten per twee in stoelen die ronddraaien aan de uiteinden van drie lange draaiarmen.",
+            "sv-SE": "Passagerarna åker parvis i vagnar som liknar italienska polisbilar och som roterar i cirklar",
+            "zh-CN": "乘客搭乘以末端三支长型旋转臂旋转的成对座位设施",
+            "ja-JP": "乗客がイタリアパトカーのペアシートに座り、円形に回転する乗物です",
+            "cs-CZ": "Návštěvníci sedí po dvou na sedačkách, které se otáčejí okolo italských policistů",
+            "ko-KR": "탑승객이 세 개의 긴 회전 팔 구조 끝에 있는 좌석에 짝지어 앉아 빙글빙글 도는 놀이기구",
+            "pl-PL": "Pasażerowie jadą w parach siedzisk wirujących na końcach trzech obracających się ramion",
+            "ru-RU": "Итальянский полицейский",
+            "pt-BR": "Os passageiros sentam-se aos pares e giram em torno das extremidades de três longos braços rotativos",
+            "eo-OO": "Rajdantoj rajdas pare en replikaĵoj de italaj policaj aŭtoj, kaj turniĝas cirkle"
+        },
+        "capacity": {
+            "en-GB": "18 passengers",
+            "fr-FR": "18 passagers",
+            "de-DE": "18 Fahrgäste",
+            "es-ES": "18 pasajeros",
+            "it-IT": "18 passeggeri",
+            "nl-NL": "18 passagiers",
+            "sv-SE": "18 passagerare",
+            "zh-CN": "限乘18人",
+            "ja-JP": "定員18名",
+            "cs-CZ": "18 návštěvníků",
+            "ko-KR": "승객 18명",
+            "pl-PL": "18 pasażerów",
+            "ru-RU": "18 пассажиров",
+            "pt-BR": "18 passageiros",
+            "eo-OO": "18 pasaĝeroj"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "rct2.scenery_small.tnss",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TNSS    |1383A8B8",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 132,
+        "sceneryGroup": "rct2.scenery_group.scgtrees",
+        "isTree": true,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TNSS.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Snow-covered Norway Spruce Tree",
+            "fr-FR": "Epicéa blanc de Norvège",
+            "de-DE": "Schneebedeckte norwegische Fichte",
+            "es-ES": "Abeto de Noruega nevado",
+            "it-IT": "Abete norvegese innevato",
+            "nl-NL": "Met sneeuw bedekte Noorse spar",
+            "sv-SE": "Snötäckt norsk gran",
+            "ko-KR": "눈 덮인 노르웨이 가문비나무",
+            "zh-CN": "被雪覆盖的挪威杉木",
+            "zh-TW": "被雪覆?的挪威杉木",
+            "pt-BR": "Abeto-Norueguês Coberto de Neve",
+            "cs-CZ": "Zasněžený smrk ztepilý",
+            "ja-JP": "雪をかぶったドイツトウヒ",
+            "pl-PL": "Ośnieżony świerk norweski",
+            "ru-RU": "Снежная норвежская ель",
+            "eo-OO": "Neĝkovrita Abipiceoarbo"
+        }
+    }
+}

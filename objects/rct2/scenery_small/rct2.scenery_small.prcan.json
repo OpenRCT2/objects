@@ -1,0 +1,38 @@
+{
+    "id": "rct2.scenery_small.prcan",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|PRCAN   |042B060A",
+    "sourceGame": "rct2",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 9,
+        "removalPrice": -6,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 16,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/PRCAN.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cannon",
+            "fr-FR": "Canon",
+            "de-DE": "Kanone",
+            "es-ES": "Cañón",
+            "it-IT": "Cannone",
+            "nl-NL": "Kanon",
+            "sv-SE": "Kanon",
+            "ko-KR": "대포",
+            "zh-CN": "大炮",
+            "zh-TW": "大砲",
+            "pt-BR": "Canhão",
+            "cs-CZ": "Kanón",
+            "ja-JP": "大砲",
+            "pl-PL": "Armata",
+            "ru-RU": "Пушка",
+            "eo-OO": "Kanono"
+        }
+    }
+}

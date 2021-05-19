@@ -1,0 +1,175 @@
+{
+    "id": "rct2tt.ride.spokprsn",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F920|SPOKPRSN|91DCE322",
+    "sourceGame": "rct2tt",
+    "objectType": "ride",
+    "properties": {
+        "type": "crooked_house",
+        "category": "gentle",
+        "tabScale": 0.5,
+        "hasShelter": true,
+        "carsPerFlatRide": 1,
+        "ratingMultipler": {
+            "excitement": 75
+        },
+        "carColours": [
+            [
+                ["moss_green", "yellow", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "mass": 3000,
+            "numSeats": 16,
+            "seatsInPairs": false,
+            "spriteWidth": 55,
+            "spriteHeightNegative": 150,
+            "spriteHeightPositive": 28,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "recalculateSpriteBounds": true,
+            "numSegments": 0,
+            "loadingWaypoints": [
+                [
+                    [40, 40],
+                    [-40, 40],
+                    [-36, 0]
+                ],
+                [
+                    [-40, -40],
+                    [-36, 0],
+                    [-36, 0]
+                ],
+                [
+                    [-36, 0],
+                    [-36, 0],
+                    [-36, 0]
+                ],
+                [
+                    [-40, 40],
+                    [-36, 0],
+                    [-36, 0]
+                ],
+                [
+                    [40, 40],
+                    [0, 36],
+                    [0, 36]
+                ],
+                [
+                    [40, -40],
+                    [40, 40],
+                    [0, 36]
+                ],
+                [
+                    [-40, 40],
+                    [0, 36],
+                    [0, 36]
+                ],
+                [
+                    [0, 36],
+                    [0, 36],
+                    [0, 36]
+                ],
+                [
+                    [36, 0],
+                    [36, 0],
+                    [36, 0]
+                ],
+                [
+                    [40, -40],
+                    [36, 0],
+                    [36, 0]
+                ],
+                [
+                    [-40, -40],
+                    [40, -40],
+                    [36, 0]
+                ],
+                [
+                    [40, 40],
+                    [36, 0],
+                    [36, 0]
+                ],
+                [
+                    [40, -40],
+                    [0, -36],
+                    [0, -36]
+                ],
+                [
+                    [0, -36],
+                    [0, -36],
+                    [0, -36]
+                ],
+                [
+                    [-40, -40],
+                    [0, -36],
+                    [0, -36]
+                ],
+                [
+                    [-40, 40],
+                    [-40, -40],
+                    [0, -36]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/SPOKPRSN.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Haunted Jail House",
+            "fr-FR": "Prison hantée",
+            "de-DE": "Spukgefängnis",
+            "es-ES": "Cárcel hechizada",
+            "it-IT": "Carcere dei ricercati",
+            "nl-NL": "Spookgevangenis",
+            "sv-SE": "Spökfängelse",
+            "ko-KR": "유령의 감옥",
+            "zh-TW": "監獄鬼屋",
+            "ja-JP": "お化け屋敷",
+            "pt-BR": "Cadeia Assombrada",
+            "cs-CZ": "Strašidelná věznice",
+            "pl-PL": "Nawiedzone kazamaty",
+            "ru-RU": "Тюрьма",
+            "eo-OO": "Fantomita Prizono"
+        },
+        "description": {
+            "en-GB": "Building containing dungeons and mannequins of incarcerated figures, to scare people walking through it",
+            "fr-FR": "Bâtiment contenant des cachots et des mannequins de prisonniers célèbres visant à effrayer les visiteurs",
+            "de-DE": "Haus mit eingekerkerten Figuren, die die Besucher erschrecken sollen",
+            "es-ES": "El edificio contiene mazmorras y maniquíes de personas encarceladas, para atemorizar a los que pasen por allí.",
+            "it-IT": "Edificio composto da prigioni e manichini raffiguranti individui carcerati, ricostruito al fine di impaurire i visitatori che l'attraversano.",
+            "nl-NL": "Gebouw met kerkers en poppen van opgesloten mensen, om de bezoekers die er doorheen lopen angst aan te jagen.",
+            "sv-SE": "Byggnad med fängelsehålor och vaxdockor av inspärrade fångar avsedda att skrämma besökare",
+            "ko-KR": "지나가는 사람들을 겁주기 위해 지하 감옥에 감금된 마네킹 인형이 있는 건물",
+            "zh-TW": "建築物內有地牢和犯人的人體模型,驚嚇走進鬼屋的人",
+            "ja-JP": "不気味な地下牢や投獄された者たちのマネキンがいるお化け屋敷です",
+            "pt-BR": "Prédio contendo calabouços e manequins de pessoas encarceradas, para assustar os visitantes",
+            "cs-CZ": "Budova s podzemím a figurínami vězňů straší procházející návštěvníky",
+            "pl-PL": "Budynek z lochami i manekinami przedstawiającymi więţniów, które mają straszyć odwiedzających",
+            "ru-RU": "Здание с опасными преступниками, которые пугают добропорядочных прохожих.",
+            "eo-OO": "Konstruaĵo, kiu enhavas malliberejojn kaj manekenojn de enprizonigitaj uloj, por timigi homojn irante tra tie"
+        },
+        "capacity": {
+            "en-GB": "16 guests",
+            "fr-FR": "16 visiteurs",
+            "de-DE": "16 Gäste",
+            "es-ES": "16 usuarios",
+            "it-IT": "16 visitatori",
+            "nl-NL": "16 bezoekers",
+            "sv-SE": "16 besökare",
+            "ko-KR": "손님 16명",
+            "zh-TW": "限16人",
+            "ja-JP": "定員16名",
+            "pt-BR": "16 Visitantes",
+            "cs-CZ": "16 návštěvníků",
+            "pl-PL": "16 gości",
+            "ru-RU": "16 чел.",
+            "eo-OO": "16 gastoj"
+        }
+    }
+}

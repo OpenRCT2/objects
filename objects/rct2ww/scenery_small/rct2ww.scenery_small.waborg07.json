@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.waborg07",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0E11|WABORG07|058F3E2A",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasSecondaryColour": true
+    },
+    "images": ["$RCT2:OBJDATA/WABORG07.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Aboriginal Art Set Piece",
+            "fr-FR": "Oeuvre d'art aborigène",
+            "de-DE": "Aborigine-Kunst - Bauteil",
+            "es-ES": "Pieza de conjunto de arte aborigen",
+            "it-IT": "Opera d'arte aborigena",
+            "nl-NL": "Stuk Aboriginalkunst",
+            "sv-SE": "Del av urinnevånares konstverk",
+            "cs-CZ": "Umění domorodců",
+            "ko-KR": "호주 원주민 토착 예술 세트 조각",
+            "pl-PL": "Element dekoracji aborygeńskiej",
+            "ru-RU": "Местный сувенир",
+            "pt-BR": "Peça de Conjunto de Arte Aborígene",
+            "ja-JP": "アボリジニアート・セット",
+            "eo-OO": "Aborigena Artparto"
+        }
+    }
+}

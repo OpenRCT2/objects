@@ -1,0 +1,163 @@
+{
+    "id": "rct2.ride.togst",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|TOGST   |48100195",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": "stand_up_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 2,
+        "maxCarsPerTrain": 9,
+        "numEmptyCars": 1,
+        "defaultCar": 1,
+        "headCars": 0,
+        "tailCars": 2,
+        "carColours": [
+            [
+                ["yellow", "bright_red", "black"]
+            ],
+            [
+                ["bright_red", "white", "black"]
+            ],
+            [
+                ["light_blue", "yellow", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 200468,
+                "mass": 730,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 7,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [6, 8, -4, -2]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 174320,
+                "mass": 730,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 7,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [6, 8, -4, -2]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 52296,
+                "mass": 50,
+                "frictionSoundId": 2,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true
+                }
+            }
+        ],
+        "buildMenuPriority": 1
+    },
+    "images": ["$RCT2:OBJDATA/TOGST.DAT[0..4470]"],
+    "strings": {
+        "name": {
+            "en-GB": "Stand-up Roller Coaster Trains",
+            "fr-FR": "Montagnes russes debout",
+            "de-DE": "Stehachterbahnzüge",
+            "es-ES": "Montaña Rusa En Pie",
+            "it-IT": "Corsa in posiz. eretta",
+            "nl-NL": "Staande achtbaantrein",
+            "sv-SE": "Stå-upp-berg- och dalbanevagnar",
+            "ko-KR": "스탠드 업 롤러코스터 차량",
+            "zh-CN": "站立式过山车",
+            "zh-TW": "站立式雲霄飛車",
+            "pt-BR": "Trens Montanha-Russa em Pé",
+            "ar-EG": "Stand-up Roller Coaster Trains",
+            "cs-CZ": "Horská dráha \"na stojáka\"",
+            "en-US": "Stand-up Roller Coaster Trains",
+            "ja-JP": "立ち乗りローラーコースター",
+            "pl-PL": "Stojąca kolejka",
+            "ru-RU": "Стоячие горки",
+            "eo-OO": "Stariĝantaj Trajnoj de Onda Fervojo"
+        },
+        "description": {
+            "en-GB": "Roller coaster trains in which the riders ride in a standing position",
+            "fr-FR": "Grand huit que les passagers parcourent debout",
+            "de-DE": "Achterbahnzüge, bei der sich die Fahrgäste in einer stehenden Position befinden",
+            "es-ES": "Una montaña rusa en el que los pasajeros permanecen de pie",
+            "it-IT": "Un ottovolante con giro della morte in cui i passeggeri stanno in posizione eretta",
+            "nl-NL": "Een achtbaan met loopings waar de passagiers in de karretjes staan.",
+            "sv-SE": "Berg- och dalbanevagnar där passagerarna åker stående",
+            "ko-KR": "손님이 일어선 자세로 탑승하는 루핑 롤러코스터",
+            "zh-CN": "一座循环式过山车让乘客以站立姿势搭乘",
+            "zh-TW": "一座循環式雲霄飛車讓乘客以站立姿勢搭乘",
+            "pt-BR": "Uma montanha-russa com loops, na qual os passageiros andam em pé",
+            "cs-CZ": "Návštěvníci jedou po horské dráze ve stoje",
+            "ja-JP": "立ち乗りの、ループローラーコースターです",
+            "pl-PL": "Zapętlona kolejka, w której pasażerowie jadą w pozycji stojącej",
+            "ru-RU": "Кольцевые горки, где люди катаются стоя.",
+            "eo-OO": "Trajnoj de onda fervojo, en kiuj la rajdantoj rajdas en staranta pozicio"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량당 4명의 승객",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира",
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

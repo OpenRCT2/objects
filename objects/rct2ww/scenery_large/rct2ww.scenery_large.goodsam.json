@@ -1,0 +1,99 @@
+{
+    "id": "rct2ww.scenery_large.goodsam",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0012|GOODSAM |B4D3C91B",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 86,
+        "removalPrice": -78,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/GOODSAM.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Good Samurai",
+            "fr-FR": "Samouraï du Bien",
+            "de-DE": "Guter Samurai",
+            "es-ES": "Samurai bueno",
+            "it-IT": "Samurai buono",
+            "nl-NL": "Goede Samoerai",
+            "sv-SE": "Fredlig samuraj",
+            "zh-CN": "光明武士",
+            "cs-CZ": "Hodný samuraj",
+            "ko-KR": "좋은 사무라이",
+            "pl-PL": "Dobry samuraj",
+            "ru-RU": "Самурай",
+            "pt-BR": "Samurai Bondoso",
+            "ja-JP": "善良な侍",
+            "eo-OO": "Bona Samurajo"
+        }
+    }
+}

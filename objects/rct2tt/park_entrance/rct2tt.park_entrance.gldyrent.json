@@ -1,0 +1,32 @@
+{
+    "id": "rct2tt.park_entrance.gldyrent",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA28|GLDYRENT|D4B3B39C",
+    "sourceGame": "rct2tt",
+    "objectType": "park_entrance",
+    "properties": {
+        "scrollingMode": 3,
+        "textHeight": 40
+    },
+    "images": ["$RCT2:OBJDATA/GLDYRENT.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Rock 'n' Roll Park Entrance",
+            "fr-FR": "Entrée du parc Rock & Roll",
+            "de-DE": "Rock-’n’-Roll-Parkeingang",
+            "es-ES": "Entrada al parque del Rock & Roll",
+            "it-IT": "Entrata del Parco Rock & Roll",
+            "nl-NL": "Parkingang in ‘rock ’n roll’-stijl",
+            "sv-SE": "Rock’n’roll-parkentré",
+            "ko-KR": "로큰롤 공원 입구",
+            "zh-TW": "搖滾主題公園入口",
+            "pt-BR": "Entrada de Parque Rock & Roll",
+            "cs-CZ": "Rock 'n' Roll - vstup do parku",
+            "pl-PL": "Wejście do parku rockandrollowego",
+            "ru-RU": "Вход рок-н-ролл",
+            "ja-JP": "ロックンロールの遊園地の入口",
+            "eo-OO": "Parkenirejo de Rokenrolo"
+        }
+    }
+}

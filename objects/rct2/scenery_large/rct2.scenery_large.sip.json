@@ -1,0 +1,65 @@
+{
+    "id": "rct2.scenery_large.sip",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C82|SIP     |F1FDDBC6",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 165,
+        "removalPrice": -145,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 144,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 144,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 144,
+                "hasSupports": true,
+                "walls": 12
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 144,
+                "hasSupports": true,
+                "walls": 6
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SIP.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Ice Palace",
+            "fr-FR": "Palais de glace",
+            "de-DE": "Eispalast",
+            "es-ES": "Palacio de hielo",
+            "it-IT": "Palazzo di ghiaccio",
+            "nl-NL": "IJskasteel",
+            "sv-SE": "Isslott",
+            "ko-KR": "얼음성",
+            "zh-CN": "冰殿",
+            "zh-TW": "冰殿",
+            "pt-BR": "Palácio de Gelo",
+            "cs-CZ": "Ledový palác",
+            "ja-JP": "氷の宮殿",
+            "pl-PL": "Lodowy pałac",
+            "ru-RU": "Дворец",
+            "eo-OO": "Palaco el Glacio"
+        }
+    }
+}

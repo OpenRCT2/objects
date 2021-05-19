@@ -1,0 +1,60 @@
+{
+    "id": "rct2tt.scenery_large.oldnyk25",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F922|OLDNYK25|6A7FABD9",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 28,
+        "removalPrice": -22,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 8,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 8,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 8,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 8,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/OLDNYK25.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "New York Roof Piece",
+            "fr-FR": "Section de toit de New York",
+            "de-DE": "New-York-Dachstück",
+            "es-ES": "Sección de tejado de Nueva York",
+            "it-IT": "Tratto dei tetti di New York",
+            "nl-NL": "Dakstuk New York",
+            "sv-SE": "Takdel, New York",
+            "ko-KR": "뉴욕 지붕 조각",
+            "zh-TW": "紐約屋頂塊",
+            "pt-BR": "Peça de Telhado de Nova York",
+            "cs-CZ": "New York střecha",
+            "pl-PL": "Segment dachu nowojorskiego",
+            "ru-RU": "Крыша Нью-Йорка",
+            "ja-JP": "ニューヨーク　屋根部分",
+            "eo-OO": "Novjorka Tegmentoparto"
+        }
+    }
+}

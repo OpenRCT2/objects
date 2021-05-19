@@ -1,0 +1,32 @@
+{
+    "id": "rct2ww.scenery_wall.wdrab01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A13|WDRAB01 |1CB43AF5",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WDRAB01.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Wall Piece 1",
+            "fr-FR": "Pan de mur terne 1",
+            "de-DE": "Düsteres Wand-Bauteil 1",
+            "es-ES": "Pieza de pared apagada 1",
+            "it-IT": "Pezzo di muro smorto 1",
+            "nl-NL": "Vaal stuk dak 1",
+            "sv-SE": "Gråbrun väggdel 1",
+            "cs-CZ": "Khaki stěna - část 1",
+            "ko-KR": "칙칙한 벽 조각 1",
+            "pl-PL": "Segment płowej ściany 1",
+            "ru-RU": "Деталь стены",
+            "pt-BR": "Peça de Parede Gris 1",
+            "ja-JP": "壊れた壁1",
+            "eo-OO": "Dubekolora Muroparto 1"
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "id": "rct2ww.ride.gorilla",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0210|GORILLA |E8224108",
+    "sourceGame": "rct2ww",
+    "objectType": "ride",
+    "properties": {
+        "type": "suspended_swinging_rc",
+        "category": "rollercoaster",
+        "maxCarsPerTrain": 8,
+        "carColours": [
+            [
+                ["bright_red", "saturated_red", "yellow"]
+            ],
+            [
+                ["dark_green", "dark_purple", "white"]
+            ],
+            [
+                ["white", "grey", "bright_red"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 287628,
+            "mass": 950,
+            "tabOffset": -22,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 4,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "diagonalSlopes": true,
+                "restraintAnimation": true
+            },
+            "hasAdditionalColour2": true,
+            "hasAdditionalColour1": true,
+            "hasSwinging": true,
+            "hasScreamingRiders": true,
+            "useSuspendedSwing": true,
+            "loadingPositions": [4, 6, -6, -4]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/GORILLA.DAT[0..4622]"],
+    "strings": {
+        "name": {
+            "en-GB": "Gorilla Trains",
+            "fr-FR": "Gorille",
+            "de-DE": "Gorillazüge",
+            "es-ES": "Atracción Gorila",
+            "it-IT": "I gorilla",
+            "nl-NL": "Gorillakarretjes",
+            "sv-SE": "Gorillavagnar",
+            "zh-CN": "大猩猩游乐设施",
+            "ja-JP": "ゴリラ車両",
+            "ar-EG": "Gorilla Trains",
+            "cs-CZ": "Gorilí horská dráha",
+            "en-US": "Gorilla Trains",
+            "ko-KR": "고릴라 차량",
+            "pl-PL": "Przejażdżka na gorylu",
+            "pt-BR": "Trens Gorila",
+            "ru-RU": "Горилла",
+            "eo-OO": "Gorilo-Trajnoj"
+        },
+        "description": {
+            "en-GB": "Suspended roller coaster trains consisting of gorilla-shaped cars able to swing freely as the train goes around corners",
+            "fr-FR": "Train de montagnes russes suspendu constitué de voitures en forme de gorille qui se balancent librement dans les virages",
+            "de-DE": "Aufgehängte Achterbahnzüge, deren gorillaförmige Wagen frei schwingen können, wenn der Zug in die Kurven geht",
+            "es-ES": "Tren en suspensión consistentes en vagones con forma de gorila capaces de balancearse con libertad al tomar las esquinas",
+            "it-IT": "Ottovolante sospeso con carrozze a forma di gorilla che possono oscillare liberamente quando percorrono le curve",
+            "nl-NL": "Omgekeerde achtbaantrein bestaande uit karretjes in de vorm van een gorilla, die vrijuit kunnen schommelen als de trein door een bocht gaat.",
+            "sv-SE": "Gorillaformade hängande vagnar som pendlar ut åt sidan i kurvorna",
+            "zh-CN": "由大猩猩外型车辆组成的悬挂式云霄飞车列车在转弯处自由摇荡运行",
+            "ja-JP": "ぶら下がったゴリラ型の車両が、コーナーで大きく揺れ動くコースターです",
+            "cs-CZ": "Zavěšená horská dráha s vozy připomínající gorily, které se houpají v zatáčkách",
+            "ko-KR": "차량이 코너를 돌면 자유롭게 흔들거리게 만들어진 고릴라 모양의 서스펜디드 롤러코스터 차량",
+            "pl-PL": "Kolejka górska z podwieszanymi wagonikami w kształcie goryli, które bujają się swobodnie na zakrętach",
+            "pt-BR": "Trens de montanha-russa suspensa que consistem em vagões com formato de gorilas capazes de balançar livremente conforme o trem faz curvas",
+            "ru-RU": "Подвешенные вагончики в форме горилл, свободно качает в поворотах",
+            "eo-OO": "Penditaj trajnoj de onda fervojo, kiuj konsistas el goriloformaj ĉaroj, kiuj povas svingiĝi libere kiam la trajno iras ĉirkaŭ anguloj"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "zh-CN": "每辆车限乘4人",
+            "ja-JP": "各車両4名",
+            "cs-CZ": "4 místa v každém voze",
+            "ko-KR": "차량당 4명의 승객",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 человека в вагоне",
+            "pt-BR": "4 passageiros por vagão",
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

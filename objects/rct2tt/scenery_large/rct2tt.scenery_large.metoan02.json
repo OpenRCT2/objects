@@ -1,0 +1,49 @@
+{
+    "id": "rct2tt.scenery_large.metoan02",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F722|METOAN02|2357B56E",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 23,
+        "removalPrice": 20,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 90,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 90,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/METOAN02.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Meteor Crater Inverted Corner",
+            "fr-FR": "Virage de cratère météoritique inversé",
+            "de-DE": "Umgedrehte Meteoritenkrater-Ecke",
+            "es-ES": "Esquina inversa de cráter de meteorito",
+            "it-IT": "Curva invertita del cratere meteoritico",
+            "nl-NL": "Omgekeerde bocht meteoorkrater",
+            "sv-SE": "Omvänt hörn, meteorkrater",
+            "ko-KR": "운석 크레이터 반전된 구석",
+            "zh-TW": "反向隕石坑牆角",
+            "pt-BR": "Canto Invertido de Cratera de Meteoro",
+            "cs-CZ": "Roh kráteru - obrácený",
+            "pl-PL": "Odwrócony narożnik krateru po meteorycie",
+            "ru-RU": "Деталь кратера",
+            "ja-JP": "隕石火口 コーナー（内側）",
+            "eo-OO": "Inversigita Angulo de Bolido-Kratero"
+        }
+    }
+}

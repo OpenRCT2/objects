@@ -1,0 +1,35 @@
+{
+    "id": "rct2ww.scenery_small.sbh3cac2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CCCCE11|SBH3CAC2|C44669DB",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 112,
+        "sceneryGroup": "rct2.scenery_group.scgtrees",
+        "isTree": true,
+        "shape": "4/4",
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/SBH3CAC2.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cactus",
+            "de-DE": "Kaktus",
+            "sv-SE": "Kaktus",
+            "zh-CN": "仙人掌",
+            "cs-CZ": "Kaktus",
+            "ko-KR": "선인장",
+            "pl-PL": "Kaktus",
+            "ru-RU": "Кактус",
+            "pt-BR": "Cacto",
+            "ja-JP": "サボテン",
+            "fr-FR": "Cactus",
+            "eo-OO": "Kakto"
+        }
+    }
+}

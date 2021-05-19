@@ -1,0 +1,99 @@
+{
+    "id": "rct2tt.scenery_large.jetplan2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA22|JETPLAN2|F3B00F2D",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 204,
+        "removalPrice": -168,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/JETPLAN2.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jet Aeroplane",
+            "fr-FR": "Avion à réaction",
+            "de-DE": "Düsenflugzeug",
+            "es-ES": "Avión a reacción",
+            "it-IT": "Aviogetto",
+            "nl-NL": "Straalvliegtuig",
+            "sv-SE": "Jetplan",
+            "ko-KR": "제트 항공기",
+            "zh-TW": "噴射機",
+            "pt-BR": "Avião a Jato",
+            "cs-CZ": "Stíhačka",
+            "pl-PL": "Odrzutowiec",
+            "ru-RU": "Самолёт",
+            "ja-JP": "ジェット飛行機",
+            "eo-OO": "Aeroplano"
+        }
+    }
+}

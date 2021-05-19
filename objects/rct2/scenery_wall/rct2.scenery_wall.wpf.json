@@ -1,0 +1,35 @@
+{
+    "id": "rct2.scenery_wall.wpf",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WPF     |7379BD18",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_wall",
+    "properties": {
+        "isOpaque": true,
+        "isAllowedOnSlope": true,
+        "height": 2,
+        "price": 40
+    },
+    "images": ["$RCT2:OBJDATA/WPF.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Fence",
+            "fr-FR": "Clôture",
+            "de-DE": "Zaun",
+            "es-ES": "Valla",
+            "it-IT": "Recinto",
+            "nl-NL": "Hek",
+            "sv-SE": "Staket",
+            "ko-KR": "울타리",
+            "zh-CN": "栅栏",
+            "zh-TW": "柵欄",
+            "pt-BR": "Cerca",
+            "cs-CZ": "Plot",
+            "ja-JP": "フェンス",
+            "pl-PL": "Płot",
+            "ru-RU": "Забор",
+            "eo-OO": "Barilo"
+        }
+    }
+}

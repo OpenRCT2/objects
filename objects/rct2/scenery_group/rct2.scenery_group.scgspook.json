@@ -1,0 +1,47 @@
+{
+    "id": "rct2.scenery_group.scgspook",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGSPOOK|E05DA063",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_large.ssk1",
+            "rct2.scenery_small.tdt1",
+            "rct2.scenery_small.tdt2",
+            "rct2.scenery_small.tdt3",
+            "rct2.scenery_small.tmm1",
+            "rct2.scenery_small.tmm2",
+            "rct2.scenery_small.tmm3",
+            "rct2.scenery_small.tgs1",
+            "rct2.scenery_small.tgs2",
+            "rct2.scenery_small.tgs3",
+            "rct2.scenery_small.tgs4",
+            "rct2.scenery_small.smskull",
+            "rct2.scenery_wall.wallrk32"
+        ],
+        "priority": 32
+    },
+    "images": ["$RCT2:OBJDATA/SCGSPOOK.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Spooky Theming",
+            "fr-FR": "Thème Terreur",
+            "de-DE": "Spukthema",
+            "es-ES": "Temática fantasmal",
+            "it-IT": "Tema spettrale",
+            "nl-NL": "Spookthema",
+            "sv-SE": "Spöktema",
+            "ko-KR": "으스스한 테마",
+            "zh-CN": "幽灵主题区",
+            "zh-TW": "幽靈主題區",
+            "pt-BR": "Temática Fantasmagórica",
+            "cs-CZ": "Strašidelné kulisy",
+            "ja-JP": "薄気味悪いテーマ",
+            "pl-PL": "Wystrój straszliwy",
+            "ru-RU": "Страшилки",
+            "eo-OO": "Timigeta Temo"
+        }
+    }
+}

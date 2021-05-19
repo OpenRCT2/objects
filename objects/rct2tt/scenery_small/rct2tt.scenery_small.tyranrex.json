@@ -1,0 +1,44 @@
+{
+    "id": "rct2tt.scenery_small.tyranrex",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F821|TYRANREX|93DB3D18",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 124,
+        "removalPrice": -102,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 72,
+        "animationDelay": 2,
+        "animationMask": 31,
+        "numFrames": 15,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 0, 0, 0]
+    },
+    "images": ["$RCT2:OBJDATA/TYRANREX.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Animatronic T-Rex",
+            "fr-FR": "Automate : T-Rex",
+            "es-ES": "T-Rex animatrónico",
+            "it-IT": "Animatrone T-Rex",
+            "nl-NL": "T-Rex-animatronic",
+            "sv-SE": "T-Rex (animatronisk)",
+            "ko-KR": "움직이는 티라노사우르스",
+            "zh-TW": "暴龍機械偶",
+            "pt-BR": "T-Rex Animatrônico",
+            "cs-CZ": "Pohybující se T-Rex",
+            "pl-PL": "Mechaniczny tyranozaur",
+            "ru-RU": "Т-Рекс",
+            "ja-JP": "アニマトロニックのティラノサウルス",
+            "eo-OO": "Animatronika Tiranosaŭro"
+        }
+    }
+}

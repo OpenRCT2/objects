@@ -1,0 +1,58 @@
+{
+    "id": "rct2ww.scenery_large.rdrab04",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A12|RDRAB04 |2FADB568",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 44,
+        "removalPrice": -38,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 64,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 64,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/RDRAB04.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Large Tower Broken Base",
+            "fr-FR": "Base cassée de grande tour terne",
+            "de-DE": "Düsterer Großer Turm - Beschädigte Basis",
+            "es-ES": "Base rota de torre grande apagada",
+            "it-IT": "Base rotta di torre grande smorta",
+            "nl-NL": "Vale kapotte basis grote toren",
+            "sv-SE": "Trasig stor gråbrun tornbas",
+            "cs-CZ": "Velká věž",
+            "ko-KR": "칙칙한 대형 탑 부서진 기본",
+            "pl-PL": "Płowa wieża - uszkodzona podstawa",
+            "ru-RU": "Деталь башни",
+            "pt-BR": "Base Quebrada de Grande Torre Gris",
+            "ja-JP": "壊れた巨大タワーの壊れた土台",
+            "eo-OO": "Rompita Bazo de Dubekolora Granda Turo"
+        }
+    }
+}

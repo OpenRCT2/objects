@@ -1,0 +1,41 @@
+{
+    "id": "rct2dlc.scenery_small.pandagr",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "09F8EC01|PANDAGR |F6EE677C",
+    "sourceGame": "official",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 19,
+        "removalPrice": -14,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 64,
+        "shape": "1/4",
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -14, "y": -61 },
+        { "path": "images/1.png", "x": -13, "y": -64 },
+        { "path": "images/2.png", "x": -13, "y": -65 },
+        { "path": "images/3.png", "x": -15, "y": -64 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Bamboo Shoots",
+            "fr-FR": "Pousses de bambou",
+            "de-DE": "Bambussprossen",
+            "es-ES": "Brote de bambú",
+            "it-IT": "Germogli di bambù",
+            "nl-NL": "Bamboescheuten",
+            "sv-SE": "Bambuskott",
+            "ko-KR": "죽순",
+            "zh-TW": "竹子林",
+            "pt-BR": "Ramos de Bambu",
+            "ar_EG": "طلقات البامبو",
+            "ja-JP": "たけのこ",
+            "pl-PL": "Pędy Bambusa",
+            "eo-OO": "Bambuŝosoj"
+        }
+    }
+}

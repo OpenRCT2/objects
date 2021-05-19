@@ -1,0 +1,39 @@
+{
+    "id": "rct2.scenery_wall.wallcfpc",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F83|WALLCFPC|C005DDC5",
+    "sourceGame": "rct2",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isDoor": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTernaryColour": true,
+        "doorSound": 2,
+        "height": 4,
+        "price": 250,
+        "sceneryGroup": "rct2.scenery_group.scgwalls"
+    },
+    "images": ["$RCT2:OBJDATA/WALLCFPC.DAT[0..35]"],
+    "strings": {
+        "name": {
+            "en-GB": "Portcullis Door",
+            "fr-FR": "Porte coulissante",
+            "de-DE": "Falltür",
+            "es-ES": "Puerta rastrillo",
+            "it-IT": "Saracinesca",
+            "nl-NL": "Muur met valhek",
+            "sv-SE": "Fällgallerdörr",
+            "ko-KR": "성문",
+            "zh-CN": "升降闸门",
+            "zh-TW": "升降閘門",
+            "pt-BR": "Porta Corrediça",
+            "cs-CZ": "Padací brána",
+            "ja-JP": "落とし門のドア",
+            "pl-PL": "Krata",
+            "ru-RU": "Дверь",
+            "eo-OO": "Herspordo"
+        }
+    }
+}

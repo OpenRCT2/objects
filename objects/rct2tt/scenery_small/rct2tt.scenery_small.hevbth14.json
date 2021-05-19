@@ -1,0 +1,42 @@
+{
+    "id": "rct2tt.scenery_small.hevbth14",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F821|HEVBTH14|B898D835",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 24,
+        "removalPrice": -18,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "2/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/HEVBTH14.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Heavenly Bath Window",
+            "fr-FR": "Fenêtre des thermes divins",
+            "de-DE": "Fenster des Himmlischen Bades",
+            "es-ES": "Ventana de termas de los dioses",
+            "it-IT": "Finestra delle Terme Celestiali",
+            "nl-NL": "Venster hemels bad",
+            "sv-SE": "Fönster, himmelskt bad",
+            "ko-KR": "천상의 욕실 창문",
+            "zh-TW": "天國浴場窗",
+            "pt-BR": "Janela de Banho Celestial",
+            "cs-CZ": "Nebeská koupel - Okno",
+            "pl-PL": "Okno niebiańskich łaţni",
+            "ru-RU": "Деталь бассейна",
+            "ja-JP": "天空の浴場　窓",
+            "eo-OO": "Fenestro de Ĉiela Bano"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "rct2ww.scenery_small.inuit",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0211|INUIT   |8ABA2FA1",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 40,
+        "removalPrice": -30,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 34,
+        "animationDelay": 2,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/INUIT1.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Inuit",
+            "es-ES": "Esquimal",
+            "nl-NL": "Eskimo",
+            "zh-CN": "古老土著",
+            "cs-CZ": "Eskymák",
+            "ko-KR": "이누이트",
+            "pl-PL": "Eskimos",
+            "ru-RU": "Инуит",
+            "pt-BR": "Esquimó",
+            "ja-JP": "イヌイット",
+            "fr-FR": "Inuit",
+            "eo-OO": "Inuito"
+        }
+    }
+}

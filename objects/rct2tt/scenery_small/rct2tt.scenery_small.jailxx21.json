@@ -1,0 +1,41 @@
+{
+    "id": "rct2tt.scenery_small.jailxx21",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|JAILXX21|51B22B3C",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": -6,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "1/4+D",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/JAILXX21.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Prison Wall Corner",
+            "fr-FR": "Virage de mur de prison",
+            "de-DE": "Gefängnismauerecke",
+            "es-ES": "Esquina de muro de prisión",
+            "it-IT": "Curva del muro della prigione",
+            "nl-NL": "Bocht gevangenismuur",
+            "sv-SE": "Vägghörn, fängelse",
+            "ko-KR": "감옥 벽 구석",
+            "zh-TW": "監獄牆牆角",
+            "pt-BR": "Canto de Parede de Prisão",
+            "cs-CZ": "Věznice - roh",
+            "pl-PL": "Narożnik muru więziennego",
+            "ru-RU": "Угловая стена",
+            "ja-JP": "刑務所　壁のコーナー",
+            "eo-OO": "Murangulo de Malliberejo"
+        }
+    }
+}

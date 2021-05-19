@@ -1,0 +1,56 @@
+{
+    "id": "rct2tt.ride.1960tsrt",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA20|1960TSRT|4241E72B",
+    "sourceGame": "rct2tt",
+    "objectType": "ride",
+    "properties": {
+        "type": "shop",
+        "category": "stall",
+        "sells": "tshirt",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/1960TSRT.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Flower Power T-Shirts",
+            "fr-FR": "T-shirts Flower Power",
+            "de-DE": "Flower-Power-T-Shirts",
+            "es-ES": "Camisetas de poder floral",
+            "it-IT": "T-shirt floreali",
+            "nl-NL": "‘Flower Power’-t-shirtkraam",
+            "sv-SE": "’Flower Power’-t-tröjor",
+            "ko-KR": "사랑과 평화 티셔츠",
+            "zh-TW": "花的魅力T恤",
+            "ja-JP": "フラワーパワーTシャツショップ",
+            "pt-BR": "Camisetas Paz e Amor",
+            "cs-CZ": "Hippie trička",
+            "pl-PL": "Koszulki dzieci-kwiatów",
+            "ru-RU": "Рубашки с цветами",
+            "eo-OO": "Florpotencaj T-Ĉemizoj"
+        },
+        "description": {
+            "en-GB": "Stall selling T-shirts with a flower motif",
+            "fr-FR": "Magasin proposant des T-shirts de hippies",
+            "de-DE": "Stand, der T-Shirts mit Blumenmotiven verkauft",
+            "es-ES": "Puesto de venta de camisetas de motivos florales",
+            "it-IT": "Chiosco che vende T-shirt con motivi floreali.",
+            "nl-NL": "Een kraam waar t-shirts met bloemmotief worden verkocht.",
+            "sv-SE": "Ett stånd som säljer t-tröjor med blommotiv",
+            "ko-KR": "꽃무늬 티셔츠를 파는 상점",
+            "zh-TW": "販賣有花朵圖案的T恤",
+            "ja-JP": "花をモチーフにしたTシャツを販売するショップです",
+            "pt-BR": "Quiosque vendendo camisetas com temas floridos",
+            "cs-CZ": "Stánek prodávající batikovaná trička s hippie motivy",
+            "pl-PL": "Stoisko sprzedające koszulki z motywami kwiatowymi",
+            "ru-RU": "Палатка, в которой продаются рубашки.",
+            "eo-OO": "Budo vendanta T-ĉemizojn kun motivo de floro"
+        }
+    }
+}

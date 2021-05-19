@@ -1,0 +1,41 @@
+{
+    "id": "rct2.scenery_small.suppw3",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|SUPPW3  |3C99738E",
+    "sourceGame": "rct2",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": -5,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "allowSupportsAbove": true
+    },
+    "images": ["$RCT2:OBJDATA/SUPPW3.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Support Structure",
+            "fr-FR": "Structure de support",
+            "de-DE": "Stützkonstruktion",
+            "es-ES": "Estructura de soporte",
+            "it-IT": "Struttura di supporto",
+            "nl-NL": "Steunconstructie",
+            "sv-SE": "Stödstruktur",
+            "ko-KR": "지지대 구조물",
+            "zh-CN": "支架结构",
+            "zh-TW": "支架結構",
+            "pt-BR": "Estrutura de Suporte",
+            "cs-CZ": "Podpěra",
+            "ja-JP": "支持構造物",
+            "pl-PL": "Podpora",
+            "ru-RU": "Поддержка",
+            "eo-OO": "Subtena Konstruaĵo"
+        }
+    }
+}

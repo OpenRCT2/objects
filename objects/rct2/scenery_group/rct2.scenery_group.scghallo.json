@@ -1,0 +1,51 @@
+{
+    "id": "rct2.scenery_group.scghallo",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGHALLO|749D76D8",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.tcd",
+            "rct2.scenery_small.tsg",
+            "rct2.scenery_small.tsk",
+            "rct2.scenery_small.tgh1",
+            "rct2.scenery_small.tgh2",
+            "rct2.scenery_small.tsmp",
+            "rct2.scenery_large.sgp",
+            "rct2.scenery_wall.wc14",
+            "rct2.scenery_wall.wc15",
+            "rct2.scenery_small.tl0",
+            "rct2.scenery_small.tl1",
+            "rct2.scenery_small.tl2",
+            "rct2.scenery_small.tl3",
+            "rct2.scenery_small.tm0",
+            "rct2.scenery_small.tm1",
+            "rct2.scenery_small.tm2",
+            "rct2.scenery_small.tm3"
+        ],
+        "priority": 23
+    },
+    "images": ["$RCT2:OBJDATA/SCGHALLO.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Creepy Theming",
+            "fr-FR": "Thème Terreur",
+            "de-DE": "Gruselthema",
+            "es-ES": "Temática horripilante",
+            "it-IT": "Tema spaventoso",
+            "nl-NL": "Eng thema",
+            "sv-SE": "Kräldjurstema",
+            "ko-KR": "오싹한 테마",
+            "zh-CN": "战栗主题区",
+            "zh-TW": "戰慄主題區",
+            "pt-BR": "Temática Assustadora",
+            "cs-CZ": "Strašidelné kulisy",
+            "ja-JP": "不気味なテーマ",
+            "pl-PL": "Wystrój niesamowity",
+            "ru-RU": "Страшилки",
+            "eo-OO": "Timigeta Temo"
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "id": "rct2tt.scenery_large.oldnyk30",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F922|OLDNYK30|29E4A7B2",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 42,
+        "removalPrice": -36,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isPhotogenic": true,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 64,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 64,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 64,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/OLDNYK30.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "New York Wall Piece",
+            "fr-FR": "Section de mur de New York",
+            "de-DE": "New-York-Mauerstück",
+            "es-ES": "Sección de muro de Nueva York",
+            "it-IT": "Tratto di muro di New York",
+            "nl-NL": "Muurstuk New York",
+            "sv-SE": "Väggdel, New York",
+            "ko-KR": "뉴욕 벽 조각",
+            "zh-TW": "紐約牆面塊",
+            "pt-BR": "Peça de Parede de Nova York",
+            "cs-CZ": "New York stěna",
+            "pl-PL": "Segment ściany nowojorskiej",
+            "ru-RU": "Стена",
+            "ja-JP": "ニューヨーク　壁部分",
+            "eo-OO": "Novjorka Muroparto"
+        }
+    }
+}

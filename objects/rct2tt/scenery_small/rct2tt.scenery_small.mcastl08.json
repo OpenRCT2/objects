@@ -1,0 +1,41 @@
+{
+    "id": "rct2tt.scenery_small.mcastl08",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F821|MCASTL08|C422EE61",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 28,
+        "removalPrice": -20,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 128,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true
+    },
+    "images": ["$RCT2:OBJDATA/MCASTL08.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Castle Ramparts Inverted Corner",
+            "fr-FR": "Virage inversé des remparts du château",
+            "de-DE": "Umgedrehte Schlosswall-Ecke",
+            "es-ES": "Esquina inversa de muralla de castillo",
+            "it-IT": "Curva invertita dei bastioni del Castello",
+            "nl-NL": "Omgekeerde bocht bolwerken kasteel",
+            "sv-SE": "Omvänt vallhörn, slott",
+            "ko-KR": "반전된 성벽 구석",
+            "zh-TW": "反向城堡壁壘牆角",
+            "pt-BR": "Canto Invertido de Baluartes de Castelo",
+            "cs-CZ": "Hradní opevnění - obrácený roh",
+            "pl-PL": "Odwrócony narożnik fortyfikacji zamkowej",
+            "ru-RU": "Угол бастиона замка",
+            "ja-JP": "城壁のコーナー（反転）",
+            "eo-OO": "Inversigita Angulo de Murego de Kastelo"
+        }
+    }
+}

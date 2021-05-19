@@ -1,0 +1,42 @@
+{
+    "id": "rct2.scenery_small.tsg",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TSG     |DA15B1D7",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 30,
+        "removalPrice": -28,
+        "cursor": "CURSOR_FOUNTAIN_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isAnimated": true,
+        "SMALL_SCENERY_FLAG_SWAMP_GOO": true,
+        "isStackable": true,
+        "prohibitWalls": true
+    },
+    "images": ["$RCT2:OBJDATA/TSG.DAT[0..15]"],
+    "strings": {
+        "name": {
+            "en-GB": "Swamp Goo",
+            "fr-FR": "Marécages",
+            "de-DE": "Sumpfschleim",
+            "es-ES": "Ciénaga",
+            "it-IT": "Fanghiglia della palude",
+            "nl-NL": "Moerasslijm",
+            "sv-SE": "Träskgegga",
+            "ko-KR": "늪지대",
+            "zh-CN": "天鹅",
+            "zh-TW": "天鵝",
+            "pt-BR": "Visco do Pântano",
+            "cs-CZ": "Bažina",
+            "ja-JP": "沼地のベトベト",
+            "pl-PL": "Muł bagienny",
+            "ru-RU": "Липучка",
+            "eo-OO": "Marĉoŝlimo"
+        }
+    }
+}

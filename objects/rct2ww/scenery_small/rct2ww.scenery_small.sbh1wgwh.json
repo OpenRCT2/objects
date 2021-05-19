@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.sbh1wgwh",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0711|SBH1WGWH|B4D7AD83",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/SBH1WGWH.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wagon Wheel",
+            "fr-FR": "Roue de charrette",
+            "de-DE": "Waggonrad",
+            "es-ES": "Rueda de carromato",
+            "it-IT": "Ruota di carro",
+            "nl-NL": "Wagonwiel",
+            "sv-SE": "Vagnshjul",
+            "zh-CN": "货车车轮",
+            "cs-CZ": "Kolo vagónu",
+            "ko-KR": "수레바퀴",
+            "pl-PL": "Koło wozu",
+            "ru-RU": "Колесо",
+            "pt-BR": "Roda de Carroça",
+            "ja-JP": "ワゴンの車輪",
+            "eo-OO": "Rado de Ĉarego"
+        }
+    }
+}

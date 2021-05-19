@@ -1,0 +1,50 @@
+{
+    "id": "rct2.scenery_group.scgpirat",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGPIRAT|013DAB9B",
+    "sourceGame": "rct2",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_large.prship",
+            "rct2.scenery_small.chest1",
+            "rct2.scenery_small.chest2",
+            "rct2.scenery_wall.wallpr32",
+            "rct2.scenery_small.pirflag",
+            "rct2.scenery_small.cnballs",
+            "rct2.scenery_small.prcan",
+            "rct2.scenery_large.tavern",
+            "rct2.footpath_item.lamppir",
+            "rct2.scenery_small.pirroof1",
+            "rct2.scenery_small.pirroof2",
+            "rct2.scenery_wall.wallpr34",
+            "rct2.scenery_wall.wallpr33",
+            "rct2.scenery_wall.wallpr35",
+            "mamabear.scenery_wall.mg-prar"
+        ],
+        "priority": 38,
+        "entertainerCostumes": "pirate"
+    },
+    "images": ["$RCT2:OBJDATA/SCGPIRAT.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Pirates Theming",
+            "fr-FR": "Thème Pirates",
+            "de-DE": "Piratenthema",
+            "es-ES": "Temática pirata",
+            "it-IT": "Tema piratesco",
+            "nl-NL": "Piratenthema",
+            "sv-SE": "Pirattema",
+            "ko-KR": "해적 테마",
+            "zh-CN": "海盗主题馆",
+            "zh-TW": "海盜主題館",
+            "pt-BR": "Temática Pirata",
+            "cs-CZ": "Pirátské kulisy",
+            "ja-JP": "海賊風のテーマ",
+            "pl-PL": "Wystrój piracki",
+            "ru-RU": "Пираты",
+            "eo-OO": "Pirato-Temo"
+        }
+    }
+}

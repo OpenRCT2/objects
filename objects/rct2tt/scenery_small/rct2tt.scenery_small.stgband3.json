@@ -1,0 +1,46 @@
+{
+    "id": "rct2tt.scenery_small.stgband3",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|STGBAND3|C8BFC57D",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 46,
+        "removalPrice": -38,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 64,
+        "animationDelay": 2,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "SMALL_SCENERY_FLAG_COG": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/STGBAND3.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Band Member",
+            "fr-FR": "Membre de groupe de rock",
+            "de-DE": "Bandmitglied",
+            "es-ES": "Miembro de banda",
+            "it-IT": "Membro del gruppo",
+            "nl-NL": "Bandlid",
+            "sv-SE": "Bandmedlem",
+            "ko-KR": "밴드 멤버",
+            "zh-TW": "樂團成員",
+            "pt-BR": "Membro de Banda",
+            "cs-CZ": "Člen kapely",
+            "pl-PL": "Muzyk",
+            "ru-RU": "Музыкант",
+            "ja-JP": "バンドのメンバー",
+            "eo-OO": "Muzikgrupulo"
+        }
+    }
+}

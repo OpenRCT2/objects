@@ -1,0 +1,132 @@
+{
+    "id": "rct2tt.scenery_large.robncamp",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F922|ROBNCAMP|5F594CB3",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 260,
+        "removalPrice": -190,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 180,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 180,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 180,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 96,
+                "clearance": 180,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 180,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 180,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 180,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 96,
+                "clearance": 180,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 180,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 180,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 180,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 96,
+                "clearance": 180,
+                "walls": 2
+            },
+            {
+                "x": 96,
+                "y": 0,
+                "clearance": 180,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 32,
+                "clearance": 180,
+                "walls": 6
+            },
+            {
+                "x": 96,
+                "y": 64,
+                "clearance": 180,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 96,
+                "clearance": 180,
+                "walls": 6
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/ROBNCAMP.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Robin Hood's Camp",
+            "fr-FR": "Camp de Robin des Bois",
+            "de-DE": "Robin Hoods Lager",
+            "es-ES": "Campamento de Robin Hood",
+            "it-IT": "Accampamento di Robin Hood",
+            "nl-NL": "Robin Hoods kamp",
+            "sv-SE": "Robin Hoods läger",
+            "ko-KR": "로빈 후드의 캠프",
+            "zh-TW": "羅賓漢的營帳",
+            "pt-BR": "Acampamento de Robin Hood",
+            "cs-CZ": "Kemp Robina Hooda",
+            "pl-PL": "Obóz Robin Hooda",
+            "ru-RU": "Лагерь Робина",
+            "ja-JP": "ロビン・フッドのカヤンプ",
+            "eo-OO": "Tendokampo de Robin Hood"
+        }
+    }
+}

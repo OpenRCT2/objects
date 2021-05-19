@@ -1,0 +1,37 @@
+{
+    "id": "rct2.scenery_small.tropt1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TROPT1  |A63875FC",
+    "sourceGame": "rct2",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 15,
+        "removalPrice": 10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 64,
+        "isTree": true,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TROPT1.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tree",
+            "fr-FR": "Arbre",
+            "de-DE": "Baum",
+            "es-ES": "Árbol",
+            "it-IT": "Albero",
+            "nl-NL": "Boom",
+            "sv-SE": "Träd",
+            "ko-KR": "나무",
+            "zh-CN": "树",
+            "zh-TW": "樹",
+            "pt-BR": "Árvore",
+            "cs-CZ": "Strom",
+            "ja-JP": "木",
+            "pl-PL": "Drzewo",
+            "ru-RU": "Дерево",
+            "eo-OO": "Arbo"
+        }
+    }
+}

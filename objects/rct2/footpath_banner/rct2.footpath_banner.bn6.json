@@ -1,0 +1,36 @@
+{
+    "id": "rct2.footpath_banner.bn6",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F84|BN6     |927AF341",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "footpath_banner",
+    "properties": {
+        "scrollingMode": 15,
+        "price": 300,
+        "hasPrimaryColour": true,
+        "sceneryGroup": "rct2.scenery_group.scgpathx"
+    },
+    "images": ["$RCT2:OBJDATA/BN6.DAT[0..7]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jurassic Style Sign",
+            "fr-FR": "Panneau jurassique",
+            "de-DE": "Jurassic-Schild",
+            "es-ES": "Señal estilo jurásico",
+            "it-IT": "Insegna stile giurassico",
+            "nl-NL": "Lichtkrant in Jurastijl",
+            "sv-SE": "Skylt - Dinosaurietema",
+            "ko-KR": "쥐라기 스타일 팻말",
+            "zh-CN": "侏罗纪风格 招牌",
+            "zh-TW": "侏羅紀風格 招牌",
+            "pt-BR": "Placa Estilo Jurássico",
+            "cs-CZ": "Cedule v jurském stylu",
+            "ja-JP": "ジュラシック風のバナー",
+            "pl-PL": "Drogowskaz jurajski",
+            "ru-RU": "Знак 'Юрский п-д'",
+            "ar-EG": "علامة بطابع العصر الجوراسي",
+            "eo-OO": "Afiŝo de Ĵurasa Stilo"
+        }
+    }
+}

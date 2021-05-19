@@ -1,0 +1,37 @@
+{
+    "id": "rct2.scenery_small.trf",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TRF     |131B8AA2",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 27,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 116,
+        "isTree": true,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TRF.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Red Fir Tree",
+            "fr-FR": "Sapin rouge",
+            "de-DE": "Rotkiefer",
+            "es-ES": "Abeto rojo",
+            "it-IT": "Abete rosso",
+            "nl-NL": "Rode spar",
+            "sv-SE": "Röd tall",
+            "ko-KR": "붉은잣나무",
+            "zh-CN": "红杉木树",
+            "zh-TW": "紅杉木樹",
+            "pt-BR": "Abeto Vermelho",
+            "cs-CZ": "Jedle nádherná",
+            "ja-JP": "米松",
+            "pl-PL": "Daglezja",
+            "ru-RU": "Красная ель",
+            "eo-OO": "Ruĝa Abioarbo"
+        }
+    }
+}

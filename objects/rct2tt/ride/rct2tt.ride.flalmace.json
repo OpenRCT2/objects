@@ -1,0 +1,185 @@
+{
+    "id": "rct2tt.ride.flalmace",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F820|FLALMACE|D18A4C96",
+    "sourceGame": "rct2tt",
+    "objectType": "ride",
+    "properties": {
+        "type": "space_rings",
+        "category": "thrill",
+        "tabScale": 0.5,
+        "rotationMode": 1,
+        "carsPerFlatRide": 4,
+        "ratingMultipler": {
+            "excitement": 75,
+            "intensity": 75,
+            "nausea": 20
+        },
+        "carColours": [
+            [
+                ["light_blue", "yellow", "black"]
+            ],
+            [
+                ["dark_green", "yellow", "black"]
+            ],
+            [
+                ["bright_red", "white", "black"]
+            ],
+            [
+                ["black", "bright_red", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "mass": 1000,
+            "numSeats": 1,
+            "spriteWidth": 55,
+            "spriteHeightNegative": 48,
+            "spriteHeightPositive": 28,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "recalculateSpriteBounds": true,
+            "numSegments": 0,
+            "loadingWaypoints": [
+                [
+                    [40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, -40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [-40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, 40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, -40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [-40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, 40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, -40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [-40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, 40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, -40],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [-40, 0],
+                    [0, 0],
+                    [0, 0]
+                ],
+                [
+                    [0, 40],
+                    [0, 0],
+                    [0, 0]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/FLALMACE.DAT[0..706]"],
+    "strings": {
+        "name": {
+            "en-GB": "Mace Ride",
+            "fr-FR": "Coup de massue",
+            "de-DE": "Streitkolben",
+            "es-ES": "Viaje de la maza",
+            "it-IT": "Corsa del martello",
+            "nl-NL": "Goedendags",
+            "sv-SE": "Spikklubba",
+            "ko-KR": "메이스 라이드",
+            "zh-TW": "硬頭錘遊樂設施",
+            "ja-JP": "暗黒時代のメイス",
+            "pt-BR": "Brinquedo de Maça",
+            "cs-CZ": "Palicová jízda",
+            "pl-PL": "Jazda na maczudze",
+            "ru-RU": "Булавы",
+            "eo-OO": "Klabo-Atrakcio"
+        },
+        "description": {
+            "en-GB": "Riders sit on a themed chair which is attached to a motor driven spinning arm.",
+            "fr-FR": "Les passagers sont assis sur un siège thématique attaché à un bras articulé motorisé.",
+            "de-DE": "Die Fahrgäste sitzen auf einem thematisch gestalteten Sessel, der an einem motorbetriebenen Dreharm befestigt ist",
+            "es-ES": "Los usuarios se sientan en un asiento ambientado en la época que está unido a un brazo giratorio.",
+            "it-IT": "I passeggeri siedono su un sedile speciale, collegato a un braccio rotante controllato da un motore.",
+            "nl-NL": "Passagiers zitten op stoel in de vorm van een goedendag die ronddraait aan een paal.",
+            "sv-SE": "Passagerarna sitter i varsin stol formad som en spikklubba, fäst till en roterande motordriven arm",
+            "ko-KR": "탑승객이 모터에 의해 회전하는 팔에 달린 의자에 앉아서 즐기는 놀이기구",
+            "zh-TW": "乘客乘坐在此主題的座椅上，座椅連接至以發動機驅動的旋轉手臂上。",
+            "pt-BR": "Os visitantes sentam numa cadeira temática que é presa a um braço giratório motorizado",
+            "cs-CZ": "Návštěvníci sedí na židlích připevněných na otáčející se ramena",
+            "pl-PL": "Pasażerowie siedzą w stylizowanym wagoniku, przymocowanym do napędzanego obrotowego ramienia",
+            "ru-RU": "Люди сидят в кресле, вращающемся вокруг шеста.",
+            "ja-JP": "乗客は、回転するアームに取り付けられた座席に座ります.",
+            "eo-OO": "Rajdantoj sidas sur temita seĝo, kiu estas fiksita al turniĝanta brako, kiun motoro gvidas."
+        },
+        "capacity": {
+            "en-GB": "1 guest per chair",
+            "fr-FR": "1 visiteur par siège",
+            "de-DE": "1 Fahrgast pro Sessel",
+            "es-ES": "1 usuario por asiento",
+            "it-IT": "1 occupante per sedile",
+            "nl-NL": "1 bezoeker per stoel",
+            "sv-SE": "1 passagerare per stol",
+            "ko-KR": "의자당 1명의 승객",
+            "zh-TW": "每座限乘1人",
+            "ja-JP": "各1名",
+            "pt-BR": "1 visitante por cadeira",
+            "cs-CZ": "1 místo na každé židli",
+            "pl-PL": "1 osoba na wagonik",
+            "ru-RU": "1 чел. в кресле",
+            "eo-OO": "Po 1 gasto por seĝo"
+        }
+    }
+}

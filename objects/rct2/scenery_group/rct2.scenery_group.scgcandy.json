@@ -1,0 +1,52 @@
+{
+    "id": "rct2.scenery_group.scgcandy",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGCANDY|C645A8BC",
+    "sourceGame": "rct2",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.jelbab1",
+            "rct2.scenery_small.mint1",
+            "rct2.scenery_small.lolly1",
+            "rct2.scenery_small.jbean1",
+            "rct2.scenery_wall.walljb16",
+            "rct2.scenery_small.cndyrk1",
+            "rct2.scenery_small.jeldrop1",
+            "rct2.scenery_small.jeldrop2",
+            "rct2.scenery_small.colagum",
+            "rct2.scenery_small.chocroof",
+            "rct2.scenery_small.mallow1",
+            "rct2.scenery_small.mallow2",
+            "rct2.scenery_small.tas1",
+            "rct2.scenery_small.tas2",
+            "rct2.scenery_small.tas3",
+            "rct2.scenery_small.tas4",
+            "rct2.scenery_small.allsort1",
+            "rct2.scenery_small.allsort2"
+        ],
+        "priority": 39
+    },
+    "images": ["$RCT2:OBJDATA/SCGCANDY.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Giant Candy Theming",
+            "fr-FR": "Thème Bonbon",
+            "de-DE": "Süßwarenland-Thema",
+            "es-ES": "Temática caramelolandia",
+            "it-IT": "Tema paese dei dolci",
+            "nl-NL": "Gigantisch-snoep-thema",
+            "sv-SE": "Godislandstema",
+            "ko-KR": "대형 사탕 테마",
+            "zh-CN": "糖果屋主题",
+            "zh-TW": "糖果屋主題",
+            "pt-BR": "Temática de Terra dos Doces",
+            "cs-CZ": "Kulisy obrovského cukroví",
+            "ja-JP": "巨大キャンディーのテーマ",
+            "pl-PL": "Wystrój cukierkowy",
+            "ru-RU": "Конфета",
+            "eo-OO": "Temo de Giganta Dolĉaĵo"
+        }
+    }
+}

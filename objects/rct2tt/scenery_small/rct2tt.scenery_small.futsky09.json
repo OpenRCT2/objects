@@ -1,0 +1,48 @@
+{
+    "id": "rct2tt.scenery_small.futsky09",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|FUTSKY09|A4D3A208",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": 4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "animationDelay": 3,
+        "animationMask": 15,
+        "numFrames": 16,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "2/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/FUTSKY09.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone Skyscraper Mid Wall Section",
+            "fr-FR": "Section de mur médiane du gratte-ciel d'obsidienne",
+            "de-DE": "Sandstein-Wolkenkratzer Mittelstück Mauer",
+            "es-ES": "Sección de pared media de rascacielos de arenisca",
+            "it-IT": "Sezione del muro di mezzo del grattacielo in arenaria",
+            "nl-NL": "Muurgedeelte midden zandstenen wolkenkrabber",
+            "sv-SE": "Mittvägg, sandstensskyskrapa",
+            "ko-KR": "사암 마천루 중앙 벽 조각",
+            "zh-TW": "黑曜石摩天大樓牆面區段中段",
+            "pt-BR": "Seção Mediana de Parede de Arranha-Céu de Arenito",
+            "cs-CZ": "Pískovcový mrakodrap - střední stěna",
+            "pl-PL": "Wieżowiec z piaskowca - środkowy segment ściany",
+            "ru-RU": "Деталь небоскрёба",
+            "ja-JP": "砂岩 高層ビル　中間　壁部分",
+            "eo-OO": "Meza Muroparto de Sabloŝtona Ĉielskrapanto"
+        }
+    }
+}

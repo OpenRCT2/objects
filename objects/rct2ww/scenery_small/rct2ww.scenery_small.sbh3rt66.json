@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.sbh3rt66",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0711|SBH3RT66|52B6487C",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 112,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/SBH3RT66.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Route 66 Sign",
+            "fr-FR": "Panneau route 66",
+            "de-DE": "„Route 66“-Schild",
+            "es-ES": "Signo de ruta 66",
+            "it-IT": "Cartello Route 66",
+            "nl-NL": "Verkeersbord weg 66",
+            "sv-SE": "Route 66-skylt",
+            "zh-CN": "66道路标志",
+            "cs-CZ": "Silnice 66",
+            "ko-KR": "66번도 팻말",
+            "pl-PL": "Znak drogi 66",
+            "ru-RU": "'Трасса 66'",
+            "pt-BR": "Sinal da Rota 66",
+            "ja-JP": "国道66号線サイン",
+            "eo-OO": "Afiŝo de Vojo 66"
+        }
+    }
+}

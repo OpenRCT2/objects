@@ -1,0 +1,40 @@
+{
+    "id": "rct2.scenery_group.scgwater",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGWATER|60E74521",
+    "sourceGame": "rct2",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_wall.wallwf32",
+            "rct2.scenery_small.whoriz",
+            "rct2.footpath_item.jumpfnt1",
+            "rct2.scenery_small.wspout",
+            "rct2.scenery_small.icecube",
+            "rct2.scenery_small.wdiag"
+        ],
+        "priority": 37
+    },
+    "images": ["$RCT2:OBJDATA/SCGWATER.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Water Feature Theming",
+            "fr-FR": "Thème Aquatique",
+            "de-DE": "Wasserthema",
+            "es-ES": "Temática acuática",
+            "it-IT": "Tema acquatico",
+            "nl-NL": "Waterthema",
+            "sv-SE": "Vattentema",
+            "ko-KR": "인공 폭포 테마",
+            "zh-CN": "水世界",
+            "zh-TW": "水世界",
+            "pt-BR": "Temática Aquática",
+            "cs-CZ": "Vodní kulisy",
+            "ja-JP": "水を使用したテーマ",
+            "pl-PL": "Wystrój wodny",
+            "ru-RU": "Водная Тема",
+            "eo-OO": "Akva Temo"
+        }
+    }
+}

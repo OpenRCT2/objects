@@ -1,0 +1,32 @@
+{
+    "id": "rct2tt.park_entrance.futurent",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB28|FUTURENT|FB2FD501",
+    "sourceGame": "rct2tt",
+    "objectType": "park_entrance",
+    "properties": {
+        "scrollingMode": 3,
+        "textHeight": 65
+    },
+    "images": ["$RCT2:OBJDATA/FUTURENT.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Futuristic Park Entrance",
+            "fr-FR": "Entrée du parc futuriste",
+            "de-DE": "Futuristischer Parkeingang",
+            "es-ES": "Entrada a parque futurista",
+            "it-IT": "Entrata del Parco futuristico",
+            "nl-NL": "Futuristische parkingang",
+            "sv-SE": "Futuristisk parkentré",
+            "ko-KR": "초현대적 공원 입구",
+            "zh-TW": "未來主題公園入口",
+            "pt-BR": "Entrada de Parque Futurista",
+            "cs-CZ": "Futuristický vstup do parku",
+            "pl-PL": "Wejście do parku futurystycznego",
+            "ru-RU": "Футуристический вход",
+            "ja-JP": "未来的な遊園地の入口",
+            "eo-OO": "Estonteca Parkenirejo"
+        }
+    }
+}

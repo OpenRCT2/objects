@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.sbh2shlt",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0711|SBH2SHLT|C8B31FC4",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 96,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/SBH2SHLT.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Search Light",
+            "fr-FR": "Projecteur",
+            "de-DE": "Suchscheinwerfer",
+            "es-ES": "Foco de vigilancia",
+            "it-IT": "Fotoelettrica",
+            "nl-NL": "Zoeklicht",
+            "sv-SE": "Sökljus",
+            "zh-CN": "搜寻光线",
+            "cs-CZ": "Pátrací světlo",
+            "ko-KR": "서치라이트",
+            "pl-PL": "Reflektor",
+            "ru-RU": "Прожектор",
+            "pt-BR": "Luz de Sinalização",
+            "ja-JP": "サーチライト",
+            "eo-OO": "Lumoserĉanto"
+        }
+    }
+}

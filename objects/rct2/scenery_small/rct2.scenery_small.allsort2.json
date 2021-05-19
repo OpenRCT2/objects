@@ -1,0 +1,41 @@
+{
+    "id": "rct2.scenery_small.allsort2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C81|ALLSORT2|FC5165C0",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 15,
+        "removalPrice": -11,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "allowSupportsAbove": true
+    },
+    "images": ["$RCT2:OBJDATA/ALLSORT2.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Candy",
+            "fr-FR": "Bonbon",
+            "de-DE": "Süßigkeit",
+            "es-ES": "Caramelo",
+            "it-IT": "Dolce",
+            "nl-NL": "Snoep",
+            "sv-SE": "Godis",
+            "ko-KR": "사탕",
+            "zh-CN": "糖果",
+            "zh-TW": "糖果",
+            "pt-BR": "Doce",
+            "cs-CZ": "Cukroví",
+            "ja-JP": "キャンディー",
+            "pl-PL": "Cukierek",
+            "ru-RU": "Пирог",
+            "eo-OO": "Dolĉaĵo"
+        }
+    }
+}

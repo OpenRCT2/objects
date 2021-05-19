@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.wkreml02",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0911|WKREML02|B3BC4AAA",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 64,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WKREML02.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Kremlin Step-up Wall Piece 2",
+            "fr-FR": "Pan de mur de montée du Kremlin 2",
+            "de-DE": "Kreml - Treppen-Wandbauteil 2",
+            "es-ES": "Pieza de pared de sección de escaleras del Kremlin 2",
+            "it-IT": "Pezzo di muro di rialzo del Cremlino 2",
+            "nl-NL": "Uitspringend stuk muur Kremlin 2",
+            "sv-SE": "Trappa 2 till Kreml-mur",
+            "cs-CZ": "Kremlinská stěna - část 2",
+            "ko-KR": "크렘린 점진적 벽 조각 2",
+            "pl-PL": "Wznoszący się segment muru kremlowskiego 2",
+            "ru-RU": "Стена Кремля",
+            "pt-BR": "Peça de Parede de Subida do Kremlim 2",
+            "ja-JP": "クレムリン　ステップアップの部分2",
+            "eo-OO": "Ŝtupo de Kremlo, Muroparto 2"
+        }
+    }
+}

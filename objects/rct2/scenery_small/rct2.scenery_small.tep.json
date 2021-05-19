@@ -1,0 +1,37 @@
+{
+    "id": "rct2.scenery_small.tep",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TEP     |C72CA08E",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": -5,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "1/4",
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TEP.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Egyptian Column",
+            "fr-FR": "Colonne égyptienne",
+            "de-DE": "Ägyptsiche Säule",
+            "es-ES": "Columna egipcia",
+            "it-IT": "Colonna egiziana",
+            "nl-NL": "Egyptische zuil",
+            "sv-SE": "Egyptisk pelare",
+            "ko-KR": "이집트식 기둥",
+            "zh-CN": "古埃及柱廊",
+            "zh-TW": "古埃及柱廊",
+            "pt-BR": "Coluna Egípcia",
+            "cs-CZ": "Egyptský sloup",
+            "ja-JP": "エジプト風の柱",
+            "pl-PL": "Kolumna egipska",
+            "ru-RU": "Колонна",
+            "eo-OO": "Egipta Kolono"
+        }
+    }
+}

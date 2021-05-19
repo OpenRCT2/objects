@@ -1,0 +1,40 @@
+{
+    "id": "rct2.scenery_small.tmm1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TMM1    |16B773AC",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 14,
+        "removalPrice": -10,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TMM1.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Graveyard Monument",
+            "fr-FR": "Monument aux morts",
+            "de-DE": "Friedhofsmonument",
+            "es-ES": "Monumento de cementerio",
+            "it-IT": "Monumento tombale",
+            "nl-NL": "Grafmonument",
+            "sv-SE": "Kyrkogårdsmonument",
+            "ko-KR": "묘지 기념물",
+            "zh-CN": "墓园遗迹",
+            "zh-TW": "墓園遺蹟",
+            "pt-BR": "Monumento de Cemitério",
+            "cs-CZ": "Velký náhrobek",
+            "ja-JP": "墓地モニュメント",
+            "pl-PL": "Pomnik cmentarny",
+            "ru-RU": "Памятник",
+            "eo-OO": "Momumento de Tombejo"
+        }
+    }
+}

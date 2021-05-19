@@ -1,0 +1,132 @@
+{
+    "id": "rct2tt.scenery_large.ships4x4",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F922|SHIPS4X4|CA903A15",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 246,
+        "removalPrice": 198,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 128,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 128,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 128,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 96,
+                "clearance": 128,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 128,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 128,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 128,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 96,
+                "clearance": 128,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 128,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 128,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 128,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 96,
+                "clearance": 128,
+                "walls": 2
+            },
+            {
+                "x": 96,
+                "y": 0,
+                "clearance": 128,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 32,
+                "clearance": 128,
+                "walls": 6
+            },
+            {
+                "x": 96,
+                "y": 64,
+                "clearance": 128,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 96,
+                "clearance": 128,
+                "walls": 6
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SHIPS4X4.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Luxury Liner Stern",
+            "fr-FR": "Poupe de paquebot de luxe",
+            "de-DE": "Luxusliner - Heck",
+            "es-ES": "Popa de crucero de lujo",
+            "it-IT": "Poppa della nave di linea di lusso",
+            "nl-NL": "Achtersteven luxueus schip",
+            "sv-SE": "Akter till lyxkryssare",
+            "ko-KR": "호화 여객선 선미",
+            "zh-TW": "豪華郵輪船尾",
+            "pt-BR": "Popa de Navio de Luxo",
+            "cs-CZ": "Luxusní parník - záď",
+            "pl-PL": "Rufa luksusowego liniowca",
+            "ru-RU": "Корма лайнера",
+            "ja-JP": "豪華船 船尾",
+            "eo-OO": "Pobo de Krozŝipo"
+        }
+    }
+}

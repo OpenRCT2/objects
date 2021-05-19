@@ -1,0 +1,39 @@
+{
+    "id": "rct2tt.scenery_small.mdbucket",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F921|MDBUCKET|5693558C",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 4,
+        "removalPrice": -2,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 8,
+        "shape": "1/4",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/MDBUCKET.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Bucket",
+            "fr-FR": "Seau",
+            "de-DE": "Eimer",
+            "es-ES": "Balde",
+            "it-IT": "Secchio",
+            "nl-NL": "Emmer",
+            "sv-SE": "Hink",
+            "ko-KR": "바구니",
+            "zh-TW": "木桶",
+            "pt-BR": "Balde",
+            "cs-CZ": "Kbelík",
+            "pl-PL": "Kubeł",
+            "ru-RU": "Сосуд",
+            "ja-JP": "桶",
+            "eo-OO": "Sitelo"
+        }
+    }
+}

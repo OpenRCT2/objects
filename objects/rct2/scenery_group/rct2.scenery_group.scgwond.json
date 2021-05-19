@@ -1,0 +1,61 @@
+{
+    "id": "rct2.scenery_group.scgwond",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGWOND |E20FD0F4",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.twh1",
+            "rct2.scenery_small.twh2",
+            "rct2.scenery_small.tst1",
+            "rct2.scenery_small.tst2",
+            "rct2.scenery_small.tms1",
+            "rct2.scenery_small.tst3",
+            "rct2.scenery_small.tst4",
+            "rct2.scenery_small.tst5",
+            "rct2.scenery_small.tas1",
+            "rct2.scenery_small.tas2",
+            "rct2.scenery_small.tas3",
+            "rct2.scenery_small.tas4",
+            "rct2.scenery_small.chbbase",
+            "rct2.scenery_small.tp1",
+            "rct2.scenery_small.tp2",
+            "rct2.scenery_small.tk1",
+            "rct2.scenery_small.tk2",
+            "rct2.scenery_small.tr1",
+            "rct2.scenery_small.tr2",
+            "rct2.scenery_small.tq1",
+            "rct2.scenery_small.tq2",
+            "rct2.scenery_small.tb1",
+            "rct2.scenery_small.tb2",
+            "rct2.scenery_small.tk3",
+            "rct2.scenery_small.tk4",
+            "rct2.scenery_wall.wcw1",
+            "rct2.scenery_wall.wcw2"
+        ],
+        "priority": 34
+    },
+    "images": ["$RCT2:OBJDATA/SCGWOND.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wonderland Theming",
+            "fr-FR": "Thème Pays des merveilles",
+            "de-DE": "Wunderland-Thema",
+            "es-ES": "Temática fantástica",
+            "it-IT": "Tema del paese delle meraviglie",
+            "nl-NL": "Wonderlandthema",
+            "sv-SE": "Underlandstema",
+            "ko-KR": "동화나라 테마",
+            "zh-CN": "仙境主题区",
+            "zh-TW": "仙境主題區",
+            "pt-BR": "Temática de Fantasia",
+            "cs-CZ": "Kulisy říše divů",
+            "ja-JP": "不思議の国のテーマ",
+            "pl-PL": "Wystrój Krainy Czarów",
+            "ru-RU": "Чудесная Тема",
+            "eo-OO": "Mirlando-Temo"
+        }
+    }
+}

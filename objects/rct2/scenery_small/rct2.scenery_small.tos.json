@@ -1,0 +1,37 @@
+{
+    "id": "rct2.scenery_small.tos",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TOS     |EDF6F79B",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 12,
+        "removalPrice": -10,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 24,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TOS.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Statue",
+            "es-ES": "Estatua",
+            "it-IT": "Statua",
+            "nl-NL": "Beeld",
+            "sv-SE": "Staty",
+            "ko-KR": "동상",
+            "zh-CN": "雕像",
+            "zh-TW": "雕像",
+            "pt-BR": "Estátua",
+            "cs-CZ": "Socha",
+            "ja-JP": "像",
+            "pl-PL": "Posąg",
+            "ru-RU": "Статуя",
+            "fr-FR": "Statue",
+            "eo-OO": "Statuo"
+        }
+    }
+}

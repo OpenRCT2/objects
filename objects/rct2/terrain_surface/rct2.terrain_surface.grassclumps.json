@@ -1,0 +1,32 @@
+{
+    "id": "rct2.terrain_surface.grassclumps",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT2SGC|00000000",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "terrain_surface",
+    "properties": {
+        "price": 110,
+        "smoothWithSelf": true,
+        "smoothWithOther": true
+    },
+    "images": [
+        "$G1[5585]",
+        "$G1[29001..29006]",
+        "$G1[2200..2256]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Grass Clumps",
+            "de-DE": "Grasbüschel",
+            "nl-NL": "Kluiten gras",
+            "pt-BR": "Moitas de grama",
+            "ja-JP": "草の塊",
+            "fr-FR": "Touffes d'herbe",
+            "pl-PL": "Kępy trawy",
+            "ko-KR": "잔디 수풀",
+            "eo-OO": "Tufoj da Herbo",
+            "sv-SE": "Grästuvor"
+        }
+    }
+}

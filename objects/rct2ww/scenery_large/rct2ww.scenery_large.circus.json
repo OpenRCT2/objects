@@ -1,0 +1,61 @@
+{
+    "id": "rct2ww.scenery_large.circus",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0B12|CIRCUS  |D179962B",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 68,
+        "removalPrice": -54,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 48,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 48,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 48,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 48,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/CIRCUS.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Circus",
+            "fr-FR": "Cirque",
+            "de-DE": "Zirkus",
+            "es-ES": "Circo",
+            "it-IT": "Circo",
+            "sv-SE": "Cirkus",
+            "cs-CZ": "Cirkus",
+            "ko-KR": "서커스",
+            "pl-PL": "Cyrk",
+            "ru-RU": "Цирк",
+            "pt-BR": "Circo",
+            "ja-JP": "サーカス",
+            "eo-OO": "Cirko"
+        }
+    }
+}

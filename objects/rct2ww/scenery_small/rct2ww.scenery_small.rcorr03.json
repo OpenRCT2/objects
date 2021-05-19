@@ -1,0 +1,39 @@
+{
+    "id": "rct2ww.scenery_small.rcorr03",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0411|RCORR03 |5885848A",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RCORR03.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Corrugated Roof Piece",
+            "fr-FR": "Pan de toit ondulé",
+            "de-DE": "Gewelltes Dach-Bauteil",
+            "es-ES": "Pieza de tejado ondulado",
+            "it-IT": "Pezzo di tetto ondulato",
+            "nl-NL": "Geplooid stuk dak",
+            "sv-SE": "Del av korrugerat tak",
+            "zh-CN": "金属类屋顶",
+            "cs-CZ": "Vlnitá střecha",
+            "ko-KR": "물결 무늬 지붕 조각",
+            "pl-PL": "Segment dachu z blachy falistej",
+            "ru-RU": "Деталь крыши",
+            "pt-BR": "Peça de Telhado Ondulado",
+            "ja-JP": "波形の屋根",
+            "eo-OO": "Onda Tegmentoparto"
+        }
+    }
+}

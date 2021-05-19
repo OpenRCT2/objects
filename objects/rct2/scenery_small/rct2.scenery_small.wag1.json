@@ -1,0 +1,40 @@
+{
+    "id": "rct2.scenery_small.wag1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F81|WAG1    |0338E962",
+    "sourceGame": "rct2",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 19,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "shape": "4/4",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/WAG1.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wagon",
+            "de-DE": "Wagen",
+            "es-ES": "Furgón",
+            "it-IT": "Vagone",
+            "sv-SE": "Vagn",
+            "ko-KR": "마차",
+            "zh-CN": "马车",
+            "zh-TW": "馬車",
+            "pt-BR": "Carroça",
+            "cs-CZ": "Vagón",
+            "ja-JP": "ワゴン",
+            "nl-NL": "Huifkar",
+            "pl-PL": "Wóz",
+            "ru-RU": "Фургон",
+            "fr-FR": "Chariot",
+            "eo-OO": "Ĉarego"
+        }
+    }
+}

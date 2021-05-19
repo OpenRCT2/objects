@@ -1,0 +1,100 @@
+{
+    "id": "rct2.ride.clift1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|CLIFT1  |A87D4055",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": "chairlift",
+        "category": "transport",
+        "hasShelter": true,
+        "carColours": [
+            [
+                ["yellow", "saturated_brown", "black"]
+            ],
+            [
+                ["bright_red", "yellow", "black"]
+            ],
+            [
+                ["bright_green", "yellow", "black"]
+            ],
+            [
+                ["light_blue", "white", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 148172,
+            "mass": 300,
+            "tabOffset": -22,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "frames": {
+                "flat": true,
+                "restraintAnimation": true
+            },
+            "hasAdditionalColour1": true,
+            "isChairlift": true,
+            "loadingPositions": [4, 0]
+        },
+        "buildMenuPriority": 2
+    },
+    "images": ["$RCT2:OBJDATA/CLIFT1.DAT[0..90]"],
+    "strings": {
+        "name": {
+            "en-GB": "Chairlift Cars",
+            "fr-FR": "Voiture télésiège",
+            "de-DE": "Sesselliftwagen",
+            "es-ES": "Coches de telesilla",
+            "it-IT": "Carrozze",
+            "nl-NL": "Stoeltjesliftkarretjes",
+            "sv-SE": "Gondollift",
+            "ko-KR": "리프트 차량",
+            "zh-CN": "升降机列车",
+            "zh-TW": "纜車車卡",
+            "pt-BR": "Carros de Teleférico",
+            "cs-CZ": "Kryté sedačkové lanovky",
+            "ja-JP": "チェアリフト車両",
+            "pl-PL": "Latające krzesełka",
+            "ru-RU": "Кресло-лифт",
+            "eo-OO": "Ĉaroj de Seĝlifto"
+        },
+        "description": {
+            "en-GB": "Open cars for chairlift",
+            "fr-FR": "Voitures ouvertes pour télésiège",
+            "de-DE": "Offene Wagen für Sessellift",
+            "es-ES": "Vagones abiertos para el telesilla",
+            "it-IT": "Carrozze aperte che vengono trainate",
+            "nl-NL": "Open stoeltjesliftkarretjes.",
+            "sv-SE": "Öppna gondoler för linbana",
+            "ko-KR": "철제 리프트 차량",
+            "zh-CN": "开放列车让游客上下山使用",
+            "zh-TW": "供纜車使用的開放式車卡",
+            "pt-BR": "Carros abertos para teleférico",
+            "cs-CZ": "Lanovka se sedačkami se střechou",
+            "ja-JP": "屋根のないリフトカーです",
+            "pl-PL": "Kolejka krzesełkowa z otwartymi siedziskami",
+            "ru-RU": "Открытые вагончики",
+            "eo-OO": "Subĉielaj ĉaroj de seĝlifto"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por vagón",
+            "it-IT": "2 passeggeri a carrozza",
+            "nl-NL": "2 passagiers per karretje",
+            "sv-SE": "2 passagerare per gondol",
+            "ko-KR": "차량당 2명의 승객",
+            "zh-CN": "2 位乘客/每个车厢",
+            "zh-TW": "每車卡2位乘客",
+            "pt-BR": "2 passageiros por carro",
+            "cs-CZ": "2 místa na jedné sedačce",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира",
+            "eo-OO": "Po 2 pasaĝeroj por ĉaro"
+        }
+    }
+}

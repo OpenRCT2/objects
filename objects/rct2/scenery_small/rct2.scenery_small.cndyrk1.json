@@ -1,0 +1,41 @@
+{
+    "id": "rct2.scenery_small.cndyrk1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|CNDYRK1 |2B70B3E8",
+    "sourceGame": "rct2",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 19,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 64,
+        "shape": "1/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasSecondaryColour": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/CNDYRK1.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Candy Stick",
+            "fr-FR": "Sucre d'orge",
+            "de-DE": "Zuckerstange",
+            "es-ES": "Palo de caramelo",
+            "it-IT": "Stecca di zucchero",
+            "nl-NL": "Snoepreep",
+            "sv-SE": "Slickepinne",
+            "ko-KR": "사탕 스틱",
+            "zh-CN": "糖果棒",
+            "zh-TW": "糖果棒",
+            "pt-BR": "Barra de Doce",
+            "cs-CZ": "Sladká tyčinka",
+            "ja-JP": "キャンディースティック",
+            "pl-PL": "Batonik",
+            "ru-RU": "Конфета",
+            "eo-OO": "Dolĉaĵobatilo"
+        }
+    }
+}

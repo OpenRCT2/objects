@@ -1,0 +1,43 @@
+{
+    "id": "rct2tt.scenery_small.psntwl29",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F821|PSNTWL29|36CCFF5F",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 12,
+        "removalPrice": -8,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 16,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "2/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/PSNTWL29.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Dark Age Village Window Box Roof",
+            "fr-FR": "Toit de jardinière du village médiéval",
+            "de-DE": "Mittelalterdorf - Balkonkastendach",
+            "es-ES": "Ventana de tejado de pueblo medieval",
+            "it-IT": "Copertura dei vasi di fiori del villaggio dell'Età Oscura",
+            "nl-NL": "Dak vensterraam middeleeuws dorp",
+            "sv-SE": "Tak med fönster, medeltida by",
+            "ko-KR": "암흑 시대 마을 창가 화단 지붕",
+            "zh-TW": "黑暗時代村莊屋頂窗框",
+            "pt-BR": "Topo de Jardineira de Vila da Idade Média",
+            "cs-CZ": "Starodávná vesnice - střešní okno",
+            "pl-PL": "Miasteczko średniowieczne - dach z lukarną",
+            "ru-RU": "Средневековая крыша с окном",
+            "ja-JP": "暗黒時代の村の窓ボックスの屋根",
+            "eo-OO": "Tegmento de Fenestrokesto de Vilaĝo de Malluma Epoko"
+        }
+    }
+}

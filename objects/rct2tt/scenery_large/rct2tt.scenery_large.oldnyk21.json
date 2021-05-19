@@ -1,0 +1,50 @@
+{
+    "id": "rct2tt.scenery_large.oldnyk21",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F922|OLDNYK21|3EA3CBC8",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 28,
+        "removalPrice": -22,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 96,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 96,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/OLDNYK21.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "New York Wall Piece",
+            "fr-FR": "Section de mur de New York",
+            "de-DE": "New-York-Mauerstück",
+            "es-ES": "Sección de muro de Nueva York",
+            "it-IT": "Tratto di muro di New York",
+            "nl-NL": "Muurstuk New York",
+            "sv-SE": "Väggdel, New York",
+            "ko-KR": "뉴욕 벽 조각",
+            "zh-TW": "紐約牆面塊",
+            "pt-BR": "Peça de Parede de Nova York",
+            "cs-CZ": "New York stěna",
+            "pl-PL": "Segment ściany nowojorskiej",
+            "ru-RU": "Стена",
+            "ja-JP": "ニューヨーク　壁部分",
+            "eo-OO": "Novjorka Muroparto"
+        }
+    }
+}

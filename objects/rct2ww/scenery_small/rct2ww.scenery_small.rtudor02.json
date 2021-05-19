@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.rtudor02",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A11|RTUDOR02|1F0BD147",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RTUDOR02.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tudor Roof Piece 1 Extender Piece",
+            "fr-FR": "Pan d'extension de toit Tudor 1",
+            "de-DE": "Tudor-Dach-Bauteil 1 - Ausbauteil",
+            "es-ES": "Pieza de tejado Tudor 1 pieza de extensión",
+            "it-IT": "Pezzo di estensione di tetto Tudor",
+            "nl-NL": "Verlengend stuk dak in Tudorstijl",
+            "sv-SE": "Tudor-takdel 1 förlängning",
+            "cs-CZ": "Tudorská střecha",
+            "ko-KR": "튜더식 지붕 조각 1 확장 조각",
+            "pl-PL": "Elżbietański segment dachu 1 przedłużenie",
+            "ru-RU": "Деталь крыши",
+            "pt-BR": "Peça de Telhado Tudor 1 Peça de Extensão",
+            "ja-JP": "チューダーの屋1（延出片）",
+            "eo-OO": "Plilongilo de Tudorstila Tegmentoparto 1"
+        }
+    }
+}

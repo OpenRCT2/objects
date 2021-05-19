@@ -1,0 +1,45 @@
+{
+    "id": "rct2tt.scenery_small.gdalien3",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB21|GDALIEN3|4EDEF51C",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 28,
+        "removalPrice": -22,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "animationDelay": 2,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/GDALIEN3.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Animatronic Good Alien",
+            "fr-FR": "Automate : extraterrestre sympa",
+            "de-DE": "Animatronic Guter Außerirdischer",
+            "es-ES": "Alienígena bueno animatrónico",
+            "it-IT": "Animatrone alieno amico",
+            "nl-NL": "Animatronisch Goed Buitenaards Wezen",
+            "sv-SE": "God utomjording (animatronisk)",
+            "ko-KR": "움직이는 착한 외계인",
+            "zh-TW": "善良外星人機械偶",
+            "pt-BR": "Alienígena Bondoso Animatrônico",
+            "cs-CZ": "Pohybující se hodný mimozemšťan",
+            "pl-PL": "Mechaniczny dobry kosmita",
+            "ru-RU": "Инопланетянин",
+            "ja-JP": "アニマトロニックの善良なエイリアン",
+            "eo-OO": "Animatronika Bona Eksterterulo"
+        }
+    }
+}

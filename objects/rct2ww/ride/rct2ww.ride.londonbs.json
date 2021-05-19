@@ -1,0 +1,121 @@
+{
+    "id": "rct2ww.ride.londonbs",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0810|LONDONBS|20DA2498",
+    "sourceGame": "rct2ww",
+    "objectType": "ride",
+    "properties": {
+        "type": "miniature_railway",
+        "category": "transport",
+        "tabScale": 0.5,
+        "hasShelter": true,
+        "playDepartSound": true,
+        "noCollisionCrashes": true,
+        "minCarsPerTrain": 2,
+        "maxCarsPerTrain": 2,
+        "numEmptyCars": 2,
+        "tailCars": 1,
+        "carColours": [
+            [
+                ["bright_red", "yellow", "black"]
+            ],
+            [
+                ["yellow", "white", "black"]
+            ],
+            [
+                ["light_blue", "white", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 278912,
+                "mass": 3000,
+                "numSeats": 10,
+                "numSeatRows": 5,
+                "frictionSoundId": 31,
+                "soundRange": 4,
+                "poweredAcceleration": 250,
+                "poweredMaxSpeed": 19,
+                "drawOrder": 10,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true
+                },
+                "isPowered": true,
+                "loadingPositions": [12, -12, 12, -12, 12, -12, 13, 11, -13, -11]
+            },
+            {
+                "spacing": 139456,
+                "frictionSoundId": 31,
+                "soundRange": 4,
+                "poweredAcceleration": 250,
+                "poweredMaxSpeed": 19,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "isPowered": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/LONDONBS.DAT[0..802]"],
+    "strings": {
+        "name": {
+            "en-GB": "Routemaster Buses",
+            "fr-FR": "Tram bus londonien",
+            "de-DE": "Londoner Busse",
+            "es-ES": "Tranvía de autobús londinense",
+            "it-IT": "Autobus di Londra",
+            "nl-NL": "Londense bus",
+            "sv-SE": "Londonbuss",
+            "zh-CN": "伦敦有轨电车巴士",
+            "ja-JP": "ロンドンバス",
+            "cs-CZ": "Tramvaj ve tvaru Londýnského autobusu",
+            "ko-KR": "런던 버스",
+            "pl-PL": "Londyński piętrus",
+            "pt-BR": "Ônibus Routemaster",
+            "ru-RU": "Автобус",
+            "eo-OO": "Londonaj Etaĝaj Busoj"
+        },
+        "description": {
+            "en-GB": "Replicas of the famous London Routemaster bus",
+            "fr-FR": "Répliques de trams",
+            "de-DE": "Nachbauten des berühmten Londoner Routemaster-Busses",
+            "es-ES": "Réplica de tranvías",
+            "it-IT": "Replica del famoso autobus Routemaster di Londra",
+            "nl-NL": "Replica van de beroemde Londense Routemasters.",
+            "sv-SE": "Kopior på gamla bussar av London-typ",
+            "zh-CN": "有轨电车复制品",
+            "ja-JP": "ルートマスターバスのレプリカです",
+            "ar-EG": "Replicas of the famous London Routemaster bus",
+            "cs-CZ": "Repliky červených dvoupatrových londýnských autobusů",
+            "en-US": "Replicas of the famous London Routemaster bus",
+            "ko-KR": "유명한 런던 루트마스터 버스의 모형",
+            "pl-PL": "Wagoniki są replikami londyńskich autobusów",
+            "pt-BR": "Réplicas do famoso ônibus Routemaster de Londres",
+            "ru-RU": "Автобус",
+            "eo-OO": "Replikaĵoj de la fama Londona Etaĝa Buso"
+        },
+        "capacity": {
+            "en-GB": "10 passengers per car",
+            "fr-FR": "10 passagers par voiture",
+            "de-DE": "10 pro Waggon",
+            "es-ES": "10 pasajeros por vagón",
+            "it-IT": "10 passeggeri per carrozza",
+            "nl-NL": "10 passagiers per bus",
+            "sv-SE": "10 passagerare per buss",
+            "zh-CN": "每辆车限乘10人",
+            "ja-JP": "各車両10名",
+            "cs-CZ": "10 míst v každém voze",
+            "ko-KR": "차량당 10명의 승객",
+            "pl-PL": "10 pasażerów na wagonik",
+            "pt-BR": "10 passageiros por carro",
+            "ru-RU": "10 пассажиров в вагон",
+            "eo-OO": "Po 10 pasaĝeroj por ĉaro"
+        }
+    }
+}

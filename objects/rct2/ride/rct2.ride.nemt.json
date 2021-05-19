@@ -1,0 +1,114 @@
+{
+    "id": "rct2.ride.nemt",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|NEMT    |65343930",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "ride",
+    "properties": {
+        "type": "inverted_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 4,
+        "maxCarsPerTrain": 9,
+        "carColours": [
+            [
+                ["dark_brown", "yellow", "black"]
+            ],
+            [
+                ["bordeaux_red", "white", "black"]
+            ],
+            [
+                ["dark_green", "bright_red", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 130740,
+            "mass": 570,
+            "tabOffset": -18,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 57,
+            "soundRange": 0,
+            "drawOrder": 1,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "verticalSlopes": true,
+                "diagonalSlopes": true,
+                "flatBanked": true,
+                "inlineTwists": true,
+                "flatToGentleSlopeBankedTransitions": true,
+                "diagonalGentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTurns": true,
+                "flatToGentleSlopeWhileBankedTransitions": true,
+                "corkscrews": true,
+                "restraintAnimation": true
+            },
+            "hasAdditionalColour1": true,
+            "hasScreamingRiders": true,
+            "loadingPositions": [1, 3, 1, 3]
+        },
+        "buildMenuPriority": 1
+    },
+    "images": ["$RCT2:OBJDATA/NEMT.DAT[0..2522]"],
+    "strings": {
+        "name": {
+            "en-GB": "4-across Inverted Roller Coaster Trains",
+            "fr-FR": "Montagnes russes inversées",
+            "de-DE": "Umgekehrte seitl. Viersitzer-Achterbahnzüge",
+            "es-ES": "Montaña Rusa Invertida",
+            "it-IT": "Ottovolante invertito",
+            "nl-NL": "Vierpersoonstrein",
+            "sv-SE": "4-i-bredd-vagnar för inverterad berg- och dalbana",
+            "ko-KR": "4인승 인버티드 롤러코스터 차량",
+            "zh-CN": "倒转式过山车",
+            "zh-TW": "倒轉式雲霄飛車",
+            "pt-BR": "Trens Montanha-Russa Invertida (4 assentos)",
+            "cs-CZ": "Čtyřmístná zavěšená horská dráha",
+            "ja-JP": "インバーテッド・ジェットコースター",
+            "pl-PL": "Kolejka odwrotna",
+            "ru-RU": "Перевёрнутые горки",
+            "eo-OO": "4-horizontalaj Trajnoj de Inversigita Onda Fervojo"
+        },
+        "description": {
+            "en-GB": "Suspended trains in which riders sit in rows",
+            "fr-FR": "Les passagers parcourent des boucles géantes, des virages et des grandes descentes en piqué, installés sur des sièges suspendus à la voie",
+            "de-DE": "Aufgehängte Züge, in denen die Fahrgäste in Sitzreihen Platz nehmen",
+            "es-ES": "Los pasajeros se sientan en asientos suspendidos bajo la vía y corren por rizos gigantes, giros y grandes caídas",
+            "it-IT": "I passeggeri siedono su sedili sospesi sotto il tracciato e affrontano giri della morte giganti, curve e lunghe discese a strapiombo",
+            "nl-NL": "Passagiers zitten in stoelen die onder de baan hangen terwijl ze door grote loopings, twists en grote adembenemende afdelingen gaan.",
+            "sv-SE": "Upphängda vagnar där passagerarna sitter i rader",
+            "ko-KR": "거대한 루프, 트위스트와 급격한 낙하 트랙을 따라 이동하며, 탑승객이 트랙 아래에 매달린 좌석에 앉는 차량",
+            "zh-CN": "游客坐在悬吊在轨道下的座椅上，当快速通过大型旋转回圈，令人感觉有俯冲下坠感。",
+            "zh-TW": "遊客坐在懸吊在軌道下的座椅上，當快速通過大型旋轉迴圈，令人感覺有俯衝下墜感。",
+            "pt-BR": "Trens suspensos onde os passageiros se sentam em fileiras",
+            "cs-CZ": "Vozy jsou zavěšeny na kolejnicích se zatáčkami, pády a loopingy",
+            "ja-JP": "コースの下にぶら下がった座席があり、コースには巨大ループ、ひねり、急降下があります",
+            "pl-PL": "Pasażerowie siedzą w fotelach podwieszonych pod torem, pokonując wielkie pętle, zakręty i zakręcone zjazdy",
+            "ru-RU": "Пассажиры сидят под треком и несутся по огромным кольцам с переворотами и падениями.",
+            "eo-OO": "Penditaj trajnoj, en kiuj rajdantoj sidas en vicoj"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량당 4명의 승객",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира",
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

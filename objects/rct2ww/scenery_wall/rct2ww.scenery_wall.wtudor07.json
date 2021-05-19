@@ -1,0 +1,32 @@
+{
+    "id": "rct2ww.scenery_wall.wtudor07",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0B13|WTUDOR07|37BFF102",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WTUDOR07.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tudor Ground Floor Wall Piece 7",
+            "fr-FR": "Pan de mur de rez-de-chaussée Tudor 7",
+            "de-DE": "Tudor-Erdgeschoss-Wandbauteil 7",
+            "es-ES": "Pieza de pared de suelo Tudor 7",
+            "it-IT": "Pezzo di muro Tudor del piano terra 7",
+            "nl-NL": "Grondstuk muur in Tudorstijl 7",
+            "sv-SE": "Tudor-väggdel för nedre våning 7",
+            "cs-CZ": "Tudorská přízemní stěna - část 7",
+            "ko-KR": "튜더식 지면 바닥 벽 조각 7",
+            "pl-PL": "Elżbietański segment ściany parteru 7",
+            "ru-RU": "Деталь стены",
+            "pt-BR": "Peça da Parede do Andar Térreo Tudor 7",
+            "ja-JP": "チューダー1階の壁7",
+            "eo-OO": "Tudorstila Ternivela Muroparto 7"
+        }
+    }
+}

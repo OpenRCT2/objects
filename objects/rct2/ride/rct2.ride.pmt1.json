@@ -1,0 +1,141 @@
+{
+    "id": "rct2.ride.pmt1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|PMT1    |F8FD41B4",
+    "sourceGame": "rct2",
+    "objectType": "ride",
+    "properties": {
+        "type": "mine_ride",
+        "category": "rollercoaster",
+        "minCarsPerTrain": 4,
+        "maxCarsPerTrain": 10,
+        "defaultCar": 1,
+        "headCars": 0,
+        "carColours": [
+            [
+                ["bright_red", "dark_brown", "saturated_brown"]
+            ],
+            [
+                ["dark_brown", "bordeaux_red", "yellow"]
+            ],
+            [
+                ["bordeaux_red", "black", "saturated_brown"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 191752,
+                "mass": 500,
+                "numSeats": 2,
+                "numSeatRows": 1,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "poweredAcceleration": 130,
+                "poweredMaxSpeed": 65,
+                "drawOrder": 7,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "isPoweredRideWithUnrestrictedGravity": true,
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "isPowered": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [3, -1]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 191752,
+                "mass": 500,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "poweredAcceleration": 130,
+                "poweredMaxSpeed": 65,
+                "drawOrder": 7,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "isPoweredRideWithUnrestrictedGravity": true,
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "isPowered": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [7, 9, -3, -1]
+            }
+        ],
+        "buildMenuPriority": 1
+    },
+    "images": ["$RCT2:OBJDATA/PMT1.DAT[0..1822]"],
+    "strings": {
+        "name": {
+            "en-GB": "Powered Mine Trains",
+            "fr-FR": "Mineur",
+            "de-DE": "Elektrische Minenzüge",
+            "es-ES": "Trenes Mineros",
+            "it-IT": "Corsa in miniera",
+            "nl-NL": "Aangedreven mijntrein",
+            "sv-SE": "Eldrivna gruvtåg",
+            "ko-KR": "동력 탄광 차량",
+            "zh-CN": "矿坑列车",
+            "zh-TW": "礦坑列車",
+            "pt-BR": "Trens de Mina Motorizados",
+            "cs-CZ": "Důlní jízda",
+            "ja-JP": "マイン・ライド",
+            "pl-PL": "Przejażdżka kopalniana",
+            "ru-RU": "Рудник",
+            "eo-OO": "Ŝaltitaj Mino-Trajnoj"
+        },
+        "description": {
+            "en-GB": "Mine train-themed roller coaster trains that propel themselves",
+            "fr-FR": "Train de mine à propulsion franchissant une voie régulière et alambiquée",
+            "de-DE": "Achterbahnzüge im Minenzugstil, mit Eigenantrieb",
+            "es-ES": "Trenes mineros autopropulsados corren a lo largo de una vía enredada",
+            "it-IT": "Treni a motore da miniera si fanno strada lungo un tracciato pianeggiante ma pieno di curve",
+            "nl-NL": "Aangedreven mijntreinen rijden over een soepele en kronkelende baan.",
+            "sv-SE": "Berg- och dalbanegruvtåg med elmotordrift",
+            "ko-KR": "부드럽게 꼬인 트랙 구조를 따라 달리는 동력 탄광 차량",
+            "zh-CN": "具动力式矿坑列车冲向平滑旋转式轨道上",
+            "zh-TW": "具動力式礦坑列車衝向平滑旋轉式軌道上",
+            "pt-BR": "Montanha russa com trens de temática de mina que se auto impulsionam",
+            "cs-CZ": "Horská dráha s vozy ve stylu důlních vagónů, které jedou po hladkých kolejnicích skrze propletenou dráhu",
+            "ja-JP": "動力付きの鉱山列車がスムーズでひねりのあるコースを進む乗物です",
+            "pl-PL": "Napędzane wagoniki kopalniane jadą po gładkim i zakręconym torze",
+            "ru-RU": "Шахтёрские поезда несутся по сложному треку.",
+            "eo-OO": "Minotrajno-temitaj trajnoj de onda fervojo, kiuj iras per si mem"
+        },
+        "capacity": {
+            "en-GB": "2 or 4 passengers per car",
+            "fr-FR": "2 ou 4 passagers par voiture",
+            "de-DE": "2 bzw. 4 Fahrgäste pro Wagen",
+            "es-ES": "2 ó 4 pasajeros por vagón",
+            "it-IT": "2 o 4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per karretje (voorste karretje 2)",
+            "sv-SE": "2 eller 4 passagerare per vagn",
+            "ko-KR": "차량당 2명 또는 4명의 승객",
+            "zh-CN": "2 或 4 位乘客/每个车厢",
+            "zh-TW": "2 或 4 位乘客/每個車廂",
+            "pt-BR": "2 ou 4 passageiros por vagão",
+            "cs-CZ": "2 nebo 4 místa v každém voze",
+            "ja-JP": "各車両2名または4名",
+            "pl-PL": "2 lub 4 pasażerów na wagonik",
+            "ru-RU": "2 или 4 пассажира",
+            "eo-OO": "Po 2 aŭ 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

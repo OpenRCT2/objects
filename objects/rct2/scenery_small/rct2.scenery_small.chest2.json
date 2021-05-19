@@ -1,0 +1,38 @@
+{
+    "id": "rct2.scenery_small.chest2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|CHEST2  |157BE948",
+    "sourceGame": "rct2",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 9,
+        "removalPrice": -6,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 24,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/CHEST2.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Treasure Chest",
+            "fr-FR": "Trésor",
+            "de-DE": "Schatztruhe",
+            "es-ES": "Cofre del tesoro",
+            "it-IT": "Scrigno del tesoro",
+            "nl-NL": "Schatkist",
+            "sv-SE": "Skattkista",
+            "ko-KR": "보물 상자",
+            "zh-CN": "珠宝盒",
+            "zh-TW": "珠寶盒",
+            "pt-BR": "Arca do Tesouro",
+            "cs-CZ": "Truhla s pokladem",
+            "ja-JP": "宝箱",
+            "pl-PL": "Skrzynia ze skarbem",
+            "ru-RU": "Сундук",
+            "eo-OO": "Trezorkesto"
+        }
+    }
+}

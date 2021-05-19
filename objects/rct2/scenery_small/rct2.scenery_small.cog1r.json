@@ -1,0 +1,46 @@
+{
+    "id": "rct2.scenery_small.cog1r",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|COG1R   |63C81A5E",
+    "sourceGame": "rct2",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 8,
+        "animationDelay": 1,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isAnimated": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+    },
+    "images": ["$RCT2:OBJDATA/COG1R.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cogwheel",
+            "fr-FR": "Roue dentée",
+            "de-DE": "Zahnrad",
+            "es-ES": "Rueda dentada",
+            "it-IT": "Ruota dentata",
+            "nl-NL": "Tandrad",
+            "sv-SE": "Kugghjul",
+            "ko-KR": "톱니바퀴",
+            "zh-CN": "木齿铁轮",
+            "zh-TW": "木齒鐵輪",
+            "pt-BR": "Roda Dentada",
+            "cs-CZ": "Ozubené kolo",
+            "ja-JP": "はめ歯歯車",
+            "pl-PL": "Koło zębate",
+            "ru-RU": "Шестерёнка",
+            "eo-OO": "Dentrado"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "id": "rct2tt.scenery_large.hrbwal11",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA22|HRBWAL11|15379DD3",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 24,
+        "removalPrice": -18,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 96,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 96,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 96,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 96,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/HRBWAL11.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Harbour Dock",
+            "fr-FR": "Quai du port",
+            "de-DE": "Hafendock",
+            "es-ES": "Embarcadero",
+            "it-IT": "Banchina del porto",
+            "nl-NL": "Havendok",
+            "sv-SE": "Kaj",
+            "ko-KR": "항구",
+            "zh-TW": "港口船塢",
+            "pt-BR": "Doca de Porto",
+            "cs-CZ": "Přístav - dok",
+            "pl-PL": "Dok przystani",
+            "ru-RU": "Док",
+            "ja-JP": "港の波止場",
+            "eo-OO": "Havenodoko"
+        }
+    }
+}

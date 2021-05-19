@@ -1,0 +1,108 @@
+{
+    "id": "rct2.ride.intinv",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|INTINV  |695D7C15",
+    "sourceGame": "rct2",
+    "objectType": "ride",
+    "properties": {
+        "type": "inverted_impulse_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 4,
+        "maxCarsPerTrain": 9,
+        "carColours": [
+            [
+                ["light_blue", "black", "bright_red"]
+            ],
+            [
+                ["black", "bordeaux_red", "yellow"]
+            ],
+            [
+                ["bordeaux_red", "white", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 244048,
+            "mass": 770,
+            "tabOffset": -18,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 1,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "verticalSlopes": true,
+                "restraintAnimation": true
+            },
+            "hasAdditionalColour2": true,
+            "hasAdditionalColour1": true,
+            "hasScreamingRiders": true,
+            "loadingPositions": [6, 8, -4, -6]
+        },
+        "buildMenuPriority": 1
+    },
+    "images": ["$RCT2:OBJDATA/INTINV.DAT[0..938]"],
+    "strings": {
+        "name": {
+            "en-GB": "Impulse Trains",
+            "fr-FR": "Impulsion inversée",
+            "de-DE": "Impuls-Züge",
+            "es-ES": "Montaña Rusa Impulso Inverso",
+            "it-IT": "Corsa invertita a impulsi",
+            "nl-NL": "Impulse-trein",
+            "sv-SE": "Impulsvagnar",
+            "ko-KR": "임펄스 차량",
+            "zh-CN": "瞬间反转过山车",
+            "zh-TW": "瞬間反轉飛車",
+            "pt-BR": "Trens Impulso",
+            "ar-EG": "Impulse Trains",
+            "cs-CZ": "Horská dráha ve tvaru \"U\"",
+            "en-US": "Impulse Trains",
+            "ja-JP": "インバーテッド・インパルス・コースター",
+            "pl-PL": "Kolejka zwrotna",
+            "ru-RU": "Обратно-импульсные горки",
+            "eo-OO": "Lanĉitaj Trajnoj"
+        },
+        "description": {
+            "en-GB": "Inverted roller coaster trains for the Inverted Impulse Coaster",
+            "fr-FR": "Les trains de montagnes russes à impulsion sont propulsés hors de la station puis, après avoir atteint une pointe verticale, redescendent vers la station et entament une nouvelle montée verticale en sens inverse",
+            "de-DE": "Umgekehrte Achterbahnzüge für die umgekehrte Impuls-Bahn",
+            "es-ES": "Los vagones de la montaña rusa invertida aceleran saliendo del andén y toman un tramo de vía vertical, entonces vuelven marcha atrás pasando por el andén y subiendo por otro tramo de vía vertical",
+            "it-IT": "Treni da ottovolante invertiti accelerano partendo dalla stazione lungo un braccio verticale del tracciato, quindi tornano in retromarcia alla stazione per salire su un altro braccio verticale",
+            "nl-NL": "Een omgekeerde achtbaantrein wordt het station uit gelanceerd en gaat een verticale kronkelende baan op, waarna deze terugzakt, door het station heengaat en achteruit een ander stuk verticale baan opgaat.",
+            "sv-SE": "Inverterade vagnar till den inverterade impuls-berg- och dalbanan",
+            "ko-KR": "수직으로 솟은 트랙을 오르기 위해 역에서 급가속한 뒤, 다시 역방향으로 되돌아와 역을 통과해서 뒷쪽의 또다른 수직 트랙을 올라가는 인버티드 롤러코스터 차량",
+            "zh-CN": "反转过山车是由车站加速射出如大钉子般垂直轨道上方,然後再倒退回到车站并冲向另一边垂直轨道上",
+            "zh-TW": "反轉雲霄飛車是由車站加速射出如大釘子般垂直軌道上方,然後再倒退回到車站並衝向另一邊垂直軌道上",
+            "pt-BR": "Trens de montanha-russa invertida para a montanha-russa invertida de impulsão",
+            "cs-CZ": "Vozy vyrazí vstříc jednomu konci trati, poté prosviští pozpátku stanicí a vyletí až na druhý konec trati",
+            "ja-JP": "逆向きのローラーコースターで、発着所から加速して発進し、垂直な絶壁を駆け上ると今度は後ろから発着所に戻り、もうひとつの絶壁を後ろ向きに登ります",
+            "pl-PL": "Wagoniki tego typu kolejki są wciągane ze stacji na pionowy odcinek toru, po czym zjeżdżają z niego, przejeżdżają z powrotem przez stację i wjeżdżają siłą rozpędu tyłem na drugi pionowy odcinek",
+            "ru-RU": "Развернутые поезда разгоняются от станции по вертикальному треку, спускаются вниз и забираются на новый подъём.",
+            "eo-OO": "Inversigitaj trajnoj de onda fervojo por la Inversigita Lanĉita Onda Fervojo"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량당 4명의 승객",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира",
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "id": "rct2ww.scenery_large.bamborf3",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0012|BamboRf3|E4E14BCA",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 28,
+        "removalPrice": -24,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 88,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 88,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 88,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 88,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/BAMBORF3.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Bamboo Roof Inverted Corner",
+            "fr-FR": "Toit de bambou",
+            "de-DE": "Bambusdach",
+            "es-ES": "Tejado de bambú",
+            "it-IT": "Tetto di bambù",
+            "nl-NL": "Bamboedak",
+            "sv-SE": "Bambutak med vinkelränna",
+            "zh-CN": "竹顶",
+            "cs-CZ": "Bambusová střecha",
+            "ko-KR": "대나무 지붕",
+            "ru-RU": "Крыша",
+            "pt-BR": "Telhado de Bambu",
+            "ja-JP": "竹の屋根",
+            "pl-PL": "Bambusowy róg dachu odwócony",
+            "eo-OO": "Inversigita Angulo de Bambua Tegmento"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": "rct2tt.scenery_small.alenplt2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB21|ALENPLT2|9E93EBD4",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 14,
+        "removalPrice": 12,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 64,
+        "animationDelay": 3,
+        "animationMask": 15,
+        "numFrames": 16,
+        "sceneryGroup": "rct2.scenery_group.scgshrub",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isAnimated": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/ALENPLT2.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Alien Plant",
+            "fr-FR": "Plante extraterrestre",
+            "de-DE": "Außerirdische Pflanze",
+            "es-ES": "Planta alienígena",
+            "it-IT": "Pianta aliena",
+            "nl-NL": "Buitenaardse Plant",
+            "sv-SE": "Utomjordisk växt",
+            "ko-KR": "외계 식물",
+            "zh-TW": "外星植物",
+            "pt-BR": "Planta Alienígena",
+            "cs-CZ": "Mimozemská Rostlina",
+            "pl-PL": "Roślina kosmitów",
+            "ru-RU": "Растение",
+            "ja-JP": "エイリアン惑星",
+            "eo-OO": "Ekstertera Kreskaĵo"
+        }
+    }
+}

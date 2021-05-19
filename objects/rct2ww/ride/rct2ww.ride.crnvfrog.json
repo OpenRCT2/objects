@@ -1,0 +1,110 @@
+{
+    "id": "rct2ww.ride.crnvfrog",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31C10|CRNVFROG|5C24055D",
+    "sourceGame": "rct2ww",
+    "objectType": "ride",
+    "properties": {
+        "type": "car_ride",
+        "category": "gentle",
+        "noCollisionCrashes": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "carColours": [
+            [
+                ["bright_red", "yellow", "black"]
+            ],
+            [
+                ["dark_green", "olive_green", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 174320,
+                "mass": 300,
+                "numSeats": 2,
+                "numSeatRows": 1,
+                "poweredAcceleration": 90,
+                "poweredMaxSpeed": 8,
+                "drawOrder": 9,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "isPowered": true,
+                "loadingPositions": [4, -4]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "poweredAcceleration": 90,
+                "poweredMaxSpeed": 8,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "isPowered": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/CRNVFROG.DAT[0..242]"],
+    "strings": {
+        "name": {
+            "en-GB": "Carnival Frog Cars",
+            "fr-FR": "Carnaval - Voitures grenouilles",
+            "de-DE": "Karnevalsfroschwagen",
+            "es-ES": "Atracción flotadores de carnaval; vagones rana",
+            "it-IT": "Carnevale sull'acqua - Carrozze rana",
+            "nl-NL": "Kikkerwagentjes",
+            "sv-SE": "Karnevalbilar med grodor",
+            "cs-CZ": "Žabí autodráha",
+            "ja-JP": "カーニバルフロート (カエル車両)",
+            "ko-KR": "카니발 플로트 라이드 - 개구리 차량",
+            "pl-PL": "Parada na platformach - żaby",
+            "ru-RU": "Карнавал - Лягушки",
+            "pt-BR": "Carros Sapo do Carnaval",
+            "eo-OO": "Karnavalaj Rano-Ĉaroj"
+        },
+        "description": {
+            "en-GB": "Cars in the shape of frog carnival floats",
+            "fr-FR": "Voitures de montagnes russes en forme de chars grenouilles de carnaval",
+            "de-DE": "Froschförmige Karnevalswagen",
+            "es-ES": "Vagones de montaña rusa con forma de flotadores rana de carnaval",
+            "it-IT": "Carrozze galleggianti di ottovolante a forma di rana",
+            "nl-NL": "Elektrische carnivalsoptochtwagentjes in de vorm van een kikker.",
+            "sv-SE": "Motordrivna karnevalbilar med grodmotiv",
+            "cs-CZ": "Vozy ve tvaru žab jezdí po postavené dráze",
+            "ja-JP": "カエルの形をしたカーニバルフロート車両です",
+            "ko-KR": "개구리 퍼레이드 차량 모양의 롤러코스터 차량",
+            "pl-PL": "Wagoniki w kształcie żabich platform",
+            "ru-RU": "Вагончики в форме лягушек",
+            "pt-BR": "Carros de montanha-russa em forma de sapos",
+            "eo-OO": "Ĉaroj formitaj kiel rano-paradiloj"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 pro Wagen",
+            "es-ES": "2 pasajeros por vagón",
+            "it-IT": "2 passeggeri per carrozza",
+            "nl-NL": "2 passagiers per karretje",
+            "sv-SE": "2 passagerare per bil",
+            "cs-CZ": "2 místa v každém voze",
+            "ja-JP": "各車両2名",
+            "ko-KR": "차량당 2명의 승객",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира",
+            "pt-BR": "2 passageiros por carro",
+            "eo-OO": "Po 2 pasaĝeroj por ĉaro"
+        }
+    }
+}

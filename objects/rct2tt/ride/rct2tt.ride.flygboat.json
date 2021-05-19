@@ -1,0 +1,128 @@
+{
+    "id": "rct2tt.ride.flygboat",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F920|FLYGBOAT|20A4036F",
+    "sourceGame": "rct2tt",
+    "objectType": "ride",
+    "properties": {
+        "type": "water_coaster",
+        "category": [
+            "water",
+            "rollercoaster"
+        ],
+        "playSplashSoundSlide": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "maxHeight": 25,
+        "carColours": [
+            [
+                ["dark_brown", "bright_red", "black"]
+            ],
+            [
+                ["grey", "dark_brown", "black"]
+            ],
+            [
+                ["saturated_brown", "dark_green", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 244048,
+                "mass": 950,
+                "numSeats": 6,
+                "numSeatRows": 3,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "effectVisual": 14,
+                "drawOrder": 10,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true
+                },
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [7, 9, 2, 4, -3, -1]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 87160,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "carVisual": 8,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/FLYGBOAT.DAT[0..1762]"],
+    "strings": {
+        "name": {
+            "en-GB": "Flying Boats",
+            "fr-FR": "Bateau volant",
+            "de-DE": "Fliegende Schiffe",
+            "es-ES": "Viaje en el bote volante",
+            "it-IT": "Corsa delle navi volanti",
+            "nl-NL": "Vliegende boten",
+            "sv-SE": "Flygbåtar",
+            "ko-KR": "플라잉 보트",
+            "zh-TW": "飛行船遊樂設施",
+            "ja-JP": "飛行艇",
+            "pt-BR": "Barcos voadores",
+            "ar-EG": "القوارب الطائرة",
+            "cs-CZ": "Létající lodě",
+            "en-US": "Flying boats",
+            "pl-PL": "Latający Holender",
+            "ru-RU": "Парящая лодка",
+            "eo-OO": "Flugantaj Boatoj"
+        },
+        "description": {
+            "en-GB": "Roller coaster cars shaped like flying boats",
+            "fr-FR": "Des voitures en forme de bateau franchissent des virages serrés et des descentes abruptes, et plongent dans des zones aquatiques",
+            "de-DE": "Achterbahnzüge in der Form von fliegenden Schiffen",
+            "es-ES": "Los vagones en forma de bote volante corren por el recorrido de la montaña rusa, con curvas cerradas y caídas pronunciadas, pasando por zonas de agua.",
+            "it-IT": "Carrozze volanti a forma di barca viaggiano lungo l'ottovolante, caratterizzato da ripide discese, curve avvitate e tuffi in sezioni acquatiche più tranquille.",
+            "nl-NL": "Bootvormige karretjes rijden over achtbaanrails, waardoor ze hellende bochten en diepe afdalingen kunnen maken, waarna ze in bakken water neerplonzen en rustig een stukje kunnen varen.",
+            "sv-SE": "Berg- och dalbanevagnar i form av flygbåtar",
+            "ko-KR": "비행정 모양의 차량이 꼬인 커브와 낙하로 구성된 롤러코스터 트랙을 따라 내려온 뒤 물보라를 일으키며 부드럽게 강 섹션으로 내려오는 놀이기구",
+            "zh-TW": "飛船外形的列車在雲霄飛車軌道上的曲線迴轉及陡坡急墜軌道上運行,將平靜的河面激起大量的水花。",
+            "pt-BR": "Vagões em formato de hidroaviões",
+            "ja-JP": "飛行艇型の車両を持つローラーコースターで、カーブや急降下、川にスプラッシュします",
+            "cs-CZ": "Vozy ve tvaru létajících lodí jedou po trati horské dráhy, což umožňuje ostré zatáčky, strmé klesání a cákající zpomalení pro mírnější říční úseky",
+            "pl-PL": "Wagoniki w kształcie latających łodzi jadą po torze z ostrymi zakrętami i stromymi zjazdami, wpadając w odcinki wodne spokojnie płynącej rzeki",
+            "ru-RU": "Кабинка в виде летающей лодки катится по стремительному треку, иногда падая в воду",
+            "eo-OO": "Ĉaroj de onda fervojo formitaj kiel flugantaj boatoj"
+        },
+        "capacity": {
+            "en-GB": "6 passengers per boat",
+            "fr-FR": "6 passagers par bateau",
+            "de-DE": "6 Fahrgäste pro Boot",
+            "es-ES": "6 pasajeros por bote",
+            "it-IT": "6 passeggeri per nave",
+            "nl-NL": "6 passagiers per boot",
+            "sv-SE": "6 passagerare per flygbåt",
+            "ko-KR": "보트당 6명의 승객",
+            "zh-TW": "每艘船限乘6人",
+            "ja-JP": "各車両6名",
+            "pt-BR": "6 passageiros por barco",
+            "cs-CZ": "6 míst v každé lodi",
+            "pl-PL": "6 pasażerów na łódkę",
+            "ru-RU": "6 пасс. в лодке",
+            "eo-OO": "Po 6 pasaĝeroj por boato"
+        }
+    }
+}

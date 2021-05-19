@@ -1,0 +1,154 @@
+{
+    "id": "rct2ww.ride.taxicstr",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC4D810|TAXICSTR|1724490B",
+    "sourceGame": "rct2ww",
+    "objectType": "ride",
+    "properties": {
+        "type": "giga_rc",
+        "category": "rollercoaster",
+        "hasShelter": true,
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 8,
+        "numEmptyCars": 1,
+        "defaultCar": 1,
+        "headCars": 0,
+        "tailCars": 2,
+        "carColours": [
+            [
+                ["white", "bright_red", "yellow"]
+            ],
+            [
+                ["bright_red", "dark_green", "black"]
+            ],
+            [
+                ["yellow", "black", "bright_red"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 244048,
+                "mass": 600,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "hasScreamingRiders": true,
+                "loadingPositions": [5, 3, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 226616,
+                "mass": 500,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "hasScreamingRiders": true,
+                "loadingPositions": [7, 9, -3, -1]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 52296,
+                "mass": 50,
+                "frictionSoundId": 2,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true
+                }
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/TAXICSTR.DAT[0..4470]"],
+    "strings": {
+        "name": {
+            "en-GB": "Yellow Taxi Trains",
+            "fr-FR": "Taxi 1",
+            "de-DE": "Gelbe Taxi-Züge",
+            "es-ES": "1 Montaña del Taxi",
+            "it-IT": "Ottovolante taxi",
+            "nl-NL": "Taxitrein",
+            "sv-SE": "Gula taxitåg",
+            "zh-CN": "1 出租车设施",
+            "ar-EG": "قطارات سيارات التاكسي الصفراء",
+            "cs-CZ": "Taxi horská dráha",
+            "en-US": "Yellow Taxi Trains",
+            "ja-JP": "黄色いタクシートレイン",
+            "ko-KR": "옐로 택시 차량",
+            "pl-PL": "Żółte taksówki",
+            "pt-BR": "Trens Táxi Amarelo",
+            "eo-OO": "Flavaj Taksio-Trajnoj"
+        },
+        "description": {
+            "en-GB": "Roller coaster trains for the Giga Coaster, themed to look like long yellow taxis",
+            "fr-FR": "Montagnes russes géantes proposant des chutes régulières depuis des collines dépassant les 100 mètres d'altitude",
+            "de-DE": "Achterbahnzüge für die Giga-Bahn, die wie lange gelbe Taxis aussehen",
+            "es-ES": "Una montaña rusa gigante capaz de caídas suaves y subidas de más de 300 pies",
+            "it-IT": "Un gigantesco ottovolante d'acciaio che alterna dolci discese a salite di oltre 100 metri",
+            "nl-NL": "Een gigantische stalen achtbaan met treinen in de vorm van een taxi die in staat is tot soepele afdalingen en heuvels die hoger zijn dan 90 meter.",
+            "sv-SE": "Gula taxibilsvagnar till gigaberg- och dalbanan",
+            "zh-CN": "一座巨大的云霄飞车可以缓慢地降落及拉升到300英尺高的山丘A",
+            "cs-CZ": "Gigantická ocelová horská dráha schopna volných pádů a kopců přes 90 metrů dlouhých",
+            "ja-JP": "長い黄色のタクシーの形をしたギガコースタートレーン",
+            "ko-KR": "90m 이상의 부드러운 낙하와 상승이 가능한 거대한 강철 롤러코스터",
+            "pl-PL": "Wielka stalowa kolejka górska jeżdżąca po łagodnych spadkach i wzniesieniach o wysokości 100 m",
+            "pt-BR": "Uma gigante montanha-russa de aço capaz de quedas suaves e subidas de mais de 90m",
+            "eo-OO": "Trajnoj por la Altega Onda Fervojo, temitaj por aspekti kiel longaj flavaj taksioj"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "zh-CN": "每辆车限乘4人",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "ko-KR": "차량당 4명의 승객",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира",
+            "pt-BR": "4 passageiros por vagão",
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

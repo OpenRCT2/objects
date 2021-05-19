@@ -1,0 +1,35 @@
+{
+    "id": "rct2.scenery_wall.wallst8",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WALLST8 |301FA257",
+    "sourceGame": "rct2",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "height": 1,
+        "price": 40,
+        "sceneryGroup": "rct2.scenery_group.scgwalls"
+    },
+    "images": ["$RCT2:OBJDATA/WALLST8.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Steel Wall",
+            "fr-FR": "Mur en tôle",
+            "de-DE": "Stahlwand",
+            "es-ES": "Pared de acero",
+            "it-IT": "Muro d'acciaio",
+            "nl-NL": "Stalen muur",
+            "sv-SE": "Stålvägg",
+            "ko-KR": "강철 벽",
+            "zh-CN": "铁墙",
+            "zh-TW": "鐵牆",
+            "pt-BR": "Parede de Aço",
+            "cs-CZ": "Ocelová stěna",
+            "ja-JP": "スチール製の壁",
+            "pl-PL": "Stalowa ściana",
+            "ru-RU": "Стена",
+            "eo-OO": "Ŝtala Muro"
+        }
+    }
+}

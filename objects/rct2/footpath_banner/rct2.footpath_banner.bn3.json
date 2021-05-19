@@ -1,0 +1,35 @@
+{
+    "id": "rct2.footpath_banner.bn3",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F84|BN3     |19B94BF5",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "footpath_banner",
+    "properties": {
+        "scrollingMode": 9,
+        "price": 300,
+        "sceneryGroup": "rct2.scenery_group.scgpathx"
+    },
+    "images": ["$RCT2:OBJDATA/BN3.DAT[0..7]"],
+    "strings": {
+        "name": {
+            "en-GB": "Classical Style Sign",
+            "fr-FR": "Panneau classique",
+            "de-DE": "Klassisches Schild",
+            "es-ES": "Señal estilo clásico",
+            "it-IT": "Insegna stile classico",
+            "nl-NL": "Lichtkrant in Romeinse stijl",
+            "sv-SE": "Klassisk skylt",
+            "ko-KR": "고전 스타일 팻말",
+            "zh-CN": "古典风格 招牌",
+            "zh-TW": "古典風格 招牌",
+            "pt-BR": "Placa Estilo Clássico",
+            "cs-CZ": "Cedule v klasickém stylu",
+            "ja-JP": "クラシックなバナー",
+            "pl-PL": "Drogowskaz klasyczny",
+            "ru-RU": "Знак 'Классика'",
+            "ar-EG": "علامة بنمط كلاسيكي",
+            "eo-OO": "Afiŝo de Klasika Stilo"
+        }
+    }
+}

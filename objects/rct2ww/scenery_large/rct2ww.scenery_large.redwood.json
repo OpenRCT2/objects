@@ -1,0 +1,61 @@
+{
+    "id": "rct2ww.scenery_large.redwood",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0812|REDWOOD |3B8F9D07",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 48,
+        "removalPrice": 36,
+        "cursor": "CURSOR_TREE_DOWN",
+        "sceneryGroup": "rct2.scenery_group.scgtrees",
+        "isTree": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 255,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 255,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 255,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 255,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/REDWOOD.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Redwood Tree",
+            "fr-FR": "Séquoia",
+            "de-DE": "Mammutbaum",
+            "es-ES": "Secuoya",
+            "it-IT": "Sequoia",
+            "nl-NL": "Redwood-boom",
+            "sv-SE": "Redwoodträd",
+            "zh-CN": "红杉木",
+            "cs-CZ": "Sequoioideae",
+            "ko-KR": "삼나무",
+            "pl-PL": "Sekwoja",
+            "ru-RU": "Секвойя",
+            "pt-BR": "Árvore Pau-brasil",
+            "ja-JP": "セコイア",
+            "eo-OO": "Sekvojoarbo"
+        }
+    }
+}

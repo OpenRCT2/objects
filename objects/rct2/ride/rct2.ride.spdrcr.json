@@ -1,0 +1,109 @@
+{
+    "id": "rct2.ride.spdrcr",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SPDRCR  |82355DA3",
+    "sourceGame": "rct2",
+    "objectType": "ride",
+    "properties": {
+        "type": "spiral_rc",
+        "category": "rollercoaster",
+        "maxCarsPerTrain": 4,
+        "carColours": [
+            [
+                ["black", "yellow", "bordeaux_red"]
+            ],
+            [
+                ["saturated_red", "bright_red", "black"]
+            ],
+            [
+                ["grey", "white", "yellow"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 357356,
+            "mass": 1100,
+            "numSeats": 6,
+            "numSeatRows": 3,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "diagonalSlopes": true,
+                "flatBanked": true,
+                "flatToGentleSlopeBankedTransitions": true,
+                "diagonalGentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTurns": true,
+                "flatToGentleSlopeWhileBankedTransitions": true,
+                "curvedLiftHill": true
+            },
+            "hasAdditionalColour2": true,
+            "hasAdditionalColour1": true,
+            "hasScreamingRiders": true,
+            "loadingPositions": [8, 6, -8, -6, 1, -1]
+        },
+        "buildMenuPriority": 1
+    },
+    "images": ["$RCT2:OBJDATA/SPDRCR.DAT[0..2498]"],
+    "strings": {
+        "name": {
+            "en-GB": "Spiral Roller Coaster Trains",
+            "fr-FR": "Montagnes russes en spirale",
+            "de-DE": "Spiral-Achterbahn-Züge",
+            "es-ES": "Montaña Rusa Espiral",
+            "it-IT": "Ottovolante a spirale",
+            "nl-NL": "Spiraalachtbaantrein",
+            "sv-SE": "Spiralberg- och dalbanevagnar",
+            "ko-KR": "스파이럴 롤러코스터 차량",
+            "zh-CN": "螺旋式过山车",
+            "zh-TW": "螺旋式雲霄飛車",
+            "pt-BR": "Trens Montanha-Russa Espiral",
+            "cs-CZ": "Spirální horská dráha",
+            "ja-JP": "スパイラル・コースター",
+            "pl-PL": "Pajęcza jazda",
+            "ru-RU": "Спиральные горки",
+            "eo-OO": "Spiralaj Trajnoj de Onda Fervojo"
+        },
+        "description": {
+            "en-GB": "Compact roller coaster trains with cars with in-line seating",
+            "fr-FR": "Montagnes russes compactes et métalliques avec une remontée en spirale et des voitures disposant de sièges en ligne",
+            "de-DE": "Kompakte Achterbahnzüge mit Wagen mit Sitzen in einer Reihe",
+            "es-ES": "Una montaña rusa pequeña de acero con una subida en espiral y vagones con asientos en línea",
+            "it-IT": "Un ottovolante d'acciaio compatto caratterizzato da una salita da traino a spirale e da carrozze con sedili in fila",
+            "nl-NL": "Een compacte achtbaan met een spiraalvormige kettingheuvel en karretjes waarin de passagiers achter elkaar zitten.",
+            "sv-SE": "Kompakta berg- och dalbanevagnar med säten i en rad",
+            "ko-KR": "한 줄로 된 좌석과 나선형 리프트 힐이 있는 강철 트랙 롤러코스터",
+            "zh-CN": "一座紧密的钢制轨道的过山车有着螺旋上升斜坡及同轴列车座椅",
+            "zh-TW": "一座緊密的鋼製軌道的雲霄飛車有著螺旋上升斜坡及同軸列車座椅",
+            "pt-BR": "Uma montanha-russa de aço compacta com subida em espiral e vagões com assentos em linha",
+            "cs-CZ": "Malá ocelová horská dráha se spirálovitým profilem a vozy se sedadly za sebou",
+            "ja-JP": "スパイラルリフトヒルを持つスチール製のコースで、シートが直列しているローラーコースターです",
+            "pl-PL": "Kolejka ze stalowym torem, spiralnym podjazdem i siedzeniami jedno za drugim",
+            "ru-RU": "Компактные горки со спиральным лифтом и сиденьями в ряд.",
+            "eo-OO": "Kompaktaj trajnoj de onda fervojo kun kolono da seĝoj"
+        },
+        "capacity": {
+            "en-GB": "6 passengers per car",
+            "fr-FR": "6 passagers par voiture",
+            "de-DE": "6 Fahrgäste pro Wagen",
+            "es-ES": "6 pasajeros por vagón",
+            "it-IT": "6 passeggeri a carrozza",
+            "nl-NL": "6 passagiers per karretje",
+            "sv-SE": "6 passagerare per vagn",
+            "ko-KR": "차량당 6명의 승객",
+            "zh-CN": "6 位乘客/每个车厢",
+            "zh-TW": "6 位乘客/每個車廂",
+            "pt-BR": "6 passageiros por vagão",
+            "cs-CZ": "6 míst v každém voze",
+            "ja-JP": "各車両6名",
+            "pl-PL": "6 pasażerów na wagonik",
+            "ru-RU": "6 пассажиров",
+            "eo-OO": "Po 6 pasaĝeroj por ĉaro"
+        }
+    }
+}

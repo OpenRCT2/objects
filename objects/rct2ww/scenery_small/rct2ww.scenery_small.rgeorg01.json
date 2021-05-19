@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.rgeorg01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0911|RGEORG01|E6866C96",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 48,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RGEORG01.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Georgian Roof End Piece 1",
+            "fr-FR": "Fin de toit géorgien 1",
+            "de-DE": "Georgianisches Dachende-Bauteil 1",
+            "es-ES": "Pieza final de tejado georgiano 1",
+            "it-IT": "Pezzo di orlo di tetto georgiano 1",
+            "nl-NL": "Eindstuk dak in Georgiaanse stijl 1",
+            "sv-SE": "Slutdel för georgianskt tak 1",
+            "cs-CZ": "Gregoriánská střecha 7",
+            "ko-KR": "조지아식 지붕 끄트머리 조각 1",
+            "pl-PL": "Georgiański końcowy segment dachu 1",
+            "ru-RU": "Деталь крыши",
+            "pt-BR": "Peça Final de Telhado Georgiano 1",
+            "ja-JP": "ジョージア風の 軒部分 1",
+            "eo-OO": "Georgia Finoparto de Tegmento 1"
+        }
+    }
+}

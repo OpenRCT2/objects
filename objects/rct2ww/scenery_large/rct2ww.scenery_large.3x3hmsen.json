@@ -1,0 +1,84 @@
+{
+    "id": "rct2ww.scenery_large.3x3hmsen",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0F12|3X3HMSEN|A866E93E",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 246,
+        "removalPrice": -198,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 128,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 128,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 128,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 128,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 128,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 128,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 128,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 128,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 128,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/3X3HMSEN.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "HMS Endeavour",
+            "zh-CN": "Endeavour 船舰",
+            "cs-CZ": "HMS Endeavour",
+            "ko-KR": "HMS 인데버",
+            "pl-PL": "HMS Endeavour",
+            "ru-RU": "Эндевор",
+            "pt-BR": "Navio HMS Endeavour",
+            "fr-FR": "Navire HMS Endeavour",
+            "ja-JP": "エンデバー号"
+        }
+    }
+}

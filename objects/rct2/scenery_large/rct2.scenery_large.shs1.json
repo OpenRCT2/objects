@@ -1,0 +1,80 @@
+{
+    "id": "rct2.scenery_large.shs1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C82|SHS1    |E83E5119",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 140,
+        "removalPrice": 100,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 12
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 6
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SHS1.DAT[0..27]"],
+    "strings": {
+        "name": {
+            "en-GB": "Terraced House",
+            "fr-FR": "Maison terrassée",
+            "de-DE": "Reihenhaus",
+            "es-ES": "Casa adosada",
+            "it-IT": "Case a schiera",
+            "nl-NL": "Rijtjeshuis",
+            "sv-SE": "Radhus",
+            "ko-KR": "테라스 하우스",
+            "zh-CN": "连栋房屋",
+            "zh-TW": "連棟房屋",
+            "pt-BR": "Casa com Terraço",
+            "cs-CZ": "Řadový dům",
+            "ja-JP": "テラスハウス",
+            "pl-PL": "Dom z tarasem",
+            "ru-RU": "Особняк",
+            "eo-OO": "Vicdomo"
+        }
+    }
+}

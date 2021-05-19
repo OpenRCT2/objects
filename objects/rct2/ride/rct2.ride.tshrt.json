@@ -1,0 +1,58 @@
+{
+    "id": "rct2.ride.tshrt",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|TSHRT   |A497AD40",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "ride",
+    "properties": {
+        "type": "shop",
+        "category": "stall",
+        "sells": "tshirt",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["bright_red", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/TSHRT.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "T-Shirt Stall",
+            "fr-FR": "T-Shirt",
+            "de-DE": "T-Shirt-Stand",
+            "es-ES": "Puesto de camisetas",
+            "it-IT": "Chiosco delle magliette",
+            "nl-NL": "T-shirtkraam",
+            "sv-SE": "T-shirtstånd",
+            "ko-KR": "티셔츠 가게",
+            "zh-CN": "T恤店",
+            "zh-TW": "T恤店",
+            "pt-BR": "Barraca de Camisetas",
+            "cs-CZ": "Stánek s tričky",
+            "ja-JP": "Tシャツ店",
+            "pl-PL": "Kiosk z koszulkami",
+            "ru-RU": "Футболки",
+            "eo-OO": "T-Ĉemizbudo"
+        },
+        "description": {
+            "en-GB": "A stall selling souvenir T-Shirts",
+            "fr-FR": "Boutiques vendant des T-Shirts souvenirs",
+            "de-DE": "Ein Stand, an dem Souvenir-T-Shirts verkauft werden",
+            "es-ES": "Un puesto que vende camisetas",
+            "it-IT": "Un chiosco che vende magliette come souvenir",
+            "nl-NL": "Een souvenirkraam waar T-shirts worden verkocht.",
+            "sv-SE": "Ett stånd som säljer souvenir-t-tröjor",
+            "ko-KR": "티셔츠 기념품을 판매하는 가게",
+            "zh-CN": "一家卖T恤纪念品的店",
+            "zh-TW": "一家賣T恤紀念品的店",
+            "pt-BR": "Uma barraca vendendo camisetas de lembrança",
+            "cs-CZ": "Stánek se suvenýry - tričky",
+            "ja-JP": "記念のTシャツを売る売店です",
+            "pl-PL": "Stoisko sprzedające pamiątkowe koszulki",
+            "ru-RU": "Палатка с футболками",
+            "eo-OO": "Budo vendanta memoraĵecajn T-Ĉemizojn"
+        }
+    }
+}

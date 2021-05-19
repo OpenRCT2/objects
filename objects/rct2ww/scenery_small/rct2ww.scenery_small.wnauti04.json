@@ -1,0 +1,37 @@
+{
+    "id": "rct2ww.scenery_small.wnauti04",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0F11|WNAUTI04|BED66E70",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 24,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WNAUTI04.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Nautical Roof Piece",
+            "fr-FR": "Pan de toit nautique",
+            "de-DE": "Nautisches Dach-Bauteil",
+            "es-ES": "Pieza de tejado náutico",
+            "it-IT": "Pezzo di tetto in stile nautico",
+            "nl-NL": "Nautisch stuk dak",
+            "sv-SE": "Nautisk takdel",
+            "cs-CZ": "Mořská střecha",
+            "ko-KR": "해상 지붕 조각",
+            "pl-PL": "Żeglarski segment dachu",
+            "ru-RU": "Деталь крыши",
+            "pt-BR": "Peça de Telhado Náutico",
+            "ja-JP": "航海の屋",
+            "eo-OO": "Naŭtika Tegmentoparto"
+        }
+    }
+}

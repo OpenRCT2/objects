@@ -1,0 +1,43 @@
+{
+    "id": "rct2tt.scenery_small.artdec10",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F921|ARTDEC10|6826F91F",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "2/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/ARTDEC10.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Art Deco Wall Section",
+            "fr-FR": "Section de mur art déco",
+            "de-DE": "Art Déco - Mauerabschnitt",
+            "es-ES": "Sección de muro Art Decó",
+            "it-IT": "Sezione del muro in art decò",
+            "nl-NL": "Stuk muur in artdecostijl",
+            "sv-SE": "Väggsektion, art déco",
+            "ko-KR": "아트 데코 벽 조각",
+            "zh-TW": "裝飾藝術牆面區段",
+            "pt-BR": "Seção de Parede de Art Déco",
+            "cs-CZ": "Art Deco stěna",
+            "pl-PL": "Segment muru art deco",
+            "ru-RU": "Стена Арт-Деко",
+            "ja-JP": "アールデコ・壁部分",
+            "eo-OO": "Artdekora Muroparto"
+        }
+    }
+}

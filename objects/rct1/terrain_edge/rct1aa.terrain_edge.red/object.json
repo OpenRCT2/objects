@@ -1,0 +1,30 @@
+{
+    "id": "rct1aa.terrain_edge.red",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008C|#RCT1ERE|00000000",
+    "sourceGame": "rct1aa",
+    "objectType": "terrain_edge",
+    "properties": {
+        "hasDoors": true,
+        "doorSound": 1
+    },
+    "images": [
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        "$CSG[40926..41093]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Stucco (Red)",
+            "de-DE": "Gipsputz (rot)",
+            "nl-NL": "Rood stucwerk",
+            "pt-BR": "Estuque (vermelho)",
+            "fr-FR": "Stuc (rouge)",
+            "ja-JP": "スタッコ (赤)",
+            "pl-PL": "Stiuk (Czerwony)",
+            "ko-KR": "흙벽 (빨간색)",
+            "eo-OO": "Stukaĵo (Ruĝa)",
+            "sv-SE": "Stuck (röd)"
+        }
+    }
+}

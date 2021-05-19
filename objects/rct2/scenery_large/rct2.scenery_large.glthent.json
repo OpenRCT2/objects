@@ -1,0 +1,93 @@
+{
+    "id": "rct2.scenery_large.glthent",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C82|GLTHENT |F0D9CE51",
+    "sourceGame": "rct2",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 230,
+        "removalPrice": -200,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 64,
+                "hasSupports": true,
+                "allowSupportsAbove": true,
+                "walls": 13
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 64,
+                "hasSupports": true,
+                "allowSupportsAbove": true,
+                "walls": 5
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 64,
+                "hasSupports": true,
+                "allowSupportsAbove": true,
+                "walls": 5
+            },
+            {
+                "x": 0,
+                "y": 96,
+                "clearance": 64,
+                "hasSupports": true,
+                "allowSupportsAbove": true,
+                "walls": 5
+            },
+            {
+                "x": 0,
+                "y": 128,
+                "clearance": 64,
+                "hasSupports": true,
+                "allowSupportsAbove": true,
+                "walls": 5
+            },
+            {
+                "x": 0,
+                "y": 160,
+                "clearance": 64,
+                "hasSupports": true,
+                "allowSupportsAbove": true,
+                "walls": 5
+            },
+            {
+                "x": 0,
+                "y": 192,
+                "clearance": 64,
+                "hasSupports": true,
+                "allowSupportsAbove": true,
+                "walls": 7
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/GLTHENT.DAT[0..31]"],
+    "strings": {
+        "name": {
+            "en-GB": "'Goliath' Sign",
+            "fr-FR": "Panneau 'Goliath'",
+            "de-DE": "„Goliath“-Schild",
+            "es-ES": "Señal de Goliath",
+            "it-IT": "Insegna di 'Golia'",
+            "nl-NL": "‘Goliath’-bord",
+            "sv-SE": "’Goliath’-skylt",
+            "ko-KR": "‘골리앗’ 팻말",
+            "zh-CN": "「葛利亚」招牌",
+            "zh-TW": "「葛利亞」招牌",
+            "pt-BR": "Placa ‘Goliath’",
+            "cs-CZ": "'Goliáš' cedule",
+            "ja-JP": "「ゴリアテ」看板",
+            "pl-PL": "Napis Goliat",
+            "ru-RU": "'Goliath' знак",
+            "eo-OO": "‘Goliato’ Afiŝo"
+        }
+    }
+}

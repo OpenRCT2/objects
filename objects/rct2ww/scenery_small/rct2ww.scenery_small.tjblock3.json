@@ -1,0 +1,39 @@
+{
+    "id": "rct2ww.scenery_small.tjblock3",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFD11|TJBLOCK3|9F22C42F",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/TJBLOCK3.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Maharaja Palace Piece",
+            "fr-FR": "Pièce du palais du maharajah",
+            "de-DE": "Maharadschapalast-Bauteil",
+            "es-ES": "Pieza del palacio del Maharajá",
+            "it-IT": "Pezzo di palazzo del Maragià",
+            "nl-NL": "Stuk Maharadjapaleis",
+            "sv-SE": "Del till maharadjans palats",
+            "zh-CN": "印度邦主皇宫片段",
+            "cs-CZ": "Mahárádžův palác",
+            "ko-KR": "마하라자 궁전 조각",
+            "pl-PL": "Element pałacu maharadży",
+            "ru-RU": "Деталь дворца",
+            "pt-BR": "Peça de Palácio do Marajá",
+            "ja-JP": "マハーラージャ宮殿 ピース",
+            "eo-OO": "Parto de Maharaĝo-Palaco"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": "rct2tt.scenery_small.whccolds",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F821|WHCCOLDS|63382D27",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 68,
+        "removalPrice": -56,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 48,
+        "animationDelay": 2,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/WHCCOLDS.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Witches around Cauldron",
+            "fr-FR": "Sorcières autour d'un chaudron",
+            "de-DE": "Hexen um Kessel",
+            "es-ES": "Brujas alrededor del caldero",
+            "it-IT": "Streghe intorno al calderone",
+            "nl-NL": "Heksen rond een ketel",
+            "sv-SE": "Häxor runt kittel",
+            "ko-KR": "가마솥 근처의 마녀",
+            "zh-TW": "圍繞大汽鍋的巫師",
+            "pt-BR": "Bruxas ao Redor de Caldeirão",
+            "cs-CZ": "Čarodějnice s kotlíkem",
+            "pl-PL": "Czarownicy przy kotle",
+            "ru-RU": "Ведьмы у котла",
+            "ja-JP": "大釜の周りの魔女",
+            "eo-OO": "Sorĉistinoj ĉirkaŭ Kaldrono"
+        }
+    }
+}

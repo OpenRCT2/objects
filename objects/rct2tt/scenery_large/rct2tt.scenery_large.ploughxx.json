@@ -1,0 +1,64 @@
+{
+    "id": "rct2tt.scenery_large.ploughxx",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F922|PLOUGHXX|55BDAE0B",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 72,
+        "removalPrice": -67,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 32,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 32,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 32,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 32,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/PLOUGHXX.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Plough",
+            "fr-FR": "Charrue",
+            "de-DE": "Pflug",
+            "es-ES": "Arado",
+            "it-IT": "Aratro",
+            "nl-NL": "Ploeg",
+            "sv-SE": "Plog",
+            "ko-KR": "쟁기",
+            "zh-TW": "犁",
+            "pt-BR": "Arado",
+            "cs-CZ": "Pluh",
+            "pl-PL": "Pług",
+            "ru-RU": "Плуг",
+            "ja-JP": "プラウ",
+            "eo-OO": "Plugilo"
+        }
+    }
+}

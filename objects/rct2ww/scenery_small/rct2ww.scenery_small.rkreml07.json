@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.rkreml07",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0911|RKREML07|E7088E55",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 64,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RKREML07.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Kremlin Small Tower Base",
+            "fr-FR": "Base de petite tour du Kremlin",
+            "de-DE": "Kreml - Kleiner Turm - Basis",
+            "es-ES": "Base de torre pequeña del Kremlin",
+            "it-IT": "Base di torre piccola del Cremlino",
+            "nl-NL": "Kleine basis toren Kremlin",
+            "sv-SE": "Bas till litet Kreml-torn",
+            "cs-CZ": "Kremlinská věž - základ",
+            "ko-KR": "크렘린 작은 탑 기본",
+            "pl-PL": "Kremlowska wieżyczka - podstawa",
+            "ru-RU": "Кремль",
+            "pt-BR": "Base de Torre Pequena do Kremlin",
+            "ja-JP": "クレムリン　小さな塔　土台",
+            "eo-OO": "Bazo de Malgranda Turo de Kremlo"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "id": "rct2ww.scenery_large.1x4brg02",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0812|1X4BRG02|944BE830",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 82,
+        "removalPrice": -77,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 96,
+                "allowSupportsAbove": true,
+                "walls": 13
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 96,
+                "allowSupportsAbove": true,
+                "walls": 5
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 96,
+                "allowSupportsAbove": true,
+                "walls": 5
+            },
+            {
+                "x": 96,
+                "y": 0,
+                "clearance": 96,
+                "allowSupportsAbove": true,
+                "walls": 7
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/1X4BRG02.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Suspension Bridge Start side 2",
+            "fr-FR": "Extrémité 2 de pont suspendu",
+            "de-DE": "Hängebrücke - Anfangsstück, Seite 2",
+            "es-ES": "Lado 2 del inicio del puente suspendido",
+            "it-IT": "Testa di ponte sospeso, lato 2",
+            "nl-NL": "Begingedeelte Hangbrug 2",
+            "sv-SE": "Startsida för hängbro 2",
+            "zh-CN": "吊桥起点1",
+            "cs-CZ": "Zavěšený most",
+            "ko-KR": "현수교 시작 측면 2",
+            "pl-PL": "Most wiszący - początek strona 2",
+            "ru-RU": "Подвесной мост",
+            "pt-BR": "Lado 2 do Início de Ponte Suspensa",
+            "ja-JP": "吊り橋　初方面2",
+            "eo-OO": "Komenco de Pentoponto, flanko 2"
+        }
+    }
+}

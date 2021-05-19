@@ -1,0 +1,57 @@
+{
+    "id": "rct2tt.ride.mktstal2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F920|MKTSTAL2|8FCBFEB0",
+    "sourceGame": "rct2tt",
+    "objectType": "ride",
+    "properties": {
+        "type": "drink_stall",
+        "category": "stall",
+        "sells": "lemonade",
+        "disablePainting": true,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/MKTSTAL2.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Lemonade Market Stall",
+            "fr-FR": "Stand de limonades",
+            "de-DE": "Limonadenmarktstand",
+            "es-ES": "Puesto de limonada",
+            "it-IT": "Chiosco di limonata",
+            "nl-NL": "Marktkraam met limonade",
+            "sv-SE": "Gammaldags lemonadstånd",
+            "ko-KR": "레모네이드 시장 상점",
+            "zh-TW": "檸檬水攤位",
+            "ja-JP": "レモネード店",
+            "pt-BR": "Quiosque de Limonada",
+            "cs-CZ": "Jarmarkový stánek s citronádou",
+            "pl-PL": "Stragan z lemoniadą",
+            "ru-RU": "Палатка с Лимонадом",
+            "eo-OO": "Limonado-Bazarbudo"
+        },
+        "description": {
+            "en-GB": "A themed stall selling old style, fresh lemonade.",
+            "fr-FR": "Un stand thématique proposant de la limonade fraîche, à l'ancienne.",
+            "de-DE": "Ein thematischer Stand, der frische Limonade nach Omas Rezept verkauft",
+            "es-ES": "Un puesto de época en el que se vende limonada al viejo estilo, fresca.",
+            "it-IT": "Un chiosco che vende tradizionali e rinfrescanti limonate.",
+            "nl-NL": "Een marktkraam waar ouderwetse, frisse limonade wordt verkocht.",
+            "sv-SE": "Ett marknadsstånd som säljer handgjord gammaldags lemonad",
+            "ko-KR": "신선한 레모네이드를 파는 오래된 테마의 가게",
+            "zh-TW": "販賣老式新鮮檸檬水的主題攤位。",
+            "ja-JP": "昔ながらの新鮮なレモネードを販売するショップです",
+            "pt-BR": "Um quiosque temático vendendo a velha e boa limonada fresca",
+            "cs-CZ": "Stánek prodávající starou dobrou čerstvou citronádu",
+            "pl-PL": "Stylizowane stoisko sprzedające staroświecką świeżą lemoniadę.",
+            "ru-RU": "Палатка, продающая лимонад.",
+            "eo-OO": "Temita budo vendanta malnovstilan freŝan limonadon"
+        }
+    }
+}

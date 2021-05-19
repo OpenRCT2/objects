@@ -1,0 +1,38 @@
+{
+    "id": "rct2.scenery_small.tbn1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TBN1    |FC95F8E6",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 11,
+        "removalPrice": -9,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 24,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TBN1.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Bones",
+            "fr-FR": "Os",
+            "de-DE": "Knochen",
+            "es-ES": "Huesos",
+            "it-IT": "Ossa",
+            "nl-NL": "Beenderen",
+            "sv-SE": "Ben",
+            "ko-KR": "뼈",
+            "zh-CN": "骨头",
+            "zh-TW": "骨頭",
+            "pt-BR": "Ossos",
+            "cs-CZ": "Kosti",
+            "ja-JP": "骨",
+            "pl-PL": "Kości",
+            "ru-RU": "Кости",
+            "eo-OO": "Ostoj"
+        }
+    }
+}

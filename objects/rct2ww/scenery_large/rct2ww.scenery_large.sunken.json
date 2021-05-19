@@ -1,0 +1,148 @@
+{
+    "id": "rct2ww.scenery_large.sunken",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0212|SUNKEN  |7ECC2AF9",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 246,
+        "removalPrice": -198,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 160,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 160,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 160,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 96,
+                "clearance": 160,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 160,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 160,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 160,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 96,
+                "clearance": 160,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 160,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 160,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 160,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 96,
+                "clearance": 160,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 96,
+                "y": 0,
+                "clearance": 160,
+                "hasSupports": true,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 32,
+                "clearance": 160,
+                "hasSupports": true,
+                "walls": 6
+            },
+            {
+                "x": 96,
+                "y": 64,
+                "clearance": 160,
+                "hasSupports": true,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 96,
+                "clearance": 160,
+                "hasSupports": true,
+                "walls": 6
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SUNKEN.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sunken Ship",
+            "fr-FR": "Epave",
+            "de-DE": "Versunkenes Schiff",
+            "es-ES": "Barco hundido",
+            "it-IT": "Nave affondata",
+            "nl-NL": "Gezonken schip",
+            "sv-SE": "Sjunket skepp",
+            "zh-CN": "沉船",
+            "cs-CZ": "Potopená loď",
+            "ko-KR": "침몰선",
+            "pl-PL": "Zatopiony statek",
+            "ru-RU": "Корабль",
+            "pt-BR": "Navio Afundado",
+            "ja-JP": "沈没船",
+            "eo-OO": "Subakviĝita Ŝipo"
+        }
+    }
+}

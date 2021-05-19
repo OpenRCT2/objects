@@ -1,0 +1,37 @@
+{
+    "id": "rct2.scenery_small.tmg",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TMG     |0181736A",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 12,
+        "removalPrice": 5,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 48,
+        "isTree": true,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TMG.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Magnolia Tree",
+            "fr-FR": "Magnolia",
+            "de-DE": "Magnolie",
+            "es-ES": "Magnolio",
+            "it-IT": "Magnolia",
+            "nl-NL": "Magnolia",
+            "sv-SE": "Magnolia",
+            "ko-KR": "목련",
+            "zh-CN": "木兰花树",
+            "zh-TW": "木蘭花樹",
+            "pt-BR": "Árvore Magnólia",
+            "cs-CZ": "Mongolský strom",
+            "ja-JP": "モクレン",
+            "pl-PL": "Magnolia",
+            "ru-RU": "Магнолия",
+            "eo-OO": "Magnolioarbo"
+        }
+    }
+}

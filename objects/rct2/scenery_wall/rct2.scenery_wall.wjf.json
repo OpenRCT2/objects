@@ -1,0 +1,35 @@
+{
+    "id": "rct2.scenery_wall.wjf",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WJF     |B8DF3244",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 2,
+        "price": 40,
+        "sceneryGroup": "rct2.scenery_group.scgfence"
+    },
+    "images": ["$RCT2:OBJDATA/WJF.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jungle Fence",
+            "fr-FR": "Clôture de jungle",
+            "de-DE": "Dschungelzaun",
+            "es-ES": "Cerca de jungla",
+            "it-IT": "Recinto tropicale",
+            "nl-NL": "Junglehek",
+            "sv-SE": "Djungelstaket",
+            "ko-KR": "정글 울타리",
+            "zh-CN": "丛林式栅栏",
+            "zh-TW": "叢林式柵欄",
+            "pt-BR": "Cerca da Selva",
+            "cs-CZ": "Jungle plot",
+            "ja-JP": "ジャングル風のフェンス",
+            "pl-PL": "Płot tropikalny",
+            "ru-RU": "Забор",
+            "eo-OO": "Ĝangalo-Barilo"
+        }
+    }
+}

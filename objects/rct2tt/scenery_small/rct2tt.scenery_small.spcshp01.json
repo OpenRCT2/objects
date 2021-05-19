@@ -1,0 +1,45 @@
+{
+    "id": "rct2tt.scenery_small.spcshp01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB21|SPCSHP01|36DCF79E",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 40,
+        "removalPrice": -32,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 64,
+        "animationDelay": 3,
+        "animationMask": 31,
+        "numFrames": 32,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
+    },
+    "images": ["$RCT2:OBJDATA/SPCSHP01.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Space Ship Cargo Section",
+            "fr-FR": "Section cargo du vaisseau spatial",
+            "de-DE": "Raumschiff-Ladetrakt",
+            "es-ES": "Sección de carga de nave espacial",
+            "it-IT": "Sezione del carico della navicella spaziale",
+            "nl-NL": "Vrachtgedeelte ruimteschip",
+            "sv-SE": "Lastsektion, rymdskepp",
+            "ko-KR": "우주선 화물 섹션",
+            "zh-TW": "太空船貨物區",
+            "pt-BR": "Seção de Carga de Nave Espacial",
+            "cs-CZ": "Vesmírná loď - nákladní sekce",
+            "pl-PL": "Statek kosmiczny - sekcja ładowni",
+            "ru-RU": "Секция корабля",
+            "ja-JP": "宇宙船　カーゴ部分",
+            "eo-OO": "Kargoparto de Kosmoŝipo"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "rct2.scenery_small.tgc1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TGC1    |7FF1A5E6",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 16,
+        "removalPrice": -14,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 56,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TGC1.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sculpture",
+            "de-DE": "Skulptur",
+            "es-ES": "Escultura",
+            "it-IT": "Scultura",
+            "nl-NL": "Beeld",
+            "sv-SE": "Skulptur",
+            "ko-KR": "조각품",
+            "zh-CN": "雕刻品",
+            "zh-TW": "雕刻品",
+            "pt-BR": "Escultura",
+            "cs-CZ": "Socha",
+            "ja-JP": "彫刻",
+            "pl-PL": "Rzeţba",
+            "ru-RU": "Статуя",
+            "fr-FR": "Sculpture",
+            "eo-OO": "Skulptaĵo"
+        }
+    }
+}

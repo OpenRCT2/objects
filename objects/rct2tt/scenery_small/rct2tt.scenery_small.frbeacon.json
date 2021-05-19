@@ -1,0 +1,44 @@
+{
+    "id": "rct2tt.scenery_small.frbeacon",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F821|FRBEACON|2F19B6C2",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 24,
+        "removalPrice": -18,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 104,
+        "animationDelay": 2,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "1/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/FRBEACON.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Fiery Beacon",
+            "fr-FR": "Signal lumineux",
+            "de-DE": "Leuchtfeuer",
+            "es-ES": "Faro de fuego",
+            "it-IT": "Falò ardente",
+            "nl-NL": "Vuurbaken",
+            "sv-SE": "Brinnande vårdkase",
+            "ko-KR": "불타는 신호",
+            "zh-TW": "烽火臺",
+            "pt-BR": "Farol Brilhante",
+            "cs-CZ": "Pochodeň / svíce",
+            "pl-PL": "Ognisty sygnał",
+            "ru-RU": "Маяк",
+            "ja-JP": "のろし",
+            "eo-OO": "Fajra Signalfajro"
+        }
+    }
+}

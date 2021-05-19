@@ -1,0 +1,34 @@
+{
+    "id": "rct2.scenery_wall.wallbr16",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F83|WALLBR16|032D2B9E",
+    "sourceGame": "rct2",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "height": 2,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WALLBR16.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wall",
+            "fr-FR": "Mur",
+            "de-DE": "Wand",
+            "es-ES": "Pared",
+            "it-IT": "Muro",
+            "nl-NL": "Muur",
+            "sv-SE": "Mur",
+            "ko-KR": "벽",
+            "zh-CN": "墙",
+            "zh-TW": "牆",
+            "pt-BR": "Parede",
+            "cs-CZ": "Stěna",
+            "ja-JP": "壁",
+            "pl-PL": "Ściana",
+            "ru-RU": "Блок",
+            "eo-OO": "Muro"
+        }
+    }
+}

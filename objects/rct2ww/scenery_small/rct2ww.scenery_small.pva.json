@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.pva",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0211|PVA     |DEE9A737",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/PVA.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Pipe",
+            "fr-FR": "Tuyau",
+            "de-DE": "Rohr",
+            "es-ES": "Tubería",
+            "it-IT": "Tubo",
+            "nl-NL": "Pijp",
+            "sv-SE": "Rör",
+            "zh-CN": "输送管",
+            "cs-CZ": "Trubka",
+            "ko-KR": "파이프",
+            "pl-PL": "Rura",
+            "ru-RU": "Труба",
+            "pt-BR": "Tubo",
+            "ja-JP": "パイプ",
+            "eo-OO": "Tubo"
+        }
+    }
+}

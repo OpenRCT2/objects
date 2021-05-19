@@ -1,0 +1,45 @@
+{
+    "id": "rct2tt.scenery_small.rcknrolr",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|RCKNROLR|D6167FBA",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 46,
+        "removalPrice": -38,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 72,
+        "animationDelay": 2,
+        "animationMask": 31,
+        "numFrames": 15,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 0, 0, 0]
+    },
+    "images": ["$RCT2:OBJDATA/RCKNROLR.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cool Dude",
+            "fr-FR": "Mec cool",
+            "de-DE": "Cooler Typ",
+            "es-ES": "Colega simpático",
+            "it-IT": "Persona in gamba",
+            "nl-NL": "Stoere knul",
+            "sv-SE": "Cool kille",
+            "ko-KR": "멋진 녀석",
+            "zh-TW": "酷哥",
+            "pt-BR": "Cara Maneiro",
+            "cs-CZ": "Frajer",
+            "pl-PL": "Fajny gostek",
+            "ru-RU": "Пижон",
+            "ja-JP": "ダンディな男",
+            "eo-OO": "Mojosulo"
+        }
+    }
+}

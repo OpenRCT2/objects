@@ -1,0 +1,59 @@
+{
+    "id": "rct2.ride.substl",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SUBSTL  |F016C58A",
+    "sourceGame": "rct2",
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": "sub_sandwich",
+        "disablePainting": true,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SUBSTL.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sub Sandwich Stall",
+            "fr-FR": "Sandwicherie",
+            "de-DE": "Sandwich-Stand",
+            "es-ES": "Puesto de mini-sandwiches",
+            "it-IT": "Chiosco dei sandwich",
+            "nl-NL": "Broodjeskraam",
+            "sv-SE": "Baguettestånd",
+            "ko-KR": "샌드위치 가게",
+            "zh-CN": "潜水艇三明治店",
+            "zh-TW": "潛水艇三明治店",
+            "pt-BR": "Barraca de Supersanduíches",
+            "cs-CZ": "Stánek se sendviči",
+            "ja-JP": "サンドイッチショップ",
+            "pl-PL": "Kiosk z kanapkami",
+            "ru-RU": "Сэндвичи",
+            "eo-OO": "Subsandviĉbudo"
+        },
+        "description": {
+            "en-GB": "A stall selling fresh sub sandwiches",
+            "fr-FR": "Boutique vendant des sandwiches frais",
+            "de-DE": "Ein Stand, an dem frische Sandwiches verkauft werden",
+            "es-ES": "Puesto que vende mini-sandwiches",
+            "it-IT": "Un chiosco che vende sandwich freschi",
+            "nl-NL": "Een kraam waar broodjes worden verkocht.",
+            "sv-SE": "Ett stånd som säljer färska baguetter",
+            "ko-KR": "신선한 서브마린 샌드위치를 파는 가게",
+            "zh-CN": "一家卖新鲜潜水艇三明治的店",
+            "zh-TW": "一家賣新鮮潛水艇三明治的店",
+            "pt-BR": "Uma barraca vendendo sanduíches enormes e fresquinhos",
+            "cs-CZ": "Stánek prodávající čerstvé sendviče",
+            "ja-JP": "新鮮なサブマリンサンドイッチを売る売店です",
+            "pl-PL": "Stoisko sprzedające świeże kanapki",
+            "ru-RU": "Палатка с сэндвичами.",
+            "eo-OO": "Budo vendanta freŝajn subsandviĉojn"
+        }
+    }
+}

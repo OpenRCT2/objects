@@ -1,0 +1,111 @@
+{
+    "id": "rct2.ride.vekdv",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C80|VEKDV   |F1CEB26E",
+    "sourceGame": "rct2",
+    "objectType": "ride",
+    "properties": {
+        "type": "compact_inverted_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 4,
+        "maxCarsPerTrain": 7,
+        "ratingMultipler": {
+            "excitement": 8,
+            "intensity": 12,
+            "nausea": 10
+        },
+        "carColours": [
+            [
+                ["yellow", "bright_green", "yellow"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 174320,
+            "mass": 590,
+            "tabOffset": -15,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 1,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "verticalSlopes": true,
+                "diagonalSlopes": true,
+                "flatBanked": true,
+                "inlineTwists": true,
+                "flatToGentleSlopeBankedTransitions": true,
+                "diagonalGentleSlopeBankedTransitions": true,
+                "corkscrews": true,
+                "restraintAnimation": true
+            },
+            "hasAdditionalColour2": true,
+            "hasAdditionalColour1": true,
+            "hasScreamingRiders": true,
+            "loadingPositions": [1, 3, 1, 3]
+        },
+        "buildMenuPriority": 1
+    },
+    "images": ["$RCT2:OBJDATA/VEKDV.DAT[0..2042]"],
+    "strings": {
+        "name": {
+            "en-GB": "Vertical Shuttle Cars",
+            "fr-FR": "Navette verticale inversée",
+            "de-DE": "Umgekehrte vertikale Shuttlewagen",
+            "es-ES": "Lanzadera Vertical Inversa",
+            "it-IT": "Navetta verticale invertita",
+            "nl-NL": "Omgekeerde verticale shuttle",
+            "sv-SE": "Lodrät skyttel-vagnar",
+            "ko-KR": "수직 셔틀 차량",
+            "zh-CN": "短程垂直反转穿梭",
+            "zh-TW": "短程垂直反轉穿梭",
+            "pt-BR": "Carros Vai-e-vem Vertical",
+            "cs-CZ": "Zavěšená svislá dráha",
+            "ja-JP": "インバーテッド・バーティカル・シャトル",
+            "pl-PL": "Odwrócony pionozjazd",
+            "ru-RU": "Вертикальный челнок",
+            "eo-OO": "Vertikalaj Navedo-Ĉaroj"
+        },
+        "description": {
+            "en-GB": "Large roller coaster cars in which riders sit in seats suspended beneath the track",
+            "fr-FR": "Voitures suspendues à la voie, hissées en marche arrière au sommet d'une voie verticale, puis lâchées  dans un parcours fait de boucles et d'inversions serrées",
+            "de-DE": "Große Achterbahnwagen, in denen die Fahrgäste in unterhalb der Strecke aufgehängten Sitzen sitzen",
+            "es-ES": "Los pasajeros están sentados suspendidos bajo la vía",
+            "it-IT": "I passeggeri siedono in carrozze sospese sotto il tracciato, trainate in retromarcia su per un tratto verticale e poi sganciate per effettuare giri della morte e curve molto strette",
+            "nl-NL": "Passagiers zitten in karretjes die onder de baan hangen, worden achteruit een verticale baan opgetrokken en vervolgens losgelaten, waarna ze door kronkelende en scherpe omkeringen gaan.",
+            "sv-SE": "Stora berg- och dalbanevagnar med säten upphängda under spåret",
+            "ko-KR": "트랙 밑에 매달린 차량에 앉아서, 수직 트랙을 따라 뒤쪽 방향으로 올라간 다음 루프와 트위스트를 향해 낙하하는 놀이기구",
+            "zh-CN": "乘客坐在车辆内悬挂在轨道下方,被向後垂直方向向上拉然後再快速坠下到旋转回圈紧接反转运行",
+            "zh-TW": "乘客坐在車輛內懸掛在軌道下方,被向後垂直方向向上拉然後再快速墜下到旋轉迴圈緊接反轉運行",
+            "pt-BR": "Vagões largos de montanha russa onde os passageiros sentam suspensos",
+            "cs-CZ": "Návštěvníci sedí ve vozech zavěšených pod tratí, jedou pozpátku vzhůru po svislé dráze, padají dolů a jezdí skrze loopingy s ostrými zatáčkami",
+            "ja-JP": "乗客はコースの下にぶら下げられ、垂直なコースを後ろ向きに登って降下し、ループとひねり、きつい反転を走行します",
+            "pl-PL": "Pasażerowie siedzą w wagonikach podwieszonych pod torem, wciąganych tyłem na pionowy odcinek, a następnie pokonujących rozpędem pętle i ciasne zakręty",
+            "ru-RU": "Люди сидят в вагончиках, подвешенных под треком, поднимаются вверх и спускаются по головокружительной трассе.",
+            "eo-OO": "Grandaj ĉaroj de onda fervojo, en kiu rajdantoj sidas en seĝoj penditaj sub la trako"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량당 4명의 승객",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира",
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

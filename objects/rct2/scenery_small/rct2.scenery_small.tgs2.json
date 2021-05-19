@@ -1,0 +1,38 @@
+{
+    "id": "rct2.scenery_small.tgs2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TGS2    |50AC822B",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 4,
+        "removalPrice": -3,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 12,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TGS2.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Grave Stone",
+            "fr-FR": "Pierre tombale",
+            "de-DE": "Grabstein",
+            "es-ES": "Gran piedra",
+            "it-IT": "Pietra tombale",
+            "nl-NL": "Grafsteen",
+            "sv-SE": "Gravsten",
+            "ko-KR": "묘비",
+            "zh-CN": "墓碑/墓石",
+            "zh-TW": "墓碑/墓石",
+            "pt-BR": "Lápide",
+            "cs-CZ": "Náhrobek",
+            "ja-JP": "墓石",
+            "pl-PL": "Nagrobek",
+            "ru-RU": "Надгробье",
+            "eo-OO": "Tombo"
+        }
+    }
+}

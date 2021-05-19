@@ -1,0 +1,37 @@
+{
+    "id": "rct2.scenery_small.tsp",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F81|TSP     |DC469571",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 36,
+        "removalPrice": 17,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 156,
+        "isTree": true,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TSP.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Scots Pine Tree",
+            "fr-FR": "Pin écossais",
+            "de-DE": "Föhre",
+            "es-ES": "Pino escocés",
+            "it-IT": "Pino scozzese",
+            "nl-NL": "Schotse den",
+            "sv-SE": "Skotsk tall",
+            "ko-KR": "스코틀랜드 소나무",
+            "zh-CN": "苏格兰松树",
+            "zh-TW": "蘇格蘭松樹",
+            "pt-BR": "Pinheiro-Escocês",
+            "cs-CZ": "Borovice lesní",
+            "ja-JP": "スコットランド松",
+            "pl-PL": "Sosna",
+            "ru-RU": "Сосна",
+            "eo-OO": "Arbara Pinoarbo"
+        }
+    }
+}

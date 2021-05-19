@@ -1,0 +1,62 @@
+{
+    "id": "rct2tt.scenery_large.psntwl28",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F822|PSNTWL28|8639D01B",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 28,
+        "removalPrice": -22,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "hasPrimaryColour": true,
+        "isPhotogenic": true,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 32,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 32,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 32,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 32,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/PSNTWL28.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Dark Age Village Inverted Roof Piece",
+            "fr-FR": "Section de toit inversé du village médiéval",
+            "de-DE": "Mittelalterdorf - Umgedrehtes Dachstück",
+            "es-ES": "Sección inversa de tejado de pueblo medieval",
+            "it-IT": "Tratto di tetto invertito del villaggio dell'Età Oscura",
+            "nl-NL": "Omgekeerd dakstuk middeleeuws dorp",
+            "sv-SE": "Omvänd takdel, medeltida by",
+            "ko-KR": "반전된 암흑 시대 마을 지붕 조각",
+            "zh-TW": "反向黑暗時代村莊屋頂塊",
+            "pt-BR": "Peça de Telhado Invertido de Vila da Idade Média",
+            "cs-CZ": "Starodávná vesnice - obrácená střecha",
+            "pl-PL": "Miasteczko średniowieczne - odwrócony segment dachu",
+            "ru-RU": "Деталь крыши",
+            "ja-JP": "暗黒時代の村の屋根部分（反転）",
+            "eo-OO": "Inversigita Tegmentoparto de Vilaĝo de Malluma Epoko"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.1x1termm",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0F11|1X1TERMM|E801DE80",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 96,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/1X1TERMM.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Termite Mound",
+            "fr-FR": "Termitière",
+            "de-DE": "Termitenhügel",
+            "es-ES": "Montículo de termitas",
+            "it-IT": "Termitaio",
+            "nl-NL": "Termietenheuvel",
+            "sv-SE": "Termitstack",
+            "zh-CN": "白蚁堆",
+            "cs-CZ": "Termitiště",
+            "ko-KR": "흰개미 언덕",
+            "pl-PL": "Kopiec termitów",
+            "ru-RU": "Термитник",
+            "pt-BR": "Cupinzeiro",
+            "ja-JP": "シロアリ塚",
+            "eo-OO": "Termitejo"
+        }
+    }
+}

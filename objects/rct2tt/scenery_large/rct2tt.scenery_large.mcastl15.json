@@ -1,0 +1,91 @@
+{
+    "id": "rct2tt.scenery_large.mcastl15",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F822|MCASTL15|D9A9CF60",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 144,
+        "removalPrice": -114,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 226,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 226,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 226,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 226,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 226,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 226,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 226,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 226,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 226,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/MCASTL15.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Castle Tower Cross Piece",
+            "fr-FR": "Section de croisement du donjon",
+            "de-DE": "Schlossturm-Querstück",
+            "es-ES": "Cruce de torre de castillo",
+            "it-IT": "Tratto di intersezione della torre del Castello",
+            "nl-NL": "Kruising kasteeltoren",
+            "sv-SE": "Tornskarvdel, slott",
+            "ko-KR": "성탑 구석 조각",
+            "zh-TW": "城樓交叉塊",
+            "pt-BR": "Seção Transversal de Torre de Castelo",
+            "cs-CZ": "Hradní věž - střední část",
+            "pl-PL": "Skrzyżowanie wieży zamkowej",
+            "ru-RU": "Деталь башни замка",
+            "ja-JP": "城の塔のクロス部分",
+            "eo-OO": "Krucoparto de Turo de Kastelo"
+        }
+    }
+}

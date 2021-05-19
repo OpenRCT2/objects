@@ -1,0 +1,44 @@
+{
+    "id": "rct2.scenery_small.wasp",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F81|WASP    |3DF99AB3",
+    "sourceGame": "rct2",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 38,
+        "removalPrice": -30,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "animationMask": 255,
+        "numFrames": 64,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [1, 2, 1, 0, 1, 2, 1, 0, 1, 2, 1, 0, 1, 2, 1, 0, 1, 2, 1, 0, 1, 2, 1, 0, 1, 2, 1, 0, 1, 2, 1, 0, 1, 2, 1, 0, 1, 2, 1, 0, 1, 2, 1, 0, 1, 2, 1, 0, 1, 2, 1, 0, 1, 2, 1, 0, 1, 2, 1, 0, 1, 2, 1, 0]
+    },
+    "images": ["$RCT2:OBJDATA/WASP.DAT[0..15]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wasp",
+            "fr-FR": "Guêpe",
+            "de-DE": "Wespe",
+            "es-ES": "Avispa",
+            "it-IT": "Vespa",
+            "nl-NL": "Wesp",
+            "sv-SE": "Geting",
+            "ko-KR": "말벌",
+            "zh-CN": "黄蜂",
+            "zh-TW": "黃蜂",
+            "pt-BR": "Vespa",
+            "cs-CZ": "Vosa",
+            "ja-JP": "スズメバチ",
+            "pl-PL": "Osa",
+            "ru-RU": "Оса",
+            "eo-OO": "Vespo"
+        }
+    }
+}

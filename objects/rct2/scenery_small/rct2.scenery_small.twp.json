@@ -1,0 +1,37 @@
+{
+    "id": "rct2.scenery_small.twp",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F81|TWP     |A6ED42E9",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 17,
+        "removalPrice": 10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 76,
+        "isTree": true,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TWP.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "White Poplar Tree",
+            "fr-FR": "Peuplier blanc",
+            "de-DE": "Weiße Pappel",
+            "es-ES": "Álamo blanco",
+            "it-IT": "Pioppo bianco",
+            "nl-NL": "Witte Populier",
+            "sv-SE": "Vit poppel",
+            "ko-KR": "사시나무",
+            "zh-CN": "白杨树",
+            "zh-TW": "白楊樹",
+            "pt-BR": "Árvore Choupo-Branco",
+            "cs-CZ": "Topol bílý",
+            "ja-JP": "ウラジロハコヤナギ",
+            "pl-PL": "Topola biała",
+            "ru-RU": "Белый тополь",
+            "eo-OO": "Blanka Poploarbo"
+        }
+    }
+}

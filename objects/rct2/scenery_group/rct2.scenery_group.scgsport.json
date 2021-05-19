@@ -1,0 +1,46 @@
+{
+    "id": "rct2.scenery_group.scgsport",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGSPORT|4CF0A796",
+    "sourceGame": "rct2",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.ball1",
+            "rct2.scenery_small.ball2",
+            "rct2.scenery_small.helmet1",
+            "rct2.scenery_small.ball3",
+            "rct2.scenery_large.badrack",
+            "rct2.scenery_wall.wallbadm",
+            "rct2.scenery_small.badshut",
+            "rct2.scenery_small.badshut2",
+            "rct2.scenery_small.ball4",
+            "rct2.scenery_wall.wallnt32",
+            "rct2.scenery_wall.wallnt33",
+            "rct2.footpath_item.benchpl"
+        ],
+        "priority": 38
+    },
+    "images": ["$RCT2:OBJDATA/SCGSPORT.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sports Theming",
+            "fr-FR": "Thème Sports",
+            "de-DE": "Sport-Thema",
+            "es-ES": "Temática deportiva",
+            "it-IT": "Tema sportivo",
+            "nl-NL": "Sportthema",
+            "sv-SE": "Sportstema",
+            "ko-KR": "스포츠 테마",
+            "zh-CN": "运动主题区",
+            "zh-TW": "運動主題區",
+            "pt-BR": "Temática Esportiva",
+            "cs-CZ": "Sportovní kulisy",
+            "ja-JP": "スポーツ風のテーマ",
+            "pl-PL": "Wystrój sportowy",
+            "ru-RU": "Спорт",
+            "eo-OO": "Temo de Sportoj"
+        }
+    }
+}

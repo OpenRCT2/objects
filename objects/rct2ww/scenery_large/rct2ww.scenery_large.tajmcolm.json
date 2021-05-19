@@ -1,0 +1,59 @@
+{
+    "id": "rct2ww.scenery_large.tajmcolm",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFD12|TAJMCOLM|AA88E8C8",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 82,
+        "removalPrice": -77,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 64,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 64,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/TAJMCOLM.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Maharaja Palace Tower Column",
+            "fr-FR": "Colonne de la tour du palais du maharajah",
+            "de-DE": "Maharadschapalast - Turmsäule",
+            "es-ES": "Columna de torre del palacio del Maharajá",
+            "it-IT": "Colonna di torre del palazzo del Maragià",
+            "nl-NL": "Hoge Toren Maharadjapaleis",
+            "sv-SE": "Maharadjans palats, tornkolumn",
+            "zh-CN": "印度邦主皇宫高楼圆柱",
+            "cs-CZ": "Mahárádžův palác - věž",
+            "ko-KR": "마하라자 궁전 탑 기둥",
+            "pl-PL": "Pałac maharadży - korpus wieży",
+            "ru-RU": "Колонна дворца",
+            "pt-BR": "Coluna de Torre do Palácio do Marajá",
+            "ja-JP": "マハーラージャ宮殿 タワー円柱",
+            "eo-OO": "Mezparto de Turo de Maharaĝo-Palaco"
+        }
+    }
+}

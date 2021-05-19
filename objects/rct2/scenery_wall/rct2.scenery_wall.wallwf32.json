@@ -1,0 +1,34 @@
+{
+    "id": "rct2.scenery_wall.wallwf32",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WALLWF32|A93FEE6A",
+    "sourceGame": "rct2",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAnimated": true,
+        "height": 4,
+        "price": 180
+    },
+    "images": ["$RCT2:OBJDATA/WALLWF32.DAT[0..15]"],
+    "strings": {
+        "name": {
+            "en-GB": "Waterfall",
+            "fr-FR": "Chute d'eau",
+            "de-DE": "Wasserfall",
+            "es-ES": "Cascada",
+            "it-IT": "Cascata",
+            "nl-NL": "Waterval",
+            "sv-SE": "Vattenfall",
+            "ko-KR": "폭포",
+            "zh-CN": "瀑布",
+            "zh-TW": "瀑布",
+            "pt-BR": "Cachoeira",
+            "cs-CZ": "Vodopád",
+            "ja-JP": "滝",
+            "pl-PL": "Wodospad",
+            "ru-RU": "Водопад",
+            "eo-OO": "Akvafalo"
+        }
+    }
+}

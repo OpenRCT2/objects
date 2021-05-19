@@ -1,0 +1,104 @@
+{
+    "id": "rct2.ride.steep1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|STEEP1  |68721AAF",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": "steeplechase",
+        "category": "rollercoaster",
+        "ratingMultipler": {
+            "excitement": 5
+        },
+        "carColours": [
+            [
+                ["white", "bright_red", "black"]
+            ],
+            [
+                ["white", "yellow", "black"]
+            ],
+            [
+                ["white", "light_blue", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 244048,
+            "mass": 800,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "frictionSoundId": 2,
+            "soundRange": 0,
+            "drawOrder": 9,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "diagonalSlopes": true
+            },
+            "hasAdditionalColour1": true,
+            "hasScreamingRiders": true,
+            "loadingPositions": [4, -4]
+        },
+        "buildMenuPriority": 3
+    },
+    "images": ["$RCT2:OBJDATA/STEEP1.DAT[0..258]"],
+    "strings": {
+        "name": {
+            "en-GB": "Horses",
+            "fr-FR": "Rodéo montagnes",
+            "de-DE": "Pferde",
+            "es-ES": "Carrera Ciega",
+            "it-IT": "Corsa a ostacoli",
+            "nl-NL": "Paarden",
+            "sv-SE": "Hinderlopp",
+            "ko-KR": "말 차량",
+            "zh-CN": "越野障碍赛马",
+            "zh-TW": "越野障礙賽馬",
+            "pt-BR": "Cavalos",
+            "cs-CZ": "Dostihy",
+            "ja-JP": "障害物競馬",
+            "pl-PL": "Bieg z przeszkodami",
+            "ru-RU": "Стиплчез",
+            "eo-OO": "Ĉevaloj"
+        },
+        "description": {
+            "en-GB": "Single cars shaped like a horse",
+            "fr-FR": "Véhicule en forme de cheval parcourant des montagnes russes sur une voie monorail",
+            "de-DE": "Einzelfahrzeuge in Form von Pferden",
+            "es-ES": "Los pasajeros se montan en unos vagones con forma de caballo que recorren sobre un monoraíl",
+            "it-IT": "I passeggeri attraversano un tracciato monorotaia su veicoli a forma di cavallo",
+            "nl-NL": "Losse karretjes in de vorm van een paard.",
+            "sv-SE": "Hästformade singelvagnar",
+            "ko-KR": "단선 롤러코스터 트랙을 따라 달리는 말 모양의 차량에 탑승하는 놀이기구",
+            "zh-CN": "乘客骑着马形车辆循着单轨式过山车轨道",
+            "zh-TW": "乘客騎著馬形車輛循著單軌式雲霄飛車軌道",
+            "pt-BR": "Carros únicos moldados como um cavalo",
+            "ar-EG": "Single cars shaped like a horse",
+            "cs-CZ": "Vozy ve tvaru koní vozí návštěvníky po jednokolejné trati",
+            "en-US": "Single cars shaped like a horse",
+            "ja-JP": "シングルレールコースを馬の形の車両が走行する乗物です",
+            "pl-PL": "Pasażerowie jadą pojazdami w kształcie koni, poruszającymi się po jednoszynowym torze kolejki",
+            "ru-RU": "Люди едут на машинках в виде лошадей.",
+            "eo-OO": "Individuaj ĉaroj, formitaj kiel ĉevalo"
+        },
+        "capacity": {
+            "en-GB": "2 riders per horse",
+            "fr-FR": "2 passagers par cheval",
+            "de-DE": "2 Fahrgäste pro Pferd",
+            "es-ES": "2 jinetes por caballo",
+            "it-IT": "2 passeggeri per cavallo",
+            "nl-NL": "2 passagiers per paard",
+            "sv-SE": "2 ryttare per häst",
+            "ko-KR": "차량당 2명의 승객",
+            "zh-CN": "2 位乘客/每辆马",
+            "zh-TW": "2 位乘客/每輛馬",
+            "pt-BR": "2 passageiros por cavalo",
+            "cs-CZ": "2 místa na každém koni",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na konia",
+            "ru-RU": "2 пассажира",
+            "eo-OO": "Po 2 rajdantoj por ĉevalo"
+        }
+    }
+}

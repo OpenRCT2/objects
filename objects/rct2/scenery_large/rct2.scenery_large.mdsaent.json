@@ -1,0 +1,50 @@
+{
+    "id": "rct2.scenery_large.mdsaent",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C82|MDSAENT |78C2F7F1",
+    "sourceGame": "rct2",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 20,
+        "removalPrice": -10,
+        "cursor": "CURSOR_ENTRANCE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 16,
+                "walls": 4,
+                "corners": 12
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 16,
+                "walls": 4,
+                "corners": 12
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/MDSAENT.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "'Medusa' Sign",
+            "fr-FR": "Panneau 'Méduse'",
+            "de-DE": "„Medusa“-Schild",
+            "es-ES": "Señal de medusa",
+            "it-IT": "Insegna della 'Medusa'",
+            "nl-NL": "‘Medusa’-bord",
+            "sv-SE": "’Medusa’-skylt",
+            "ko-KR": "‘메두사’ 팻말",
+            "zh-CN": "「美杜莎」招牌",
+            "zh-TW": "「美杜莎」招牌",
+            "pt-BR": "Placa ‘Medusa’",
+            "cs-CZ": "'Medúza' cedule",
+            "ja-JP": "「メドゥーサ」看板",
+            "pl-PL": "Napis Meduza",
+            "ru-RU": "Знак 'Medusa'",
+            "eo-OO": "‘Meduzo’ Afiŝo"
+        }
+    }
+}

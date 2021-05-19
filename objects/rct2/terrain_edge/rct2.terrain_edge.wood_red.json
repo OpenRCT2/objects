@@ -1,0 +1,28 @@
+{
+    "id": "rct2.terrain_edge.wood_red",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008C|#RCT2EWR|00000000",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "terrain_edge",
+    "properties": {
+    },
+    "images": [
+        "$G1[5594]",
+        "$G1[1747..1830]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Wood (red)",
+            "de-DE": "Holz (rot)",
+            "nl-NL": "Rode houten palen",
+            "pt-BR": "Madeira (vermelha)",
+            "ja-JP": "木 (赤)",
+            "fr-FR": "Bois (rouge)",
+            "pl-PL": "Drewno (czerwone)",
+            "ko-KR": "나무 (적색)",
+            "eo-OO": "Ligno (ruĝa)",
+            "sv-SE": "Trä (rött)"
+        }
+    }
+}

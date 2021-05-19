@@ -1,0 +1,39 @@
+{
+    "id": "rct2ww.scenery_small.bamboopl",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0011|BAMBOOPL|E31E80D9",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/BAMBOOPL.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Bamboo Plinth",
+            "fr-FR": "Plinthe de bambou",
+            "de-DE": "Bambussockel",
+            "es-ES": "Peana de bambú",
+            "it-IT": "Plinto di bambù",
+            "nl-NL": "Sokkel van Bamboe",
+            "sv-SE": "Bambuplint",
+            "zh-CN": "竹架",
+            "cs-CZ": "Sloup z bambusu",
+            "ko-KR": "대나무 주추",
+            "pl-PL": "Cokół bambusowy",
+            "ru-RU": "Цоколь",
+            "pt-BR": "Plinto de Bambu",
+            "ja-JP": "竹の台座",
+            "eo-OO": "Bambua Soklo"
+        }
+    }
+}

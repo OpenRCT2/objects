@@ -1,0 +1,178 @@
+{
+    "id": "rct2tt.ride.microbus",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA20|MICROBUS|72D94CA8",
+    "sourceGame": "rct2tt",
+    "objectType": "ride",
+    "properties": {
+        "type": "motion_simulator",
+        "category": "thrill",
+        "tabScale": 0.5,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["bright_red", "yellow", "black"]
+            ],
+            [
+                ["yellow", "white", "black"]
+            ],
+            [
+                ["light_blue", "white", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "mass": 3000,
+            "numSeats": 8,
+            "seatsInPairs": false,
+            "spriteWidth": 55,
+            "spriteHeightNegative": 68,
+            "spriteHeightPositive": 28,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "recalculateSpriteBounds": true,
+            "hasAdditionalColour1": true,
+            "numSegments": 0,
+            "loadingWaypoints": [
+                [
+                    [42, 33],
+                    [42, 33],
+                    [16, 33]
+                ],
+                [
+                    [42, -10],
+                    [42, 33],
+                    [16, 33]
+                ],
+                [
+                    [-10, 42],
+                    [42, 33],
+                    [16, 33]
+                ],
+                [
+                    [42, 42],
+                    [42, 33],
+                    [16, 33]
+                ],
+                [
+                    [42, -42],
+                    [33, -42],
+                    [33, -16]
+                ],
+                [
+                    [33, -42],
+                    [33, -42],
+                    [33, -16]
+                ],
+                [
+                    [-10, -42],
+                    [33, -42],
+                    [33, -16]
+                ],
+                [
+                    [42, 10],
+                    [33, -42],
+                    [33, -16]
+                ],
+                [
+                    [10, -42],
+                    [-42, -33],
+                    [-16, -33]
+                ],
+                [
+                    [-42, -42],
+                    [-42, -33],
+                    [-16, -33]
+                ],
+                [
+                    [-42, -33],
+                    [-42, -33],
+                    [-16, -33]
+                ],
+                [
+                    [-42, 10],
+                    [-42, -33],
+                    [-16, -33]
+                ],
+                [
+                    [10, 42],
+                    [-33, 42],
+                    [-33, 16]
+                ],
+                [
+                    [-42, -10],
+                    [-33, 42],
+                    [-33, 16]
+                ],
+                [
+                    [-42, 42],
+                    [-33, 42],
+                    [-33, 16]
+                ],
+                [
+                    [-33, 42],
+                    [-33, 42],
+                    [-33, 16]
+                ]
+            ]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/MICROBUS.DAT[0..142]"],
+    "strings": {
+        "name": {
+            "en-GB": "MicroBus Ride",
+            "fr-FR": "Minibus",
+            "de-DE": "Mikrobus-Fahrt",
+            "es-ES": "Viaje en microbús",
+            "it-IT": "Corsa Minibus",
+            "nl-NL": "Hippiebus",
+            "sv-SE": "Hippiebuss",
+            "ko-KR": "마이크로버스 라이드",
+            "zh-TW": "小型巴士遊樂設施",
+            "ja-JP": "マイクロバスライド",
+            "pt-BR": "Brinquedo Microônibus",
+            "cs-CZ": "Jízda v MicroBusu",
+            "pl-PL": "Przejażdżka mikrobusem",
+            "ru-RU": "Микробус",
+            "eo-OO": "Mikrobuso-Atrakcio"
+        },
+        "description": {
+            "en-GB": "Riders view a film inside the Flower Power-themed motion simulator pod while it is twisted and moved around by a hydraulic arm",
+            "fr-FR": "Les spectateurs visionnent un film dans une nacelle simulant les mouvements grâce à un bras hydraulique",
+            "de-DE": "Die Fahrer sehen in der Bewegungssimulatorkapsel im Flower-Power-Stil einen Film, während diese von einem hydraulischen Arm bewegt und gedreht wird",
+            "es-ES": "Los viajeros ven una película en el interior de un sistema de simulación mientras son movidos y girados por un brazo hidráulico.",
+            "it-IT": "I visitatori, all'interno di una capsula fatta ondeggiare attraverso un braccio idraulico, vedono un film vivendone i movimenti.",
+            "nl-NL": "Passagiers bekijken een film in de cabine van een bewegingssimulator die wordt gedraaid en bewogen door een hydraulische arm.",
+            "sv-SE": "Passagerarna tittar på en film inuti en rörelsesimulator i form av en hippiebuss som vrider och rör på sig med hjälp av en hydraulisk arm",
+            "ko-KR": "수압식 관절에 의해 흔들리고 움직이는 모션 시뮬레이터 안에서 영화를 보는 놀이기구",
+            "zh-TW": "遊客坐在摸擬天體運行艙內觀看影片利用水力學支臂使旋轉及移動",
+            "ja-JP": "映像に合わせて動く、フラワーパワーのテーマをした水力式モーションシミュレーターポッド",
+            "pt-BR": "Os visitantes veem um filme dentro do simulador de movimento enquanto ele é mexido e agitado por um braço hidráulico",
+            "cs-CZ": "Návštěvníci sledují film uvnitř simulátoru pohybu, zatímco se simulátorem hýbe hydraulika",
+            "pl-PL": "Symulator ruchu, wewnątrz którego wyświetlany jest film, zaś pojazd jest wstrząsany i przechylany zgodnie z obrazem za pomocą siłownika hydraulicznego",
+            "ru-RU": "Люди смотрят кино внутри подвижной кабины, крутящейся на гидравл. рычаге",
+            "eo-OO": "Rajdantoj vidas filmon en la moviĝado-simulilo, kiu kaj havas temon de la Potenco de Floroj, kaj estas movita kaj turnigita per hidraŭlika brako"
+        },
+        "capacity": {
+            "en-GB": "8 passengers",
+            "fr-FR": "8 passagers",
+            "de-DE": "8 Fahrgäste",
+            "es-ES": "8 pasajeros",
+            "it-IT": "8 passeggeri",
+            "nl-NL": "8 passagiers",
+            "sv-SE": "8 passagerare",
+            "ko-KR": "승객 8명",
+            "zh-TW": "限乘8人",
+            "ja-JP": "定員8名",
+            "pt-BR": "8 passageiros",
+            "cs-CZ": "8 návštěvníků",
+            "pl-PL": "8 pasażerów",
+            "ru-RU": "8 человек",
+            "eo-OO": "8 pasaĝeroj"
+        }
+    }
+}

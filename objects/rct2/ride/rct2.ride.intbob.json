@@ -1,0 +1,107 @@
+{
+    "id": "rct2.ride.intbob",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|INTBOB  |499CD9EA",
+    "sourceGame": "rct2",
+    "objectType": "ride",
+    "properties": {
+        "type": "bobsleigh_rc",
+        "category": "rollercoaster",
+        "ratingMultipler": {
+            "excitement": 5
+        },
+        "carColours": [
+            [
+                ["bright_red", "bright_red", "black"]
+            ],
+            [
+                ["teal", "bordeaux_red", "black"]
+            ],
+            [
+                ["white", "light_blue", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 296344,
+            "mass": 1400,
+            "numSeats": 6,
+            "numSeatRows": 3,
+            "frictionSoundId": 2,
+            "soundRange": 0,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true
+            },
+            "hasNoUpstopWheelsBobsleigh": true,
+            "hasAdditionalColour1": true,
+            "hasSwinging": true,
+            "hasScreamingRiders": true,
+            "useSuspendedSwing": true,
+            "useSlideSwing": true,
+            "loadingPositions": [7, 9, 3, -3, -7, -9]
+        },
+        "buildMenuPriority": 1
+    },
+    "images": ["$RCT2:OBJDATA/INTBOB.DAT[0..5410]"],
+    "strings": {
+        "name": {
+            "en-GB": "6-seater Bobsleighs",
+            "fr-FR": "Maxi-bobsleigh",
+            "de-DE": "6-Sitzer-Bobs",
+            "es-ES": "Curvas Locas",
+            "it-IT": "Curve volanti",
+            "nl-NL": "Zespersoonsbob",
+            "sv-SE": "6-sitsiga bobslädevagnar",
+            "ko-KR": "6인승 봅슬레이 차량",
+            "zh-CN": "飞行旋转",
+            "zh-TW": "飛行旋轉",
+            "pt-BR": "Trens Bobsleigh (6 assentos)",
+            "cs-CZ": "Létající zatáčky",
+            "ja-JP": "フライング・ターン",
+            "pl-PL": "Latające zakręty",
+            "ru-RU": "Кружилки",
+            "eo-OO": "Bobsledoj kun 6 seĝoj"
+        },
+        "description": {
+            "en-GB": "Bobsleighs with three seating rows, with room for two people on each",
+            "fr-FR": "Les passagers descendent un parcours alambiqué à bord d'une grande voiture en forme de bobsleigh dirigée uniquement par les courbes et l'inclinaison de la voie semi-circulaire",
+            "de-DE": "Bobwagen mit drei Sitzreihen, mit Platz für jeweils zwei Leuten",
+            "es-ES": "Los pasajeros están sentados en vagones estilo bobsleigh guiados únicamente por la curvatura y los peraltes de la vía semicircular",
+            "it-IT": "I passeggeri si fanno strada lungo un tracciato sinuoso in grandi carrozze a forma di bob guidati solo dalla curvatura e dall'inclinazione del tracciato semi-circolare",
+            "nl-NL": "Passagiers rijden over een kronkelende baan, waarbij ze enkel worden geleid door de ronding en banking van de halfronde baan.",
+            "sv-SE": "Vagnar med tre tvåsitsiga platser i rad",
+            "ko-KR": "2명씩 3줄로 앉을 수 있는 하나의 봅슬레이 차량",
+            "zh-CN": "乘客在大型雪橇车内以几何率在半圆形轨道上弯曲冲锋陷阵",
+            "zh-TW": "乘客在大型雪橇車內以幾何率在半圓形軌道上彎曲衝鋒陷陣",
+            "pt-BR": "Bobsleighs com assentos de 3 fileiras, com espaço para duas pessoas em cada",
+            "ar-EG": "Bobsleighs with three seating rows, with room for two people on each",
+            "cs-CZ": "Návštěvníci v šestimístných vozech sedí vedle sebe po dvou ve třech řadách",
+            "en-US": "Bobsleighs with three seating rows, with room for two people on each",
+            "ja-JP": "ひねりのある半円形のコースを、カーブとバンクだけで支えられた大きなボブスレー形の車両が疾走するコースターです",
+            "pl-PL": "Pasażerowie zjeżdżają krętą trasą w wagonach przypominających bobsleje, prowadzonych jedynie przez krzywizny i wychylenia półkolistego toru",
+            "ru-RU": "Пассажиры едут в больших бобах, несущихся по полукруглому треку.",
+            "eo-OO": "Bobsledoj kun tri vicoj, kie ĉiu vico havas spacon por du uloj"
+        },
+        "capacity": {
+            "en-GB": "6 passengers per car",
+            "fr-FR": "6 passagers par voiture",
+            "de-DE": "6 Fahrgäste pro Wagen",
+            "es-ES": "6 pasajeros por vagón",
+            "it-IT": "6 passeggeri a carrozza",
+            "nl-NL": "6 passagiers per bob",
+            "sv-SE": "6 passagerare per vagn",
+            "ko-KR": "차량당 6명의 승객",
+            "zh-CN": "6 位乘客/每个车厢",
+            "zh-TW": "6 位乘客/每個車廂",
+            "pt-BR": "6 passageiros por Vagão",
+            "cs-CZ": "6 míst v každém voze",
+            "ja-JP": "各車両6名",
+            "pl-PL": "6 pasażerów na wagonik",
+            "ru-RU": "6 passengers per car",
+            "eo-OO": "Po 6 pasaĝeroj por ĉaro"
+        }
+    }
+}

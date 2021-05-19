@@ -1,0 +1,117 @@
+{
+    "id": "rct2.ride.slcfo",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SLCFO   |7E0B210A",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "ride",
+    "properties": {
+        "type": "compact_inverted_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 2,
+        "maxCarsPerTrain": 7,
+        "ratingMultipler": {
+            "excitement": 8,
+            "intensity": 12,
+            "nausea": 10
+        },
+        "carColours": [
+            [
+                ["yellow", "black", "bright_red"]
+            ],
+            [
+                ["black", "bright_red", "bright_red"]
+            ],
+            [
+                ["dark_green", "yellow", "yellow"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 200468,
+            "mass": 580,
+            "tabOffset": -15,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 1,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "verticalSlopes": true,
+                "diagonalSlopes": true,
+                "flatBanked": true,
+                "inlineTwists": true,
+                "flatToGentleSlopeBankedTransitions": true,
+                "diagonalGentleSlopeBankedTransitions": true,
+                "corkscrews": true,
+                "restraintAnimation": true
+            },
+            "hasAdditionalColour2": true,
+            "hasAdditionalColour1": true,
+            "hasScreamingRiders": true,
+            "loadingPositions": [1, 3, 1, 3]
+        },
+        "buildMenuPriority": 2
+    },
+    "images": ["$RCT2:OBJDATA/SLCFO.DAT[0..2042]"],
+    "strings": {
+        "name": {
+            "en-GB": "Face-off Cars",
+            "fr-FR": "Navette inversée",
+            "de-DE": "Plandrehwagen",
+            "es-ES": "Montaña Rusa Lanzadera",
+            "it-IT": "Ottovolante a navetta invertita",
+            "nl-NL": "Omgekeerde shuttle",
+            "sv-SE": "Omvänd skyttel",
+            "ko-KR": "페이스오프 차량",
+            "zh-CN": "反向穿梭过山车",
+            "zh-TW": "反向穿梭飛車",
+            "pt-BR": "Carros Enfrentamento",
+            "cs-CZ": "Tvář-rvoucí zavěšená horská dráha",
+            "ja-JP": "対戦カー",
+            "pl-PL": "Odwrócone kapsuły",
+            "ru-RU": "Инвертные Горки",
+            "eo-OO": "Alfrontantaj Aŭtoj"
+        },
+        "description": {
+            "en-GB": "Riders sit in pairs facing either forwards or backwards as they loop and twist through tight inversions",
+            "fr-FR": "Les passagers sont assis par deux, regardant tantôt devant, tantôt derrière, tandis qu'ils zigzaguent et sont chahutés lors d'inversions serrées",
+            "de-DE": "Die Fahrgäste sitzen sich paarweise gegenüber oder Rücken an Rücken, während sie durch enge Kurven, Schleifen und Wendungen fahren",
+            "es-ES": "En esta montaña rusa, los pasajeros se sientan en parejas mirándose uno al otro o de espaldas",
+            "it-IT": "I passeggeri siedono in coppia guardando avanti o indietro mentre affrontano giri della morte, curve e improvvise inversioni",
+            "nl-NL": "Passagiers zitten in stoelparen die onder de baan hangen terwijl ze door kronkelende en scherpe omkeringen gaan.",
+            "sv-SE": "Passagerarna sitter parvis med ansiktena antingen framåt eller bakåt medan de åker genom tighta loopar och skruvar",
+            "ko-KR": "앞쪽이나 뒤쪽을 보고 2명씩 마주보고 짝지어 앉아 루프와 트위스트와 급격한 전이 트랙을 지나는 차량",
+            "zh-CN": "乘客面对面或背对背坐着一起历经牢固的反转回圈快速旋转",
+            "zh-TW": "乘客面對面或背對背坐著一起歷經牢固的反轉迴圈快速旋轉",
+            "pt-BR": "Os passageiros sentam em pares, em assentos para frente ou para trás e passam por loops, curvas sinuosas e inversões fechadas",
+            "cs-CZ": "Návštěvníci sedí po dvou zavěšení pod tratí a vidí dopředu nebo dozadu podle toho, jak zrovna jedou skrze loopingy a ostré zatáčky",
+            "ja-JP": "乗客は2人ずつ前後に向かって座り、反転したりひねったりしながら走行するコースターです",
+            "pl-PL": "Pasażerowie siedzą naprzeciwko siebie, pokonując pętle i ostre zakręty",
+            "ru-RU": "Люди сидят парами друг напротив друга.",
+            "eo-OO": "Rapidirante tra krutaj inversigoj, rajdantoj sidas pare, kaj frontas aŭ antaŭe aŭ malantaŭe"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량당 4명의 승객",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира",
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

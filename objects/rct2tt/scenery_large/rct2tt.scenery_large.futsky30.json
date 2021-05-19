@@ -1,0 +1,90 @@
+{
+    "id": "rct2tt.scenery_large.futsky30",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB22|FUTSKY30|B6FE6601",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 18,
+        "removalPrice": 8,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 64,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 64,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 64,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/FUTSKY30.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone Walkway Corner",
+            "fr-FR": "Virage de la passerelle",
+            "de-DE": "Sandstein-Spazierweg-Ecke",
+            "es-ES": "Esquina de pasaje de arenisca",
+            "it-IT": "Curva del viale in arenaria",
+            "nl-NL": "Bocht zandstenen Looppad",
+            "sv-SE": "Hörn, sandstensgång",
+            "ko-KR": "사암 도보 구석",
+            "zh-TW": "沙岩製走道牆角",
+            "pt-BR": "Canto de Passadiço de Arenito",
+            "cs-CZ": "Pískovcová brána - roh",
+            "pl-PL": "Narożnik chodnika z piaskowca",
+            "ru-RU": "Деталь небоскрёба",
+            "ja-JP": "砂岩 歩道　コーナー",
+            "eo-OO": "Angulo de Sabloŝtona Vojo"
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "id": "rct2.ride.wmouse",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C80|WMOUSE  |32C36628",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": "wooden_wild_mouse",
+        "category": "rollercoaster",
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "ratingMultipler": {
+            "excitement": 3
+        },
+        "carColours": [
+            [
+                ["bright_red", "white", "light_pink"]
+            ],
+            [
+                ["saturated_brown", "yellow", "white"]
+            ],
+            [
+                ["white", "bright_pink", "bright_purple"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 148172,
+                "mass": 300,
+                "numSeats": 2,
+                "numSeatRows": 1,
+                "frictionSoundId": 1,
+                "soundRange": 0,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "hasSwinging": true,
+                "hasScreamingRiders": true,
+                "useWoodenWildMouseSwing": true,
+                "loadingPositions": [4, -4]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "frictionSoundId": 1,
+                "soundRange": 0,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "hasScreamingRiders": true
+            }
+        ],
+        "buildMenuPriority": 2
+    },
+    "images": ["$RCT2:OBJDATA/WMOUSE.DAT[0..1138]"],
+    "strings": {
+        "name": {
+            "en-GB": "Mouse Cars",
+            "fr-FR": "Souris folle en bois",
+            "de-DE": "Mauswagen",
+            "es-ES": "Ratón Loco de Madera",
+            "it-IT": "Topo tutto matto di legno",
+            "nl-NL": "Muiskarretjes",
+            "sv-SE": "Musvagnar",
+            "ko-KR": "우든 와일드 마우스 차량",
+            "zh-CN": "木制野地飞鼠",
+            "zh-TW": "木製野地飛鼠",
+            "pt-BR": "Carros de Rato",
+            "cs-CZ": "Dřevěná divoká myš",
+            "ja-JP": "木造ワイルドマウス",
+            "pl-PL": "Drewniana szalona mysz",
+            "ru-RU": "Деревянные мышки",
+            "eo-OO": "Musoĉaroj"
+        },
+        "description": {
+            "en-GB": "Individual cars shaped like a mouse",
+            "fr-FR": "De petites voitures en forme de souris dévalent une voie en bois et sont chahutées dans des virages en épingle à cheveux et des descentes abruptes",
+            "de-DE": "Einzelne mausförmige Wagen",
+            "es-ES": "Coches con forma de ratones que corren sobre una pista de madera",
+            "it-IT": "Piccole carrozze a forma di topo sfrecciano lungo un tracciato di legno, inclinandosi pericolosamente nelle curve a U e nelle discese ripide",
+            "nl-NL": "Losse muisvormige karretjes.",
+            "sv-SE": "Singelvagnar formade som möss",
+            "ko-KR": "나무 트랙 위를 달리면서 급격한 헤어핀 코너와 급등·급락을 지나면서 트랙을 벗어날 듯 위태롭게 기울어지는 작은 쥐 모양의 차량",
+            "zh-CN": "小老鼠外形的车辆在木架轨道上运行,车子以倾斜穿越U型转弯及陡峭坠下时有极大的不安全刺激感",
+            "zh-TW": "小老鼠外形的車輛在木架軌道上運行,車子以傾斜穿越U型轉彎及陡峭墜下時有極大的不安全刺激感",
+            "pt-BR": "Carros individuais moldados como um rato",
+            "ar-EG": "Indivual cars shaped like a mouse",
+            "cs-CZ": "Horská dráha s vozy ve tvaru myší",
+            "en-US": "Indivual cars shaped like a mouse",
+            "ja-JP": "小さなネズミの形をした車両が木製のコースをちょこまかと走り回り、危なっかしくヘアピンを曲がったり急降下したりするスリリングな乗物です",
+            "pl-PL": "Wagoniki w kształcie myszy jadące po zygzakowatym drewnianym torze, przechylające się na ostrych zakrętach i zdradliwych zjazdach",
+            "ru-RU": "Маленькие машинки в виде мышек едут по деревянному треку.",
+            "eo-OO": "Individualaj ĉaroj formitaj kiel muso"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por coche",
+            "it-IT": "2 passeggeri a carrozza",
+            "nl-NL": "2 passagiers per karretje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량당 2명의 승객",
+            "zh-CN": "2 位乘客/每个车厢",
+            "zh-TW": "2 位乘客/每個車廂",
+            "pt-BR": "2 passageiros por carro",
+            "cs-CZ": "2 místa v každém vozu",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира",
+            "eo-OO": "Po 2 pasaĝeroj por ĉaro"
+        }
+    }
+}

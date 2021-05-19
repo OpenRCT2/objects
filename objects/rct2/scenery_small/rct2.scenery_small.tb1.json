@@ -1,0 +1,38 @@
+{
+    "id": "rct2.scenery_small.tb1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TB1     |67B0BBCD",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TB1.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "White Bishop",
+            "fr-FR": "Fou blanc",
+            "de-DE": "Weißer Läufer",
+            "es-ES": "Obispo blanco",
+            "it-IT": "Alfiere bianco",
+            "nl-NL": "Witte loper",
+            "sv-SE": "Vit löpare",
+            "ko-KR": "흰색 비숍",
+            "zh-CN": "白主教",
+            "zh-TW": "白主教",
+            "pt-BR": "Bispo Branco",
+            "cs-CZ": "Bílý střelec",
+            "ja-JP": "白ビショップ",
+            "pl-PL": "Biały goniec",
+            "ru-RU": "Белый слон",
+            "eo-OO": "Blanka Kuriero"
+        }
+    }
+}

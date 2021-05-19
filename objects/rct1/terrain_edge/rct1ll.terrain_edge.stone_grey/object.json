@@ -1,0 +1,31 @@
+{
+    "id": "rct1ll.terrain_edge.stone_grey",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008C|#RCT1ESG|00000000",
+    "sourceGame": "rct1ll",
+    "objectType": "terrain_edge",
+    "properties": {
+        "hasDoors": true,
+        "doorSound": 2
+    },
+    "images": [
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        "$CSG[41550..41717]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone (Grey)",
+            "en-US": "Sandstone (Gray)",
+            "de-DE": "Sandstein (grau)",
+            "nl-NL": "Grijze zandsteen",
+            "pt-BR": "Arenito (cinza)",
+            "fr-FR": "Grès (gris)",
+            "ja-JP": "砂岩 (灰色)",
+            "pl-PL": "Piaskowiec (Szary)",
+            "ko-KR": "사암 (회색)",
+            "eo-OO": "Sabloŝtono (Griza)",
+            "sv-SE": "Sandsten (grå)"
+        }
+    }
+}

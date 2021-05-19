@@ -1,0 +1,39 @@
+{
+    "id": "rct2tt.scenery_small.swrdstne",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F921|SWRDSTNE|B1B54D3C",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 28,
+        "removalPrice": -20,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 64,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/SWRDSTNE.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sword in the Stone",
+            "fr-FR": "Epée dans la pierre",
+            "de-DE": "Schwert im Stein",
+            "es-ES": "Espada en la piedra",
+            "it-IT": "Spada nella roccia",
+            "nl-NL": "Zwaard in de steen",
+            "sv-SE": "Svärdet i stenen",
+            "ko-KR": "돌에 꽂힌 검",
+            "zh-TW": "石中劍",
+            "pt-BR": "Espada na Pedra",
+            "cs-CZ": "Meč v kameni",
+            "pl-PL": "Miecz w kamieniu",
+            "ru-RU": "Меч в камне",
+            "ja-JP": "石に刺さった剣",
+            "eo-OO": "Glavo en la Ŝtono"
+        }
+    }
+}

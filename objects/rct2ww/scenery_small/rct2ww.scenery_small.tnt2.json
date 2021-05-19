@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.tnt2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0511|TNT2    |B3436ECF",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TNT2.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "TNT Barrels",
+            "fr-FR": "Tonneaux de T.N.T.",
+            "de-DE": "TNT-Fässer",
+            "es-ES": "Barriles de TNT",
+            "it-IT": "Fusti di TNT",
+            "nl-NL": "TNT-vaten",
+            "sv-SE": "TNT-tunnor",
+            "zh-CN": "炸药筒",
+            "cs-CZ": "Barel dynamitu",
+            "ko-KR": "TNT 통",
+            "pl-PL": "Beczułki z dynamitem",
+            "ru-RU": "Бочки ТНТ",
+            "pt-BR": "Barril de TNT",
+            "ja-JP": "TNTの樽",
+            "eo-OO": "Bareloj da TNT"
+        }
+    }
+}

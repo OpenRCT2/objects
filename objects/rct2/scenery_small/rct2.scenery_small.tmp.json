@@ -1,0 +1,37 @@
+{
+    "id": "rct2.scenery_small.tmp",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TMP     |FDC37C9C",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 27,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 116,
+        "isTree": true,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TMP.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Monkey-Puzzle Tree",
+            "fr-FR": "Araucaria",
+            "de-DE": "Chilefichte",
+            "es-ES": "Pino Chileno",
+            "it-IT": "Araucaria",
+            "nl-NL": "Apenboom",
+            "sv-SE": "Brödgran",
+            "ko-KR": "칠레삼나무",
+            "zh-CN": "使猴子困惑的树",
+            "zh-TW": "使猴子困惑的樹",
+            "pt-BR": "Árvore Enigma-do-Macaco",
+            "cs-CZ": "Blahočet chilský",
+            "ja-JP": "モンキーパズルの木",
+            "pl-PL": "Araukaria",
+            "ru-RU": "Обезьянье дерево",
+            "eo-OO": "Ĉilia Araŭkarioarbo"
+        }
+    }
+}

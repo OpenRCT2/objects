@@ -1,0 +1,34 @@
+{
+    "id": "rct2tt.scenery_wall.mspkwa01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F823|MSPKWA01|7F475DE3",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50,
+        "sceneryGroup": "rct2.scenery_group.scgwalls"
+    },
+    "images": ["$RCT2:OBJDATA/MSPKWA01.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Spiked Fence",
+            "fr-FR": "Clôture à pointes",
+            "de-DE": "Stacheldrahtzaun",
+            "es-ES": "Valla de espino",
+            "it-IT": "Recinto chiodato",
+            "nl-NL": "Palissade",
+            "sv-SE": "Spetsigt staket",
+            "ko-KR": "침 달린 울타리",
+            "zh-TW": "有尖刺的柵欄",
+            "pt-BR": "Cerca de Esporões",
+            "cs-CZ": "Ostnatý plot",
+            "pl-PL": "Kolczaste ogrodzenie",
+            "ru-RU": "Забор",
+            "ja-JP": "釘のフェンス",
+            "eo-OO": "Pinta Barilo"
+        }
+    }
+}

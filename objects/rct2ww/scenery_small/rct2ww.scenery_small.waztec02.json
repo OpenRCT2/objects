@@ -1,0 +1,37 @@
+{
+    "id": "rct2ww.scenery_small.waztec02",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31C11|WAZTEC02|8F38AA65",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WAZTEC02.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Temple Roof Piece",
+            "fr-FR": "Pan de toit de temple",
+            "de-DE": "Tempeldach-Bauteil",
+            "es-ES": "Pieza de tejado de templo",
+            "it-IT": "Pezzo di tetto di tempio",
+            "nl-NL": "Stuk tempeldak",
+            "sv-SE": "Tempeltakdel",
+            "cs-CZ": "Střecha chrámu",
+            "ko-KR": "사원 지붕 조각",
+            "pl-PL": "Segment dachu świątyni",
+            "ru-RU": "Деталь крыши",
+            "pt-BR": "Peça de Telhado de Templo",
+            "ja-JP": "寺院の屋",
+            "eo-OO": "Tegmentoparto de Templo"
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "id": "rct2.ride.hatst",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|HATST   |DAE9D00C",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "ride",
+    "properties": {
+        "type": "shop",
+        "category": "stall",
+        "sells": "hat",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["bright_red", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/HATST.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Hat Stall",
+            "fr-FR": "Chapelier",
+            "de-DE": "Hutstand",
+            "es-ES": "Puesto de sombreros",
+            "it-IT": "Chiosco dei cappelli",
+            "nl-NL": "Hoedenkraam",
+            "sv-SE": "Hattstånd",
+            "ko-KR": "모자 가게",
+            "zh-CN": "帽子店",
+            "zh-TW": "帽子店",
+            "pt-BR": "Barraca de Chapéus",
+            "cs-CZ": "Stánek s čepicemi",
+            "ja-JP": "帽子ショップ",
+            "pl-PL": "Stragan z kapeluszami",
+            "ru-RU": "Шляпы",
+            "eo-OO": "Ĉapelbudo"
+        },
+        "description": {
+            "en-GB": "A souvenir stall selling large foam hats",
+            "fr-FR": "Boutique de souvenirs vendant de grands chapeaux en mousse",
+            "de-DE": "Ein Souvenirladen, der große Hüte verkauft",
+            "es-ES": "Un puesto de regalos que vende grandes sombreros de espuma",
+            "it-IT": "Un chiosco di souvenir che vende grandi cappelli di gomma",
+            "nl-NL": "Een souvenirkraam waar grote piepschuimen hoeden worden verkocht.",
+            "sv-SE": "Ett souvenirstånd som säljer stora skumhattar",
+            "ko-KR": "품이 큰 모자를 파는 기념품 가게",
+            "zh-CN": "纪念品店卖各式各样的帽子",
+            "zh-TW": "紀念品店賣各式各樣的帽子",
+            "pt-BR": "Uma barraca de souvenires vendendo grandes chapéus de espuma",
+            "cs-CZ": "Stánek se suvenýry - pěnovými čepicemi",
+            "ja-JP": "フォームラバー製の大きな帽子を売る売店です",
+            "pl-PL": "Stoisko z pamiątkami sprzedające wielkie piankowe kapelusze",
+            "ru-RU": "Сувенирная палатка со шляпами",
+            "eo-OO": "Memoraĵbudo vendanta grandajn ŝaŭmplastajn ĉapelojn"
+        }
+    }
+}

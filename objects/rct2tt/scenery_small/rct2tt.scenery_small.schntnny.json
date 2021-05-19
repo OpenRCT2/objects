@@ -1,0 +1,37 @@
+{
+    "id": "rct2tt.scenery_small.schntnny",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|SCHNTNNY|4E59A1F2",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -18,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 80,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/SCHNTNNY.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Racing Tannoy",
+            "fr-FR": "Haut-parleurs de course",
+            "de-DE": "Rennlautsprecher",
+            "es-ES": "Altavoz de carrera",
+            "it-IT": "Altoparlante per corse",
+            "nl-NL": "Raceluidspreker",
+            "sv-SE": "Racinghögtalare",
+            "ko-KR": "레이싱 스피커 장치",
+            "zh-TW": "運轉中的擴音系統",
+            "pt-BR": "Alto-Falantes de Corrida",
+            "cs-CZ": "Závodní tannoy",
+            "pl-PL": "Głośnik wyścigowy",
+            "ru-RU": "Репродуктор",
+            "ja-JP": "レース用スピーカー",
+            "eo-OO": "Vetkuranta Laŭtparolilo"
+        }
+    }
+}

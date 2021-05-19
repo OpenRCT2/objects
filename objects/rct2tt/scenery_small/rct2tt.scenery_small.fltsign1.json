@@ -1,0 +1,44 @@
+{
+    "id": "rct2tt.scenery_small.fltsign1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB21|FLTSIGN1|EC10093D",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 38,
+        "removalPrice": -32,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 72,
+        "animationDelay": 2,
+        "animationMask": 63,
+        "numFrames": 48,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 8, 9, 10, 11, 12, 13, 14, 15, 8, 9, 10, 11, 12, 13, 14, 15, 8, 9, 10, 11, 12, 13, 14, 15, 7, 6, 5, 4, 3, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "images": ["$RCT2:OBJDATA/FLTSIGN1.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Anti-Gravity LCD Billboard",
+            "fr-FR": "Tableau de bord anti-gravité",
+            "de-DE": "Anti-Schwerkraft-LCD-Reklametafel",
+            "es-ES": "Cartelera LCD con sistema de anulación de gravedad",
+            "it-IT": "Tabellone a cristalli liquidi antigravità",
+            "nl-NL": "Antizwaartekracht LCD-reclamebord",
+            "sv-SE": "Antigravitations-LCD-skärm",
+            "ko-KR": "반중력 LCD 광고판",
+            "zh-TW": "反重力LCD廣告板",
+            "pt-BR": "Quadro de Avisos de Cristal Líquido Antigravidade",
+            "cs-CZ": "Antigravitační LCD Billboard",
+            "pl-PL": "Antygrawitacyjny ekran LCD",
+            "ru-RU": "LCD-табло",
+            "ja-JP": "空中LCDビルボード",
+            "eo-OO": "Anti-Gravita Likvokristala Afiŝtabulo"
+        }
+    }
+}

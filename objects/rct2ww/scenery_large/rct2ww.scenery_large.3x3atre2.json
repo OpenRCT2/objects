@@ -1,0 +1,92 @@
+{
+    "id": "rct2ww.scenery_large.3x3atre2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0512|3X3ATRE2|5B53716A",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 36,
+        "removalPrice": 28,
+        "cursor": "CURSOR_TREE_DOWN",
+        "isPhotogenic": true,
+        "sceneryGroup": "rct2.scenery_group.scgtrees",
+        "isTree": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 136,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 136,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 136,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 136,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 136,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 136,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 136,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 136,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 136,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/3X3ATRE2.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jungle Tree 1",
+            "fr-FR": "Arbre jungle 1",
+            "de-DE": "Dschungelbaum 1",
+            "es-ES": "Árbol tropical 1",
+            "it-IT": "Albero della giungla 1",
+            "nl-NL": "Jungleboom 1",
+            "sv-SE": "Djungelträd 1",
+            "zh-CN": "热带树林1",
+            "cs-CZ": "Strom z jungle",
+            "ko-KR": "정글의 나무 1",
+            "pl-PL": "Drzewo z dżungli 1",
+            "ru-RU": "Дерево",
+            "pt-BR": "Árvore Selvagem 1",
+            "ja-JP": "ジャングルの木 1",
+            "eo-OO": "Ĝangaloarbo 1"
+        }
+    }
+}

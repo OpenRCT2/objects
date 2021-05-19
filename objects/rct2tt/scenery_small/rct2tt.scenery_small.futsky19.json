@@ -1,0 +1,42 @@
+{
+    "id": "rct2tt.scenery_small.futsky19",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|FUTSKY19|03EEB493",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": 4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/FUTSKY19.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone Skyscraper Bottom Corner",
+            "fr-FR": "Virage bas du gratte-ciel",
+            "de-DE": "Sandstein-Wolkenkratzer Untere Ecke",
+            "es-ES": "Esquina inferior de rascacielos de arenisca",
+            "it-IT": "Curva inferiore del grattacielo in arenaria",
+            "nl-NL": "Benedenbocht zandstenen wolkenkrabber",
+            "sv-SE": "Nedre hörn, sandstensskyskrapa",
+            "ko-KR": "사암 마천루 하단 구석",
+            "zh-TW": "沙岩製摩天大樓底部牆角",
+            "pt-BR": "Canto Inferior de Arranha-Céu de Arenito",
+            "cs-CZ": "Pískovcový mrakodrap - dolní roh",
+            "pl-PL": "Wieżowiec z piaskowca - dolny narożnik",
+            "ru-RU": "Деталь небоскрёба",
+            "ja-JP": "砂岩 高層ビル　底 コーナー",
+            "eo-OO": "Suba Angulo de Sabloŝtona Ĉielskrapanto"
+        }
+    }
+}

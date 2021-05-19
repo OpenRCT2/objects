@@ -1,0 +1,42 @@
+{
+    "id": "rct2ww.scenery_small.sbwplm02",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0711|SBWPLM02|1554851B",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/SBWPLM02.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cabana Porch",
+            "fr-FR": "Auvent de hutte",
+            "de-DE": "Cabana-Vorbau",
+            "es-ES": "Porche de cabaña",
+            "it-IT": "Veranda di capanna da spiaggia",
+            "nl-NL": "Deur Hut",
+            "sv-SE": "Veranda till stuga",
+            "zh-CN": "小屋门廊",
+            "cs-CZ": "Veranda u chaty",
+            "ko-KR": "탈의실 베란다",
+            "pl-PL": "Wejście do budki",
+            "ru-RU": "Крыльцо",
+            "pt-BR": "Varanda de Cabana",
+            "ja-JP": "小屋",
+            "eo-OO": "Portiko de Budo"
+        }
+    }
+}

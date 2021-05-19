@@ -1,0 +1,45 @@
+{
+    "id": "rct2tt.scenery_small.cavemenx",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F721|CAVEMENX|2D8E707B",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 34,
+        "removalPrice": -30,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "animationDelay": 2,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/CAVEMENX.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Animatronic Caveman lighting Fire",
+            "fr-FR": "Automate : homme des cavernes allumant un feu",
+            "de-DE": "Animatronic feuermachender Höhlenmensch",
+            "es-ES": "Cavernícola haciendo fuego animatrónico",
+            "it-IT": "Animatrone cavernicolo che accende un fuoco",
+            "nl-NL": "Animatronische vuurmakende holbewoner",
+            "sv-SE": "Grottmänniska som gör upp eld (animatronisk)",
+            "ko-KR": "움직이며 불을 밝히는 혈거인",
+            "zh-TW": "原始人生火機械偶",
+            "pt-BR": "Homem das Cavernas Animatrônico Acendendo Fogueira",
+            "cs-CZ": "Pohybující se jeskynní muž zapalující oheň",
+            "pl-PL": "Mechaniczny jaskiniowiec rozpalający ogień",
+            "ru-RU": "Человек, зажигающий огонь",
+            "ja-JP": "アニマトロニックの火を焚く穴居人",
+            "eo-OO": "Animatronika Kavernhomo flamiganta Fajron"
+        }
+    }
+}

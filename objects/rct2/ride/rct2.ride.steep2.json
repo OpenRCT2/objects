@@ -1,0 +1,102 @@
+{
+    "id": "rct2.ride.steep2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|STEEP2  |773C635C",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": "steeplechase",
+        "category": "rollercoaster",
+        "ratingMultipler": {
+            "excitement": 3
+        },
+        "carColours": [
+            [
+                ["bright_red", "white", "black"]
+            ],
+            [
+                ["bright_green", "white", "black"]
+            ],
+            [
+                ["light_blue", "white", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 209184,
+            "mass": 800,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "frictionSoundId": 2,
+            "soundRange": 0,
+            "drawOrder": 9,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "diagonalSlopes": true
+            },
+            "hasAdditionalColour1": true,
+            "hasScreamingRiders": true,
+            "loadingPositions": [4, -4]
+        },
+        "buildMenuPriority": 2
+    },
+    "images": ["$RCT2:OBJDATA/STEEP2.DAT[0..258]"],
+    "strings": {
+        "name": {
+            "en-GB": "Motorbikes",
+            "fr-FR": "Courses de moto",
+            "de-DE": "Motorräder",
+            "es-ES": "Carrera de Motos",
+            "it-IT": "Corsa in motocicletta",
+            "nl-NL": "Motorfietsen",
+            "sv-SE": "Motorcykeltävling",
+            "ko-KR": "모터바이크 차량",
+            "zh-CN": "摩托车竞速赛",
+            "zh-TW": "摩托車競速賽",
+            "pt-BR": "Motos",
+            "cs-CZ": "Závody motorek",
+            "ja-JP": "オートバイレース",
+            "pl-PL": "Wyścigi motocyklowe",
+            "ru-RU": "Мотоциклы",
+            "eo-OO": "Motorbicikloj"
+        },
+        "description": {
+            "en-GB": "Single cars shaped like a motorbike",
+            "fr-FR": "Véhicule en forme de moto de course parcourant des montagnes russes sur une voie monorail",
+            "de-DE": "Einzelwagen, die wie Motorräder geformt sind",
+            "es-ES": "Los pasajeros se montan en unos vagones con forma de moto que recorren sobre un monoraíl",
+            "it-IT": "I passeggeri attraversano un tracciato monorotaia su veicoli a forma di motocicletta",
+            "nl-NL": "Losse karretjes in de vorm van een motorfiets.",
+            "sv-SE": "Motorcykelformade singelvagnar",
+            "ko-KR": "단선 롤러코스터 트랙을 따라 달리는 오토바이 모양의 차량에 탑승하는 놀이기구",
+            "zh-CN": "乘客搭着摩托车形的过山车车辆延着单轨轨道前进",
+            "zh-TW": "乘客搭著摩托車形的雲霄飛車車輛延著單軌軌道前進",
+            "pt-BR": "Carros únicos moldados como motos",
+            "cs-CZ": "Vozy ve tvaru motorek vozí návštěvníky po jednokolejné trati",
+            "ja-JP": "シングルレールコースをオートバイの形の車両が走行する乗物です",
+            "pl-PL": "Pasażerowie jadą wagonikami w kształcie motocykli po jednoszynowym torze",
+            "ru-RU": "Пассажиры едут в вагончиках в виде мотоциклов по треку",
+            "eo-OO": "Unuopaj ĉaroj formitaj kiel motorbiciklo"
+        },
+        "capacity": {
+            "en-GB": "2 riders per bike",
+            "fr-FR": "2 passagers par moto",
+            "de-DE": "2 Fahrgäste pro Motorrad",
+            "es-ES": "2 pasajeros por moto",
+            "it-IT": "2 passeggeri per motocicletta",
+            "nl-NL": "2 passagiers per motorfiets",
+            "sv-SE": "2 passagerare per motorcykel",
+            "ko-KR": "자전거당 2명의 승객",
+            "zh-CN": "2 位乘客/每辆摩托车",
+            "zh-TW": "2 位乘客/每輛摩托車",
+            "pt-BR": "2 passageiros por moto",
+            "cs-CZ": "2 místa na každé motorce",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na motocykl",
+            "ru-RU": "2 пассажира",
+            "eo-OO": "Po 2 rajdantoj por biciklo"
+        }
+    }
+}

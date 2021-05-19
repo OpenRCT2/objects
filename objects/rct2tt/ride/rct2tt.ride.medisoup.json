@@ -1,0 +1,57 @@
+{
+    "id": "rct2tt.ride.medisoup",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F920|MEDISOUP|7FD6B0FF",
+    "sourceGame": "rct2tt",
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": "wonton_soup",
+        "disablePainting": true,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/MEDISOUP.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Witches Brew Soup",
+            "fr-FR": "Soupe des sorcières",
+            "de-DE": "Hexensuppe",
+            "es-ES": "Brujas preparando caldero",
+            "it-IT": "Brodaglia delle streghe",
+            "nl-NL": "Heksensoep",
+            "sv-SE": "Häxköket",
+            "ko-KR": "마녀의 비약 수프",
+            "zh-TW": "巫婆湯",
+            "ja-JP": "魔女のスープショップ",
+            "pt-BR": "Sopa das Bruxas",
+            "cs-CZ": "Čarodějnický kotlík",
+            "pl-PL": "Kocioł czarownic",
+            "ru-RU": "Супчик",
+            "eo-OO": "Supo de Sorĉistinoj"
+        },
+        "description": {
+            "en-GB": "A stall selling a thick broth-style soup",
+            "fr-FR": "Restaurant proposant un bouillon épais",
+            "de-DE": "Ein Stand, der eine dickflüssige Fleischbrühe verkauft",
+            "es-ES": "Un puesto en el que se vende caldo tradicional",
+            "it-IT": "Un chiosco che vende porzioni di brodo dalla consistenza di una zuppa.",
+            "nl-NL": "Een kraam waar dikke gebonden soep wordt verkocht.",
+            "sv-SE": "Ett stånd som säljer en tjock buljongsoppa",
+            "ko-KR": "걸쭉한 죽 스타일의 수프를 파는 가게",
+            "zh-TW": "販賣濃湯類的攤位",
+            "ja-JP": "濃厚だしのスープを販売するお店です",
+            "pt-BR": "Um quiosque vendendo uma sopa espessa de carne",
+            "cs-CZ": "Stánek prodávající hustou polévku",
+            "pl-PL": "Stoisko sprzedające gęsty bulion",
+            "ru-RU": "Палатка, где продают суп.",
+            "eo-OO": "Budo vendanta densan brogaĵecan supon"
+        }
+    }
+}

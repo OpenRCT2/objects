@@ -1,0 +1,37 @@
+{
+    "id": "rct2ww.scenery_small.1x1brang",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0E11|1X1BRANG|546A4F42",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 112,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/1X1BRANG.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Boomerang",
+            "de-DE": "Bumerang",
+            "es-ES": "Bumerang",
+            "nl-NL": "Boemerang",
+            "sv-SE": "Bumerang",
+            "zh-CN": "回旋标",
+            "cs-CZ": "Bumerang",
+            "ko-KR": "부메랑",
+            "pl-PL": "Bumerang",
+            "ru-RU": "Бумеранг",
+            "pt-BR": "Bumerangue",
+            "ja-JP": "ブーメラン",
+            "fr-FR": "Boomerang",
+            "eo-OO": "Bumerango"
+        }
+    }
+}

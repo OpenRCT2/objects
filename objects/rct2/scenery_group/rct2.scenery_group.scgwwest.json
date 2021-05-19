@@ -1,0 +1,48 @@
+{
+    "id": "rct2.scenery_group.scgwwest",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGWWEST|6662A7E9",
+    "sourceGame": "rct2",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.wag1",
+            "rct2.scenery_small.wag2",
+            "rct2.scenery_wall.wallwdps",
+            "rct2.scenery_large.genstore",
+            "rct2.scenery_large.saloon",
+            "rct2.scenery_large.wwbank",
+            "rct2.scenery_small.hang1",
+            "rct2.scenery_small.totem1",
+            "rct2.scenery_small.teepee1",
+            "rct2.footpath_item.litterww"
+        ],
+        "priority": 38,
+        "entertainerCostumes": [
+            "bandit",
+            "sheriff"
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SCGWWEST.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wild West Theming",
+            "fr-FR": "Thème Western",
+            "de-DE": "Wildwest-Thema",
+            "es-ES": "Temática salvaje oeste",
+            "it-IT": "Tema far west",
+            "nl-NL": "Wildwestthema",
+            "sv-SE": "Vilda västern-tema",
+            "ko-KR": "황량한 서부 테마",
+            "zh-CN": "西部荒野主题区",
+            "zh-TW": "西部荒野主題區",
+            "pt-BR": "Temática do Velho Oeste",
+            "cs-CZ": "Kulisy divokého západu",
+            "ja-JP": "大西部風テーマ",
+            "pl-PL": "Wystrój Dzikiego Zachodu",
+            "ru-RU": "Дикий Запад",
+            "eo-OO": "Sovaĝa-Okcidento-Temo"
+        }
+    }
+}

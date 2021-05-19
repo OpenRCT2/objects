@@ -1,0 +1,44 @@
+{
+    "id": "rct2tt.scenery_small.strictop",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F721|STRICTOP|546E2174",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 68,
+        "removalPrice": -64,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "animationDelay": 2,
+        "animationMask": 63,
+        "numFrames": 48,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "images": ["$RCT2:OBJDATA/STRICTOP.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Animatronic Triceratops",
+            "fr-FR": "Automate : tricératops",
+            "es-ES": "Triceratops animatrónico",
+            "it-IT": "Animatrone Triceratopo",
+            "nl-NL": "Animatronische Triceratops",
+            "sv-SE": "Triceratops (animatronisk)",
+            "ko-KR": "움직이는 트리케라톱스",
+            "zh-TW": "三角龍機械偶",
+            "pt-BR": "Tricerátops Animatrônico",
+            "cs-CZ": "Pohybující se triceratops",
+            "pl-PL": "Mechaniczny triceratops",
+            "ru-RU": "Трицераптор",
+            "ja-JP": "アニマトロニックのトリケラトプス",
+            "eo-OO": "Animatronika Triceratopo"
+        }
+    }
+}

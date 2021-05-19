@@ -1,0 +1,100 @@
+{
+    "id": "rct2.ride.monbk",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|MONBK   |8078AB77",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "ride",
+    "properties": {
+        "type": "monorail_cycles",
+        "category": [
+            "gentle",
+            "transport"
+        ],
+        "noCollisionCrashes": true,
+        "carColours": [
+            [
+                ["bordeaux_red", "black", "black"]
+            ],
+            [
+                ["dark_green", "black", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 200468,
+            "mass": 150,
+            "numSeats": 1,
+            "animation": 8,
+            "numSeatRows": 1,
+            "poweredAcceleration": 40,
+            "poweredMaxSpeed": 5,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "isPowered": true,
+            "hasVehicleAnimation": true,
+            "loadingPositions": [0]
+        },
+        "buildMenuPriority": 1
+    },
+    "images": ["$RCT2:OBJDATA/MONBK.DAT[0..258]"],
+    "strings": {
+        "name": {
+            "en-GB": "Bicycles",
+            "fr-FR": "Vélos",
+            "de-DE": "Fahrräder",
+            "es-ES": "Bicis Monorrail",
+            "it-IT": "Biciclette su monorotaia",
+            "nl-NL": "Fietsen",
+            "sv-SE": "Enspårs-cyklar",
+            "ko-KR": "모노레일 자전거",
+            "zh-CN": "空中脚踏车",
+            "zh-TW": "空中腳踏車",
+            "pt-BR": "Bicicletas",
+            "cs-CZ": "Jízdní kola",
+            "ja-JP": "モノレール自転車",
+            "pl-PL": "Rowery jednotorowe",
+            "ru-RU": "Моноциклы",
+            "eo-OO": "Bicikloj"
+        },
+        "description": {
+            "en-GB": "Special bicycles that run on a monorail track, propelled by the pedalling of the riders",
+            "en-US": "Special bicycles that run on a monorail track, propelled by the pedaling of the riders",
+            "fr-FR": "Des vélos spéciaux parcourent une voie monorail métallique",
+            "de-DE": "Spezielle Fahrräder, die auf einer Einschienenstrecke fahren und von den Passagieren mit Pedalen angetrieben werden",
+            "es-ES": "Bicicletas especiales que recorren sobre un monorraíl, impulsadas por pedaleo",
+            "it-IT": "Speciali biciclette viaggiano lungo un tracciato monorotaia d'acciaio, spinti dalle pedalate dei passeggeri",
+            "nl-NL": "Speciale fietsen rijden over een stalen monorail, voortbewogen door het trappen van de passagiers.",
+            "sv-SE": "Speciella cyklar som passagerarna själva trampar fram längs en stålskensbana",
+            "ko-KR": "탑승자가 직접 페달을 밟으면 강철 모노레일 트랙 위를 움직이는 특별한 자전거",
+            "zh-CN": "特殊的脚踏车在单轨铁路轨道上运行,由乘客自行脚踏前进",
+            "zh-TW": "特殊的腳踏車在單軌鐵路軌道上運行,由乘客自行腳踏前進",
+            "pt-BR": "Bicicletas especiais que correm numa pista  de monotrilho, propulsionadas pelas pedaladas dos passageiros",
+            "cs-CZ": "Po ocelové kolejnici jezdí speciální jízdní kola, ovládané šlapáním návštěvníků",
+            "ja-JP": "乗客が特殊な自転車のペダルを漕ぎ、モノレールコースを走る乗物です",
+            "pl-PL": "Specjalne rowery jadące po stalowej jednoszynowej trasie, napędzane przez pedałujących pasażerów",
+            "ru-RU": "Особые велосипеды с педальной тягой едут по стальным рельсам.",
+            "eo-OO": "Specialaj bicikloj, kiuj veturas sur monorela trako, povigitaj de la pedalo de la rajdantoj"
+        },
+        "capacity": {
+            "en-GB": "1 rider per bicycle",
+            "fr-FR": "1 personne par vélo",
+            "de-DE": "1 Person pro Fahrrad",
+            "es-ES": "1 ciclista por bicicleta",
+            "it-IT": "1 passeggero a bicicletta",
+            "nl-NL": "1 persoon per fiets",
+            "sv-SE": "1 passagerare per cykel",
+            "ko-KR": "자전거 당 1명의 탑승객",
+            "zh-CN": "1 位乘客/每辆脚踏车",
+            "zh-TW": "1 位乘客/每輛腳踏車",
+            "pt-BR": "1 passageiro por bicicleta",
+            "cs-CZ": "1 místo na každém kole",
+            "ja-JP": "各車両1名",
+            "pl-PL": "1 pasażer na rower",
+            "ru-RU": "1 человек",
+            "eo-OO": "Po 1 rajdanto por biciklo"
+        }
+    }
+}

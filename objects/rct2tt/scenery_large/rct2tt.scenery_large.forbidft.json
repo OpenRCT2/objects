@@ -1,0 +1,66 @@
+{
+    "id": "rct2tt.scenery_large.forbidft",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F822|FORBIDFT|45B441C9",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 36,
+        "removalPrice": 28,
+        "cursor": "CURSOR_TREE_DOWN",
+        "isPhotogenic": true,
+        "sceneryGroup": "rct2.scenery_group.scgtrees",
+        "isTree": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/FORBIDFT.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Forbidden Fruit Tree",
+            "fr-FR": "L'arbre du fruit défendu",
+            "de-DE": "Baum der verbotenen Früchte",
+            "es-ES": "Árbol del fruto prohibido",
+            "it-IT": "Albero del frutto proibito",
+            "nl-NL": "Boom verboden vrucht",
+            "sv-SE": "Förbjudna fruktens träd",
+            "ko-KR": "선악과 나무",
+            "zh-TW": "禁果樹",
+            "pt-BR": "Árvore do Fruto Proibido",
+            "cs-CZ": "Zakázané ovoce",
+            "pl-PL": "Rajska jabłoń",
+            "ru-RU": "Запретный плод",
+            "ja-JP": "禁断の果実の木",
+            "eo-OO": "Arbo de Malpermesita Frukto"
+        }
+    }
+}

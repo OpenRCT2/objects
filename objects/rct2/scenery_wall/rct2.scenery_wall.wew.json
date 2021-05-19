@@ -1,0 +1,35 @@
+{
+    "id": "rct2.scenery_wall.wew",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WEW     |AEAAC459",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 2,
+        "price": 50,
+        "sceneryGroup": "rct2.scenery_group.scgfence"
+    },
+    "images": ["$RCT2:OBJDATA/WEW.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Egyptian Wall",
+            "fr-FR": "Mur égyptien",
+            "de-DE": "Ägyptische Mauer",
+            "es-ES": "Pared egipcia",
+            "it-IT": "Muro egiziano",
+            "nl-NL": "Egyptische muur",
+            "sv-SE": "Egyptisk vägg",
+            "ko-KR": "이집트 벽",
+            "zh-CN": "埃及的墙",
+            "zh-TW": "埃及的牆",
+            "pt-BR": "Muro Egípcio",
+            "cs-CZ": "Egyptská stěna",
+            "ja-JP": "エジプト風の壁",
+            "pl-PL": "Ściana egipska",
+            "ru-RU": "Стена",
+            "eo-OO": "Egipta Muro"
+        }
+    }
+}

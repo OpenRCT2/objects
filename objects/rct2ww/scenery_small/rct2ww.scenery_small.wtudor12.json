@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.wtudor12",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0B11|WTUDOR12|C1CC2B4D",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WTUDOR12.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tudor Wall Piece 4",
+            "fr-FR": "Pan de mur Tudor 4",
+            "de-DE": "Tudor-Wand-Bauteil 4",
+            "es-ES": "Pieza de pared Tudor 4",
+            "it-IT": "Pezzo di muro Tudor 4",
+            "nl-NL": "Stuk muur in Tudorstijl 4",
+            "sv-SE": "Tudor-väggdel 4",
+            "cs-CZ": "Tudorská stěna - část 4",
+            "ko-KR": "튜더식 벽 조각 4",
+            "pl-PL": "Elżbietański segment ściany 4",
+            "ru-RU": "Деталь стены",
+            "pt-BR": "Peça de Parede Tudor 4",
+            "ja-JP": "チューダーの壁4",
+            "eo-OO": "Tudorstila Muroparto 4"
+        }
+    }
+}

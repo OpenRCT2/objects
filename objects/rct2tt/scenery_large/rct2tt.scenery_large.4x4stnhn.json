@@ -1,0 +1,132 @@
+{
+    "id": "rct2tt.scenery_large.4x4stnhn",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F722|4X4STNHN|F3D02DFF",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 260,
+        "removalPrice": -190,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 180,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 180,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 180,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 96,
+                "clearance": 180,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 180,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 180,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 180,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 96,
+                "clearance": 180,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 180,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 180,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 180,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 96,
+                "clearance": 180,
+                "walls": 2
+            },
+            {
+                "x": 96,
+                "y": 0,
+                "clearance": 180,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 32,
+                "clearance": 180,
+                "walls": 6
+            },
+            {
+                "x": 96,
+                "y": 64,
+                "clearance": 180,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 96,
+                "clearance": 180,
+                "walls": 6
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/4X4STNHN.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Stone Age Temple",
+            "fr-FR": "Temple de l'âge de pierre",
+            "de-DE": "Steinzeit-Tempel",
+            "es-ES": "Templo de la edad de piedra",
+            "it-IT": "Tempio dell'Età della Pietra",
+            "nl-NL": "Tempel uit de steentijd",
+            "sv-SE": "Stenålderstempel",
+            "ko-KR": "석기시대 사원",
+            "zh-TW": "石器時代寺廟",
+            "pt-BR": "Templo da Idade da Pedra",
+            "cs-CZ": "Chrám doby kamenné",
+            "pl-PL": "Świątynia z epoki kamiennej",
+            "ru-RU": "Древний храм",
+            "ja-JP": "石器時代の寺",
+            "eo-OO": "Ŝtonepoka Templo"
+        }
+    }
+}

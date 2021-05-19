@@ -1,0 +1,140 @@
+{
+    "id": "rct2.ride.arrt2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|ARRT2   |9A9CBE22",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "ride",
+    "properties": {
+        "type": "hypercoaster",
+        "category": "rollercoaster",
+        "noInversions": true,
+        "minCarsPerTrain": 2,
+        "maxCarsPerTrain": 8,
+        "defaultCar": 1,
+        "headCars": 0,
+        "ratingMultipler": {
+            "excitement": 15
+        },
+        "maxHeight": 45,
+        "carColours": [
+            [
+                ["white", "bright_red", "yellow"]
+            ],
+            [
+                ["yellow", "white", "bordeaux_red"]
+            ],
+            [
+                ["bright_red", "saturated_red", "yellow"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 287628,
+                "mass": 650,
+                "numSeats": 6,
+                "numSeatRows": 3,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [5, 3, -1, -3, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 252764,
+                "mass": 610,
+                "numSeats": 6,
+                "numSeatRows": 3,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [7, 9, 2, 4, -3, -1]
+            }
+        ],
+        "buildMenuPriority": 1
+    },
+    "images": ["$RCT2:OBJDATA/ARRT2.DAT[0..3554]"],
+    "strings": {
+        "name": {
+            "en-GB": "Hypercoaster Trains",
+            "fr-FR": "Super-montagnes",
+            "de-DE": "Hyper-Achterbahnzüge",
+            "es-ES": "Hipermontaña Rusa",
+            "it-IT": "Super-ottovolante",
+            "sv-SE": "Hyperberg- och dalbanevagnar",
+            "ko-KR": "하이퍼코스터 차량",
+            "zh-CN": "超速过山车",
+            "zh-TW": "超速飛車",
+            "pt-BR": "Trens Hiper-montanha",
+            "cs-CZ": "Hyper horská dráha",
+            "ja-JP": "ハイパーコースター",
+            "nl-NL": "Hypercoaster-trein",
+            "pl-PL": "Hiperjazda",
+            "ru-RU": "Гипергорки",
+            "eo-OO": "Trajnoj de Hipergiganta Onda Fervojo"
+        },
+        "description": {
+            "en-GB": "Comfortable trains with only lap bar restraints",
+            "fr-FR": "Montagnes russes non inversées, constituées de grandes boucles très rapides et que les passagers, uniquement retenus par des barres de protection placées au niveau des jambes, franchissent à bord de trains confortables",
+            "de-DE": "Komfortable Züge, die lediglich Beckenhalterungen aufweisen",
+            "es-ES": "Una montaña rusa alta y que no se invierte con grandes caídas, alta velocidad y vagones confortables con sólo unas barras para sujetarse",
+            "it-IT": "Un ottovolante alto, senza inversioni ma con lunghe discese, elevate velocità e carrozze confortevoli, dove l'unica misura di protezione è la barra al petto",
+            "nl-NL": "Een achtbaan zonder omkeringen met grote heuvels, een hoge snelheid, en comfortabele treinen met enkel schootbeugels.",
+            "sv-SE": "Komfortabla vagnar med endast enkla byglar",
+            "ko-KR": "무릎 안전바만 있는 편안한 차량",
+            "zh-CN": "一座超大的非倒吊式过山车只有一条压制膝部的安全条以大规模方式高速落下",
+            "zh-TW": "一座超大的非倒吊式雲霄飛車只有一條壓制膝部的安全條以大規模方式高速落下",
+            "pt-BR": "Trens confortáveis apenas com travas de colo",
+            "cs-CZ": "Horská dráha s pohodlnými vozy vybavenými opěrkou v klíně",
+            "ja-JP": "高低差もあり速度も速いですが、逆さにはならず膝にしか安全バーがないので、快適な車両です",
+            "pl-PL": "Wysoka, nieobrotowa szybka kolejka górska z dużymi zjazdami i wygodnymi wagonikami, wyposażonymi w zabezpieczenia obejmujące pasażerów jedynie w pasie",
+            "ru-RU": "Высокие прямые горки с глубокими падениями и большой скоростью, ремни только на колени.",
+            "eo-OO": "Komfortaj trajnoj kun nur sinobridoj"
+        },
+        "capacity": {
+            "en-GB": "6 passengers per car",
+            "fr-FR": "6 passagers par voiture",
+            "de-DE": "6 Fahrgäste pro Wagen",
+            "es-ES": "6 pasajeros por vagón",
+            "it-IT": "6 passeggeri a carrozza",
+            "nl-NL": "6 passagiers per karretje",
+            "sv-SE": "6 passagerare per vagn",
+            "ko-KR": "차량당 6명의 승객",
+            "zh-CN": "6 位乘客/每个车厢",
+            "zh-TW": "6 位乘客/每個車廂",
+            "pt-BR": "6 passageiros por carro",
+            "cs-CZ": "6 míst v každém voze",
+            "ja-JP": "各車両6名",
+            "pl-PL": "6 pasażerów na wagonik",
+            "ru-RU": "6 пассажиров",
+            "eo-OO": "Po 6 pasaĝeroj por ĉaro"
+        }
+    }
+}

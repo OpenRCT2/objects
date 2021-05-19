@@ -1,0 +1,183 @@
+{
+    "id": "rct2.ride.lift1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|LIFT1   |F43C91B2",
+    "sourceGame": "rct2",
+    "objectType": "ride",
+    "properties": {
+        "type": "lift",
+        "category": "transport",
+        "tabScale": 0.5,
+        "hasShelter": true,
+        "disableBreakdown": true,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "dark_brown", "black"]
+            ],
+            [
+                ["dark_green", "black", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 862884,
+            "mass": 1000,
+            "tabOffset": 7,
+            "numSeats": 16,
+            "numSeatRows": 8,
+            "poweredAcceleration": 255,
+            "poweredMaxSpeed": 15,
+            "drawOrder": 15,
+            "frames": {
+                "flat": true,
+                "restraintAnimation": true,
+                "VEHICLE_SPRITE_FLAG_15": true
+            },
+            "isLift": true,
+            "hasAdditionalColour1": true,
+            "isPowered": true,
+            "numSegments": 0,
+            "loadingWaypoints": [
+                [
+                    [28, 28],
+                    [-28, 28],
+                    [-16, 0]
+                ],
+                [
+                    [-28, -28],
+                    [-20, 0],
+                    [-16, 0]
+                ],
+                [
+                    [-20, 0],
+                    [-20, 0],
+                    [-16, 0]
+                ],
+                [
+                    [-28, 28],
+                    [-20, 0],
+                    [-16, 0]
+                ],
+                [
+                    [28, 28],
+                    [0, 20],
+                    [0, 16]
+                ],
+                [
+                    [28, -28],
+                    [28, 28],
+                    [0, 16]
+                ],
+                [
+                    [-28, 28],
+                    [0, 20],
+                    [0, 16]
+                ],
+                [
+                    [0, 20],
+                    [0, 20],
+                    [0, 16]
+                ],
+                [
+                    [20, 0],
+                    [20, 0],
+                    [16, 0]
+                ],
+                [
+                    [28, -28],
+                    [20, 0],
+                    [16, 0]
+                ],
+                [
+                    [-28, -28],
+                    [28, -28],
+                    [16, 0]
+                ],
+                [
+                    [28, 28],
+                    [20, 0],
+                    [16, 0]
+                ],
+                [
+                    [28, -28],
+                    [0, -20],
+                    [0, -16]
+                ],
+                [
+                    [0, -20],
+                    [0, -20],
+                    [0, -16]
+                ],
+                [
+                    [-28, -28],
+                    [0, -20],
+                    [0, -16]
+                ],
+                [
+                    [-28, 28],
+                    [-28, -28],
+                    [0, -16]
+                ]
+            ]
+        },
+        "buildMenuPriority": 1
+    },
+    "images": ["$RCT2:OBJDATA/LIFT1.DAT[0..146]"],
+    "strings": {
+        "name": {
+            "en-GB": "Lift Cabin",
+            "fr-FR": "Ascenseur",
+            "de-DE": "Aufzugskabine",
+            "es-ES": "Ascensor",
+            "it-IT": "Ascensore",
+            "nl-NL": "Liftcabine",
+            "sv-SE": "Hiss",
+            "ko-KR": "엘리베이터",
+            "zh-CN": "电梯",
+            "zh-TW": "升降機",
+            "pt-BR": "Cabine do Elevador",
+            "cs-CZ": "Výtah",
+            "ja-JP": "エレベーター",
+            "pl-PL": "Winda",
+            "ru-RU": "Лифт",
+            "eo-OO": "Liftokajuto"
+        },
+        "description": {
+            "en-GB": "Steel lift cabin",
+            "fr-FR": "Ascenseur montant ou descendant un à un les étages d'une tour verticale",
+            "de-DE": "Stahlaufzugskabine",
+            "es-ES": "Los pasajeros suben o bajan en un ascensor para acceder a distintos niveles de una torre vertical",
+            "it-IT": "I visitatori corrono dentro un ascensore su e giù per una torre per passare da un livello all'altro",
+            "nl-NL": "Stalen liftcabine.",
+            "sv-SE": "Hisskabin i stål",
+            "ko-KR": "손님들이 엘리베이터에 타서 수직 탑을 따라 위나 아래 층으로 이동하는 놀이기구",
+            "zh-CN": "游客在垂直塔楼内的电梯上下,由某一楼层到其它楼层",
+            "zh-TW": "遊客乘搭升降機上下穿梭於垂直的管道中, 並借此訪問另一層",
+            "pt-BR": "Cabine de aço do elevador",
+            "cs-CZ": "Výtah s ocelovou kabinou",
+            "ja-JP": "垂直なタワーの各階を移動する際のエレベーターです",
+            "pl-PL": "Pasażerowie jeżdżą w dół lub w górę windą w wieży, aby przejść z jednego poziomu na drugi",
+            "ru-RU": "Гости переезжают с уровня на уровень",
+            "eo-OO": "Ŝtala liftokajuto"
+        },
+        "capacity": {
+            "en-GB": "16 passengers",
+            "fr-FR": "16 passagers",
+            "de-DE": "16 Personen",
+            "es-ES": "16 pasajeros",
+            "it-IT": "16 passeggeri",
+            "nl-NL": "16 passagiers",
+            "sv-SE": "16 passagerare",
+            "ko-KR": "승객 16명",
+            "zh-CN": "16 位乘客",
+            "zh-TW": "16位乘客",
+            "pt-BR": "16 passageiros",
+            "cs-CZ": "16 návštěvníků",
+            "ja-JP": "定員16名",
+            "pl-PL": "16 pasażerów",
+            "ru-RU": "16 пассажиров",
+            "eo-OO": "16 pasaĝeroj"
+        }
+    }
+}

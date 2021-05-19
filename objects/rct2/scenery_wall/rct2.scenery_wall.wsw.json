@@ -1,0 +1,35 @@
+{
+    "id": "rct2.scenery_wall.wsw",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WSW     |4793349E",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_wall",
+    "properties": {
+        "isOpaque": true,
+        "isAllowedOnSlope": true,
+        "height": 3,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WSW.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Railings",
+            "fr-FR": "Grille",
+            "de-DE": "Geländer",
+            "es-ES": "Enrejado",
+            "it-IT": "Ringhiera",
+            "nl-NL": "Traliewerk",
+            "sv-SE": "Räcken",
+            "ko-KR": "철책",
+            "zh-CN": "栏杆",
+            "zh-TW": "欄杆",
+            "pt-BR": "Grades",
+            "cs-CZ": "Zábradlí",
+            "ja-JP": "ガードレール",
+            "pl-PL": "Płot z prętów",
+            "ru-RU": "Перила",
+            "eo-OO": "Balustrado"
+        }
+    }
+}

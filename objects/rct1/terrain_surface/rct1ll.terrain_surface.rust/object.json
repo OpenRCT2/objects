@@ -1,0 +1,38 @@
+{
+    "id": "rct1ll.terrain_surface.rust",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT1SRU|00000000",
+    "sourceGame": "rct1ll",
+    "objectType": "terrain_surface",
+    "properties": {
+        "price": 100,
+        "special": [
+            { "rotation": 1, "index": 3 },
+            { "rotation": 1, "grid": true, "index": 4 },
+            { "rotation": 1, "underground": true, "index": 5 },
+            { "rotation": 3, "index": 3 },
+            { "rotation": 3, "grid": true, "index": 4 },
+            { "rotation": 3, "underground": true, "index": 5 }
+        ]
+    },
+    "images": [
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        "$CSG[42375..42431]",
+        "$CSG[42432..42488]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Rust",
+            "de-DE": "Rost",
+            "nl-NL": "Roest",
+            "pt-BR": "Ferrugem",
+            "fr-FR": "Rouille",
+            "ja-JP": "錆",
+            "pl-PL": "Rdza",
+            "ko-KR": "녹",
+            "eo-OO": "Rusto",
+            "sv-SE": "Rost"
+        }
+    }
+}

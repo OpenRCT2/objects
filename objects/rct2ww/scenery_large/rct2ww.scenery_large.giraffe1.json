@@ -1,0 +1,57 @@
+{
+    "id": "rct2ww.scenery_large.giraffe1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0412|GIRAFFE1|79C0C1E5",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 58,
+        "removalPrice": -52,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 102,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 102,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 102,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 102,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/GIRAFFE1.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Giraffe 1",
+            "fr-FR": "Girafe 1",
+            "es-ES": "Jirafa 1",
+            "it-IT": "Giraffa 1",
+            "sv-SE": "Giraff 1",
+            "zh-CN": "长颈鹿1",
+            "cs-CZ": "Žirafa 1",
+            "ko-KR": "기린 1",
+            "pl-PL": "Żyrafa 1",
+            "ru-RU": "Жираф 1",
+            "pt-BR": "Girafa 1",
+            "ja-JP": "キリン１",
+            "eo-OO": "Ĝirafo 1"
+        }
+    }
+}

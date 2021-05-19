@@ -1,0 +1,56 @@
+{
+    "id": "rct2.scenery_group.scggardn",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGGARDN|ABF34676",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.tck",
+            "rct2.scenery_small.tg1",
+            "rct2.scenery_small.tg2",
+            "rct2.scenery_small.tg3",
+            "rct2.scenery_small.tg4",
+            "rct2.scenery_small.tg5",
+            "rct2.scenery_small.tg6",
+            "rct2.scenery_small.tg7",
+            "rct2.scenery_small.tg8",
+            "rct2.scenery_small.tg9",
+            "rct2.scenery_small.tg10",
+            "rct2.scenery_small.tg11",
+            "rct2.scenery_small.tg12",
+            "rct2.scenery_small.tg13",
+            "rct2.scenery_small.tg14",
+            "rct2.scenery_small.tg15",
+            "rct2.scenery_small.tg16",
+            "rct2.scenery_small.tg17",
+            "rct2.scenery_small.tg18",
+            "rct2.scenery_small.tg19",
+            "rct2.scenery_small.tg20",
+            "rct2.scenery_small.tg21"
+        ],
+        "priority": 3
+    },
+    "images": ["$RCT2:OBJDATA/SCGGARDN.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Gardens",
+            "fr-FR": "Jardins",
+            "de-DE": "Beete",
+            "es-ES": "Jardines",
+            "it-IT": "Giardini",
+            "nl-NL": "Bloemen",
+            "sv-SE": "Rabatter",
+            "ko-KR": "정원",
+            "zh-CN": "花园",
+            "zh-TW": "花園",
+            "pt-BR": "Jardins",
+            "cs-CZ": "Zahrady",
+            "ja-JP": "花壇",
+            "pl-PL": "Ogrody",
+            "ru-RU": "Клумба",
+            "eo-OO": "Ĝardenoj"
+        }
+    }
+}

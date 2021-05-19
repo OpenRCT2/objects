@@ -1,0 +1,148 @@
+{
+    "id": "rct2tt.scenery_large.rdmet4x4",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB22|RDMET4X4|6895BDE5",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 246,
+        "removalPrice": 198,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 96,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 96,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 96,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 96,
+                "y": 0,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 32,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 6
+            },
+            {
+                "x": 96,
+                "y": 64,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 96,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 6
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/RDMET4X4.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Large Red Meteor Crater",
+            "fr-FR": "Grand cratère météoritique rouge",
+            "de-DE": "Großer roter Meteoritenkrater",
+            "es-ES": "Cráter grande de meteorito rojo",
+            "it-IT": "Grande cratere meteoritico rosso",
+            "nl-NL": "Grote rode meteoorkrater",
+            "sv-SE": "Stor röd meteorkrater",
+            "ko-KR": "대형 붉은색 크레이터",
+            "zh-TW": "大型紅色隕石坑",
+            "pt-BR": "Cratera de Meteoro Vermelho Grande",
+            "cs-CZ": "Velký kráter",
+            "pl-PL": "Duży czerwony krater po meteorycie",
+            "ru-RU": "Большой кратер",
+            "ja-JP": "巨大な赤い隕石火口",
+            "eo-OO": "Granda Ruĝa Bolido-Kratero"
+        }
+    }
+}

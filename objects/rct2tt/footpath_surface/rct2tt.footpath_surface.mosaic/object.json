@@ -1,0 +1,30 @@
+{
+    "id": "rct2tt.footpath_surface.mosaic",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": ["rct2tt"],
+    "objectType": "footpath_surface",
+    "images": [
+        { "path": "preview.png", "x": 1, "y": 1 },
+        "$RCT2:OBJDATA/MYTHPATH.DAT[0..50]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Mosaic Footpath",
+            "fr-FR": "Allée en mosaïque",
+            "de-DE": "Mosaischer Fußweg",
+            "es-ES": "Sendero con mosaico",
+            "it-IT": "Sentiero a mosaico",
+            "nl-NL": "Mozaïek-voetpad",
+            "sv-SE": "Mosaikgångväg",
+            "ko-KR": "모자이크 보도",
+            "zh-TW": "馬賽克道路",
+            "pt-BR": "Trilha de Mosaico",
+            "cs-CZ": "Mosaická cesta",
+            "pl-PL": "Chodnik mozaikowy",
+            "ru-RU": "Дорожка",
+            "ja-JP": "モザイクの木造",
+            "eo-OO": "Mozaiko-Trotuaro"
+        }
+    }
+}

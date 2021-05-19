@@ -1,0 +1,37 @@
+{
+    "id": "rct2.scenery_small.carrot",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C81|CARROT  |63BEF0A6",
+    "sourceGame": "rct2",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 96,
+        "shape": "4/4",
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/CARROT.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Giant Carrot",
+            "fr-FR": "Carotte géante",
+            "de-DE": "Gigantische Karotte",
+            "es-ES": "Zanahoria gigante",
+            "it-IT": "Carota gigante",
+            "nl-NL": "Gigantisch varen",
+            "sv-SE": "Jättemorot",
+            "ko-KR": "대형 당근",
+            "zh-CN": "巨大的胡萝卜",
+            "zh-TW": "巨大的胡蘿蔔",
+            "pt-BR": "Cenoura Gigante",
+            "cs-CZ": "Obrovská mrkev",
+            "ja-JP": "巨大ニンジン",
+            "pl-PL": "Olbrzymia marchew",
+            "ru-RU": "Морковь",
+            "eo-OO": "Giganta Karoto"
+        }
+    }
+}

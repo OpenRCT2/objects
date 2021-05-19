@@ -1,0 +1,50 @@
+{
+    "id": "rct2.scenery_group.scgfence",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGFENCE|AD30FA67",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_wall.wmf",
+            "rct2.scenery_wall.wmfg",
+            "rct2.scenery_wall.wsw",
+            "rct2.scenery_wall.wswg",
+            "rct2.scenery_wall.wfw1",
+            "rct2.scenery_wall.wfwg",
+            "rct2.scenery_wall.wpf",
+            "rct2.scenery_wall.wpfg",
+            "rct2.scenery_wall.wsw1",
+            "rct2.scenery_wall.wsw2",
+            "rct2.scenery_wall.wbr1",
+            "rct2.scenery_wall.wbrg",
+            "rct2.scenery_wall.wbr2",
+            "rct2.scenery_wall.wbr3",
+            "rct2.scenery_wall.wallmm16",
+            "rct2.scenery_wall.wallmm17"
+        ],
+        "priority": 4
+    },
+    "images": ["$RCT2:OBJDATA/SCGFENCE.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Fences and Walls",
+            "fr-FR": "Clôtures et façades",
+            "de-DE": "Zäune und Mauern",
+            "es-ES": "Vallas y paredes",
+            "it-IT": "Recinti e muri",
+            "nl-NL": "Hekken en muren",
+            "sv-SE": "Staket och murar",
+            "ko-KR": "울타리와 벽",
+            "zh-CN": "栅栏和墙",
+            "zh-TW": "柵欄和牆",
+            "pt-BR": "Cercas e Muros",
+            "cs-CZ": "Ploty a stěny",
+            "ja-JP": "フェンスと壁",
+            "pl-PL": "Płoty i ściany",
+            "ru-RU": "Ограды и стены",
+            "eo-OO": "Bariloj kaj Muroj"
+        }
+    }
+}

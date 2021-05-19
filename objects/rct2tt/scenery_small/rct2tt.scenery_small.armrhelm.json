@@ -1,0 +1,40 @@
+{
+    "id": "rct2tt.scenery_small.armrhelm",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F821|ARMRHELM|224CF568",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 42,
+        "removalPrice": -34,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 72,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true
+    },
+    "images": ["$RCT2:OBJDATA/ARMRHELM.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Magical Helmet",
+            "fr-FR": "Casque magique",
+            "de-DE": "Magischer Helm",
+            "es-ES": "Yelmo mágico",
+            "it-IT": "Elmo magico",
+            "nl-NL": "Magische helm",
+            "sv-SE": "Magisk hjälm",
+            "ko-KR": "마법 헬멧",
+            "zh-TW": "魔法頭盔",
+            "pt-BR": "Capacete Mágico",
+            "cs-CZ": "Magická helma",
+            "pl-PL": "Czarodziejski hełm",
+            "ru-RU": "Волшебный шлем",
+            "ja-JP": "魔法のヘルメット",
+            "eo-OO": "Magia Kasko"
+        }
+    }
+}

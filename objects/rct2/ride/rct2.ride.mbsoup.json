@@ -1,0 +1,59 @@
+{
+    "id": "rct2.ride.mbsoup",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|MBSOUP  |16744215",
+    "sourceGame": "rct2",
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": "meatball_soup",
+        "disablePainting": true,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/MBSOUP.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Meatball Soup Stall",
+            "fr-FR": "Soupière-boulettes",
+            "de-DE": "Fleischklößchen-Suppenstand",
+            "es-ES": "Puesto de sopa albóndigas",
+            "it-IT": "Chiosco di polpette in salsa",
+            "nl-NL": "Soep-met-balletjeskraam",
+            "sv-SE": "Köttbullssoppstånd",
+            "ko-KR": "고기 완자탕 가게",
+            "zh-CN": "贡丸汤店",
+            "zh-TW": "貢丸湯店",
+            "pt-BR": "Barraca de Sopa de Carne",
+            "cs-CZ": "Stánek s polévkou",
+            "ja-JP": "肉団子スープショップ",
+            "pl-PL": "Kiosk z zupą klopsikową",
+            "ru-RU": "Фрикадельки",
+            "eo-OO": "Knela-Supobudo"
+        },
+        "description": {
+            "en-GB": "A stall selling Chinese style meatball soup",
+            "fr-FR": "Boutique vendant des soupes aux boulettes",
+            "de-DE": "Ein Stand, an dem Fleischklößchen-Suppe verkauft wird",
+            "es-ES": "Puesto que vende sopa de albóndigas estilo china",
+            "it-IT": "Un chiosco che vende polpette in salsa alla cinese",
+            "nl-NL": "Een kraam waar Chinese soep met balletjes wordt verkocht.",
+            "sv-SE": "Ett stånd som säljer kinesisk köttbullssoppa",
+            "ko-KR": "중국식 고기 완자탕을 파는 가게",
+            "zh-CN": "一家卖中国式贡丸汤的店",
+            "zh-TW": "一家賣中國式貢丸湯的店",
+            "pt-BR": "Uma barraca vendendo sopa de carne à moda chinesa",
+            "cs-CZ": "Stánek prodávající čínskou knedlíčkovou polévku",
+            "ja-JP": "中華風の肉団子スープを売る売店です",
+            "pl-PL": "Stoisko sprzedające chińską zupę z klopsikami",
+            "ru-RU": "Палатка с фрикадельным супом",
+            "eo-OO": "Budo vendanta Ĉina-stilan knela-supon"
+        }
+    }
+}

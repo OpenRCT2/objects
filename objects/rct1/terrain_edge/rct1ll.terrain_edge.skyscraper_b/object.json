@@ -1,0 +1,30 @@
+{
+    "id": "rct1ll.terrain_edge.skyscraper_b",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008C|#RCT1ESB|00000000",
+    "sourceGame": "rct1ll",
+    "objectType": "terrain_edge",
+    "properties": {
+        "hasDoors": true,
+        "doorSound": 1
+    },
+    "images": [
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        "$CSG[41758..41925]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Skyscraper (B)",
+            "de-DE": "Wolkenkratzer (B)",
+            "nl-NL": "Wolkenkrabber B",
+            "pt-BR": "Arranha-céus (B)",
+            "fr-FR": "Gratte-ciel (B)",
+            "ja-JP": "高層ビル (B)",
+            "pl-PL": "Wieżowiec (B)",
+            "ko-KR": "마천루 (B)",
+            "eo-OO": "Ĉielskrapanto (B)",
+            "sv-SE": "Skyskrapa (B)"
+        }
+    }
+}

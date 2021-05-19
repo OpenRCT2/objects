@@ -1,0 +1,30 @@
+{
+    "id": "rct1ll.terrain_edge.stone_brown",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0000008C|#RCT1ESN|00000000",
+    "sourceGame": "rct1ll",
+    "objectType": "terrain_edge",
+    "properties": {
+        "hasDoors": true,
+        "doorSound": 2
+    },
+    "images": [
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        "$CSG[41446..41613]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone (Brown)",
+            "de-DE": "Sandstein (braun)",
+            "nl-NL": "Bruine zandsteen",
+            "pt-BR": "Arenito (marrom)",
+            "fr-FR": "Grès (marron)",
+            "ja-JP": "砂岩 (茶色)",
+            "pl-PL": "Piaskowiec (Brązowy)",
+            "ko-KR": "사암 (갈색)",
+            "eo-OO": "Sabloŝtono (Bruna)",
+            "sv-SE": "Sandsten (brun)"
+        }
+    }
+}

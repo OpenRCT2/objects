@@ -1,0 +1,56 @@
+{
+    "id": "rct2tt.ride.softoyst",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F720|SOFTOYST|38EB9911",
+    "sourceGame": "rct2tt",
+    "objectType": "ride",
+    "properties": {
+        "type": "shop",
+        "category": "stall",
+        "sells": "toy",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SOFTOYST.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Soft Toy Stall",
+            "fr-FR": "Magasin de peluches",
+            "de-DE": "Stofftier-Stand",
+            "es-ES": "Puesto de peluches",
+            "it-IT": "Chiosco di pupazzi di peluche",
+            "nl-NL": "Knuffelkraam",
+            "sv-SE": "Stånd med kramdjur",
+            "ko-KR": "봉제인형 가게",
+            "zh-TW": "填充玩具攤位",
+            "ja-JP": "ぬいぐるみ屋",
+            "pt-BR": "Quiosque de Brinquedo Fofo",
+            "cs-CZ": "Stánek s plyšáky-dinosaury",
+            "pl-PL": "Kiosk z przytulankami",
+            "ru-RU": "Игрушки",
+            "eo-OO": "Mola-Ludilo-Budo"
+        },
+        "description": {
+            "en-GB": "A stall selling a cute soft toy dinosaur",
+            "fr-FR": "Une boutique proposant des peluches de dinosaures",
+            "de-DE": "Ein Stand, der süße Stoffdinosaurier verkauft",
+            "es-ES": "Un puesto de venta de preciosos peluches de dinosaurio",
+            "it-IT": "Un chiosco che vende un simpatico dinosauro di peluche.",
+            "nl-NL": "Een kraam waar schattige zachte dinosaurusknuffels worden verkocht.",
+            "sv-SE": "Ett stånd som säljer söta och mjuka leksaksdinosaurier",
+            "ko-KR": "귀엽고 부드러운 공룡 인형을 파는 가게",
+            "zh-TW": "販賣可愛恐龍填充玩具的攤位",
+            "ja-JP": "可愛い恐竜のぬいぐるみを売っているお店です",
+            "pt-BR": "Um quiosque vendendo um Dinossauro de pelúcia fofinho",
+            "cs-CZ": "Stánek prodávající roztomilé plyšáky-dinosaury",
+            "pl-PL": "Stoisko sprzedające mięciutkie dinozaury",
+            "ru-RU": "Палатка с динозавриками",
+            "eo-OO": "Budo vendanta ĉarmajn molajn dinosaŭro-ludilojn"
+        }
+    }
+}

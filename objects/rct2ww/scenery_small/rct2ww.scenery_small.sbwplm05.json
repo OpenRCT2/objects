@@ -1,0 +1,42 @@
+{
+    "id": "rct2ww.scenery_small.sbwplm05",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0711|SBWPLM05|D277DBFA",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/SBWPLM05.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cabana Roof Piece",
+            "fr-FR": "Pan de toit de hutte",
+            "de-DE": "Cabanadach-Bauteil",
+            "es-ES": "Pieza de tejado de cabaña",
+            "it-IT": "Pezzo di tetto di capanna da spiaggia",
+            "nl-NL": "Stuk dak Hut",
+            "sv-SE": "Takdel till stuga",
+            "zh-CN": "小屋屋顶一片",
+            "cs-CZ": "Vršek chaty",
+            "ko-KR": "탈의실 지붕 조각",
+            "pl-PL": "Budka - segment dachu",
+            "ru-RU": "Деталь крыши",
+            "pt-BR": "Peça de Telhado de Cabana",
+            "ja-JP": "小屋の屋根",
+            "eo-OO": "Tegmentoparto de Budo"
+        }
+    }
+}

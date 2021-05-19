@@ -1,0 +1,64 @@
+{
+    "id": "rct2.scenery_large.sgp",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188C82|SGP     |2FD8CCDF",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 115,
+        "removalPrice": -100,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 48,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 48,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 48,
+                "hasSupports": true,
+                "walls": 12
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 48,
+                "hasSupports": true,
+                "walls": 6
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SGP.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Giant Pumpkin",
+            "fr-FR": "Citrouille géante",
+            "de-DE": "Gigantischer Kürbis",
+            "es-ES": "Calabaza gigante",
+            "it-IT": "Zucca gigante",
+            "nl-NL": "Gigantische pompoen",
+            "sv-SE": "Jättepumpa",
+            "ko-KR": "대형 호박",
+            "zh-CN": "巨大南瓜",
+            "zh-TW": "巨大南瓜",
+            "pt-BR": "Abóbora Gigante",
+            "cs-CZ": "Obrovská dýně",
+            "ja-JP": "巨大カボチャ",
+            "pl-PL": "Olbrzymia dynia",
+            "ru-RU": "Тыква",
+            "eo-OO": "Giganta Kukurbo"
+        }
+    }
+}

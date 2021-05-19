@@ -1,0 +1,36 @@
+{
+    "id": "rct2.scenery_wall.wallwd33",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WALLWD33|2056AA30",
+    "sourceGame": "rct2",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "height": 4,
+        "price": 90,
+        "sceneryGroup": "rct2.scenery_group.scgwalls"
+    },
+    "images": ["$RCT2:OBJDATA/WALLWD33.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wooden Wall",
+            "fr-FR": "Mur en bois",
+            "de-DE": "Holzwand",
+            "es-ES": "Pared de madera",
+            "it-IT": "Muro di legno",
+            "nl-NL": "Houten wand",
+            "sv-SE": "Trävägg",
+            "ko-KR": "나무 벽",
+            "zh-CN": "木式墙",
+            "zh-TW": "木式牆",
+            "pt-BR": "Parede de Madeira",
+            "cs-CZ": "Dřevěná stěna",
+            "ja-JP": "木製の壁",
+            "pl-PL": "Ściana drewniana",
+            "ru-RU": "Стена",
+            "eo-OO": "Ligna Muro"
+        }
+    }
+}

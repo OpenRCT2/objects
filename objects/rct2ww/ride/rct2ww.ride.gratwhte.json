@@ -1,0 +1,160 @@
+{
+    "id": "rct2ww.ride.gratwhte",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0E10|GRATWHTE|A67F5258",
+    "sourceGame": "rct2ww",
+    "objectType": "ride",
+    "properties": {
+        "type": "corkscrew_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 9,
+        "numEmptyCars": 1,
+        "defaultCar": 1,
+        "headCars": 0,
+        "tailCars": 2,
+        "ratingMultipler": {
+            "intensity": 10
+        },
+        "carColours": [
+            [
+                ["light_blue", "white", "yellow"]
+            ],
+            [
+                ["bright_red", "yellow", "yellow"]
+            ],
+            [
+                ["white", "bordeaux_red", "bordeaux_red"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 244048,
+                "mass": 600,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [5, 3, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 244048,
+                "mass": 500,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [7, 9, -3, -1]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 191752,
+                "mass": 50,
+                "frictionSoundId": 2,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true
+                }
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/GRATWHTE.DAT[0..4470]"],
+    "strings": {
+        "name": {
+            "en-GB": "Great White Shark Trains",
+            "fr-FR": "Grand requin blanc",
+            "de-DE": "Weißhai-Züge",
+            "es-ES": "Atracción Gran Tiburón Blanco",
+            "it-IT": "Il grande squalo bianco",
+            "nl-NL": "Haaientrein",
+            "sv-SE": "Vithajsvagnar",
+            "zh-CN": "巨大的大白鲨游乐设施",
+            "ja-JP": "ホホジロザメトレイン",
+            "cs-CZ": "Žraločí horská dráha",
+            "ko-KR": "대백상어 차량",
+            "pl-PL": "Wielki biały rekin",
+            "pt-BR": "Trens Grande Tubarão Branco",
+            "ru-RU": "Белая акула",
+            "eo-OO": "Trajnoj de Granda Blanka Ŝarko"
+        },
+        "description": {
+            "en-GB": "Trains with shoulder restraints, in the shape of a great white shark",
+            "fr-FR": "Train spacieux disposant d'une simple barre de protection au niveau des jambes",
+            "de-DE": "Züge mit Schulterhalterungen, in der Form von Weißhaien",
+            "es-ES": "Trenes espaciosos con simples barras de sujeción",
+            "it-IT": "Usa ampie carrozze con semplici cinture di sicurezza",
+            "nl-NL": "Trein in de vorm van een grote witte haai.",
+            "sv-SE": "Vithajsformade vagnar med axelbyglar",
+            "zh-CN": "有简单护膝的宽敞列车",
+            "ja-JP": "ホホジロザメの形をしたローラーコースターです",
+            "cs-CZ": "Horská dríha s vozy vybavenými ramenní opěrkou, které připomínají žraloka bílého",
+            "ko-KR": "어깨 안전바가 있는 대백상어 모양의 차량",
+            "pl-PL": "Przestronne wagoniki z prostymi zabezpieczeniami obejmującymi pasażerów w pasie",
+            "pt-BR": "Trens com travas de ombro, moldados como um Grande Tubarão Branco",
+            "ru-RU": "Просторные поезда с ремнем безопасности",
+            "eo-OO": "Trajnoj kun ŝultrobridoj, formitaj kiel granda blanka ŝarko"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "zh-CN": "每辆车限乘4人",
+            "cs-CZ": "4 míst v každém voze",
+            "ja-JP": "各車両4名",
+            "ko-KR": "차량당 4명의 승객",
+            "pl-PL": "4 pasażerów na wagonik",
+            "pt-BR": "4 passageiros por vagão",
+            "ru-RU": "4 человек на вагон",
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

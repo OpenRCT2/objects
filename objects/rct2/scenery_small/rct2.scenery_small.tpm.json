@@ -1,0 +1,37 @@
+{
+    "id": "rct2.scenery_small.tpm",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TPM     |F9C2F999",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 16,
+        "removalPrice": 10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 68,
+        "isTree": true,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TPM.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Palm Tree",
+            "fr-FR": "Palmier",
+            "de-DE": "Palme",
+            "es-ES": "Palmera",
+            "it-IT": "Palma",
+            "nl-NL": "Palmboom",
+            "sv-SE": "Palm",
+            "ko-KR": "야자수",
+            "zh-CN": "棕榈树",
+            "zh-TW": "棕櫚樹",
+            "pt-BR": "Árvore Palmeira",
+            "cs-CZ": "Palma",
+            "ja-JP": "ヤシの木",
+            "pl-PL": "Palma",
+            "ru-RU": "Пальма",
+            "eo-OO": "Palmarbo"
+        }
+    }
+}

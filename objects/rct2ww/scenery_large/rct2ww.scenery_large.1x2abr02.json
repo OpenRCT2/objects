@@ -1,0 +1,48 @@
+{
+    "id": "rct2ww.scenery_large.1x2abr02",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0E12|1X2ABR02|C9AD3FAC",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 38,
+        "removalPrice": -30,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 8,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 8,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/1X2ABR02.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Aboriginal Snake Artwork",
+            "fr-FR": "Oeuvre serpent aborigène",
+            "de-DE": "Aborigine-Kunst - Schlangen-Kunstwerk",
+            "es-ES": "Arte serpiente aborigen",
+            "it-IT": "Opera d'arte aborigena a forma di serpente",
+            "nl-NL": "Slangkunstwerk Aboriginals",
+            "sv-SE": "Urinnevånares ormkonstverk",
+            "cs-CZ": "Domorodecké umění",
+            "ko-KR": "원주민 뱀 예술작품",
+            "pl-PL": "Dekoracja aborygeńska - wąż",
+            "ru-RU": "Змей аборигенов",
+            "pt-BR": "Arte Aborígene de Serpente",
+            "ja-JP": "アボリジニ・スネーク工芸",
+            "eo-OO": "Aborigena Artpeco de Serpento"
+        }
+    }
+}

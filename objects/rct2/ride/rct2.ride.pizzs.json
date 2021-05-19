@@ -1,0 +1,59 @@
+{
+    "id": "rct2.ride.pizzs",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|PIZZS   |68C42EB5",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": "pizza",
+        "disablePainting": true,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/PIZZS.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Pizza Stall",
+            "fr-FR": "Pizzaïolo",
+            "de-DE": "Pizzastand",
+            "es-ES": "Puesto de pizza",
+            "it-IT": "Chiosco delle pizze",
+            "nl-NL": "Pizzakraam",
+            "sv-SE": "Pizzastånd",
+            "ko-KR": "피자 가게",
+            "zh-CN": "比萨店",
+            "zh-TW": "比薩店",
+            "pt-BR": "Barraca de Pizza",
+            "cs-CZ": "Stánek s pizzou",
+            "ja-JP": "ピザショップ",
+            "pl-PL": "Kiosk z pizzą",
+            "ru-RU": "Пицца",
+            "eo-OO": "Picobudo"
+        },
+        "description": {
+            "en-GB": "A stall selling portions of pizza",
+            "fr-FR": "Boutique vendant des parts de pizza",
+            "de-DE": "Ein Stand, an dem Pizzaportionen verkauft werden",
+            "es-ES": "Un puesto que vende porciones de pizza",
+            "it-IT": "Un chiosco che vende tranci di pizza",
+            "nl-NL": "Een kraam waar stukken pizza worden verkocht.",
+            "sv-SE": "Ett stånd som säljer pizzabitar",
+            "ko-KR": "피자 조각을 파는 가게",
+            "zh-CN": "一间卖比萨的店",
+            "zh-TW": "一間賣比薩的店",
+            "pt-BR": "Uma barraca vendendo pedaços de pizza",
+            "cs-CZ": "Stánek prodávající kusy pizzy",
+            "ja-JP": "ピザを売る売店です",
+            "pl-PL": "Stoisko sprzedające porcje pizzy",
+            "ru-RU": "Палатка с пиццей",
+            "eo-OO": "Budo vendanta porciojn da pico"
+        }
+    }
+}

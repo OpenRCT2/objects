@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.rgeorg03",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0911|RGEORG03|FF78649A",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RGEORG03.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Georgian Roof Piece 1",
+            "fr-FR": "Pan de toit géorgien 1",
+            "de-DE": "Georgianisches Dach-Bauteil 1",
+            "es-ES": "Pieza de tejado georgiano 1",
+            "it-IT": "Pezzo di tetto georgiano 1",
+            "nl-NL": "Stuk dak in Georgiaanse stijl 1",
+            "sv-SE": "Georgiansk takdel 1",
+            "cs-CZ": "Gregoriánská střecha",
+            "ko-KR": "조지아식 지붕 조각 1",
+            "pl-PL": "Georgiański segment dachu 1",
+            "ru-RU": "Деталь крыши",
+            "pt-BR": "Peça de Telhado Georgiano 1",
+            "ja-JP": "ジョージア風の 屋根部分 1",
+            "eo-OO": "Georgia Tegmentoparto 1"
+        }
+    }
+}

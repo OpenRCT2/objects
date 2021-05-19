@@ -1,0 +1,143 @@
+{
+    "id": "rct2.ride.intst",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|INTST   |59F1CF92",
+    "sourceGame": "rct2",
+    "objectType": "ride",
+    "properties": {
+        "type": "giga_rc",
+        "category": "rollercoaster",
+        "minCarsPerTrain": 4,
+        "maxCarsPerTrain": 9,
+        "defaultCar": 1,
+        "headCars": 0,
+        "carColours": [
+            [
+                ["white", "bright_red", "yellow"]
+            ],
+            [
+                ["bright_red", "dark_green", "black"]
+            ],
+            [
+                ["yellow", "black", "bright_red"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 296344,
+                "mass": 600,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [5, 3, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 191752,
+                "mass": 550,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 7,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [7, 9, -3, -1]
+            }
+        ],
+        "buildMenuPriority": 1
+    },
+    "images": ["$RCT2:OBJDATA/INTST.DAT[0..3626]"],
+    "strings": {
+        "name": {
+            "en-GB": "Giga Coaster Trains",
+            "fr-FR": "Giga montagnes russes",
+            "de-DE": "Giga-Bahn-Züge",
+            "es-ES": "Gigamontaña Rusa",
+            "it-IT": "Giga-coaster",
+            "nl-NL": "Giga-achtbaantrein",
+            "sv-SE": "Vagnar för gigaberg- och dalbana",
+            "ko-KR": "기가 코스터 차량",
+            "zh-CN": "巨大过山车",
+            "zh-TW": "巨大雲霄飛車",
+            "pt-BR": "Trens Giga-Montanha",
+            "ar-EG": "Giga Coaster Trains",
+            "cs-CZ": "Giga dráha",
+            "en-US": "Giga Coaster Trains",
+            "ja-JP": "ギガコースター",
+            "pl-PL": "Gigajazda",
+            "ru-RU": "Гига-Горки",
+            "eo-OO": "Trajnoj de Altega Onda Fervojo"
+        },
+        "description": {
+            "en-GB": "Roller coaster trains for the Giga Coaster, capable of smooth drops",
+            "fr-FR": "Montagnes russes géantes proposant des chutes régulières depuis des collines dépassant les 100 mètres d'altitude",
+            "de-DE": "Achterbahnzüge für die Giga-Bahn, geeignet für gemäßigte Gefälle",
+            "es-ES": "Una montaña rusa gigante capaz de caídas suaves y subidas de más de 300 pies",
+            "it-IT": "Un ottovolante gigante d'acciaio con lunghe cadute e colline di più di 100 metri d'altezza",
+            "nl-NL": "Een gigantische stalen achtbaan die in staat is tot soepele afdalingen en heuvels die hoger zijn dan 90 meter.",
+            "sv-SE": "Vagnar för mjuka fall utför gigaberg- och dalbanans stup",
+            "ko-KR": "90m 이상의 부드러운 낙하와 상승이 가능한 거대한 강철 롤러코스터",
+            "zh-CN": "一座巨大的钢制过山车有能力可以缓慢的落下及爬坡达300英尺",
+            "zh-TW": "一座巨大的鋼製雲霄飛車有能力可以緩慢的落下及爬坡達300英尺",
+            "pt-BR": "Uma montanha-russa gigante de aço com quedas diretas e morros de mais de 100 m",
+            "cs-CZ": "Gigantická horská dráha schopna volných pádů a kopců přes 90 metrů dlouhých",
+            "ja-JP": "300フィート(約91m)もの高さの丘と、スムーズな降下がある巨大なスチール製のコースターです",
+            "pl-PL": "Wielka stalowa kolejka górska jeżdżąca po łagodnych spadkach i wzniesieniach o wysokości 100 m",
+            "ru-RU": "Гигантские горки с крутыми падениями до 100м.",
+            "eo-OO": "Trajnoj de onda fervojo por la Altega Onda Fervojo, kapabla je glataj malleviĝoj"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량당 4명의 승객",
+            "zh-CN": "4位乘客/每个车厢",
+            "zh-TW": "4位乘客/每個車廂",
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира",
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

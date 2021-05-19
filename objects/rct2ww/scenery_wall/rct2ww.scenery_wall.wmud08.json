@@ -1,0 +1,33 @@
+{
+    "id": "rct2ww.scenery_wall.wmud08",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0413|WMUD08  |9A7B82D9",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 1,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WMUD08.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Mud Wall Piece",
+            "fr-FR": "Pan de mur de terre",
+            "de-DE": "Schlammwand-Bauteil",
+            "es-ES": "Pieza de pared de barro",
+            "it-IT": "Pezzo di parete di fango",
+            "nl-NL": "Lemen muur",
+            "sv-SE": "Del av jordvägg",
+            "zh-CN": "泥墙块",
+            "cs-CZ": "Stěna z bahna",
+            "ko-KR": "진흙 벽 조각",
+            "pl-PL": "Segment glinianej ściany",
+            "ru-RU": "Деталь стены",
+            "pt-BR": "Peça de Parede de Barro",
+            "ja-JP": "泥の壁",
+            "eo-OO": "Parto de Tegmento el Koto"
+        }
+    }
+}

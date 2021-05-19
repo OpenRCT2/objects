@@ -1,0 +1,32 @@
+{
+    "id": "rct2ww.park_entrance.japent",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0018|JAPENT  |8EF47487",
+    "sourceGame": "rct2ww",
+    "objectType": "park_entrance",
+    "properties": {
+        "scrollingMode": 3,
+        "textHeight": 82
+    },
+    "images": ["$RCT2:OBJDATA/JAPENT.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Japanese Park Entrance",
+            "fr-FR": "Entrée du parc japonais",
+            "de-DE": "Japanischer Parkeingang",
+            "es-ES": "Entrada japonesa al parque",
+            "it-IT": "Ingresso del parco giapponese",
+            "nl-NL": "Parkingang in Japanse stijl",
+            "sv-SE": "Japansk parkentré",
+            "zh-CN": "日本的公园入口",
+            "cs-CZ": "Japonský vstup do parku",
+            "ko-KR": "일본식 공원 입구",
+            "pl-PL": "Wejście do parku japońskiego",
+            "ru-RU": "Восточный вход в парк",
+            "pt-BR": "Entrada do Parque Japonês",
+            "ja-JP": "日本の遊園地の入口",
+            "eo-OO": "Japana Parkenirejo"
+        }
+    }
+}

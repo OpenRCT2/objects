@@ -1,0 +1,37 @@
+{
+    "id": "rct2.scenery_small.tdt3",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TDT3    |B3677F25",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 10,
+        "removalPrice": 6,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 48,
+        "shape": "4/4",
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TDT3.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Dead Tree",
+            "fr-FR": "Arbre mort",
+            "de-DE": "Toter Baum",
+            "es-ES": "Tocón",
+            "it-IT": "Albero morto",
+            "nl-NL": "Dode boom",
+            "sv-SE": "Dött träd",
+            "ko-KR": "죽은 나무",
+            "zh-CN": "枯树",
+            "zh-TW": "?樹",
+            "pt-BR": "Árvore Morta",
+            "cs-CZ": "Uschlý strom",
+            "ja-JP": "枯れ木",
+            "pl-PL": "Uschłe drzewo",
+            "ru-RU": "Дерево",
+            "eo-OO": "Morta Arbo"
+        }
+    }
+}

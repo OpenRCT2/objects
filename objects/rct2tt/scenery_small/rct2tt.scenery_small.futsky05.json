@@ -1,0 +1,48 @@
+{
+    "id": "rct2tt.scenery_small.futsky05",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|FUTSKY05|B0F1EBBD",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": 4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "animationDelay": 3,
+        "animationMask": 15,
+        "numFrames": 16,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/FUTSKY05.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone Skyscraper Corner Top",
+            "fr-FR": "Virage haut du gratte-ciel",
+            "de-DE": "Sandstein-Wolkenkratzer Obere Ecke",
+            "es-ES": "Esquina superior de rascacielos de arenisca",
+            "it-IT": "Curva superiore del grattacielo in arenaria",
+            "nl-NL": "Bochtbovenkant zandstenen wolkenkrabber",
+            "sv-SE": "Övre hörn, sandstensskyskrapa",
+            "ko-KR": "사암 마천루 구석 꼭대기",
+            "zh-TW": "沙岩製摩天大樓頂部牆角",
+            "pt-BR": "Topo de Canto de Arranha-Céu de Arenito",
+            "cs-CZ": "Pískovcový mrakodrap - zaoblený vršek",
+            "pl-PL": "Wieżowiec z piaskowca - górny narożnik",
+            "ru-RU": "Деталь небоскрёба",
+            "ja-JP": "砂岩 高層ビル コーナー上部",
+            "eo-OO": "Supra Angulo de Sabloŝtona Ĉielskrapanto"
+        }
+    }
+}

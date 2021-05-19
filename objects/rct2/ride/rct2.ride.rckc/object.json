@@ -1,0 +1,120 @@
+{
+    "id": "rct2.ride.rckc",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.1",
+    "originalId": "0A188B80|RCKC    |546E3576",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": ["classic_mini_rc", "mini_rc"],
+        "category": "rollercoaster",
+        "minCarsPerTrain": 1,
+        "maxCarsPerTrain": 3,
+        "ratingMultipler": {
+            "excitement": 5
+        },
+        "carColours": [
+            [
+                ["grey", "bright_red", "bordeaux_red"]
+            ],
+            [
+                ["grey", "yellow", "saturated_brown"]
+            ],
+            [
+                ["bright_red", "yellow", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 322492,
+            "mass": 790,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "diagonalSlopes": true,
+                "flatBanked": true,
+                "flatToGentleSlopeBankedTransitions": true,
+                "diagonalGentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTurns": true,
+                "flatToGentleSlopeWhileBankedTransitions": true
+            },
+            "hasAdditionalColour2": true,
+            "hasAdditionalColour1": true,
+            "hasScreamingRiders": true,
+            "loadingPositions": [4, -4, 4, -4]
+        },
+        "buildMenuPriority": 2
+    },
+    "images": [
+        { "path": "images/preview2.png", "format": "raw" },
+        "$RCT2:OBJDATA/RCKC.DAT[1]",
+        "",
+        "$RCT2:OBJDATA/RCKC.DAT[3..1778]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Rocket Cars",
+            "fr-FR": "Fusées",
+            "de-DE": "Raketenwagen",
+            "es-ES": "Coches Cohete",
+            "it-IT": "Razzi",
+            "nl-NL": "Raketkarretjes",
+            "sv-SE": "Raketvagnar",
+            "ko-KR": "로켓 차량",
+            "zh-CN": "火箭车",
+            "zh-TW": "火箭車",
+            "pt-BR": "Carros-foguete",
+            "cs-CZ": "Raketová auta",
+            "ja-JP": "ロケットカー",
+            "pl-PL": "Samochody rakietowe",
+            "ru-RU": "Ракеты",
+            "ar-EG": "سيارات صواريخ",
+            "eo-OO": "Raketo-Ĉaroj"
+        },
+        "description": {
+            "en-GB": "Roller coaster cars themed to look like rockets",
+            "fr-FR": "Voitures de montagnes russes en forme de fusées",
+            "de-DE": "Achterbahnwagen, die wie Raketen aussehen",
+            "es-ES": "Montaña rusa con vagones en forma de cohetes",
+            "it-IT": "Carrozze di ottovolante a forma di razzi",
+            "nl-NL": "Achtbaankarretjes in de vorm van een raket.",
+            "sv-SE": "Raketformade berg- och dalbanevagnar",
+            "ko-KR": "로켓처럼 꾸며져 있는 롤러코스터 차량",
+            "zh-CN": "过山车列车的特色像火箭",
+            "zh-TW": "雲霄飛車列車的特色像火箭",
+            "pt-BR": "Carros de montanha-russa que se parecem com foguetes",
+            "cs-CZ": "Horská dráha s vozy vypadajícími jako rakety",
+            "ja-JP": "車両をロケットに見立てたローラーコースターです",
+            "pl-PL": "Wagoniki w kształcie rakiet",
+            "ru-RU": "Вагончики для горок в виде ракет",
+            "ar-EG": "سيارات أفعوانية بشكل صواريخ",
+            "eo-OO": "Ĉaroj de onda fervojo, temitaj por aspekti kiel raketoj"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량당 4명의 승객",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира",
+            "ar-EG": "أربعة ركاب لكل عربة",
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

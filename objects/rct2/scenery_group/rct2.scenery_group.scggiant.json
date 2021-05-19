@@ -1,0 +1,44 @@
+{
+    "id": "rct2.scenery_group.scggiant",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGGIANT|B50C9606",
+    "sourceGame": "rct2",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.ggrs1",
+            "rct2.scenery_small.carrot",
+            "rct2.scenery_small.fern1",
+            "rct2.scenery_small.spider1",
+            "rct2.scenery_small.beanst1",
+            "rct2.scenery_small.beanst2",
+            "rct2.scenery_small.buttfly",
+            "rct2.scenery_small.snail",
+            "rct2.scenery_small.wasp",
+            "rct2.footpath_item.lampdsy"
+        ],
+        "priority": 36
+    },
+    "images": ["$RCT2:OBJDATA/SCGGIANT.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Giant Garden Theming",
+            "fr-FR": "Thème Jardin géant",
+            "de-DE": "Riesengarten-Thema",
+            "es-ES": "Temática jardín gigante",
+            "it-IT": "Tema giardino gigante",
+            "nl-NL": "Gigantische-tuin-thema",
+            "sv-SE": "Gigantisk trädgård-tema",
+            "ko-KR": "대형 정원 테마",
+            "zh-CN": "巨大花园主题区",
+            "zh-TW": "巨大花園主題區",
+            "pt-BR": "Temática de Jardim Gigante",
+            "cs-CZ": "Kulisy obrovských zahrad",
+            "ja-JP": "巨大花壇風のテーマ",
+            "pl-PL": "Wystrój ogrodu olbrzymów",
+            "ru-RU": "Гигантский Сад",
+            "eo-OO": "Temo de Giganta Ĝardeno"
+        }
+    }
+}

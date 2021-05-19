@@ -1,0 +1,64 @@
+{
+    "id": "rct2ww.scenery_large.adultele",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0012|ADULTELE|C3844A19",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 86,
+        "removalPrice": -78,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 104,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 104,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 104,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 104,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/ADULTELE.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Adult Indian Elephant",
+            "fr-FR": "Eléphant d'Asie adulte",
+            "de-DE": "Erwachsener Indischer Elefant",
+            "es-ES": "Elefante Indio adulto",
+            "it-IT": "Elefante indiano adulto",
+            "nl-NL": "Volwassen Indische olifant",
+            "sv-SE": "Fullvuxen indisk elefant",
+            "zh-CN": "印度成象",
+            "cs-CZ": "Dospělý slon",
+            "ko-KR": "인도 코끼리 성체",
+            "pl-PL": "Dorosły słoń indyjski",
+            "ru-RU": "Индийский слон",
+            "pt-BR": "Elefante Indiano Adulto",
+            "ja-JP": "大人のインドゾウ",
+            "eo-OO": "Plenaĝa Barata Elefanto"
+        }
+    }
+}

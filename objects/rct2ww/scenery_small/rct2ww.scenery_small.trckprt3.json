@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.trckprt3",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0511|TRCKPRT3|0E272566",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TRCKPRT3.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Diamond Shaft",
+            "fr-FR": "Puits à diamants",
+            "de-DE": "Diamantenschacht",
+            "es-ES": "Galería Diamante",
+            "it-IT": "Pozzo diamantifero",
+            "nl-NL": "Mijnschacht met diamanten",
+            "sv-SE": "Diamantgruva",
+            "zh-CN": "钻石把手",
+            "cs-CZ": "Diamantový sloup",
+            "ko-KR": "다이아몬드 수갱",
+            "pl-PL": "Szyb kopalni diamentów",
+            "ru-RU": "Ствол",
+            "pt-BR": "Galeria de Diamante",
+            "ja-JP": "ダイヤモンド・シャフト",
+            "eo-OO": "Diamanto Propulsakso"
+        }
+    }
+}

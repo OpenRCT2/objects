@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.ukphone",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0B11|UKPHONE |C11242A6",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 96,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/UKPHONE.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "British Telephone Box",
+            "fr-FR": "Cabine téléphonique anglaise",
+            "de-DE": "Britische Telefonzelle",
+            "es-ES": "Cabina telefónica británica",
+            "it-IT": "Cabina telefonica inglese",
+            "nl-NL": "Engelse Telefooncel",
+            "sv-SE": "Brittisk telefonkiosk",
+            "zh-CN": "英国电话亭",
+            "cs-CZ": "Britská telefonní budka",
+            "ko-KR": "영국 공중전화 박스",
+            "pl-PL": "Angielska budka telefoniczna",
+            "ru-RU": "Телефонная будка",
+            "pt-BR": "Cabine Telefônica Inglesa",
+            "ja-JP": "イギリス風電話ボックス",
+            "eo-OO": "Brita Telefonbudo"
+        }
+    }
+}

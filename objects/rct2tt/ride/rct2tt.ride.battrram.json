@@ -1,0 +1,105 @@
+{
+    "id": "rct2tt.ride.battrram",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F820|BATTRRAM|BDB0D715",
+    "sourceGame": "rct2tt",
+    "objectType": "ride",
+    "properties": {
+        "type": "spiral_rc",
+        "category": "rollercoaster",
+        "maxCarsPerTrain": 4,
+        "carColours": [
+            [
+                ["black", "yellow", "bordeaux_red"]
+            ],
+            [
+                ["saturated_red", "bright_red", "black"]
+            ],
+            [
+                ["grey", "white", "yellow"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 383504,
+            "mass": 1100,
+            "numSeats": 6,
+            "numSeatRows": 3,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "diagonalSlopes": true,
+                "flatBanked": true,
+                "flatToGentleSlopeBankedTransitions": true,
+                "diagonalGentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTurns": true,
+                "flatToGentleSlopeWhileBankedTransitions": true,
+                "curvedLiftHill": true
+            },
+            "hasAdditionalColour2": true,
+            "hasAdditionalColour1": true,
+            "hasScreamingRiders": true,
+            "loadingPositions": [8, 6, -8, -6, 1, -1]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/BATTRRAM.DAT[0..2498]"],
+    "strings": {
+        "name": {
+            "en-GB": "Battering Ram Trains",
+            "fr-FR": "Le bélier",
+            "de-DE": "Rammbockzüge",
+            "es-ES": "Montaña rusa Ariete",
+            "it-IT": "Ottovolante Ariete",
+            "nl-NL": "Stormramkarretjes",
+            "sv-SE": "Rusande murbräcka",
+            "ko-KR": "공성 망치 차량",
+            "zh-TW": "破城槌雲霄飛車",
+            "ja-JP": "破城槌トレイン",
+            "pt-BR": "Trens Aríete",
+            "cs-CZ": "Beranidlová horská dráha",
+            "pl-PL": "Kolejka taranowa",
+            "ru-RU": "Таранные горки",
+            "eo-OO": "Ramilego-Trajnoj"
+        },
+        "description": {
+            "en-GB": "Compact roller coaster trains with cars with in-line seating, themed to look like battering rams from the Dark Age",
+            "fr-FR": "Montagnes russes compactes et métalliques avec une remontée en spirale et des voitures disposant de sièges en ligne",
+            "de-DE": "Kompakte Achterbahnzüge mit Wagen mit Sitzen in einer Reihe, mit dem Aussehen von Rammböcken aus dem finsterem Mittelalter",
+            "es-ES": "Una montaña rusa compacta, de metal, con una subida en espiral y coches con asientos en línea.",
+            "it-IT": "Un ottovolante d'acciaio compatto, caratterizzato da una salita da traino a spirale e da carrozze con sedili in fila.",
+            "nl-NL": "Een compacte achtbaan met een spiraalvormige kettingheuvel en karretjes waarin de passagiers achter elkaar zitten.",
+            "sv-SE": "Kompakta berg- och dalbanetåg med säten i en rad, i stil med en medeltida murbräcka",
+            "ko-KR": "한 줄로 된 좌석과 나선형 리프트 힐이 있는 강철 트랙 롤러코스터",
+            "zh-TW": "一座以螺旋上升斜坡結合鋼鐵軌道的雲霄飛車且以成列就座的車輛運行",
+            "ja-JP": "暗黒時代の破城槌をモチーフにした、直列シートのローラーコースターです",
+            "pt-BR": "Uma montanha-russa compacta de aço com uma subida em espiral e vagões com assentos em linha",
+            "cs-CZ": "Malá ocelová horská dráha se spirálovitým profilem a vozy se sedadly za sebou",
+            "pl-PL": "Zwarta przestrzennie kolejka ze stalowymi torami, spiralnym podjazdem i siedzeniami ustawionymi jedno za drugim",
+            "ru-RU": "Небольшие горки на стальном рельсе со спиральным подъёмом и вагончиками с сидениями в ряд.",
+            "eo-OO": "Kompaktaj trajnoj de onda fervojo kun ĉaroj kun kolono da seĝoj, temitaj por aspekti kiel ramilegoj de la Malluma Epoko"
+        },
+        "capacity": {
+            "en-GB": "6 passengers per car",
+            "fr-FR": "6 passagers par voiture",
+            "de-DE": "6 Fahrgäste pro Wagen",
+            "es-ES": "6 pasajeros por coche",
+            "it-IT": "6 passeggeri per vettura",
+            "nl-NL": "6 passagiers per karretje",
+            "sv-SE": "6 passagerare per vagn",
+            "ko-KR": "차량당 6명의 승객",
+            "zh-TW": "每輛車限乘6人",
+            "ja-JP": "各車両6名",
+            "pt-BR": "6 passageiros por vagão",
+            "cs-CZ": "6 míst v každém voze",
+            "pl-PL": "6 pasażerów na wagonik",
+            "ru-RU": "6 человек в вагоне",
+            "eo-OO": "Po 6 pasaĝeroj por ĉaro"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "rct2.scenery_wall.whgg",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WHGG    |B6DFF956",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "height": 2,
+        "price": 50,
+        "cursor": "CURSOR_TREE_DOWN",
+        "sceneryGroup": "rct2.scenery_group.scgfence"
+    },
+    "images": ["$RCT2:OBJDATA/WHGG.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Hedge",
+            "fr-FR": "Haie",
+            "de-DE": "Hecke",
+            "es-ES": "Cerca",
+            "it-IT": "Siepe",
+            "nl-NL": "Heg",
+            "sv-SE": "Häck",
+            "ko-KR": "생울타리",
+            "zh-CN": "围篱",
+            "zh-TW": "圍籬",
+            "pt-BR": "Sebe",
+            "cs-CZ": "Živý plot",
+            "ja-JP": "生垣",
+            "pl-PL": "Żywopłot",
+            "ru-RU": "Забор",
+            "eo-OO": "Heĝo"
+        }
+    }
+}

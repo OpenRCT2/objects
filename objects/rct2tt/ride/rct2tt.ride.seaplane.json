@@ -1,0 +1,103 @@
+{
+    "id": "rct2tt.ride.seaplane",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F920|SEAPLANE|5502749C",
+    "sourceGame": "rct2tt",
+    "objectType": "ride",
+    "properties": {
+        "type": "suspended_swinging_rc",
+        "category": "rollercoaster",
+        "tabScale": 0.5,
+        "maxCarsPerTrain": 8,
+        "carColours": [
+            [
+                ["bright_red", "saturated_red", "yellow"]
+            ],
+            [
+                ["dark_green", "dark_purple", "white"]
+            ],
+            [
+                ["white", "grey", "bright_red"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 348640,
+            "mass": 950,
+            "tabOffset": -22,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 4,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "diagonalSlopes": true,
+                "restraintAnimation": true
+            },
+            "hasAdditionalColour1": true,
+            "hasSwinging": true,
+            "hasScreamingRiders": true,
+            "useSuspendedSwing": true,
+            "loadingPositions": [4, 6, -6, -4]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/SEAPLANE.DAT[0..4622]"],
+    "strings": {
+        "name": {
+            "en-GB": "Suspended Seaplane Cars",
+            "fr-FR": "Le planeur",
+            "de-DE": "Hängende Wasserflugzeugwagen",
+            "es-ES": "Viaje del hidroavión",
+            "it-IT": "Corsa sull'idrovolante",
+            "nl-NL": "Watervliegtuigkarretjes",
+            "sv-SE": "Upphängda sjöflygplan",
+            "ko-KR": "수상비행기 차량",
+            "zh-TW": "水上飛機遊樂設施",
+            "ja-JP": "水上飛行機車両",
+            "pt-BR": "Carros Hidroavião Suspensos",
+            "ar-EG": "سيارات الطائرة المائية المُعلقة",
+            "cs-CZ": "Hydroplánská horská dráha",
+            "pl-PL": "Lot hydroplanem",
+            "ru-RU": "Акваплан",
+            "eo-OO": "Penditaj Hidroplano-Ĉaroj"
+        },
+        "description": {
+            "en-GB": "Suspended roller coaster trains consisting of seaplane-shaped cars able to swing freely as the train goes around corners",
+            "fr-FR": "Train suspendu à des montagnes russes et dont les voitures se balancent dans les virages",
+            "de-DE": "Aufgehängte Achterbahnzüge mit wasserflugzeugförmigen Wagen, die frei schwingen, wenn der Zug durch die Kurven fährt",
+            "es-ES": "Tren de montaña rusa suspendido consistente en vagones capaces de girar con libertad cuando el tren coge curvas.",
+            "it-IT": "I treni sospesi trainano carrozze capaci di oscillare liberamente quando il treno affronta una curva.",
+            "nl-NL": "Omgekeerde achtbaantrein bestaande uit karretjes die vrijuit kunnen schommelen als de trein door een bocht gaat.",
+            "sv-SE": "Hängande vagnar utformade som sjöflygplan, som pendlar ut åt sidan i kurvorna",
+            "ko-KR": "차량이 코너를 돌면 자유롭게 흔들거리게 만들어진 서스펜디드 롤러코스터 차량",
+            "zh-TW": "是由當列車在轉角處轉彎時列車自由搖?晃動組成的懸掛式雲霄飛車",
+            "pt-BR": "Trens suspensos de montanha-russa consistindo de vagões com formato de hidroaviões capazes de balançar livremente quando o trem corre por curvas",
+            "ja-JP": "ぶら下がった水上飛行機型の車両が大きく揺れ動くコースターです",
+            "cs-CZ": "Zavěšená horská dráha z volné zavěšených vozů, které se naklání při jízdě do zatáček",
+            "pl-PL": "Podwieszana kolejka, której wagoniki mogą się swobodnie przechylać na zakrętach",
+            "ru-RU": "Подвесные раскачивающиеся вагончики",
+            "eo-OO": "Penditaj trajnoj de onda fervojo, kiuj konsistas el hidroplanoformaj ĉaroj, kiuj svingiĝas libere kiam la trajno iras ĉirkau anguloj"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por coche",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량당 4명의 승객",
+            "zh-TW": "每輛車限乘4人",
+            "ja-JP": "各車両4名",
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 чел. в кабинке",
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

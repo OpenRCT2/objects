@@ -1,0 +1,47 @@
+{
+    "id": "rct2.scenery_group.scgabstr",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGABSTR|FC2ADB99",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.tge1",
+            "rct2.scenery_small.tge2",
+            "rct2.scenery_small.tge3",
+            "rct2.scenery_small.tge4",
+            "rct2.scenery_small.tge5",
+            "rct2.scenery_small.tgc1",
+            "rct2.scenery_small.tgc2",
+            "rct2.scenery_wall.wallgl8",
+            "rct2.scenery_wall.wallgl16",
+            "rct2.scenery_wall.wallgl32",
+            "rct2.scenery_small.georoof1",
+            "rct2.scenery_wall.wgw2",
+            "rct2.scenery_small.georoof2"
+        ],
+        "priority": 20
+    },
+    "images": ["$RCT2:OBJDATA/SCGABSTR.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Abstract Theming",
+            "fr-FR": "Thème abstrait",
+            "de-DE": "Abstraktes Thema",
+            "es-ES": "Temática abstracta",
+            "it-IT": "Tema astratto",
+            "nl-NL": "Abstract thema",
+            "sv-SE": "Abstrakt tema",
+            "ko-KR": "추상적인 테마",
+            "zh-CN": "现代抽象主题区",
+            "zh-TW": "現代抽象主題區",
+            "pt-BR": "Temática Abstrata",
+            "cs-CZ": "Abstraktní kulisy",
+            "ja-JP": "抽象派風のテーマ",
+            "pl-PL": "Wystrój abstrakcyjny",
+            "ru-RU": "Абстракция",
+            "eo-OO": "Abstrakta Temo"
+        }
+    }
+}

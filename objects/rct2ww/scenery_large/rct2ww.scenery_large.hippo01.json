@@ -1,0 +1,47 @@
+{
+    "id": "rct2ww.scenery_large.hippo01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0512|HIPPO01 |C5478971",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 64,
+        "removalPrice": -56,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 32,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 32,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/HIPPO01.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Hippo 1",
+            "fr-FR": "Hippopotame 1",
+            "de-DE": "Nilpferd 1",
+            "es-ES": "Hipopótamo 1",
+            "it-IT": "Ippopotamo 1",
+            "sv-SE": "Flodhäst 1",
+            "zh-CN": "河马1",
+            "cs-CZ": "Hroch 1",
+            "ko-KR": "하마 1",
+            "nl-NL": "Nijlpaard",
+            "pl-PL": "Hipopotam 1",
+            "ru-RU": "Бегемот",
+            "pt-BR": "Hipopótamo 1",
+            "ja-JP": "カバ１",
+            "eo-OO": "Hipopotamo 1"
+        }
+    }
+}

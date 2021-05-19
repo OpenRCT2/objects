@@ -1,0 +1,58 @@
+{
+    "id": "rct2ww.scenery_large.rdrab01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A12|RDRAB01 |D4EE79D0",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 46,
+        "removalPrice": -40,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 64,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 64,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/RDRAB01.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Large Tower Mid-Section",
+            "fr-FR": "Section moyenne de grande tour terne",
+            "de-DE": "Düsterer Großer Turm - Mitte",
+            "es-ES": "Sección intermedia de torre grande apagada",
+            "it-IT": "Sezione centrale di torre grande smorta",
+            "nl-NL": "Vaal middengedeelte grote toren",
+            "sv-SE": "Gråbrunt mittparti för stort torn",
+            "cs-CZ": "Velká věž",
+            "ko-KR": "칙칙한 대형 탑 중간 조각",
+            "pl-PL": "Płowa wieża - część środkowa",
+            "ru-RU": "Деталь башни",
+            "pt-BR": "Seção Intermediária de Grande Torre Gris",
+            "ja-JP": "壊れた巨大タワーの中間部分",
+            "eo-OO": "Mezparto de Dubekolora Granda Turo"
+        }
+    }
+}

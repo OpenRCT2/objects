@@ -1,0 +1,58 @@
+{
+    "id": "rct2.ride.balln",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|BALLN   |765799AF",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": "shop",
+        "category": "stall",
+        "sells": "balloon",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["light_blue", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/BALLN.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Balloon Stall",
+            "fr-FR": "Stand de ballons",
+            "de-DE": "Ballonstand",
+            "es-ES": "Puesto de globos",
+            "it-IT": "Chiosco dei palloncini",
+            "nl-NL": "Ballonnenkraam",
+            "sv-SE": "Ballongstånd",
+            "ko-KR": "풍선 가게",
+            "zh-CN": "气球店",
+            "zh-TW": "氣球店",
+            "pt-BR": "Barraca de Balões",
+            "cs-CZ": "Stánek s balónky",
+            "ja-JP": "風船ショップ",
+            "pl-PL": "Kiosk z balonami",
+            "ru-RU": "Шары",
+            "eo-OO": "Balonbudo"
+        },
+        "description": {
+            "en-GB": "A souvenir stall selling helium-filled balloons",
+            "fr-FR": "Boutique de souvenirs vendant des ballons gonflés à l'hélium",
+            "de-DE": "Ein Souvenirstand, an dem mit Helium gefüllte Luftballons verkauft werden",
+            "es-ES": "Un puesto que vende globos llenos de helio",
+            "it-IT": "Un chiosco di souvenir che vende palloncini riempiti di elio",
+            "nl-NL": "Een souvenirkraam waar met helium gevulde ballonnen worden verkocht.",
+            "sv-SE": "Ett souvenirstånd som säljer heliumfyllda ballonger",
+            "ko-KR": "헬륨이 든 풍선을 파는 기념품 가게",
+            "zh-CN": "一家纪念品店卖充氦气的气球",
+            "zh-TW": "一家紀念品店賣充氦氣的氣球",
+            "pt-BR": "Uma barraca de souvenires vendendo balões de hélio",
+            "cs-CZ": "Stánek se suvenýry - balónky, plněnými héliem",
+            "ja-JP": "ヘリウムガスの入った風船を売る売店です",
+            "pl-PL": "Stoisko z pamiątkami, w którym można kupić baloniki napełnione helem",
+            "ru-RU": "Сувенирный ларек с шариками, надутыми гелием.",
+            "eo-OO": "Memoraĵbudo vendanta heliumplenajn balonojn"
+        }
+    }
+}

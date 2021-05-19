@@ -1,0 +1,110 @@
+{
+    "id": "rct2ww.ride.crnvbfly",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31C10|CRNVBFLY|C054937D",
+    "sourceGame": "rct2ww",
+    "objectType": "ride",
+    "properties": {
+        "type": "car_ride",
+        "category": "gentle",
+        "noCollisionCrashes": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "carColours": [
+            [
+                ["bright_red", "yellow", "black"]
+            ],
+            [
+                ["dark_green", "olive_green", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 174320,
+                "mass": 300,
+                "numSeats": 2,
+                "numSeatRows": 1,
+                "poweredAcceleration": 90,
+                "poweredMaxSpeed": 8,
+                "drawOrder": 9,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "isPowered": true,
+                "loadingPositions": [4, -4]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "poweredAcceleration": 90,
+                "poweredMaxSpeed": 8,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "isPowered": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/CRNVBFLY.DAT[0..242]"],
+    "strings": {
+        "name": {
+            "en-GB": "Carnival Butterfly Cars",
+            "fr-FR": "Carnaval - Voitures papillons",
+            "de-DE": "Karnevalsschmetterlingswagen",
+            "es-ES": "Atracción flotadores de carnaval; vagones mariposa",
+            "it-IT": "Carnevale sull'acqua - Carrozze farfalla",
+            "nl-NL": "Vlinderwagentjes",
+            "sv-SE": "Karnevalbilar med fjärilar",
+            "cs-CZ": "Motýlková autodráha",
+            "ja-JP": "カーニバルフロート (蝶車両)",
+            "ko-KR": "카니발 플로트 라이드 - 나비 차량",
+            "pl-PL": "Parada na platformach - motyle",
+            "ru-RU": "Карнавал - Бабочки",
+            "pt-BR": "Carros Borboleta do Carnaval",
+            "eo-OO": "Karnavalaj Papilio-Ĉaroj"
+        },
+        "description": {
+            "en-GB": "Cars in the shape of butterfly carnival floats",
+            "fr-FR": "Voitures de montagnes russes en forme de chars papillons de carnaval",
+            "de-DE": "Schmetterlingsförmige Karnevalswagen",
+            "es-ES": "Coches de montaña rusa con forma de flotadores mariposa de carnaval",
+            "it-IT": "Carrozze galleggianti di ottovolante a forma di farfalla",
+            "nl-NL": "Elektrische carnivalsoptochtwagentjes in de vorm van een vlinder.",
+            "sv-SE": "Motordrivna karnevalbilar med fjärilsmotiv",
+            "cs-CZ": "Vozy ve tvaru motýlů jezdí po postavené dráze",
+            "ja-JP": "蝶の形をしたカーニバルフロート車両です",
+            "ko-KR": "나비 퍼레이드 차량 모양의 롤러코스터 차량",
+            "pl-PL": "Wagoniki w kształcie motylich platform",
+            "ru-RU": "Вагончики в виде бабочек",
+            "pt-BR": "Carros de montanha-russa em forma de borboleta",
+            "eo-OO": "Ĉaroj formitaj kiel papilio-paradiloj"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 pro Wagen",
+            "es-ES": "2 pasajeros por vagón",
+            "it-IT": "2 passeggeri per carrozza",
+            "nl-NL": "2 passagiers per karretje",
+            "sv-SE": "2 passagerare per bil",
+            "cs-CZ": "2 místa v každém voze",
+            "ja-JP": "各車両2名",
+            "ko-KR": "차량당 2명의 승객",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира",
+            "pt-BR": "2 passageiros por carro",
+            "eo-OO": "Po 2 pasaĝeroj por ĉaro"
+        }
+    }
+}

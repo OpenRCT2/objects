@@ -1,0 +1,90 @@
+{
+    "id": "rct2tt.scenery_large.futsky28",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB22|FUTSKY28|EBFCEDF9",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 18,
+        "removalPrice": 8,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 64,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 64,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 64,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/FUTSKY28.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone Walkway T-Junction",
+            "fr-FR": "Jonction en T de la passerelle",
+            "de-DE": "Sandstein-Spazierweg-Gabelung",
+            "es-ES": "Cruce en T de pasaje de arenisca",
+            "it-IT": "Giunzione a T del viale in arenaria",
+            "nl-NL": "T-splitsing zandstenen Looppad",
+            "sv-SE": "T-sektion, sandstensgång",
+            "ko-KR": "사암 도보 T자형 교차로",
+            "zh-TW": "沙岩製走道T型交叉區",
+            "pt-BR": "Junção em T de Passadiço de Arenito",
+            "cs-CZ": "Pískovcová brána - T-křižovatka",
+            "pl-PL": "Chodnik z piaskowca - skrzyżowanie T",
+            "ru-RU": "Деталь небоскрёба",
+            "ja-JP": "砂岩 歩道 Tジャンクション",
+            "eo-OO": "T-Kuniĝo de Sabloŝtona Vojo"
+        }
+    }
+}

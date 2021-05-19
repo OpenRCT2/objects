@@ -1,0 +1,46 @@
+{
+    "id": "rct2ww.scenery_large.rtudor06",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A12|RTUDOR06|FB1E4D2A",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 28,
+        "removalPrice": -24,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 32,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 32,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/RTUDOR06.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tudor Roof Piece 4",
+            "fr-FR": "Pan de toit Tudor 4",
+            "de-DE": "Tudor-Dach-Bauteil 4",
+            "es-ES": "Pieza de tejado Tudor 4",
+            "it-IT": "Pezzo di tetto Tudor 4",
+            "nl-NL": "Stuk dak in Tudorstijl 4",
+            "sv-SE": "Tudor-takdel 4",
+            "cs-CZ": "Tudorská střecha",
+            "ko-KR": "튜더식 지붕 조각 4",
+            "pl-PL": "Elżbietański segment dachu 4",
+            "ru-RU": "Деталь крыши",
+            "pt-BR": "Peça de Telhado Tudor 4",
+            "ja-JP": "チューダーの屋4",
+            "eo-OO": "Tudorstila Tegmentoparto 4"
+        }
+    }
+}

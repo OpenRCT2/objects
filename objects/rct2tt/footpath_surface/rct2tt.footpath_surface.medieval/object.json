@@ -1,0 +1,30 @@
+{
+    "id": "rct2tt.footpath_surface.medieval",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": ["rct2tt"],
+    "objectType": "footpath_surface",
+    "images": [
+        { "path": "preview.png", "x": 1, "y": 1 },
+        "$RCT2:OBJDATA/MEDIPATH.DAT[0..50]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Wooden FootPath",
+            "fr-FR": "Allée forestière",
+            "de-DE": "Hölzerner Fußweg",
+            "es-ES": "Sendero de madera",
+            "it-IT": "Sentiero di legno",
+            "nl-NL": "Houten voetpad",
+            "sv-SE": "Trälagd gångväg",
+            "ko-KR": "나무 보도",
+            "zh-TW": "木頭道路",
+            "pt-BR": "Trilha de Madeira",
+            "cs-CZ": "Dřevěná cesta",
+            "pl-PL": "Drewniany chodnik",
+            "ru-RU": "Дорожка",
+            "ja-JP": "木造の歩道",
+            "eo-OO": "Ligna Trotuaro"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "id": "rct2tt.scenery_large.1950scar",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA22|1950SCAR|31FC483B",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 62,
+        "removalPrice": -38,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/1950SCAR.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "1950s Car",
+            "fr-FR": "Voiture des années 50",
+            "de-DE": "Auto aus den 50ern",
+            "es-ES": "Coche de los cincuenta",
+            "it-IT": "Auto degli anni '50",
+            "nl-NL": "Jaren 50-auto",
+            "sv-SE": "50-talsbil",
+            "ko-KR": "1950년대 자동차",
+            "zh-TW": "1950年代車輛",
+            "pt-BR": "Carro de 1950",
+            "cs-CZ": "Auto z 50. let",
+            "pl-PL": "Samochód z lat 50.",
+            "ru-RU": "Авто 1950",
+            "ja-JP": "1950年代の車",
+            "eo-OO": "Aŭto de la 1950-aj"
+        }
+    }
+}

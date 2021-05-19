@@ -1,0 +1,50 @@
+{
+    "id": "rct2tt.scenery_large.perdtk01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA22|PERDTK01|21BE3520",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 68,
+        "removalPrice": -42,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 32,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 32,
+                "hasSupports": true,
+                "walls": 3
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/PERDTK01.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Period Truck",
+            "fr-FR": "Camion d'époque",
+            "de-DE": "Antiker Karren",
+            "es-ES": "Punto de camiones",
+            "it-IT": "Camion ricorrente",
+            "nl-NL": "Oldtimertruck",
+            "sv-SE": "Historisk lastbil",
+            "ko-KR": "시대적인 트럭",
+            "zh-TW": "區間卡車",
+            "pt-BR": "Caminhão de Época",
+            "cs-CZ": "Staré nákladní auto",
+            "pl-PL": "Ciężarówka z epoki",
+            "ru-RU": "Грузовик",
+            "ja-JP": "1920時代のトラック",
+            "eo-OO": "Historia Kamiono"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "rct2ww.scenery_wall.wbambo13",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBCFC13|WBambo13|208FF6EF",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 3,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WBAMBO13.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Bamboo Wall",
+            "fr-FR": "Cloison de bambou",
+            "de-DE": "Bambuswand",
+            "es-ES": "Pared de bambú",
+            "it-IT": "Parete di bambù",
+            "nl-NL": "Bamboemuur",
+            "sv-SE": "Bambuvägg",
+            "zh-CN": "竹墙",
+            "cs-CZ": "Bambusová zeď",
+            "ko-KR": "대나무 벽",
+            "ru-RU": "Стена",
+            "pt-BR": "Parede de Bambu",
+            "ja-JP": "竹の壁",
+            "pl-PL": "Ściana bambusowa",
+            "eo-OO": "Bambua Muro"
+        }
+    }
+}

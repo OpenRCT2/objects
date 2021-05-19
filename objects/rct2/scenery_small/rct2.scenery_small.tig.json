@@ -1,0 +1,37 @@
+{
+    "id": "rct2.scenery_small.tig",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TIG     |4F6DA952",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 11,
+        "removalPrice": -9,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 24,
+        "shape": "4/4",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TIG.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Igloo",
+            "de-DE": "Iglu",
+            "es-ES": "Iglú",
+            "nl-NL": "Iglo",
+            "ko-KR": "이글루",
+            "zh-CN": "圆顶小屋",
+            "zh-TW": "圓頂小屋",
+            "pt-BR": "Iglu",
+            "cs-CZ": "Iglú",
+            "ja-JP": "イグルー",
+            "pl-PL": "Igloo",
+            "ru-RU": "Иглу",
+            "fr-FR": "Igloo",
+            "eo-OO": "Iglo"
+        }
+    }
+}

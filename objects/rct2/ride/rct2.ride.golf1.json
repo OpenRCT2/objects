@@ -1,0 +1,103 @@
+{
+    "id": "rct2.ride.golf1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|GOLF1   |FD380E73",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "ride",
+    "properties": {
+        "type": "mini_golf",
+        "category": "gentle",
+        "minCarsPerTrain": 2,
+        "maxCarsPerTrain": 2,
+        "carsPerFlatRide": 20,
+        "numEmptyCars": 1,
+        "tabCar": 1,
+        "defaultCar": 1,
+        "headCars": 0,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "spacing": 17432,
+                "spriteWidth": 30,
+                "spriteHeightNegative": 35,
+                "spriteHeightPositive": 30,
+                "poweredAcceleration": 40,
+                "poweredMaxSpeed": 6,
+                "carVisual": 6,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true
+                },
+                "isMiniGolf": true,
+                "recalculateSpriteBounds": true,
+                "isPowered": true,
+                "loadingPositions": [0]
+            },
+            {
+                "spacing": 17432,
+                "mass": 100,
+                "numSeats": 1,
+                "spriteWidth": 30,
+                "spriteHeightNegative": 35,
+                "spriteHeightPositive": 30,
+                "poweredAcceleration": 40,
+                "poweredMaxSpeed": 6,
+                "carVisual": 5,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true
+                },
+                "isMiniGolf": true,
+                "recalculateSpriteBounds": true,
+                "isPowered": true,
+                "loadingPositions": [0]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/GOLF1.DAT[0..151]"],
+    "strings": {
+        "name": {
+            "en-GB": "Mini Golf",
+            "de-DE": "Minigolf",
+            "it-IT": "Mini golf",
+            "ko-KR": "미니 골프",
+            "zh-CN": "迷你高尔夫",
+            "zh-TW": "迷你高爾夫",
+            "pt-BR": "Minigolfe",
+            "cs-CZ": "Mini Golf",
+            "ja-JP": "ミニゴルフ",
+            "nb-NO": "Minigolf",
+            "nl-NL": "Minigolf",
+            "pl-PL": "Minigolf",
+            "ru-RU": "Минигольф",
+            "eo-OO": "Miniatura Golfo",
+            "sv-SE": "Minigolf"
+        },
+        "description": {
+            "en-GB": "A gentle game of miniature golf",
+            "fr-FR": "Golf miniature",
+            "de-DE": "Ein leichtes Minigolfspiel",
+            "es-ES": "Un sencillo juego de mini golf",
+            "it-IT": "Un tranquillo campo per il golf in miniatura",
+            "nl-NL": "Een rustig spelletje minigolf.",
+            "sv-SE": "En lugn runda minigolf",
+            "ko-KR": "모형 골프 게임",
+            "zh-CN": "一种温和的小小高尔夫游戏",
+            "zh-TW": "一個溫和的迷你高爾夫遊戲",
+            "pt-BR": "Um agradável jogo de golfe em miniatura",
+            "cs-CZ": "Příjemná hra miniaturního golfu",
+            "ja-JP": "やさしいミニゴルフゲームです",
+            "pl-PL": "Spokojna gra w miniaturowego golfa",
+            "ru-RU": "Спокойная игра в минигольф",
+            "eo-OO": "Milda ludo de miniatura golfo"
+        },
+        "capacity": {
+            "en-GB": ""
+        }
+    }
+}

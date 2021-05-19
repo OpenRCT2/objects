@@ -1,0 +1,102 @@
+{
+    "id": "rct2ww.ride.sloth",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31B10|SLOTH   |575F4CAB",
+    "sourceGame": "rct2ww",
+    "objectType": "ride",
+    "properties": {
+        "type": "suspended_swinging_rc",
+        "category": "rollercoaster",
+        "maxCarsPerTrain": 8,
+        "carColours": [
+            [
+                ["bright_red", "saturated_red", "yellow"]
+            ],
+            [
+                ["dark_green", "dark_purple", "white"]
+            ],
+            [
+                ["white", "grey", "bright_red"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 313776,
+            "mass": 950,
+            "tabOffset": -22,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 2,
+            "soundRange": 2,
+            "drawOrder": 4,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "diagonalSlopes": true,
+                "restraintAnimation": true
+            },
+            "hasAdditionalColour2": true,
+            "hasAdditionalColour1": true,
+            "hasSwinging": true,
+            "hasScreamingRiders": true,
+            "useSuspendedSwing": true,
+            "loadingPositions": [4, 6, -6, -4]
+        }
+    },
+    "images": ["$RCT2:OBJDATA/SLOTH.DAT[0..4622]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sloth Trains",
+            "fr-FR": "Paresseux",
+            "de-DE": "Faultierzüge",
+            "es-ES": "Atracción Perezoso",
+            "it-IT": "Il bradipo",
+            "nl-NL": "Luiaardkarretjes",
+            "sv-SE": "Sengångarvagnar",
+            "zh-CN": "树猍游乐设施",
+            "ja-JP": "ナマケモノ車両",
+            "cs-CZ": "Lenochodí jízda",
+            "ko-KR": "나무늘보 라이드",
+            "pl-PL": "Leniwa przejażdżka",
+            "ru-RU": "Ленивец",
+            "pt-BR": "Preguiça",
+            "eo-OO": "Bradipo-Trajnoj"
+        },
+        "description": {
+            "en-GB": "Suspended roller coaster trains consisting of sloth-shaped cars able to swing freely as the train goes around corners",
+            "fr-FR": "Train de montagnes russes suspendu constitué de voitures en forme de paresseux qui se balancent librement dans les virages",
+            "de-DE": "Hängende Achterbahnzüge mit Wagen, die Faultieren nachempfunden sind und in Kurven frei schwingen können",
+            "es-ES": "Tren suspendido consistente en vagones con forma de perezoso que se balancean libremente al tomar las curvas",
+            "it-IT": "Ottovolante sospeso con carrozze a forma di bradipo che possono oscillare liberamente quando percorrono le curve",
+            "nl-NL": "Omgekeerde achtbaantrein bestaande uit karretjes in de vorm van een luiaard, die vrijuit kunnen schommelen als de trein door een bocht gaat.",
+            "sv-SE": "Hängande vagnar utformade som sengångare, som pendlar ut åt sidan i kurvorna",
+            "zh-CN": "悬吊式云霄飞车以树猍 为车辆外型使其能在转弯时能自由摆动摇荡",
+            "cs-CZ": "Zavěšená horská dráha s vozy připomínající lenochody, které se houpají v zatáčkách",
+            "ja-JP": "コースにぶら下がったナマケモノ型の車両が、コーナーで大きく揺れ動くコースターです",
+            "ko-KR": "차량이 코너를 돌면 자유롭게 흔들거리게 만들어진 나무늘보 모양의 서스펜디드 롤러코스터 차량",
+            "pl-PL": "Kolejka górska z podwieszanymi wagonikami w kształcie leniwców, które bujają się swobodnie na zakrętach",
+            "ru-RU": "Подвесные горки с вагончиками, свободно качаются на виражах.",
+            "pt-BR": "Trem de montanha-russa suspenso composto de carros em forma de preguiça capazes de balançar livremente enquanto o trem passa pelas curvas",
+            "eo-OO": "Penditaj trajnoj de onda fervojo, kiuj konsistas el bradipoformaj ĉaroj, kiuj svingiĝas libere kiam la trajno iras ĉirkaŭ anguloj"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "zh-CN": "?每辆车限乘4人",
+            "ja-JP": "各車両4名",
+            "cs-CZ": "4 místa v každém voze",
+            "ko-KR": "차량당 4명의 승객",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира",
+            "pt-BR": "4 passageiros por carro",
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

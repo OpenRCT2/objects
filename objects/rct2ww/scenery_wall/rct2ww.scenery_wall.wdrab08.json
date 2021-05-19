@@ -1,0 +1,32 @@
+{
+    "id": "rct2ww.scenery_wall.wdrab08",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A13|WDRAB08 |1EB7BFB3",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WDRAB08.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Wall Piece 8",
+            "fr-FR": "Pan de mur terne 8",
+            "de-DE": "Düsteres Wand-Bauteil 8",
+            "es-ES": "Pieza de pared apagada 8",
+            "it-IT": "Pezzo di muro smorto 8",
+            "nl-NL": "Vaal stuk dak 8",
+            "sv-SE": "Gråbrun väggdel 8",
+            "cs-CZ": "Khaki stěna - část 8",
+            "ko-KR": "칙칙한 벽 조각 8",
+            "pl-PL": "Segment płowej ściany 8",
+            "ru-RU": "Деталь стены",
+            "pt-BR": "Peça de Parede Gris 8",
+            "ja-JP": "壊れた壁8",
+            "eo-OO": "Dubekolora Muroparto 8"
+        }
+    }
+}

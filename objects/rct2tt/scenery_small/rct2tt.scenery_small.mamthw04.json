@@ -1,0 +1,42 @@
+{
+    "id": "rct2tt.scenery_small.mamthw04",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F721|MAMTHW04|EEDA55EE",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 9,
+        "removalPrice": -6,
+        "cursor": "CURSOR_FENCE_DOWN",
+        "height": 32,
+        "sceneryGroup": "rct2.scenery_group.scgfence",
+        "shape": "2/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/MAMTHW04.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Large Angled Mammoth Fence",
+            "fr-FR": "Clôture à mammouths très courbée",
+            "de-DE": "Großer abgewinkelter Mammutzaun",
+            "es-ES": "Gran valla angulosa de mamut",
+            "it-IT": "Grande recinzione di mammut ad angolo",
+            "nl-NL": "Mammoethek onder grote hoek",
+            "sv-SE": "Stort vinklat mammutstaket",
+            "ko-KR": "크게 각진 매머드 울타리",
+            "zh-TW": "大型多方向長毛象柵欄",
+            "pt-BR": "Cerca de Mamute Inclinada Grande",
+            "cs-CZ": "Velký nahnutý mamutí plot",
+            "pl-PL": "Wielki zakrzywiony płot mamuci",
+            "ru-RU": "Ограда",
+            "ja-JP": "巨大な尖ったマンモスのフェンス",
+            "eo-OO": "Granda Anguligita Mamuto-Barilo"
+        }
+    }
+}

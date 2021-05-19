@@ -1,0 +1,38 @@
+{
+    "id": "rct2tt.scenery_small.biggutar",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA21|BIGGUTAR|08441B80",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 28,
+        "removalPrice": -20,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 148,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/BIGGUTAR.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Giant Guitar",
+            "fr-FR": "Guitare géante",
+            "de-DE": "Riesige Gitarre",
+            "es-ES": "Guitarra gigante",
+            "it-IT": "Chitarra gigante",
+            "nl-NL": "Reusachtige gitaar",
+            "sv-SE": "Jättegitarr",
+            "ko-KR": "대형 기타",
+            "zh-TW": "巨型吉他",
+            "pt-BR": "Guitarra Gigante",
+            "cs-CZ": "Obrovská kytara",
+            "pl-PL": "Olbrzymia gitara",
+            "ru-RU": "Гитара",
+            "ja-JP": "巨大なギター",
+            "eo-OO": "Giganta Gitaro"
+        }
+    }
+}

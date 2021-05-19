@@ -1,0 +1,59 @@
+{
+    "id": "rct2tt.ride.mktstal1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F920|MKTSTAL1|A7B01AFC",
+    "sourceGame": "rct2tt",
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": "toffee_apple",
+        "disablePainting": true,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/MKTSTAL1.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Toffee Apple Market Stall",
+            "en-US": "Candy Apple Market Stall",
+            "fr-FR": "Marchand de pommes d'amour",
+            "de-DE": "Karamellapfelmarktstand",
+            "es-ES": "Puesto de manzanas de caramelo",
+            "it-IT": "Chiosco di mele caramellate",
+            "nl-NL": "Marktkraam met gevulde appels",
+            "sv-SE": "Marknadsstånd med äppelklubbor",
+            "ko-KR": "사과 토피 사탕 시장 상점",
+            "zh-TW": "太妃糖店",
+            "ja-JP": "りんご飴マーケット",
+            "pt-BR": "Quiosque de Maçã do Amor",
+            "cs-CZ": "Jarmarkový stánek s jablky v županu",
+            "pl-PL": "Stragan z jabłkami toffee",
+            "ru-RU": "Палатка с конфетами",
+            "eo-OO": "Sukerpomo-Bazarbudo"
+        },
+        "description": {
+            "en-GB": "A themed stall selling sticky toffee apples",
+            "en-US": "A themed stall selling sticky candy apples",
+            "fr-FR": "Un stand thématique proposant des pommes d'amour.",
+            "de-DE": "Ein thematischer Stand, der Karamelläpfel verkauft",
+            "es-ES": "Un puesto de comida que vende manzanas de caramelo.",
+            "it-IT": "Un chiosco che vende appiccicose mele caramellate",
+            "nl-NL": "Een marktkraam waar gevulde appels worden verkocht.",
+            "sv-SE": "Ett stånd som säljer äpplen med klibbigt knäcköverdrag",
+            "ko-KR": "끈적거리는 사과 토피 사탕을 파는 가게",
+            "zh-TW": "販賣太妃糖的主題攤位",
+            "ja-JP": "りんご飴を販売するお店です",
+            "pt-BR": "Um quiosque temático vendendo maçã caramelada",
+            "cs-CZ": "Stánek prodávající jablka v županu",
+            "pl-PL": "Stylizowane stoisko sprzedające lepkie słodkie jabłka.",
+            "ru-RU": "Палатка, где продают ириски.",
+            "eo-OO": "Temita budo vendanta gluecajn sukerpomojn"
+        }
+    }
+}

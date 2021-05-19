@@ -1,0 +1,39 @@
+{
+    "id": "rct2.scenery_small.tmo4",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TMO4    |F8583800",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 50,
+        "removalPrice": -45,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 140,
+        "shape": "4/4",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TMO4.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Martian Object",
+            "fr-FR": "Objet alien",
+            "de-DE": "Marsobjekt",
+            "es-ES": "Objeto marciano",
+            "it-IT": "Oggetto marziano",
+            "nl-NL": "Buitenaards object",
+            "sv-SE": "Marsföremål",
+            "ko-KR": "화성 물체",
+            "zh-CN": "火星人的物体",
+            "zh-TW": "火星人的物體",
+            "pt-BR": "Objeto Marciano",
+            "cs-CZ": "Marťanský objekt",
+            "ja-JP": "火星人のオブジェクト",
+            "pl-PL": "Artefakt Marsjan",
+            "ru-RU": "Предмет с Марса",
+            "eo-OO": "Marsaĵo"
+        }
+    }
+}

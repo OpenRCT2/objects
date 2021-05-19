@@ -1,0 +1,47 @@
+{
+    "id": "rct2.scenery_group.scgclass",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGCLASS|6B93200F",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_large.scol",
+            "rct2.scenery_small.tt1",
+            "rct2.scenery_small.trms",
+            "rct2.scenery_small.trws",
+            "rct2.scenery_small.trc",
+            "rct2.scenery_small.tqf",
+            "rct2.scenery_wall.wrw",
+            "rct2.scenery_wall.wrwa",
+            "rct2.scenery_small.romroof2",
+            "rct2.scenery_wall.wc3",
+            "rct2.scenery_small.romroof1",
+            "rct2.footpath_banner.bn3"
+        ],
+        "priority": 21,
+        "entertainerCostumes": "roman"
+    },
+    "images": ["$RCT2:OBJDATA/SCGCLASS.DAT[0..1]"],
+    "strings": {
+        "name": {
+            "en-GB": "Classical/Roman Theming",
+            "fr-FR": "Thème classique/romain",
+            "de-DE": "Klassisches/römisches Thema",
+            "es-ES": "Temática clásica/romana",
+            "it-IT": "Tema romano/classico",
+            "nl-NL": "Klassiek/Romeins thema",
+            "sv-SE": "Klassiskt/romerskt tema",
+            "ko-KR": "클래식/로마 테마",
+            "zh-CN": "古典/古罗马主题区",
+            "zh-TW": "古典/古羅馬主題區",
+            "pt-BR": "Temática Clássica/Romana",
+            "cs-CZ": "Klasické/Římské kulisy",
+            "ja-JP": "クラシック/ローマ風のテーマ",
+            "pl-PL": "Wystrój klasyczny/rzymski",
+            "ru-RU": "Рим",
+            "eo-OO": "Klasika / Roma Temo"
+        }
+    }
+}

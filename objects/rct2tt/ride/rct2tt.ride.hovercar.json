@@ -1,0 +1,123 @@
+{
+    "id": "rct2tt.ride.hovercar",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA20|HOVERCAR|10724616",
+    "sourceGame": "rct2tt",
+    "objectType": "ride",
+    "properties": {
+        "type": "car_ride",
+        "category": "gentle",
+        "hasShelter": true,
+        "noCollisionCrashes": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "carColours": [
+            [
+                ["bright_red", "bright_red", "black"]
+            ],
+            [
+                ["light_blue", "saturated_brown", "black"]
+            ],
+            [
+                ["yellow", "black", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 217900,
+                "mass": 330,
+                "numSeats": 1,
+                "numSeatRows": 1,
+                "poweredAcceleration": 80,
+                "poweredMaxSpeed": 8,
+                "drawOrder": 9,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "restraintAnimation": true
+                },
+                "hasAdditionalColour1": true,
+                "isPowered": true,
+                "loadingPositions": [4]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 34864,
+                "poweredAcceleration": 80,
+                "poweredMaxSpeed": 8,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true
+                },
+                "isPowered": true
+            }
+        ]
+    },
+    "images": [
+        "$RCT2:OBJDATA/HOVERCAR.DAT[1]",
+        "",
+        "",
+        "$RCT2:OBJDATA/HOVERCAR.DAT[3..266]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Hover Cars",
+            "fr-FR": "Voiture sur coussin d'air",
+            "de-DE": "Schwebewagen",
+            "es-ES": "Viaje en aerodeslizador",
+            "it-IT": "Auto volante",
+            "nl-NL": "Zweefwagens",
+            "sv-SE": "Svävarbilar",
+            "ko-KR": "호버 카",
+            "zh-TW": "飛行車遊樂設施",
+            "ja-JP": "ホバーカー",
+            "pt-BR": "Carros Flutuantes",
+            "ar-EG": "السيارات الحوامة",
+            "cs-CZ": "Autodráha se vznášedly",
+            "pl-PL": "Latające samochody",
+            "ru-RU": "Ховеркары",
+            "eo-OO": "Flugpendantaj Aŭtoj"
+        },
+        "description": {
+            "en-GB": "Maglev technology has been implemented to create the illusion of futuristic hover cars",
+            "fr-FR": "La technologie de lévitation magnétique a été intégrée pour donner l'illusion de voitures futuristes sur coussins d'air",
+            "de-DE": "Magnetschwebe-Technologie für die Illusion futuristischer Schwebewagen",
+            "es-ES": "La tecnología de levitación magnética se ha implementado para crear la ilusión de aerodeslizadores futuristas.",
+            "it-IT": "La tecnologia a levitazione magnetica è stata implementata per creare l'illusione di futuristiche auto che viaggiano sospese in aria.",
+            "nl-NL": "Door middel van maglev-technologie wordt de illusie van futuristische zweefwagens gecreëerd.",
+            "sv-SE": "Maglev-teknologi används för att skapa en illusion av futuristiska svävarbilar",
+            "ko-KR": "미래의 호버 차량같은 느낌을 주기 위해 자기 부상 기술이 탑재된 놀이기구",
+            "zh-TW": "使用磁浮運輸技術營造乘坐未來車的感覺",
+            "ja-JP": "磁気浮上式の近未来的なホバーカーです",
+            "pt-BR": "A tecnologia de levitação magnética foi implementada para criar a ilusão de carros flutuantes futuristas",
+            "cs-CZ": "Vozy ve tvaru futuristických vznášedel jezdí po postavené dráze",
+            "pl-PL": "Technologia kolei magnetycznej umożliwiła stworzenie złudzenia futurystycznych latających samochodów",
+            "ru-RU": "С помощью мощных магнитов создаётся иллюзия парящих машин",
+            "eo-OO": "Teknologio de magneta levitacio estis realigita por krei la iluzion de estontecaj flugpendantaj aŭtoj"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por coche",
+            "it-IT": "2 passeggeri per carrozza",
+            "nl-NL": "2 passagiers per karretje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량당 2명의 승객",
+            "zh-TW": "每輛車限乘2人",
+            "ja-JP": "各車両2名",
+            "pt-BR": "2 passageiros por vagão",
+            "cs-CZ": "2 místa v každém voze",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 чел. в машине",
+            "eo-OO": "Po 2 pasaĝeroj por aŭto"
+        }
+    }
+}

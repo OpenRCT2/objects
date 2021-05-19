@@ -1,0 +1,61 @@
+{
+    "id": "rct2.ride.cndyf",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|CNDYF   |FFE03AB6",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": "food_stall",
+        "category": "stall",
+        "sells": "candyfloss",
+        "disablePainting": true,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/CNDYF.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Candyfloss Stall",
+            "en-US": "Cotton Candy Stall",
+            "fr-FR": "Barbe à papa",
+            "de-DE": "Zuckerwattestand",
+            "es-ES": "Puesto de algodón de azúcar",
+            "it-IT": "Chiosco dello zucchero filato",
+            "nl-NL": "Suikerspinkraam",
+            "sv-SE": "Sockervaddsstånd",
+            "ko-KR": "솜사탕 가게",
+            "zh-CN": "棉花糖店",
+            "zh-TW": "棉花糖店",
+            "pt-BR": "Barraca de Algodão-doce",
+            "cs-CZ": "Stánek s cukrovou vatou",
+            "ja-JP": "綿菓子ショップ",
+            "pl-PL": "Kiosk z watą cukrową",
+            "ru-RU": "Кондитерская",
+            "eo-OO": "Sukerŝpinaĵbudo"
+        },
+        "description": {
+            "en-GB": "A candyfloss shaped building selling pink candyfloss",
+            "en-US": "A cotton candy shaped building selling pink cotton candy",
+            "fr-FR": "Bâtiment en forme de barbe à papa vendant... des barbes à papa",
+            "de-DE": "Ein Stand in Zuckerwatte-Form, an dem pinkfarbene Zuckerwatte verkauft wird",
+            "es-ES": "Un edificio con forma de algodón de azúcar que vende algodón de azúcar rosa",
+            "it-IT": "Un edificio a forma di zucchero filato che vende dello zucchero filato rosa",
+            "nl-NL": "Een suikerspinvormige kraam waar roze suikerspinnen worden verkocht.",
+            "sv-SE": "En sockervaddsformad byggnad som säljer rosa sockervadd",
+            "ko-KR": "분홍색 솜사탕을 파는 솜사탕 모양의 건물",
+            "zh-CN": "一间棉花糖式的建筑物在卖粉红色棉色糖",
+            "zh-TW": "一間棉花糖式的建築物在賣粉紅色棉花糖",
+            "pt-BR": "Uma construção em forma de algodão-doce, vendendo algodão-doce rosado",
+            "cs-CZ": "Stánek prodávající cukrovou vatu",
+            "ja-JP": "ピンク色の綿菓子を売る、綿菓子形の売店です",
+            "pl-PL": "Budynek w kształcie kłębu waty cukrowej, w którym można kupić różową watę cukrową",
+            "ru-RU": "Палатка с конфетами",
+            "eo-OO": "Sukerŝpinaĵoforma konstruaĵo vendanta rozkoloran sukerŝpinaĵon"
+        }
+    }
+}

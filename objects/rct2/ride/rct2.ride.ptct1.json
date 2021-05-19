@@ -1,0 +1,112 @@
+{
+    "id": "rct2.ride.ptct1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|PTCT1   |A6A5C09F",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": "wooden_rc",
+        "category": "rollercoaster",
+        "minCarsPerTrain": 2,
+        "maxCarsPerTrain": 7,
+        "carColours": [
+            [
+                ["yellow", "black", "light_orange"]
+            ],
+            [
+                ["bright_red", "saturated_brown", "yellow"]
+            ],
+            [
+                ["bright_green", "grey", "bright_red"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 209184,
+            "mass": 540,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "frictionSoundId": 54,
+            "soundRange": 1,
+            "effectVisual": 10,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "verticalSlopes": true,
+                "diagonalSlopes": true,
+                "flatBanked": true,
+                "flatToGentleSlopeBankedTransitions": true,
+                "diagonalGentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTransitions": true,
+                "gentleSlopeBankedTurns": true,
+                "flatToGentleSlopeWhileBankedTransitions": true,
+                "restraintAnimation": true
+            },
+            "hasAdditionalColour2": true,
+            "hasAdditionalColour1": true,
+            "hasScreamingRiders": true,
+            "loadingPositions": [5, 3, -7, -9]
+        },
+        "buildMenuPriority": 4
+    },
+    "images": ["$RCT2:OBJDATA/PTCT1.DAT[0..2162]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wooden Roller Coaster Trains",
+            "fr-FR": "Trains montagnes en bois",
+            "de-DE": "Holzachterbahnzüge",
+            "es-ES": "Tren Montaña Rusa de Madera",
+            "it-IT": "Treni da ottovolante di legno",
+            "nl-NL": "Houten achtbaantrein",
+            "sv-SE": "Vagnar till träberg- och dalbana",
+            "ko-KR": "우든 롤러코스터 차량",
+            "zh-CN": "木架过山车列车",
+            "zh-TW": "木架雲霄飛車列車",
+            "pt-BR": "Trens de Montanha-russa de Madeira",
+            "cs-CZ": "Dřevěná horská dráha",
+            "ja-JP": "木のコースター・トレーン",
+            "pl-PL": "Drewniana kolejka górska",
+            "ru-RU": "Деревянные поезда",
+            "eo-OO": "Trajnoj de Ligna Onda Fervojo"
+        },
+        "description": {
+            "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints",
+            "fr-FR": "Trains pour montagnes russes en bois avec des sièges rembourrés et des barres de protection au niveau des jambes",
+            "de-DE": "Holzachterbahnzüge mit gepolsterten Sitzen und Beckenhalterungen",
+            "es-ES": "Vagones de madera",
+            "it-IT": "Treni da ottovolante di legno con sedili imbottiti e barra al petto per protezione",
+            "nl-NL": "Houten achtbaantrein met gevoerde zittingen en schootbeugels.",
+            "sv-SE": "Vagnar till träberg- och dalbana, med stoppade säten och enkla byglar",
+            "ko-KR": "푹신한 좌석과 무릎 안전바가 있는 나무 롤러코스터 차량",
+            "zh-CN": "木架过山车列车是装填垫料座椅及膝部有安全护条装置",
+            "zh-TW": "木架雲霄飛車列車是裝填墊料座椅及膝部有安全護條裝置",
+            "pt-BR": "Trens de montanha-russa de madeira com assentos acolchoados e protetores de colo",
+            "cs-CZ": "Dřevěná horská dráha s vozy s polstrovanými sedadly a opěrkou v klína",
+            "ja-JP": "膝の安全バーが付いた、パッド入りの座席を持つ木製のコースターです",
+            "pl-PL": "Drewniana kolejka górska z wyściełanymi siedzeniami i zabezpieczeniami obejmującymi pasażerów w pasie",
+            "ru-RU": "Деревянные поезда для горок с ремнями на колени",
+            "eo-OO": "Trajnoj de ligna onda fervojo kun komfortaj seĝoj kaj sinobridoj"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량당 4명의 승객",
+            "zh-CN": "4 位乘客/每个车厢",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пассажира",
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

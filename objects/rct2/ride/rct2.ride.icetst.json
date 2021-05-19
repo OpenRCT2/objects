@@ -1,0 +1,59 @@
+{
+    "id": "rct2.ride.icetst",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|ICETST  |4550D0CE",
+    "sourceGame": "rct2",
+    "objectType": "ride",
+    "properties": {
+        "type": "drink_stall",
+        "category": "stall",
+        "sells": "iced_tea",
+        "disablePainting": true,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/ICETST.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Iced Tea Stall",
+            "fr-FR": "Salon de thé glacé",
+            "de-DE": "Eistee-Stand",
+            "es-ES": "Puesto de té helado",
+            "it-IT": "Chiosco del tè freddo",
+            "nl-NL": "IJstheekraam",
+            "sv-SE": "Istestånd",
+            "ko-KR": "아이스티 가게",
+            "zh-CN": "冰红茶店",
+            "zh-TW": "冰紅茶店",
+            "pt-BR": "Barraca de Chá Gelado",
+            "cs-CZ": "Stánek s ledovým čajem",
+            "ja-JP": "アイスティーショップ",
+            "pl-PL": "Kiosk z mrożoną herbatą",
+            "ru-RU": "Холодный чай",
+            "eo-OO": "Glacia-Teo-Budo"
+        },
+        "description": {
+            "en-GB": "A stall selling iced tea drinks",
+            "fr-FR": "Boutique vendant des thés glacés",
+            "de-DE": "Ein Stand, an dem Eistee verkauft wird",
+            "es-ES": "Puesto que vende té helado",
+            "it-IT": "Un chiosco che vende tè freddo",
+            "nl-NL": "Een kraam waar ijsthee wordt verkocht.",
+            "sv-SE": "Ett stånd som säljer iste",
+            "ko-KR": "아이스티 음료를 파는 가게",
+            "zh-CN": "一家卖冰红茶的店",
+            "zh-TW": "一家賣冰紅茶的店",
+            "pt-BR": "Uma barraca vendendo bebidas à base de chá gelado",
+            "cs-CZ": "Stánek prodávající různé druhy ledového čaje",
+            "ja-JP": "アイスティーを売る売店です",
+            "pl-PL": "Stoisko sprzedające mrożoną herbatę",
+            "ru-RU": "Палатка с холодным чаем.",
+            "eo-OO": "Budo vendanta glacia-teo-trinkaĵojn"
+        }
+    }
+}

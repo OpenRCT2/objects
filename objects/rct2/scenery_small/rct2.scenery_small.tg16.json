@@ -1,0 +1,40 @@
+{
+    "id": "rct2.scenery_small.tg16",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188E81|TG16    |C25C45EF",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 4,
+        "removalPrice": 1,
+        "cursor": "CURSOR_FLOWER_DOWN",
+        "height": 8,
+        "shape": "1/4",
+        "requiresFlatSurface": true,
+        "canWither": true,
+        "canBeWatered": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TG16.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Gardens",
+            "fr-FR": "Jardins",
+            "de-DE": "Beete",
+            "es-ES": "Jardines",
+            "it-IT": "Giardini",
+            "nl-NL": "Bloemen",
+            "sv-SE": "Rabatter",
+            "ko-KR": "꽃",
+            "zh-CN": "花园",
+            "zh-TW": "花園",
+            "pt-BR": "Jardins",
+            "cs-CZ": "Zahrady",
+            "ja-JP": "花壇",
+            "pl-PL": "Klomb",
+            "ru-RU": "Клумба",
+            "eo-OO": "Ĝardenoj"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "id": "rct2ww.scenery_large.damtower",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0512|DAMTOWER|096245A1",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 124,
+        "removalPrice": -102,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/DAMTOWER.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Dam Tower",
+            "fr-FR": "Tour de barrage",
+            "de-DE": "Dammturm",
+            "es-ES": "Torre de la presa",
+            "it-IT": "Torre della diga",
+            "nl-NL": "Toren op Dam",
+            "sv-SE": "Dammtorn",
+            "zh-CN": "水塔",
+            "cs-CZ": "Přehradní věž",
+            "ko-KR": "댐 타워",
+            "pl-PL": "Dam Tower",
+            "ru-RU": "Плотина",
+            "pt-BR": "Torre da Represa",
+            "ja-JP": "ダムタワー",
+            "eo-OO": "Turo de Baraĵo"
+        }
+    }
+}

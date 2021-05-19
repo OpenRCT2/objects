@@ -1,0 +1,30 @@
+{
+    "id": "rct2tt.footpath_surface.rocky",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": ["rct2tt"],
+    "objectType": "footpath_surface",
+    "images": [
+        { "path": "preview.png", "x": 1, "y": 1 },
+        "$RCT2:OBJDATA/JURRPATH.DAT[0..50]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Rocky FootPath",
+            "fr-FR": "Allée rocailleuse",
+            "de-DE": "Steiniger Fußweg",
+            "es-ES": "Sendero rocoso",
+            "it-IT": "Sentiero roccioso",
+            "nl-NL": "Rotsachtig voetpad",
+            "sv-SE": "Stenig gång",
+            "ko-KR": "돌무더기 보도",
+            "zh-TW": "石頭道路",
+            "pt-BR": "Trilha Rochosa",
+            "cs-CZ": "Kamenitá cesta",
+            "pl-PL": "Kamienista dróżka",
+            "ru-RU": "Дорожка",
+            "ja-JP": "石の木造",
+            "eo-OO": "Roka Trotuaro"
+        }
+    }
+}

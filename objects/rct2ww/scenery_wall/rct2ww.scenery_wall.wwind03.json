@@ -1,0 +1,33 @@
+{
+    "id": "rct2ww.scenery_wall.wwind03",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0713|WWIND03 |F0DD5F54",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WWIND03.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Wind Sculpted Wall Piece",
+            "fr-FR": "Pan de mur façonné par le vent",
+            "de-DE": "Erosionsfelsenwand-Bauteil",
+            "es-ES": "Pieza de pared esculpida por el viento",
+            "it-IT": "Pezzo di parete erosa dal vento",
+            "nl-NL": "Door wind gevormd stuk muur",
+            "sv-SE": "Vindformad väggdel",
+            "zh-CN": "风蚀雕饰墙面一片",
+            "cs-CZ": "Větrem ošlehaná stěna - část",
+            "ko-KR": "풍화된 벽 조각",
+            "pl-PL": "Zerodowany segment ściany",
+            "ru-RU": "Деталь стены",
+            "pt-BR": "Peça de Parede Esculpida Pelo Vento",
+            "ja-JP": "風で削られた 壁部分",
+            "eo-OO": "Vento-Skulptita Muroparto"
+        }
+    }
+}

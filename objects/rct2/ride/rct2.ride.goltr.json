@@ -1,0 +1,153 @@
+{
+    "id": "rct2.ride.goltr",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|GOLTR   |F03D99BC",
+    "sourceGame": "rct2",
+    "objectType": "ride",
+    "properties": {
+        "type": "hyper_twister",
+        "category": "rollercoaster",
+        "noInversions": true,
+        "minCarsPerTrain": 4,
+        "maxCarsPerTrain": 6,
+        "numEmptyCars": 1,
+        "tabCar": 1,
+        "tailCars": 1,
+        "ratingMultipler": {
+            "excitement": 10,
+            "intensity": 3
+        },
+        "carColours": [
+            [
+                ["yellow", "bright_red", "light_orange"]
+            ],
+            [
+                ["dark_green", "dark_green", "bright_red"]
+            ],
+            [
+                ["bright_red", "bright_red", "yellow"]
+            ],
+            [
+                ["grey", "light_purple", "yellow"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 296344,
+                "mass": 1400,
+                "numSeats": 6,
+                "numSeatRows": 3,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 5,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "restraintAnimation": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [7, 5, 1, -1, -7, -5]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 87160,
+                "mass": 400,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true
+                },
+                "hasAdditionalColour2": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true
+            }
+        ],
+        "buildMenuPriority": 1
+    },
+    "images": [
+        "$RCT2:OBJDATA/GOLTR.DAT[1]",
+        "",
+        "",
+        "$RCT2:OBJDATA/GOLTR.DAT[3..3590]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Hyper-Twister Trains",
+            "fr-FR": "Train super-tornado",
+            "de-DE": "Hyper-Twister-Züge",
+            "es-ES": "Trenes Hiper-Tornado",
+            "it-IT": "Treni della super-serpentina",
+            "nl-NL": "Hyper-twistertreinen",
+            "sv-SE": "Hypertwister-vagnar",
+            "ko-KR": "하이퍼 트위스터 차량",
+            "zh-CN": "极度旋转列车",
+            "zh-TW": "極度旋轉列車",
+            "pt-BR": "Trens do Hiper-Tornado",
+            "cs-CZ": "Hyperzakroucená dráha",
+            "ja-JP": "ハイパー・ツイスター車両",
+            "pl-PL": "Pociąg hiperzwijka",
+            "ru-RU": "Гипер-твистер",
+            "eo-OO": "Trajnoj de Hiper-Tvisto"
+        },
+        "description": {
+            "en-GB": "Spacious trains with simple lap restraints",
+            "fr-FR": "Train spacieux disposant d'une simple barre de protection au niveau des jambes",
+            "de-DE": "Geräumige Züge mit einfachen Beckenhalterungen",
+            "es-ES": "Vagones muy espaciosos",
+            "it-IT": "Treni spaziosi con semplici protezioni al petto",
+            "nl-NL": "Ruime treinen met eenvoudige schootbeugels.",
+            "sv-SE": "Rymliga tåg med enkla byglar",
+            "ko-KR": "간단한 무릎 안전바를 가진 널찍한 차량",
+            "zh-CN": "宽敝的列车有着简单的膝式安全装置",
+            "zh-TW": "寬敝的列車有著簡單的膝式安全裝置",
+            "pt-BR": "Trens espaçosos com proteções de colo simples",
+            "cs-CZ": "Prostorné vozy s jednoduchou opěrkou v klíně",
+            "ja-JP": "簡単な膝の安全バーだけが付いた、広々とした列車です",
+            "pl-PL": "Przestronne wagoniki z prostymi zabezpieczeniami obejmującymi pasażerów w pasie",
+            "ru-RU": "Большие поезда с простыми ремнями",
+            "eo-OO": "Grandspacaj trajnoj kun simplaj sinobridoj"
+        },
+        "capacity": {
+            "en-GB": "6 passengers per car",
+            "fr-FR": "6 passagers par voiture",
+            "de-DE": "6 Fahrgäste pro Wagen",
+            "es-ES": "6 pasajeros por vagón",
+            "it-IT": "6 passeggeri a carrozza",
+            "nl-NL": "6 passagiers per karretje",
+            "sv-SE": "6 passagerare per vagn",
+            "ko-KR": "차량당 6명의 승객",
+            "zh-CN": "6 位乘客/每个车厢",
+            "zh-TW": "6 位乘客/每個車廂",
+            "pt-BR": "6 passageiros por vagão",
+            "cs-CZ": "6 míst v každém voze",
+            "ja-JP": "各車両6名",
+            "pl-PL": "6 pasażerów na wagonik",
+            "ru-RU": "6 пассажиров",
+            "eo-OO": "Po 6 pasaĝeroj por ĉaro"
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "id": "rct2tt.ride.hotrodxx",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA20|HOTRODXX|C6560675",
+    "sourceGame": "rct2tt",
+    "objectType": "ride",
+    "properties": {
+        "type": "air_powered_vertical_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 5,
+        "maxCarsPerTrain": 9,
+        "numEmptyCars": 1,
+        "tabCar": 1,
+        "headCars": 1,
+        "carColours": [
+            [
+                ["bright_red", "bright_yellow", "black"]
+            ],
+            [
+                ["light_blue", "bright_red", "black"]
+            ],
+            [
+                ["yellow", "bright_red", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 95876,
+                "mass": 600,
+                "numSeats": 2,
+                "numSeatRows": 1,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "flatBanked": true,
+                    "restraintAnimation": true
+                },
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [3, -3]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 95876,
+                "mass": 500,
+                "frictionSoundId": 57,
+                "soundRange": 0,
+                "drawOrder": 8,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "flatBanked": true
+                },
+                "hasScreamingRiders": true
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/HOTRODXX.DAT[0..1166]"],
+    "strings": {
+        "name": {
+            "en-GB": "Hot Rod Trains",
+            "fr-FR": "Bolide extrême",
+            "de-DE": "Hotrod-Wagen",
+            "es-ES": "Montaña rusa bólido",
+            "it-IT": "Ottovolante del brivido",
+            "nl-NL": "Hotrodtrein",
+            "sv-SE": "Hot rod-vagnar",
+            "ko-KR": "개조 자동차 차량",
+            "zh-TW": "改裝車雲霄飛車",
+            "pt-BR": "Carros Hot Rod",
+            "ar-EG": "سيارات الطرق السريعة",
+            "cs-CZ": "Hot Rod horská dráha",
+            "pl-PL": "Podrasowane samochody",
+            "ru-RU": "Горки-Хотрод",
+            "ja-JP": "ホットロッドレーストレイン",
+            "eo-OO": "Hot-Rod Trajnoj"
+        },
+        "description": {
+            "en-GB": "Air-powered launched roller coaster trains in the shape of hot rod cars",
+            "fr-FR": "Après avoir été propulsé dans les airs, le train accélère sur une voie verticale, passe le sommet, et retombe de l'autre côté en direction de la station",
+            "de-DE": "Achterbahnzüge, die luftbetrieben gestartet werden. Sie sehen aus wie Hotrod-Wagen",
+            "es-ES": "Después de un divertido lanzamiento por aire, el tren acelera por una vía vertical, hasta lo más alto, viajando verticalmente por el otro lado para llegar a la estación.",
+            "it-IT": "Dopo un esilarante lancio effettuato sfruttando l'aria compressa, il treno accelera lungo una salita verticale, supera la cima e scende lungo un pendio verticale per tornare infine alla stazione.",
+            "nl-NL": "Na een enerverende pneumatische lancering rijdt de trein met hogere snelheid over een verticale baan, over de top, en vervolgens over de andere kant weer naar beneden om terug te keren naar het station.",
+            "sv-SE": "Vagnar till luftdriven berg- och dalbana, utformade som hot rod-bilar",
+            "ko-KR": "아주 짜릿한 공기 압축 방식으로 발진하여 차량이 수직 트랙을 향해 속력을 높인 뒤, 꼭대기에 다다르면 다시 수직으로 하강하며 다시 탑승장에 도착하는 놀이기구",
+            "zh-TW": "在一陣令人興奮的高速氣壓式堆進器啟動,列車以高速衝向垂直頂端軌道,接著再垂直下墜到車站的另一端再回到車站",
+            "pt-BR": "Vagões em formato de hot rod das montanhas russas com lançamento de propulsão a ar",
+            "ja-JP": "ホットロッド形状の空力で打ち上げられたジェットコースターの列車です",
+            "cs-CZ": "Po mocném startu na stlačený vzduch se vozy rozjedou po svislé dráze, přes vrchol a svisle dolů zpět do stanice",
+            "pl-PL": "Po ekscytującym starcie z pneumatycznej wyrzutni pociąg rozpędza się pod górę pionowego toru, pokonuje szczyt i spada pionowo z drugiej strony, by powrócić na stację",
+            "ru-RU": "После ускоряющего толчка поезд разгоняется по вертикальному треку и опускается вниз на станцию.",
+            "eo-OO": "Trajnoj de onda fervojo, lanĉitaj per aero kaj formitaj kiel hot-rod-aj aŭtoj"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por coche",
+            "it-IT": "2 passeggeri per carrozza",
+            "nl-NL": "2 passagiers per karretje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량당 2명의 승객",
+            "zh-TW": "每輛車限乘2人",
+            "ja-JP": "各車両2名",
+            "pt-BR": "2 passageiros por vagão",
+            "cs-CZ": "2 místa v každém voze",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 чел. в кабинке",
+            "eo-OO": "Po 2 pasaĝeroj por ĉaro"
+        }
+    }
+}

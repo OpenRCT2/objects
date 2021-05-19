@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.wdrab13",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A11|WDRAB13 |A4090425",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 48,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WDRAB13.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Step-up Piece 2",
+            "fr-FR": "Pièce de montée terne 2",
+            "de-DE": "Düsteres Treppen-Bauteil 2",
+            "es-ES": "Pieza de sección de escaleras apagadas 2",
+            "it-IT": "Pezzo di rialzo smorto 2",
+            "nl-NL": "Vaal Uitspringend stuk 2",
+            "sv-SE": "Gråbrun trappa 2",
+            "cs-CZ": "Khaki stěna - část 2",
+            "ko-KR": "칙칙하고 점진적인 조각 2",
+            "pl-PL": "Płowy segment wznoszący 2",
+            "ru-RU": "Деталь",
+            "pt-BR": "Peça de Subida Gris 9",
+            "ja-JP": "壊れたステップアップの部分2",
+            "eo-OO": "Dubekolora Ŝtupoparto 2"
+        }
+    }
+}

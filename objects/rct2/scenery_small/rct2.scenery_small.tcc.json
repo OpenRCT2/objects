@@ -1,0 +1,37 @@
+{
+    "id": "rct2.scenery_small.tcc",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TCC     |B271BA9A",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 21,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 128,
+        "isTree": true,
+        "shape": "4/4"
+    },
+    "images": ["$RCT2:OBJDATA/TCC.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Chinese Cedar Tree",
+            "fr-FR": "Cèdre de Chine",
+            "de-DE": "Chinesische Zeder",
+            "es-ES": "Cedro chino",
+            "it-IT": "Cedro cinese",
+            "nl-NL": "Chinese ceder",
+            "sv-SE": "Kinesisk Ceder",
+            "ko-KR": "중국 삼나무",
+            "zh-CN": "中国雪松",
+            "zh-TW": "中國雪松",
+            "pt-BR": "Árvore Cedro-Chinês",
+            "cs-CZ": "Cedr",
+            "ja-JP": "中国杉",
+            "pl-PL": "Chiński cedr",
+            "ru-RU": "Китайский кедр",
+            "eo-OO": "Ĉina Cedroarbo"
+        }
+    }
+}

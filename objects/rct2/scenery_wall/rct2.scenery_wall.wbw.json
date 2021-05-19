@@ -1,0 +1,35 @@
+{
+    "id": "rct2.scenery_wall.wbw",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188083|WBW     |09DC2C82",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 2,
+        "price": 50,
+        "sceneryGroup": "rct2.scenery_group.scgfence"
+    },
+    "images": ["$RCT2:OBJDATA/WBW.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Bone Fence",
+            "fr-FR": "Clôture d'ossements",
+            "de-DE": "Knochenzaun",
+            "es-ES": "Valla de huesos",
+            "it-IT": "Recinto d'ossa",
+            "nl-NL": "Hek van botten",
+            "sv-SE": "Benstaket",
+            "ko-KR": "뼈 울타리",
+            "zh-CN": "骨头栅栏",
+            "zh-TW": "骨頭柵欄",
+            "pt-BR": "Cerca de Ossos",
+            "cs-CZ": "Plot z kostí",
+            "ja-JP": "骨のフェンス",
+            "pl-PL": "Płot kościany",
+            "ru-RU": "Забор",
+            "eo-OO": "Barilo de Ostoj"
+        }
+    }
+}

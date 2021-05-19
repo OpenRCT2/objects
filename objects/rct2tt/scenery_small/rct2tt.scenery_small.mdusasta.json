@@ -1,0 +1,44 @@
+{
+    "id": "rct2tt.scenery_small.mdusasta",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F821|MDUSASTA|EBE31CC5",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 52,
+        "removalPrice": -46,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "animationDelay": 2,
+        "animationMask": 31,
+        "numFrames": 15,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 0, 0, 0]
+    },
+    "images": ["$RCT2:OBJDATA/MDUSASTA.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Animatronic Medusa",
+            "fr-FR": "Automate : la Méduse",
+            "es-ES": "Medusa animatrónico",
+            "it-IT": "Animatrone Medusa",
+            "nl-NL": "Medusa-animatronic",
+            "sv-SE": "Medusa (animatronisk)",
+            "ko-KR": "움직이는 메두사",
+            "zh-TW": "美杜莎機械偶",
+            "pt-BR": "Medusa Animatrônica",
+            "cs-CZ": "Pohybující se Medúza",
+            "pl-PL": "Mechaniczna meduza",
+            "ru-RU": "Медуза",
+            "ja-JP": "アニマトロニックのメドゥーサ",
+            "eo-OO": "Animatronika Meduzo"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "rct2.footpath_surface.queue_yellow",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": "rct2",
+    "objectType": "footpath_surface",
+    "properties": {
+        "isQueue": true,
+        "noSlopeRailings": true
+    },
+    "images": [
+        { "path": "preview.png" },
+        "$RCT2:OBJDATA/PATHASH.DAT[51..70]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Queue (Yellow)",
+            "nl-NL": "Wachtrij (geel)"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.pipevent",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0211|PIPEVENT|90F61BDA",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 64,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/RSSB2H01.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Ice Pipe Vent",
+            "fr-FR": "Ventilation de tuyau de glace",
+            "de-DE": "Eisröhren-Ventil",
+            "es-ES": "Salida de tubería de hielo",
+            "it-IT": "Apertura per tubo di ghiaccio",
+            "nl-NL": "IJspijp Luchtopening",
+            "sv-SE": "Isrörsventil",
+            "zh-CN": "冰块导管出口",
+            "cs-CZ": "Výdech ledové trubky",
+            "ko-KR": "얼음 배기관",
+            "pl-PL": "Wylot rury lodowej",
+            "ru-RU": "Труба",
+            "pt-BR": "Saída de Tubo de Gelo",
+            "ja-JP": "氷のパイプ　通気口",
+            "eo-OO": "Tubo-Eligejo el Glacio"
+        }
+    }
+}

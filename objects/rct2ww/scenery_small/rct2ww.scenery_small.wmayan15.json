@@ -1,0 +1,37 @@
+{
+    "id": "rct2ww.scenery_small.wmayan15",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31C11|WMAYAN15|30596CD0",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WMAYAN15.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Lost City Stairway Piece",
+            "fr-FR": "Pièce d'escalier de cité perdue",
+            "de-DE": "Verlorene Stadt - Treppen-Bauteil",
+            "es-ES": "Pieza de escalinata de ciudad perdida",
+            "it-IT": "Pezzo di scala di città perduta",
+            "nl-NL": "Stuk trap Verloren Stad",
+            "sv-SE": "Trappa till förlorad stad",
+            "cs-CZ": "Schodiště Ztraceného města",
+            "ko-KR": "잃어버린 도시 계단 조각",
+            "pl-PL": "Zaginione miasto - segment schodów",
+            "ru-RU": "Деталь Ступеней",
+            "pt-BR": "Peça de Escadaria da Cidade Perdida",
+            "ja-JP": "失われた都市　階段部分",
+            "eo-OO": "Parto de Ŝtuparo de Malaperinta Urbo"
+        }
+    }
+}

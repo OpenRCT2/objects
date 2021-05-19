@@ -1,0 +1,59 @@
+{
+    "id": "rct2.ride.soybean",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|SOYBEAN |C4B8AF32",
+    "sourceGame": "rct2",
+    "objectType": "ride",
+    "properties": {
+        "type": "drink_stall",
+        "category": "stall",
+        "sells": "soybean_milk",
+        "disablePainting": true,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/SOYBEAN.DAT[0..6]"],
+    "strings": {
+        "name": {
+            "en-GB": "Soybean Milk Stall",
+            "fr-FR": "Laiterie",
+            "de-DE": "Sojamilch-Stand",
+            "es-ES": "Puesto leche de soja",
+            "it-IT": "Chiosco del latte di soia",
+            "nl-NL": "Sojamelkkraam",
+            "sv-SE": "Sojamjölkstånd",
+            "ko-KR": "두유 가게",
+            "zh-CN": "豆浆店",
+            "zh-TW": "豆漿店",
+            "pt-BR": "Barraca de Leite de Soja",
+            "cs-CZ": "Stánek s mlékem",
+            "ja-JP": "豆乳ショップ",
+            "pl-PL": "Kiosk z mlekiem sojowym",
+            "ru-RU": "Молочный киоск",
+            "eo-OO": "Sojlaktobudo"
+        },
+        "description": {
+            "en-GB": "A stall selling cartons of soybean milk",
+            "fr-FR": "Boutique vendant du lait de soja",
+            "de-DE": "Ein Stand, an dem Sojamilch-Kartons verkauft werden",
+            "es-ES": "Puesto que vende leche de soja",
+            "it-IT": "Un chiosco che vende cartoni di latte di soia",
+            "nl-NL": "Een kraam waar pakjes sojamelk worden verkocht.",
+            "sv-SE": "Ett stånd som säljer sojamjölkkartonger",
+            "ko-KR": "두유 곽을 파는 가게",
+            "zh-CN": "一家卖盒装豆浆的店",
+            "zh-TW": "一家賣盒裝豆漿的店",
+            "pt-BR": "Uma barraca vendendo caixinhas de leite de soja",
+            "cs-CZ": "Stánek prodávající kelímky sojového mléka",
+            "ja-JP": "パック入りの豆乳を売る売店です",
+            "pl-PL": "Stoisko sprzedające kartoniki z mlekiem sojowym",
+            "ru-RU": "Палатка с молоком",
+            "eo-OO": "Budo vendanta kartonojn da sojlakto"
+        }
+    }
+}

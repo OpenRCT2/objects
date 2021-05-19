@@ -1,0 +1,104 @@
+{
+    "id": "rct2.ride.revf1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|REVF1   |BB21F3B6",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": "reverse_freefall_rc",
+        "category": "rollercoaster",
+        "tabScale": 0.5,
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["bright_red", "grey", "light_purple"]
+            ],
+            [
+                ["yellow", "bordeaux_red", "bordeaux_red"]
+            ],
+            [
+                ["bright_purple", "yellow", "yellow"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 348640,
+            "mass": 5500,
+            "numSeats": 8,
+            "numSeatRows": 4,
+            "frictionSoundId": 57,
+            "soundRange": 0,
+            "drawOrder": 5,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true,
+                "verticalSlopes": true,
+                "restraintAnimation": true
+            },
+            "hasAdditionalColour2": true,
+            "hasAdditionalColour1": true,
+            "hasScreamingRiders": true,
+            "loadingPositions": [7, 5, 2, 0, -5, -7, -6, 1]
+        },
+        "buildMenuPriority": 1
+    },
+    "images": ["$RCT2:OBJDATA/REVF1.DAT[0..1562]"],
+    "strings": {
+        "name": {
+            "en-GB": "Reverse Freefall Car",
+            "fr-FR": "Voiture CLR",
+            "de-DE": "Umgekehrter Freefall-Wagen",
+            "es-ES": "Coche Caída Libre Inversa",
+            "it-IT": "Carr. a caduta libera rovesciata",
+            "nl-NL": "Wagen voor achterwaartse vrije val",
+            "sv-SE": "Omvänt fritt fall-vagn",
+            "ko-KR": "역방향 자유낙하 차량",
+            "zh-CN": "倒退式自由落体",
+            "zh-TW": "倒退式自由落體",
+            "pt-BR": "Carro de Queda Livre Reversa",
+            "cs-CZ": "Volný pád pozpátku",
+            "ja-JP": "逆向きフリーフォールカー",
+            "pl-PL": "Wagonik",
+            "ru-RU": "Обратный вагончик",
+            "eo-OO": "Ĉaro de Onda Fervojo kun Dorsantaŭa Libera Falo"
+        },
+        "description": {
+            "en-GB": "Large coaster car for the Reverse Freefall Coaster",
+            "fr-FR": "Voiture destinée à la Chute libre renversée",
+            "de-DE": "Großer Wagen für die umgekehrte Freefall-Bahn",
+            "es-ES": "Montaña Rusa Invertida",
+            "it-IT": "Grande carrozza usata nell'ottovolante a caduta libera rovesciata",
+            "nl-NL": "Grote wagen voor de achterwaartstevrijevalachtbaan.",
+            "sv-SE": "Stor vagn för bakvänd fritt fall-bana",
+            "ko-KR": "역방향 자유낙하 코스터를 위한 대형 코스터 차량",
+            "zh-CN": "大型的车辆是倒退式自由落体设施",
+            "zh-TW": "大型的車輛是倒退式自由落體設施",
+            "pt-BR": "Grande carro de montanha-russa para a Queda Livre Reversa",
+            "cs-CZ": "Velká dráha s vozem pro volný pád pozpátku",
+            "ja-JP": "逆向きフリーフォールのある、大型コースターです",
+            "pl-PL": "Duży wagonik dla kolejki o swobodnym spadku",
+            "ru-RU": "Большой вагончик для реверсивных горок",
+            "eo-OO": "Granda ĉaro de onda fervojo por la Onda Fervojo kun Dorsantaŭa Libera Falo"
+        },
+        "capacity": {
+            "en-GB": "8 passengers",
+            "fr-FR": "8 passagers",
+            "de-DE": "8 Fahrgäste",
+            "es-ES": "8 pasajeros",
+            "it-IT": "8 passeggeri",
+            "nl-NL": "8 passagiers",
+            "sv-SE": "8 passagerare",
+            "ko-KR": "승객 8명",
+            "zh-CN": "8 位乘客",
+            "zh-TW": "8 位乘客",
+            "pt-BR": "8 passageiros",
+            "cs-CZ": "8 návštěvníků",
+            "ja-JP": "各車両8名",
+            "pl-PL": "8 pasażerów",
+            "ru-RU": "8 пассажиров",
+            "eo-OO": "8 pasaĝeroj"
+        }
+    }
+}

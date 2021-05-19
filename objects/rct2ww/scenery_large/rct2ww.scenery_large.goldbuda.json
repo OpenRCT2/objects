@@ -1,0 +1,63 @@
+{
+    "id": "rct2ww.scenery_large.goldbuda",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0012|GOLDBUDA|2C78AA6A",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 78,
+        "removalPrice": -70,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 136,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/GOLDBUDA.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "Golden Buddha",
+            "fr-FR": "Bouddha d'or",
+            "de-DE": "Goldener Buddha",
+            "es-ES": "Buda dorado",
+            "it-IT": "Budda dorato",
+            "nl-NL": "Gouden Boeddha",
+            "sv-SE": "Gyllene Buddha",
+            "zh-CN": "金佛Golden Buddha",
+            "cs-CZ": "Zlatý Buddha",
+            "ko-KR": "금부처상",
+            "pl-PL": "Złoty Budda",
+            "ru-RU": "Золотой Будда",
+            "pt-BR": "Buda Dourado",
+            "ja-JP": "黄金の仏",
+            "eo-OO": "Ora Budao"
+        }
+    }
+}

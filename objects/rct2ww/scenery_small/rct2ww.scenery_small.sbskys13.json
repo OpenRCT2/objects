@@ -1,0 +1,42 @@
+{
+    "id": "rct2ww.scenery_small.sbskys13",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0611|SBSKYS13|1161299D",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 30,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/SBSKYS13.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Skyscraper Convex Roof",
+            "fr-FR": "Toit convexe de gratte-ciel",
+            "de-DE": "Wolkenkratzer - Konvexes Dach",
+            "es-ES": "Tejado convexo del rascacielos",
+            "it-IT": "Tetto convesso di grattacielo",
+            "nl-NL": "Convex dak voor wolkenkrabber",
+            "sv-SE": "Konvext tak till skyskrapa",
+            "zh-CN": "摩天大楼凸面体屋顶",
+            "cs-CZ": "Konvexní střecha mrakodrapu",
+            "ko-KR": "마천루 볼록한 지붕",
+            "pl-PL": "Drapacz chmur - dach wypukły",
+            "ru-RU": "Деталь крыши",
+            "pt-BR": "Telhado Convexo do Arranha-céu",
+            "ja-JP": "高層ビル 凸片 Roof",
+            "eo-OO": "Konveksa Tegmento de Ĉielskrapanto"
+        }
+    }
+}

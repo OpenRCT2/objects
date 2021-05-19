@@ -1,0 +1,90 @@
+{
+    "id": "rct2tt.scenery_large.futsky32",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB22|FUTSKY32|90DDABC6",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 18,
+        "removalPrice": 8,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 64,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 64,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 64,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/FUTSKY32.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone Walkway End Section",
+            "fr-FR": "Section finale de la passerelle",
+            "de-DE": "Sandstein-Spazierweg-Endabschnitt",
+            "es-ES": "Sección final de pasaje de arenisca",
+            "it-IT": "Sezione finale del viale in arenaria",
+            "nl-NL": "Eindstuk zandstenen Looppad",
+            "sv-SE": "Slutsektion, sandstensgång",
+            "ko-KR": "사암 도보 끝 조각",
+            "zh-TW": "沙岩製走道結尾區段",
+            "pt-BR": "Seção de Ponta de Passadiço de Arenito",
+            "cs-CZ": "Pískovcová brána - koncová sekce",
+            "pl-PL": "Chodnik z piaskowca - zakończenie",
+            "ru-RU": "Деталь небоскрёба",
+            "ja-JP": "砂岩 歩道 末端 部分",
+            "eo-OO": "Finoparto de Sabloŝtona Vojo"
+        }
+    }
+}

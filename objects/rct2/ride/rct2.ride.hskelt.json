@@ -1,0 +1,75 @@
+{
+    "id": "rct2.ride.hskelt",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|HSKELT  |3380F9BF",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": "spiral_slide",
+        "category": "gentle",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "spriteWidth": 1,
+            "spriteHeightNegative": 1,
+            "spriteHeightPositive": 1,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "recalculateSpriteBounds": true
+        }
+    },
+    "images": ["$RCT2:OBJDATA/HSKELT.DAT[0..2]"],
+    "strings": {
+        "name": {
+            "en-GB": "Spiral Slide",
+            "fr-FR": "Toboggan spirale",
+            "de-DE": "Spiralgleitbahn",
+            "es-ES": "Tobogán Espiral",
+            "it-IT": "Scivolo a spirale",
+            "nl-NL": "Spiraalglijbaan",
+            "ko-KR": "나선 미끄럼틀",
+            "zh-CN": "螺旋滑道",
+            "zh-TW": "螺旋滑道",
+            "pt-BR": "Escorregador Espiral",
+            "cs-CZ": "Točitá skluzavka",
+            "ja-JP": "状の滑り台",
+            "nb-NO": "Spiralsklietårn",
+            "pl-PL": "Spiralny zjazd",
+            "ru-RU": "Спираль",
+            "eo-OO": "Spirala Glitejo",
+            "sv-SE": "Spiralrutschkana"
+        },
+        "description": {
+            "en-GB": "Wooden building with an internal staircase and an external spiral slide for use with slide mats",
+            "fr-FR": "Bâtiment en bois comprenant un escalier intérieur et un toboggan extérieur en spirale à descendre sur un tapis",
+            "de-DE": "Holzgebäude mit einem inneren Treppenhaus und einer äußeren Spiralgleitbahn für Gleitmatten",
+            "es-ES": "Edificio de madera con una escalera interna y un tobogán externo que se usa con alfombrillas",
+            "it-IT": "Edificio di legno con una scala interna e uno scivolo a spirale esterno da utilizzare con tappetini per scivolare",
+            "nl-NL": "Houten gebouw met van binnen een trap en van buiten een spiraalglijbaan voor glijmatten.",
+            "sv-SE": "Träbyggnad med en inomhustrappa och en utvändig spiralrutschkana att åka på med glidmattor",
+            "ko-KR": "내부의 계단을 타고 올라가서 외부의 나선형 미끄럼틀을 매트를 타고 내려오는 목재 건물",
+            "zh-CN": "木制结构，内部有一个楼梯，而外部则是有螺旋状的坡道可以滑下来",
+            "zh-TW": "木製結構，內部有一個樓梯，而外部則是有螺旋狀的坡道可以滑下來",
+            "pt-BR": "Estrutura de madeira com uma escada interna e um tobogã em espiral externo, no qual se desce com tapetes",
+            "cs-CZ": "Dřevěná budova se schodištěm uvnitř a venkovní točitou skluzavkou, na které se jezdí s podložkami",
+            "ja-JP": "木製の建物で、中には階段が、外にはらせん状の滑り台があり、マットを使って滑ります",
+            "pl-PL": "Drewniany budynek ze schodami wewnątrz i spiralną zjeżdżalnią na zewnątrz. Goście zjeżdżają na matach",
+            "ru-RU": "Деревянное здание с лестницей и спиральной горкой.",
+            "eo-OO": "Ligna konstruaĵo kun interna ŝtuparo kaj ekstera spirala glitejo por uzi kun glitmatoj"
+        },
+        "capacity": {
+            "cs-CZ": "",
+            "ko-KR": "",
+            "ru-RU": ""
+        }
+    }
+}

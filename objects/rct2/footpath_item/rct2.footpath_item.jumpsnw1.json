@@ -1,0 +1,37 @@
+{
+    "id": "rct2.footpath_item.jumpsnw1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188786|JUMPSNW1|AFE38320",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "footpath_item",
+    "properties": {
+        "isJumpingFountainSnow": true,
+        "renderAs": "fountain",
+        "cursor": "CURSOR_FOUNTAIN_DOWN",
+        "price": 250,
+        "sceneryGroup": "rct2.scenery_group.scgpathx"
+    },
+    "images": ["$RCT2:OBJDATA/JUMPSNW1.DAT[0..4]"],
+    "strings": {
+        "name": {
+            "en-GB": "Jumping Snowballs",
+            "fr-FR": "Boules de neiges sautantes",
+            "de-DE": "Springende Schneebälle",
+            "es-ES": "Bolas de Nieve Saltarinas",
+            "it-IT": "Palle di neve saltellanti",
+            "nl-NL": "Springende sneeuwballen",
+            "sv-SE": "Hoppande snöbollar",
+            "ko-KR": "도약하는 눈덩이",
+            "zh-CN": "跳跃雪球",
+            "zh-TW": "跳躍雪球",
+            "pt-BR": "Lança-bolas de Neve",
+            "cs-CZ": "Skákající sněhové koule",
+            "ja-JP": "ジャンピング雪玉",
+            "pl-PL": "Skaczące śnieżki",
+            "ru-RU": "Снежки",
+            "ar-EG": "كرات الثلج القافزة",
+            "eo-OO": "Saltantaj Neĝbuloj"
+        }
+    }
+}

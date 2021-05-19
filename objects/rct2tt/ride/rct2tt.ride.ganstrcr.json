@@ -1,0 +1,147 @@
+{
+    "id": "rct2tt.ride.ganstrcr",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F920|GANSTRCR|79CD04F1",
+    "sourceGame": "rct2tt",
+    "objectType": "ride",
+    "properties": {
+        "type": "lim_launched_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 7,
+        "defaultCar": 1,
+        "headCars": 0,
+        "ratingMultipler": {
+            "intensity": 10
+        },
+        "carColours": [
+            [
+                ["light_blue", "white", "yellow"]
+            ],
+            [
+                ["bright_red", "yellow", "yellow"]
+            ],
+            [
+                ["white", "bordeaux_red", "bordeaux_red"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 244048,
+                "mass": 600,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 9,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [5, 3, -7, -9]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 296344,
+                "mass": 500,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 9,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTransitions": true,
+                    "gentleSlopeBankedTurns": true,
+                    "flatToGentleSlopeWhileBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [7, 9, -3, -1]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/GANSTRCR.DAT[0..5042]"],
+    "strings": {
+        "name": {
+            "en-GB": "Gangster Cars",
+            "fr-FR": "Voiture de gangster",
+            "de-DE": "Fluchtwagen",
+            "es-ES": "Montaña rusa coche de gangster",
+            "it-IT": "Ottovolante dei gangster",
+            "nl-NL": "Gangsterautotrein",
+            "sv-SE": "Gangsterbilar",
+            "ko-KR": "갱스터 차량",
+            "zh-TW": "盜匪車雲霄飛車",
+            "ja-JP": "ギャングスターカー",
+            "pt-BR": "Carros Gangster",
+            "ar-EG": "سيارات العصابات",
+            "cs-CZ": "Gangsterská horská dráha",
+            "en-US": "Gangster Cars",
+            "pl-PL": "Gangsterska kolejka",
+            "ru-RU": "Горки гангстеров",
+            "eo-OO": "Gangstero-Aŭtoj"
+        },
+        "description": {
+            "en-GB": "1920s-themed gangster cars are accelerated out of the station by linear induction motors to speed through twisting inversions",
+            "fr-FR": "Train sur le thème des gangsters des années folles propulsé hors de la station par des moteurs à induction linéaire et fonçant dans des inversions renversantes",
+            "de-DE": "Die Gangster-Fluchtwagen aus den 1920ern werden aus der Station heraus mit Linearmotoren beschleunigt und rasen durch verdrehte Loopings",
+            "es-ES": "Los coches, ambientados como de gángsteres de los años veinte tienen que ser acelerados por motores de inducción lineal, para coger velocidad para los giros en inversión.",
+            "it-IT": "Le tipiche auto dei gangster degli anni '20 vengono fatte accelerare dalla stazione con motori a induzione lineare (MIL), per poter affrontare vari capovolgimenti e serpentine.",
+            "nl-NL": "Achtbaantreinen in de stijl van een gangsterauto uit de jaren ’20 worden door lineaireinductiemotoren het station uit gelanceerd en razen door een kronkelende baan die vaak over de kop gaat.",
+            "sv-SE": "20-talsinspirerade gangsterbilvagnar accelereras från stationen med induktionsmotorer och far fram genom slingrande och inverterade spår",
+            "ko-KR": "역에서 선형 유도 모터에 의해 가속되어 꼬여있는 트랙을 빠른 속도로 통과하는 1920년대 테마의 갱스터 롤러코스터 차량",
+            "zh-TW": "以1920年代為主題的盜匪車輛,被直線推進動力以加速推離車站並快速通過倒置旋轉軌道",
+            "ja-JP": "1920年代のギャング車のような、リニアモーターで動く車両です",
+            "pt-BR": "Vagões temáticos de gângsteres dos anos 20 saem da estação acelerados por motores de indução linear para correr por inversões sinuosas",
+            "cs-CZ": "Horská dráha s vozy ve stylu gangsterů 20. let, poháněnými elektromotorem, které sviští skrze propletenou dráhu",
+            "pl-PL": "Wagoniki stylizowane na gangsterskie samochody z lat 20. są wystrzeliwane ze stacji za pomocą silnika liniowego i suną po zawiłym torze",
+            "ru-RU": "Машинки в стиле 1920х проезжают по головокружительной трассе.",
+            "eo-OO": "Linearaj induktaj motoroj plirapidigas gangstero-aŭtojn, kiuj havas 1920-ajn temon, el la stacio por rapidiri tra kurboplenaj inversigoj"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por coche",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량당 4명의 승객",
+            "zh-TW": "每輛車限乘4人",
+            "ja-JP": "各車両4名",
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 чел. в кабине",
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

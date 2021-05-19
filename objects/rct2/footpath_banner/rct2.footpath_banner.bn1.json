@@ -1,0 +1,35 @@
+{
+    "id": "rct2.footpath_banner.bn1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188F84|BN1     |8DA7F8BC",
+    "sourceGame": ["rct2", "rct1aa"],
+    "objectType": "footpath_banner",
+    "properties": {
+        "scrollingMode": 17,
+        "price": 250,
+        "hasPrimaryColour": true
+    },
+    "images": ["$RCT2:OBJDATA/BN1.DAT[0..7]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sign",
+            "fr-FR": "Panneau",
+            "de-DE": "Schild",
+            "es-ES": "Señal",
+            "it-IT": "Insegna",
+            "nl-NL": "Lichtkrant",
+            "sv-SE": "Skylt",
+            "ko-KR": "팻말",
+            "zh-CN": "招牌",
+            "zh-TW": "招牌",
+            "pt-BR": "Placa",
+            "cs-CZ": "Cedule",
+            "ja-JP": "バナー",
+            "pl-PL": "Drogowskaz",
+            "ru-RU": "Знак",
+            "ar-EG": "علامة",
+            "eo-OO": "Afiŝo"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "id": "rct2tt.scenery_large.oldnyk24",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F922|OLDNYK24|400ABDF2",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 8,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 8,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 8,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 8,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/OLDNYK24.DAT[0..19]"],
+    "strings": {
+        "name": {
+            "en-GB": "New York Inverted Corner Roof",
+            "fr-FR": "Toit de virage inversé de New York",
+            "de-DE": "New-York-Dachecke, umgedreht",
+            "es-ES": "Sección de tejado inversa de Nueva York",
+            "it-IT": "Tetto in curva invertita di New York",
+            "nl-NL": "Omgekeerd Bochtdak New York",
+            "sv-SE": "Omvänd takdel, New York",
+            "ko-KR": "반전된 뉴욕 구석 지붕",
+            "zh-TW": "反向紐約屋頂牆角",
+            "pt-BR": "Canto Invertido de Telhado de Nova York",
+            "cs-CZ": "New York - obrácený roh střechy",
+            "pl-PL": "Odwrócony narożnik dachu nowojorskiego",
+            "ru-RU": "Угол крыши Нью-Йорка",
+            "ja-JP": "ニューヨーク　コーナーの内側屋根部分",
+            "eo-OO": "Inversigita Novjorka Tegmentangulo"
+        }
+    }
+}

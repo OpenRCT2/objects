@@ -1,0 +1,104 @@
+{
+    "id": "rct2.ride.rftboat",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188B80|RFTBOAT |9C39AB46",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "ride",
+    "properties": {
+        "type": "river_rafts",
+        "category": [
+            "water",
+            "transport"
+        ],
+        "hasShelter": true,
+        "noCollisionCrashes": true,
+        "carColours": [
+            [
+                ["light_brown", "white", "white"]
+            ],
+            [
+                ["light_brown", "yellow", "bright_red"]
+            ],
+            [
+                ["light_brown", "dark_green", "dark_green"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 244048,
+            "mass": 950,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "poweredAcceleration": 255,
+            "poweredMaxSpeed": 5,
+            "drawOrder": 9,
+            "frames": {
+                "flat": true
+            },
+            "hasAdditionalColour2": true,
+            "hasAdditionalColour1": true,
+            "isPowered": true,
+            "isWaterRide": true,
+            "loadingPositions": [6, 4, -6, -4]
+        },
+        "buildMenuPriority": 1
+    },
+    "images": ["$RCT2:OBJDATA/RFTBOAT.DAT[0..98]"],
+    "strings": {
+        "name": {
+            "en-GB": "Rafts",
+            "fr-FR": "Radeau médusé",
+            "de-DE": "Floße",
+            "es-ES": "Balsas de Río",
+            "it-IT": "Zattere lungo il fiume",
+            "nl-NL": "Overdekte vlotten",
+            "sv-SE": "Flodflottar",
+            "ko-KR": "뗏목",
+            "zh-CN": "水上橡皮艇",
+            "zh-TW": "水上橡皮艇",
+            "pt-BR": "Jangadas",
+            "cs-CZ": "Říční rafty",
+            "ja-JP": "川いかだ",
+            "pl-PL": "Tratwy rzeczne",
+            "ru-RU": "Рафтинг",
+            "eo-OO": "Flosoj"
+        },
+        "description": {
+            "en-GB": "Raft-shaped boats built for flat river tracks",
+            "fr-FR": "Des bateaux en forme de radeau descendent paisiblement une voie navigable",
+            "de-DE": "Floßförmige Boote, die für flache Flussstrecken ausgelegt sind",
+            "es-ES": "Botes con forma de balsa",
+            "it-IT": "Barche a forma di zattera si muovono dolcemente lungo una pista d'acqua",
+            "nl-NL": "Boten in de vorm van een vlot varen rustig door een waterbak.",
+            "sv-SE": "Flottformade båtar för lugna flodrännor",
+            "ko-KR": "구불구불한 강 모양의 트랙을 따라 얌전히 이동하는 뗏목 모양의 보트",
+            "zh-CN": "橡皮艇外形的船在水道上温和地曲折前进",
+            "zh-TW": "橡皮艇外形的船在水道上溫和地曲折前進",
+            "pt-BR": "Barcos em forma de balsa construídos para leitos de rios planos",
+            "cs-CZ": "Rafty se plaví po meandrech na vodním kanále",
+            "ja-JP": "川いかだの形のボートが、ゆるやかに曲がりくねった川のコースを進む乗物です",
+            "pl-PL": "Tratwy manewrujące zręcznie po wodnym torze",
+            "ru-RU": "Люди плывут по каналу на деревянных плотах.",
+            "eo-OO": "Flosoformaj boatoj konstruitaj por plataj rivertrakoj"
+        },
+        "capacity": {
+            "en-GB": "4 passengers per raft",
+            "fr-FR": "4 passagers par radeau",
+            "de-DE": "4 Fahrgäste pro Floß",
+            "es-ES": "4 pasajeros por balsa",
+            "it-IT": "4 passeggeri a zattera",
+            "nl-NL": "4 passagiers per vlot",
+            "sv-SE": "4 passagerare per flotte",
+            "ko-KR": "래프트당 4명의 승객",
+            "zh-CN": "4 位乘客 /每艘橡皮艇",
+            "zh-TW": "4 位乘客 /每艘橡皮艇",
+            "pt-BR": "4 passageiros por balsa",
+            "cs-CZ": "4 místa na každém raftu",
+            "ja-JP": "各ボート4名",
+            "pl-PL": "4 pasażerów na tratwę",
+            "ru-RU": "4 пассажира",
+            "eo-OO": "Po 4 pasaĝeroj por floso"
+        }
+    }
+}

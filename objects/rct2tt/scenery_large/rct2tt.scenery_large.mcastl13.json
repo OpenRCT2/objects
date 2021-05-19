@@ -1,0 +1,91 @@
+{
+    "id": "rct2tt.scenery_large.mcastl13",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F822|MCASTL13|8BA6FA0F",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 144,
+        "removalPrice": -114,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 226,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 226,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 226,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 226,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 226,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 226,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 226,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 226,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 226,
+                "walls": 2
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/MCASTL13.DAT[0..39]"],
+    "strings": {
+        "name": {
+            "en-GB": "Castle Tower Corner Piece",
+            "fr-FR": "Section de virage du donjon",
+            "de-DE": "Schlossturm-Eckstück",
+            "es-ES": "Esquina de torre de castillo",
+            "it-IT": "Tratto di curva della torre del Castello",
+            "nl-NL": "Bochtstuk kasteeltoren",
+            "sv-SE": "Tornhörn, slott",
+            "ko-KR": "성탑 구석 조각",
+            "zh-TW": "城樓牆角塊",
+            "pt-BR": "Peça de Canto de Torre de Castelo",
+            "cs-CZ": "Hradní věž - roh",
+            "pl-PL": "Narożnik wieży zamkowej",
+            "ru-RU": "Деталь башни замка",
+            "ja-JP": "城の塔のコーナー部分",
+            "eo-OO": "Anguloparto de Turo de Kastelo"
+        }
+    }
+}

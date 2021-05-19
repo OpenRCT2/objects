@@ -1,0 +1,38 @@
+{
+    "id": "rct2.footpath_item.benchpl",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188786|BENCHPL |8FEEEF49",
+    "sourceGame": "rct2",
+    "objectType": "footpath_item",
+    "properties": {
+        "isBench": true,
+        "isBreakable": true,
+        "renderAs": "bench",
+        "cursor": "CURSOR_BENCH_DOWN",
+        "price": 50,
+        "sceneryGroup": "rct2.scenery_group.scgpathx"
+    },
+    "images": ["$RCT2:OBJDATA/BENCHPL.DAT[0..8]"],
+    "strings": {
+        "name": {
+            "en-GB": "Seats",
+            "fr-FR": "Sièges",
+            "de-DE": "Sitze",
+            "es-ES": "Asientos",
+            "it-IT": "Sedili",
+            "nl-NL": "Stadionstoeltjes",
+            "sv-SE": "Säten",
+            "ko-KR": "의자",
+            "zh-CN": "座位",
+            "zh-TW": "座位",
+            "pt-BR": "Assentos",
+            "cs-CZ": "Sedadla",
+            "ja-JP": "席",
+            "pl-PL": "Siedzenia",
+            "ru-RU": "Лавка",
+            "ar-EG": "مقاعد",
+            "eo-OO": "Seĝoj"
+        }
+    }
+}

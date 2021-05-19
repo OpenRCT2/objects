@@ -1,0 +1,42 @@
+{
+    "id": "rct2tt.scenery_small.futsky34",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB21|FUTSKY34|3922EDC8",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": 4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 8,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/FUTSKY34.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone Skyscraper Roof",
+            "fr-FR": "Toit du gratte-ciel",
+            "de-DE": "Sandstein-Wolkenkratzer Dach",
+            "es-ES": "Tejado de rascacielos de arenisca",
+            "it-IT": "Tetto del grattacielo in arenaria",
+            "nl-NL": "Dak zandstenen wolkenkrabber",
+            "sv-SE": "Tak, sandstensskyskrapa",
+            "ko-KR": "사암 마천루 지붕",
+            "zh-TW": "沙岩製摩天大樓屋頂",
+            "pt-BR": "Telhado de Arranha-Céu de Arenito",
+            "cs-CZ": "Pískovcový mrakodrap - střecha",
+            "pl-PL": "Wieżowiec z piaskowca - dach",
+            "ru-RU": "Крыша небоскрёба",
+            "ja-JP": "砂岩 高層ビル　屋根",
+            "eo-OO": "Tegmento de Sabloŝtona Ĉielskrapanto"
+        }
+    }
+}

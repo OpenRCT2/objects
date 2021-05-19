@@ -1,0 +1,43 @@
+{
+    "id": "rct2.scenery_small.igroof",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|IGROOF  |81D81CF7",
+    "sourceGame": "rct2",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 16,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/IGROOF.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Igloo Roof",
+            "fr-FR": "Toit d'igloo",
+            "de-DE": "Igludach",
+            "es-ES": "Tejado de iglú",
+            "it-IT": "Tetto dell'igloo",
+            "nl-NL": "Iglodak",
+            "sv-SE": "Igloo-tak",
+            "ko-KR": "이글루 천장",
+            "zh-CN": "圆屋顶",
+            "zh-TW": "圓屋頂",
+            "pt-BR": "Teto de Iglu",
+            "cs-CZ": "Střecha iglú",
+            "ja-JP": "イグルーの屋根",
+            "pl-PL": "Dach igloo",
+            "ru-RU": "Крыша иглу",
+            "eo-OO": "Tegmento de Iglo"
+        }
+    }
+}

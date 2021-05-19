@@ -1,0 +1,32 @@
+{
+    "id": "rct2ww.scenery_wall.wtudor01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A13|WTUDOR01|85235432",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WTUDOR01.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Tudor Ground Floor Wall Piece 1",
+            "fr-FR": "Pan de mur de rez-de-chaussée Tudor 1",
+            "de-DE": "Tudor-Erdgeschoss-Wandbauteil 1",
+            "es-ES": "Pieza de pared de suelo Tudor 1",
+            "it-IT": "Pezzo di muro Tudor del piano terra 1",
+            "nl-NL": "Grondstuk muur in Tudorstijl 1",
+            "sv-SE": "Tudor-väggdel för nedre våning 1",
+            "cs-CZ": "Tudorská přízemní stěna - část 1",
+            "ko-KR": "튜더식 지면 바닥 벽 조각 1",
+            "pl-PL": "Elżbietański segment ściany parteru 1",
+            "ru-RU": "Деталь стены",
+            "pt-BR": "Peça da Parede do Andar Térreo Tudor 1",
+            "ja-JP": "チューダー1階の壁1",
+            "eo-OO": "Tudorstila Ternivela Muroparto 1"
+        }
+    }
+}

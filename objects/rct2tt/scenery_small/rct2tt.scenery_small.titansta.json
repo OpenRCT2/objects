@@ -1,0 +1,44 @@
+{
+    "id": "rct2tt.scenery_small.titansta",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F821|TITANSTA|B57122E4",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 46,
+        "removalPrice": -38,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 64,
+        "animationDelay": 2,
+        "animationMask": 15,
+        "numFrames": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
+        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "images": ["$RCT2:OBJDATA/TITANSTA.DAT[0..67]"],
+    "strings": {
+        "name": {
+            "en-GB": "Atlas Statue",
+            "fr-FR": "Statue de Atlas",
+            "de-DE": "Atlas-Statue",
+            "es-ES": "Estatua de Atlas",
+            "it-IT": "Statua di Atalante",
+            "nl-NL": "Atlasstandbeeld",
+            "sv-SE": "Atlasstaty",
+            "ko-KR": "아틀라스 동상",
+            "zh-TW": "泰坦神雕像",
+            "pt-BR": "Estátua de Atlas",
+            "cs-CZ": "Socha Atlase",
+            "pl-PL": "Posąg Atlasa",
+            "ru-RU": "Глобус",
+            "ja-JP": "アトラスの像",
+            "eo-OO": "Statuo de Atlaso"
+        }
+    }
+}

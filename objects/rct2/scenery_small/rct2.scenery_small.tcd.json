@@ -1,0 +1,38 @@
+{
+    "id": "rct2.scenery_small.tcd",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|TCD     |A23385B6",
+    "sourceGame": ["rct2", "rct1ll"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 9,
+        "removalPrice": -7,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 16,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/TCD.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Cauldron",
+            "fr-FR": "Chaudron",
+            "de-DE": "Kessel",
+            "es-ES": "Caldero",
+            "it-IT": "Pentolone",
+            "nl-NL": "Ketel",
+            "sv-SE": "Kittel",
+            "ko-KR": "가마솥",
+            "zh-CN": "大汽锅",
+            "zh-TW": "大汽鍋",
+            "pt-BR": "Caldeirão",
+            "cs-CZ": "Kotel",
+            "ja-JP": "大釜",
+            "pl-PL": "Kocioł",
+            "ru-RU": "Котёл",
+            "eo-OO": "Kaldrono"
+        }
+    }
+}

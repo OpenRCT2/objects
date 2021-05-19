@@ -1,0 +1,106 @@
+{
+    "id": "rct2.ride.ding1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188A80|DING1   |7EB3E178",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": "dinghy_slide",
+        "category": [
+            "water",
+            "rollercoaster"
+        ],
+        "noCollisionCrashes": true,
+        "carColours": [
+            [
+                ["yellow", "bordeaux_red", "black"]
+            ],
+            [
+                ["bright_red", "white", "black"]
+            ],
+            [
+                ["white", "light_blue", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 31,
+            "spacing": 200468,
+            "mass": 300,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "frictionSoundId": 32,
+            "soundRange": 0,
+            "drawOrder": 7,
+            "frames": {
+                "flat": true,
+                "gentleSlopes": true,
+                "steepSlopes": true
+            },
+            "hasNoUpstopWheelsBobsleigh": true,
+            "hasAdditionalColour1": true,
+            "hasSwinging": true,
+            "hasScreamingRiders": true,
+            "useSlideSwing": true,
+            "loadingPositions": [3, -3]
+        },
+        "buildMenuPriority": 1
+    },
+    "images": ["$RCT2:OBJDATA/DING1.DAT[0..2578]"],
+    "strings": {
+        "name": {
+            "en-GB": "Dinghies",
+            "fr-FR": "Canotube",
+            "de-DE": "Schlauchboote",
+            "es-ES": "Botes deslizantes",
+            "it-IT": "Scivolo con canotto",
+            "nl-NL": "Opblaasbootjes",
+            "sv-SE": "Gummibåtar",
+            "ko-KR": "보트",
+            "zh-CN": "滑行小船",
+            "zh-TW": "滑行小船",
+            "pt-BR": "Botes",
+            "cs-CZ": "Nafukovací čluny",
+            "ja-JP": "ディンジー・スライド",
+            "pl-PL": "Ślizg pontonowy",
+            "ru-RU": "Шлюпки",
+            "eo-OO": "Boatetoj"
+        },
+        "description": {
+            "en-GB": "Inflatable dinghies that can twist down a semi-circular or completely enclosed tube track",
+            "fr-FR": "Les passagers descendent un tube semi-circulaire ou entièrement fermé à bord d'un canot pneumatique",
+            "de-DE": "Aufblasbare Schlauchboote, die eine sich windende, halbkreisförmige oder komplett in sich geschlossene Rohrstrecke herunterrutschen können",
+            "es-ES": "Los pasajeros viajan en botes hinchables por tubos semicirculares o totalmente cerrados",
+            "it-IT": "I passeggeri viaggiano su canotti gonfiabili lungo un percorso semi-circolare pieno di curve o lungo un percorso a tubo completamente chiuso",
+            "nl-NL": "Passagiers glijden in opblaasboten door een kronkelende halfopen of compleet gesloten glijbaan.",
+            "sv-SE": "Uppblåsbara gummibåtar som halkar fram genom slingrande slutna rör och öppna rännor",
+            "ko-KR": "반원형 또는 밀폐형 원형 튜브 트랙을 따라 이동하는 공기 주입식 고무 보트",
+            "zh-CN": "乘客在膨胀的小船滑下到半圆型或完整封闭管道内滑行",
+            "zh-TW": "乘客在膨脹的小船滑下到半圓型或完整封閉管道內滑行",
+            "pt-BR": "Botes infláveis que se torcem por uma pista sinuosa semicircular ou de tubo fechado",
+            "cs-CZ": "Návštěvníci jedou v nafukovacích člunech po tobogánu",
+            "ja-JP": "ねじれた半円形のコース、またはパイプの中を通るゴムボートです",
+            "pl-PL": "Pasażerowie podróżują w nadmuchiwanych pontonach po zawiłym półkolistym lub rurowym torze",
+            "ru-RU": "Люди катаются в шлюпках.",
+            "eo-OO": "Plenblovitaj boatetoj, kiuj malsupreniras kurboplenan duoncirklan aŭ cirklan tubotrakon"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per dinghy",
+            "fr-FR": "2 passagers par canot",
+            "de-DE": "2 Fahrgäste pro Schlauchboot",
+            "es-ES": "2 pasajeros por bote",
+            "it-IT": "2 passeggeri per canotto",
+            "nl-NL": "2 passagiers per bootje",
+            "sv-SE": "2 passagerare per båt",
+            "ko-KR": "보트당 2명의 승객",
+            "zh-CN": "2 位乘客 /每艘小船",
+            "zh-TW": "2 位乘客 /每艘小船",
+            "pt-BR": "2 passageiros por barco",
+            "cs-CZ": "2 místa v každé lodi",
+            "ja-JP": "各ボート2名",
+            "pl-PL": "2 pasażerów na ponton",
+            "ru-RU": "2 пассажира",
+            "eo-OO": "Po 2 pasaĝeroj por boateto"
+        }
+    }
+}

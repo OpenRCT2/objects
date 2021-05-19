@@ -1,0 +1,42 @@
+{
+    "id": "rct2tt.scenery_small.futsky42",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB21|FUTSKY42|3296FA85",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": 4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/FUTSKY42.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone Skyscraper Curved Slope Top",
+            "fr-FR": "Haut de la pente en courbe du gratte-ciel",
+            "de-DE": "Sandstein-Wolkenkratzer Obere Gewundene Schräge",
+            "es-ES": "Parte superior inclinada de rascacielos de arenisca",
+            "it-IT": "Cima del pendio in curva del grattacielo in arenaria",
+            "nl-NL": "Bovenkant glooiende helling zandstenen wolkenkrabber",
+            "sv-SE": "Övre böjd sluttning, sandstensskyskrapa",
+            "ko-KR": "사암 마천루 곡선형 경사 상단",
+            "zh-TW": "沙岩製摩天大樓弧形斜坡頂部",
+            "pt-BR": "Topo de Inclinação Curvada de Arranha-Céu de Arenito",
+            "cs-CZ": "Pískovcový mrakodrap - horní zaoblená část",
+            "pl-PL": "Wieżowiec z piaskowca - górna pochyła krzywizna",
+            "ru-RU": "Деталь крыши небоскрёба",
+            "ja-JP": "砂岩 高層ビル カーブしたスロープ上部",
+            "eo-OO": "Supra Kurba Deklivo de Sabloŝtona Ĉielskrapanto"
+        }
+    }
+}

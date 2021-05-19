@@ -1,0 +1,38 @@
+{
+    "id": "rct2.scenery_small.lolly1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D81|LOLLY1  |1658B14D",
+    "sourceGame": "rct2",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 19,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 48,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": ["$RCT2:OBJDATA/LOLLY1.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Lollypop",
+            "fr-FR": "Sucette",
+            "de-DE": "Lutscher",
+            "es-ES": "Chupachús",
+            "it-IT": "Lecca-lecca",
+            "nl-NL": "Snoep",
+            "sv-SE": "Slickepinne",
+            "ko-KR": "막대 사탕",
+            "zh-CN": "棒棒糖",
+            "zh-TW": "棒棒糖",
+            "pt-BR": "Pirulito",
+            "cs-CZ": "Lízátko",
+            "ja-JP": "ロリポップ",
+            "pl-PL": "Lizak",
+            "ru-RU": "Леденец",
+            "eo-OO": "Lekbombono"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "rct2ww.scenery_small.rgeorg11",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0A11|RGEORG11|CF001AAF",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 16,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/RGEORG11.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Georgian Flat Roof Corner",
+            "fr-FR": "Coin de toit plat géorgien",
+            "de-DE": "Georgianische Flachdachecke",
+            "es-ES": "Esquina de tejado plano georgiano",
+            "it-IT": "Angolo di tetto piatto georgiano",
+            "nl-NL": "Hoekstuk plat dak in Georgiaanse stijl",
+            "sv-SE": "Georgianskt platt takhörn",
+            "cs-CZ": "Gregoriánská plochá střecha",
+            "ko-KR": "조지아식 평평한 지붕 구석",
+            "pl-PL": "Georgiański narożnik płaskiego dachu",
+            "ru-RU": "Деталь крыши",
+            "pt-BR": "Canto de Telhado Georgiano Plano",
+            "ja-JP": "ジョージア風の平屋根 コーナー",
+            "eo-OO": "Georgia Plata Tegmentangulo"
+        }
+    }
+}

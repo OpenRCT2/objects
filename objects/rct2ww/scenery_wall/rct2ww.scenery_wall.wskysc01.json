@@ -1,0 +1,33 @@
+{
+    "id": "rct2ww.scenery_wall.wskysc01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0613|WSKYSC01|937CF5E1",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50
+    },
+    "images": ["$RCT2:OBJDATA/WSKYSC01.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Skyscraper Metal Set 2 Wall Piece",
+            "fr-FR": "Pan de mur d'élément de gratte-ciel 2",
+            "de-DE": "Metallwolkenkratzer Set 2 - Wand-Bauteil",
+            "es-ES": "Pieza de pared del set de metal 2 del rascacielos",
+            "it-IT": "Pezzo di parete di grattacielo metallico, gruppo 2",
+            "nl-NL": "Metaal Set 2 stuk muur voor wolkenkrabber",
+            "sv-SE": "Väggdel till metallskrapa 2",
+            "zh-CN": "摩天大楼金属合金设定二面墙",
+            "cs-CZ": "Kovový set mrakodrapu 1 - stěna",
+            "ko-KR": "마천루 철제 세트 2 벽 조각",
+            "pl-PL": "Drapacz chmur - zestaw metalowy 2 segment ściany",
+            "ru-RU": "Деталь стены",
+            "pt-BR": "Peça do Conjunto de Metal 2 da Parede do Arranha-céu",
+            "ja-JP": "高層ビル 金属セット 2 壁部分",
+            "eo-OO": "Metalaro de Ĉielskrapanto 2 Muroparto"
+        }
+    }
+}

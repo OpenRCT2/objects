@@ -1,0 +1,138 @@
+{
+    "id": "rct2tt.ride.harpiesx",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F820|HARPIESX|EB713E06",
+    "sourceGame": "rct2tt",
+    "objectType": "ride",
+    "properties": {
+        "type": "lay_down_rc",
+        "category": "rollercoaster",
+        "limitAirTimeBonus": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 6,
+        "carColours": [
+            [
+                ["dark_purple", "black", "bright_red"]
+            ],
+            [
+                ["yellow", "dark_green", "black"]
+            ],
+            [
+                ["bright_red", "light_blue", "black"]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 209184,
+                "mass": 950,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 6,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "hasInvertedSpriteSet": true,
+                "spriteBoundsIncludeInvertedSet": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [2, -2, 2, -2]
+            },
+            {
+                "rotationFrameMask": 31,
+                "spacing": 209184,
+                "mass": 950,
+                "numSeats": 4,
+                "numSeatRows": 2,
+                "frictionSoundId": 2,
+                "soundRange": 2,
+                "drawOrder": 2,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "steepSlopes": true,
+                    "verticalSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "inlineTwists": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true,
+                    "corkscrews": true,
+                    "restraintAnimation": true
+                },
+                "hasInvertedSpriteSet": true,
+                "hasAdditionalColour1": true,
+                "hasScreamingRiders": true,
+                "loadingPositions": [2, -2, 2, -2]
+            }
+        ]
+    },
+    "images": ["$RCT2:OBJDATA/HARPIESX.DAT[0..4082]"],
+    "strings": {
+        "name": {
+            "en-GB": "Harpies Trains",
+            "fr-FR": "Les harpies",
+            "de-DE": "Harpyien-Züge",
+            "es-ES": "Montaña rusa de las arpías",
+            "it-IT": "Ottovolante delle Arpie",
+            "nl-NL": "Harpijenkarretjes",
+            "sv-SE": "Vildvittror",
+            "ko-KR": "하피 차량",
+            "zh-TW": "鳥身女妖雲霄飛車",
+            "ja-JP": "ハーピートレイン",
+            "pt-BR": "Trens Harpias",
+            "cs-CZ": "Horská dráha harpyjí",
+            "pl-PL": "Przejażdżka z Harpiami",
+            "ru-RU": "Гарпии",
+            "eo-OO": "Harpio-Trajnoj"
+        },
+        "description": {
+            "en-GB": "Roller coaster trains in the shape of mythological bird-like creatures. Riders are held in special harnesses in a lying-down position, travelling either on their backs or facing the ground",
+            "en-US": "Roller coaster trains in the shape of mythological bird-like creatures. Riders are held in special harnesses in a lying-down position, traveling either on their backs or facing the ground",
+            "fr-FR": "Les passagers franchissent une voie alambiquée pleine d'inversions, couchés à plat ventre ou sur le dos, et maintenus par des harnais spéciaux",
+            "de-DE": "Achterbahnzüge in der Form von mythischen Vogelwesen. Die Passagiere befinden sich in speziellen Haltevorrichtungen in liegender Position und fahren entweder auf dem Rücken oder dem Bauch",
+            "es-ES": "Los usuarios están sujetos con arneses especiales para quedar en una posición tumbada y viajar por un circuito lleno de giros e inversiones, bien sobre las espaldas o de cara al suelo.",
+            "it-IT": "I passeggeri sono tenuti distesi da speciali bardature e viaggiano lungo un tracciato contorto caratterizzato da inversioni, guardando ora verso la terra e ora verso il cielo.",
+            "nl-NL": "Passagiers worden door middel van een speciale beugel in een liggende positie vastgehouden, waarna ze op hun rug of met hun gezicht naar de grond door kronkelende stukken baan en omkeringen heen gaan.",
+            "sv-SE": "Berg- och dalbanevagnar utformade som mytologiska fågelliknande varelser. Passagerarnas spänns fast liggande i speciella seldon, och åker antingen på rygg eller med ansiktet mot marken",
+            "ko-KR": "누운 자세로 탑승하는 특수 차량에 탑승하여 꼬인 트랙과 전이를 앞이나 뒤로 누운 자세로 즐기는 놀이기구",
+            "zh-TW": "乘客被以橫臥姿勢固定在特殊挽具上,歷經疾速旋轉軌道及反轉,甚至以幾近貼地方式與地面接觸",
+            "pt-BR": "Trens de montanha russa com formato de criaturas mitológicas que se assemelham a pássaros. Os visitantes são mantidos em arreios especiais numa posição deitada, para cima ou para baixo",
+            "ja-JP": "寝転んで乗るハーピー型のジェットコースターの列車",
+            "cs-CZ": "Návštěvníci jedou v leže zavěšeni do speciálního držení, ve kterém na břiše nebo na zádech projedou trať s ostrými zatáčkami",
+            "pl-PL": "Pasażerowie jadą w specjalnych uprzężach, pokonując zawiły tor i nawroty albo na plecach, albo wisząc twarzą w dół",
+            "ru-RU": "Люди едут в лежачем положении по извилистой трассе с переворотами.",
+            "eo-OO": "Trajnoj de onda fervojo, kiuj havas la formon de mitologiaj birdecaj bestoj. Rajdantoj estas tenitaj en specialaj jungaĵoj, kaj veturas aŭ fronte al la ĉielo, aŭ fronte al la tero."
+        },
+        "capacity": {
+            "en-GB": "4 passengers per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por coche",
+            "it-IT": "4 passeggeri per carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량당 4명의 승객",
+            "zh-TW": "每輛車限乘4人",
+            "ja-JP": "各車両4名",
+            "pt-BR": "4 passageiros por vagão",
+            "cs-CZ": "4 místa v každém voze",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 чел в кабинке",
+            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+        }
+    }
+}

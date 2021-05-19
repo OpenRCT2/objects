@@ -1,0 +1,34 @@
+{
+    "id": "rct2ww.scenery_small.wcuzco24",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31D11|WCUZCO24|2946F78B",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4+D",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/WCUZCO24.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "Monumental Wall Corner Piece",
+            "de-DE": "Monumentalwandecken-Bauteil",
+            "cs-CZ": "Monumentální rohová stěna",
+            "ko-KR": "기념물 벽 구석 조각",
+            "pl-PL": "Monumentalny narożnik ściany",
+            "ru-RU": "Деталь стены",
+            "pt-BR": "Peça de Canto de Parede Monumental",
+            "fr-FR": "Coin de mur de monument",
+            "ja-JP": "記念碑　壁のコーナー部分",
+            "eo-OO": "Monumenta Anguloparto de Muro",
+            "sv-SE": "Monument vägg hörndel"
+        }
+    }
+}

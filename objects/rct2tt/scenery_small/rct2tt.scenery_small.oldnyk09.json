@@ -1,0 +1,44 @@
+{
+    "id": "rct2tt.scenery_small.oldnyk09",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F921|OLDNYK09|1DA46976",
+    "sourceGame": "rct2tt",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 28,
+        "removalPrice": -22,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 96,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasSecondaryColour": true,
+        "hasNoSupports": true
+    },
+    "images": ["$RCT2:OBJDATA/OLDNYK09.DAT[0..3]"],
+    "strings": {
+        "name": {
+            "en-GB": "New York Inverted Corner Piece",
+            "fr-FR": "Section de virage inversé de New York",
+            "de-DE": "New-York-Eckstück, umgedreht",
+            "es-ES": "Sección de esquina invertida de Nueva York",
+            "it-IT": "Tratto di curva invertita di New York",
+            "nl-NL": "Omgekeerd bochtstuk New York",
+            "sv-SE": "Omvänd hörndel, New York",
+            "ko-KR": "반전된 뉴욕 구석 조각",
+            "zh-TW": "反向紐約牆角塊",
+            "pt-BR": "Peça Invertida de Canto de Nova York",
+            "cs-CZ": "New York obrácený roh",
+            "pl-PL": "Odwrócony narożnik nowojorski",
+            "ru-RU": "Угловая деталь Нью-Йорка",
+            "ja-JP": "ニューヨーク　コーナーの内側部分",
+            "eo-OO": "Inversigita Novjorka Anguloparto"
+        }
+    }
+}
