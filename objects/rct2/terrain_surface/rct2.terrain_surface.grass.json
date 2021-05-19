@@ -1,9 +1,9 @@
 {
-    "id": "rct1.terrain_surface.grass",
+    "id": "rct2.terrain_surface.grass",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0000008B|#RCT2SGR|00000000",
-    "sourceGame": "rct1",
+    "sourceGame": ["rct2", "rct1"],
     "objectType": "terrain_surface",
     "properties": {
         "price": 300,
