@@ -8,6 +8,8 @@
     "properties": {
         "type": "mini_suspended_rc",
         "category": "rollercoaster",
+        "minCarsPerTrain": 1,
+        "maxCarsPerTrain": 2,
         "ratingMultipler": {
             "excitement": 10,
             "intensity": 25,
