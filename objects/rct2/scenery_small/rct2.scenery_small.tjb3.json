@@ -10,6 +10,7 @@
         "removalPrice": 5,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 48,
+        "sceneryGroup": "rct2.scenery_group.scgshrub",
         "shape": "1/4"
     },
     "images": ["$RCT2:OBJDATA/TJB3.DAT[0..3]"],
