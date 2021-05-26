@@ -80,12 +80,6 @@ module ObjectExporter =
         | SourceTypes.TT -> "rct2tt"
         | _ -> "other"
 
-    let getOutputJsonPath basePath (obj: ObjectData) name =
-        Path.Combine(basePath,
-                     getSourceDirectoryName obj.Source,
-                     getObjTypeName obj.Type,
-                     name + ".json")
-
     let getLanguageName = function
         | 0 -> "en-GB"
         | 1 -> "en-US"
@@ -102,23 +96,20 @@ module ObjectExporter =
         | 13 -> "pt-BR"
         | i -> i.ToString()
 
-    let exportObject outputPath (ourStrings: IDictionary<string, IDictionary<string, string>>) (inputPath: string, (obj: ObjectData)) =
-        let inputFileName = Path.GetFileNameWithoutExtension(inputPath).ToUpper()
-        let objName = obj.ObjectHeader.FileName.ToUpper()
-        let objId = getObjId obj
-        let outputJsonPath = getOutputJsonPath outputPath obj objId
+    let getOriginalObjectIdString (hdr: ObjectDataHeader) =
+        String.Format("{0:X8}|{1,-8}|{2:X8}", hdr.Flags, hdr.FileName, hdr.Checksum)
 
-        sprintf "Exporting %s to %s" objName (Path.GetFullPath(outputJsonPath))
-        |> printWithColour ConsoleColor.DarkGray
+    let getAuthorsForSource source =
+        match source with
+        | SourceTypes.RCT2 ->
+            [|"Chris Sawyer"; "Simon Foster"|]
+        | SourceTypes.WW
+        | SourceTypes.TT ->
+            [|"Frontier Studios"|]
+        | _ ->
+            [||]
 
-        // Get RCT2 images
-        let numImages = obj.ImageDirectory.NumEntries
-        let images =
-            match obj.Type with
-            | ObjectTypes.Water -> null
-            | _ -> [| sprintf "$RCT2:OBJDATA/%s.DAT[%d..%d]" inputFileName 0 (numImages - 1) |]
-
-        // Get RCT2 strings
+    let getObjectStrings (obj: ObjectData) (ourStrings: IDictionary<string, IDictionary<string, string>>) =
         let getStrings index =
             let stringEntries = obj.StringTable.Entries
             match ResizeArray.tryItem index stringEntries with
@@ -173,29 +164,102 @@ module ObjectExporter =
         |> Seq.toArray
         |> Seq.iter (fun kvp -> strings.Remove(kvp.Key) |> ignore)
 
-        let authors =
-            match obj.Source with
-            | SourceTypes.RCT2 ->
-                [|"Chris Sawyer"; "Simon Foster"|]
-            | SourceTypes.WW
-            | SourceTypes.TT ->
-                [|"Frontier Studios"|]
-            | _ ->
-                [||]
+        // Return
+        strings
 
-        let originalId =
-            let hdr = obj.ObjectHeader
-            String.Format("{0:X8}|{1,-8}|{2:X8}", hdr.Flags, hdr.FileName, hdr.Checksum)
+    let exportImages (obj: ObjectData) basePath =
+        let numImages = obj.GraphicsData.NumImages
+        for i in 0..numImages - 1 do
+            let img = obj.GraphicsData.GetPaletteImage(i)
+            let src = img.Pixels
+            let fileName = sprintf "%d.png" i
+            let dir = Path.Combine(basePath, "images")
+            let path = Path.Combine(dir, fileName)
+
+            sprintf "Exporting %s..." fileName
+            |> printWithColour ConsoleColor.DarkGray
+
+            if not (Directory.Exists dir) then
+                Directory.CreateDirectory(dir) |> ignore
+
+            let image = new SixLabors.ImageSharp.Image<SixLabors.ImageSharp.PixelFormats.Rgba32>(img.Width, img.Height)
+            for y in 0..img.Height - 1 do
+                let dst = image.GetPixelRowSpan(y)
+                for x in 0..img.Width - 1 do
+                    let paletteIndex = src.[x, y]
+                    // let p32: uint = (0xFFu <<< 24) ||| (paletteIndex <<< 16) ||| (paletteIndex <<< 8) ||| (paletteIndex <<< 0)
+                    let p32 = ImageExporter.getPaletteColour paletteIndex
+                    dst.[x] <- SixLabors.ImageSharp.PixelFormats.Rgba32 p32
+
+            use fs = new FileStream(path, FileMode.Create)
+            image.Save(fs, new SixLabors.ImageSharp.Formats.Png.PngEncoder())
+
+    let exportParkObject outputPath (ourStrings: IDictionary<string, IDictionary<string, string>>) (inputPath: string) (obj: ObjectData) =
+        let inputFileName = Path.GetFileNameWithoutExtension(inputPath).ToUpper()
+        let objName = obj.ObjectHeader.FileName.ToUpper()
+        let objId = getObjId obj
+        let outputJsonPath = Path.Combine(outputPath, "object.json")
+
+        sprintf "Exporting %s to %s" objName (Path.GetFullPath(outputJsonPath))
+        |> printWithColour ConsoleColor.DarkGray
+
+        exportImages obj outputPath
+
+        // Get RCT2 images
+        let numImages = obj.ImageDirectory.NumEntries
+        // let images =
+        //     match obj.Type with
+        //     | ObjectTypes.Water -> null
+        //     | _ -> [| sprintf "$RCT2:OBJDATA/%s.DAT[%d..%d]" inputFileName 0 (numImages - 1) |]
+        let images =
+            [| for i in 0..numImages do
+                   sprintf "images/%d.png" i |]
 
         let properties = getProperties obj
         let jobj = { id = objId
-                     authors = authors
+                     authors = getAuthorsForSource obj.Source
                      version = "1.0"
-                     originalId = originalId
+                     originalId = getOriginalObjectIdString obj.ObjectHeader
                      objectType = getObjTypeName obj.Type
                      properties = properties
                      images = images
-                     strings = strings }
+                     strings = getObjectStrings obj ourStrings }
+
+        let json = serializeToJson jobj + Environment.NewLine
+        Directory.CreateDirectory(Path.GetDirectoryName(outputJsonPath)) |> ignore
+        File.WriteAllText(outputJsonPath, json, UTF8NoBOM)
+
+    let exportObject outputPath (ourStrings: IDictionary<string, IDictionary<string, string>>) (inputPath: string) (obj: ObjectData) =
+        let getOutputJsonPath basePath (obj: ObjectData) name =
+            Path.Combine(basePath,
+                         getSourceDirectoryName obj.Source,
+                         getObjTypeName obj.Type,
+                         name + ".json")
+
+        let inputFileName = Path.GetFileNameWithoutExtension(inputPath).ToUpper()
+        let objName = obj.ObjectHeader.FileName.ToUpper()
+        let objId = getObjId obj
+        let outputJsonPath = getOutputJsonPath outputPath obj objId
+
+        sprintf "Exporting %s to %s" objName (Path.GetFullPath(outputJsonPath))
+        |> printWithColour ConsoleColor.DarkGray
+
+        // Get RCT2 images
+        let numImages = obj.ImageDirectory.NumEntries
+        let images =
+            match obj.Type with
+            | ObjectTypes.Water -> null
+            | _ -> [| sprintf "$RCT2:OBJDATA/%s.DAT[%d..%d]" inputFileName 0 (numImages - 1) |]
+
+        let properties = getProperties obj
+        let jobj = { id = objId
+                     authors = getAuthorsForSource obj.Source
+                     version = "1.0"
+                     originalId = getOriginalObjectIdString obj.ObjectHeader
+                     objectType = getObjTypeName obj.Type
+                     properties = properties
+                     images = images
+                     strings = getObjectStrings obj ourStrings }
 
         let json = serializeToJson jobj + Environment.NewLine
         Directory.CreateDirectory(Path.GetDirectoryName(outputJsonPath)) |> ignore
@@ -211,52 +275,86 @@ module ObjectExporter =
             printfn "Unable to create '%s': %s" path ex.Message
             false
 
+    type FileTypeResult = Directory | File
+
     let exportObjects path outputPath options =
-        if not (Directory.Exists(path)) then
+        // Load new object strings from OpenRCT2
+        let objectStrings =
+            match options.languageDirectory with
+            | None -> dict []
+            | Some dir ->
+                sprintf "Reading object strings from '%s'" dir
+                |> printWithColour ConsoleColor.Cyan
+                Localisation.getOpenObjectStrings dir
+
+        let shouldObjectBeProcessed =
+            match options.objectType with
+            | None ->
+                (fun _ -> true)
+            | Some includeType ->
+                (fun (obj: ObjectData) -> includeType = getObjTypeName obj.Type)
+
+        let getOverrideStringsForObject (obj: ObjectData) =
+            match objectStrings.TryGetValue obj.ObjectHeader.FileName with
+            | true, value -> value
+            | _ -> dict []
+
+        let getFileType path =
+            if File.GetAttributes(path).HasFlag(FileAttributes.Directory) then
+                Some Directory
+            elif File.Exists(path) then
+                Some File
+            else
+                None
+
+        let measureTime fn =
+            let sw = Stopwatch.StartNew()
+            let result = fn ()
+            sw.Stop()
+            (result, sw.Elapsed.TotalSeconds)
+
+        match getFileType path with
+        | Some File ->
+            // Export object
+            if not (createDirectory outputPath) then
+                printfn "'%s' does not exist" path
+                1
+            else
+                sprintf "Exporting object from '%s' to '%s'" path outputPath
+                |> printWithColour ConsoleColor.Cyan
+                let (_, time) = measureTime (fun () ->
+                    let obj = ObjectData.FromFile(path)
+                    let strings = getOverrideStringsForObject obj
+                    exportParkObject outputPath strings path obj)
+                sprintf "Object exported in %.1fs" time
+                |> printWithColour ConsoleColor.Green
+                0
+        | Some Directory ->
+            // Export all objects found in path
+            if not (createDirectory outputPath) then
+                printfn "'%s' does not exist" path
+                1
+            else
+                let processObject (path, (obj: ObjectData)) =
+                    if not (isNull obj) && obj.Type <> ObjectTypes.ScenarioText && shouldObjectBeProcessed obj then
+                        let strings = getOverrideStringsForObject obj
+                        exportObject outputPath strings path obj
+                        Some ()
+                    else
+                        None
+
+                sprintf "Exporting objects from '%s' to '%s'" path outputPath
+                |> printWithColour ConsoleColor.Cyan
+                let (numObj, time) = measureTime (fun () ->
+                    Directory.GetFiles(path)
+                    |> Array.map (fun path -> (path, ObjectData.FromFile(path)))
+                    |> match options.multithreaded with
+                       | true -> Array.Parallel.choose processObject
+                       | false -> Array.choose processObject
+                    |> Array.length)
+                sprintf "%d objects exported in %.1fs" numObj time
+                |> printWithColour ConsoleColor.Green
+                0
+        | _ ->
             printfn "'%s' does not exist" path
             1
-        elif not (createDirectory outputPath) then
-            1
-        else
-            // Load new object strings from OpenRCT2
-            let objectStrings =
-                match options.languageDirectory with
-                | None -> dict []
-                | Some dir ->
-                    sprintf "Reading object strings from '%s'" dir
-                    |> printWithColour ConsoleColor.Cyan
-                    Localisation.getOpenObjectStrings dir
-
-            let shouldObjectBeProcessed =
-                match options.objectType with
-                | None ->
-                    (fun _ -> true)
-                | Some includeType ->
-                    (fun (obj: ObjectData) -> includeType = getObjTypeName obj.Type)
-
-            let processObject (path, (obj: ObjectData)) =
-                if not (isNull obj) && obj.Type <> ObjectTypes.ScenarioText && shouldObjectBeProcessed obj then
-                    let strings =
-                        match objectStrings.TryGetValue obj.ObjectHeader.FileName with
-                        | true, value -> value
-                        | _ -> dict []
-                    exportObject outputPath strings (path, obj)
-                    Some ()
-                else
-                    None
-
-            // Export all objects found in path
-            sprintf "Exporting objects from '%s' to '%s'" path outputPath
-            |> printWithColour ConsoleColor.Cyan
-            let sw = Stopwatch.StartNew()
-            let numObj =
-                Directory.GetFiles(path)
-                |> Array.map (fun path -> (path, ObjectData.FromFile(path)))
-                |> match options.multithreaded with
-                   | true -> Array.Parallel.choose processObject
-                   | false -> Array.choose processObject
-                |> Array.length
-            sw.Stop()
-            sprintf "%d objects exported in %.1fs" numObj sw.Elapsed.TotalSeconds
-            |> printWithColour ConsoleColor.Green
-            0
