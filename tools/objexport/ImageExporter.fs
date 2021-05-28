@@ -1,5 +1,12 @@
 ﻿module ImageExporter
 
+open RCT2ObjectData.Objects
+open System.IO
+open RCT2ObjectData.Drawing
+open SixLabors.ImageSharp
+open SixLabors.ImageSharp.PixelFormats
+open System.Runtime.Serialization
+
 let exportPalette = [|
     0uy; 0uy; 0uy; 0uy;
     1uy; 1uy; 1uy; 255uy;
@@ -258,10 +265,102 @@ let exportPalette = [|
     75uy; 207uy; 255uy; 255uy;
     255uy; 255uy; 255uy; 255uy |]
 
-let getPaletteColour (index: byte) =
+let private getPaletteColour (index: byte) =
     let offset = int index * 4
     let r = uint exportPalette.[offset]
     let g = uint exportPalette.[offset + 1]
     let b = uint exportPalette.[offset + 2]
     let a = uint exportPalette.[offset + 3]
     (a <<< 24) ||| (r <<< 16) ||| (g <<< 8) ||| (b <<< 0)
+
+let private drawSprite (sprite: PaletteImage) (sx: int) (sy: int) (image: Image<Rgba32>) =
+    let src = sprite.Pixels
+    for y in 0..sprite.Height - 1 do
+        let dst = image.GetPixelRowSpan(sy + y)
+        for x in 0..sprite.Width - 1 do
+            let paletteIndex = src.[x, y]
+            let p32 = getPaletteColour paletteIndex
+            dst.[sx + x] <- Rgba32 p32
+    image
+
+let private saveImage (path: string) (image: Image<Rgba32>) =
+    use fs = new FileStream(path, FileMode.Create)
+    image.Save(fs, new SixLabors.ImageSharp.Formats.Png.PngEncoder())
+
+[<DataContract>]
+type AtlasPlacement =
+    { index: int
+      [<DataMember>]
+      path: string
+      [<DataMember>]
+      srcX: int
+      [<DataMember>]
+      srcY: int
+      [<DataMember>]
+      srcWidth: int
+      [<DataMember>]
+      srcHeight: int
+      [<DataMember>]
+      x: int
+      [<DataMember>]
+      y: int }
+
+module AtlasPlacement =
+    let getRight p = p.srcX + p.srcWidth
+    let getBottom p = p.srcY + p.srcHeight
+
+let getImagePlacements path numImages (getSprite: int -> PaletteImage) =
+    let mutable x = 0
+    let mutable y = 0
+    let mutable lineHeight = 0
+    let mutable maxWidth = 0
+    let mutable placements = []
+    for i in 0..numImages - 1 do
+        let sprite = getSprite i
+        if x + sprite.Width >= 1024 then
+            x <- 0
+            y <- y + lineHeight
+            lineHeight <- 0
+
+        let p =
+            { index = i
+              path = path
+              srcX = x
+              srcY = y
+              srcWidth = sprite.Width
+              srcHeight = sprite.Height
+              x = sprite.XOffset
+              y = sprite.YOffset }
+        placements <- p :: placements
+        x <- x + sprite.Width
+        lineHeight <- max lineHeight sprite.Height
+        maxWidth <- max maxWidth x
+
+    placements
+    |> List.rev
+
+let exportImages (obj: ObjectData) basePath println =
+    let numImages = obj.GraphicsData.NumImages
+    let getSprite i = obj.GraphicsData.GetPaletteImage(i)
+    let filename = "images.png"
+    let path = Path.Combine(basePath, filename)
+    let placements = getImagePlacements filename numImages getSprite
+
+    sprintf "Exporting %s..." "images.png"
+    |> println
+
+    let imageWidth =
+        placements
+        |> List.maxBy AtlasPlacement.getRight
+        |> AtlasPlacement.getRight
+    let imageHeight =
+        placements
+        |> List.maxBy AtlasPlacement.getBottom
+        |> AtlasPlacement.getBottom
+    let image = new Image<Rgba32>(imageWidth, imageHeight)
+    for p in placements do
+        let sprite = getSprite p.index
+        image |> drawSprite sprite p.srcX p.srcY |> ignore
+    image |> saveImage path
+
+    placements

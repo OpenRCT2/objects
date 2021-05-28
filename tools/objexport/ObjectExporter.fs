@@ -167,33 +167,6 @@ module ObjectExporter =
         // Return
         strings
 
-    let exportImages (obj: ObjectData) basePath =
-        let numImages = obj.GraphicsData.NumImages
-        for i in 0..numImages - 1 do
-            let img = obj.GraphicsData.GetPaletteImage(i)
-            let src = img.Pixels
-            let fileName = sprintf "%d.png" i
-            let dir = Path.Combine(basePath, "images")
-            let path = Path.Combine(dir, fileName)
-
-            sprintf "Exporting %s..." fileName
-            |> printWithColour ConsoleColor.DarkGray
-
-            if not (Directory.Exists dir) then
-                Directory.CreateDirectory(dir) |> ignore
-
-            let image = new SixLabors.ImageSharp.Image<SixLabors.ImageSharp.PixelFormats.Rgba32>(img.Width, img.Height)
-            for y in 0..img.Height - 1 do
-                let dst = image.GetPixelRowSpan(y)
-                for x in 0..img.Width - 1 do
-                    let paletteIndex = src.[x, y]
-                    // let p32: uint = (0xFFu <<< 24) ||| (paletteIndex <<< 16) ||| (paletteIndex <<< 8) ||| (paletteIndex <<< 0)
-                    let p32 = ImageExporter.getPaletteColour paletteIndex
-                    dst.[x] <- SixLabors.ImageSharp.PixelFormats.Rgba32 p32
-
-            use fs = new FileStream(path, FileMode.Create)
-            image.Save(fs, new SixLabors.ImageSharp.Formats.Png.PngEncoder())
-
     let exportParkObject outputPath (ourStrings: IDictionary<string, IDictionary<string, string>>) (inputPath: string) (obj: ObjectData) =
         let inputFileName = Path.GetFileNameWithoutExtension(inputPath).ToUpper()
         let objName = obj.ObjectHeader.FileName.ToUpper()
@@ -203,7 +176,8 @@ module ObjectExporter =
         sprintf "Exporting %s to %s" objName (Path.GetFullPath(outputJsonPath))
         |> printWithColour ConsoleColor.DarkGray
 
-        exportImages obj outputPath
+        let images =
+            ImageExporter.exportImages obj outputPath (printWithColour ConsoleColor.DarkGray)
 
         // Get RCT2 images
         let numImages = obj.ImageDirectory.NumEntries
@@ -211,9 +185,9 @@ module ObjectExporter =
         //     match obj.Type with
         //     | ObjectTypes.Water -> null
         //     | _ -> [| sprintf "$RCT2:OBJDATA/%s.DAT[%d..%d]" inputFileName 0 (numImages - 1) |]
-        let images =
-            [| for i in 0..numImages do
-                   sprintf "images/%d.png" i |]
+        // let images =
+        //     [| for i in 0..numImages do
+        //            sprintf "images/%d.png" i |]
 
         let properties = getProperties obj
         let jobj = { id = objId
