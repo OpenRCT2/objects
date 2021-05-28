@@ -27,7 +27,7 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           properties: obj
           [<DataMember(EmitDefaultValue = false)>]
-          images: string[]
+          images: obj
           [<DataMember(EmitDefaultValue = false)>]
           strings: IDictionary<string, IDictionary<string, string>> }
 
