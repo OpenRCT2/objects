@@ -1,11 +1,14 @@
 ﻿module ImageExporter
 
-open RCT2ObjectData.Objects
+open System
 open System.IO
-open RCT2ObjectData.Drawing
-open SixLabors.ImageSharp
-open SixLabors.ImageSharp.PixelFormats
 open System.Runtime.Serialization
+open RCT2ObjectData.Drawing
+open RCT2ObjectData.Objects
+open SixLabors.ImageSharp
+open SixLabors.ImageSharp.Formats.Png
+open SixLabors.ImageSharp.PixelFormats
+open SixLabors.ImageSharp.Processing.Processors.Quantization
 
 let exportPalette = [|
     0uy; 0uy; 0uy; 0uy;
@@ -265,13 +268,13 @@ let exportPalette = [|
     75uy; 207uy; 255uy; 255uy;
     255uy; 255uy; 255uy; 255uy |]
 
-let private getPaletteColour (index: byte) =
+let private getPaletteColour (index: byte): Rgba32 =
     let offset = int index * 4
     let r = uint exportPalette.[offset]
     let g = uint exportPalette.[offset + 1]
     let b = uint exportPalette.[offset + 2]
     let a = uint exportPalette.[offset + 3]
-    (a <<< 24) ||| (r <<< 16) ||| (g <<< 8) ||| (b <<< 0)
+    Rgba32 ((a <<< 24) ||| (r <<< 16) ||| (g <<< 8) ||| (b <<< 0))
 
 let private drawSprite (sprite: PaletteImage) (sx: int) (sy: int) (image: Image<Rgba32>) =
     let src = sprite.Pixels
@@ -279,13 +282,20 @@ let private drawSprite (sprite: PaletteImage) (sx: int) (sy: int) (image: Image<
         let dst = image.GetPixelRowSpan(sy + y)
         for x in 0..sprite.Width - 1 do
             let paletteIndex = src.[x, y]
-            let p32 = getPaletteColour paletteIndex
-            dst.[sx + x] <- Rgba32 p32
+            dst.[sx + x] <- getPaletteColour paletteIndex
     image
+
+let private palette: ReadOnlyMemory<Color> =
+    let colors =
+        [|0uy..255uy|]
+        |> Array.map (getPaletteColour >> Color)
+    new ReadOnlyMemory<Color>(colors)
 
 let private saveImage (path: string) (image: Image<Rgba32>) =
     use fs = new FileStream(path, FileMode.Create)
-    image.Save(fs, new SixLabors.ImageSharp.Formats.Png.PngEncoder())
+    let quantizer = new PaletteQuantizer(palette)
+    let encoder = new PngEncoder(Quantizer = quantizer, ColorType = PngColorType.Palette)
+    image.Save(fs, encoder)
 
 [<DataContract>]
 type AtlasPlacement =
