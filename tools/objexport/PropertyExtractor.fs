@@ -16,6 +16,8 @@ module Seq =
         else
             (items |> Seq.toList) :> obj
 
+type FootpathSplitChild = FootpathSurface | FootpathQueue | FootpathRailings
+
 module PropertyExtractor =
 
     open System
@@ -668,15 +670,35 @@ module PropertyExtractor =
     ///////////////////////////////////////////////////////////////////////////
     // Footpath
     ///////////////////////////////////////////////////////////////////////////
-    let getFootpath (footpath: Footpath) =
-        let getSupportType (flags: FootpathFlags) =
-            if flags.HasFlag(FootpathFlags.PoleSupports) then "pole" else "box"
+    let getSupportType (flags: FootpathFlags) =
+        if flags.HasFlag(FootpathFlags.PoleSupports) then "pole" else "box"
 
+    let getFootpath (footpath: Footpath) =
         { hasSupportImages = footpath.Header.Flags.HasFlag(FootpathFlags.PoleBase)
           hasElevatedPathImages = footpath.Header.Flags.HasFlag(FootpathFlags.OverlayPath)
           editorOnly = footpath.Header.Flags.HasFlag(FootpathFlags.Hidden)
           supportType = getSupportType footpath.Header.Flags
           scrollingMode = int footpath.Header.Reserved1 }
+
+    let getFootpathSplit (splitChild: FootpathSplitChild) (footpath: Footpath) =
+        match splitChild with
+        | FootpathSurface ->
+            { editorOnly = footpath.Header.Flags.HasFlag(FootpathFlags.Hidden)
+              isQueue = false
+              noSlopeRailings = false }
+            :> obj
+        | FootpathQueue ->
+            { editorOnly = footpath.Header.Flags.HasFlag(FootpathFlags.Hidden)
+              isQueue = true
+              noSlopeRailings = false }
+            :> obj
+        | FootpathRailings ->
+            { hasSupportImages = footpath.Header.Flags.HasFlag(FootpathFlags.PoleBase)
+              hasElevatedPathImages = footpath.Header.Flags.HasFlag(FootpathFlags.OverlayPath)
+              supportType = getSupportType footpath.Header.Flags
+              scrollingMode = int footpath.Header.Reserved1
+              colour = null }
+            :> obj
 
     ///////////////////////////////////////////////////////////////////////////
     // Footpath item

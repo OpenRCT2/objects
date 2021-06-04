@@ -32,7 +32,8 @@ module ObjectExporter =
     type ObjectExporterOptions =
         { languageDirectory: string option
           objectType: string option
-          multithreaded: bool }
+          multithreaded: bool
+          splitFootpaths: bool }
 
     let printWithColour (c: ConsoleColor) (s: string) =
         let oldColour = Console.ForegroundColor
@@ -52,14 +53,29 @@ module ObjectExporter =
         jsonSerializer.Serialize(jsonWriter, value, typedefof<'a>)
         sw.ToString()
 
-    let getObjId (obj: ObjectData) =
-        let prefix =
+    let createDirectory path =
+        try
+            if not (Directory.Exists path) then
+                Directory.CreateDirectory(path) |> ignore
+            true
+        with
+        | ex ->
+            printfn "Unable to create '%s': %s" path ex.Message
+            false
+
+    let getObjId (groupPrefix: string) (suffix: string) (obj: ObjectData) =
+        let sourcePrefix =
             match obj.Source with
-            | SourceTypes.RCT2 -> "rct2."
-            | SourceTypes.WW -> "rct2.ww."
-            | SourceTypes.TT -> "rct2.tt."
-            | _ -> "other."
-        prefix + obj.ObjectHeader.FileName.ToLower()
+            | SourceTypes.RCT2 -> "rct2"
+            | SourceTypes.WW -> "rct2.ww"
+            | SourceTypes.TT -> "rct2.tt"
+            | _ -> "other"
+
+        let name = obj.ObjectHeader.FileName.ToLower()
+
+        [sourcePrefix; groupPrefix; name; suffix]
+        |> List.filter (String.IsNullOrEmpty >> not)
+        |> String.concat "."
 
     let getObjTypeName = function
         | ObjectTypes.Attraction -> "ride"
@@ -167,41 +183,74 @@ module ObjectExporter =
         // Return
         strings
 
-    let exportParkObject outputPath (ourStrings: IDictionary<string, IDictionary<string, string>>) (inputPath: string) (obj: ObjectData) =
-        let inputFileName = Path.GetFileNameWithoutExtension(inputPath).ToUpper()
-        let objName = obj.ObjectHeader.FileName.ToUpper()
-        let objId = getObjId obj
-        let outputJsonPath = Path.Combine(outputPath, "object.json")
+    let exportParkObject outputPath (ourStrings: IDictionary<string, IDictionary<string, string>>) (inputPath: string) (obj: ObjectData) (options: ObjectExporterOptions) =
+        let exportSubObject splitKind objId =
+            let outputPath = Path.Combine(outputPath, objId)
+            let objName = obj.ObjectHeader.FileName.ToUpper()
+            let outputJsonPath = Path.Combine(outputPath, "object.json")
 
-        sprintf "Exporting %s to %s" objName (Path.GetFullPath(outputJsonPath))
-        |> printWithColour ConsoleColor.DarkGray
+            sprintf "Exporting %s to %s" objName (Path.GetFullPath(outputJsonPath))
+            |> printWithColour ConsoleColor.DarkGray
 
-        let images =
-            ImageExporter.exportImages obj outputPath (printWithColour ConsoleColor.DarkGray)
+            if createDirectory outputPath then
+                let images =
+                    let println = printWithColour ConsoleColor.DarkGray
+                    let numImages = obj.GraphicsData.NumImages
+                    let ids =
+                        match splitKind with
+                        | Some FootpathSurface -> 71 :: [0..50]
+                        | Some FootpathQueue -> 72 :: [51..70]
+                        | Some FootpathRailings ->
+                            let footpathObj = obj :?> Footpath
+                            let flags = footpathObj.Header.Flags
+                            let hasPoleSupports = flags.HasFlag(FootpathFlags.PoleSupports)
+                            let hasSupportImages = flags.HasFlag(FootpathFlags.PoleBase)
+                            let hasElevatedPathImages = flags.HasFlag(FootpathFlags.OverlayPath)
+                            if hasPoleSupports then
+                                if hasSupportImages then
+                                    71 :: [73..164]
+                                else
+                                    71 :: [73..145]
+                            else
+                                71 :: [73..167]
+                        | None -> [0..numImages - 1]
+                    obj |> ImageExporter.exportImages ids outputPath println
 
-        // Get RCT2 images
-        let numImages = obj.ImageDirectory.NumEntries
-        // let images =
-        //     match obj.Type with
-        //     | ObjectTypes.Water -> null
-        //     | _ -> [| sprintf "$RCT2:OBJDATA/%s.DAT[%d..%d]" inputFileName 0 (numImages - 1) |]
-        // let images =
-        //     [| for i in 0..numImages do
-        //            sprintf "images/%d.png" i |]
+                let properties =
+                    match splitKind with
+                    | Some kind -> obj :?> Footpath |> getFootpathSplit kind
+                    | None -> obj |> getProperties
 
-        let properties = getProperties obj
-        let jobj = { id = objId
-                     authors = getAuthorsForSource obj.Source
-                     version = "1.0"
-                     originalId = getOriginalObjectIdString obj.ObjectHeader
-                     objectType = getObjTypeName obj.Type
-                     properties = properties
-                     images = images
-                     strings = getObjectStrings obj ourStrings }
+                let objectType =
+                    match splitKind with
+                    | Some FootpathSurface
+                    | Some FootpathQueue -> "footpath_surface"
+                    | Some FootpathRailings -> "footpath_railings"
+                    | None -> getObjTypeName obj.Type
 
-        let json = serializeToJson jobj + Environment.NewLine
-        Directory.CreateDirectory(Path.GetDirectoryName(outputJsonPath)) |> ignore
-        File.WriteAllText(outputJsonPath, json, UTF8NoBOM)
+                let originalId =
+                    match splitKind with
+                    | Some _ -> null
+                    | None -> getOriginalObjectIdString obj.ObjectHeader
+
+                let jobj = { id = objId
+                             authors = getAuthorsForSource obj.Source
+                             version = "1.0"
+                             originalId = originalId
+                             objectType = objectType
+                             properties = properties
+                             images = images
+                             strings = getObjectStrings obj ourStrings }
+
+                let json = serializeToJson jobj + Environment.NewLine
+                File.WriteAllText(outputJsonPath, json, UTF8NoBOM)
+
+        if obj.ObjectHeader.Type = ObjectTypes.Footpath && options.splitFootpaths then
+            exportSubObject (Some FootpathSurface) (obj |> getObjId "footpath_surface" "")
+            exportSubObject (Some FootpathQueue) (obj |> getObjId "footpath_surface" "queue")
+            exportSubObject (Some FootpathRailings) (obj |> getObjId "footpath_railings" "")
+        else
+            exportSubObject None (obj |> getObjId "" "")
 
     let exportObject outputPath (ourStrings: IDictionary<string, IDictionary<string, string>>) (inputPath: string) (obj: ObjectData) =
         let getOutputJsonPath basePath (obj: ObjectData) name =
@@ -212,7 +261,7 @@ module ObjectExporter =
 
         let inputFileName = Path.GetFileNameWithoutExtension(inputPath).ToUpper()
         let objName = obj.ObjectHeader.FileName.ToUpper()
-        let objId = getObjId obj
+        let objId = obj |> getObjId "" ""
         let outputJsonPath = getOutputJsonPath outputPath obj objId
 
         sprintf "Exporting %s to %s" objName (Path.GetFullPath(outputJsonPath))
@@ -238,16 +287,6 @@ module ObjectExporter =
         let json = serializeToJson jobj + Environment.NewLine
         Directory.CreateDirectory(Path.GetDirectoryName(outputJsonPath)) |> ignore
         File.WriteAllText(outputJsonPath, json, UTF8NoBOM)
-
-    let createDirectory path =
-        try
-            if not (Directory.Exists path) then
-                Directory.CreateDirectory(path) |> ignore
-            true
-        with
-        | ex ->
-            printfn "Unable to create '%s': %s" path ex.Message
-            false
 
     type FileTypeResult = Directory | File
 
@@ -299,7 +338,7 @@ module ObjectExporter =
                 let (_, time) = measureTime (fun () ->
                     let obj = ObjectData.FromFile(path)
                     let strings = getOverrideStringsForObject obj
-                    exportParkObject outputPath strings path obj)
+                    exportParkObject outputPath strings path obj options)
                 sprintf "Object exported in %.1fs" time
                 |> printWithColour ConsoleColor.Green
                 0

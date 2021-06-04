@@ -35,7 +35,8 @@ module internal Program =
     let parseOptions argv =
         { languageDirectory = getOptionSingle "--language" argv
           objectType = getOptionSingle "--type" argv
-          multithreaded = hasFlag "-j" argv }
+          multithreaded = hasFlag "-j" argv
+          splitFootpaths = hasFlag "--split" argv }
 
     [<EntryPoint>]
     let main argv =
@@ -46,8 +47,10 @@ module internal Program =
             exportObjects path outputPath (parseOptions options)
         | _ ->
             printfn "Usage: objexport <objects path> <output path> [options]"
+            printfn "                 <object path> <output path> [options]"
             printfn "Options:"
             printfn "  --language <dir>        Specify directory for language files"
             printfn "  --type <type>           Specify type of object to export"
+            printfn "  --split                 Split footpath into surface and railing objects"
             printfn "  -j                      Multithreaded"
             1

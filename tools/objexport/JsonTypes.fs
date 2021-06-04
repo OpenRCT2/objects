@@ -519,3 +519,25 @@ module JsonTypes =
           tiles: JLargeSceneryTile[]
           [<DataMember(EmitDefaultValue = false)>]
           ``3dFont``: JLargeSceneryFont option }
+
+    [<DataContract>]
+    type JFootpathSurfaceProperties =
+        { [<DataMember(EmitDefaultValue = false)>]
+          editorOnly: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          isQueue: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          noSlopeRailings: bool }
+
+    [<DataContract>]
+    type JFootpathRailingsProperties =
+        { [<DataMember(EmitDefaultValue = false)>]
+          hasSupportImages: bool
+          [<DataMember(EmitDefaultValue = false)>]
+          hasElevatedPathImages: bool
+          [<DataMember>]
+          supportType: string
+          [<DataMember>]
+          scrollingMode: int
+          [<DataMember(EmitDefaultValue = false)>]
+          colour: string }
