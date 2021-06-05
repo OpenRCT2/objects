@@ -39,6 +39,11 @@
                 "composer": "Traditional"
             },
             {
+                "source": "$RCT2:DATA/css10.dat",
+                "name": "Stars And Stripes Forever",
+                "composer": "John Philip Sousa"
+            },
+            {
                 "source": "$RCT2:DATA/css11.dat",
                 "name": "Das Alpenhorn",
                 "composer": "Traditional"
@@ -62,6 +67,11 @@
                 "source": "$RCT2:DATA/css15.dat",
                 "name": "Waltz Medley",
                 "composer": "Johann Strauss jr."
+            },
+            {
+                "source": "$RCT2:DATA/css16.dat",
+                "name": "Petersburger Schlittenfahrt",
+                "composer": "Richard Eilenberg"
             }
         ]
     },
