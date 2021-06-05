@@ -9,7 +9,9 @@
     },
     "images": [
         { "path": "preview.png", "x": 1, "y": 1 },
-        "$CSG[43371..43421]"
+        "$RCT2:OBJDATA/TARMAC.DAT[0..15]",
+        "$RCT2:OBJDATA/ROAD.DAT[16..19]",
+        "$RCT2:OBJDATA/TARMAC.DAT[20..50]"
     ],
     "strings": {
         "name": {
