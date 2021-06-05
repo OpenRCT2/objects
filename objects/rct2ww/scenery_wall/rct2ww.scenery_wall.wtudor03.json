@@ -6,11 +6,25 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_wall",
     "properties": {
+        "isDoubleSided": true,
         "isAllowedOnSlope": true,
         "height": 4,
         "price": 50
     },
-    "images": ["$RCT2:OBJDATA/WTUDOR03.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/WTUDOR04.DAT[0]",
+        "$RCT2:OBJDATA/WTUDOR03.DAT[1]",
+        "$RCT2:OBJDATA/WTUDOR04.DAT[2]",
+        "$RCT2:OBJDATA/WTUDOR03.DAT[3]",
+        "$RCT2:OBJDATA/WTUDOR04.DAT[4]",
+        "$RCT2:OBJDATA/WTUDOR03.DAT[5]",
+        "$RCT2:OBJDATA/WTUDOR03.DAT[0]",
+        "$RCT2:OBJDATA/WTUDOR04.DAT[1]",
+        "$RCT2:OBJDATA/WTUDOR03.DAT[2]",
+        "$RCT2:OBJDATA/WTUDOR04.DAT[3]",
+        "$RCT2:OBJDATA/WTUDOR03.DAT[4]",
+        "$RCT2:OBJDATA/WTUDOR04.DAT[5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Tudor Ground Floor Wall Piece 3",

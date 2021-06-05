@@ -6,10 +6,14 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_wall",
     "properties": {
+        "isDoubleSided": true,
         "height": 8,
         "price": 50
     },
-    "images": ["$RCT2:OBJDATA/TMARCH2.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/TMARCH1.DAT[0..5]",
+        "$RCT2:OBJDATA/TMARCH2.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Maharaja Palace Arch 2",
