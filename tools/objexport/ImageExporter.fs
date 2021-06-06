@@ -320,45 +320,47 @@ module AtlasPlacement =
     let getBottom p = p.srcY + p.srcHeight
 
 let getImagePlacements path ids (getSprite: int -> PaletteImage option) =
-    let mutable x = 0
-    let mutable y = 0
-    let mutable lineHeight = 0
-    let mutable maxWidth = 0
-    let mutable placements = []
-    for i in ids do
-        match getSprite i with
-        | Some sprite ->
-            if x + sprite.Width >= 1024 then
-                x <- 0
-                y <- y + lineHeight
-                lineHeight <- 0
+    let rec getImagePlacements ids x y lineHeight maxWidth placements =
+        match ids with
+        | id :: ids ->
+            match getSprite id with
+            | Some sprite ->
+                let (x, y, lineHeight) =
+                    if x + sprite.Width >= 1024 then
+                        (0, y + lineHeight, 0)
+                    else
+                        (x, y, lineHeight)
 
-            let p =
-                { index = i
-                  path = path
-                  srcX = x
-                  srcY = y
-                  srcWidth = sprite.Width
-                  srcHeight = sprite.Height
-                  x = sprite.XOffset
-                  y = sprite.YOffset }
-            placements <- p :: placements
-            x <- x + sprite.Width
-            lineHeight <- max lineHeight sprite.Height
-            maxWidth <- max maxWidth x
-        | None ->
-            let p =
-                { index = i
-                  path = path
-                  srcX = x
-                  srcY = y
-                  srcWidth = 0
-                  srcHeight = 0
-                  x = 0
-                  y = 0 }
-            placements <- p :: placements
+                let p =
+                    { index = id
+                      path = path
+                      srcX = x
+                      srcY = y
+                      srcWidth = sprite.Width
+                      srcHeight = sprite.Height
+                      x = sprite.XOffset
+                      y = sprite.YOffset }
+                let x = x + sprite.Width
+                let lineHeight = max lineHeight sprite.Height
+                let maxWidth = max maxWidth x
+                let placements = p :: placements
+                getImagePlacements ids x y lineHeight maxWidth placements
+            | None ->
+                let p =
+                    { index = id
+                      path = path
+                      srcX = x
+                      srcY = y
+                      srcWidth = 0
+                      srcHeight = 0
+                      x = 0
+                      y = 0 }
+                let placements = p :: placements
+                getImagePlacements ids x y lineHeight maxWidth placements
+        | [] ->
+            placements
 
-    placements
+    getImagePlacements ids 0 0 0 0 []
     |> List.rev
 
 let exportImages ids basePath println (obj: ObjectData) =
