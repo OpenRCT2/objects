@@ -36,7 +36,8 @@ module internal Program =
         { languageDirectory = getOptionSingle "--language" argv
           objectType = getOptionSingle "--type" argv
           multithreaded = hasFlag "-j" argv
-          splitFootpaths = hasFlag "--split" argv }
+          splitFootpaths = hasFlag "--split" argv
+          outputParkobj = hasFlag "-z" argv }
 
     [<EntryPoint>]
     let main argv =
@@ -53,4 +54,5 @@ module internal Program =
             printfn "  --type <type>           Specify type of object to export"
             printfn "  --split                 Split footpath into surface and railing objects"
             printfn "  -j                      Multithreaded"
+            printfn "  -z                      Create .parkobj files"
             1

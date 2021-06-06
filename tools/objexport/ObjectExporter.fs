@@ -33,7 +33,8 @@ module ObjectExporter =
         { languageDirectory: string option
           objectType: string option
           multithreaded: bool
-          splitFootpaths: bool }
+          splitFootpaths: bool
+          outputParkobj: bool }
 
     let printWithColour (c: ConsoleColor) (s: string) =
         let oldColour = Console.ForegroundColor
@@ -183,6 +184,13 @@ module ObjectExporter =
         // Return
         strings
 
+    let packageIntoParkobj path =
+        let parkobjPath = path + ".parkobj"
+        if File.Exists(parkobjPath) then
+            File.Delete(parkobjPath)
+        System.IO.Compression.ZipFile.CreateFromDirectory(path, parkobjPath)
+        Directory.Delete(path, true)
+
     let exportParkObject outputPath (ourStrings: IDictionary<string, IDictionary<string, string>>) (inputPath: string) (obj: ObjectData) (options: ObjectExporterOptions) =
         let exportSubObject splitKind objId =
             let outputPath = Path.Combine(outputPath, objId)
@@ -244,6 +252,9 @@ module ObjectExporter =
 
                 let json = serializeToJson jobj + Environment.NewLine
                 File.WriteAllText(outputJsonPath, json, UTF8NoBOM)
+
+                if options.outputParkobj then
+                    packageIntoParkobj outputPath
 
         if obj.ObjectHeader.Type = ObjectTypes.Footpath && options.splitFootpaths then
             exportSubObject (Some FootpathSurface) (obj |> getObjId "footpath_surface" "")
