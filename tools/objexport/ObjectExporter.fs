@@ -30,7 +30,9 @@ module ObjectExporter =
     open RCT2ObjectData.Objects.Types
 
     type ObjectExporterOptions =
-        { languageDirectory: string option
+        { id: string option
+          authors: string list
+          languageDirectory: string option
           objectType: string option
           multithreaded: bool
           splitFootpaths: bool
@@ -236,13 +238,18 @@ module ObjectExporter =
                     | Some FootpathRailings -> "footpath_railings"
                     | None -> getObjTypeName obj.Type
 
+                let authors =
+                    match options.authors with
+                    | [] -> getAuthorsForSource obj.Source
+                    | items -> items |> List.toArray
+
                 let originalId =
                     match splitKind with
                     | Some _ -> null
                     | None -> getOriginalObjectIdString obj.ObjectHeader
 
                 let jobj = { id = objId
-                             authors = getAuthorsForSource obj.Source
+                             authors = authors
                              version = "1.0"
                              originalId = originalId
                              objectType = objectType
@@ -257,11 +264,28 @@ module ObjectExporter =
                     packageIntoParkobj outputPath
 
         if obj.ObjectHeader.Type = ObjectTypes.Footpath && options.splitFootpaths then
-            exportSubObject (Some FootpathSurface) (obj |> getObjId "footpath_surface" "")
-            exportSubObject (Some FootpathQueue) (obj |> getObjId "footpath_surface" "queue")
-            exportSubObject (Some FootpathRailings) (obj |> getObjId "footpath_railings" "")
+            let (surfaceId, queueId, railingsId) =
+                match options.id with
+                | Some id ->
+                    let surfaceId = id + ".surface"
+                    let queueId = id + ".queue"
+                    let railingsId = id + ".railings"
+                    (surfaceId, queueId, railingsId)
+                | None ->
+                    let surfaceId = obj |> getObjId "footpath_surface" ""
+                    let queueId = obj |> getObjId "footpath_surface" "queue"
+                    let railingsId = obj |> getObjId "footpath_railings" ""
+                    (surfaceId, queueId, railingsId)
+
+            exportSubObject (Some FootpathSurface) surfaceId
+            exportSubObject (Some FootpathQueue) queueId
+            exportSubObject (Some FootpathRailings) railingsId
         else
-            exportSubObject None (obj |> getObjId "" "")
+            let id =
+                match options.id with
+                | Some id -> id
+                | None -> obj |> getObjId "" ""
+            exportSubObject None id
 
     let exportObject outputPath (ourStrings: IDictionary<string, IDictionary<string, string>>) (inputPath: string) (obj: ObjectData) =
         let getOutputJsonPath basePath (obj: ObjectData) name =
