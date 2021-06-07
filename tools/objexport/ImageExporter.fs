@@ -319,7 +319,85 @@ module AtlasPlacement =
     let getRight p = p.srcX + p.srcWidth
     let getBottom p = p.srcY + p.srcHeight
 
-let getImagePlacements path ids (getSprite: int -> PaletteImage option) =
+type Rect = {
+    left: int
+    top: int
+    right: int
+    bottom: int
+}
+
+type Sprite = {
+    id: int
+    image: PaletteImage option
+}
+
+let getImagePlacements2 path ids (getSprite: int -> PaletteImage option) =
+    let sprites =
+        ids
+        |> List.map (fun id -> { id = id; image = getSprite id })
+    let container =
+        { left = 0; top = 0; right = 1024; bottom = 2048 }
+
+    let createPlacement (sprite: Sprite) x y =
+        match sprite.image with
+        | Some image ->
+            { index = sprite.id
+              path = path
+              srcX = x
+              srcY = y
+              srcWidth = image.Width
+              srcHeight = image.Height
+              x = image.XOffset
+              y = image.YOffset }
+        | None ->
+            { index = sprite.id
+              path = path
+              srcX = x
+              srcY = y
+              srcWidth = 0
+              srcHeight = 0
+              x = 0
+              y = 0 }
+
+    let rec packRight placements (container: Rect) (sprites: Sprite list) =
+        match sprites with
+        | head :: tail ->
+            match head.image with
+            | Some image ->
+                if container.top + image.Height <= container.bottom then
+                    if image.Width <= container.right - container.left then
+                        let x = container.left
+                        let y = container.top
+                        let p = createPlacement head x y
+                        let placements = p :: placements
+                        let container = { container with left = x + image.Width; bottom = y + image.Height }
+                        let (placements, tail, _) = packRects placements container tail
+                        Some (placements, tail,  container.bottom)
+                else
+                    None
+            | None ->
+                let p = createPlacement head container.left container.top
+                let placements = p :: placements
+                packRight placements container tail
+        | [] ->
+            None
+
+    and packRects placements (container: Rect) (sprites: Sprite list) =
+        match packRight placements container sprites with
+        | Some (placements, sprites, bottom) ->
+
+        | None ->
+
+
+    let r =
+        packRects [] container sprites
+        |> fun (x, y, z) -> x
+        |> List.rev
+
+    // printfn "%A" r
+    r
+
+let getImagePlacements1 path ids (getSprite: int -> PaletteImage option) =
     let rec getImagePlacements ids x y lineHeight maxWidth placements =
         match ids with
         | id :: ids ->
@@ -362,6 +440,8 @@ let getImagePlacements path ids (getSprite: int -> PaletteImage option) =
 
     getImagePlacements ids 0 0 0 0 []
     |> List.rev
+
+let getImagePlacements = getImagePlacements2
 
 let exportImages ids basePath println (obj: ObjectData) =
     let getSprite i =
