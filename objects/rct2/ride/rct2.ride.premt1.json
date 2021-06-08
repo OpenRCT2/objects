@@ -109,7 +109,7 @@
             "ja-JP": "リニアモーターコースター",
             "pl-PL": "Kolejka z napędem liniowym",
             "ru-RU": "Горки на LIM",
-            "eo-OO": "Trajnoj de Onda Fervojo Lanĉitaj per LIM-oj"
+            "eo-ZZ": "Trajnoj de Onda Fervojo Lanĉitaj per LIM-oj"
         },
         "description": {
             "en-GB": "Roller coaster trains that are accelerated by linear induction motors",
@@ -127,7 +127,7 @@
             "ja-JP": "リニアモーターで急速発進するローラーコースターで、加速してひねりのある反転を走行します",
             "pl-PL": "Wagoniki są rozpędzane za pomocą magnetycznego silnika liniowego i podróżują tam i z powrotem po zakręconym torze",
             "ru-RU": "Поезда, разгоняемые от станции линейным индукционным мотором.",
-            "eo-OO": "Trajnoj de onda fervojo, kiujn linearaj induktaj motoroj plirapidigas"
+            "eo-ZZ": "Trajnoj de onda fervojo, kiujn linearaj induktaj motoroj plirapidigas"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -145,7 +145,7 @@
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-OO": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
         }
     }
 }

@@ -141,7 +141,7 @@
             "ja-JP": "エレベーター",
             "pl-PL": "Winda",
             "ru-RU": "Лифт",
-            "eo-OO": "Liftokajuto"
+            "eo-ZZ": "Liftokajuto"
         },
         "description": {
             "en-GB": "Steel lift cabin",
@@ -159,7 +159,7 @@
             "ja-JP": "垂直なタワーの各階を移動する際のエレベーターです",
             "pl-PL": "Pasażerowie jeżdżą w dół lub w górę windą w wieży, aby przejść z jednego poziomu na drugi",
             "ru-RU": "Гости переезжают с уровня на уровень",
-            "eo-OO": "Ŝtala liftokajuto"
+            "eo-ZZ": "Ŝtala liftokajuto"
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -177,7 +177,7 @@
             "ja-JP": "定員16名",
             "pl-PL": "16 pasażerów",
             "ru-RU": "16 пассажиров",
-            "eo-OO": "16 pasaĝeroj"
+            "eo-ZZ": "16 pasaĝeroj"
         }
     }
 }
