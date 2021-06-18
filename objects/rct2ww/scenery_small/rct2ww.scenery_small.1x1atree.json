@@ -10,12 +10,8 @@
         "removalPrice": 15,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 48,
-        "sceneryGroup": "rct2.scenery_group.scgtrees",
-        "isTree": true,
+        "sceneryGroup": "rct2.scenery_group.scgshrub",
         "shape": "4/4",
-        "isRotatable": true,
-        "hasPrimaryColour": true,
-        "isStackable": true,
         "hasNoSupports": true
     },
     "images": ["$RCT2:OBJDATA/1X1ATREE.DAT[0..3]"],

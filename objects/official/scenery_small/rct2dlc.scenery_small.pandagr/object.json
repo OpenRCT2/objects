@@ -10,6 +10,8 @@
         "removalPrice": -14,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 64,
+        "sceneryGroup": "rct2.scenery_group.scgtrees",
+        "isTree": true,
         "shape": "1/4",
         "isStackable": true,
         "hasNoSupports": true

@@ -10,6 +10,8 @@
         "removalPrice": 14,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 64,
+        "sceneryGroup": "rct2.scenery_group.scgtrees",
+        "isTree": true,
         "shape": "4/4"
     },
     "images": ["$RCT2:OBJDATA/TSP1.DAT[0..3]"],

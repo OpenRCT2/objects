@@ -13,9 +13,6 @@
         "sceneryGroup": "rct2.scenery_group.scgtrees",
         "isTree": true,
         "shape": "4/4",
-        "isRotatable": true,
-        "hasPrimaryColour": true,
-        "isStackable": true,
         "hasNoSupports": true
     },
     "images": ["$RCT2:OBJDATA/1X1ATRE2.DAT[0..3]"],
