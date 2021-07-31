@@ -16,8 +16,7 @@
         "isRotatable": true,
         "isStackable": true,
         "prohibitWalls": true,
-        "hasNoSupports": true,
-        "allowSupportsAbove": true
+        "hasNoSupports": true
     },
     "images": [
         { "path": "images/0.png", "x": -32, "y": -9 },
