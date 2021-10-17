@@ -1,0 +1,19 @@
+{
+  "id": "openrct2.footpath_surface.invisible",
+  "authors": ["OpenRCT2 developers"],
+  "version": "1.0",
+  "sourceGame": ["official"],
+  "objectType": "footpath_surface",
+  "properties": {
+    "noSlopeRailings": true
+  },
+  "images": [
+    "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
+  ],
+  "strings": {
+    "name": {
+      "en-GB": "Invisible path",
+      "nl-NL": "Onzichtbaar pad"
+    }
+  }
+}
