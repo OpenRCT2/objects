@@ -8,6 +8,7 @@
     "properties": {
         "type": "food_stall",
         "category": "stall",
+        "clearance": 32,
         "sells": "cookie",
         "disablePainting": true,
         "carsPerFlatRide": 1,

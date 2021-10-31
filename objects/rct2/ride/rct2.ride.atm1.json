@@ -8,6 +8,7 @@
     "properties": {
         "type": "cash_machine",
         "category": "stall",
+        "clearance": 64,
         "carsPerFlatRide": 1,
         "carColours": [
             [

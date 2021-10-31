@@ -8,6 +8,7 @@
     "properties": {
         "type": "food_stall",
         "category": "stall",
+        "clearance": 48,
         "sells": "roast_sausage",
         "disablePainting": true,
         "carsPerFlatRide": 1,

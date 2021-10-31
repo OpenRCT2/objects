@@ -8,6 +8,7 @@
     "properties": {
         "type": "food_stall",
         "category": "stall",
+        "clearance": 56,
         "sells": "beef_noodles",
         "disablePainting": true,
         "carsPerFlatRide": 1,

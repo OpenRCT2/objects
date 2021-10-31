@@ -8,6 +8,7 @@
     "properties": {
         "type": "drink_stall",
         "category": "stall",
+        "clearance": 56,
         "sells": "iced_tea",
         "disablePainting": true,
         "carsPerFlatRide": 1,

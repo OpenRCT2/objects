@@ -8,6 +8,7 @@
     "properties": {
         "type": "drink_stall",
         "category": "stall",
+        "clearance": 48,
         "sells": "soybean_milk",
         "disablePainting": true,
         "carsPerFlatRide": 1,

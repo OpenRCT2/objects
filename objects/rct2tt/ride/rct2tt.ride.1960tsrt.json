@@ -8,6 +8,7 @@
     "properties": {
         "type": "shop",
         "category": "stall",
+        "clearance": 40,
         "sells": "tshirt",
         "carsPerFlatRide": 1,
         "carColours": [

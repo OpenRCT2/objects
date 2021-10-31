@@ -8,6 +8,7 @@
     "properties": {
         "type": "drink_stall",
         "category": "stall",
+        "clearance": 56,
         "sells": "fruit_juice",
         "disablePainting": true,
         "carsPerFlatRide": 1,

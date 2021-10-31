@@ -8,6 +8,7 @@
     "properties": {
         "type": "food_stall",
         "category": "stall",
+        "clearance": 40,
         "sells": "wonton_soup",
         "disablePainting": true,
         "carsPerFlatRide": 1,

@@ -8,6 +8,7 @@
     "properties": {
         "type": "information_kiosk",
         "category": "stall",
+        "clearance": 48,
         "sells": [
             "map",
             "umbrella"

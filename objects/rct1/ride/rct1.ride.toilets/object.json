@@ -7,7 +7,8 @@
     "objectType": "ride",
     "properties": {
         "type": "toilets",
-        "category": "stall"
+        "category": "stall",
+        "clearance": 32
     },
     "images": [
         { "path": "images/preview.png", "format": "raw" },

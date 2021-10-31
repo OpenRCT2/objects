@@ -8,6 +8,7 @@
     "properties": {
         "type": "first_aid",
         "category": "stall",
+        "clearance": 48,
         "carsPerFlatRide": 1,
         "carColours": [
             [
