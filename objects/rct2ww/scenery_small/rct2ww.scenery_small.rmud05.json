@@ -22,21 +22,21 @@
     "images": ["$RCT2:OBJDATA/RMUD05.DAT[0..3]"],
     "strings": {
         "name": {
-            "en-GB": "Mud Roof Piece",
-            "fr-FR": "Pan de toit de terre",
-            "de-DE": "Schlammdach-Bauteil",
-            "es-ES": "Pieza de tejado de barro",
-            "it-IT": "Pezzo di tetto di fango",
-            "nl-NL": "Stuk dak van Aarde",
-            "sv-SE": "Del av jordtak",
-            "zh-CN": "泥顶",
-            "cs-CZ": "Střecha z bahna",
-            "ko-KR": "진흙 지붕 조각",
-            "pl-PL": "Gliniany segment dachu",
-            "ru-RU": "Деталь крыши",
-            "pt-BR": "Peça de Telhado de Barro",
-            "ja-JP": "泥の屋",
-            "eo-ZZ": "Parto de Tegmento el Koto"
+            "en-GB": "Wattle & Daub Roof",
+            "fr-FR": "Toit en clayonnage",
+            "de-DE": "Lehmflechtwerk-Dach",
+            "es-ES": "Tejado de entramado pintado",
+            "it-IT": "Tetto di canne e fango",
+            "nl-NL": "Vitselstekdak",
+            "sv-SE": "Flätverk, tak",
+            "zh-CN": "泥芭屋顶",
+            "cs-CZ": "Hliněná střecha",
+            "ko-KR": "초벽 지붕",
+            "pl-PL": "Dach z tynkowanej plecionki",
+            "ru-RU": "Крыша",
+            "pt-BR": "Telhado de Pau a Pique",
+            "ja-JP": "土壁の屋",
+            "eo-ZZ": "Tegmento el hurdoj kaj tero"
         }
     }
 }
