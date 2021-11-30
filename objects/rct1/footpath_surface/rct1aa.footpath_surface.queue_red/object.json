@@ -11,6 +11,10 @@
         { "path": "preview.png", "x": 1, "y": 1 },
         "$CSG[43251..43270]"
     ],
+    "noCsgImages": [
+        { "path": "preview.png", "x": 1, "y": 1 },
+        "$RCT2:OBJDATA/PATHSPCE.DAT[51..70]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Queue (Red)",

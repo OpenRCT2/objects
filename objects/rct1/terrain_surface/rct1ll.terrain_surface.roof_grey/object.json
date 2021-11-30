@@ -12,6 +12,11 @@
         { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
         "$CSG[42147..42203]"
     ],
+    "noCsgImages": [
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        "$G1[28989..28994]",
+        "$G1[2542..2598]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Roof (Grey)",

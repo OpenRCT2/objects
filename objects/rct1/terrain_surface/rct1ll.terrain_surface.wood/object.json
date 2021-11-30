@@ -21,6 +21,11 @@
         "$CSG[42261..42300]",
         "$CSG[42301..42374]"
     ],
+    "noCsgImages": [
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        "$G1[28977..28982]",
+        "$G1[2485..2541]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Wood",

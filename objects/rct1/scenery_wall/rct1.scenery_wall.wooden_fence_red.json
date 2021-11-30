@@ -13,6 +13,7 @@
         "sceneryGroup": "rct2.scenery_group.scgfence"
     },
     "images": ["$CSG[63131..63137]"],
+    "noCsgImages": ["$RCT2:OBJDATA/WPW2.DAT[0..5]"],
     "strings": {
         "name": {
             "en-GB": "Wooden Fence",

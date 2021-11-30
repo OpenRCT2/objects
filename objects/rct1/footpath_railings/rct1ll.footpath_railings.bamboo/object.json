@@ -18,6 +18,10 @@
         "$CSG[45238..45257]",
         "$G1[3658..3674]"
     ],
+    "noCsgImages": [
+        { "path": "preview.png", "x": 1, "y": 1 },
+        "$RCT2:OBJDATA/PATHDIRT.DAT[73..145]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Bamboo Railings (yellow)",

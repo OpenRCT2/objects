@@ -11,6 +11,10 @@
         { "path": "preview.png", "x": 1, "y": 1 },
         "$CSG[43473..43523]"
     ],
+    "noCsgImages": [
+        { "path": "preview.png", "x": 1, "y": 1 },
+        "$RCT2:OBJDATA/PATHSPCE.DAT[0..50]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Red Tarmac Footpath",

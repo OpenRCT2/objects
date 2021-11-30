@@ -11,6 +11,10 @@
         { "path": "preview.png", "x": 1, "y": 1 },
         "$CSG[44085..44135]"
     ],
+    "noCsgImages": [
+        { "path": "preview.png", "x": 1, "y": 1 },
+        "$RCT2:OBJDATA/TARMACG.DAT[0..50]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Green and Brown Tiled Footpath",

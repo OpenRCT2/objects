@@ -13,6 +13,10 @@
         { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
         "$CSG[41238..41405]"
     ],
+    "noCsgImages": [
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        "$G1[1579..1746]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Stucco (Purple)",
