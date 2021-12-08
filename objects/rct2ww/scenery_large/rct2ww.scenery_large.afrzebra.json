@@ -24,7 +24,13 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/1X2ZEBRA.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/1X2ZEBRA.DAT[1]",
+        "$RCT2:OBJDATA/1X2ZEBRA.DAT[2]",
+        "$RCT2:OBJDATA/1X2ZEBRA.DAT[3]",
+        "$RCT2:OBJDATA/1X2ZEBRA.DAT[0]",
+        "$RCT2:OBJDATA/1X2ZEBRA.DAT[4..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Zebra",

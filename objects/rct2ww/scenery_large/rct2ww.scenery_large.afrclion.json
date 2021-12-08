@@ -24,7 +24,13 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/1X2LION.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/1X2LION.DAT[1]",
+        "$RCT2:OBJDATA/1X2LION.DAT[2]",
+        "$RCT2:OBJDATA/1X2LION.DAT[3]",
+        "$RCT2:OBJDATA/1X2LION.DAT[0]",
+        "$RCT2:OBJDATA/1X2LION.DAT[4..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Lion",

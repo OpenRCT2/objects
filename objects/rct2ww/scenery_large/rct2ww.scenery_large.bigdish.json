@@ -76,7 +76,13 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/BIGDISH.DAT[0..39]"],
+    "images": [
+        "$RCT2:OBJDATA/BIGDISH.DAT[1]",
+        "$RCT2:OBJDATA/BIGDISH.DAT[2]",
+        "$RCT2:OBJDATA/BIGDISH.DAT[0]",
+        "$RCT2:OBJDATA/BIGDISH.DAT[3]",
+        "$RCT2:OBJDATA/BIGDISH.DAT[4..39]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Satellite Dish",
