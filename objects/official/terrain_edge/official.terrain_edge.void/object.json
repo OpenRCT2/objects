@@ -6,7 +6,6 @@
     "objectType": "terrain_edge",
     "properties": {
     },
-
     "images": [
         { "path": "images/icon.png", "format": "raw", "x": 2, "y": 2 },
 	{ "path": "images/01.png", "x": -2, "y": -15 },
