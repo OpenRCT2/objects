@@ -6,7 +6,8 @@
     "sourceGame": "official",
     "objectType": "terrain_surface",
     "properties": {
-        "price": 100
+        "price": 100,
+        "mapColours": [10, 10]
     },
     "images": [
         { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },

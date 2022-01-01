@@ -6,7 +6,8 @@
     "sourceGame": "rct1aa",
     "objectType": "terrain_surface",
     "properties": {
-        "price": 100
+        "price": 100,
+        "mapColours": [113, 113]
     },
     "images": [
         { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
