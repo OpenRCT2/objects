@@ -41,7 +41,13 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/GDSTAUE2.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/GDSTAUE2.DAT[0]",
+        "$RCT2:OBJDATA/GDSTAUE2.DAT[2]",
+        "$RCT2:OBJDATA/GDSTAUE2.DAT[3]",
+        "$RCT2:OBJDATA/GDSTAUE2.DAT[1]",
+        "$RCT2:OBJDATA/GDSTAUE2.DAT[4..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Gold Statue 2",
