@@ -7,6 +7,7 @@
     "objectType": "terrain_surface",
     "properties": {
         "price": 120,
+        "mapColours": [12, 12],
         "smoothWithOther": true
     },
     "images": [

@@ -7,6 +7,7 @@
     "objectType": "terrain_surface",
     "properties": {
         "price": 100,
+        "mapColours": [108, 108],
         "special": [
             { "rotation": 1, "index": 3 },
             { "rotation": 1, "grid": true, "index": 4 },
