@@ -69,7 +69,13 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/TIGRTWST.DAT[0..2594]"],
+    "images": [
+        "$RCT2:OBJDATA/TIGRTWST.DAT[0..16]",
+        { "path": "images/17-1329-fixed.png", "x": -21, "y":-13 },
+        "$RCT2:OBJDATA/TIGRTWST.DAT[18..1328]",
+        { "path": "images/17-1329-fixed.png", "x": -21, "y":-13 },
+        "$RCT2:OBJDATA/TIGRTWST.DAT[1330..2594]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Bengal Tiger Cars",
