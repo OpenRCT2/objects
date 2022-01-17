@@ -7,6 +7,7 @@
     "objectType": "music",
     "properties": {
         "originalStyleId": 0,
+        "niceFactor": -1,
         "tracks": [
             {
                 "source": "$RCT2:DATA/css3.dat",
