@@ -78,7 +78,7 @@ module internal Program =
     [<EntryPoint>]
     let main argv =
         System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance)
-        printfn "RCT2 object to json exporter"
+        printfn "RCT2 object to .json / .parkobj exporter"
         match Array.toList argv with
         | path :: outputPath :: options ->
             exportObjects path outputPath (parseOptions options)

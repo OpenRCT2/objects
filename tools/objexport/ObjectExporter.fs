@@ -361,9 +361,14 @@ module ObjectExporter =
             sw.Stop()
             (result, sw.Elapsed.TotalSeconds)
 
-        match getFileType path with
-        | Some File ->
-            // Export object
+        let tryReadObjectData path =
+            try
+                ObjectData.FromFile(path) |> Some
+            with
+            | _ ->
+                None
+
+        let exportSingleObject () =
             if not (createDirectory outputPath) then
                 printfn "'%s' does not exist" path
                 1
@@ -377,13 +382,13 @@ module ObjectExporter =
                 sprintf "Object exported in %.1fs" time
                 |> printWithColour ConsoleColor.Green
                 0
-        | Some Directory ->
-            // Export all objects found in path
+
+        let exportAllObjects () =
             if not (createDirectory outputPath) then
                 printfn "'%s' does not exist" path
                 1
             else
-                let processObject (path, (obj: ObjectData)) =
+                let processObject path (obj: ObjectData) =
                     if not (isNull obj) && obj.Type <> ObjectTypes.ScenarioText && shouldObjectBeProcessed obj then
                         let strings = getOverrideStringsForObject obj
                         exportObject outputPath strings path obj
@@ -391,18 +396,33 @@ module ObjectExporter =
                     else
                         None
 
+                let readAndProcessObject path =
+                    match tryReadObjectData path with
+                    | Some objdata ->
+                        processObject path objdata
+                    | None ->
+                        sprintf "Unable to read object data for %s" path
+                        |> printWithColour ConsoleColor.Red
+                        None
+
                 sprintf "Exporting objects from '%s' to '%s'" path outputPath
                 |> printWithColour ConsoleColor.Cyan
                 let (numObj, time) = measureTime (fun () ->
                     Directory.GetFiles(path)
-                    |> Array.map (fun path -> (path, ObjectData.FromFile(path)))
+                    |> Array.where (fun x -> x.EndsWith(".dat", StringComparison.OrdinalIgnoreCase))
                     |> match options.multithreaded with
-                       | true -> Array.Parallel.choose processObject
-                       | false -> Array.choose processObject
+                       | true -> Array.Parallel.choose readAndProcessObject
+                       | false -> Array.choose readAndProcessObject
                     |> Array.length)
                 sprintf "%d objects exported in %.1fs" numObj time
                 |> printWithColour ConsoleColor.Green
                 0
+
+        match getFileType path with
+        | Some File ->
+            exportSingleObject ()
+        | Some Directory ->
+            exportAllObjects ()
         | _ ->
             printfn "'%s' does not exist" path
             1
