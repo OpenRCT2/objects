@@ -277,7 +277,7 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           hasSecondaryColour: bool
           [<DataMember(EmitDefaultValue = false)>]
-          hasTernaryColour: bool
+          hasTertiaryColour: bool
           [<DataMember(EmitDefaultValue = false)>]
           hasGlass: bool
           [<DataMember(EmitDefaultValue = false)>]
