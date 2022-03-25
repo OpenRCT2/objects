@@ -10,6 +10,7 @@
         "category": "stall",
         "clearance": 32,
         "sells": "toy",
+        "disablePainting": true,
         "carsPerFlatRide": 1,
         "carColours": [
             [
