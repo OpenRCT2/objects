@@ -15,7 +15,12 @@
         "hasPrimaryColour": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/TNT4.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TNT4.DAT[0]",
+        "$RCT2:OBJDATA/TNT4.DAT[2]",
+        "$RCT2:OBJDATA/TNT4.DAT[1]",
+        "$RCT2:OBJDATA/TNT4.DAT[3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "TNT Crates",
