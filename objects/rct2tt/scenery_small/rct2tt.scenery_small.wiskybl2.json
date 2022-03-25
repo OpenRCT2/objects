@@ -17,7 +17,12 @@
         "isStackable": true,
         "prohibitWalls": true
     },
-    "images": ["$RCT2:OBJDATA/WISKYBL2.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/WISKYBL2.DAT[0]",
+        "$RCT2:OBJDATA/WISKYBL2.DAT[2]",
+        "$RCT2:OBJDATA/WISKYBL2.DAT[1]",
+        "$RCT2:OBJDATA/WISKYBL2.DAT[3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Whisky Barrels",
