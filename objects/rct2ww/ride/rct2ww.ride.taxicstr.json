@@ -18,13 +18,7 @@
         "tailCars": 2,
         "carColours": [
             [
-                ["white", "bright_red", "yellow"]
-            ],
-            [
-                ["bright_red", "dark_green", "black"]
-            ],
-            [
-                ["yellow", "black", "bright_red"]
+                ["black", "black", "yellow"]
             ]
         ],
         "cars": [
