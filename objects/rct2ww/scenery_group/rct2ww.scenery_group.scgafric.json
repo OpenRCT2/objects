@@ -112,7 +112,8 @@
             "rct2ww.scenery_large.3x3atre3",
             "rct2ww.scenery_large.3x3altre"
         ],
-        "priority": 25
+        "priority": 25,
+        "entertainerCostumes": "gorilla"
     },
     "images": ["$RCT2:OBJDATA/SCGAFRIC.DAT[0..1]"],
     "strings": {
