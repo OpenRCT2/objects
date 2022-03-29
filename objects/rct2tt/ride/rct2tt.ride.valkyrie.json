@@ -12,10 +12,7 @@
         "maxCarsPerTrain": 3,
         "carColours": [
             [
-                ["black", "light_orange", "light_orange"]
-            ],
-            [
-                ["light_purple", "bright_red", "black"]
+                ["black", "black", "light_brown"]
             ]
         ],
         "cars": {
