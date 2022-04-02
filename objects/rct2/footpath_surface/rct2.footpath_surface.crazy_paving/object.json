@@ -2,7 +2,7 @@
     "id": "rct2.footpath_surface.crazy_paving",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": "rct2",
     "objectType": "footpath_surface",
     "images": [
         { "path": "preview.png", "x": 1, "y": 1 },
