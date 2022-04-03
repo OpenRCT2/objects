@@ -9,6 +9,7 @@
         "type": "miniature_railway",
         "category": "transport",
         "tabScale": 0.5,
+        "hasShelter": true,
         "playDepartSound": true,
         "noCollisionCrashes": true,
         "minCarsPerTrain": 3,
@@ -19,9 +20,6 @@
             0,
             1
         ],
-        "ratingMultipler": {
-            "excitement": 3
-        },
         "carColours": [
             [
                 ["yellow", "bordeaux_red", "bright_yellow"]
@@ -69,7 +67,6 @@
                     "gentleSlopes": true,
                     "diagonalSlopes": true
                 },
-                "isPoweredRideWithUnrestrictedGravity": true,
                 "hasAdditionalColour1": true,
                 "isPowered": true
             },
