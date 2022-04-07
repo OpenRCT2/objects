@@ -1,0 +1,7141 @@
+{
+    "id": "openrct2.ride.alp1",
+    "version": "1.0",
+    "authors": [
+        "Edward Calver"
+    ],
+    "objectType": "ride",
+    "sourceGame":"official",
+    "properties": {
+        "type": [
+            "alpine_rc"
+        ],
+        "category": "transport",
+        "minCarsPerTrain": 1,
+        "maxCarsPerTrain": 1,
+        "numEmptyCars": 0,
+        "tabCar": 0,
+        "defaultCar": 0,
+        "buildMenuPriority": 5,
+        "noCollisionCrashes": true,
+        "riderControlsSpeed": true,
+        "carColours": [
+            [
+                [
+                    "bright_red",
+                    "bright_red",
+                    "yellow"
+                ]
+            ],
+            [
+                [
+                    "light_blue",
+                    "black",
+                    "light_orange"
+                ]
+            ],
+            [
+                [
+                    "yellow",
+                    "yellow",
+                    "bright_red"
+                ]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 31,
+                "spacing": 150931,
+                "mass": 450,
+                "numSeats": 2,
+                "numSeatRows": 1,
+                "frictionSoundId": 2,
+                "soundRange": 0,
+                "drawOrder": 7,
+                "frames": {
+                    "flat": true,
+                    "gentleSlopes": true,
+                    "diagonalSlopes": true,
+                    "flatBanked": true,
+                    "flatToGentleSlopeBankedTransitions": true,
+                    "diagonalGentleSlopeBankedTransitions": true
+                },
+                "loadingPositions": [
+                    -1,
+                    1
+                ]
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Alpine Coaster Cars"
+        },
+        "description": {
+            "en-GB": "Wheeled sleds equipped with manually operated brakes"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car"
+        }
+    },
+    "images": [
+        {
+            "path": "images/preview.png",
+            "x": 0,
+            "y": 0,
+            "palette": "keep"
+        },
+        {
+            "path": "images/preview.png",
+            "x": 0,
+            "y": 0,
+            "palette": "keep"
+        },
+        {
+            "path": "images/preview.png",
+            "x": 0,
+            "y": 0,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -9,
+            "srcX": 180,
+            "srcY": 209,
+            "srcWidth": 19,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -10,
+            "srcX": 96,
+            "srcY": 316,
+            "srcWidth": 21,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -11,
+            "srcX": 26,
+            "srcY": 156,
+            "srcWidth": 23,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -12,
+            "srcX": 26,
+            "srcY": 169,
+            "srcWidth": 23,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -13,
+            "srcX": 26,
+            "srcY": 183,
+            "srcWidth": 23,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -14,
+            "srcX": 26,
+            "srcY": 197,
+            "srcWidth": 23,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -15,
+            "srcX": 26,
+            "srcY": 212,
+            "srcWidth": 23,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 96,
+            "srcY": 329,
+            "srcWidth": 21,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -16,
+            "srcX": 180,
+            "srcY": 221,
+            "srcWidth": 19,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -17,
+            "srcX": 238,
+            "srcY": 332,
+            "srcWidth": 17,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -18,
+            "srcX": 337,
+            "srcY": 387,
+            "srcWidth": 13,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -18,
+            "srcX": 400,
+            "srcY": 168,
+            "srcWidth": 10,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -18,
+            "srcX": 400,
+            "srcY": 190,
+            "srcWidth": 10,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -18,
+            "srcX": 400,
+            "srcY": 212,
+            "srcWidth": 10,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -18,
+            "srcX": 337,
+            "srcY": 409,
+            "srcWidth": 13,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -17,
+            "srcX": 238,
+            "srcY": 352,
+            "srcWidth": 17,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 180,
+            "srcY": 240,
+            "srcWidth": 19,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -16,
+            "srcX": 96,
+            "srcY": 347,
+            "srcWidth": 21,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -15,
+            "srcX": 26,
+            "srcY": 229,
+            "srcWidth": 23,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -14,
+            "srcX": 26,
+            "srcY": 246,
+            "srcWidth": 23,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -13,
+            "srcX": 26,
+            "srcY": 261,
+            "srcWidth": 23,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -12,
+            "srcX": 26,
+            "srcY": 275,
+            "srcWidth": 23,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -11,
+            "srcX": 26,
+            "srcY": 289,
+            "srcWidth": 23,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -10,
+            "srcX": 96,
+            "srcY": 365,
+            "srcWidth": 21,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -9,
+            "srcX": 180,
+            "srcY": 259,
+            "srcWidth": 19,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -9,
+            "srcX": 238,
+            "srcY": 372,
+            "srcWidth": 17,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -9,
+            "srcX": 351,
+            "srcY": 0,
+            "srcWidth": 13,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -9,
+            "srcX": 377,
+            "srcY": 111,
+            "srcWidth": 11,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -9,
+            "srcX": 400,
+            "srcY": 234,
+            "srcWidth": 10,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -9,
+            "srcX": 377,
+            "srcY": 124,
+            "srcWidth": 11,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -9,
+            "srcX": 351,
+            "srcY": 13,
+            "srcWidth": 13,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -9,
+            "srcX": 238,
+            "srcY": 384,
+            "srcWidth": 17,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -10,
+            "srcX": 139,
+            "srcY": 95,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -15,
+            "srcX": 139,
+            "srcY": 110,
+            "srcWidth": 20,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -15,
+            "srcX": 139,
+            "srcY": 126,
+            "srcWidth": 20,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -10,
+            "srcX": 139,
+            "srcY": 142,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -12,
+            "srcX": 180,
+            "srcY": 271,
+            "srcWidth": 19,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -17,
+            "srcX": 180,
+            "srcY": 285,
+            "srcWidth": 19,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -17,
+            "srcX": 180,
+            "srcY": 307,
+            "srcWidth": 19,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -12,
+            "srcX": 180,
+            "srcY": 329,
+            "srcWidth": 19,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -11,
+            "srcX": 139,
+            "srcY": 157,
+            "srcWidth": 20,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -10,
+            "srcX": 26,
+            "srcY": 302,
+            "srcWidth": 23,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -14,
+            "y": -10,
+            "srcX": 0,
+            "srcY": 234,
+            "srcWidth": 24,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -15,
+            "y": -9,
+            "srcX": 0,
+            "srcY": 0,
+            "srcWidth": 26,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -15,
+            "y": -9,
+            "srcX": 0,
+            "srcY": 52,
+            "srcWidth": 25,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -15,
+            "y": -10,
+            "srcX": 0,
+            "srcY": 13,
+            "srcWidth": 26,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -14,
+            "y": -11,
+            "srcX": 0,
+            "srcY": 249,
+            "srcWidth": 24,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -13,
+            "srcX": 26,
+            "srcY": 318,
+            "srcWidth": 23,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -14,
+            "srcX": 139,
+            "srcY": 174,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -15,
+            "srcX": 238,
+            "srcY": 396,
+            "srcWidth": 17,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -15,
+            "srcX": 351,
+            "srcY": 26,
+            "srcWidth": 13,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -16,
+            "srcX": 400,
+            "srcY": 247,
+            "srcWidth": 10,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -16,
+            "srcX": 400,
+            "srcY": 263,
+            "srcWidth": 10,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -16,
+            "srcX": 400,
+            "srcY": 279,
+            "srcWidth": 10,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -15,
+            "srcX": 351,
+            "srcY": 41,
+            "srcWidth": 13,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -15,
+            "srcX": 238,
+            "srcY": 411,
+            "srcWidth": 17,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -14,
+            "srcX": 139,
+            "srcY": 189,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -13,
+            "srcX": 26,
+            "srcY": 332,
+            "srcWidth": 23,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -11,
+            "srcX": 0,
+            "srcY": 262,
+            "srcWidth": 24,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -10,
+            "srcX": 0,
+            "srcY": 26,
+            "srcWidth": 26,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -9,
+            "srcX": 0,
+            "srcY": 64,
+            "srcWidth": 25,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -9,
+            "srcX": 0,
+            "srcY": 39,
+            "srcWidth": 26,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -10,
+            "srcX": 0,
+            "srcY": 275,
+            "srcWidth": 24,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -10,
+            "srcX": 26,
+            "srcY": 346,
+            "srcWidth": 23,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -11,
+            "srcX": 139,
+            "srcY": 204,
+            "srcWidth": 20,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -11,
+            "srcX": 256,
+            "srcY": 0,
+            "srcWidth": 17,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -12,
+            "srcX": 322,
+            "srcY": 273,
+            "srcWidth": 14,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -12,
+            "srcX": 377,
+            "srcY": 137,
+            "srcWidth": 11,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -12,
+            "srcX": 400,
+            "srcY": 295,
+            "srcWidth": 10,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -12,
+            "srcX": 377,
+            "srcY": 156,
+            "srcWidth": 11,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -12,
+            "srcX": 322,
+            "srcY": 292,
+            "srcWidth": 14,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -11,
+            "srcX": 256,
+            "srcY": 18,
+            "srcWidth": 17,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -14,
+            "srcX": 219,
+            "srcY": 42,
+            "srcWidth": 18,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -14,
+            "srcX": 139,
+            "srcY": 221,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -15,
+            "srcX": 73,
+            "srcY": 222,
+            "srcWidth": 22,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -15,
+            "srcX": 73,
+            "srcY": 239,
+            "srcWidth": 22,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -15,
+            "srcX": 73,
+            "srcY": 256,
+            "srcWidth": 22,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 73,
+            "srcY": 274,
+            "srcWidth": 22,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 73,
+            "srcY": 294,
+            "srcWidth": 22,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -17,
+            "srcX": 139,
+            "srcY": 236,
+            "srcWidth": 20,
+            "srcHeight": 23,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -17,
+            "srcX": 219,
+            "srcY": 57,
+            "srcWidth": 18,
+            "srcHeight": 24,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -17,
+            "srcX": 273,
+            "srcY": 150,
+            "srcWidth": 16,
+            "srcHeight": 24,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -17,
+            "srcX": 351,
+            "srcY": 56,
+            "srcWidth": 13,
+            "srcHeight": 25,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -17,
+            "srcX": 377,
+            "srcY": 175,
+            "srcWidth": 11,
+            "srcHeight": 25,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -17,
+            "srcX": 400,
+            "srcY": 314,
+            "srcWidth": 10,
+            "srcHeight": 25,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -17,
+            "srcX": 377,
+            "srcY": 200,
+            "srcWidth": 11,
+            "srcHeight": 25,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -17,
+            "srcX": 351,
+            "srcY": 81,
+            "srcWidth": 13,
+            "srcHeight": 25,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -17,
+            "srcX": 273,
+            "srcY": 174,
+            "srcWidth": 16,
+            "srcHeight": 24,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -17,
+            "srcX": 219,
+            "srcY": 81,
+            "srcWidth": 18,
+            "srcHeight": 24,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -17,
+            "srcX": 139,
+            "srcY": 259,
+            "srcWidth": 20,
+            "srcHeight": 23,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -16,
+            "srcX": 73,
+            "srcY": 315,
+            "srcWidth": 22,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -16,
+            "srcX": 73,
+            "srcY": 336,
+            "srcWidth": 22,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -15,
+            "srcX": 73,
+            "srcY": 356,
+            "srcWidth": 22,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -15,
+            "srcX": 73,
+            "srcY": 374,
+            "srcWidth": 22,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -15,
+            "srcX": 73,
+            "srcY": 391,
+            "srcWidth": 22,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -14,
+            "srcX": 139,
+            "srcY": 282,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -14,
+            "srcX": 219,
+            "srcY": 105,
+            "srcWidth": 18,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -13,
+            "srcX": 273,
+            "srcY": 198,
+            "srcWidth": 16,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -13,
+            "srcX": 351,
+            "srcY": 106,
+            "srcWidth": 13,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -13,
+            "srcX": 377,
+            "srcY": 225,
+            "srcWidth": 11,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -13,
+            "srcX": 400,
+            "srcY": 339,
+            "srcWidth": 10,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -13,
+            "srcX": 377,
+            "srcY": 238,
+            "srcWidth": 11,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -13,
+            "srcX": 351,
+            "srcY": 120,
+            "srcWidth": 13,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -13,
+            "srcX": 273,
+            "srcY": 212,
+            "srcWidth": 16,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -12,
+            "srcX": 0,
+            "srcY": 290,
+            "srcWidth": 24,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -17,
+            "srcX": 400,
+            "srcY": 352,
+            "srcWidth": 10,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -12,
+            "srcX": 0,
+            "srcY": 76,
+            "srcWidth": 25,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -10,
+            "srcX": 400,
+            "srcY": 371,
+            "srcWidth": 10,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -14,
+            "srcX": 26,
+            "srcY": 362,
+            "srcWidth": 23,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -18,
+            "srcX": 400,
+            "srcY": 386,
+            "srcWidth": 10,
+            "srcHeight": 23,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -14,
+            "srcX": 26,
+            "srcY": 378,
+            "srcWidth": 23,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -10,
+            "srcX": 400,
+            "srcY": 409,
+            "srcWidth": 10,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -14,
+            "y": -10,
+            "srcX": 0,
+            "srcY": 90,
+            "srcWidth": 25,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -17,
+            "srcX": 400,
+            "srcY": 421,
+            "srcWidth": 10,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -10,
+            "srcX": 0,
+            "srcY": 103,
+            "srcWidth": 25,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -11,
+            "srcX": 411,
+            "srcY": 0,
+            "srcWidth": 10,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -15,
+            "srcX": 73,
+            "srcY": 408,
+            "srcWidth": 22,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -18,
+            "srcX": 411,
+            "srcY": 17,
+            "srcWidth": 10,
+            "srcHeight": 25,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -15,
+            "srcX": 96,
+            "srcY": 0,
+            "srcWidth": 22,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -12,
+            "srcX": 411,
+            "srcY": 42,
+            "srcWidth": 10,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -17,
+            "y": -11,
+            "srcX": 26,
+            "srcY": 394,
+            "srcWidth": 23,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -10,
+            "srcX": 411,
+            "srcY": 55,
+            "srcWidth": 10,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -11,
+            "srcX": 26,
+            "srcY": 412,
+            "srcWidth": 23,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -13,
+            "srcX": 411,
+            "srcY": 67,
+            "srcWidth": 10,
+            "srcHeight": 23,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -16,
+            "srcX": 273,
+            "srcY": 226,
+            "srcWidth": 16,
+            "srcHeight": 23,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -14,
+            "srcX": 411,
+            "srcY": 90,
+            "srcWidth": 10,
+            "srcHeight": 25,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 273,
+            "srcY": 249,
+            "srcWidth": 16,
+            "srcHeight": 23,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -17,
+            "srcX": 411,
+            "srcY": 115,
+            "srcWidth": 10,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -10,
+            "srcX": 139,
+            "srcY": 297,
+            "srcWidth": 20,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -14,
+            "srcX": 50,
+            "srcY": 0,
+            "srcWidth": 23,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -17,
+            "srcX": 180,
+            "srcY": 343,
+            "srcWidth": 19,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -18,
+            "srcX": 411,
+            "srcY": 134,
+            "srcWidth": 10,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -15,
+            "srcX": 139,
+            "srcY": 309,
+            "srcWidth": 20,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -11,
+            "srcX": 50,
+            "srcY": 14,
+            "srcWidth": 23,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -8,
+            "srcX": 180,
+            "srcY": 362,
+            "srcWidth": 19,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -9,
+            "srcX": 411,
+            "srcY": 156,
+            "srcWidth": 10,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -8,
+            "srcX": 180,
+            "srcY": 374,
+            "srcWidth": 19,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -11,
+            "srcX": 50,
+            "srcY": 27,
+            "srcWidth": 23,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -15,
+            "srcX": 139,
+            "srcY": 328,
+            "srcWidth": 20,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -18,
+            "srcX": 411,
+            "srcY": 169,
+            "srcWidth": 10,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -17,
+            "srcX": 180,
+            "srcY": 386,
+            "srcWidth": 19,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -14,
+            "srcX": 50,
+            "srcY": 40,
+            "srcWidth": 23,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -10,
+            "srcX": 139,
+            "srcY": 347,
+            "srcWidth": 20,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -9,
+            "srcX": 411,
+            "srcY": 191,
+            "srcWidth": 10,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -10,
+            "srcX": 96,
+            "srcY": 378,
+            "srcWidth": 21,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -11,
+            "srcX": 0,
+            "srcY": 304,
+            "srcWidth": 24,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -12,
+            "srcX": 50,
+            "srcY": 54,
+            "srcWidth": 23,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -13,
+            "srcX": 0,
+            "srcY": 316,
+            "srcWidth": 24,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -14,
+            "srcX": 50,
+            "srcY": 67,
+            "srcWidth": 23,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -15,
+            "srcX": 50,
+            "srcY": 81,
+            "srcWidth": 23,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -16,
+            "srcX": 50,
+            "srcY": 96,
+            "srcWidth": 23,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -17,
+            "srcX": 96,
+            "srcY": 18,
+            "srcWidth": 22,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -17,
+            "srcX": 139,
+            "srcY": 359,
+            "srcWidth": 20,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -17,
+            "srcX": 273,
+            "srcY": 272,
+            "srcWidth": 16,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -17,
+            "srcX": 322,
+            "srcY": 311,
+            "srcWidth": 14,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -17,
+            "srcX": 377,
+            "srcY": 251,
+            "srcWidth": 11,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -3,
+            "y": -17,
+            "srcX": 411,
+            "srcY": 204,
+            "srcWidth": 10,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -16,
+            "srcX": 322,
+            "srcY": 332,
+            "srcWidth": 14,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -16,
+            "srcX": 273,
+            "srcY": 292,
+            "srcWidth": 16,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -15,
+            "srcX": 139,
+            "srcY": 378,
+            "srcWidth": 20,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -14,
+            "srcX": 96,
+            "srcY": 390,
+            "srcWidth": 21,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -13,
+            "srcX": 50,
+            "srcY": 112,
+            "srcWidth": 23,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -11,
+            "srcX": 50,
+            "srcY": 129,
+            "srcWidth": 23,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -10,
+            "srcX": 0,
+            "srcY": 329,
+            "srcWidth": 24,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -9,
+            "srcX": 50,
+            "srcY": 144,
+            "srcWidth": 23,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -8,
+            "srcX": 50,
+            "srcY": 156,
+            "srcWidth": 23,
+            "srcHeight": 11,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -8,
+            "srcX": 50,
+            "srcY": 167,
+            "srcWidth": 23,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -8,
+            "srcX": 96,
+            "srcY": 36,
+            "srcWidth": 22,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -8,
+            "srcX": 139,
+            "srcY": 398,
+            "srcWidth": 20,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -9,
+            "srcX": 273,
+            "srcY": 313,
+            "srcWidth": 16,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -9,
+            "srcX": 322,
+            "srcY": 353,
+            "srcWidth": 14,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -10,
+            "srcX": 377,
+            "srcY": 272,
+            "srcWidth": 11,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -10,
+            "srcX": 411,
+            "srcY": 226,
+            "srcWidth": 10,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -9,
+            "srcX": 322,
+            "srcY": 367,
+            "srcWidth": 14,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -9,
+            "srcX": 273,
+            "srcY": 326,
+            "srcWidth": 16,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -9,
+            "srcX": 139,
+            "srcY": 410,
+            "srcWidth": 20,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -8,
+            "srcX": 139,
+            "srcY": 422,
+            "srcWidth": 20,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -8,
+            "srcX": 96,
+            "srcY": 48,
+            "srcWidth": 22,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -8,
+            "srcX": 50,
+            "srcY": 179,
+            "srcWidth": 23,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -8,
+            "srcX": 50,
+            "srcY": 191,
+            "srcWidth": 23,
+            "srcHeight": 11,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -9,
+            "srcX": 50,
+            "srcY": 202,
+            "srcWidth": 23,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -10,
+            "srcX": 0,
+            "srcY": 342,
+            "srcWidth": 24,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -11,
+            "srcX": 50,
+            "srcY": 214,
+            "srcWidth": 23,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -13,
+            "srcX": 50,
+            "srcY": 229,
+            "srcWidth": 23,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -14,
+            "srcX": 96,
+            "srcY": 408,
+            "srcWidth": 21,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -15,
+            "srcX": 160,
+            "srcY": 0,
+            "srcWidth": 20,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 273,
+            "srcY": 339,
+            "srcWidth": 16,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -16,
+            "srcX": 322,
+            "srcY": 380,
+            "srcWidth": 14,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -17,
+            "srcX": 411,
+            "srcY": 240,
+            "srcWidth": 10,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -17,
+            "srcX": 377,
+            "srcY": 287,
+            "srcWidth": 11,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -17,
+            "srcX": 322,
+            "srcY": 401,
+            "srcWidth": 14,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -17,
+            "srcX": 273,
+            "srcY": 360,
+            "srcWidth": 16,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -17,
+            "srcX": 160,
+            "srcY": 20,
+            "srcWidth": 20,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -17,
+            "srcX": 96,
+            "srcY": 60,
+            "srcWidth": 22,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -16,
+            "srcX": 50,
+            "srcY": 246,
+            "srcWidth": 23,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -15,
+            "srcX": 50,
+            "srcY": 262,
+            "srcWidth": 23,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -14,
+            "srcX": 50,
+            "srcY": 277,
+            "srcWidth": 23,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -13,
+            "srcX": 0,
+            "srcY": 355,
+            "srcWidth": 24,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -12,
+            "srcX": 50,
+            "srcY": 291,
+            "srcWidth": 23,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -11,
+            "srcX": 0,
+            "srcY": 368,
+            "srcWidth": 24,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -10,
+            "srcX": 96,
+            "srcY": 426,
+            "srcWidth": 21,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -9,
+            "srcX": 160,
+            "srcY": 39,
+            "srcWidth": 20,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -9,
+            "srcX": 273,
+            "srcY": 380,
+            "srcWidth": 16,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -9,
+            "srcX": 322,
+            "srcY": 422,
+            "srcWidth": 14,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -3,
+            "y": -10,
+            "srcX": 411,
+            "srcY": 262,
+            "srcWidth": 10,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -10,
+            "srcX": 377,
+            "srcY": 308,
+            "srcWidth": 11,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -9,
+            "srcX": 337,
+            "srcY": 0,
+            "srcWidth": 14,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -9,
+            "srcX": 273,
+            "srcY": 393,
+            "srcWidth": 16,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -10,
+            "srcX": 118,
+            "srcY": 0,
+            "srcWidth": 21,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -9,
+            "srcX": 50,
+            "srcY": 304,
+            "srcWidth": 23,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -10,
+            "srcX": 0,
+            "srcY": 380,
+            "srcWidth": 24,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -11,
+            "srcX": 0,
+            "srcY": 393,
+            "srcWidth": 24,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -12,
+            "srcX": 0,
+            "srcY": 116,
+            "srcWidth": 25,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -13,
+            "srcX": 0,
+            "srcY": 406,
+            "srcWidth": 24,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -14,
+            "srcX": 50,
+            "srcY": 316,
+            "srcWidth": 23,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -15,
+            "srcX": 118,
+            "srcY": 14,
+            "srcWidth": 21,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -16,
+            "srcX": 180,
+            "srcY": 405,
+            "srcWidth": 19,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -16,
+            "srcX": 256,
+            "srcY": 36,
+            "srcWidth": 17,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -17,
+            "srcX": 351,
+            "srcY": 134,
+            "srcWidth": 13,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -17,
+            "srcX": 377,
+            "srcY": 323,
+            "srcWidth": 11,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -17,
+            "srcX": 431,
+            "srcY": 139,
+            "srcWidth": 9,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -16,
+            "srcX": 364,
+            "srcY": 122,
+            "srcWidth": 12,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -16,
+            "srcX": 306,
+            "srcY": 249,
+            "srcWidth": 15,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -15,
+            "srcX": 180,
+            "srcY": 422,
+            "srcWidth": 19,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -14,
+            "srcX": 118,
+            "srcY": 29,
+            "srcWidth": 21,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -13,
+            "srcX": 50,
+            "srcY": 330,
+            "srcWidth": 23,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -12,
+            "srcX": 0,
+            "srcY": 420,
+            "srcWidth": 24,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -11,
+            "srcX": 0,
+            "srcY": 130,
+            "srcWidth": 25,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -9,
+            "srcX": 0,
+            "srcY": 143,
+            "srcWidth": 25,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -8,
+            "srcX": 26,
+            "srcY": 0,
+            "srcWidth": 24,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -8,
+            "srcX": 50,
+            "srcY": 345,
+            "srcWidth": 23,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -9,
+            "srcX": 118,
+            "srcY": 45,
+            "srcWidth": 21,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -10,
+            "srcX": 200,
+            "srcY": 0,
+            "srcWidth": 19,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -10,
+            "srcX": 256,
+            "srcY": 53,
+            "srcWidth": 17,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -11,
+            "srcX": 351,
+            "srcY": 152,
+            "srcWidth": 13,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -11,
+            "srcX": 377,
+            "srcY": 342,
+            "srcWidth": 11,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -11,
+            "srcX": 411,
+            "srcY": 276,
+            "srcWidth": 10,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -11,
+            "srcX": 364,
+            "srcY": 140,
+            "srcWidth": 12,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -10,
+            "srcX": 306,
+            "srcY": 267,
+            "srcWidth": 15,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -10,
+            "srcX": 200,
+            "srcY": 15,
+            "srcWidth": 19,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -10,
+            "srcX": 200,
+            "srcY": 30,
+            "srcWidth": 19,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -9,
+            "srcX": 118,
+            "srcY": 58,
+            "srcWidth": 21,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -8,
+            "srcX": 50,
+            "srcY": 357,
+            "srcWidth": 23,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -8,
+            "srcX": 26,
+            "srcY": 12,
+            "srcWidth": 24,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -9,
+            "srcX": 0,
+            "srcY": 155,
+            "srcWidth": 25,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -11,
+            "srcX": 26,
+            "srcY": 24,
+            "srcWidth": 24,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -12,
+            "srcX": 26,
+            "srcY": 37,
+            "srcWidth": 24,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -13,
+            "srcX": 50,
+            "srcY": 369,
+            "srcWidth": 23,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -14,
+            "srcX": 118,
+            "srcY": 71,
+            "srcWidth": 21,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -15,
+            "srcX": 200,
+            "srcY": 45,
+            "srcWidth": 19,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -16,
+            "srcX": 306,
+            "srcY": 282,
+            "srcWidth": 15,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -16,
+            "srcX": 364,
+            "srcY": 157,
+            "srcWidth": 12,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -17,
+            "srcX": 431,
+            "srcY": 158,
+            "srcWidth": 9,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -17,
+            "srcX": 377,
+            "srcY": 359,
+            "srcWidth": 11,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -17,
+            "srcX": 351,
+            "srcY": 169,
+            "srcWidth": 13,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -16,
+            "srcX": 256,
+            "srcY": 68,
+            "srcWidth": 17,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 200,
+            "srcY": 62,
+            "srcWidth": 19,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -15,
+            "srcX": 118,
+            "srcY": 87,
+            "srcWidth": 21,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -14,
+            "srcX": 50,
+            "srcY": 384,
+            "srcWidth": 23,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -13,
+            "srcX": 26,
+            "srcY": 51,
+            "srcWidth": 24,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -12,
+            "srcX": 0,
+            "srcY": 167,
+            "srcWidth": 25,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -11,
+            "srcX": 0,
+            "srcY": 181,
+            "srcWidth": 25,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -10,
+            "srcX": 0,
+            "srcY": 194,
+            "srcWidth": 25,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -9,
+            "srcX": 50,
+            "srcY": 398,
+            "srcWidth": 23,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -10,
+            "srcX": 118,
+            "srcY": 102,
+            "srcWidth": 21,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -10,
+            "srcX": 200,
+            "srcY": 79,
+            "srcWidth": 19,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -10,
+            "srcX": 306,
+            "srcY": 300,
+            "srcWidth": 15,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -11,
+            "srcX": 364,
+            "srcY": 175,
+            "srcWidth": 12,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -11,
+            "srcX": 411,
+            "srcY": 293,
+            "srcWidth": 10,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -11,
+            "srcX": 377,
+            "srcY": 378,
+            "srcWidth": 11,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -11,
+            "srcX": 351,
+            "srcY": 187,
+            "srcWidth": 13,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -10,
+            "srcX": 256,
+            "srcY": 85,
+            "srcWidth": 17,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -12,
+            "srcX": 200,
+            "srcY": 94,
+            "srcWidth": 19,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -13,
+            "srcX": 118,
+            "srcY": 116,
+            "srcWidth": 21,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -14,
+            "srcX": 50,
+            "srcY": 410,
+            "srcWidth": 23,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -15,
+            "srcX": 26,
+            "srcY": 65,
+            "srcWidth": 24,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -15,
+            "srcX": 50,
+            "srcY": 424,
+            "srcWidth": 23,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 73,
+            "srcY": 0,
+            "srcWidth": 23,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -17,
+            "srcX": 96,
+            "srcY": 78,
+            "srcWidth": 22,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -17,
+            "srcX": 96,
+            "srcY": 98,
+            "srcWidth": 22,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -18,
+            "srcX": 200,
+            "srcY": 107,
+            "srcWidth": 19,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -18,
+            "srcX": 273,
+            "srcY": 406,
+            "srcWidth": 16,
+            "srcHeight": 23,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -18,
+            "srcX": 351,
+            "srcY": 204,
+            "srcWidth": 13,
+            "srcHeight": 23,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -18,
+            "srcX": 377,
+            "srcY": 395,
+            "srcWidth": 11,
+            "srcHeight": 24,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -18,
+            "srcX": 431,
+            "srcY": 177,
+            "srcWidth": 9,
+            "srcHeight": 24,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -17,
+            "srcX": 389,
+            "srcY": 0,
+            "srcWidth": 11,
+            "srcHeight": 23,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -17,
+            "srcX": 337,
+            "srcY": 14,
+            "srcWidth": 14,
+            "srcHeight": 23,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -16,
+            "srcX": 290,
+            "srcY": 0,
+            "srcWidth": 16,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 200,
+            "srcY": 129,
+            "srcWidth": 19,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -15,
+            "srcX": 118,
+            "srcY": 130,
+            "srcWidth": 21,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -14,
+            "srcX": 73,
+            "srcY": 18,
+            "srcWidth": 23,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -14,
+            "srcX": 26,
+            "srcY": 80,
+            "srcWidth": 24,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -13,
+            "srcX": 73,
+            "srcY": 36,
+            "srcWidth": 23,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -12,
+            "srcX": 73,
+            "srcY": 52,
+            "srcWidth": 23,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -11,
+            "srcX": 96,
+            "srcY": 118,
+            "srcWidth": 22,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -11,
+            "srcX": 118,
+            "srcY": 150,
+            "srcWidth": 21,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -11,
+            "srcX": 200,
+            "srcY": 150,
+            "srcWidth": 19,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -10,
+            "srcX": 290,
+            "srcY": 22,
+            "srcWidth": 16,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -10,
+            "srcX": 351,
+            "srcY": 227,
+            "srcWidth": 13,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -10,
+            "srcX": 389,
+            "srcY": 23,
+            "srcWidth": 11,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -10,
+            "srcX": 411,
+            "srcY": 310,
+            "srcWidth": 10,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -11,
+            "srcX": 389,
+            "srcY": 36,
+            "srcWidth": 11,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -11,
+            "srcX": 337,
+            "srcY": 37,
+            "srcWidth": 14,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -12,
+            "srcX": 290,
+            "srcY": 35,
+            "srcWidth": 16,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -11,
+            "srcX": 200,
+            "srcY": 164,
+            "srcWidth": 19,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -11,
+            "srcX": 118,
+            "srcY": 163,
+            "srcWidth": 21,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -11,
+            "srcX": 96,
+            "srcY": 131,
+            "srcWidth": 22,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -12,
+            "srcX": 73,
+            "srcY": 66,
+            "srcWidth": 23,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -13,
+            "srcX": 73,
+            "srcY": 80,
+            "srcWidth": 23,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -14,
+            "srcX": 26,
+            "srcY": 97,
+            "srcWidth": 24,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -14,
+            "srcX": 73,
+            "srcY": 96,
+            "srcWidth": 23,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -15,
+            "srcX": 118,
+            "srcY": 176,
+            "srcWidth": 21,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -16,
+            "srcX": 200,
+            "srcY": 178,
+            "srcWidth": 19,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -16,
+            "srcX": 290,
+            "srcY": 48,
+            "srcWidth": 16,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -17,
+            "srcX": 337,
+            "srcY": 49,
+            "srcWidth": 14,
+            "srcHeight": 23,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -17,
+            "srcX": 389,
+            "srcY": 49,
+            "srcWidth": 11,
+            "srcHeight": 23,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -18,
+            "srcX": 431,
+            "srcY": 201,
+            "srcWidth": 9,
+            "srcHeight": 24,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -18,
+            "srcX": 389,
+            "srcY": 72,
+            "srcWidth": 11,
+            "srcHeight": 24,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -18,
+            "srcX": 351,
+            "srcY": 239,
+            "srcWidth": 13,
+            "srcHeight": 23,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -18,
+            "srcX": 290,
+            "srcY": 70,
+            "srcWidth": 16,
+            "srcHeight": 23,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -18,
+            "srcX": 200,
+            "srcY": 199,
+            "srcWidth": 19,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -17,
+            "srcX": 96,
+            "srcY": 144,
+            "srcWidth": 22,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -17,
+            "srcX": 96,
+            "srcY": 164,
+            "srcWidth": 22,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -16,
+            "srcX": 73,
+            "srcY": 114,
+            "srcWidth": 23,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -15,
+            "srcX": 73,
+            "srcY": 132,
+            "srcWidth": 23,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -15,
+            "srcX": 26,
+            "srcY": 114,
+            "srcWidth": 24,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -14,
+            "srcX": 73,
+            "srcY": 148,
+            "srcWidth": 23,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -13,
+            "srcX": 118,
+            "srcY": 196,
+            "srcWidth": 21,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -12,
+            "srcX": 200,
+            "srcY": 221,
+            "srcWidth": 19,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -12,
+            "srcX": 290,
+            "srcY": 93,
+            "srcWidth": 16,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -11,
+            "srcX": 337,
+            "srcY": 72,
+            "srcWidth": 14,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -11,
+            "srcX": 389,
+            "srcY": 96,
+            "srcWidth": 11,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -10,
+            "srcX": 411,
+            "srcY": 322,
+            "srcWidth": 10,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -10,
+            "srcX": 389,
+            "srcY": 109,
+            "srcWidth": 11,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -10,
+            "srcX": 351,
+            "srcY": 262,
+            "srcWidth": 13,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -10,
+            "srcX": 290,
+            "srcY": 106,
+            "srcWidth": 16,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -13,
+            "srcX": 26,
+            "srcY": 129,
+            "srcWidth": 24,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -17,
+            "srcX": 431,
+            "srcY": 225,
+            "srcWidth": 9,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -10,
+            "srcX": 0,
+            "srcY": 207,
+            "srcWidth": 25,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -11,
+            "srcX": 431,
+            "srcY": 245,
+            "srcWidth": 9,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -10,
+            "srcX": 26,
+            "srcY": 143,
+            "srcWidth": 24,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -17,
+            "srcX": 431,
+            "srcY": 261,
+            "srcWidth": 9,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -13,
+            "srcX": 0,
+            "srcY": 220,
+            "srcWidth": 25,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -11,
+            "srcX": 431,
+            "srcY": 281,
+            "srcWidth": 9,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -15,
+            "srcX": 73,
+            "srcY": 162,
+            "srcWidth": 23,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -18,
+            "srcX": 431,
+            "srcY": 297,
+            "srcWidth": 9,
+            "srcHeight": 24,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -12,
+            "srcX": 73,
+            "srcY": 178,
+            "srcWidth": 23,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -10,
+            "srcX": 431,
+            "srcY": 321,
+            "srcWidth": 9,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -12,
+            "srcX": 73,
+            "srcY": 192,
+            "srcWidth": 23,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -18,
+            "srcX": 431,
+            "srcY": 334,
+            "srcWidth": 9,
+            "srcHeight": 24,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -15,
+            "srcX": 73,
+            "srcY": 206,
+            "srcWidth": 23,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -10,
+            "srcX": 431,
+            "srcY": 358,
+            "srcWidth": 9,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -13,
+            "srcX": 256,
+            "srcY": 100,
+            "srcWidth": 17,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -13,
+            "srcX": 200,
+            "srcY": 234,
+            "srcWidth": 19,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -14,
+            "srcX": 200,
+            "srcY": 247,
+            "srcWidth": 19,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -14,
+            "srcX": 160,
+            "srcY": 51,
+            "srcWidth": 20,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -15,
+            "srcX": 160,
+            "srcY": 65,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 160,
+            "srcY": 80,
+            "srcWidth": 20,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -16,
+            "srcX": 200,
+            "srcY": 261,
+            "srcWidth": 19,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -17,
+            "srcX": 219,
+            "srcY": 120,
+            "srcWidth": 18,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -17,
+            "srcX": 256,
+            "srcY": 113,
+            "srcWidth": 17,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -18,
+            "srcX": 306,
+            "srcY": 315,
+            "srcWidth": 15,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -18,
+            "srcX": 364,
+            "srcY": 192,
+            "srcWidth": 12,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -18,
+            "srcX": 389,
+            "srcY": 122,
+            "srcWidth": 11,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -18,
+            "srcX": 411,
+            "srcY": 334,
+            "srcWidth": 10,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -18,
+            "srcX": 389,
+            "srcY": 142,
+            "srcWidth": 11,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -18,
+            "srcX": 364,
+            "srcY": 211,
+            "srcWidth": 12,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -18,
+            "srcX": 306,
+            "srcY": 335,
+            "srcWidth": 15,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -17,
+            "srcX": 256,
+            "srcY": 131,
+            "srcWidth": 17,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -17,
+            "srcX": 219,
+            "srcY": 138,
+            "srcWidth": 18,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 200,
+            "srcY": 277,
+            "srcWidth": 19,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 160,
+            "srcY": 96,
+            "srcWidth": 20,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -15,
+            "srcX": 160,
+            "srcY": 112,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -14,
+            "srcX": 160,
+            "srcY": 127,
+            "srcWidth": 20,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -14,
+            "srcX": 200,
+            "srcY": 293,
+            "srcWidth": 19,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -13,
+            "srcX": 200,
+            "srcY": 307,
+            "srcWidth": 19,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -13,
+            "srcX": 256,
+            "srcY": 149,
+            "srcWidth": 17,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -13,
+            "srcX": 337,
+            "srcY": 84,
+            "srcWidth": 14,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -13,
+            "srcX": 364,
+            "srcY": 230,
+            "srcWidth": 12,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -13,
+            "srcX": 389,
+            "srcY": 162,
+            "srcWidth": 11,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -13,
+            "srcX": 411,
+            "srcY": 353,
+            "srcWidth": 10,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -13,
+            "srcX": 389,
+            "srcY": 175,
+            "srcWidth": 11,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -13,
+            "srcX": 364,
+            "srcY": 243,
+            "srcWidth": 12,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -13,
+            "srcX": 337,
+            "srcY": 97,
+            "srcWidth": 14,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -12,
+            "srcX": 219,
+            "srcY": 156,
+            "srcWidth": 18,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -17,
+            "srcX": 219,
+            "srcY": 169,
+            "srcWidth": 18,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -17,
+            "srcX": 219,
+            "srcY": 186,
+            "srcWidth": 18,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -12,
+            "srcX": 219,
+            "srcY": 203,
+            "srcWidth": 18,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -14,
+            "srcX": 306,
+            "srcY": 355,
+            "srcWidth": 15,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -17,
+            "srcX": 290,
+            "srcY": 119,
+            "srcWidth": 16,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -17,
+            "srcX": 290,
+            "srcY": 139,
+            "srcWidth": 16,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -14,
+            "srcX": 290,
+            "srcY": 159,
+            "srcWidth": 16,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -10,
+            "srcX": 219,
+            "srcY": 216,
+            "srcWidth": 18,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -10,
+            "srcX": 160,
+            "srcY": 141,
+            "srcWidth": 20,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -11,
+            "srcX": 118,
+            "srcY": 210,
+            "srcWidth": 21,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -14,
+            "y": -12,
+            "srcX": 96,
+            "srcY": 184,
+            "srcWidth": 22,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -14,
+            "y": -12,
+            "srcX": 96,
+            "srcY": 197,
+            "srcWidth": 22,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -14,
+            "y": -13,
+            "srcX": 96,
+            "srcY": 210,
+            "srcWidth": 22,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -14,
+            "srcX": 118,
+            "srcY": 223,
+            "srcWidth": 21,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -15,
+            "srcX": 160,
+            "srcY": 153,
+            "srcWidth": 20,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -16,
+            "srcX": 219,
+            "srcY": 228,
+            "srcWidth": 18,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -16,
+            "srcX": 306,
+            "srcY": 368,
+            "srcWidth": 15,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -17,
+            "srcX": 364,
+            "srcY": 256,
+            "srcWidth": 12,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -17,
+            "srcX": 389,
+            "srcY": 188,
+            "srcWidth": 11,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -17,
+            "srcX": 411,
+            "srcY": 365,
+            "srcWidth": 10,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -17,
+            "srcX": 389,
+            "srcY": 205,
+            "srcWidth": 11,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -17,
+            "srcX": 364,
+            "srcY": 273,
+            "srcWidth": 12,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -16,
+            "srcX": 306,
+            "srcY": 384,
+            "srcWidth": 15,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -16,
+            "srcX": 219,
+            "srcY": 244,
+            "srcWidth": 18,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -15,
+            "srcX": 160,
+            "srcY": 167,
+            "srcWidth": 20,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -14,
+            "srcX": 118,
+            "srcY": 237,
+            "srcWidth": 21,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -13,
+            "srcX": 96,
+            "srcY": 223,
+            "srcWidth": 22,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -12,
+            "srcX": 96,
+            "srcY": 236,
+            "srcWidth": 22,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -12,
+            "srcX": 96,
+            "srcY": 249,
+            "srcWidth": 22,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -11,
+            "srcX": 118,
+            "srcY": 251,
+            "srcWidth": 21,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -10,
+            "srcX": 160,
+            "srcY": 181,
+            "srcWidth": 20,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -10,
+            "srcX": 219,
+            "srcY": 260,
+            "srcWidth": 18,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -11,
+            "srcX": 290,
+            "srcY": 172,
+            "srcWidth": 16,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -11,
+            "srcX": 351,
+            "srcY": 274,
+            "srcWidth": 13,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -11,
+            "srcX": 389,
+            "srcY": 222,
+            "srcWidth": 11,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -11,
+            "srcX": 411,
+            "srcY": 382,
+            "srcWidth": 10,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -11,
+            "srcX": 389,
+            "srcY": 235,
+            "srcWidth": 11,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -11,
+            "srcX": 351,
+            "srcY": 287,
+            "srcWidth": 13,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -11,
+            "srcX": 290,
+            "srcY": 185,
+            "srcWidth": 16,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -16,
+            "srcX": 351,
+            "srcY": 300,
+            "srcWidth": 13,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -16,
+            "srcX": 337,
+            "srcY": 110,
+            "srcWidth": 14,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -16,
+            "srcX": 290,
+            "srcY": 198,
+            "srcWidth": 16,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -16,
+            "srcX": 290,
+            "srcY": 214,
+            "srcWidth": 16,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -16,
+            "srcX": 290,
+            "srcY": 231,
+            "srcWidth": 16,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -16,
+            "srcX": 290,
+            "srcY": 249,
+            "srcWidth": 16,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -16,
+            "srcX": 256,
+            "srcY": 162,
+            "srcWidth": 17,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -17,
+            "srcX": 290,
+            "srcY": 268,
+            "srcWidth": 16,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -17,
+            "srcX": 306,
+            "srcY": 400,
+            "srcWidth": 15,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -17,
+            "srcX": 337,
+            "srcY": 125,
+            "srcWidth": 14,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -17,
+            "srcX": 351,
+            "srcY": 315,
+            "srcWidth": 13,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -17,
+            "srcX": 411,
+            "srcY": 395,
+            "srcWidth": 10,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -17,
+            "srcX": 411,
+            "srcY": 417,
+            "srcWidth": 10,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -17,
+            "srcX": 421,
+            "srcY": 0,
+            "srcWidth": 10,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -17,
+            "srcX": 351,
+            "srcY": 337,
+            "srcWidth": 13,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -17,
+            "srcX": 337,
+            "srcY": 147,
+            "srcWidth": 14,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -17,
+            "srcX": 322,
+            "srcY": 0,
+            "srcWidth": 15,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -17,
+            "srcX": 290,
+            "srcY": 289,
+            "srcWidth": 16,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -16,
+            "srcX": 256,
+            "srcY": 181,
+            "srcWidth": 17,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -16,
+            "srcX": 290,
+            "srcY": 310,
+            "srcWidth": 16,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -16,
+            "srcX": 290,
+            "srcY": 329,
+            "srcWidth": 16,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -16,
+            "srcX": 290,
+            "srcY": 347,
+            "srcWidth": 16,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -16,
+            "srcX": 322,
+            "srcY": 22,
+            "srcWidth": 15,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 337,
+            "srcY": 169,
+            "srcWidth": 14,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -16,
+            "srcX": 322,
+            "srcY": 38,
+            "srcWidth": 15,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -16,
+            "srcX": 337,
+            "srcY": 184,
+            "srcWidth": 14,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -16,
+            "srcX": 364,
+            "srcY": 290,
+            "srcWidth": 12,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -16,
+            "srcX": 421,
+            "srcY": 22,
+            "srcWidth": 10,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -16,
+            "srcX": 421,
+            "srcY": 36,
+            "srcWidth": 10,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -16,
+            "srcX": 421,
+            "srcY": 49,
+            "srcWidth": 10,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -16,
+            "srcX": 364,
+            "srcY": 304,
+            "srcWidth": 12,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -16,
+            "srcX": 337,
+            "srcY": 198,
+            "srcWidth": 14,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -14,
+            "srcX": 118,
+            "srcY": 264,
+            "srcWidth": 21,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -18,
+            "srcX": 421,
+            "srcY": 63,
+            "srcWidth": 10,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -14,
+            "srcX": 118,
+            "srcY": 278,
+            "srcWidth": 21,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -11,
+            "srcX": 421,
+            "srcY": 81,
+            "srcWidth": 10,
+            "srcHeight": 11,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -16,
+            "srcX": 219,
+            "srcY": 272,
+            "srcWidth": 18,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -18,
+            "srcX": 421,
+            "srcY": 92,
+            "srcWidth": 10,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 219,
+            "srcY": 288,
+            "srcWidth": 18,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -13,
+            "srcX": 421,
+            "srcY": 113,
+            "srcWidth": 10,
+            "srcHeight": 11,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -13,
+            "srcX": 118,
+            "srcY": 292,
+            "srcWidth": 21,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -18,
+            "srcX": 421,
+            "srcY": 124,
+            "srcWidth": 10,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -13,
+            "srcX": 118,
+            "srcY": 305,
+            "srcWidth": 21,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -10,
+            "srcX": 421,
+            "srcY": 143,
+            "srcWidth": 10,
+            "srcHeight": 11,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -16,
+            "srcX": 256,
+            "srcY": 200,
+            "srcWidth": 17,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -17,
+            "srcX": 421,
+            "srcY": 154,
+            "srcWidth": 10,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -16,
+            "srcX": 256,
+            "srcY": 217,
+            "srcWidth": 17,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -15,
+            "srcX": 421,
+            "srcY": 175,
+            "srcWidth": 10,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -17,
+            "y": -10,
+            "srcX": 118,
+            "srcY": 318,
+            "srcWidth": 21,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -14,
+            "srcX": 421,
+            "srcY": 188,
+            "srcWidth": 10,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -10,
+            "srcX": 118,
+            "srcY": 331,
+            "srcWidth": 21,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -11,
+            "srcX": 421,
+            "srcY": 200,
+            "srcWidth": 10,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -1,
+            "y": -15,
+            "srcX": 389,
+            "srcY": 248,
+            "srcWidth": 11,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -13,
+            "srcX": 421,
+            "srcY": 218,
+            "srcWidth": 10,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -15,
+            "srcX": 389,
+            "srcY": 267,
+            "srcWidth": 11,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -18,
+            "srcX": 421,
+            "srcY": 239,
+            "srcWidth": 10,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -13,
+            "srcX": 219,
+            "srcY": 304,
+            "srcWidth": 18,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 160,
+            "srcY": 193,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -18,
+            "srcX": 290,
+            "srcY": 364,
+            "srcWidth": 16,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -18,
+            "srcX": 421,
+            "srcY": 254,
+            "srcWidth": 10,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -16,
+            "srcX": 219,
+            "srcY": 316,
+            "srcWidth": 18,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -13,
+            "srcX": 160,
+            "srcY": 208,
+            "srcWidth": 20,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -12,
+            "srcX": 290,
+            "srcY": 382,
+            "srcWidth": 16,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -12,
+            "srcX": 421,
+            "srcY": 274,
+            "srcWidth": 10,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -12,
+            "srcX": 322,
+            "srcY": 53,
+            "srcWidth": 15,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -13,
+            "srcX": 160,
+            "srcY": 221,
+            "srcWidth": 20,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 219,
+            "srcY": 334,
+            "srcWidth": 18,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -18,
+            "srcX": 421,
+            "srcY": 286,
+            "srcWidth": 10,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -18,
+            "srcX": 290,
+            "srcY": 395,
+            "srcWidth": 16,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 160,
+            "srcY": 234,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -13,
+            "srcX": 219,
+            "srcY": 352,
+            "srcWidth": 18,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -12,
+            "srcX": 421,
+            "srcY": 306,
+            "srcWidth": 10,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -14,
+            "srcX": 160,
+            "srcY": 249,
+            "srcWidth": 20,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -14,
+            "srcX": 160,
+            "srcY": 261,
+            "srcWidth": 20,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -15,
+            "srcX": 160,
+            "srcY": 273,
+            "srcWidth": 20,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -16,
+            "srcX": 160,
+            "srcY": 286,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -17,
+            "srcX": 160,
+            "srcY": 301,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -17,
+            "srcX": 200,
+            "srcY": 320,
+            "srcWidth": 19,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -18,
+            "srcX": 200,
+            "srcY": 337,
+            "srcWidth": 19,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -18,
+            "srcX": 256,
+            "srcY": 234,
+            "srcWidth": 17,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -18,
+            "srcX": 290,
+            "srcY": 413,
+            "srcWidth": 16,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -18,
+            "srcX": 337,
+            "srcY": 212,
+            "srcWidth": 14,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -18,
+            "srcX": 389,
+            "srcY": 286,
+            "srcWidth": 11,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -18,
+            "srcX": 389,
+            "srcY": 305,
+            "srcWidth": 11,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -3,
+            "y": -17,
+            "srcX": 364,
+            "srcY": 318,
+            "srcWidth": 12,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -3,
+            "y": -17,
+            "srcX": 351,
+            "srcY": 359,
+            "srcWidth": 13,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -16,
+            "srcX": 306,
+            "srcY": 0,
+            "srcWidth": 16,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -15,
+            "srcX": 219,
+            "srcY": 364,
+            "srcWidth": 18,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -14,
+            "srcX": 160,
+            "srcY": 316,
+            "srcWidth": 20,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -14,
+            "srcX": 160,
+            "srcY": 333,
+            "srcWidth": 20,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -13,
+            "srcX": 160,
+            "srcY": 350,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -12,
+            "srcX": 118,
+            "srcY": 344,
+            "srcWidth": 21,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -11,
+            "srcX": 160,
+            "srcY": 365,
+            "srcWidth": 20,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -11,
+            "srcX": 200,
+            "srcY": 354,
+            "srcWidth": 19,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -10,
+            "srcX": 219,
+            "srcY": 382,
+            "srcWidth": 18,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -10,
+            "srcX": 306,
+            "srcY": 19,
+            "srcWidth": 16,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -10,
+            "srcX": 306,
+            "srcY": 31,
+            "srcWidth": 16,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -11,
+            "srcX": 337,
+            "srcY": 231,
+            "srcWidth": 14,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -11,
+            "srcX": 389,
+            "srcY": 325,
+            "srcWidth": 11,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -11,
+            "srcX": 364,
+            "srcY": 337,
+            "srcWidth": 12,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -12,
+            "srcX": 364,
+            "srcY": 350,
+            "srcWidth": 12,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -12,
+            "srcX": 351,
+            "srcY": 379,
+            "srcWidth": 13,
+            "srcHeight": 11,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -13,
+            "srcX": 306,
+            "srcY": 43,
+            "srcWidth": 16,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -13,
+            "srcX": 219,
+            "srcY": 394,
+            "srcWidth": 18,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -10,
+            "srcX": 306,
+            "srcY": 55,
+            "srcWidth": 16,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -10,
+            "srcX": 306,
+            "srcY": 67,
+            "srcWidth": 16,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -10,
+            "srcX": 219,
+            "srcY": 406,
+            "srcWidth": 18,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -11,
+            "srcX": 200,
+            "srcY": 367,
+            "srcWidth": 19,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -11,
+            "srcX": 160,
+            "srcY": 378,
+            "srcWidth": 20,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -12,
+            "srcX": 118,
+            "srcY": 358,
+            "srcWidth": 21,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -13,
+            "srcX": 160,
+            "srcY": 391,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -14,
+            "srcX": 160,
+            "srcY": 406,
+            "srcWidth": 20,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -14,
+            "srcX": 160,
+            "srcY": 423,
+            "srcWidth": 20,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -15,
+            "srcX": 219,
+            "srcY": 418,
+            "srcWidth": 18,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -16,
+            "srcX": 306,
+            "srcY": 79,
+            "srcWidth": 16,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -17,
+            "srcX": 351,
+            "srcY": 390,
+            "srcWidth": 13,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -17,
+            "srcX": 364,
+            "srcY": 363,
+            "srcWidth": 12,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -18,
+            "srcX": 389,
+            "srcY": 338,
+            "srcWidth": 11,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -18,
+            "srcX": 389,
+            "srcY": 358,
+            "srcWidth": 11,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -18,
+            "srcX": 337,
+            "srcY": 244,
+            "srcWidth": 14,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -18,
+            "srcX": 306,
+            "srcY": 98,
+            "srcWidth": 16,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -18,
+            "srcX": 256,
+            "srcY": 251,
+            "srcWidth": 17,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -18,
+            "srcX": 238,
+            "srcY": 0,
+            "srcWidth": 18,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -17,
+            "srcX": 200,
+            "srcY": 380,
+            "srcWidth": 19,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -17,
+            "srcX": 180,
+            "srcY": 0,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -16,
+            "srcX": 180,
+            "srcY": 15,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -15,
+            "srcX": 180,
+            "srcY": 30,
+            "srcWidth": 20,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -14,
+            "srcX": 180,
+            "srcY": 43,
+            "srcWidth": 20,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -14,
+            "srcX": 180,
+            "srcY": 55,
+            "srcWidth": 20,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -13,
+            "srcX": 238,
+            "srcY": 17,
+            "srcWidth": 18,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -13,
+            "srcX": 306,
+            "srcY": 118,
+            "srcWidth": 16,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -3,
+            "y": -12,
+            "srcX": 351,
+            "srcY": 410,
+            "srcWidth": 13,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -3,
+            "y": -12,
+            "srcX": 364,
+            "srcY": 382,
+            "srcWidth": 12,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -11,
+            "srcX": 364,
+            "srcY": 395,
+            "srcWidth": 12,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -11,
+            "srcX": 389,
+            "srcY": 377,
+            "srcWidth": 11,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -11,
+            "srcX": 337,
+            "srcY": 263,
+            "srcWidth": 14,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -12,
+            "srcX": 200,
+            "srcY": 397,
+            "srcWidth": 19,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -13,
+            "srcX": 180,
+            "srcY": 67,
+            "srcWidth": 20,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -13,
+            "srcX": 96,
+            "srcY": 262,
+            "srcWidth": 22,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -14,
+            "srcX": 118,
+            "srcY": 372,
+            "srcWidth": 21,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -15,
+            "srcX": 118,
+            "srcY": 385,
+            "srcWidth": 21,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -16,
+            "srcX": 180,
+            "srcY": 80,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 180,
+            "srcY": 95,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -17,
+            "srcX": 238,
+            "srcY": 29,
+            "srcWidth": 18,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -17,
+            "srcX": 306,
+            "srcY": 130,
+            "srcWidth": 16,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -18,
+            "srcX": 322,
+            "srcY": 66,
+            "srcWidth": 15,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -18,
+            "srcX": 351,
+            "srcY": 422,
+            "srcWidth": 13,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -18,
+            "srcX": 389,
+            "srcY": 390,
+            "srcWidth": 11,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -18,
+            "srcX": 421,
+            "srcY": 318,
+            "srcWidth": 10,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -18,
+            "srcX": 364,
+            "srcY": 408,
+            "srcWidth": 12,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -17,
+            "srcX": 337,
+            "srcY": 276,
+            "srcWidth": 14,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -16,
+            "srcX": 256,
+            "srcY": 268,
+            "srcWidth": 17,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -16,
+            "srcX": 200,
+            "srcY": 409,
+            "srcWidth": 19,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -15,
+            "srcX": 180,
+            "srcY": 110,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -14,
+            "srcX": 96,
+            "srcY": 275,
+            "srcWidth": 22,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -13,
+            "srcX": 118,
+            "srcY": 399,
+            "srcWidth": 21,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -12,
+            "srcX": 118,
+            "srcY": 413,
+            "srcWidth": 21,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -11,
+            "srcX": 180,
+            "srcY": 125,
+            "srcWidth": 20,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -11,
+            "srcX": 200,
+            "srcY": 426,
+            "srcWidth": 19,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -11,
+            "srcX": 238,
+            "srcY": 45,
+            "srcWidth": 18,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -11,
+            "srcX": 256,
+            "srcY": 285,
+            "srcWidth": 17,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -11,
+            "srcX": 322,
+            "srcY": 83,
+            "srcWidth": 15,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -11,
+            "srcX": 364,
+            "srcY": 0,
+            "srcWidth": 13,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -11,
+            "srcX": 389,
+            "srcY": 410,
+            "srcWidth": 11,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -11,
+            "srcX": 421,
+            "srcY": 336,
+            "srcWidth": 10,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -11,
+            "srcX": 364,
+            "srcY": 426,
+            "srcWidth": 12,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -11,
+            "srcX": 337,
+            "srcY": 293,
+            "srcWidth": 14,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -12,
+            "srcX": 256,
+            "srcY": 298,
+            "srcWidth": 17,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -11,
+            "srcX": 256,
+            "srcY": 311,
+            "srcWidth": 17,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -11,
+            "srcX": 238,
+            "srcY": 58,
+            "srcWidth": 18,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -11,
+            "srcX": 219,
+            "srcY": 0,
+            "srcWidth": 19,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -11,
+            "srcX": 180,
+            "srcY": 138,
+            "srcWidth": 20,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -12,
+            "srcX": 118,
+            "srcY": 426,
+            "srcWidth": 21,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -13,
+            "srcX": 139,
+            "srcY": 0,
+            "srcWidth": 21,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -13,
+            "y": -14,
+            "srcX": 96,
+            "srcY": 289,
+            "srcWidth": 22,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -15,
+            "srcX": 180,
+            "srcY": 151,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -16,
+            "srcX": 219,
+            "srcY": 13,
+            "srcWidth": 19,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -16,
+            "srcX": 256,
+            "srcY": 324,
+            "srcWidth": 17,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -17,
+            "srcX": 337,
+            "srcY": 305,
+            "srcWidth": 14,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -18,
+            "srcX": 377,
+            "srcY": 0,
+            "srcWidth": 12,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -18,
+            "srcX": 421,
+            "srcY": 348,
+            "srcWidth": 10,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -18,
+            "srcX": 400,
+            "srcY": 0,
+            "srcWidth": 11,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -18,
+            "srcX": 364,
+            "srcY": 13,
+            "srcWidth": 13,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -18,
+            "srcX": 322,
+            "srcY": 96,
+            "srcWidth": 15,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -17,
+            "srcX": 306,
+            "srcY": 148,
+            "srcWidth": 16,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -17,
+            "srcX": 238,
+            "srcY": 71,
+            "srcWidth": 18,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 180,
+            "srcY": 166,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -16,
+            "srcX": 180,
+            "srcY": 181,
+            "srcWidth": 20,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -15,
+            "srcX": 139,
+            "srcY": 14,
+            "srcWidth": 21,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -14,
+            "srcX": 139,
+            "srcY": 28,
+            "srcWidth": 21,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -13,
+            "srcX": 96,
+            "srcY": 303,
+            "srcWidth": 22,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -13,
+            "srcX": 180,
+            "srcY": 196,
+            "srcWidth": 20,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -12,
+            "srcX": 219,
+            "srcY": 30,
+            "srcWidth": 19,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -12,
+            "srcX": 256,
+            "srcY": 341,
+            "srcWidth": 17,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -11,
+            "srcX": 337,
+            "srcY": 322,
+            "srcWidth": 14,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -11,
+            "srcX": 377,
+            "srcY": 18,
+            "srcWidth": 12,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -11,
+            "srcX": 421,
+            "srcY": 366,
+            "srcWidth": 10,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -11,
+            "srcX": 400,
+            "srcY": 20,
+            "srcWidth": 11,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -11,
+            "srcX": 364,
+            "srcY": 30,
+            "srcWidth": 13,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -11,
+            "srcX": 322,
+            "srcY": 113,
+            "srcWidth": 15,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -15,
+            "srcX": 256,
+            "srcY": 354,
+            "srcWidth": 17,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -16,
+            "srcX": 238,
+            "srcY": 87,
+            "srcWidth": 18,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -16,
+            "srcX": 256,
+            "srcY": 367,
+            "srcWidth": 17,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -17,
+            "srcX": 238,
+            "srcY": 101,
+            "srcWidth": 18,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -17,
+            "srcX": 256,
+            "srcY": 382,
+            "srcWidth": 17,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -17,
+            "srcX": 256,
+            "srcY": 398,
+            "srcWidth": 17,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -18,
+            "srcX": 256,
+            "srcY": 415,
+            "srcWidth": 17,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -18,
+            "srcX": 306,
+            "srcY": 166,
+            "srcWidth": 16,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -18,
+            "srcX": 322,
+            "srcY": 126,
+            "srcWidth": 15,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -18,
+            "srcX": 337,
+            "srcY": 334,
+            "srcWidth": 14,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -18,
+            "srcX": 377,
+            "srcY": 30,
+            "srcWidth": 12,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -18,
+            "srcX": 400,
+            "srcY": 32,
+            "srcWidth": 11,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -18,
+            "srcX": 421,
+            "srcY": 379,
+            "srcWidth": 10,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -17,
+            "srcX": 400,
+            "srcY": 53,
+            "srcWidth": 11,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -17,
+            "srcX": 364,
+            "srcY": 43,
+            "srcWidth": 13,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -17,
+            "srcX": 322,
+            "srcY": 146,
+            "srcWidth": 15,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -16,
+            "srcX": 273,
+            "srcY": 0,
+            "srcWidth": 17,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 238,
+            "srcY": 117,
+            "srcWidth": 18,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -15,
+            "srcX": 238,
+            "srcY": 136,
+            "srcWidth": 18,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -15,
+            "srcX": 238,
+            "srcY": 154,
+            "srcWidth": 18,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -14,
+            "srcX": 273,
+            "srcY": 20,
+            "srcWidth": 17,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -14,
+            "srcX": 306,
+            "srcY": 186,
+            "srcWidth": 16,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -14,
+            "srcX": 306,
+            "srcY": 201,
+            "srcWidth": 16,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -13,
+            "srcX": 322,
+            "srcY": 167,
+            "srcWidth": 15,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -13,
+            "srcX": 322,
+            "srcY": 180,
+            "srcWidth": 15,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -13,
+            "srcX": 337,
+            "srcY": 354,
+            "srcWidth": 14,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -13,
+            "srcX": 377,
+            "srcY": 51,
+            "srcWidth": 12,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -13,
+            "srcX": 400,
+            "srcY": 74,
+            "srcWidth": 11,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -14,
+            "srcX": 421,
+            "srcY": 401,
+            "srcWidth": 10,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -14,
+            "srcX": 400,
+            "srcY": 87,
+            "srcWidth": 11,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -14,
+            "srcX": 364,
+            "srcY": 64,
+            "srcWidth": 13,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -15,
+            "srcX": 322,
+            "srcY": 193,
+            "srcWidth": 15,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -13,
+            "srcX": 364,
+            "srcY": 76,
+            "srcWidth": 13,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -13,
+            "srcX": 322,
+            "srcY": 206,
+            "srcWidth": 15,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -14,
+            "srcX": 306,
+            "srcY": 215,
+            "srcWidth": 16,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -14,
+            "srcX": 238,
+            "srcY": 171,
+            "srcWidth": 18,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -14,
+            "srcX": 273,
+            "srcY": 35,
+            "srcWidth": 17,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -15,
+            "srcX": 238,
+            "srcY": 186,
+            "srcWidth": 18,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -15,
+            "srcX": 238,
+            "srcY": 203,
+            "srcWidth": 18,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -16,
+            "srcX": 238,
+            "srcY": 221,
+            "srcWidth": 18,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -16,
+            "srcX": 273,
+            "srcY": 50,
+            "srcWidth": 17,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -17,
+            "srcX": 322,
+            "srcY": 219,
+            "srcWidth": 15,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -17,
+            "srcX": 364,
+            "srcY": 89,
+            "srcWidth": 13,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -17,
+            "srcX": 400,
+            "srcY": 100,
+            "srcWidth": 11,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -18,
+            "srcX": 421,
+            "srcY": 414,
+            "srcWidth": 10,
+            "srcHeight": 22,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -18,
+            "srcX": 400,
+            "srcY": 121,
+            "srcWidth": 11,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -18,
+            "srcX": 377,
+            "srcY": 64,
+            "srcWidth": 12,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -18,
+            "srcX": 337,
+            "srcY": 367,
+            "srcWidth": 14,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -18,
+            "srcX": 322,
+            "srcY": 240,
+            "srcWidth": 15,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -18,
+            "srcX": 306,
+            "srcY": 229,
+            "srcWidth": 16,
+            "srcHeight": 20,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -11,
+            "y": -18,
+            "srcX": 273,
+            "srcY": 70,
+            "srcWidth": 17,
+            "srcHeight": 19,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -17,
+            "srcX": 273,
+            "srcY": 89,
+            "srcWidth": 17,
+            "srcHeight": 17,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -17,
+            "srcX": 273,
+            "srcY": 106,
+            "srcWidth": 17,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -17,
+            "srcX": 238,
+            "srcY": 240,
+            "srcWidth": 18,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -16,
+            "srcX": 273,
+            "srcY": 122,
+            "srcWidth": 17,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -16,
+            "srcX": 238,
+            "srcY": 256,
+            "srcWidth": 18,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -15,
+            "srcX": 273,
+            "srcY": 137,
+            "srcWidth": 17,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -7,
+            "y": -15,
+            "srcX": 322,
+            "srcY": 260,
+            "srcWidth": 15,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -14,
+            "srcX": 364,
+            "srcY": 110,
+            "srcWidth": 13,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -14,
+            "srcX": 400,
+            "srcY": 142,
+            "srcWidth": 11,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -14,
+            "srcX": 431,
+            "srcY": 0,
+            "srcWidth": 10,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -13,
+            "srcX": 400,
+            "srcY": 155,
+            "srcWidth": 11,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -5,
+            "y": -13,
+            "srcX": 377,
+            "srcY": 85,
+            "srcWidth": 12,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -3,
+            "y": -13,
+            "srcX": 377,
+            "srcY": 98,
+            "srcWidth": 12,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -15,
+            "srcX": 139,
+            "srcY": 41,
+            "srcWidth": 21,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -18,
+            "srcX": 431,
+            "srcY": 13,
+            "srcWidth": 10,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -12,
+            "srcX": 139,
+            "srcY": 55,
+            "srcWidth": 21,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -11,
+            "srcX": 431,
+            "srcY": 31,
+            "srcWidth": 10,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -12,
+            "y": -12,
+            "srcX": 139,
+            "srcY": 68,
+            "srcWidth": 21,
+            "srcHeight": 13,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -18,
+            "srcX": 431,
+            "srcY": 43,
+            "srcWidth": 10,
+            "srcHeight": 18,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -9,
+            "y": -15,
+            "srcX": 139,
+            "srcY": 81,
+            "srcWidth": 21,
+            "srcHeight": 14,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -11,
+            "srcX": 431,
+            "srcY": 61,
+            "srcWidth": 10,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -17,
+            "srcX": 238,
+            "srcY": 270,
+            "srcWidth": 18,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -18,
+            "srcX": 431,
+            "srcY": 73,
+            "srcWidth": 10,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -14,
+            "srcX": 238,
+            "srcY": 286,
+            "srcWidth": 18,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -13,
+            "srcX": 431,
+            "srcY": 94,
+            "srcWidth": 10,
+            "srcHeight": 12,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -8,
+            "y": -14,
+            "srcX": 238,
+            "srcY": 301,
+            "srcWidth": 18,
+            "srcHeight": 15,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -6,
+            "y": -18,
+            "srcX": 431,
+            "srcY": 106,
+            "srcWidth": 10,
+            "srcHeight": 21,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -10,
+            "y": -17,
+            "srcX": 238,
+            "srcY": 316,
+            "srcWidth": 18,
+            "srcHeight": 16,
+            "palette": "keep"
+        },
+        {
+            "path": "images/car_0.png",
+            "x": -4,
+            "y": -13,
+            "srcX": 431,
+            "srcY": 127,
+            "srcWidth": 10,
+            "srcHeight": 12,
+            "palette": "keep"
+        }
+    ]
+}
