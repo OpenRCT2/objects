@@ -7,7 +7,7 @@
     "objectType": "scenery_wall",
     "properties": {
         "isAllowedOnSlope": true,
-        "height": 16,
+        "height": 10,
         "price": 70,
         "sceneryGroup": "rct2.scenery_group.scgwalls"
     },
