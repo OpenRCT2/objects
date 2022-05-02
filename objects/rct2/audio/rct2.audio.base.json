@@ -83,9 +83,7 @@
             "source": "$RCT2:DATA/CSS1.DAT[62]",
             "modifier": -700
         },
-        {
-            "source": "$RCT2:DATA/CSS2.DAT"
-        }
+        "$RCT2:DATA/CSS2.DAT"
     ],
     "strings": {
         "name": {

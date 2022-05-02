@@ -1,0 +1,20 @@
+{
+    "id": "rct2.audio.circus",
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "audio",
+    "samples": [
+        "$RCT2:DATA/CSS24.DAT"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Ambient sound effects for the Circus attraction."
+        }
+    }
+}
