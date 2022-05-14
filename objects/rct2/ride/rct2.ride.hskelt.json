@@ -27,7 +27,7 @@
             "recalculateSpriteBounds": true
         }
     },
-    "images": ["$RCT2:OBJDATA/HSKELT.DAT[0..2]"],
+    "images": ["$RCT2:OBJDATA/HSKELT.DAT[0..2]", "$G1[20548..20751]"],
     "strings": {
         "name": {
             "en-GB": "Spiral Slide",
