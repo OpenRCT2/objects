@@ -26,3 +26,22 @@ jobs:
           else
               exit 1
           fi
+  build-objects:
+    name: Build objects
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Create objects.zip
+      run: ./package
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v2
+      with:
+        name: "OpenRCT2 Objects"
+        path: artifacts/objects.zip
+    - name: Create release
+      uses: softprops/action-gh-release@v1
+      if: startsWith(github.ref, 'refs/tags/v')
+      with:
+        fail_on_unmatched_files: true
+        files: artifacts/objects.zip
