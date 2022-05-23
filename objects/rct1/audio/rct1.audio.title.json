@@ -1,0 +1,21 @@
+{
+    "id": "rct1.audio.title",
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct1",
+        "rct1ll"
+    ],
+    "objectType": "audio",
+    "samples": [
+        "$RCT1:DATA/CSS17.DAT"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes)."
+        }
+    }
+}
