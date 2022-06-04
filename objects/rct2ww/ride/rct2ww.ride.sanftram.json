@@ -51,7 +51,7 @@
                 "loadingPositions": [12, -12, 12, -12, 12, -12, 13, 11, -13, -11]
             },
             {
-                "rotationFrameMask": 31,
+                "rotationFrameMask": 0,
                 "spacing": 34864,
                 "frictionSoundId": 31,
                 "soundRange": 4,
@@ -59,15 +59,15 @@
                 "poweredMaxSpeed": 19,
                 "carVisual": 1,
                 "drawOrder": 8,
-                "frames": {
-                    "flat": true
+                "spriteGroups": {
+                    "slopeFlat":1
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SANFTRAM.DAT[0..802]"],
+    "images": ["$RCT2:OBJDATA/SANFTRAM.DAT[0..770]", ""],
     "strings": {
         "name": {
             "en-GB": "San Francisco Trams",

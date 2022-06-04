@@ -54,21 +54,21 @@
                 "loadingPositions": [3, -3]
             },
             {
-                "rotationFrameMask": 31,
+                "rotationFrameMask": 0,
                 "spacing": 34864,
                 "poweredAcceleration": 40,
                 "poweredMaxSpeed": 5,
                 "carVisual": 1,
                 "drawOrder": 8,
-                "frames": {
-                    "flat": true
+                "spriteGroups": {
+                    "slopeFlat":1
                 },
                 "isPowered": true
             }
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/HELICAR.DAT[0..866]"],
+    "images": ["$RCT2:OBJDATA/HELICAR.DAT[0..834]", ""],
     "strings": {
         "name": {
             "en-GB": "Mini Helicopters",

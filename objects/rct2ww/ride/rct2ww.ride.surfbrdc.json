@@ -63,26 +63,15 @@
                 "loadingPositions": [-2, -4, -2, -4]
             },
             {
-                "rotationFrameMask": 31,
+                "rotationFrameMask": 0,
                 "spacing": 69728,
                 "mass": 525,
                 "frictionSoundId": 57,
                 "soundRange": 0,
+                "carVisual": 1,
                 "drawOrder": 8,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true,
-                    "steepSlopes": true,
-                    "verticalSlopes": true,
-                    "diagonalSlopes": true,
-                    "flatBanked": true,
-                    "inlineTwists": true,
-                    "flatToGentleSlopeBankedTransitions": true,
-                    "diagonalGentleSlopeBankedTransitions": true,
-                    "gentleSlopeBankedTransitions": true,
-                    "gentleSlopeBankedTurns": true,
-                    "flatToGentleSlopeWhileBankedTransitions": true,
-                    "corkscrews": true
+                "spriteGroups": {
+                    "slopeFlat":1
                 },
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
@@ -90,7 +79,7 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SURFBRDC.DAT[0..3350]"],
+    "images": ["$RCT2:OBJDATA/SURFBRDC.DAT[0..2522]", ""],
     "strings": {
         "name": {
             "en-GB": "Surfing Trains",

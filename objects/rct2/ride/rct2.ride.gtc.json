@@ -51,14 +51,14 @@
                 "loadingPositions": [3, -3]
             },
             {
-                "rotationFrameMask": 31,
+                "rotationFrameMask": 0,
                 "spacing": 34864,
                 "poweredAcceleration": 80,
                 "poweredMaxSpeed": 9,
                 "carVisual": 1,
                 "drawOrder": 8,
-                "frames": {
-                    "flat": true
+                "spriteGroups": {
+                    "slopeFlat":1
                 },
                 "isPoweredRideWithUnrestrictedGravity": true,
                 "hasNoUpstopWheels": true,
@@ -69,7 +69,7 @@
         ],
         "buildMenuPriority": 2
     },
-    "images": ["$RCT2:OBJDATA/GTC.DAT[0..242]"],
+    "images": ["$RCT2:OBJDATA/GTC.DAT[0..210]", ""],
     "strings": {
         "name": {
             "en-GB": "Ghost Train Cars",

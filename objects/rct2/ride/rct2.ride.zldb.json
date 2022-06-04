@@ -76,21 +76,21 @@
                 "loadingPositions": [2, 4]
             },
             {
-                "rotationFrameMask": 31,
+                "rotationFrameMask": 0,
                 "spacing": 34864,
                 "frictionSoundId": 2,
                 "soundRange": 2,
                 "carVisual": 1,
                 "drawOrder": 8,
-                "frames": {
-                    "flat": true
+                "spriteGroups": {
+                    "slopeFlat":1
                 },
                 "hasScreamingRiders": true
             }
         ],
         "buildMenuPriority": 3
     },
-    "images": ["$RCT2:OBJDATA/ZLDB.DAT[0..1490]"],
+    "images": ["$RCT2:OBJDATA/ZLDB.DAT[0..1458]", ""],
     "strings": {
         "name": {
             "en-GB": "Ladybird Trains",

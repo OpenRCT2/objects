@@ -50,14 +50,14 @@
                 "loadingPositions": [ 0 ]
             },
             {
-                "rotationFrameMask": 31,
+                "rotationFrameMask": 0,
                 "spacing": 34864,
                 "frictionSoundId": 2,
                 "soundRange": 2,
                 "carVisual": 1,
                 "drawOrder": 8,
-                "frames": {
-                    "flat": true
+                "spriteGroups": {
+                    "slopeFlat":1
                 },
                 "hasScreamingRiders": true
             }
@@ -796,37 +796,6 @@
         { "path": "images/000728.png","x": -4, "y": -16 },
         { "path": "images/000729.png","x": -9, "y": -16 },
         { "path": "images/000730.png","x": -5, "y": -13 },
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
         ""
     ],
     "strings": {

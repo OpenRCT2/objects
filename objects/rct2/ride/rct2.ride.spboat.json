@@ -53,7 +53,7 @@
                 "loadingPositions": [14, 12, 14, 12, 6, 4, 6, 4, -6, -4, -6, -4, -14, -12, -14, -12]
             },
             {
-                "rotationFrameMask": 31,
+                "rotationFrameMask": 0,
                 "spacing": 87160,
                 "soundRange": 0,
                 "poweredAcceleration": 255,
@@ -61,8 +61,8 @@
                 "carVisual": 8,
                 "effectVisual": 13,
                 "drawOrder": 8,
-                "frames": {
-                    "flat": true
+                "spriteGroups": {
+                    "slopeFlat":1
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true,
@@ -72,7 +72,7 @@
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/SPBOAT.DAT[0..1690]"],
+    "images": ["$RCT2:OBJDATA/SPBOAT.DAT[0..1658]", ""],
     "strings": {
         "name": {
             "en-GB": "Splash Boats",

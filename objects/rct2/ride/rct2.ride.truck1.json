@@ -47,14 +47,14 @@
                 "loadingPositions": [4]
             },
             {
-                "rotationFrameMask": 31,
+                "rotationFrameMask": 0,
                 "spacing": 34864,
                 "poweredAcceleration": 80,
                 "poweredMaxSpeed": 8,
                 "carVisual": 1,
                 "drawOrder": 8,
-                "frames": {
-                    "flat": true
+                "spriteGroups": {
+                    "slopeFlat":1
                 },
                 "isPowered": true
             }
@@ -65,7 +65,8 @@
         "$RCT2:OBJDATA/TRUCK1.DAT[1]",
         "",
         "",
-        "$RCT2:OBJDATA/TRUCK1.DAT[3..266]"
+        "$RCT2:OBJDATA/TRUCK1.DAT[3..234]",
+        ""
     ],
     "strings": {
         "name": {
