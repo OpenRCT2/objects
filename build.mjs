@@ -7,7 +7,7 @@ import { platform } from 'os';
 const verbose = process.argv.indexOf('--verbose') != -1;
 
 async function main() {
-    // fs.cpSync('objects', 'artifacts', {recursive: true});
+    fs.cpSync('objects', 'artifacts', {recursive: true});
     const objects = await getObjects('artifacts');
     for (const obj of objects) {
         const images = obj.images;
@@ -29,6 +29,16 @@ async function main() {
             reprocessObject(obj);
 	}
     }
+    for (const obj in objects) {
+	var fullPath = path.join(obj.cwd, 'object.json');
+        fs.stat(fullPath, (err, stat) => {
+            if (stat) {
+                // Zip the file into a parkobj
+            }
+        );
+        console.log();
+    }
+    // Zip everything into a objects.zip
 }
 
 async function getObjects(dir) {
@@ -48,11 +58,18 @@ async function getObjects(dir) {
 
 async function reprocessObject(obj) {
     console.log(`Reprocessing ${obj.id}`);
+    var cwd = obj.cwd;
     //startProcess(path.join(process.cwd(),'gxc'), [''],obj.cwd);
     await writeJsonFile(path.join(obj.cwd, 'images.json'), obj.images);
     await compileGx(obj.cwd, 'images.json', 'images.dat');
     var imageCount = await getGxImageCount(obj.cwd, 'images.dat');
     console.log(`Num Images ${imageCount}`);
+    obj.images = `$LGX:images.dat[0..${imageCount - 1}]`;
+    obj.cwd = undefined;
+    await writeJsonFile(path.join(cwd, 'object.json'), obj);
+    obj.cwd = cwd;
+    rm(path.join(cwd, 'images.json'));
+    rm(path.join(cwd, 'images'));
 }
 
 function compileGx(cwd, manifest, outputFile) {
@@ -134,6 +151,14 @@ function getAllFiles(root) {
     });
 }
 
+function zip(cwd, outputFile, paths) {
+    if (platform() == 'win32') {
+        return startProcess('7z', ['a', '-tzip', outputFile, ...paths], cwd);
+    } else {
+        return startProcess('zip', [outputFile, ...paths], cwd);
+    }
+}
+
 function startProcess(name, args, cwd) {
     return new Promise((resolve, reject) => {
         const options = {};
@@ -161,6 +186,39 @@ function startProcess(name, args, cwd) {
                 reject(new Error(`${name} failed:\n${stdout}`));
             } else {
                 resolve(stdout);
+            }
+        });
+    });
+}
+
+function rm(filename) {
+    if (verbose) {
+        console.log(`Deleting ${filename}`)
+    }
+    return new Promise((resolve, reject) => {
+        fs.stat(filename, (err, stat) => {
+            if (err) {
+                if (err.code == 'ENOENT') {
+                    resolve();
+                } else {
+                    reject();
+                }
+            } else {
+                if (stat.isDirectory()) {
+                    fs.rm(filename, { recursive: true }, err => {
+                        if (err) {
+                            reject(err);
+                        }
+                        resolve();
+                    });
+                } else {
+                    fs.unlink(filename, err => {
+                        if (err) {
+                            reject(err);
+                        }
+                        resolve();
+                    });
+                }
             }
         });
     });
