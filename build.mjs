@@ -9,29 +9,44 @@ const verbose = process.argv.indexOf('--verbose') != -1;
 async function main() {
     fs.cpSync('objects', 'artifacts', {recursive: true});
     const objects = await getObjects('artifacts');
-    reprocessObjects(objects);
-    zipParkObjs(objects);
-    zipObjects();
+    await reprocessObjects(objects);
+    await zipParkObjs(objects);
+    await zipObjects();
 }
 
-function zipObjects(){
+async function zipObjects(){
     // Zip everything into a objects.zip
-    zip('', 'objects.zip', ['-r', 'artifacts\\']);
+    await zip('artifacts', 'objects.zip', ['-r']);
+    await rm('artifacts\\official');
+    await rm('artifacts\\rct1');
+    await rm('artifacts\\rct2');
+    await rm('artifacts\\rct2tt');
+    await rm('artifacts\\rct2ww');
 }
 
-function zipParkObjs(objects){
+async function zipParkObj(obj) {
+    console.log(`${obj.id}`);
+    // Zip the file into a parkobj
+    await zip(obj.cwd, `${obj.id}.parkobj`, ['*.*']);
+    await rm(path.join(obj.cwd, 'images.dat'));
+    await rm(path.join(obj.cwd, 'object.json'));
+    await rm(path.join(obj.cwd, 'images'));
+}
+
+async function zipParkObjs(objects){
+    const zipObjs = [];
     for (const obj of objects) {
 	var fullPath = path.join(obj.cwd, 'object.json');
         fs.stat(fullPath, (err, stat) => {
             if (stat) {
-	        console.log(`${obj.id}`);
-                // Zip the file into a parkobj
-                zip(obj.cwd, `${obj.id}.parkobj`, ['*.*']);
+		zipObjs.push(zipParkObj(obj));
 	    }
 	});
     }
+    await Promise.all(zipObjs);
 }
-function reprocessObjects(objects) {
+async function reprocessObjects(objects) {
+    const reprocessObjs = [];
     for (const obj of objects) {
         const images = obj.images;
 	if (images === undefined) {
@@ -49,9 +64,10 @@ function reprocessObjects(objects) {
             requiresProcessing = false;
 	}
 	if (requiresProcessing) {
-            reprocessObject(obj);
+            reprocessObjs.push(reprocessObject(obj));
 	}
     }
+    await Promise.all(reprocessObjs);
 }
 async function getObjects(dir) {
     const result = [];
@@ -80,8 +96,8 @@ async function reprocessObject(obj) {
     obj.cwd = undefined;
     await writeJsonFile(path.join(cwd, 'object.json'), obj);
     obj.cwd = cwd;
-    rm(path.join(cwd, 'images.json'));
-    rm(path.join(cwd, 'images'));
+    await rm(path.join(cwd, 'images.json'));
+    await rm(path.join(cwd, 'images'));
 }
 
 function compileGx(cwd, manifest, outputFile) {
@@ -163,7 +179,7 @@ function getAllFiles(root) {
     });
 }
 
-function zip(cwd, outputFile, paths) {
+async function zip(cwd, outputFile, paths) {
     if (platform() == 'win32') {
         return startProcess('7z', ['a', '-tzip', outputFile, ...paths], cwd);
     } else {
