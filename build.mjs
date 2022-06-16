@@ -4,44 +4,56 @@ import path from 'path';
 import { spawn } from 'child_process';
 import { platform } from 'os';
 
+const parallel = process.argv.indexOf('--parallel') != -1;
 const verbose = process.argv.indexOf('--verbose') != -1;
 
 async function main() {
-    fs.cpSync('objects', 'artifacts', {recursive: true});
+    await cp('objects', 'artifacts');
     const objects = await getObjects('artifacts');
     await reprocessObjects(objects);
     await zipParkObjs(objects);
     await zipObjects();
 }
 
-async function zipObjects(){
+async function zipObjects() {
     // Zip everything into a objects.zip
-    await zip('artifacts', 'objects.zip', ['-r']);
-    await rm('artifacts\\official');
-    await rm('artifacts\\rct1');
-    await rm('artifacts\\rct2');
-    await rm('artifacts\\rct2tt');
-    await rm('artifacts\\rct2ww');
+    console.log("Creating objects.zip");
+    const root = 'artifacts';
+    const directories = await getContents(root, {
+        includeDirectories: true
+    });
+    await zip(root, 'objects.zip', directories, {
+        recurse: true
+    });
+    for (const dir of directories) {
+        await rm(path.join(root, dir));
+    }
 }
 
 async function zipParkObj(obj) {
-    console.log(`${obj.id}`);
+    console.log(`Creating ${obj.id}.parkobj`);
     // Zip the file into a parkobj
-    await zip(obj.cwd, `${obj.id}.parkobj`, ['*.*']);
-    await rm(path.join(obj.cwd, 'images.dat'));
-    await rm(path.join(obj.cwd, 'object.json'));
-    await rm(path.join(obj.cwd, 'images'));
+    const files = await getContents(obj.cwd, {
+        includeFiles: true,
+        recurse: true
+    });
+    await zip(obj.cwd, `${obj.id}.parkobj`, files);
+    for (const file of files) {
+        await rm(path.join(obj.cwd, file));
+    }
 }
 
-async function zipParkObjs(objects){
+async function zipParkObjs(objects) {
     const zipObjs = [];
     for (const obj of objects) {
-	var fullPath = path.join(obj.cwd, 'object.json');
-        fs.stat(fullPath, (err, stat) => {
-            if (stat) {
-		zipObjs.push(zipParkObj(obj));
-	    }
-	});
+        var fullPath = path.join(obj.cwd, 'object.json');
+        if (await fileExists(fullPath)) {
+            if (parallel) {
+                zipObjs.push(zipParkObj(obj));
+            } else {
+                await zipParkObj(obj);
+            }
+        }
     }
     await Promise.all(zipObjs);
 }
@@ -49,29 +61,37 @@ async function reprocessObjects(objects) {
     const reprocessObjs = [];
     for (const obj of objects) {
         const images = obj.images;
-	if (images === undefined) {
+        if (images === undefined) {
             continue;
-	}
-	var requiresProcessing = true;
+        }
+        var requiresProcessing = true;
         if (typeof images[Symbol.iterator] === 'function') {
-	    if (images.length === 0) requiresProcessing = false;
+            if (images.length === 0) requiresProcessing = false;
             for (const image of images) {
                 if (typeof image === 'string') {
                     requiresProcessing = false;
-		}    
-	    }
+                }
+            }
         } else {
             requiresProcessing = false;
-	}
-	if (requiresProcessing) {
-            reprocessObjs.push(reprocessObject(obj));
-	}
+        }
+        if (requiresProcessing) {
+            if (parallel) {
+                reprocessObjs.push(reprocessObject(obj));
+            } else {
+                await reprocessObject(obj);
+            }
+        }
     }
     await Promise.all(reprocessObjs);
 }
 async function getObjects(dir) {
     const result = [];
-    const files = await getAllFiles(dir);
+    const files = await getContents(dir, {
+        includeFiles: true,
+        recurse: true,
+        useFullPath: true
+    });
     for (const file of files) {
         const jsonRegex = /^.+\..+\.json$/;
         if (jsonRegex.test(file)) {
@@ -86,12 +106,10 @@ async function getObjects(dir) {
 
 async function reprocessObject(obj) {
     console.log(`Reprocessing ${obj.id}`);
-    var cwd = obj.cwd;
-    //startProcess(path.join(process.cwd(),'gxc'), [''],obj.cwd);
+    const cwd = obj.cwd;
     await writeJsonFile(path.join(obj.cwd, 'images.json'), obj.images);
     await compileGx(obj.cwd, 'images.json', 'images.dat');
     var imageCount = await getGxImageCount(obj.cwd, 'images.dat');
-    console.log(`Num Images ${imageCount}`);
     obj.images = `$LGX:images.dat[0..${imageCount - 1}]`;
     obj.cwd = undefined;
     await writeJsonFile(path.join(cwd, 'object.json'), obj);
@@ -101,11 +119,11 @@ async function reprocessObject(obj) {
 }
 
 function compileGx(cwd, manifest, outputFile) {
-    return startProcess(path.join(process.cwd(), 'gxc'), ['build', outputFile, manifest], cwd);
+    return startProcess('gxc', ['build', outputFile, manifest], cwd);
 }
 
 async function getGxImageCount(cwd, inputFile) {
-    const stdout = await startProcess(path.join(process.cwd(), 'gxc'), ['details', inputFile], cwd);
+    const stdout = await startProcess('gxc', ['details', inputFile], cwd);
     const result = stdout.match(/numEntries: ([0-9]+)/);
     if (result) {
         return parseInt(result[1]);
@@ -139,28 +157,31 @@ function writeJsonFile(path, data) {
     });
 }
 
-function getAllFiles(root) {
+function getContents(root, options) {
     return new Promise((resolve, reject) => {
         const results = [];
         let pending = 0;
-        const find = (root) => {
+        const find = (root, relative) => {
             pending++;
             fs.readdir(root, (err, fileNames) => {
-                // if (err) {
-                //     reject(err);
-                // }
                 for (const fileName of fileNames) {
                     const fullPath = path.join(root, fileName);
+                    const relativePath = path.join(relative, fileName);
                     pending++;
                     fs.stat(fullPath, (err, stat) => {
-                        // if (err) {
-                        //     reject(err);
-                        // }
                         if (stat) {
+                            const result = options.useFullPath === true ? fullPath : relativePath;
                             if (stat.isDirectory()) {
-                                find(fullPath);
+                                if (options.includeDirectories === true) {
+                                    results.push(result);
+                                }
+                                if (options.recurse === true) {
+                                    find(fullPath, relativePath);
+                                }
                             } else {
-                                results.push(fullPath);
+                                if (options.includeFiles === true) {
+                                    results.push(result);
+                                }
                             }
                         }
                         pending--;
@@ -175,15 +196,19 @@ function getAllFiles(root) {
                 }
             });
         };
-        find(root);
+        find(root, "");
     });
 }
 
-async function zip(cwd, outputFile, paths) {
+async function zip(cwd, outputFile, paths, options) {
+    if (await fileExists(path.join(cwd, outputFile))) {
+        await rm(outputFile);
+    }
+    const extraArgs = options && options.recurse ? ['-r'] : [];
     if (platform() == 'win32') {
-        return startProcess('7z', ['a', '-tzip', outputFile, ...paths], cwd);
+        return startProcess('7z', ['a', '-tzip', ...extraArgs, outputFile, ...paths], cwd);
     } else {
-        return startProcess('zip', [outputFile, ...paths], cwd);
+        return startProcess('zip', [...extraArgs, outputFile, ...paths], cwd);
     }
 }
 
@@ -192,7 +217,7 @@ function startProcess(name, args, cwd) {
         const options = {};
         if (cwd) options.cwd = cwd;
         if (verbose) {
-            console.log(`Launching \"${name} ${cwd} ${args.join(' ')}\"`);
+            console.log(`Launching \"${name} ${args.join(' ')}\" in \"${cwd}\"`);
         }
         const child = spawn(name, args, options);
         let stdout = '';
@@ -217,6 +242,19 @@ function startProcess(name, args, cwd) {
             }
         });
     });
+}
+
+function fileExists(path) {
+    return new Promise(resolve => {
+        fs.stat(path, (err, stat) => {
+            resolve(!!stat);
+        });
+    });
+}
+
+function cp(src, dst) {
+    fs.cpSync(src, dst, { recursive: true });
+    return Promise.resolve();
 }
 
 function rm(filename) {
