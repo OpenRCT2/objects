@@ -9,6 +9,29 @@ const verbose = process.argv.indexOf('--verbose') != -1;
 async function main() {
     fs.cpSync('objects', 'artifacts', {recursive: true});
     const objects = await getObjects('artifacts');
+    reprocessObjects(objects);
+    zipParkObjs(objects);
+    zipObjects();
+}
+
+function zipObjects(){
+    // Zip everything into a objects.zip
+    zip('', 'objects.zip', ['-r', 'artifacts\\']);
+}
+
+function zipParkObjs(objects){
+    for (const obj of objects) {
+	var fullPath = path.join(obj.cwd, 'object.json');
+        fs.stat(fullPath, (err, stat) => {
+            if (stat) {
+	        console.log(`${obj.id}`);
+                // Zip the file into a parkobj
+                zip(obj.cwd, `${obj.id}.parkobj`, ['*.*']);
+	    }
+	});
+    }
+}
+function reprocessObjects(objects) {
     for (const obj of objects) {
         const images = obj.images;
 	if (images === undefined) {
@@ -29,18 +52,7 @@ async function main() {
             reprocessObject(obj);
 	}
     }
-    for (const obj in objects) {
-	var fullPath = path.join(obj.cwd, 'object.json');
-        fs.stat(fullPath, (err, stat) => {
-            if (stat) {
-                // Zip the file into a parkobj
-            }
-        );
-        console.log();
-    }
-    // Zip everything into a objects.zip
 }
-
 async function getObjects(dir) {
     const result = [];
     const files = await getAllFiles(dir);
