@@ -8,6 +8,7 @@ const parallel = process.argv.indexOf('--parallel') != -1;
 const verbose = process.argv.indexOf('--verbose') != -1;
 
 async function main() {
+    await rm('artifacts');
     await cp('objects', 'artifacts');
     const objects = await getObjects('artifacts');
     await reprocessObjects(objects);
@@ -32,15 +33,15 @@ async function zipObjects() {
 
 async function zipParkObj(obj) {
     console.log(`Creating ${obj.id}.parkobj`);
-    // Zip the file into a parkobj
+    // Zip the folder into a parkobj
     const files = await getContents(obj.cwd, {
-        includeFiles: true,
+        includeDirectories: true,
+        includeFiles: true
+    });
+    await zip(obj.cwd, `../${obj.id}.parkobj`, files, {
         recurse: true
     });
-    await zip(obj.cwd, `${obj.id}.parkobj`, files);
-    for (const file of files) {
-        await rm(path.join(obj.cwd, file));
-    }
+    await rm(obj.cwd);
 }
 
 async function zipParkObjs(objects) {
@@ -57,6 +58,7 @@ async function zipParkObjs(objects) {
     }
     await Promise.all(zipObjs);
 }
+
 async function reprocessObjects(objects) {
     const reprocessObjs = [];
     for (const obj of objects) {
@@ -85,6 +87,7 @@ async function reprocessObjects(objects) {
     }
     await Promise.all(reprocessObjs);
 }
+
 async function getObjects(dir) {
     const result = [];
     const files = await getContents(dir, {
@@ -253,6 +256,9 @@ function fileExists(path) {
 }
 
 function cp(src, dst) {
+    if (verbose) {
+        console.log(`Copying ${src} to ${dst}`)
+    }
     fs.cpSync(src, dst, { recursive: true });
     return Promise.resolve();
 }
