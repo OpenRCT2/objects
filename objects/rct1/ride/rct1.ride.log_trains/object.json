@@ -514,13 +514,58 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Log Trains"
+            "en-GB": "Log Trains",
+            "fr-FR": "Train-bûche",
+            "de-DE": "Baumstammzüge",
+            "es-ES": "Trenes Tronco",
+            "it-IT": "Tronchi",
+            "nl-NL": "Boomstronktreinen",
+            "sv-SE": "Stocktåg",
+            "ko-KR": "통나무 차량",
+            "zh-CN": "原木列车",
+            "zh-TW": "原木列車",
+            "pt-BR": "Trens de Tronco",
+            "cs-CZ": "Kládové vozy",
+            "ja-JP": "ログ車両",
+            "pl-PL": "Pociąg drwali",
+            "ru-RU": "Бревна",
+            "eo-ZZ": "Ŝtipo-Trajnoj"
         },
         "description": {
-            "en-GB": "Roller coaster trains with small log-shaped cars"
+            "en-GB": "Roller coaster trains with small log-shaped cars",
+            "fr-FR": "Train de montagnes russes composé de petites voitures en forme de bûche",
+            "de-DE": "Achterbahnzüge mit kleinen baumstammförmigen Wagen",
+            "es-ES": "Montaña rusa con vagones en forma de tronco",
+            "it-IT": "Treni da ottovolante con carrozze a forma di tronchi",
+            "nl-NL": "Achtbaantrein met kleine karretjes in de vorm van een boomstronk.",
+            "sv-SE": "Små stockformade berg- och dalbanevagnar",
+            "ko-KR": "작은 통나무 모양의 롤러코스터 차량",
+            "zh-CN": "过山车列车是以小型原木外形的",
+            "zh-TW": "雲霄飛車列車是以小型原木外形的",
+            "pt-BR": "Trens de montanha-russa com pequenos vagões em forma de tronco",
+            "cs-CZ": "Horská dráha s vozy ve tvaru klád",
+            "ja-JP": "丸太の形をした車両のローラーコースターです",
+            "pl-PL": "Kolejka górska z wagonikami w kształcie pni drzew",
+            "ru-RU": "Поезда с небольшими вагончиками.",
+            "eo-ZZ": "Trajnoj de onda fervojo kun malgrandaj ŝtipoformaj ĉaroj"
         },
         "capacity": {
-            "en-GB": "2 passengers per car"
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por vagón",
+            "it-IT": "2 passeggeri a carrozza",
+            "nl-NL": "2 passagiers per karretje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량당 2명의 승객",
+            "zh-CN": "2 位乘客/每个车厢",
+            "zh-TW": "2 位乘客/每個車廂",
+            "pt-BR": "2 passageiros por vagão",
+            "cs-CZ": "2 místa v každém vozu",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира",
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
         }
     }
 }

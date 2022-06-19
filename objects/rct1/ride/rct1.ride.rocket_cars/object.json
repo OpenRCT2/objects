@@ -463,13 +463,60 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Rocket Cars"
+            "en-GB": "Rocket Cars",
+            "fr-FR": "Fusées",
+            "de-DE": "Raketenwagen",
+            "es-ES": "Coches Cohete",
+            "it-IT": "Razzi",
+            "nl-NL": "Raketkarretjes",
+            "sv-SE": "Raketvagnar",
+            "ko-KR": "로켓 차량",
+            "zh-CN": "火箭车",
+            "zh-TW": "火箭車",
+            "pt-BR": "Carros-foguete",
+            "cs-CZ": "Raketová auta",
+            "ja-JP": "ロケットカー",
+            "pl-PL": "Samochody rakietowe",
+            "ru-RU": "Ракеты",
+            "ar-EG": "سيارات صواريخ",
+            "eo-ZZ": "Raketo-Ĉaroj"
         },
         "description": {
-            "en-GB": "Roller coaster cars themed to look like rockets"
+            "en-GB": "Roller coaster cars themed to look like rockets",
+            "fr-FR": "Voitures de montagnes russes en forme de fusées",
+            "de-DE": "Achterbahnwagen, die wie Raketen aussehen",
+            "es-ES": "Montaña rusa con vagones en forma de cohetes",
+            "it-IT": "Carrozze di ottovolante a forma di razzi",
+            "nl-NL": "Achtbaankarretjes in de vorm van een raket.",
+            "sv-SE": "Raketformade berg- och dalbanevagnar",
+            "ko-KR": "로켓처럼 꾸며져 있는 롤러코스터 차량",
+            "zh-CN": "过山车列车的特色像火箭",
+            "zh-TW": "雲霄飛車列車的特色像火箭",
+            "pt-BR": "Carros de montanha-russa que se parecem com foguetes",
+            "cs-CZ": "Horská dráha s vozy vypadajícími jako rakety",
+            "ja-JP": "車両をロケットに見立てたローラーコースターです",
+            "pl-PL": "Wagoniki w kształcie rakiet",
+            "ru-RU": "Вагончики для горок в виде ракет",
+            "ar-EG": "سيارات أفعوانية بشكل صواريخ",
+            "eo-ZZ": "Ĉaroj de onda fervojo, temitaj por aspekti kiel raketoj"
         },
         "capacity": {
-            "en-GB": "2 passengers per car" 
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por vagón",
+            "it-IT": "2 passeggeri a carrozza",
+            "nl-NL": "2 passagiers per karretje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량당 2명의 승객",
+            "zh-CN": "2 位乘客/每个车厢",
+            "zh-TW": "2 位乘客/每個車廂",
+            "pt-BR": "2 passageiros por carro",
+            "cs-CZ": "2 místa v každém voze",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира",
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
         }
     }
 }
