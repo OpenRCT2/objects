@@ -4,6 +4,7 @@ import path from 'path';
 import { spawn } from 'child_process';
 import { platform } from 'os';
 
+const noZip = process.argv.indexOf('--no-zip') != -1;
 const parallel = process.argv.indexOf('--parallel') != -1;
 const verbose = process.argv.indexOf('--verbose') != -1;
 
@@ -13,7 +14,9 @@ async function main() {
     const objects = await getObjects('artifacts');
     await reprocessObjects(objects);
     await zipParkObjs(objects);
-    await zipObjects();
+    if (!noZip) {
+        await zipObjects();
+    }
 }
 
 async function zipObjects() {
@@ -68,10 +71,13 @@ async function reprocessObjects(objects) {
         }
         var requiresProcessing = true;
         if (typeof images[Symbol.iterator] === 'function') {
-            if (images.length === 0) requiresProcessing = false;
-            for (const image of images) {
-                if (typeof image === 'string') {
-                    requiresProcessing = false;
+            if (images.length === 0 || images.every(isImageEmpty)) {
+                requiresProcessing = false;
+            } else {
+                for (const image of images) {
+                    if (!isImageLgxCompatible(image)) {
+                        requiresProcessing = false;
+                    }
                 }
             }
         } else {
@@ -86,6 +92,22 @@ async function reprocessObjects(objects) {
         }
     }
     await Promise.all(reprocessObjs);
+}
+
+function isImageEmpty(image) {
+    return typeof image === 'string' && (image === "" || image.startsWith("$["));
+}
+
+function isImageLgxCompatible(image) {
+    if (typeof image === 'string') {
+        if (isImageEmpty(image)) {
+            return true;
+        } else {
+            return false;
+        }
+    } else {
+        return true;
+    }
 }
 
 async function getObjects(dir) {
