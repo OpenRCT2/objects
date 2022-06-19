@@ -3,10 +3,10 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.1",
     "originalId": "0A188B80|RCKC    |546E3576",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": ["rct2"],
     "objectType": "ride",
     "properties": {
-        "type": ["classic_mini_rc", "mini_rc"],
+        "type": ["mini_rc"],
         "category": "rollercoaster",
         "minCarsPerTrain": 1,
         "maxCarsPerTrain": 3,
@@ -53,8 +53,8 @@
         "buildMenuPriority": 2
     },
     "images": [
-        { "path": "images/preview2.png", "format": "raw" },
         "$RCT2:OBJDATA/RCKC.DAT[1]",
+        "",
         "",
         "$RCT2:OBJDATA/RCKC.DAT[3..1778]"
     ],
