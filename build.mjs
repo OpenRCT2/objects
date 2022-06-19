@@ -65,30 +65,10 @@ async function zipParkObjs(objects) {
 async function reprocessObjects(objects) {
     const reprocessObjs = [];
     for (const obj of objects) {
-        const images = obj.images;
-        if (images === undefined) {
-            continue;
-        }
-        var requiresProcessing = true;
-        if (typeof images[Symbol.iterator] === 'function') {
-            if (images.length === 0 || images.every(isImageEmpty)) {
-                requiresProcessing = false;
-            } else {
-                for (const image of images) {
-                    if (!isImageLgxCompatible(image)) {
-                        requiresProcessing = false;
-                    }
-                }
-            }
+        if (parallel) {
+            reprocessObjs.push(reprocessObject(obj));
         } else {
-            requiresProcessing = false;
-        }
-        if (requiresProcessing) {
-            if (parallel) {
-                reprocessObjs.push(reprocessObject(obj));
-            } else {
-                await reprocessObject(obj);
-            }
+            await reprocessObject(obj);
         }
     }
     await Promise.all(reprocessObjs);
@@ -108,6 +88,14 @@ function isImageLgxCompatible(image) {
     } else {
         return true;
     }
+}
+
+function isImageLgxRequired(image) {
+    return typeof image !== 'string';
+}
+
+function shouldProcessImageArray(images) {
+    return Array.isArray(images) && images.findIndex(isImageLgxRequired) != -1;
 }
 
 async function getObjects(dir) {
@@ -130,31 +118,72 @@ async function getObjects(dir) {
 }
 
 async function reprocessObject(obj) {
+    const processImages = shouldProcessImageArray(obj.images);
+    const processNoCsgImages = shouldProcessImageArray(obj.noCsgImages);
+    if (!processImages && !processNoCsgImages)
+        return;
+
     console.log(`Reprocessing ${obj.id}`);
+    if (processImages) {
+        obj.images = await processImageArray(obj.cwd, obj.images, 'images.dat');
+    }
+    if (processNoCsgImages) {
+        obj.noCsgImages = await processImageArray(obj.cwd, obj.noCsgImages, 'images2.dat');
+    }
+
+    // Update object.json file
     const cwd = obj.cwd;
-    await writeJsonFile(path.join(obj.cwd, 'images.json'), obj.images);
-    await compileGx(obj.cwd, 'images.json', 'images.dat');
-    var imageCount = await getGxImageCount(obj.cwd, 'images.dat');
-    obj.images = `$LGX:images.dat[0..${imageCount - 1}]`;
     obj.cwd = undefined;
     await writeJsonFile(path.join(cwd, 'object.json'), obj);
     obj.cwd = cwd;
-    await rm(path.join(cwd, 'images.json'));
+
+    // Clean up
     await rm(path.join(cwd, 'images'));
+    const files = await getContents(cwd, {
+        includeFiles: true,
+        useFullPath: true
+    });
+    for (const file of files) {
+        if (file.endsWith('.png')) {
+            await rm(file);
+        }
+    }
+}
+
+async function processImageArray(cwd, images, lgxFilename) {
+    let gxcImages = [];
+    let newImages = [];
+    const gxcRange = {
+        begin: 0,
+        end: -1
+    };
+    const pushGxcRange = () => {
+        if (gxcRange.begin <= gxcRange.end) {
+            newImages.push(`$LGX:${lgxFilename}[${gxcRange.begin}..${gxcRange.end}]`);
+            gxcRange.begin = gxcRange.end + 1;
+        }
+    }
+
+    for (const image of images) {
+        if (isImageLgxCompatible(image)) {
+            gxcImages.push(image);
+            gxcRange.end++;
+        } else {
+            pushGxcRange();
+            newImages.push(image);
+        }
+    }
+    pushGxcRange();
+
+    await writeJsonFile(path.join(cwd, 'images.json'), gxcImages);
+    await compileGx(cwd, 'images.json', lgxFilename);
+    await rm(path.join(cwd, 'images.json'));
+
+    return newImages;
 }
 
 function compileGx(cwd, manifest, outputFile) {
     return startProcess('gxc', ['build', outputFile, manifest], cwd);
-}
-
-async function getGxImageCount(cwd, inputFile) {
-    const stdout = await startProcess('gxc', ['details', inputFile], cwd);
-    const result = stdout.match(/numEntries: ([0-9]+)/);
-    if (result) {
-        return parseInt(result[1]);
-    } else {
-        throw new Error(`Unable to get number of images for gx file: ${inputFile}`);
-    }
 }
 
 function readJsonFile(path) {
