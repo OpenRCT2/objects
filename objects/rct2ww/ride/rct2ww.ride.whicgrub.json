@@ -73,14 +73,14 @@
                 "loadingPositions": [2, 4]
             },
             {
-                "rotationFrameMask": 31,
+                "rotationFrameMask": 0,
                 "spacing": 34864,
                 "frictionSoundId": 2,
                 "soundRange": 2,
                 "carVisual": 1,
                 "drawOrder": 8,
-                "frames": {
-                    "flat": true
+                "spriteGroups": {
+                    "slopeFlat":1
                 },
                 "hasScreamingRiders": true
             }
@@ -90,7 +90,8 @@
         "$RCT2:OBJDATA/WHICGRUB.DAT[1]",
         "",
         "",
-        "$RCT2:OBJDATA/WHICGRUB.DAT[3..1490]"
+        "$RCT2:OBJDATA/WHICGRUB.DAT[3..1458]",
+        ""
     ],
     "strings": {
         "name": {

@@ -42,21 +42,21 @@
                 "loadingPositions": [4, -4]
             },
             {
-                "rotationFrameMask": 31,
+                "rotationFrameMask": 0,
                 "spacing": 34864,
                 "poweredAcceleration": 90,
                 "poweredMaxSpeed": 8,
                 "carVisual": 1,
                 "drawOrder": 8,
-                "frames": {
-                    "flat": true
+                "spriteGroups": {
+                    "slopeFlat":1
                 },
                 "isPowered": true
             }
         ],
         "buildMenuPriority": 5
     },
-    "images": ["$RCT2:OBJDATA/SPCAR.DAT[0..242]"],
+    "images": ["$RCT2:OBJDATA/SPCAR.DAT[0..210]", ""],
     "strings": {
         "name": {
             "en-GB": "Sports Cars",

@@ -43,20 +43,20 @@
                 "loadingPositions": [4, -4]
             },
             {
-                "rotationFrameMask": 31,
+                "rotationFrameMask": 0,
                 "spacing": 34864,
                 "poweredAcceleration": 90,
                 "poweredMaxSpeed": 8,
                 "carVisual": 1,
                 "drawOrder": 8,
-                "frames": {
-                    "flat": true
+                "spriteGroups": {
+                    "slopeFlat":1
                 },
                 "isPowered": true
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/CRNVFROG.DAT[0..242]"],
+    "images": ["$RCT2:OBJDATA/CRNVFROG.DAT[0..210]", ""],
     "strings": {
         "name": {
             "en-GB": "Carnival Frog Cars",

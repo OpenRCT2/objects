@@ -45,21 +45,21 @@
                 "loadingPositions": [4, -4]
             },
             {
-                "rotationFrameMask": 31,
+                "rotationFrameMask": 0,
                 "spacing": 34864,
                 "poweredAcceleration": 60,
                 "poweredMaxSpeed": 7,
                 "carVisual": 1,
                 "drawOrder": 8,
-                "frames": {
-                    "flat": true
+                "spriteGroups": {
+                    "slopeFlat":1
                 },
                 "isPowered": true
             }
         ],
         "buildMenuPriority": 2
     },
-    "images": ["$RCT2:OBJDATA/VCR.DAT[0..242]"],
+    "images": ["$RCT2:OBJDATA/VCR.DAT[0..210]", ""],
     "strings": {
         "name": {
             "en-GB": "Vintage Cars",

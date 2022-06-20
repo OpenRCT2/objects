@@ -55,21 +55,21 @@
                 "loadingPositions": [4, -4]
             },
             {
-                "rotationFrameMask": 31,
+                "rotationFrameMask": 0,
                 "spacing": 34864,
                 "poweredAcceleration": 80,
                 "poweredMaxSpeed": 8,
                 "carVisual": 1,
                 "drawOrder": 8,
-                "frames": {
-                    "flat": true
+                "spriteGroups": {
+                    "slopeFlat":1
                 },
                 "hasAdditionalColour2": true,
                 "isPowered": true
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/4X4.DAT[0..426]"],
+    "images": ["$RCT2:OBJDATA/4X4.DAT[0..394]", ""],
     "strings": {
         "name": {
             "en-GB": "Monster Trucks",

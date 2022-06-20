@@ -71,21 +71,21 @@
                 "loadingPositions": [7, 9, -3, -1]
             },
             {
-                "rotationFrameMask": 31,
+                "rotationFrameMask": 0,
                 "spacing": 34864,
                 "frictionSoundId": 2,
                 "soundRange": 2,
                 "carVisual": 1,
                 "drawOrder": 8,
-                "frames": {
-                    "flat": true
+                "spriteGroups": {
+                    "slopeFlat":1
                 },
                 "hasScreamingRiders": true
             }
         ],
         "buildMenuPriority": 3
     },
-    "images": ["$RCT2:OBJDATA/SMC1.DAT[0..622]"],
+    "images": ["$RCT2:OBJDATA/SMC1.DAT[0..590]", ""],
     "strings": {
         "name": {
             "en-GB": "Mouse Cars",

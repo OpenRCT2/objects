@@ -48,21 +48,21 @@
                 "loadingPositions": [0]
             },
             {
-                "rotationFrameMask": 31,
+                "rotationFrameMask": 0,
                 "spacing": 34864,
                 "poweredAcceleration": 110,
                 "poweredMaxSpeed": 9,
                 "carVisual": 1,
                 "drawOrder": 8,
-                "frames": {
-                    "flat": true
+                "spriteGroups": {
+                    "slopeFlat":1
                 },
                 "isPowered": true
             }
         ],
         "buildMenuPriority": 4
     },
-    "images": ["$RCT2:OBJDATA/RCR.DAT[0..242]"],
+    "images": ["$RCT2:OBJDATA/RCR.DAT[0..210]", ""],
     "strings": {
         "name": {
             "en-GB": "Racing Cars",

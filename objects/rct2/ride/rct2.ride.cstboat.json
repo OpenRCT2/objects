@@ -54,14 +54,14 @@
                 "loadingPositions": [7, 9, 2, 4, -3, -1]
             },
             {
-                "rotationFrameMask": 31,
+                "rotationFrameMask": 0,
                 "spacing": 87160,
                 "frictionSoundId": 2,
                 "soundRange": 2,
                 "carVisual": 8,
                 "drawOrder": 8,
-                "frames": {
-                    "flat": true
+                "spriteGroups": {
+                    "slopeFlat":1
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true
@@ -69,7 +69,7 @@
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/CSTBOAT.DAT[0..1762]"],
+    "images": ["$RCT2:OBJDATA/CSTBOAT.DAT[0..1730]", ""],
     "strings": {
         "name": {
             "en-GB": "Coaster Boats",
