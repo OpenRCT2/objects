@@ -208,6 +208,7 @@ module ObjectExporter =
             psi.ArgumentList.Add(inputPath)
             psi.RedirectStandardOutput <- true
             let proc = System.Diagnostics.Process.Start(psi)
+            proc.BeginOutputReadLine() // Prevents the process from hanging
             proc.WaitForExit()
         with
         | :? Win32Exception as ex when ex.NativeErrorCode = 2 ->
