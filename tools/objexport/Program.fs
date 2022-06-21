@@ -60,6 +60,7 @@ module internal Program =
           objectType = argv |> getOptionSingle "--type"
           multithreaded = argv |> hasFlag "-j"
           splitFootpaths = argv |> hasFlag "--split"
+          storePng = argv |> hasFlag "--png"
           outputParkobj = argv |> hasFlag "-z" }
 
     let printHelp () =
@@ -71,6 +72,7 @@ module internal Program =
         printfn "  --language <dir>        Specify directory for language files"
         printfn "  --type <type>           Specify type of object to export"
         printfn "  --split                 Split footpath into surface and railing objects"
+        printfn "  --png                   Store images as a .png instead of gx file"
         printfn "  -j                      Multithreaded"
         printfn "  -z                      Create .parkobj files"
         1

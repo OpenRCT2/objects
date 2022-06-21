@@ -18,6 +18,7 @@ module ObjectExporter =
 
     open System
     open System.Collections.Generic
+    open System.ComponentModel
     open System.Diagnostics
     open System.IO
     open System.Text
@@ -36,6 +37,7 @@ module ObjectExporter =
           objectType: string option
           multithreaded: bool
           splitFootpaths: bool
+          storePng: bool
           outputParkobj: bool }
 
     let printWithColour (c: ConsoleColor) (s: string) =
@@ -55,6 +57,10 @@ module ObjectExporter =
         jsonSerializer.ContractResolver <- new ObjectContractResolver()
         jsonSerializer.Serialize(jsonWriter, value, typedefof<'a>)
         sw.ToString()
+
+    let serializeToJsonFile path (value: 'a) =
+        let json = serializeToJson value + Environment.NewLine
+        File.WriteAllText(path, json, UTF8NoBOM)
 
     let createDirectory path =
         try
@@ -193,6 +199,35 @@ module ObjectExporter =
         System.IO.Compression.ZipFile.CreateFromDirectory(path, parkobjPath)
         Directory.Delete(path, true)
 
+    let gxcBuild outputPath inputPath =
+        try
+            let psi = new ProcessStartInfo()
+            psi.FileName <- "gxc"
+            psi.ArgumentList.Add("build")
+            psi.ArgumentList.Add(outputPath)
+            psi.ArgumentList.Add(inputPath)
+            psi.RedirectStandardOutput <- true
+            let proc = System.Diagnostics.Process.Start(psi)
+            proc.WaitForExit()
+        with
+        | :? Win32Exception as ex when ex.NativeErrorCode = 2 ->
+            "Unable to find gxc on PATH (pass --png to skip gxc)"
+            |> printWithColour ConsoleColor.Red
+
+    let buildGxFile outputPath images =
+        let lgxFilename = "images.dat"
+        let lgxPath = Path.Combine(outputPath, lgxFilename)
+        sprintf "Building %s" lgxFilename
+        |> printWithColour ConsoleColor.DarkGray
+        let imagePngPath = Path.Combine(outputPath, "images.png")
+        let numImages = List.length images
+        let imageJsonPath = Path.Combine(outputPath, "images.json")
+        serializeToJsonFile imageJsonPath images
+        gxcBuild lgxPath imageJsonPath
+        File.Delete(imagePngPath)
+        File.Delete(imageJsonPath)
+        [sprintf "$LGX:%s[0..%d]" lgxFilename (numImages - 1)]
+
     let exportParkObject outputPath (ourStrings: IDictionary<string, IDictionary<string, string>>) (inputPath: string) (obj: ObjectData) (options: ObjectExporterOptions) =
         let exportSubObject splitKind objId =
             let outputPath = Path.Combine(outputPath, objId)
@@ -225,6 +260,11 @@ module ObjectExporter =
                                 71 :: [73..167]
                         | None -> [0..numImages - 1]
                     obj |> ImageExporter.exportImages ids outputPath println
+
+                let images =
+                    match options.storePng with
+                    | true -> images :> obj
+                    | false -> buildGxFile outputPath images
 
                 let properties =
                     match splitKind with
