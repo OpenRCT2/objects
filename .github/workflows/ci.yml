@@ -26,6 +26,19 @@ jobs:
           else
               exit 1
           fi
+      - name: Publish (linux-x64)
+        working-directory: tools/objexport
+        run: dotnet publish -c Release -r linux-x64 -o ../../artifacts
+      - name: Publish (win-x64)
+        working-directory: tools/objexport
+        run: dotnet publish -c Release -r win-x64 -o ../../artifacts
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: "objexport"
+          path: |
+            artifacts/objexport
+            artifacts/objexport.exe
   build-objects:
     name: Build objects
     runs-on: ubuntu-latest
