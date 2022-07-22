@@ -1,0 +1,112 @@
+{
+    "id": "toontowner.scenery_small.ttrfgl03",
+    "authors": ["Simon Foster", "ToonTowner"],
+    "version": "1.0",
+    "originalId": "09F55701|TTRFGL03|A98985AC",
+    "sourceGame": "official",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "hasGlass": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasSecondaryColour": true,
+        "hasNoSupports": true
+    },
+    "images": [
+        {
+            "path": "images.png",
+            "srcX": 0,
+            "srcY": 0,
+            "srcWidth": 64,
+            "srcHeight": 33,
+            "x": -32,
+            "y": -3
+        },
+        {
+            "path": "images.png",
+            "srcX": 64,
+            "srcY": 0,
+            "srcWidth": 64,
+            "srcHeight": 33,
+            "x": -32,
+            "y": -3
+        },
+        {
+            "path": "images.png",
+            "srcX": 128,
+            "srcY": 0,
+            "srcWidth": 64,
+            "srcHeight": 33,
+            "x": -32,
+            "y": -3
+        },
+        {
+            "path": "images.png",
+            "srcX": 192,
+            "srcY": 0,
+            "srcWidth": 64,
+            "srcHeight": 33,
+            "x": -32,
+            "y": -3
+        },
+        {
+            "path": "images.png",
+            "srcX": 256,
+            "srcY": 0,
+            "srcWidth": 54,
+            "srcHeight": 27,
+            "x": -27,
+            "y": 0
+        },
+        {
+            "path": "images.png",
+            "srcX": 310,
+            "srcY": 0,
+            "srcWidth": 54,
+            "srcHeight": 27,
+            "x": -27,
+            "y": 0
+        },
+        {
+            "path": "images.png",
+            "srcX": 364,
+            "srcY": 0,
+            "srcWidth": 54,
+            "srcHeight": 27,
+            "x": -27,
+            "y": 0
+        },
+        {
+            "path": "images.png",
+            "srcX": 418,
+            "srcY": 0,
+            "srcWidth": 54,
+            "srcHeight": 27,
+            "x": -27,
+            "y": 0
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Glass Roof",
+            "fr-FR": "Toit en verre",
+            "de-DE": "Glasdach",
+            "es-ES": "Tejado de cristal",
+            "it-IT": "Tetto di vetro",
+            "nl-NL": "Glasdak",
+            "sv-SE": "Glastak",
+            "ko-KR": "유리 지붕",
+            "zh-CN": "件郴",
+            "zh-TW": "玻璃屋頂",
+            "pt-BR": "Teto de Vidro"
+        }
+    }
+}

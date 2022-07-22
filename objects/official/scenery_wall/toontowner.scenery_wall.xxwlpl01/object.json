@@ -1,0 +1,53 @@
+{
+    "id": "toontowner.scenery_wall.xxwlpl01",
+    "authors": ["Simon Foster", "ToonTowner"],
+    "version": "1.0",
+    "originalId": "09F55A03|XXWLPL01|6DA03C9A",
+    "sourceGame": "official",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "height": 4,
+        "price": 80
+    },
+    "images": [
+        {
+            "path": "images.png",
+            "srcX": 0,
+            "srcY": 0,
+            "srcWidth": 28,
+            "srcHeight": 46,
+            "x": -28,
+            "y": -33
+        },
+        {
+            "path": "images.png",
+            "srcX": 28,
+            "srcY": 0,
+            "srcWidth": 28,
+            "srcHeight": 46,
+            "x": 1,
+            "y": -32
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Poles",
+            "fr-FR": "Mâts",
+            "de-DE": "Stangen",
+            "es-ES": "Asta",
+            "it-IT": "Pali",
+            "nl-NL": "Palen",
+            "sv-SE": "Pålar",
+            "ko-KR": "기둥",
+            "zh-CN": "柱子",
+            "zh-TW": "柱子",
+            "pt-BR": "Postes",
+            "cs-CZ": "Tyče",
+            "ja-JP": "ポール",
+            "pl-PL": "Słupy",
+            "ru-RU": "Столб",
+            "eo-ZZ": "Fostoj"
+        }
+    }
+}

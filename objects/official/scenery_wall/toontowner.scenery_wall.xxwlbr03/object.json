@@ -1,0 +1,364 @@
+{
+    "id": "toontowner.scenery_wall.xxwlbr03",
+    "authors": ["Simon Foster", "ToonTowner"],
+    "version": "1.0",
+    "originalId": "09F55A03|XXWLBR03|5F0468FB",
+    "sourceGame": "official",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isDoor": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true,
+        "isOpaque": true,
+        "doorSound": 2,
+        "height": 4,
+        "price": 250,
+        "sceneryGroup": "SCGWALLS"
+    },
+    "images": [
+        {
+            "path": "images.png",
+            "srcX": 0,
+            "srcY": 0,
+            "srcWidth": 24,
+            "srcHeight": 38,
+            "x": -22,
+            "y": -33
+        },
+        {
+            "path": "images.png",
+            "srcX": 24,
+            "srcY": 0,
+            "srcWidth": 24,
+            "srcHeight": 36,
+            "x": -31,
+            "y": -21
+        },
+        {
+            "path": "images.png",
+            "srcX": 48,
+            "srcY": 0,
+            "srcWidth": 24,
+            "srcHeight": 38,
+            "x": -1,
+            "y": -32
+        },
+        {
+            "path": "images.png",
+            "srcX": 72,
+            "srcY": 0,
+            "srcWidth": 24,
+            "srcHeight": 36,
+            "x": 8,
+            "y": -20
+        },
+        {
+            "path": "images.png",
+            "srcX": 96,
+            "srcY": 0,
+            "srcWidth": 23,
+            "srcHeight": 38,
+            "x": -21,
+            "y": -33
+        },
+        {
+            "path": "images.png",
+            "srcX": 119,
+            "srcY": 0,
+            "srcWidth": 19,
+            "srcHeight": 37,
+            "x": -31,
+            "y": -22
+        },
+        {
+            "path": "images.png",
+            "srcX": 138,
+            "srcY": 0,
+            "srcWidth": 23,
+            "srcHeight": 38,
+            "x": -1,
+            "y": -32
+        },
+        {
+            "path": "images.png",
+            "srcX": 161,
+            "srcY": 0,
+            "srcWidth": 19,
+            "srcHeight": 37,
+            "x": 13,
+            "y": -21
+        },
+        {
+            "path": "images.png",
+            "srcX": 180,
+            "srcY": 0,
+            "srcWidth": 22,
+            "srcHeight": 39,
+            "x": -20,
+            "y": -33
+        },
+        {
+            "path": "images.png",
+            "srcX": 202,
+            "srcY": 0,
+            "srcWidth": 19,
+            "srcHeight": 37,
+            "x": -31,
+            "y": -22
+        },
+        {
+            "path": "images.png",
+            "srcX": 221,
+            "srcY": 0,
+            "srcWidth": 19,
+            "srcHeight": 39,
+            "x": -1,
+            "y": -32
+        },
+        {
+            "path": "images.png",
+            "srcX": 240,
+            "srcY": 0,
+            "srcWidth": 17,
+            "srcHeight": 38,
+            "x": 15,
+            "y": -22
+        },
+        {
+            "path": "images.png",
+            "srcX": 257,
+            "srcY": 0,
+            "srcWidth": 22,
+            "srcHeight": 38,
+            "x": -20,
+            "y": -33
+        },
+        {
+            "path": "images.png",
+            "srcX": 279,
+            "srcY": 0,
+            "srcWidth": 19,
+            "srcHeight": 37,
+            "x": -31,
+            "y": -22
+        },
+        {
+            "path": "images.png",
+            "srcX": 298,
+            "srcY": 0,
+            "srcWidth": 20,
+            "srcHeight": 38,
+            "x": -1,
+            "y": -32
+        },
+        {
+            "path": "images.png",
+            "srcX": 318,
+            "srcY": 0,
+            "srcWidth": 19,
+            "srcHeight": 38,
+            "x": 13,
+            "y": -22
+        },
+        {
+            "path": "images.png",
+            "srcX": 337,
+            "srcY": 0,
+            "srcWidth": 19,
+            "srcHeight": 38,
+            "x": -17,
+            "y": -33
+        },
+        {
+            "path": "images.png",
+            "srcX": 356,
+            "srcY": 0,
+            "srcWidth": 17,
+            "srcHeight": 39,
+            "x": -31,
+            "y": -24
+        },
+        {
+            "path": "images.png",
+            "srcX": 373,
+            "srcY": 0,
+            "srcWidth": 17,
+            "srcHeight": 38,
+            "x": -1,
+            "y": -32
+        },
+        {
+            "path": "images.png",
+            "srcX": 390,
+            "srcY": 0,
+            "srcWidth": 17,
+            "srcHeight": 40,
+            "x": 15,
+            "y": -24
+        },
+        {
+            "path": "images.png",
+            "srcX": 407,
+            "srcY": 0,
+            "srcWidth": 20,
+            "srcHeight": 38,
+            "x": -18,
+            "y": -33
+        },
+        {
+            "path": "images.png",
+            "srcX": 427,
+            "srcY": 0,
+            "srcWidth": 16,
+            "srcHeight": 38,
+            "x": -31,
+            "y": -23
+        },
+        {
+            "path": "images.png",
+            "srcX": 443,
+            "srcY": 0,
+            "srcWidth": 19,
+            "srcHeight": 38,
+            "x": -1,
+            "y": -32
+        },
+        {
+            "path": "images.png",
+            "srcX": 462,
+            "srcY": 0,
+            "srcWidth": 18,
+            "srcHeight": 39,
+            "x": 14,
+            "y": -23
+        },
+        {
+            "path": "images.png",
+            "srcX": 480,
+            "srcY": 0,
+            "srcWidth": 21,
+            "srcHeight": 38,
+            "x": -19,
+            "y": -33
+        },
+        {
+            "path": "images.png",
+            "srcX": 501,
+            "srcY": 0,
+            "srcWidth": 18,
+            "srcHeight": 38,
+            "x": -31,
+            "y": -23
+        },
+        {
+            "path": "images.png",
+            "srcX": 519,
+            "srcY": 0,
+            "srcWidth": 19,
+            "srcHeight": 38,
+            "x": -1,
+            "y": -32
+        },
+        {
+            "path": "images.png",
+            "srcX": 538,
+            "srcY": 0,
+            "srcWidth": 19,
+            "srcHeight": 39,
+            "x": 13,
+            "y": -23
+        },
+        {
+            "path": "images.png",
+            "srcX": 557,
+            "srcY": 0,
+            "srcWidth": 18,
+            "srcHeight": 38,
+            "x": -16,
+            "y": -33
+        },
+        {
+            "path": "images.png",
+            "srcX": 575,
+            "srcY": 0,
+            "srcWidth": 19,
+            "srcHeight": 40,
+            "x": -31,
+            "y": -25
+        },
+        {
+            "path": "images.png",
+            "srcX": 594,
+            "srcY": 0,
+            "srcWidth": 18,
+            "srcHeight": 38,
+            "x": -1,
+            "y": -32
+        },
+        {
+            "path": "images.png",
+            "srcX": 612,
+            "srcY": 0,
+            "srcWidth": 19,
+            "srcHeight": 40,
+            "x": 13,
+            "y": -24
+        },
+        {
+            "path": "images.png",
+            "srcX": 631,
+            "srcY": 0,
+            "srcWidth": 17,
+            "srcHeight": 38,
+            "x": -15,
+            "y": -33
+        },
+        {
+            "path": "images.png",
+            "srcX": 648,
+            "srcY": 0,
+            "srcWidth": 20,
+            "srcHeight": 40,
+            "x": -31,
+            "y": -25
+        },
+        {
+            "path": "images.png",
+            "srcX": 668,
+            "srcY": 0,
+            "srcWidth": 16,
+            "srcHeight": 38,
+            "x": -1,
+            "y": -32
+        },
+        {
+            "path": "images.png",
+            "srcX": 684,
+            "srcY": 0,
+            "srcWidth": 20,
+            "srcHeight": 40,
+            "x": 12,
+            "y": -24
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Wall",
+            "fr-FR": "Mur",
+            "de-DE": "Wand",
+            "es-ES": "Pared",
+            "it-IT": "Muro",
+            "nl-NL": "Muur",
+            "sv-SE": "Mur",
+            "ko-KR": "벽",
+            "zh-CN": "墙",
+            "zh-TW": "牆",
+            "pt-BR": "Parede",
+            "cs-CZ": "Stěna",
+            "ja-JP": "壁",
+            "pl-PL": "Ściana",
+            "ru-RU": "Блок",
+            "eo-ZZ": "Muro"
+        }
+    }
+}
