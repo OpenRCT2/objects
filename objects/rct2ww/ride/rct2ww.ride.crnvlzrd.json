@@ -72,7 +72,10 @@
             "pl-PL": "Parada na platformach - jaszczurki",
             "ru-RU": "Карнавал - Вараны",
             "pt-BR": "Carros Lagarto do Carnaval",
-            "eo-ZZ": "Karnavalaj Lacerto-Ĉaroj"
+            "eo-ZZ": "Karnavalaj Lacerto-Ĉaroj",
+            "ca-ES": "Carrossa de llangardaix",
+            "fi-FI": "Karnevaalin liskoautot",
+            "zh-CN": "嘉年华蜥蜴车"
         },
         "description": {
             "en-GB": "Cars in the shape of lizard carnival floats",
@@ -88,7 +91,10 @@
             "pl-PL": "Wagoniki w kształcie jaszczurczych platform",
             "ru-RU": "Вагончики в форме варана",
             "pt-BR": "Carros de montanha-russa em forma de lagarto",
-            "eo-ZZ": "Ĉaroj formitaj kiel lacerto-paradiloj"
+            "eo-ZZ": "Ĉaroj formitaj kiel lacerto-paradiloj",
+            "ca-ES": "Cotxes carrossa en forma de llangardaix",
+            "fi-FI": "Liskon muotoiset karnevaaliautot",
+            "zh-CN": "蜥蜴嘉年华形状的汽车"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -104,7 +110,10 @@
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
             "pt-BR": "2 passageiros por carro",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu",
+            "zh-CN": "2位乘客/车"
         }
     }
 }

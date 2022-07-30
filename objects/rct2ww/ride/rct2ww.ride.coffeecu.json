@@ -412,7 +412,9 @@
             "pl-PL": "Filiżanki",
             "ru-RU": "Чашечка кофе",
             "pt-BR": "Xícaras Giratórias",
-            "eo-ZZ": "Kafotaso-Atrakcio"
+            "eo-ZZ": "Kafotaso-Atrakcio",
+            "ca-ES": "Tasses de cafè",
+            "fi-FI": "Pyörivät kahvikupit"
         },
         "description": {
             "en-GB": "Riders ride in pairs of themed seats rotating around a large animated coffee grinder",
@@ -429,7 +431,9 @@
             "pl-PL": "Pasażerowie jadą parami w wagonikach wirujących na końcach trzech obracających się ramion",
             "ru-RU": "Людей катают попарно с вращением",
             "pt-BR": "Os passageiros sentam-se aos pares e giram em torno das extremidades de três longos braços rotativos",
-            "eo-ZZ": "Rajdantoj rajdas en paroj da temitaj seĝoj, kiuj turniĝas ĉirkaŭ granda animita kafmuelilo"
+            "eo-ZZ": "Rajdantoj rajdas en paroj da temitaj seĝoj, kiuj turniĝas ĉirkaŭ granda animita kafmuelilo",
+            "ca-ES": "Els passatgers pugen en parelles als seients que giren al voltant d’un molinet de cafè.",
+            "fi-FI": "Kävijät istuvat pareittain teematuissa istuimissa, jotka pyörivät suuren liikkuvan kahvimyllyn ympärillä"
         },
         "capacity": {
             "en-GB": "18 passengers",
@@ -439,14 +443,16 @@
             "it-IT": "18 passeggeri",
             "nl-NL": "18 passagiers",
             "sv-SE": "18 passagerare",
-            "zh-CN": "限乘18人",
+            "zh-CN": "18位乘客",
             "ja-JP": "定員18名",
             "cs-CZ": "18 návštěvníků",
             "ko-KR": "승객 18명",
             "pl-PL": "18 pasażerów",
             "ru-RU": "18 passengers",
             "pt-BR": "18 passageiros",
-            "eo-ZZ": "18 pasaĝeroj"
+            "eo-ZZ": "18 pasaĝeroj",
+            "ca-ES": "18 passatgers",
+            "fi-FI": "18 matkustajaa"
         }
     }
 }

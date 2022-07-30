@@ -411,7 +411,9 @@
             "pl-PL": "Brylantowa karuzela",
             "ru-RU": "Алмаз",
             "pt-BR": "Diamante",
-            "eo-ZZ": "Diamanto-Atrakcio"
+            "eo-ZZ": "Diamanto-Atrakcio",
+            "ca-ES": "Atracció Diamant",
+            "fi-FI": "Timanttilaite"
         },
         "description": {
             "en-GB": "Riders ride in pairs of themed seats rotating around a large diamond",
@@ -428,7 +430,9 @@
             "pl-PL": "Pasażerowie jadą w parach siedzisk wirujących na końcach trzech obracających się ramion",
             "ru-RU": "Люди сидят попарно и катаются в свободно раскачивающихся вагончиках",
             "pt-BR": "Os passageiros sentam-se aos pares e giram em torno das extremidades de três longos braços rotativos",
-            "eo-ZZ": "Rajdantoj rajdas en paroj da temitaj seĝoj, kiuj turniĝas ĉirkaŭ granda diamanto"
+            "eo-ZZ": "Rajdantoj rajdas en paroj da temitaj seĝoj, kiuj turniĝas ĉirkaŭ granda diamanto",
+            "ca-ES": "Els passatgers giren per parelles en seients tematizats al voltant d’un diamant gros.",
+            "fi-FI": "Kävijät istuvat pareittain teematuissa istuimissa, jotka pyörivät jättimäisen timantin ympärillä"
         },
         "capacity": {
             "en-GB": "18 passengers",
@@ -438,14 +442,16 @@
             "it-IT": "18 passeggeri",
             "nl-NL": "18 passagiers",
             "sv-SE": "18 passagerare",
-            "zh-CN": "限乘18人",
+            "zh-CN": "18位乘客",
             "ja-JP": "定員18名",
             "cs-CZ": "18 návštěvníků",
             "ko-KR": "승객 18명",
             "pl-PL": "18 pasażerów",
             "ru-RU": "18 пассажиров",
             "pt-BR": "18 passageiros",
-            "eo-ZZ": "18 pasaĝeroj"
+            "eo-ZZ": "18 pasaĝeroj",
+            "ca-ES": "18 passatgers",
+            "fi-FI": "18 matkustajaa"
         }
     }
 }

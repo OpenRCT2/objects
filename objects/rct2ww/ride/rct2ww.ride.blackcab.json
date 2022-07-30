@@ -72,7 +72,9 @@
             "pl-PL": "Przejażdżka londyńską taksówką",
             "pt-BR": "Taxis Pretos",
             "ru-RU": "Лондонское такси",
-            "eo-ZZ": "Nigraj Taksioj"
+            "eo-ZZ": "Nigraj Taksioj",
+            "ca-ES": "Taxis negres",
+            "fi-FI": "Mustat taksit"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of London Taxis",
@@ -89,7 +91,9 @@
             "pl-PL": "Pojazdy z napędem zbudowane na wzór czarnych londyńskich taksówek",
             "pt-BR": "Veículos funcionais no formato de táxis londrinos",
             "ru-RU": "Лондонское такси",
-            "eo-ZZ": "Ŝaltitaj veturiloj formitaj kiel Taksioj de Londono"
+            "eo-ZZ": "Ŝaltitaj veturiloj formitaj kiel Taksioj de Londono",
+            "ca-ES": "Vehicles elèctrics amb forma de taxis negres de Londres.",
+            "fi-FI": "Moottoroidut Lontoon taksien muotoiset vaunut"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -99,14 +103,16 @@
             "it-IT": "2 passeggeri per carrozza",
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per bil",
-            "zh-CN": "每辆车限乘2人",
+            "zh-CN": "2位乘客/车",
             "ja-JP": "各車両2名",
             "cs-CZ": "2 místa v každém voze",
             "ko-KR": "차량당 2명의 승객",
             "pl-PL": "2 pasażerów na wagonik",
             "pt-BR": "2 passageiros por carro",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por aŭto"
+            "eo-ZZ": "Po 2 pasaĝeroj por aŭto",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }

@@ -119,7 +119,9 @@
             "pl-PL": "Przejażdżka na anakondzie",
             "pt-BR": "Trens Anaconda",
             "ru-RU": "Анаконда",
-            "eo-ZZ": "Anakondaj Trajnoj"
+            "eo-ZZ": "Anakondaj Trajnoj",
+            "ca-ES": "Atracció de l’Anaconda",
+            "fi-FI": "Anakondavaunut"
         },
         "description": {
             "en-GB": "Spacious trains with simple lap restraints",
@@ -136,7 +138,9 @@
             "pl-PL": "Przestronne pociągi z prostymi zabezpieczeniami obejmującymi pasażerów w pasie",
             "pt-BR": "Trens espaçosos com simples barras de colo",
             "ru-RU": "Анаконда",
-            "eo-ZZ": "Grandspacaj trajnoj kun simplaj sinobridoj"
+            "eo-ZZ": "Grandspacaj trajnoj kun simplaj sinobridoj",
+            "ca-ES": "Trens espaiosos amb barres de subjecció simples.",
+            "fi-FI": "Tilavat vaunut, joissa on yksinkertaiset turvakaiteet"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -146,14 +150,16 @@
             "it-IT": "6 passeggeri per carrozza",
             "nl-NL": "6 passagiers per karretje",
             "sv-SE": "6 passagerare per vagn",
-            "zh-CN": "每辆车限乘6人",
+            "zh-CN": "6位乘客/车",
             "cs-CZ": "6 míst v každém voze",
             "ja-JP": "各車両6名",
             "ko-KR": "차량당 6명의 승객",
             "pl-PL": "6 pasażerów na wagonik",
             "pt-BR": "6 passageiros por vagão",
             "ru-RU": "6 пассажиров",
-            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro",
+            "ca-ES": "6 passatgers per cotxe",
+            "fi-FI": "6 matkustajaa per vaunu"
         }
     }
 }
