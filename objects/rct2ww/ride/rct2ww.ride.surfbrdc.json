@@ -96,7 +96,9 @@
             "pl-PL": "Surfingowe szaleństwo",
             "pt-BR": "Trens Surfing",
             "ru-RU": "Серфинг Коастер",
-            "eo-ZZ": "Surfantaj Trajnoj"
+            "eo-ZZ": "Surfantaj Trajnoj",
+            "ca-ES": "Muntanya russa de surfeig",
+            "fi-FI": "Surffilautavaunut"
         },
         "description": {
             "en-GB": "Wide coaster trains on which the riders stand on a surfboard with specially designed restraints",
@@ -113,7 +115,9 @@
             "pl-PL": "Pasażerowie jadą w pozycji stojącej w szerokich wagonikach ze specjalnie zaprojektowanymi zabezpieczeniami, pokonując gładkie zjazdy i liczne ostre zakręty",
             "pt-BR": "Trens com vagões largos onde os passageiros se mantem em pé em pranchas de surfe através de amarras especialmente projetadas",
             "ru-RU": "Пассажир стоит в широком вагончике со спец системой безопасности.",
-            "eo-ZZ": "Larĝaj trajnoj de onda fervojo, sur kiuj la rajdantoj staras sur surfotabulo kun speciale desegnitaj sinobridoj"
+            "eo-ZZ": "Larĝaj trajnoj de onda fervojo, sur kiuj la rajdantoj staras sur surfotabulo kun speciale desegnitaj sinobridoj",
+            "ca-ES": "Trens amples en els quals els passatgers estan drets en una planxa de surf amb subjeccions dissenyades especialment per l’atracció.",
+            "fi-FI": "Leveät vuoristoratavaunut, joissa matkustajat seisovat surffilaudoilla erikoisrakenteisissa turvakaiteissa"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -123,14 +127,16 @@
             "it-IT": "4 passeggeri per carrozza",
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "每辆车限乘4人",
+            "zh-CN": "4位乘客/车",
             "ja-JP": "各車両4名",
             "cs-CZ": "4 místa v každém voze",
             "ko-KR": "차량당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
             "pt-BR": "4 passageiros por vagão",
             "ru-RU": "4 passengers per car",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

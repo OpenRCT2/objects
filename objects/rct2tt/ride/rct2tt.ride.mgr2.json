@@ -378,7 +378,10 @@
             "cs-CZ": "Dvoupatrový kolotoč",
             "pl-PL": "Karuzela z konikami",
             "ru-RU": "Двойная Карусель",
-            "eo-ZZ": "Duetaĝa Karuselo"
+            "eo-ZZ": "Duetaĝa Karuselo",
+            "ca-ES": "Cavallets de dos pisos",
+            "fi-FI": "Kaksikerroksinen karuselli",
+            "zh-CN": "双层旋转木马"
         },
         "description": {
             "en-GB": "Traditional enclosed double-deck carousel with carved wooden horses",
@@ -395,7 +398,10 @@
             "cs-CZ": "Klasický dvoupatrový kolotoč s vyřezávanými koníky",
             "pl-PL": "Tradycyjna zadaszona karuzela z drewnianymi konikami",
             "ru-RU": "Классическая карусель с деревянными лошадками",
-            "eo-ZZ": "Tradicia nesubĉiela duetaĝa karuselo kun skulptitaj lignaj ĉevaloj"
+            "eo-ZZ": "Tradicia nesubĉiela duetaĝa karuselo kun skulptitaj lignaj ĉevaloj",
+            "ca-ES": "Cavallets tradicionals, tancats, amb dos pisos i cavalls tallats en fusta.",
+            "fi-FI": "Vanhanaikainen pyörivä kaksikerroksinen karuselli kaiverrettujen puuhevosien kera",
+            "zh-CN": "带有雕刻木马的传统封闭式双层旋转木马"
         },
         "capacity": {
             "en-GB": "32 passengers",
@@ -412,7 +418,10 @@
             "cs-CZ": "32 návštěvníků",
             "pl-PL": "32 pasażerów",
             "ru-RU": "32 человека",
-            "eo-ZZ": "32 pasaĝeroj"
+            "eo-ZZ": "32 pasaĝeroj",
+            "ca-ES": "32 passatgers",
+            "fi-FI": "32 matkustajaa",
+            "zh-CN": "32位乘客"
         }
     }
 }

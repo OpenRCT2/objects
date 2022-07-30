@@ -104,7 +104,10 @@
             "cs-CZ": "Kerberosova horská dráha",
             "pl-PL": "Cerber",
             "ru-RU": "Горки Цербер",
-            "eo-ZZ": "Cerbero-Trajnoj"
+            "eo-ZZ": "Cerbero-Trajnoj",
+            "ca-ES": "Trens Cèrber",
+            "fi-FI": "Kerberos-vaunut",
+            "zh-CN": "地狱犬列车"
         },
         "description": {
             "en-GB": "Spacious trains with simple lap restraints with cars shaped like the multi-headed dog from the Underworld",
@@ -121,7 +124,10 @@
             "cs-CZ": "Horská dráha s dlouhými pády, velkou rychlostí a pohodlnými vlaky, kde se jezdí s opěrkou v klíně, která přelétává vrcholky kopců",
             "pl-PL": "Pasażerowie jadą w wygodnych wagonikach z zabezpieczeniami obejmującymi w pasie, pokonując wielkie gładkie zjazdy i skomplikowane zakręty, a także liczne wzloty nad wzniesieniami",
             "ru-RU": "Сидя в удобном поезде, люди наслаждаются плавными спусками и парением над горами.",
-            "eo-ZZ": "Grandspacoj trajnoj kun simplaj sinobridoj, kaj ĉaroj, kiuj aspektas kiel la hundo de la infero kun multaj kapoj"
+            "eo-ZZ": "Grandspacoj trajnoj kun simplaj sinobridoj, kaj ĉaroj, kiuj aspektas kiel la hundo de la infero kun multaj kapoj",
+            "ca-ES": "Trens espaiosos amb subjeccions simples amb cotxes en forma de gos de diversos caps de l’inframón.",
+            "fi-FI": "Manalan monipäisen koiran muotoiset tilavat vaunut, joissa on yksinkertaiset turvakaiteet",
+            "zh-CN": "宽敞的车厢，带有简单的膝部约束装置，车厢形状像来自冥界的多头狗"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -138,7 +144,10 @@
             "cs-CZ": "4 místa v každém voze",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 человека в вагоне",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu",
+            "zh-CN": "4位乘客/车"
         }
     }
 }

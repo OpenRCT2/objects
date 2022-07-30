@@ -107,7 +107,10 @@
             "en-US": "Gangster Cars",
             "pl-PL": "Gangsterska kolejka",
             "ru-RU": "Горки гангстеров",
-            "eo-ZZ": "Gangstero-Aŭtoj"
+            "eo-ZZ": "Gangstero-Aŭtoj",
+            "ca-ES": "Cotxes de gàngsters",
+            "fi-FI": "Gangsterivaunut",
+            "zh-CN": "黑帮风云"
         },
         "description": {
             "en-GB": "1920s-themed gangster cars are accelerated out of the station by linear induction motors to speed through twisting inversions",
@@ -124,7 +127,10 @@
             "cs-CZ": "Horská dráha s vozy ve stylu gangsterů 20. let, poháněnými elektromotorem, které sviští skrze propletenou dráhu",
             "pl-PL": "Wagoniki stylizowane na gangsterskie samochody z lat 20. są wystrzeliwane ze stacji za pomocą silnika liniowego i suną po zawiłym torze",
             "ru-RU": "Машинки в стиле 1920х проезжают по головокружительной трассе.",
-            "eo-ZZ": "Linearaj induktaj motoroj plirapidigas gangstero-aŭtojn, kiuj havas 1920-ajn temon, el la stacio por rapidiri tra kurboplenaj inversigoj"
+            "eo-ZZ": "Linearaj induktaj motoroj plirapidigas gangstero-aŭtojn, kiuj havas 1920-ajn temon, el la stacio por rapidiri tra kurboplenaj inversigoj",
+            "ca-ES": "Cotxes tematitzats com a cotxes de gàngsters dels anys 20. Acceleren per l’estació amb motors d’inducció lineal a través de girs en inversions.",
+            "fi-FI": "1920-luvun tyyliset gangsterivaunut, jotka laukaistaan asemalta induktiomoottorilla, ja jotka kiitävät kiermutelevien käännösten läpi",
+            "zh-CN": "以 1920 年代为主题的黑帮汽车由直线感应电机加速驶出车站，以通过扭转反转来加速"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -141,7 +147,10 @@
             "cs-CZ": "4 místa v každém voze",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 чел. в кабине",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu",
+            "zh-CN": "4位乘客/车"
         }
     }
 }

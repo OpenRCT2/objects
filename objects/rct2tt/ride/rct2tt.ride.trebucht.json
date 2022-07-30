@@ -134,7 +134,10 @@
             "cs-CZ": "Katapultující jízda",
             "pl-PL": "Trebuszowa jazda",
             "ru-RU": "Катапульта",
-            "eo-ZZ": "Ĵetmaŝino-Atrakcio"
+            "eo-ZZ": "Ĵetmaŝino-Atrakcio",
+            "ca-ES": "Trabuquet",
+            "fi-FI": "Vastapainokatapultti",
+            "zh-CN": "投石机之旅"
         },
         "description": {
             "en-GB": "Passengers ride in a carriage suspended by two large arms, based on a Dark Age siege weapon",
@@ -151,7 +154,10 @@
             "cs-CZ": "Návštěvníci sedí v gondole zavěšené na podpěrách, otáčející se dopředu a dozadu vzhůru nohama, která vypadá jako obléhací zbraň z dávných dob",
             "pl-PL": "Pasażerowie jadą w wózku zawieszonym na dwóch wielkich ramionach. Atrakcja w stylu średniowiecznej broni oblężniczej",
             "ru-RU": "Люди качаются в подвешенных вагончиках в стиле осадных орудий.",
-            "eo-ZZ": "Rajdantoj rajdas en vagono pendita per du grandaj brakoj, surbaze de Mezepoka sieĝarmilo"
+            "eo-ZZ": "Rajdantoj rajdas en vagono pendita per du grandaj brakoj, surbaze de Mezepoka sieĝarmilo",
+            "ca-ES": "Els passatgers viatgen en un vehicle que penja de dos braços llargs, com una arma de setge de l’època medieval.",
+            "fi-FI": "Kävijät matkustavat kahden suuren puomin päässä riippuvassa vaunussa, keskiaikaisen piirityskoneen inspiroimana",
+            "zh-CN": "乘客乘坐由两个大臂悬挂的马车，基于黑暗时代的攻城武器"
         },
         "capacity": {
             "en-GB": "8 passengers",
@@ -168,7 +174,10 @@
             "cs-CZ": "8 návštěvníků",
             "pl-PL": "8 pasażerów",
             "ru-RU": "8 человек",
-            "eo-ZZ": "8 pasaĝeroj"
+            "eo-ZZ": "8 pasaĝeroj",
+            "ca-ES": "8 passatgers",
+            "fi-FI": "8 matkustajaa",
+            "zh-CN": "8位顾客"
         }
     }
 }

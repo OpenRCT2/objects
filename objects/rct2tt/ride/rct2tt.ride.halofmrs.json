@@ -132,7 +132,10 @@
             "cs-CZ": "Zrcadlové bludiště",
             "pl-PL": "Gabinet luster",
             "ru-RU": "Холл зеркал",
-            "eo-ZZ": "Koridoro da Speguloj"
+            "eo-ZZ": "Koridoro da Speguloj",
+            "ca-ES": "Sala dels espills",
+            "fi-FI": "Peilitalo",
+            "zh-CN": "镜子迷阵"
         },
         "description": {
             "en-GB": "Building containing warped mirrors which distort the reflection of the viewer",
@@ -149,7 +152,9 @@
             "cs-CZ": "Budova s pokřivenými zrcadly",
             "pl-PL": "Budynek z powykrzywianymi lustrami, zniekształcającymi odbicia gości",
             "ru-RU": "Здание с кривыми зеркалами, искажающими изображение",
-            "eo-ZZ": "Konstruaĵo, kiu enhavas torditajn spegulojn, kiuj tordas la rebrilon de la vidanto"
+            "eo-ZZ": "Konstruaĵo, kiu enhavas torditajn spegulojn, kiuj tordas la rebrilon de la vidanto",
+            "ca-ES": "Edifici que conté espills deformats que distorsionen la reflexió de la imatge.",
+            "fi-FI": "Rakennus, jossa on kieroja peilejä, jotka vääristävät katsojan peilikuvan"
         },
         "capacity": {
             "en-GB": "5 guests",
@@ -166,7 +171,10 @@
             "cs-CZ": "5 návštěvníků",
             "pl-PL": "5 osób",
             "ru-RU": "5 чел.",
-            "eo-ZZ": "5 gastoj"
+            "eo-ZZ": "5 gastoj",
+            "ca-ES": "5 visitants",
+            "fi-FI": "5 kävijää",
+            "zh-CN": "5位乘客"
         }
     }
 }

@@ -411,7 +411,10 @@
             "cs-CZ": "Jízda dinsouřích vajec",
             "pl-PL": "Jaja dinozaura",
             "ru-RU": "Динозавр",
-            "eo-ZZ": "Dinosaŭro-Ovo-Atrakcio"
+            "eo-ZZ": "Dinosaŭro-Ovo-Atrakcio",
+            "ca-ES": "L’ou del dinosaure",
+            "fi-FI": "Dinosauruksen muna -laite",
+            "zh-CN": "恐龙蛋大历险"
         },
         "description": {
             "en-GB": "Riders ride in pairs, in themed seats rotating around an animated mother dinosaur",
@@ -428,7 +431,10 @@
             "cs-CZ": "Návštěvníci sedí po dvou ve vejcích, které se otáčejí okolo dinosauří matky uprostřed",
             "pl-PL": "Pasażerowie podróżują parami w stylizowanych siedziskach obracających się wokół ruchomej dinozaurowej mamy",
             "ru-RU": "Люди крутятся вокруг двигающегося динозавра.",
-            "eo-ZZ": "Rajdantoj rajdas en paroj da temitaj seĝoj, kiuj turniĝas ĉirkaŭ animita patrino-dinosaŭro"
+            "eo-ZZ": "Rajdantoj rajdas en paroj da temitaj seĝoj, kiuj turniĝas ĉirkaŭ animita patrino-dinosaŭro",
+            "ca-ES": "Els passatgers seuen per parelles en seients tematitzats al voltant d’una mare dinosaure animada.",
+            "fi-FI": "Kävijät istuvat pareittain teematuissa istuimissa, jotka pyörivät liikkuvan dinosaurusemon ympärillä",
+            "zh-CN": "乘客成对骑行，主题座椅围绕着一只动画的母恐龙旋转"
         },
         "capacity": {
             "en-GB": "18 passengers",
@@ -445,7 +451,10 @@
             "cs-CZ": "18 návštěvníků",
             "pl-PL": "18 pasażerów",
             "ru-RU": "18 человек",
-            "eo-ZZ": "18 pasaĝeroj"
+            "eo-ZZ": "18 pasaĝeroj",
+            "ca-ES": "18 passatgers",
+            "fi-FI": "18 matkustajaa",
+            "zh-CN": "18位顾客"
         }
     }
 }

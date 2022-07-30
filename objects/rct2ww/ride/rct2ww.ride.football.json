@@ -64,7 +64,9 @@
             "pl-PL": "Kolejka futbolowa",
             "pt-BR": "Trens Bola de Futebol",
             "ru-RU": "Футбол",
-            "eo-ZZ": "Piedpilko-Trajnoj"
+            "eo-ZZ": "Piedpilko-Trajnoj",
+            "ca-ES": "Atracció Futbol",
+            "fi-FI": "Jalkapallovaunut"
         },
         "description": {
             "en-GB": "Suspended roller coaster trains consisting of football-shaped cars able to swing freely as the train goes around corners",
@@ -75,14 +77,16 @@
             "it-IT": "Ottovolante sospeso con carrozze a forma di pallone da calcio che possono oscillare liberamente quando percorrono le curve",
             "nl-NL": "Omgekeerde achtbaantrein bestaande uit karretjes in de vorm van een enorme voetbal, die vrijuit kunnen schommelen als de trein door een bocht gaat.",
             "sv-SE": "Fotbollsformade hängande vagnar som pendlar ut åt sidan i kurvorna",
-            "zh-CN": "悬吊式云霄飞车以足球为车辆外型使其能在转弯时能自由摆动摇荡",
+            "zh-CN": "悬吊式过山车以足球为车辆外型使其能在转弯时能自由摆动摇荡",
             "ja-JP": "ぶら下がったサッカーボール型の車両が、コーナーで大きく揺れ動くコースターです",
             "cs-CZ": "Zavěšená horská dráha s vozy připomínající fotbalové míče, které se houpají v zatáčkách",
             "ko-KR": "차량이 코너를 돌면 자유롭게 흔들거리게 만들어진 풋볼 모양의 서스펜디드 롤러코스터 차량",
             "pl-PL": "Kolejka górska z podwieszanymi wagonikami w kształcie piłek, które bujają się swobodnie na zakrętach",
             "pt-BR": "Trens de montanha russa suspensa que consiste em um vagão com formato de bola de futebol americano capaz de balançar livremente conforme o trem faz curvas",
             "ru-RU": "Подвешенные горки на футбольную тему",
-            "eo-ZZ": "Penditaj trajnoj de onda fervojo, kiuj konsistas el piedpilkoformaj ĉaroj, kiuj svingiĝas libere kiam la trajno iras ĉirkaŭ anguloj"
+            "eo-ZZ": "Penditaj trajnoj de onda fervojo, kiuj konsistas el piedpilkoformaj ĉaroj, kiuj svingiĝas libere kiam la trajno iras ĉirkaŭ anguloj",
+            "ca-ES": "Trens de muntanya russa penjants amb cotxes en forma de pilota de futbol que es balancegen quan el tren travessa les corbes.",
+            "fi-FI": "Jalkapallon muotoiset vapaasti käänteissä keinuvat riippuvat vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -92,14 +96,16 @@
             "it-IT": "4 passeggeri per carrozza",
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "?每辆车限乘4人",
+            "zh-CN": "4位乘客/车",
             "ja-JP": "各車両4名",
             "cs-CZ": "4 místa v každém voze",
             "ko-KR": "차량당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
             "pt-BR": "4 passageiros por vagão",
             "ru-RU": "4 человека на вагон",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

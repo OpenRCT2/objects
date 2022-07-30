@@ -59,7 +59,9 @@
             "pl-PL": "Bobsleje-pingwiny",
             "pt-BR": "Trens Penguim",
             "ru-RU": "Пингвин-Бобслей",
-            "eo-ZZ": "Pingveno-Trajnoj"
+            "eo-ZZ": "Pingveno-Trajnoj",
+            "ca-ES": "Trens pingüí",
+            "fi-FI": "Pingviinivaunut"
         },
         "description": {
             "en-GB": "Penguin-shaped trains consisting of 2-seater cars where the riders are behind each other",
@@ -76,7 +78,9 @@
             "pl-PL": "Pasażerowie zjeżdżają krętą trasą w wagonikach o kształcie pingwinów, prowadzonych jedynie przez krzywizny i wychylenia półkolistego toru",
             "pt-BR": "Trens com formato de pinguim com vagões de 2 assentos em que os passageiros sentam um atrás do outro",
             "ru-RU": "Люди едут вниз по треку в бобах в виде пингвинов.",
-            "eo-ZZ": "Pingvenoformaj trajnoj, konsista el ĉaroj kun 2 seĝoj, kie la rajdantoj estas post unu la alian"
+            "eo-ZZ": "Pingvenoformaj trajnoj, konsista el ĉaroj kun 2 seĝoj, kie la rajdantoj estas post unu la alian",
+            "ca-ES": "Trens en forma de pingüí amb cotxes de 2 seients en els quals els passatgers van un darrere l’altre.",
+            "fi-FI": "Pingviinin muotoiset vaunut, jossa kaksi matkustajaa istuu peräkkäin"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -86,14 +90,16 @@
             "it-IT": "2 passeggeri per carrozza",
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "zh-CN": "每辆车限乘2人",
+            "zh-CN": "2位乘客/车",
             "ja-JP": "各車両2名",
             "cs-CZ": "2 místa v každém voze",
             "ko-KR": "차량당 2명의 승객",
             "pl-PL": "2 pasażerów na wagonik",
             "pt-BR": "2 passageiros por vagão",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }

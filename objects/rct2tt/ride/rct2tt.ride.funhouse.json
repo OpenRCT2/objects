@@ -132,7 +132,10 @@
             "cs-CZ": "Dům zábavy",
             "pl-PL": "Dziwaczny dom",
             "ru-RU": "Домик",
-            "eo-ZZ": "Konstruaĵo de Amuzo"
+            "eo-ZZ": "Konstruaĵo de Amuzo",
+            "ca-ES": "Casa de la diversió",
+            "fi-FI": "Hupitalo",
+            "zh-CN": "马戏妙妙屋"
         },
         "description": {
             "en-GB": "Building containing moving walls and floors to disorientate people walking through it",
@@ -149,7 +152,10 @@
             "cs-CZ": "Budova s pohybujícími se zdmi a podlahou, což dezorientuje procházející návštěvníky",
             "pl-PL": "Budynek składający się z ruchomych ścian i podłóg, dezorientujących ludzi, którzy do niego wejdą",
             "ru-RU": "Здание с анимированными стенами и полом дезориентирует людей",
-            "eo-ZZ": "Konstruaĵo, kiu enhavas movantajn murojn kaj plankojn por malorienti homojn irante tra tie"
+            "eo-ZZ": "Konstruaĵo, kiu enhavas movantajn murojn kaj plankojn por malorienti homojn irante tra tie",
+            "ca-ES": "Edifici que conté parets i terra que es mouen per desorientar les persones que hi entren.",
+            "fi-FI": "Rakennus, jossa on liikkuvia seiniä ja lattioita läpikulkevien kävijöiden hämmennykseksi",
+            "zh-CN": "包含移动墙壁和地板的建筑物，以使穿过它的人迷失方向"
         },
         "capacity": {
             "en-GB": "5 guests",
@@ -166,7 +172,10 @@
             "cs-CZ": "5 návštěvníků",
             "pl-PL": "5 osób",
             "ru-RU": "5 чел.",
-            "eo-ZZ": "5 gastoj"
+            "eo-ZZ": "5 gastoj",
+            "ca-ES": "5 visitants",
+            "fi-FI": "5 kävijää",
+            "zh-CN": "5位乘客"
         }
     }
 }

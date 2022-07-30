@@ -100,7 +100,10 @@
             "cs-CZ": "Pterodaktylská horská dráha",
             "pl-PL": "Pterodaktylot",
             "ru-RU": "Птеродактиль",
-            "eo-ZZ": "Pterodaktilo-Trajnoj"
+            "eo-ZZ": "Pterodaktilo-Trajnoj",
+            "ca-ES": "Muntanya russa Pterodàctil",
+            "fi-FI": "Lentoliskovaunut",
+            "zh-CN": "翼龙火车"
         },
         "description": {
             "en-GB": "Riders are held in comfortable seats below the track to give the ultimate prehistoric flying experience",
@@ -117,7 +120,10 @@
             "cs-CZ": "Návštěvníci sedí v pohodlných sedadlech pod tratí cestující skrze propletenou dráhu, poskytující pocit prehistorického letu",
             "pl-PL": "Pasażerowie podróżują w wygodnych siedziskach zawieszonych pod torem, pokonując zawiły tor w odjazdowym locie prehistorycznym",
             "ru-RU": "Люди сидят в удобных креслах под треком и несутся по головокружительной трассе",
-            "eo-ZZ": "Rajdantoj estas tenitaj en komfortaj seĝoj sub la trako por havi la plejan praan sperton de flugado"
+            "eo-ZZ": "Rajdantoj estas tenitaj en komfortaj seĝoj sub la trako por havi la plejan praan sperton de flugado",
+            "ca-ES": "Els passatgers viatgen en seients còmodes per sota la via per aconseguir una sensació de vol prehistòric.",
+            "fi-FI": "Matkustajat kulkevat mukavissa istuimissa radan alla, luoden äärimmäisen esihistoriallisen lennon tunteen",
+            "zh-CN": "乘客们被安置在赛道下方的舒适座椅上，以提供终极的史前飞行体验"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -134,7 +140,10 @@
             "cs-CZ": "4 místa v každém voze",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 чел в кабинке",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu",
+            "zh-CN": "4位乘客/车"
         }
     }
 }

@@ -411,7 +411,10 @@
             "cs-CZ": "Neptunská jízda",
             "pl-PL": "Przejażdżka z Neptunem",
             "ru-RU": "Нептун",
-            "eo-ZZ": "Neptuno-Atrackio"
+            "eo-ZZ": "Neptuno-Atrackio",
+            "ca-ES": "El viatge d’en Neptú",
+            "fi-FI": "Neptunuslaite",
+            "zh-CN": "海王星之旅"
         },
         "description": {
             "en-GB": "Riders ride in pairs, in themed seats rotating around an animated statue of Neptune",
@@ -428,7 +431,10 @@
             "cs-CZ": "Návštěvníci sedí po dvou na sedačkách, které se otáčejí okolo suchy Neptuna uprostřed",
             "pl-PL": "Pasażerowie podróżują parami w stylizowanych siedziskach obracających się wokół ruchomego posągu Neptuna.",
             "ru-RU": "Люди катаются парами вокруг статуи Нептуна.",
-            "eo-ZZ": "Rajdantoj rajdas pare, en temitaj seĝoj, kiuj turniĝas ĉirkaŭ animita statuo de Neptuno"
+            "eo-ZZ": "Rajdantoj rajdas pare, en temitaj seĝoj, kiuj turniĝas ĉirkaŭ animita statuo de Neptuno",
+            "ca-ES": "Els passatgers van per parelles en seients tematitzats que giren al voltant d’una estàtua d’en Neptú.",
+            "fi-FI": "Kävijät istuvat pareittain teematuissa istuimissa, jotka pyörivät liikkuvan Neptunus-patsaan ympärillä",
+            "zh-CN": "乘客成对骑行，坐在围绕着海王星动画雕像旋转的主题座椅上"
         },
         "capacity": {
             "en-GB": "18 passengers",
@@ -445,7 +451,10 @@
             "cs-CZ": "18 návštěvníků",
             "pl-PL": "18 pasażerów",
             "ru-RU": "18 человек",
-            "eo-ZZ": "18 pasaĝeroj"
+            "eo-ZZ": "18 pasaĝeroj",
+            "ca-ES": "18 passatgers",
+            "fi-FI": "18 matkustajaa",
+            "zh-CN": "18位乘客"
         }
     }
 }

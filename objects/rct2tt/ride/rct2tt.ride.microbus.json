@@ -138,7 +138,10 @@
             "cs-CZ": "Jízda v MicroBusu",
             "pl-PL": "Przejażdżka mikrobusem",
             "ru-RU": "Микробус",
-            "eo-ZZ": "Mikrobuso-Atrakcio"
+            "eo-ZZ": "Mikrobuso-Atrakcio",
+            "ca-ES": "Viatge en microbús",
+            "fi-FI": "Junankeulalaite",
+            "zh-CN": "快感小巴"
         },
         "description": {
             "en-GB": "Riders view a film inside the Flower Power-themed motion simulator pod while it is twisted and moved around by a hydraulic arm",
@@ -155,7 +158,10 @@
             "cs-CZ": "Návštěvníci sledují film uvnitř simulátoru pohybu, zatímco se simulátorem hýbe hydraulika",
             "pl-PL": "Symulator ruchu, wewnątrz którego wyświetlany jest film, zaś pojazd jest wstrząsany i przechylany zgodnie z obrazem za pomocą siłownika hydraulicznego",
             "ru-RU": "Люди смотрят кино внутри подвижной кабины, крутящейся на гидравл. рычаге",
-            "eo-ZZ": "Rajdantoj vidas filmon en la moviĝado-simulilo, kiu kaj havas temon de la Potenco de Floroj, kaj estas movita kaj turnigita per hidraŭlika brako"
+            "eo-ZZ": "Rajdantoj vidas filmon en la moviĝado-simulilo, kiu kaj havas temon de la Potenco de Floroj, kaj estas movita kaj turnigita per hidraŭlika brako",
+            "ca-ES": "Els viatgers veuen una pel·lícula dins d’un simulador de moviment decorat amb motius Flower Power mentre es mou i es gira amb un braç hidràulic.",
+            "fi-FI": "Kävijät katsovat elokuvaa kukkavoima-teemaisen simulaattorin sisällä, samalla kun hydraulinen puomi liikuttaa ja kallistaa simulaattoria",
+            "zh-CN": "乘客们在以花之力为主题的运动模拟器吊舱内观看电影，同时它被液压臂扭曲和移动"
         },
         "capacity": {
             "en-GB": "8 passengers",
@@ -172,7 +178,10 @@
             "cs-CZ": "8 návštěvníků",
             "pl-PL": "8 pasażerów",
             "ru-RU": "8 человек",
-            "eo-ZZ": "8 pasaĝeroj"
+            "eo-ZZ": "8 pasaĝeroj",
+            "ca-ES": "8 passatgers",
+            "fi-FI": "8 matkustajaa",
+            "zh-CN": "8位乘客"
         }
     }
 }

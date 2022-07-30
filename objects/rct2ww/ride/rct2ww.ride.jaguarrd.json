@@ -82,14 +82,16 @@
             "it-IT": "Il giaguaro",
             "nl-NL": "Jaguarkarretjes",
             "sv-SE": "Jaguarbana",
-            "zh-CN": "美洲?游乐设施",
+            "zh-CN": "美洲豹冲击",
             "ja-JP": "ジャガー車両",
             "cs-CZ": "Jaguáří horská dráha",
             "ko-KR": "재규어 라이드",
             "pl-PL": "Jaguar",
             "ru-RU": "Пантера",
             "pt-BR": "Jaguar",
-            "eo-ZZ": "Jaguaro-Aŭtoj"
+            "eo-ZZ": "Jaguaro-Aŭtoj",
+            "ca-ES": "Jaguar",
+            "fi-FI": "Jaguaarivaunut"
         },
         "description": {
             "en-GB": "Roller coaster cars themed to look like jaguars",
@@ -106,7 +108,9 @@
             "pl-PL": "Niewielka kolejka górska z oddzielnymi wagonikami i gładkimi zakręconymi spadkami",
             "ru-RU": "Компактные горки с отдельными вагончиками",
             "pt-BR": "Carros de montanha-russa em forma de jaguar",
-            "eo-ZZ": "Ĉaroj de onda fervojo temitaj por aspekti kiel jaguaroj"
+            "eo-ZZ": "Ĉaroj de onda fervojo temitaj por aspekti kiel jaguaroj",
+            "ca-ES": "Muntanya russa amb cotxes que semblen jaguars.",
+            "fi-FI": "Jaguaarin näköisiksi teematut vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -116,14 +120,16 @@
             "it-IT": "4 passeggero per carrozza",
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "每辆车限乘4人",
+            "zh-CN": "4位乘客/车",
             "ja-JP": "各車両4名",
             "cs-CZ": "4 místa v každém voze",
             "ko-KR": "차량당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
             "pt-BR": "4 passageiros por carro",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

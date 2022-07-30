@@ -83,7 +83,10 @@
             "cs-CZ": "Prehistorické motokáry",
             "pl-PL": "Jaskiniowe samochodziki",
             "ru-RU": "Пещ. машины",
-            "eo-ZZ": "Kavernhomo-Aŭtoj"
+            "eo-ZZ": "Kavernhomo-Aŭtoj",
+            "ca-ES": "Cotxes cavernícoles",
+            "fi-FI": "Luolamiesautot",
+            "zh-CN": "洞穴人小车"
         },
         "description": {
             "en-GB": "Self-drive go-karts in Stone Age style",
@@ -101,7 +104,10 @@
             "cs-CZ": "Benzínové ovladatelné motokáry ve stylu pravěku",
             "pl-PL": "Pasażerowie ścigają się gokartami w stylu epoki kamiennej",
             "ru-RU": "Люди гоняются на стильных машинках",
-            "eo-ZZ": "Gokartoj kun Ŝtonepoka stilo"
+            "eo-ZZ": "Gokartoj kun Ŝtonepoka stilo",
+            "ca-ES": "Karts que condueixen els usuaris de l’edat de pedra.",
+            "fi-FI": "Itse ajettavat kivikauden tyyliset mikroautot",
+            "zh-CN": "石器时代风格的自驾卡丁车"
         },
         "capacity": {
             "en-GB": "Single-seater",
@@ -118,7 +124,10 @@
             "cs-CZ": "1 místo v každém voze",
             "pl-PL": "Jednomiejscowe",
             "ru-RU": "Одиночные",
-            "eo-ZZ": "Po 1 pasaĝero por aŭto"
+            "eo-ZZ": "Po 1 pasaĝero por aŭto",
+            "ca-ES": "Monoplaça",
+            "fi-FI": "Yksipaikkainen",
+            "zh-CN": "单人座"
         }
     }
 }

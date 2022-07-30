@@ -59,7 +59,10 @@
             "cs-CZ": "Morová horská dráha",
             "pl-PL": "Czarna śmierć",
             "ru-RU": "Чёрная Смерть",
-            "eo-ZZ": "Trajnoj de la Nigra Morto"
+            "eo-ZZ": "Trajnoj de la Nigra Morto",
+            "ca-ES": "Trens de la pesta negra",
+            "fi-FI": "Musta surma -vaunut",
+            "zh-CN": "黑色死亡列车"
         },
         "description": {
             "en-GB": "Rat-shaped trains consisting of 2-seater cars where the riders are behind each other",
@@ -76,7 +79,10 @@
             "pl-PL": "Pasażerowie zjeżdżają krętym torem w wagonikach w kształcie szczurów, kierowanych jedynie krzywizną i nachyleniem półkolistego toru",
             "ru-RU": "Кабинки в виде крыс едут по извилистому треку без рельсов и колес.",
             "ja-JP": "ネズミの型の二人乗り車両で、乗客は前後に座ります",
-            "eo-ZZ": "Ratformaj trajnoj, konsistaj de ĉaroj kun 2 seĝoj, kie la rajdantoj estas malantaŭ unu la alian"
+            "eo-ZZ": "Ratformaj trajnoj, konsistaj de ĉaroj kun 2 seĝoj, kie la rajdantoj estas malantaŭ unu la alian",
+            "ca-ES": "Trens en forma de rata amb cotxes de 2 seients on els passatgers estan un darrere l’altre.",
+            "fi-FI": "Rotan muotoiset vaunut, jossa kaksi matkustajaa istuu peräkkäin",
+            "zh-CN": "鼠形列车由2人座车厢组成，乘客彼此并排"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -93,7 +99,10 @@
             "cs-CZ": "2 místa v každém voze",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 человека в кабинке",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu",
+            "zh-CN": "2位乘客/车"
         }
     }
 }

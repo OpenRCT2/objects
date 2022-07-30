@@ -116,7 +116,10 @@
             "en-US": "Police Cars",
             "pl-PL": "Gonitwa radiowozów",
             "ru-RU": "Полиция",
-            "eo-ZZ": "Policaj Aŭtoj"
+            "eo-ZZ": "Policaj Aŭtoj",
+            "ca-ES": "Cotxes de policia",
+            "fi-FI": "Poliisiautot",
+            "zh-CN": "警察车"
         },
         "description": {
             "en-GB": "1960s-themed police cars run on wooden tracks, turning around on special reversing sections",
@@ -133,7 +136,10 @@
             "cs-CZ": "Po dřevěné dráze jedou vozy ve tvaru policejních aut 60. let, které se ve speciálních místech se otočí a jedou pozpátku",
             "pl-PL": "Radiowozy w stylu lat 60. jadą po drewnianym torze, zawracając na specjalnych obrotowych odcinkach trasy",
             "ru-RU": "Полицейские машины 1960х едут по деревянному треку",
-            "eo-ZZ": "1960-aj-temitaj policaj aŭtoj veturas sur lignaj trakoj, kiuj turniĝas sur specialaj inversigantaj partoj"
+            "eo-ZZ": "1960-aj-temitaj policaj aŭtoj veturas sur lignaj trakoj, kiuj turniĝas sur specialaj inversigantaj partoj",
+            "ca-ES": "Cotxes de policia de l’any 1960 que es mouen per vies de fusta que giren completament en seccions especials.",
+            "fi-FI": "1960-luvun poliisiautojen teemaiset vaunut, jotka kulkevat puisilla kiskoilla, ja kääntyvät ympäri erityisissä kääntöosioissa",
+            "zh-CN": "1960年代主题警车在木质轨道上行驶，在特殊倒车段掉头s"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -150,7 +156,10 @@
             "cs-CZ": "6 míst v každém voze",
             "pl-PL": "6 pasażerów na wagonik",
             "ru-RU": "6 чел в машине",
-            "eo-ZZ": "Po 6 pasaĝeroj por aŭto"
+            "eo-ZZ": "Po 6 pasaĝeroj por aŭto",
+            "ca-ES": "6 passatgers per cotxe",
+            "fi-FI": "6 matkustajaa per vaunu",
+            "zh-CN": "6位乘客/车"
         }
     }
 }

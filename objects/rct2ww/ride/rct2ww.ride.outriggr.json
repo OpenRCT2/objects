@@ -55,7 +55,9 @@
             "pl-PL": "Wiosła w dłoń",
             "pt-BR": "Canoas Polinésias",
             "ru-RU": "Каноэ",
-            "eo-ZZ": "Polineziaj Kanuoj"
+            "eo-ZZ": "Polineziaj Kanuoj",
+            "ca-ES": "Canoes hawaianes",
+            "fi-FI": "Kellukekanootit"
         },
         "description": {
             "en-GB": "Long canoes which the passengers paddle themselves",
@@ -72,7 +74,9 @@
             "pl-PL": "Długie kanoe, w których pasażerowie sami wiosłują",
             "pt-BR": "Canoas longas em que os próprios passageiros podem remar",
             "ru-RU": "Длинные каноэ, люди гребут сами.",
-            "eo-ZZ": "Longaj kanuoj, kiujn la pasaĝeroj padelas per si mem"
+            "eo-ZZ": "Longaj kanuoj, kiujn la pasaĝeroj padelas per si mem",
+            "ca-ES": "Canoes llargues que els passatgers mouen pedalejant.",
+            "fi-FI": "Pitkät kanootit, joita matkustajat soutavat itse"
         },
         "capacity": {
             "en-GB": "2 passengers per canoe",
@@ -82,14 +86,16 @@
             "it-IT": "2 passeggeri per canoa",
             "nl-NL": "2 passagiers per kano",
             "sv-SE": "2 passagerare per kanot",
-            "zh-CN": "每舟限乘2人",
+            "zh-CN": "2位乘客/船",
             "ja-JP": "各カヌー2名",
             "cs-CZ": "2 místa v každé lodi",
             "ko-KR": "카누당 2명의 승객",
             "pl-PL": "2 pasażerów na kanoe",
             "pt-BR": "2 passageiros por canoa",
             "ru-RU": "2 пассажира в каноэ",
-            "eo-ZZ": "Po 2 pasaĝeroj por kanuo"
+            "eo-ZZ": "Po 2 pasaĝeroj por kanuo",
+            "ca-ES": "2 passatgers per canoa",
+            "fi-FI": "2 matkustajaa per kanootti"
         }
     }
 }

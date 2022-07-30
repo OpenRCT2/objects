@@ -83,7 +83,9 @@
             "pl-PL": "Podrasowane samochody",
             "ru-RU": "Горки-Хотрод",
             "ja-JP": "ホットロッドレーストレイン",
-            "eo-ZZ": "Hot-Rod Trajnoj"
+            "eo-ZZ": "Hot-Rod Trajnoj",
+            "ca-ES": "Muntanya russa de bòlids",
+            "fi-FI": "Hot rod -vaunut"
         },
         "description": {
             "en-GB": "Air-powered launched roller coaster trains in the shape of hot rod cars",
@@ -100,7 +102,9 @@
             "cs-CZ": "Po mocném startu na stlačený vzduch se vozy rozjedou po svislé dráze, přes vrchol a svisle dolů zpět do stanice",
             "pl-PL": "Po ekscytującym starcie z pneumatycznej wyrzutni pociąg rozpędza się pod górę pionowego toru, pokonuje szczyt i spada pionowo z drugiej strony, by powrócić na stację",
             "ru-RU": "После ускоряющего толчка поезд разгоняется по вертикальному треку и опускается вниз на станцию.",
-            "eo-ZZ": "Trajnoj de onda fervojo, lanĉitaj per aero kaj formitaj kiel hot-rod-aj aŭtoj"
+            "eo-ZZ": "Trajnoj de onda fervojo, lanĉitaj per aero kaj formitaj kiel hot-rod-aj aŭtoj",
+            "ca-ES": "Muntanya russa amb trens propulsats amb aire en forma de bòlids.",
+            "fi-FI": "Hot rod -autojen muotoiset ilmakäyttöislaukaistut vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -117,7 +121,10 @@
             "cs-CZ": "2 místa v každém voze",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 чел. в кабинке",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu",
+            "zh-CN": "2位乘客/车"
         }
     }
 }

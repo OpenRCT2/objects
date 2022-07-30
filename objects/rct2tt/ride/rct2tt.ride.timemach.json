@@ -139,7 +139,10 @@
             "cs-CZ": "Stroj času",
             "pl-PL": "Wehikuł czasu",
             "ru-RU": "Время",
-            "eo-ZZ": "Tempomaŝino"
+            "eo-ZZ": "Tempomaŝino",
+            "ca-ES": "Màquina del temps",
+            "fi-FI": "Aikakone",
+            "zh-CN": "时光之旅"
         },
         "description": {
             "en-GB": "Guests sit in a specially designed sphere, and experience the illusion of time travel",
@@ -156,7 +159,10 @@
             "cs-CZ": "Návštěvníci sedí ve speciálně navržené kruhovité konstrukci a zažívají pocit cestování časem",
             "pl-PL": "Pasażer zasiada w specjalnej kuli, zapewniającej mu złudzenie podróżowania w czasie",
             "ru-RU": "Люди сидят в специальной сфере и путешествуют во времени.",
-            "eo-ZZ": "Gastoj sidas en speciale desegnita globo, kaj spertas la iluzion de vojaĝi tra la tempo"
+            "eo-ZZ": "Gastoj sidas en speciale desegnita globo, kaj spertas la iluzion de vojaĝi tra la tempo",
+            "ca-ES": "Els passatgers seuen en una esfera amb un disseny especial per poder sentir la il·lusió de viatjar en el temps.",
+            "fi-FI": "Kävijät istuvat erikoisrakenteisen pallon sisällä, ja kokevat aikamatkustuksen illuusion",
+            "zh-CN": "客人坐在特别设计的球体中，体验时间旅行的幻觉"
         },
         "capacity": {
             "en-GB": "1 guest per time machine",
@@ -173,7 +179,10 @@
             "cs-CZ": "1 místo v každém stroji času",
             "pl-PL": "Jednomiejscowe",
             "ru-RU": "1 человек",
-            "eo-ZZ": "Po 1 gasto por tempomaŝino"
+            "eo-ZZ": "Po 1 gasto por tempomaŝino",
+            "ca-ES": "1 viatger per màquina del temps",
+            "fi-FI": "1 kävijä per aikakone",
+            "zh-CN": "1位乘客/台"
         }
     }
 }

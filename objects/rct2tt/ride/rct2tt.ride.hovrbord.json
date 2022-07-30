@@ -58,7 +58,10 @@
             "cs-CZ": "Vznášedlová horská dráha",
             "pl-PL": "Latająca deska",
             "ru-RU": "Ховерборд",
-            "eo-ZZ": "Flugpendantaj Platoj"
+            "eo-ZZ": "Flugpendantaj Platoj",
+            "ca-ES": "Taules planadores",
+            "fi-FI": "Liitolaudat",
+            "zh-CN": "浮空板"
         },
         "description": {
             "en-GB": "Guests ride on a futuristic hoverboard, swinging freely from side to side around corners",
@@ -75,7 +78,10 @@
             "cs-CZ": "Návštěvníci jezdí na futuristických vznášedlech, houpajících se v zatáčkách ze strany na stranu",
             "pl-PL": "Pasażerowie podróżują na futurystycznej latającej desce, wychylającej się swobodnie na zakrętach",
             "ru-RU": "Люди едут на фантастических раскачивающихся досках",
-            "eo-ZZ": "Gastoj rajdas sur estonteca flugpendanta plato, kaj svingiĝas libere ĉirkaŭ anguloj"
+            "eo-ZZ": "Gastoj rajdas sur estonteca flugpendanta plato, kaj svingiĝas libere ĉirkaŭ anguloj",
+            "ca-ES": "Els passatgers munten en una taula planadora, balancejant-se de costat a costat quan passa per les corbes.",
+            "fi-FI": "Matkustajat kulkevat futuristisilla liitolaudoilla, vapaasti heilahtaen käänteissä",
+            "zh-CN": "乘客乘坐未来主义的悬浮滑板在拐角处左右自由摆动"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -92,7 +98,10 @@
             "cs-CZ": "2 místa v každém voze",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 чел. в кабинке",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu",
+            "zh-CN": "2位乘客/车"
         }
     }
 }

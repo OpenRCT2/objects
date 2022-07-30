@@ -379,7 +379,9 @@
             "pl-PL": "Karuzela fajerwerków",
             "ru-RU": "Огненные гонки",
             "pt-BR": "Fogos de Artifício Giratórios",
-            "eo-ZZ": "Fajraĵo-Atrakcio"
+            "eo-ZZ": "Fajraĵo-Atrakcio",
+            "ca-ES": "Atracció Petard",
+            "fi-FI": "Sähikäinen"
         },
         "description": {
             "en-GB": "Rotating wheel with suspended passenger pods, which first starts spinning and is then tilted up by a supporting arm",
@@ -396,7 +398,9 @@
             "pl-PL": "Obracające się koło z podwieszanymi wagonikami. Gdy się rozkręci, hydrauliczne ramię podnosi je do pionu",
             "ru-RU": "Вращ. колесо с подвешенными платформами",
             "pt-BR": "Roda giratória com cápsulas suspensas com passageiros, que primeiro começa a girar e é então inclinada para cima por um braço de apoio",
-            "eo-ZZ": "Turniĝanta radego kun penditaj pasaĝerujoj, kiu unue komencas turniĝi, kaj tiam estas klinita supren per apoga brako"
+            "eo-ZZ": "Turniĝanta radego kun penditaj pasaĝerujoj, kiu unue komencas turniĝi, kaj tiam estas klinita supren per apoga brako",
+            "ca-ES": "Roda giratòria amb cabines penjants per als passatgers, que comença girant i després s’inclina usant com a suport un braç.",
+            "fi-FI": "Riippuvilla vaunuilla varustettu pyörivä ratas, joka aluksi pyörii paikallaan, ja sitten nousee pystysuoraksi liikkuvan tukipuomin ansioista"
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -406,14 +410,16 @@
             "it-IT": "16 passeggeri",
             "nl-NL": "16 passagiers",
             "sv-SE": "16 passagerare",
-            "zh-CN": "限乘16人",
+            "zh-CN": "18位乘客",
             "ja-JP": "定員16名",
             "cs-CZ": "16 návštěvníků",
             "ko-KR": "승객 16명",
             "pl-PL": "16 pasażerów",
             "ru-RU": "16 пассажиров",
             "pt-BR": "16 passageiros",
-            "eo-ZZ": "16 pasaĝeroj"
+            "eo-ZZ": "16 pasaĝeroj",
+            "ca-ES": "16 passatgers",
+            "fi-FI": "16 matkustajaa"
         }
     }
 }

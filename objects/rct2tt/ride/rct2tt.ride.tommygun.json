@@ -411,7 +411,10 @@
             "cs-CZ": "Jízda s Thompsonem",
             "pl-PL": "Wystrzałowa przejażdżka",
             "ru-RU": "Томми-Ган",
-            "eo-ZZ": "Tommy-Pafilo-Atrakcio"
+            "eo-ZZ": "Tommy-Pafilo-Atrakcio",
+            "ca-ES": "Ametralladora",
+            "fi-FI": "Konepistoolilaite",
+            "zh-CN": "汤普孙之旅"
         },
         "description": {
             "en-GB": "Riders ride in pairs of themed seats which rotate around a large replica Tommy Gun",
@@ -428,7 +431,10 @@
             "cs-CZ": "Návštěvníci sedí po dvou na sedačkách, které se otáčejí okolo velké repliky samopalu Thompson uprostřed",
             "pl-PL": "Pasażerowie podróżują parami w stylizowanych siedziskach, okrążających wielką replikę pistoletu maszynowego.",
             "ru-RU": "Люди сидят попарно и вращаются вокруг большого автомата.",
-            "eo-ZZ": "Rajdantoj rajdas en paroj da temitaj seĝoj, kiuj turniĝas ĉirkaŭ granda replikaĵo de Tommy-Pafilo"
+            "eo-ZZ": "Rajdantoj rajdas en paroj da temitaj seĝoj, kiuj turniĝas ĉirkaŭ granda replikaĵo de Tommy-Pafilo",
+            "ca-ES": "Els passatgers seuen per parelles en seients tematitzats que giren al voltant de la rèplica d’una gran ametralladora.",
+            "fi-FI": "Kävijät istuvat pareittain teematuissa istuimissa, jotka pyörivät suuren konepistoolipatsaan ympärillä",
+            "zh-CN": "乘客乘坐成对的主题座椅，这些座椅围绕大型汤普孙冲锋枪旋转"
         },
         "capacity": {
             "en-GB": "18 passengers",
@@ -445,7 +451,10 @@
             "cs-CZ": "18 návštěvníků",
             "pl-PL": "18 pasażerów",
             "ru-RU": "18 человек",
-            "eo-ZZ": "18 pasaĝeroj"
+            "eo-ZZ": "18 pasaĝeroj",
+            "ca-ES": "18 passatgers",
+            "fi-FI": "18 matkustajaa",
+            "zh-CN": "18位顾客"
         }
     }
 }

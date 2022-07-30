@@ -64,14 +64,16 @@
             "it-IT": "Ottovolante dell'orso polare",
             "nl-NL": "IJsbeerkarretjes",
             "sv-SE": "Berg- och isbjörnsvagnar",
-            "zh-CN": "北极熊云霄飞车",
+            "zh-CN": "北极熊过山车",
             "cs-CZ": "Horská dráha polárního medvěda",
             "ja-JP": "シロクマ車両",
             "ko-KR": "북극곰 차량",
             "pl-PL": "Niedţwiedţ polarny",
             "pt-BR": "Trens Urso Polar",
             "ru-RU": "Белый медведь",
-            "eo-ZZ": "Blankaj Urso-Trajnoj"
+            "eo-ZZ": "Blankaj Urso-Trajnoj",
+            "ca-ES": "Trens óssos polars",
+            "fi-FI": "Jääkarhuvaunut"
         },
         "description": {
             "en-GB": "Polar bear-shaped suspended roller coaster trains in which riders sit in pairs facing either forwards or backwards",
@@ -88,7 +90,9 @@
             "pt-BR": "Trens de montanha russa suspensa em formato de urso polar onde os passageiros se sentam em pares virados ou para frente ou para trás ",
             "ru-RU": "Люди сидят парами и вращаются вперед-назад",
             "ja-JP": "ホッキョクグマの形をした、コースにぶら下がったローラーコースター車両で、乗客は2名ずつ背中合わせに座ります。",
-            "eo-ZZ": "Penditaj trajnoj formitaj kiel blankaj ursoj, en kiuj rajdantoj sidas pare, kaj frontas aŭ antaŭe aŭ malantaŭe"
+            "eo-ZZ": "Penditaj trajnoj formitaj kiel blankaj ursoj, en kiuj rajdantoj sidas pare, kaj frontas aŭ antaŭe aŭ malantaŭe",
+            "ca-ES": "Muntanyes russes amb trens penjants en forma d’óssos polars en els quals els passatgers seuen per parelles un darrere l’altre.",
+            "fi-FI": "Jääkarhun muotoiset riippuvat vuoristoratavaunut, joissa matkustajat istuvat pareittain joko kasvot tai selkä menosuuntaan"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -98,14 +102,16 @@
             "it-IT": "4 passeggeri per carrozza",
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "每辆车限乘4人",
+            "zh-CN": "4位乘客/车",
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "ko-KR": "차량당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
             "pt-BR": "4 passageiros por vagão",
             "ru-RU": "4 пассажира",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

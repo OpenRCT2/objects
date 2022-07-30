@@ -109,7 +109,9 @@
             "pl-PL": "Jazda na larwach",
             "pt-BR": "Trens Larvas Comestíveis",
             "ru-RU": "Колдовство",
-            "eo-ZZ": "Witchetty Larvo-Trajnoj"
+            "eo-ZZ": "Witchetty Larvo-Trajnoj",
+            "ca-ES": "Trens larves de cuc",
+            "fi-FI": "Witchetty-toukkajunat"
         },
         "description": {
             "en-GB": "Roller coaster trains with small grub-shaped cars",
@@ -119,14 +121,16 @@
             "it-IT": "Ottovolante con piccole carrozze a forma di bruco",
             "nl-NL": "Achtbaantrein met kleine karretjes in de vorm van een grote rups.",
             "sv-SE": "Små larvformade berg- och dalbanevagnar",
-            "zh-CN": "云霄飞车列车以幼小的澳大利亚树虫为车辆外型",
+            "zh-CN": "过山车列车以幼小的澳大利亚树虫为车辆外型",
             "cs-CZ": "Horská dráha s vozy ve tvaru červů",
             "ja-JP": "小さな幼虫の形をしたローラーコースター車両です",
             "ko-KR": "작은 유충 모양의 차량이 있는 롤러코스터 차량",
             "pl-PL": "Kolejka górska z małymi wagonikami w kształcie larw",
             "pt-BR": "Trens de montanha russa com pequenos vagões em forma de larvas",
             "ru-RU": "Горки с маленькими вагончиками.",
-            "eo-ZZ": "Trajnoj de onda fervojo kun malgrandaj larvoformaj ĉaroj"
+            "eo-ZZ": "Trajnoj de onda fervojo kun malgrandaj larvoformaj ĉaroj",
+            "ca-ES": "Muntanya russa amb trens en forma de larves de cuc.",
+            "fi-FI": "Vuoristoratajunat Roller coaster trains with small grub-shaped cars"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -136,14 +140,16 @@
             "it-IT": "2 passeggeri per carrozza",
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "zh-CN": "每辆车限乘2人",
+            "zh-CN": "2位乘客/车",
             "cs-CZ": "2 místa v každém voze",
             "ja-JP": "各車両2名",
             "ko-KR": "차량당 2명의 승객",
             "pl-PL": "2 pasażerów na wagonik",
             "pt-BR": "2 passageiros por vagão",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }

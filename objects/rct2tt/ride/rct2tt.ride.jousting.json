@@ -55,7 +55,10 @@
             "cs-CZ": "Turnajová horská dráha",
             "pl-PL": "Turniej rycerski",
             "ru-RU": "Рыцарские горки",
-            "eo-ZZ": "Kavaliroj kun Lancoj"
+            "eo-ZZ": "Kavaliroj kun Lancoj",
+            "ca-ES": "Justa de cavallers",
+            "fi-FI": "Turnaavat ritarit",
+            "zh-CN": "骑枪比武"
         },
         "description": {
             "en-GB": "Separate horse-shaped vehicles with a jousting knight on the front",
@@ -72,7 +75,10 @@
             "cs-CZ": "Návštěvníci sedí na zádi vozů ve tvaru koní, které jedou po jednokolejné dráze",
             "pl-PL": "Pasażerowie podróżują wagonikami w kształcie koni, jadącymi po jednoszynowym torze",
             "ru-RU": "Люди сидят на лошадях и едут по монорельсу.",
-            "eo-ZZ": "Apartaj ĉevaloformaj veturiloj, kun kavaliro kun lanco ĉe la fronto"
+            "eo-ZZ": "Apartaj ĉevaloformaj veturiloj, kun kavaliro kun lanco ĉe la fronto",
+            "ca-ES": "Vehicles separats en forma de cavall amb un cavaller fent una justa al davant.",
+            "fi-FI": "Yksittäiset hevosen muotoiset vaunut, joiden kärjessä on turnaava ritari",
+            "zh-CN": "单独的马形车辆，前面有一个骑马骑士"
         },
         "capacity": {
             "en-GB": "2 riders per vehicle",
@@ -89,7 +95,10 @@
             "cs-CZ": "2 místa v každém voze",
             "pl-PL": "2 pasażerów na pojazd",
             "ru-RU": "2 чел. на лошадь",
-            "eo-ZZ": "Po 2 rajdantoj por veturilo"
+            "eo-ZZ": "Po 2 rajdantoj por veturilo",
+            "ca-ES": "2 genets per cavall",
+            "fi-FI": "2 ratsastajaa per ajoneuvo",
+            "zh-CN": "2位乘客/车"
         }
     }
 }
