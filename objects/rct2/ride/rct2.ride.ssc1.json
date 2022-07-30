@@ -216,7 +216,9 @@
             "ja-JP": "ローンチ・フリーフォール",
             "pl-PL": "Wystrzałowa spadajka",
             "ru-RU": "Падение",
-            "eo-ZZ": "Lanĉita Libera-Falo-Ĉaro"
+            "eo-ZZ": "Lanĉita Libera-Falo-Ĉaro",
+            "ca-ES": "Cotxe de Caiguda Lliure Propulsada",
+            "fi-FI": "Vapaapudotustornin kori"
         },
         "description": {
             "en-GB": "Freefall car is pneumatically launched up a tall steel tower and then allowed to freefall down",
@@ -234,7 +236,9 @@
             "ja-JP": "圧搾空気により高いスチールの塔に上がった車両が、重力で下ってくる乗物です",
             "pl-PL": "Wagonik jest wystrzeliwany pneumatycznie na szczyt wysokiej wieży, a potem swobodnie opada",
             "ru-RU": "Кабинки запускаются на высокую башню и затем падают вниз",
-            "eo-ZZ": "Ĉaro estas lanĉita pneŭmatike, kaj unue supreniras je alta ŝtala turo, kaj tiam falas libere malsupren"
+            "eo-ZZ": "Ĉaro estas lanĉita pneŭmatike, kaj unue supreniras je alta ŝtala turo, kaj tiam falas libere malsupren",
+            "ca-ES": "Un cotxe de caiguda lliure es llença cap amunt per una torre d’acer alta i després se’l deixa caure.",
+            "fi-FI": "Pneumaattisesti laukaistu kori kohoaa korkean terästornin huipulle, ja putoaa sitten vapaasti takaisin maahan"
         },
         "capacity": {
             "en-GB": "8 passengers",
@@ -245,14 +249,16 @@
             "nl-NL": "8 passagiers",
             "sv-SE": "8 passagerare",
             "ko-KR": "승객 8명",
-            "zh-CN": "8 位乘客",
+            "zh-CN": "8位乘客",
             "zh-TW": "8 位乘客",
             "pt-BR": "8 passageiros",
             "cs-CZ": "8 návštěvníků",
             "ja-JP": "定員8名",
             "pl-PL": "8 pasażerów",
             "ru-RU": "8 пассажиров",
-            "eo-ZZ": "8 pasaĝeroj"
+            "eo-ZZ": "8 pasaĝeroj",
+            "ca-ES": "8 passatgers",
+            "fi-FI": "8 matkustajaa"
         }
     }
 }

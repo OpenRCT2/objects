@@ -60,7 +60,9 @@
             "ja-JP": "ヘアピン・コースター",
             "pl-PL": "Kolejka serpentynowa",
             "ru-RU": "Обратные поворот. горки",
-            "eo-ZZ": "Ĉaroj kun Kvar Seĝoj"
+            "eo-ZZ": "Ĉaroj kun Kvar Seĝoj",
+            "ca-ES": "Cotxes de quatre places",
+            "fi-FI": "Nelipaikkaiset vaunut"
         },
         "description": {
             "en-GB": "Individual roller coaster cars built for tracks with hairpin turns and sharp drops",
@@ -78,7 +80,9 @@
             "ja-JP": "個別の車両がヘアピン回転や急降下するコースターです",
             "pl-PL": "Pojedyncze wagoniki jeżdżą podwieszone pod torem z ostrymi zakrętami i gwałtownymi spadkami",
             "ru-RU": "Отдельные вагончики едут по зигзагообразному треку с разворотами и падениями",
-            "eo-ZZ": "Individuaj ĉaroj de onda fervojo, konstruitaj por trakoj kun harpingloformaj kurboj kaj krutaj malleviĝoj"
+            "eo-ZZ": "Individuaj ĉaroj de onda fervojo, konstruitaj por trakoj kun harpingloformaj kurboj kaj krutaj malleviĝoj",
+            "ca-ES": "Cotxes individuals de muntanya russa construïts per a vies amb girs de forquilla i caigudes pronunciades.",
+            "fi-FI": "Erilliset vuoristoratavaunut, jotka on tarkoitettu tiukkoihin mutkiin ja jyrkkiin mäkiin"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -89,14 +93,16 @@
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
             "ko-KR": "차량당 4명의 승객",
-            "zh-CN": "4 位乘客/每个车厢",
+            "zh-CN": "4位乘客/车",
             "zh-TW": "4 位乘客/每個車廂",
             "pt-BR": "4 passageiros por vagão",
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

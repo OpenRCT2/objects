@@ -67,7 +67,9 @@
             "ja-JP": "スパイラル・コースター",
             "pl-PL": "Pajęcza jazda",
             "ru-RU": "Спиральные горки",
-            "eo-ZZ": "Spiralaj Trajnoj de Onda Fervojo"
+            "eo-ZZ": "Spiralaj Trajnoj de Onda Fervojo",
+            "ca-ES": "Muntanya russa en espiral",
+            "fi-FI": "Kierrevuoristoradan vaunut"
         },
         "description": {
             "en-GB": "Compact roller coaster trains with cars with in-line seating",
@@ -85,7 +87,9 @@
             "ja-JP": "スパイラルリフトヒルを持つスチール製のコースで、シートが直列しているローラーコースターです",
             "pl-PL": "Kolejka ze stalowym torem, spiralnym podjazdem i siedzeniami jedno za drugim",
             "ru-RU": "Компактные горки со спиральным лифтом и сиденьями в ряд.",
-            "eo-ZZ": "Kompaktaj trajnoj de onda fervojo kun kolono da seĝoj"
+            "eo-ZZ": "Kompaktaj trajnoj de onda fervojo kun kolono da seĝoj",
+            "ca-ES": "Muntanya russa amb cotxes en els quals els passatgers seuen un darrere l’altre.",
+            "fi-FI": "Kompaktit vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -96,14 +100,16 @@
             "nl-NL": "6 passagiers per karretje",
             "sv-SE": "6 passagerare per vagn",
             "ko-KR": "차량당 6명의 승객",
-            "zh-CN": "6 位乘客/每个车厢",
+            "zh-CN": "6位乘客/车",
             "zh-TW": "6 位乘客/每個車廂",
             "pt-BR": "6 passageiros por vagão",
             "cs-CZ": "6 míst v každém voze",
             "ja-JP": "各車両6名",
             "pl-PL": "6 pasażerów na wagonik",
             "ru-RU": "6 пассажиров",
-            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro",
+            "ca-ES": "6 passatgers per cotxe",
+            "fi-FI": "6 matkustajaa per vaunu"
         }
     }
 }

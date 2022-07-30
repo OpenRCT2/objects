@@ -46,7 +46,9 @@
             "pl-PL": "Spiralny zjazd",
             "ru-RU": "Спираль",
             "eo-ZZ": "Spirala Glitejo",
-            "sv-SE": "Spiralrutschkana"
+            "sv-SE": "Spiralrutschkana",
+            "ca-ES": "Tobogan espiral",
+            "fi-FI": "Kierreliukumäki"
         },
         "description": {
             "en-GB": "Wooden building with an internal staircase and an external spiral slide for use with slide mats",
@@ -64,11 +66,14 @@
             "ja-JP": "木製の建物で、中には階段が、外にはらせん状の滑り台があり、マットを使って滑ります",
             "pl-PL": "Drewniany budynek ze schodami wewnątrz i spiralną zjeżdżalnią na zewnątrz. Goście zjeżdżają na matach",
             "ru-RU": "Деревянное здание с лестницей и спиральной горкой.",
-            "eo-ZZ": "Ligna konstruaĵo kun interna ŝtuparo kaj ekstera spirala glitejo por uzi kun glitmatoj"
+            "eo-ZZ": "Ligna konstruaĵo kun interna ŝtuparo kaj ekstera spirala glitejo por uzi kun glitmatoj",
+            "ca-ES": "Edifici de fusta amb una escala central i un tobogan espiral exterior que s’usa amb catifes.",
+            "fi-FI": "Puinen rakennus jonka sisällä olevasta porraskäytävästä pääsee huipulle, josta voi laskea ulkoseinämän liukumäkeä alas"
         },
         "capacity": {
             "en-GB": "1 person at a time",
-            "nl-NL": "1 persoon tegelijk"
+            "nl-NL": "1 persoon tegelijk",
+            "ko-KR": ""
         }
     }
 }

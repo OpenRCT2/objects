@@ -70,7 +70,9 @@
             "ja-JP": "コンパクト・インバーテッド・コースター",
             "pl-PL": "Mała kolejka odwrócona",
             "ru-RU": "Компактные горки",
-            "eo-ZZ": "Trajnoj de Kompakta Inversigita Onda Fervojo"
+            "eo-ZZ": "Trajnoj de Kompakta Inversigita Onda Fervojo",
+            "ca-ES": "Muntanya russa compacta amb trens invertits",
+            "fi-FI": "Komptaktin käänteisvuoristoradan vaunut"
         },
         "description": {
             "en-GB": "Riders sit in pairs of seats suspended beneath the track",
@@ -88,7 +90,9 @@
             "ja-JP": "レールにぶら下がった二人乗り車両のコースターです",
             "pl-PL": "Pasażerowie podróżują parami w fotelach podwieszonych pod torem, pokonując pętle i ostre zakręty",
             "ru-RU": "Люди сидят парами в подвешенных вагончиках.",
-            "eo-ZZ": "Rajdantoj sidas en paroj da seĝoj penditaj sub la trako"
+            "eo-ZZ": "Rajdantoj sidas en paroj da seĝoj penditaj sub la trako",
+            "ca-ES": "Els passatgers seuen per parelles als seients que pengen de la via.",
+            "fi-FI": "Matkustajat istuvat pareittain radalta alla riippuvissa istuimissa"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -99,14 +103,16 @@
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
             "ko-KR": "차량당 2명의 승객",
-            "zh-CN": "2 位乘客/每个车厢",
+            "zh-CN": "2位乘客/车",
             "zh-TW": "2 位乘客/每個車廂",
             "pt-BR": "2 passageiros por carro",
             "cs-CZ": "2 místa v každém vozu",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }

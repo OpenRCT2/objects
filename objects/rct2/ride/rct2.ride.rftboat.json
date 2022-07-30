@@ -62,7 +62,9 @@
             "ja-JP": "川いかだ",
             "pl-PL": "Tratwy rzeczne",
             "ru-RU": "Рафтинг",
-            "eo-ZZ": "Flosoj"
+            "eo-ZZ": "Flosoj",
+            "ca-ES": "Rais",
+            "fi-FI": "Lautat"
         },
         "description": {
             "en-GB": "Raft-shaped boats built for flat river tracks",
@@ -80,7 +82,9 @@
             "ja-JP": "川いかだの形のボートが、ゆるやかに曲がりくねった川のコースを進む乗物です",
             "pl-PL": "Tratwy manewrujące zręcznie po wodnym torze",
             "ru-RU": "Люди плывут по каналу на деревянных плотах.",
-            "eo-ZZ": "Flosoformaj boatoj konstruitaj por plataj rivertrakoj"
+            "eo-ZZ": "Flosoformaj boatoj konstruitaj por plataj rivertrakoj",
+            "ca-ES": "Rais que circulen per trams de riu plans.",
+            "fi-FI": "Tasaisille jokiradoille suunnitellut lautan muotoiset veneet"
         },
         "capacity": {
             "en-GB": "4 passengers per raft",
@@ -98,7 +102,9 @@
             "ja-JP": "各ボート4名",
             "pl-PL": "4 pasażerów na tratwę",
             "ru-RU": "4 пассажира",
-            "eo-ZZ": "Po 4 pasaĝeroj por floso"
+            "eo-ZZ": "Po 4 pasaĝeroj por floso",
+            "ca-ES": "4 passatger per rai",
+            "fi-FI": "4 matkustajaa per lautta"
         }
     }
 }

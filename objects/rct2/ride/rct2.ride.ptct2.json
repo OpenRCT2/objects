@@ -75,7 +75,9 @@
             "ja-JP": "木のコースター・トレーン (6人乗り)",
             "pl-PL": "Drewniana kolejka górska (6 miejsc)",
             "ru-RU": "Деревянные поезда (6 мест)",
-            "eo-ZZ": "Trajnoj de Ligna Onda Fervojo (6 seĝoj)"
+            "eo-ZZ": "Trajnoj de Ligna Onda Fervojo (6 seĝoj)",
+            "ca-ES": "Muntanya russa de fusta (6 seients)",
+            "fi-FI": "Puisen vuoristoradan vaunut (kuusipaikkainen)"
         },
         "description": {
             "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints",
@@ -93,7 +95,9 @@
             "ja-JP": "膝の安全バーが付いた、パッド入りの座席を持つ木製のコースターです",
             "pl-PL": "Drewniana kolejka górska z wyściełanymi siedzeniami i zabezpieczeniami obejmującymi pasażerów w pasie",
             "ru-RU": "Деревянные поезда для Горок с ремнями на колени",
-            "eo-ZZ": "Trajnoj de ligna onda fervojo kun komfortaj seĝoj kaj sinobridoj"
+            "eo-ZZ": "Trajnoj de ligna onda fervojo kun komfortaj seĝoj kaj sinobridoj",
+            "ca-ES": "Muntanya russa amb trens amb seients encoixinats amb barres de subjecció per la falda.",
+            "fi-FI": "Puisen vuoristoradan vaunut, joissa on pehmustetut istuimet ja turvakaiteet"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -104,14 +108,16 @@
             "nl-NL": "6 passagiers per karretje",
             "sv-SE": "6 passagerare per vagn",
             "ko-KR": "차량당 6명의 승객",
-            "zh-CN": "6 位乘客/每个车厢",
+            "zh-CN": "6位乘客/车",
             "zh-TW": "6 位乘客/每個車廂",
             "pt-BR": "6 passageiros por carro",
             "cs-CZ": "6 míst v každém voze",
             "ja-JP": "各車両6名",
             "pl-PL": "6 pasażerów na wagonik",
             "ru-RU": "6 пассажиров",
-            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro",
+            "ca-ES": "6 passatgers per cotxe",
+            "fi-FI": "6 matkustajaa per vaunu"
         }
     }
 }

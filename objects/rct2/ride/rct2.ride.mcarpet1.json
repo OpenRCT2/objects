@@ -48,7 +48,7 @@
             "nl-NL": "Vliegend tapijt",
             "sv-SE": "Flygande matta",
             "ko-KR": "마법의 양탄자",
-            "zh-CN": "魔毯",
+            "zh-CN": "魔之神毯",
             "zh-TW": "魔毯",
             "pt-BR": "Tapete Mágico",
             "cs-CZ": "Kouzelný koberec",
@@ -56,7 +56,9 @@
             "nb-NO": "Flyvende teppe",
             "pl-PL": "Latający dywan",
             "ru-RU": "Ковёр",
-            "eo-ZZ": "Magia Tapiŝo"
+            "eo-ZZ": "Magia Tapiŝo",
+            "ca-ES": "La catifa màgica",
+            "fi-FI": "Taikamatto"
         },
         "description": {
             "en-GB": "A large flying-carpet themed car which moves up and down cyclically on the ends of 4 arms",
@@ -74,7 +76,9 @@
             "ja-JP": "4本のアームの端に大きな空飛ぶじゅうたんの車両が付き、上下しながら回転する乗物です",
             "pl-PL": "Wagony w kształcie latającego dywanu poruszające się na przemian w górę i w dół na końcach czterech ramion",
             "ru-RU": "Большой летающий ковер, двигающийся вверх-вниз.",
-            "eo-ZZ": "Granda ĉaro kun temo de fluganta tapiŝo, kiu movas cikle supren kaj malsupren al la finoj de 4 brakoj"
+            "eo-ZZ": "Granda ĉaro kun temo de fluganta tapiŝo, kiu movas cikle supren kaj malsupren al la finoj de 4 brakoj",
+            "ca-ES": "Un cotxe gran decorat com una catifa voladora que es mou amunt i avall cíclicament als extrems de 4 braços.",
+            "fi-FI": "Suuri lentävän maton näköinen vaunu, joka liikkuu syklisesti ylös ja alas neljän puomin varassa"
         },
         "capacity": {
             "en-GB": "12 passengers",
@@ -85,14 +89,16 @@
             "nl-NL": "12 passagiers",
             "sv-SE": "12 passagerare",
             "ko-KR": "승객 12명",
-            "zh-CN": "12 位乘客",
+            "zh-CN": "12位乘客",
             "zh-TW": "12 位乘客",
             "pt-BR": "12 passageiros",
             "cs-CZ": "12 návštěvníků",
             "ja-JP": "定員12名",
             "pl-PL": "12 pasażerów",
             "ru-RU": "12 пассажиров",
-            "eo-ZZ": "12 pasaĝeroj"
+            "eo-ZZ": "12 pasaĝeroj",
+            "ca-ES": "12 passatgers",
+            "fi-FI": "12 matkustajaa"
         }
     }
 }

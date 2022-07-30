@@ -140,7 +140,9 @@
             "nb-NO": "Bevegelsessimulator",
             "pl-PL": "Symulator ruchu",
             "ru-RU": "Симулятор",
-            "eo-ZZ": "Moviĝado-Simulilo"
+            "eo-ZZ": "Moviĝado-Simulilo",
+            "ca-ES": "Simulador de moviment",
+            "fi-FI": "Simulaattori"
         },
         "description": {
             "en-GB": "Riders view a film inside the motion simulator pod while it is twisted and moved around by a hydraulic arm",
@@ -151,14 +153,16 @@
             "nl-NL": "Passagiers bekijken een film in de cabine van een bewegingssimulator die wordt gedraaid en bewogen door een hydraulische arm.",
             "sv-SE": "Passagerarna tittar på en film inuti en simulatorkapsel som vrider och rör på sig med hjälp av en hydraulisk arm",
             "ko-KR": "유압식 관절에 의해 흔들리며 움직이는 모션 시뮬레이터 안에서 영화를 보는 놀이기구",
-            "zh-CN": "游客坐在摸拟天体运行舱内观看影片利用水力学支臂使旋转及移动",
+            "zh-CN": "乘客坐在摸拟天体运行舱内观看影片利用水力学支臂使旋转及移动",
             "zh-TW": "遊客坐在摸擬天體運行艙內觀看影片利用水力學支臂使旋轉及移動",
             "pt-BR": "Os passageiros veem um filme dentro do simulador de movimento, enquanto ele é balançado e movido por um braço hidráulico",
             "cs-CZ": "Návštěvníci sledují film uvnitř simulátoru pohybu, zatímco se simulátorem hýbe hydraulika",
             "ja-JP": "映像に合わせて油圧可動式のポッドが動くシミュレーターです",
             "pl-PL": "Pasażerowie oglądają film, siedząc w specjalnej kabinie, poruszanej i wstrząsanej przez siłowniki hydrauliczne",
             "ru-RU": "Люди смотрят фильм внутри симулятора на движущейся основе.",
-            "eo-ZZ": "Rajdantoj vidas filmon en la moviĝado-simulilo, kiun hidraŭlika brako turnas kaj movas"
+            "eo-ZZ": "Rajdantoj vidas filmon en la moviĝado-simulilo, kiun hidraŭlika brako turnas kaj movas",
+            "ca-ES": "Els passatgers veuen una pel·lícula dins d’un simulador mentre el simulador es mou amb un braç metàl·lic.",
+            "fi-FI": "Kävijät katsovat elokuvaa simulaattorin sisällä, samalla kun hydraulinen puomi liikuttaa ja kallistaa simulaattoria"
         },
         "capacity": {
             "en-GB": "8 passengers",
@@ -176,7 +180,9 @@
             "ja-JP": "定員8名",
             "pl-PL": "8 pasażerów",
             "ru-RU": "8 пассажиров",
-            "eo-ZZ": "8 pasaĝeroj"
+            "eo-ZZ": "8 pasaĝeroj",
+            "ca-ES": "8 passatgers",
+            "fi-FI": "8 kävijää"
         }
     }
 }

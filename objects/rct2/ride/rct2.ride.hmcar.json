@@ -88,7 +88,9 @@
             "ja-JP": "ホーンテッド・マンション・ライド",
             "pl-PL": "Przejażdżka po nawiedzonym domu",
             "ru-RU": "Гонки с призраками",
-            "eo-ZZ": "Ĉaroj de Fantomita Dormego"
+            "eo-ZZ": "Ĉaroj de Fantomita Dormego",
+            "ca-ES": "Cotxes de la mansió encantada",
+            "fi-FI": "Kummituskartanon vaunut"
         },
         "description": {
             "en-GB": "Small powered cars that run on a ghost train track",
@@ -106,7 +108,9 @@
             "ja-JP": "特殊な仕掛けと景観が施された多層式のコースを、動力付きの車両が走行する乗物です",
             "pl-PL": "Wagoniki z napędem jadą po wielopoziomowym torze wśród przerażających dekoracji i efektów specjalnych",
             "ru-RU": "Машинки ездят по многоуровневым трекам в особой обстановке.",
-            "eo-ZZ": "Malgrandaj ŝaltitaj ĉaroj, kiuj veturas sur trako de fantomita trajno"
+            "eo-ZZ": "Malgrandaj ŝaltitaj ĉaroj, kiuj veturas sur trako de fantomita trajno",
+            "ca-ES": "Cotxes petits que circulen per una via fantasma per dins un edifici horripilant.",
+            "fi-FI": "Pienet moottoroidut vaunut, jotka kulkevat kummitusjunan radalla"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -117,14 +121,16 @@
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
             "ko-KR": "차량당 2명의 승객",
-            "zh-CN": "2 位乘客/每个车厢",
+            "zh-CN": "2位乘客/车",
             "zh-TW": "2 位乘客/每個車廂",
             "pt-BR": "2 passageiros por vagão",
             "cs-CZ": "2 místa v každém vozu",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }

@@ -109,7 +109,9 @@
             "ja-JP": "レトロスタイル・モノレール車両",
             "pl-PL": "Retrokolejka jednoszynowa",
             "ru-RU": "Старинный монорельс",
-            "eo-ZZ": "Retrostilaj Monorelaj Trajnoj"
+            "eo-ZZ": "Retrostilaj Monorelaj Trajnoj",
+            "ca-ES": "Trens monorail d’estil retro",
+            "fi-FI": "Retro-kohoratavaunut"
         },
         "description": {
             "en-GB": "Monorail trains with open cabins",
@@ -127,7 +129,9 @@
             "ja-JP": "オープンキャビンを持つモノレールです",
             "pl-PL": "Otwarte wagoniki jednoszynowe",
             "ru-RU": "Монорельсовые поезда",
-            "eo-ZZ": "Monorelaj trajnoj kun subĉielaj kajutoj"
+            "eo-ZZ": "Monorelaj trajnoj kun subĉielaj kajutoj",
+            "ca-ES": "Trens monorail amb cabines obertes.",
+            "fi-FI": "Avonaiset kohoratavaunut"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -138,14 +142,16 @@
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
             "ko-KR": "차량당 4명의 승객",
-            "zh-CN": "4位乘客/每个车厢",
+            "zh-CN": "4位乘客/车",
             "zh-TW": "每車卡4位乘客",
             "pt-BR": "4 passageiros por carro",
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

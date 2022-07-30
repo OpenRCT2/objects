@@ -46,7 +46,9 @@
             "nb-NO": "Labyrint",
             "pl-PL": "Labirynt",
             "ru-RU": "Лабиринт",
-            "eo-ZZ": "Labirinto"
+            "eo-ZZ": "Labirinto",
+            "ca-ES": "Laberint",
+            "fi-FI": "Labyrintti"
         },
         "description": {
             "en-GB": "Maze is constructed from 6-foot tall hedges or walls, and guests wander around the maze leaving only when they find the exit",
@@ -57,14 +59,16 @@
             "nl-NL": "Bezoekers lopen door een doolhof van 1,8m hoge heggen of muren, en kunnen er pas uit wanneer ze de uitgang vinden.",
             "sv-SE": "Labyrinten är konstruerad av 2 meter höga häckar eller murar, där besökarna vandrar runt och inte kan komma ut förrän de hittat utgången",
             "ko-KR": "1.8m 높이의 울타리나 벽으로 구성되어 있고, 손님들이 출구를 찾을 때까지 돌아다녀야 하는 미로",
-            "zh-CN": "迷宫是由六尺高的围离所构成的。游客会对迷宫的摆设觉得疑惑，而只有当游客找到出口时，他们才能够离开这个迷宫。",
+            "zh-CN": "迷宫是由六尺高的围离所构成的。乘客会对迷宫的摆设觉得疑惑，而只有当乘客找到出口时，他们才能够离开这个迷宫。",
             "zh-TW": "迷宮是由六呎高的圍離所構成的。遊客會對迷宮的?設覺得疑惑，而只有當遊客找到出口時，他們才能夠離開這個迷宮。",
             "pt-BR": "O labirinto é construído por paredes de 1,80 m, e os visitantes andam por ele até encontrar a saída",
             "cs-CZ": "Bludiště je postavené z 2 metrů vysokého živého plotu, nebo zdí. Návštěvníci v něm bloudí, dokud nenaleznou východ",
             "ja-JP": "高さ6フィート(約1.8m)の生垣または壁を持つ迷路で、出口が見つからないと出られません",
             "pl-PL": "Goście wędrują po labiryncie zbudowanym z dwumetrowych żywopłotów lub ścian",
             "ru-RU": "Лабиринт со стенами трёхметровой высоты, где посетители пытаются найти выход.",
-            "eo-ZZ": "Labirinto konstruita de 6-futaj altaj heĝoj aŭ muroj. La gastoj vagas en tiu labirinto, kaj eliras nur kiam ili trovas la elirejon."
+            "eo-ZZ": "Labirinto konstruita de 6-futaj altaj heĝoj aŭ muroj. La gastoj vagas en tiu labirinto, kaj eliras nur kiam ili trovas la elirejon.",
+            "ca-ES": "El laberint està construït amb bardisses altes de 2 metres o amb parets. Els visitants es mouen per dins i només poden sortir quan troben la sortida.",
+            "fi-FI": "Labyrintti on rakennettu kaksimetrisistä pensasaidoista tai seinistä, ja kävijät pääsevät ulos vasta kun löytävät uloskäynnin"
         },
         "capacity": {
             "cs-CZ": "",

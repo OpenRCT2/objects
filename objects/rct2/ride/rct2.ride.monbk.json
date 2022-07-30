@@ -57,7 +57,9 @@
             "ja-JP": "モノレール自転車",
             "pl-PL": "Rowery jednotorowe",
             "ru-RU": "Моноциклы",
-            "eo-ZZ": "Bicikloj"
+            "eo-ZZ": "Bicikloj",
+            "ca-ES": "Bicicletes",
+            "fi-FI": "Polkupyörät"
         },
         "description": {
             "en-GB": "Special bicycles that run on a monorail track, propelled by the pedalling of the riders",
@@ -76,7 +78,9 @@
             "ja-JP": "乗客が特殊な自転車のペダルを漕ぎ、モノレールコースを走る乗物です",
             "pl-PL": "Specjalne rowery jadące po stalowej jednoszynowej trasie, napędzane przez pedałujących pasażerów",
             "ru-RU": "Особые велосипеды с педальной тягой едут по стальным рельсам.",
-            "eo-ZZ": "Specialaj bicikloj, kiuj veturas sur monorela trako, povigitaj de la pedalo de la rajdantoj"
+            "eo-ZZ": "Specialaj bicikloj, kiuj veturas sur monorela trako, povigitaj de la pedalo de la rajdantoj",
+            "ca-ES": "Bicicletes especials que circulen per un monorail, impulsades pel pedaleig dels passatgers.",
+            "fi-FI": "Matkustajat itse polkevat näitä erikoisvalmisteisia polkupyöriä yksittäistä teräsrataa pitkin"
         },
         "capacity": {
             "en-GB": "1 rider per bicycle",
@@ -87,14 +91,16 @@
             "nl-NL": "1 persoon per fiets",
             "sv-SE": "1 passagerare per cykel",
             "ko-KR": "자전거 당 1명의 탑승객",
-            "zh-CN": "1 位乘客/每辆脚踏车",
+            "zh-CN": "1位乘客/车",
             "zh-TW": "1 位乘客/每輛腳踏車",
             "pt-BR": "1 passageiro por bicicleta",
             "cs-CZ": "1 místo na každém kole",
             "ja-JP": "各車両1名",
             "pl-PL": "1 pasażer na rower",
             "ru-RU": "1 человек",
-            "eo-ZZ": "Po 1 rajdanto por biciklo"
+            "eo-ZZ": "Po 1 rajdanto por biciklo",
+            "ca-ES": "1 passatger per bicicleta",
+            "fi-FI": "1 matkustaja per polkupyörä"
         }
     }
 }

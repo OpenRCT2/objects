@@ -36,7 +36,9 @@
             "ja-JP": "ポップコーンショップ",
             "pl-PL": "Kiosk z popcornem",
             "ru-RU": "Попкорн",
-            "eo-ZZ": "Krevmaizbudo"
+            "eo-ZZ": "Krevmaizbudo",
+            "ca-ES": "Estand de crispetes",
+            "fi-FI": "Popcorn-koju"
         },
         "description": {
             "en-GB": "A stall selling giant buckets of popcorn",
@@ -54,7 +56,9 @@
             "ja-JP": "ポップコーンを売る売店です",
             "pl-PL": "Stoisko sprzedające wielkie pudełka popcornu",
             "ru-RU": "Палатка с Попкорном",
-            "eo-ZZ": "Budo vendanta grandajn ujojn da krevmaizo"
+            "eo-ZZ": "Budo vendanta grandajn ujojn da krevmaizo",
+            "ca-ES": "Un estand que ven pots gegants de crispetes.",
+            "fi-FI": "Koju, joka myy valtavia popcorn-ämpäreitä"
         }
     }
 }

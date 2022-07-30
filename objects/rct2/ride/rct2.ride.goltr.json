@@ -111,7 +111,9 @@
             "ja-JP": "ハイパー・ツイスター車両",
             "pl-PL": "Pociąg hiperzwijka",
             "ru-RU": "Гипер-твистер",
-            "eo-ZZ": "Trajnoj de Hiper-Tvisto"
+            "eo-ZZ": "Trajnoj de Hiper-Tvisto",
+            "ca-ES": "Hiper-Twister",
+            "fi-FI": "Hyper-Twister-vaunut"
         },
         "description": {
             "en-GB": "Spacious trains with simple lap restraints",
@@ -129,7 +131,9 @@
             "ja-JP": "簡単な膝の安全バーだけが付いた、広々とした列車です",
             "pl-PL": "Przestronne wagoniki z prostymi zabezpieczeniami obejmującymi pasażerów w pasie",
             "ru-RU": "Большие поезда с простыми ремнями",
-            "eo-ZZ": "Grandspacaj trajnoj kun simplaj sinobridoj"
+            "eo-ZZ": "Grandspacaj trajnoj kun simplaj sinobridoj",
+            "ca-ES": "Cotxes molt espaiosos amb subjecció simple.",
+            "fi-FI": "Tilavat vaunut, joissa on yksinkertaiset turvakaiteet"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -140,14 +144,16 @@
             "nl-NL": "6 passagiers per karretje",
             "sv-SE": "6 passagerare per vagn",
             "ko-KR": "차량당 6명의 승객",
-            "zh-CN": "6 位乘客/每个车厢",
+            "zh-CN": "6位乘客/车",
             "zh-TW": "6 位乘客/每個車廂",
             "pt-BR": "6 passageiros por vagão",
             "cs-CZ": "6 míst v každém voze",
             "ja-JP": "各車両6名",
             "pl-PL": "6 pasażerów na wagonik",
             "ru-RU": "6 пассажиров",
-            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro",
+            "ca-ES": "6 passatgers per cotxe",
+            "fi-FI": "6 matkustajaa per vaunu"
         }
     }
 }

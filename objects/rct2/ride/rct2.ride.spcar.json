@@ -74,7 +74,9 @@
             "ja-JP": "スポーツカー",
             "pl-PL": "Wyścigówki",
             "ru-RU": "Спорткары",
-            "eo-ZZ": "Sportaŭtoj"
+            "eo-ZZ": "Sportaŭtoj",
+            "ca-ES": "Cotxes esportius",
+            "fi-FI": "Urheiluautot"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of sports cars",
@@ -92,7 +94,9 @@
             "ja-JP": "スポーツカーの形をした、動力付きの車両です",
             "pl-PL": "Pojazdy z napędem w kształcie samochodów wyścigowych",
             "ru-RU": "Машинки в форме спорткаров",
-            "eo-ZZ": "Ŝaltitaj veturiloj formitaj kiel sportaŭtoj"
+            "eo-ZZ": "Ŝaltitaj veturiloj formitaj kiel sportaŭtoj",
+            "ca-ES": "Vehicles en forma de cotxes esportius.",
+            "fi-FI": "Urheiluauton muotoiset moottoroidut ajoneuvot"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -103,14 +107,16 @@
             "nl-NL": "1 passagier per karretje",
             "sv-SE": "2 passagerare per vagn",
             "ko-KR": "차량당 2명의 승객",
-            "zh-CN": "2 位乘客/每个车厢",
+            "zh-CN": "2位乘客/车",
             "zh-TW": "2 位乘客/每個車廂",
             "pt-BR": "2 passageiros por carro",
             "cs-CZ": "2 místa v každém vozu",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per auto"
         }
     }
 }

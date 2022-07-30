@@ -36,7 +36,9 @@
             "ja-JP": "ピザショップ",
             "pl-PL": "Kiosk z pizzą",
             "ru-RU": "Пицца",
-            "eo-ZZ": "Picobudo"
+            "eo-ZZ": "Picobudo",
+            "ca-ES": "Paradeta de pizza",
+            "fi-FI": "Pizzakoju"
         },
         "description": {
             "en-GB": "A stall selling portions of pizza",
@@ -54,7 +56,9 @@
             "ja-JP": "ピザを売る売店です",
             "pl-PL": "Stoisko sprzedające porcje pizzy",
             "ru-RU": "Палатка с пиццей",
-            "eo-ZZ": "Budo vendanta porciojn da pico"
+            "eo-ZZ": "Budo vendanta porciojn da pico",
+            "ca-ES": "Un estand on es venen porcions de pizza.",
+            "fi-FI": "Koju, joka myy yksittäisiä pizzan paloja"
         }
     }
 }

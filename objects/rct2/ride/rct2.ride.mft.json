@@ -111,7 +111,9 @@
             "ja-JP": "接合式ローラーコースター列車",
             "pl-PL": "Segmentowa kolejka górska",
             "ru-RU": "Сочленённые поезда",
-            "eo-ZZ": "Artikaj Trajnoj de Onda Fervojo"
+            "eo-ZZ": "Artikaj Trajnoj de Onda Fervojo",
+            "ca-ES": "Trens articulats per a muntanyes russes",
+            "fi-FI": "Nivelletyt vuoristoratavaunut"
         },
         "description": {
             "en-GB": "Roller coaster trains with short single-row cars and open fronts",
@@ -129,7 +131,9 @@
             "ja-JP": "前の空いた短い車両のローラーコースターです",
             "pl-PL": "Kolejka z krótkimi pojedynczymi wagonikami z otwartym przodem",
             "ru-RU": "Поезда для горок с короткими вагончиками",
-            "eo-ZZ": "Trajnoj de onda fervojo, kiuj havas kaj mallongajn ĉarojn kun unu vico kaj subĉielajn frontojn"
+            "eo-ZZ": "Trajnoj de onda fervojo, kiuj havas kaj mallongajn ĉarojn kun unu vico kaj subĉielajn frontojn",
+            "ca-ES": "Trens per a muntanyes russes amb cotxes curts d’una sola fila i part frontal oberta.",
+            "fi-FI": "Vuoristoratajunat joissa lyhyet yksiriviset avoseinäiset vaunut"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -140,14 +144,16 @@
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
             "ko-KR": "차량당 2명의 승객",
-            "zh-CN": "2位乘客/每个车厢",
+            "zh-CN": "2位乘客/车",
             "zh-TW": "2位乘客/每個車廂",
             "pt-BR": "2 passageiros por carro",
             "cs-CZ": "2 místa v každém vozu",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }

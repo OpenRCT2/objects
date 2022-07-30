@@ -76,7 +76,9 @@
             "pl-PL": "Samochody rakietowe",
             "ru-RU": "Ракеты",
             "ar-EG": "سيارات صواريخ",
-            "eo-ZZ": "Raketo-Ĉaroj"
+            "eo-ZZ": "Raketo-Ĉaroj",
+            "ca-ES": "Cotxes coet",
+            "fi-FI": "Rakettivaunut"
         },
         "description": {
             "en-GB": "Roller coaster cars themed to look like rockets",
@@ -95,7 +97,9 @@
             "pl-PL": "Wagoniki w kształcie rakiet",
             "ru-RU": "Вагончики для горок в виде ракет",
             "ar-EG": "سيارات أفعوانية بشكل صواريخ",
-            "eo-ZZ": "Ĉaroj de onda fervojo, temitaj por aspekti kiel raketoj"
+            "eo-ZZ": "Ĉaroj de onda fervojo, temitaj por aspekti kiel raketoj",
+            "ca-ES": "Muntanyes russes de cotxes tematitzats com a coets espacials.",
+            "fi-FI": "Raketin näköisiksi teematut vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -106,7 +110,7 @@
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
             "ko-KR": "차량당 4명의 승객",
-            "zh-CN": "4 位乘客/每个车厢",
+            "zh-CN": "4位乘客/车",
             "zh-TW": "4 位乘客/每個車廂",
             "pt-BR": "4 passageiros por carro",
             "cs-CZ": "4 místa v každém voze",
@@ -114,7 +118,9 @@
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
             "ar-EG": "أربعة ركاب لكل عربة",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

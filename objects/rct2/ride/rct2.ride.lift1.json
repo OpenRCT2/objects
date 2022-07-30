@@ -141,7 +141,9 @@
             "ja-JP": "エレベーター",
             "pl-PL": "Winda",
             "ru-RU": "Лифт",
-            "eo-ZZ": "Liftokajuto"
+            "eo-ZZ": "Liftokajuto",
+            "ca-ES": "Ascensor",
+            "fi-FI": "Hissikori"
         },
         "description": {
             "en-GB": "Steel lift cabin",
@@ -152,14 +154,16 @@
             "nl-NL": "Stalen liftcabine.",
             "sv-SE": "Hisskabin i stål",
             "ko-KR": "손님들이 엘리베이터에 타서 수직 탑을 따라 위나 아래 층으로 이동하는 놀이기구",
-            "zh-CN": "游客在垂直塔楼内的电梯上下,由某一楼层到其它楼层",
+            "zh-CN": "乘客在垂直塔楼内的电梯上下,由某一楼层到其它楼层",
             "zh-TW": "遊客乘搭升降機上下穿梭於垂直的管道中, 並借此訪問另一層",
             "pt-BR": "Cabine de aço do elevador",
             "cs-CZ": "Výtah s ocelovou kabinou",
             "ja-JP": "垂直なタワーの各階を移動する際のエレベーターです",
             "pl-PL": "Pasażerowie jeżdżą w dół lub w górę windą w wieży, aby przejść z jednego poziomu na drugi",
             "ru-RU": "Гости переезжают с уровня на уровень",
-            "eo-ZZ": "Ŝtala liftokajuto"
+            "eo-ZZ": "Ŝtala liftokajuto",
+            "ca-ES": "Cabina d’ascensor d’acer",
+            "fi-FI": "Teräksinen hissikori"
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -177,7 +181,9 @@
             "ja-JP": "定員16名",
             "pl-PL": "16 pasażerów",
             "ru-RU": "16 пассажиров",
-            "eo-ZZ": "16 pasaĝeroj"
+            "eo-ZZ": "16 pasaĝeroj",
+            "ca-ES": "16 passatgers",
+            "fi-FI": "16 matkustajaa"
         }
     }
 }

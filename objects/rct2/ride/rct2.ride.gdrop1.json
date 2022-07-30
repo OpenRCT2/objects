@@ -373,7 +373,7 @@
             "nl-NL": "Roto-drop",
             "sv-SE": "Roto-fall",
             "ko-KR": "자이로드롭",
-            "zh-CN": "落下旋转车Roto-Drop",
+            "zh-CN": "落下旋转车",
             "zh-TW": "落下旋轉車",
             "pt-BR": "Queda Giratória",
             "cs-CZ": "Roto-pád",
@@ -381,7 +381,9 @@
             "nb-NO": "Rotofall",
             "pl-PL": "Obrotospad",
             "ru-RU": "Рото-дроп",
-            "eo-ZZ": "Turno-Falo"
+            "eo-ZZ": "Turno-Falo",
+            "ca-ES": "Caiguda giratòria",
+            "fi-FI": "Pyörivä tiputustorni"
         },
         "description": {
             "en-GB": "A ring of seats is pulled to the top of a tall tower while gently rotating, then allowed to free-fall down, stopping gently at the bottom using magnetic brakes",
@@ -399,7 +401,9 @@
             "ja-JP": "円形の座席がゆっくりと回りながら高い塔の上まで上がり、落下して磁気ブレーキでリフトに止まります",
             "pl-PL": "Pierścień z zamocowanymi fotelami jest wciągany na szczyt wysokiej wieży, obracając się powoli. Następnie spada swobodnie, wyhamowując delikatnie u dołu z użyciem hamulców magnetycznych",
             "ru-RU": "Ряд кресел загоняют на верх высокой башни и вращают, затем они падают вниз, остановившись внизу на магнитных тормозах.",
-            "eo-ZZ": "Ringo da seĝoj, milde turniĝante, estas tirata al la supro de alta turo. Tiam, la ringo falas libere, kaj haltas milde al la malsupro per magnetaj bremsoj."
+            "eo-ZZ": "Ringo da seĝoj, milde turniĝante, estas tirata al la supro de alta turo. Tiam, la ringo falas libere, kaj haltas milde al la malsupro per magnetaj bremsoj.",
+            "ca-ES": "Una anella de seients es puja fins a dalt de tot d’una torre alta mentre gira suaument. Llavors, es llença en caiguda lliure, parant suaument quan arriba al terra amb frens magnètics.",
+            "fi-FI": "Pyörivään ympyrään asetetut istuimet vedetään korkean tornin huipulle, ja annetaan pudota alas, ja pysähtyä hellävaraisesti magneettijarrujen ansiosta"
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -417,7 +421,9 @@
             "ja-JP": "定員16名",
             "pl-PL": "16 pasażerów",
             "ru-RU": "16 пассажиро",
-            "eo-ZZ": "16 pasaĝeroj"
+            "eo-ZZ": "16 pasaĝeroj",
+            "ca-ES": "16 passatgers",
+            "fi-FI": "16 matkustajaa"
         }
     }
 }
