@@ -62,7 +62,9 @@
             "ja-JP": "ボブスレー・コースター",
             "pl-PL": "Kolejka bobslejowa",
             "ru-RU": "Бобслей-поезд",
-            "eo-ZZ": "Bobsledo-Trajnoj"
+            "eo-ZZ": "Bobsledo-Trajnoj",
+            "ca-ES": "Trens bob",
+            "fi-FI": "Rattikelkkavaunut"
         },
         "description": {
             "en-GB": "Trains consisting of 2-seater cars where the riders are behind each other",
@@ -80,7 +82,9 @@
             "ja-JP": "乗客2人が前後に座るボブスレーです",
             "pl-PL": "Pasażerowie zjeżdżają krętą trasą w wagonikach przypominających bobsleje, prowadzonych jedynie przez krzywizny i wychylenia półkolistego toru",
             "ru-RU": "Поезд состоящий из двухместных вагонов, где пассажиры сидят друг за другом",
-            "eo-ZZ": "Trajnoj, konsistaj de ĉaroj kun 2 seĝoj, kie la rajdantoj estas malantaŭ unu la alian"
+            "eo-ZZ": "Trajnoj, konsistaj de ĉaroj kun 2 seĝoj, kie la rajdantoj estas malantaŭ unu la alian",
+            "ca-ES": "Trens amb cotxes de 2 seients on els passatgers van un darrere l’altre.",
+            "fi-FI": "Vaunut, jossa kaksi matkustajaa istuu peräkkäin"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -91,14 +95,16 @@
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
             "ko-KR": "차량당 2명의 승객",
-            "zh-CN": "2位乘客/每个车厢",
+            "zh-CN": "2位乘客/车",
             "zh-TW": "2位乘客/每個車廂",
             "pt-BR": "2 passageiros por carro",
             "cs-CZ": "2 místa v každém vozu",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }

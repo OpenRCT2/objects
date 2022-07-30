@@ -66,7 +66,9 @@
             "ja-JP": "バーティカル・ドロップ・ジェットコースター",
             "pl-PL": "Pionospadajka",
             "ru-RU": "Вертикальные горки",
-            "eo-ZZ": "Tvisto-Trajnoj kun Ses Seĝoj"
+            "eo-ZZ": "Tvisto-Trajnoj kun Ses Seĝoj",
+            "ca-ES": "Caiguda vertical de sis seients",
+            "fi-FI": "Kuusipaikkaiset kiehkuravaunut"
         },
         "description": {
             "en-GB": "Roller coaster trains with extra-wide cars, built for vertical drops",
@@ -84,7 +86,9 @@
             "ja-JP": "超幅広の車両が垂直に切り立ったコースを降下する、究極のフリーフォール体験ができるコースターです",
             "pl-PL": "Bardzo szerokie wagoniki zjeżdżają po całkowicie pionowym torze, zapewniając pasażerom jedyne w swoim rodzaju wrażenie swobodnego spadania",
             "ru-RU": "Широкие вагончики падают по вертикальному треку.",
-            "eo-ZZ": "Trajnoj de onda fervojo kun ekstra-larĝaj ĉaroj, konstruitaj por vertikalaj faloj"
+            "eo-ZZ": "Trajnoj de onda fervojo kun ekstra-larĝaj ĉaroj, konstruitaj por vertikalaj faloj",
+            "ca-ES": "Muntanya russa amb trens amb cotxes amples amb caigudes verticals.",
+            "fi-FI": "Ekstraleveät pystysuoriin pudotuksiin suunnitellut vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -95,14 +99,16 @@
             "nl-NL": "6 passagiers per karretje",
             "sv-SE": "6 passagerare per vagn",
             "ko-KR": "차량당 6명의 승객",
-            "zh-CN": "6 位乘客/每个车厢",
+            "zh-CN": "6位乘客/车",
             "zh-TW": "6 位乘客/每個車廂",
             "pt-BR": "6 passageiros por carro",
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両6名",
             "pl-PL": "6 pasażerów na wagonik",
             "ru-RU": "6 пассажиров",
-            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro",
+            "ca-ES": "6 passatgers per cotxe",
+            "fi-FI": "6 matkustajaa per vaunu"
         }
     }
 }

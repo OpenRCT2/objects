@@ -70,14 +70,16 @@
             "nl-NL": "Cheshire Cats",
             "sv-SE": "Cheshirekatter",
             "ko-KR": "체셔 고양이",
-            "zh-CN": "笑笑?",
+            "zh-CN": "柴郡猫",
             "zh-TW": "笑臉貓遊",
             "pt-BR": "Gatos Risonhos",
             "cs-CZ": "Autodráha",
             "ja-JP": "チェシャ猫",
             "pl-PL": "Koty z Cheshire",
             "ru-RU": "Чешир",
-            "eo-ZZ": "Ĉeŝiraj Katoj"
+            "eo-ZZ": "Ĉeŝiraj Katoj",
+            "ca-ES": "Gats Cheshire",
+            "fi-FI": "Irvikissat"
         },
         "description": {
             "en-GB": "Powered cat-shaped vehicles",
@@ -95,7 +97,9 @@
             "ja-JP": "動力つきの猫型の車両です",
             "pl-PL": "Napędzane pojazdy w kształcie kotów podróżujące wyznaczoną trasą",
             "ru-RU": "Машинки в виде котов едут по рельсам",
-            "eo-ZZ": "Ŝaltitaj katformaj veturiloj"
+            "eo-ZZ": "Ŝaltitaj katformaj veturiloj",
+            "ca-ES": "Vehicles autopropulsats en forma de gat.",
+            "fi-FI": "Moottoroidut kissanmuotoiset ajoneuvot"
         },
         "capacity": {
             "en-GB": "2 passengers per cat",
@@ -106,14 +110,16 @@
             "nl-NL": "2 passagiers per kat",
             "sv-SE": "2 passagerare per katt",
             "ko-KR": "차량당 2명의 승객",
-            "zh-CN": "2位客人/辆",
+            "zh-CN": "2位乘客/车",
             "zh-TW": "每輛車2位乘客",
             "pt-BR": "2 passageiros por gato",
             "cs-CZ": "2 místa v každém vozu",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na kota",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por kato"
+            "eo-ZZ": "Po 2 pasaĝeroj por kato",
+            "ca-ES": "2 passatgers per gat",
+            "fi-FI": "2 matkustajaa per kissa"
         }
     }
 }

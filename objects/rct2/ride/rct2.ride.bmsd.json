@@ -104,7 +104,9 @@
             "ja-JP": "ツイスター・ジェットコースター",
             "pl-PL": "Zwijka",
             "ru-RU": "Твистер-коастер",
-            "eo-ZZ": "Tvisto-Trajnoj"
+            "eo-ZZ": "Tvisto-Trajnoj",
+            "ca-ES": "Muntanya russa Tornado",
+            "fi-FI": "Kiehkuravaunut"
         },
         "description": {
             "en-GB": "Spacious trains with shoulder restraints",
@@ -124,7 +126,9 @@
             "ja-JP": "さまざまな反転を持つスムーズなスチールコースを滑走する幅広のローラーコースターです",
             "pl-PL": "Szerokie wagoniki suną po gładkim stalowym torze, pokonując liczne ostre zakręty",
             "ru-RU": "Широкие поезда скользят по гладким рельсам со множеством поворотов",
-            "eo-ZZ": "Grandspacaj trajnoj kun ŝultrobridoj"
+            "eo-ZZ": "Grandspacaj trajnoj kun ŝultrobridoj",
+            "ca-ES": "Trens espaiosos amb subjecció per l’espatlla.",
+            "fi-FI": "Tilavat vaunut olkaturvakaiteilla"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -135,14 +139,16 @@
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
             "ko-KR": "차량당 4명의 승객",
-            "zh-CN": "4 位乘客/每个车厢",
+            "zh-CN": "4位乘客/车",
             "zh-TW": "4 位乘客/每個車廂",
             "pt-BR": "4 passageiros por carro",
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

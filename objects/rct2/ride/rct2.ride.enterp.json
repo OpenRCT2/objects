@@ -388,14 +388,16 @@
             "nl-NL": "Draaiend wiel met hangende passagierscabines, dat eerst gaat draaien en vervolgens wordt opgetild door een steunarm.",
             "sv-SE": "Ett horisontellt hjul med hängande passagerarkapslar, som börjar med att rotera och sedan lutas upp av en stödarm",
             "ko-KR": "원형 놀이기구에 매달린 객실에 탑승하면 처음에 회전하기 시작하여 이후에 지지대에 의해 기울어진 채로 회전하는 놀이기구",
-            "zh-CN": "旋转轮以悬吊游客太空舱,首先以旋转开始再以一支支架支撑升起",
+            "zh-CN": "旋转轮以悬吊乘客太空舱,首先以旋转开始再以一支支架支撑升起",
             "zh-TW": "旋轉輪以懸吊遊客太空艙,首先以旋轉開始再以一支支架支撐升起",
             "pt-BR": "Roda-gigante com módulos suspensos para os passageiros, que primeiro começa a rodar e depois é inclinada por um braço de suporte",
             "cs-CZ": "Otáčející se kolo se zavěšenými kabinami, které se napřed roztočí a pak se zvedne na pomocné podpěře",
             "ja-JP": "乗客の乗ったポッドがぶら下がった大きな輪が、回転しながら傾斜する乗物です",
             "pl-PL": "Obracające się koło z podwieszanymi wagonikami. Gdy się rozkręci, hydrauliczne ramię podnosi je do pionu",
             "ru-RU": "Колесо с подвешенными капсулами вращается с большой скоростью",
-            "eo-ZZ": "Turniĝanta radego kun penditaj pasaĝerujoj, kiu unue komencas turniĝi, kaj tiam estas klinita supren per apoga brako"
+            "eo-ZZ": "Turniĝanta radego kun penditaj pasaĝerujoj, kiu unue komencas turniĝi, kaj tiam estas klinita supren per apoga brako",
+            "ca-ES": "Roda de la que pengen les càpsules dels passatgers, que comença a girar i després s’inclina amb un braç de suport.",
+            "fi-FI": "Riippuvilla vaunuilla varustettu pyörivä ratas, joka aluksi pyörii paikallaan, ja sitten nousee pystysuoraksi liikkuvan tukipuomin ansioista"
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -413,7 +415,9 @@
             "ja-JP": "定員16名",
             "pl-PL": "16 pasażerów",
             "ru-RU": "16 пассажиров",
-            "eo-ZZ": "16 pasaĝeroj"
+            "eo-ZZ": "16 pasaĝeroj",
+            "ca-ES": "16 passatgers",
+            "fi-FI": "16 matkustajaa"
         }
     }
 }

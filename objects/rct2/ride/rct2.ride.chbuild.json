@@ -134,7 +134,9 @@
             "nb-NO": "Skjevt hus",
             "pl-PL": "Krzywy dom",
             "ru-RU": "Кривой дом",
-            "eo-ZZ": "Malrekta Domo"
+            "eo-ZZ": "Malrekta Domo",
+            "ca-ES": "La casa torta",
+            "fi-FI": "Kiero talo"
         },
         "description": {
             "en-GB": "Building containing warped rooms and angled corridors to disorientate people walking through it",
@@ -145,14 +147,16 @@
             "nl-NL": "Gebouw met scheve kamers en gangen die de bezoekers desoriënteren.",
             "sv-SE": "Byggnad som innehåller skeva rum och vinklade korridorer för att desorientera personerna som går igenom den",
             "ko-KR": "사람들이 비뚤어진 방과 각진 복도를 통과하면서 방향을 헷갈리게 만드는 건물",
-            "zh-CN": "建筑物内含有变形的房间及多方向走廊使通过它的人容易迷失方向",
+            "zh-CN": "建筑物内含有变形的房间及多方向走廊使通过它的人容易迷失方向，某个貌似很有名的老鼠很喜欢带小朋友进去",
             "zh-TW": "一座建築物, 含有扭曲房間及傾斜走道使人於行走中失去方向感",
             "pt-BR": "Construção contendo salas tortas e corredores angulados para desorientar as pessoas que andarem por eles",
             "cs-CZ": "Budova s pokřivenými místnostmi a nakloněnými chodbami, které dezorientují návštěvníky",
             "ja-JP": "中に入った人の方向感覚を狂わせる、ゆがんだ部屋と曲がった廊下がある建物です",
             "pl-PL": "Budynek z powykrzywianymi ścianami i zakręconymi korytarzami, dezorientujący ludzi, którzy do niego wejdą",
             "ru-RU": "Здание с кривыми комнатами и коридорами",
-            "eo-ZZ": "Konstruaĵo, kiu enhavas ĉambrojn torditajn kaj koridorojn angulajn por malorienti homojn tie"
+            "eo-ZZ": "Konstruaĵo, kiu enhavas ĉambrojn torditajn kaj koridorojn angulajn por malorienti homojn tie",
+            "ca-ES": "Edifici amb habitacions deformades i passadissos angulosos per desorientar les persones que el visiten.",
+            "fi-FI": "Rakennus täynnä kävijöitä kummastuttavia vääristettyjä huoneita ja kieroutuineita käytäviä"
         },
         "capacity": {
             "en-GB": "5 guests",
@@ -163,14 +167,16 @@
             "nl-NL": "5 bezoekers",
             "sv-SE": "5 besökare",
             "ko-KR": "손님 5명",
-            "zh-CN": "5位客人",
+            "zh-CN": "5位乘客",
             "zh-TW": "5位遊客",
             "pt-BR": "5 visitantes",
             "cs-CZ": "5 návštěvníků",
             "ja-JP": "定員5名",
             "pl-PL": "5 widzów",
             "ru-RU": "5 чел",
-            "eo-ZZ": "5 gastoj"
+            "eo-ZZ": "5 gastoj",
+            "ca-ES": "5 visitants",
+            "fi-FI": "5 kävijää"
         }
     }
 }

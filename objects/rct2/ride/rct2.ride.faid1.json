@@ -47,7 +47,9 @@
             "nb-NO": "Førstehjelp",
             "pl-PL": "Pierwsza pomoc",
             "ru-RU": "Медпункт",
-            "eo-ZZ": "Sukurejo"
+            "eo-ZZ": "Sukurejo",
+            "ca-ES": "Sala de primers auxilis",
+            "fi-FI": "Ensiapuhuone"
         },
         "description": {
             "en-GB": "A place for sick guests to go for faster recovery",
@@ -58,14 +60,16 @@
             "nl-NL": "Een gebouw waar misselijke bezoekers sneller kunnen opknappen.",
             "sv-SE": "En plats där illamående besökare kan återhämta sig snabbare",
             "ko-KR": "속이 메스꺼운 손님들이 빨리 회복할 수 있는 장소",
-            "zh-CN": "一间让生病的游客能迅速回复的急救室",
+            "zh-CN": "一间让生病的乘客恢复到 还能继续打十个 的急救室",
             "zh-TW": "一間讓生病的遊客能迅速回復的急救室",
             "pt-BR": "Um local para visitantes enjoados ou doentes se recuperarem",
             "cs-CZ": "Místo pro návštěvníky, kterým by se udělalo nevolno, které napomáhá brzkému uzdravení",
             "ja-JP": "気分の悪くなった来園客がここに来ると早く回復します",
             "pl-PL": "Miejsce dla gości, którym zrobiło się niedobrze - tutaj szybciej oprzytomnieją",
             "ru-RU": "Комната для заболевших",
-            "eo-ZZ": "Loko al kie malsanaj gastoj iras por resaniĝi pli rapide"
+            "eo-ZZ": "Loko al kie malsanaj gastoj iras por resaniĝi pli rapide",
+            "ca-ES": "Un lloc perquè els visitants malalts puguin anar-hi per recuperar-se més aviat.",
+            "fi-FI": "Paikka, jossa pahoinvoivat kävijät voivat levätä ja toipua nopeammin"
         }
     }
 }

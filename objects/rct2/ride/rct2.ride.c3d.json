@@ -47,88 +47,7 @@
             "recalculateSpriteBounds": true,
             "hasAdditionalColour1": true,
             "numSegments": 0,
-            "loadingWaypoints": [
-                [
-                    [40, 40],
-                    [-40, 40],
-                    [-36, 0]
-                ],
-                [
-                    [-40, -40],
-                    [-36, 0],
-                    [-36, 0]
-                ],
-                [
-                    [-36, 0],
-                    [-36, 0],
-                    [-36, 0]
-                ],
-                [
-                    [-40, 40],
-                    [-36, 0],
-                    [-36, 0]
-                ],
-                [
-                    [40, 40],
-                    [0, 36],
-                    [0, 36]
-                ],
-                [
-                    [40, -40],
-                    [40, 40],
-                    [0, 36]
-                ],
-                [
-                    [-40, 40],
-                    [0, 36],
-                    [0, 36]
-                ],
-                [
-                    [0, 36],
-                    [0, 36],
-                    [0, 36]
-                ],
-                [
-                    [36, 0],
-                    [36, 0],
-                    [36, 0]
-                ],
-                [
-                    [40, -40],
-                    [36, 0],
-                    [36, 0]
-                ],
-                [
-                    [-40, -40],
-                    [40, -40],
-                    [36, 0]
-                ],
-                [
-                    [40, 40],
-                    [36, 0],
-                    [36, 0]
-                ],
-                [
-                    [40, -40],
-                    [0, -36],
-                    [0, -36]
-                ],
-                [
-                    [0, -36],
-                    [0, -36],
-                    [0, -36]
-                ],
-                [
-                    [-40, -40],
-                    [0, -36],
-                    [0, -36]
-                ],
-                [
-                    [-40, 40],
-                    [-40, -40],
-                    [0, -36]
-                ]
-            ]
+            "loadingWaypoints": [[[40, 40],[-40, 40],[-36, 0]],[[-40, -40],[-36, 0],[-36, 0]],[[-36, 0],[-36, 0],[-36, 0]],[[-40, 40],[-36, 0],[-36, 0]],[[40, 40],[0, 36],[0, 36]],[[40, -40],[40, 40],[0, 36]],[[-40, 40],[0, 36],[0, 36]],[[0, 36],[0, 36],[0, 36]],[[36, 0],[36, 0],[36, 0]],[[40, -40],[36, 0],[36, 0]],[[-40, -40],[40, -40],[36, 0]],[[40, 40],[36, 0],[36, 0]],[[40, -40],[0, -36],[0, -36]],[[0, -36],[0, -36],[0, -36]],[[-40, -40],[0, -36],[0, -36]],[[-40, 40],[-40, -40],[0, -36]]]
         }
     },
     "images": ["$RCT2:OBJDATA/C3D.DAT[0..6]"],
@@ -150,7 +69,9 @@
             "nb-NO": "3D kino",
             "pl-PL": "Kino trójwymiarowe",
             "ru-RU": "3D Кино",
-            "eo-ZZ": "3D Kinejo"
+            "eo-ZZ": "3D Kinejo",
+            "ca-ES": "Cinema 3D",
+            "fi-FI": "3D-elokuvateatteri"
         },
         "description": {
             "en-GB": "Cinema showing 3D films inside a geodesic sphere shaped building",
@@ -168,7 +89,9 @@
             "ja-JP": "3D映画を上映する、球形の映画館です",
             "pl-PL": "Kino wyświetlające trójwymiarowe filmy na ekranie stanowiącym wewnętrzną ścianę kulistego budynku",
             "ru-RU": "Кинотеатр с 3D фильмами в сферическом здании",
-            "eo-ZZ": "Kinejo, kiu montras 3D-ajn filmojn en geodezikoforma konstruaĵo"
+            "eo-ZZ": "Kinejo, kiu montras 3D-ajn filmojn en geodezikoforma konstruaĵo",
+            "ca-ES": "Cinema on es projecten pel·lícules 3D dins d’un edifici en forma d’esfera geodèsica.",
+            "fi-FI": "Elokuvateatteri, joka näyttää 3D-elokuvia geodeettisen pallon muotoisessa rakennuksessa"
         },
         "capacity": {
             "en-GB": "20 guests",
@@ -186,7 +109,9 @@
             "ja-JP": "定員20名",
             "pl-PL": "20 widzów",
             "ru-RU": "20 чел.",
-            "eo-ZZ": "20 gastoj"
+            "eo-ZZ": "20 gastoj",
+            "ca-ES": "20 espectadors",
+            "fi-FI": "20 kävijää"
         }
     }
 }
