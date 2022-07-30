@@ -23,19 +23,23 @@
         "name": {
             "en-GB": "Wattle & Daub Roof",
             "fr-FR": "Toit en clayonnage",
-            "de-DE": "Lehmflechtwerk-Dach",
+            "de-DE": "Schlammdach-Bauteil",
             "es-ES": "Tejado de entramado pintado",
             "it-IT": "Tetto di canne e fango",
-            "nl-NL": "Vitselstekdak",
-            "sv-SE": "Flätverk, tak",
-            "zh-CN": "泥芭屋顶",
+            "nl-NL": "Stuk dak van Aarde",
+            "sv-SE": "Del av jordtak",
+            "zh-CN": "泥-房顶",
             "cs-CZ": "Hliněná střecha",
-            "ko-KR": "초벽 지붕",
-            "pl-PL": "Dach z tynkowanej plecionki",
+            "ko-KR": "진흙 지붕 조각",
+            "pl-PL": "Gliniany segment dachu",
             "ru-RU": "Крыша",
-            "pt-BR": "Telhado de Pau a Pique",
+            "pt-BR": "Peça de Telhado de Barro",
             "ja-JP": "土壁の屋",
-            "eo-ZZ": "Tegmento el hurdoj kaj tero"
+            "eo-ZZ": "Parto de Tegmento el Koto",
+            "ca-ES": "Part de teulada de fang",
+            "en-US": "Mud Roof Piece",
+            "fi-FI": "Mutakodan katon osa",
+            "tr-TR": "Mud Roof Piece"
         }
     }
 }

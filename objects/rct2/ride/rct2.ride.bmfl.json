@@ -78,7 +78,9 @@
             "ja-JP": "フロアレス・ジェットコースター",
             "pl-PL": "Kolejka bezpodłogowa",
             "ru-RU": "Горки без пола",
-            "eo-ZZ": "Senplankaj Tvisto-Trajnoj"
+            "eo-ZZ": "Senplankaj Tvisto-Trajnoj",
+            "ca-ES": "Muntanya russa sense terra",
+            "fi-FI": "Lattiattomat kiehkuravaunut"
         },
         "description": {
             "en-GB": "A spacious train with shoulder restraints and no floor, making for a more exciting ride",
@@ -96,7 +98,9 @@
             "ja-JP": "肩ベルト付きの、底のない幅広のコースターで、空を飛んでいるような気分になるライドです",
             "pl-PL": "Szerokie wagoniki pozbawione podłóg zapewniają pasażerom dobry widok podczas jazdy trasą z wieloma zakrętami",
             "ru-RU": "Широкие поезда без пола дают пассажирам чувство свободы, когда они едут по извивающейся трассе.",
-            "eo-ZZ": "Grandspaca trajno kun ŝultrobridoj kaj neniu planko, por fariĝi pli ekscita atrakcio"
+            "eo-ZZ": "Grandspaca trajno kun ŝultrobridoj kaj neniu planko, por fariĝi pli ekscita atrakcio",
+            "ca-ES": "Tren espaiós amb subjecció per l’espatlla i sense terra, fent l’atracció més excitant.",
+            "fi-FI": "Tilavat vaunut olkaturvakaiteilla ja ilman lattiaa, tehden laitteesta jännittävämmän"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -107,14 +111,16 @@
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
             "ko-KR": "차량당 4명의 승객",
-            "zh-CN": "4 位乘客/每个车厢",
+            "zh-CN": "4位乘客/车",
             "zh-TW": "4 位乘客/每個車廂",
             "pt-BR": "4 passageiros por vagão",
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }
