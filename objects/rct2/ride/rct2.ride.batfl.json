@@ -59,7 +59,9 @@
             "ja-JP": "スイング車両",
             "pl-PL": "Dyndające wagoniki",
             "ru-RU": "Свинг-вагоны.",
-            "eo-ZZ": "Svingiĝantaj Ĉaroj"
+            "eo-ZZ": "Svingiĝantaj Ĉaroj",
+            "ca-ES": "Cotxes balancí",
+            "fi-FI": "Keinuvat vaunut"
         },
         "description": {
             "en-GB": "Small cars which swing from the rail above",
@@ -77,7 +79,9 @@
             "ja-JP": "上部のレールからスイングする、小さい車両です",
             "pl-PL": "Wagoniki podwieszone na górnej szynie",
             "ru-RU": "Вагончики, качающиеся на рельсе.",
-            "eo-ZZ": "Malgrandaj ĉaroj, kiuj svingiĝas sub la relo supere"
+            "eo-ZZ": "Malgrandaj ĉaroj, kiuj svingiĝas sub la relo supere",
+            "ca-ES": "Cotxes petits que es balancegen des del rail superior.",
+            "fi-FI": "Pienet vaunut, jotka keinuvat kiskon alla"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -88,14 +92,16 @@
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
             "ko-KR": "차량당 2명의 승객",
-            "zh-CN": "2 位乘客/每个车厢",
+            "zh-CN": "2位乘客/车",
             "zh-TW": "2 位乘客/每個車廂",
             "pt-BR": "2 passageiros por vagão",
             "cs-CZ": "2 místa v každém vozu",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }

@@ -35,7 +35,9 @@
             "ja-JP": "風船ショップ",
             "pl-PL": "Kiosk z balonami",
             "ru-RU": "Шары",
-            "eo-ZZ": "Balonbudo"
+            "eo-ZZ": "Balonbudo",
+            "ca-ES": "Estand de globus",
+            "fi-FI": "Ilmapallokoju"
         },
         "description": {
             "en-GB": "A souvenir stall selling helium-filled balloons",
@@ -53,7 +55,9 @@
             "ja-JP": "ヘリウムガスの入った風船を売る売店です",
             "pl-PL": "Stoisko z pamiątkami, w którym można kupić baloniki napełnione helem",
             "ru-RU": "Сувенирный ларек с шариками, надутыми гелием.",
-            "eo-ZZ": "Memoraĵbudo vendanta heliumplenajn balonojn"
+            "eo-ZZ": "Memoraĵbudo vendanta heliumplenajn balonojn",
+            "ca-ES": "Una botigueta de records que ven globus d’heli.",
+            "fi-FI": "Matkamuistokoju, joka myy heliumilla täytettyjä ilmapalloja"
         }
     }
 }

@@ -51,12 +51,7 @@
         },
         "buildMenuPriority": 1
     },
-    "images": [
-        "$RCT2:OBJDATA/ARRSW2.DAT[1]",
-        "",
-        "",
-        "$RCT2:OBJDATA/ARRSW2.DAT[3..4622]"
-    ],
+    "images": ["$RCT2:OBJDATA/ARRSW2.DAT[1]", "", "", "$RCT2:OBJDATA/ARRSW2.DAT[3..4622]"],
     "strings": {
         "name": {
             "en-GB": "Suspended Swinging Aeroplane Cars",
@@ -75,7 +70,9 @@
             "ja-JP": "サスペンデッド・スイング飛行車両",
             "pl-PL": "Swobodnie podwieszone wagoniki samolotowe",
             "ru-RU": "Аэропланы",
-            "eo-ZZ": "Penditaj Svingiĝantaj Aeroplano-Ĉaroj"
+            "eo-ZZ": "Penditaj Svingiĝantaj Aeroplano-Ĉaroj",
+            "ca-ES": "Avions",
+            "fi-FI": "Riippuvat lentokone-keinuvaunut"
         },
         "description": {
             "en-GB": "Suspended roller coaster trains consisting of aeroplane-shaped cars able to swing freely as the train goes around corners",
@@ -94,7 +91,9 @@
             "ja-JP": "ぶら下がった飛行機型の車両が、コーナーで大きく揺れ動くコースターです",
             "pl-PL": "Kolejka górska z podwieszanymi wagonikami w kształcie samolotów, które mogą się swobodnie kołysać podczas pokonywania zakrętów",
             "ru-RU": "Suspended roller coaster train consisting of airplane shaped cars able to swing freely as the train goes around corners",
-            "eo-ZZ": "Penditaj trajnoj de onda fervojo, kiuj konsistas el aeroplanoformaj ĉaroj, kiuj svingiĝas libere kiam la trajno iras ĉirkau anguloj"
+            "eo-ZZ": "Penditaj trajnoj de onda fervojo, kiuj konsistas el aeroplanoformaj ĉaroj, kiuj svingiĝas libere kiam la trajno iras ĉirkau anguloj",
+            "ca-ES": "Muntanya russa amb trens penjants amb cotxes en forma d’avió que es balancegen quan passen per les corbes.",
+            "fi-FI": "Lentokoneen muotoiset vapaasti käänteissä keinuvat riippuvat vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -105,14 +104,16 @@
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
             "ko-KR": "차량당 4명의 승객",
-            "zh-CN": "4 位乘客/每个车厢",
+            "zh-CN": "4位乘客/车",
             "zh-TW": "4 位乘客/每個車廂",
             "pt-BR": "4 passageiros por Vagão",
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажираpa",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

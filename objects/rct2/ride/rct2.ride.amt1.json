@@ -89,7 +89,9 @@
             "ja-JP": "マイン・トレイン",
             "pl-PL": "Kolejka kopalniana",
             "ru-RU": "Шахтёрские горки",
-            "eo-ZZ": "Mintrajnoj"
+            "eo-ZZ": "Mintrajnoj",
+            "ca-ES": "Trens de la mina",
+            "fi-FI": "Kaivosjunat"
         },
         "description": {
             "en-GB": "Mine train-themed roller coaster trains",
@@ -107,7 +109,9 @@
             "ja-JP": "昔の線路のようなスチールのコースを走る、鉱山列車をイメージしたコースターです",
             "pl-PL": "Kolejka górska w stylu górniczym, poruszająca się po stalowych szynach stylizowanych na stary tor kolejowy",
             "ru-RU": "Горный поезд несется по стальным рельсам, похожим на старинную железную дорогу.",
-            "eo-ZZ": "Trajnoj de onda fervojo kun temo de mintrajno"
+            "eo-ZZ": "Trajnoj de onda fervojo kun temo de mintrajno",
+            "ca-ES": "Muntanya russa tematitzada com a tren de mina.",
+            "fi-FI": "Kaivosjunan näköisiksi teematut vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "2 or 4 passengers per car",
@@ -118,14 +122,16 @@
             "nl-NL": "4 passagiers per karretje (voorste karretje 2)",
             "sv-SE": "2 eller 4 passagerare per vagn",
             "ko-KR": "차량당 2명 또는 4명의 승객",
-            "zh-CN": "2 or 4 位乘客/每个车厢",
+            "zh-CN": "2 或 4 位乘客/车",
             "zh-TW": "2 或 4 位乘客/每個車廂",
             "pt-BR": "2 ou 4 passageiros por carro",
             "cs-CZ": "2 nebo 4 místa v každém voze",
             "ja-JP": "各車両2名または4名",
             "pl-PL": "2 lub 4 pasażerów na wagonik",
             "ru-RU": "2 или 4 пассажира",
-            "eo-ZZ": "Po 2 aŭ 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 aŭ 4 pasaĝeroj por ĉaro",
+            "ca-ES": "2 o 4 passatgers per cotxe",
+            "fi-FI": "2 tai 4 matkustajaa per vaunu"
         }
     }
 }

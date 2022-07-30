@@ -88,7 +88,9 @@
             "ru-RU": "Грузовики",
             "ar-EG": "سيارات الوحش",
             "eo-ZZ": "Monstro-Kamionoj",
-            "sv-SE": "Monstertruckar"
+            "sv-SE": "Monstertruckar",
+            "ca-ES": "Camions monstruosos",
+            "fi-FI": "Monsteriautot"
         },
         "description": {
             "en-GB": "Powered giant 4 x 4 trucks which can climb steep slopes",
@@ -107,7 +109,10 @@
             "pl-PL": "Samochody na olbrzymich kołach z napędem 4 x 4, które mogą wjeżdżać na strome zbocza",
             "ru-RU": "Люди катаются на огромных внедорожниках.",
             "ar-EG": "شاحنات عملاقة رباعية العجلات يمكنها تسلق المنحدرات العالية",
-            "eo-ZZ": "Ŝaltitaj gigantaj 4 x 4 kamionoj, kiuj povas grimpi krutajn montetojn"
+            "eo-ZZ": "Ŝaltitaj gigantaj 4 × 4 kamionoj, kiuj povas grimpi krutajn montetojn",
+            "ca-ES": "Camions gegants 4 x 4 que poden pujar per pendents inclinades.",
+            "fi-FI": "Jättimäiset moottoroidut nelivetoautot, jotka voivat kiivetä jyrkkiä mäkiä",
+            "tr-TR": "Powered giant 4 × 4 trucks which can climb steep slopes"
         },
         "capacity": {
             "en-GB": "2 passengers per truck",
@@ -118,7 +123,7 @@
             "nl-NL": "2 passagiers per truck",
             "sv-SE": "2 passagerare per truck",
             "ko-KR": "트럭당 2명의 승객",
-            "zh-CN": "2 位乘客 /每辆货车",
+            "zh-CN": "2位乘客/车",
             "zh-TW": "每卡車2位乘客",
             "pt-BR": "2 passageiros por caminhão",
             "cs-CZ": "2 místa v každém vozu",
@@ -126,7 +131,9 @@
             "pl-PL": "2 pasażerów na samochód",
             "ru-RU": "2 пассажира",
             "ar-EG": "ركبان لكل شاحنة",
-            "eo-ZZ": "Po 2 pasaĝeroj por kamiono"
+            "eo-ZZ": "Po 2 pasaĝeroj por kamiono",
+            "ca-ES": "2 passatgers per camió",
+            "fi-FI": "2 matkustajaa per auto"
         }
     }
 }
