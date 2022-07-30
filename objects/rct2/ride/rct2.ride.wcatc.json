@@ -91,7 +91,9 @@
             "ja-JP": "自動車",
             "pl-PL": "Czar automobilizmu",
             "ru-RU": "Автомобили",
-            "eo-ZZ": "Aŭto-Ĉaroj"
+            "eo-ZZ": "Aŭto-Ĉaroj",
+            "ca-ES": "Automòbils",
+            "fi-FI": "Automobiilivaunut"
         },
         "description": {
             "en-GB": "Roller coaster cars in the shape of automobiles",
@@ -109,7 +111,9 @@
             "ja-JP": "自動車の形をしたローラーコースターです",
             "pl-PL": "Wagoniki kolejki górskiej w kształcie starych samochodów",
             "ru-RU": "Вагончики в виде автомобилей",
-            "eo-ZZ": "Ĉaroj de onda fervojo formitaj kiel aŭtoj"
+            "eo-ZZ": "Ĉaroj de onda fervojo formitaj kiel aŭtoj",
+            "ca-ES": "Cotxes de muntanya russa amb forma d’automòbils.",
+            "fi-FI": "Vanhan ajan automobiilin muotoiset vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -120,14 +124,16 @@
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
             "ko-KR": "차량당 4명의 승객",
-            "zh-CN": "4 位乘客/每个车厢",
+            "zh-CN": "4位乘客/车",
             "zh-TW": "4 位乘客/每個車廂",
             "pt-BR": "4 passageiros por vagão",
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

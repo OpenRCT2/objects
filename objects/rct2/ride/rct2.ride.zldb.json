@@ -108,7 +108,9 @@
             "ja-JP": "テントウムシ車両",
             "pl-PL": "Jazda na biedronkach",
             "ru-RU": "Божья Коровка",
-            "eo-ZZ": "Kokcineloj-Trajnoj"
+            "eo-ZZ": "Kokcineloj-Trajnoj",
+            "ca-ES": "Tren Marieta",
+            "fi-FI": "Leppäkerttuvaunut"
         },
         "description": {
             "en-GB": "Roller coaster trains with small ladybird-shaped cars",
@@ -126,7 +128,9 @@
             "ja-JP": "てんとう虫形の車両のローラーコースターです",
             "pl-PL": "Kolejka górska z wagonikami w kształcie biedronek",
             "ru-RU": "Поезд с маленькими божьими коровками",
-            "eo-ZZ": "Trajnoj de onda fervojo kun malgrandaj kokcineloformaj ĉaroj"
+            "eo-ZZ": "Trajnoj de onda fervojo kun malgrandaj kokcineloformaj ĉaroj",
+            "ca-ES": "Muntanya russa amb trens en forma de marieta.",
+            "fi-FI": "Pienet leppäkertun muotoiset vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -137,14 +141,16 @@
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
             "ko-KR": "차량당 2명의 승객",
-            "zh-CN": "2 位乘客/每个车厢",
+            "zh-CN": "2位乘客/车",
             "zh-TW": "2 位乘客/每個車廂",
             "pt-BR": "2 passageiros por vagão",
             "cs-CZ": "2 místa v každém vozu",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }

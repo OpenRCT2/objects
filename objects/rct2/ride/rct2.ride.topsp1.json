@@ -136,7 +136,8 @@
             "pl-PL": "Wirówka",
             "pt-BR": "Top Spin",
             "ru-RU": "Топ Спин",
-            "eo-ZZ": "Tuniĝanta Gondolo"
+            "eo-ZZ": "Tuniĝanta Gondolo",
+            "fi-FI": "Kieputin"
         },
         "description": {
             "en-GB": "Passengers ride in a gondola suspended by large rotating arms, rotating forwards and backwards head-over-heels",
@@ -150,12 +151,13 @@
             "zh-CN": "乘客搭乘着悬挂式小船由大型旋臂,旋转向前及向後运作",
             "zh-TW": "乘客搭乘著懸掛式小船由大型旋臂,旋轉向前及向後運作",
             "pt-BR": "Passageiros brincam numa gôndola suspensa por grandes braços rotatórios, rodando de pernas para o ar para frente e para trás",
-            "ca-ES": "Les cabines on estan els passatgers estan suspeses per braços que dirigeixen les cabines girant-les, balancejant-les i movent-les cap endavant i cap enrere.",
+            "ca-ES": "Les cabines on estan els passatgers pengen de braços que dirigeixen les cabines girant-les, balancejant-les i movent-les cap endavant i cap enrere.",
             "cs-CZ": "Návštěvníci sedí v gondole zavěšené na podpěrách, otáčející se dopředu a dozadu vzhůru nohama",
             "ja-JP": "大きな回転するアームからぶら下がったゴンドラが前後・上下に回転する乗物です",
             "pl-PL": "Pasażerowie podróżują w gondoli zawieszonej na wielkich obrotowych ramionach, która może huśtać się w przód i w tył, a także do góry nogami",
             "ru-RU": "Пассажиры едут в гондоле, подвешенной на большом рычаге, раскачивающемся вперед-назад.",
-            "eo-ZZ": "Pasaĝeroj rajdas en gondolo, pendita per grandaj turniĝantaj brakoj, kaj turniĝas antaŭen kaj malantaŭen renversite"
+            "eo-ZZ": "Pasaĝeroj rajdas en gondolo, pendita per grandaj turniĝantaj brakoj, kaj turniĝas antaŭen kaj malantaŭen renversite",
+            "fi-FI": "Matkustajat istuvat suurien pyörivien puomien päähän kiinnitetyssä gondolassa, pyörien edestakaisin ja ylösalaisin"
         },
         "capacity": {
             "en-GB": "8 passengers",
@@ -166,7 +168,7 @@
             "nl-NL": "8 passagiers",
             "sv-SE": "8 passagerare",
             "ko-KR": "승객 8명",
-            "zh-CN": "8 位乘客",
+            "zh-CN": "8位乘客",
             "zh-TW": "8 位乘客",
             "pt-BR": "8 passageiros",
             "ar-EG": "8 راكبين",
@@ -176,7 +178,8 @@
             "ja-JP": "定員8名",
             "pl-PL": "8 pasażerów",
             "ru-RU": "8 пассажиров",
-            "eo-ZZ": "8 pasaĝeroj"
+            "eo-ZZ": "8 pasaĝeroj",
+            "fi-FI": "8 matkustajaa"
         }
     }
 }

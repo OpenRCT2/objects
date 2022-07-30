@@ -82,7 +82,9 @@
             "ja-JP": "木造ワイルドマイン",
             "pl-PL": "Zwariowana kopalnia",
             "ru-RU": "Деревянная Шахта",
-            "eo-ZZ": "Minĉaroj"
+            "eo-ZZ": "Minĉaroj",
+            "ca-ES": "Tren de la mina",
+            "fi-FI": "Kaivosvaunut"
         },
         "description": {
             "en-GB": "Cars shaped like an old mine cart",
@@ -100,7 +102,9 @@
             "ja-JP": "小さなトロッコが木製のコースをジグザグに走り、危なっかしくヘアピンを曲がったり急降下したりするスリリングな乗物です",
             "pl-PL": "Małe wózki kopalniane jadące po zygzakowatym drewnianym torze, przechylające się na ostrych zakrętach i zdradliwych zjazdach",
             "ru-RU": "Маленькие вагонетки едут по зигзагообразному деревянному треку.",
-            "eo-ZZ": "Ĉaroj formitaj kiel malnova minĉaro"
+            "eo-ZZ": "Ĉaroj formitaj kiel malnova minĉaro",
+            "ca-ES": "Cotxes en forma de vagoneta antiga.",
+            "fi-FI": "Vanhan kaivoskärryn muotoiset vaunut"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -111,14 +115,16 @@
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
             "ko-KR": "차량당 2명의 승객",
-            "zh-CN": "2 位乘客/每个车厢",
+            "zh-CN": "2位乘客/车",
             "zh-TW": "2 位乘客/每個車廂",
             "pt-BR": "2 passageiros por carro",
             "cs-CZ": "2 místa v každém vozu",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }

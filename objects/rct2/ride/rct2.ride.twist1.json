@@ -415,7 +415,9 @@
             "nb-NO": "Twister",
             "pl-PL": "Twist",
             "ru-RU": "Твист",
-            "eo-ZZ": "Tvisto"
+            "eo-ZZ": "Tvisto",
+            "ca-ES": "Twister",
+            "fi-FI": "Twister"
         },
         "description": {
             "en-GB": "Riders ride in pairs of seats rotating around the ends of three long rotating arms",
@@ -433,7 +435,9 @@
             "ja-JP": "3本の回転する長いアームの先に、それぞれペアシートが付いた乗物です",
             "pl-PL": "Pasażerowie jadą w parach siedzeń wirujących na końcach trzech obracających się ramion",
             "ru-RU": "Люди катаются попарно, сидя в креслах.",
-            "eo-ZZ": "Rajdantoj rajdas en paroj da seĝoj, kiuj turniĝas ĉirkaŭ la finoj de tri longaj turniĝantaj brakoj"
+            "eo-ZZ": "Rajdantoj rajdas en paroj da seĝoj, kiuj turniĝas ĉirkaŭ la finoj de tri longaj turniĝantaj brakoj",
+            "ca-ES": "Els passatgers seuen per parelles girant al final de tres braços llargs rotatoris.",
+            "fi-FI": "Kävijät istuvat pareittain penkeissä kolmen pitkän pyörivän puomin päissä"
         },
         "capacity": {
             "en-GB": "18 passengers",
@@ -444,14 +448,16 @@
             "nl-NL": "18 passagiers",
             "sv-SE": "18 passagerare",
             "ko-KR": "승객 18명",
-            "zh-CN": "18 位乘客",
+            "zh-CN": "18位乘客",
             "zh-TW": "18 位乘客",
             "pt-BR": "18 passageiros",
             "cs-CZ": "18 návštěvníků",
             "ja-JP": "定員18名",
             "pl-PL": "18 pasażerów",
             "ru-RU": "18 пассажиров",
-            "eo-ZZ": "18 pasaĝeroj"
+            "eo-ZZ": "18 pasaĝeroj",
+            "ca-ES": "18 passatgers",
+            "fi-FI": "18 matkustajaa"
         }
     }
 }

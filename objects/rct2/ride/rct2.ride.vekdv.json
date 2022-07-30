@@ -69,7 +69,9 @@
             "ja-JP": "インバーテッド・バーティカル・シャトル",
             "pl-PL": "Odwrócony pionozjazd",
             "ru-RU": "Вертикальный челнок",
-            "eo-ZZ": "Vertikalaj Navedo-Ĉaroj"
+            "eo-ZZ": "Vertikalaj Navedo-Ĉaroj",
+            "ca-ES": "Llançadora vertical",
+            "fi-FI": "Pystysuorat shuttle-vaunut"
         },
         "description": {
             "en-GB": "Large roller coaster cars in which riders sit in seats suspended beneath the track",
@@ -87,7 +89,9 @@
             "ja-JP": "乗客はコースの下にぶら下げられ、垂直なコースを後ろ向きに登って降下し、ループとひねり、きつい反転を走行します",
             "pl-PL": "Pasażerowie siedzą w wagonikach podwieszonych pod torem, wciąganych tyłem na pionowy odcinek, a następnie pokonujących rozpędem pętle i ciasne zakręty",
             "ru-RU": "Люди сидят в вагончиках, подвешенных под треком, поднимаются вверх и спускаются по головокружительной трассе.",
-            "eo-ZZ": "Grandaj ĉaroj de onda fervojo, en kiu rajdantoj sidas en seĝoj penditaj sub la trako"
+            "eo-ZZ": "Grandaj ĉaroj de onda fervojo, en kiu rajdantoj sidas en seĝoj penditaj sub la trako",
+            "ca-ES": "Muntanya russa amb cotxes grans en els quals els passatgers seuen per parelles penjant per sota de la via.",
+            "fi-FI": "Isot vuoristoratavaunut, jossa matkustajat istuvat radan alta riippuvissa istuimissa"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -98,14 +102,16 @@
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
             "ko-KR": "차량당 4명의 승객",
-            "zh-CN": "4 位乘客/每个车厢",
+            "zh-CN": "4位乘客/车",
             "zh-TW": "4 位乘客/每個車廂",
             "pt-BR": "4 passageiros por vagão",
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

@@ -420,7 +420,9 @@
             "ja-JP": "雪のカップ",
             "pl-PL": "Śnieżne filiżanki",
             "ru-RU": "Снеговик",
-            "eo-ZZ": "Neĝo-Tasoj"
+            "eo-ZZ": "Neĝo-Tasoj",
+            "ca-ES": "Tasses de neu",
+            "fi-FI": "Lumikupit"
         },
         "description": {
             "en-GB": "Riders ride in pairs of seats rotating around a central snowman",
@@ -438,7 +440,9 @@
             "ja-JP": "スノーマンが中心にいて、その周りをペアシートが回る乗物です",
             "pl-PL": "Pasażerowie jadą w parach foteli obracających się wokół centralnego bałwanka",
             "ru-RU": "Люди едут парами вокруг снеговика",
-            "eo-ZZ": "Rajdantoj rajdas en paroj da seĝoj, kiuj turniĝas ĉirkaŭ centra neĝhomo"
+            "eo-ZZ": "Rajdantoj rajdas en paroj da seĝoj, kiuj turniĝas ĉirkaŭ centra neĝhomo",
+            "ca-ES": "Els passatgers viatgen per parelles en seients que giren al voltant d’un home de neu.",
+            "fi-FI": "Kävijät istuvat pareittain teematuissa istuimissa, jotka pyörivät keskeisen lumiukon ympärillä"
         },
         "capacity": {
             "en-GB": "18 passengers",
@@ -449,14 +453,16 @@
             "nl-NL": "18 passagiers",
             "sv-SE": "18 passagerare",
             "ko-KR": "승객 18명",
-            "zh-CN": "18 位乘客",
+            "zh-CN": "18位乘客",
             "zh-TW": "18 位乘客",
             "pt-BR": "18 passageiros",
             "cs-CZ": "18 návštěvníků",
             "ja-JP": "定員18名",
             "pl-PL": "18 pasażerów",
             "ru-RU": "18 пассажиров",
-            "eo-ZZ": "18 pasaĝeroj"
+            "eo-ZZ": "18 pasaĝeroj",
+            "ca-ES": "18 passatgers",
+            "fi-FI": "18 matkustajaa"
         }
     }
 }

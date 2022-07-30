@@ -54,14 +54,16 @@
             "nl-NL": "Onderzeeërs",
             "sv-SE": "Ubåtar",
             "ko-KR": "잠수함",
-            "zh-CN": "海底旅行Submarine Ride",
+            "zh-CN": "海底旅行",
             "zh-TW": "海底旅行",
             "pt-BR": "Submarinos",
             "cs-CZ": "Ponorky",
             "ja-JP": "サブマリンライド",
             "pl-PL": "Podwodna podróż",
             "ru-RU": "Подлодки",
-            "eo-ZZ": "Submarŝipoj"
+            "eo-ZZ": "Submarŝipoj",
+            "ca-ES": "Submarins",
+            "fi-FI": "Sukellusveneet"
         },
         "description": {
             "en-GB": "Riders ride in a submerged submarine through an underwater course",
@@ -79,7 +81,9 @@
             "ja-JP": "水中のコースを、潜水艦に乗り込んで進む乗物です",
             "pl-PL": "Pasażerowie usadowieni w łodzi podwodnej podróżują podwodnym torem",
             "ru-RU": "Люди плавают на подводных лодках",
-            "eo-ZZ": "Rajdantoj rajdas en subakvigita submarŝipo tra subakva kurso"
+            "eo-ZZ": "Rajdantoj rajdas en subakvigita submarŝipo tra subakva kurso",
+            "ca-ES": "Els passatgers viatgen en un submarí submergit a través d’un curs d’aigua.",
+            "fi-FI": "Matkustajat kulkevat sukellusveneessä vedenalaista rataa pitkin"
         },
         "capacity": {
             "en-GB": "4 passengers per submarine",
@@ -90,14 +94,16 @@
             "nl-NL": "4 passagiers per onderzeeër",
             "sv-SE": "4 passagerare per ubåt",
             "ko-KR": "잠수함당 4명의 승객",
-            "zh-CN": "4 位乘客 /每艘潜艇",
+            "zh-CN": "4 位乘客/船",
             "zh-TW": "4 位乘客 /每艘潛艇",
             "pt-BR": "4 passageiros por submarino",
             "cs-CZ": "4 návštěvníci v každé ponorce",
             "ja-JP": "各鑑4名",
             "pl-PL": "4 pasażerów na łódţ podwodną",
             "ru-RU": "4 Пассажира",
-            "eo-ZZ": "Po 4 pasaĝeroj por submarŝipo"
+            "eo-ZZ": "Po 4 pasaĝeroj por submarŝipo",
+            "ca-ES": "4 passatgers per submarí",
+            "fi-FI": "4 matkustajaa per sukellusvene"
         }
     }
 }
