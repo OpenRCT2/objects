@@ -153,13 +153,16 @@
     },
     "strings": {
         "name": {
-            "en-GB": "Hybrid Coaster Trains"
+            "en-GB": "Hybrid Coaster Trains",
+            "nl-NL": "Trein voor hybride achtbaan"
         },
         "description": {
-            "en-GB": "Roller coaster trains with lap restraints, capable of steep drops and inversions"
+            "en-GB": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
+            "nl-NL": "Achtbaantreinen met schootbeugels, die geschikt zijn voor steile heilingen en omkeringen."
         },
         "capacity": {
-            "en-GB": "4 passengers per car"
+            "en-GB": "4 passengers per car",
+            "nl-NL": "4 passagiers per karretje"
         }
     },
     "images": [
