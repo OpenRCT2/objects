@@ -51,7 +51,12 @@
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/ARRSW2.DAT[1]", "", "", "$RCT2:OBJDATA/ARRSW2.DAT[3..4622]"],
+    "images": [
+        "$RCT2:OBJDATA/ARRSW2.DAT[1]",
+        "",
+        "",
+        "$RCT2:OBJDATA/ARRSW2.DAT[3..4622]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Suspended Swinging Aeroplane Cars",
