@@ -73,7 +73,7 @@
             "fr-FR": "Voitures de course des années folles",
             "de-DE": "Rennwagen der Zwanziger",
             "es-ES": "Coches de carreras de los años 20",
-            "it-IT": "Auto da corsa degli anni '20",
+            "it-IT": "Auto da corsa degli anni ’20",
             "nl-NL": "Jarentwintig-raceauto’s",
             "sv-SE": "20-tals-racing",
             "ko-KR": "1920년대 레이싱 카",
@@ -83,14 +83,17 @@
             "cs-CZ": "Motokáry z 20. let",
             "pl-PL": "Wyścigówki z lat 20.",
             "ru-RU": "Машинки 1920гг",
-            "eo-ZZ": "Vetkuraŭtoj de la 1920-aj"
+            "eo-ZZ": "Vetkuraŭtoj de la 1920-aj",
+            "ca-ES": "Cotxes de carreres del 1920",
+            "fi-FI": "1920-luvun kilpa-autot",
+            "zh-CN": "1920年代赛车"
         },
         "description": {
             "en-GB": "1920s race car themed go-karts",
             "fr-FR": "Les passagers font la course à bord de karts représentant des voitures des années folles",
             "de-DE": "Go-Karts im Stil der 1920er",
             "es-ES": "Los usuarios compiten en karts con forma de coches de carreras de los años 20.",
-            "it-IT": "I passeggeri gareggiano in go-kart che richiamano le auto da corsa degli anni '20.",
+            "it-IT": "I passeggeri gareggiano in go-kart che richiamano le auto da corsa degli anni ’20.",
             "nl-NL": "Passagiers racen in go-karts die er uitzien als raceauto’s uit de jaren ’20.",
             "sv-SE": "Gokarts inspirerade av racerbilar från 20-talet",
             "ko-KR": "1920년대 레이싱 카 테마의 고 카트에 타고 레이스를 펼치는 놀이기구",
@@ -100,7 +103,10 @@
             "cs-CZ": "Benzínové ovladatelné motokáry ve stylu 20. let",
             "pl-PL": "Pasażerowie ścigają się w gokartach stylizowanych na samochody z lat 20.",
             "ru-RU": "Люди гоняются друг с другом на машинках в стиле 20х",
-            "eo-ZZ": "Gokartoj kun temo de 1920-aj vetkuraŭtoj"
+            "eo-ZZ": "Gokartoj kun temo de 1920-aj vetkuraŭtoj",
+            "ca-ES": "Karts tematitzats com a cotxes de carreres de l’any 1920.",
+            "fi-FI": "1920-luvun kilpa-auton tyyliset mikroautot",
+            "zh-CN": "1920年代以赛车为主题的卡丁车"
         },
         "capacity": {
             "en-GB": "Single-seater",
@@ -117,7 +123,10 @@
             "cs-CZ": "1 místo v každém voze",
             "pl-PL": "Jednomiejscowe",
             "ru-RU": "Одиночные",
-            "eo-ZZ": "Po 1 pasaĝero por aŭto"
+            "eo-ZZ": "Po 1 pasaĝero por aŭto",
+            "ca-ES": "Monoplaça",
+            "fi-FI": "Yksipaikkainen",
+            "zh-CN": "单座"
         }
     }
 }

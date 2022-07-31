@@ -49,7 +49,7 @@
             "fr-FR": "Hippopotame",
             "de-DE": "Nilpferd-U-Boote",
             "es-ES": "Atracción Hipopótamo",
-            "it-IT": "L'ippopotamo",
+            "it-IT": "L’ippopotamo",
             "nl-NL": "Nijlpaardonderzeeërs",
             "sv-SE": "Flodhäst",
             "zh-CN": "河马游乐设施",
@@ -60,7 +60,9 @@
             "pl-PL": "Przejażdżka hipopotamem",
             "pt-BR": "Submarinos Hipopótamo",
             "ru-RU": "Гиппопотам",
-            "eo-ZZ": "Hipopotamo-Submarŝipoj"
+            "eo-ZZ": "Hipopotamo-Submarŝipoj",
+            "ca-ES": "Hipopòtams submarins",
+            "fi-FI": "Virtahepo-sukellusveneet"
         },
         "description": {
             "en-GB": "Riders ride in a submerged hippo-shaped submarine through an underwater course",
@@ -77,7 +79,9 @@
             "pl-PL": "Pasażerowie podróżują podwodnym torem, usadowieni w łodzi podwodnej",
             "pt-BR": "Passageiros vão em um submarino com formato de hipopótamo em um percurso submerso",
             "ru-RU": "Путешествие на субмарине по подводной трассе.",
-            "eo-ZZ": "Rajdantoj rajdas en subakvigita hipopotamoforma submarŝipo tra subakva kurso"
+            "eo-ZZ": "Rajdantoj rajdas en subakvigita hipopotamoforma submarŝipo tra subakva kurso",
+            "ca-ES": "Els passatgers viatgen en un submarí submergit en forma d’hipopòtam a través d’un circuit d’aigua.",
+            "fi-FI": "Matkustajat kulkevat virtahevon muotoisessa sukellusveneessä vedenalaista rataa pitkin"
         },
         "capacity": {
             "en-GB": "5 passengers per submarine",
@@ -87,14 +91,16 @@
             "it-IT": "passeggeri per carrozza",
             "nl-NL": "5 passagiers per onderzeeër",
             "sv-SE": "5 passagerare per ubåt",
-            "zh-CN": "?每辆车限乘?人",
+            "zh-CN": "5位乘客/潜水艇",
             "ja-JP": "各船5名",
             "cs-CZ": "5 míst v každé ponorce",
             "ko-KR": "차량당 5명의 승객",
             "pl-PL": "5 pasażerów na wagonik",
             "pt-BR": "5 passageiros por carro",
             "ru-RU": "5 человек в вагоне",
-            "eo-ZZ": "Po 5 pasaĝeroj por submarŝipo"
+            "eo-ZZ": "Po 5 pasaĝeroj por submarŝipo",
+            "ca-ES": "5 passatgers per submarí",
+            "fi-FI": "5 matkustajaa per sukellusvene"
         }
     }
 }

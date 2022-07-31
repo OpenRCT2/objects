@@ -101,14 +101,16 @@
             "ja-JP": "ギガコースター",
             "pl-PL": "Gigajazda",
             "ru-RU": "Гига-Горки",
-            "eo-ZZ": "Trajnoj de Altega Onda Fervojo"
+            "eo-ZZ": "Trajnoj de Altega Onda Fervojo",
+            "ca-ES": "Gigamuntanya russa",
+            "fi-FI": "Gigaradan vaunut"
         },
         "description": {
             "en-GB": "Roller coaster trains for the Giga Coaster, capable of smooth drops",
-            "fr-FR": "Montagnes russes géantes proposant des chutes régulières depuis des collines dépassant les 100 mètres d'altitude",
+            "fr-FR": "Montagnes russes géantes proposant des chutes régulières depuis des collines dépassant les 100 mètres d’altitude",
             "de-DE": "Achterbahnzüge für die Giga-Bahn, geeignet für gemäßigte Gefälle",
             "es-ES": "Una montaña rusa gigante capaz de caídas suaves y subidas de más de 300 pies",
-            "it-IT": "Un ottovolante gigante d'acciaio con lunghe cadute e colline di più di 100 metri d'altezza",
+            "it-IT": "Un ottovolante gigante d’acciaio con lunghe cadute e colline di più di 100 metri d’altezza",
             "nl-NL": "Een gigantische stalen achtbaan die in staat is tot soepele afdalingen en heuvels die hoger zijn dan 90 meter.",
             "sv-SE": "Vagnar för mjuka fall utför gigaberg- och dalbanans stup",
             "ko-KR": "90m 이상의 부드러운 낙하와 상승이 가능한 거대한 강철 롤러코스터",
@@ -119,7 +121,9 @@
             "ja-JP": "300フィート(約91m)もの高さの丘と、スムーズな降下がある巨大なスチール製のコースターです",
             "pl-PL": "Wielka stalowa kolejka górska jeżdżąca po łagodnych spadkach i wzniesieniach o wysokości 100 m",
             "ru-RU": "Гигантские горки с крутыми падениями до 100м.",
-            "eo-ZZ": "Trajnoj de onda fervojo por la Altega Onda Fervojo, kapabla je glataj malleviĝoj"
+            "eo-ZZ": "Trajnoj de onda fervojo por la Altega Onda Fervojo, kapabla je glataj malleviĝoj",
+            "ca-ES": "Muntanya russa gegant amb caigudes suaus.",
+            "fi-FI": "Sulaviin pudotuksiin kykenevät gigaradan vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -130,14 +134,16 @@
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
             "ko-KR": "차량당 4명의 승객",
-            "zh-CN": "4位乘客/每个车厢",
+            "zh-CN": "4位乘客/车",
             "zh-TW": "4位乘客/每個車廂",
             "pt-BR": "4 passageiros por carro",
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

@@ -36,7 +36,9 @@
             "ja-JP": "バーガーショップ",
             "pl-PL": "Bar hamburger",
             "ru-RU": "Бургер-бар",
-            "eo-ZZ": "Burgerejo"
+            "eo-ZZ": "Burgerejo",
+            "ca-ES": "Hamburgueseria",
+            "fi-FI": "Hampurilaiskoju"
         },
         "description": {
             "en-GB": "A burger-shaped building selling burgers",
@@ -54,7 +56,9 @@
             "ja-JP": "ハンバーガー形をしたバーガーショップです",
             "pl-PL": "Budynek w kształcie hamburgera, w którym można kupić hamburgery",
             "ru-RU": "Бар, где продаются гамбургеры.",
-            "eo-ZZ": "Burgerforma konstruaĵo vendanta burgerojn"
+            "eo-ZZ": "Burgerforma konstruaĵo vendanta burgerojn",
+            "ca-ES": "Un edifici en forma d’hamburguesa que ven hamburgueses.",
+            "fi-FI": "Hampurilaisen muotoinen koju, joka myy hampurilaisia"
         }
     }
 }

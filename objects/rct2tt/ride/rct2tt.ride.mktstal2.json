@@ -35,11 +35,14 @@
             "cs-CZ": "Jarmarkový stánek s citronádou",
             "pl-PL": "Stragan z lemoniadą",
             "ru-RU": "Палатка с Лимонадом",
-            "eo-ZZ": "Limonado-Bazarbudo"
+            "eo-ZZ": "Limonado-Bazarbudo",
+            "ca-ES": "Botiga de llimonada",
+            "fi-FI": "Limsamarkkinakoju",
+            "zh-CN": "柠檬市场摊位"
         },
         "description": {
             "en-GB": "A themed stall selling old style, fresh lemonade.",
-            "fr-FR": "Un stand thématique proposant de la limonade fraîche, à l'ancienne.",
+            "fr-FR": "Un stand thématique proposant de la limonade fraîche, à l’ancienne.",
             "de-DE": "Ein thematischer Stand, der frische Limonade nach Omas Rezept verkauft",
             "es-ES": "Un puesto de época en el que se vende limonada al viejo estilo, fresca.",
             "it-IT": "Un chiosco che vende tradizionali e rinfrescanti limonate.",
@@ -52,7 +55,10 @@
             "cs-CZ": "Stánek prodávající starou dobrou čerstvou citronádu",
             "pl-PL": "Stylizowane stoisko sprzedające staroświecką świeżą lemoniadę.",
             "ru-RU": "Палатка, продающая лимонад.",
-            "eo-ZZ": "Temita budo vendanta malnovstilan freŝan limonadon"
+            "eo-ZZ": "Temita budo vendanta malnovstilan freŝan limonadon",
+            "ca-ES": "Un estand d’època que ven llimonada fresca a l’estil antic.",
+            "fi-FI": "Teemattu koju, joka myy kunnon vanhanaikaista limonaatia",
+            "zh-CN": "一个出售经典新鲜柠檬水的主题摊位"
         }
     }
 }

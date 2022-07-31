@@ -23,7 +23,7 @@
         "name": {
             "en-GB": "Toffee Apple Market Stall",
             "en-US": "Candy Apple Market Stall",
-            "fr-FR": "Marchand de pommes d'amour",
+            "fr-FR": "Marchand de pommes d’amour",
             "de-DE": "Karamellapfelmarktstand",
             "es-ES": "Puesto de manzanas de caramelo",
             "it-IT": "Chiosco di mele caramellate",
@@ -36,12 +36,15 @@
             "cs-CZ": "Jarmarkový stánek s jablky v županu",
             "pl-PL": "Stragan z jabłkami toffee",
             "ru-RU": "Палатка с конфетами",
-            "eo-ZZ": "Sukerpomo-Bazarbudo"
+            "eo-ZZ": "Sukerpomo-Bazarbudo",
+            "ca-ES": "Mercadet de pomes de caramel",
+            "fi-FI": "Toffeeomenamarkkinakoju",
+            "zh-CN": "太妃糖苹果市场摊位"
         },
         "description": {
             "en-GB": "A themed stall selling sticky toffee apples",
             "en-US": "A themed stall selling sticky candy apples",
-            "fr-FR": "Un stand thématique proposant des pommes d'amour.",
+            "fr-FR": "Un stand thématique proposant des pommes d’amour.",
             "de-DE": "Ein thematischer Stand, der Karamelläpfel verkauft",
             "es-ES": "Un puesto de comida que vende manzanas de caramelo.",
             "it-IT": "Un chiosco che vende appiccicose mele caramellate",
@@ -54,7 +57,10 @@
             "cs-CZ": "Stánek prodávající jablka v županu",
             "pl-PL": "Stylizowane stoisko sprzedające lepkie słodkie jabłka.",
             "ru-RU": "Палатка, где продают ириски.",
-            "eo-ZZ": "Temita budo vendanta gluecajn sukerpomojn"
+            "eo-ZZ": "Temita budo vendanta gluecajn sukerpomojn",
+            "ca-ES": "Un estand tematitzat que ven pomes enganxifoses de caramel.",
+            "fi-FI": "Teemattu koju, joka myy tahmaisia toffeeomenoita",
+            "zh-CN": "卖太妃糖苹果的主题摊位"
         }
     }
 }

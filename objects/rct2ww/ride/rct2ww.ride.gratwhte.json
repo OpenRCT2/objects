@@ -120,11 +120,13 @@
             "pl-PL": "Wielki biały rekin",
             "pt-BR": "Trens Grande Tubarão Branco",
             "ru-RU": "Белая акула",
-            "eo-ZZ": "Trajnoj de Granda Blanka Ŝarko"
+            "eo-ZZ": "Trajnoj de Granda Blanka Ŝarko",
+            "ca-ES": "Atracció del gran tauró blanc",
+            "fi-FI": "Valkohaivaunut"
         },
         "description": {
             "en-GB": "Trains with shoulder restraints, in the shape of a great white shark",
-            "fr-FR": "Train spacieux disposant d'une simple barre de protection au niveau des jambes",
+            "fr-FR": "Train spacieux disposant d’une simple barre de protection au niveau des jambes",
             "de-DE": "Züge mit Schulterhalterungen, in der Form von Weißhaien",
             "es-ES": "Trenes espaciosos con simples barras de sujeción",
             "it-IT": "Usa ampie carrozze con semplici cinture di sicurezza",
@@ -137,7 +139,9 @@
             "pl-PL": "Przestronne wagoniki z prostymi zabezpieczeniami obejmującymi pasażerów w pasie",
             "pt-BR": "Trens com travas de ombro, moldados como um Grande Tubarão Branco",
             "ru-RU": "Просторные поезда с ремнем безопасности",
-            "eo-ZZ": "Trajnoj kun ŝultrobridoj, formitaj kiel granda blanka ŝarko"
+            "eo-ZZ": "Trajnoj kun ŝultrobridoj, formitaj kiel granda blanka ŝarko",
+            "ca-ES": "Trens amb subjecció per les espatlles en forma de gran tauró blanc.",
+            "fi-FI": "Valkohain muotoiset vaunut, joissa on olkaturvakaiteet"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -147,14 +151,16 @@
             "it-IT": "4 passeggeri per carrozza",
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "每辆车限乘4人",
+            "zh-CN": "4位乘客/车",
             "cs-CZ": "4 míst v každém voze",
             "ja-JP": "各車両4名",
             "ko-KR": "차량당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
             "pt-BR": "4 passageiros por vagão",
             "ru-RU": "4 человек на вагон",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

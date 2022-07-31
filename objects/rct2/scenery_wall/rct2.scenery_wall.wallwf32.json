@@ -14,7 +14,7 @@
     "strings": {
         "name": {
             "en-GB": "Waterfall",
-            "fr-FR": "Chute d'eau",
+            "fr-FR": "Chute d’eau",
             "de-DE": "Wasserfall",
             "es-ES": "Cascada",
             "it-IT": "Cascata",
@@ -28,7 +28,9 @@
             "ja-JP": "滝",
             "pl-PL": "Wodospad",
             "ru-RU": "Водопад",
-            "eo-ZZ": "Akvafalo"
+            "eo-ZZ": "Akvafalo",
+            "ca-ES": "Cascada",
+            "fi-FI": "Vesiputous"
         }
     }
 }

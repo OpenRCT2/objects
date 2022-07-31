@@ -32,7 +32,7 @@
     "strings": {
         "name": {
             "en-GB": "Roman Palace End Piece",
-            "fr-FR": "Section d'arrivée de palais romain",
+            "fr-FR": "Section d’arrivée de palais romain",
             "de-DE": "Endstück des Römischen Palastes",
             "es-ES": "Sección final de palacio romano",
             "it-IT": "Tratto finale del Palazzo Romano",
@@ -45,7 +45,10 @@
             "pl-PL": "Segment końcowy rzymskiego pałacu",
             "ru-RU": "Деталь дворца",
             "ja-JP": "ローマ風　宮殿 末端部分",
-            "eo-ZZ": "Finoparto de Roma Palaco"
+            "eo-ZZ": "Finoparto de Roma Palaco",
+            "ca-ES": "Part final de palau romà",
+            "fi-FI": "Roomalaisen palatsin pääteosa",
+            "zh-CN": "罗马宫殿-结尾部分"
         }
     }
 }

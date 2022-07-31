@@ -100,7 +100,9 @@
             "ja-JP": "ジェットコースター車両",
             "pl-PL": "Kolejka górska",
             "ru-RU": "Американские горки",
-            "eo-ZZ": "Trajnoj de Lopanta Onda Fervojo"
+            "eo-ZZ": "Trajnoj de Lopanta Onda Fervojo",
+            "ca-ES": "Muntanya russa amb inversions",
+            "fi-FI": "Silmukkavuoristoratavaunut"
         },
         "description": {
             "en-GB": "Roller coaster trains with lap bars capable of travelling through vertical loops",
@@ -119,7 +121,9 @@
             "ja-JP": "垂直ループが可能な、膝の安全バーが付いたローラーコースターです",
             "pl-PL": "Wagoniki kolejki górskiej z zabezpieczeniami obejmującymi pasażerów w pasie, mogące pokonywać pionowe pętle",
             "ru-RU": "Поезда, способные ездить по вертикальным кольцам.",
-            "eo-ZZ": "Trajnoj de onda fervojo kun sinobridoj, kiuj kapablas veturi tra vertikalaj lopoj"
+            "eo-ZZ": "Trajnoj de onda fervojo kun sinobridoj, kiuj kapablas veturi tra vertikalaj lopoj",
+            "ca-ES": "Muntanya russa amb barres de subjecció per la falda en la qual els trens poden fer inversions verticals.",
+            "fi-FI": "Turvakaiteilla varustetut vuoristoratavaunut, jotka kykenee pystysuoriin silmukoihin"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -130,14 +134,16 @@
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
             "ko-KR": "차량당 4명의 승객",
-            "zh-CN": "4 位乘客/每个车厢",
+            "zh-CN": "4位乘客/车",
             "zh-TW": "4 位乘客/每個車廂",
             "pt-BR": "4 passageiros por carro",
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пасс на вагон",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

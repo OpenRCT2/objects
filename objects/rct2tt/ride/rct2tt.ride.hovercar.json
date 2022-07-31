@@ -70,7 +70,7 @@
     "strings": {
         "name": {
             "en-GB": "Hover Cars",
-            "fr-FR": "Voiture sur coussin d'air",
+            "fr-FR": "Voiture sur coussin d’air",
             "de-DE": "Schwebewagen",
             "es-ES": "Viaje en aerodeslizador",
             "it-IT": "Auto volante",
@@ -84,14 +84,17 @@
             "cs-CZ": "Autodráha se vznášedly",
             "pl-PL": "Latające samochody",
             "ru-RU": "Ховеркары",
-            "eo-ZZ": "Flugpendantaj Aŭtoj"
+            "eo-ZZ": "Flugpendantaj Aŭtoj",
+            "ca-ES": "Cotxes planadors",
+            "fi-FI": "Liitoautot",
+            "zh-CN": "浮空车"
         },
         "description": {
             "en-GB": "Maglev technology has been implemented to create the illusion of futuristic hover cars",
-            "fr-FR": "La technologie de lévitation magnétique a été intégrée pour donner l'illusion de voitures futuristes sur coussins d'air",
+            "fr-FR": "La technologie de lévitation magnétique a été intégrée pour donner l’illusion de voitures futuristes sur coussins d’air",
             "de-DE": "Magnetschwebe-Technologie für die Illusion futuristischer Schwebewagen",
             "es-ES": "La tecnología de levitación magnética se ha implementado para crear la ilusión de aerodeslizadores futuristas.",
-            "it-IT": "La tecnologia a levitazione magnetica è stata implementata per creare l'illusione di futuristiche auto che viaggiano sospese in aria.",
+            "it-IT": "La tecnologia a levitazione magnetica è stata implementata per creare l’illusione di futuristiche auto che viaggiano sospese in aria.",
             "nl-NL": "Door middel van maglev-technologie wordt de illusie van futuristische zweefwagens gecreëerd.",
             "sv-SE": "Maglev-teknologi används för att skapa en illusion av futuristiska svävarbilar",
             "ko-KR": "미래의 호버 차량같은 느낌을 주기 위해 자기 부상 기술이 탑재된 놀이기구",
@@ -101,7 +104,10 @@
             "cs-CZ": "Vozy ve tvaru futuristických vznášedel jezdí po postavené dráze",
             "pl-PL": "Technologia kolei magnetycznej umożliwiła stworzenie złudzenia futurystycznych latających samochodów",
             "ru-RU": "С помощью мощных магнитов создаётся иллюзия парящих машин",
-            "eo-ZZ": "Teknologio de magneta levitacio estis realigita por krei la iluzion de estontecaj flugpendantaj aŭtoj"
+            "eo-ZZ": "Teknologio de magneta levitacio estis realigita por krei la iluzion de estontecaj flugpendantaj aŭtoj",
+            "ca-ES": "En aquesta atracció, s’usa la tecnologia de levitació magnètica per crear la il·lusió de viatjar en cotxes planadors futurístics.",
+            "fi-FI": "Maglev-tekniikalla toteutetut futurististen liitoautojen illuusion kehittävät ajoneuvot",
+            "zh-CN": "磁悬浮技术已经可以用来创造未来悬停汽车的幻觉"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -118,7 +124,10 @@
             "cs-CZ": "2 místa v každém voze",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 чел. в машине",
-            "eo-ZZ": "Po 2 pasaĝeroj por aŭto"
+            "eo-ZZ": "Po 2 pasaĝeroj por aŭto",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per auto",
+            "zh-CN": "2位乘客/车"
         }
     }
 }

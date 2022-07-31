@@ -87,7 +87,9 @@
             "ja-JP": "コースター・ボート",
             "pl-PL": "Kolejka łódkowa",
             "ru-RU": "Лодки-горки",
-            "eo-ZZ": "Boato-Ĉaroj"
+            "eo-ZZ": "Boato-Ĉaroj",
+            "ca-ES": "Barquetes costeres",
+            "fi-FI": "Vuoristorataveneet"
         },
         "description": {
             "en-GB": "Boat-shaped roller coaster cars",
@@ -105,7 +107,9 @@
             "ja-JP": "ボート型の車両を持つローラーコースターです",
             "pl-PL": "Wagoniki w kształcie łódek",
             "ru-RU": "Вагончки в виде лодок",
-            "eo-ZZ": "Boatoformaj ĉaroj de onda fervojo"
+            "eo-ZZ": "Boatoformaj ĉaroj de onda fervojo",
+            "ca-ES": "Cotxes per a muntanya russa en forma de barca.",
+            "fi-FI": "Veneen muotoiset vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "6 passengers per boat",
@@ -116,14 +120,16 @@
             "nl-NL": "6 passagiers per boot",
             "sv-SE": "6 passagerare per båt",
             "ko-KR": "보트당 6명의 승객",
-            "zh-CN": "6 位乘客/每辆船",
+            "zh-CN": "6 位乘客/船",
             "zh-TW": "6 位乘客/每輛船",
             "pt-BR": "6 passageiros por barco",
             "cs-CZ": "6 míst v každé lodi",
             "ja-JP": "各車両6名",
             "pl-PL": "6 pasażerów na łódkę",
             "ru-RU": "6 пассажиров",
-            "eo-ZZ": "Po 6 pasaĝeroj por boato"
+            "eo-ZZ": "Po 6 pasaĝeroj por boato",
+            "ca-ES": "6 passatgers per barca",
+            "fi-FI": "6 matkustajaa per vene"
         }
     }
 }

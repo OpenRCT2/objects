@@ -141,14 +141,16 @@
             "nl-NL": "Circus",
             "pl-PL": "Cyrk",
             "ru-RU": "Цирк",
-            "eo-ZZ": "Cirko"
+            "eo-ZZ": "Cirko",
+            "ca-ES": "Circ",
+            "fi-FI": "Sirkus"
         },
         "description": {
             "en-GB": "Circus animal show inside a big-top tent",
-            "fr-FR": "Grand chapiteau dans lequel se produit un spectacle d'animaux",
+            "fr-FR": "Grand chapiteau dans lequel se produit un spectacle d’animaux",
             "de-DE": "Zirkustiershow in einem großen Zelt",
             "es-ES": "Show de animales de circo bajo una gran carpa",
-            "it-IT": "Spettacolo circense con animali tenuto all'interno di una tenda molto alta",
+            "it-IT": "Spettacolo circense con animali tenuto all’interno di una tenda molto alta",
             "nl-NL": "Een dierennummer in een circustent.",
             "sv-SE": "Cirkusdjurföreställning inuti ett stort cirkustält",
             "ko-KR": "안에서 서커스 동물 쇼를 진행하는 커다란 텐트",
@@ -159,7 +161,9 @@
             "ja-JP": "動物のサーカスショーをやっている大テントです",
             "pl-PL": "Cyrk ze zwierzętami występującymi w wielkim namiocie",
             "ru-RU": "Цирковое выступление со зверями",
-            "eo-ZZ": "Cirkospektaklo de bestoj en granda cirkotendo"
+            "eo-ZZ": "Cirkospektaklo de bestoj en granda cirkotendo",
+            "ca-ES": "Espectacle de circ dins d’una gran carpa.",
+            "fi-FI": "Sirkuseläinshow valtavan teltan sisällä"
         },
         "capacity": {
             "en-GB": "30 guests",
@@ -177,7 +181,9 @@
             "ja-JP": "定員30名",
             "pl-PL": "30 widzów",
             "ru-RU": "30 чел",
-            "eo-ZZ": "30 gastoj"
+            "eo-ZZ": "30 gastoj",
+            "ca-ES": "30 espectadors",
+            "fi-FI": "30 kävijää"
         }
     }
 }

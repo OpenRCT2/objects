@@ -63,14 +63,16 @@
             "ja-JP": "フライング・ターン",
             "pl-PL": "Latające zakręty",
             "ru-RU": "Кружилки",
-            "eo-ZZ": "Bobsledoj kun 6 seĝoj"
+            "eo-ZZ": "Bobsledoj kun 6 seĝoj",
+            "ca-ES": "Bob de 6 seients",
+            "fi-FI": "Kuusipaikkaiset rattikelkat"
         },
         "description": {
             "en-GB": "Bobsleighs with three seating rows, with room for two people on each",
-            "fr-FR": "Les passagers descendent un parcours alambiqué à bord d'une grande voiture en forme de bobsleigh dirigée uniquement par les courbes et l'inclinaison de la voie semi-circulaire",
+            "fr-FR": "Les passagers descendent un parcours alambiqué à bord d’une grande voiture en forme de bobsleigh dirigée uniquement par les courbes et l’inclinaison de la voie semi-circulaire",
             "de-DE": "Bobwagen mit drei Sitzreihen, mit Platz für jeweils zwei Leuten",
             "es-ES": "Los pasajeros están sentados en vagones estilo bobsleigh guiados únicamente por la curvatura y los peraltes de la vía semicircular",
-            "it-IT": "I passeggeri si fanno strada lungo un tracciato sinuoso in grandi carrozze a forma di bob guidati solo dalla curvatura e dall'inclinazione del tracciato semi-circolare",
+            "it-IT": "I passeggeri si fanno strada lungo un tracciato sinuoso in grandi carrozze a forma di bob guidati solo dalla curvatura e dall’inclinazione del tracciato semi-circolare",
             "nl-NL": "Passagiers rijden over een kronkelende baan, waarbij ze enkel worden geleid door de ronding en banking van de halfronde baan.",
             "sv-SE": "Vagnar med tre tvåsitsiga platser i rad",
             "ko-KR": "2명씩 3줄로 앉을 수 있는 하나의 봅슬레이 차량",
@@ -83,7 +85,9 @@
             "ja-JP": "ひねりのある半円形のコースを、カーブとバンクだけで支えられた大きなボブスレー形の車両が疾走するコースターです",
             "pl-PL": "Pasażerowie zjeżdżają krętą trasą w wagonach przypominających bobsleje, prowadzonych jedynie przez krzywizny i wychylenia półkolistego toru",
             "ru-RU": "Пассажиры едут в больших бобах, несущихся по полукруглому треку.",
-            "eo-ZZ": "Bobsledoj kun tri vicoj, kie ĉiu vico havas spacon por du uloj"
+            "eo-ZZ": "Bobsledoj kun tri vicoj, kie ĉiu vico havas spacon por du uloj",
+            "ca-ES": "Bobs amb files de 3 seients, amb espai per dues persones per seient.",
+            "fi-FI": "Rattikelkat joissa on kolme kahden istuttavaa penkkiriviä"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -94,14 +98,16 @@
             "nl-NL": "6 passagiers per bob",
             "sv-SE": "6 passagerare per vagn",
             "ko-KR": "차량당 6명의 승객",
-            "zh-CN": "6 位乘客/每个车厢",
+            "zh-CN": "6位乘客/车",
             "zh-TW": "6 位乘客/每個車廂",
             "pt-BR": "6 passageiros por Vagão",
             "cs-CZ": "6 míst v každém voze",
             "ja-JP": "各車両6名",
             "pl-PL": "6 pasażerów na wagonik",
             "ru-RU": "6 passengers per car",
-            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro",
+            "ca-ES": "6 passatgers per cotxe",
+            "fi-FI": "6 matkustajaa per vaunu"
         }
     }
 }

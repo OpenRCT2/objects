@@ -44,20 +44,22 @@
     "strings": {
         "name": {
             "en-GB": "Golden Buddha",
-            "fr-FR": "Bouddha d'or",
+            "fr-FR": "Bouddha d’or",
             "de-DE": "Goldener Buddha",
             "es-ES": "Buda dorado",
             "it-IT": "Budda dorato",
             "nl-NL": "Gouden Boeddha",
             "sv-SE": "Gyllene Buddha",
-            "zh-CN": "金佛Golden Buddha",
+            "zh-CN": "金佛",
             "cs-CZ": "Zlatý Buddha",
             "ko-KR": "금부처상",
             "pl-PL": "Złoty Budda",
             "ru-RU": "Золотой Будда",
             "pt-BR": "Buda Dourado",
             "ja-JP": "黄金の仏",
-            "eo-ZZ": "Ora Budao"
+            "eo-ZZ": "Ora Budao",
+            "ca-ES": "Buda daurat",
+            "fi-FI": "Kultainen buddha"
         }
     }
 }

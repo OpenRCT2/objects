@@ -28,7 +28,7 @@
     "strings": {
         "name": {
             "en-GB": "Hovercar Flying",
-            "fr-FR": "Voiture sur coussin d'air en vol",
+            "fr-FR": "Voiture sur coussin d’air en vol",
             "de-DE": "Fliegender Schwebewagen",
             "es-ES": "Aerodeslizador volando",
             "it-IT": "Auto volante in volo",
@@ -41,7 +41,10 @@
             "pl-PL": "Latający samochód",
             "ru-RU": "Ховеркар",
             "ja-JP": "ホバーカー（飛行）",
-            "eo-ZZ": "Fluganta Flugpendanta Aŭto"
+            "eo-ZZ": "Fluganta Flugpendanta Aŭto",
+            "ca-ES": "Cotxe planador volant",
+            "fi-FI": "Liitoauto lentämässä",
+            "zh-CN": "浮空车-飞行中"
         }
     }
 }

@@ -19,7 +19,7 @@
     "strings": {
         "name": {
             "en-GB": "Lost City Stairway Piece",
-            "fr-FR": "Pièce d'escalier de cité perdue",
+            "fr-FR": "Pièce d’escalier de cité perdue",
             "de-DE": "Verlorene Stadt - Treppen-Bauteil",
             "es-ES": "Pieza de escalinata de ciudad perdida",
             "it-IT": "Pezzo di scala di città perduta",
@@ -31,7 +31,10 @@
             "ru-RU": "Деталь Ступеней",
             "pt-BR": "Peça de Escadaria da Cidade Perdida",
             "ja-JP": "失われた都市　階段部分",
-            "eo-ZZ": "Parto de Ŝtuparo de Malaperinta Urbo"
+            "eo-ZZ": "Parto de Ŝtuparo de Malaperinta Urbo",
+            "ca-ES": "Part d’escala de la ciutat perduda",
+            "fi-FI": "Kadonneen kaupungin portaikon osa",
+            "zh-CN": "失落之城-楼梯"
         }
     }
 }

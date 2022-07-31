@@ -68,7 +68,9 @@
             "ja-JP": "ウォーター・トライサイクル",
             "pl-PL": "Rowery wodne",
             "ru-RU": "Водные трициклы",
-            "eo-ZZ": "Akvo-Tricikloj"
+            "eo-ZZ": "Akvo-Tricikloj",
+            "ca-ES": "Tricicles d’aigua",
+            "fi-FI": "Vesikolmipyörä"
         },
         "description": {
             "en-GB": "Pedal-tricycle with large buoyant wheels",
@@ -86,7 +88,9 @@
             "ja-JP": "浮力を持った車輪の、ペダル漕ぎ三輪車です",
             "pl-PL": "Wodne pojazdy napędzane pedałami, z dużymi kołami-pływakami",
             "ru-RU": "Педальные трициклы",
-            "eo-ZZ": "Pedal-tricikloj kun grandaj naĝemaj radoj"
+            "eo-ZZ": "Pedal-tricikloj kun grandaj naĝemaj radoj",
+            "ca-ES": "Tricicle flotant a pedals amb rodes molt grans.",
+            "fi-FI": "Poljettava kolmipyörä, jossa on isot kelluvat pyörät"
         },
         "capacity": {
             "en-GB": "2 passengers per tricycle",
@@ -97,14 +101,16 @@
             "nl-NL": "2 passagiers per waterfiets",
             "sv-SE": "2 passagerare per trehjuling",
             "ko-KR": "세발자전거당 2명의 승객",
-            "zh-CN": "2 位乘客 /每辆三轮车",
+            "zh-CN": "2位乘客/车",
             "zh-TW": "2 位乘客 /每輛三輪車",
             "pt-BR": "2 passageiros por triciclo",
             "cs-CZ": "2 místa na každém kole",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na rower",
             "ru-RU": "2 passengers per tricycle",
-            "eo-ZZ": "Po 2 pasaĝeroj por triciklo"
+            "eo-ZZ": "Po 2 pasaĝeroj por triciklo",
+            "ca-ES": "2 passatgers per tricicle",
+            "fi-FI": "2 matkustajaa per kolmipyörä"
         }
     }
 }

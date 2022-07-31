@@ -54,7 +54,9 @@
             "pl-PL": "Ślizgowe unikajki",
             "ru-RU": "Скидо-машинки",
             "pt-BR": "Carro Esquimó",
-            "eo-ZZ": "Motorsledoformaj Doĝemoj"
+            "eo-ZZ": "Motorsledoformaj Doĝemoj",
+            "ca-ES": "Motos de neu de xoc",
+            "fi-FI": "Moottorikelkat"
         },
         "description": {
             "en-GB": "Guests slide around in skidoo-shaped vehicles that they freely control",
@@ -71,7 +73,9 @@
             "pl-PL": "Samochodziki z napędem elektrycznym",
             "ru-RU": "Электрические машинки",
             "pt-BR": "Passageiros deslizam por aí em motos de neve pilotáveis",
-            "eo-ZZ": "Gastoj glitas en motorsledoformaj veturiloj, kiujn ili stiras libere"
+            "eo-ZZ": "Gastoj glitas en motorsledoformaj veturiloj, kiujn ili stiras libere",
+            "ca-ES": "Els passatgers condueixen vehicles en forma de motos de neu.",
+            "fi-FI": "Matkustajat kulkevat itse ajamissaan moottorikelkan muotoisissa ilmatyynyaluksissa"
         },
         "capacity": {
             "en-GB": "1 person per car",
@@ -81,14 +85,16 @@
             "it-IT": "1 persona per veicolo",
             "nl-NL": "1 passagier per karretje",
             "sv-SE": "1 passagerare per bil",
-            "zh-CN": "每辆车限乘1人",
+            "zh-CN": "1位乘客/车",
             "ja-JP": "各1名",
             "cs-CZ": "1 místo v každém voze",
             "ko-KR": "차량당 1명의 승객",
             "pl-PL": "1 osoba na samochód",
             "ru-RU": "1 человек",
             "pt-BR": "1 pessoa por carro",
-            "eo-ZZ": "Po 1 ulo por ĉaro"
+            "eo-ZZ": "Po 1 ulo por ĉaro",
+            "ca-ES": "1 persona per cotxe",
+            "fi-FI": "1 matkustaja per ajoneuvo"
         }
     }
 }

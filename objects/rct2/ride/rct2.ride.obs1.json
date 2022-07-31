@@ -125,10 +125,10 @@
     "strings": {
         "name": {
             "en-GB": "Single-deck Cabin",
-            "fr-FR": "Tour d'observation",
+            "fr-FR": "Tour d’observation",
             "de-DE": "Einzeldeckkabine",
             "es-ES": "Torre de Observación",
-            "it-IT": "Torre d'osservazione",
+            "it-IT": "Torre d’osservazione",
             "nl-NL": "Enkeldekscabine",
             "sv-SE": "Utsiktskabin med ett däck",
             "ko-KR": "전망탑",
@@ -139,14 +139,16 @@
             "ja-JP": "展望台",
             "pl-PL": "Wieża obserwacyjna",
             "ru-RU": "Смотровая башня",
-            "eo-ZZ": "Unuetaĝa Kajuto"
+            "eo-ZZ": "Unuetaĝa Kajuto",
+            "ca-ES": "Cabina d’observació",
+            "fi-FI": "Yksikerroksinen koppi"
         },
         "description": {
             "en-GB": "Single-deck rotating observation cabin",
-            "fr-FR": "Cabine rotative d'observation qui se hisse au sommet d'une grande tour",
+            "fr-FR": "Cabine rotative d’observation qui se hisse au sommet d’une grande tour",
             "de-DE": "Rotierende einstöckige Aussichtskabine",
             "es-ES": "Cabina de observación que viaja hasta una torre alta",
-            "it-IT": "Cabina di osservazione rotante che sale su un'alta torre",
+            "it-IT": "Cabina di osservazione rotante che sale su un’alta torre",
             "nl-NL": "Draaiende observatiecabine die langs een verticale toren omhoog gaat.",
             "sv-SE": "Roterande utsiktskabin",
             "ko-KR": "높은 탑을 따라 올라가면서 회전하는 전망대 객실",
@@ -157,7 +159,9 @@
             "ja-JP": "展望キャビンが回転しながら高い塔を登ります",
             "pl-PL": "Obrotowa kabina obserwacyjna wjeżdżająca na wysoką wieżę",
             "ru-RU": "Вращающаяся кабинка поднимается на башню.",
-            "eo-ZZ": "Unuetaĝa turniĝanta kajuto por observadi"
+            "eo-ZZ": "Unuetaĝa turniĝanta kajuto por observadi",
+            "ca-ES": "Cabina d’observació que gira d’una sola planta.",
+            "fi-FI": "Pyörivä näköalakoppi, jossa on yksi kerros"
         },
         "capacity": {
             "en-GB": "20 passengers",
@@ -168,14 +172,16 @@
             "nl-NL": "20 passagiers",
             "sv-SE": "20 passagerare",
             "ko-KR": "승객 20명",
-            "zh-CN": "20 位乘客",
+            "zh-CN": "20位乘客",
             "zh-TW": "20 位乘客",
             "pt-BR": "20 passageiros",
             "cs-CZ": "20 návštěvníků",
             "ja-JP": "定員20名",
             "pl-PL": "20 pasażerów",
             "ru-RU": "20 пассажиров",
-            "eo-ZZ": "20 pasaĝeroj"
+            "eo-ZZ": "20 pasaĝeroj",
+            "ca-ES": "20 passatgers",
+            "fi-FI": "20 matkustajaa"
         }
     }
 }

@@ -125,7 +125,7 @@
             "it-IT": "TGV",
             "nl-NL": "TGV-trein",
             "sv-SE": "TGV-tågvagnar",
-            "zh-CN": "大众捷运列车云霄飞车",
+            "zh-CN": "法国TVG高速铁路列车",
             "ja-JP": "TGVトレイン",
             "ar-EG": "TGV Trains",
             "cs-CZ": "TGV horská dráha",
@@ -134,24 +134,28 @@
             "pl-PL": "Pociąg TGV",
             "pt-BR": "Trens TGV",
             "ru-RU": "Поезд TGV",
-            "eo-ZZ": "TGV Trajnoj"
+            "eo-ZZ": "TGV Trajnoj",
+            "ca-ES": "Trens d’alta velocitat",
+            "fi-FI": "TGV-junat"
         },
         "description": {
             "en-GB": "Roller coaster trains in the style of French high-speed trains (TGV) that are accelerated by linear induction motors",
             "fr-FR": "Train de montagnes russes propulsé hors de la station par des moteurs à induction linéaire et fonçant dans des inversions renversantes",
             "de-DE": "Achterbahnzüge im Stil französischer Schnellzüge (TGV), die mithilfe von Linearmotoren beschleunigt werden",
             "es-ES": "Los trenes de la montaña rusa salen de la estación acelerados por unos motores de inducción para pasar a toda velocidad por unas retorcidas inversiones",
-            "it-IT": "Le carrozze dell'ottovolante sono spinte da motori lineari a induzione, che le lanciano lungo una serie di tortuose inversioni",
+            "it-IT": "Le carrozze dell’ottovolante sono spinte da motori lineari a induzione, che le lanciano lungo una serie di tortuose inversioni",
             "nl-NL": "Achtbaantreinen worden door lineaire inductiemotoren het station uit gelanceerd en razen door een kronkelende baan die vaak over de kop gaat.",
             "sv-SE": "Berg- och dalbanevagnar i stil med franska TGV-höghastighetståg som accelereras med linjära induktionsmotorer",
-            "zh-CN": "云霄飞车列车被直线推进动力以加速推离车站并快速通过倒置旋转轨道",
+            "zh-CN": "法国TVG高速铁路列车形状的由直线感应电机加速的过山车",
             "ja-JP": "フランス高速鉄道TGVトレインの形をした、リニアモーターのコースター車両",
             "cs-CZ": "Horská dráha s vozy poháněnými elektromotorem, které sviští skrze propletenou dráhu",
             "ko-KR": "역에서 선형 유도 모터에 의해 가속되어 꼬여있는 트랙을 빠른 속도로 통과하는 롤러코스터 차량",
             "pl-PL": "Wagoniki są rozpędzane za pomocą magnetycznego silnika liniowego i podróżują po zakręconym torze",
             "pt-BR": "Trens de montanha-russa no estilo dos trens-bala franceses (TGV) que são acelerados por motores de indução linear",
             "ru-RU": "Поезд с линейным индукционным мотором с крутыми виражами",
-            "eo-ZZ": "Trajnoj de onda fervojo en la stilo de francaj rapidaj trajnoj (TGV), kiuj akceliĝas per linearaj induktaj motoroj"
+            "eo-ZZ": "Trajnoj de onda fervojo en la stilo de francaj rapidaj trajnoj (TGV), kiuj akceliĝas per linearaj induktaj motoroj",
+            "ca-ES": "Muntanya russa amb trens de l’estil dels TGV francesos que acceleren amb motors d’inducció lineal.",
+            "fi-FI": "Ranskan TGV-pikajunien muotoiset vuoristoratavaunut, jotka kiihtyvät induktiomoottorilla"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -161,14 +165,16 @@
             "it-IT": "4 passeggeri per carrozza",
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "每辆车限乘4人",
+            "zh-CN": "4位乘客/车",
             "ja-JP": "各車両4名",
             "cs-CZ": "4 místa v každém voze",
             "ko-KR": "차량당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
             "pt-BR": "4 passageiros por carro",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

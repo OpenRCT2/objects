@@ -78,18 +78,20 @@
             "it-IT": "La manta",
             "nl-NL": "Manta’s",
             "sv-SE": "Djävulsrockor",
-            "zh-CN": "蝠魟游乐设施",
+            "zh-CN": "蝠鲼船",
             "cs-CZ": "Rejnočí jízda",
             "ja-JP": "マンタボート",
             "ko-KR": "쥐가오리 보트",
             "pl-PL": "Wielka płaszczka",
             "pt-BR": "Barcos Arraia Manta",
             "ru-RU": "Манта Рей",
-            "eo-ZZ": "Mantarajo-Boatoj"
+            "eo-ZZ": "Mantarajo-Boatoj",
+            "ca-ES": "Barques manta",
+            "fi-FI": "Rauskuveneet"
         },
         "description": {
             "en-GB": "Coaster boats in the shape of a manta ray",
-            "fr-FR": "Grand bateau qui serpente le long d'une large voie navigable, monte sur des pentes grâce à un tapis roulant, et descend à toute vitesse de l'autre côté, éclaboussant allègrement les passagers",
+            "fr-FR": "Grand bateau qui serpente le long d’une large voie navigable, monte sur des pentes grâce à un tapis roulant, et descend à toute vitesse de l’autre côté, éclaboussant allègrement les passagers",
             "de-DE": "Achterbahnboote in der Form eines Mantarochens",
             "es-ES": "Botes de gran capacidad que viajan por un amplio canal de agua y son empujados hacia arriba por una cinta transportadora, para luego precipitarse cuesta abajo empapando a los viajeros con una salpicadura gigante",
             "it-IT": "Delle capienti imbarcazioni si muovono lungo un ampio canale, risalendo grazie a un nastro trasportatore e lanciandosi dalle discese per piombare in acqua e infradiciare i passeggeri",
@@ -104,7 +106,9 @@
             "pl-PL": "Duże łódki płynące szerokim kanałem wodnym, wciągane na wzniesienia przez taśmę i zjeżdżające z nich z wielkim pluskiem, aby zamoczyć pasażerów",
             "pt-BR": "Barcos de montanha-russa em formato de uma Arraia Manta",
             "ru-RU": "Путешествие на лодке по широкому каналу на транспортере",
-            "eo-ZZ": "Boatoj de onda fervojo formitaj kiel mantarajo"
+            "eo-ZZ": "Boatoj de onda fervojo formitaj kiel mantarajo",
+            "ca-ES": "Barques de gran capacitat en forma de peix manta.",
+            "fi-FI": "Rauskun muotoiset vuoristorataveneet"
         },
         "capacity": {
             "en-GB": "6 passengers per boat",
@@ -114,14 +118,16 @@
             "it-IT": "6 passeggeri per imbarcazione",
             "nl-NL": "6 passagiers per boot",
             "sv-SE": "6 passagerare per båt",
-            "zh-CN": "每辆车限乘6人",
+            "zh-CN": "6位乘客/船",
             "cs-CZ": "6 míst na každé lodi",
             "ja-JP": "各車両6名",
             "ko-KR": "보트당 6명의 승객",
             "pl-PL": "6 pasażerów na łódkę",
             "pt-BR": "6 passageiros por barco",
             "ru-RU": "6 пассажиров в лодке",
-            "eo-ZZ": "Po 6 pasaĝeroj por boato"
+            "eo-ZZ": "Po 6 pasaĝeroj por boato",
+            "ca-ES": "6 passatgers per barca",
+            "fi-FI": "6 matkustajaa per vene"
         }
     }
 }

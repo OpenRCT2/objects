@@ -25,10 +25,10 @@
     "strings": {
         "name": {
             "en-GB": "Water Spout",
-            "fr-FR": "Petit jet d'eau",
+            "fr-FR": "Petit jet d’eau",
             "de-DE": "Wasserspritzdüse",
             "es-ES": "Surtidor de agua",
-            "it-IT": "Grondaia d'acqua",
+            "it-IT": "Grondaia d’acqua",
             "nl-NL": "Waterstraal",
             "sv-SE": "Vattenvirvel",
             "ko-KR": "물 분출",
@@ -39,7 +39,9 @@
             "ja-JP": "排水管",
             "pl-PL": "×ródełko",
             "ru-RU": "Фонтан",
-            "eo-ZZ": "Trombo"
+            "eo-ZZ": "Trombo",
+            "ca-ES": "Brollador d’aigua",
+            "fi-FI": "Vesipatsas"
         }
     }
 }

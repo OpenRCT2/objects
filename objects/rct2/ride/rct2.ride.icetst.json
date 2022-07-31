@@ -36,7 +36,9 @@
             "ja-JP": "アイスティーショップ",
             "pl-PL": "Kiosk z mrożoną herbatą",
             "ru-RU": "Холодный чай",
-            "eo-ZZ": "Glacia-Teo-Budo"
+            "eo-ZZ": "Glacia-Teo-Budo",
+            "ca-ES": "Paradeta de te fred",
+            "fi-FI": "Jääteekoju"
         },
         "description": {
             "en-GB": "A stall selling iced tea drinks",
@@ -54,7 +56,9 @@
             "ja-JP": "アイスティーを売る売店です",
             "pl-PL": "Stoisko sprzedające mrożoną herbatę",
             "ru-RU": "Палатка с холодным чаем.",
-            "eo-ZZ": "Budo vendanta glacia-teo-trinkaĵojn"
+            "eo-ZZ": "Budo vendanta glacia-teo-trinkaĵojn",
+            "ca-ES": "Un estand que ven begudes de te fred.",
+            "fi-FI": "Koju, joka myy jääteejuomia"
         }
     }
 }

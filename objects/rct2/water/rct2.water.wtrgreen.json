@@ -373,7 +373,7 @@
     "strings": {
         "name": {
             "en-GB": "Acid Green Water",
-            "fr-FR": "Eau d'acide verdâtre",
+            "fr-FR": "Eau d’acide verdâtre",
             "de-DE": "Säuregrünes Wasser",
             "es-ES": "Agua ácido verde",
             "it-IT": "Acqua verde acido",
@@ -388,7 +388,9 @@
             "pl-PL": "Jaskrawozielona woda",
             "ru-RU": "Яд.-зелёная вода",
             "ar-EG": "مياة حمضية خضراء",
-            "eo-ZZ": "Acidverda Akvo"
+            "eo-ZZ": "Acidverda Akvo",
+            "ca-ES": "Aigua verd àcid",
+            "fi-FI": "Haponvihreä vesi"
         }
     }
 }

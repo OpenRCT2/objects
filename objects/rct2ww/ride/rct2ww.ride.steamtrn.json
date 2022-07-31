@@ -109,11 +109,13 @@
             "pl-PL": "Pociąg maharadży",
             "ru-RU": "Паровоз Магараджей",
             "pt-BR": "Trem a Vapor do Marajá",
-            "eo-ZZ": "Maharaĝo-Lokomotivoj"
+            "eo-ZZ": "Maharaĝo-Lokomotivoj",
+            "ca-ES": "Trens a vapor del maharajà",
+            "fi-FI": "Maharaja-höyryjunat"
         },
         "description": {
             "en-GB": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling closed-top wooden carriages",
-            "fr-FR": "Train à vapeur miniature composé d'une réplique de locomotive à vapeur et d'un tender, tirant des voitures à toit de bois",
+            "fr-FR": "Train à vapeur miniature composé d’une réplique de locomotive à vapeur et d’un tender, tirant des voitures à toit de bois",
             "de-DE": "Miniaturdampfzüge, bestehend aus je einer Dampflokomotive plus Tender und geschlossenen Holzwaggons",
             "es-ES": "Trenes de vapor en miniatura consistentes en una réplica de locomotora que tira de unos vagones de madera con capota",
             "it-IT": "Un treno a vapore in miniatura, composto da una replica di locomotiva con tender che traina carrozze di legno coperte",
@@ -126,7 +128,9 @@
             "pl-PL": "Miniaturowe pociągi składające się z lokomotywy parowej i tendra, ciągnących zadaszone drewniane wagoniki",
             "ru-RU": "Миниатюрный паровозик тянет деревянные вагончики.",
             "pt-BR": "Trens a vapor em miniatura consistindo de uma réplica da locomotiva que puxa vagões",
-            "eo-ZZ": "Miniaturaj lokomotivoj, kiuj konsistas el replikaĵo de lokomotivo kaj tendro, kiuj tenas nesubĉielajn lignajn kaleŝojn"
+            "eo-ZZ": "Miniaturaj lokomotivoj, kiuj konsistas el replikaĵo de lokomotivo kaj tendro, kiuj tenas nesubĉielajn lignajn kaleŝojn",
+            "ca-ES": "Trens a vapor en miniatura rèpliques de locomotores i tènders que estiren vagons de fusta amb sostre.",
+            "fi-FI": "Pienikokoiset höyryjunat joihin kuuluu höyryveturin jäljitelmä ja hennot puiset vaunut kangaskatoilla"
         },
         "capacity": {
             "en-GB": "6 passengers per carriage",
@@ -136,14 +140,16 @@
             "it-IT": "6 passeggeri per carrozza",
             "nl-NL": "6 passagiers per wagon",
             "sv-SE": "6 passagerare per vagn",
-            "zh-CN": "每节车箱限乘6人",
+            "zh-CN": "6位乘客/车",
             "ja-JP": "各車両6名",
             "cs-CZ": "6 míst v každém vagónu",
             "ko-KR": "객차당 6명의 승객",
             "pl-PL": "6 pasażerów na wagon",
             "ru-RU": "6 пассажиров в вагоне",
             "pt-BR": "6 passageiros por vagão",
-            "eo-ZZ": "Po 6 pasaĝeroj por vagono"
+            "eo-ZZ": "Po 6 pasaĝeroj por vagono",
+            "ca-ES": "6 passatgers per vagó",
+            "fi-FI": "6 matkustajaa per vaunu"
         }
     }
 }

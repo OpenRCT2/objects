@@ -109,23 +109,27 @@
             "ko-KR": "옐로 택시 차량",
             "pl-PL": "Żółte taksówki",
             "pt-BR": "Trens Táxi Amarelo",
-            "eo-ZZ": "Flavaj Taksio-Trajnoj"
+            "eo-ZZ": "Flavaj Taksio-Trajnoj",
+            "ca-ES": "Taxis grocs",
+            "fi-FI": "Keltataksivaunut"
         },
         "description": {
             "en-GB": "Roller coaster trains for the Giga Coaster, themed to look like long yellow taxis",
-            "fr-FR": "Montagnes russes géantes proposant des chutes régulières depuis des collines dépassant les 100 mètres d'altitude",
+            "fr-FR": "Montagnes russes géantes proposant des chutes régulières depuis des collines dépassant les 100 mètres d’altitude",
             "de-DE": "Achterbahnzüge für die Giga-Bahn, die wie lange gelbe Taxis aussehen",
             "es-ES": "Una montaña rusa gigante capaz de caídas suaves y subidas de más de 300 pies",
-            "it-IT": "Un gigantesco ottovolante d'acciaio che alterna dolci discese a salite di oltre 100 metri",
+            "it-IT": "Un gigantesco ottovolante d’acciaio che alterna dolci discese a salite di oltre 100 metri",
             "nl-NL": "Een gigantische stalen achtbaan met treinen in de vorm van een taxi die in staat is tot soepele afdalingen en heuvels die hoger zijn dan 90 meter.",
             "sv-SE": "Gula taxibilsvagnar till gigaberg- och dalbanan",
-            "zh-CN": "一座巨大的云霄飞车可以缓慢地降落及拉升到300英尺高的山丘A",
+            "zh-CN": "一座巨大的过山车可以缓慢地降落及拉升到300英尺高的山丘",
             "cs-CZ": "Gigantická ocelová horská dráha schopna volných pádů a kopců přes 90 metrů dlouhých",
             "ja-JP": "長い黄色のタクシーの形をしたギガコースタートレーン",
             "ko-KR": "90m 이상의 부드러운 낙하와 상승이 가능한 거대한 강철 롤러코스터",
             "pl-PL": "Wielka stalowa kolejka górska jeżdżąca po łagodnych spadkach i wzniesieniach o wysokości 100 m",
             "pt-BR": "Uma gigante montanha-russa de aço capaz de quedas suaves e subidas de mais de 90m",
-            "eo-ZZ": "Trajnoj por la Altega Onda Fervojo, temitaj por aspekti kiel longaj flavaj taksioj"
+            "eo-ZZ": "Trajnoj por la Altega Onda Fervojo, temitaj por aspekti kiel longaj flavaj taksioj",
+            "ca-ES": "Cotxes per la Gigamuntanya russa, tematitzades per parèixer taxis grocs llargs.",
+            "fi-FI": "Pitkien keltaisten taksien näköisiksi teematut gigaradan vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -135,14 +139,16 @@
             "it-IT": "4 passeggeri per carrozza",
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "每辆车限乘4人",
+            "zh-CN": "4位乘客/车",
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "ko-KR": "차량당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
             "pt-BR": "4 passageiros por vagão",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

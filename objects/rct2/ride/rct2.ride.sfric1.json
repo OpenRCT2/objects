@@ -61,16 +61,18 @@
             "pt-BR": "Carros de Madeira de Fricção Lateral",
             "cs-CZ": "Horská dráha s bočním uchycením",
             "ja-JP": "木造のサイドフリクション車両",
-            "pl-PL": "Drewniane wagoniki \"Tarcie Boczne\"",
+            "pl-PL": "Drewniane wagoniki „Tarcie Boczne”",
             "ru-RU": "Дерев. вагончики",
-            "eo-ZZ": "Ĉaroj de Ligna Onda Fervojo kun Flanka Froto"
+            "eo-ZZ": "Ĉaroj de Ligna Onda Fervojo kun Flanka Froto",
+            "ca-ES": "Cotxes de fusta de fricció lateral",
+            "fi-FI": "Puiset sivukitkavaunut"
         },
         "description": {
             "en-GB": "Basic cars for the Side-Friction Roller Coaster",
             "fr-FR": "Voitures destinées aux montagnes à frottement latéral",
             "de-DE": "Basiswagen für die Achterbahn mit seitlicher Führung",
             "es-ES": "Vagones básicos para la montaña rusa de fricción lateral",
-            "it-IT": "Carrozze di base per l'ottovolante a frizione laterale",
+            "it-IT": "Carrozze di base per l’ottovolante a frizione laterale",
             "nl-NL": "Eenvoudige karretjes voor de zijfrictieachtbaan.",
             "sv-SE": "Enkla trävagnar till sidofriktionsberg- och dalbanan",
             "ko-KR": "사이드 프릭션 롤러코스터를 위한 기본 차량",
@@ -79,9 +81,11 @@
             "pt-BR": "Carros básicos para a Montanha-russa de Fricção Lateral",
             "cs-CZ": "Po dráze jezdí vozy, které mají kola horizontálně uložená pod podlahou a opírají se jimi o stěny dráhy",
             "ja-JP": "ベーシックな車両の、サイドフリクションローラーコースターです",
-            "pl-PL": "Podstawowe wagoniki dla kolejki \"Tarcie Boczne\"",
+            "pl-PL": "Podstawowe wagoniki dla kolejki „Tarcie Boczne”",
             "ru-RU": "Вагончики для боковых горок.",
-            "eo-ZZ": "Bazaj ĉaroj por la Ligna Onda Fervojo kun Flanka Froto"
+            "eo-ZZ": "Bazaj ĉaroj por la Ligna Onda Fervojo kun Flanka Froto",
+            "ca-ES": "Cotxes bàsics per a la muntanya russa de fricció lateral",
+            "fi-FI": "Sivukitkavuoristoradan perusvaunut"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -92,14 +96,16 @@
             "nl-NL": "4 passagiers per karretjes",
             "sv-SE": "4 passagerare per vagn",
             "ko-KR": "차량당 4명의 승객",
-            "zh-CN": "4 位乘客/每个车厢",
+            "zh-CN": "4位乘客/车",
             "zh-TW": "4 位乘客/每個車廂",
             "pt-BR": "4 passageiros por carro",
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

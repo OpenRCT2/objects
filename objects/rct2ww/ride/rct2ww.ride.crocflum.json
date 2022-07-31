@@ -78,7 +78,9 @@
             "pl-PL": "Krokodyle",
             "pt-BR": "Barcos Crocodilo",
             "ru-RU": "Крокодил",
-            "eo-ZZ": "Krokadilo-Boatoj"
+            "eo-ZZ": "Krokadilo-Boatoj",
+            "ca-ES": "Atracció Cocodrils",
+            "fi-FI": "Krokotiiliveneet"
         },
         "description": {
             "en-GB": "Crocodile-shaped boats built for running in water channels",
@@ -93,9 +95,11 @@
             "cs-CZ": "Lodě ve tvaru krokodýlů se plaví po vodním kanálu a cákají. Nikdo nezůstane suchý",
             "ko-KR": "수로를 따라 이동하다가 긴 낙하를 지나며 물을 튀겨 탑승객을 홀딱 젖게 만드는 악어 모양의 보트",
             "pl-PL": "Łódki w kształcie krokodyli podróżują kanałem, ześlizgując się ze stromych zjazdów, aby ochlapać pasażerów",
-            "pt-BR": "Barcos com formato de crocodilo feitos para percorrer canais d'água",
+            "pt-BR": "Barcos com formato de crocodilo feitos para percorrer canais d’água",
             "ru-RU": "Лодки в форме крокодилов плывут по каналу.",
-            "eo-ZZ": "Krokadiloformaj boatoj konstruitaj por veturi en akvokanaloj"
+            "eo-ZZ": "Krokadiloformaj boatoj konstruitaj por veturi en akvokanaloj",
+            "ca-ES": "Barques en forma de cocodril construïdes per circular per canals d’aigua.",
+            "fi-FI": "Krokotiilin muotoiset veneet, jotka on tehty vesikanavissa matkustusta varten"
         },
         "capacity": {
             "en-GB": "4 passengers per boat",
@@ -105,14 +109,16 @@
             "it-IT": "4 passeggeri per imbarcazione",
             "nl-NL": "4 passagiers per boot",
             "sv-SE": "4 passagerare per båt",
-            "zh-CN": "每艘船限乘4人",
+            "zh-CN": "4位乘客/船",
             "ja-JP": "各ボート4名",
             "cs-CZ": "4 místa na každé lodi",
             "ko-KR": "보트당 4명의 승객",
             "pl-PL": "4 pasażerów na łódkę",
             "pt-BR": "4 passageiros por barco",
             "ru-RU": "4 человека в лодке",
-            "eo-ZZ": "Po 4 pasaĝeroj por boato"
+            "eo-ZZ": "Po 4 pasaĝeroj por boato",
+            "ca-ES": "4 passatgers per barca",
+            "fi-FI": "4 matkustajaa per vene"
         }
     }
 }

@@ -15,7 +15,7 @@
     "strings": {
         "name": {
             "en-GB": "‘Texas Giant’ Sign",
-            "fr-FR": "Panneau 'Texas Giant'",
+            "fr-FR": "Panneau ‘Texas Giant’",
             "de-DE": "„Texas Giant“-Schild",
             "es-ES": "Señal de Texas Giant",
             "it-IT": "Insegna “Texas Giant”",
@@ -25,11 +25,14 @@
             "zh-CN": "德州巨大招牌",
             "zh-TW": "德州巨大招牌",
             "pt-BR": "Placa ‘Texas Giant’",
-            "cs-CZ": "'Texas Giant' cedule",
+            "cs-CZ": "‘Texas Giant’ cedule",
             "ja-JP": "「テキサスジャイアント」看板",
-            "pl-PL": "Olbrzymi napis \"Teksas\"",
-            "ru-RU": "Знак 'Техас'",
-            "eo-ZZ": "‘Texas Giant’ Afiŝo"
+            "pl-PL": "Olbrzymi napis „Teksas”",
+            "ru-RU": "Знак ‘Техас’",
+            "eo-ZZ": "‘Texas Giant’ Afiŝo",
+            "ca-ES": "Senyal «Texas Giant»",
+            "fi-FI": "”Texas Giant”-kyltti",
+            "tr-TR": "‘Texas Giant’ Sign"
         }
     }
 }

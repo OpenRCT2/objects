@@ -89,7 +89,9 @@
             "pl-PL": "Lwia przejażdżka",
             "pt-BR": "Carros Leão",
             "ru-RU": "Лев",
-            "eo-ZZ": "Leono-Ĉaroj"
+            "eo-ZZ": "Leono-Ĉaroj",
+            "ca-ES": "Atracció Lleó",
+            "fi-FI": "Leijonavaunut"
         },
         "description": {
             "en-GB": "Roller coaster cars themed to look like lions",
@@ -106,7 +108,9 @@
             "pl-PL": "Niewielka kolejka górska z pojedynczymi wagonikami i łagodnie zakręconymi spadkami",
             "pt-BR": "Carros de montanha-russa temáticos para se assemelhar a um leão",
             "ru-RU": "Компактные горки с отдельными вагончиками и легкими перепадами.",
-            "eo-ZZ": "Ĉaroj de onda fervojo temitaj por aspekti kiel leonoj"
+            "eo-ZZ": "Ĉaroj de onda fervojo temitaj por aspekti kiel leonoj",
+            "ca-ES": "Muntanya russa amb cotxes decorats com a lleons.",
+            "fi-FI": "Leijonan näköisiksi teematut vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -117,14 +121,16 @@
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
             "ko-KR": "차량당 4명의 승객",
-            "zh-CN": "4 位乘客/每个车厢",
+            "zh-CN": "4位乘客/车",
             "zh-TW": "4 位乘客/每個車廂",
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "pt-BR": "4 passageiros por vagão",
             "ru-RU": "4 пассажира",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

@@ -10,7 +10,7 @@
         "tracks": [
             {
                 "source": "$RCT2:DATA/css18.dat",
-                "name": "Caesar's March"
+                "name": "Caesar’s March"
             }
         ]
     },
@@ -35,7 +35,8 @@
             "tr-TR": "Roma tarzi",
             "zh-CN": "罗马号角风格",
             "zh-TW": "羅馬號角風格",
-            "eo-ZZ": "Roma-fanfaro-stilo"
+            "eo-ZZ": "Roma-fanfaro-stilo",
+            "fi-FI": "Roomalaisfanfaarin tyylinen"
         }
     }
 }

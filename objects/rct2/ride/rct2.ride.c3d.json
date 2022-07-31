@@ -150,14 +150,16 @@
             "nb-NO": "3D kino",
             "pl-PL": "Kino trójwymiarowe",
             "ru-RU": "3D Кино",
-            "eo-ZZ": "3D Kinejo"
+            "eo-ZZ": "3D Kinejo",
+            "ca-ES": "Cinema 3D",
+            "fi-FI": "3D-elokuvateatteri"
         },
         "description": {
             "en-GB": "Cinema showing 3D films inside a geodesic sphere shaped building",
             "fr-FR": "Cinéma diffusant des films en 3D dans un bâtiment en forme de sphère géodésique",
             "de-DE": "Kino, in dem 3D-Filme in einer geodätischen Kugelstruktur gezeigt werden",
             "es-ES": "Cine que proyecta películas en 3D en una esfera geodésica",
-            "it-IT": "Cinema che proietta film in 3D all'interno di un edificio a forma di sfera geodetica",
+            "it-IT": "Cinema che proietta film in 3D all’interno di un edificio a forma di sfera geodetica",
             "nl-NL": "Bioscoop in een bolvormig gebouw waarin 3D-films worden getoond.",
             "sv-SE": "Bio som visar 3D filmer inuti en byggnad i form av en geodetisk sfär",
             "ko-KR": "둥근 구 모양의 건물 안에서 3D 영화를 상영하는 영화관",
@@ -168,7 +170,9 @@
             "ja-JP": "3D映画を上映する、球形の映画館です",
             "pl-PL": "Kino wyświetlające trójwymiarowe filmy na ekranie stanowiącym wewnętrzną ścianę kulistego budynku",
             "ru-RU": "Кинотеатр с 3D фильмами в сферическом здании",
-            "eo-ZZ": "Kinejo, kiu montras 3D-ajn filmojn en geodezikoforma konstruaĵo"
+            "eo-ZZ": "Kinejo, kiu montras 3D-ajn filmojn en geodezikoforma konstruaĵo",
+            "ca-ES": "Cinema on es projecten pel·lícules 3D dins d’un edifici en forma d’esfera geodèsica.",
+            "fi-FI": "Elokuvateatteri, joka näyttää 3D-elokuvia geodeettisen pallon muotoisessa rakennuksessa"
         },
         "capacity": {
             "en-GB": "20 guests",
@@ -186,7 +190,9 @@
             "ja-JP": "定員20名",
             "pl-PL": "20 widzów",
             "ru-RU": "20 чел.",
-            "eo-ZZ": "20 gastoj"
+            "eo-ZZ": "20 gastoj",
+            "ca-ES": "20 espectadors",
+            "fi-FI": "20 kävijää"
         }
     }
 }

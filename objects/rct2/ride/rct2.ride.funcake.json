@@ -36,7 +36,9 @@
             "ja-JP": "ファネルケーキ・ショップ",
             "pl-PL": "Kiosk z makaronikami",
             "ru-RU": "Пирожки",
-            "eo-ZZ": "Funelkuko-Butiko"
+            "eo-ZZ": "Funelkuko-Butiko",
+            "ca-ES": "Parada de xurros",
+            "fi-FI": "Tippaleipäkoju"
         },
         "description": {
             "en-GB": "A stall selling funnel cakes",
@@ -54,7 +56,9 @@
             "ja-JP": "ファネルケーキを売る売店です",
             "pl-PL": "Stoisko sprzedające ciasteczka zwane makaronikami",
             "ru-RU": "Палатка с пирожками",
-            "eo-ZZ": "Budo vendanta funelkukojn"
+            "eo-ZZ": "Budo vendanta funelkukojn",
+            "ca-ES": "Estand que ven xurros.",
+            "fi-FI": "Koju, joka myy tippaleipiä"
         }
     }
 }

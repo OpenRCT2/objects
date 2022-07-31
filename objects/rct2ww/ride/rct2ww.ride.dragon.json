@@ -120,7 +120,9 @@
             "pl-PL": "Smocza kolejka",
             "ru-RU": "Дракон-Коастер",
             "pt-BR": "Montanha do Dragão",
-            "eo-ZZ": "Drako-Trajnoj"
+            "eo-ZZ": "Drako-Trajnoj",
+            "ca-ES": "Tren del drac",
+            "fi-FI": "Lohikäärmevaunut"
         },
         "description": {
             "en-GB": "Dragon-themed roller coaster cars",
@@ -130,14 +132,16 @@
             "it-IT": "Ottovolante con carrozze a forma di drago",
             "nl-NL": "Achtbaan met als draken vormgegeven wagentjes",
             "sv-SE": "Drakvagnar till korkskruvsberg- och dalbana",
-            "zh-CN": "以龙为主题车辆的云霄飞车",
+            "zh-CN": "以龙为主题车辆的过山车",
             "cs-CZ": "Horská dráha s vozy ve tvaru draků",
             "ko-KR": "드래곤 테마의 롤러코스터 차량",
             "ja-JP": "竜の形をしたジェットコースター車両",
             "pl-PL": "Kolejka górska z wagonikami opartymi na motywie smoka",
             "ru-RU": "Горки с вагончиками-драконами",
             "pt-BR": "Montanha-russa com carros com tema de dragão",
-            "eo-ZZ": "Ĉaroj de onda fervojo kun drakotemo"
+            "eo-ZZ": "Ĉaroj de onda fervojo kun drakotemo",
+            "ca-ES": "Muntanya russa amb cotxes decorats com a dracs.",
+            "fi-FI": "Lohikäärmeen teemaiset vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -147,14 +151,16 @@
             "it-IT": "4 passeggeri per carrozza",
             "nl-NL": "4 passagiers per wagentje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "每辆车限乘4人",
+            "zh-CN": "4位乘客/车",
             "ja-JP": "各車両4名",
             "cs-CZ": "4 místa v každém voze",
             "ko-KR": "차량당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 чел. в вагончике",
             "pt-BR": "4 passageiros por carro",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

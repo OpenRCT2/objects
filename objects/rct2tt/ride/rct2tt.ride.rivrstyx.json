@@ -57,14 +57,17 @@
             "cs-CZ": "Řeka Styx",
             "pl-PL": "Rzeka Styks",
             "ru-RU": "Стикс",
-            "eo-ZZ": "Boatoj de Stikso"
+            "eo-ZZ": "Boatoj de Stikso",
+            "ca-ES": "El riu Estix",
+            "fi-FI": "Styksjoen veneet",
+            "zh-CN": "冥河船"
         },
         "description": {
             "en-GB": "Boats with an Underworld theme, built for flat river tracks",
             "fr-FR": "Des bateaux en forme de radeau descendent paisiblement une voie navigable",
             "de-DE": "Boote im Unterweltstil, die für flache Flussstrecken ausgelegt sind",
             "es-ES": "Botes con forma de balsa que serpentean tranquilamente por un circuito de río.",
-            "it-IT": "Barche a forma di zattere si muovono dolcemente lungo una pista d'acqua.",
+            "it-IT": "Barche a forma di zattere si muovono dolcemente lungo una pista d’acqua.",
             "nl-NL": "Bezoekers varen in het bootje van Charon door een waterbak.",
             "sv-SE": "Flottformade båtar med undervärldstema, för lugna flodrännor",
             "ko-KR": "강 모양의 트랙을 따라 조용히 흘러가는 보트",
@@ -74,7 +77,10 @@
             "cs-CZ": "Rafty se plaví po meandrech na vodním kanále",
             "pl-PL": "Łódki w kształcie tratw płyną spokojnie krętym torem rzecznym",
             "ru-RU": "Лодки, спокойно плывущие по речке.",
-            "eo-ZZ": "Boatoj kun infera temo, konstruitaj por plataj riverotrakoj"
+            "eo-ZZ": "Boatoj kun infera temo, konstruitaj por plataj riverotrakoj",
+            "ca-ES": "Barques amb una temàtica d’inframón, construït per vies de riu planes.",
+            "fi-FI": "Tasaisille jokiradoille suunnitellut manalan teemaiset veneet",
+            "zh-CN": "以地狱为主题的船，专为平坦的河道而设计"
         },
         "capacity": {
             "en-GB": "4 passengers per raft",
@@ -91,7 +97,10 @@
             "cs-CZ": "4 místa na každém raftu",
             "pl-PL": "4 pasażerów na tratwę",
             "ru-RU": "4 чел. в рафте",
-            "eo-ZZ": "Po 4 pasaĝeroj por floso"
+            "eo-ZZ": "Po 4 pasaĝeroj por floso",
+            "ca-ES": "4 passatgers per barqueta",
+            "fi-FI": "4 matkustajaa per lautta",
+            "zh-CN": "4位顾客/每个筏子"
         }
     }
 }

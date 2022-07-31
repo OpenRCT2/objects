@@ -36,7 +36,9 @@
             "ja-JP": "レモネードショップ",
             "pl-PL": "Kiosk z lemoniadą",
             "ru-RU": "Лимонад",
-            "eo-ZZ": "Limonadobudo"
+            "eo-ZZ": "Limonadobudo",
+            "ca-ES": "Estand de llimonada",
+            "fi-FI": "Limsakoju"
         },
         "description": {
             "en-GB": "A stall selling refreshing lemonade drinks",
@@ -54,7 +56,9 @@
             "ja-JP": "レモネードを売る売店です",
             "pl-PL": "Stoisko sprzedające orzeţwiającą lemoniadę",
             "ru-RU": "Палатка с лимонадом",
-            "eo-ZZ": "Budo vendanta refreŝigajn limonado-trinkaĵojn"
+            "eo-ZZ": "Budo vendanta refreŝigajn limonado-trinkaĵojn",
+            "ca-ES": "Un estand que ven begudes refrescants de llimonada.",
+            "fi-FI": "Koju, joka myy raikastavia limsoja"
         }
     }
 }

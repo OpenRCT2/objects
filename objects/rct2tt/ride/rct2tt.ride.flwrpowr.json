@@ -59,7 +59,10 @@
             "cs-CZ": "Květinová vznášedla",
             "pl-PL": "Dzieci Kwiaty",
             "ru-RU": "Цветок",
-            "eo-ZZ": "Florpotenco-Atrakcio"
+            "eo-ZZ": "Florpotenco-Atrakcio",
+            "ca-ES": "Atracció Flower Power",
+            "fi-FI": "Kukkavoimaa",
+            "zh-CN": "花之力"
         },
         "description": {
             "en-GB": "Riders ride in flower-shaped hovercraft vehicles that they freely control",
@@ -76,7 +79,10 @@
             "cs-CZ": "Autodrom se vznášedly ve tvaru květů květin",
             "pl-PL": "Małe pontony w kształcie kwiatów, napędzane centralnie montowanym silnikiem, którym sterują pasażerowie",
             "ru-RU": "Небольшие цветочные шлюпки с моторчиками управляются пассажирами",
-            "eo-ZZ": "Rajdantoj rajdas en floroformaj kusenveturiloj, kiujn ili stiras libere"
+            "eo-ZZ": "Rajdantoj rajdas en floroformaj kusenveturiloj, kiujn ili stiras libere",
+            "ca-ES": "Atracció on els passatgers condueixen bots petits en forma de flor.",
+            "fi-FI": "Matkustajat kulkevat itse ajamissaan kukan muotoisissa ilmatyynyaluksissa",
+            "zh-CN": "乘客乘坐他们自由控制的花形气垫船"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -93,7 +99,10 @@
             "cs-CZ": "1 místo v každém voze",
             "pl-PL": "1 osoba na ponton",
             "ru-RU": "1 человек",
-            "eo-ZZ": "Po 1 pasaĝero por ĉaro"
+            "eo-ZZ": "Po 1 pasaĝero por ĉaro",
+            "ca-ES": "1 passatger per cotxe",
+            "fi-FI": "1 matkustaja per ajoneuvo",
+            "zh-CN": "1位乘客/车"
         }
     }
 }

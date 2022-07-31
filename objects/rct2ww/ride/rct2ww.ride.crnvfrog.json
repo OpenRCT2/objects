@@ -63,7 +63,7 @@
             "fr-FR": "Carnaval - Voitures grenouilles",
             "de-DE": "Karnevalsfroschwagen",
             "es-ES": "Atracción flotadores de carnaval; vagones rana",
-            "it-IT": "Carnevale sull'acqua - Carrozze rana",
+            "it-IT": "Carnevale sull’acqua - Carrozze rana",
             "nl-NL": "Kikkerwagentjes",
             "sv-SE": "Karnevalbilar med grodor",
             "cs-CZ": "Žabí autodráha",
@@ -72,7 +72,10 @@
             "pl-PL": "Parada na platformach - żaby",
             "ru-RU": "Карнавал - Лягушки",
             "pt-BR": "Carros Sapo do Carnaval",
-            "eo-ZZ": "Karnavalaj Rano-Ĉaroj"
+            "eo-ZZ": "Karnavalaj Rano-Ĉaroj",
+            "ca-ES": "Carrossa de granotes",
+            "fi-FI": "Karnevaalin sammakkoautot",
+            "zh-CN": "嘉年华蛙车"
         },
         "description": {
             "en-GB": "Cars in the shape of frog carnival floats",
@@ -88,7 +91,10 @@
             "pl-PL": "Wagoniki w kształcie żabich platform",
             "ru-RU": "Вагончики в форме лягушек",
             "pt-BR": "Carros de montanha-russa em forma de sapos",
-            "eo-ZZ": "Ĉaroj formitaj kiel rano-paradiloj"
+            "eo-ZZ": "Ĉaroj formitaj kiel rano-paradiloj",
+            "ca-ES": "Cotxes carrossa en forma de granota.",
+            "fi-FI": "Sammakon muotoiset karnevaaliautot",
+            "zh-CN": "青蛙嘉年华花车形状的汽车"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -104,7 +110,10 @@
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
             "pt-BR": "2 passageiros por carro",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu",
+            "zh-CN": "2位乘客/车"
         }
     }
 }

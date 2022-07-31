@@ -18,7 +18,7 @@
     "strings": {
         "name": {
             "en-GB": "Period Street Lamps",
-            "fr-FR": "Réverbères d'époque",
+            "fr-FR": "Réverbères d’époque",
             "de-DE": "Antike Straßenlaternen",
             "es-ES": "Punto de farolas",
             "it-IT": "Lampioni ricorrenti",
@@ -31,7 +31,10 @@
             "pl-PL": "Stylowe lampy uliczne",
             "ru-RU": "Уличные фонари",
             "ja-JP": "1920時代のStreet Lamps",
-            "eo-ZZ": "Historiaj Stratlumoj"
+            "eo-ZZ": "Historiaj Stratlumoj",
+            "ca-ES": "Faroles d’època",
+            "fi-FI": "Aikakauden katuvalo",
+            "zh-CN": "老式-路灯"
         }
     }
 }

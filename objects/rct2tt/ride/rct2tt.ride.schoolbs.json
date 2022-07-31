@@ -80,7 +80,10 @@
             "cs-CZ": "Školní autobus - tramvaj",
             "pl-PL": "Przejażdżka gimbusem",
             "ru-RU": "Автобус",
-            "eo-ZZ": "Lernejo-Buso-Tramoj"
+            "eo-ZZ": "Lernejo-Buso-Tramoj",
+            "ca-ES": "Tramvies d’autobusos escolars",
+            "fi-FI": "Koulubussivaunut",
+            "zh-CN": "校车电车"
         },
         "description": {
             "en-GB": "Miniature trams themed to look like North American school buses",
@@ -97,7 +100,10 @@
             "cs-CZ": "Replika amerických žlutých školních autobusů",
             "pl-PL": "Wagoniki w kształcie żółtych autobusów szkolnych",
             "ru-RU": "Старый жёлтый автобус",
-            "eo-ZZ": "Miniaturaj tramoj temitaj por aspekti kiel nordamerikaj lernejo-busoj"
+            "eo-ZZ": "Miniaturaj tramoj temitaj por aspekti kiel nordamerikaj lernejo-busoj",
+            "ca-ES": "Tramvies en miniatura tematitzats com a autobusos escolars nord-americans.",
+            "fi-FI": "Pohjoisamerikkalaisien koulubussien näköisiksi teematut pienoisvaunut",
+            "zh-CN": "以北美校车为主题的微型电车"
         },
         "capacity": {
             "en-GB": "10 passengers per car",
@@ -114,7 +120,10 @@
             "cs-CZ": "10 míst v každém voze",
             "pl-PL": "10 pasażerów na wagonik",
             "ru-RU": "10 человек",
-            "eo-ZZ": "Po 10 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 10 pasaĝeroj por ĉaro",
+            "ca-ES": "10 passatgers per cotxe",
+            "fi-FI": "10 matkustajaa per vaunu",
+            "zh-CN": "10位乘客/车"
         }
     }
 }

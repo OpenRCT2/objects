@@ -57,11 +57,13 @@
             "pl-PL": "Zakręcona dżonka",
             "ru-RU": "Китайская джонка",
             "pt-BR": "Barco à Vela Chinês",
-            "eo-ZZ": "Sving-Atrackio de Ĉina Ĵonko"
+            "eo-ZZ": "Sving-Atrackio de Ĉina Ĵonko",
+            "ca-ES": "Vaixell balancí xinès de juncs",
+            "fi-FI": "Kiinalainen keinuva dzonkki"
         },
         "description": {
             "en-GB": "Ship is attached to an arm with a counterweight at the opposite end, and swings through a complete 360 degrees",
-            "fr-FR": "Un bateau attaché à un bras avec contrepoids à l'autre côté effectue un tour complet à 360 degrés",
+            "fr-FR": "Un bateau attaché à un bras avec contrepoids à l’autre côté effectue un tour complet à 360 degrés",
             "de-DE": "Das Schiff ist an einem Arm angebracht, an dessen gegenüberliegenden Ende ein Gegengewicht ist. Es schwingt komplett um 360 Grad",
             "es-ES": "El barco está enganchado a un brazo con un contrapeso en el extremo opuesto, y hace un giro completo de 360 grados",
             "it-IT": "La nave è montata su un lungo braccio con un contrappeso dalla parte opposta e ruota di 360 gradi completi",
@@ -74,7 +76,9 @@
             "pl-PL": "Statek jest przymocowany do ramienia z przeciwwagą i wykonuje pełne obroty",
             "ru-RU": "Кораблик прикреплён к маятнику и вращается на 360 градусов.",
             "pt-BR": "O barco é preso a um braço com um contrapeso na extremidade oposta e faz um giro completo de 360 graus",
-            "eo-ZZ": "La ŝipo estas fiksita al brako, kiu havas kontraŭpezon al la kontraŭa flanko, kaj svingiĝas tra plenaj 360 gradoj"
+            "eo-ZZ": "La ŝipo estas fiksita al brako, kiu havas kontraŭpezon al la kontraŭa flanko, kaj svingiĝas tra plenaj 360 gradoj",
+            "ca-ES": "El vaixell està enganxat a un braç amb contrapès a l’altre extrem. Es balanceja i fa una volta completa de 360 graus.",
+            "fi-FI": "Laiva on kiinnitetty puomiin, jonka toisessa päässä on vastapaino, ja joka pyörii täydet 360 astetta"
         },
         "capacity": {
             "en-GB": "12 passengers",
@@ -84,14 +88,16 @@
             "it-IT": "12 passeggeri",
             "nl-NL": "12 passagiers",
             "sv-SE": "12 passagerare",
-            "zh-CN": "限乘12人",
+            "zh-CN": "12位乘客/车",
             "cs-CZ": "12 návštěvníků",
             "ja-JP": "定員12名",
             "ko-KR": "승객 12명",
             "pl-PL": "12 pasażerów",
             "ru-RU": "12 пассажиров",
             "pt-BR": "12 passageiros",
-            "eo-ZZ": "12 pasaĝeroj"
+            "eo-ZZ": "12 pasaĝeroj",
+            "ca-ES": "12 passatgers",
+            "fi-FI": "12 matkustajaa"
         }
     }
 }

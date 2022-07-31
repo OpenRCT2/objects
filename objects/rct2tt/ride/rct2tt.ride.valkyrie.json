@@ -59,14 +59,17 @@
             "cs-CZ": "Valkýrská horská dráha",
             "pl-PL": "Jazda z Walkiriami",
             "ru-RU": "Валькирии",
-            "eo-ZZ": "Valkiroj-Trajnoj"
+            "eo-ZZ": "Valkiroj-Trajnoj",
+            "ca-ES": "Trens valquíria",
+            "fi-FI": "Valkyriavaunu",
+            "zh-CN": "女武神列车"
         },
         "description": {
             "en-GB": "Valkyries-themed roller coaster trains with extra-wide cars, built for vertical drops",
             "fr-FR": "Des voitures très larges descendent des voies en pente verticale. Pour amateurs de chute libre",
             "de-DE": "Walkürenartige Achterbahnzüge mit besonders breiten Wagen, für vertikale Gefälle ausgelegt",
             "es-ES": "Coches especialmente anchos que descienden verticalmente en la experiencia de caída libre definitiva.",
-            "it-IT": "Carrozze larghissime scendono per un tracciato completamente in verticale per offrire l'esperienza di caduta libera suprema, per quel che riguarda un ottovolante.",
+            "it-IT": "Carrozze larghissime scendono per un tracciato completamente in verticale per offrire l’esperienza di caduta libera suprema, per quel che riguarda un ottovolante.",
             "nl-NL": "Extra brede karretjes rijden over een compleet verticale baan voor de ultieme vrijevalbeleving.",
             "sv-SE": "Extra breda berg- och dalbanevagnar i valkyrietema, byggda för vertikala stup",
             "ko-KR": "자유 낙하의 극한 경험을 선사하기 위해 완전히 수직 경사 트랙을 따라 하강하는 아주 폭이 넓은 차량",
@@ -76,7 +79,10 @@
             "cs-CZ": "Extra-široké vozy letí dolů po zcela kolmé dráze a poskytují tím pocit volného pádu",
             "pl-PL": "Bardzo szerokie wagoniki zjeżdżają z całkowicie pionowego toru, zapewniając pasażerom niesamowite wrażenie swobodnego spadku",
             "ru-RU": "Широкие вагончики спускаются по отвесному треку с участками свободного падения",
-            "eo-ZZ": "Trajnoj de onda fervojo kun temo de valkiroj kaj ekstra-larĝaj ĉaroj, konstruitaj por vertikalaj faloj"
+            "eo-ZZ": "Trajnoj de onda fervojo kun temo de valkiroj kaj ekstra-larĝaj ĉaroj, konstruitaj por vertikalaj faloj",
+            "ca-ES": "Muntanya russa amb trens tematitzats com a valquíries amb cotxes molt amples, construïda amb caigudes verticals.",
+            "fi-FI": "Valkyria-teemaiset ekstraleveät vuoristoratavaunut, suunniteltu erityisesti pystysuoriin pudotuksiin",
+            "zh-CN": "女武神主题的过山车列车配备超宽车厢，专为垂直下降而设计"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -93,7 +99,10 @@
             "cs-CZ": "6 míst v každém voze",
             "pl-PL": "6 pasażerów na wagonik",
             "ru-RU": "6 человек",
-            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro",
+            "ca-ES": "6 passatgers per cotxe",
+            "fi-FI": "6 matkustajaa per vaunu",
+            "zh-CN": "6位乘客/车"
         }
     }
 }

@@ -46,7 +46,7 @@
     "strings": {
         "name": {
             "en-GB": "Prison Water Tower",
-            "fr-FR": "Château d'eau de prison",
+            "fr-FR": "Château d’eau de prison",
             "de-DE": "Gefängniswasserturm",
             "es-ES": "Depósito de agua de prisión",
             "it-IT": "Torretta di guardia della prigione",
@@ -59,7 +59,10 @@
             "pl-PL": "Więzienna wieża ciśnień",
             "ru-RU": "Водяная башня",
             "ja-JP": "刑務所　給水塔",
-            "eo-ZZ": "Akvoturo de Malliberejo"
+            "eo-ZZ": "Akvoturo de Malliberejo",
+            "ca-ES": "Dipòsit d’aigua de la presó",
+            "fi-FI": "Vankilan vesitorni",
+            "zh-CN": "监狱-水塔"
         }
     }
 }

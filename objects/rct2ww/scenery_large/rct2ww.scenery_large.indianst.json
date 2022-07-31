@@ -44,7 +44,7 @@
     "strings": {
         "name": {
             "en-GB": "Native American",
-            "fr-FR": "Indien d'Amérique",
+            "fr-FR": "Indien d’Amérique",
             "de-DE": "Indianer",
             "es-ES": "Nativo americano",
             "it-IT": "Indiano",
@@ -57,7 +57,9 @@
             "ru-RU": "Индеец",
             "pt-BR": "Índio Nativo Americano",
             "ja-JP": "北米土人",
-            "eo-ZZ": "Indiĝenulo"
+            "eo-ZZ": "Indiĝenulo",
+            "ca-ES": "Natiu americà",
+            "fi-FI": "Intiaani"
         }
     }
 }

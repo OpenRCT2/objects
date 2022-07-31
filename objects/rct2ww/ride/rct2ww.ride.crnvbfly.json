@@ -63,7 +63,7 @@
             "fr-FR": "Carnaval - Voitures papillons",
             "de-DE": "Karnevalsschmetterlingswagen",
             "es-ES": "Atracción flotadores de carnaval; vagones mariposa",
-            "it-IT": "Carnevale sull'acqua - Carrozze farfalla",
+            "it-IT": "Carnevale sull’acqua - Carrozze farfalla",
             "nl-NL": "Vlinderwagentjes",
             "sv-SE": "Karnevalbilar med fjärilar",
             "cs-CZ": "Motýlková autodráha",
@@ -72,7 +72,10 @@
             "pl-PL": "Parada na platformach - motyle",
             "ru-RU": "Карнавал - Бабочки",
             "pt-BR": "Carros Borboleta do Carnaval",
-            "eo-ZZ": "Karnavalaj Papilio-Ĉaroj"
+            "eo-ZZ": "Karnavalaj Papilio-Ĉaroj",
+            "ca-ES": "Carrossa de papallones",
+            "fi-FI": "Karnevaalin perhosautot",
+            "zh-CN": "嘉年华蝴蝶车"
         },
         "description": {
             "en-GB": "Cars in the shape of butterfly carnival floats",
@@ -88,7 +91,10 @@
             "pl-PL": "Wagoniki w kształcie motylich platform",
             "ru-RU": "Вагончики в виде бабочек",
             "pt-BR": "Carros de montanha-russa em forma de borboleta",
-            "eo-ZZ": "Ĉaroj formitaj kiel papilio-paradiloj"
+            "eo-ZZ": "Ĉaroj formitaj kiel papilio-paradiloj",
+            "ca-ES": "Cotxes carrossa en forma de papallones.",
+            "fi-FI": "Perhosen muotoiset karnevaaliautot",
+            "zh-CN": "蝴蝶嘉年华花车造型的汽车"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -104,7 +110,10 @@
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
             "pt-BR": "2 passageiros por carro",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu",
+            "zh-CN": "2位乘客/车"
         }
     }
 }

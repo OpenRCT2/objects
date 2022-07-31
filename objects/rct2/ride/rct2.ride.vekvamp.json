@@ -65,14 +65,16 @@
             "nl-NL": "Karretjes zonder vloer",
             "sv-SE": "Svingande golvlösa vagnar",
             "ko-KR": "스윙잉 플로어리스 차량",
-            "zh-CN": "摇摆列车",
+            "zh-CN": "无底板摇摆列车",
             "zh-TW": "搖?列車",
             "pt-BR": "Carros de Balanço Sem-Chão",
             "cs-CZ": "Houpající se vozy bez podlahy",
             "ja-JP": "スイング・フロアレス車両",
             "pl-PL": "Dyndające krzesełka",
             "ru-RU": "Вагончики",
-            "eo-ZZ": "Svingiĝantaj Senplankaj Aŭtoj"
+            "eo-ZZ": "Svingiĝantaj Senplankaj Aŭtoj",
+            "ca-ES": "Cotxes balancí sense terra",
+            "fi-FI": "Keinuvat lattiattomat vaunut"
         },
         "description": {
             "en-GB": "Suspended roller coaster trains consisting of chairlift-style seats able to swing freely as the train goes around corners",
@@ -90,7 +92,9 @@
             "ja-JP": "チェアリフトタイプの座席に座ってぶら下がるローラーコースターで、コーナーで大きく揺れ動きます",
             "pl-PL": "Kolejka górska z podwieszanymi fotelikami typu wyciągu krzesełkowego, które bujają się swobodnie na zakrętach",
             "ru-RU": "Подвесные вагончики, раскачивающиеся во всех направлениях.",
-            "eo-ZZ": "Penditaj trajnoj de onda fervojo, kiuj konsistas el ĉarojn, kiuj povas svingiĝi libere kiam la trajno iras ĉirkau anguloj"
+            "eo-ZZ": "Penditaj trajnoj de onda fervojo, kiuj konsistas el ĉarojn, kiuj povas svingiĝi libere kiam la trajno iras ĉirkau anguloj",
+            "ca-ES": "Muntanya russa amb trens penjants que tenen seients d’estil telecadira que es balancegen quan passen per corbes.",
+            "fi-FI": "Tuolihissin tyyliset vapaasti käänteissä keinuvat riippuvat vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -101,14 +105,16 @@
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
             "ko-KR": "차량당 2명의 승객",
-            "zh-CN": "2 位乘客/每个车厢",
+            "zh-CN": "2位乘客/车",
             "zh-TW": "2 位乘客/每個車廂",
             "pt-BR": "2 passageiros por vagão",
             "cs-CZ": "2 místa v každém vozu",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }

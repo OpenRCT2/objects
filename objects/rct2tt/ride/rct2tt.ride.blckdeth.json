@@ -59,14 +59,17 @@
             "cs-CZ": "Morová horská dráha",
             "pl-PL": "Czarna śmierć",
             "ru-RU": "Чёрная Смерть",
-            "eo-ZZ": "Trajnoj de la Nigra Morto"
+            "eo-ZZ": "Trajnoj de la Nigra Morto",
+            "ca-ES": "Trens de la pesta negra",
+            "fi-FI": "Musta surma -vaunut",
+            "zh-CN": "黑色死亡列车"
         },
         "description": {
             "en-GB": "Rat-shaped trains consisting of 2-seater cars where the riders are behind each other",
-            "fr-FR": "Les passagers descendent un parcours alambiqué à bord d'une grande voiture en forme de rat dirigée uniquement par les courbes et l'inclinaison de la voie semi-circulaire",
+            "fr-FR": "Les passagers descendent un parcours alambiqué à bord d’une grande voiture en forme de rat dirigée uniquement par les courbes et l’inclinaison de la voie semi-circulaire",
             "de-DE": "Rattenförmige Züge, die aus Zweisitzerwagen bestehen, in denen die Fahrgäste hintereinander sitzen",
             "es-ES": "Los usuarios recorren, en coches en forma de rata, una ruta guiada únicamente por la curvatura y el desnivel del recorrido semicircular.",
-            "it-IT": "I passeggeri si fanno strada lungo un tracciato sinuoso in carrozze a forma di topi, guidati solo dalla curvatura e dall'inclinazione del tracciato semi-circolare.",
+            "it-IT": "I passeggeri si fanno strada lungo un tracciato sinuoso in carrozze a forma di topi, guidati solo dalla curvatura e dall’inclinazione del tracciato semi-circolare.",
             "nl-NL": "Passagiers rijden over een kronkelende baan in ratvormige karretjes, waarbij ze enkel worden geleid door de ronding en banking van de halfronde baan.",
             "sv-SE": "Tvåsitsiga råttformade vagnar där passagerarna sitter bakom varandra",
             "ko-KR": "반원형 트랙의 커브와 뱅킹만을 따라 이동하는 봅슬레이 모양의 차량을 타고 이리 저리 꼬여있는 트랙을 따라 내려오는 놀이기구",
@@ -76,7 +79,10 @@
             "pl-PL": "Pasażerowie zjeżdżają krętym torem w wagonikach w kształcie szczurów, kierowanych jedynie krzywizną i nachyleniem półkolistego toru",
             "ru-RU": "Кабинки в виде крыс едут по извилистому треку без рельсов и колес.",
             "ja-JP": "ネズミの型の二人乗り車両で、乗客は前後に座ります",
-            "eo-ZZ": "Ratformaj trajnoj, konsistaj de ĉaroj kun 2 seĝoj, kie la rajdantoj estas malantaŭ unu la alian"
+            "eo-ZZ": "Ratformaj trajnoj, konsistaj de ĉaroj kun 2 seĝoj, kie la rajdantoj estas malantaŭ unu la alian",
+            "ca-ES": "Trens en forma de rata amb cotxes de 2 seients on els passatgers estan un darrere l’altre.",
+            "fi-FI": "Rotan muotoiset vaunut, jossa kaksi matkustajaa istuu peräkkäin",
+            "zh-CN": "鼠形列车由2人座车厢组成，乘客彼此并排"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -93,7 +99,10 @@
             "cs-CZ": "2 místa v každém voze",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 человека в кабинке",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu",
+            "zh-CN": "2位乘客/车"
         }
     }
 }

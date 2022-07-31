@@ -20,10 +20,10 @@
     "strings": {
         "name": {
             "en-GB": "Aboriginal Art Set Piece",
-            "fr-FR": "Oeuvre d'art aborigène",
+            "fr-FR": "Oeuvre d’art aborigène",
             "de-DE": "Aborigine-Kunst - Bauteil",
             "es-ES": "Pieza de conjunto de arte aborigen",
-            "it-IT": "Opera d'arte aborigena",
+            "it-IT": "Opera d’arte aborigena",
             "nl-NL": "Stuk Aboriginalkunst",
             "sv-SE": "Del av urinnevånares konstverk",
             "cs-CZ": "Umění domorodců",
@@ -32,7 +32,10 @@
             "ru-RU": "Местный сувенир",
             "pt-BR": "Peça de Conjunto de Arte Aborígene",
             "ja-JP": "アボリジニアート・セット",
-            "eo-ZZ": "Aborigena Artparto"
+            "eo-ZZ": "Aborigena Artparto",
+            "ca-ES": "Peça d’art aborigen",
+            "fi-FI": "Aboriginaalien taidesetin osa",
+            "zh-CN": "原住民艺术套装"
         }
     }
 }

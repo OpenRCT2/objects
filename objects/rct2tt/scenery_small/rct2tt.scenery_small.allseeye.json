@@ -25,7 +25,7 @@
     "strings": {
         "name": {
             "en-GB": "Animatronic All Seeing Eye",
-            "fr-FR": "Automate : l'oeil qui voit tout",
+            "fr-FR": "Automate : l’oeil qui voit tout",
             "de-DE": "Animatronic Das Allmächtige Auge",
             "es-ES": "Ojo que todo lo ve animatrónico",
             "it-IT": "Animatrone occhio onniveggente",
@@ -38,7 +38,10 @@
             "pl-PL": "Mechaniczne wszystkowidzące oko",
             "ru-RU": "Всевидящее Око",
             "ja-JP": "アニマトロニックのプロビデンスの目",
-            "eo-ZZ": "Animatronika Ĉionvida Okulo"
+            "eo-ZZ": "Animatronika Ĉionvida Okulo",
+            "ca-ES": "Animatrònic d’ull que ho veu tot",
+            "fi-FI": "Animatroninen kaikkinäkevä silmä",
+            "zh-CN": "可动的全视之眼"
         }
     }
 }

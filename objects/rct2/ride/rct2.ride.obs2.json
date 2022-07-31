@@ -129,10 +129,10 @@
     "strings": {
         "name": {
             "en-GB": "Double-deck Cabin",
-            "fr-FR": "Tour d'observation 2-ponts",
+            "fr-FR": "Tour d’observation 2-ponts",
             "de-DE": "Doppeldeckkabine",
             "es-ES": "Cabina de observación doble piso",
-            "it-IT": "Torre d'osservazione a due piani",
+            "it-IT": "Torre d’osservazione a due piani",
             "nl-NL": "Dubbelsdekscabine",
             "sv-SE": "Dubbeldäckat observationstorn",
             "ko-KR": "2층 전망탑",
@@ -143,14 +143,16 @@
             "ja-JP": "二階建て展望台",
             "pl-PL": "Dwupiętrowa wieża obserwacyjna",
             "ru-RU": "Наблюдательная башня",
-            "eo-ZZ": "Duetaĝa Kajuto"
+            "eo-ZZ": "Duetaĝa Kajuto",
+            "ca-ES": "Cabina d’observació de dos pisos",
+            "fi-FI": "Kaksikerroksinen koppi"
         },
         "description": {
             "en-GB": "Twin-deck rotating observation cabin",
-            "fr-FR": "Cabine rotative d'observation à double pont qui se hisse au sommet d'une grande tour",
+            "fr-FR": "Cabine rotative d’observation à double pont qui se hisse au sommet d’une grande tour",
             "de-DE": "Rotierende zweistöckige Aussichtskabine",
             "es-ES": "Cabinas de observación con doble piso que viajan verticalmente en una torre alta",
-            "it-IT": "Cabina d'osservazione rotante a due piani che sale su un'alta torre",
+            "it-IT": "Cabina d’osservazione rotante a due piani che sale su un’alta torre",
             "nl-NL": "Draaiende observatiecabine met twee dekken die langs een verticale toren omhoog gaat.",
             "sv-SE": "Dubbeldäckad roterande utsiktskabin",
             "ko-KR": "높은 탑을 따라 올라가면서 회전하는 2층 전망대 객실",
@@ -161,7 +163,9 @@
             "ja-JP": "2階建ての展望キャビンが回転しながら高い塔を登ります",
             "pl-PL": "Obrotowa piętrowa kabina obserwacyjna wjeżdżająca na wysoką wieżę",
             "ru-RU": "Вращающаяся кабинка поднимается на высокую башню.",
-            "eo-ZZ": "Duetaĝa turniĝanta kajuto por observi"
+            "eo-ZZ": "Duetaĝa turniĝanta kajuto por observi",
+            "ca-ES": "Cabina d’observació rotatòria de dos pisos.",
+            "fi-FI": "Pyörivä näköalakoppi, jossa on kaksi kerrosta"
         },
         "capacity": {
             "en-GB": "32 passengers",
@@ -179,7 +183,9 @@
             "ja-JP": "定員32名",
             "pl-PL": "32 pasażerów",
             "ru-RU": "32 пассажира",
-            "eo-ZZ": "32 pasaĝeroj"
+            "eo-ZZ": "32 pasaĝeroj",
+            "ca-ES": "32 passatgers",
+            "fi-FI": "32 matkustajaa"
         }
     }
 }

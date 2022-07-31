@@ -116,7 +116,9 @@
             "ja-JP": "逆向きジェットコースター",
             "pl-PL": "Zawracajka",
             "ru-RU": "Горки с 4м измерением",
-            "eo-ZZ": "Inversiĝantaj Ĉaroj"
+            "eo-ZZ": "Inversiĝantaj Ĉaroj",
+            "ca-ES": "Muntanya russa invertida",
+            "fi-FI": "Kääntövaunut"
         },
         "description": {
             "en-GB": "Bogied cars capable of turning around on special reversing sections",
@@ -136,7 +138,9 @@
             "ja-JP": "特殊な反転ターンがある木製のコースをボギー車両が走行するコースターです",
             "pl-PL": "Wózki kopalniane jeżdżące po drewnianych torach, zawracające na specjalnych obrotowych sekcjach",
             "ru-RU": "Вагончики на деревянных рельсах, меняющие направление на середине трека.",
-            "eo-ZZ": "Boĝiĉaroj kapablas je turniĝi ĉirkaŭ specialaj inversigantaj partoj"
+            "eo-ZZ": "Boĝiĉaroj kapablas je turniĝi ĉirkaŭ specialaj inversigantaj partoj",
+            "ca-ES": "Cotxes bogi que poden girar en seccions especials d’inversió.",
+            "fi-FI": "Vaunut, jotka kulkevat puisilla kiskoilla, ja kääntyvät ympäri erityisissä kääntöosioissa"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -147,14 +151,16 @@
             "nl-NL": "6 passagiers per karretje",
             "sv-SE": "6 passagerare per vagn",
             "ko-KR": "차량당 6명의 승객",
-            "zh-CN": "6 位乘客/每个车厢",
+            "zh-CN": "6位乘客/车",
             "zh-TW": "6 位乘客/每個車廂",
             "pt-BR": "6 passageiros por vagão",
             "cs-CZ": "6 míst v každém voze",
             "ja-JP": "各車両6名",
             "pl-PL": "6 pasażerów na wagonik",
             "ru-RU": "6 пассажиров",
-            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro",
+            "ca-ES": "6 passatgers per cotxe",
+            "fi-FI": "6 matkustajaa per vaunu"
         }
     }
 }

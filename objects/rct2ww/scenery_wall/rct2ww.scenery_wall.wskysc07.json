@@ -14,20 +14,22 @@
     "strings": {
         "name": {
             "en-GB": "Skyscraper Lift Section Piece",
-            "fr-FR": "Pièce de section d'ascenseur de gratte-ciel",
+            "fr-FR": "Pièce de section d’ascenseur de gratte-ciel",
             "de-DE": "Wolkenkratzer-Aufzugssektions-Bauteil",
             "es-ES": "Pieza de la sección del ascensor del rascacielos",
             "it-IT": "Pezzo di sezione di ascensore del grattacielo",
             "nl-NL": "Stuk Lift wolkenkrabber",
             "sv-SE": "Hissdel till skyskrapa",
-            "zh-CN": "摩天大楼电梯区段",
+            "zh-CN": "摩天大楼电梯段",
             "cs-CZ": "Kovový mrakodrap - výtah",
             "ko-KR": "마천루 리프트 조각 조각",
             "pl-PL": "Drapacz chmur - segment windy",
             "ru-RU": "Деталь секции лифта",
             "pt-BR": "Peça da Seção do Elevador do Arranha-céu",
             "ja-JP": "高層ビル エスカレーター部分",
-            "eo-ZZ": "Parto de Liftoparto de Ĉielskrapanto"
+            "eo-ZZ": "Parto de Liftoparto de Ĉielskrapanto",
+            "ca-ES": "Part de gratacel amb porta d’ascensor",
+            "fi-FI": "Pilvenpiirtäjän hissiosion osa"
         }
     }
 }

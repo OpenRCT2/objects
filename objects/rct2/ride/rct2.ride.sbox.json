@@ -58,7 +58,9 @@
             "ja-JP": "石鹸箱ダービーレース",
             "pl-PL": "Wyścigi mydelniczek",
             "ru-RU": "Мыльные Гонки",
-            "eo-ZZ": "Sapskatoloj"
+            "eo-ZZ": "Sapskatoloj",
+            "ca-ES": "Carreres de saboneres",
+            "fi-FI": "Saippualaatikot"
         },
         "description": {
             "en-GB": "Single cars shaped like a soap box",
@@ -76,7 +78,9 @@
             "ja-JP": "石鹸入れの形をした車両の、シングルレールコースのローラーコースターです",
             "pl-PL": "Pasażerowie jadą wagonikami w kształcie mydelniczek po jednoszynowym torze kolejki",
             "ru-RU": "Гонки на машинках в виде мыльниц по американским горкам.",
-            "eo-ZZ": "Individuaj ĉaroj formitaj kiel sapskatolo"
+            "eo-ZZ": "Individuaj ĉaroj formitaj kiel sapskatolo",
+            "ca-ES": "Cotxes independents en forma de sabonera",
+            "fi-FI": "Saippualaatikoiden muotoiset yksittäiset ajoneuvot"
         },
         "capacity": {
             "en-GB": "4 riders per car",
@@ -87,14 +91,16 @@
             "nl-NL": "4 passagiers per zeepkist",
             "sv-SE": "4 passagerare per vagn",
             "ko-KR": "차량당 4명의 승객",
-            "zh-CN": "4 位乘客/每个车厢",
+            "zh-CN": "4位乘客/车",
             "zh-TW": "4 位乘客/每個車廂",
             "pt-BR": "4 passageiros por vagão",
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 чел.",
-            "eo-ZZ": "Po 4 rajdantoj por ĉaro"
+            "eo-ZZ": "Po 4 rajdantoj por ĉaro",
+            "ca-ES": "4 passatgers per sabonera",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

@@ -30,7 +30,7 @@
     "strings": {
         "name": {
             "en-GB": "Sandstone Skyscraper Docking Bay",
-            "fr-FR": "Voie d'amarrage du gratte-ciel",
+            "fr-FR": "Voie d’amarrage du gratte-ciel",
             "de-DE": "Sandstein-Wolkenkratzer Anlegebucht",
             "es-ES": "Zona de atraque de rascacielos de arenisca",
             "it-IT": "Baia di attracco del grattacielo in arenaria",
@@ -43,7 +43,10 @@
             "pl-PL": "Wieżowiec z piaskowca - podjazd",
             "ru-RU": "Деталь небоскрёба",
             "ja-JP": "砂岩 高層ビル ドッキングベイ",
-            "eo-ZZ": "Doko de Sabloŝtona Ĉielskrapanto"
+            "eo-ZZ": "Doko de Sabloŝtona Ĉielskrapanto",
+            "ca-ES": "Drassana de gratacel de gres",
+            "fi-FI": "Hiekkakivipilvenpiirtäjän telakointiasema",
+            "zh-CN": "砂岩-高楼停靠湾"
         }
     }
 }

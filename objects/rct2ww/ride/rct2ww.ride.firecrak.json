@@ -379,14 +379,16 @@
             "pl-PL": "Karuzela fajerwerków",
             "ru-RU": "Огненные гонки",
             "pt-BR": "Fogos de Artifício Giratórios",
-            "eo-ZZ": "Fajraĵo-Atrakcio"
+            "eo-ZZ": "Fajraĵo-Atrakcio",
+            "ca-ES": "Atracció Petard",
+            "fi-FI": "Sähikäinen"
         },
         "description": {
             "en-GB": "Rotating wheel with suspended passenger pods, which first starts spinning and is then tilted up by a supporting arm",
-            "fr-FR": "Grande roue rotative comprenant des nacelles qui tourne sur elle-même avant d'être levée par un bras",
+            "fr-FR": "Grande roue rotative comprenant des nacelles qui tourne sur elle-même avant d’être levée par un bras",
             "de-DE": "Rotierendes Rad mit hängenden Passagierkapseln, das sich zuerst dreht und dann von einem Hebearm hochgekippt wird",
             "es-ES": "Rueda de la que cuelgan las vainas de los pasajeros, que comienza a girar y luego se inclina mediante un brazo soporte",
-            "it-IT": "Una ruota che regge delle capsule passeggeri sospese e inizia a ruotare per poi venire inclinata verso l'alto da un braccio portante",
+            "it-IT": "Una ruota che regge delle capsule passeggeri sospese e inizia a ruotare per poi venire inclinata verso l’alto da un braccio portante",
             "nl-NL": "Draaiend wiel met hangende passagierscabines, dat eerst gaat draaien en vervolgens wordt opgetild door een steunarm.",
             "sv-SE": "Ett horisontellt hjul med hängande passagerarkapslar, som börjar med att rotera och sedan lutas upp av en stödarm",
             "zh-CN": "旋转悬挂着乘客的座舱，先以旋转开始，再以支撑臂倾斜升起",
@@ -396,7 +398,9 @@
             "pl-PL": "Obracające się koło z podwieszanymi wagonikami. Gdy się rozkręci, hydrauliczne ramię podnosi je do pionu",
             "ru-RU": "Вращ. колесо с подвешенными платформами",
             "pt-BR": "Roda giratória com cápsulas suspensas com passageiros, que primeiro começa a girar e é então inclinada para cima por um braço de apoio",
-            "eo-ZZ": "Turniĝanta radego kun penditaj pasaĝerujoj, kiu unue komencas turniĝi, kaj tiam estas klinita supren per apoga brako"
+            "eo-ZZ": "Turniĝanta radego kun penditaj pasaĝerujoj, kiu unue komencas turniĝi, kaj tiam estas klinita supren per apoga brako",
+            "ca-ES": "Roda giratòria amb cabines penjants per als passatgers, que comença girant i després s’inclina usant com a suport un braç.",
+            "fi-FI": "Riippuvilla vaunuilla varustettu pyörivä ratas, joka aluksi pyörii paikallaan, ja sitten nousee pystysuoraksi liikkuvan tukipuomin ansioista"
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -406,14 +410,16 @@
             "it-IT": "16 passeggeri",
             "nl-NL": "16 passagiers",
             "sv-SE": "16 passagerare",
-            "zh-CN": "限乘16人",
+            "zh-CN": "18位乘客",
             "ja-JP": "定員16名",
             "cs-CZ": "16 návštěvníků",
             "ko-KR": "승객 16명",
             "pl-PL": "16 pasażerów",
             "ru-RU": "16 пассажиров",
             "pt-BR": "16 passageiros",
-            "eo-ZZ": "16 pasaĝeroj"
+            "eo-ZZ": "16 pasaĝeroj",
+            "ca-ES": "16 passatgers",
+            "fi-FI": "16 matkustajaa"
         }
     }
 }

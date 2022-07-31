@@ -45,7 +45,7 @@
     "strings": {
         "name": {
             "en-GB": "Hover Bikes",
-            "fr-FR": "Moto sur coussin d'air",
+            "fr-FR": "Moto sur coussin d’air",
             "de-DE": "Schweberäder",
             "es-ES": "Viaje en moto jet",
             "it-IT": "Giro sulla bicicletta volante",
@@ -59,7 +59,10 @@
             "cs-CZ": "Vznášedlová moto horská dráha",
             "pl-PL": "Latające motocykle",
             "ru-RU": "Ховербайки",
-            "eo-ZZ": "Flugpendantaj Bicikloj"
+            "eo-ZZ": "Flugpendantaj Bicikloj",
+            "ca-ES": "Motos futurístiques planadores",
+            "fi-FI": "Liitopyörät",
+            "zh-CN": "浮空摩托"
         },
         "description": {
             "en-GB": "Futuristic bike-shaped single vehicles",
@@ -76,7 +79,10 @@
             "cs-CZ": "Návštěvníci sedí na futuristických motorkách, která jedou po jednokolejné dráze",
             "pl-PL": "Pasażerowie podróżują na futurystycznych pojazdach w kształcie motocykli, jadących po jednoszynowym torze",
             "ru-RU": "Люди сидят в футуристических байках и едут по монорельсу",
-            "eo-ZZ": "Estontecaj bicikloformaj individuaj veturiloj"
+            "eo-ZZ": "Estontecaj bicikloformaj individuaj veturiloj",
+            "ca-ES": "Muntanya russa amb vehicles en forma de motocicleta futurística planadora.",
+            "fi-FI": "Futuristiset pyöränmuotoiset yksittäiset ajoneuvot",
+            "zh-CN": "未来样式摩托车形的摩托车"
         },
         "capacity": {
             "en-GB": "2 riders per vehicle",
@@ -93,7 +99,10 @@
             "cs-CZ": "2 místa na každé motorce",
             "pl-PL": "2 pasażerów na pojazd",
             "ru-RU": "2 чел. в машине",
-            "eo-ZZ": "Po 2 rajdantoj por veturilo"
+            "eo-ZZ": "Po 2 rajdantoj por veturilo",
+            "ca-ES": "2 motociclistes per vehicle",
+            "fi-FI": "2 pyöräilijää per pyörä",
+            "zh-CN": "2位乘客/摩托"
         }
     }
 }

@@ -17,10 +17,10 @@
     "strings": {
         "name": {
             "en-GB": "Queue Line TV",
-            "fr-FR": "Télé file d'attente",
+            "fr-FR": "Télé file d’attente",
             "de-DE": "Warteschlangen-TV",
             "es-ES": "TV zona de espera",
-            "it-IT": "TV fila d'attesa",
+            "it-IT": "TV fila d’attesa",
             "nl-NL": "Wachtrij-tv",
             "sv-SE": "Kö-TV",
             "ko-KR": "대기줄 TV",
@@ -32,7 +32,9 @@
             "pl-PL": "Telewizor kolejkowy",
             "ru-RU": "ТВ Вывеска",
             "ar-EG": "طابور إنتظار التلفزيون",
-            "eo-ZZ": "Televizio de Atendovico"
+            "eo-ZZ": "Televizio de Atendovico",
+            "ca-ES": "Teleapuntador",
+            "fi-FI": "Jonotelkkari"
         }
     }
 }

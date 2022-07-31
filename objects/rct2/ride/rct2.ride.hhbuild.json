@@ -134,7 +134,9 @@
             "nb-NO": "Spøkelseshus",
             "pl-PL": "Nawiedzony dom",
             "ru-RU": "Дом ужасов",
-            "eo-ZZ": "Fantomita Domo"
+            "eo-ZZ": "Fantomita Domo",
+            "ca-ES": "Casa encantada",
+            "fi-FI": "Kummitustalo"
         },
         "description": {
             "en-GB": "Large themed building containing scary corridors and spooky rooms",
@@ -152,7 +154,9 @@
             "ja-JP": "不気味な廊下と薄気味悪い部屋を持つ、多層式の大きなお化け屋敷です",
             "pl-PL": "Wielki budynek mieszczący straszliwe korytarze i budzące dreszcz grozy pokoje",
             "ru-RU": "Большое здание со страшными коридорами и комнатами.",
-            "eo-ZZ": "Granda temita konstruaĵo, kiu enhavas timigajn koridorojn, kaj timigetajn ĉambrojn"
+            "eo-ZZ": "Granda temita konstruaĵo, kiu enhavas timigajn koridorojn, kaj timigetajn ĉambrojn",
+            "ca-ES": "Edifici gran tematitzat amb passadissos horripilants i habitacions esgarrifoses.",
+            "fi-FI": "Suuri teemattu rakennus, jossa on pelottavia käytäviä ja karmivia huoneita"
         },
         "capacity": {
             "en-GB": "15 guests",
@@ -163,14 +167,16 @@
             "nl-NL": "15 bezoekers",
             "sv-SE": "15 besökare",
             "ko-KR": "손님 15명",
-            "zh-CN": "15位游客",
+            "zh-CN": "15位乘客",
             "zh-TW": "15位遊客",
             "pt-BR": "15 visitantes",
             "cs-CZ": "15 návštěvníků",
             "ja-JP": "定員15名",
             "pl-PL": "15 widzów",
             "ru-RU": "15 чел.",
-            "eo-ZZ": "15 gastoj"
+            "eo-ZZ": "15 gastoj",
+            "ca-ES": "15 visitants",
+            "fi-FI": "15 kävijää"
         }
     }
 }

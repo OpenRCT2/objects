@@ -29,14 +29,16 @@
             "nl-NL": "Rundernoedelkraam",
             "sv-SE": "Biffnudelstånd",
             "ko-KR": "고기 국수 가게",
-            "zh-CN": "牛肉面 店",
+            "zh-CN": "牛肉面店",
             "zh-TW": "牛肉麵 店",
             "pt-BR": "Barraca de Macarrão com Carne",
             "cs-CZ": "Stánek s hovězími nudlemi",
             "ja-JP": "牛肉ヌードルショップ",
             "pl-PL": "Kiosk z wołowymi kluseczkami",
             "ru-RU": "Палатка с лапшой",
-            "eo-ZZ": "Bovaĵaj-Nudeloj-Budo"
+            "eo-ZZ": "Bovaĵaj-Nudeloj-Budo",
+            "ca-ES": "Estand de tallarines de vedella",
+            "fi-FI": "Häränlihanuudelikoju"
         },
         "description": {
             "en-GB": "A stall selling Chinese style beef noodles",
@@ -54,7 +56,9 @@
             "ja-JP": "中華風牛肉ヌードルを売るお店です",
             "pl-PL": "Stoisko sprzedające wołowe kluseczki w chińskim stylu",
             "ru-RU": "Палатка, где продают лапшу.",
-            "eo-ZZ": "Budo vendanta Ĉina-stilajn bovaĵajn nudelojn"
+            "eo-ZZ": "Budo vendanta Ĉina-stilajn bovaĵajn nudelojn",
+            "ca-ES": "Una botigueta que ven tallarines de vedella d’estil xinès.",
+            "fi-FI": "Koju, joka myy kiinalaistyylisiä häränlihanuudeleita"
         }
     }
 }

@@ -87,15 +87,17 @@
             "nb-NO": "Minihelikoptere",
             "pl-PL": "Minihelikoptery",
             "ru-RU": "Вертолётики",
-            "eo-ZZ": "Miniaturaj Helikopteroj"
+            "eo-ZZ": "Miniaturaj Helikopteroj",
+            "ca-ES": "Minihelicòpters",
+            "fi-FI": "Minihelikopterit"
         },
         "description": {
             "en-GB": "Powered helicopter-shaped cars, controlled by the pedalling of the riders",
             "en-US": "Powered helicopter-shaped cars, controlled by the pedaling of the riders",
-            "fr-FR": "Installés dans des voitures en forme d'hélicoptère, les passagers parcourent une voie métallique en pédalant pour avancer",
+            "fr-FR": "Installés dans des voitures en forme d’hélicoptère, les passagers parcourent une voie métallique en pédalant pour avancer",
             "de-DE": "Helikopterförmige Wagen, die von den Pedaltritten der Fahrer angetrieben werden",
             "es-ES": "Vagones con forma de helicópteros corren por una vía de acero controlados por los pedales de los pasajeros",
-            "it-IT": "Carrozze a motore a forma di elicotteri corrono lungo un tracciato d'acciaio spinte dalle pedalate dei passeggeri",
+            "it-IT": "Carrozze a motore a forma di elicotteri corrono lungo un tracciato d’acciaio spinte dalle pedalate dei passeggeri",
             "nl-NL": "Aangedreven karretjes in de vorm van een helikopter rijden over een stalen baan, bestuurd door het trappen van de passagiers.",
             "sv-SE": "Motordrivna helikopterformade vagnar, som passagerarna kontrollerar med trampor",
             "ko-KR": "탑승자가 페달을 밟아서 철제 트랙을 따라 움직이는 헬리콥터 모양의 차량",
@@ -106,7 +108,9 @@
             "ja-JP": "スチール製コースを走るヘリコプター型の動力付き車両で、乗客がペダルを使って操作します",
             "pl-PL": "Wagoniki w kształcie helikopterów jadące po stalowym torze, sterowane przez pedałujących pasażerów",
             "ru-RU": "Машинки в виде вертолетиков.",
-            "eo-ZZ": "Ŝaltitaj helikopteroformaj ĉaroj, kiujn la pedalado de la rajdantoj funkciigas"
+            "eo-ZZ": "Ŝaltitaj helikopteroformaj ĉaroj, kiujn la pedalado de la rajdantoj funkciigas",
+            "ca-ES": "Cotxes en forma d’helicòpters controlats pel pedaleig dels passatgers.",
+            "fi-FI": "Moottoroidut helikopterin muotoiset vaunut kulkevat teräsradalla, liikkuen matkustajien polkiessa"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -117,14 +121,16 @@
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
             "ko-KR": "차량당 2명의 승객",
-            "zh-CN": "2 位乘客/每个车厢",
+            "zh-CN": "2位乘客/车",
             "zh-TW": "2 位乘客/每個車廂",
             "pt-BR": "2 passageiros por vagão",
             "cs-CZ": "2 místa v každém vozu",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 passengers per car",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }
