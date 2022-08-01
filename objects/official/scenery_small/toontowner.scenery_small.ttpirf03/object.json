@@ -1,0 +1,81 @@
+{
+    "id": "toontowner.scenery_small.ttpirf03",
+    "authors": ["Simon Foster", "ToonTowner"],
+    "version": "1.0",
+    "originalId": "09F55801|TTPIRF03|6E43EB7D",
+    "sourceGame": "official",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 22,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": [
+        {
+            "path": "images.png",
+            "srcX": 0,
+            "srcY": 0,
+            "srcWidth": 64,
+            "srcHeight": 63,
+            "x": -32,
+            "y": -32
+        },
+        {
+            "path": "images.png",
+            "srcX": 64,
+            "srcY": 0,
+            "srcWidth": 63,
+            "srcHeight": 63,
+            "x": -31,
+            "y": -32
+        },
+        {
+            "path": "images.png",
+            "srcX": 127,
+            "srcY": 0,
+            "srcWidth": 62,
+            "srcHeight": 48,
+            "x": -31,
+            "y": -17
+        },
+        {
+            "path": "images.png",
+            "srcX": 189,
+            "srcY": 0,
+            "srcWidth": 63,
+            "srcHeight": 63,
+            "x": -32,
+            "y": -32
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Roof",
+            "fr-FR": "Toit",
+            "de-DE": "Dach",
+            "es-ES": "Tejado",
+            "it-IT": "Tetto",
+            "nl-NL": "Dak",
+            "sv-SE": "Tak",
+            "ko-KR": "천장",
+            "zh-CN": "屋顶",
+            "zh-TW": "屋頂",
+            "pt-BR": "Teto",
+            "cs-CZ": "Střecha",
+            "ja-JP": "屋根",
+            "pl-PL": "Dach",
+            "eo-ZZ": "Tegmento",
+            "ca-ES": "Teulada",
+            "fi-FI": "Katto"
+        }
+    }
+}
