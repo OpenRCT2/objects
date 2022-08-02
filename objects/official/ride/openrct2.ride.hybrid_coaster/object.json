@@ -154,14 +154,17 @@
     "strings": {
         "name": {
             "en-GB": "Hybrid Coaster Trains",
+            "de-DE": "Hybridachterbahnzüge",
             "nl-NL": "Trein voor hybride achtbaan"
         },
         "description": {
             "en-GB": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
+            "de-DE": "Achterbahnzüge mit Schoßhalterungen; für steile Stürze und Inversionen geeignet",
             "nl-NL": "Achtbaantreinen met schootbeugels, die geschikt zijn voor steile heilingen en omkeringen."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
+            "de-DE": "4 Fahrgäste pro Wagen",
             "nl-NL": "4 passagiers per karretje"
         }
     },
