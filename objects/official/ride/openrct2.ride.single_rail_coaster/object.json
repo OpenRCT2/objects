@@ -148,14 +148,17 @@
     "strings": {
         "name": {
             "en-GB": "Single Rail Roller Coaster Trains",
+            "de-DE": "Einschienenachterbahnzüge",
             "nl-NL": "Trein voor achtbaan met enkele rail"
         },
         "description": {
             "en-GB": "Roller coaster trains in which riders are seated single file",
+            "de-DE": "Achterbahnzüge, in denen die Fahrgäste in einer Einzelreihe sitzen",
             "nl-NL": "Achtbaantrein waarin de passagiers achter elkaar zitten, in eigen karretjes."
         },
         "capacity": {
             "en-GB": "1 passenger per car",
+            "de-DE": "1 Fahrgast pro Wagen",
             "nl-NL": "1 passagier per karretje"
         }
     },
