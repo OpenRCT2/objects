@@ -1,0 +1,35 @@
+{
+    "id": "openrct2.terrain_surface.grid_blue",
+    "authors": ["OpenRCT2 developers"],
+    "version": "1.0",
+    "originalId": "0000008B|#RCT2SIB|00000000",
+    "sourceGame": ["official"],
+    "objectType": "terrain_surface",
+    "properties": {
+        "colour": "light_blue",
+        "mapColours": [96, 10],
+        "price": 110
+    },
+    "images": 
+	[ 
+	{ "path": "images/icon.png", "format": "raw", "x": 2, "y": 2 },
+	"$G1[2257..2313]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Grid (Blue)",
+            "de-DE": "Gitter (Blue)",
+            "nl-NL": "Grid (Blue)",
+            "pt-BR": "Malha (Blue)",
+            "ja-JP": "グリッド (緑)",
+            "fr-FR": "Grille (Blue)",
+            "pl-PL": "Krata (Blue)",
+            "ko-KR": "격자 (녹색)",
+            "eo-ZZ": "Krado (Blue)",
+            "sv-SE": "Rutnät (Blue)",
+            "ca-ES": "Graella (Blue)",
+            "fi-FI": "Ruudukko (Blue)",
+            "zh-CN": "网格(绿)"
+        }
+    }
+}
