@@ -1,0 +1,209 @@
+{
+  "id": "openrct2.footpath_surface.queue_invisible",
+  "authors": ["73"],
+  "version": "1.0",
+  "sourceGame": ["official"],
+  "objectType": "footpath_surface",
+  "properties": 
+  {
+    "isQueue": true
+  },
+  "images": [
+        {
+            "path": "images.png",
+            "srcX": 0,
+            "srcY": 0,
+            "srcWidth": 45,
+            "srcHeight": 34,
+            "x": 1,
+            "y": 1
+        },
+        {
+            "path": "images.png",
+            "srcX": 45,
+            "srcY": 0,
+            "srcWidth": 48,
+            "srcHeight": 23,
+            "x": -24,
+            "y": 4
+        },
+        {
+            "path": "images.png",
+            "srcX": 93,
+            "srcY": 0,
+            "srcWidth": 52,
+            "srcHeight": 25,
+            "x": -24,
+            "y": 2
+        },
+        {
+            "path": "images.png",
+            "srcX": 145,
+            "srcY": 0,
+            "srcWidth": 52,
+            "srcHeight": 25,
+            "x": -24,
+            "y": 4
+        },
+        {
+            "path": "images.png",
+            "srcX": 197,
+            "srcY": 0,
+            "srcWidth": 52,
+            "srcHeight": 27,
+            "x": -24,
+            "y": 2
+        },
+        {
+            "path": "images.png",
+            "srcX": 249,
+            "srcY": 0,
+            "srcWidth": 52,
+            "srcHeight": 25,
+            "x": -28,
+            "y": 4
+        },
+        {
+            "path": "images.png",
+            "srcX": 301,
+            "srcY": 0,
+            "srcWidth": 56,
+            "srcHeight": 27,
+            "x": -28,
+            "y": 2
+        },
+        {
+            "path": "images.png",
+            "srcX": 357,
+            "srcY": 0,
+            "srcWidth": 56,
+            "srcHeight": 25,
+            "x": -28,
+            "y": 4
+        },
+        {
+            "path": "images.png",
+            "srcX": 413,
+            "srcY": 0,
+            "srcWidth": 1,
+            "srcHeight": 1,
+            "x": 31,
+            "y": 30
+        },
+        {
+            "path": "images.png",
+            "srcX": 414,
+            "srcY": 0,
+            "srcWidth": 52,
+            "srcHeight": 25,
+            "x": -28,
+            "y": 2
+        },
+        {
+            "path": "images.png",
+            "srcX": 466,
+            "srcY": 0,
+            "srcWidth": 56,
+            "srcHeight": 25,
+            "x": -28,
+            "y": 2
+        },
+        {
+            "path": "images.png",
+            "srcX": 522,
+            "srcY": 0,
+            "srcWidth": 56,
+            "srcHeight": 27,
+            "x": -28,
+            "y": 2
+        },
+        {
+            "path": "images.png",
+            "srcX": 578,
+            "srcY": 0,
+            "srcWidth": 1,
+            "srcHeight": 1,
+            "x": 31,
+            "y": 30
+        },
+        {
+            "path": "images.png",
+            "srcX": 579,
+            "srcY": 0,
+            "srcWidth": 52,
+            "srcHeight": 27,
+            "x": -28,
+            "y": 2
+        },
+        {
+            "path": "images.png",
+            "srcX": 631,
+            "srcY": 0,
+            "srcWidth": 1,
+            "srcHeight": 1,
+            "x": 31,
+            "y": 30
+        },
+        {
+            "path": "images.png",
+            "srcX": 632,
+            "srcY": 0,
+            "srcWidth": 1,
+            "srcHeight": 1,
+            "x": 31,
+            "y": 30
+        },
+        {
+            "path": "images.png",
+            "srcX": 633,
+            "srcY": 0,
+            "srcWidth": 1,
+            "srcHeight": 1,
+            "x": 31,
+            "y": 30
+        },
+        {
+            "path": "images.png",
+            "srcX": 634,
+            "srcY": 0,
+            "srcWidth": 55,
+            "srcHeight": 43,
+            "x": -28,
+            "y": -14
+        },
+        {
+            "path": "images.png",
+            "srcX": 689,
+            "srcY": 0,
+            "srcWidth": 56,
+            "srcHeight": 13,
+            "x": -26,
+            "y": 1
+        },
+        {
+            "path": "images.png",
+            "srcX": 745,
+            "srcY": 0,
+            "srcWidth": 56,
+            "srcHeight": 13,
+            "x": -30,
+            "y": 1
+        },
+        {
+            "path": "images.png",
+            "srcX": 801,
+            "srcY": 0,
+            "srcWidth": 55,
+            "srcHeight": 43,
+            "x": -27,
+            "y": -14
+        }
+    ],
+  "strings": {
+    "name": {
+      "en-GB": "Invisible Queue",
+      "de-DE": "Unsichtbare Warteschlange",
+      "nl-NL": "Onzichtbare wachtrij"
+    }
+  }
+}
