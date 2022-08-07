@@ -1,0 +1,29 @@
+{
+    "id": "official.terrain_surface.grid_blue",
+    "authors": ["73"],
+    "version": "1.0",
+    "sourceGame": ["official"],
+    "objectType": "terrain_surface",
+    "properties": 
+	{
+        "colour": "light_blue",
+        "mapColours": [138, 10],
+        "price": 110
+    },
+    "images": 
+	[   {
+            "path": "images/icon.png",
+            "format": "raw",
+            "x": 2,
+            "y": 2
+        },
+        "$G1[2257..2313]"
+    ],
+    "strings": 
+	{
+        "name": 
+		{
+            "en-GB": "Grid (Blue)"
+        }
+    }
+}
