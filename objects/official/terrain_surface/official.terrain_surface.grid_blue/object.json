@@ -10,10 +10,13 @@
         "mapColours": [138, 10],
         "price": 110
     },
-    "images": 
-	[ 
-	 { "path": "images/icon.png", "format": "raw", "x": 2, "y": 2 },
-	 "$G1[2257..2313]"
+    "images": [{
+            "path": "images/icon.png",
+            "format": "raw",
+            "x": 2,
+            "y": 2
+        },
+        "$G1[2257..2313]"
     ],
     "strings": {
         "name": {
