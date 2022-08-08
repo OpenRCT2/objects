@@ -14,12 +14,15 @@
             "rct2.scenery_small.tge5",
             "rct2.scenery_small.tgc1",
             "rct2.scenery_small.tgc2",
+            "rct2.scenery_wall.wgw2",
             "rct2.scenery_wall.wallgl8",
             "rct2.scenery_wall.wallgl16",
             "rct2.scenery_wall.wallgl32",
             "rct2.scenery_small.georoof1",
-            "rct2.scenery_wall.wgw2",
-            "rct2.scenery_small.georoof2"
+			"toontowner.scenery_small.ttrfgl01",
+			"toontowner.scenery_small.ttrfgl02",
+            "rct2.scenery_small.georoof2",
+			"toontowner.scenery_small.ttrfgl03"
         ],
         "priority": 20
     },
