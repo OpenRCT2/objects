@@ -149,17 +149,20 @@
         "name": {
             "en-GB": "Single Rail Roller Coaster Trains",
             "de-DE": "Einschienenachterbahnzüge",
-            "nl-NL": "Trein voor achtbaan met enkele rail"
+            "nl-NL": "Trein voor achtbaan met enkele rail",
+            "eo-ZZ": "Trajnoj de Onda Fervojo kun Unuopa Relo"
         },
         "description": {
             "en-GB": "Roller coaster trains in which riders are seated single file",
             "de-DE": "Achterbahnzüge, in denen die Fahrgäste in einer Einzelreihe sitzen",
-            "nl-NL": "Achtbaantrein waarin de passagiers achter elkaar zitten, in eigen karretjes."
+            "nl-NL": "Achtbaantrein waarin de passagiers achter elkaar zitten, in eigen karretjes.",
+            "eo-ZZ": "Trajnoj de onda fervojo, kiuj rajdantoj sidas anservice"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
             "de-DE": "1 Fahrgast pro Wagen",
-            "nl-NL": "1 passagier per karretje"
+            "nl-NL": "1 passagier per karretje",
+            "eo-ZZ": "Po 1 pasaĝero por ĉaro"
         }
     },
     "images": [
