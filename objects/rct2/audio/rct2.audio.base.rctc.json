@@ -1,0 +1,150 @@
+{
+    "id": "rct2.audio.base.rctc",
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "audio",
+    "samples": [
+        "$RCT2:DATA/CLIMB4.ogg",
+        "$RCT2:DATA/TRACKS1.ogg",
+        "$RCT2:DATA/TRACKS3.ogg",
+        "$RCT2:DATA/COASTER4.ogg",
+        "$RCT2:DATA/BCLICK2.ogg",
+        "$RCT2:DATA/BRELESE1.ogg",
+        "$RCT2:DATA/BUILDLAN.ogg",
+        "$RCT2:DATA/COASTER2.ogg",
+        "$RCT2:DATA/COASTER3.ogg",
+        "$RCT2:DATA/COASTER5.ogg",
+        "$RCT2:DATA/COASTER7.ogg",
+        "$RCT2:DATA/COASTER8.ogg",
+        "$RCT2:DATA/TRACKS2.ogg",
+        {
+            "source": "$RCT2:DATA/BUY1.ogg",
+            "modifier": -400
+        },
+        "$RCT2:DATA/EXPLOS1.ogg",
+        "$RCT2:DATA/SPLOSH1.ogg",
+        "$RCT2:DATA/BSPLASH2.ogg",
+        "$RCT2:DATA/SSPLASH1.ogg",
+        "$RCT2:DATA/STEAMWH6.ogg",
+        "$RCT2:DATA/train+steamwhistle.ogg",
+        {
+            "source": "$RCT2:DATA/coaster_splash1.ogg",
+            "modifier": -1000
+        },
+        "$RCT2:DATA/kart4.ogg",
+        {
+            "source": "$RCT2:DATA/Rocket_launch1.ogg",
+            "modifier": -800
+        },
+        {
+            "source": "$RCT2:DATA/Rocket_launch2.ogg",
+            "modifier": -1700
+        },
+        {
+            "source": "$RCT2:DATA/Vomit1.ogg",
+            "modifier": -700
+        },
+        {
+            "source": "$RCT2:DATA/Vomit2.ogg",
+            "modifier": -700
+        },
+        {
+            "source": "$RCT2:DATA/Vomit3.ogg",
+            "modifier": -700
+        },
+        {
+            "source": "$RCT2:DATA/Vomit4.ogg",
+            "modifier": -700
+        },
+        "$RCT2:DATA/Rain4_stereo.ogg",
+        "$RCT2:DATA/Thunder1.ogg",
+        "$RCT2:DATA/Thunder2.ogg",
+        "$RCT2:DATA/Train_tracks.ogg",
+        "$RCT2:DATA/Water_river.ogg",
+        "$RCT2:DATA/Balloonpop2.ogg",
+        {
+            "source": "$RCT2:DATA/Metal_Hammer3.ogg",
+            "modifier": -700
+        },
+        "$RCT2:DATA/Screams1.ogg",
+        {
+            "source": "$RCT2:DATA/toilet3.ogg",
+            "modifier": -2500
+        },
+        "$RCT2:DATA/BCLICK3.ogg",
+        "$RCT2:DATA/duck2.ogg",
+        "$RCT2:DATA/warning1.ogg",
+        "$RCT2:DATA/window1.ogg",
+        {
+            "source": "$RCT2:DATA/Laugh6.ogg",
+            "modifier": -900
+        },
+        {
+            "source": "$RCT2:DATA/Laugh8.ogg",
+            "modifier": -900
+        },
+        {
+            "source": "$RCT2:DATA/Laugh17.ogg",
+            "modifier": -900
+        },
+        "$RCT2:DATA/Applause.ogg",
+        {
+            "source": "$RCT2:DATA/Horror_effect3.ogg",
+            "modifier": -600
+        },
+        {
+            "source": "$RCT2:DATA/Scream_3.ogg",
+            "modifier": -700
+        },
+        {
+            "source": "$RCT2:DATA/Scream_2.ogg",
+            "modifier": -700
+        },
+        {
+            "source": "$RCT2:DATA/airbrakes4.ogg",
+            "modifier": -2550
+        },
+        {
+            "source": "$RCT2:DATA/airbrakes3.ogg",
+            "modifier": -2900
+        },
+        "$RCT2:DATA/error_1.ogg",
+        {
+            "source": "$RCT2:DATA/airbrakes2a.ogg",
+            "modifier": -3400
+        },
+        "$RCT2:DATA/Dragon_Fyre_lift_hill_(Arrow_steel).ogg",
+        "$RCT2:DATA/Comet_lift_hill_(woodie)_2.ogg",
+        "$RCT2:DATA/Zachs_Zoomer_running_(woodie)_2.ogg",
+        "$RCT2:DATA/Arrow_wild_mouse_lift_hill_2.ogg",
+        "$RCT2:DATA/Raging_Bull_lift_hill_(B&M_steel)_2.ogg",
+        "$RCT2:DATA/Chang_running_roar_2.ogg",
+        "$RCT2:DATA/Scream_1a.ogg",
+        "$RCT2:DATA/bell5_streetcar_double_2.ogg",
+        {
+            "source": "$RCT2:DATA/doorcreak6.ogg",
+            "modifier": -2000
+        },
+        {
+            "source": "$RCT2:DATA/doorcreak6r.ogg",
+            "modifier": -2700
+        },
+        {
+            "source": "$RCT2:DATA/portcullis1.ogg",
+            "modifier": -700
+        },
+        "$RCT2:DATA/css2.ogg"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Base audio for the game.",
+            "de-DE": "Basisaudio für das Spiel."
+        }
+    }
+}
