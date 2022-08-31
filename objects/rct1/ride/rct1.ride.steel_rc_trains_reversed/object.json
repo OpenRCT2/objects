@@ -3090,13 +3090,32 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Roller Coaster Train (Reversed Seats)"
+            "en-GB": "Roller Coaster Trains (Reversed Seats)",
+            "nl-NL": "Achtbaantrein (achteruit)"
         },
         "description": {
-            "en-GB": "Roller coaster train with a streamlined front car."
+            "en-GB": "Roller coaster train with a streamlined front car.",
+            "nl-NL": "Achtbaantrein waarvan het voorste karretje gestroomlijnd is."
         },
         "capacity": {
-            "en-GB": "4 riders per car"
+            "en-GB": "4 riders per car",
+            "fr-FR": "4 passagers par voiture",
+            "de-DE": "4 Fahrgäste pro Wagen",
+            "es-ES": "4 pasajeros por vagón",
+            "it-IT": "4 passeggeri a carrozza",
+            "nl-NL": "4 passagiers per karretje",
+            "sv-SE": "4 passagerare per vagn",
+            "ko-KR": "차량당 4명의 승객",
+            "zh-CN": "4位乘客/车",
+            "zh-TW": "4 位乘客/每個車廂",
+            "pt-BR": "4 passageiros por carro",
+            "cs-CZ": "4 místa v každém voze",
+            "ja-JP": "各車両4名",
+            "pl-PL": "4 pasażerów na wagonik",
+            "ru-RU": "4 пасс на вагон",
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

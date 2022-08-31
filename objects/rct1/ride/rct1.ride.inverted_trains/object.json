@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "00000000|#RCT1GIO|00000000",
-    "sourceGame": ["rct1", "rct1ll"],
+    "sourceGame": ["rct1"],
     "objectType": "ride",
     "properties": {
         "type": ["compact_inverted_rc", "inverted_rc"],
@@ -62,7 +62,7 @@
             "hasScreamingRiders": true,
             "loadingPositions": [1, 3]
         },
-        "buildMenuPriority": 2
+        "buildMenuPriority": 1
     },
     "images": [
         { "path": "images/preview1.png", "format": "raw" },
@@ -660,10 +660,12 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Inverted Coaster Trains"
+            "en-GB": "Inverted Coaster Trains",
+            "nl-NL": "Trein voor omgekeerde achtbaan"
         },
         "description": {
-            "en-GB": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above."
+            "en-GB": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
+            "nl-NL": "Achtbaantrein met stoeljes die aan een steunconstructie zijn bevestigd die op de baan erboven rijdt."
         },
         "capacity": {
             "en-GB": "2 passengers per car",
