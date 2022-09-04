@@ -12,8 +12,8 @@
         "maxCarsPerTrain": 7,
         "ratingMultipler": {
             "excitement": 2,
-            "intensity": 10,
-            "nausea": 15
+            "intensity": 12,
+            "nausea": 22
         },
         "carColours": [
             [
@@ -1427,7 +1427,7 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Classic Wooden Coaster Trains (Reversed Seats)"
+            "en-GB": "Wooden Roller Coaster Trains (Reversed)"
         },
         "description": {
             "en-GB": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards."
