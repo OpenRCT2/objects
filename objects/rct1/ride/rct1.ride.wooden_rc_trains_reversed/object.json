@@ -1427,10 +1427,12 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Wooden Roller Coaster Trains (Reversed)"
+            "en-GB": "Wooden Roller Coaster Trains (Reversed)",
+            "nl-NL:": "Trein voor houten achtbaan (achteruit)"
         },
         "description": {
-            "en-GB": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards."
+            "en-GB": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards.",
+            "nl-NL": "Houten achtbaantreinen die achterstevoren staan, zodat de passagiers achteruit rijden."
         },
         "capacity": {
             "en-GB": "4 passengers per car",

@@ -816,10 +816,12 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Wooden Roller Coaster Trains"
+            "en-GB": "Wooden Roller Coaster Trains",
+            "nl-NL": "Trein voor houten achtbaan"
         },
         "description": {
-            "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints"
+            "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints",
+            "nl-NL": "Houten achtbaantreinen met gevoerde zittingen en heupbeugels."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
