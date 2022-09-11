@@ -1,0 +1,19 @@
+{
+    "id": "rctc.ui.ridewindowlights",
+    "authors": [
+        "Atari",
+        "73"
+    ],
+    "version": "1.0",
+    "originalId": "RCTCWNLT",
+    "sourceGame": "official",
+    "objectType": "ui",
+    "images": [
+        "red.png" "yellow.png" "green.png" "trans.png" "white.png"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "RCTC Ride Lights",
+        }
+    }
+}
