@@ -72,7 +72,13 @@
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/UTCARR.DAT[0..2594]"],
+    "images": [
+        "$RCT2:OBJDATA/UTCAR.DAT[0]",
+        "",
+        "",
+        "$RCT2:OBJDATA/UTCAR.DAT[1299..2594]",
+        "$RCT2:OBJDATA/UTCAR.DAT[3..1298]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Twister Cars (starting reversed)",
