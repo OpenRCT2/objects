@@ -1,6 +1,6 @@
 {
     "id": "openrct2.ride.hybrid_coaster",
-    "version": "2.0",
+    "version": "2.1",
     "originalId": "00000000|#HYBRIDC|00000000",
     "authors": [
         "Edward Calver"
@@ -49,7 +49,7 @@
                 "mass": 510,
                 "numSeats": 4,
                 "numSeatRows": 2,
-                "frictionSoundId": 57,
+                "frictionSoundId": 65,
                 "soundRange": 2,
                 "drawOrder": 7,
                 "spriteGroups": {
