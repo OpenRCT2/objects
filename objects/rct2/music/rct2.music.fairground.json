@@ -1,7 +1,7 @@
 {
     "id": "rct2.music.fairground",
     "authors": ["C. John Mears"],
-    "version": "1.0",
+    "version": "1.1",
     "originalId": "0000008E|#MUSIC01|00000000",
     "sourceGame": ["rct2", "rct1"],
     "objectType": "music",
@@ -76,6 +76,11 @@
             }
         ]
     },
+    "images": [
+        {
+            "path": "images/voigt.png"
+        }
+    ],
     "strings": {
         "name": {
             "en-GB": "Fairground organ style",

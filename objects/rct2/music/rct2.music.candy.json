@@ -1,7 +1,7 @@
 {
     "id": "rct2.music.candy",
     "authors": ["Chris Sawyer", "Allister Brimble"],
-    "version": "1.0",
+    "version": "1.1",
     "originalId": "0000008E|#MUSIC32|00000000",
     "sourceGame": ["rct2"],
     "objectType": "music",
@@ -10,10 +10,15 @@
         "tracks": [
             {
                 "source": "$RCT2:DATA/css46.dat",
-                "name": "Sweat Dreams"
+                "name": "Sweet Dreams"
             }
         ]
     },
+    "images": [
+        {
+            "path": "images/RCT2.png"
+        }
+    ],
     "strings": {
         "name": {
             "en-GB": "Candy style",
