@@ -1,5 +1,6 @@
 {
     "id": "openrct2.ride.alp1",
+    "originalId": "00000000|#ALPINEC|00000000",
     "version": "1.0",
     "authors": [
         "Edward Calver"
@@ -10,7 +11,7 @@
         "type": [
             "alpine_rc"
         ],
-        "category": "transport",
+        "category": "rollercoaster",
         "minCarsPerTrain": 1,
         "maxCarsPerTrain": 1,
         "numEmptyCars": 0,
