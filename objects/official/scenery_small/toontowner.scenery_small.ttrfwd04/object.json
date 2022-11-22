@@ -1,0 +1,74 @@
+{
+    "id": "toontowner.scenery_small.ttrfwd04",
+    "authors": ["Simon Foster", "ToonTowner"],
+    "version": "1.0",
+    "originalId": "09F55801|TTRFWD04|E2C78CD5",
+    "sourceGame": "official",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 16,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": [
+        {
+            "path": "images.png",
+            "srcX": 0,
+            "srcY": 0,
+            "srcWidth": 64,
+            "srcHeight": 47,
+            "x": -32,
+            "y": -17
+        },
+        {
+            "path": "images.png",
+            "srcX": 64,
+            "srcY": 0,
+            "srcWidth": 64,
+            "srcHeight": 35,
+            "x": -32,
+            "y": -5
+        },
+        {
+            "path": "images.png",
+            "srcX": 128,
+            "srcY": 0,
+            "srcWidth": 64,
+            "srcHeight": 35,
+            "x": -32,
+            "y": -5
+        },
+        {
+            "path": "images.png",
+            "srcX": 192,
+            "srcY": 0,
+            "srcWidth": 64,
+            "srcHeight": 47,
+            "x": -32,
+            "y": -17
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Roof",
+            "fr-FR": "Toit",
+            "de-DE": "Dach",
+            "es-ES": "Tejado",
+            "it-IT": "Tetto",
+            "nl-NL": "Dak",
+            "sv-SE": "Tak",
+            "ko-KR": "지붕",
+            "zh-CN": "郴",
+            "zh-TW": "屋頂",
+            "pt-BR": "Teto"
+        }
+    }
+}

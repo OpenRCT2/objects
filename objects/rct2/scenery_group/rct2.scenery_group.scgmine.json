@@ -27,7 +27,15 @@
             "rct2.scenery_small.wdbase",
             "rct2.scenery_small.minroof1",
             "rct2.scenery_small.roof13",
-            "rct2.footpath_item.littermn"
+            "rct2.footpath_item.littermn",
+            "toontowner.scenery_small.ttrfwd01",
+            "toontowner.scenery_small.ttrfwd02",
+            "toontowner.scenery_small.ttrfwd03",
+            "toontowner.scenery_small.ttrfwd04",
+            "toontowner.scenery_small.ttrfwd05",
+            "toontowner.scenery_small.ttrfwd06",
+            "toontowner.scenery_small.ttrfwd07",
+            "toontowner.scenery_small.ttrfwd08"
         ],
         "priority": 28
     },
@@ -42,16 +50,14 @@
             "nl-NL": "Mijnthema",
             "sv-SE": "Gruv-tema",
             "ko-KR": "광산 테마",
-            "zh-CN": "小人国主题",
+            "zh-CN": "小人国",
             "zh-TW": "小人國",
             "pt-BR": "Temática de Mina",
             "cs-CZ": "Důlní kulisy",
             "ja-JP": "鉱山風のテーマ",
             "pl-PL": "Wystrój górniczy",
             "ru-RU": "Рудник",
-            "eo-ZZ": "Mintemo",
-            "ca-ES": "Temàtica minera",
-            "fi-FI": "Kaivosteemaus"
+            "eo-ZZ": "Mintemo"
         }
     }
 }
