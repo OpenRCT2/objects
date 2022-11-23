@@ -10,9 +10,10 @@
         "removalPrice": -15,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 8,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
-        "isRotatable": true,
+        "requiresFlatSurface": true,
         "isStackable": true,
         "prohibitWalls": true,
         "hasNoSupports": true
