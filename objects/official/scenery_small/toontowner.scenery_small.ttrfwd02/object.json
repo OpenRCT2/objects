@@ -58,18 +58,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": " Wooden Roof",
-            "en-US": "Roof",
+            "en-GB": "Roof",
             "fr-FR": "Toit",
             "de-DE": "Dach",
             "es-ES": "Tejado",
             "it-IT": "Tetto",
             "nl-NL": "Dak",
             "sv-SE": "Tak",
-            "ko-KR": "지붕",
-            "zh-CN": "郴",
+            "ko-KR": "천장",
+            "zh-CN": "屋顶",
             "zh-TW": "屋頂",
-            "pt-BR": "Teto"
+            "pt-BR": "Teto",
+            "cs-CZ": "Střecha",
+            "ja-JP": "屋根",
+            "pl-PL": "Dach",
+            "ru-RU": "Блок",
+            "eo-ZZ": "Tegmento",
+            "ca-ES": "Teulada",
+            "fi-FI": "Katto"
         }
     }
 }
