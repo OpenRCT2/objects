@@ -31,26 +31,26 @@
                 "soundRange": 2,
                 "drawOrder": 7,
                 "numVerticalFramesOverride": 8,
-                "spriteGroups":{
-                    "slopeFlat":32,
-                    "slopes12":4,
-                    "slopes25":8,
-                    "slopes42":8,
-                    "slopes60":4,
-                    "slopes75":4,
-                    "slopes90":4,
-                    "slopesLoop":4,
-                    "slopeInverted":4,
-                    "slopes8":4,
-                    "slopes16":4,
-                    "slopes50":4,
-                    "flatBanked22":8,
-                    "flatBanked45":32,
-                    "flatBanked67":4,
-                    "flatBanked90":4,
-                    "inlineTwists":4,
-                    "slopes12Banked22":4,
-                    "slopes8Banked22":4
+                "spriteGroups": {
+                    "slopeFlat": 32,
+                    "slopes12": 4,
+                    "slopes25": 8,
+                    "slopes42": 8,
+                    "slopes60": 4,
+                    "slopes75": 4,
+                    "slopes90": 4,
+                    "slopesLoop": 4,
+                    "slopeInverted": 4,
+                    "slopes8": 4,
+                    "slopes16": 4,
+                    "slopes50": 4,
+                    "flatBanked22": 8,
+                    "flatBanked45": 32,
+                    "flatBanked67": 4,
+                    "flatBanked90": 4,
+                    "inlineTwists": 4,
+                    "slopes12Banked22": 4,
+                    "slopes8Banked22": 4
                 },
                 "hasInvertedSpriteSet": true,
                 "hasAdditionalColour2": true,
@@ -72,26 +72,26 @@
                 "soundRange": 2,
                 "drawOrder": 2,
                 "numVerticalFramesOverride": 8,
-                "spriteGroups":{
-                    "slopeFlat":32,
-                    "slopes12":4,
-                    "slopes25":8,
-                    "slopes42":8,
-                    "slopes60":4,
-                    "slopes75":4,
-                    "slopes90":4,
-                    "slopesLoop":4,
-                    "slopeInverted":4,
-                    "slopes8":4,
-                    "slopes16":4,
-                    "slopes50":4,
-                    "flatBanked22":8,
-                    "flatBanked45":32,
-                    "flatBanked67":4,
-                    "flatBanked90":4,
-                    "inlineTwists":4,
-                    "slopes12Banked22":4,
-                    "slopes8Banked22":4
+                "spriteGroups": {
+                    "slopeFlat": 32,
+                    "slopes12": 4,
+                    "slopes25": 8,
+                    "slopes42": 8,
+                    "slopes60": 4,
+                    "slopes75": 4,
+                    "slopes90": 4,
+                    "slopesLoop": 4,
+                    "slopeInverted": 4,
+                    "slopes8": 4,
+                    "slopes16": 4,
+                    "slopes50": 4,
+                    "flatBanked22": 8,
+                    "flatBanked45": 32,
+                    "flatBanked67": 4,
+                    "flatBanked90": 4,
+                    "inlineTwists": 4,
+                    "slopes12Banked22": 4,
+                    "slopes8Banked22": 4
                 },
                 "hasInvertedSpriteSet": true,
                 "hasAdditionalColour2": true,
@@ -108,7 +108,7 @@
         "$RCT2:OBJDATA/ARRX.DAT[0]",
         "",
         "",
-           "$RCT2:OBJDATA/ARRX.DAT[3..322]",
+        "$RCT2:OBJDATA/ARRX.DAT[3..322]",
 
         "$RCT2:OBJDATA/ARRX.DAT[323..330]",
         "$RCT2:OBJDATA/ARRX.DAT[355..362]",
@@ -170,7 +170,7 @@
 
         "$RCT2:OBJDATA/ARRX.DAT[4579..4706]",
 
-           "$RCT2:OBJDATA/ARRX.DAT[4707..5026]",
+        "$RCT2:OBJDATA/ARRX.DAT[4707..5026]",
 
         "$RCT2:OBJDATA/ARRX.DAT[5027..5034]",
         "$RCT2:OBJDATA/ARRX.DAT[5059..5066]",
@@ -232,7 +232,7 @@
 
         "$RCT2:OBJDATA/ARRX.DAT[9283..9410]",
 
-           "$RCT2:OBJDATA/ARRX.DAT[9411..9730]",
+        "$RCT2:OBJDATA/ARRX.DAT[9411..9730]",
 
         "$RCT2:OBJDATA/ARRX.DAT[9731..9738]",
         "$RCT2:OBJDATA/ARRX.DAT[9763..9770]",
@@ -294,7 +294,7 @@
 
         "$RCT2:OBJDATA/ARRX.DAT[13987..14114]",
 
-           "$RCT2:OBJDATA/ARRX.DAT[14115..14434]",
+        "$RCT2:OBJDATA/ARRX.DAT[14115..14434]",
 
         "$RCT2:OBJDATA/ARRX.DAT[14435..14442]",
         "$RCT2:OBJDATA/ARRX.DAT[14467..14474]",
@@ -356,7 +356,7 @@
 
         "$RCT2:OBJDATA/ARRX.DAT[18691..18818]",
 
-           "$RCT2:OBJDATA/ARRX.DAT[18819..19138]",
+        "$RCT2:OBJDATA/ARRX.DAT[18819..19138]",
 
         "$RCT2:OBJDATA/ARRX.DAT[19139..19146]",
         "$RCT2:OBJDATA/ARRX.DAT[19171..19178]",
@@ -418,7 +418,7 @@
 
         "$RCT2:OBJDATA/ARRX.DAT[23395..23522]",
 
-           "$RCT2:OBJDATA/ARRX.DAT[23523..23842]",
+        "$RCT2:OBJDATA/ARRX.DAT[23523..23842]",
 
         "$RCT2:OBJDATA/ARRX.DAT[23843..23850]",
         "$RCT2:OBJDATA/ARRX.DAT[23875..23882]",
