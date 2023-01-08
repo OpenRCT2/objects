@@ -10,6 +10,10 @@
         "category": "rollercoaster",
         "minCarsPerTrain": 1,
         "maxCarsPerTrain": 3,
+        "ratingMultipler": {
+            "excitement": 2,
+            "intensity": -2
+        },
         "carColours": [
             [
                 ["grey", "bright_red", "black"]
