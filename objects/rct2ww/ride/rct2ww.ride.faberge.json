@@ -408,17 +408,19 @@
             "ja-JP": "ファベルジェの卵",
             "cs-CZ": "Jízda Fabergého vejce",
             "ko-KR": "파베르의 달걀 라이드",
-            "pl-PL": "Przejażdżka jajkami Faberge'a",
+            "pl-PL": "Przejażdżka jajkami Faberge’a",
             "ru-RU": "Фаберже",
             "pt-BR": "Ovo Fabergé",
-            "eo-ZZ": "Atrakcio de Ovo de Fabergé"
+            "eo-ZZ": "Atrakcio de Ovo de Fabergé",
+            "ca-ES": "Atracció d’ous de Fabergé",
+            "fi-FI": "Fabergén pääsiäismunalaite"
         },
         "description": {
             "en-GB": "Riders ride in pairs of themed seats rotating around a large Fabergé egg replica",
-            "fr-FR": "Les passagers sont assis par deux et tournent autour de l'extrémité de trois longs bras rotatifs",
+            "fr-FR": "Les passagers sont assis par deux et tournent autour de l’extrémité de trois longs bras rotatifs",
             "de-DE": "Die Fahrgäste fahren paarweise in Sitzen, die um ein großes Fabergé-Ei-Replikat rotieren",
             "es-ES": "Los pasajeros viajan en parejas de asientos que rotan alrededor de los extremos de tres largos brazos giratorios",
-            "it-IT": "I passeggeri trovano posto, a coppie, su seggiolini che ruotano all'estremità di tre lunghi bracci rotanti",
+            "it-IT": "I passeggeri trovano posto, a coppie, su seggiolini che ruotano all’estremità di tre lunghi bracci rotanti",
             "nl-NL": "Passagiers zitten per twee in stoelen die ronddraaien aan de uiteinden van drie lange draaiarmen.",
             "sv-SE": "Passagerarna åker parvis i säten som roterar kring ett enormt Fabergé-ägg",
             "zh-CN": "乘客搭乘以末端三支长型旋转臂旋转的成对座位设施",
@@ -428,7 +430,9 @@
             "pl-PL": "Pasażerowie jadą w parach siedzisk wirujących na końcach trzech obracających się ramion",
             "ru-RU": "Людей катают попарно с вращением",
             "pt-BR": "Os passageiros sentam-se aos pares e giram em torno das extremidades de três longos braços rotativos",
-            "eo-ZZ": "Rajdantoj rajdas en paroj da temitaj seĝoj, kiuj turniĝas ĉirkaŭ granda replikaĵo de ovo de Fabergé"
+            "eo-ZZ": "Rajdantoj rajdas en paroj da temitaj seĝoj, kiuj turniĝas ĉirkaŭ granda replikaĵo de ovo de Fabergé",
+            "ca-ES": "Els passatges s’asseuen per parelles en seients tematitzats que giren al voltant d’una rèplica d’ou de Fabergé gros.",
+            "fi-FI": "Kävijät istuvat pareittain teematuissa istuimissa, jotka pyörivät jättimäisen Fabergén pääsiäismunajäljennöksen ympärillä"
         },
         "capacity": {
             "en-GB": "18 passengers",
@@ -438,14 +442,16 @@
             "it-IT": "18 passeggeri",
             "nl-NL": "18 passagiers",
             "sv-SE": "18 passagerare",
-            "zh-CN": "限乘18人",
+            "zh-CN": "18位乘客",
             "ja-JP": "定員18名",
             "cs-CZ": "18 návštěvníků",
             "ko-KR": "승객 18명",
             "pl-PL": "18 pasażerów",
             "ru-RU": "18 пассажиров",
             "pt-BR": "18 passageiros",
-            "eo-ZZ": "18 pasaĝeroj"
+            "eo-ZZ": "18 pasaĝeroj",
+            "ca-ES": "18 passatgers",
+            "fi-FI": "18 matkustajaa"
         }
     }
 }

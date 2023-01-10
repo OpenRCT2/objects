@@ -51,7 +51,9 @@
             "nb-NO": "Informasjonskiosk",
             "pl-PL": "Kiosk informacyjny",
             "ru-RU": "Справка",
-            "eo-ZZ": "Informokiosko"
+            "eo-ZZ": "Informokiosko",
+            "ca-ES": "Quiosc d’informació",
+            "fi-FI": "Infokioski"
         },
         "description": {
             "en-GB": "A stall where guests can obtain park maps and purchase umbrellas",
@@ -62,14 +64,16 @@
             "nl-NL": "Een kiosk waar bezoekers kaarten van het park en paraplu’s kunnen kopen.",
             "sv-SE": "Ett stånd där besökarna kan hitta kartor över parken och köpa paraplyer",
             "ko-KR": "손님들이 공원 지도를 얻거나 우산을 살 수 있는 상점",
-            "zh-CN": "一处游客可以取得游乐园地图及卖到雨伞的地方",
+            "zh-CN": "一处乘客可以取得游乐园地图及卖到雨伞的地方",
             "zh-TW": "一處遊客可以取得遊樂園地圖及買到雨傘的地方",
             "pt-BR": "Uma barraca onde os visitantes podem obter mapas do parque e comprar guarda-chuvas",
             "cs-CZ": "Stínek s informacemi o parku, prodávající mapy a deštníky",
             "ja-JP": "園内の案内図や傘を売る売店です",
             "pl-PL": "Tutaj goście mogą otrzymać mapy parku i zakupić parasole",
             "ru-RU": "Киоск, где гости берут карты и зонтики.",
-            "eo-ZZ": "Budo, kie gastoj povas akiri parkmapojn kaj aĉeti ombrelojn"
+            "eo-ZZ": "Budo, kie gastoj povas akiri parkmapojn kaj aĉeti ombrelojn",
+            "ca-ES": "Un estand on els visitants poden aconseguir mapes del parc i comprar paraigües.",
+            "fi-FI": "Koju josta kävijät voivat ostaa karttoja ja sateenvarjoja"
         }
     }
 }

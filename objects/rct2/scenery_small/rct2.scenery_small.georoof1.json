@@ -8,7 +8,7 @@
     "properties": {
         "price": 20,
         "removalPrice": -15,
-        "cursor": "CURSOR_STATUE_DOWN",
+        "cursor": "CURSOR_HOUSE_DOWN",
         "height": 8,
         "sceneryGroup": "rct2.scenery_group.scgwalls",
         "shape": "4/4",
@@ -40,7 +40,9 @@
             "ja-JP": "ガラスの屋根",
             "pl-PL": "Szklany dach",
             "ru-RU": "Крыша",
-            "eo-ZZ": "Vitra Tegmento"
+            "eo-ZZ": "Vitra Tegmento",
+            "ca-ES": "Teulada de vidre",
+            "fi-FI": "Lasikatto"
         }
     }
 }

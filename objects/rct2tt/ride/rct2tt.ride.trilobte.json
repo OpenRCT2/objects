@@ -83,14 +83,17 @@
             "cs-CZ": "Trilobití lodě",
             "pl-PL": "Trylobitowe łódki",
             "ru-RU": "Трилобиты",
-            "eo-ZZ": "Trilobita-Boatoj"
+            "eo-ZZ": "Trilobita-Boatoj",
+            "ca-ES": "Bots trilobita",
+            "fi-FI": "Trilobiittiveneet",
+            "zh-CN": "三叶虫船"
         },
         "description": {
             "en-GB": "Trilobite-shaped roller coaster cars",
-            "fr-FR": "Les voitures en forme de trilobites dévalent une voie en zigzag qui descend à toute vitesse dans l'eau, éclaboussant allègrement les passagers avant de traverser des passages en eau calme",
+            "fr-FR": "Les voitures en forme de trilobites dévalent une voie en zigzag qui descend à toute vitesse dans l’eau, éclaboussant allègrement les passagers avant de traverser des passages en eau calme",
             "de-DE": "Achterbahnwagen in der Form von Trilobiten",
             "es-ES": "Los vagones con forma de trilobite se desplazan por una montaña rusa de giros cerrados y pronunciadas caídas, pasando por zonas de agua de un río tranquilo.",
-            "it-IT": "Carrozze a forma di trilobite viaggiano lungo l'ottovolante, caratterizzato da ripide discese, curve avvitate e tuffi in sezioni acquatiche più tranquille.",
+            "it-IT": "Carrozze a forma di trilobite viaggiano lungo l’ottovolante, caratterizzato da ripide discese, curve avvitate e tuffi in sezioni acquatiche più tranquille.",
             "nl-NL": "Bootvormige karretjes in de vorm van trilobiet rijden over achtbaanrails, waardoor ze hellende bochten en diepe afdalingen kunnen maken, waarna ze in bakken water neerplonzen en rustig een stukje kunnen varen.",
             "sv-SE": "Trilobitformade berg- och dalbanebåtar",
             "ko-KR": "삼엽충 모양의 차량이 꼬인 커브와 낙하로 구성된 롤러코스터 트랙을 따라 내려온 뒤 물보라를 일으키며 부드럽게 강 섹션으로 내려오는 놀이기구",
@@ -100,7 +103,10 @@
             "cs-CZ": "Vozy ve tvaru trilobitů jedou po trati horské dráhy, což umožňuje ostré zatáčky, strmé klesání a cákající zpomalení pro mírnější říční úseky",
             "pl-PL": "Wagoniki w kształcie trylobitów jadą po torze, pokonując ostre zakręty i strome zjazdy, i wpadając od czasu do czasu w odcinki rzeczne",
             "ru-RU": "Лодки в форме трилобитов несутся по головокружительному треку с падениями в воду.",
-            "eo-ZZ": "Trilobitformaj ĉaroj de onda fervojo"
+            "eo-ZZ": "Trilobitformaj ĉaroj de onda fervojo",
+            "ca-ES": "Cotxes de muntanya russa en forma de trilobita.",
+            "fi-FI": "Trilobiitin muotoiset vuoristoratavaunut",
+            "zh-CN": "三叶虫形状的过山车车厢"
         },
         "capacity": {
             "en-GB": "6 passengers per boat",
@@ -117,7 +123,10 @@
             "cs-CZ": "6 míst v každé lodi",
             "pl-PL": "6 pasażerów na łódkę",
             "ru-RU": "6 чел в лодке",
-            "eo-ZZ": "Po 6 pasaĝeroj por boato"
+            "eo-ZZ": "Po 6 pasaĝeroj por boato",
+            "ca-ES": "6 passatgers per bot",
+            "fi-FI": "6 matkustajaa per vene",
+            "zh-CN": "6位乘客/船"
         }
     }
 }

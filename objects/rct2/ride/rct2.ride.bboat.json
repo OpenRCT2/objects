@@ -64,7 +64,9 @@
             "ja-JP": "バンパー・ボート",
             "pl-PL": "Gumołódki",
             "ru-RU": "Лодочки",
-            "eo-ZZ": "Doĝemo-Boatoj"
+            "eo-ZZ": "Doĝemo-Boatoj",
+            "ca-ES": "Bots inflables",
+            "fi-FI": "Kumiveneet"
         },
         "description": {
             "en-GB": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
@@ -82,7 +84,9 @@
             "ja-JP": "丸い小型ボートで、乗客が操作する中央部のモーターで動きます",
             "pl-PL": "Małe okrągłe pontony napędzane silnikiem zamontowanym centralnie i sterowanym przez pasażerów",
             "ru-RU": "Маленькие круглые лодочки с моторами управляются пассажирами.",
-            "eo-ZZ": "Malgrandaj rondaj boatetoj ŝaltitaj per centra motoro, kiun la pasaĝeroj funkciigas"
+            "eo-ZZ": "Malgrandaj rondaj boatetoj ŝaltitaj per centra motoro, kiun la pasaĝeroj funkciigas",
+            "ca-ES": "Bots inflables petits propulsats per un motor central controlat pels passatgers.",
+            "fi-FI": "Pienet pyöreät veneet, joita kuljettaa matkustajien ohjaama moottori"
         },
         "capacity": {
             "en-GB": "2 passengers per boat",
@@ -93,14 +97,16 @@
             "nl-NL": "2 passagiers per boot",
             "sv-SE": "2 passagerare per båt",
             "ko-KR": "보트당 2명의 승객",
-            "zh-CN": "2 位乘客/每艘船",
+            "zh-CN": "2位乘客/船",
             "zh-TW": "2 位乘客/每艘船",
             "pt-BR": "2 passageiros por barco",
             "cs-CZ": "2 místa v každé lodi",
             "ja-JP": "各ボート2名",
             "pl-PL": "2 pasażerów na łódkę",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por boato"
+            "eo-ZZ": "Po 2 pasaĝeroj por boato",
+            "ca-ES": "2 passatgers per barca",
+            "fi-FI": "2 matkustajaa per vene"
         }
     }
 }

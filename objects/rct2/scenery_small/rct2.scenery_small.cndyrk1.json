@@ -21,7 +21,7 @@
     "strings": {
         "name": {
             "en-GB": "Candy Stick",
-            "fr-FR": "Sucre d'orge",
+            "fr-FR": "Sucre d’orge",
             "de-DE": "Zuckerstange",
             "es-ES": "Palo de caramelo",
             "it-IT": "Stecca di zucchero",
@@ -35,7 +35,9 @@
             "ja-JP": "キャンディースティック",
             "pl-PL": "Batonik",
             "ru-RU": "Конфета",
-            "eo-ZZ": "Dolĉaĵobatilo"
+            "eo-ZZ": "Dolĉaĵobatilo",
+            "ca-ES": "Pal de caramel",
+            "fi-FI": "Karkkikeppi"
         }
     }
 }

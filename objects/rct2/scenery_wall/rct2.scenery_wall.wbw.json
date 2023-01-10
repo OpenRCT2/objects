@@ -15,10 +15,10 @@
     "strings": {
         "name": {
             "en-GB": "Bone Fence",
-            "fr-FR": "Clôture d'ossements",
+            "fr-FR": "Clôture d’ossements",
             "de-DE": "Knochenzaun",
             "es-ES": "Valla de huesos",
-            "it-IT": "Recinto d'ossa",
+            "it-IT": "Recinto d’ossa",
             "nl-NL": "Hek van botten",
             "sv-SE": "Benstaket",
             "ko-KR": "뼈 울타리",
@@ -29,7 +29,9 @@
             "ja-JP": "骨のフェンス",
             "pl-PL": "Płot kościany",
             "ru-RU": "Забор",
-            "eo-ZZ": "Barilo de Ostoj"
+            "eo-ZZ": "Barilo de Ostoj",
+            "ca-ES": "Tanca d’ossos",
+            "fi-FI": "Luuaita"
         }
     }
 }

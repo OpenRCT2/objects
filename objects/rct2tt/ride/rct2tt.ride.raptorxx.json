@@ -57,11 +57,14 @@
             "cs-CZ": "Raptorská horská dráha",
             "pl-PL": "Wyścigi raptorów",
             "ru-RU": "Раптор Рейсерс",
-            "eo-ZZ": "Vetkurantaj Raptoroj"
+            "eo-ZZ": "Vetkurantaj Raptoroj",
+            "ca-ES": "Carreres de velociraptors",
+            "fi-FI": "Kilparaptorit",
+            "zh-CN": "猛龙赛车"
         },
         "description": {
             "en-GB": "Separate raptor-shaped vehicles",
-            "fr-FR": "Les passagers voyagent à l'arrière de véhicules en forme de raptor sur une voie monorail",
+            "fr-FR": "Les passagers voyagent à l’arrière de véhicules en forme de raptor sur une voie monorail",
             "de-DE": "Raptorförmige Einzelwagen",
             "es-ES": "Los usuarios se sientan en vehículos con forma de velocirraptor, en un circuito monorraíl.",
             "it-IT": "I passeggeri attraversano un tracciato monorotaia su veicoli a forma di rapaci.",
@@ -74,7 +77,10 @@
             "cs-CZ": "Návštěvníci sedí na zádi vozů ve tvaru raptorů, které jedou po jednokolejné dráze",
             "pl-PL": "Pasażerowie siedzą na grzbietach wagoników w kształcie raptorów, jadących po jednoszynowym torze",
             "ru-RU": "Люди сидят на машинках-Рапторах и едут по монорельсу",
-            "eo-ZZ": "Individuaj raptorformaj veturiloj"
+            "eo-ZZ": "Individuaj raptorformaj veturiloj",
+            "ca-ES": "Vehicles en forma de velociraptor.",
+            "fi-FI": "Yksittäiset raptorin muotoiset ajoneuvot",
+            "zh-CN": "分离猛禽形车辆"
         },
         "capacity": {
             "en-GB": "2 riders per vehicle",
@@ -91,7 +97,10 @@
             "cs-CZ": "2 místa v každém voze",
             "pl-PL": "2 pasażerów na pojazd",
             "ru-RU": "2 чел. в машине",
-            "eo-ZZ": "Po 2 rajdantoj por veturilo"
+            "eo-ZZ": "Po 2 rajdantoj por veturilo",
+            "ca-ES": "2 genets per velociraptor",
+            "fi-FI": "2 ratsastajaa per vaunu",
+            "zh-CN": "2位乘客/车"
         }
     }
 }

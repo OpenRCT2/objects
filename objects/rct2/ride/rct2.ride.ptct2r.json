@@ -73,14 +73,16 @@
             "nl-NL": "Houten achtbaantrein (zespersoons, achteruit)",
             "sv-SE": "Baklängesvagnar till träberg- och dalbana (6-sitsiga)",
             "ko-KR": "우든 롤러코스터 차량 (6인승, 역방향)",
-            "zh-CN": "木制式过山车列车(6 个座位)",
+            "zh-CN": "木制式过山车列车(6 个座位，反转)",
             "zh-TW": "木製式雲霄飛車列車(6 個座位)",
             "pt-BR": "Trens de montanha-russa de Madeira (6 assentos, Reverso)",
             "cs-CZ": "Dřevěná horská dráha (6 sedadel, pozpátku)",
             "ja-JP": "木のコースター・トレーン (6人乗り, 逆走)",
             "pl-PL": "Drewniana kolejka górska (6 miejsc, odwrócona)",
             "ru-RU": "Деревянные поезда (6 мест, реверс)",
-            "eo-ZZ": "Trajnoj de Ligna Onda Fervojo (6 seĝoj, Inversigita)"
+            "eo-ZZ": "Trajnoj de Ligna Onda Fervojo (6 seĝoj, Inversigita)",
+            "ca-ES": "Muntanya russa de fusta (6 seients cap enrere)",
+            "fi-FI": "Puisen vuoristoradan vaunut (kuusipaikkainen, takaperin)"
         },
         "description": {
             "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints, running with the seats facing backwards",
@@ -91,14 +93,16 @@
             "nl-NL": "Houten achtbaantrein met gevoerde zittingen en schootbeugels, die rijdt met de zittingen naar achteren.",
             "sv-SE": "Bakvända vagnar till träberg- och dalbana, med stoppade säten och enkla byglar",
             "ko-KR": "푹신한 좌석과 무릎 안전바가 있고, 뒤쪽을 본 채로 앉아서 달리는 나무 롤러코스터 차량",
-            "zh-CN": "木制式过山车是有安全装置护具的列车是采向後运行方式",
+            "zh-CN": "木制式过山车是有安全装置护具的列车是采向后运行方式",
             "zh-TW": "木製式雲霄飛車是有安全裝置護具的列車是採向後運行方式",
             "pt-BR": "Trens de montanha-russa de madeira com assentos acolchoados e proteções de colo, correndo com os assentos virados de costas",
             "cs-CZ": "Dřevěná horská dráha s vozy s polstrovanými sedadly a opěrkou v klína, na které se jezdí pozpátku",
             "ja-JP": "膝の安全バーが付いた、パッド入りの座席を持つ木製のコースターで、座席が後ろ向きになっています",
             "pl-PL": "Drewniana kolejka górska z wyściełanymi siedzeniami i zabezpieczeniami obejmującymi pasażerów w pasie, z fotelami ustawionymi tyłem do kierunku jazdy",
             "ru-RU": "Деревянные поезда с сидениями и ремнями для ног.",
-            "eo-ZZ": "Lignaj trajnoj de onda fervojo, kun komfortaj seĝoj kaj sinobridoj, kiuj havas inversigitajn seĝojn"
+            "eo-ZZ": "Lignaj trajnoj de onda fervojo, kun komfortaj seĝoj kaj sinobridoj, kiuj havas inversigitajn seĝojn",
+            "ca-ES": "Muntanya russa amb trens amb seients encoixinats amb els seients mirant enrere i barres de subjecció per la falda.",
+            "fi-FI": "Puisen vuoristoradan vaunut, joissa on pehmustetut istuimet ja turvakaiteet, ja jonka penkit on käännetty takaperin"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -109,14 +113,16 @@
             "nl-NL": "6 passagiers per karretje",
             "sv-SE": "6 passagerare per vagn",
             "ko-KR": "차량당 6명의 승객",
-            "zh-CN": "6 位乘客/每个车厢",
+            "zh-CN": "6位乘客/车",
             "zh-TW": "6 位乘客/每個車廂",
             "pt-BR": "6 passageiros por vagão",
             "cs-CZ": "6 míst v každém voze",
             "ja-JP": "各車両6名",
             "pl-PL": "6 pasażerów na wagonik",
             "ru-RU": "6 пассажиров",
-            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro",
+            "ca-ES": "6 passatgers per cotxe",
+            "fi-FI": "6 matkustajaa per vaunu"
         }
     }
 }

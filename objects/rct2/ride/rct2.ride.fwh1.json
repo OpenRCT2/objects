@@ -146,7 +146,9 @@
             "nb-NO": "Pariserhjul",
             "pl-PL": "Diabelski młyn",
             "ru-RU": "Колесо",
-            "eo-ZZ": "Spektoradego"
+            "eo-ZZ": "Spektoradego",
+            "ca-ES": "Sínia",
+            "fi-FI": "Maailmanpyörä"
         },
         "description": {
             "en-GB": "Rotating big wheel with open chairs",
@@ -164,7 +166,9 @@
             "ja-JP": "屋根のないイス付きの、大きな観覧車です",
             "pl-PL": "Wielkie obrotowe koło z otwartymi wagonikami",
             "ru-RU": "Большое колесо обозрения",
-            "eo-ZZ": "Turniĝanta granda rado kun subĉielaj seĝoj"
+            "eo-ZZ": "Turniĝanta granda rado kun subĉielaj seĝoj",
+            "ca-ES": "Roda enorme que gira amb cabines obertes.",
+            "fi-FI": "Iso pyörivä pyörä, jossa on avoilmapenkit"
         },
         "capacity": {
             "en-GB": "32 passengers",
@@ -182,7 +186,9 @@
             "ja-JP": "定員32名",
             "pl-PL": "32 pasażerów",
             "ru-RU": "32 пассажира",
-            "eo-ZZ": "32 pasaĝeroj"
+            "eo-ZZ": "32 pasaĝeroj",
+            "ca-ES": "32 passatgers",
+            "fi-FI": "32 matkustajaa"
         }
     }
 }

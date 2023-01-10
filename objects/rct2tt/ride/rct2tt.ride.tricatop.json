@@ -61,15 +61,18 @@
             "cs-CZ": "Autodrom s Triceratopsem",
             "pl-PL": "Dinozaurowe samochodziki",
             "ru-RU": "Трицерапторы",
-            "eo-ZZ": "Triceratopaj Aŭtetoj"
+            "eo-ZZ": "Triceratopaj Aŭtetoj",
+            "ca-ES": "Cotxes de xoc de triceràtops",
+            "fi-FI": "Triceratops-törmäysautot",
+            "zh-CN": "三角龙闪击"
         },
         "description": {
             "en-GB": "Riders lock horns with each other in triceratops dodgems",
             "en-US": "Riders lock horns with each other in triceratops bumper cars",
-            "fr-FR": "Les passagers se rentrent dedans à bord d'auto-tamponneuses en forme de tricératops",
+            "fr-FR": "Les passagers se rentrent dedans à bord d’auto-tamponneuses en forme de tricératops",
             "de-DE": "Die Fahrer liefern sich beim Autoscooter harte Gefechte in Triceratops-Wagen",
             "es-ES": "Los usuarios se pegan cornadas en los coches de choque Triceratops.",
-            "it-IT": "I passeggeri si lanciano uno contro l'altro in auto a forma di Triceratopo.",
+            "it-IT": "I passeggeri si lanciano uno contro l’altro in auto a forma di Triceratopo.",
             "nl-NL": "De passagiers vatten elkaar bij de horens in triceratopsvormige botsauto’s.",
             "sv-SE": "Triceratops-formade radiobilar som förarna kan stångas med",
             "ko-KR": "트리케라톱스 모양의 범퍼카에 타고 서로 함께 부딛히는 차량",
@@ -79,7 +82,10 @@
             "cs-CZ": "Autodrom s vozy ve tvaru Triceratopsů",
             "pl-PL": "Pasażerowie jeżdżą samochodzikami w kształcie triceratopsów i atakują się ich rogami",
             "ru-RU": "Люди катаются в маленьких электромобильчиках.",
-            "eo-ZZ": "Rajdantoj ŝlosas kornojn kun unu la alian en triceratopo-doĝemoj"
+            "eo-ZZ": "Rajdantoj ŝlosas kornojn kun unu la alian en triceratopo-doĝemoj",
+            "ca-ES": "Els passatgers xoquen contra les banyes d’altres cotxes decorats com a triceràtops.",
+            "fi-FI": "Kävijät käyvät taistelua triceratops-törmäysautoissa",
+            "zh-CN": "乘客驾驶三角龙形状的碰碰车中互相碰撞与躲避"
         },
         "capacity": {
             "en-GB": "1 person per car",
@@ -96,7 +102,10 @@
             "cs-CZ": "1 místo v každém voze",
             "pl-PL": "Jednomiejscowe",
             "ru-RU": "1 чел. в машине",
-            "eo-ZZ": "Po 1 ulo por ĉaro"
+            "eo-ZZ": "Po 1 ulo por ĉaro",
+            "ca-ES": "1 persona per cotxe",
+            "fi-FI": "1 matkustaja per auto",
+            "zh-CN": "6位乘客/车"
         }
     }
 }

@@ -21,10 +21,10 @@
     "strings": {
         "name": {
             "en-GB": "Archery Target",
-            "fr-FR": "Cible de tir à l'arc",
+            "fr-FR": "Cible de tir à l’arc",
             "de-DE": "Bogenschießen-Zielscheibe",
             "es-ES": "Objetivo de arquería",
-            "it-IT": "Bersaglio del tiro con l'arco",
+            "it-IT": "Bersaglio del tiro con l’arco",
             "nl-NL": "Schietschijf",
             "sv-SE": "Pilbågstavla",
             "ko-KR": "화살 과녁",
@@ -34,7 +34,10 @@
             "pl-PL": "Tarcza łucznicza",
             "ru-RU": "Мишень",
             "ja-JP": "アーチェリーの",
-            "eo-ZZ": "Celdisko por Arkopafo"
+            "eo-ZZ": "Celdisko por Arkopafo",
+            "ca-ES": "Diana",
+            "fi-FI": "Jousitaulu",
+            "zh-CN": "箭靶子"
         }
     }
 }

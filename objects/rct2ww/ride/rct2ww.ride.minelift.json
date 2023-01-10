@@ -138,17 +138,19 @@
             "pl-PL": "Winda kopalniana",
             "pt-BR": "Cabine de Elevador de Mina",
             "ru-RU": "Шахта",
-            "eo-ZZ": "Kajuto de Minlifto"
+            "eo-ZZ": "Kajuto de Minlifto",
+            "ca-ES": "Cabina elevadora de la mina",
+            "fi-FI": "Kaivoshissikori"
         },
         "description": {
             "en-GB": "A steel lift cabin commonly used in mines",
-            "fr-FR": "Les passagers passent aux différents niveaux d'une tour verticale à bord d'un ascenseur",
+            "fr-FR": "Les passagers passent aux différents niveaux d’une tour verticale à bord d’un ascenseur",
             "de-DE": "Eine Stahlaufzugskabine, wie man sie üblicherweise im Tagebau verwendet",
             "es-ES": "Los pasajeros montan en un elevador que sube o baja por una torre vertical para ir de un nivel a otro",
-            "it-IT": "I passeggeri entrano in un montacarichi che si muove verticalmente in una torre per passare da un livello all'altro",
+            "it-IT": "I passeggeri entrano in un montacarichi che si muove verticalmente in una torre per passare da un livello all’altro",
             "nl-NL": "Bezoekers gaan in een lift in een toren omhoog of omlaag om naar een ander hoogteniveau te komen.",
             "sv-SE": "En hisskabin i stål av typen som används i gruvor",
-            "zh-CN": "游客搭乘上升或下降的电梯在垂直大楼某一层楼到另一层楼",
+            "zh-CN": "乘客搭乘上升或下降的电梯在垂直大楼某一层楼到另一层楼",
             "ar-EG": "A steel lift cabin commonly used in mines",
             "cs-CZ": "Výtah s ocelovou kabinou připomínající důlní výtah",
             "en-US": "A steel lift cabin commonly used in mines",
@@ -157,7 +159,9 @@
             "pl-PL": "Pasażerowie jeżdżą w dół lub w górę windą w wieży, aby przejść z jednego poziomu na drugi",
             "pt-BR": "Um elevador com cabine de aço comumente usado em minas",
             "ru-RU": "Люди едут на лифте вверх и вниз по вертикальной шахте",
-            "eo-ZZ": "Ŝtala liftokajuto ofte uzita en minoj"
+            "eo-ZZ": "Ŝtala liftokajuto ofte uzita en minoj",
+            "ca-ES": "Una cabina elevadora d’acer emprada a les mines.",
+            "fi-FI": "Teräksinen hissikori, jota usein käytetään kaivoksissa"
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -167,14 +171,16 @@
             "it-IT": "16 passeggeri",
             "nl-NL": "16 passagiers",
             "sv-SE": "16 passagerare",
-            "zh-CN": "限乘16人",
+            "zh-CN": "16位乘客",
             "ja-JP": "定員16名",
             "cs-CZ": "16 návštěvníků",
             "ko-KR": "승객 16명",
             "pl-PL": "16 pasażerów",
             "pt-BR": "16 passageiros",
             "ru-RU": "16 пассажиров",
-            "eo-ZZ": "16 pasaĝeroj"
+            "eo-ZZ": "16 pasaĝeroj",
+            "ca-ES": "16 passatgers",
+            "fi-FI": "16 matkustajaa"
         }
     }
 }

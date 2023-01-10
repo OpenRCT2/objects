@@ -49,7 +49,7 @@
     "strings": {
         "name": {
             "en-GB": "Barnstorming Trains",
-            "fr-FR": "Attaque de l'entrepôt",
+            "fr-FR": "Attaque de l’entrepôt",
             "de-DE": "Himmelsstürmer-Wagen",
             "es-ES": "Montaña rusa Políticos",
             "it-IT": "Ottovolante acrobatico",
@@ -63,7 +63,10 @@
             "cs-CZ": "Stodolní střela",
             "pl-PL": "Inwazja agrarna",
             "ru-RU": "Гастрольные горки",
-            "eo-ZZ": "Trajnoj de Barnstorming"
+            "eo-ZZ": "Trajnoj de Barnstorming",
+            "ca-ES": "Acrobàcies aèrees",
+            "fi-FI": "Lentosirkusvaunut",
+            "zh-CN": "谷仓风暴列车"
         },
         "description": {
             "en-GB": "Inverted roller coaster trains for the Inverted Impulse Coaster, in the shape of double decker aeroplanes",
@@ -81,7 +84,10 @@
             "cs-CZ": "Vozy jsou zavěšeny na kolejnicích s ostrými zatáčkami a ostrými pády",
             "pl-PL": "Pasażerowie jadą w podwieszanych wagonikach, pokonujących błyskawicznie wielkie pętle, wiraże i długie zjazdy",
             "ru-RU": "Кабинки подвешены, горки допускают вращение и резкие падения.",
-            "eo-ZZ": "Inversigitaj trajnoj de onda fervojo por la Inversigita Lanĉita Onda Fervojo, formitaj kiel duetaĝaj aeroplanoj"
+            "eo-ZZ": "Inversigitaj trajnoj de onda fervojo por la Inversigita Lanĉita Onda Fervojo, formitaj kiel duetaĝaj aeroplanoj",
+            "ca-ES": "Trens en forma d’avions de dos pisos per a muntanyes russes d’impuls invers.",
+            "fi-FI": "Käänteiset kaksitasolentokoneen muotoiset vaunut käänteisimpulssiradalle",
+            "zh-CN": "用于倒置脉冲过山车的倒置过山车列车，形状为双层飞机"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -98,7 +104,10 @@
             "cs-CZ": "4 místa v každém voze",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 человека в вагоне",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu",
+            "zh-CN": "4位乘客/车"
         }
     }
 }

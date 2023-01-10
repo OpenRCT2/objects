@@ -1,6 +1,6 @@
 {
     "id": "rct2.music.fairground",
-    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "authors": ["C. John Mears"],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC01|00000000",
     "sourceGame": ["rct2", "rct1"],
@@ -96,7 +96,8 @@
             "tr-TR": "Atlıkarınca tarzı",
             "zh-CN": "游乐场风琴风格",
             "zh-TW": "遊樂場風琴風格",
-            "eo-ZZ": "Foirejo-orgeno-stilo"
+            "eo-ZZ": "Foirejo-orgeno-stilo",
+            "fi-FI": "Karusellimusiikin tyylinen"
         }
     }
 }

@@ -89,7 +89,10 @@
             "cs-CZ": "Stíhačková horské dráha",
             "pl-PL": "Lot odrzutowcem",
             "ru-RU": "Горки-Самолет",
-            "eo-ZZ": "Aeroplano-Ĉaroj"
+            "eo-ZZ": "Aeroplano-Ĉaroj",
+            "ca-ES": "Avions a reacció",
+            "fi-FI": "Suihkukonevaunut",
+            "zh-CN": "喷气式飞机过山车"
         },
         "description": {
             "en-GB": "Roller coaster cars in the shape of jet planes",
@@ -106,7 +109,10 @@
             "cs-CZ": "Malá horská dráha, na které vozy po jednom projíždí trať s kroucenými pády",
             "pl-PL": "Zwarta przestrzennie kolejka górska z oddzielnymi wagonikami i gładkimi, krętymi zjazdami",
             "ru-RU": "Небольшие горки с отдельными кабинками и плавными перепадами.",
-            "eo-ZZ": "Ĉaroj de onda fervojo formitaj kiel aeroplanoj"
+            "eo-ZZ": "Ĉaroj de onda fervojo formitaj kiel aeroplanoj",
+            "ca-ES": "Cotxes de muntanya russa en forma d’avions a reacció.",
+            "fi-FI": "Suihkukoneen muotoiset vuoristoratavaunut",
+            "zh-CN": "喷气式飞机样式的过山车"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -123,7 +129,10 @@
             "cs-CZ": "4 místa v každém voze",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 чел. в вагоне",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu",
+            "zh-CN": "4位乘客/车"
         }
     }
 }

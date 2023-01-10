@@ -124,14 +124,16 @@
             "ja-JP": "コークスクリュー・ジェットコースター",
             "pl-PL": "Kolejka korkociągowa",
             "ru-RU": "Штопорные горки",
-            "eo-ZZ": "Trajnoj de Korktirila Onda Fervojo"
+            "eo-ZZ": "Trajnoj de Korktirila Onda Fervojo",
+            "ca-ES": "Muntanya russa amb tirabuixons",
+            "fi-FI": "Korkkiruuvivuoristoratavaunut"
         },
         "description": {
             "en-GB": "Roller coaster trains with shoulder restraints",
             "fr-FR": "Montagnes russes compactes dont les voies en acier prennent la forme de tire-bouchons et de boucles",
             "de-DE": "Achterbahnzüge mit Schulterhalterungen",
             "es-ES": "Una montaña rusa compacta de acero donde los vagones circulan por rizos y  sacacorchos",
-            "it-IT": "Un ottovolante compatto d'acciaio in cui il treno compie giri della morte e avvitamenti vari",
+            "it-IT": "Un ottovolante compatto d’acciaio in cui il treno compie giri della morte e avvitamenti vari",
             "nl-NL": "Een compacte stalen achtbaan waar de trein door schroeven en loopings gaat.",
             "sv-SE": "Berg- och dalbanevagnar med axelbyglar",
             "ko-KR": "어깨 안전바가 있는 롤러코스터 차량",
@@ -144,7 +146,9 @@
             "ja-JP": "シートベルトのあるローラーコースター車両です",
             "pl-PL": "Zwarta przestrzennie kolejka ze stalowymi torami, w której wagoniki pokonują korkociągi i pętle",
             "ru-RU": "Небольшие железные горки, где поезда едут по спиралям и кольцам",
-            "eo-ZZ": "Trajnoj de onda fervojo kun ŝultrobridoj"
+            "eo-ZZ": "Trajnoj de onda fervojo kun ŝultrobridoj",
+            "ca-ES": "Muntanya russa amb tren i subjeccions per l’espatlla.",
+            "fi-FI": "Vuoristoratavaunut, joissa on olkaturvakaiteet"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -155,14 +159,16 @@
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
             "ko-KR": "차량당 4명의 승객",
-            "zh-CN": "4 位乘客/每个车厢",
+            "zh-CN": "4位乘客/车",
             "zh-TW": "4 位乘客/每個車廂",
             "pt-BR": "4 passageiros por carro",
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

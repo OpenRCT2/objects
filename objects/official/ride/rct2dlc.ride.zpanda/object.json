@@ -813,7 +813,10 @@
             "ar-EG": "قطارات الباندا",
             "ja-JP": "パンダのトレイン",
             "pl-PL": "Pandzie Pociągi",
-            "eo-ZZ": "Pando-Trajnoj"
+            "eo-ZZ": "Pando-Trajnoj",
+            "ca-ES": "Trens panda",
+            "fi-FI": "Pandavaunut",
+            "zh-CN": "熊猫特快"
         },
         "description": {
             "en-GB": "Roller coaster trains with cuddly panda cars",
@@ -829,7 +832,10 @@
             "ar-EG": "قطار أفعوانية مع عربات بشكل الباندا المحبب",
             "ja-JP": "可愛いパンダカーのジェットコースタートレイン",
             "pl-PL": "Kolejka górska z puchatymi pandzimi wagonikami",
-            "eo-ZZ": "Trajnoj de onda fervojo kun karesigaj pando-ĉaroj"
+            "eo-ZZ": "Trajnoj de onda fervojo kun karesigaj pando-ĉaroj",
+            "ca-ES": "Muntanya russa amb cotxes panda melindrosos.",
+            "fi-FI": "Pandan muotoiset vuoristoratavaunut",
+            "zh-CN": "熊猫形状列车的过山车"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -845,7 +851,10 @@
             "ar-EG": "راكب واحد لكل عربة",
             "ja-JP": "各車両1名",
             "pl-PL": "1 pasażer na wagonik",
-            "eo-ZZ": "Po 1 pasaĝero por ĉaro"
+            "eo-ZZ": "Po 1 pasaĝero por ĉaro",
+            "ca-ES": "1 passatger per cotxe",
+            "fi-FI": "1 matkustaja per vaunu",
+            "zh-CN": "1位乘客/车"
         }
     }
 }

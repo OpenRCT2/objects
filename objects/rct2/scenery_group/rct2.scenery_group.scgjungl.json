@@ -23,6 +23,8 @@
             "rct2.scenery_wall.wpw1",
             "rct2.scenery_wall.wpw2",
             "rct2.scenery_wall.wjf",
+            "couger.scenery_wall.acwwf32",
+            "couger.scenery_wall.acww33",
             "rct2.footpath_banner.bn2",
             "rct2.scenery_wall.walljn32",
             "rct2.scenery_small.jngroof1",
@@ -45,14 +47,16 @@
             "nl-NL": "Junglethema",
             "sv-SE": "Djungeltema",
             "ko-KR": "정글 테마",
-            "zh-CN": "丛林主题区",
+            "zh-CN": "丛林主题",
             "zh-TW": "叢林主題區",
             "pt-BR": "Temática de Selva",
             "cs-CZ": "Jungle kulisy",
             "ja-JP": "ジャングル風のテーマ",
             "pl-PL": "Wystrój tropikalny",
             "ru-RU": "Джунгли",
-            "eo-ZZ": "Ĝangalo-Temo"
+            "eo-ZZ": "Ĝangalo-Temo",
+            "ca-ES": "Temàtica de la jungla",
+            "fi-FI": "Viidakkoteemaus"
         }
     }
 }

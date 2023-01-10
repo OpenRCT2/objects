@@ -27,7 +27,7 @@
     "strings": {
         "name": {
             "en-GB": "Hoverbike on Stand",
-            "fr-FR": "Moto sur coussin d'air à l'arrêt",
+            "fr-FR": "Moto sur coussin d’air à l’arrêt",
             "de-DE": "Geparktes Schweberad",
             "es-ES": "Moto jet parada",
             "it-IT": "Bicicletta volante ferma",
@@ -40,7 +40,10 @@
             "pl-PL": "Latający motocykl na podeście",
             "ru-RU": "Ховербайк",
             "ja-JP": "ホバーバイク（スタンド）",
-            "eo-ZZ": "Flugpendanta Biciklo sur Apogstangilo"
+            "eo-ZZ": "Flugpendanta Biciklo sur Apogstangilo",
+            "ca-ES": "Moto planadora parada",
+            "fi-FI": "Liitopyörä telakassa",
+            "zh-CN": "浮空摩托-在架子上"
         }
     }
 }

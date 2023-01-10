@@ -19,10 +19,10 @@
             "rct2.scenery_wall.wallgl32",
             "rct2.scenery_small.georoof1",
             "rct2.scenery_wall.wgw2",
+            "toontowner.scenery_small.ttrfgl01",
+            "toontowner.scenery_small.ttrfgl02",
             "rct2.scenery_small.georoof2",
-			"toontowner.scenery_small.ttrfgl01",
-			"toontowner.scenery_small.ttrfgl02",
-			"toontowner.scenery_small.ttrfgl03"
+            "toontowner.scenery_small.ttrfgl03"
         ],
         "priority": 20
     },
@@ -37,14 +37,16 @@
             "nl-NL": "Abstract thema",
             "sv-SE": "Abstrakt tema",
             "ko-KR": "추상적인 테마",
-            "zh-CN": "现代抽象主题区",
+            "zh-CN": "现代抽象主题",
             "zh-TW": "現代抽象主題區",
             "pt-BR": "Temática Abstrata",
             "cs-CZ": "Abstraktní kulisy",
             "ja-JP": "抽象派風のテーマ",
             "pl-PL": "Wystrój abstrakcyjny",
             "ru-RU": "Абстракция",
-            "eo-ZZ": "Abstrakta Temo"
+            "eo-ZZ": "Abstrakta Temo",
+            "ca-ES": "Temàtica abstracta",
+            "fi-FI": "Abstrakti teemaus"
         }
     }
 }

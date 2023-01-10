@@ -411,11 +411,14 @@
             "cs-CZ": "Béčková pavoučí jízda",
             "pl-PL": "Przejażdżka na olbrzymim pająku",
             "ru-RU": "Паук",
-            "eo-ZZ": "Atrakcio de B-Filmo Giganta Araneo"
+            "eo-ZZ": "Atrakcio de B-Filmo Giganta Araneo",
+            "ca-ES": "Aranya gegant de pel·lícula de sèrie B",
+            "fi-FI": "B-elokuvan jättiläishämähäkkilaite",
+            "zh-CN": "B级片大型蜘蛛之旅"
         },
         "description": {
             "en-GB": "Riders ride in pairs of themed seats which rotate around a giant B-Movie spider",
-            "fr-FR": "Les passagers voyagent par deux à bord de sièges thématiques autour d'une araignée géante de film de série B.",
+            "fr-FR": "Les passagers voyagent par deux à bord de sièges thématiques autour d’une araignée géante de film de série B.",
             "de-DE": "Die Fahrer sitzen zu zweit in thematisch gestalteten Sitzen, die sich um eine große B-Movie-Spinne drehen",
             "es-ES": "Los usuarios van en parejas, en asientos decorados que giran en torno a una gran araña de películas de serie B.",
             "it-IT": "I passeggeri siedono su sedili che ruotano intorno a un grande ragno da B-Movie.",
@@ -428,7 +431,10 @@
             "cs-CZ": "Návštěvníci sedí po dvou na sedačkách, které se otáčejí okolo velkého pavouka z béčkového filmu uprostřed",
             "pl-PL": "Pasażerowie podróżują parami w stylizowanych siedziskach, okrążających olbrzymiego pająka jak z kiepskiego dreszczowca",
             "ru-RU": "Люди катаются парами вокруг большого паука.",
-            "eo-ZZ": "Rajdantoj rajdas en paroj da temitaj seĝoj, kiuj turniĝas ĉirkaŭ giganta B-Filmo araneo"
+            "eo-ZZ": "Rajdantoj rajdas en paroj da temitaj seĝoj, kiuj turniĝas ĉirkaŭ giganta B-Filmo araneo",
+            "ca-ES": "Els passatgers van en parelles en seients tematitzats que giren al voltant d’una aranya de pel·lícula de sèrie B.",
+            "fi-FI": "Kävijät istuvat pareittain teematuissa istuimissa, jotka pyörivät jättiläismäisen B-elokuvan hämähäkin ympärillä",
+            "zh-CN": "乘客乘坐成对的主题座椅——这些座椅围绕着一个巨大的B级片蜘蛛旋转"
         },
         "capacity": {
             "en-GB": "18 passengers",
@@ -445,7 +451,10 @@
             "cs-CZ": "18 návštěvníků",
             "pl-PL": "18 pasażerów",
             "ru-RU": "18 человек",
-            "eo-ZZ": "18 pasaĝeroj"
+            "eo-ZZ": "18 pasaĝeroj",
+            "ca-ES": "18 passatgers",
+            "fi-FI": "18 matkustajaa",
+            "zh-CN": "18位乘客"
         }
     }
 }

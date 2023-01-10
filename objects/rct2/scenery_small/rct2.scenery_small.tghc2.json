@@ -17,7 +17,7 @@
     "strings": {
         "name": {
             "en-GB": "Hiba Tree",
-            "fr-FR": "Arbre d'Hiba",
+            "fr-FR": "Arbre d’Hiba",
             "de-DE": "Hiba-Baum",
             "es-ES": "Hiba",
             "it-IT": "Hiba",
@@ -31,7 +31,9 @@
             "ja-JP": "ヒバ",
             "pl-PL": "Hibiskus",
             "ru-RU": "Хиба",
-            "eo-ZZ": "Arbo de Thujopsis Dolabrata"
+            "eo-ZZ": "Arbo de Thujopsis Dolabrata",
+            "ca-ES": "Hiba",
+            "fi-FI": "Hibatuija"
         }
     }
 }

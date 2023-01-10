@@ -60,7 +60,10 @@
             "cs-CZ": "Jet Pack Booster",
             "pl-PL": "Lot z plecakiem rakietowym",
             "ru-RU": "Бустер",
-            "eo-ZZ": "Plifortigilo de Rakettornistro"
+            "eo-ZZ": "Plifortigilo de Rakettornistro",
+            "ca-ES": "Motxilla de propulsió",
+            "fi-FI": "Rakettireppuvaunu",
+            "zh-CN": "云霄喷气背包"
         },
         "description": {
             "en-GB": "Large jetpack-shaped coaster car for the Reverse Freefall Coaster",
@@ -77,7 +80,10 @@
             "cs-CZ": "Návštěvníci sedí ve voze, který je vystřelen po kolmé dráze",
             "pl-PL": "Pasażerowie podróżują w pojeţdzie wystrzeliwanym na pionowy odcinek toru",
             "ru-RU": "Люди сидят в машине, запускаемой по вертикальному треку",
-            "eo-ZZ": "Granda rakettornistro-forma ĉaro de onda fervojo por la Onda Fervojo kun Dorsantaŭa Libera Falo"
+            "eo-ZZ": "Granda rakettornistro-forma ĉaro de onda fervojo por la Onda Fervojo kun Dorsantaŭa Libera Falo",
+            "ca-ES": "Cotxe gran tematitzat com a motxilla de propulsió per a la Caiguda Lliure Invertida.",
+            "fi-FI": "Suuri rakettirepun muotoinen käänteisen vapaapudotusradan vaunu",
+            "zh-CN": "用于反向自由落体过山车的大型喷气背包形过山车"
         },
         "capacity": {
             "en-GB": "8 passengers per car",
@@ -94,7 +100,10 @@
             "cs-CZ": "8 míst v každém voze",
             "pl-PL": "8 pasażerów na pojazd",
             "ru-RU": "8 человек",
-            "eo-ZZ": "Po 8 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 8 pasaĝeroj por ĉaro",
+            "ca-ES": "8 passatgers per cotxe",
+            "fi-FI": "8 matkustajaa per vaunu",
+            "zh-CN": "8位乘客/车"
         }
     }
 }

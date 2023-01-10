@@ -120,7 +120,9 @@
             "pl-PL": "Japoński superpociąg",
             "ru-RU": "Пулевые горки",
             "pt-BR": "Montanha Bala",
-            "eo-ZZ": "Ŝinkansenoj"
+            "eo-ZZ": "Ŝinkansenoj",
+            "ca-ES": "Tren bala",
+            "fi-FI": "Luotijunat"
         },
         "description": {
             "en-GB": "Japanese Bullet Train themed roller coaster cars",
@@ -130,31 +132,35 @@
             "it-IT": "Ottovolante con carrozza a forma di treno proiettile giapponese",
             "nl-NL": "Achtbaan met treinen in de vorm van de Japanse Shinkansen (kogeltrein).",
             "sv-SE": "Berg- och dalbanevagnar i stil med japanska ’Shinkansen’-höghastighetståg",
-            "zh-CN": "以日本的子弹列车为主题车辆的云霄飞车",
+            "zh-CN": "以日本的子弹列车为主题车辆的过山车",
             "ja-JP": "日本の新幹線をモチーフにしたローラーコースター車両です",
             "cs-CZ": "Horská dráha s vozy, které vypadají jako vozy Šinkansenu",
             "ko-KR": "일본 신칸센 테마의 롤러코스터 차량",
             "pl-PL": "Kolejka z wagonikami o kształcie nawiązującym do superszybkiego japońskiego ekspresu",
             "ru-RU": "Горки в виде восточного поезда.",
             "pt-BR": "Montanha-russa com vagões temáticos inspirados no trem bala japonês",
-            "eo-ZZ": "Ĉaroj de onda fervojo kun temo de Japana Ŝinkanseno"
+            "eo-ZZ": "Ĉaroj de onda fervojo kun temo de Japana Ŝinkanseno",
+            "ca-ES": "Cotxes de muntanya russa tematitzats com un tren bala japonès.",
+            "fi-FI": "Japanilaisen luotijunan näköisiksi teematut vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
             "fr-FR": "4 passagers par voiture",
-            "de-DE": "4 pro Wagen",
+            "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri per carrozza",
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "每辆车限乘4人",
+            "zh-CN": "2位乘客/车",
             "ja-JP": "各車両4名",
             "cs-CZ": "4 místa v každém voze",
             "ko-KR": "차량당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
             "pt-BR": "4 passageiros por vagão",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

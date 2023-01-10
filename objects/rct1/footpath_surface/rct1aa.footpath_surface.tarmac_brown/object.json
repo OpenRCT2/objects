@@ -19,10 +19,10 @@
         "name": {
             "en-GB": "Brown Tarmac Footpath (Sloped)",
             "fr-FR": "Allée en bitume marron",
-            "de-DE": "Brauner Makadam-Fußweg",
+            "de-DE": "Brauner Makadam-Fußweg (Schräge)",
             "es-ES": "Sendero asfaltado marrón",
             "it-IT": "Sentiero di catrame marrone",
-            "nl-NL": "Voetpad van bruin asfalt",
+            "nl-NL": "Voetpad van bruin asfalt (met helling)",
             "sv-SE": "Brun asfalterad gångväg",
             "ko-KR": "갈색 타맥 보도",
             "zh-CN": "棕色柏油碎石步道",
@@ -33,7 +33,7 @@
             "pl-PL": "Brązowa dróżka tłuczniowa",
             "ru-RU": "Дорожка",
             "ar-EG": "ممشي بُني مُعبد",
-            "eo-ZZ": "Bruna Asfalta Trotuaro"
+            "eo-ZZ": "Bruna Asfalta Trotuaro (Dekliva)"
         }
     }
 }

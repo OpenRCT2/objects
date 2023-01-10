@@ -36,7 +36,9 @@
             "ja-JP": "チキンナゲット・ショップ",
             "pl-PL": "Kiosk z kotlecikami z kurczaka",
             "ru-RU": "Куры-гриль",
-            "eo-ZZ": "Nugetoj-el-Kokaĵo-Budo"
+            "eo-ZZ": "Nugetoj-el-Kokaĵo-Budo",
+            "ca-ES": "Estand de delícies de pollastre",
+            "fi-FI": "Kananugettikoju"
         },
         "description": {
             "en-GB": "A stall selling fried chicken nuggets",
@@ -54,7 +56,9 @@
             "ja-JP": "チキンナゲットを売る売店です",
             "pl-PL": "Stoisko sprzedające pieczone kotleciki z kurczaka",
             "ru-RU": "Палатка, где продают куры-гриль.",
-            "eo-ZZ": "Budo vendanta frititajn nugetojn el kokaĵo"
+            "eo-ZZ": "Budo vendanta frititajn nugetojn el kokaĵo",
+            "ca-ES": "Botigueta que ven delícies de pollastre fregides.",
+            "fi-FI": "Koju, joka myy paistettuja kananugetteja"
         }
     }
 }

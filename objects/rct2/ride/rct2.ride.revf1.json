@@ -62,14 +62,16 @@
             "ja-JP": "逆向きフリーフォールカー",
             "pl-PL": "Wagonik",
             "ru-RU": "Обратный вагончик",
-            "eo-ZZ": "Ĉaro de Onda Fervojo kun Dorsantaŭa Libera Falo"
+            "eo-ZZ": "Ĉaro de Onda Fervojo kun Dorsantaŭa Libera Falo",
+            "ca-ES": "Caiguda lliure invertida",
+            "fi-FI": "Käänteisen vapaapudotusradan vaunu"
         },
         "description": {
             "en-GB": "Large coaster car for the Reverse Freefall Coaster",
             "fr-FR": "Voiture destinée à la Chute libre renversée",
             "de-DE": "Großer Wagen für die umgekehrte Freefall-Bahn",
             "es-ES": "Montaña Rusa Invertida",
-            "it-IT": "Grande carrozza usata nell'ottovolante a caduta libera rovesciata",
+            "it-IT": "Grande carrozza usata nell’ottovolante a caduta libera rovesciata",
             "nl-NL": "Grote wagen voor de achterwaartstevrijevalachtbaan.",
             "sv-SE": "Stor vagn för bakvänd fritt fall-bana",
             "ko-KR": "역방향 자유낙하 코스터를 위한 대형 코스터 차량",
@@ -80,7 +82,9 @@
             "ja-JP": "逆向きフリーフォールのある、大型コースターです",
             "pl-PL": "Duży wagonik dla kolejki o swobodnym spadku",
             "ru-RU": "Большой вагончик для реверсивных горок",
-            "eo-ZZ": "Granda ĉaro de onda fervojo por la Onda Fervojo kun Dorsantaŭa Libera Falo"
+            "eo-ZZ": "Granda ĉaro de onda fervojo por la Onda Fervojo kun Dorsantaŭa Libera Falo",
+            "ca-ES": "Cotxe gran per a la Caiguda Lliure Invertida.",
+            "fi-FI": "Suuri käänteisen vapaapudotusradan vaunu"
         },
         "capacity": {
             "en-GB": "8 passengers",
@@ -98,7 +102,9 @@
             "ja-JP": "各車両8名",
             "pl-PL": "8 pasażerów",
             "ru-RU": "8 пассажиров",
-            "eo-ZZ": "8 pasaĝeroj"
+            "eo-ZZ": "8 pasaĝeroj",
+            "ca-ES": "8 passatgers",
+            "fi-FI": "8 matkustajaa"
         }
     }
 }

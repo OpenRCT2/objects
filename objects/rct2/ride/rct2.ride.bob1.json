@@ -62,14 +62,16 @@
             "ja-JP": "ボブスレー・コースター",
             "pl-PL": "Kolejka bobslejowa",
             "ru-RU": "Бобслей-поезд",
-            "eo-ZZ": "Bobsledo-Trajnoj"
+            "eo-ZZ": "Bobsledo-Trajnoj",
+            "ca-ES": "Trens bob",
+            "fi-FI": "Rattikelkkavaunut"
         },
         "description": {
             "en-GB": "Trains consisting of 2-seater cars where the riders are behind each other",
-            "fr-FR": "Les passagers descendent un parcours plein de virages à bord d'une voiture en forme de bobsleigh dirigée uniquement par les courbes et l'inclinaison de la voie semi-circulaire",
+            "fr-FR": "Les passagers descendent un parcours plein de virages à bord d’une voiture en forme de bobsleigh dirigée uniquement par les courbes et l’inclinaison de la voie semi-circulaire",
             "de-DE": "Züge mit Zweisitzerwagen, in denen die Fahrgäste hintereinander sitzen",
             "es-ES": "Los pasajeros viajan por unas vías retorcidas en vagones tipo bobsleigh guiados únicamente por la curvatura y los peraltes de la vía semicircular",
-            "it-IT": "I passeggeri si fanno strada lungo un tracciato con molte curve all'interno di carrozze a forma di slittino guidate solo dalla curvatura e dall'inclinazione del tracciato semi-circolare",
+            "it-IT": "I passeggeri si fanno strada lungo un tracciato con molte curve all’interno di carrozze a forma di slittino guidate solo dalla curvatura e dall’inclinazione del tracciato semi-circolare",
             "nl-NL": "Passagiers rijden over een kronkelende baan, waarbij ze enkel worden geleid door de ronding en banking van de halfronde baan.",
             "sv-SE": "Tvåsitsiga vagnar där passagerarna sitter bakom varandra",
             "ko-KR": "2인승 열차로 구성된 연결식 열차",
@@ -80,7 +82,9 @@
             "ja-JP": "乗客2人が前後に座るボブスレーです",
             "pl-PL": "Pasażerowie zjeżdżają krętą trasą w wagonikach przypominających bobsleje, prowadzonych jedynie przez krzywizny i wychylenia półkolistego toru",
             "ru-RU": "Поезд состоящий из двухместных вагонов, где пассажиры сидят друг за другом",
-            "eo-ZZ": "Trajnoj, konsistaj de ĉaroj kun 2 seĝoj, kie la rajdantoj estas malantaŭ unu la alian"
+            "eo-ZZ": "Trajnoj, konsistaj de ĉaroj kun 2 seĝoj, kie la rajdantoj estas malantaŭ unu la alian",
+            "ca-ES": "Trens amb cotxes de 2 seients on els passatgers van un darrere l’altre.",
+            "fi-FI": "Vaunut, jossa kaksi matkustajaa istuu peräkkäin"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -91,14 +95,16 @@
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
             "ko-KR": "차량당 2명의 승객",
-            "zh-CN": "2位乘客/每个车厢",
+            "zh-CN": "2位乘客/车",
             "zh-TW": "2位乘客/每個車廂",
             "pt-BR": "2 passageiros por carro",
             "cs-CZ": "2 místa v každém vozu",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }

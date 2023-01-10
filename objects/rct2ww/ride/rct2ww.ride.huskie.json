@@ -76,7 +76,9 @@
             "pl-PL": "Psi zaprzęg",
             "ru-RU": "Хаски",
             "pt-BR": "Carro Huskie Siberiano",
-            "eo-ZZ": "Sledhundo-Ĉaro"
+            "eo-ZZ": "Sledhundo-Ĉaro",
+            "ca-ES": "Huskys siberians",
+            "fi-FI": "Koirarekivaunut"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of Huskie sleds",
@@ -93,24 +95,28 @@
             "pl-PL": "Pojazdy w kształcie sanek zaprzężonych w psy jadące po torze",
             "ru-RU": "Машинки в форме эскимосских санок едут по рельсам.",
             "pt-BR": "Veículos elétricos em formato de trenós puxados por cães huskies siberianos",
-            "eo-ZZ": "Ŝaltitaj veturiloj, formitaj kiel sledoj de sledhundoj"
+            "eo-ZZ": "Ŝaltitaj veturiloj, formitaj kiel sledoj de sledhundoj",
+            "ca-ES": "Vehicles elèctrics en forma de trineus de huskys.",
+            "fi-FI": "Moottoroidut koirareen muotoiset ajoneuvot"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
             "fr-FR": "2 passagers par traîneau",
-            "de-DE": "2 pro Wagen",
+            "de-DE": "2 Fahrgäste pro Wagen",
             "es-ES": "2 pasajeros por vagón",
             "it-IT": "2 passeggeri per carrozza",
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per släde",
-            "zh-CN": "每辆车限乘2人",
+            "zh-CN": "2位乘客/车",
             "ja-JP": "各車両2名",
             "cs-CZ": "2 místa v každém voze",
             "ko-KR": "차량당 2명의 승객",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 человека в машинке",
             "pt-BR": "2 passageiros por carro",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per reki"
         }
     }
 }

@@ -139,14 +139,17 @@
             "cs-CZ": "Stroj času",
             "pl-PL": "Wehikuł czasu",
             "ru-RU": "Время",
-            "eo-ZZ": "Tempomaŝino"
+            "eo-ZZ": "Tempomaŝino",
+            "ca-ES": "Màquina del temps",
+            "fi-FI": "Aikakone",
+            "zh-CN": "时光之旅"
         },
         "description": {
             "en-GB": "Guests sit in a specially designed sphere, and experience the illusion of time travel",
-            "fr-FR": "Les visiteurs sont installés dans une sphère spécialement conçue pour donner l'illusion d'un voyage dans le temps",
+            "fr-FR": "Les visiteurs sont installés dans une sphère spécialement conçue pour donner l’illusion d’un voyage dans le temps",
             "de-DE": "Die Gäste sitzen in einer speziell dafür gebauten Kugel und erfahren die Illusion einer Zeitreise",
             "es-ES": "Los invitados se sientan en esferas diseñadas especialmente experimentando una simulación de viaje en el tiempo.",
-            "it-IT": "I visitatori siedono all'interno di una sfera appositamente creata per dare l'illusione del viaggio nel tempo.",
+            "it-IT": "I visitatori siedono all’interno di una sfera appositamente creata per dare l’illusione del viaggio nel tempo.",
             "nl-NL": "Bezoekers zitten in een speciaal ontwerpen bol en krijgen de illusie dat ze door de tijd reizen.",
             "sv-SE": "Passagerarna sitter i en specialdesignad sfär och upplever en illusion av att resa i tiden",
             "ko-KR": "특수하게 고안된 구에 앉아, 시간 여행의 환상을 경험하는 놀이기구",
@@ -156,12 +159,15 @@
             "cs-CZ": "Návštěvníci sedí ve speciálně navržené kruhovité konstrukci a zažívají pocit cestování časem",
             "pl-PL": "Pasażer zasiada w specjalnej kuli, zapewniającej mu złudzenie podróżowania w czasie",
             "ru-RU": "Люди сидят в специальной сфере и путешествуют во времени.",
-            "eo-ZZ": "Gastoj sidas en speciale desegnita globo, kaj spertas la iluzion de vojaĝi tra la tempo"
+            "eo-ZZ": "Gastoj sidas en speciale desegnita globo, kaj spertas la iluzion de vojaĝi tra la tempo",
+            "ca-ES": "Els passatgers seuen en una esfera amb un disseny especial per poder sentir la il·lusió de viatjar en el temps.",
+            "fi-FI": "Kävijät istuvat erikoisrakenteisen pallon sisällä, ja kokevat aikamatkustuksen illuusion",
+            "zh-CN": "客人坐在特别设计的球体中，体验时间旅行的幻觉"
         },
         "capacity": {
             "en-GB": "1 guest per time machine",
             "fr-FR": "1 visiteur par siège",
-            "de-DE": "1 pro Gast",
+            "de-DE": "1 Gast pro Zeitmaschine",
             "es-ES": "1 por invitado",
             "it-IT": "1 per visitatore",
             "nl-NL": "1 bezoeker per tijdmachine",
@@ -173,7 +179,10 @@
             "cs-CZ": "1 místo v každém stroji času",
             "pl-PL": "Jednomiejscowe",
             "ru-RU": "1 человек",
-            "eo-ZZ": "Po 1 gasto por tempomaŝino"
+            "eo-ZZ": "Po 1 gasto por tempomaŝino",
+            "ca-ES": "1 viatger per màquina del temps",
+            "fi-FI": "1 kävijä per aikakone",
+            "zh-CN": "1位乘客/台"
         }
     }
 }

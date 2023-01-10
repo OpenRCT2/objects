@@ -87,7 +87,10 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Base audio for the game."
+            "en-GB": "Base audio for the game.",
+            "de-DE": "Basisaudio für das Spiel.",
+            "eo-ZZ": "Baza aŭdio por la ludo.",
+            "nl-NL": "Basisaudio (zoals geluidseffecten)"
         }
     }
 }

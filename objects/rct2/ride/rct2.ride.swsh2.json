@@ -60,14 +60,16 @@
             "nb-NO": "Roterende skip",
             "pl-PL": "Morska huśtawka",
             "ru-RU": "Качающийся корабль",
-            "eo-ZZ": "Svingiĝanta Inversigilo-Ŝipo"
+            "eo-ZZ": "Svingiĝanta Inversigilo-Ŝipo",
+            "ca-ES": "Vaixell amb balanceig i inversió",
+            "fi-FI": "Kääntyvä merirosvolaiva"
         },
         "description": {
             "en-GB": "Ship is attached to an arm with a counterweight at the opposite end, and swings through a complete 360 degrees",
             "fr-FR": "Vaisseau attaché à un bras au bout duquel est fixé un contre-poids et qui produit des cercles complets (360 degrés)",
             "de-DE": "Das Schiff ist an einem Arm angebracht, an dessen gegenüberliegenden Ende ein Gegengewicht ist. Es schwingt komplett um 360 Grad",
             "es-ES": "Barco acoplado a un brazo con contrapeso que le permite hacer giros de 360 grados",
-            "it-IT": "La nave è attaccata a un braccio che ha un contrappeso all'altra estremità e che oscilla compiendo giri di 360 gradi",
+            "it-IT": "La nave è attaccata a un braccio che ha un contrappeso all’altra estremità e che oscilla compiendo giri di 360 gradi",
             "nl-NL": "Schip dat is bevestigd aan een arm met een contragewicht, en 360 graden kan draaien.",
             "sv-SE": "Skeppet är fäst i en arm med en motvikt i andra ändan och svänger hela varvet runt",
             "ko-KR": "반대편에 균형추가 있는 지지대에 달려있어 완전히 360도로 회전하는 배 모양의 놀이기구",
@@ -78,7 +80,9 @@
             "ja-JP": "アームの片側に船が、片側に重りが付いており、360度回転する乗物です",
             "pl-PL": "Statek przymocowany do ramienia z przeciwwagą wykonuje pełne obroty",
             "ru-RU": "Корабль, прикрепленный к балке с противовесом на другом конце, крутится на 360 градусов.",
-            "eo-ZZ": "La ŝipo estas fiksita al brako, kiu havas kontraŭpezon al la kontraŭa flanko, kaj svingiĝas tra plenaj 360 gradoj"
+            "eo-ZZ": "La ŝipo estas fiksita al brako, kiu havas kontraŭpezon al la kontraŭa flanko, kaj svingiĝas tra plenaj 360 gradoj",
+            "ca-ES": "El vaixell està enganxat a un braç amb contrapès a l’altre extrem. Es balanceja i fa una volta completa de 360 graus.",
+            "fi-FI": "Laiva on kiinnitetty puomiin, jonka toisessa päässä on vastapaino, ja joka pyörii täydet 360 astetta"
         },
         "capacity": {
             "en-GB": "12 passengers",
@@ -89,14 +93,16 @@
             "nl-NL": "12 passagiers",
             "sv-SE": "12 passagerare",
             "ko-KR": "승객 12명",
-            "zh-CN": "12 位乘客",
+            "zh-CN": "12位乘客",
             "zh-TW": "12 位乘客",
             "pt-BR": "12 passageiros",
             "cs-CZ": "12 návštěvníků",
             "ja-JP": "定員12名",
             "pl-PL": "12 pasażerów",
             "ru-RU": "12 пассажиров",
-            "eo-ZZ": "12 pasaĝeroj"
+            "eo-ZZ": "12 pasaĝeroj",
+            "ca-ES": "12 passatgers",
+            "fi-FI": "12 matkustajaa"
         }
     }
 }

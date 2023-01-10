@@ -60,41 +60,47 @@
             "pl-PL": "Koala",
             "pt-BR": "Carro Coala",
             "ru-RU": "Коала Райд",
-            "eo-ZZ": "Koalo-Ĉaro"
+            "eo-ZZ": "Koalo-Ĉaro",
+            "ca-ES": "Cotxes coala",
+            "fi-FI": "Koalavaunu"
         },
         "description": {
             "en-GB": "Large koala-shaped coaster car for the Reverse Freefall Coaster",
             "fr-FR": "Voiture destinée à la Chute libre renversée",
             "de-DE": "Großer koalaförmiger Wagen für die umgekehrte Freefall-Bahn",
             "es-ES": "Gran vagón para la montaña rusa invertida de caída libre",
-            "it-IT": "Usa le grandi carrozze dell'ottovolante invertito a caduta libera",
+            "it-IT": "Usa le grandi carrozze dell’ottovolante invertito a caduta libera",
             "nl-NL": "Grote wagen voor de achterwaartstevrijevalachtbaan.",
             "sv-SE": "Stor koalaformad vagn för bakvänd fritt fall-bana",
-            "zh-CN": "大型云霄飞车颠倒自由落下",
+            "zh-CN": "大型过山车颠倒自由落下",
             "ja-JP": "逆向きフリーフォールのある、コアラの形をした大型コースター車両",
             "cs-CZ": "Velká dráha s vozem pro volný pád pozpátku",
             "ko-KR": "역방향 자유낙하 코스터를 위한 대형 코스터 차량",
             "pl-PL": "Duży wagonik dla kolejki o swobodnym spadku",
             "pt-BR": "Grande vagão de montanha russa para a Montanha Reversa de Queda Livre",
             "ru-RU": "Крупные машины реверсивного паден.",
-            "eo-ZZ": "Granda koaloforma ĉaro de onda fervojo por la Onda Fervojo kun Dorsantaŭa Libera Falo"
+            "eo-ZZ": "Granda koaloforma ĉaro de onda fervojo por la Onda Fervojo kun Dorsantaŭa Libera Falo",
+            "ca-ES": "Cotxes grans en forma de coala per a la Caiguda lliure invertida.",
+            "fi-FI": "Suuri koalan muotoinen käänteisen vapaapudotusradan vaunu"
         },
         "capacity": {
             "en-GB": "8 passengers per car",
             "fr-FR": "8 passagers par voiture",
-            "de-DE": "8 pro Wagen",
+            "de-DE": "8 Fahrgäste pro Wagen",
             "es-ES": "8 pasajeros por vagón",
             "it-IT": "8 passeggeri per carrozza",
             "nl-NL": "8 passagiers",
             "sv-SE": "8 passagerare per vagn",
-            "zh-CN": "每辆车限乘8人",
+            "zh-CN": "8位乘客/车",
             "ja-JP": "各車両8名",
             "cs-CZ": "8 návštěvníků",
             "ko-KR": "차량당 8명의 승객",
             "pl-PL": "8 pasażerów na wagonik",
             "pt-BR": "8 passageiros por vagão",
             "ru-RU": "8 пассажиров",
-            "eo-ZZ": "Po 8 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 8 pasaĝeroj por ĉaro",
+            "ca-ES": "8 passatgers per cotxe",
+            "fi-FI": "8 matkustajaa per vaunu"
         }
     }
 }

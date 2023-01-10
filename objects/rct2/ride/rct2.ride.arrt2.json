@@ -98,14 +98,16 @@
             "nl-NL": "Hypercoaster-trein",
             "pl-PL": "Hiperjazda",
             "ru-RU": "Гипергорки",
-            "eo-ZZ": "Trajnoj de Hipergiganta Onda Fervojo"
+            "eo-ZZ": "Trajnoj de Hipergiganta Onda Fervojo",
+            "ca-ES": "Hipermuntanya russa",
+            "fi-FI": "Hypervuoristoradan vaunut"
         },
         "description": {
             "en-GB": "Comfortable trains with only lap bar restraints",
             "fr-FR": "Montagnes russes non inversées, constituées de grandes boucles très rapides et que les passagers, uniquement retenus par des barres de protection placées au niveau des jambes, franchissent à bord de trains confortables",
             "de-DE": "Komfortable Züge, die lediglich Beckenhalterungen aufweisen",
             "es-ES": "Una montaña rusa alta y que no se invierte con grandes caídas, alta velocidad y vagones confortables con sólo unas barras para sujetarse",
-            "it-IT": "Un ottovolante alto, senza inversioni ma con lunghe discese, elevate velocità e carrozze confortevoli, dove l'unica misura di protezione è la barra al petto",
+            "it-IT": "Un ottovolante alto, senza inversioni ma con lunghe discese, elevate velocità e carrozze confortevoli, dove l’unica misura di protezione è la barra al petto",
             "nl-NL": "Een achtbaan zonder omkeringen met grote heuvels, een hoge snelheid, en comfortabele treinen met enkel schootbeugels.",
             "sv-SE": "Komfortabla vagnar med endast enkla byglar",
             "ko-KR": "무릎 안전바만 있는 편안한 차량",
@@ -116,7 +118,9 @@
             "ja-JP": "高低差もあり速度も速いですが、逆さにはならず膝にしか安全バーがないので、快適な車両です",
             "pl-PL": "Wysoka, nieobrotowa szybka kolejka górska z dużymi zjazdami i wygodnymi wagonikami, wyposażonymi w zabezpieczenia obejmujące pasażerów jedynie w pasie",
             "ru-RU": "Высокие прямые горки с глубокими падениями и большой скоростью, ремни только на колени.",
-            "eo-ZZ": "Komfortaj trajnoj kun nur sinobridoj"
+            "eo-ZZ": "Komfortaj trajnoj kun nur sinobridoj",
+            "ca-ES": "Cotxes còmodes amb només subjecció amb barra per la falda.",
+            "fi-FI": "Mukavat vaunut, joissa on yksinkertaiset turvakaiteet"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -127,14 +131,16 @@
             "nl-NL": "6 passagiers per karretje",
             "sv-SE": "6 passagerare per vagn",
             "ko-KR": "차량당 6명의 승객",
-            "zh-CN": "6 位乘客/每个车厢",
+            "zh-CN": "6位乘客/车",
             "zh-TW": "6 位乘客/每個車廂",
             "pt-BR": "6 passageiros por carro",
             "cs-CZ": "6 míst v každém voze",
             "ja-JP": "各車両6名",
             "pl-PL": "6 pasażerów na wagonik",
             "ru-RU": "6 пассажиров",
-            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro",
+            "ca-ES": "6 passatgers per cotxe",
+            "fi-FI": "6 matkustajaa per vaunu"
         }
     }
 }

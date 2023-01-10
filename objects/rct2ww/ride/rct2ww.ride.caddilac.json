@@ -113,14 +113,16 @@
             "it-IT": "Ottovolante limousine",
             "nl-NL": "Limousinetrein",
             "sv-SE": "Limousine-vagnar",
-            "zh-CN": "小巴云霄飞车",
+            "zh-CN": "小巴过山车",
             "ja-JP": "リムジントレイン",
             "cs-CZ": "Limuzínová horská dráha",
             "ko-KR": "리무진 롤러코스터",
             "pl-PL": "Kolejka-limuzyna",
             "ru-RU": "Лимузинные горки",
             "pt-BR": "Montanha-russa Limusine",
-            "eo-ZZ": "Limuzino-Trajnoj"
+            "eo-ZZ": "Limuzino-Trajnoj",
+            "ca-ES": "Limusines",
+            "fi-FI": "Limusiinijunat"
         },
         "description": {
             "en-GB": "Limousine-themed roller coaster cars",
@@ -130,31 +132,35 @@
             "it-IT": "Ottovolante con carrozze simili a limousine",
             "nl-NL": "Achtbaan met treinen in de vorm van een limousine",
             "sv-SE": "Limousine-vagnar till korkskruvsberg- och dalbana",
-            "zh-CN": "以小型巴士车辆为主题的云霄飞车",
+            "zh-CN": "以小型巴士车辆为主题的过山车",
             "ja-JP": "リムジンをモチーフにしたローラーコースター車両です",
             "cs-CZ": "Horská dráha s vozy, které vypadají jako limuzíny",
             "ko-KR": "리무진 테마의 롤러코스터 차량",
             "pl-PL": "Kolejka górska z wagonikami w kształcie limuzyn",
             "ru-RU": "Горки с вагончиками в виде лимузинов.",
             "pt-BR": "Montanha-russa com carros inspirados nas limusines",
-            "eo-ZZ": "Ĉaroj de onda fervojo kun temo de limuzino"
+            "eo-ZZ": "Ĉaroj de onda fervojo kun temo de limuzino",
+            "ca-ES": "Muntanya russa amb cotxes en forma de limusina.",
+            "fi-FI": "Limusiini-teemaiset vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
             "fr-FR": "4 passagers par voiture",
-            "de-DE": "4 pro Wagen",
+            "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri per carrozza",
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "每车限乘4人",
+            "zh-CN": "4位乘客/车",
             "ja-JP": "各車両4名",
             "cs-CZ": "4 místa v každém voze",
             "ko-KR": "차량당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
             "pt-BR": "4 passageiros por carro",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

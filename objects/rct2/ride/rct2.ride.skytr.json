@@ -69,14 +69,16 @@
             "ja-JP": "ミニ・サスペンデッド・フライング・コースター",
             "pl-PL": "Podwieszana minikolejka",
             "ru-RU": "Мини-летающие горки",
-            "eo-ZZ": "Kuŝiĝantaj Ĉaroj"
+            "eo-ZZ": "Kuŝiĝantaj Ĉaroj",
+            "ca-ES": "Muntanya russa amb passatgers gitats en cotxes",
+            "fi-FI": "Makuuvaunut"
         },
         "description": {
             "en-GB": "Small suspended cars in which the passengers ride face-down in a lying position, swinging freely from side to side",
-            "fr-FR": "Les passagers sont couchés à plat ventre dans une voiture spéciale se déplaçant sur un monorail et se balançant d'un côté à l'autre dans les virages",
+            "fr-FR": "Les passagers sont couchés à plat ventre dans une voiture spéciale se déplaçant sur un monorail et se balançant d’un côté à l’autre dans les virages",
             "de-DE": "Kleine hängende Wagen, in denen sich die Passagiere mit dem Gesicht nach unten in einer liegenden Position befinden und frei hin- und her schwingen",
             "es-ES": "Los pasajeros se colocan boca abajo en unos vagones especiales en ésta montaña rusa",
-            "it-IT": "I passeggeri, distesi a pancia in giù in una carrozza speciale, sono sospesi al tracciato monorotaia e oscillano da una parte all'altra a ogni curva",
+            "it-IT": "I passeggeri, distesi a pancia in giù in una carrozza speciale, sono sospesi al tracciato monorotaia e oscillano da una parte all’altra a ogni curva",
             "nl-NL": "Passagiers zitten in kleine karretjes die onder een enkele rail hangen en naar buiten zwaaien in de bochten.",
             "sv-SE": "Små upphängda vagnar där passagerarna  åker med ansiktet neråt i liggande ställning, och pendlar fritt från sida till sida",
             "ko-KR": "하나의 레일로 이루어진 트랙에 매달린 특수 차량에 얼굴을 아래로 한 자세로 타고 코너를 돌 때마다 이리 저리 자유롭게 흔들리는 차량",
@@ -87,7 +89,9 @@
             "ja-JP": "シングルレールコースの特殊なデザインの車両から乗客がうつぶせにぶら下がり、コーナーでは左右に振られるコースターです",
             "pl-PL": "Pasażerowie podróżują w pozycji leżącej, twarzą w dół, w specjalnych wagonikach podwieszonych pod pojedynczym torem, które bujają się swobodnie na zakrętach",
             "ru-RU": "Пассажиры едут лежа в вагончиках по одиночному рельсу, свободно качаясь на поворотах.",
-            "eo-ZZ": "Malgrandaj penditaj ĉaroj, en kiuj la pasaĝeroj rajdas kuŝiĝante, frontas al la tero, kaj svingiĝas libere de unu flanko al la alia"
+            "eo-ZZ": "Malgrandaj penditaj ĉaroj, en kiuj la pasaĝeroj rajdas kuŝiĝante, frontas al la tero, kaj svingiĝas libere de unu flanko al la alia",
+            "ca-ES": "Cotxes petits penjants en els quals els passatgers viatgen tombats cara a terra, balancejant-se lliurement de costat a costat.",
+            "fi-FI": "Pienet riippuvat vaunut, joissa matkustajat kulkevat makuuasennossa vatsallaan, vapaasti heilahtaen käänteissä"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -98,14 +102,16 @@
             "nl-NL": "1 passagier per karretje",
             "sv-SE": "1 passagerare per vagn",
             "ko-KR": "차량당 승객 1명",
-            "zh-CN": "1 位乘客/每个车厢",
+            "zh-CN": "1位乘客/车",
             "zh-TW": "1 位乘客/每個車廂",
             "pt-BR": "1 passageiro por carro",
             "cs-CZ": "1 místo v každém voze",
             "ja-JP": "各車両1名",
             "pl-PL": "1 pasażer na wagonik",
             "ru-RU": "1 пассажир",
-            "eo-ZZ": "Po 1 pasaĝero por ĉaro"
+            "eo-ZZ": "Po 1 pasaĝero por ĉaro",
+            "ca-ES": "1 passatger per cotxe",
+            "fi-FI": "1 matkustaja per vaunu"
         }
     }
 }

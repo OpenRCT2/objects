@@ -59,14 +59,16 @@
             "pl-PL": "Bobsleje-pingwiny",
             "pt-BR": "Trens Penguim",
             "ru-RU": "Пингвин-Бобслей",
-            "eo-ZZ": "Pingveno-Trajnoj"
+            "eo-ZZ": "Pingveno-Trajnoj",
+            "ca-ES": "Trens pingüí",
+            "fi-FI": "Pingviinivaunut"
         },
         "description": {
             "en-GB": "Penguin-shaped trains consisting of 2-seater cars where the riders are behind each other",
-            "fr-FR": "Les passagers suivent un tracé sinueux dans des voitures en forme de pingouin, dirigés uniquement par la courbure et l'inclinaison semi-circulaire de la piste",
+            "fr-FR": "Les passagers suivent un tracé sinueux dans des voitures en forme de pingouin, dirigés uniquement par la courbure et l’inclinaison semi-circulaire de la piste",
             "de-DE": "Pinguinförmige Wagen, die aus Zweisitzerwagen bestehen, in denen die Fahrgäste hintereinander sitzen",
             "es-ES": "Los pasajeros viajan por unas vías retorcidas en vagones con forma de pingüino guiados únicamente por la curvatura y los peraltes de la vía semicircular",
-            "it-IT": "I passeggeri procedono lungo un tortuoso tracciato su carrozze a forma di pinguino, guidate solo dalla curvatura e dall'inclinazione del tracciato a sezione semicircolare",
+            "it-IT": "I passeggeri procedono lungo un tortuoso tracciato su carrozze a forma di pinguino, guidate solo dalla curvatura e dall’inclinazione del tracciato a sezione semicircolare",
             "nl-NL": "Passagiers rijden over een kronkelende baan, waarbij ze enkel worden geleid door de ronding en banking van de halfronde baan.",
             "sv-SE": "Pingvinformade tvåsitsiga vagnar där passagerarna sitter bakom varandra",
             "zh-CN": "乘客在企鹅造型车辆中只有依循着弯曲的半圆形轨道急速地猛冲旋转前进",
@@ -76,24 +78,28 @@
             "pl-PL": "Pasażerowie zjeżdżają krętą trasą w wagonikach o kształcie pingwinów, prowadzonych jedynie przez krzywizny i wychylenia półkolistego toru",
             "pt-BR": "Trens com formato de pinguim com vagões de 2 assentos em que os passageiros sentam um atrás do outro",
             "ru-RU": "Люди едут вниз по треку в бобах в виде пингвинов.",
-            "eo-ZZ": "Pingvenoformaj trajnoj, konsista el ĉaroj kun 2 seĝoj, kie la rajdantoj estas post unu la alian"
+            "eo-ZZ": "Pingvenoformaj trajnoj, konsista el ĉaroj kun 2 seĝoj, kie la rajdantoj estas post unu la alian",
+            "ca-ES": "Trens en forma de pingüí amb cotxes de 2 seients en els quals els passatgers van un darrere l’altre.",
+            "fi-FI": "Pingviinin muotoiset vaunut, jossa kaksi matkustajaa istuu peräkkäin"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
             "fr-FR": "2 passagers par voiture",
-            "de-DE": "2 pro Wagen",
+            "de-DE": "2 Fahrgäste pro Wagen",
             "es-ES": "2 pasajeros por vagón",
             "it-IT": "2 passeggeri per carrozza",
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "zh-CN": "每辆车限乘2人",
+            "zh-CN": "2位乘客/车",
             "ja-JP": "各車両2名",
             "cs-CZ": "2 místa v každém voze",
             "ko-KR": "차량당 2명의 승객",
             "pl-PL": "2 pasażerów na wagonik",
             "pt-BR": "2 passageiros por vagão",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }

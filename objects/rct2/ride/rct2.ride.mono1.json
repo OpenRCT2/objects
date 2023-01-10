@@ -115,11 +115,13 @@
             "ja-JP": "流線型のモノレール車両",
             "pl-PL": "Opływowa kolejka jednoszynowa",
             "ru-RU": "Моно-паровозики",
-            "eo-ZZ": "Aerodinamikaj Monorelaj Trajnoj"
+            "eo-ZZ": "Aerodinamikaj Monorelaj Trajnoj",
+            "ca-ES": "Trens monorails aerodinàmics",
+            "fi-FI": "Virtaviivaiset kohoratavaunut"
         },
         "description": {
             "en-GB": "Large capacity monorail trains with streamlined front and rear cars",
-            "fr-FR": "Trains monorail composés de voitures aérodynamiques à l'avant et à l'arrière",
+            "fr-FR": "Trains monorail composés de voitures aérodynamiques à l’avant et à l’arrière",
             "de-DE": "Große Einschienenzüge mit stromlinienförmigen Wagen vorne und hinten",
             "es-ES": "Trenes monoraíl de gran capacidad con coches delateros y traseros aerodinámicos",
             "it-IT": "Treni monorotaia dalla grande capienza, con carrozze alle estremità dalle forme aerodinamiche",
@@ -133,7 +135,9 @@
             "ja-JP": "流線型の先頭車と客車から成る、定員の多いモノレールです",
             "pl-PL": "Pojemne wagony jednoszynowe, opływowe na obu końcach",
             "ru-RU": "Вместимые монорельсовые поезда с паровозами",
-            "eo-ZZ": "Grandspacaj monorelaj trajnoj kun aerodinamikaj frontaj kaj postaj ĉaroj"
+            "eo-ZZ": "Grandspacaj monorelaj trajnoj kun aerodinamikaj frontaj kaj postaj ĉaroj",
+            "ca-ES": "Trens monorail de gran capacitat amb els cotxes davanter i posterior aerodinàmics.",
+            "fi-FI": "Suuren kapasiteetin kohoratajunat, joissa on virtaviivaiset etu- ja takavaunut"
         },
         "capacity": {
             "en-GB": "5 or 10 passengers per car",
@@ -144,14 +148,16 @@
             "nl-NL": "10 passagiers per karretje (voor en achter 5)",
             "sv-SE": "5 eller 10 passagerare per vagn",
             "ko-KR": "차량당 5명 또는 10명의 승객",
-            "zh-CN": "5或10位乘客/每个车厢",
+            "zh-CN": "5 或 10 位乘客/车",
             "zh-TW": "每車卡5或10位乘客",
             "pt-BR": "5 ou 10 passageiros por carro",
             "cs-CZ": "5 nebo 10 míst v každém vagónu",
             "ja-JP": "各車両5名または10名",
             "pl-PL": "5 lub 10 pasażerów na wagonik",
             "ru-RU": "5 или 10 пассажиров",
-            "eo-ZZ": "Po 5 aŭ 10 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 5 aŭ 10 pasaĝeroj por ĉaro",
+            "ca-ES": "5 o 10 passatgers per cotxe",
+            "fi-FI": "5 tai 10 matkustajaa per vaunu"
         }
     }
 }

@@ -83,7 +83,9 @@
             "ja-JP": "木造ワイルドマウス",
             "pl-PL": "Drewniana szalona mysz",
             "ru-RU": "Деревянные мышки",
-            "eo-ZZ": "Musoĉaroj"
+            "eo-ZZ": "Musoĉaroj",
+            "ca-ES": "Cotxes ratolí",
+            "fi-FI": "Hiirivaunut"
         },
         "description": {
             "en-GB": "Individual cars shaped like a mouse",
@@ -103,7 +105,9 @@
             "ja-JP": "小さなネズミの形をした車両が木製のコースをちょこまかと走り回り、危なっかしくヘアピンを曲がったり急降下したりするスリリングな乗物です",
             "pl-PL": "Wagoniki w kształcie myszy jadące po zygzakowatym drewnianym torze, przechylające się na ostrych zakrętach i zdradliwych zjazdach",
             "ru-RU": "Маленькие машинки в виде мышек едут по деревянному треку.",
-            "eo-ZZ": "Individualaj ĉaroj formitaj kiel muso"
+            "eo-ZZ": "Individualaj ĉaroj formitaj kiel muso",
+            "ca-ES": "Cotxes individuals en forma de ratolí.",
+            "fi-FI": "Yksittäiset hiiren muotoiset vaunut"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -114,14 +118,16 @@
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
             "ko-KR": "차량당 2명의 승객",
-            "zh-CN": "2 位乘客/每个车厢",
+            "zh-CN": "2位乘客/车",
             "zh-TW": "2 位乘客/每個車廂",
             "pt-BR": "2 passageiros por carro",
             "cs-CZ": "2 místa v každém vozu",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }

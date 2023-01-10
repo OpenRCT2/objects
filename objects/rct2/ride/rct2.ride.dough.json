@@ -37,12 +37,14 @@
             "ja-JP": "ドーナツショップ",
             "pl-PL": "Sklepik z pączkami",
             "ru-RU": "Бублики",
-            "eo-ZZ": "Benjetbutiko"
+            "eo-ZZ": "Benjetbutiko",
+            "ca-ES": "Botiga de dònuts",
+            "fi-FI": "Donitsikoju"
         },
         "description": {
             "en-GB": "A stall selling ring-shaped doughnuts",
             "en-US": "A stall selling ring-shaped donuts",
-            "fr-FR": "Boutique vendant des beignets en forme d'anneaux",
+            "fr-FR": "Boutique vendant des beignets en forme d’anneaux",
             "de-DE": "Ein Stand, an dem ringförmige Donuts verkauft werden",
             "es-ES": "Un puesto que vende donuts",
             "it-IT": "Un chiosco che vende ciambelle",
@@ -56,7 +58,9 @@
             "ja-JP": "リングドーナツを売る売店です",
             "pl-PL": "Stoisko sprzedające amerykańskie pączki, zwane też donatami",
             "ru-RU": "Палатка с бубликами",
-            "eo-ZZ": "Budo vendanta ringformajn benjetojn"
+            "eo-ZZ": "Budo vendanta ringformajn benjetojn",
+            "ca-ES": "Un estand que ven dònuts.",
+            "fi-FI": "Koju, joka myy renkaan muotoisia donitseja"
         }
     }
 }

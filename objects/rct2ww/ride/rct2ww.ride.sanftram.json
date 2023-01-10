@@ -86,7 +86,9 @@
             "pl-PL": "Tramwaj z San Francisco",
             "pt-BR": "Bondes de São Francisco",
             "ru-RU": "Трамвай Сан-Франц.",
-            "eo-ZZ": "Tramoj de San Francisco"
+            "eo-ZZ": "Tramoj de San Francisco",
+            "ca-ES": "Tramvies de San Francisco",
+            "fi-FI": "San Franciscon raitiovaunut"
         },
         "description": {
             "en-GB": "Replicas of the San Francisco Trams",
@@ -103,24 +105,28 @@
             "pl-PL": "Replika tramwaju",
             "pt-BR": "Réplicas dos antigos bondes de São Francisco",
             "ru-RU": "Трамвайчики",
-            "eo-ZZ": "Replikaĵoj de la tramoj de San Francisco"
+            "eo-ZZ": "Replikaĵoj de la tramoj de San Francisco",
+            "ca-ES": "Rèpliques dels tramvies de San Francisco.",
+            "fi-FI": "San Franciscon raitiovaunujen jäljennökset"
         },
         "capacity": {
             "en-GB": "10 passengers per car",
             "fr-FR": "10 passagers par voiture",
-            "de-DE": "10 pro Waggon",
+            "de-DE": "10 Fahrgäste pro Wagen",
             "es-ES": "10 pasajeros por vagón",
             "it-IT": "10 passeggeri per carrozza",
             "nl-NL": "10 passagiers per tram",
             "sv-SE": "10 passagerare per vagn",
-            "zh-CN": "每辆车限乘10人",
+            "zh-CN": "10位乘客/车",
             "ja-JP": "各車両10名",
             "cs-CZ": "10 míst v každém voze",
             "ko-KR": "차량당 10명의 승객",
             "pl-PL": "10 pasażerów na wagonik",
             "pt-BR": "10 passageiros por bonde",
             "ru-RU": "10 пассажиров",
-            "eo-ZZ": "Po 10 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 10 pasaĝeroj por ĉaro",
+            "ca-ES": "10 passatgers per cotxe",
+            "fi-FI": "10 matkustajaa per vaunu"
         }
     }
 }

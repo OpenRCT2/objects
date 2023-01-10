@@ -29,14 +29,16 @@
             "nl-NL": "Zeevruchtenkraam",
             "sv-SE": "Havsdelikatessbod",
             "ko-KR": "해산물 가게",
-            "zh-CN": "海鲜店",
+            "zh-CN": "海鲜小店",
             "zh-TW": "海鮮店",
             "pt-BR": "Barraca de Frutos do Mar",
             "cs-CZ": "Stánek s plody moře",
             "ja-JP": "シーフード・ショップ",
             "pl-PL": "Kiosk z owocami morza",
             "ru-RU": "Морская еда",
-            "eo-ZZ": "Marmanĝaĵbudo"
+            "eo-ZZ": "Marmanĝaĵbudo",
+            "ca-ES": "Estand de marisc",
+            "fi-FI": "Äyriäiskoju"
         },
         "description": {
             "en-GB": "A stall selling fried tentacles",
@@ -54,7 +56,9 @@
             "ja-JP": "揚げた触手を売る売店です",
             "pl-PL": "Stoisko sprzedające smażone macki",
             "ru-RU": "Палатка с морской пищей",
-            "eo-ZZ": "Budo vendanta frititajn tentaklojn"
+            "eo-ZZ": "Budo vendanta frititajn tentaklojn",
+            "ca-ES": "Un estand que ven tentacles fregits.",
+            "fi-FI": "Koju, joka myy paistettuja lonkeroita"
         }
     }
 }

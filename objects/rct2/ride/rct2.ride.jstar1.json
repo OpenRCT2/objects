@@ -74,14 +74,16 @@
             "ja-JP": "トボガン車両",
             "pl-PL": "Na saneczki",
             "ru-RU": "Сани",
-            "eo-ZZ": "Sledo-Ĉaroj"
+            "eo-ZZ": "Sledo-Ĉaroj",
+            "ca-ES": "Trineus",
+            "fi-FI": "Kelkkavaunut"
         },
         "description": {
             "en-GB": "Toboggan-shaped roller coaster cars with in-line seating",
             "fr-FR": "Voiture de montagnes russes en forme de toboggan avec des sièges disposés en ligne",
             "de-DE": "Schlittenförmige Achterbahnwagen mit hintereinander liegenden Sitzen",
             "es-ES": "Montaña rusa con forma de toboganes",
-            "it-IT": "Carrozze da ottovolante a forma di toboghe con i sedili l'uno dietro l'altro",
+            "it-IT": "Carrozze da ottovolante a forma di toboghe con i sedili l’uno dietro l’altro",
             "nl-NL": "Achtbaankarretjes in de vorm van een rodelslee, waarin de passagiers achter elkaar zitten.",
             "sv-SE": "Kälkformade berg- och dalbanevagnar med säten i en rad",
             "ko-KR": "한 줄로 탑승하는 터보건 썰매 모양의 롤러코스터",
@@ -92,7 +94,9 @@
             "ja-JP": "リュージュ形の座席が直列したローラーコースターです",
             "pl-PL": "Kolejka górska z wagonikami w kształcie sanek, w których pasażerowie siedzą jeden za drugim",
             "ru-RU": "Вагончики в виде саней для горок",
-            "eo-ZZ": "Sledformaj ĉaroj de onda fervojo kun kolono da seĝoj"
+            "eo-ZZ": "Sledformaj ĉaroj de onda fervojo kun kolono da seĝoj",
+            "ca-ES": "Muntanya russa amb cotxes en forma de trineu on els passatgers seuen un darrere l’altre.",
+            "fi-FI": "Kelkan muotoiset vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -103,14 +107,16 @@
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
             "ko-KR": "차량당 4명의 승객",
-            "zh-CN": "4 位乘客/每个车厢",
+            "zh-CN": "4位乘客/车",
             "zh-TW": "4 位乘客/每個車廂",
             "pt-BR": "4 passageiros por vagão",
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

@@ -64,7 +64,9 @@
             "pl-PL": "Wyścigi żółwi",
             "pt-BR": "Botes Tartaruga",
             "ru-RU": "Черепаха",
-            "eo-ZZ": "Testudo-Boatoj"
+            "eo-ZZ": "Testudo-Boatoj",
+            "ca-ES": "Bots tortuga",
+            "fi-FI": "Kilpikonnaveneet"
         },
         "description": {
             "en-GB": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
@@ -81,24 +83,28 @@
             "pl-PL": "Małe okrągłe pontony napędzane silnikiem zamontowanym centralnie i sterowanym przez pasażerów",
             "pt-BR": "Pequenos botes circulares de tartaruga movidos por um motor central e controlado pelos passageiros",
             "ru-RU": "Маленькие круглые шлюпки с моторчиком",
-            "eo-ZZ": "Malgrandaj rondaj boatetoj ŝaltitaj per centra motoro, kiun la pasaĝeroj funkciigas"
+            "eo-ZZ": "Malgrandaj rondaj boatetoj ŝaltitaj per centra motoro, kiun la pasaĝeroj funkciigas",
+            "ca-ES": "Bots inflables petits circulars amb un motor central controlat pels passatgers.",
+            "fi-FI": "Pienet pyöreät veneet, joita kuljettaa matkustajien ohjaama moottori"
         },
         "capacity": {
             "en-GB": "2 passengers per boat",
             "fr-FR": "2 passagers par voiture",
-            "de-DE": "2 pro Boot",
+            "de-DE": "2 Fahrgäste pro Boot",
             "es-ES": "2 pasajeros por bote",
             "it-IT": "2 passeggeri per imbarcazione",
             "nl-NL": "2 passagiers per boot",
             "sv-SE": "2 passagerare per båt",
-            "zh-CN": "? 每艘船限乘2人",
+            "zh-CN": "2位乘客/船",
             "cs-CZ": "2 místa v každé lodi",
             "ja-JP": "各ボート2名",
             "ko-KR": "보트당 2명의 승객",
             "pl-PL": "2 pasażerów na łódkę",
             "pt-BR": "2 passageiros por bote",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por boato"
+            "eo-ZZ": "Po 2 pasaĝeroj por boato",
+            "ca-ES": "2 passatgers per barca",
+            "fi-FI": "2 matkustajaa per vene"
         }
     }
 }

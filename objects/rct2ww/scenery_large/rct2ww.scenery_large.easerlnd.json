@@ -45,10 +45,10 @@
     "strings": {
         "name": {
             "en-GB": "Easter Island Statue",
-            "fr-FR": "Statue de l'île de Pâques 1",
+            "fr-FR": "Statue de l’île de Pâques 1",
             "de-DE": "Osterinselstatue",
             "es-ES": "Estatua de la isla de Pascua 1",
-            "it-IT": "Statua dell'isola di Pasqua 1",
+            "it-IT": "Statua dell’isola di Pasqua 1",
             "nl-NL": "Beeld Paaseiland 1",
             "sv-SE": "Påskö-staty 1",
             "cs-CZ": "Socha Velikonočního ostrova",
@@ -57,7 +57,10 @@
             "ru-RU": "Статуя о. Пасхи",
             "pt-BR": "Estátua da Ilha de Páscoa",
             "ja-JP": "イースター島の像",
-            "eo-ZZ": "Statuo de Paskinsulo"
+            "eo-ZZ": "Statuo de Paskinsulo",
+            "ca-ES": "Estàtua de l’illa de Pasqua",
+            "fi-FI": "Pääsiäissaarten patsas",
+            "zh-CN": "复活节岛雕像"
         }
     }
 }

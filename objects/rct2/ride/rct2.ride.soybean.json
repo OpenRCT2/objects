@@ -36,7 +36,9 @@
             "ja-JP": "豆乳ショップ",
             "pl-PL": "Kiosk z mlekiem sojowym",
             "ru-RU": "Молочный киоск",
-            "eo-ZZ": "Sojlaktobudo"
+            "eo-ZZ": "Sojlaktobudo",
+            "ca-ES": "Estand de llet de soja",
+            "fi-FI": "Soijamaitokoju"
         },
         "description": {
             "en-GB": "A stall selling cartons of soybean milk",
@@ -54,7 +56,9 @@
             "ja-JP": "パック入りの豆乳を売る売店です",
             "pl-PL": "Stoisko sprzedające kartoniki z mlekiem sojowym",
             "ru-RU": "Палатка с молоком",
-            "eo-ZZ": "Budo vendanta kartonojn da sojlakto"
+            "eo-ZZ": "Budo vendanta kartonojn da sojlakto",
+            "ca-ES": "Un estand en el qual es venen brics de llet de soja.",
+            "fi-FI": "Koju, joka myy soijamaitoa tölkeissä"
         }
     }
 }

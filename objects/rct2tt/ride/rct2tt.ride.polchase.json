@@ -98,7 +98,10 @@
             "ja-JP": "パトカー型トレイン",
             "pl-PL": "Policyjny pościg",
             "ru-RU": "Горки-Погоня",
-            "eo-ZZ": "Policaj-Aŭtoj-Trajnoj"
+            "eo-ZZ": "Policaj-Aŭtoj-Trajnoj",
+            "ca-ES": "Muntanya russa de cotxes de policia",
+            "fi-FI": "Poliisiautovaunut",
+            "zh-CN": "警车过山车"
         },
         "description": {
             "en-GB": "Roller coaster trains with lap bars capable of travelling through vertical loops, themed to look like police cars",
@@ -115,7 +118,10 @@
             "ja-JP": "垂直ループが可能な、膝の安全バーが付いたパトロールカーのようなローラーコースターです",
             "pl-PL": "Kolejka górska z pętlami, w której pasażerowie jadą na siedząco",
             "ru-RU": "Круговые горки. Люди едут сидя.",
-            "eo-ZZ": "Trajnoj de onda fervojo kun sinobridoj, kiuj kapablas veturi tra vertikalaj lopoj, kaj estas temitaj por aspeki kiel policajn aŭtojn"
+            "eo-ZZ": "Trajnoj de onda fervojo kun sinobridoj, kiuj kapablas veturi tra vertikalaj lopoj, kaj estas temitaj por aspeki kiel policajn aŭtojn",
+            "ca-ES": "Muntanyes russes amb subjecció simple per la falda amb inversions verticals tematitzades com a cotxes de policia.",
+            "fi-FI": "Turvakaiteilla varustetut poliisiauton näköisiksi teematut vuoristoratavaunut, jotka kykenee pystysuoriin silmukoihin",
+            "zh-CN": "过山车车辆带有能够通过垂直环行进的膝上杆，主题看起来像警车"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -132,7 +138,10 @@
             "cs-CZ": "4 místa v každém voze",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 чел. в кабине",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu",
+            "zh-CN": "4位乘客/车"
         }
     }
 }

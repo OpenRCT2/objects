@@ -20,7 +20,7 @@
             "it-IT": "Neve / Ghiaccio",
             "nl-NL": "Sneeuw / IJs",
             "ko-KR": "눈 / 얼음",
-            "zh-CN": "雪 / 冰",
+            "zh-CN": "雪/冰",
             "ar-EG": "ثلج / جليد",
             "nb-NO": "Snø / is",
             "hu-HU": "Havas / jeges",
@@ -30,7 +30,9 @@
             "fr-FR": "Neige/glace",
             "pl-PL": "Śnieg / Lód",
             "eo-ZZ": "Neĝo / Glacio",
-            "sv-SE": "Snö / is"
+            "sv-SE": "Snö / is",
+            "ca-ES": "Neu / Gel",
+            "fi-FI": "Lumi/jää"
         }
     }
 }

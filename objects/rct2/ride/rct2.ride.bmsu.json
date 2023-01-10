@@ -109,7 +109,9 @@
             "ja-JP": "立ち乗り・ツイスター・コースター",
             "pl-PL": "Kolejka stojąca",
             "ru-RU": "Стоячие горки",
-            "eo-ZZ": "Stariĝantaj Tvisto-Trajnoj"
+            "eo-ZZ": "Stariĝantaj Tvisto-Trajnoj",
+            "ca-ES": "Trens Tornado a peu dret",
+            "fi-FI": "Seisomakiehkuravaunut"
         },
         "description": {
             "en-GB": "A train with shoulder restraints, in which the riders stand up",
@@ -127,7 +129,9 @@
             "ja-JP": "特殊な安全装置の付いた幅広の立ち乗りコースターで、スムーズな降下や複数の反転のあるコースを疾走します",
             "pl-PL": "Pasażerowie jadą w pozycji stojącej w szerokich wagonikach ze specjalnie zaprojektowanymi zabezpieczeniami, pokonując gładkie spadki i liczne ostre zakręty",
             "ru-RU": "Посетители едут стоя в широких поездах в специальных креплениях.",
-            "eo-ZZ": "Trajno kun ŝultrobridoj, en kiuj la rajdantoj stariĝas"
+            "eo-ZZ": "Trajno kun ŝultrobridoj, en kiuj la rajdantoj stariĝas",
+            "ca-ES": "Un tren amb subjecció per l’espatlla en la qual els passatgers van drets.",
+            "fi-FI": "Seisoma-asennossa matkustettavat vaunut olkaturvakaiteilla"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -138,14 +142,16 @@
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
             "ko-KR": "차량당 4명의 승객",
-            "zh-CN": "4 位乘客/每个车厢",
+            "zh-CN": "4位乘客/车",
             "zh-TW": "4 位乘客/每個車廂",
             "pt-BR": "4 passageiros por vagão",
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

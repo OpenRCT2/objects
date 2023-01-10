@@ -18,11 +18,11 @@
     "strings": {
         "name": {
             "en-GB": "Suspension Bridge Base Spacer Piece",
-            "fr-FR": "Pièce d'espacement de pont suspendu",
+            "fr-FR": "Pièce d’espacement de pont suspendu",
             "de-DE": "Hängebrücke - Basisdistanzstück",
             "es-ES": "Pieza espaciadora de la base del puente suspendido",
             "it-IT": "Pezzo di distanziatore della base di ponte sospeso",
-            "nl-NL": "Basisstuk Hangbrug Afstandsstuk",
+            "nl-NL": "Afstandsstuk voor basis hangbrug",
             "sv-SE": "Baskopplingsdel för hängbro",
             "zh-CN": "吊桥基底间隔一块",
             "cs-CZ": "Zavěšený most",
@@ -31,7 +31,9 @@
             "ru-RU": "Подвесной Мостик",
             "pt-BR": "Peça Espaçadora de Base da Ponte Suspensa",
             "ja-JP": "吊り橋　土台部分",
-            "eo-ZZ": "Bazoparto-Interaĵo de Pentoponto"
+            "eo-ZZ": "Bazoparto-Interaĵo de Pentoponto",
+            "ca-ES": "Peça espaiadora de base de pont penjant",
+            "fi-FI": "Riippusillan perustan väliosa"
         }
     }
 }

@@ -110,7 +110,7 @@
             "fr-FR": "Montagnes du congre",
             "de-DE": "Conger-Aal-Züge",
             "es-ES": "Montaña Rusa Anguila Conger",
-            "it-IT": "L'anguilla",
+            "it-IT": "L’anguilla",
             "nl-NL": "Palingtrein",
             "sv-SE": "Berg- och ålbana",
             "zh-CN": "鳗鱼飞车",
@@ -120,34 +120,38 @@
             "pl-PL": "Węgorz",
             "pt-BR": "Montanha-Russa Enguia Conger",
             "ru-RU": "Угрь-Конга",
-            "eo-ZZ": "Kongro-Trajnoj"
+            "eo-ZZ": "Kongro-Trajnoj",
+            "ca-ES": "Muntanya russa Congri",
+            "fi-FI": "Meriankeriasvaunut"
         },
         "description": {
             "en-GB": "Trains with shoulder restraints, in the shape of conger eels",
-            "fr-FR": "Montagnes russes compactes et métalliques sur lesquelles le train en forme d'anguille effectue tire-bouchons et boucles",
+            "fr-FR": "Montagnes russes compactes et métalliques sur lesquelles le train en forme d’anguille effectue tire-bouchons et boucles",
             "de-DE": "Aalförmige Züge mit Schulterhalterungen",
             "es-ES": "Una montaña rusa compacta de acero, donde un tren con forma de anguila circula por rizos y sacacorchos",
-            "it-IT": "Un compatto ottovolante d'acciaio con carrozze a forma di anguilla che percorrono avvitamenti e giri della morte",
+            "it-IT": "Un compatto ottovolante d’acciaio con carrozze a forma di anguilla che percorrono avvitamenti e giri della morte",
             "nl-NL": "Een compacte stalen achtbaan waar de palingvormige trein door schroeven en loopings gaat.",
             "sv-SE": "Ålformade vagnar med axelbyglar",
-            "zh-CN": "一座以钢铁轨道组成的云霄飞车它的鳗鱼外型列车会穿过曲折循环的轨道",
+            "zh-CN": "一座以钢铁轨道组成的过山车它的鳗鱼外型列车会穿过曲折循环的轨道",
             "ja-JP": "シートベルトの付いた、あなごの形のローラーコースターです",
             "cs-CZ": "Horská dráha, na které vozy s ramenními opěrkami připomínající mořské úhoře",
             "ko-KR": "어깨 안전바가 있는 뱀장어 모양의 차량",
             "pl-PL": "Niewielka kolejka górska ze stalowym torem. Zestaw wagoników w kształcie węgorza pokonuje liczne korkociągi i pętle",
             "pt-BR": "Uma montanha russa de aço compacta onde trens com formato de enguia viajam por parafusos e loops",
             "ru-RU": "Компактные горки с вагончиками в виде рыбы",
-            "eo-ZZ": "Trajnoj kun ŝultrobridoj, formitaj kiel kongroj"
+            "eo-ZZ": "Trajnoj kun ŝultrobridoj, formitaj kiel kongroj",
+            "ca-ES": "Trens en forma de congri amb subjecció a l’espatlla.",
+            "fi-FI": "Meriankeriaan muotoiset vaunut, joissa on olkaturvakaiteet"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
             "fr-FR": "4 passagers par voiture",
-            "de-DE": "4 pro Wagen",
+            "de-DE": "4 Fahrgäste pro Wagen",
             "es-ES": "4 pasajeros por vagón",
             "it-IT": "4 passeggeri per carrozza",
             "nl-NL": "4 passagiers per karretje",
             "sv-SE": "4 passagerare per vagn",
-            "zh-CN": "每辆车限乘4人",
+            "zh-CN": "4位乘客/车",
             "ja-JP": "各車両4名",
             "ar-EG": "4 راكبين لكل عربة",
             "cs-CZ": "4 místa v každém voze",
@@ -155,7 +159,9 @@
             "pl-PL": "4 pasażerów na wagonik",
             "pt-BR": "4 passageiros por carro",
             "ru-RU": "4 пассажира",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

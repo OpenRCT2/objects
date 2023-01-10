@@ -385,7 +385,9 @@
             "nb-NO": "Karusell",
             "pl-PL": "Karuzela obrotowa",
             "ru-RU": "Карусель",
-            "eo-ZZ": "Karuselo"
+            "eo-ZZ": "Karuselo",
+            "ca-ES": "Cavallets tradicionals",
+            "fi-FI": "Karuselli"
         },
         "description": {
             "en-GB": "Traditional rotating carousel with carved wooden horses",
@@ -403,7 +405,9 @@
             "ja-JP": "昔ながらの木彫りの回転木馬です",
             "pl-PL": "Tradycyjna karuzela z drewnianymi konikami",
             "ru-RU": "Обычная Карусель с деревянными лошадками",
-            "eo-ZZ": "Tradicia turniĝanta karuselo kun ĉizitaj lignaj ĉevaloj"
+            "eo-ZZ": "Tradicia turniĝanta karuselo kun ĉizitaj lignaj ĉevaloj",
+            "ca-ES": "Cavallets tradicionals amb cavalls esculpits de fusta.",
+            "fi-FI": "Vanhanaikainen pyörivä karuselli kaiverrettujen puuhevosien kera"
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -414,14 +418,16 @@
             "nl-NL": "16 passagiers",
             "sv-SE": "16 passagerare",
             "ko-KR": "승객 16명",
-            "zh-CN": "16 位乘客",
+            "zh-CN": "16位乘客",
             "zh-TW": "16 位乘客",
             "pt-BR": "16 passageiros",
             "cs-CZ": "16 návštěvníků",
             "ja-JP": "定員16名",
             "pl-PL": "16 pasażerów",
             "ru-RU": "16 пассажиров",
-            "eo-ZZ": "16 pasaĝeroj"
+            "eo-ZZ": "16 pasaĝeroj",
+            "ca-ES": "16 passatgers",
+            "fi-FI": "16 matkustajaa"
         }
     }
 }

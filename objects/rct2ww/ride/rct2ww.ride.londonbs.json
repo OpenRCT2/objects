@@ -80,7 +80,9 @@
             "pl-PL": "Londyński piętrus",
             "pt-BR": "Ônibus Routemaster",
             "ru-RU": "Автобус",
-            "eo-ZZ": "Londonaj Etaĝaj Busoj"
+            "eo-ZZ": "Londonaj Etaĝaj Busoj",
+            "ca-ES": "Autobusos londinencs",
+            "fi-FI": "Routemaster-bussit"
         },
         "description": {
             "en-GB": "Replicas of the famous London Routemaster bus",
@@ -99,24 +101,28 @@
             "pl-PL": "Wagoniki są replikami londyńskich autobusów",
             "pt-BR": "Réplicas do famoso ônibus Routemaster de Londres",
             "ru-RU": "Автобус",
-            "eo-ZZ": "Replikaĵoj de la fama Londona Etaĝa Buso"
+            "eo-ZZ": "Replikaĵoj de la fama Londona Etaĝa Buso",
+            "ca-ES": "Rèpliques del famos autobús londinenc Routemaster.",
+            "fi-FI": "Lontoon kuuluisan Routemaster-bussin jäljennökset"
         },
         "capacity": {
             "en-GB": "10 passengers per car",
             "fr-FR": "10 passagers par voiture",
-            "de-DE": "10 pro Waggon",
+            "de-DE": "10 Fahrgäste pro Wagen",
             "es-ES": "10 pasajeros por vagón",
             "it-IT": "10 passeggeri per carrozza",
             "nl-NL": "10 passagiers per bus",
             "sv-SE": "10 passagerare per buss",
-            "zh-CN": "每辆车限乘10人",
+            "zh-CN": "10位乘客/车",
             "ja-JP": "各車両10名",
             "cs-CZ": "10 míst v každém voze",
             "ko-KR": "차량당 10명의 승객",
             "pl-PL": "10 pasażerów na wagonik",
             "pt-BR": "10 passageiros por carro",
             "ru-RU": "10 пассажиров в вагон",
-            "eo-ZZ": "Po 10 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 10 pasaĝeroj por ĉaro",
+            "ca-ES": "10 passatgers per cotxe",
+            "fi-FI": "10 matkustajaa per vaunu"
         }
     }
 }

@@ -36,7 +36,9 @@
             "ja-JP": "ワンタンスープ店",
             "pl-PL": "Kiosk z zupą wonton",
             "ru-RU": "Супная",
-            "eo-ZZ": "Huntuna-Supobudo"
+            "eo-ZZ": "Huntuna-Supobudo",
+            "ca-ES": "Paradeta de sopa de wonton",
+            "fi-FI": "Wontonkeittokoju"
         },
         "description": {
             "en-GB": "A stall selling Wonton Soup",
@@ -54,7 +56,9 @@
             "ja-JP": "ワンタンスープを売る売店です",
             "pl-PL": "Stoisko sprzedające zupę z uszkami wonton",
             "ru-RU": "Лоток, где разливают суп.",
-            "eo-ZZ": "Budo vendanta Huntunan Supon"
+            "eo-ZZ": "Budo vendanta Huntunan Supon",
+            "ca-ES": "Un estand on es ven sopa de wonton.",
+            "fi-FI": "Koju, joka myy wontonkeittoa"
         }
     }
 }

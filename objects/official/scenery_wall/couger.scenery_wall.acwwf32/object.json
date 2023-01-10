@@ -9,7 +9,7 @@
         "isAllowedOnSlope": true,
         "height": 4,
         "price": 80,
-        "sceneryGroup": "SCGFENCE"
+        "sceneryGroup": "rct2.scenery_group.scgwalls"
     },
     "images": [
         {
@@ -69,22 +69,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Wall",
-            "fr-FR": "Mur",
-            "de-DE": "Wand",
-            "es-ES": "Pared",
-            "it-IT": "Muro",
-            "nl-NL": "Muur",
-            "sv-SE": "Mur",
-            "ko-KR": "벽",
-            "zh-CN": "墙",
-            "zh-TW": "牆",
-            "pt-BR": "Parede",
-            "cs-CZ": "Stěna",
-            "ja-JP": "壁",
-            "pl-PL": "Ściana",
-            "ru-RU": "Блок",
-            "eo-ZZ": "Muro"
+            "en-GB": "Wooden Post Wall",
+            "fr-FR": "Tableau d’affichage en bois",
+            "de-DE": "Holzpfostenwand",
+            "es-ES": "Pared de Madera",
+            "it-IT": "Muro di pali di legno",
+            "nl-NL": "Muur van houten palen",
+            "sv-SE": "Träpalissadvägg",
+            "ko-KR": "나무 기둥 벽",
+            "zh-CN": "木柱墙",
+            "pt-BR": "Parede de Poste de Madeira",
+            "ja-JP": "木製のポスト壁",
+            "eo-ZZ": "Muro el Lignaj Fostoj",
+            "ar-EG": "حائط خشبي",
+            "ca-ES": "Paret de pals de fusta",
+            "da-DK": "Træ stolpe væg",
+            "fi-FI": "Puinen tolppaseinä",
+            "hu-HU": "Fa sánckerítés",
+            "tr-TR": "Direkli ahşap duvar"
         }
     }
 }

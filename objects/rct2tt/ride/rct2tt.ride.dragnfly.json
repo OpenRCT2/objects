@@ -59,7 +59,10 @@
             "cs-CZ": "Šídlí horská dráha",
             "pl-PL": "Ważka jazda",
             "ru-RU": "Стрекоза",
-            "eo-ZZ": "Libelo-Ĉaroj"
+            "eo-ZZ": "Libelo-Ĉaroj",
+            "ca-ES": "Cotxes libèl·lula",
+            "fi-FI": "Sudenkorentovaunut",
+            "zh-CN": "蜻蜓车"
         },
         "description": {
             "en-GB": "Dragonfly-shaped cars which swing from the rail above",
@@ -76,7 +79,10 @@
             "cs-CZ": "Návštěvníci jedou na jednokolejné trati zavěšeni ve speciálním voze, který se v zatáčkách houpe",
             "pl-PL": "Pasażerowie jadą w specjalnych wagonikach podwieszonych pod jednoszynowym torem, wychylając się swobodnie na zakrętach",
             "ru-RU": "Люди едут по рельсу в подвешенных, раскачивающихся кабинках.",
-            "eo-ZZ": "Libeloformaj ĉaroj, kiuj svingiĝas sub la relo supere"
+            "eo-ZZ": "Libeloformaj ĉaroj, kiuj svingiĝas sub la relo supere",
+            "ca-ES": "Cotxes en forma de libèl·lula que es balancegen des del rail superior.",
+            "fi-FI": "Sudenkorennon muotoiset vaunut, jotka keinuvat kiskon alla",
+            "zh-CN": "从上面的铁轨摆动的蜻蜓形车"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -93,7 +99,10 @@
             "cs-CZ": "2 místa v každém voze",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 чел. в кабинке",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu",
+            "zh-CN": "2位乘客/车"
         }
     }
 }

@@ -23,7 +23,7 @@
         "name": {
             "en-GB": "Toffee Apple Stall",
             "en-US": "Candy Apple Stall",
-            "fr-FR": "Pomme d'amour",
+            "fr-FR": "Pomme d’amour",
             "de-DE": "Karamellapfelstand",
             "es-ES": "Puesto manzanas de caramelo",
             "it-IT": "Chiosco di mele caramellate",
@@ -37,12 +37,14 @@
             "ja-JP": "リンゴ飴店",
             "pl-PL": "Kiosk z jabłkami w polewie",
             "ru-RU": "Конфеты",
-            "eo-ZZ": "Sukerpomobudo"
+            "eo-ZZ": "Sukerpomobudo",
+            "ca-ES": "Paradeta de pomes de caramel",
+            "fi-FI": "Toffeeomenakoju"
         },
         "description": {
             "en-GB": "An apple-shaped stall selling toffee apples on a stick",
             "en-US": "An apple-shaped stall selling candy apples on a stick",
-            "fr-FR": "Boutique en forme de pomme vendant des pommes d'amour",
+            "fr-FR": "Boutique en forme de pomme vendant des pommes d’amour",
             "de-DE": "Ein apfelförmiger Stand, an dem Karamelläpfel am Stiel verkauft werden",
             "es-ES": "Un puesto con forma de manzana que vende manzanas de caramelo",
             "it-IT": "Un chiosco a forma di mela che vende mele caramellate infilzate su un bastoncino",
@@ -56,7 +58,9 @@
             "ja-JP": "棒にさしたリンゴアメを売る、リンゴ形の売店です",
             "pl-PL": "Stoisko w kształcie jabłka, sprzedające jabłka oblane polewą toffi",
             "ru-RU": "Палатка с яблочными конфетами.",
-            "eo-ZZ": "Pomoforma budo vendanta sukerpomojn kun bastoneto"
+            "eo-ZZ": "Pomoforma budo vendanta sukerpomojn kun bastoneto",
+            "ca-ES": "Un estand en forma de poma que ven pomes de caramel amb un pal.",
+            "fi-FI": "Omenan muotoinen koju, joka myy toffeeomenoita tikun nokassa"
         }
     }
 }

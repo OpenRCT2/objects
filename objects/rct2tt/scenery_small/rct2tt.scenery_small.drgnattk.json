@@ -26,7 +26,7 @@
     "strings": {
         "name": {
             "en-GB": "Dragon Attacking",
-            "fr-FR": "Dragon à l'attaque",
+            "fr-FR": "Dragon à l’attaque",
             "de-DE": "Drachenangriff",
             "es-ES": "Ataque de dragón",
             "it-IT": "Drago che attacca",
@@ -39,7 +39,10 @@
             "pl-PL": "Atakujący smok",
             "ru-RU": "Дракон",
             "ja-JP": "ドラゴン・アタック",
-            "eo-ZZ": "Drako Atakanta"
+            "eo-ZZ": "Drako Atakanta",
+            "ca-ES": "Drac atacant",
+            "fi-FI": "Hyökkäävä lohikäärme",
+            "zh-CN": "攻击的龙"
         }
     }
 }

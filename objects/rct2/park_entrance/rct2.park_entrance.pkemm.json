@@ -13,10 +13,10 @@
     "strings": {
         "name": {
             "en-GB": "Park Entrance Gates",
-            "fr-FR": "Portes d'entrée du parc",
+            "fr-FR": "Portes d’entrée du parc",
             "de-DE": "Parkeingangstore",
             "es-ES": "Puertas de entrada al parque",
-            "it-IT": "Cancelli d'entrata del parco",
+            "it-IT": "Cancelli d’entrata del parco",
             "nl-NL": "Parkingang met ijzeren poorten",
             "sv-SE": "Ingångsportar till parken",
             "ko-KR": "공원 출입구",
@@ -28,7 +28,9 @@
             "pl-PL": "Wejście - brama",
             "ru-RU": "Ворота парка",
             "ar_EG": "بوابات مدخل الحديقة",
-            "eo-ZZ": "Pasejo de Parkenirejo"
+            "eo-ZZ": "Pasejo de Parkenirejo",
+            "ca-ES": "Portes d’entrada al parc",
+            "fi-FI": "Sisäänkäyntiportit"
         }
     }
 }

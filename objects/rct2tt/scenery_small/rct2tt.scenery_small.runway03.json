@@ -23,7 +23,7 @@
     "strings": {
         "name": {
             "en-GB": "Runway Corner Piece",
-            "fr-FR": "Section de virage de piste d'atterrissage",
+            "fr-FR": "Section de virage de piste d’atterrissage",
             "de-DE": "Landebahn-Eckstück",
             "es-ES": "Sección de esquina de autopista",
             "it-IT": "Tratto di curva in salita",
@@ -36,7 +36,10 @@
             "pl-PL": "Narożnik bieżni",
             "ru-RU": "Деталь",
             "ja-JP": "滑走路　コーナー部分",
-            "eo-ZZ": "Anguloparto de Aviokurejo"
+            "eo-ZZ": "Anguloparto de Aviokurejo",
+            "ca-ES": "Part de cantonada d’autopista",
+            "fi-FI": "Kiitoradan kulmaosa",
+            "zh-CN": "跑道-转角"
         }
     }
 }

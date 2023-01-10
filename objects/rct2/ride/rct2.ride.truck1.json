@@ -85,7 +85,9 @@
             "nl-NL": "Pickuptrucks",
             "pl-PL": "Furgonetki",
             "ru-RU": "Грузовики",
-            "eo-ZZ": "Kamionetoj"
+            "eo-ZZ": "Kamionetoj",
+            "ca-ES": "Camionetes",
+            "fi-FI": "Lava-autot"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of pickup trucks",
@@ -103,25 +105,29 @@
             "ja-JP": "ピックアップトラックの形をした、動力付きの乗物です",
             "pl-PL": "Pojazdy z napędem mające kształt półciężarówek",
             "ru-RU": "Powered vehicles in the shape of pickup trucks",
-            "eo-ZZ": "Ŝaltitaj veturiloj formitaj kiel kamionetoj"
+            "eo-ZZ": "Ŝaltitaj veturiloj formitaj kiel kamionetoj",
+            "ca-ES": "Vehicles tematitzats com a camionetes.",
+            "fi-FI": "Lava-auton muotoiset moottoroidut ajoneuvot"
         },
         "capacity": {
             "en-GB": "1 passenger per truck",
             "fr-FR": "1 passager par camion",
-            "de-DE": "1 Passagier pro Wagen",
+            "de-DE": "1 Fahrgast pro Wagen",
             "es-ES": "1 pasajero por vehículo",
             "it-IT": "1 passeggero a camion",
             "nl-NL": "1 passagier per truck",
             "sv-SE": "1 passagerare per lastbil",
             "ko-KR": "트럭당 승객 1명",
-            "zh-CN": "1 位乘客/每辆货车",
+            "zh-CN": "1 位乘客/车",
             "zh-TW": "1 位乘客/每輛貨車",
             "pt-BR": "1 passageiro por picape",
             "cs-CZ": "1 místo v každém voze",
             "ja-JP": "各車両1名",
             "pl-PL": "1 pasażer na samochód",
             "ru-RU": "1 пассажир",
-            "eo-ZZ": "Po 1 pasaĝero por kamiono"
+            "eo-ZZ": "Po 1 pasaĝero por kamiono",
+            "ca-ES": "1 passatger per camioneta",
+            "fi-FI": "1 matkustaja per auto"
         }
     }
 }

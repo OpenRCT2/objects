@@ -58,7 +58,9 @@
             "ja-JP": "スキーリフト車両",
             "pl-PL": "Podniebne krzesełka",
             "ru-RU": "Лыжные кресла",
-            "eo-ZZ": "Skilifto-Seĝoj"
+            "eo-ZZ": "Skilifto-Seĝoj",
+            "ca-ES": "Telecadires",
+            "fi-FI": "Hiihtohissivaunut"
         },
         "description": {
             "en-GB": "Open cars for chairlift",
@@ -69,14 +71,16 @@
             "nl-NL": "Open karretjes in skiliftstijl.",
             "sv-SE": "Stolslift för linbana",
             "ko-KR": "체어 리프트를 위한 개방형 차량",
-            "zh-CN": "开放列车让游客上下山使用",
+            "zh-CN": "开放列车让乘客上下山使用",
             "zh-TW": "供纜車使用的開放式車卡",
             "pt-BR": "Carros abertos para teleférico",
             "cs-CZ": "Lanovka se sedačkami",
             "ja-JP": "屋根のないリフトカーです",
             "pl-PL": "Kolejka krzesełkowa z otwartymi siedziskami",
             "ru-RU": "Открытые вагончики",
-            "eo-ZZ": "Subĉielaj ĉaroj de seĝlifto"
+            "eo-ZZ": "Subĉielaj ĉaroj de seĝlifto",
+            "ca-ES": "Cotxes oberts per al telecadira.",
+            "fi-FI": "Avoilmavaunut tuolihissiin"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -87,14 +91,16 @@
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
             "ko-KR": "차량당 2명의 승객",
-            "zh-CN": "2位乘客/每个车厢",
+            "zh-CN": "2位乘客/车",
             "zh-TW": "每車卡2位乘客",
             "pt-BR": "2 passageiros por carro",
             "cs-CZ": "2 místa na jedné sedačce",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }

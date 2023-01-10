@@ -41,7 +41,9 @@
             "pl-PL": "Toalety",
             "ru-RU": "Туалет",
             "ar-EG": "حمامات",
-            "eo-ZZ": "Necesejoj"
+            "eo-ZZ": "Necesejoj",
+            "ca-ES": "Lavabos",
+            "fi-FI": "Vessa"
         },
         "description": {
             "en-GB": "Basic toilets housed in a prefabricated concrete building",
@@ -61,7 +63,9 @@
             "pl-PL": "Podstawowe toalety w budynku z prefabrykowanego betonu",
             "ru-RU": "Уборная для посетителей парка",
             "ar-EG": "حمامات عادية موضوعة في مباني أسمنتية مسبقة الصنع",
-            "eo-ZZ": "Bazaj necesejoj, kiuj troviĝas en pretkonstruita betona konstruaĵo"
+            "eo-ZZ": "Bazaj necesejoj, kiuj troviĝas en pretkonstruita betona konstruaĵo",
+            "ca-ES": "Serveis bàsics en un edifici de formigó prefabricat.",
+            "fi-FI": "Perusvessa elementtirakenteisessa betonirakennuksessa"
         }
     }
 }

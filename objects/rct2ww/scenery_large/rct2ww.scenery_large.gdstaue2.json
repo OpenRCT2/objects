@@ -51,10 +51,10 @@
     "strings": {
         "name": {
             "en-GB": "Gold Statue 2",
-            "fr-FR": "Statue d'or 2",
+            "fr-FR": "Statue d’or 2",
             "de-DE": "Goldene Statue 2",
             "es-ES": "Estatua de oro 2",
-            "it-IT": "Statua d'oro 2",
+            "it-IT": "Statua d’oro 2",
             "nl-NL": "Gouden standbeeld 2",
             "sv-SE": "Guldstaty 2",
             "cs-CZ": "Zlatá socha 2",
@@ -63,7 +63,10 @@
             "ru-RU": "Статуэтка 2",
             "pt-BR": "Estátua Dourada 2",
             "ja-JP": "黄金の像 2",
-            "eo-ZZ": "Ora Statuo 2"
+            "eo-ZZ": "Ora Statuo 2",
+            "ca-ES": "Estàtua d’or 2",
+            "fi-FI": "Kultainen patsas 2",
+            "zh-CN": "金雕塑2"
         }
     }
 }

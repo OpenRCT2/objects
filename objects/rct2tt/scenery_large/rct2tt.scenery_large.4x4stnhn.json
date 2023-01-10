@@ -113,10 +113,10 @@
     "strings": {
         "name": {
             "en-GB": "Stone Age Temple",
-            "fr-FR": "Temple de l'âge de pierre",
+            "fr-FR": "Temple de l’âge de pierre",
             "de-DE": "Steinzeit-Tempel",
             "es-ES": "Templo de la edad de piedra",
-            "it-IT": "Tempio dell'Età della Pietra",
+            "it-IT": "Tempio dell’Età della Pietra",
             "nl-NL": "Tempel uit de steentijd",
             "sv-SE": "Stenålderstempel",
             "ko-KR": "석기시대 사원",
@@ -126,7 +126,10 @@
             "pl-PL": "Świątynia z epoki kamiennej",
             "ru-RU": "Древний храм",
             "ja-JP": "石器時代の寺",
-            "eo-ZZ": "Ŝtonepoka Templo"
+            "eo-ZZ": "Ŝtonepoka Templo",
+            "ca-ES": "Temple de l’època de pedra",
+            "fi-FI": "Kivikautinen temppeli",
+            "zh-CN": "石器时代的寺庙"
         }
     }
 }

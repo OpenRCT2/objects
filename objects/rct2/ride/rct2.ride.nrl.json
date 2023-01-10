@@ -110,12 +110,14 @@
             "ja-JP": "蒸気機関車",
             "pl-PL": "Pociągi parowe",
             "ru-RU": "Паровозы",
-            "eo-ZZ": "Vaporlokomotivoj"
+            "eo-ZZ": "Vaporlokomotivoj",
+            "ca-ES": "Trens de vapor",
+            "fi-FI": "Höyryjunavaunut"
         },
         "description": {
             "en-GB": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling open wooden carriages",
             "fr-FR": "Trains miniatures comprenant une réplique de locomotive à vapeur et des petits wagons en bois et ouverts",
-            "de-DE": "Mini-Dampfzüge bestehend aus nachgemachter Dampflok und Tender mit offenen Holzwagons",
+            "de-DE": "Mini-Dampfzüge bestehend aus nachgemachter Dampflok und Tender mit offenen Holzwaggons",
             "es-ES": "Trenes vapor en miniatura que son réplicas de las auténticas, tirando de vagones de madera",
             "it-IT": "Treni a vapore in miniatura che replicano le locomotive a vapore e i carri scorta. Trainano carrozze di legno aperte",
             "nl-NL": "Miniatuurstroomtrein bestaande uit een replicastoomlocomotief en tender, die open houten wagons voorttrekt.",
@@ -128,25 +130,29 @@
             "ja-JP": "レプリカの蒸気機関車と炭水車、屋根なしの木製客車からなるミニチュア列車です",
             "pl-PL": "Miniaturowe pociągi składające się z lokomotywy parowej i tendra, ciągnących otwarte drewniane wagoniki",
             "ru-RU": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling open wooden carriages",
-            "eo-ZZ": "Miniaturaj lokomotivoj, kiuj konsistas el replikaĵo de lokomotivo kaj tendro, kaj tiras subĉielajn lignajn kaleŝojn"
+            "eo-ZZ": "Miniaturaj lokomotivoj, kiuj konsistas el replikaĵo de lokomotivo kaj tendro, kaj tiras subĉielajn lignajn kaleŝojn",
+            "ca-ES": "Trens de vapor en miniatura amb una rèplica d’una locomotora a vapor i tènder, estirant vagons de fusta oberts.",
+            "fi-FI": "Pienikokoiset höyryjunat joihin kuuluu höyryveturin jäljitelmä ja hennot puiset vaunut"
         },
         "capacity": {
             "en-GB": "6 passengers per carriage",
             "fr-FR": "6 passagers par voiture",
-            "de-DE": "6 Fahrgäste pro Wagon",
+            "de-DE": "6 Fahrgäste pro Waggon",
             "es-ES": "6 pasajeros por vagón",
             "it-IT": "6 passeggeri a carrozza",
             "nl-NL": "6 passagiers per wagon",
             "sv-SE": "6 passagerare per vagn",
             "ko-KR": "객차당 6명의 승객",
-            "zh-CN": "6 位乘客/每辆马车",
+            "zh-CN": "6位乘客/车",
             "zh-TW": "每車廂6位乘客",
             "pt-BR": "6 passageiros por vagão",
             "cs-CZ": "6 míst v každém vagónu",
             "ja-JP": "各車両6名",
             "pl-PL": "6 pasażerów na wagon",
             "ru-RU": "6 пассажиров",
-            "eo-ZZ": "Po 6 pasaĝeroj por vagono"
+            "eo-ZZ": "Po 6 pasaĝeroj por vagono",
+            "ca-ES": "6 passatgers per vagó",
+            "fi-FI": "6 matkustajaa per vaunu"
         }
     }
 }
