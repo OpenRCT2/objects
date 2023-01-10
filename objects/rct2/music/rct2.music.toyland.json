@@ -14,6 +14,7 @@
             }
         ]
     },
+    "images": ["$RCT2:OBJDATA/CTCAR.DAT[0]"],
     "strings": {
         "name": {
             "en-GB": "Toyland style",
