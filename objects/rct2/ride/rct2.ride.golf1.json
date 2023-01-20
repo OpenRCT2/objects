@@ -8,6 +8,7 @@
     "properties": {
         "type": "mini_golf",
         "category": "gentle",
+        "hideEmptyTrains": true,
         "minCarsPerTrain": 2,
         "maxCarsPerTrain": 2,
         "carsPerFlatRide": 20,
