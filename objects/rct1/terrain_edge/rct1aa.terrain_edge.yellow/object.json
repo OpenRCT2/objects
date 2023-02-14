@@ -11,11 +11,11 @@
     },
     "images": [
         { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$CSG[41030..41197]"
+        "$CSG[41030..41133]"
     ],
     "noCsgImages": [
         { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$G1[1579..1746]"
+        "$G1[1579..1662]"
     ],
     "strings": {
         "name": {
