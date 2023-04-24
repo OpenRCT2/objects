@@ -8,25 +8,10 @@
     "properties": {
         "price": 100,
         "mapColours": [108, 108],
-        "special": [
-            { "rotation": 1, "index": 3 },
-            { "rotation": 1, "grid": true, "index": 4 },
-            { "rotation": 1, "underground": true, "index": 5 },
-            { "rotation": 3, "index": 3 },
-            { "rotation": 3, "grid": true, "index": 4 },
-            { "rotation": 3, "underground": true, "index": 5 }
-        ]
+        "special": [{"rotation": 1,"index": 3},{"rotation": 1,"grid": true,"index": 4},{"rotation": 1,"underground": true,"index": 5},{"rotation": 3,"index": 3},{"rotation": 3,"grid": true,"index": 4},{"rotation": 3,"underground": true,"index": 5}]
     },
-    "images": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$CSG[42375..42431]",
-        "$CSG[42432..42488]"
-    ],
-    "noCsgImages": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$G1[2485..2541]",
-        "$G1[2485..2541]"
-    ],
+    "images": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$CSG[42375..42431]", "$CSG[42432..42488]"],
+    "noCsgImages": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$G1[2485..2541]", "$G1[2485..2541]"],
     "strings": {
         "name": {
             "en-GB": "Rust",
@@ -41,7 +26,8 @@
             "sv-SE": "Rost",
             "ca-ES": "Rovell",
             "fi-FI": "Ruoste",
-            "zh-CN": "腐蚀"
+            "zh-CN": "腐蚀",
+            "ar-EG": "صدأ"
         }
     }
 }

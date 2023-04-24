@@ -7,14 +7,8 @@
     "properties": {
         "noSlopeRailings": true
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$CSG[44493..44543]"
-    ],
-    "noCsgImages": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/PATHCRZY.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$CSG[44493..44543]"],
+    "noCsgImages": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/PATHCRZY.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Crazy Paving Footpath (Sloped)",
@@ -33,7 +27,8 @@
             "pl-PL": "Zwariowana dróżka",
             "ru-RU": "Дорожка",
             "ar-EG": "ممشي مجنون مرصوف",
-            "eo-ZZ": "Freneza-Pavima Trotuaro (Dekliva)"
+            "eo-ZZ": "Freneza-Pavima Trotuaro (Dekliva)",
+            "ca-ES": "Camí d’empedrat boig (amb rampes)"
         }
     }
 }

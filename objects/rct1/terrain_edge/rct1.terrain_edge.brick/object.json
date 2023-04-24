@@ -5,16 +5,9 @@
     "originalId": "0000008C|#RCT1EBR|00000000",
     "sourceGame": "rct1",
     "objectType": "terrain_edge",
-    "properties": {
-    },
-    "images": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$CSG[40506..40589]"
-    ],
-    "noCsgImages": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$G1[1579..1662]"
-    ],
+    "properties": {},
+    "images": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$CSG[40506..40589]"],
+    "noCsgImages": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$G1[1579..1662]"],
     "strings": {
         "name": {
             "en-GB": "Brick",
@@ -29,7 +22,8 @@
             "sv-SE": "Tegelsten",
             "ca-ES": "Maons",
             "fi-FI": "Tiilinen",
-            "zh-CN": "砖块"
+            "zh-CN": "砖块",
+            "ar-EG": "قرميد"
         }
     }
 }

@@ -19,12 +19,7 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": [
-        { "path": "images/0.png", "x": -32, "y": -17 },
-        { "path": "images/1.png", "x": -32, "y": -17 },
-        { "path": "images/2.png", "x": -32, "y": -2 },
-        { "path": "images/3.png", "x": -32, "y": -17 }
-    ],
+    "images": [{"path": "images/0.png","x": -32,"y": -17},{"path": "images/1.png","x": -32,"y": -17},{"path": "images/2.png","x": -32,"y": -2},{"path": "images/3.png","x": -32,"y": -17}],
     "strings": {
         "name": {
             "en-GB": "Roof",
@@ -46,7 +41,8 @@
             "tr-TR": "Çatı",
             "eo-ZZ": "Tegmento",
             "ca-ES": "Teulada",
-            "fi-FI": "Katto"
+            "fi-FI": "Katto",
+            "ar-EG": "سقف"
         }
     }
 }

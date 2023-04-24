@@ -7,16 +7,14 @@
     "properties": {
         "isQueue": true
     },
-    "images": [
-        "$RCT2:OBJDATA/RANBPATH.DAT[72]",
-        "$RCT2:OBJDATA/RANBPATH.DAT[51..70]"
-    ],
+    "images": ["$RCT2:OBJDATA/RANBPATH.DAT[72]", "$RCT2:OBJDATA/RANBPATH.DAT[51..70]"],
     "strings": {
         "name": {
             "en-GB": "Rainbow Queue",
             "de-DE": "Regenbogenwarteschlange",
             "nl-NL": "Regenboogwachtrij",
-            "eo-ZZ": "Ĉielarka Atendovico"
+            "eo-ZZ": "Ĉielarka Atendovico",
+            "ca-ES": "Cua arc de Sant Martí"
         }
     }
 }

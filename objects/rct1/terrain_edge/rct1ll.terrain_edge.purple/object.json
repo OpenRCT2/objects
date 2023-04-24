@@ -9,14 +9,8 @@
         "hasDoors": true,
         "doorSound": 1
     },
-    "images": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$CSG[41238..41341]"
-    ],
-    "noCsgImages": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$G1[1579..1662]"
-    ],
+    "images": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$CSG[41238..41341]"],
+    "noCsgImages": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$G1[1579..1662]"],
     "strings": {
         "name": {
             "en-GB": "Stucco (Purple)",
@@ -29,7 +23,7 @@
             "ko-KR": "흙벽 (보라색)",
             "eo-ZZ": "Stukaĵo (Purpura)",
             "sv-SE": "Stuck (lila)",
-            "ca-ES": "Estuc (Morat)",
+            "ca-ES": "Estuc (morat)",
             "fi-FI": "Stukki (violetti)",
             "zh-CN": "灰泥(紫色)"
         }

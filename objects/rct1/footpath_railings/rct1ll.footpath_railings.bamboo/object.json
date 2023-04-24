@@ -10,26 +10,15 @@
         "scrollingMode": 0,
         "colour": "yellow"
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$CSG[44822..44835]",
-        "$CSG[44808..44821]",
-        "$RCT2:OBJDATA/PATHDIRT.DAT[101..108]",
-        "$CSG[45238..45257]",
-        "$G1[3658..3674]"
-    ],
-    "noCsgImages": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/PATHDIRT.DAT[73..108]",
-        "$G1[3445..3464]",
-        "$G1[3658..3674]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$CSG[44822..44835]", "$CSG[44808..44821]", "$RCT2:OBJDATA/PATHDIRT.DAT[101..108]", "$CSG[45238..45257]", "$G1[3658..3674]"],
+    "noCsgImages": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/PATHDIRT.DAT[73..108]", "$G1[3445..3464]", "$G1[3658..3674]"],
     "strings": {
         "name": {
             "en-GB": "Bamboo Railings (Yellow)",
             "de-DE": "Bambusgeländer (gelb)",
             "nl-NL": "Ondersteuningen van bamboe (geel)",
-            "eo-ZZ": "Bambuaj Balustradoj (Flava)"
+            "eo-ZZ": "Bambuaj Balustradoj (Flava)",
+            "ca-ES": "Baranes de bambú (grogues)"
         }
     }
 }

@@ -11,11 +11,7 @@
         "tabScale": 0.5,
         "hasShelter": true,
         "carsPerFlatRide": 1,
-        "carColours": [
-            [
-                ["moss_green", "yellow", "black"]
-            ]
-        ],
+        "carColours": [[["moss_green", "yellow", "black"]]],
         "cars": {
             "spacing": 139456,
             "mass": 3000,
@@ -31,88 +27,7 @@
             },
             "recalculateSpriteBounds": true,
             "numSegments": 0,
-            "loadingWaypoints": [
-                [
-                    [40, 40],
-                    [-40, 40],
-                    [-36, 0]
-                ],
-                [
-                    [-40, -40],
-                    [-36, 0],
-                    [-36, 0]
-                ],
-                [
-                    [-36, 0],
-                    [-36, 0],
-                    [-36, 0]
-                ],
-                [
-                    [-40, 40],
-                    [-36, 0],
-                    [-36, 0]
-                ],
-                [
-                    [40, 40],
-                    [0, 36],
-                    [0, 36]
-                ],
-                [
-                    [40, -40],
-                    [40, 40],
-                    [0, 36]
-                ],
-                [
-                    [-40, 40],
-                    [0, 36],
-                    [0, 36]
-                ],
-                [
-                    [0, 36],
-                    [0, 36],
-                    [0, 36]
-                ],
-                [
-                    [36, 0],
-                    [36, 0],
-                    [36, 0]
-                ],
-                [
-                    [40, -40],
-                    [36, 0],
-                    [36, 0]
-                ],
-                [
-                    [-40, -40],
-                    [40, -40],
-                    [36, 0]
-                ],
-                [
-                    [40, 40],
-                    [36, 0],
-                    [36, 0]
-                ],
-                [
-                    [40, -40],
-                    [0, -36],
-                    [0, -36]
-                ],
-                [
-                    [0, -36],
-                    [0, -36],
-                    [0, -36]
-                ],
-                [
-                    [-40, -40],
-                    [0, -36],
-                    [0, -36]
-                ],
-                [
-                    [-40, 40],
-                    [-40, -40],
-                    [0, -36]
-                ]
-            ]
+            "loadingWaypoints": [[[40, 40],[-40, 40],[-36, 0]],[[-40, -40],[-36, 0],[-36, 0]],[[-36, 0],[-36, 0],[-36, 0]],[[-40, 40],[-36, 0],[-36, 0]],[[40, 40],[0, 36],[0, 36]],[[40, -40],[40, 40],[0, 36]],[[-40, 40],[0, 36],[0, 36]],[[0, 36],[0, 36],[0, 36]],[[36, 0],[36, 0],[36, 0]],[[40, -40],[36, 0],[36, 0]],[[-40, -40],[40, -40],[36, 0]],[[40, 40],[36, 0],[36, 0]],[[40, -40],[0, -36],[0, -36]],[[0, -36],[0, -36],[0, -36]],[[-40, -40],[0, -36],[0, -36]],[[-40, 40],[-40, -40],[0, -36]]]
         }
     },
     "images": ["$RCT2:OBJDATA/FUNHOUSE.DAT[0..6]"],
@@ -153,7 +68,7 @@
             "pl-PL": "Budynek składający się z ruchomych ścian i podłóg, dezorientujących ludzi, którzy do niego wejdą",
             "ru-RU": "Здание с анимированными стенами и полом дезориентирует людей",
             "eo-ZZ": "Konstruaĵo, kiu enhavas movantajn murojn kaj plankojn por malorienti homojn irante tra tie",
-            "ca-ES": "Edifici que conté parets i terra que es mouen per desorientar les persones que hi entren.",
+            "ca-ES": "Edifici que conté parets i terra que es mouen per a desorientar les persones que hi entren.",
             "fi-FI": "Rakennus, jossa on liikkuvia seiniä ja lattioita läpikulkevien kävijöiden hämmennykseksi",
             "zh-CN": "包含移动墙壁和地板的建筑物，以使穿过它的人迷失方向"
         },

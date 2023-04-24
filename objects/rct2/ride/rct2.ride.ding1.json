@@ -7,22 +7,9 @@
     "objectType": "ride",
     "properties": {
         "type": "dinghy_slide",
-        "category": [
-            "water",
-            "rollercoaster"
-        ],
+        "category": ["water", "rollercoaster"],
         "noCollisionCrashes": true,
-        "carColours": [
-            [
-                ["yellow", "bordeaux_red", "black"]
-            ],
-            [
-                ["bright_red", "white", "black"]
-            ],
-            [
-                ["white", "light_blue", "black"]
-            ]
-        ],
+        "carColours": [[["yellow", "bordeaux_red", "black"]],[["bright_red", "white", "black"]],[["white", "light_blue", "black"]]],
         "cars": {
             "rotationFrameMask": 31,
             "spacing": 200468,
@@ -65,7 +52,8 @@
             "pl-PL": "Ślizg pontonowy",
             "ru-RU": "Шлюпки",
             "eo-ZZ": "Boatetoj",
-            "fi-FI": "Puhallettavat veneet"
+            "fi-FI": "Puhallettavat veneet",
+            "ca-ES": "Bots inflables"
         },
         "description": {
             "en-GB": "Inflatable dinghies that can twist down a semi-circular or completely enclosed tube track",

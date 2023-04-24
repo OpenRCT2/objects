@@ -7,14 +7,8 @@
     "properties": {
         "noSlopeRailings": true
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$CSG[43779..43829]"
-    ],
-    "noCsgImages": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/PATHCRZY.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$CSG[43779..43829]"],
+    "noCsgImages": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/PATHCRZY.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Brown Tiled Footpath",
@@ -27,7 +21,8 @@
             "pl-PL": "Brązowa Mozaikowa Ścieżka",
             "ko-KR": "갈색 타일 보도",
             "eo-ZZ": "Bruna Kahelita Trotuaro",
-            "sv-SE": "Brun stenlagd gångväg"
+            "sv-SE": "Brun stenlagd gångväg",
+            "ca-ES": "Camí enrajolat marró"
         }
     }
 }

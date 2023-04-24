@@ -18,90 +18,8 @@
         "ratingMultipler": {
             "intensity": 10
         },
-        "carColours": [
-            [
-                ["light_blue", "white", "yellow"]
-            ],
-            [
-                ["bright_red", "yellow", "yellow"]
-            ],
-            [
-                ["white", "bordeaux_red", "bordeaux_red"]
-            ]
-        ],
-        "cars": [
-            {
-                "rotationFrameMask": 31,
-                "spacing": 261480,
-                "mass": 600,
-                "numSeats": 4,
-                "numSeatRows": 2,
-                "frictionSoundId": 2,
-                "soundRange": 2,
-                "drawOrder": 5,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true,
-                    "steepSlopes": true,
-                    "verticalSlopes": true,
-                    "diagonalSlopes": true,
-                    "flatBanked": true,
-                    "flatToGentleSlopeBankedTransitions": true,
-                    "diagonalGentleSlopeBankedTransitions": true,
-                    "corkscrews": true,
-                    "restraintAnimation": true
-                },
-                "hasAdditionalColour2": true,
-                "hasAdditionalColour1": true,
-                "hasScreamingRiders": true,
-                "loadingPositions": [5, 3, -7, -9]
-            },
-            {
-                "rotationFrameMask": 31,
-                "spacing": 226616,
-                "mass": 500,
-                "numSeats": 4,
-                "numSeatRows": 2,
-                "frictionSoundId": 2,
-                "soundRange": 2,
-                "drawOrder": 6,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true,
-                    "steepSlopes": true,
-                    "verticalSlopes": true,
-                    "diagonalSlopes": true,
-                    "flatBanked": true,
-                    "flatToGentleSlopeBankedTransitions": true,
-                    "diagonalGentleSlopeBankedTransitions": true,
-                    "corkscrews": true,
-                    "restraintAnimation": true
-                },
-                "hasAdditionalColour2": true,
-                "hasAdditionalColour1": true,
-                "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, -3, -1]
-            },
-            {
-                "rotationFrameMask": 31,
-                "spacing": 52296,
-                "mass": 50,
-                "frictionSoundId": 2,
-                "soundRange": 0,
-                "drawOrder": 8,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true,
-                    "steepSlopes": true,
-                    "verticalSlopes": true,
-                    "diagonalSlopes": true,
-                    "flatBanked": true,
-                    "flatToGentleSlopeBankedTransitions": true,
-                    "diagonalGentleSlopeBankedTransitions": true,
-                    "corkscrews": true
-                }
-            }
-        ]
+        "carColours": [[["light_blue", "white", "yellow"]],[["bright_red", "yellow", "yellow"]],[["white", "bordeaux_red", "bordeaux_red"]]],
+        "cars": [{"rotationFrameMask": 31,"spacing": 261480,"mass": 600,"numSeats": 4,"numSeatRows": 2,"frictionSoundId": 2,"soundRange": 2,"drawOrder": 5,"frames": {"flat": true,"gentleSlopes": true,"steepSlopes": true,"verticalSlopes": true,"diagonalSlopes": true,"flatBanked": true,"flatToGentleSlopeBankedTransitions": true,"diagonalGentleSlopeBankedTransitions": true,"corkscrews": true,"restraintAnimation": true},"hasAdditionalColour2": true,"hasAdditionalColour1": true,"hasScreamingRiders": true,"loadingPositions": [5, 3, -7, -9]},{"rotationFrameMask": 31,"spacing": 226616,"mass": 500,"numSeats": 4,"numSeatRows": 2,"frictionSoundId": 2,"soundRange": 2,"drawOrder": 6,"frames": {"flat": true,"gentleSlopes": true,"steepSlopes": true,"verticalSlopes": true,"diagonalSlopes": true,"flatBanked": true,"flatToGentleSlopeBankedTransitions": true,"diagonalGentleSlopeBankedTransitions": true,"corkscrews": true,"restraintAnimation": true},"hasAdditionalColour2": true,"hasAdditionalColour1": true,"hasScreamingRiders": true,"loadingPositions": [7, 9, -3, -1]},{"rotationFrameMask": 31,"spacing": 52296,"mass": 50,"frictionSoundId": 2,"soundRange": 0,"drawOrder": 8,"frames": {"flat": true,"gentleSlopes": true,"steepSlopes": true,"verticalSlopes": true,"diagonalSlopes": true,"flatBanked": true,"flatToGentleSlopeBankedTransitions": true,"diagonalGentleSlopeBankedTransitions": true,"corkscrews": true}}]
     },
     "images": ["$RCT2:OBJDATA/CONGAEEL.DAT[0..4470]"],
     "strings": {
@@ -121,7 +39,7 @@
             "pt-BR": "Montanha-Russa Enguia Conger",
             "ru-RU": "Угрь-Конга",
             "eo-ZZ": "Kongro-Trajnoj",
-            "ca-ES": "Muntanya russa Congri",
+            "ca-ES": "El Congre",
             "fi-FI": "Meriankeriasvaunut"
         },
         "description": {
@@ -140,7 +58,7 @@
             "pt-BR": "Uma montanha russa de aço compacta onde trens com formato de enguia viajam por parafusos e loops",
             "ru-RU": "Компактные горки с вагончиками в виде рыбы",
             "eo-ZZ": "Trajnoj kun ŝultrobridoj, formitaj kiel kongroj",
-            "ca-ES": "Trens en forma de congri amb subjecció a l’espatlla.",
+            "ca-ES": "Trens en forma de congre amb subjecció a l’espatlla.",
             "fi-FI": "Meriankeriaan muotoiset vaunut, joissa on olkaturvakaiteet"
         },
         "capacity": {

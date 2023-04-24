@@ -7,20 +7,16 @@
     "properties": {
         "isQueue": true
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$CSG[43331..43350]"
-    ],
-    "noCsgImages": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/TARMACG.DAT[51..70]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$CSG[43331..43350]"],
+    "noCsgImages": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/TARMACG.DAT[51..70]"],
     "strings": {
         "name": {
             "en-GB": "Green Queue",
             "de-DE": "Grüne Warteschlange",
             "nl-NL": "Groene wachtrij",
-            "eo-ZZ": "Verda Atendovico"
+            "eo-ZZ": "Verda Atendovico",
+            "ar-EG": "طابور إنتظار أخضر",
+            "ca-ES": "Cua verda"
         }
     }
 }

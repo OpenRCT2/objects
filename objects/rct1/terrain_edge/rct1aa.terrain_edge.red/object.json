@@ -9,14 +9,8 @@
         "hasDoors": true,
         "doorSound": 1
     },
-    "images": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$CSG[40926..41029]"
-    ],
-    "noCsgImages": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$G1[1579..1662]"
-    ],
+    "images": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$CSG[40926..41029]"],
+    "noCsgImages": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$G1[1579..1662]"],
     "strings": {
         "name": {
             "en-GB": "Stucco (Red)",
@@ -29,7 +23,7 @@
             "ko-KR": "흙벽 (빨간색)",
             "eo-ZZ": "Stukaĵo (Ruĝa)",
             "sv-SE": "Stuck (röd)",
-            "ca-ES": "Estuc (Vermell)",
+            "ca-ES": "Estuc (vermell)",
             "fi-FI": "Stukki (punainen)",
             "zh-CN": "灰泥(红色)"
         }

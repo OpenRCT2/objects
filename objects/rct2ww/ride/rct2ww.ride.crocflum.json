@@ -11,55 +11,8 @@
         "tabScale": 0.5,
         "playSplashSound": true,
         "noCollisionCrashes": true,
-        "carColours": [
-            [
-                ["dark_brown", "black", "black"]
-            ]
-        ],
-        "cars": [
-            {
-                "rotationFrameMask": 31,
-                "spacing": 278912,
-                "mass": 250,
-                "numSeats": 4,
-                "numSeatRows": 2,
-                "logFlumeReverserVehicleType": 1,
-                "soundRange": 0,
-                "poweredAcceleration": 100,
-                "poweredMaxSpeed": 6,
-                "effectVisual": 12,
-                "drawOrder": 9,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true
-                },
-                "hasAdditionalColour1": true,
-                "isPowered": true,
-                "hasScreamingRiders": true,
-                "isWaterRide": true,
-                "loadingPositions": [6, 4, -7, -9]
-            },
-            {
-                "rotationFrameMask": 31,
-                "spacing": 8716,
-                "mass": 250,
-                "numSeats": 4,
-                "numSeatRows": 2,
-                "soundRange": 0,
-                "poweredAcceleration": 100,
-                "poweredMaxSpeed": 6,
-                "effectVisual": 12,
-                "drawOrder": 9,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true
-                },
-                "isPowered": true,
-                "hasScreamingRiders": true,
-                "isWaterRide": true,
-                "loadingPositions": [6, 4, -7, -9]
-            }
-        ]
+        "carColours": [[["dark_brown", "black", "black"]]],
+        "cars": [{"rotationFrameMask": 31,"spacing": 278912,"mass": 250,"numSeats": 4,"numSeatRows": 2,"logFlumeReverserVehicleType": 1,"soundRange": 0,"poweredAcceleration": 100,"poweredMaxSpeed": 6,"effectVisual": 12,"drawOrder": 9,"frames": {"flat": true,"gentleSlopes": true},"hasAdditionalColour1": true,"isPowered": true,"hasScreamingRiders": true,"isWaterRide": true,"loadingPositions": [6, 4, -7, -9]},{"rotationFrameMask": 31,"spacing": 8716,"mass": 250,"numSeats": 4,"numSeatRows": 2,"soundRange": 0,"poweredAcceleration": 100,"poweredMaxSpeed": 6,"effectVisual": 12,"drawOrder": 9,"frames": {"flat": true,"gentleSlopes": true},"isPowered": true,"hasScreamingRiders": true,"isWaterRide": true,"loadingPositions": [6, 4, -7, -9]}]
     },
     "images": ["$RCT2:OBJDATA/CROCFLUM.DAT[0..626]"],
     "strings": {
@@ -79,7 +32,7 @@
             "pt-BR": "Barcos Crocodilo",
             "ru-RU": "Крокодил",
             "eo-ZZ": "Krokadilo-Boatoj",
-            "ca-ES": "Atracció Cocodrils",
+            "ca-ES": "Atracció Cocodril",
             "fi-FI": "Krokotiiliveneet"
         },
         "description": {
@@ -98,7 +51,7 @@
             "pt-BR": "Barcos com formato de crocodilo feitos para percorrer canais d’água",
             "ru-RU": "Лодки в форме крокодилов плывут по каналу.",
             "eo-ZZ": "Krokadiloformaj boatoj konstruitaj por veturi en akvokanaloj",
-            "ca-ES": "Barques en forma de cocodril construïdes per circular per canals d’aigua.",
+            "ca-ES": "Barques en forma de cocodril construïdes per a circular per canals d’aigua.",
             "fi-FI": "Krokotiilin muotoiset veneet, jotka on tehty vesikanavissa matkustusta varten"
         },
         "capacity": {

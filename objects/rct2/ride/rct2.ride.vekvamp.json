@@ -15,14 +15,7 @@
             "intensity": 4,
             "nausea": 7
         },
-        "carColours": [
-            [
-                ["black", "dark_purple", "black"]
-            ],
-            [
-                ["bordeaux_red", "black", "yellow"]
-            ]
-        ],
+        "carColours": [[["black", "dark_purple", "black"]],[["bordeaux_red", "black", "yellow"]]],
         "cars": {
             "rotationFrameMask": 31,
             "spacing": 139456,
@@ -49,12 +42,7 @@
         },
         "buildMenuPriority": 2
     },
-    "images": [
-        "$RCT2:OBJDATA/VEKVAMP.DAT[2]",
-        "",
-        "",
-        "$RCT2:OBJDATA/VEKVAMP.DAT[3..3082]"
-    ],
+    "images": ["$RCT2:OBJDATA/VEKVAMP.DAT[2]", "", "", "$RCT2:OBJDATA/VEKVAMP.DAT[3..3082]"],
     "strings": {
         "name": {
             "en-GB": "Swinging Floorless Cars",
@@ -93,7 +81,7 @@
             "pl-PL": "Kolejka górska z podwieszanymi fotelikami typu wyciągu krzesełkowego, które bujają się swobodnie na zakrętach",
             "ru-RU": "Подвесные вагончики, раскачивающиеся во всех направлениях.",
             "eo-ZZ": "Penditaj trajnoj de onda fervojo, kiuj konsistas el ĉarojn, kiuj povas svingiĝi libere kiam la trajno iras ĉirkau anguloj",
-            "ca-ES": "Muntanya russa amb trens penjants que tenen seients d’estil telecadira que es balancegen quan passen per corbes.",
+            "ca-ES": "Muntanya russa amb trens penjants que tenen seients d’estil telecadira que es balancegen quan passen per les corbes.",
             "fi-FI": "Tuolihissin tyyliset vapaasti käänteissä keinuvat riippuvat vuoristoratavaunut"
         },
         "capacity": {

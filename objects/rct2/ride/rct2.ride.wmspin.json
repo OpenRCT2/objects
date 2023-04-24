@@ -8,22 +8,12 @@
     "properties": {
         "type": "spinning_wild_mouse",
         "category": "rollercoaster",
-          "ratingMultipler": {
+        "ratingMultipler": {
             "excitement": 7,
             "intensity": 5,
             "nausea": 43
         },
-        "carColours": [
-            [
-                ["bright_green", "yellow", "bordeaux_red"]
-            ],
-            [
-                ["bright_red", "yellow", "dark_purple"]
-            ],
-            [
-                ["yellow", "light_blue", "saturated_brown"]
-            ]
-        ],
+        "carColours": [[["bright_green", "yellow", "bordeaux_red"]],[["bright_red", "yellow", "dark_purple"]],[["yellow", "light_blue", "saturated_brown"]]],
         "cars": {
             "rotationFrameMask": 31,
             "spacing": 209184,
@@ -87,7 +77,7 @@
             "pl-PL": "Wagoniki w kształcie myszy pokonujące ostre zakręty i krótkie zjazdy, wirujące łagodnie w celu zdezorientowania pasażerów",
             "ru-RU": "Машинки в виде мышек едут по трассе, слегка вращаясь.",
             "eo-ZZ": "Musoformaj ĉaroj, kiuj milde turniĝadas por malorienti la rajdantojn",
-            "ca-ES": "Cotxes en forma de ratolí que giren suaument per desorientar els passatgers.",
+            "ca-ES": "Cotxes en forma de ratolí que giren suaument per a desorientar els passatgers.",
             "fi-FI": "Hiiren muotoiset vaunut, jotka pyörivät leppeästi matkustajien hämmennykseksi"
         },
         "capacity": {

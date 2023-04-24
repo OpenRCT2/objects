@@ -4,10 +4,7 @@
     "version": "1.0",
     "sourceGame": ["rct2tt"],
     "objectType": "footpath_surface",
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/FUTRPATH.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/FUTRPATH.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Circuit Footpath",
@@ -24,7 +21,8 @@
             "pl-PL": "Dróżka obwodowa",
             "ru-RU": "Тропа",
             "ja-JP": "迂回路の歩道",
-            "eo-ZZ": "Cirkvitkarta Trotuaro"
+            "eo-ZZ": "Cirkvitkarta Trotuaro",
+            "ca-ES": "Camí d’estil circuit elèctric"
         }
     }
 }

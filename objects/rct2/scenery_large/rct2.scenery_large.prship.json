@@ -10,64 +10,7 @@
         "removalPrice": -150,
         "cursor": "CURSOR_STATUE_DOWN",
         "isPhotogenic": true,
-        "tiles": [
-            {
-                "x": 0,
-                "y": 0,
-                "clearance": 136,
-                "hasSupports": true,
-                "walls": 9
-            },
-            {
-                "x": 0,
-                "y": 32,
-                "clearance": 136,
-                "hasSupports": true,
-                "walls": 3
-            },
-            {
-                "x": 32,
-                "y": 0,
-                "clearance": 136,
-                "hasSupports": true,
-                "walls": 8
-            },
-            {
-                "x": 32,
-                "y": 32,
-                "clearance": 136,
-                "hasSupports": true,
-                "walls": 2
-            },
-            {
-                "x": 64,
-                "y": 0,
-                "clearance": 136,
-                "hasSupports": true,
-                "walls": 8
-            },
-            {
-                "x": 64,
-                "y": 32,
-                "clearance": 136,
-                "hasSupports": true,
-                "walls": 2
-            },
-            {
-                "x": 96,
-                "y": 0,
-                "clearance": 136,
-                "hasSupports": true,
-                "walls": 12
-            },
-            {
-                "x": 96,
-                "y": 32,
-                "clearance": 136,
-                "hasSupports": true,
-                "walls": 6
-            }
-        ]
+        "tiles": [{"x": 0,"y": 0,"clearance": 136,"hasSupports": true,"walls": 9},{"x": 0,"y": 32,"clearance": 136,"hasSupports": true,"walls": 3},{"x": 32,"y": 0,"clearance": 136,"hasSupports": true,"walls": 8},{"x": 32,"y": 32,"clearance": 136,"hasSupports": true,"walls": 2},{"x": 64,"y": 0,"clearance": 136,"hasSupports": true,"walls": 8},{"x": 64,"y": 32,"clearance": 136,"hasSupports": true,"walls": 2},{"x": 96,"y": 0,"clearance": 136,"hasSupports": true,"walls": 12},{"x": 96,"y": 32,"clearance": 136,"hasSupports": true,"walls": 6}]
     },
     "images": ["$RCT2:OBJDATA/PRSHIP.DAT[0..35]"],
     "strings": {
@@ -90,7 +33,8 @@
             "ru-RU": "Корабль",
             "eo-ZZ": "Pirato-Ŝipo",
             "ca-ES": "Vaixell pirata",
-            "fi-FI": "Merirosvolaiva"
+            "fi-FI": "Merirosvolaiva",
+            "ar-EG": "سفينة قراصنة"
         }
     }
 }

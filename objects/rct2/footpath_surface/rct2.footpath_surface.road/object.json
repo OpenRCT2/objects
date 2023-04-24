@@ -7,10 +7,7 @@
     "properties": {
         "editorOnly": true
     },
-    "images": [
-        "$RCT2:OBJDATA/ROAD.DAT[71]",
-        "$RCT2:OBJDATA/ROAD.DAT[0..50]"
-    ],
+    "images": ["$RCT2:OBJDATA/ROAD.DAT[71]", "$RCT2:OBJDATA/ROAD.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Road",
@@ -29,7 +26,8 @@
             "pl-PL": "Droga",
             "ru-RU": "Путь",
             "ar-Eg": "طريق",
-            "eo-ZZ": "Strato"
+            "eo-ZZ": "Strato",
+            "ca-ES": "Camí pavimentat"
         }
     }
 }

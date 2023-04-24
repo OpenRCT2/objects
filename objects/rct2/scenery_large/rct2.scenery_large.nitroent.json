@@ -10,22 +10,7 @@
         "removalPrice": -10,
         "cursor": "CURSOR_ENTRANCE_DOWN",
         "hasPrimaryColour": true,
-        "tiles": [
-            {
-                "x": 0,
-                "y": 0,
-                "clearance": 40,
-                "walls": 4,
-                "corners": 12
-            },
-            {
-                "x": 0,
-                "y": 32,
-                "clearance": 40,
-                "walls": 4,
-                "corners": 12
-            }
-        ]
+        "tiles": [{"x": 0,"y": 0,"clearance": 40,"walls": 4,"corners": 12},{"x": 0,"y": 32,"clearance": 40,"walls": 4,"corners": 12}]
     },
     "images": ["$RCT2:OBJDATA/NITROENT.DAT[0..11]"],
     "strings": {
@@ -48,7 +33,8 @@
             "eo-ZZ": "‘Nitro’ Afiŝo",
             "ca-ES": "Senyal «Nitro»",
             "fi-FI": "”Nitro”-kyltti",
-            "tr-TR": "‘Nitro’ Sign"
+            "tr-TR": "‘Nitro’ Sign",
+            "ar-EG": "علامة نيترو"
         }
     }
 }

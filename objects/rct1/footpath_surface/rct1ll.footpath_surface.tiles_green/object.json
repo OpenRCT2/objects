@@ -7,14 +7,8 @@
     "properties": {
         "noSlopeRailings": true
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$CSG[44085..44135]"
-    ],
-    "noCsgImages": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/TARMACG.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$CSG[44085..44135]"],
+    "noCsgImages": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/TARMACG.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Green and Brown Tiled Footpath",
@@ -27,7 +21,8 @@
             "pl-PL": "Zielona i Brązowa Mozaikowa Ścieżka",
             "ko-KR": "녹색과 갈색 타일 보도",
             "eo-ZZ": "Verda kaj Bruna Kahelita Trotuaro",
-            "sv-SE": "Grön och brun stenlagd gångväg"
+            "sv-SE": "Grön och brun stenlagd gångväg",
+            "ca-ES": "Camí enrajolat verd i marró"
         }
     }
 }

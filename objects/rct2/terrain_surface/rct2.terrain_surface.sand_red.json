@@ -11,11 +11,7 @@
         "smoothWithSelf": true,
         "smoothWithOther": true
     },
-    "images": [
-        "$G1[5591]",
-        "$G1[28971..28976]",
-        "$G1[2029..2085]"
-    ],
+    "images": ["$G1[5591]", "$G1[28971..28976]", "$G1[2029..2085]"],
     "strings": {
         "name": {
             "en-GB": "Sand (Red)",
@@ -28,7 +24,7 @@
             "ko-KR": "모래 (적색)",
             "eo-ZZ": "Sablo (Ruĝa)",
             "sv-SE": "Sand (röd)",
-            "ca-ES": "Sorra (Vermella)",
+            "ca-ES": "Sorra (vermella)",
             "fi-FI": "Hiekka (punainen)",
             "zh-CN": "沙子(红色)"
         }

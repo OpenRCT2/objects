@@ -10,16 +10,14 @@
         "supportType": "pole",
         "scrollingMode": 0
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/1920PATH.DAT[73..164]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/1920PATH.DAT[73..164]"],
     "strings": {
         "name": {
             "en-GB": "Iron Railings",
             "de-DE": "Eisengeländer",
             "nl-NL": "IJzeren ondersteuningen",
-            "eo-ZZ": "Feraj Balustradoj"
+            "eo-ZZ": "Feraj Balustradoj",
+            "ca-ES": "Baranes de ferro"
         }
     }
 }

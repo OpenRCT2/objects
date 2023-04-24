@@ -7,16 +7,14 @@
     "properties": {
         "isQueue": true
     },
-    "images": [
-        "$RCT2:OBJDATA/TARMAC.DAT[72]",
-        "$RCT2:OBJDATA/TARMAC.DAT[51..70]"
-    ],
+    "images": ["$RCT2:OBJDATA/TARMAC.DAT[72]", "$RCT2:OBJDATA/TARMAC.DAT[51..70]"],
     "strings": {
         "name": {
             "en-GB": "Blue Queue (Stairs)",
             "de-DE": "Blaue Warteschlange (Treppe)",
             "nl-NL": "Blauwe wachtrij (met trappen)",
-            "eo-ZZ": "Blua Atendovico (Ŝtuparo)"
+            "eo-ZZ": "Blua Atendovico (Ŝtuparo)",
+            "ca-ES": "Cua blava (amb escales)"
         }
     }
 }

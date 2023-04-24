@@ -10,16 +10,15 @@
         "supportType": "pole",
         "scrollingMode": 0
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/TARMACB.DAT[73..164]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/TARMACB.DAT[73..164]"],
     "strings": {
         "name": {
             "en-GB": "Concrete Railings (Grey-Brown)",
             "de-DE": "Betongeländer (graubraun)",
             "nl-NL": "Betonnen ondersteuningen",
-            "eo-ZZ": "Betonaj Balustradoj (Griza-Bruna)"
+            "eo-ZZ": "Betonaj Balustradoj (Griza-Bruna)",
+            "ca-ES": "Baranes de ciment (verdes i marrons)",
+            "en-US": "Concrete Railings (Gray-Brown)"
         }
     }
 }

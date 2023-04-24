@@ -7,21 +7,16 @@
     "properties": {
         "noSlopeRailings": true
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$CSG[43473..43523]"
-    ],
-    "noCsgImages": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/PATHSPCE.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$CSG[43473..43523]"],
+    "noCsgImages": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/PATHSPCE.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Red Tarmac Footpath (Sloped)",
             "de-DE": "Roter Makadam-Fußweg (Schräge)",
             "fr-FR": "Allée en bitume rouge",
             "nl-NL": "Voetpad van rood asfalt (met helling)",
-            "eo-ZZ": "Ruĝa Asfalta Trotuaro (Dekliva)"
+            "eo-ZZ": "Ruĝa Asfalta Trotuaro (Dekliva)",
+            "ca-ES": "Camí vermell asfaltat (amb rampes)"
         }
     }
 }

@@ -16,57 +16,10 @@
         "tabCar": 1,
         "headCars": 1,
         "tailCars": 1,
-        "carColours": [
-            [
-                ["bright_red", "bright_red", "black"]
-            ],
-            [
-                ["light_blue", "saturated_brown", "black"]
-            ],
-            [
-                ["yellow", "black", "black"]
-            ]
-        ],
-        "cars": [
-            {
-                "rotationFrameMask": 31,
-                "spacing": 217900,
-                "mass": 330,
-                "numSeats": 1,
-                "numSeatRows": 1,
-                "poweredAcceleration": 80,
-                "poweredMaxSpeed": 8,
-                "drawOrder": 9,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true,
-                    "restraintAnimation": true
-                },
-                "hasAdditionalColour1": true,
-                "isPowered": true,
-                "loadingPositions": [4]
-            },
-            {
-                "rotationFrameMask": 0,
-                "spacing": 34864,
-                "poweredAcceleration": 80,
-                "poweredMaxSpeed": 8,
-                "carVisual": 1,
-                "drawOrder": 8,
-                "spriteGroups": {
-                    "slopeFlat":1
-                },
-                "isPowered": true
-            }
-        ]
+        "carColours": [[["bright_red", "bright_red", "black"]],[["light_blue", "saturated_brown", "black"]],[["yellow", "black", "black"]]],
+        "cars": [{"rotationFrameMask": 31,"spacing": 217900,"mass": 330,"numSeats": 1,"numSeatRows": 1,"poweredAcceleration": 80,"poweredMaxSpeed": 8,"drawOrder": 9,"frames": {"flat": true,"gentleSlopes": true,"restraintAnimation": true},"hasAdditionalColour1": true,"isPowered": true,"loadingPositions": [4]},{"rotationFrameMask": 0,"spacing": 34864,"poweredAcceleration": 80,"poweredMaxSpeed": 8,"carVisual": 1,"drawOrder": 8,"spriteGroups": {"slopeFlat": 1},"isPowered": true}]
     },
-    "images": [
-        "$RCT2:OBJDATA/HOVERCAR.DAT[1]",
-        "",
-        "",
-        "$RCT2:OBJDATA/HOVERCAR.DAT[3..234]",
-        ""
-    ],
+    "images": ["$RCT2:OBJDATA/HOVERCAR.DAT[1]", "", "", "$RCT2:OBJDATA/HOVERCAR.DAT[3..234]", ""],
     "strings": {
         "name": {
             "en-GB": "Hover Cars",
@@ -105,7 +58,7 @@
             "pl-PL": "Technologia kolei magnetycznej umożliwiła stworzenie złudzenia futurystycznych latających samochodów",
             "ru-RU": "С помощью мощных магнитов создаётся иллюзия парящих машин",
             "eo-ZZ": "Teknologio de magneta levitacio estis realigita por krei la iluzion de estontecaj flugpendantaj aŭtoj",
-            "ca-ES": "En aquesta atracció, s’usa la tecnologia de levitació magnètica per crear la il·lusió de viatjar en cotxes planadors futurístics.",
+            "ca-ES": "En aquesta atracció, s’usa la tecnologia de levitació magnètica per a crear la il·lusió de viatjar en cotxes planadors futurístics.",
             "fi-FI": "Maglev-tekniikalla toteutetut futurististen liitoautojen illuusion kehittävät ajoneuvot",
             "zh-CN": "磁悬浮技术已经可以用来创造未来悬停汽车的幻觉"
         },

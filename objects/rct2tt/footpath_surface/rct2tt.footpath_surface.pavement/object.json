@@ -4,10 +4,7 @@
     "version": "1.0",
     "sourceGame": ["rct2tt"],
     "objectType": "footpath_surface",
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/1920PATH.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/1920PATH.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Pavement",
@@ -25,7 +22,8 @@
             "pl-PL": "Chodnik uliczny",
             "ru-RU": "Тротуар",
             "ja-JP": "サイドワークの歩道",
-            "eo-ZZ": "Pavimo"
+            "eo-ZZ": "Pavimo",
+            "ca-ES": "Paviment"
         }
     }
 }

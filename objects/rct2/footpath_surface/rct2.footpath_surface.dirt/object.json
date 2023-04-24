@@ -4,10 +4,7 @@
     "version": "1.0",
     "sourceGame": "rct2",
     "objectType": "footpath_surface",
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/PATHDIRT.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/PATHDIRT.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Dirt Footpath (Rounded)",
@@ -26,7 +23,8 @@
             "pl-PL": "Dróżka ziemna",
             "ru-RU": "Дорожка",
             "ar-EG": "ممشي ترابي",
-            "eo-ZZ": "Tera Trotuaro (Rondigita)"
+            "eo-ZZ": "Tera Trotuaro (Rondigita)",
+            "ca-ES": "Camí de terra (arrodonit)"
         }
     }
 }

@@ -9,14 +9,8 @@
         "price": 100,
         "mapColours": [10, 16]
     },
-    "images": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$CSG[42147..42203]"
-    ],
-    "noCsgImages": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$G1[2542..2598]"
-    ],
+    "images": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$CSG[42147..42203]"],
+    "noCsgImages": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$G1[2542..2598]"],
     "strings": {
         "name": {
             "en-GB": "Roof (Grey)",
@@ -29,9 +23,11 @@
             "ko-KR": "천장 (회색)",
             "eo-ZZ": "Tegmento (Griza)",
             "sv-SE": "Tak (grått)",
-            "ca-ES": "Teulada (Grisa)",
+            "ca-ES": "Teulada (grisa)",
             "fi-FI": "Katto (harmaa)",
-            "zh-CN": "房顶(灰色)"
+            "zh-CN": "房顶(灰色)",
+            "ar-EG": "سقف (رمادي)",
+            "en-US": "Roof (Gray)"
         }
     }
 }

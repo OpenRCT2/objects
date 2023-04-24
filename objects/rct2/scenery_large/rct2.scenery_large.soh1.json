@@ -10,15 +10,7 @@
         "removalPrice": 20,
         "cursor": "CURSOR_HOUSE_DOWN",
         "hasPrimaryColour": true,
-        "tiles": [
-            {
-                "x": 0,
-                "y": 0,
-                "clearance": 64,
-                "hasSupports": true,
-                "walls": 15
-            }
-        ]
+        "tiles": [{"x": 0,"y": 0,"clearance": 64,"hasSupports": true,"walls": 15}]
     },
     "images": ["$RCT2:OBJDATA/SOH1.DAT[0..7]"],
     "strings": {
@@ -40,7 +32,8 @@
             "ru-RU": "Дом",
             "eo-ZZ": "Domo",
             "ca-ES": "Casa",
-            "fi-FI": "Talo"
+            "fi-FI": "Talo",
+            "ar-EG": "منزل"
         }
     }
 }

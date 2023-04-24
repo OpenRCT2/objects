@@ -8,16 +8,14 @@
         "isQueue": true,
         "noSlopeRailings": true
     },
-    "images": [
-        { "path": "preview.png" },
-        "$RCT2:OBJDATA/PATHASH.DAT[51..70]"
-    ],
+    "images": [{"path": "preview.png"}, "$RCT2:OBJDATA/PATHASH.DAT[51..70]"],
     "strings": {
         "name": {
             "en-GB": "Yellow Queue (Stairs)",
             "de-DE": "Gelbe Warteschlange (Treppe)",
             "nl-NL": "Gele wachtrij (met trappen)",
-            "eo-ZZ": "Flava Atendovico (Ŝtuparo)"
+            "eo-ZZ": "Flava Atendovico (Ŝtuparo)",
+            "ca-ES": "Cua groga (amb escales)"
         }
     }
 }

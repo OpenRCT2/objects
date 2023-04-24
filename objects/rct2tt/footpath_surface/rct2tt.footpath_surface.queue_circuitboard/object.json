@@ -7,16 +7,14 @@
     "properties": {
         "isQueue": true
     },
-    "images": [
-        "$RCT2:OBJDATA/FUTRPATH.DAT[72]",
-        "$RCT2:OBJDATA/FUTRPATH.DAT[51..70]"
-    ],
+    "images": ["$RCT2:OBJDATA/FUTRPATH.DAT[72]", "$RCT2:OBJDATA/FUTRPATH.DAT[51..70]"],
     "strings": {
         "name": {
             "en-GB": "Circuit Queue",
             "de-DE": "Elektronische Warteschlange",
             "nl-NL": "Printplaat-wachtrij",
-            "eo-ZZ": "Cirkvitkarta Atendovico"
+            "eo-ZZ": "Cirkvitkarta Atendovico",
+            "ca-ES": "Cua d’estil circuit elèctric"
         }
     }
 }

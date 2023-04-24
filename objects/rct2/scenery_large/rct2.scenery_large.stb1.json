@@ -9,14 +9,7 @@
         "price": 120,
         "removalPrice": -100,
         "cursor": "CURSOR_HOUSE_DOWN",
-        "tiles": [
-            {
-                "x": 0,
-                "y": 0,
-                "clearance": 72,
-                "hasSupports": true
-            }
-        ]
+        "tiles": [{"x": 0,"y": 0,"clearance": 72,"hasSupports": true}]
     },
     "images": ["$RCT2:OBJDATA/STB1.DAT[0..7]"],
     "strings": {
@@ -38,7 +31,8 @@
             "ru-RU": "Башня замка",
             "eo-ZZ": "Turo de Kastelo",
             "ca-ES": "Torre de castell",
-            "fi-FI": "Linnan torni"
+            "fi-FI": "Linnan torni",
+            "ar-EG": "برج قلعة"
         }
     }
 }

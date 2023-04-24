@@ -9,36 +9,7 @@
         "price": 140,
         "removalPrice": -120,
         "cursor": "CURSOR_HOUSE_DOWN",
-        "tiles": [
-            {
-                "x": 0,
-                "y": 0,
-                "clearance": 64,
-                "hasSupports": true,
-                "walls": 9
-            },
-            {
-                "x": 0,
-                "y": 32,
-                "clearance": 64,
-                "hasSupports": true,
-                "walls": 3
-            },
-            {
-                "x": 32,
-                "y": 0,
-                "clearance": 64,
-                "hasSupports": true,
-                "walls": 12
-            },
-            {
-                "x": 32,
-                "y": 32,
-                "clearance": 64,
-                "hasSupports": true,
-                "walls": 6
-            }
-        ]
+        "tiles": [{"x": 0,"y": 0,"clearance": 64,"hasSupports": true,"walls": 9},{"x": 0,"y": 32,"clearance": 64,"hasSupports": true,"walls": 3},{"x": 32,"y": 0,"clearance": 64,"hasSupports": true,"walls": 12},{"x": 32,"y": 32,"clearance": 64,"hasSupports": true,"walls": 6}]
     },
     "images": ["$RCT2:OBJDATA/SST.DAT[0..19]"],
     "strings": {
@@ -59,7 +30,8 @@
             "fr-FR": "Satellite",
             "eo-ZZ": "Satelito",
             "ca-ES": "Satèl·lit",
-            "fi-FI": "Satelliitti"
+            "fi-FI": "Satelliitti",
+            "ar-EG": "قمر صناعي"
         }
     }
 }

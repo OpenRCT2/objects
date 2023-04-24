@@ -1,23 +1,17 @@
 {
     "id": "rct2.audio.title",
-    "authors": [
-        "Chris Sawyer",
-        "Allister Brimble"
-    ],
+    "authors": ["Chris Sawyer", "Allister Brimble"],
     "version": "1.0",
-    "sourceGame": [
-        "rct2"
-    ],
+    "sourceGame": ["rct2"],
     "objectType": "audio",
-    "samples": [
-        "$RCT2:DATA/CSS17.DAT"
-    ],
+    "samples": ["$RCT2:DATA/CSS17.DAT"],
     "strings": {
         "name": {
             "en-GB": "Title screen music for RollerCoaster Tycoon 2.",
             "de-DE": "Titelbildschirmmusik für RollerCoaster Tycoon 2.",
             "eo-ZZ": "Muziko de titola ekrano por RollerCoaster Tycoon 2.",
-            "nl-NL": "Titelschermmuziek voor RollerCoaster Tycoon 2."
+            "nl-NL": "Titelschermmuziek voor RollerCoaster Tycoon 2.",
+            "ca-ES": "Música del menú principal del RollerCoaster Tycoon 2."
         }
     }
 }

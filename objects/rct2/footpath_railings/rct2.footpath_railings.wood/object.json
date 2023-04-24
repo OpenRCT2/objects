@@ -9,16 +9,14 @@
         "supportType": "box",
         "scrollingMode": 0
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/TARMAC.DAT[73..167]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/TARMAC.DAT[73..167]"],
     "strings": {
         "name": {
             "en-GB": "Wooden Railings",
             "de-DE": "Holzgeländer",
             "nl-NL": "Houten ondersteuningen",
-            "eo-ZZ": "Lignaj Balustradoj"
+            "eo-ZZ": "Lignaj Balustradoj",
+            "ca-ES": "Baranes de fusta"
         }
     }
 }

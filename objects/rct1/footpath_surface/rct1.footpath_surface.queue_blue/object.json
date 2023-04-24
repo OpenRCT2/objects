@@ -7,20 +7,15 @@
     "properties": {
         "isQueue": true
     },
-    "images": [
-        "$RCT2:OBJDATA/TARMAC.DAT[72]",
-        "$CSG[43211..43230]"
-    ],
-    "noCsgImages": [
-        "$RCT2:OBJDATA/TARMAC.DAT[72]",
-        "$RCT2:OBJDATA/TARMAC.DAT[51..70]"
-    ],
+    "images": ["$RCT2:OBJDATA/TARMAC.DAT[72]", "$CSG[43211..43230]"],
+    "noCsgImages": ["$RCT2:OBJDATA/TARMAC.DAT[72]", "$RCT2:OBJDATA/TARMAC.DAT[51..70]"],
     "strings": {
         "name": {
             "en-GB": "Blue Queue (Sloped)",
             "de-DE": "Blaue Warteschlange (Schräge)",
             "nl-NL": "Blauwe wachtrij (met helling)",
-            "eo-ZZ": "Blua Atendovico (Dekliva)"
+            "eo-ZZ": "Blua Atendovico (Dekliva)",
+            "ca-ES": "Cua blava (amb escales)"
         }
     }
 }

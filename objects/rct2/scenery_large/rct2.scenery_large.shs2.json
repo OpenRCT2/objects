@@ -11,64 +11,7 @@
         "cursor": "CURSOR_HOUSE_DOWN",
         "hasPrimaryColour": true,
         "hasSecondaryColour": true,
-        "tiles": [
-            {
-                "x": 0,
-                "y": 0,
-                "clearance": 96,
-                "hasSupports": true,
-                "walls": 9
-            },
-            {
-                "x": 0,
-                "y": 32,
-                "clearance": 96,
-                "hasSupports": true,
-                "walls": 3
-            },
-            {
-                "x": 32,
-                "y": 0,
-                "clearance": 96,
-                "hasSupports": true,
-                "walls": 8
-            },
-            {
-                "x": 32,
-                "y": 32,
-                "clearance": 96,
-                "hasSupports": true,
-                "walls": 2
-            },
-            {
-                "x": 64,
-                "y": 0,
-                "clearance": 96,
-                "hasSupports": true,
-                "walls": 8
-            },
-            {
-                "x": 64,
-                "y": 32,
-                "clearance": 96,
-                "hasSupports": true,
-                "walls": 2
-            },
-            {
-                "x": 96,
-                "y": 0,
-                "clearance": 96,
-                "hasSupports": true,
-                "walls": 12
-            },
-            {
-                "x": 96,
-                "y": 32,
-                "clearance": 96,
-                "hasSupports": true,
-                "walls": 6
-            }
-        ]
+        "tiles": [{"x": 0,"y": 0,"clearance": 96,"hasSupports": true,"walls": 9},{"x": 0,"y": 32,"clearance": 96,"hasSupports": true,"walls": 3},{"x": 32,"y": 0,"clearance": 96,"hasSupports": true,"walls": 8},{"x": 32,"y": 32,"clearance": 96,"hasSupports": true,"walls": 2},{"x": 64,"y": 0,"clearance": 96,"hasSupports": true,"walls": 8},{"x": 64,"y": 32,"clearance": 96,"hasSupports": true,"walls": 2},{"x": 96,"y": 0,"clearance": 96,"hasSupports": true,"walls": 12},{"x": 96,"y": 32,"clearance": 96,"hasSupports": true,"walls": 6}]
     },
     "images": ["$RCT2:OBJDATA/SHS2.DAT[0..35]"],
     "strings": {
@@ -90,7 +33,8 @@
             "ru-RU": "Дом",
             "eo-ZZ": "Domo",
             "ca-ES": "Casa",
-            "fi-FI": "Talo"
+            "fi-FI": "Talo",
+            "ar-EG": "منزل"
         }
     }
 }

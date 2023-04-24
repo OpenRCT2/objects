@@ -7,14 +7,8 @@
     "properties": {
         "noSlopeRailings": true
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$CSG[43575..43625]"
-    ],
-    "noCsgImages": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/TARMACB.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$CSG[43575..43625]"],
+    "noCsgImages": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/TARMACB.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Brown Tarmac Footpath (Sloped)",
@@ -33,7 +27,8 @@
             "pl-PL": "Brązowa dróżka tłuczniowa",
             "ru-RU": "Дорожка",
             "ar-EG": "ممشي بُني مُعبد",
-            "eo-ZZ": "Bruna Asfalta Trotuaro (Dekliva)"
+            "eo-ZZ": "Bruna Asfalta Trotuaro (Dekliva)",
+            "ca-ES": "Camí marró asfaltat (amb rampes)"
         }
     }
 }

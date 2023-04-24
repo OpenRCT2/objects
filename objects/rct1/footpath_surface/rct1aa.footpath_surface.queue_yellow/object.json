@@ -7,20 +7,16 @@
     "properties": {
         "isQueue": true
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$CSG[43291..43310]"
-    ],
-    "noCsgImages": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/PATHASH.DAT[51..70]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$CSG[43291..43310]"],
+    "noCsgImages": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/PATHASH.DAT[51..70]"],
     "strings": {
         "name": {
             "en-GB": "Yellow Queue (Sloped)",
             "de-DE": "Gelbe Warteschlange (Schräge)",
             "nl-NL": "Gele wachtrij (met helling)",
-            "eo-ZZ": "Flava Atendovico (Dekliva)"
+            "eo-ZZ": "Flava Atendovico (Dekliva)",
+            "ar-EG": "طابور إنتظار أصفر (مُنحدر)",
+            "ca-ES": "Cua groga (amb escales)"
         }
     }
 }

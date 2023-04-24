@@ -11,44 +11,7 @@
         "price": 120,
         "sceneryGroup": "rct2.scenery_group.scgwalls"
     },
-    "images": [
-        { "path": "images/000.png", "x": -11, "y": -34 },
-        { "path": "images/001.png", "x": -32, "y": -29 },
-        { "path": "images/002.png", "x": -1, "y": -33 },
-        { "path": "images/003.png", "x": 12, "y": -28 },
-        { "path": "images/004.png", "x": -11, "y": -34 },
-        { "path": "images/005.png", "x": -32, "y": -29 },
-        { "path": "images/006.png", "x": -1, "y": -33 },
-        { "path": "images/007.png", "x": 12, "y": -28 },
-        { "path": "images/008.png", "x": -11, "y": -34 },
-        { "path": "images/009.png", "x": -32, "y": -29 },
-        { "path": "images/010.png", "x": -1, "y": -33 },
-        { "path": "images/011.png", "x": 12, "y": -28 },
-        { "path": "images/012.png", "x": -11, "y": -34 },
-        { "path": "images/013.png", "x": -32, "y": -29 },
-        { "path": "images/014.png", "x": -1, "y": -33 },
-        { "path": "images/015.png", "x": 12, "y": -28 },
-        { "path": "images/016.png", "x": -11, "y": -34 },
-        { "path": "images/017.png", "x": -32, "y": -29 },
-        { "path": "images/018.png", "x": -1, "y": -33 },
-        { "path": "images/019.png", "x": 12, "y": -28 },
-        { "path": "images/020.png", "x": -11, "y": -34 },
-        { "path": "images/021.png", "x": -32, "y": -29 },
-        { "path": "images/022.png", "x": -1, "y": -33 },
-        { "path": "images/023.png", "x": 12, "y": -28 },
-        { "path": "images/024.png", "x": -11, "y": -34 },
-        { "path": "images/025.png", "x": -32, "y": -29 },
-        { "path": "images/026.png", "x": -1, "y": -33 },
-        { "path": "images/027.png", "x": 12, "y": -28 },
-        { "path": "images/028.png", "x": -11, "y": -34 },
-        { "path": "images/029.png", "x": -32, "y": -29 },
-        { "path": "images/030.png", "x": -1, "y": -33 },
-        { "path": "images/031.png", "x": 12, "y": -28 },
-        { "path": "images/032.png", "x": -11, "y": -34 },
-        { "path": "images/033.png", "x": -32, "y": -29 },
-        { "path": "images/034.png", "x": -1, "y": -33 },
-        { "path": "images/035.png", "x": 12, "y": -28 }
-    ],
+    "images": [{"path": "images/000.png","x": -11,"y": -34},{"path": "images/001.png","x": -32,"y": -29},{"path": "images/002.png","x": -1,"y": -33},{"path": "images/003.png","x": 12,"y": -28},{"path": "images/004.png","x": -11,"y": -34},{"path": "images/005.png","x": -32,"y": -29},{"path": "images/006.png","x": -1,"y": -33},{"path": "images/007.png","x": 12,"y": -28},{"path": "images/008.png","x": -11,"y": -34},{"path": "images/009.png","x": -32,"y": -29},{"path": "images/010.png","x": -1,"y": -33},{"path": "images/011.png","x": 12,"y": -28},{"path": "images/012.png","x": -11,"y": -34},{"path": "images/013.png","x": -32,"y": -29},{"path": "images/014.png","x": -1,"y": -33},{"path": "images/015.png","x": 12,"y": -28},{"path": "images/016.png","x": -11,"y": -34},{"path": "images/017.png","x": -32,"y": -29},{"path": "images/018.png","x": -1,"y": -33},{"path": "images/019.png","x": 12,"y": -28},{"path": "images/020.png","x": -11,"y": -34},{"path": "images/021.png","x": -32,"y": -29},{"path": "images/022.png","x": -1,"y": -33},{"path": "images/023.png","x": 12,"y": -28},{"path": "images/024.png","x": -11,"y": -34},{"path": "images/025.png","x": -32,"y": -29},{"path": "images/026.png","x": -1,"y": -33},{"path": "images/027.png","x": 12,"y": -28},{"path": "images/028.png","x": -11,"y": -34},{"path": "images/029.png","x": -32,"y": -29},{"path": "images/030.png","x": -1,"y": -33},{"path": "images/031.png","x": 12,"y": -28},{"path": "images/032.png","x": -11,"y": -34},{"path": "images/033.png","x": -32,"y": -29},{"path": "images/034.png","x": -1,"y": -33},{"path": "images/035.png","x": 12,"y": -28}],
     "strings": {
         "name": {
             "en-GB": "Wall with Passageway",
@@ -67,7 +30,9 @@
             "sv-SE": "Vägg med passage",
             "ca-ES": "Paret amb passadís",
             "fi-FI": "Seinä oviaukolla",
-            "zh-CN": "带通道的墙"
+            "zh-CN": "带通道的墙",
+            "ar-EG": "سور مع ممر",
+            "cs-CZ": "Stěna s průchodem"
         }
     }
 }

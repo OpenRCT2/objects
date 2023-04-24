@@ -7,16 +7,8 @@
     "properties": {
         "noSlopeRailings": true
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$CSG[43881..43931]"
-    ],
-    "noCsgImages": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/TARMAC.DAT[0..15]",
-        "$RCT2:OBJDATA/ROAD.DAT[16..19]",
-        "$RCT2:OBJDATA/TARMAC.DAT[20..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$CSG[43881..43931]"],
+    "noCsgImages": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/TARMAC.DAT[0..15]", "$RCT2:OBJDATA/ROAD.DAT[16..19]", "$RCT2:OBJDATA/TARMAC.DAT[20..50]"],
     "strings": {
         "name": {
             "en-GB": "Grey Tiled Footpath",
@@ -29,7 +21,9 @@
             "pl-PL": "Szara Mozaikowa Ścieżka",
             "ko-KR": "회색 타일 보도",
             "eo-ZZ": "Griza Kahelita Trotuaro",
-            "sv-SE": "Grå stenlagd gångväg"
+            "sv-SE": "Grå stenlagd gångväg",
+            "ca-ES": "Camí enrajolat gris",
+            "en-US": "Gray Tiled Footpath"
         }
     }
 }

@@ -6,17 +6,10 @@
     "sourceGame": "official",
     "objectType": "scenery_group",
     "properties": {
-        "entries": [
-            "rct2dlc.scenery_small.bigpanda",
-            "rct2dlc.scenery_small.pandagr",
-            "rct2dlc.footpath_item.litterpa"
-        ],
+        "entries": ["rct2dlc.scenery_small.bigpanda", "rct2dlc.scenery_small.pandagr", "rct2dlc.footpath_item.litterpa"],
         "priority": 40
     },
-    "images": [
-        { "path": "images/0.png", "x": 0, "y": 0 },
-        { "path": "images/1.png", "x": 0, "y": 0 }
-    ],
+    "images": [{"path": "images/0.png","x": 0,"y": 0},{"path": "images/1.png","x": 0,"y": 0}],
     "strings": {
         "name": {
             "en-GB": "Panda Theming",
@@ -35,7 +28,8 @@
             "eo-ZZ": "Pando-Temo",
             "ca-ES": "Temàtica amb óssos panda",
             "fi-FI": "Pandateemaus",
-            "zh-CN": "熊猫主题"
+            "zh-CN": "熊猫主题",
+            "ar-EG": "طابع الباندا"
         }
     }
 }

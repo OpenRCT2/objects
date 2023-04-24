@@ -7,19 +7,9 @@
     "objectType": "ride",
     "properties": {
         "type": "boat_hire",
-        "category": [
-            "water",
-            "gentle"
-        ],
+        "category": ["water", "gentle"],
         "disableBreakdown": true,
-        "carColours": [
-            [
-                ["saturated_brown", "yellow", "black"]
-            ],
-            [
-                ["white", "moss_green", "black"]
-            ]
-        ],
+        "carColours": [[["saturated_brown", "yellow", "black"]],[["white", "moss_green", "black"]]],
         "cars": {
             "rotationFrameMask": 15,
             "spacing": 235332,
@@ -81,7 +71,7 @@
             "pl-PL": "Łodzie wiosłowe napędzane przez samych pasażerów",
             "ru-RU": "Гребные лодки, где пассажиры гребут сами",
             "eo-ZZ": "Remado-boatoj, kiujn pasaĝeroj remas per si mem",
-            "ca-ES": "Bots de rem en els quals els passatgers han de remar per moure’ls.",
+            "ca-ES": "Bots de rem en els quals els passatgers han de remar per a moure’ls.",
             "fi-FI": "Soutuveneet, joita matkustajat itse soutavat"
         },
         "capacity": {

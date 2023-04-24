@@ -9,14 +9,8 @@
         "price": 100,
         "mapColours": [113, 113]
     },
-    "images": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$CSG[42090..42146]"
-    ],
-    "noCsgImages": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$G1[2029..2085]"
-    ],
+    "images": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$CSG[42090..42146]"],
+    "noCsgImages": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$G1[2029..2085]"],
     "strings": {
         "name": {
             "en-GB": "Roof (Red)",
@@ -29,9 +23,10 @@
             "ko-KR": "천장 (빨간색)",
             "eo-ZZ": "Tegmento (Ruĝa)",
             "sv-SE": "Tak (rött)",
-            "ca-ES": "Teulada (Vermella)",
+            "ca-ES": "Teulada (vermella)",
             "fi-FI": "Katto (punainen)",
-            "zh-CN": "房顶(红色)"
+            "zh-CN": "房顶(红色)",
+            "ar-EG": "سقف (أحمر)"
         }
     }
 }

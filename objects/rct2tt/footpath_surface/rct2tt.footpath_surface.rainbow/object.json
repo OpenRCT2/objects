@@ -4,10 +4,7 @@
     "version": "1.0",
     "sourceGame": ["rct2tt"],
     "objectType": "footpath_surface",
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/RANBPATH.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/RANBPATH.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Rainbow Footpath",
@@ -24,7 +21,8 @@
             "pl-PL": "Tęczowy chodnik",
             "ru-RU": "Дорожка",
             "ja-JP": "虹色な木造",
-            "eo-ZZ": "Ĉielarka Trotuaro"
+            "eo-ZZ": "Ĉielarka Trotuaro",
+            "ca-ES": "Camí arc de Sant Martí"
         }
     }
 }

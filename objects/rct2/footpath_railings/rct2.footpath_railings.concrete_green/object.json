@@ -10,16 +10,14 @@
         "supportType": "pole",
         "scrollingMode": 0
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/TARMACG.DAT[73..164]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/TARMACG.DAT[73..164]"],
     "strings": {
         "name": {
             "en-GB": "Concrete Railings (Dark Green)",
             "de-DE": "Betongeländer (dunkelgrün)",
             "nl-NL": "Betonnen ondersteuningen (groen)",
-            "eo-ZZ": "Betonaj Balustradoj (Malhela Verda)"
+            "eo-ZZ": "Betonaj Balustradoj (Malhela Verda)",
+            "ca-ES": "Baranes de ciment (verd fosc)"
         }
     }
 }

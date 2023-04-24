@@ -7,14 +7,8 @@
     "properties": {
         "noSlopeRailings": true
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$CSG[44289..44339]"
-    ],
-    "noCsgImages": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/PATHDIRT.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$CSG[44289..44339]"],
+    "noCsgImages": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/PATHDIRT.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Dirt Footpath (Square)",
@@ -33,7 +27,8 @@
             "pl-PL": "Dróżka ziemna",
             "ru-RU": "Дорожка",
             "ar-EG": "ممشي ترابي",
-            "eo-ZZ": "Tera Trotuaro (Kvadrata)"
+            "eo-ZZ": "Tera Trotuaro (Kvadrata)",
+            "ca-ES": "Camí de terra (angulós)"
         }
     }
 }

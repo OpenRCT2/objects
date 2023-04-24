@@ -10,16 +10,14 @@
         "supportType": "pole",
         "scrollingMode": 0
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/RANBPATH.DAT[73..164]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/RANBPATH.DAT[73..164]"],
     "strings": {
         "name": {
             "en-GB": "Rainbow Railings",
             "de-DE": "Regenbogengeländer",
             "nl-NL": "Regenboogondersteuningen",
-            "eo-ZZ": "Ĉielarkaj Balustradoj"
+            "eo-ZZ": "Ĉielarkaj Balustradoj",
+            "ca-ES": "Baranes arc de Sant Martí"
         }
     }
 }

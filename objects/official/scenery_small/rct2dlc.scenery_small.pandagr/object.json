@@ -15,12 +15,7 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": [
-        { "path": "images/0.png", "x": -14, "y": -61 },
-        { "path": "images/1.png", "x": -13, "y": -64 },
-        { "path": "images/2.png", "x": -13, "y": -65 },
-        { "path": "images/3.png", "x": -15, "y": -64 }
-    ],
+    "images": [{"path": "images/0.png","x": -14,"y": -61},{"path": "images/1.png","x": -13,"y": -64},{"path": "images/2.png","x": -13,"y": -65},{"path": "images/3.png","x": -15,"y": -64}],
     "strings": {
         "name": {
             "en-GB": "Bamboo Shoots",
@@ -39,7 +34,8 @@
             "eo-ZZ": "Bambuŝosoj",
             "ca-ES": "Brots de bambú",
             "fi-FI": "Bambunversoja",
-            "zh-CN": "竹笋"
+            "zh-CN": "竹笋",
+            "ar-EG": "براعم الخيزران"
         }
     }
 }

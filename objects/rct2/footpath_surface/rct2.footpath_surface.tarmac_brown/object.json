@@ -4,10 +4,7 @@
     "version": "1.0",
     "sourceGame": "rct2",
     "objectType": "footpath_surface",
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/TARMACB.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/TARMACB.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Brown Tarmac Footpath (Stairs)",
@@ -26,7 +23,8 @@
             "pl-PL": "Brązowa dróżka tłuczniowa",
             "ru-RU": "Дорожка",
             "ar-EG": "ممشي بُني مُعبد",
-            "eo-ZZ": "Bruna Asfalta Trotuaro (Ŝtuparo)"
+            "eo-ZZ": "Bruna Asfalta Trotuaro (Ŝtuparo)",
+            "ca-ES": "Camí marró asfaltat (amb escales)"
         }
     }
 }

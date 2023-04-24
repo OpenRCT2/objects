@@ -10,16 +10,14 @@
         "supportType": "pole",
         "scrollingMode": 0
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/JURRPATH.DAT[73..164]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/JURRPATH.DAT[73..164]"],
     "strings": {
         "name": {
             "en-GB": "Jungle Railings",
             "de-DE": "Dschungelgeländer",
             "nl-NL": "Jungleondersteuningen",
-            "eo-ZZ": "Ĝangalaj Balustradoj"
+            "eo-ZZ": "Ĝangalaj Balustradoj",
+            "ca-ES": "Baranes de jungla"
         }
     }
 }

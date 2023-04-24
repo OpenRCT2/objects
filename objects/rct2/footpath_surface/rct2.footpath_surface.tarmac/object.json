@@ -4,10 +4,7 @@
     "version": "1.0",
     "sourceGame": "rct2",
     "objectType": "footpath_surface",
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/TARMAC.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/TARMAC.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Tarmac Footpath (Stairs)",
@@ -26,7 +23,8 @@
             "pl-PL": "Dróżka tłuczniowa",
             "ru-RU": "Асфальт",
             "ar-EG": "ممشي مُعبد",
-            "eo-ZZ": "Asfalta Trotuaro (Ŝtuparo)"
+            "eo-ZZ": "Asfalta Trotuaro (Ŝtuparo)",
+            "ca-ES": "Camí asfaltat (amb escales)"
         }
     }
 }

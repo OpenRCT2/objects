@@ -4,17 +4,15 @@
     "version": "1.0",
     "sourceGame": "rct2",
     "objectType": "footpath_surface",
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/PATHSPCE.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/PATHSPCE.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Red Tarmac Footpath (Stairs)",
             "fr-FR": "Allée en bitume rouge",
             "de-DE": "Roter Makadam-Fußweg (Treppe)",
             "nl-NL": "Voetpad van rood asfalt (met trappen)",
-            "eo-ZZ": "Ruĝa Asfalta Trotuaro (Ŝtuparo)"
+            "eo-ZZ": "Ruĝa Asfalta Trotuaro (Ŝtuparo)",
+            "ca-ES": "Camí vermell asfaltat (amb escales)"
         }
     }
 }

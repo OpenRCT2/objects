@@ -7,17 +7,15 @@
     "properties": {
         "isQueue": true
     },
-    "images": [
-        "$RCT2:OBJDATA/1920PATH.DAT[72]",
-        "$RCT2:OBJDATA/1920PATH.DAT[51..70]"
-    ],
+    "images": ["$RCT2:OBJDATA/1920PATH.DAT[72]", "$RCT2:OBJDATA/1920PATH.DAT[51..70]"],
     "strings": {
         "name": {
             "en-GB": "Pavement Queue",
             "en-US": "Sidewalk Queue",
             "de-DE": "Bürgersteigwarteschlange",
             "nl-NL": "Stoepwachtrij",
-            "eo-ZZ": "Pavima Atendovico"
+            "eo-ZZ": "Pavima Atendovico",
+            "ca-ES": "Cua arc de Sant Martí"
         }
     }
 }

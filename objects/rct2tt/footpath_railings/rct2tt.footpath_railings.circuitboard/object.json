@@ -10,16 +10,14 @@
         "supportType": "pole",
         "scrollingMode": 0
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/FUTRPATH.DAT[73..164]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/FUTRPATH.DAT[73..164]"],
     "strings": {
         "name": {
             "en-GB": "Circuit Board Railings",
             "de-DE": "Elektronische Geländer",
             "nl-NL": "Printplaatondersteuningen",
-            "eo-ZZ": "Cirkvitkartaj Balustradoj"
+            "eo-ZZ": "Cirkvitkartaj Balustradoj",
+            "ca-ES": "Baranes d’estil circuit elèctric"
         }
     }
 }

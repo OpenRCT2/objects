@@ -8,16 +8,14 @@
         "isQueue": true,
         "noSlopeRailings": true
     },
-    "images": [
-        { "path": "preview.png" },
-        "$RCT2:OBJDATA/TARMACG.DAT[51..70]"
-    ],
+    "images": [{"path": "preview.png"}, "$RCT2:OBJDATA/TARMACG.DAT[51..70]"],
     "strings": {
         "name": {
             "en-GB": "Dark Green Queue",
             "de-DE": "Dunkelgrüne Warteschlange",
             "nl-NL": "Donkergroene wachtrij",
-            "eo-ZZ": "Malhela Verda Atendovico"
+            "eo-ZZ": "Malhela Verda Atendovico",
+            "ca-ES": "Cua verd fosc"
         }
     }
 }

@@ -4,10 +4,7 @@
     "version": "1.0",
     "sourceGame": "rct2",
     "objectType": "footpath_surface",
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/TARMACG.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/TARMACG.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Dark Green Tarmac Footpath",
@@ -26,7 +23,8 @@
             "pl-PL": "Zielona dróżka tłuczniowa",
             "ru-RU": "Зелёный асфальт",
             "ar-EG": "ممشي أخضر مُعبد",
-            "eo-ZZ": "Malhela Verda Asfalta Trotuaro"
+            "eo-ZZ": "Malhela Verda Asfalta Trotuaro",
+            "ca-ES": "Camí verd fosc asfaltat"
         }
     }
 }

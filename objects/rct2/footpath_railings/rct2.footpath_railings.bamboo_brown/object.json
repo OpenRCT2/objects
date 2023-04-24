@@ -8,16 +8,14 @@
         "supportType": "pole",
         "scrollingMode": 0
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/PATHDIRT.DAT[73..145]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/PATHDIRT.DAT[73..145]"],
     "strings": {
         "name": {
             "en-GB": "Bamboo Railings (Brown)",
             "de-DE": "Bambusgeländer (braun)",
             "nl-NL": "Ondersteuningen van bamboe (bruin)",
-            "eo-ZZ": "Bambuaj Balustradoj (Bruna)"
+            "eo-ZZ": "Bambuaj Balustradoj (Bruna)",
+            "ca-ES": "Baranes de bambú (marrons)"
         }
     }
 }

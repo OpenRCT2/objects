@@ -10,16 +10,14 @@
         "supportType": "pole",
         "scrollingMode": 0
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/MEDIPATH.DAT[73..164]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/MEDIPATH.DAT[73..164]"],
     "strings": {
         "name": {
             "en-GB": "Medieval Railings",
             "de-DE": "Mittelaltergeländer",
             "nl-NL": "Middeleeuwse ondersteuningen",
-            "eo-ZZ": "Mezepokaj Balustradoj"
+            "eo-ZZ": "Mezepokaj Balustradoj",
+            "ca-ES": "Baranes medievals"
         }
     }
 }

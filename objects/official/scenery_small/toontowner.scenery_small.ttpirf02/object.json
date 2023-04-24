@@ -19,44 +19,7 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": [
-        {
-            "path": "images.png",
-            "srcX": 0,
-            "srcY": 0,
-            "srcWidth": 62,
-            "srcHeight": 62,
-            "x": -31,
-            "y": -31
-        },
-        {
-            "path": "images.png",
-            "srcX": 62,
-            "srcY": 0,
-            "srcWidth": 63,
-            "srcHeight": 48,
-            "x": -31,
-            "y": -17
-        },
-        {
-            "path": "images.png",
-            "srcX": 125,
-            "srcY": 0,
-            "srcWidth": 64,
-            "srcHeight": 36,
-            "x": -32,
-            "y": -5
-        },
-        {
-            "path": "images.png",
-            "srcX": 189,
-            "srcY": 0,
-            "srcWidth": 63,
-            "srcHeight": 48,
-            "x": -32,
-            "y": -17
-        }
-    ],
+    "images": [{"path": "images.png","srcX": 0,"srcY": 0,"srcWidth": 62,"srcHeight": 62,"x": -31,"y": -31},{"path": "images.png","srcX": 62,"srcY": 0,"srcWidth": 63,"srcHeight": 48,"x": -31,"y": -17},{"path": "images.png","srcX": 125,"srcY": 0,"srcWidth": 64,"srcHeight": 36,"x": -32,"y": -5},{"path": "images.png","srcX": 189,"srcY": 0,"srcWidth": 63,"srcHeight": 48,"x": -32,"y": -17}],
     "strings": {
         "name": {
             "en-GB": "Roof",
@@ -75,7 +38,8 @@
             "pl-PL": "Dach",
             "eo-ZZ": "Tegmento",
             "ca-ES": "Teulada",
-            "fi-FI": "Katto"
+            "fi-FI": "Katto",
+            "ar-EG": "سقف"
         }
     }
 }

@@ -16,80 +16,8 @@
         "defaultCar": 1,
         "headCars": 0,
         "tailCars": 2,
-        "carColours": [
-            [
-                ["black", "black", "yellow"]
-            ]
-        ],
-        "cars": [
-            {
-                "rotationFrameMask": 31,
-                "spacing": 244048,
-                "mass": 600,
-                "numSeats": 4,
-                "numSeatRows": 2,
-                "frictionSoundId": 2,
-                "soundRange": 2,
-                "drawOrder": 5,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true,
-                    "steepSlopes": true,
-                    "verticalSlopes": true,
-                    "diagonalSlopes": true,
-                    "flatBanked": true,
-                    "flatToGentleSlopeBankedTransitions": true,
-                    "diagonalGentleSlopeBankedTransitions": true,
-                    "corkscrews": true,
-                    "restraintAnimation": true
-                },
-                "hasScreamingRiders": true,
-                "loadingPositions": [5, 3, -7, -9]
-            },
-            {
-                "rotationFrameMask": 31,
-                "spacing": 226616,
-                "mass": 500,
-                "numSeats": 4,
-                "numSeatRows": 2,
-                "frictionSoundId": 2,
-                "soundRange": 2,
-                "drawOrder": 6,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true,
-                    "steepSlopes": true,
-                    "verticalSlopes": true,
-                    "diagonalSlopes": true,
-                    "flatBanked": true,
-                    "flatToGentleSlopeBankedTransitions": true,
-                    "diagonalGentleSlopeBankedTransitions": true,
-                    "corkscrews": true,
-                    "restraintAnimation": true
-                },
-                "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, -3, -1]
-            },
-            {
-                "rotationFrameMask": 31,
-                "spacing": 52296,
-                "mass": 50,
-                "frictionSoundId": 2,
-                "soundRange": 0,
-                "drawOrder": 8,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true,
-                    "steepSlopes": true,
-                    "verticalSlopes": true,
-                    "diagonalSlopes": true,
-                    "flatBanked": true,
-                    "flatToGentleSlopeBankedTransitions": true,
-                    "diagonalGentleSlopeBankedTransitions": true,
-                    "corkscrews": true
-                }
-            }
-        ]
+        "carColours": [[["black", "black", "yellow"]]],
+        "cars": [{"rotationFrameMask": 31,"spacing": 244048,"mass": 600,"numSeats": 4,"numSeatRows": 2,"frictionSoundId": 2,"soundRange": 2,"drawOrder": 5,"frames": {"flat": true,"gentleSlopes": true,"steepSlopes": true,"verticalSlopes": true,"diagonalSlopes": true,"flatBanked": true,"flatToGentleSlopeBankedTransitions": true,"diagonalGentleSlopeBankedTransitions": true,"corkscrews": true,"restraintAnimation": true},"hasScreamingRiders": true,"loadingPositions": [5, 3, -7, -9]},{"rotationFrameMask": 31,"spacing": 226616,"mass": 500,"numSeats": 4,"numSeatRows": 2,"frictionSoundId": 2,"soundRange": 2,"drawOrder": 6,"frames": {"flat": true,"gentleSlopes": true,"steepSlopes": true,"verticalSlopes": true,"diagonalSlopes": true,"flatBanked": true,"flatToGentleSlopeBankedTransitions": true,"diagonalGentleSlopeBankedTransitions": true,"corkscrews": true,"restraintAnimation": true},"hasScreamingRiders": true,"loadingPositions": [7, 9, -3, -1]},{"rotationFrameMask": 31,"spacing": 52296,"mass": 50,"frictionSoundId": 2,"soundRange": 0,"drawOrder": 8,"frames": {"flat": true,"gentleSlopes": true,"steepSlopes": true,"verticalSlopes": true,"diagonalSlopes": true,"flatBanked": true,"flatToGentleSlopeBankedTransitions": true,"diagonalGentleSlopeBankedTransitions": true,"corkscrews": true}}]
     },
     "images": ["$RCT2:OBJDATA/TAXICSTR.DAT[0..4470]"],
     "strings": {
@@ -128,7 +56,7 @@
             "pl-PL": "Wielka stalowa kolejka górska jeżdżąca po łagodnych spadkach i wzniesieniach o wysokości 100 m",
             "pt-BR": "Uma gigante montanha-russa de aço capaz de quedas suaves e subidas de mais de 90m",
             "eo-ZZ": "Trajnoj por la Altega Onda Fervojo, temitaj por aspekti kiel longaj flavaj taksioj",
-            "ca-ES": "Cotxes per la Gigamuntanya russa, tematitzades per parèixer taxis grocs llargs.",
+            "ca-ES": "Cotxes per la Gigamuntanya russa, tematitzades per a parèixer taxis grocs llargs.",
             "fi-FI": "Pitkien keltaisten taksien näköisiksi teematut gigaradan vuoristoratavaunut"
         },
         "capacity": {

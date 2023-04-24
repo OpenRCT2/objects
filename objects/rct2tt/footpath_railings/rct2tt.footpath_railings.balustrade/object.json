@@ -10,14 +10,12 @@
         "supportType": "pole",
         "scrollingMode": 0
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/MYTHPATH.DAT[73..164]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/MYTHPATH.DAT[73..164]"],
     "strings": {
         "name": {
             "en-GB": "Balustrade",
-            "de-DE": "Balustrade"
+            "de-DE": "Balustrade",
+            "ca-ES": "Balustrada"
         }
     }
 }

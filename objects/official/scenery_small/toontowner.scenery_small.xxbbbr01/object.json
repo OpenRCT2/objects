@@ -18,12 +18,7 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": [
-        { "path": "images/0.png", "x": -32, "y": -9 },
-        { "path": "images/1.png", "x": -32, "y": -9 },
-        { "path": "images/2.png", "x": -32, "y": -9 },
-        { "path": "images/3.png", "x": -32, "y": -9 }
-    ],
+    "images": [{"path": "images/0.png","x": -32,"y": -9},{"path": "images/1.png","x": -32,"y": -9},{"path": "images/2.png","x": -32,"y": -9},{"path": "images/3.png","x": -32,"y": -9}],
     "strings": {
         "name": {
             "en-GB": "Base Block",
@@ -45,7 +40,8 @@
             "tr-TR": "Ana blok",
             "eo-ZZ": "Bazobloko",
             "ca-ES": "Bloc base",
-            "fi-FI": "Perustuslohko"
+            "fi-FI": "Perustuslohko",
+            "ar-EG": "الكتلة الأساسية"
         }
     }
 }

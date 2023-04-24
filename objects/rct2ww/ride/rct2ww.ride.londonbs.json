@@ -16,52 +16,8 @@
         "maxCarsPerTrain": 2,
         "numEmptyCars": 2,
         "tailCars": 1,
-        "carColours": [
-            [
-                ["bright_red", "yellow", "black"]
-            ],
-            [
-                ["yellow", "white", "black"]
-            ],
-            [
-                ["light_blue", "white", "black"]
-            ]
-        ],
-        "cars": [
-            {
-                "rotationFrameMask": 31,
-                "spacing": 278912,
-                "mass": 3000,
-                "numSeats": 10,
-                "numSeatRows": 5,
-                "frictionSoundId": 31,
-                "soundRange": 4,
-                "poweredAcceleration": 250,
-                "poweredMaxSpeed": 19,
-                "drawOrder": 10,
-                "frames": {
-                    "flat": true,
-                    "gentleSlopes": true,
-                    "diagonalSlopes": true
-                },
-                "isPowered": true,
-                "loadingPositions": [12, -12, 12, -12, 12, -12, 13, 11, -13, -11]
-            },
-            {
-                "rotationFrameMask": 0,
-                "spacing": 139456,
-                "frictionSoundId": 31,
-                "soundRange": 4,
-                "poweredAcceleration": 250,
-                "poweredMaxSpeed": 19,
-                "carVisual": 1,
-                "drawOrder": 8,
-                "spriteGroups": {
-                    "slopeFlat":1
-                },
-                "isPowered": true
-            }
-        ]
+        "carColours": [[["bright_red", "yellow", "black"]],[["yellow", "white", "black"]],[["light_blue", "white", "black"]]],
+        "cars": [{"rotationFrameMask": 31,"spacing": 278912,"mass": 3000,"numSeats": 10,"numSeatRows": 5,"frictionSoundId": 31,"soundRange": 4,"poweredAcceleration": 250,"poweredMaxSpeed": 19,"drawOrder": 10,"frames": {"flat": true,"gentleSlopes": true,"diagonalSlopes": true},"isPowered": true,"loadingPositions": [12, -12, 12, -12, 12, -12, 13, 11, -13, -11]},{"rotationFrameMask": 0,"spacing": 139456,"frictionSoundId": 31,"soundRange": 4,"poweredAcceleration": 250,"poweredMaxSpeed": 19,"carVisual": 1,"drawOrder": 8,"spriteGroups": {"slopeFlat": 1},"isPowered": true}]
     },
     "images": ["$RCT2:OBJDATA/LONDONBS.DAT[0..770]", ""],
     "strings": {
@@ -102,7 +58,7 @@
             "pt-BR": "Réplicas do famoso ônibus Routemaster de Londres",
             "ru-RU": "Автобус",
             "eo-ZZ": "Replikaĵoj de la fama Londona Etaĝa Buso",
-            "ca-ES": "Rèpliques del famos autobús londinenc Routemaster.",
+            "ca-ES": "Rèpliques del famós autobús londinenc Routemaster.",
             "fi-FI": "Lontoon kuuluisan Routemaster-bussin jäljennökset"
         },
         "capacity": {

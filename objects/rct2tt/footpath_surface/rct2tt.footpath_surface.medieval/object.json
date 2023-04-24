@@ -4,10 +4,7 @@
     "version": "1.0",
     "sourceGame": ["rct2tt"],
     "objectType": "footpath_surface",
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/MEDIPATH.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/MEDIPATH.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Wooden Footpath",
@@ -24,7 +21,8 @@
             "pl-PL": "Drewniany chodnik",
             "ru-RU": "Дорожка",
             "ja-JP": "木造の歩道",
-            "eo-ZZ": "Ligna Trotuaro"
+            "eo-ZZ": "Ligna Trotuaro",
+            "ca-ES": "Camí de fusta"
         }
     }
 }

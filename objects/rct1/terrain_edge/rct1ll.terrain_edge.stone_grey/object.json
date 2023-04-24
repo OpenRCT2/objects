@@ -9,14 +9,8 @@
         "hasDoors": true,
         "doorSound": 2
     },
-    "images": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$CSG[41550..41653]"
-    ],
-    "noCsgImages": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$G1[1579..1662]"
-    ],
+    "images": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$CSG[41550..41653]"],
+    "noCsgImages": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$G1[1579..1662]"],
     "strings": {
         "name": {
             "en-GB": "Sandstone (Grey)",
@@ -30,7 +24,7 @@
             "ko-KR": "사암 (회색)",
             "eo-ZZ": "Sabloŝtono (Griza)",
             "sv-SE": "Sandsten (grå)",
-            "ca-ES": "Gres (Gris)",
+            "ca-ES": "Gres (gris)",
             "fi-FI": "Hiekkakivinen (harmaa)",
             "zh-CN": "砂岩(灰色)"
         }

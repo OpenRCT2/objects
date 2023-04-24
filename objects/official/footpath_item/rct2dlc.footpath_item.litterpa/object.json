@@ -14,21 +14,7 @@
         "price": 40,
         "sceneryGroup": "rct2.scenery_group.scgpathx"
     },
-    "images": [
-        { "path": "images/0.png", "x": 16, "y": 16 },
-        { "path": "images/1.png", "x": -6, "y": -13 },
-        { "path": "images/2.png", "x": -6, "y": -13 },
-        { "path": "images/3.png", "x": -6, "y": -13 },
-        { "path": "images/4.png", "x": -6, "y": -13 },
-        { "path": "images/5.png", "x": -6, "y": -6 },
-        { "path": "images/6.png", "x": -6, "y": -5 },
-        { "path": "images/7.png", "x": -6, "y": -5 },
-        { "path": "images/8.png", "x": -6, "y": -6 },
-        { "path": "images/9.png", "x": -6, "y": -13 },
-        { "path": "images/10.png", "x": -6, "y": -13 },
-        { "path": "images/11.png", "x": -6, "y": -13 },
-        { "path": "images/12.png", "x": -6, "y": -13 }
-    ],
+    "images": [{"path": "images/0.png","x": 16,"y": 16},{"path": "images/1.png","x": -6,"y": -13},{"path": "images/2.png","x": -6,"y": -13},{"path": "images/3.png","x": -6,"y": -13},{"path": "images/4.png","x": -6,"y": -13},{"path": "images/5.png","x": -6,"y": -6},{"path": "images/6.png","x": -6,"y": -5},{"path": "images/7.png","x": -6,"y": -5},{"path": "images/8.png","x": -6,"y": -6},{"path": "images/9.png","x": -6,"y": -13},{"path": "images/10.png","x": -6,"y": -13},{"path": "images/11.png","x": -6,"y": -13},{"path": "images/12.png","x": -6,"y": -13}],
     "strings": {
         "name": {
             "en-GB": "Panda Litter Bin",
@@ -41,7 +27,7 @@
             "ko-KR": "판다 휴지통",
             "zh-TW": "熊貓垃圾桶",
             "pt-BR": "Lixeira de Panda",
-            "ar-EG": "صندوق بريد الباندا",
+            "ar-EG": "صندوق بريد بطابع الباندا",
             "ja-JP": "パンダのゴミ箱",
             "pl-PL": "Kosz w kształcie pandy",
             "eo-ZZ": "Pando-Rubujo",

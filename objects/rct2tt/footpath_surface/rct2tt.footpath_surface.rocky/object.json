@@ -4,10 +4,7 @@
     "version": "1.0",
     "sourceGame": ["rct2tt"],
     "objectType": "footpath_surface",
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/JURRPATH.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/JURRPATH.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Rocky Footpath",
@@ -24,7 +21,8 @@
             "pl-PL": "Kamienista dróżka",
             "ru-RU": "Дорожка",
             "ja-JP": "石の木造",
-            "eo-ZZ": "Roka Trotuaro"
+            "eo-ZZ": "Roka Trotuaro",
+            "ca-ES": "Camí de roques"
         }
     }
 }

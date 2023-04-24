@@ -11,11 +11,7 @@
         "tabScale": 0.5,
         "hasShelter": true,
         "carsPerFlatRide": 1,
-        "carColours": [
-            [
-                ["moss_green", "yellow", "black"]
-            ]
-        ],
+        "carColours": [[["moss_green", "yellow", "black"]]],
         "cars": {
             "spacing": 139456,
             "mass": 3000,
@@ -31,88 +27,7 @@
             },
             "recalculateSpriteBounds": true,
             "numSegments": 0,
-            "loadingWaypoints": [
-                [
-                    [40, 40],
-                    [-40, 40],
-                    [-36, 0]
-                ],
-                [
-                    [-40, -40],
-                    [-36, 0],
-                    [-36, 0]
-                ],
-                [
-                    [-36, 0],
-                    [-36, 0],
-                    [-36, 0]
-                ],
-                [
-                    [-40, 40],
-                    [-36, 0],
-                    [-36, 0]
-                ],
-                [
-                    [40, 40],
-                    [0, 36],
-                    [0, 36]
-                ],
-                [
-                    [40, -40],
-                    [40, 40],
-                    [0, 36]
-                ],
-                [
-                    [-40, 40],
-                    [0, 36],
-                    [0, 36]
-                ],
-                [
-                    [0, 36],
-                    [0, 36],
-                    [0, 36]
-                ],
-                [
-                    [36, 0],
-                    [36, 0],
-                    [36, 0]
-                ],
-                [
-                    [40, -40],
-                    [36, 0],
-                    [36, 0]
-                ],
-                [
-                    [-40, -40],
-                    [40, -40],
-                    [36, 0]
-                ],
-                [
-                    [40, 40],
-                    [36, 0],
-                    [36, 0]
-                ],
-                [
-                    [40, -40],
-                    [0, -36],
-                    [0, -36]
-                ],
-                [
-                    [0, -36],
-                    [0, -36],
-                    [0, -36]
-                ],
-                [
-                    [-40, -40],
-                    [0, -36],
-                    [0, -36]
-                ],
-                [
-                    [-40, 40],
-                    [-40, -40],
-                    [0, -36]
-                ]
-            ]
+            "loadingWaypoints": [[[40, 40],[-40, 40],[-36, 0]],[[-40, -40],[-36, 0],[-36, 0]],[[-36, 0],[-36, 0],[-36, 0]],[[-40, 40],[-36, 0],[-36, 0]],[[40, 40],[0, 36],[0, 36]],[[40, -40],[40, 40],[0, 36]],[[-40, 40],[0, 36],[0, 36]],[[0, 36],[0, 36],[0, 36]],[[36, 0],[36, 0],[36, 0]],[[40, -40],[36, 0],[36, 0]],[[-40, -40],[40, -40],[36, 0]],[[40, 40],[36, 0],[36, 0]],[[40, -40],[0, -36],[0, -36]],[[0, -36],[0, -36],[0, -36]],[[-40, -40],[0, -36],[0, -36]],[[-40, 40],[-40, -40],[0, -36]]]
         }
     },
     "images": ["$RCT2:OBJDATA/CHBUILD.DAT[0..6]"],
@@ -155,7 +70,7 @@
             "pl-PL": "Budynek z powykrzywianymi ścianami i zakręconymi korytarzami, dezorientujący ludzi, którzy do niego wejdą",
             "ru-RU": "Здание с кривыми комнатами и коридорами",
             "eo-ZZ": "Konstruaĵo, kiu enhavas ĉambrojn torditajn kaj koridorojn angulajn por malorienti homojn tie",
-            "ca-ES": "Edifici amb habitacions deformades i passadissos angulosos per desorientar les persones que el visiten.",
+            "ca-ES": "Edifici amb habitacions deformades i passadissos angulosos per a desorientar les persones que el visiten.",
             "fi-FI": "Rakennus täynnä kävijöitä kummastuttavia vääristettyjä huoneita ja kieroutuineita käytäviä"
         },
         "capacity": {

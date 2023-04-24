@@ -11,15 +11,7 @@
         "cursor": "CURSOR_HOUSE_DOWN",
         "hasPrimaryColour": true,
         "hasSecondaryColour": true,
-        "tiles": [
-            {
-                "x": 0,
-                "y": 0,
-                "clearance": 32,
-                "hasSupports": true,
-                "walls": 15
-            }
-        ]
+        "tiles": [{"x": 0,"y": 0,"clearance": 32,"hasSupports": true,"walls": 15}]
     },
     "images": ["$RCT2:OBJDATA/SCT.DAT[0..7]"],
     "strings": {
@@ -40,7 +32,8 @@
             "ru-RU": "Тент",
             "eo-ZZ": "Tendo",
             "ca-ES": "Tenda",
-            "fi-FI": "Teltta"
+            "fi-FI": "Teltta",
+            "ar-EG": "خيمة"
         }
     }
 }

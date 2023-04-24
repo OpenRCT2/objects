@@ -5,16 +5,9 @@
     "originalId": "0000008C|#RCT1EIR|00000000",
     "sourceGame": "rct1",
     "objectType": "terrain_edge",
-    "properties": {
-    },
-    "images": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$CSG[40590..40673]"
-    ],
-    "noCsgImages": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$G1[1579..1662]"
-    ],
+    "properties": {},
+    "images": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$CSG[40590..40673]"],
+    "noCsgImages": [{"path": "icon.png","format": "raw","x": 2,"y": 2}, "$G1[1579..1662]"],
     "strings": {
         "name": {
             "en-GB": "Iron",
@@ -29,7 +22,8 @@
             "sv-SE": "Järn",
             "ca-ES": "Ferro",
             "fi-FI": "Rautainen",
-            "zh-CN": "瓦钢板"
+            "zh-CN": "瓦钢板",
+            "ar-EG": "حديد"
         }
     }
 }

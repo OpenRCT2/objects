@@ -7,12 +7,7 @@
     "properties": {
         "noSlopeRailings": true
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/TARMAC.DAT[0..15]",
-        "$RCT2:OBJDATA/ROAD.DAT[16..19]",
-        "$RCT2:OBJDATA/TARMAC.DAT[20..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/TARMAC.DAT[0..15]", "$RCT2:OBJDATA/ROAD.DAT[16..19]", "$RCT2:OBJDATA/TARMAC.DAT[20..50]"],
     "strings": {
         "name": {
             "en-GB": "Tarmac Footpath (Sloped)",
@@ -31,7 +26,8 @@
             "pl-PL": "Dróżka tłuczniowa",
             "ru-RU": "Асфальт",
             "ar-EG": "ممشي مُعبد",
-            "eo-ZZ": "Asfalta Trotuaro (Dekliva)"
+            "eo-ZZ": "Asfalta Trotuaro (Dekliva)",
+            "ca-ES": "Camí asfaltat (amb rampes)"
         }
     }
 }

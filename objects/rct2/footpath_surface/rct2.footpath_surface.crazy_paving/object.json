@@ -4,10 +4,7 @@
     "version": "1.0",
     "sourceGame": "rct2",
     "objectType": "footpath_surface",
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/PATHCRZY.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/PATHCRZY.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Crazy Paving Footpath (Stairs)",
@@ -26,7 +23,8 @@
             "pl-PL": "Zwariowana dróżka",
             "ru-RU": "Дорожка",
             "ar-EG": "ممشي مجنون مرصوف",
-            "eo-ZZ": "Freneza-Pavima Trotuaro (Ŝtuparo)"
+            "eo-ZZ": "Freneza-Pavima Trotuaro (Ŝtuparo)",
+            "ca-ES": "Camí d’empedrat boig (amb escales)"
         }
     }
 }

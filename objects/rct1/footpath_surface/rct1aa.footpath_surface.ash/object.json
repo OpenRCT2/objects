@@ -7,14 +7,8 @@
     "properties": {
         "noSlopeRailings": true
     },
-    "images": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$CSG[44391..44441]"
-    ],
-    "noCsgImages": [
-        { "path": "preview.png", "x": 1, "y": 1 },
-        "$RCT2:OBJDATA/PATHASH.DAT[0..50]"
-    ],
+    "images": [{"path": "preview.png","x": 1,"y": 1}, "$CSG[44391..44441]"],
+    "noCsgImages": [{"path": "preview.png","x": 1,"y": 1}, "$RCT2:OBJDATA/PATHASH.DAT[0..50]"],
     "strings": {
         "name": {
             "en-GB": "Ash Footpath (Square)",
@@ -33,7 +27,8 @@
             "pl-PL": "Dróżka żwirowa",
             "ru-RU": "Гравий",
             "ar-EG": "ممشي رماد",
-            "eo-ZZ": "Trotuaro el Cindropovo (Kvadrata)"
+            "eo-ZZ": "Trotuaro el Cindropovo (Kvadrata)",
+            "ca-ES": "Camí de cendra (angulós)"
         }
     }
 }
