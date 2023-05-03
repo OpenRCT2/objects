@@ -228,10 +228,7 @@
         "$CSG[31037..31052]"
     ],
     "noCsgImages": [
-        {
-            "path": "images/preview.png",
-            "format": "raw"
-        },
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$RCT2:OBJDATA/RCKC.DAT[3]",

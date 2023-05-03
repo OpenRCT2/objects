@@ -239,10 +239,7 @@
         "$CSG[34360]"
     ],
     "noCsgImages": [
-        {
-            "path": "images/preview.png",
-            "format": "raw"
-        },
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$RCT2:OBJDATA/KART1.DAT[3]",

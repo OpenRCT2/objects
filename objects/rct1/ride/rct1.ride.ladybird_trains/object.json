@@ -253,10 +253,7 @@
         "$CSG[27545]"
     ],
     "noCsgImages": [
-        {
-            "path": "images/preview.png",
-            "format": "raw"
-        },
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$RCT2:OBJDATA/ZLDB.DAT[3]",

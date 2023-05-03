@@ -15,11 +15,7 @@
         "$CSG[43881..43931]"
     ],
     "noCsgImages": [
-        {
-            "path": "preview.png",
-            "x": 1,
-            "y": 1
-        },
+        { "path": "preview.png", "x": 1, "y": 1 },
         "$RCT2:OBJDATA/TARMAC.DAT[0..15]",
         "$RCT2:OBJDATA/ROAD.DAT[16..19]",
         "$RCT2:OBJDATA/TARMAC.DAT[20..50]"

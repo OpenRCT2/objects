@@ -337,14 +337,8 @@
         "$CSG[19773]"
     ],
     "noCsgImages": [
-        {
-            "path": "images/preview1.png",
-            "format": "raw"
-        },
-        {
-            "path": "images/preview2.png",
-            "format": "raw"
-        },
+        { "path": "images/preview1.png", "format": "raw" },
+        { "path": "images/preview2.png", "format": "raw" },
         "",
         "$RCT2:OBJDATA/SLCT.DAT[3]",
         "$RCT2:OBJDATA/SLCT.DAT[5]",

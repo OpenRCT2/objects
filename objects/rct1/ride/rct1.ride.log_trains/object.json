@@ -237,10 +237,7 @@
         "$CSG[27937]"
     ],
     "noCsgImages": [
-        {
-            "path": "images/preview.png",
-            "format": "raw"
-        },
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$RCT2:OBJDATA/ZLOG.DAT[3]",

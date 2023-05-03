@@ -22,11 +22,7 @@
         "$G1[3658..3674]"
     ],
     "noCsgImages": [
-        {
-            "path": "preview.png",
-            "x": 1,
-            "y": 1
-        },
+        { "path": "preview.png", "x": 1, "y": 1 },
         "$RCT2:OBJDATA/PATHDIRT.DAT[73..108]",
         "$G1[3445..3464]",
         "$G1[3658..3674]"

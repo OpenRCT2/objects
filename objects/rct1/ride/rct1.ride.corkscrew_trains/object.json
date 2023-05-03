@@ -828,10 +828,7 @@
         "$CSG[15645]"
     ],
     "noCsgImages": [
-        {
-            "path": "images/preview.png",
-            "format": "raw"
-        },
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$RCT2:OBJDATA/ARRT1.DAT[3]",

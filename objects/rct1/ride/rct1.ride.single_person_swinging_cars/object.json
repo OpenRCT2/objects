@@ -220,10 +220,7 @@
         "$CSG[27265]"
     ],
     "noCsgImages": [
-        {
-            "path": "images/preview.png",
-            "format": "raw"
-        },
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$RCT2:OBJDATA/SKYTR.DAT[3..7]",

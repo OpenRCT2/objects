@@ -17,12 +17,7 @@
         "$CSG[41134..41237]"
     ],
     "noCsgImages": [
-        {
-            "path": "icon.png",
-            "format": "raw",
-            "x": 2,
-            "y": 2
-        },
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
         "$G1[1579..1662]"
     ],
     "strings": {
