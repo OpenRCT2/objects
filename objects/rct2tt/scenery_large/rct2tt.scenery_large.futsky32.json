@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.futsky32",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FB22|FUTSKY32|90DDABC6",
     "sourceGame": "rct2tt",
@@ -67,7 +69,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/FUTSKY32.DAT[0..39]"],
+    "images": [
+        "$RCT2:OBJDATA/FUTSKY32.DAT[0..39]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Sandstone Walkway End Section",

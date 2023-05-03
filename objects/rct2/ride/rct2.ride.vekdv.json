@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.vekdv",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C80|VEKDV   |F1CEB26E",
     "sourceGame": "rct2",
@@ -18,7 +21,11 @@
         },
         "carColours": [
             [
-                ["yellow", "bright_green", "yellow"]
+                [
+                    "yellow",
+                    "bright_green",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -47,11 +54,18 @@
             "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [1, 3, 1, 3]
+            "loadingPositions": [
+                1,
+                3,
+                1,
+                3
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/VEKDV.DAT[0..2042]"],
+    "images": [
+        "$RCT2:OBJDATA/VEKDV.DAT[0..2042]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Vertical Shuttle Cars",

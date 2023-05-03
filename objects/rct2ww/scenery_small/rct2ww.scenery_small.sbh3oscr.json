@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_small.sbh3oscr",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CC71611|SBH3OSCR|10C60576",
     "sourceGame": "rct2ww",
@@ -14,7 +16,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/SBH3OSCR.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/SBH3OSCR.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Rollercoaster Award Statue",

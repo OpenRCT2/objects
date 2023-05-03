@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.hotrodxx",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA20|HOTRODXX|C6560675",
     "sourceGame": "rct2tt",
@@ -16,13 +18,25 @@
         "headCars": 1,
         "carColours": [
             [
-                ["bright_red", "bright_yellow", "black"]
+                [
+                    "bright_red",
+                    "bright_yellow",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "bright_red", "black"]
+                [
+                    "light_blue",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "bright_red", "black"]
+                [
+                    "yellow",
+                    "bright_red",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -45,7 +59,10 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [3, -3]
+                "loadingPositions": [
+                    3,
+                    -3
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -65,7 +82,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/HOTRODXX.DAT[0..1166]"],
+    "images": [
+        "$RCT2:OBJDATA/HOTRODXX.DAT[0..1166]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Hot Rod Trains",

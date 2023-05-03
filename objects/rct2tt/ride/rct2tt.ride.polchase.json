@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.polchase",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F920|POLCHASE|8BACAB3E",
     "sourceGame": "rct2tt",
@@ -15,13 +17,25 @@
         "headCars": 0,
         "carColours": [
             [
-                ["bright_red", "bright_red", "yellow"]
+                [
+                    "bright_red",
+                    "bright_red",
+                    "yellow"
+                ]
             ],
             [
-                ["dark_green", "bright_red", "dark_green"]
+                [
+                    "dark_green",
+                    "bright_red",
+                    "dark_green"
+                ]
             ],
             [
-                ["light_blue", "white", "light_blue"]
+                [
+                    "light_blue",
+                    "white",
+                    "light_blue"
+                ]
             ]
         ],
         "cars": [
@@ -49,7 +63,12 @@
                     "restraintAnimation": true
                 },
                 "hasScreamingRiders": true,
-                "loadingPositions": [5, 3, -7, -9]
+                "loadingPositions": [
+                    5,
+                    3,
+                    -7,
+                    -9
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -75,11 +94,18 @@
                     "restraintAnimation": true
                 },
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    -3,
+                    -1
+                ]
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/POLCHASE.DAT[0..4322]"],
+    "images": [
+        "$RCT2:OBJDATA/POLCHASE.DAT[0..4322]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Police Car Trains",

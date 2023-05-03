@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.4x4diner",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA22|4X4DINER|2ACC3BEC",
     "sourceGame": "rct2tt",
@@ -109,7 +111,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/4X4DINER.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/4X4DINER.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Period Diner",

@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_wall.wgwoc1",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBCFC13|WGWOC1  |D7DC073F",
     "sourceGame": "rct2ww",
@@ -10,7 +12,9 @@
         "height": 16,
         "price": 50
     },
-    "images": ["$RCT2:OBJDATA/WGWOC1.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/WGWOC1.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Great Wall Of China Front Wall Section",

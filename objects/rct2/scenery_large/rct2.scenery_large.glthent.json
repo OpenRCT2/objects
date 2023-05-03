@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_large.glthent",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C82|GLTHENT |F0D9CE51",
     "sourceGame": "rct2",
@@ -69,7 +72,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/GLTHENT.DAT[0..31]"],
+    "images": [
+        "$RCT2:OBJDATA/GLTHENT.DAT[0..31]"
+    ],
     "strings": {
         "name": {
             "en-GB": "‘Goliath’ Sign",

@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.tgvtrain",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0910|TGVTRAIN|B9C286EC",
     "sourceGame": "rct2ww",
@@ -19,13 +21,25 @@
         },
         "carColours": [
             [
-                ["light_blue", "white", "yellow"]
+                [
+                    "light_blue",
+                    "white",
+                    "yellow"
+                ]
             ],
             [
-                ["bright_red", "yellow", "yellow"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "yellow"
+                ]
             ],
             [
-                ["white", "bordeaux_red", "bordeaux_red"]
+                [
+                    "white",
+                    "bordeaux_red",
+                    "bordeaux_red"
+                ]
             ]
         ],
         "cars": [
@@ -57,7 +71,12 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [5, 3, -7, -9]
+                "loadingPositions": [
+                    5,
+                    3,
+                    -7,
+                    -9
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -87,7 +106,12 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    -3,
+                    -1
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -115,7 +139,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/TGVTRAIN.DAT[0..5882]"],
+    "images": [
+        "$RCT2:OBJDATA/TGVTRAIN.DAT[0..5882]"
+    ],
     "strings": {
         "name": {
             "en-GB": "TGV Trains",

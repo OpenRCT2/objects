@@ -1,16 +1,24 @@
 {
     "id": "rct2.scenery_wall.wbrg",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188083|WBRG    |722151FB",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_wall",
     "properties": {
         "hasPrimaryColour": true,
         "height": 3,
         "price": 50
     },
-    "images": ["$RCT2:OBJDATA/WBRG.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/WBRG.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Brick Wall",

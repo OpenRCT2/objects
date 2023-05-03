@@ -1,9 +1,14 @@
 {
     "id": "rct2.ride.zlog",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C80|ZLOG    |EB0041B6",
-    "sourceGame": ["rct2"],
+    "sourceGame": [
+        "rct2"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "junior_rc",
@@ -21,10 +26,18 @@
         "tailCars": 2,
         "carColours": [
             [
-                ["dark_brown", "black", "black"]
+                [
+                    "dark_brown",
+                    "black",
+                    "black"
+                ]
             ],
             [
-                ["saturated_brown", "bordeaux_red", "black"]
+                [
+                    "saturated_brown",
+                    "bordeaux_red",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -48,7 +61,10 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, 4]
+                "loadingPositions": [
+                    2,
+                    4
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -70,7 +86,10 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, 4]
+                "loadingPositions": [
+                    2,
+                    4
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -80,7 +99,7 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "hasScreamingRiders": true
             }

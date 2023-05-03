@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.mcastl18",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F822|MCASTL18|195F44F8",
     "sourceGame": "rct2tt",
@@ -68,7 +70,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/MCASTL18.DAT[0..39]"],
+    "images": [
+        "$RCT2:OBJDATA/MCASTL18.DAT[0..39]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Castle Tower T Piece",

@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_wall.wshogi02",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBCFD13|WSHOGI02|A513FE51",
     "sourceGame": "rct2ww",
@@ -10,7 +12,9 @@
         "height": 4,
         "price": 50
     },
-    "images": ["$RCT2:OBJDATA/WSHOGI02.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/WSHOGI02.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Shōji Wall",

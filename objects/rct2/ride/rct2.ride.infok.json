@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.infok",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|INFOK   |6888ED73",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "information_kiosk",
@@ -16,7 +22,11 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["bright_red", "black", "black"]
+                [
+                    "bright_red",
+                    "black",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -32,7 +42,9 @@
             "recalculateSpriteBounds": true
         }
     },
-    "images": ["$RCT2:OBJDATA/INFOK.DAT[0..6]"],
+    "images": [
+        "$RCT2:OBJDATA/INFOK.DAT[0..6]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Information Kiosk",

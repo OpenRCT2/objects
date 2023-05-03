@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.goltr",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|GOLTR   |F03D99BC",
     "sourceGame": "rct2",
@@ -19,16 +22,32 @@
         },
         "carColours": [
             [
-                ["yellow", "bright_red", "light_orange"]
+                [
+                    "yellow",
+                    "bright_red",
+                    "light_orange"
+                ]
             ],
             [
-                ["dark_green", "dark_green", "bright_red"]
+                [
+                    "dark_green",
+                    "dark_green",
+                    "bright_red"
+                ]
             ],
             [
-                ["bright_red", "bright_red", "yellow"]
+                [
+                    "bright_red",
+                    "bright_red",
+                    "yellow"
+                ]
             ],
             [
-                ["grey", "light_purple", "yellow"]
+                [
+                    "grey",
+                    "light_purple",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -58,7 +77,14 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 5, 1, -1, -7, -5]
+                "loadingPositions": [
+                    7,
+                    5,
+                    1,
+                    -1,
+                    -7,
+                    -5
+                ]
             },
             {
                 "rotationFrameMask": 31,

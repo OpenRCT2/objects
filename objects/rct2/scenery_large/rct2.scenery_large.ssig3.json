@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_large.ssig3",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C82|SSIG3   |21483EF9",
     "sourceGame": "rct2",
@@ -1319,7 +1322,9 @@
             ]
         }
     },
-    "images": ["$RCT2:OBJDATA/SSIG3.DAT[0..185]"],
+    "images": [
+        "$RCT2:OBJDATA/SSIG3.DAT[0..185]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Vertical 3D Sign",

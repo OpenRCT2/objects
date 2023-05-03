@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_wall.wbr2a",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188083|WBR2A   |C81495F0",
     "sourceGame": "rct2",
@@ -9,7 +12,9 @@
         "height": 2,
         "price": 50
     },
-    "images": ["$RCT2:OBJDATA/WBR2A.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/WBR2A.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Stone Wall",

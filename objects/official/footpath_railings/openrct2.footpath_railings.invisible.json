@@ -1,24 +1,101 @@
 {
-  "id": "openrct2.footpath_railings.invisible",
-  "authors": ["OpenRCT2 developers"],
-  "version": "1.0",
-  "sourceGame": ["official"],
-  "objectType": "footpath_railings",
-  "properties": {
-    "supportType": "pole",
-    "hasElevatedPathImages": true,
-    "scrollingMode": 0,
-    "noQueueBanner": true
-  },
-  "images": [
-    "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
-  ],
-  "strings": {
-    "name": {
-      "en-GB": "Invisible Railings",
-      "de-DE": "Unsichtbare Geländer",
-      "nl-NL": "Onzichtbare ondersteuningen",
-      "eo-ZZ": "Nevideblaj Balustradoj"
+    "id": "openrct2.footpath_railings.invisible",
+    "authors": [
+        "OpenRCT2 developers"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "official"
+    ],
+    "objectType": "footpath_railings",
+    "properties": {
+        "supportType": "pole",
+        "hasElevatedPathImages": true,
+        "scrollingMode": 0,
+        "noQueueBanner": true
+    },
+    "images": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Invisible Railings",
+            "de-DE": "Unsichtbare Geländer",
+            "nl-NL": "Onzichtbare ondersteuningen",
+            "eo-ZZ": "Nevideblaj Balustradoj"
+        }
     }
-  }
 }

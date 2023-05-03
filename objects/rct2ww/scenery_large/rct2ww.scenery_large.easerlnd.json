@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.easerlnd",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CC31D12|EASERLND|599B8F67",
     "sourceGame": "rct2ww",
@@ -41,7 +43,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/EASERLND.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/EASERLND.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Easter Island Statue",

@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_wall.wallcfpc",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F83|WALLCFPC|C005DDC5",
     "sourceGame": "rct2",
@@ -15,7 +18,9 @@
         "price": 250,
         "sceneryGroup": "rct2.scenery_group.scgwalls"
     },
-    "images": ["$RCT2:OBJDATA/WALLCFPC.DAT[0..35]"],
+    "images": [
+        "$RCT2:OBJDATA/WALLCFPC.DAT[0..35]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Portcullis Door",

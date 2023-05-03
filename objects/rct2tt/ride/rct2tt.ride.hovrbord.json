@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.hovrbord",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA20|HOVRBORD|28FAF04B",
     "sourceGame": "rct2tt",
@@ -10,13 +12,25 @@
         "category": "rollercoaster",
         "carColours": [
             [
-                ["black", "light_orange", "black"]
+                [
+                    "black",
+                    "light_orange",
+                    "black"
+                ]
             ],
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["dark_green", "bright_red", "black"]
+                [
+                    "dark_green",
+                    "bright_red",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -37,10 +51,15 @@
             "hasAdditionalColour1": true,
             "hasSwinging": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [3, -3]
+            "loadingPositions": [
+                3,
+                -3
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/HOVRBORD.DAT[0..1282]"],
+    "images": [
+        "$RCT2:OBJDATA/HOVRBORD.DAT[0..1282]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Hoverboards",

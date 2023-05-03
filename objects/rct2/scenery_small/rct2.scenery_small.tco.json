@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.tco",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188D81|TCO     |9F386FCC",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 25,
@@ -13,7 +19,9 @@
         "isTree": true,
         "shape": "4/4"
     },
-    "images": ["$RCT2:OBJDATA/TCO.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TCO.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Common Oak Tree",

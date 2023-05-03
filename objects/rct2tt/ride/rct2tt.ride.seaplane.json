@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.seaplane",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F920|SEAPLANE|5502749C",
     "sourceGame": "rct2tt",
@@ -12,13 +14,25 @@
         "maxCarsPerTrain": 8,
         "carColours": [
             [
-                ["bright_red", "saturated_red", "yellow"]
+                [
+                    "bright_red",
+                    "saturated_red",
+                    "yellow"
+                ]
             ],
             [
-                ["dark_green", "dark_purple", "white"]
+                [
+                    "dark_green",
+                    "dark_purple",
+                    "white"
+                ]
             ],
             [
-                ["white", "grey", "bright_red"]
+                [
+                    "white",
+                    "grey",
+                    "bright_red"
+                ]
             ]
         ],
         "cars": {
@@ -42,10 +56,17 @@
             "hasSwinging": true,
             "hasScreamingRiders": true,
             "useSuspendedSwing": true,
-            "loadingPositions": [4, 6, -6, -4]
+            "loadingPositions": [
+                4,
+                6,
+                -6,
+                -4
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/SEAPLANE.DAT[0..4622]"],
+    "images": [
+        "$RCT2:OBJDATA/SEAPLANE.DAT[0..4622]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Suspended Seaplane Cars",

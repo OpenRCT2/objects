@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.tal",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188D81|TAL     |0A58F373",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 10,
@@ -15,7 +21,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/TAL.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TAL.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Alligator Shaped Tree",

@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.arrsw2",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|ARRSW2  |7F202742",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "suspended_swinging_rc",
@@ -16,13 +22,25 @@
         },
         "carColours": [
             [
-                ["bright_red", "yellow", "light_orange"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "light_orange"
+                ]
             ],
             [
-                ["light_purple", "bright_red", "yellow"]
+                [
+                    "light_purple",
+                    "bright_red",
+                    "yellow"
+                ]
             ],
             [
-                ["white", "dark_green", "bordeaux_red"]
+                [
+                    "white",
+                    "dark_green",
+                    "bordeaux_red"
+                ]
             ]
         ],
         "cars": {
@@ -47,7 +65,12 @@
             "hasSwinging": true,
             "hasScreamingRiders": true,
             "useSuspendedSwing": true,
-            "loadingPositions": [4, 6, -6, -4]
+            "loadingPositions": [
+                4,
+                6,
+                -6,
+                -4
+            ]
         },
         "buildMenuPriority": 1
     },

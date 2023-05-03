@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.ts6",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188E81|TS6     |DA49FE5A",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 9,
@@ -15,7 +21,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/TS6.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TS6.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Ornamental Tree",

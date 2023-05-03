@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.penguinb",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0110|PENGUINB|D859D92B",
     "sourceGame": "rct2ww",
@@ -11,13 +13,25 @@
         "maxCarsPerTrain": 8,
         "carColours": [
             [
-                ["light_blue", "white", "bright_red"]
+                [
+                    "light_blue",
+                    "white",
+                    "bright_red"
+                ]
             ],
             [
-                ["bright_red", "saturated_red", "yellow"]
+                [
+                    "bright_red",
+                    "saturated_red",
+                    "yellow"
+                ]
             ],
             [
-                ["yellow", "dark_olive_green", "light_orange"]
+                [
+                    "yellow",
+                    "dark_olive_green",
+                    "light_orange"
+                ]
             ]
         ],
         "cars": {
@@ -38,10 +52,15 @@
             "hasScreamingRiders": true,
             "useSuspendedSwing": true,
             "useSlideSwing": true,
-            "loadingPositions": [3, -3]
+            "loadingPositions": [
+                3,
+                -3
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/PENGUINB.DAT[0..2706]"],
+    "images": [
+        "$RCT2:OBJDATA/PENGUINB.DAT[0..2706]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Penguin Trains",

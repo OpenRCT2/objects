@@ -1,9 +1,13 @@
 {
     "id": "rct2.music.custom2",
-    "authors": [],
+    "authors": [
+    ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC24|00000000",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "music",
     "properties": {
         "originalStyleId": 24,

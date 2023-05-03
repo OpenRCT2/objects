@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_small.sktbase",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188D81|SKTBASE |3B339F2D",
     "sourceGame": "rct2",
@@ -20,7 +23,9 @@
         "hasNoSupports": true,
         "allowSupportsAbove": true
     },
-    "images": ["$RCT2:OBJDATA/SKTBASE.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/SKTBASE.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Block",

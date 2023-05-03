@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.histfix1",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FB22|HISTFIX1|4D69290D",
     "sourceGame": "rct2tt",
@@ -125,7 +127,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/HISTFIX1.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/HISTFIX1.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Alien Historical Structures",

@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_wall.wkreml10",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0913|WKREML10|8C03CDA4",
     "sourceGame": "rct2ww",
@@ -10,7 +12,9 @@
         "height": 4,
         "price": 50
     },
-    "images": ["$RCT2:OBJDATA/WKREML10.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/WKREML10.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Kremlin Wall Piece 8",

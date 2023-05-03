@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.battrram",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F820|BATTRRAM|BDB0D715",
     "sourceGame": "rct2tt",
@@ -11,13 +13,25 @@
         "maxCarsPerTrain": 4,
         "carColours": [
             [
-                ["black", "yellow", "bordeaux_red"]
+                [
+                    "black",
+                    "yellow",
+                    "bordeaux_red"
+                ]
             ],
             [
-                ["saturated_red", "bright_red", "black"]
+                [
+                    "saturated_red",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["grey", "white", "yellow"]
+                [
+                    "grey",
+                    "white",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -45,10 +59,19 @@
             "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [8, 6, -8, -6, 1, -1]
+            "loadingPositions": [
+                8,
+                6,
+                -8,
+                -6,
+                1,
+                -1
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/BATTRRAM.DAT[0..2498]"],
+    "images": [
+        "$RCT2:OBJDATA/BATTRRAM.DAT[0..2498]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Battering Ram Trains",

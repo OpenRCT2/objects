@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.pagodas",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0012|PAGODAS |8CA23BB6",
     "sourceGame": "rct2ww",
@@ -76,7 +78,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/PAGODAS.DAT[0..39]"],
+    "images": [
+        "$RCT2:OBJDATA/PAGODAS.DAT[0..39]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Pagoda",

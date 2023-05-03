@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_wall.wbr1a",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188083|WBR1A   |B589A46E",
     "sourceGame": "rct2",
@@ -9,7 +12,9 @@
         "height": 3,
         "price": 50
     },
-    "images": ["$RCT2:OBJDATA/WBR1A.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/WBR1A.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Brick Wall",

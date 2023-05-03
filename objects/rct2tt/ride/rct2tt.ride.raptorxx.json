@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.raptorxx",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F720|RAPTORXX|F7E91DF1",
     "sourceGame": "rct2tt",
@@ -13,13 +15,25 @@
         },
         "carColours": [
             [
-                ["bright_red", "white", "black"]
+                [
+                    "bright_red",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["bright_green", "white", "black"]
+                [
+                    "bright_green",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "white", "black"]
+                [
+                    "light_blue",
+                    "white",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -37,10 +51,15 @@
                 "diagonalSlopes": true
             },
             "hasScreamingRiders": true,
-            "loadingPositions": [4, -4]
+            "loadingPositions": [
+                4,
+                -4
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/RAPTORXX.DAT[0..258]"],
+    "images": [
+        "$RCT2:OBJDATA/RAPTORXX.DAT[0..258]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Racing Raptors",

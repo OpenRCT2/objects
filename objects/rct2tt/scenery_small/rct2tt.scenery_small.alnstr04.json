@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.alnstr04",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FB21|ALNSTR04|68D3BE3C",
     "sourceGame": "rct2tt",
@@ -23,9 +25,28 @@
         "prohibitWalls": true,
         "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
         "SMALL_SCENERY_FLAG_COG": true,
-        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+        "frameOffsets": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
     },
-    "images": ["$RCT2:OBJDATA/ALNSTR04.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/ALNSTR04.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Alien Skylight Small",

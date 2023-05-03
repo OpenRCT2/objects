@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.peasthut",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F922|PEASTHUT|4FB666D9",
     "sourceGame": "rct2tt",
@@ -41,7 +43,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/PEASTHUT.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/PEASTHUT.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Peasant Hut",

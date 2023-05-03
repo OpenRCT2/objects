@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.condorrd",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CC31B10|CONDORRD|12189574",
     "sourceGame": "rct2ww",
@@ -13,10 +15,18 @@
         "maxCarsPerTrain": 8,
         "carColours": [
             [
-                ["bright_red", "yellow", "dark_purple"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "dark_purple"
+                ]
             ],
             [
-                ["teal", "grey", "dark_purple"]
+                [
+                    "teal",
+                    "grey",
+                    "dark_purple"
+                ]
             ]
         ],
         "cars": [
@@ -48,7 +58,12 @@
                 "spriteBoundsIncludeInvertedSet": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, -2, 2, -2]
+                "loadingPositions": [
+                    2,
+                    -2,
+                    2,
+                    -2
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -77,11 +92,18 @@
                 "hasInvertedSpriteSet": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, -2, 2, -2]
+                "loadingPositions": [
+                    2,
+                    -2,
+                    2,
+                    -2
+                ]
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/CONDORRD.DAT[0..4562]"],
+    "images": [
+        "$RCT2:OBJDATA/CONDORRD.DAT[0..4562]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Condor Trains",

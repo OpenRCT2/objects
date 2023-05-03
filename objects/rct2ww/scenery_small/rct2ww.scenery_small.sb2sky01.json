@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_small.sb2sky01",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0611|SB2SKY01|6158D697",
     "sourceGame": "rct2ww",
@@ -14,7 +16,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/SB2SKY01.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/SB2SKY01.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Stone Skyscraper Stairway Base",

@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_wall.wshogi17",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CCCCC13|WSHOGI17|CDE428DA",
     "sourceGame": "rct2ww",
@@ -10,7 +12,9 @@
         "height": 1,
         "price": 50
     },
-    "images": ["$RCT2:OBJDATA/WSHOGI17.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/WSHOGI17.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Japanese Fence",

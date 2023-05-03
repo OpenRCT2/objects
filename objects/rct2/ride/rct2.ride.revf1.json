@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.revf1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|REVF1   |BB21F3B6",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "reverse_freefall_rc",
@@ -12,13 +18,25 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["bright_red", "grey", "light_purple"]
+                [
+                    "bright_red",
+                    "grey",
+                    "light_purple"
+                ]
             ],
             [
-                ["yellow", "bordeaux_red", "bordeaux_red"]
+                [
+                    "yellow",
+                    "bordeaux_red",
+                    "bordeaux_red"
+                ]
             ],
             [
-                ["bright_purple", "yellow", "yellow"]
+                [
+                    "bright_purple",
+                    "yellow",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -40,11 +58,22 @@
             "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [7, 5, 2, 0, -5, -7, -6, 1]
+            "loadingPositions": [
+                7,
+                5,
+                2,
+                0,
+                -5,
+                -7,
+                -6,
+                1
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/REVF1.DAT[0..1562]"],
+    "images": [
+        "$RCT2:OBJDATA/REVF1.DAT[0..1562]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Reverse Freefall Car",

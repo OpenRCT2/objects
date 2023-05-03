@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_small.rdrab06",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0A11|RDRAB06 |6FEEC32A",
     "sourceGame": "rct2ww",
@@ -15,7 +17,9 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/RDRAB06.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/RDRAB06.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Drab Small Tower Top or Mid-Section",

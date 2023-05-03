@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.intbob",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|INTBOB  |499CD9EA",
     "sourceGame": "rct2",
@@ -13,13 +16,25 @@
         },
         "carColours": [
             [
-                ["bright_red", "bright_red", "black"]
+                [
+                    "bright_red",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["teal", "bordeaux_red", "black"]
+                [
+                    "teal",
+                    "bordeaux_red",
+                    "black"
+                ]
             ],
             [
-                ["white", "light_blue", "black"]
+                [
+                    "white",
+                    "light_blue",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -41,11 +56,20 @@
             "hasScreamingRiders": true,
             "useSuspendedSwing": true,
             "useSlideSwing": true,
-            "loadingPositions": [7, 9, 3, -3, -7, -9]
+            "loadingPositions": [
+                7,
+                9,
+                3,
+                -3,
+                -7,
+                -9
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/INTBOB.DAT[0..5410]"],
+    "images": [
+        "$RCT2:OBJDATA/INTBOB.DAT[0..5410]"
+    ],
     "strings": {
         "name": {
             "en-GB": "6-seater Bobsleighs",

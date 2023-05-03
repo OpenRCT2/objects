@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.tqf",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188E81|TQF     |4C10299C",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 65,
@@ -19,7 +25,9 @@
         "SMALL_SCENERY_FLAG_FOUNTAIN_SPRAY_4": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/TQF.DAT[0..39]"],
+    "images": [
+        "$RCT2:OBJDATA/TQF.DAT[0..39]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Cupid Fountains",

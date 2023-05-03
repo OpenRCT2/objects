@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.tscp",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188E81|TSCP    |21B97003",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 18,
@@ -15,7 +21,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/TSCP.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TSCP.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Space Capsule",

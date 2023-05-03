@@ -1,6 +1,9 @@
 {
     "id": "couger.scenery_wall.acww33",
-    "authors": ["Simon Foster", "Couger"],
+    "authors": [
+        "Simon Foster",
+        "Couger"
+    ],
     "version": "1.0",
     "originalId": "00000003|ACWW33  |1C53D439",
     "sourceGame": "official",
@@ -12,60 +15,12 @@
         "sceneryGroup": "rct2.scenery_group.scgwalls"
     },
     "images": [
-        {
-            "path": "images.png",
-            "srcX": 0,
-            "srcY": 0,
-            "srcWidth": 33,
-            "srcHeight": 48,
-            "x": -31,
-            "y": -33
-        },
-        {
-            "path": "images.png",
-            "srcX": 33,
-            "srcY": 0,
-            "srcWidth": 33,
-            "srcHeight": 48,
-            "x": -1,
-            "y": -33
-        },
-        {
-            "path": "images.png",
-            "srcX": 66,
-            "srcY": 0,
-            "srcWidth": 33,
-            "srcHeight": 64,
-            "x": -31,
-            "y": -49
-        },
-        {
-            "path": "images.png",
-            "srcX": 99,
-            "srcY": 0,
-            "srcWidth": 33,
-            "srcHeight": 64,
-            "x": -1,
-            "y": -48
-        },
-        {
-            "path": "images.png",
-            "srcX": 132,
-            "srcY": 0,
-            "srcWidth": 33,
-            "srcHeight": 34,
-            "x": -31,
-            "y": -34
-        },
-        {
-            "path": "images.png",
-            "srcX": 165,
-            "srcY": 0,
-            "srcWidth": 33,
-            "srcHeight": 33,
-            "x": -1,
-            "y": -32
-        }
+        { "path": "images.png", "srcX": 0, "srcY": 0, "srcWidth": 33, "srcHeight": 48, "x": -31, "y": -33 },
+        { "path": "images.png", "srcX": 33, "srcY": 0, "srcWidth": 33, "srcHeight": 48, "x": -1, "y": -33 },
+        { "path": "images.png", "srcX": 66, "srcY": 0, "srcWidth": 33, "srcHeight": 64, "x": -31, "y": -49 },
+        { "path": "images.png", "srcX": 99, "srcY": 0, "srcWidth": 33, "srcHeight": 64, "x": -1, "y": -48 },
+        { "path": "images.png", "srcX": 132, "srcY": 0, "srcWidth": 33, "srcHeight": 34, "x": -31, "y": -34 },
+        { "path": "images.png", "srcX": 165, "srcY": 0, "srcWidth": 33, "srcHeight": 33, "x": -1, "y": -32 }
     ],
     "strings": {
         "name": {

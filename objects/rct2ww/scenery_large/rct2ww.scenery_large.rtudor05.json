@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.rtudor05",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0A12|RTUDOR05|7993B8F5",
     "sourceGame": "rct2ww",
@@ -24,7 +26,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/RTUDOR05.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/RTUDOR05.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Tudor Roof Piece 3",

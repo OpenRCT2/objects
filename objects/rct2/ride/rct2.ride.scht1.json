@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.scht1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|SCHT1   |4862FCC8",
     "sourceGame": "rct2",
@@ -14,13 +17,25 @@
         "headCars": 0,
         "carColours": [
             [
-                ["bright_red", "bright_red", "yellow"]
+                [
+                    "bright_red",
+                    "bright_red",
+                    "yellow"
+                ]
             ],
             [
-                ["dark_green", "bright_red", "dark_green"]
+                [
+                    "dark_green",
+                    "bright_red",
+                    "dark_green"
+                ]
             ],
             [
-                ["light_blue", "white", "light_blue"]
+                [
+                    "light_blue",
+                    "white",
+                    "light_blue"
+                ]
             ]
         ],
         "cars": [
@@ -50,7 +65,12 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [5, 3, -7, -9]
+                "loadingPositions": [
+                    5,
+                    3,
+                    -7,
+                    -9
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -77,12 +97,19 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    -3,
+                    -1
+                ]
             }
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/SCHT1.DAT[0..4322]"],
+    "images": [
+        "$RCT2:OBJDATA/SCHT1.DAT[0..4322]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Looping Roller Coaster Trains",

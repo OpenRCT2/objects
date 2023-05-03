@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.vekst",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C80|VEKST   |4F5F2BAE",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "lay_down_rc",
@@ -13,13 +19,25 @@
         "maxCarsPerTrain": 6,
         "carColours": [
             [
-                ["dark_purple", "black", "bright_red"]
+                [
+                    "dark_purple",
+                    "black",
+                    "bright_red"
+                ]
             ],
             [
-                ["yellow", "dark_green", "black"]
+                [
+                    "yellow",
+                    "dark_green",
+                    "black"
+                ]
             ],
             [
-                ["bright_red", "light_blue", "black"]
+                [
+                    "bright_red",
+                    "light_blue",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -50,7 +68,12 @@
                 "spriteBoundsIncludeInvertedSet": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, -2, 2, -2]
+                "loadingPositions": [
+                    2,
+                    -2,
+                    2,
+                    -2
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -78,12 +101,19 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, -2, 2, -2]
+                "loadingPositions": [
+                    2,
+                    -2,
+                    2,
+                    -2
+                ]
             }
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/VEKST.DAT[0..4082]"],
+    "images": [
+        "$RCT2:OBJDATA/VEKST.DAT[0..4082]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Lay-down Roller Coaster Trains",

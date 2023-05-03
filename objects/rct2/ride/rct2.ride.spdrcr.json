@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.spdrcr",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|SPDRCR  |82355DA3",
     "sourceGame": "rct2",
@@ -11,13 +14,25 @@
         "maxCarsPerTrain": 4,
         "carColours": [
             [
-                ["black", "yellow", "bordeaux_red"]
+                [
+                    "black",
+                    "yellow",
+                    "bordeaux_red"
+                ]
             ],
             [
-                ["saturated_red", "bright_red", "black"]
+                [
+                    "saturated_red",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["grey", "white", "yellow"]
+                [
+                    "grey",
+                    "white",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -45,11 +60,20 @@
             "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [8, 6, -8, -6, 1, -1]
+            "loadingPositions": [
+                8,
+                6,
+                -8,
+                -6,
+                1,
+                -1
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/SPDRCR.DAT[0..2498]"],
+    "images": [
+        "$RCT2:OBJDATA/SPDRCR.DAT[0..2498]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Spiral Roller Coaster Trains",

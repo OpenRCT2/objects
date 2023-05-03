@@ -1,6 +1,9 @@
 {
     "id": "rct2.footpath_item.litterww",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188786|LITTERWW|29C2589F",
     "sourceGame": "rct2",
@@ -14,7 +17,9 @@
         "price": 40,
         "sceneryGroup": "rct2.scenery_group.scgpathx"
     },
-    "images": ["$RCT2:OBJDATA/LITTERWW.DAT[0..12]"],
+    "images": [
+        "$RCT2:OBJDATA/LITTERWW.DAT[0..12]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Litter Bin",

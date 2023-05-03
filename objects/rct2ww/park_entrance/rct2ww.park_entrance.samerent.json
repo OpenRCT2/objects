@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.park_entrance.samerent",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CC31D18|SAMERENT|E08AF168",
     "sourceGame": "rct2ww",
@@ -9,7 +11,9 @@
         "scrollingMode": 3,
         "textHeight": 82
     },
-    "images": ["$RCT2:OBJDATA/SAMERENT.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/SAMERENT.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "South American Park Entrance",

@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_small.rwdaub02",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0411|RWDAUB02|BAD8168B",
     "sourceGame": "rct2ww",
@@ -18,7 +20,9 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/RWD02.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/RWD02.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Wattle & Daub Roof",

@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.valkyrie",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F820|VALKYRIE|38768495",
     "sourceGame": "rct2tt",
@@ -12,7 +14,11 @@
         "maxCarsPerTrain": 3,
         "carColours": [
             [
-                ["black", "black", "light_brown"]
+                [
+                    "black",
+                    "black",
+                    "light_brown"
+                ]
             ]
         ],
         "cars": {
@@ -39,10 +45,19 @@
                 "restraintAnimation": true
             },
             "hasScreamingRiders": true,
-            "loadingPositions": [3, -3, 3, -3, 3, -3]
+            "loadingPositions": [
+                3,
+                -3,
+                3,
+                -3,
+                3,
+                -3
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/VALKYRIE.DAT[0..2882]"],
+    "images": [
+        "$RCT2:OBJDATA/VALKYRIE.DAT[0..2882]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Valkyries Trains",

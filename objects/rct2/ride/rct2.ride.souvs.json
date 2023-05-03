@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.souvs",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|SOUVS   |CDADB499",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "shop",
@@ -16,11 +22,17 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["bright_red", "black", "black"]
+                [
+                    "bright_red",
+                    "black",
+                    "black"
+                ]
             ]
         ]
     },
-    "images": ["$RCT2:OBJDATA/SOUVS.DAT[0..6]"],
+    "images": [
+        "$RCT2:OBJDATA/SOUVS.DAT[0..6]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Souvenir Stall",

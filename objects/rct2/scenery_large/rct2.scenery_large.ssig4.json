@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_large.ssig4",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C82|SSIG4   |9CA47F4E",
     "sourceGame": "rct2",
@@ -1326,7 +1329,9 @@
             ]
         }
     },
-    "images": ["$RCT2:OBJDATA/SSIG4.DAT[0..367]"],
+    "images": [
+        "$RCT2:OBJDATA/SSIG4.DAT[0..367]"
+    ],
     "strings": {
         "name": {
             "en-GB": "3D Sign",

@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.rsaus",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|RSAUS   |33756690",
     "sourceGame": "rct2",
@@ -14,11 +17,17 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["black", "black", "black"]
+                [
+                    "black",
+                    "black",
+                    "black"
+                ]
             ]
         ]
     },
-    "images": ["$RCT2:OBJDATA/RSAUS.DAT[0..6]"],
+    "images": [
+        "$RCT2:OBJDATA/RSAUS.DAT[0..6]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Roast Sausage Stall",

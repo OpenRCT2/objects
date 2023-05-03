@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.mcastl10",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F821|MCASTL10|289D2463",
     "sourceGame": "rct2tt",
@@ -18,7 +20,9 @@
         "isStackable": true,
         "prohibitWalls": true
     },
-    "images": ["$RCT2:OBJDATA/MCASTL10.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/MCASTL10.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Castle Ramparts Corner",

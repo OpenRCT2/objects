@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_small.wkreml04",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0911|WKREML04|1C6052B5",
     "sourceGame": "rct2ww",
@@ -15,7 +17,9 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/WKREML04.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/WKREML04.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Kremlin Wall Piece 2",

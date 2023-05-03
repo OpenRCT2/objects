@@ -1,9 +1,15 @@
 {
     "id": "rct2.terrain_edge.ice",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0000008C|#RCT2EIC|00000000",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "terrain_edge",
     "properties": {
     },

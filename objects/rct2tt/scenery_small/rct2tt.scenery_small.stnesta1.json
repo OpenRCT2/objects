@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.stnesta1",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F821|STNESTA1|DF488147",
     "sourceGame": "rct2tt",
@@ -17,7 +19,9 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/STNESTA1.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/STNESTA1.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Men Turned to Stone",

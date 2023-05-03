@@ -1,9 +1,15 @@
 {
     "id": "rct2.footpath_banner.bn6",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F84|BN6     |927AF341",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "footpath_banner",
     "properties": {
         "scrollingMode": 15,
@@ -11,7 +17,9 @@
         "hasPrimaryColour": true,
         "sceneryGroup": "rct2.scenery_group.scgpathx"
     },
-    "images": ["$RCT2:OBJDATA/BN6.DAT[0..7]"],
+    "images": [
+        "$RCT2:OBJDATA/BN6.DAT[0..7]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Jurassic Style Sign",

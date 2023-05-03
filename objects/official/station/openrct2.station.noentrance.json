@@ -1,6 +1,8 @@
 {
     "id": "openrct2.station.noentrance",
-    "authors": ["OpenRCT2 developers"],
+    "authors": [
+        "OpenRCT2 developers"
+    ],
     "version": "1.0",
     "originalId": "0000008D|#ORCT2SN|00000000",
     "sourceGame": "official",
@@ -8,7 +10,8 @@
     "properties": {
         "hasShelter": false
     },
-    "images": [],
+    "images": [
+    ],
     "strings": {
         "name": {
             "en-GB": "No entrance",

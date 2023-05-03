@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.laserx01",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FB21|LASERX01|0AC918B3",
     "sourceGame": "rct2tt",
@@ -24,9 +26,28 @@
         "hasNoSupports": true,
         "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
         "SMALL_SCENERY_FLAG_COG": true,
-        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+        "frameOffsets": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
     },
-    "images": ["$RCT2:OBJDATA/LASERX01.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/LASERX01.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Laser Fence",

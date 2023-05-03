@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_group.scg1920w",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F627|SCG1920W|7C3C45D4",
     "sourceGame": "rct2tt",
@@ -127,7 +129,9 @@
         ],
         "priority": 25
     },
-    "images": ["$RCT2:OBJDATA/SCG1920W.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCG1920W.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Roaring Twenties Wall Sets",

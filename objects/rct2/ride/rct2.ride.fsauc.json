@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.fsauc",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|FSAUC   |286B8633",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "flying_saucers",
@@ -11,10 +17,18 @@
         "carsPerFlatRide": 12,
         "carColours": [
             [
-                ["white", "light_orange", "black"]
+                [
+                    "white",
+                    "light_orange",
+                    "black"
+                ]
             ],
             [
-                ["light_purple", "bright_red", "black"]
+                [
+                    "light_purple",
+                    "bright_red",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -33,10 +47,14 @@
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
             "useDodgemCarPlacement": true,
-            "loadingPositions": [0]
+            "loadingPositions": [
+                0
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/FSAUC.DAT[0..66]"],
+    "images": [
+        "$RCT2:OBJDATA/FSAUC.DAT[0..66]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Flying Saucers",

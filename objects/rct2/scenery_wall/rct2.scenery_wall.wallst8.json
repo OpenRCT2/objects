@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_wall.wallst8",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188083|WALLST8 |301FA257",
     "sourceGame": "rct2",
@@ -11,7 +14,9 @@
         "price": 40,
         "sceneryGroup": "rct2.scenery_group.scgwalls"
     },
-    "images": ["$RCT2:OBJDATA/WALLST8.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/WALLST8.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Steel Wall",

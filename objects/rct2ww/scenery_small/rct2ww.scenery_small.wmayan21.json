@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_small.wmayan21",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CC31C11|WMAYAN21|3234A5C2",
     "sourceGame": "rct2ww",
@@ -15,7 +17,9 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/WMAYAN21.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/WMAYAN21.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Lost City Flat Roof Piece",

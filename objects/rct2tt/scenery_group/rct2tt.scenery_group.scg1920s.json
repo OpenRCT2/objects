@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_group.scg1920s",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F627|SCG1920S|4FC4CAD5",
     "sourceGame": "rct2tt",
@@ -58,7 +60,9 @@
         ],
         "priority": 25
     },
-    "images": ["$RCT2:OBJDATA/SCG1920S.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCG1920S.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Roaring Twenties Theming",

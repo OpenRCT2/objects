@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.4x4trpit",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F722|4X4TRPIT|EBC5B6C5",
     "sourceGame": "rct2tt",
@@ -125,7 +127,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/4X4TRPIT.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/4X4TRPIT.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Bubbling Tarpit",

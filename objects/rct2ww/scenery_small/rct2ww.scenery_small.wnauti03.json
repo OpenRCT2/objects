@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_small.wnauti03",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0F11|WNAUTI03|4DE39BBE",
     "sourceGame": "rct2ww",
@@ -15,7 +17,9 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/WNAUTI03.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/WNAUTI03.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Nautical Roof Piece",

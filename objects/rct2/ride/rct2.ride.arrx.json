@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.arrx",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|ARRX    |9BA47335",
     "sourceGame": "rct2",
@@ -13,10 +16,18 @@
         "maxCarsPerTrain": 7,
         "carColours": [
             [
-                ["dark_purple", "bright_pink", "yellow"]
+                [
+                    "dark_purple",
+                    "bright_pink",
+                    "yellow"
+                ]
             ],
             [
-                ["bordeaux_red", "black", "light_orange"]
+                [
+                    "bordeaux_red",
+                    "black",
+                    "light_orange"
+                ]
             ]
         ],
         "cars": [
@@ -49,7 +60,12 @@
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
                 "hasVehicleAnimation": true,
-                "loadingPositions": [3, -3, 3, -3]
+                "loadingPositions": [
+                    3,
+                    -3,
+                    3,
+                    -3
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -79,12 +95,19 @@
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
                 "hasVehicleAnimation": true,
-                "loadingPositions": [3, -3, 3, -3]
+                "loadingPositions": [
+                    3,
+                    -3,
+                    3,
+                    -3
+                ]
             }
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/ARRX.DAT[0..28226]"],
+    "images": [
+        "$RCT2:OBJDATA/ARRX.DAT[0..28226]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Multi-Dimension Coaster Trains",

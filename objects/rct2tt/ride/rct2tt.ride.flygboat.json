@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.flygboat",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F920|FLYGBOAT|20A4036F",
     "sourceGame": "rct2tt",
@@ -21,13 +23,25 @@
         "maxHeight": 25,
         "carColours": [
             [
-                ["dark_brown", "bright_red", "black"]
+                [
+                    "dark_brown",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["grey", "dark_brown", "black"]
+                [
+                    "grey",
+                    "dark_brown",
+                    "black"
+                ]
             ],
             [
-                ["saturated_brown", "dark_green", "black"]
+                [
+                    "saturated_brown",
+                    "dark_green",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -52,7 +66,14 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, 2, 4, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    2,
+                    4,
+                    -3,
+                    -1
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -62,14 +83,17 @@
                 "carVisual": 8,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/FLYGBOAT.DAT[0..1730]", ""],
+    "images": [
+        "$RCT2:OBJDATA/FLYGBOAT.DAT[0..1730]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Flying Boats",

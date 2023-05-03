@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.medtools",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F921|MEDTOOLS|0E8346CD",
     "sourceGame": "rct2tt",
@@ -16,7 +18,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/MEDTOOLS.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/MEDTOOLS.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Farm Tools",

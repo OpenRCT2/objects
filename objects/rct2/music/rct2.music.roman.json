@@ -1,9 +1,15 @@
 {
     "id": "rct2.music.roman",
-    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC02|00000000",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "music",
     "properties": {
         "originalStyleId": 2,

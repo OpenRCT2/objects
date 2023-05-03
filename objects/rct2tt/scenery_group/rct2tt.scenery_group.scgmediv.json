@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_group.scgmediv",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F627|SCGMEDIV|C7FF7E87",
     "sourceGame": "rct2tt",
@@ -103,7 +105,9 @@
         "priority": 25,
         "entertainerCostumes": "knight"
     },
-    "images": ["$RCT2:OBJDATA/SCGMEDIV.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGMEDIV.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Dark Age Theming",

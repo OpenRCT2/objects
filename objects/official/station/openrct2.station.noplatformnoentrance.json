@@ -1,6 +1,8 @@
 {
     "id": "openrct2.station.noplatformnoentrance",
-    "authors": ["OpenRCT2 developers"],
+    "authors": [
+        "OpenRCT2 developers"
+    ],
     "version": "1.0",
     "originalId": "0000008D|#ORCT2SP|00000000",
     "sourceGame": "official",
@@ -9,7 +11,8 @@
         "hasShelter": false,
         "noPlatforms": true
     },
-    "images": [],
+    "images": [
+    ],
     "strings": {
         "name": {
             "en-GB": "No entrance, no platform",

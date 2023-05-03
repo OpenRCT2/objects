@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_wall.wgw2",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188083|WGW2    |FC548B09",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "scenery_wall",
     "properties": {
         "hasPrimaryColour": true,
@@ -15,7 +21,9 @@
         "price": 90,
         "sceneryGroup": "rct2.scenery_group.scgfence"
     },
-    "images": ["$RCT2:OBJDATA/WGW2.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/WGW2.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Glass Wall",

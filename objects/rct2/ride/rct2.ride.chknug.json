@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.chknug",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|CHKNUG  |FB824A39",
     "sourceGame": "rct2",
@@ -14,11 +17,17 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["black", "black", "black"]
+                [
+                    "black",
+                    "black",
+                    "black"
+                ]
             ]
         ]
     },
-    "images": ["$RCT2:OBJDATA/CHKNUG.DAT[0..6]"],
+    "images": [
+        "$RCT2:OBJDATA/CHKNUG.DAT[0..6]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Chicken Nuggets Stall",

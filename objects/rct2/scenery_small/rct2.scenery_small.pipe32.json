@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_small.pipe32",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188D81|PIPE32  |F4207EFD",
     "sourceGame": "rct2",
@@ -15,7 +18,9 @@
         "hasPrimaryColour": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/PIPE32.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/PIPE32.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Pipe Section",

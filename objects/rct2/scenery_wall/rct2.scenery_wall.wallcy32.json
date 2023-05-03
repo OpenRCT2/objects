@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_wall.wallcy32",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F83|WALLCY32|F937396C",
     "sourceGame": "rct2",
@@ -10,7 +13,9 @@
         "price": 80,
         "sceneryGroup": "rct2.scenery_group.scgwalls"
     },
-    "images": ["$RCT2:OBJDATA/WALLCY32.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/WALLCY32.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Wall",

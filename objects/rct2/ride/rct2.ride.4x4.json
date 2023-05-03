@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.4x4",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|4X4     |0DB8676C",
     "sourceGame": "rct2",
@@ -23,13 +26,25 @@
         "maxHeight": 18,
         "carColours": [
             [
-                ["yellow", "grey", "bright_red"]
+                [
+                    "yellow",
+                    "grey",
+                    "bright_red"
+                ]
             ],
             [
-                ["bright_red", "yellow", "yellow"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "yellow"
+                ]
             ],
             [
-                ["dark_green", "bordeaux_red", "light_orange"]
+                [
+                    "dark_green",
+                    "bordeaux_red",
+                    "light_orange"
+                ]
             ]
         ],
         "cars": [
@@ -52,7 +67,10 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [4, -4]
+                "loadingPositions": [
+                    4,
+                    -4
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -62,14 +80,17 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "hasAdditionalColour2": true,
                 "isPowered": true
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/4X4.DAT[0..394]", ""],
+    "images": [
+        "$RCT2:OBJDATA/4X4.DAT[0..394]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Monster Trucks",

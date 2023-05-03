@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_small.icebarl3",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0211|ICEBARL3|6EC94171",
     "sourceGame": "rct2ww",
@@ -14,7 +16,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/RSSB1H05.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/RSSB1H05.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Iced Barrels",

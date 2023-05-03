@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_small.waborg03",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0E11|WABORG03|02DF622B",
     "sourceGame": "rct2ww",
@@ -16,7 +18,9 @@
         "isStackable": true,
         "hasSecondaryColour": true
     },
-    "images": ["$RCT2:OBJDATA/WABORG03.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/WABORG03.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Aboriginal Art Set Piece",

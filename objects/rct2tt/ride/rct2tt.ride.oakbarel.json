@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.oakbarel",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F820|OAKBAREL|BB210474",
     "sourceGame": "rct2tt",
@@ -15,19 +17,39 @@
         "noCollisionCrashes": true,
         "carColours": [
             [
-                ["bright_red", "bright_red", "black"]
+                [
+                    "bright_red",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "light_blue", "black"]
+                [
+                    "light_blue",
+                    "light_blue",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "yellow", "black"]
+                [
+                    "yellow",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["bright_green", "bright_green", "black"]
+                [
+                    "bright_green",
+                    "bright_green",
+                    "black"
+                ]
             ],
             [
-                ["light_orange", "light_orange", "black"]
+                [
+                    "light_orange",
+                    "light_orange",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -52,10 +74,21 @@
             "isPowered": true,
             "hasScreamingRiders": true,
             "isWaterRide": true,
-            "loadingPositions": [4, -4, 4, -4, 4, -4, 4, -4]
+            "loadingPositions": [
+                4,
+                -4,
+                4,
+                -4,
+                4,
+                -4,
+                4,
+                -4
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/OAKBAREL.DAT[0..362]"],
+    "images": [
+        "$RCT2:OBJDATA/OAKBAREL.DAT[0..362]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Oak Barrels",

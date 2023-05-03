@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_small.balllant",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0011|BALLLANT|2F7507E7",
     "sourceGame": "rct2ww",
@@ -14,7 +16,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/BALLLANT.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/BALLLANT.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Ball Lantern",

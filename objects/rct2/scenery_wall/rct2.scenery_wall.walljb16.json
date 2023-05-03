@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_wall.walljb16",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188083|WALLJB16|F17540CC",
     "sourceGame": "rct2",
@@ -13,7 +16,9 @@
         "price": 70,
         "sceneryGroup": "rct2.scenery_group.scgfence"
     },
-    "images": ["$RCT2:OBJDATA/WALLJB16.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/WALLJB16.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Jellybean Wall",

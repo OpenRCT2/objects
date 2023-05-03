@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_large.scln",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C82|SCLN    |FED37D55",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_large",
     "properties": {
         "price": 120,
@@ -40,7 +46,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SCLN.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/SCLN.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Colonnade",

@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.tnss",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188E81|TNSS    |1383A8B8",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 20,
@@ -14,7 +20,9 @@
         "isTree": true,
         "shape": "4/4"
     },
-    "images": ["$RCT2:OBJDATA/TNSS.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TNSS.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Snow-covered Norway Spruce Tree",

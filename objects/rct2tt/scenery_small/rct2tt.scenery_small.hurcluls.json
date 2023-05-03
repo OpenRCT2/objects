@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.hurcluls",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F821|HURCLULS|2463F5B4",
     "sourceGame": "rct2tt",
@@ -16,7 +18,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/HURCLULS.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/HURCLULS.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Hercules",

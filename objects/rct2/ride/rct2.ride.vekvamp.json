@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.vekvamp",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C80|VEKVAMP |9EEE264F",
     "sourceGame": "rct2",
@@ -17,10 +20,18 @@
         },
         "carColours": [
             [
-                ["black", "dark_purple", "black"]
+                [
+                    "black",
+                    "dark_purple",
+                    "black"
+                ]
             ],
             [
-                ["bordeaux_red", "black", "yellow"]
+                [
+                    "bordeaux_red",
+                    "black",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -45,7 +56,10 @@
             "hasSwinging": true,
             "hasScreamingRiders": true,
             "useSuspendedSwing": true,
-            "loadingPositions": [3, -3]
+            "loadingPositions": [
+                3,
+                -3
+            ]
         },
         "buildMenuPriority": 2
     },

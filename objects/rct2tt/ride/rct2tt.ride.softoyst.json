@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.softoyst",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F720|SOFTOYST|38EB9911",
     "sourceGame": "rct2tt",
@@ -14,11 +16,17 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["black", "black", "black"]
+                [
+                    "black",
+                    "black",
+                    "black"
+                ]
             ]
         ]
     },
-    "images": ["$RCT2:OBJDATA/SOFTOYST.DAT[0..6]"],
+    "images": [
+        "$RCT2:OBJDATA/SOFTOYST.DAT[0..6]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Soft Toy Stall",

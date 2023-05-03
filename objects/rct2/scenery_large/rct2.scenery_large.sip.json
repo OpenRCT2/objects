@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_large.sip",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C82|SIP     |F1FDDBC6",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "scenery_large",
     "properties": {
         "price": 165,
@@ -41,7 +47,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SIP.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/SIP.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Ice Palace",

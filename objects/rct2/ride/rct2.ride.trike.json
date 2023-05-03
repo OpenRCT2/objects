@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.trike",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|TRIKE   |BBC25972",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "boat_hire",
@@ -17,13 +23,25 @@
         },
         "carColours": [
             [
-                ["light_blue", "bright_red", "black"]
+                [
+                    "light_blue",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "black", "black"]
+                [
+                    "yellow",
+                    "black",
+                    "black"
+                ]
             ],
             [
-                ["teal", "light_orange", "black"]
+                [
+                    "teal",
+                    "light_orange",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -46,11 +64,16 @@
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
             "hasVehicleAnimation": true,
-            "loadingPositions": [3, -3]
+            "loadingPositions": [
+                3,
+                -3
+            ]
         },
         "buildMenuPriority": 2
     },
-    "images": ["$RCT2:OBJDATA/TRIKE.DAT[0..66]"],
+    "images": [
+        "$RCT2:OBJDATA/TRIKE.DAT[0..66]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Water Tricycles",

@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.ttg",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F81|TTG     |798F1CAE",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 9,
@@ -14,7 +20,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/TTG.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TTG.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Target",

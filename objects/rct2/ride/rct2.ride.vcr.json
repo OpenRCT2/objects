@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.vcr",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C80|VCR     |04C462E7",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "car_ride",
@@ -17,13 +23,25 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["bordeaux_red", "light_orange", "black"]
+                [
+                    "bordeaux_red",
+                    "light_orange",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "bright_red", "black"]
+                [
+                    "yellow",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["dark_blue", "light_blue", "black"]
+                [
+                    "dark_blue",
+                    "light_blue",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -42,7 +60,10 @@
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [4, -4]
+                "loadingPositions": [
+                    4,
+                    -4
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -52,14 +73,17 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "isPowered": true
             }
         ],
         "buildMenuPriority": 2
     },
-    "images": ["$RCT2:OBJDATA/VCR.DAT[0..210]", ""],
+    "images": [
+        "$RCT2:OBJDATA/VCR.DAT[0..210]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Vintage Cars",

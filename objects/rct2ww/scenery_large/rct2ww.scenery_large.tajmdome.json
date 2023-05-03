@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.tajmdome",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBCFD12|TAJMDOME|E1E37DC5",
     "sourceGame": "rct2ww",
@@ -109,7 +111,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/TAJMDOME.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/TAJMDOME.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Maharaja Palace Dome",

@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_wall.mspkwa01",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F823|MSPKWA01|7F475DE3",
     "sourceGame": "rct2tt",
@@ -11,7 +13,9 @@
         "price": 50,
         "sceneryGroup": "rct2.scenery_group.scgwalls"
     },
-    "images": ["$RCT2:OBJDATA/MSPKWA01.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/MSPKWA01.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Spiked Fence",

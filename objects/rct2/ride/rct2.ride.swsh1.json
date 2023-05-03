@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.swsh1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|SWSH1   |3119CB85",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "swinging_ship",
@@ -12,10 +18,18 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["olive_green", "yellow", "black"]
+                [
+                    "olive_green",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["bordeaux_red", "white", "black"]
+                [
+                    "bordeaux_red",
+                    "white",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -33,10 +47,29 @@
             },
             "recalculateSpriteBounds": true,
             "hasAdditionalColour1": true,
-            "loadingPositions": [30, 28, -30, -28, 20, 18, -20, -18, 12, 10, -12, -10, 5, 3, -5, -3]
+            "loadingPositions": [
+                30,
+                28,
+                -30,
+                -28,
+                20,
+                18,
+                -20,
+                -18,
+                12,
+                10,
+                -12,
+                -10,
+                5,
+                3,
+                -5,
+                -3
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/SWSH1.DAT[0..344]"],
+    "images": [
+        "$RCT2:OBJDATA/SWSH1.DAT[0..344]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Pirate Ship",

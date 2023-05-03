@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.tcb",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188D81|TCB     |D9942162",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 7,
@@ -15,7 +21,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/TCB.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TCB.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Club Shaped Tree",

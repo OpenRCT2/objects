@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_small.teepee1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188D81|TEEPEE1 |49944D45",
     "sourceGame": "rct2",
@@ -14,7 +17,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/TEEPEE1.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TEEPEE1.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Tepee",

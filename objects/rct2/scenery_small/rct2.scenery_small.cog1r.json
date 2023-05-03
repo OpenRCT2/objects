@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_small.cog1r",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188D81|COG1R   |63C81A5E",
     "sourceGame": "rct2",
@@ -20,9 +23,28 @@
         "isStackable": true,
         "hasNoSupports": true,
         "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
-        "frameOffsets": [0, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+        "frameOffsets": [
+            0,
+            15,
+            14,
+            13,
+            12,
+            11,
+            10,
+            9,
+            8,
+            7,
+            6,
+            5,
+            4,
+            3,
+            2,
+            1
+        ]
     },
-    "images": ["$RCT2:OBJDATA/COG1R.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/COG1R.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Cogwheel",

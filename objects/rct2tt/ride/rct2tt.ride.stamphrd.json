@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.stamphrd",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F720|STAMPHRD|8C185561",
     "sourceGame": "rct2tt",
@@ -17,13 +19,25 @@
         "tailCars": 2,
         "carColours": [
             [
-                ["yellow", "bright_red", "black"]
+                [
+                    "yellow",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["bright_red", "white", "black"]
+                [
+                    "bright_red",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "yellow", "black"]
+                [
+                    "light_blue",
+                    "yellow",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -50,7 +64,12 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [6, 8, -4, -2]
+                "loadingPositions": [
+                    6,
+                    8,
+                    -4,
+                    -2
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -75,7 +94,12 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [6, 8, -4, -2]
+                "loadingPositions": [
+                    6,
+                    8,
+                    -4,
+                    -2
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -98,7 +122,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/STAMPHRD.DAT[0..4470]"],
+    "images": [
+        "$RCT2:OBJDATA/STAMPHRD.DAT[0..4470]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Stampeding Herd Trains",

@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.redwood",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0812|REDWOOD |3B8F9D07",
     "sourceGame": "rct2ww",
@@ -38,7 +40,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/REDWOOD.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/REDWOOD.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Redwood Tree",

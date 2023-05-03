@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.footpath_item.medbench",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F926|MEDBENCH|3A7FC600",
     "sourceGame": "rct2tt",
@@ -13,7 +15,9 @@
         "price": 50,
         "sceneryGroup": "rct2.scenery_group.scgpathx"
     },
-    "images": ["$RCT2:OBJDATA/MEDBENCH.DAT[0..8]"],
+    "images": [
+        "$RCT2:OBJDATA/MEDBENCH.DAT[0..8]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Benches",

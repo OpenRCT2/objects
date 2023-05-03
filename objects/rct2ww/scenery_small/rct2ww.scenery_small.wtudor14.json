@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_small.wtudor14",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0B11|WTUDOR14|A2CBB958",
     "sourceGame": "rct2ww",
@@ -15,7 +17,9 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/WTUDOR14.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/WTUDOR14.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Tudor Ground Floor Wall Piece 1",

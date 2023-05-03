@@ -1,6 +1,9 @@
 {
     "id": "rct1aa.terrain_edge.grey",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0000008C|#RCT1EGY|00000000",
     "sourceGame": "rct1aa",
@@ -14,7 +17,12 @@
         "$CSG[41134..41237]"
     ],
     "noCsgImages": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        {
+            "path": "icon.png",
+            "format": "raw",
+            "x": 2,
+            "y": 2
+        },
         "$G1[1579..1662]"
     ],
     "strings": {

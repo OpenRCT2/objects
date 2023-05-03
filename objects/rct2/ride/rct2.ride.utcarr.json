@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.utcarr",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C80|UTCARR  |A91D1013",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "heartline_twister_rc",
@@ -11,13 +17,25 @@
         "limitAirTimeBonus": true,
         "carColours": [
             [
-                ["white", "light_blue", "black"]
+                [
+                    "white",
+                    "light_blue",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "bright_red", "black"]
+                [
+                    "yellow",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -43,7 +61,12 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [-7, -9, 5, 3]
+                "loadingPositions": [
+                    -7,
+                    -9,
+                    5,
+                    3
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -67,12 +90,19 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [5, 3, -7, -9]
+                "loadingPositions": [
+                    5,
+                    3,
+                    -7,
+                    -9
+                ]
             }
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/UTCARR.DAT[0..2594]"],
+    "images": [
+        "$RCT2:OBJDATA/UTCARR.DAT[0..2594]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Twister Cars (starting reversed)",

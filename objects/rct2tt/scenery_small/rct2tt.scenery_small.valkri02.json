@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.valkri02",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F821|VALKRI02|1D21D785",
     "sourceGame": "rct2tt",
@@ -16,7 +18,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/VALKRI02.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/VALKRI02.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Valkyrie",

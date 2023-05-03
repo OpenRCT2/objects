@@ -1,20 +1,48 @@
 {
     "id": "rct1ll.terrain_surface.wood",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0000008B|#RCT1SWO|00000000",
     "sourceGame": "rct1ll",
     "objectType": "terrain_surface",
     "properties": {
         "price": 100,
-        "mapColours": [108, 108],
+        "mapColours": [
+            108,
+            108
+        ],
         "special": [
-            { "rotation": 1, "index": 3 },
-            { "rotation": 1, "grid": true, "index": 4 },
-            { "rotation": 1, "underground": true, "index": 5 },
-            { "rotation": 3, "index": 3 },
-            { "rotation": 3, "grid": true, "index": 4 },
-            { "rotation": 3, "underground": true, "index": 5 }
+            {
+                "rotation": 1,
+                "index": 3
+            },
+            {
+                "rotation": 1,
+                "grid": true,
+                "index": 4
+            },
+            {
+                "rotation": 1,
+                "underground": true,
+                "index": 5
+            },
+            {
+                "rotation": 3,
+                "index": 3
+            },
+            {
+                "rotation": 3,
+                "grid": true,
+                "index": 4
+            },
+            {
+                "rotation": 3,
+                "underground": true,
+                "index": 5
+            }
         ]
     },
     "images": [
@@ -23,7 +51,12 @@
         "$CSG[42301..42374]"
     ],
     "noCsgImages": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        {
+            "path": "icon.png",
+            "format": "raw",
+            "x": 2,
+            "y": 2
+        },
         "$G1[2485..2541]",
         "$G1[2485..2541]"
     ],

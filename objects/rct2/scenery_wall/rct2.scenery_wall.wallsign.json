@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_wall.wallsign",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188083|WALLSIGN|7FC85B12",
     "sourceGame": "rct2",
@@ -13,7 +16,9 @@
         "price": 120,
         "scrollingMode": 34
     },
-    "images": ["$RCT2:OBJDATA/WALLSIGN.DAT[0..7]"],
+    "images": [
+        "$RCT2:OBJDATA/WALLSIGN.DAT[0..7]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Scrolling Sign",

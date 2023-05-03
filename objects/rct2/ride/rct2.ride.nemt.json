@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.nemt",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|NEMT    |65343930",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "inverted_rc",
@@ -13,13 +19,25 @@
         "maxCarsPerTrain": 9,
         "carColours": [
             [
-                ["dark_brown", "yellow", "black"]
+                [
+                    "dark_brown",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["bordeaux_red", "white", "black"]
+                [
+                    "bordeaux_red",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["dark_green", "bright_red", "black"]
+                [
+                    "dark_green",
+                    "bright_red",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -50,11 +68,18 @@
             },
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [1, 3, 1, 3]
+            "loadingPositions": [
+                1,
+                3,
+                1,
+                3
+            ]
         },
         "buildMenuPriority": 2
     },
-    "images": ["$RCT2:OBJDATA/NEMT.DAT[0..2522]"],
+    "images": [
+        "$RCT2:OBJDATA/NEMT.DAT[0..2522]"
+    ],
     "strings": {
         "name": {
             "en-GB": "4-across Inverted Roller Coaster Trains",

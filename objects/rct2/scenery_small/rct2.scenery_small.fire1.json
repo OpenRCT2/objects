@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_small.fire1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188D81|FIRE1   |C2AE864A",
     "sourceGame": "rct2",
@@ -20,9 +23,44 @@
         "isStackable": true,
         "hasNoSupports": true,
         "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
-        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]
+        "frameOffsets": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+        ]
     },
-    "images": ["$RCT2:OBJDATA/FIRE1.DAT[0..131]"],
+    "images": [
+        "$RCT2:OBJDATA/FIRE1.DAT[0..131]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Flames",

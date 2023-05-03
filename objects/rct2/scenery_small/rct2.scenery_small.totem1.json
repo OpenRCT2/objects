@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_small.totem1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188E81|TOTEM1  |E2CCC979",
     "sourceGame": "rct2",
@@ -15,7 +18,9 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/TOTEM1.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TOTEM1.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Totem Pole",

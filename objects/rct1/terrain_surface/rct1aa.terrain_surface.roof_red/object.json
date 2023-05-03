@@ -1,20 +1,31 @@
 {
     "id": "rct1aa.terrain_surface.roof_red",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0000008B|#RCT1SRR|00000000",
     "sourceGame": "rct1aa",
     "objectType": "terrain_surface",
     "properties": {
         "price": 100,
-        "mapColours": [113, 113]
+        "mapColours": [
+            113,
+            113
+        ]
     },
     "images": [
         { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
         "$CSG[42090..42146]"
     ],
     "noCsgImages": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        {
+            "path": "icon.png",
+            "format": "raw",
+            "x": 2,
+            "y": 2
+        },
         "$G1[2029..2085]"
     ],
     "strings": {

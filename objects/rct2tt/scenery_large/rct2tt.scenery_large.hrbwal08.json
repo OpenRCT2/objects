@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.hrbwal08",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA22|HRBWAL08|0B131ACD",
     "sourceGame": "rct2tt",
@@ -37,7 +39,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/HRBWAL08.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/HRBWAL08.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Harbour Wall Corner Piece",

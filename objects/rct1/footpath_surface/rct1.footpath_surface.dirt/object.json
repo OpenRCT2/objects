@@ -1,6 +1,9 @@
 {
     "id": "rct1.footpath_surface.dirt",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "rct1",
     "objectType": "footpath_surface",
@@ -12,7 +15,11 @@
         "$CSG[44289..44339]"
     ],
     "noCsgImages": [
-        { "path": "preview.png", "x": 1, "y": 1 },
+        {
+            "path": "preview.png",
+            "x": 1,
+            "y": 1
+        },
         "$RCT2:OBJDATA/PATHDIRT.DAT[0..50]"
     ],
     "strings": {

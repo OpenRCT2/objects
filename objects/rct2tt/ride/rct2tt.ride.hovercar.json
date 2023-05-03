@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.hovercar",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA20|HOVERCAR|10724616",
     "sourceGame": "rct2tt",
@@ -18,13 +20,25 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["bright_red", "bright_red", "black"]
+                [
+                    "bright_red",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "saturated_brown", "black"]
+                [
+                    "light_blue",
+                    "saturated_brown",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "black", "black"]
+                [
+                    "yellow",
+                    "black",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -44,7 +58,9 @@
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [4]
+                "loadingPositions": [
+                    4
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -54,7 +70,7 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "isPowered": true
             }

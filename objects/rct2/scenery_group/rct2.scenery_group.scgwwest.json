@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_group.scgwwest",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F87|SCGWWEST|6662A7E9",
     "sourceGame": "rct2",
@@ -24,7 +27,9 @@
             "sheriff"
         ]
     },
-    "images": ["$RCT2:OBJDATA/SCGWWEST.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGWWEST.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Wild West Theming",

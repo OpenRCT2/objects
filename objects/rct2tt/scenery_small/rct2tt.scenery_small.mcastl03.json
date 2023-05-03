@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.mcastl03",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F821|MCASTL03|6C5F64CE",
     "sourceGame": "rct2tt",
@@ -15,7 +17,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/MCASTL03.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/MCASTL03.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Castle Wall",

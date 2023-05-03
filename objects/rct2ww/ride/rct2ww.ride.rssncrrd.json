@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.rssncrrd",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0910|RSSNCRRD|3CDC14A6",
     "sourceGame": "rct2ww",
@@ -11,38 +13,166 @@
         "hasShelter": true,
         "carColours": [
             [
-                ["olive_green", "saturated_brown", "bright_red"],
-                ["bordeaux_red", "saturated_brown", "bright_red"],
-                ["light_purple", "saturated_brown", "bright_red"],
-                ["black", "saturated_brown", "bright_red"],
-                ["salmon_pink", "saturated_brown", "bright_red"],
-                ["light_blue", "saturated_brown", "bright_red"],
-                ["light_pink", "saturated_brown", "bright_red"],
-                ["yellow", "saturated_brown", "bright_red"],
-                ["olive_green", "saturated_brown", "bright_red"],
-                ["bordeaux_red", "saturated_brown", "bright_red"],
-                ["light_purple", "saturated_brown", "bright_red"],
-                ["black", "saturated_brown", "bright_red"],
-                ["salmon_pink", "saturated_brown", "bright_red"],
-                ["light_blue", "saturated_brown", "bright_red"],
-                ["light_pink", "saturated_brown", "bright_red"],
-                ["yellow", "saturated_brown", "bright_red"],
-                ["olive_green", "saturated_brown", "bright_red"],
-                ["bordeaux_red", "saturated_brown", "bright_red"],
-                ["light_purple", "saturated_brown", "bright_red"],
-                ["black", "saturated_brown", "bright_red"],
-                ["salmon_pink", "saturated_brown", "bright_red"],
-                ["light_blue", "saturated_brown", "bright_red"],
-                ["light_pink", "saturated_brown", "bright_red"],
-                ["yellow", "saturated_brown", "bright_red"],
-                ["olive_green", "saturated_brown", "bright_red"],
-                ["bordeaux_red", "saturated_brown", "bright_red"],
-                ["light_purple", "saturated_brown", "bright_red"],
-                ["black", "saturated_brown", "bright_red"],
-                ["salmon_pink", "saturated_brown", "bright_red"],
-                ["light_blue", "saturated_brown", "bright_red"],
-                ["light_pink", "saturated_brown", "bright_red"],
-                ["yellow", "saturated_brown", "bright_red"]
+                [
+                    "olive_green",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "bordeaux_red",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "light_purple",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "black",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "salmon_pink",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "light_blue",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "light_pink",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "yellow",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "olive_green",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "bordeaux_red",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "light_purple",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "black",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "salmon_pink",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "light_blue",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "light_pink",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "yellow",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "olive_green",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "bordeaux_red",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "light_purple",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "black",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "salmon_pink",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "light_blue",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "light_pink",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "yellow",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "olive_green",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "bordeaux_red",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "light_purple",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "black",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "salmon_pink",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "light_blue",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "light_pink",
+                    "saturated_brown",
+                    "bright_red"
+                ],
+                [
+                    "yellow",
+                    "saturated_brown",
+                    "bright_red"
+                ]
             ]
         ],
         "cars": {
@@ -69,10 +199,17 @@
             },
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [5, 3, -5, -3]
+            "loadingPositions": [
+                5,
+                3,
+                -5,
+                -3
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/RSSNCRRD.DAT[0..1814]"],
+    "images": [
+        "$RCT2:OBJDATA/RSSNCRRD.DAT[0..1814]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Trabant Cars",

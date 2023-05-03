@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.taxicstr",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CC4D810|TAXICSTR|1724490B",
     "sourceGame": "rct2ww",
@@ -18,7 +20,11 @@
         "tailCars": 2,
         "carColours": [
             [
-                ["black", "black", "yellow"]
+                [
+                    "black",
+                    "black",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -44,7 +50,12 @@
                     "restraintAnimation": true
                 },
                 "hasScreamingRiders": true,
-                "loadingPositions": [5, 3, -7, -9]
+                "loadingPositions": [
+                    5,
+                    3,
+                    -7,
+                    -9
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -68,7 +79,12 @@
                     "restraintAnimation": true
                 },
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    -3,
+                    -1
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -91,7 +107,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/TAXICSTR.DAT[0..4470]"],
+    "images": [
+        "$RCT2:OBJDATA/TAXICSTR.DAT[0..4470]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Yellow Taxi Trains",

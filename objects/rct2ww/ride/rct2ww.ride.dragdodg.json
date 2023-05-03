@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.dragdodg",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBCFB10|DRAGDODG|747E159E",
     "sourceGame": "rct2ww",
@@ -11,10 +13,18 @@
         "carsPerFlatRide": 12,
         "carColours": [
             [
-                ["white", "light_orange", "black"]
+                [
+                    "white",
+                    "light_orange",
+                    "black"
+                ]
             ],
             [
-                ["light_purple", "bright_red", "black"]
+                [
+                    "light_purple",
+                    "bright_red",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -33,10 +43,14 @@
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
             "useDodgemCarPlacement": true,
-            "loadingPositions": [0]
+            "loadingPositions": [
+                0
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/DRAGDODG.DAT[0..66]"],
+    "images": [
+        "$RCT2:OBJDATA/DRAGDODG.DAT[0..66]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Chinese Dragonhead Ride",

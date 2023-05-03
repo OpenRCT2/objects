@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_large.sspx",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C82|SSPX    |DC6E68D2",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_large",
     "properties": {
         "price": 190,
@@ -73,7 +79,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SSPX.DAT[0..35]"],
+    "images": [
+        "$RCT2:OBJDATA/SSPX.DAT[0..35]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Sphinx",

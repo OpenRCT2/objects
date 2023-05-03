@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.rdrab03",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0A12|RDRAB03 |37AB4315",
     "sourceGame": "rct2ww",
@@ -36,7 +38,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/RDRAB03.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/RDRAB03.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Drab Large Tower Top",

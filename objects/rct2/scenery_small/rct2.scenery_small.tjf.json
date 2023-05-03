@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.tjf",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188E81|TJF     |77EC974B",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 10,
@@ -15,7 +21,9 @@
         "hasPrimaryColour": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/TJF.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TJF.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Flower",

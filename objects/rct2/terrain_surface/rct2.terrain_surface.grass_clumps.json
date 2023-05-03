@@ -1,13 +1,22 @@
 {
     "id": "rct2.terrain_surface.grass_clumps",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0000008B|#RCT2SGC|00000000",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "terrain_surface",
     "properties": {
         "price": 110,
-        "mapColours": [73, 108],
+        "mapColours": [
+            73,
+            108
+        ],
         "smoothWithSelf": true,
         "smoothWithOther": true
     },

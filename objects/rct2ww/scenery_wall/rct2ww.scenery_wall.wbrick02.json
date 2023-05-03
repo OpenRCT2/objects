@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_wall.wbrick02",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0913|WBRICK02|82D4EF4F",
     "sourceGame": "rct2ww",
@@ -10,7 +12,9 @@
         "height": 4,
         "price": 50
     },
-    "images": ["$RCT2:OBJDATA/WBRICK02.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/WBRICK02.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Red Brick Wall Piece 2",

@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.thcar",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|THCAR   |45DFCE16",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "air_powered_vertical_rc",
@@ -16,13 +22,25 @@
         "headCars": 1,
         "carColours": [
             [
-                ["bright_red", "bright_yellow", "black"]
+                [
+                    "bright_red",
+                    "bright_yellow",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "bright_red", "black"]
+                [
+                    "light_blue",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "bright_red", "black"]
+                [
+                    "yellow",
+                    "bright_red",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -45,7 +63,10 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [3, -3]
+                "loadingPositions": [
+                    3,
+                    -3
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -67,7 +88,9 @@
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/THCAR.DAT[0..1166]"],
+    "images": [
+        "$RCT2:OBJDATA/THCAR.DAT[0..1166]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Air Powered Vertical Coaster Trains",

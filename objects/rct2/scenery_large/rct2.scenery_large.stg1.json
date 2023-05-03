@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_large.stg1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C82|STG1    |50F13FA7",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "scenery_large",
     "properties": {
         "price": 120,
@@ -18,7 +24,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/STG1.DAT[0..7]"],
+    "images": [
+        "$RCT2:OBJDATA/STG1.DAT[0..7]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Castle Tower",

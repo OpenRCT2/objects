@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.radar",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0112|RADAR   |6BF7E972",
     "sourceGame": "rct2ww",
@@ -125,7 +127,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/RADAR.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/RADAR.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Radar Dish",

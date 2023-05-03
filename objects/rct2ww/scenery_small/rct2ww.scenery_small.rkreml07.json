@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_small.rkreml07",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0911|RKREML07|E7088E55",
     "sourceGame": "rct2ww",
@@ -15,7 +17,9 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/RKREML07.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/RKREML07.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Kremlin Small Tower Base",

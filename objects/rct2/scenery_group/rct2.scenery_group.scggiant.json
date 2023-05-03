@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_group.scggiant",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F87|SCGGIANT|B50C9606",
     "sourceGame": "rct2",
@@ -20,7 +23,9 @@
         ],
         "priority": 36
     },
-    "images": ["$RCT2:OBJDATA/SCGGIANT.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGGIANT.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Giant Garden Theming",

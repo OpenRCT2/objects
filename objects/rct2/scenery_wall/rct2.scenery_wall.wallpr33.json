@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_wall.wallpr33",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188083|WALLPR33|D5F060B0",
     "sourceGame": "rct2",
@@ -10,7 +13,9 @@
         "price": 100,
         "sceneryGroup": "rct2.scenery_group.scgfence"
     },
-    "images": ["$RCT2:OBJDATA/WALLPR33.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/WALLPR33.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Wall",

@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_group.scgabstr",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F87|SCGABSTR|FC2ADB99",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "scenery_group",
     "properties": {
         "entries": [
@@ -26,7 +32,9 @@
         ],
         "priority": 20
     },
-    "images": ["$RCT2:OBJDATA/SCGABSTR.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGABSTR.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Abstract Theming",

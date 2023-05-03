@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.lemst",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|LEMST   |B20D8919",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "drink_stall",
@@ -14,11 +20,17 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["black", "black", "black"]
+                [
+                    "black",
+                    "black",
+                    "black"
+                ]
             ]
         ]
     },
-    "images": ["$RCT2:OBJDATA/LEMST.DAT[0..6]"],
+    "images": [
+        "$RCT2:OBJDATA/LEMST.DAT[0..6]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Lemonade Stall",

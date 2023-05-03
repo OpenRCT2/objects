@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.hoverbke",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA20|HOVERBKE|404935A3",
     "sourceGame": "rct2tt",
@@ -13,13 +15,25 @@
         },
         "carColours": [
             [
-                ["white", "bright_red", "black"]
+                [
+                    "white",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["white", "yellow", "black"]
+                [
+                    "white",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["white", "light_blue", "black"]
+                [
+                    "white",
+                    "light_blue",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -38,10 +52,15 @@
             },
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [4, -4]
+            "loadingPositions": [
+                4,
+                -4
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/HOVERBKE.DAT[0..258]"],
+    "images": [
+        "$RCT2:OBJDATA/HOVERBKE.DAT[0..258]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Hover Bikes",

@@ -1,8 +1,12 @@
 {
     "id": "rct2tt.footpath_surface.queue_circuitboard",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
-    "sourceGame": ["rct2tt"],
+    "sourceGame": [
+        "rct2tt"
+    ],
     "objectType": "footpath_surface",
     "properties": {
         "isQueue": true

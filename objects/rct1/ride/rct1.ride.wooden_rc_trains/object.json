@@ -1,6 +1,9 @@
 {
     "id": "rct1.ride.wooden_rc_trains",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1PTC|00000000",
     "sourceGame": "rct1",
@@ -12,22 +15,46 @@
         "maxCarsPerTrain": 7,
         "carColours": [
             [
-                ["bright_red", "light_brown", "black"]
+                [
+                    "bright_red",
+                    "light_brown",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "light_brown", "black"]
+                [
+                    "yellow",
+                    "light_brown",
+                    "black"
+                ]
             ],
             [
-                ["bright_green", "light_brown", "black"]
+                [
+                    "bright_green",
+                    "light_brown",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "bright_red", "black"]
+                [
+                    "light_blue",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["saturated_brown", "bordeaux_red", "black"]
+                [
+                    "saturated_brown",
+                    "bordeaux_red",
+                    "black"
+                ]
             ],
             [
-                ["light_purple", "bordeaux_red", "black"]
+                [
+                    "light_purple",
+                    "bordeaux_red",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -41,46 +68,48 @@
             "effectVisual": 10,
             "drawOrder": 6,
             "spriteGroups": {
-                "slopeFlat":16,
-                "slopes12":4,
-                "slopes25":16,
-                "slopes42":8,
-                "slopes60":4,
-                "slopes75":4,
-                "slopes90":4,
-                "slopesLoop":4,
-                "slopeInverted":4,
-                "slopes8":4,
-                "slopes16":4,
-                "slopes50":4,
-                "flatBanked22":8,
-                "flatBanked45":16,
-                "slopes12Banked22":4,
-                "slopes8Banked22":4,
+                "slopeFlat": 16,
+                "slopes12": 4,
+                "slopes25": 16,
+                "slopes42": 8,
+                "slopes60": 4,
+                "slopes75": 4,
+                "slopes90": 4,
+                "slopesLoop": 4,
+                "slopeInverted": 4,
+                "slopes8": 4,
+                "slopes16": 4,
+                "slopes50": 4,
+                "flatBanked22": 8,
+                "flatBanked45": 16,
+                "slopes12Banked22": 4,
+                "slopes8Banked22": 4,
                 "restraintAnimation": 4
             },
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [5, 3, -7, -9]
+            "loadingPositions": [
+                5,
+                3,
+                -7,
+                -9
+            ]
         },
         "buildMenuPriority": 1
     },
     "images": [
-        { "path": "images/preview.png", "format": "raw"},
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$CSG[16710..16725]",
-
         "$CSG[16726]",
         "$CSG[16734]",
         "$CSG[16742]",
         "$CSG[16750]",
-
         "$CSG[16730]",
         "$CSG[16738]",
         "$CSG[16746]",
         "$CSG[16754]",
- 
         "$CSG[16727]",
         "$CSG[16814..16816]",
         "$CSG[16735]",
@@ -89,7 +118,6 @@
         "$CSG[16820..16822]",
         "$CSG[16751]",
         "$CSG[16823..16825]",
-
         "$CSG[16731]",
         "$CSG[16826..16828]",
         "$CSG[16739]",
@@ -98,7 +126,6 @@
         "$CSG[16832..16834]",
         "$CSG[16755]",
         "$CSG[16835..16837]",
-
         "$CSG[16728]",
         "$CSG[16918]",
         "$CSG[16736]",
@@ -123,7 +150,6 @@
         "$CSG[16741]",
         "$CSG[16749]",
         "$CSG[16757]",
-
         "$CSG[16838..16841]",
         "$CSG[16870..16873]",
         "$CSG[16842..16845]",
@@ -139,14 +165,12 @@
         "$CSG[16862..16865]",
         "$CSG[16894..16897]",
         "$CSG[16866..16869]",
-
         "$CSG[16910..16913]",
         "$CSG[16926..16929]",
         "$CSG[16914..16917]",
         "$CSG[16930..16933]",
         "$CSG[16922..16925]",
         "$CSG[16938..16941]",
-
         "$CSG[16790]",
         "$CSG[16958]",
         "$CSG[16791]",
@@ -163,13 +187,9 @@
         "$CSG[16964]",
         "$CSG[16797]",
         "$CSG[16965]",
-
         "$CSG[16758..16789]",
-
         "$CSG[16798..16813]",
-
         "$CSG[16942..16957]",
-
         "$CSG[16898]",
         "$CSG[16901]",
         "$CSG[16904]",
@@ -182,19 +202,15 @@
         "$CSG[16903]",
         "$CSG[16906]",
         "$CSG[16909]",
-
         "$CSG[16966..16981]",
-
         "$CSG[16982]",
         "$CSG[16990]",
         "$CSG[16998]",
         "$CSG[17006]",
-
         "$CSG[16986]",
         "$CSG[16994]",
         "$CSG[17002]",
         "$CSG[17010]",
- 
         "$CSG[16983]",
         "$CSG[17070..17072]",
         "$CSG[16991]",
@@ -203,7 +219,6 @@
         "$CSG[17076..17078]",
         "$CSG[17007]",
         "$CSG[17079..17081]",
-
         "$CSG[16987]",
         "$CSG[17082..17084]",
         "$CSG[16995]",
@@ -212,7 +227,6 @@
         "$CSG[17088..17090]",
         "$CSG[17011]",
         "$CSG[17091..17093]",
-
         "$CSG[16984]",
         "$CSG[17174]",
         "$CSG[16992]",
@@ -237,7 +251,6 @@
         "$CSG[16997]",
         "$CSG[17005]",
         "$CSG[17013]",
-
         "$CSG[17094..17097]",
         "$CSG[17126..17129]",
         "$CSG[17098..17101]",
@@ -253,14 +266,12 @@
         "$CSG[17118..17121]",
         "$CSG[17150..17153]",
         "$CSG[17122..17125]",
-
         "$CSG[17166..17169]",
         "$CSG[17182..17185]",
         "$CSG[17170..17173]",
         "$CSG[17186..17189]",
         "$CSG[17178..17181]",
         "$CSG[17194..17197]",
-
         "$CSG[17046]",
         "$CSG[17214]",
         "$CSG[17047]",
@@ -277,13 +288,9 @@
         "$CSG[17220]",
         "$CSG[17053]",
         "$CSG[17221]",
-
         "$CSG[17014..17045]",
-
         "$CSG[17054..17069]",
-
         "$CSG[17198..17213]",
-
         "$CSG[17154]",
         "$CSG[17157]",
         "$CSG[17160]",
@@ -296,19 +303,15 @@
         "$CSG[17159]",
         "$CSG[17162]",
         "$CSG[17165]",
-
         "$CSG[17222..17237]",
-
         "$CSG[17238]",
         "$CSG[17246]",
         "$CSG[17254]",
         "$CSG[17262]",
-
         "$CSG[17242]",
         "$CSG[17250]",
         "$CSG[17258]",
         "$CSG[17266]",
- 
         "$CSG[17239]",
         "$CSG[17326..17328]",
         "$CSG[17247]",
@@ -317,7 +320,6 @@
         "$CSG[17332..17334]",
         "$CSG[17263]",
         "$CSG[17335..17337]",
-
         "$CSG[17243]",
         "$CSG[17338..17340]",
         "$CSG[17251]",
@@ -326,7 +328,6 @@
         "$CSG[17344..17346]",
         "$CSG[17267]",
         "$CSG[17347..17349]",
-
         "$CSG[17240]",
         "$CSG[17430]",
         "$CSG[17248]",
@@ -351,7 +352,6 @@
         "$CSG[17253]",
         "$CSG[17261]",
         "$CSG[17269]",
-
         "$CSG[17350..17353]",
         "$CSG[17382..17385]",
         "$CSG[17354..17357]",
@@ -367,14 +367,12 @@
         "$CSG[17374..17377]",
         "$CSG[17406..17409]",
         "$CSG[17378..17381]",
-
         "$CSG[17422..17425]",
         "$CSG[17438..17441]",
         "$CSG[17426..17429]",
         "$CSG[17442..17445]",
         "$CSG[17434..17437]",
         "$CSG[17450..17453]",
-
         "$CSG[17302]",
         "$CSG[17470]",
         "$CSG[17303]",
@@ -391,13 +389,9 @@
         "$CSG[17476]",
         "$CSG[17309]",
         "$CSG[17477]",
-
         "$CSG[17270..17301]",
-
         "$CSG[17310..17325]",
-
         "$CSG[17454..17469]",
-
         "$CSG[17410]",
         "$CSG[17413]",
         "$CSG[17416]",
@@ -412,7 +406,10 @@
         "$CSG[17421]"
     ],
     "noCsgImages": [
-        { "path": "images/preview.png", "format": "raw"},
+        {
+            "path": "images/preview.png",
+            "format": "raw"
+        },
         "",
         "",
         "$RCT2:OBJDATA/PTCT1.DAT[3]",
@@ -431,9 +428,7 @@
         "$RCT2:OBJDATA/PTCT1.DAT[29]",
         "$RCT2:OBJDATA/PTCT1.DAT[31]",
         "$RCT2:OBJDATA/PTCT1.DAT[33]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[35..42]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[43]",
         "$RCT2:OBJDATA/PTCT1.DAT[45]",
         "$RCT2:OBJDATA/PTCT1.DAT[47]",
@@ -450,7 +445,6 @@
         "$RCT2:OBJDATA/PTCT1.DAT[69]",
         "$RCT2:OBJDATA/PTCT1.DAT[71]",
         "$RCT2:OBJDATA/PTCT1.DAT[73]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[75]",
         "$RCT2:OBJDATA/PTCT1.DAT[77]",
         "$RCT2:OBJDATA/PTCT1.DAT[79]",
@@ -467,9 +461,7 @@
         "$RCT2:OBJDATA/PTCT1.DAT[101]",
         "$RCT2:OBJDATA/PTCT1.DAT[103]",
         "$RCT2:OBJDATA/PTCT1.DAT[105]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[107..122]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[123]",
         "$RCT2:OBJDATA/PTCT1.DAT[131]",
         "$RCT2:OBJDATA/PTCT1.DAT[139]",
@@ -478,9 +470,7 @@
         "$RCT2:OBJDATA/PTCT1.DAT[163]",
         "$RCT2:OBJDATA/PTCT1.DAT[171]",
         "$RCT2:OBJDATA/PTCT1.DAT[179]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[187..194]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[195]",
         "$RCT2:OBJDATA/PTCT1.DAT[203]",
         "$RCT2:OBJDATA/PTCT1.DAT[211]",
@@ -489,9 +479,7 @@
         "$RCT2:OBJDATA/PTCT1.DAT[235]",
         "$RCT2:OBJDATA/PTCT1.DAT[243]",
         "$RCT2:OBJDATA/PTCT1.DAT[251]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[259..342]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[343]",
         "$RCT2:OBJDATA/PTCT1.DAT[345]",
         "$RCT2:OBJDATA/PTCT1.DAT[347]",
@@ -508,7 +496,6 @@
         "$RCT2:OBJDATA/PTCT1.DAT[369]",
         "$RCT2:OBJDATA/PTCT1.DAT[371]",
         "$RCT2:OBJDATA/PTCT1.DAT[373]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[375]",
         "$RCT2:OBJDATA/PTCT1.DAT[377]",
         "$RCT2:OBJDATA/PTCT1.DAT[379]",
@@ -525,7 +512,6 @@
         "$RCT2:OBJDATA/PTCT1.DAT[401]",
         "$RCT2:OBJDATA/PTCT1.DAT[403]",
         "$RCT2:OBJDATA/PTCT1.DAT[405]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[407]",
         "$RCT2:OBJDATA/PTCT1.DAT[415]",
         "$RCT2:OBJDATA/PTCT1.DAT[423]",
@@ -534,7 +520,6 @@
         "$RCT2:OBJDATA/PTCT1.DAT[447]",
         "$RCT2:OBJDATA/PTCT1.DAT[455]",
         "$RCT2:OBJDATA/PTCT1.DAT[463]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[471]",
         "$RCT2:OBJDATA/PTCT1.DAT[479]",
         "$RCT2:OBJDATA/PTCT1.DAT[487]",
@@ -543,11 +528,8 @@
         "$RCT2:OBJDATA/PTCT1.DAT[511]",
         "$RCT2:OBJDATA/PTCT1.DAT[519]",
         "$RCT2:OBJDATA/PTCT1.DAT[527]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[535..550]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[711..722]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[723]",
         "$RCT2:OBJDATA/PTCT1.DAT[725]",
         "$RCT2:OBJDATA/PTCT1.DAT[727]",
@@ -564,9 +546,7 @@
         "$RCT2:OBJDATA/PTCT1.DAT[749]",
         "$RCT2:OBJDATA/PTCT1.DAT[751]",
         "$RCT2:OBJDATA/PTCT1.DAT[753]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[755..762]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[763]",
         "$RCT2:OBJDATA/PTCT1.DAT[765]",
         "$RCT2:OBJDATA/PTCT1.DAT[767]",
@@ -583,7 +563,6 @@
         "$RCT2:OBJDATA/PTCT1.DAT[789]",
         "$RCT2:OBJDATA/PTCT1.DAT[791]",
         "$RCT2:OBJDATA/PTCT1.DAT[793]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[795]",
         "$RCT2:OBJDATA/PTCT1.DAT[797]",
         "$RCT2:OBJDATA/PTCT1.DAT[799]",
@@ -600,9 +579,7 @@
         "$RCT2:OBJDATA/PTCT1.DAT[821]",
         "$RCT2:OBJDATA/PTCT1.DAT[823]",
         "$RCT2:OBJDATA/PTCT1.DAT[825]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[827..842]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[843]",
         "$RCT2:OBJDATA/PTCT1.DAT[851]",
         "$RCT2:OBJDATA/PTCT1.DAT[859]",
@@ -611,9 +588,7 @@
         "$RCT2:OBJDATA/PTCT1.DAT[883]",
         "$RCT2:OBJDATA/PTCT1.DAT[891]",
         "$RCT2:OBJDATA/PTCT1.DAT[899]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[907..914]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[915]",
         "$RCT2:OBJDATA/PTCT1.DAT[923]",
         "$RCT2:OBJDATA/PTCT1.DAT[931]",
@@ -622,9 +597,7 @@
         "$RCT2:OBJDATA/PTCT1.DAT[955]",
         "$RCT2:OBJDATA/PTCT1.DAT[963]",
         "$RCT2:OBJDATA/PTCT1.DAT[971]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[979..1062]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1063]",
         "$RCT2:OBJDATA/PTCT1.DAT[1065]",
         "$RCT2:OBJDATA/PTCT1.DAT[1067]",
@@ -641,7 +614,6 @@
         "$RCT2:OBJDATA/PTCT1.DAT[1089]",
         "$RCT2:OBJDATA/PTCT1.DAT[1091]",
         "$RCT2:OBJDATA/PTCT1.DAT[1093]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1095]",
         "$RCT2:OBJDATA/PTCT1.DAT[1097]",
         "$RCT2:OBJDATA/PTCT1.DAT[1099]",
@@ -658,7 +630,6 @@
         "$RCT2:OBJDATA/PTCT1.DAT[1121]",
         "$RCT2:OBJDATA/PTCT1.DAT[1123]",
         "$RCT2:OBJDATA/PTCT1.DAT[1125]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1127]",
         "$RCT2:OBJDATA/PTCT1.DAT[1135]",
         "$RCT2:OBJDATA/PTCT1.DAT[1143]",
@@ -667,7 +638,6 @@
         "$RCT2:OBJDATA/PTCT1.DAT[1167]",
         "$RCT2:OBJDATA/PTCT1.DAT[1175]",
         "$RCT2:OBJDATA/PTCT1.DAT[1183]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1191]",
         "$RCT2:OBJDATA/PTCT1.DAT[1199]",
         "$RCT2:OBJDATA/PTCT1.DAT[1207]",
@@ -676,11 +646,8 @@
         "$RCT2:OBJDATA/PTCT1.DAT[1231]",
         "$RCT2:OBJDATA/PTCT1.DAT[1239]",
         "$RCT2:OBJDATA/PTCT1.DAT[1247]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1255..1270]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1431..1442]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1443]",
         "$RCT2:OBJDATA/PTCT1.DAT[1445]",
         "$RCT2:OBJDATA/PTCT1.DAT[1447]",
@@ -697,9 +664,7 @@
         "$RCT2:OBJDATA/PTCT1.DAT[1469]",
         "$RCT2:OBJDATA/PTCT1.DAT[1471]",
         "$RCT2:OBJDATA/PTCT1.DAT[1473]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1475..1482]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1483]",
         "$RCT2:OBJDATA/PTCT1.DAT[1485]",
         "$RCT2:OBJDATA/PTCT1.DAT[1487]",
@@ -716,7 +681,6 @@
         "$RCT2:OBJDATA/PTCT1.DAT[1509]",
         "$RCT2:OBJDATA/PTCT1.DAT[1511]",
         "$RCT2:OBJDATA/PTCT1.DAT[1513]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1515]",
         "$RCT2:OBJDATA/PTCT1.DAT[1517]",
         "$RCT2:OBJDATA/PTCT1.DAT[1519]",
@@ -733,9 +697,7 @@
         "$RCT2:OBJDATA/PTCT1.DAT[1541]",
         "$RCT2:OBJDATA/PTCT1.DAT[1543]",
         "$RCT2:OBJDATA/PTCT1.DAT[1545]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1547..1562]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1563]",
         "$RCT2:OBJDATA/PTCT1.DAT[1571]",
         "$RCT2:OBJDATA/PTCT1.DAT[1579]",
@@ -744,9 +706,7 @@
         "$RCT2:OBJDATA/PTCT1.DAT[1603]",
         "$RCT2:OBJDATA/PTCT1.DAT[1611]",
         "$RCT2:OBJDATA/PTCT1.DAT[1619]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1627..1634]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1635]",
         "$RCT2:OBJDATA/PTCT1.DAT[1643]",
         "$RCT2:OBJDATA/PTCT1.DAT[1651]",
@@ -755,9 +715,7 @@
         "$RCT2:OBJDATA/PTCT1.DAT[1675]",
         "$RCT2:OBJDATA/PTCT1.DAT[1683]",
         "$RCT2:OBJDATA/PTCT1.DAT[1691]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1699..1782]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1783]",
         "$RCT2:OBJDATA/PTCT1.DAT[1785]",
         "$RCT2:OBJDATA/PTCT1.DAT[1787]",
@@ -774,7 +732,6 @@
         "$RCT2:OBJDATA/PTCT1.DAT[1809]",
         "$RCT2:OBJDATA/PTCT1.DAT[1811]",
         "$RCT2:OBJDATA/PTCT1.DAT[1813]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1815]",
         "$RCT2:OBJDATA/PTCT1.DAT[1817]",
         "$RCT2:OBJDATA/PTCT1.DAT[1819]",
@@ -791,7 +748,6 @@
         "$RCT2:OBJDATA/PTCT1.DAT[1841]",
         "$RCT2:OBJDATA/PTCT1.DAT[1843]",
         "$RCT2:OBJDATA/PTCT1.DAT[1845]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1847]",
         "$RCT2:OBJDATA/PTCT1.DAT[1855]",
         "$RCT2:OBJDATA/PTCT1.DAT[1863]",
@@ -800,7 +756,6 @@
         "$RCT2:OBJDATA/PTCT1.DAT[1887]",
         "$RCT2:OBJDATA/PTCT1.DAT[1895]",
         "$RCT2:OBJDATA/PTCT1.DAT[1903]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1911]",
         "$RCT2:OBJDATA/PTCT1.DAT[1919]",
         "$RCT2:OBJDATA/PTCT1.DAT[1927]",
@@ -809,9 +764,7 @@
         "$RCT2:OBJDATA/PTCT1.DAT[1951]",
         "$RCT2:OBJDATA/PTCT1.DAT[1959]",
         "$RCT2:OBJDATA/PTCT1.DAT[1967]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[1975..1990]",
-
         "$RCT2:OBJDATA/PTCT1.DAT[2151..2162]"
     ],
     "strings": {

@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.artdec06",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F921|ARTDEC06|88C1515F",
     "sourceGame": "rct2tt",
@@ -21,7 +23,9 @@
         "hasSecondaryColour": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/ARTDEC06.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/ARTDEC06.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Art Deco Top Section",

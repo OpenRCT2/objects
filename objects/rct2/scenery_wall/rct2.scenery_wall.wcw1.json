@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_wall.wcw1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188083|WCW1    |E2F42BBC",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_wall",
     "properties": {
         "isAllowedOnSlope": true,
@@ -11,7 +17,9 @@
         "price": 50,
         "sceneryGroup": "rct2.scenery_group.scgfence"
     },
-    "images": ["$RCT2:OBJDATA/WCW1.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/WCW1.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Playing Card Wall",

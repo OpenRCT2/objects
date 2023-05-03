@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.tck",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188D81|TCK     |7C2FC2BB",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 40,
@@ -19,7 +25,9 @@
         "isClock": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/TCK.DAT[0..115]"],
+    "images": [
+        "$RCT2:OBJDATA/TCK.DAT[0..115]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Clock",

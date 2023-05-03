@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.pterodac",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F720|PTERODAC|83F40281",
     "sourceGame": "rct2tt",
@@ -13,10 +15,18 @@
         "maxCarsPerTrain": 8,
         "carColours": [
             [
-                ["bright_red", "yellow", "dark_purple"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "dark_purple"
+                ]
             ],
             [
-                ["teal", "grey", "black"]
+                [
+                    "teal",
+                    "grey",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -49,7 +59,12 @@
                 "spriteBoundsIncludeInvertedSet": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, -2, 2, -2]
+                "loadingPositions": [
+                    2,
+                    -2,
+                    2,
+                    -2
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -79,11 +94,18 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, -2, 2, -2]
+                "loadingPositions": [
+                    2,
+                    -2,
+                    2,
+                    -2
+                ]
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/PTERODAC.DAT[0..4562]"],
+    "images": [
+        "$RCT2:OBJDATA/PTERODAC.DAT[0..4562]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Pterodactyl Trains",

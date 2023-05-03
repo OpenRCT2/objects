@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.schoolbs",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA20|SCHOOLBS|BF619A2B",
     "sourceGame": "rct2tt",
@@ -18,13 +20,25 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "white", "black"]
+                [
+                    "yellow",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "white", "black"]
+                [
+                    "light_blue",
+                    "white",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -45,7 +59,18 @@
                     "diagonalSlopes": true
                 },
                 "isPowered": true,
-                "loadingPositions": [12, -12, 12, -12, 12, -12, 13, 11, -13, -11]
+                "loadingPositions": [
+                    12,
+                    -12,
+                    12,
+                    -12,
+                    12,
+                    -12,
+                    13,
+                    11,
+                    -13,
+                    -11
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -57,13 +82,16 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "isPowered": true
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SCHOOLBS.DAT[0..770]", ""],
+    "images": [
+        "$RCT2:OBJDATA/SCHOOLBS.DAT[0..770]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "School Bus Trams",

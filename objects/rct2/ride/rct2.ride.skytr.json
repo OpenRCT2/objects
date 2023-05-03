@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.skytr",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|SKYTR   |AB64B391",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "mini_suspended_rc",
@@ -17,13 +23,25 @@
         },
         "carColours": [
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["dark_green", "yellow", "black"]
+                [
+                    "dark_green",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["bordeaux_red", "bright_red", "black"]
+                [
+                    "bordeaux_red",
+                    "bright_red",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -45,11 +63,15 @@
             "hasAdditionalColour1": true,
             "hasSwinging": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [1]
+            "loadingPositions": [
+                1
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/SKYTR.DAT[0..1402]"],
+    "images": [
+        "$RCT2:OBJDATA/SKYTR.DAT[0..1402]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Lay-down Cars",

@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.ttf",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F81|TTF     |5B6F3E9F",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 55,
@@ -18,7 +24,9 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/TTF.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/TTF.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Fountain",

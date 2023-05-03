@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_wall.wigloo2",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0113|WIGLOO2 |041A0F97",
     "sourceGame": "rct2ww",
@@ -10,7 +12,9 @@
         "height": 4,
         "price": 50
     },
-    "images": ["$RCT2:OBJDATA/WIGLOO2.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/WIGLOO2.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Igloo Wall",

@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.tgg",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188E81|TGG     |B032CE70",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 10,
@@ -14,7 +20,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/TGG.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TGG.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Gong",

@@ -1,6 +1,9 @@
 {
     "id": "rct1ll.terrain_edge.skyscraper_b",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0000008C|#RCT1ESB|00000000",
     "sourceGame": "rct1ll",
@@ -14,7 +17,12 @@
         "$CSG[41758..41861]"
     ],
     "noCsgImages": [
-        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        {
+            "path": "icon.png",
+            "format": "raw",
+            "x": 2,
+            "y": 2
+        },
         "$G1[1579..1662]"
     ],
     "strings": {

@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.hskelt",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|HSKELT  |3380F9BF",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "spiral_slide",
@@ -11,7 +17,11 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["black", "black", "black"]
+                [
+                    "black",
+                    "black",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -27,7 +37,10 @@
             "recalculateSpriteBounds": true
         }
     },
-    "images": ["$RCT2:OBJDATA/HSKELT.DAT[0..2]", "$G1[20548..20751]"],
+    "images": [
+        "$RCT2:OBJDATA/HSKELT.DAT[0..2]",
+        "$G1[20548..20751]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Spiral Slide",

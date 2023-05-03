@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.submar",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|SUBMAR  |EE311547",
     "sourceGame": "rct2",
@@ -15,10 +18,18 @@
         "noCollisionCrashes": true,
         "carColours": [
             [
-                ["yellow", "olive_green", "black"]
+                [
+                    "yellow",
+                    "olive_green",
+                    "black"
+                ]
             ],
             [
-                ["grey", "bordeaux_red", "black"]
+                [
+                    "grey",
+                    "bordeaux_red",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -39,11 +50,19 @@
             "overrideNumberOfVerticalFrames": true,
             "hasAdditionalColour1": true,
             "isPowered": true,
-            "loadingPositions": [-7, -7, -7, -7, -7]
+            "loadingPositions": [
+                -7,
+                -7,
+                -7,
+                -7,
+                -7
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/SUBMAR.DAT[0..90]"],
+    "images": [
+        "$RCT2:OBJDATA/SUBMAR.DAT[0..90]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Submarines",

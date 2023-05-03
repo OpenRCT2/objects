@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.hadesxxx",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F822|HADESXXX|E0E083CE",
     "sourceGame": "rct2tt",
@@ -41,7 +43,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/HADESXXX.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/HADESXXX.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Hades Statue",

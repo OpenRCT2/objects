@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_small.lolly1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188D81|LOLLY1  |1658B14D",
     "sourceGame": "rct2",
@@ -14,7 +17,9 @@
         "hasPrimaryColour": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/LOLLY1.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/LOLLY1.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Lollypop",

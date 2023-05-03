@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.rdmet2x2",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FB22|RDMET2X2|11ACB847",
     "sourceGame": "rct2tt",
@@ -41,7 +43,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/RDMET2X2.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/RDMET2X2.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Small Red Meteor Crater",

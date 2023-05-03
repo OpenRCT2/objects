@@ -1,6 +1,9 @@
 {
     "id": "toontowner.scenery_small.ttrfwd07",
-    "authors": ["Simon Foster", "ToonTowner"],
+    "authors": [
+        "Simon Foster",
+        "ToonTowner"
+    ],
     "version": "1.0",
     "originalId": "09F55701|TTRFWD07|037492F3",
     "sourceGame": "official",
@@ -21,42 +24,10 @@
         "hasNoSupports": true
     },
     "images": [
-        {
-            "path": "images.png",
-            "srcX": 0,
-            "srcY": 0,
-            "srcWidth": 64,
-            "srcHeight": 35,
-            "x": -32,
-            "y": -5
-        },
-        {
-            "path": "images.png",
-            "srcX": 64,
-            "srcY": 0,
-            "srcWidth": 64,
-            "srcHeight": 34,
-            "x": -32,
-            "y": -4
-        },
-        {
-            "path": "images.png",
-            "srcX": 128,
-            "srcY": 0,
-            "srcWidth": 64,
-            "srcHeight": 34,
-            "x": -32,
-            "y": -4
-        },
-        {
-            "path": "images.png",
-            "srcX": 192,
-            "srcY": 0,
-            "srcWidth": 64,
-            "srcHeight": 35,
-            "x": -32,
-            "y": -5
-        }
+        { "path": "images.png", "srcX": 0, "srcY": 0, "srcWidth": 64, "srcHeight": 35, "x": -32, "y": -5 },
+        { "path": "images.png", "srcX": 64, "srcY": 0, "srcWidth": 64, "srcHeight": 34, "x": -32, "y": -4 },
+        { "path": "images.png", "srcX": 128, "srcY": 0, "srcWidth": 64, "srcHeight": 34, "x": -32, "y": -4 },
+        { "path": "images.png", "srcX": 192, "srcY": 0, "srcWidth": 64, "srcHeight": 35, "x": -32, "y": -5 }
     ],
     "strings": {
         "name": {
