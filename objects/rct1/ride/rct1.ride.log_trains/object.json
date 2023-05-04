@@ -504,7 +504,8 @@
             "ja-JP": "ログ車両",
             "pl-PL": "Pociąg drwali",
             "ru-RU": "Бревна",
-            "eo-ZZ": "Ŝtipo-Trajnoj"
+            "eo-ZZ": "Ŝtipo-Trajnoj",
+            "ca-ES": "Trens troncs"
         },
         "description": {
             "en-GB": "Roller coaster trains with small log-shaped cars",
@@ -522,7 +523,8 @@
             "ja-JP": "丸太の形をした車両のローラーコースターです",
             "pl-PL": "Kolejka górska z wagonikami w kształcie pni drzew",
             "ru-RU": "Поезда с небольшими вагончиками.",
-            "eo-ZZ": "Trajnoj de onda fervojo kun malgrandaj ŝtipoformaj ĉaroj"
+            "eo-ZZ": "Trajnoj de onda fervojo kun malgrandaj ŝtipoformaj ĉaroj",
+            "ca-ES": "Muntanya russa amb trens que semblen troncs."
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -540,7 +542,9 @@
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ar-EG": "2 راكب لكل عربة",
+            "ca-ES": "2 passatgers per cotxe"
         }
     }
 }
