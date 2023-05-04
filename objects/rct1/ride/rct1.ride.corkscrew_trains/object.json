@@ -1,6 +1,9 @@
 {
     "id": "rct1.ride.corkscrew_trains",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1CRK|00000000",
     "sourceGame": "rct1",
@@ -15,16 +18,32 @@
         "headCars": 0,
         "carColours": [
             [
-                ["bright_red", "white", "black"]
+                [
+                    "bright_red",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["bordeaux_red", "yellow", "black"]
+                [
+                    "bordeaux_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["dark_green", "yellow", "black"]
+                [
+                    "dark_green",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["white", "light_blue", "black"]
+                [
+                    "white",
+                    "light_blue",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -37,29 +56,34 @@
                 "frictionSoundId": 2,
                 "soundRange": 2,
                 "drawOrder": 5,
-                "spriteGroups":{
-                    "slopeFlat":16,
-                    "slopes12":4,
-                    "slopes25":16,
-                    "slopes42":8,
-                    "slopes60":16,
-                    "slopes75":4,
-                    "slopes90":4,
-                    "slopesLoop":4,
-                    "slopeInverted":4,
-                    "slopes8":4,
-                    "slopes16":4,
-                    "slopes50":4,
-                    "flatBanked22":8,
-                    "flatBanked45":16,
-                    "slopes12Banked22":4,
-                    "slopes8Banked22":4,
-                    "corkscrews":4,
+                "spriteGroups": {
+                    "slopeFlat": 16,
+                    "slopes12": 4,
+                    "slopes25": 16,
+                    "slopes42": 8,
+                    "slopes60": 16,
+                    "slopes75": 4,
+                    "slopes90": 4,
+                    "slopesLoop": 4,
+                    "slopeInverted": 4,
+                    "slopes8": 4,
+                    "slopes16": 4,
+                    "slopes50": 4,
+                    "flatBanked22": 8,
+                    "flatBanked45": 16,
+                    "slopes12Banked22": 4,
+                    "slopes8Banked22": 4,
+                    "corkscrews": 4,
                     "restraintAnimation": 4
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [5, 3, -7, -9]
+                "loadingPositions": [
+                    5,
+                    3,
+                    -7,
+                    -9
+                ]
             },
             {
                 "rotationFrameMask": 15,
@@ -70,29 +94,34 @@
                 "frictionSoundId": 2,
                 "soundRange": 2,
                 "drawOrder": 6,
-                "spriteGroups":{
-                    "slopeFlat":16,
-                    "slopes12":4,
-                    "slopes25":16,
-                    "slopes42":8,
-                    "slopes60":16,
-                    "slopes75":4,
-                    "slopes90":4,
-                    "slopesLoop":4,
-                    "slopeInverted":4,
-                    "slopes8":4,
-                    "slopes16":4,
-                    "slopes50":4,
-                    "flatBanked22":8,
-                    "flatBanked45":16,
-                    "slopes12Banked22":4,
-                    "slopes8Banked22":4,
-                    "corkscrews":4,
+                "spriteGroups": {
+                    "slopeFlat": 16,
+                    "slopes12": 4,
+                    "slopes25": 16,
+                    "slopes42": 8,
+                    "slopes60": 16,
+                    "slopes75": 4,
+                    "slopes90": 4,
+                    "slopesLoop": 4,
+                    "slopeInverted": 4,
+                    "slopes8": 4,
+                    "slopes16": 4,
+                    "slopes50": 4,
+                    "flatBanked22": 8,
+                    "flatBanked45": 16,
+                    "slopes12Banked22": 4,
+                    "slopes8Banked22": 4,
+                    "corkscrews": 4,
                     "restraintAnimation": 4
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    -3,
+                    -1
+                ]
             }
         ],
         "buildMenuPriority": 2
@@ -101,8 +130,7 @@
         { "path": "images/preview.png", "format": "raw" },
         "",
         "",
-            "$CSG[13542..13557]",
-    
+        "$CSG[13542..13557]",
         "$CSG[13558]",
         "$CSG[13566]",
         "$CSG[13574]",
@@ -111,7 +139,6 @@
         "$CSG[13570]",
         "$CSG[13578]",
         "$CSG[13586]",
-    
         "$CSG[13559]",
         "$CSG[13646..13648]",
         "$CSG[13567]",
@@ -120,7 +147,6 @@
         "$CSG[13652..13654]",
         "$CSG[13583]",
         "$CSG[13655..13657]",
-    
         "$CSG[13563]",
         "$CSG[13658..13660]",
         "$CSG[13571]",
@@ -129,7 +155,6 @@
         "$CSG[13664..13666]",
         "$CSG[13587]",
         "$CSG[13667..13669]",
-    
         "$CSG[13560]",
         "$CSG[13854]",
         "$CSG[13568]",
@@ -138,7 +163,6 @@
         "$CSG[13856]",
         "$CSG[13584]",
         "$CSG[13867]",
-    
         "$CSG[13564]",
         "$CSG[13870]",
         "$CSG[13572]",
@@ -147,7 +171,6 @@
         "$CSG[13872]",
         "$CSG[13588]",
         "$CSG[13873]",
-    
         "$CSG[13561]",
         "$CSG[13810..13812]",
         "$CSG[13569]",
@@ -156,7 +179,6 @@
         "$CSG[13816..13818]",
         "$CSG[13585]",
         "$CSG[13819..13821]",
-    
         "$CSG[13565]",
         "$CSG[13822..13824]",
         "$CSG[13573]",
@@ -165,7 +187,6 @@
         "$CSG[13828..13830]",
         "$CSG[13589]",
         "$CSG[13831..13833]",
-
         "$CSG[13670..13673]",
         "$CSG[13702..13705]",
         "$CSG[13674]",
@@ -187,14 +208,12 @@
         "$CSG[13694..13697]",
         "$CSG[13726..13729]",
         "$CSG[13698..13701]",
-    
         "$CSG[13846..13849]",
         "$CSG[13862..13865]",
         "$CSG[13850..13853]",
         "$CSG[13866..13869]",
         "$CSG[13858..13861]",
         "$CSG[13874..13877]",
-    
         "$CSG[13622]",
         "$CSG[13894]",
         "$CSG[13623]",
@@ -203,7 +222,6 @@
         "$CSG[13896]",
         "$CSG[13625]",
         "$CSG[13897]",
-    
         "$CSG[13626]",
         "$CSG[13898]",
         "$CSG[13627]",
@@ -213,12 +231,9 @@
         "$CSG[13629]",
         "$CSG[13901]",
         "$CSG[13590..13621]",
-    
         "$CSG[13630..13645]",
-    
         "$CSG[13878..13893]",
         "$CSG[13730..13809]",
-    
         "$CSG[13834]",
         "$CSG[13837]",
         "$CSG[13840]",
@@ -231,9 +246,7 @@
         "$CSG[13839]",
         "$CSG[13842]",
         "$CSG[13845]",
-
-            "$CSG[13902..13917]",
-    
+        "$CSG[13902..13917]",
         "$CSG[13918]",
         "$CSG[13926]",
         "$CSG[13934]",
@@ -242,7 +255,6 @@
         "$CSG[13930]",
         "$CSG[13938]",
         "$CSG[13946]",
-    
         "$CSG[13919]",
         "$CSG[14006..14008]",
         "$CSG[13927]",
@@ -251,7 +263,6 @@
         "$CSG[14012..14014]",
         "$CSG[13943]",
         "$CSG[14015..14017]",
-    
         "$CSG[13923]",
         "$CSG[14018..14020]",
         "$CSG[13931]",
@@ -260,7 +271,6 @@
         "$CSG[14024..14026]",
         "$CSG[13947]",
         "$CSG[14027..14029]",
-    
         "$CSG[13920]",
         "$CSG[14214]",
         "$CSG[13928]",
@@ -269,7 +279,6 @@
         "$CSG[14216]",
         "$CSG[13944]",
         "$CSG[14227]",
-    
         "$CSG[13924]",
         "$CSG[14230]",
         "$CSG[13932]",
@@ -278,7 +287,6 @@
         "$CSG[14232]",
         "$CSG[13948]",
         "$CSG[14233]",
-    
         "$CSG[13921]",
         "$CSG[14170..14172]",
         "$CSG[13929]",
@@ -287,7 +295,6 @@
         "$CSG[14176..14178]",
         "$CSG[13945]",
         "$CSG[14179..14181]",
-    
         "$CSG[13925]",
         "$CSG[14182..14184]",
         "$CSG[13933]",
@@ -296,7 +303,6 @@
         "$CSG[14188..14190]",
         "$CSG[13949]",
         "$CSG[14191..14193]",
-
         "$CSG[14030..14033]",
         "$CSG[14062..14065]",
         "$CSG[14034]",
@@ -318,14 +324,12 @@
         "$CSG[14054..14057]",
         "$CSG[14086..14089]",
         "$CSG[14058..14061]",
-    
         "$CSG[14206..14209]",
         "$CSG[14222..14225]",
         "$CSG[14210..14213]",
         "$CSG[14226..14229]",
         "$CSG[14218..14221]",
         "$CSG[14234..14237]",
-    
         "$CSG[13982]",
         "$CSG[14254]",
         "$CSG[13983]",
@@ -334,7 +338,6 @@
         "$CSG[14256]",
         "$CSG[13985]",
         "$CSG[14257]",
-    
         "$CSG[13986]",
         "$CSG[14258]",
         "$CSG[13987]",
@@ -344,12 +347,9 @@
         "$CSG[13989]",
         "$CSG[14261]",
         "$CSG[13950..13981]",
-    
         "$CSG[13990..14005]",
-    
         "$CSG[14238..14253]",
         "$CSG[14090..14169]",
-    
         "$CSG[14194]",
         "$CSG[14197]",
         "$CSG[14200]",
@@ -362,9 +362,7 @@
         "$CSG[14199]",
         "$CSG[14202]",
         "$CSG[14205]",
-
-            "$CSG[14262..14277]",
-    
+        "$CSG[14262..14277]",
         "$CSG[14278]",
         "$CSG[14286]",
         "$CSG[14294]",
@@ -373,7 +371,6 @@
         "$CSG[14290]",
         "$CSG[14298]",
         "$CSG[14306]",
-    
         "$CSG[14279]",
         "$CSG[14366..14368]",
         "$CSG[14287]",
@@ -382,7 +379,6 @@
         "$CSG[14372..14374]",
         "$CSG[14303]",
         "$CSG[14375..14377]",
-    
         "$CSG[14283]",
         "$CSG[14378..14380]",
         "$CSG[14291]",
@@ -391,7 +387,6 @@
         "$CSG[14384..14386]",
         "$CSG[14307]",
         "$CSG[14387..14389]",
-    
         "$CSG[14280]",
         "$CSG[14574]",
         "$CSG[14288]",
@@ -400,7 +395,6 @@
         "$CSG[14576]",
         "$CSG[14304]",
         "$CSG[14587]",
-    
         "$CSG[14284]",
         "$CSG[14590]",
         "$CSG[14292]",
@@ -409,7 +403,6 @@
         "$CSG[14592]",
         "$CSG[14308]",
         "$CSG[14593]",
-    
         "$CSG[14281]",
         "$CSG[14530..14532]",
         "$CSG[14289]",
@@ -418,7 +411,6 @@
         "$CSG[14536..14538]",
         "$CSG[14305]",
         "$CSG[14539..14541]",
-    
         "$CSG[14285]",
         "$CSG[14542..14544]",
         "$CSG[14293]",
@@ -427,7 +419,6 @@
         "$CSG[14548..14550]",
         "$CSG[14309]",
         "$CSG[14551..14553]",
-
         "$CSG[14390..14393]",
         "$CSG[14422..14425]",
         "$CSG[14394]",
@@ -449,14 +440,12 @@
         "$CSG[14414..14417]",
         "$CSG[14446..14449]",
         "$CSG[14418..14421]",
-    
         "$CSG[14566..14569]",
         "$CSG[14582..14585]",
         "$CSG[14570..14573]",
         "$CSG[14586..14589]",
         "$CSG[14578..14581]",
         "$CSG[14594..14597]",
-    
         "$CSG[14342]",
         "$CSG[14614]",
         "$CSG[14343]",
@@ -465,7 +454,6 @@
         "$CSG[14616]",
         "$CSG[14345]",
         "$CSG[14617]",
-    
         "$CSG[14346]",
         "$CSG[14618]",
         "$CSG[14347]",
@@ -475,12 +463,9 @@
         "$CSG[14349]",
         "$CSG[14621]",
         "$CSG[14310..14341]",
-    
         "$CSG[14350..14365]",
-    
         "$CSG[14598..14613]",
         "$CSG[14450..14529]",
-    
         "$CSG[14554]",
         "$CSG[14557]",
         "$CSG[14560]",
@@ -493,9 +478,7 @@
         "$CSG[14559]",
         "$CSG[14562]",
         "$CSG[14565]",
-
-            "$CSG[14622..14637]",
-    
+        "$CSG[14622..14637]",
         "$CSG[14638]",
         "$CSG[14646]",
         "$CSG[14654]",
@@ -504,7 +487,6 @@
         "$CSG[14650]",
         "$CSG[14658]",
         "$CSG[14666]",
-    
         "$CSG[14639]",
         "$CSG[14726..14728]",
         "$CSG[14647]",
@@ -513,7 +495,6 @@
         "$CSG[14732..14734]",
         "$CSG[14663]",
         "$CSG[14735..14737]",
-    
         "$CSG[14643]",
         "$CSG[14738..14740]",
         "$CSG[14651]",
@@ -522,7 +503,6 @@
         "$CSG[14744..14746]",
         "$CSG[14667]",
         "$CSG[14747..14749]",
-    
         "$CSG[14640]",
         "$CSG[14934]",
         "$CSG[14648]",
@@ -531,7 +511,6 @@
         "$CSG[14936]",
         "$CSG[14664]",
         "$CSG[14947]",
-    
         "$CSG[14644]",
         "$CSG[14950]",
         "$CSG[14652]",
@@ -540,7 +519,6 @@
         "$CSG[14952]",
         "$CSG[14668]",
         "$CSG[14953]",
-    
         "$CSG[14641]",
         "$CSG[14890..14892]",
         "$CSG[14649]",
@@ -549,7 +527,6 @@
         "$CSG[14896..14898]",
         "$CSG[14665]",
         "$CSG[14899..14901]",
-    
         "$CSG[14645]",
         "$CSG[14902..14904]",
         "$CSG[14653]",
@@ -558,7 +535,6 @@
         "$CSG[14908..14910]",
         "$CSG[14669]",
         "$CSG[14911..14913]",
-
         "$CSG[14750..14753]",
         "$CSG[14782..14785]",
         "$CSG[14754]",
@@ -580,14 +556,12 @@
         "$CSG[14774..14777]",
         "$CSG[14806..14809]",
         "$CSG[14778..14781]",
-    
         "$CSG[14926..14929]",
         "$CSG[14942..14945]",
         "$CSG[14930..14933]",
         "$CSG[14946..14949]",
         "$CSG[14938..14941]",
         "$CSG[14954..14957]",
-    
         "$CSG[14702]",
         "$CSG[14974]",
         "$CSG[14703]",
@@ -596,7 +570,6 @@
         "$CSG[14976]",
         "$CSG[14705]",
         "$CSG[14977]",
-    
         "$CSG[14706]",
         "$CSG[14978]",
         "$CSG[14707]",
@@ -606,12 +579,9 @@
         "$CSG[14709]",
         "$CSG[14981]",
         "$CSG[14670..14701]",
-    
         "$CSG[14710..14725]",
-    
         "$CSG[14958..14973]",
         "$CSG[14810..14889]",
-    
         "$CSG[14914]",
         "$CSG[14917]",
         "$CSG[14920]",
@@ -624,9 +594,7 @@
         "$CSG[14919]",
         "$CSG[14922]",
         "$CSG[14925]",
-
-            "$CSG[14982..14997]",
-    
+        "$CSG[14982..14997]",
         "$CSG[14998]",
         "$CSG[15006]",
         "$CSG[15014]",
@@ -635,7 +603,6 @@
         "$CSG[15010]",
         "$CSG[15018]",
         "$CSG[15026]",
-    
         "$CSG[14999]",
         "$CSG[15086..15088]",
         "$CSG[15007]",
@@ -644,7 +611,6 @@
         "$CSG[15092..15094]",
         "$CSG[15023]",
         "$CSG[15095..15097]",
-    
         "$CSG[15003]",
         "$CSG[15098..15100]",
         "$CSG[15011]",
@@ -653,7 +619,6 @@
         "$CSG[15104..15106]",
         "$CSG[15027]",
         "$CSG[15107..15109]",
-    
         "$CSG[15000]",
         "$CSG[15294]",
         "$CSG[15008]",
@@ -662,7 +627,6 @@
         "$CSG[15296]",
         "$CSG[15024]",
         "$CSG[15307]",
-    
         "$CSG[15004]",
         "$CSG[15310]",
         "$CSG[15012]",
@@ -671,7 +635,6 @@
         "$CSG[15312]",
         "$CSG[15028]",
         "$CSG[15313]",
-    
         "$CSG[15001]",
         "$CSG[15250..15252]",
         "$CSG[15009]",
@@ -680,7 +643,6 @@
         "$CSG[15256..15258]",
         "$CSG[15025]",
         "$CSG[15259..15261]",
-    
         "$CSG[15005]",
         "$CSG[15262..15264]",
         "$CSG[15013]",
@@ -689,7 +651,6 @@
         "$CSG[15268..15270]",
         "$CSG[15029]",
         "$CSG[15271..15273]",
-
         "$CSG[15110..15113]",
         "$CSG[15142..15145]",
         "$CSG[15114]",
@@ -711,14 +672,12 @@
         "$CSG[15134..15137]",
         "$CSG[15166..15169]",
         "$CSG[15138..15141]",
-    
         "$CSG[15286..15289]",
         "$CSG[15302..15305]",
         "$CSG[15290..15293]",
         "$CSG[15306..15309]",
         "$CSG[15298..15301]",
         "$CSG[15314..15317]",
-    
         "$CSG[15062]",
         "$CSG[15334]",
         "$CSG[15063]",
@@ -727,7 +686,6 @@
         "$CSG[15336]",
         "$CSG[15065]",
         "$CSG[15337]",
-    
         "$CSG[15066]",
         "$CSG[15338]",
         "$CSG[15067]",
@@ -737,12 +695,9 @@
         "$CSG[15069]",
         "$CSG[15341]",
         "$CSG[15030..15061]",
-    
         "$CSG[15070..15085]",
-    
         "$CSG[15318..15333]",
         "$CSG[15170..15249]",
-    
         "$CSG[15274]",
         "$CSG[15277]",
         "$CSG[15280]",
@@ -755,9 +710,7 @@
         "$CSG[15279]",
         "$CSG[15282]",
         "$CSG[15285]",
-
-            "$CSG[15342..15357]",
-    
+        "$CSG[15342..15357]",
         "$CSG[15358]",
         "$CSG[15366]",
         "$CSG[15374]",
@@ -766,7 +719,6 @@
         "$CSG[15370]",
         "$CSG[15378]",
         "$CSG[15386]",
-    
         "$CSG[15359]",
         "$CSG[15446..15448]",
         "$CSG[15367]",
@@ -775,7 +727,6 @@
         "$CSG[15452..15454]",
         "$CSG[15383]",
         "$CSG[15455..15457]",
-    
         "$CSG[15363]",
         "$CSG[15458..15460]",
         "$CSG[15371]",
@@ -784,7 +735,6 @@
         "$CSG[15464..15466]",
         "$CSG[15387]",
         "$CSG[15467..15469]",
-    
         "$CSG[15360]",
         "$CSG[15654]",
         "$CSG[15368]",
@@ -793,7 +743,6 @@
         "$CSG[15656]",
         "$CSG[15384]",
         "$CSG[15667]",
-    
         "$CSG[15364]",
         "$CSG[15670]",
         "$CSG[15372]",
@@ -802,7 +751,6 @@
         "$CSG[15672]",
         "$CSG[15388]",
         "$CSG[15673]",
-    
         "$CSG[15361]",
         "$CSG[15610..15612]",
         "$CSG[15369]",
@@ -811,7 +759,6 @@
         "$CSG[15616..15618]",
         "$CSG[15385]",
         "$CSG[15619..15621]",
-    
         "$CSG[15365]",
         "$CSG[15622..15624]",
         "$CSG[15373]",
@@ -820,7 +767,6 @@
         "$CSG[15628..15630]",
         "$CSG[15389]",
         "$CSG[15631..15633]",
-
         "$CSG[15470..15473]",
         "$CSG[15502..15505]",
         "$CSG[15474]",
@@ -842,14 +788,12 @@
         "$CSG[15494..15497]",
         "$CSG[15526..15529]",
         "$CSG[15498..15501]",
-    
         "$CSG[15646..15649]",
         "$CSG[15662..15665]",
         "$CSG[15650..15653]",
         "$CSG[15666..15669]",
         "$CSG[15658..15661]",
         "$CSG[15674..15677]",
-    
         "$CSG[15422]",
         "$CSG[15694]",
         "$CSG[15423]",
@@ -858,7 +802,6 @@
         "$CSG[15696]",
         "$CSG[15425]",
         "$CSG[15697]",
-    
         "$CSG[15426]",
         "$CSG[15698]",
         "$CSG[15427]",
@@ -868,12 +811,9 @@
         "$CSG[15429]",
         "$CSG[15701]",
         "$CSG[15390..15421]",
-    
         "$CSG[15430..15445]",
-    
         "$CSG[15678..15693]",
         "$CSG[15530..15609]",
-    
         "$CSG[15634]",
         "$CSG[15637]",
         "$CSG[15640]",
@@ -907,9 +847,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[29]",
         "$RCT2:OBJDATA/ARRT1.DAT[31]",
         "$RCT2:OBJDATA/ARRT1.DAT[33]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[35..42]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[43]",
         "$RCT2:OBJDATA/ARRT1.DAT[45]",
         "$RCT2:OBJDATA/ARRT1.DAT[47]",
@@ -926,7 +864,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[69]",
         "$RCT2:OBJDATA/ARRT1.DAT[71]",
         "$RCT2:OBJDATA/ARRT1.DAT[73]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[75]",
         "$RCT2:OBJDATA/ARRT1.DAT[77]",
         "$RCT2:OBJDATA/ARRT1.DAT[79]",
@@ -943,9 +880,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[101]",
         "$RCT2:OBJDATA/ARRT1.DAT[103]",
         "$RCT2:OBJDATA/ARRT1.DAT[105]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[107..122]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[123]",
         "$RCT2:OBJDATA/ARRT1.DAT[125]",
         "$RCT2:OBJDATA/ARRT1.DAT[127]",
@@ -962,7 +897,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[149]",
         "$RCT2:OBJDATA/ARRT1.DAT[151]",
         "$RCT2:OBJDATA/ARRT1.DAT[153]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[155]",
         "$RCT2:OBJDATA/ARRT1.DAT[157]",
         "$RCT2:OBJDATA/ARRT1.DAT[159]",
@@ -979,9 +913,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[181]",
         "$RCT2:OBJDATA/ARRT1.DAT[183]",
         "$RCT2:OBJDATA/ARRT1.DAT[185]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[187..194]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[195]",
         "$RCT2:OBJDATA/ARRT1.DAT[203]",
         "$RCT2:OBJDATA/ARRT1.DAT[211]",
@@ -990,9 +922,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[235]",
         "$RCT2:OBJDATA/ARRT1.DAT[243]",
         "$RCT2:OBJDATA/ARRT1.DAT[251]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[259..342]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[343]",
         "$RCT2:OBJDATA/ARRT1.DAT[345]",
         "$RCT2:OBJDATA/ARRT1.DAT[347]",
@@ -1009,7 +939,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[369]",
         "$RCT2:OBJDATA/ARRT1.DAT[371]",
         "$RCT2:OBJDATA/ARRT1.DAT[373]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[375]",
         "$RCT2:OBJDATA/ARRT1.DAT[377]",
         "$RCT2:OBJDATA/ARRT1.DAT[379]",
@@ -1026,7 +955,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[401]",
         "$RCT2:OBJDATA/ARRT1.DAT[403]",
         "$RCT2:OBJDATA/ARRT1.DAT[405]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[407]",
         "$RCT2:OBJDATA/ARRT1.DAT[415]",
         "$RCT2:OBJDATA/ARRT1.DAT[423]",
@@ -1035,7 +963,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[447]",
         "$RCT2:OBJDATA/ARRT1.DAT[455]",
         "$RCT2:OBJDATA/ARRT1.DAT[463]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[471]",
         "$RCT2:OBJDATA/ARRT1.DAT[479]",
         "$RCT2:OBJDATA/ARRT1.DAT[487]",
@@ -1044,9 +971,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[511]",
         "$RCT2:OBJDATA/ARRT1.DAT[519]",
         "$RCT2:OBJDATA/ARRT1.DAT[527]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[535..642]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[643]",
         "$RCT2:OBJDATA/ARRT1.DAT[645]",
         "$RCT2:OBJDATA/ARRT1.DAT[647]",
@@ -1063,9 +988,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[669]",
         "$RCT2:OBJDATA/ARRT1.DAT[671]",
         "$RCT2:OBJDATA/ARRT1.DAT[673]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[675..682]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[683]",
         "$RCT2:OBJDATA/ARRT1.DAT[685]",
         "$RCT2:OBJDATA/ARRT1.DAT[687]",
@@ -1082,7 +1005,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[709]",
         "$RCT2:OBJDATA/ARRT1.DAT[711]",
         "$RCT2:OBJDATA/ARRT1.DAT[713]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[715]",
         "$RCT2:OBJDATA/ARRT1.DAT[717]",
         "$RCT2:OBJDATA/ARRT1.DAT[719]",
@@ -1099,9 +1021,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[741]",
         "$RCT2:OBJDATA/ARRT1.DAT[743]",
         "$RCT2:OBJDATA/ARRT1.DAT[745]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[747..762]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[763]",
         "$RCT2:OBJDATA/ARRT1.DAT[765]",
         "$RCT2:OBJDATA/ARRT1.DAT[767]",
@@ -1118,7 +1038,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[789]",
         "$RCT2:OBJDATA/ARRT1.DAT[791]",
         "$RCT2:OBJDATA/ARRT1.DAT[793]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[795]",
         "$RCT2:OBJDATA/ARRT1.DAT[797]",
         "$RCT2:OBJDATA/ARRT1.DAT[799]",
@@ -1135,9 +1054,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[821]",
         "$RCT2:OBJDATA/ARRT1.DAT[823]",
         "$RCT2:OBJDATA/ARRT1.DAT[825]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[827..834]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[835]",
         "$RCT2:OBJDATA/ARRT1.DAT[843]",
         "$RCT2:OBJDATA/ARRT1.DAT[851]",
@@ -1146,9 +1063,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[875]",
         "$RCT2:OBJDATA/ARRT1.DAT[883]",
         "$RCT2:OBJDATA/ARRT1.DAT[891]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[899..982]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[983]",
         "$RCT2:OBJDATA/ARRT1.DAT[985]",
         "$RCT2:OBJDATA/ARRT1.DAT[987]",
@@ -1165,7 +1080,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[1009]",
         "$RCT2:OBJDATA/ARRT1.DAT[1011]",
         "$RCT2:OBJDATA/ARRT1.DAT[1013]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1015]",
         "$RCT2:OBJDATA/ARRT1.DAT[1017]",
         "$RCT2:OBJDATA/ARRT1.DAT[1019]",
@@ -1182,7 +1096,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[1041]",
         "$RCT2:OBJDATA/ARRT1.DAT[1043]",
         "$RCT2:OBJDATA/ARRT1.DAT[1045]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1047]",
         "$RCT2:OBJDATA/ARRT1.DAT[1055]",
         "$RCT2:OBJDATA/ARRT1.DAT[1063]",
@@ -1191,7 +1104,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[1087]",
         "$RCT2:OBJDATA/ARRT1.DAT[1095]",
         "$RCT2:OBJDATA/ARRT1.DAT[1103]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1111]",
         "$RCT2:OBJDATA/ARRT1.DAT[1119]",
         "$RCT2:OBJDATA/ARRT1.DAT[1127]",
@@ -1200,9 +1112,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[1151]",
         "$RCT2:OBJDATA/ARRT1.DAT[1159]",
         "$RCT2:OBJDATA/ARRT1.DAT[1167]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1175..1282]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1283]",
         "$RCT2:OBJDATA/ARRT1.DAT[1285]",
         "$RCT2:OBJDATA/ARRT1.DAT[1287]",
@@ -1219,9 +1129,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[1309]",
         "$RCT2:OBJDATA/ARRT1.DAT[1311]",
         "$RCT2:OBJDATA/ARRT1.DAT[1313]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1315..1322]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1323]",
         "$RCT2:OBJDATA/ARRT1.DAT[1325]",
         "$RCT2:OBJDATA/ARRT1.DAT[1327]",
@@ -1238,7 +1146,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[1349]",
         "$RCT2:OBJDATA/ARRT1.DAT[1351]",
         "$RCT2:OBJDATA/ARRT1.DAT[1353]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1355]",
         "$RCT2:OBJDATA/ARRT1.DAT[1357]",
         "$RCT2:OBJDATA/ARRT1.DAT[1359]",
@@ -1255,9 +1162,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[1381]",
         "$RCT2:OBJDATA/ARRT1.DAT[1383]",
         "$RCT2:OBJDATA/ARRT1.DAT[1385]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1387..1402]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1403]",
         "$RCT2:OBJDATA/ARRT1.DAT[1405]",
         "$RCT2:OBJDATA/ARRT1.DAT[1407]",
@@ -1274,7 +1179,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[1429]",
         "$RCT2:OBJDATA/ARRT1.DAT[1431]",
         "$RCT2:OBJDATA/ARRT1.DAT[1433]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1435]",
         "$RCT2:OBJDATA/ARRT1.DAT[1437]",
         "$RCT2:OBJDATA/ARRT1.DAT[1439]",
@@ -1291,9 +1195,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[1461]",
         "$RCT2:OBJDATA/ARRT1.DAT[1463]",
         "$RCT2:OBJDATA/ARRT1.DAT[1465]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1467..1474]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1475]",
         "$RCT2:OBJDATA/ARRT1.DAT[1483]",
         "$RCT2:OBJDATA/ARRT1.DAT[1491]",
@@ -1302,9 +1204,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[1515]",
         "$RCT2:OBJDATA/ARRT1.DAT[1523]",
         "$RCT2:OBJDATA/ARRT1.DAT[1531]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1539..1622]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1623]",
         "$RCT2:OBJDATA/ARRT1.DAT[1625]",
         "$RCT2:OBJDATA/ARRT1.DAT[1627]",
@@ -1321,7 +1221,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[1649]",
         "$RCT2:OBJDATA/ARRT1.DAT[1651]",
         "$RCT2:OBJDATA/ARRT1.DAT[1653]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1655]",
         "$RCT2:OBJDATA/ARRT1.DAT[1657]",
         "$RCT2:OBJDATA/ARRT1.DAT[1659]",
@@ -1338,7 +1237,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[1681]",
         "$RCT2:OBJDATA/ARRT1.DAT[1683]",
         "$RCT2:OBJDATA/ARRT1.DAT[1685]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1687]",
         "$RCT2:OBJDATA/ARRT1.DAT[1695]",
         "$RCT2:OBJDATA/ARRT1.DAT[1703]",
@@ -1347,7 +1245,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[1727]",
         "$RCT2:OBJDATA/ARRT1.DAT[1735]",
         "$RCT2:OBJDATA/ARRT1.DAT[1743]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1751]",
         "$RCT2:OBJDATA/ARRT1.DAT[1759]",
         "$RCT2:OBJDATA/ARRT1.DAT[1767]",
@@ -1356,9 +1253,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[1791]",
         "$RCT2:OBJDATA/ARRT1.DAT[1799]",
         "$RCT2:OBJDATA/ARRT1.DAT[1807]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1815..1922]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1923]",
         "$RCT2:OBJDATA/ARRT1.DAT[1925]",
         "$RCT2:OBJDATA/ARRT1.DAT[1927]",
@@ -1375,9 +1270,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[1949]",
         "$RCT2:OBJDATA/ARRT1.DAT[1951]",
         "$RCT2:OBJDATA/ARRT1.DAT[1953]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1955..1962]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1963]",
         "$RCT2:OBJDATA/ARRT1.DAT[1965]",
         "$RCT2:OBJDATA/ARRT1.DAT[1967]",
@@ -1394,7 +1287,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[1989]",
         "$RCT2:OBJDATA/ARRT1.DAT[1991]",
         "$RCT2:OBJDATA/ARRT1.DAT[1993]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[1995]",
         "$RCT2:OBJDATA/ARRT1.DAT[1997]",
         "$RCT2:OBJDATA/ARRT1.DAT[1999]",
@@ -1411,9 +1303,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[2021]",
         "$RCT2:OBJDATA/ARRT1.DAT[2023]",
         "$RCT2:OBJDATA/ARRT1.DAT[2025]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2027..2042]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2043]",
         "$RCT2:OBJDATA/ARRT1.DAT[2045]",
         "$RCT2:OBJDATA/ARRT1.DAT[2047]",
@@ -1430,7 +1320,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[2069]",
         "$RCT2:OBJDATA/ARRT1.DAT[2071]",
         "$RCT2:OBJDATA/ARRT1.DAT[2073]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2075]",
         "$RCT2:OBJDATA/ARRT1.DAT[2077]",
         "$RCT2:OBJDATA/ARRT1.DAT[2079]",
@@ -1447,9 +1336,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[2101]",
         "$RCT2:OBJDATA/ARRT1.DAT[2103]",
         "$RCT2:OBJDATA/ARRT1.DAT[2105]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2107..2114]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2115]",
         "$RCT2:OBJDATA/ARRT1.DAT[2123]",
         "$RCT2:OBJDATA/ARRT1.DAT[2131]",
@@ -1458,9 +1345,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[2155]",
         "$RCT2:OBJDATA/ARRT1.DAT[2163]",
         "$RCT2:OBJDATA/ARRT1.DAT[2171]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2179..2262]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2263]",
         "$RCT2:OBJDATA/ARRT1.DAT[2265]",
         "$RCT2:OBJDATA/ARRT1.DAT[2267]",
@@ -1477,7 +1362,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[2289]",
         "$RCT2:OBJDATA/ARRT1.DAT[2291]",
         "$RCT2:OBJDATA/ARRT1.DAT[2293]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2295]",
         "$RCT2:OBJDATA/ARRT1.DAT[2297]",
         "$RCT2:OBJDATA/ARRT1.DAT[2299]",
@@ -1494,7 +1378,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[2321]",
         "$RCT2:OBJDATA/ARRT1.DAT[2323]",
         "$RCT2:OBJDATA/ARRT1.DAT[2325]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2327]",
         "$RCT2:OBJDATA/ARRT1.DAT[2335]",
         "$RCT2:OBJDATA/ARRT1.DAT[2343]",
@@ -1503,7 +1386,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[2367]",
         "$RCT2:OBJDATA/ARRT1.DAT[2375]",
         "$RCT2:OBJDATA/ARRT1.DAT[2383]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2391]",
         "$RCT2:OBJDATA/ARRT1.DAT[2399]",
         "$RCT2:OBJDATA/ARRT1.DAT[2407]",
@@ -1512,9 +1394,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[2431]",
         "$RCT2:OBJDATA/ARRT1.DAT[2439]",
         "$RCT2:OBJDATA/ARRT1.DAT[2447]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2455..2562]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2563]",
         "$RCT2:OBJDATA/ARRT1.DAT[2565]",
         "$RCT2:OBJDATA/ARRT1.DAT[2567]",
@@ -1531,9 +1411,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[2589]",
         "$RCT2:OBJDATA/ARRT1.DAT[2591]",
         "$RCT2:OBJDATA/ARRT1.DAT[2593]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2595..2602]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2603]",
         "$RCT2:OBJDATA/ARRT1.DAT[2605]",
         "$RCT2:OBJDATA/ARRT1.DAT[2607]",
@@ -1550,7 +1428,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[2629]",
         "$RCT2:OBJDATA/ARRT1.DAT[2631]",
         "$RCT2:OBJDATA/ARRT1.DAT[2633]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2635]",
         "$RCT2:OBJDATA/ARRT1.DAT[2637]",
         "$RCT2:OBJDATA/ARRT1.DAT[2639]",
@@ -1567,9 +1444,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[2661]",
         "$RCT2:OBJDATA/ARRT1.DAT[2663]",
         "$RCT2:OBJDATA/ARRT1.DAT[2665]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2667..2682]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2683]",
         "$RCT2:OBJDATA/ARRT1.DAT[2685]",
         "$RCT2:OBJDATA/ARRT1.DAT[2687]",
@@ -1586,7 +1461,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[2709]",
         "$RCT2:OBJDATA/ARRT1.DAT[2711]",
         "$RCT2:OBJDATA/ARRT1.DAT[2713]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2715]",
         "$RCT2:OBJDATA/ARRT1.DAT[2717]",
         "$RCT2:OBJDATA/ARRT1.DAT[2719]",
@@ -1603,9 +1477,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[2741]",
         "$RCT2:OBJDATA/ARRT1.DAT[2743]",
         "$RCT2:OBJDATA/ARRT1.DAT[2745]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2747..2754]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2755]",
         "$RCT2:OBJDATA/ARRT1.DAT[2763]",
         "$RCT2:OBJDATA/ARRT1.DAT[2771]",
@@ -1614,9 +1486,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[2795]",
         "$RCT2:OBJDATA/ARRT1.DAT[2803]",
         "$RCT2:OBJDATA/ARRT1.DAT[2811]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2819..2902]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2903]",
         "$RCT2:OBJDATA/ARRT1.DAT[2905]",
         "$RCT2:OBJDATA/ARRT1.DAT[2907]",
@@ -1633,7 +1503,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[2929]",
         "$RCT2:OBJDATA/ARRT1.DAT[2931]",
         "$RCT2:OBJDATA/ARRT1.DAT[2933]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2935]",
         "$RCT2:OBJDATA/ARRT1.DAT[2937]",
         "$RCT2:OBJDATA/ARRT1.DAT[2939]",
@@ -1650,7 +1519,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[2961]",
         "$RCT2:OBJDATA/ARRT1.DAT[2963]",
         "$RCT2:OBJDATA/ARRT1.DAT[2965]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[2967]",
         "$RCT2:OBJDATA/ARRT1.DAT[2975]",
         "$RCT2:OBJDATA/ARRT1.DAT[2983]",
@@ -1659,7 +1527,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[3007]",
         "$RCT2:OBJDATA/ARRT1.DAT[3015]",
         "$RCT2:OBJDATA/ARRT1.DAT[3023]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[3031]",
         "$RCT2:OBJDATA/ARRT1.DAT[3039]",
         "$RCT2:OBJDATA/ARRT1.DAT[3047]",
@@ -1668,9 +1535,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[3071]",
         "$RCT2:OBJDATA/ARRT1.DAT[3079]",
         "$RCT2:OBJDATA/ARRT1.DAT[3087]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[3095..3202]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[3203]",
         "$RCT2:OBJDATA/ARRT1.DAT[3205]",
         "$RCT2:OBJDATA/ARRT1.DAT[3207]",
@@ -1687,9 +1552,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[3229]",
         "$RCT2:OBJDATA/ARRT1.DAT[3231]",
         "$RCT2:OBJDATA/ARRT1.DAT[3233]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[3235..3242]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[3243]",
         "$RCT2:OBJDATA/ARRT1.DAT[3245]",
         "$RCT2:OBJDATA/ARRT1.DAT[3247]",
@@ -1706,7 +1569,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[3269]",
         "$RCT2:OBJDATA/ARRT1.DAT[3271]",
         "$RCT2:OBJDATA/ARRT1.DAT[3273]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[3275]",
         "$RCT2:OBJDATA/ARRT1.DAT[3277]",
         "$RCT2:OBJDATA/ARRT1.DAT[3279]",
@@ -1723,9 +1585,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[3301]",
         "$RCT2:OBJDATA/ARRT1.DAT[3303]",
         "$RCT2:OBJDATA/ARRT1.DAT[3305]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[3307..3322]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[3323]",
         "$RCT2:OBJDATA/ARRT1.DAT[3325]",
         "$RCT2:OBJDATA/ARRT1.DAT[3327]",
@@ -1742,7 +1602,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[3349]",
         "$RCT2:OBJDATA/ARRT1.DAT[3351]",
         "$RCT2:OBJDATA/ARRT1.DAT[3353]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[3355]",
         "$RCT2:OBJDATA/ARRT1.DAT[3357]",
         "$RCT2:OBJDATA/ARRT1.DAT[3359]",
@@ -1759,9 +1618,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[3381]",
         "$RCT2:OBJDATA/ARRT1.DAT[3383]",
         "$RCT2:OBJDATA/ARRT1.DAT[3385]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[3387..3394]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[3395]",
         "$RCT2:OBJDATA/ARRT1.DAT[3403]",
         "$RCT2:OBJDATA/ARRT1.DAT[3411]",
@@ -1770,9 +1627,7 @@
         "$RCT2:OBJDATA/ARRT1.DAT[3435]",
         "$RCT2:OBJDATA/ARRT1.DAT[3443]",
         "$RCT2:OBJDATA/ARRT1.DAT[3451]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[3459..3542]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[3543]",
         "$RCT2:OBJDATA/ARRT1.DAT[3545]",
         "$RCT2:OBJDATA/ARRT1.DAT[3547]",
@@ -1789,7 +1644,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[3569]",
         "$RCT2:OBJDATA/ARRT1.DAT[3571]",
         "$RCT2:OBJDATA/ARRT1.DAT[3573]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[3575]",
         "$RCT2:OBJDATA/ARRT1.DAT[3577]",
         "$RCT2:OBJDATA/ARRT1.DAT[3579]",
@@ -1806,7 +1660,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[3601]",
         "$RCT2:OBJDATA/ARRT1.DAT[3603]",
         "$RCT2:OBJDATA/ARRT1.DAT[3605]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[3607]",
         "$RCT2:OBJDATA/ARRT1.DAT[3615]",
         "$RCT2:OBJDATA/ARRT1.DAT[3623]",
@@ -1815,7 +1668,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[3647]",
         "$RCT2:OBJDATA/ARRT1.DAT[3655]",
         "$RCT2:OBJDATA/ARRT1.DAT[3663]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[3671]",
         "$RCT2:OBJDATA/ARRT1.DAT[3679]",
         "$RCT2:OBJDATA/ARRT1.DAT[3687]",
@@ -1824,7 +1676,6 @@
         "$RCT2:OBJDATA/ARRT1.DAT[3711]",
         "$RCT2:OBJDATA/ARRT1.DAT[3719]",
         "$RCT2:OBJDATA/ARRT1.DAT[3727]",
-
         "$RCT2:OBJDATA/ARRT1.DAT[3735..3842]"
     ],
     "strings": {

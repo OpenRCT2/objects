@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.tutlboat",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0E10|TUTLBOAT|DF756C74",
     "sourceGame": "rct2ww",
@@ -18,13 +20,25 @@
         },
         "carColours": [
             [
-                ["yellow", "light_blue", "black"]
+                [
+                    "yellow",
+                    "light_blue",
+                    "black"
+                ]
             ],
             [
-                ["bright_red", "light_blue", "black"]
+                [
+                    "bright_red",
+                    "light_blue",
+                    "black"
+                ]
             ],
             [
-                ["dark_green", "yellow", "black"]
+                [
+                    "dark_green",
+                    "yellow",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -42,10 +56,15 @@
             "hasAdditionalColour1": true,
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
-            "loadingPositions": [3, -3]
+            "loadingPositions": [
+                3,
+                -3
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/TUTLBOAT.DAT[0..66]"],
+    "images": [
+        "$RCT2:OBJDATA/TUTLBOAT.DAT[0..66]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Turtle Boats",

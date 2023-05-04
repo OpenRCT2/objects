@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.futsky25",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FB22|FUTSKY25|E99B8A4E",
     "sourceGame": "rct2tt",
@@ -37,7 +39,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/FUTSKY25.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/FUTSKY25.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Sandstone Skyscraper Bottom Inverted Corner",

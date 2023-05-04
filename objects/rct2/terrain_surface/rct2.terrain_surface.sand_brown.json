@@ -1,13 +1,19 @@
 {
     "id": "rct2.terrain_surface.sand_brown",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0000008B|#RCT2SSA|00000000",
     "sourceGame": "rct2",
     "objectType": "terrain_surface",
     "properties": {
         "price": 110,
-        "mapColours": [222, 222],
+        "mapColours": [
+            222,
+            222
+        ],
         "smoothWithSelf": true,
         "smoothWithOther": true
     },

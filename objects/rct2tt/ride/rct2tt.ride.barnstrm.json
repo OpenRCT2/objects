@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.barnstrm",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F920|BARNSTRM|52510CB2",
     "sourceGame": "rct2tt",
@@ -13,13 +15,25 @@
         "maxCarsPerTrain": 9,
         "carColours": [
             [
-                ["light_blue", "black", "bright_red"]
+                [
+                    "light_blue",
+                    "black",
+                    "bright_red"
+                ]
             ],
             [
-                ["black", "bordeaux_red", "yellow"]
+                [
+                    "black",
+                    "bordeaux_red",
+                    "yellow"
+                ]
             ],
             [
-                ["bordeaux_red", "white", "black"]
+                [
+                    "bordeaux_red",
+                    "white",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -42,10 +56,17 @@
             "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [6, 8, -4, -6]
+            "loadingPositions": [
+                6,
+                8,
+                -4,
+                -6
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/BARNSTRM.DAT[0..938]"],
+    "images": [
+        "$RCT2:OBJDATA/BARNSTRM.DAT[0..938]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Barnstorming Trains",

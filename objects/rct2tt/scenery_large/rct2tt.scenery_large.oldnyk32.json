@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.oldnyk32",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F922|OLDNYK32|24378976",
     "sourceGame": "rct2tt",
@@ -39,7 +41,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/OLDNYK32.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/OLDNYK32.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "New York Roof Piece",

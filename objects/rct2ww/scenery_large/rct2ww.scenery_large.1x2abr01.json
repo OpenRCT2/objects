@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.1x2abr01",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0E12|1X2ABR01|363717C0",
     "sourceGame": "rct2ww",
@@ -26,7 +28,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/1X2ABR01.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/1X2ABR01.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Aboriginal Plain Tile",

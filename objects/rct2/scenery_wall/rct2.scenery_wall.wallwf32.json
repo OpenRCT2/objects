@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_wall.wallwf32",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188083|WALLWF32|A93FEE6A",
     "sourceGame": "rct2",
@@ -10,7 +13,9 @@
         "height": 4,
         "price": 180
     },
-    "images": ["$RCT2:OBJDATA/WALLWF32.DAT[0..15]"],
+    "images": [
+        "$RCT2:OBJDATA/WALLWF32.DAT[0..15]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Waterfall",

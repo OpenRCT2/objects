@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.starfrdr",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|STARFRDR|2FB4B79C",
     "sourceGame": "rct2",
@@ -14,11 +17,17 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["black", "black", "black"]
+                [
+                    "black",
+                    "black",
+                    "black"
+                ]
             ]
         ]
     },
-    "images": ["$RCT2:OBJDATA/STARFRDR.DAT[0..6]"],
+    "images": [
+        "$RCT2:OBJDATA/STARFRDR.DAT[0..6]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Star Fruit Drink Stall",

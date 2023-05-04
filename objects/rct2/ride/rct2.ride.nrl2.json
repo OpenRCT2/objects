@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.nrl2",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|NRL2    |0365419D",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "miniature_railway",
@@ -22,13 +28,25 @@
         ],
         "carColours": [
             [
-                ["yellow", "bordeaux_red", "bright_yellow"]
+                [
+                    "yellow",
+                    "bordeaux_red",
+                    "bright_yellow"
+                ]
             ],
             [
-                ["dark_green", "dark_brown", "yellow"]
+                [
+                    "dark_green",
+                    "dark_brown",
+                    "yellow"
+                ]
             ],
             [
-                ["bordeaux_red", "dark_green", "yellow"]
+                [
+                    "bordeaux_red",
+                    "dark_green",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -85,12 +103,21 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [10, 8, 1, -1, -8, -10]
+                "loadingPositions": [
+                    10,
+                    8,
+                    1,
+                    -1,
+                    -8,
+                    -10
+                ]
             }
         ],
         "buildMenuPriority": 3
     },
-    "images": ["$RCT2:OBJDATA/NRL2.DAT[0..1154]"],
+    "images": [
+        "$RCT2:OBJDATA/NRL2.DAT[0..1154]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Steam Trains with Covered Cars",

@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.psntwl27",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F822|PSNTWL27|6B451D6D",
     "sourceGame": "rct2tt",
@@ -39,7 +41,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/PSNTWL27.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/PSNTWL27.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Dark Age Village Corner Roof Piece",

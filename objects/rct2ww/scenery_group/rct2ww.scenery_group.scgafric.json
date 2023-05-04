@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_group.scgafric",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0217|SCGAFRIC|9E3F9928",
     "sourceGame": "rct2ww",
@@ -115,7 +117,9 @@
         "priority": 25,
         "entertainerCostumes": "gorilla"
     },
-    "images": ["$RCT2:OBJDATA/SCGAFRIC.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGAFRIC.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Africa Theming",

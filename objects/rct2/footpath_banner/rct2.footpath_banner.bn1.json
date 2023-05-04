@@ -1,16 +1,24 @@
 {
     "id": "rct2.footpath_banner.bn1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F84|BN1     |8DA7F8BC",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "footpath_banner",
     "properties": {
         "scrollingMode": 17,
         "price": 250,
         "hasPrimaryColour": true
     },
-    "images": ["$RCT2:OBJDATA/BN1.DAT[0..7]"],
+    "images": [
+        "$RCT2:OBJDATA/BN1.DAT[0..7]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Sign",

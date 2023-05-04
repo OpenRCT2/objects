@@ -1,9 +1,15 @@
 {
     "id": "rct2.terrain_edge.wood_black",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0000008C|#RCT2EWB|00000000",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "terrain_edge",
     "properties": {
     },

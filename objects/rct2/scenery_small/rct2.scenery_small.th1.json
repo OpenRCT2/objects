@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.th1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188E81|TH1     |004921BB",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 18,
@@ -13,7 +19,9 @@
         "isTree": true,
         "shape": "4/4"
     },
-    "images": ["$RCT2:OBJDATA/TH1.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TH1.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Canary Palm Tree",

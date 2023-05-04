@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_large.scol",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C82|SCOL    |B25D6659",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_large",
     "properties": {
         "price": 200,
@@ -109,7 +115,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SCOL.DAT[0..51]"],
+    "images": [
+        "$RCT2:OBJDATA/SCOL.DAT[0..51]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Roman Colosseum",

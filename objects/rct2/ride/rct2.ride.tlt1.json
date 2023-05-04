@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.tlt1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|TLT1    |D53148B1",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "toilets",
@@ -12,11 +18,17 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["black", "black", "black"]
+                [
+                    "black",
+                    "black",
+                    "black"
+                ]
             ]
         ]
     },
-    "images": ["$RCT2:OBJDATA/TLT1.DAT[0..8]"],
+    "images": [
+        "$RCT2:OBJDATA/TLT1.DAT[0..8]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Toilets",

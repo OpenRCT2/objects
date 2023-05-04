@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_large.sah2",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C82|SAH2    |D41851E2",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "scenery_large",
     "properties": {
         "price": 135,
@@ -40,7 +46,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SAH2.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/SAH2.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "House",

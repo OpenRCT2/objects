@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.whicgrub",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0E10|WHICGRUB|EC26BF09",
     "sourceGame": "rct2ww",
@@ -21,10 +23,18 @@
         "tailCars": 2,
         "carColours": [
             [
-                ["dark_brown", "black", "black"]
+                [
+                    "dark_brown",
+                    "black",
+                    "black"
+                ]
             ],
             [
-                ["saturated_brown", "bordeaux_red", "black"]
+                [
+                    "saturated_brown",
+                    "bordeaux_red",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -48,7 +58,10 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, 4]
+                "loadingPositions": [
+                    2,
+                    4
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -70,7 +83,10 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, 4]
+                "loadingPositions": [
+                    2,
+                    4
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -80,7 +96,7 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "hasScreamingRiders": true
             }

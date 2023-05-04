@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.steep2",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|STEEP2  |773C635C",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "steeplechase",
@@ -13,13 +19,25 @@
         },
         "carColours": [
             [
-                ["bright_red", "white", "black"]
+                [
+                    "bright_red",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["bright_green", "white", "black"]
+                [
+                    "bright_green",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "white", "black"]
+                [
+                    "light_blue",
+                    "white",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -38,11 +56,16 @@
             },
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [4, -4]
+            "loadingPositions": [
+                4,
+                -4
+            ]
         },
         "buildMenuPriority": 2
     },
-    "images": ["$RCT2:OBJDATA/STEEP2.DAT[0..258]"],
+    "images": [
+        "$RCT2:OBJDATA/STEEP2.DAT[0..258]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Motorbikes",

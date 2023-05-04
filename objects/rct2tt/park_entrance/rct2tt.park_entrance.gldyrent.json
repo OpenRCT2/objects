@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.park_entrance.gldyrent",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA28|GLDYRENT|D4B3B39C",
     "sourceGame": "rct2tt",
@@ -9,7 +11,9 @@
         "scrollingMode": 3,
         "textHeight": 40
     },
-    "images": ["$RCT2:OBJDATA/GLDYRENT.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/GLDYRENT.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Rock ’n’ Roll Park Entrance",

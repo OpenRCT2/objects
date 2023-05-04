@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.smc2",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|SMC2    |8A13DDE5",
     "sourceGame": "rct2",
@@ -16,10 +19,18 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["light_brown", "bordeaux_red", "black"]
+                [
+                    "light_brown",
+                    "bordeaux_red",
+                    "black"
+                ]
             ],
             [
-                ["dark_brown", "bordeaux_red", "black"]
+                [
+                    "dark_brown",
+                    "bordeaux_red",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -40,7 +51,12 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    -3,
+                    -1
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -50,7 +66,7 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "hasScreamingRiders": true
             }

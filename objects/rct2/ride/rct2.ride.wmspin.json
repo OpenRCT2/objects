@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.wmspin",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C80|WMSPIN  |0E117B71",
     "sourceGame": "rct2",
@@ -8,20 +11,32 @@
     "properties": {
         "type": "spinning_wild_mouse",
         "category": "rollercoaster",
-          "ratingMultipler": {
+        "ratingMultipler": {
             "excitement": 7,
             "intensity": 5,
             "nausea": 43
         },
         "carColours": [
             [
-                ["bright_green", "yellow", "bordeaux_red"]
+                [
+                    "bright_green",
+                    "yellow",
+                    "bordeaux_red"
+                ]
             ],
             [
-                ["bright_red", "yellow", "dark_purple"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "dark_purple"
+                ]
             ],
             [
-                ["yellow", "light_blue", "saturated_brown"]
+                [
+                    "yellow",
+                    "light_blue",
+                    "saturated_brown"
+                ]
             ]
         ],
         "cars": {
@@ -44,11 +59,18 @@
             "hasAdditionalColour1": true,
             "hasSpinning": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [2, -2, 2, -2]
+            "loadingPositions": [
+                2,
+                -2,
+                2,
+                -2
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/WMSPIN.DAT[0..4610]"],
+    "images": [
+        "$RCT2:OBJDATA/WMSPIN.DAT[0..4610]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Spinning Mouse Cars",

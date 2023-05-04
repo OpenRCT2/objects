@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_large.smh1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C82|SMH1    |AA8A466F",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_large",
     "properties": {
         "price": 100,
@@ -40,7 +46,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SMH1.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/SMH1.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Mine Hut",

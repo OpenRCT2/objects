@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.alnstr08",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FB22|ALNSTR08|A48C5D92",
     "sourceGame": "rct2tt",
@@ -41,7 +43,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/ALNSTR08.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/ALNSTR08.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Alien Structure Large",

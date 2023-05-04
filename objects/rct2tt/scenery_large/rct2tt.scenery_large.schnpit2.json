@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.schnpit2",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA22|SCHNPIT2|36F108B5",
     "sourceGame": "rct2tt",
@@ -109,7 +111,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SCHNPIT2.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/SCHNPIT2.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Seaplane Pits",

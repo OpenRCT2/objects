@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.swans",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|SWANS   |EF4071FD",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "boat_hire",
@@ -17,7 +23,11 @@
         },
         "carColours": [
             [
-                ["white", "white", "black"]
+                [
+                    "white",
+                    "white",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -37,11 +47,18 @@
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
             "hasRiderAnimation": true,
-            "loadingPositions": [6, 8, -4, -2]
+            "loadingPositions": [
+                6,
+                8,
+                -4,
+                -2
+            ]
         },
         "buildMenuPriority": 3
     },
-    "images": ["$RCT2:OBJDATA/SWANS.DAT[0..66]"],
+    "images": [
+        "$RCT2:OBJDATA/SWANS.DAT[0..66]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Swans",

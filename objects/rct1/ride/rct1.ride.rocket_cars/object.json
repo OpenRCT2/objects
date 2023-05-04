@@ -1,6 +1,9 @@
 {
     "id": "rct1.ride.rocket_cars",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1ROC|00000000",
     "sourceGame": "rct1",
@@ -16,13 +19,25 @@
         },
         "carColours": [
             [
-                ["grey", "bright_red", "black"]
+                [
+                    "grey",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["grey", "yellow", "black"]
+                [
+                    "grey",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -34,23 +49,28 @@
             "frictionSoundId": 2,
             "soundRange": 2,
             "drawOrder": 5,
-            "spriteGroups":{
-                "slopeFlat":16,
-                "slopes12":4,
-                "slopes25":16,
-                "slopes42":8,
-                "slopes60":4,
-                "slopes8":4,
-                "slopes16":4,
-                "slopes50":4,
-                "flatBanked22":8,
-                "flatBanked45":16,
-                "slopes12Banked22":4,
-                "slopes8Banked22":4
+            "spriteGroups": {
+                "slopeFlat": 16,
+                "slopes12": 4,
+                "slopes25": 16,
+                "slopes42": 8,
+                "slopes60": 4,
+                "slopes8": 4,
+                "slopes16": 4,
+                "slopes50": 4,
+                "flatBanked22": 8,
+                "flatBanked45": 16,
+                "slopes12Banked22": 4,
+                "slopes8Banked22": 4
             },
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [4, -4, 4, -4]
+            "loadingPositions": [
+                4,
+                -4,
+                4,
+                -4
+            ]
         },
         "buildMenuPriority": 2
     },
@@ -59,7 +79,6 @@
         "",
         "",
         "$CSG[30693..30708]",
-    
         "$CSG[30709]",
         "$CSG[30717]",
         "$CSG[30725]",
@@ -84,7 +103,6 @@
         "$CSG[30759..30761]",
         "$CSG[30738]",
         "$CSG[30762..30764]",
-    
         "$CSG[30711]",
         "$CSG[30773]",
         "$CSG[30719]",
@@ -109,14 +127,12 @@
         "$CSG[30724]",
         "$CSG[30732]",
         "$CSG[30740]",
-    
         "$CSG[30765..30768]",
         "$CSG[30781..30784]",
         "$CSG[30769..30772]",
         "$CSG[30785..30788]",
         "$CSG[30777..30780]",
         "$CSG[30793..30796]",
-    
         "$CSG[30829]",
         "$CSG[30869]",
         "$CSG[30830]",
@@ -133,15 +149,10 @@
         "$CSG[30875]",
         "$CSG[30836]",
         "$CSG[30876]",
-
         "$CSG[30797..30828]",
-    
         "$CSG[30837..30852]",
-
         "$CSG[30853..30868]",
-
         "$CSG[30877..30892]",
-    
         "$CSG[30893]",
         "$CSG[30901]",
         "$CSG[30909]",
@@ -166,7 +177,6 @@
         "$CSG[30943..30945]",
         "$CSG[30922]",
         "$CSG[30946..30948]",
-    
         "$CSG[30895]",
         "$CSG[30957]",
         "$CSG[30903]",
@@ -191,14 +201,12 @@
         "$CSG[30908]",
         "$CSG[30916]",
         "$CSG[30924]",
-    
         "$CSG[30949..30952]",
         "$CSG[30965..30968]",
         "$CSG[30953..30956]",
         "$CSG[30969..30972]",
         "$CSG[30961..30964]",
         "$CSG[30977..30980]",
-    
         "$CSG[31013]",
         "$CSG[31053]",
         "$CSG[31014]",
@@ -215,12 +223,9 @@
         "$CSG[31059]",
         "$CSG[31020]",
         "$CSG[31060]",
-
         "$CSG[30981..31012]",
-    
         "$CSG[31021..31036]",
-
-        "$CSG[31037..31052]"    
+        "$CSG[31037..31052]"
     ],
     "noCsgImages": [
         { "path": "images/preview.png", "format": "raw" },
@@ -242,9 +247,7 @@
         "$RCT2:OBJDATA/RCKC.DAT[29]",
         "$RCT2:OBJDATA/RCKC.DAT[31]",
         "$RCT2:OBJDATA/RCKC.DAT[33]",
-
         "$RCT2:OBJDATA/RCKC.DAT[35..42]",
-
         "$RCT2:OBJDATA/RCKC.DAT[43]",
         "$RCT2:OBJDATA/RCKC.DAT[45]",
         "$RCT2:OBJDATA/RCKC.DAT[47]",
@@ -261,7 +264,6 @@
         "$RCT2:OBJDATA/RCKC.DAT[69]",
         "$RCT2:OBJDATA/RCKC.DAT[71]",
         "$RCT2:OBJDATA/RCKC.DAT[73]",
-
         "$RCT2:OBJDATA/RCKC.DAT[75]",
         "$RCT2:OBJDATA/RCKC.DAT[77]",
         "$RCT2:OBJDATA/RCKC.DAT[79]",
@@ -278,9 +280,7 @@
         "$RCT2:OBJDATA/RCKC.DAT[101]",
         "$RCT2:OBJDATA/RCKC.DAT[103]",
         "$RCT2:OBJDATA/RCKC.DAT[105]",
-
         "$RCT2:OBJDATA/RCKC.DAT[107..122]",
-
         "$RCT2:OBJDATA/RCKC.DAT[123]",
         "$RCT2:OBJDATA/RCKC.DAT[131]",
         "$RCT2:OBJDATA/RCKC.DAT[139]",
@@ -289,9 +289,7 @@
         "$RCT2:OBJDATA/RCKC.DAT[163]",
         "$RCT2:OBJDATA/RCKC.DAT[171]",
         "$RCT2:OBJDATA/RCKC.DAT[179]",
-
         "$RCT2:OBJDATA/RCKC.DAT[187..226]",
-
         "$RCT2:OBJDATA/RCKC.DAT[227]",
         "$RCT2:OBJDATA/RCKC.DAT[229]",
         "$RCT2:OBJDATA/RCKC.DAT[231]",
@@ -308,7 +306,6 @@
         "$RCT2:OBJDATA/RCKC.DAT[253]",
         "$RCT2:OBJDATA/RCKC.DAT[255]",
         "$RCT2:OBJDATA/RCKC.DAT[257]",
-
         "$RCT2:OBJDATA/RCKC.DAT[259]",
         "$RCT2:OBJDATA/RCKC.DAT[261]",
         "$RCT2:OBJDATA/RCKC.DAT[263]",
@@ -325,7 +322,6 @@
         "$RCT2:OBJDATA/RCKC.DAT[285]",
         "$RCT2:OBJDATA/RCKC.DAT[287]",
         "$RCT2:OBJDATA/RCKC.DAT[289]",
-
         "$RCT2:OBJDATA/RCKC.DAT[291]",
         "$RCT2:OBJDATA/RCKC.DAT[299]",
         "$RCT2:OBJDATA/RCKC.DAT[307]",
@@ -334,7 +330,6 @@
         "$RCT2:OBJDATA/RCKC.DAT[331]",
         "$RCT2:OBJDATA/RCKC.DAT[339]",
         "$RCT2:OBJDATA/RCKC.DAT[347]",
-
         "$RCT2:OBJDATA/RCKC.DAT[355]",
         "$RCT2:OBJDATA/RCKC.DAT[363]",
         "$RCT2:OBJDATA/RCKC.DAT[371]",
@@ -343,9 +338,7 @@
         "$RCT2:OBJDATA/RCKC.DAT[395]",
         "$RCT2:OBJDATA/RCKC.DAT[403]",
         "$RCT2:OBJDATA/RCKC.DAT[411]",
-
         "$RCT2:OBJDATA/RCKC.DAT[419..434]",
-
         "$RCT2:OBJDATA/RCKC.DAT[595]",
         "$RCT2:OBJDATA/RCKC.DAT[597]",
         "$RCT2:OBJDATA/RCKC.DAT[599]",
@@ -362,9 +355,7 @@
         "$RCT2:OBJDATA/RCKC.DAT[621]",
         "$RCT2:OBJDATA/RCKC.DAT[623]",
         "$RCT2:OBJDATA/RCKC.DAT[625]",
-
         "$RCT2:OBJDATA/RCKC.DAT[627..634]",
-
         "$RCT2:OBJDATA/RCKC.DAT[635]",
         "$RCT2:OBJDATA/RCKC.DAT[637]",
         "$RCT2:OBJDATA/RCKC.DAT[639]",
@@ -381,7 +372,6 @@
         "$RCT2:OBJDATA/RCKC.DAT[661]",
         "$RCT2:OBJDATA/RCKC.DAT[663]",
         "$RCT2:OBJDATA/RCKC.DAT[665]",
-
         "$RCT2:OBJDATA/RCKC.DAT[667]",
         "$RCT2:OBJDATA/RCKC.DAT[669]",
         "$RCT2:OBJDATA/RCKC.DAT[671]",
@@ -398,9 +388,7 @@
         "$RCT2:OBJDATA/RCKC.DAT[693]",
         "$RCT2:OBJDATA/RCKC.DAT[695]",
         "$RCT2:OBJDATA/RCKC.DAT[697]",
-
         "$RCT2:OBJDATA/RCKC.DAT[699..714]",
-
         "$RCT2:OBJDATA/RCKC.DAT[715]",
         "$RCT2:OBJDATA/RCKC.DAT[723]",
         "$RCT2:OBJDATA/RCKC.DAT[731]",
@@ -409,9 +397,7 @@
         "$RCT2:OBJDATA/RCKC.DAT[755]",
         "$RCT2:OBJDATA/RCKC.DAT[763]",
         "$RCT2:OBJDATA/RCKC.DAT[771]",
-
         "$RCT2:OBJDATA/RCKC.DAT[779..818]",
-
         "$RCT2:OBJDATA/RCKC.DAT[819]",
         "$RCT2:OBJDATA/RCKC.DAT[821]",
         "$RCT2:OBJDATA/RCKC.DAT[823]",
@@ -428,7 +414,6 @@
         "$RCT2:OBJDATA/RCKC.DAT[845]",
         "$RCT2:OBJDATA/RCKC.DAT[847]",
         "$RCT2:OBJDATA/RCKC.DAT[849]",
-
         "$RCT2:OBJDATA/RCKC.DAT[851]",
         "$RCT2:OBJDATA/RCKC.DAT[853]",
         "$RCT2:OBJDATA/RCKC.DAT[855]",
@@ -445,7 +430,6 @@
         "$RCT2:OBJDATA/RCKC.DAT[877]",
         "$RCT2:OBJDATA/RCKC.DAT[879]",
         "$RCT2:OBJDATA/RCKC.DAT[881]",
-
         "$RCT2:OBJDATA/RCKC.DAT[883]",
         "$RCT2:OBJDATA/RCKC.DAT[891]",
         "$RCT2:OBJDATA/RCKC.DAT[899]",
@@ -454,7 +438,6 @@
         "$RCT2:OBJDATA/RCKC.DAT[923]",
         "$RCT2:OBJDATA/RCKC.DAT[931]",
         "$RCT2:OBJDATA/RCKC.DAT[939]",
-
         "$RCT2:OBJDATA/RCKC.DAT[947]",
         "$RCT2:OBJDATA/RCKC.DAT[955]",
         "$RCT2:OBJDATA/RCKC.DAT[963]",
@@ -463,7 +446,6 @@
         "$RCT2:OBJDATA/RCKC.DAT[987]",
         "$RCT2:OBJDATA/RCKC.DAT[995]",
         "$RCT2:OBJDATA/RCKC.DAT[1003]",
-
         "$RCT2:OBJDATA/RCKC.DAT[1011..1026]"
     ],
     "strings": {

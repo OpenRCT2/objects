@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_group.scgjurra",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F627|SCGJURRA|623CD5AE",
     "sourceGame": "rct2tt",
@@ -87,7 +89,9 @@
         ],
         "priority": 25
     },
-    "images": ["$RCT2:OBJDATA/SCGJURRA.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGJURRA.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Prehistoric Theming",

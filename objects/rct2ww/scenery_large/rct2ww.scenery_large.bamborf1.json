@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.bamborf1",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0012|BamboRf1|A6C46AA0",
     "sourceGame": "rct2ww",
@@ -36,7 +38,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/BAMBORF1.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/BAMBORF1.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Bamboo Roof Corner",

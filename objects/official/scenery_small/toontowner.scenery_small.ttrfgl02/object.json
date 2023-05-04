@@ -1,6 +1,9 @@
 {
     "id": "toontowner.scenery_small.ttrfgl02",
-    "authors": ["Simon Foster", "ToonTowner"],
+    "authors": [
+        "Simon Foster",
+        "ToonTowner"
+    ],
     "version": "1.0",
     "originalId": "09F55701|TTRFGL02|177B8601",
     "sourceGame": "official",
@@ -23,78 +26,14 @@
         "hasNoSupports": true
     },
     "images": [
-        {
-            "path": "images.png",
-            "srcX": 0,
-            "srcY": 0,
-            "srcWidth": 64,
-            "srcHeight": 48,
-            "x": -32,
-            "y": -18
-        },
-        {
-            "path": "images.png",
-            "srcX": 64,
-            "srcY": 0,
-            "srcWidth": 64,
-            "srcHeight": 33,
-            "x": -32,
-            "y": -3
-        },
-        {
-            "path": "images.png",
-            "srcX": 128,
-            "srcY": 0,
-            "srcWidth": 64,
-            "srcHeight": 18,
-            "x": -32,
-            "y": -3
-        },
-        {
-            "path": "images.png",
-            "srcX": 192,
-            "srcY": 0,
-            "srcWidth": 64,
-            "srcHeight": 33,
-            "x": -32,
-            "y": -3
-        },
-        {
-            "path": "images.png",
-            "srcX": 256,
-            "srcY": 0,
-            "srcWidth": 58,
-            "srcHeight": 41,
-            "x": -29,
-            "y": -14
-        },
-        {
-            "path": "images.png",
-            "srcX": 314,
-            "srcY": 0,
-            "srcWidth": 54,
-            "srcHeight": 29,
-            "x": -27,
-            "y": -1
-        },
-        {
-            "path": "images.png",
-            "srcX": 368,
-            "srcY": 0,
-            "srcWidth": 52,
-            "srcHeight": 13,
-            "x": -26,
-            "y": 0
-        },
-        {
-            "path": "images.png",
-            "srcX": 420,
-            "srcY": 0,
-            "srcWidth": 54,
-            "srcHeight": 29,
-            "x": -27,
-            "y": -1
-        }
+        { "path": "images.png", "srcX": 0, "srcY": 0, "srcWidth": 64, "srcHeight": 48, "x": -32, "y": -18 },
+        { "path": "images.png", "srcX": 64, "srcY": 0, "srcWidth": 64, "srcHeight": 33, "x": -32, "y": -3 },
+        { "path": "images.png", "srcX": 128, "srcY": 0, "srcWidth": 64, "srcHeight": 18, "x": -32, "y": -3 },
+        { "path": "images.png", "srcX": 192, "srcY": 0, "srcWidth": 64, "srcHeight": 33, "x": -32, "y": -3 },
+        { "path": "images.png", "srcX": 256, "srcY": 0, "srcWidth": 58, "srcHeight": 41, "x": -29, "y": -14 },
+        { "path": "images.png", "srcX": 314, "srcY": 0, "srcWidth": 54, "srcHeight": 29, "x": -27, "y": -1 },
+        { "path": "images.png", "srcX": 368, "srcY": 0, "srcWidth": 52, "srcHeight": 13, "x": -26, "y": 0 },
+        { "path": "images.png", "srcX": 420, "srcY": 0, "srcWidth": 54, "srcHeight": 29, "x": -27, "y": -1 }
     ],
     "strings": {
         "name": {

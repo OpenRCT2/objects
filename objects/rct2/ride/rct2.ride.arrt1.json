@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.arrt1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|ARRT1   |6EAF6062",
     "sourceGame": "rct2",
@@ -20,13 +23,25 @@
         },
         "carColours": [
             [
-                ["light_blue", "white", "yellow"]
+                [
+                    "light_blue",
+                    "white",
+                    "yellow"
+                ]
             ],
             [
-                ["bright_red", "yellow", "yellow"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "yellow"
+                ]
             ],
             [
-                ["white", "bordeaux_red", "bordeaux_red"]
+                [
+                    "white",
+                    "bordeaux_red",
+                    "bordeaux_red"
+                ]
             ]
         ],
         "cars": [
@@ -54,7 +69,12 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [5, 3, -7, -9]
+                "loadingPositions": [
+                    5,
+                    3,
+                    -7,
+                    -9
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -80,7 +100,12 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    -3,
+                    -1
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -104,7 +129,9 @@
         ],
         "buildMenuPriority": 2
     },
-    "images": ["$RCT2:OBJDATA/ARRT1.DAT[0..4470]"],
+    "images": [
+        "$RCT2:OBJDATA/ARRT1.DAT[0..4470]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Corkscrew Roller Coaster Trains",

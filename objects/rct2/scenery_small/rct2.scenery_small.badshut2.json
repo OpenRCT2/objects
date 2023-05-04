@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_small.badshut2",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C81|BADSHUT2|9E996CF4",
     "sourceGame": "rct2",
@@ -14,7 +17,9 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/BADSHUT2.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/BADSHUT2.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Shuttlecock",

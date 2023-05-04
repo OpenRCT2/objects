@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.bmvd",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|BMVD    |2652B6A8",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "vertical_drop_rc",
@@ -12,10 +18,18 @@
         "maxCarsPerTrain": 3,
         "carColours": [
             [
-                ["black", "light_orange", "light_orange"]
+                [
+                    "black",
+                    "light_orange",
+                    "light_orange"
+                ]
             ],
             [
-                ["light_purple", "bright_red", "black"]
+                [
+                    "light_purple",
+                    "bright_red",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -44,11 +58,20 @@
             "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [3, -3, 3, -3, 3, -3]
+            "loadingPositions": [
+                3,
+                -3,
+                3,
+                -3,
+                3,
+                -3
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/BMVD.DAT[0..2882]"],
+    "images": [
+        "$RCT2:OBJDATA/BMVD.DAT[0..2882]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Six-seater Twister Trains",

@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.seals",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0110|SEALS   |EC944C51",
     "sourceGame": "rct2ww",
@@ -20,13 +22,25 @@
         },
         "carColours": [
             [
-                ["light_blue", "white", "yellow"]
+                [
+                    "light_blue",
+                    "white",
+                    "yellow"
+                ]
             ],
             [
-                ["bright_red", "yellow", "yellow"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "yellow"
+                ]
             ],
             [
-                ["white", "bordeaux_red", "bordeaux_red"]
+                [
+                    "white",
+                    "bordeaux_red",
+                    "bordeaux_red"
+                ]
             ]
         ],
         "cars": [
@@ -53,7 +67,12 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [5, 3, -7, -9]
+                "loadingPositions": [
+                    5,
+                    3,
+                    -7,
+                    -9
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -78,7 +97,12 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    -3,
+                    -1
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -101,7 +125,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SEALS.DAT[0..4470]"],
+    "images": [
+        "$RCT2:OBJDATA/SEALS.DAT[0..4470]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Seal Trains",

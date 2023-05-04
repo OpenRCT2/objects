@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.park_entrance.medientr",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F928|MEDIENTR|0C237B4D",
     "sourceGame": "rct2tt",
@@ -9,7 +11,9 @@
         "scrollingMode": 32,
         "textHeight": 80
     },
-    "images": ["$RCT2:OBJDATA/MEDIENTR.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/MEDIENTR.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Dark Age Entrance",

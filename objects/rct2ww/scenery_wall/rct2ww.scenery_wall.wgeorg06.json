@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_wall.wgeorg06",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0A13|WGEORG06|936757E9",
     "sourceGame": "rct2ww",
@@ -10,7 +12,9 @@
         "height": 2,
         "price": 50
     },
-    "images": ["$RCT2:OBJDATA/WGEORG06.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/WGEORG06.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Georgian Ground Floor Wall Piece 3",

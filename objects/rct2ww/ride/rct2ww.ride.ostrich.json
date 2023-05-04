@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.ostrich",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0310|OSTRICH |54A96483",
     "sourceGame": "rct2ww",
@@ -17,13 +19,25 @@
         "tailCars": 2,
         "carColours": [
             [
-                ["yellow", "bright_red", "black"]
+                [
+                    "yellow",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["bright_red", "white", "black"]
+                [
+                    "bright_red",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "yellow", "black"]
+                [
+                    "light_blue",
+                    "yellow",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -51,7 +65,12 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [6, 8, -4, -2]
+                "loadingPositions": [
+                    6,
+                    8,
+                    -4,
+                    -2
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -75,7 +94,12 @@
                     "restraintAnimation": true
                 },
                 "hasScreamingRiders": true,
-                "loadingPositions": [6, 8, -4, -2]
+                "loadingPositions": [
+                    6,
+                    8,
+                    -4,
+                    -2
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -98,7 +122,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/OSTRICH.DAT[0..4470]"],
+    "images": [
+        "$RCT2:OBJDATA/OSTRICH.DAT[0..4470]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Ostrich Trains",

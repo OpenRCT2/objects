@@ -1,9 +1,14 @@
 {
     "id": "rct2.music.candy",
-    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC32|00000000",
-    "sourceGame": ["rct2"],
+    "sourceGame": [
+        "rct2"
+    ],
     "objectType": "music",
     "properties": {
         "originalStyleId": 32,

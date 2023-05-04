@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.pmt1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|PMT1    |F8FD41B4",
     "sourceGame": "rct2",
@@ -14,13 +17,25 @@
         "headCars": 0,
         "carColours": [
             [
-                ["bright_red", "dark_brown", "saturated_brown"]
+                [
+                    "bright_red",
+                    "dark_brown",
+                    "saturated_brown"
+                ]
             ],
             [
-                ["dark_brown", "bordeaux_red", "yellow"]
+                [
+                    "dark_brown",
+                    "bordeaux_red",
+                    "yellow"
+                ]
             ],
             [
-                ["bordeaux_red", "black", "saturated_brown"]
+                [
+                    "bordeaux_red",
+                    "black",
+                    "saturated_brown"
+                ]
             ]
         ],
         "cars": [
@@ -49,7 +64,10 @@
                 "hasAdditionalColour1": true,
                 "isPowered": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [3, -1]
+                "loadingPositions": [
+                    3,
+                    -1
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -76,12 +94,19 @@
                 "hasAdditionalColour1": true,
                 "isPowered": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    -3,
+                    -1
+                ]
             }
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/PMT1.DAT[0..1822]"],
+    "images": [
+        "$RCT2:OBJDATA/PMT1.DAT[0..1822]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Powered Mine Trains",

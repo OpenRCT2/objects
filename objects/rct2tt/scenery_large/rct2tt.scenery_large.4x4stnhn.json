@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.4x4stnhn",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F722|4X4STNHN|F3D02DFF",
     "sourceGame": "rct2tt",
@@ -109,7 +111,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/4X4STNHN.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/4X4STNHN.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Stone Age Temple",

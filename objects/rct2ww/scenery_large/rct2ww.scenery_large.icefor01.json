@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.icefor01",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0212|ICEFOR01|D33A0DFD",
     "sourceGame": "rct2ww",
@@ -125,7 +127,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/ICEFOR01.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/ICEFOR01.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Ice Formation",

@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.killwhal",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0110|KILLWHAL|8617DD85",
     "sourceGame": "rct2ww",
@@ -15,10 +17,18 @@
         "noCollisionCrashes": true,
         "carColours": [
             [
-                ["yellow", "olive_green", "black"]
+                [
+                    "yellow",
+                    "olive_green",
+                    "black"
+                ]
             ],
             [
-                ["grey", "bordeaux_red", "black"]
+                [
+                    "grey",
+                    "bordeaux_red",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -39,10 +49,18 @@
             "overrideNumberOfVerticalFrames": true,
             "hasAdditionalColour1": true,
             "isPowered": true,
-            "loadingPositions": [-7, -7, -7, -7, -7]
+            "loadingPositions": [
+                -7,
+                -7,
+                -7,
+                -7,
+                -7
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/KILLWHAL.DAT[0..90]"],
+    "images": [
+        "$RCT2:OBJDATA/KILLWHAL.DAT[0..90]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Killer Whale Submarines",

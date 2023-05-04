@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.dolphinr",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0E10|DOLPHINR|54291652",
     "sourceGame": "rct2ww",
@@ -18,13 +20,25 @@
         },
         "carColours": [
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["white", "bright_red", "black"]
+                [
+                    "white",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["black", "bright_pink", "black"]
+                [
+                    "black",
+                    "bright_pink",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -42,10 +56,14 @@
             "hasAdditionalColour1": true,
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
-            "loadingPositions": [0]
+            "loadingPositions": [
+                0
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/DOLPHINR.DAT[0..66]"],
+    "images": [
+        "$RCT2:OBJDATA/DOLPHINR.DAT[0..66]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Dolphin Boats",

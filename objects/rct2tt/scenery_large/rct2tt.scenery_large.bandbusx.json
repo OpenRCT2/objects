@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.bandbusx",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA22|BANDBUSX|CF78C803",
     "sourceGame": "rct2tt",
@@ -76,7 +78,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/BANDBUSX.DAT[0..39]"],
+    "images": [
+        "$RCT2:OBJDATA/BANDBUSX.DAT[0..39]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Rock Band Tour Bus",

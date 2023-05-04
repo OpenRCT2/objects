@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_group.scgeurop",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0217|SCGEUROP|74BB3257",
     "sourceGame": "rct2ww",
@@ -133,7 +135,9 @@
         ],
         "priority": 25
     },
-    "images": ["$RCT2:OBJDATA/SCGEUROP.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGEUROP.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Europe Theming",

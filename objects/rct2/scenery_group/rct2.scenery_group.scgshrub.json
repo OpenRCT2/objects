@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_group.scgshrub",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F87|SCGSHRUB|B460E84D",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_group",
     "properties": {
         "entries": [
@@ -47,7 +53,9 @@
         ],
         "priority": 2
     },
-    "images": ["$RCT2:OBJDATA/SCGSHRUB.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGSHRUB.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Shrubs and Ornaments",

@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_group.scgindus",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F87|SCGINDUS|AF56998E",
     "sourceGame": "rct2",
@@ -32,7 +35,9 @@
         ],
         "priority": 35
     },
-    "images": ["$RCT2:OBJDATA/SCGINDUS.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGINDUS.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Mechanical Theming",

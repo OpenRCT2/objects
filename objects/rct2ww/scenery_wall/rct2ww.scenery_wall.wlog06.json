@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_wall.wlog06",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0613|WLOG06  |55AC7F39",
     "sourceGame": "rct2ww",
@@ -10,7 +12,9 @@
         "height": 1,
         "price": 50
     },
-    "images": ["$RCT2:OBJDATA/WLOG06.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/WLOG06.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Log Cabin Wall Piece",

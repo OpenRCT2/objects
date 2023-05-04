@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_small.brbase3",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C81|BRBASE3 |232D98EF",
     "sourceGame": "rct2",
@@ -20,7 +23,9 @@
         "hasNoSupports": true,
         "allowSupportsAbove": true
     },
-    "images": ["$RCT2:OBJDATA/BRBASE3.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/BRBASE3.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Base Block",

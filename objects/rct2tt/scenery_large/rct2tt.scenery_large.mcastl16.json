@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.mcastl16",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F822|MCASTL16|84A1BBF7",
     "sourceGame": "rct2tt",
@@ -68,7 +70,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/MCASTL16.DAT[0..39]"],
+    "images": [
+        "$RCT2:OBJDATA/MCASTL16.DAT[0..39]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Castle Tower Straight Piece",

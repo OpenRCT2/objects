@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.rhinorid",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0310|RHINORID|CCE62FC6",
     "sourceGame": "rct2ww",
@@ -11,13 +13,25 @@
         "maxCarsPerTrain": 4,
         "carColours": [
             [
-                ["black", "yellow", "bordeaux_red"]
+                [
+                    "black",
+                    "yellow",
+                    "bordeaux_red"
+                ]
             ],
             [
-                ["saturated_red", "bright_red", "black"]
+                [
+                    "saturated_red",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["grey", "white", "yellow"]
+                [
+                    "grey",
+                    "white",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -45,10 +59,19 @@
             "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [8, 6, -8, -6, 1, -1]
+            "loadingPositions": [
+                8,
+                6,
+                -8,
+                -6,
+                1,
+                -1
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/RHINORID.DAT[0..2498]"],
+    "images": [
+        "$RCT2:OBJDATA/RHINORID.DAT[0..2498]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Rhino Trains",

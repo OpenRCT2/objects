@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_wall.wcorr06",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0313|WCORR06 |BA4C7F6B",
     "sourceGame": "rct2ww",
@@ -10,7 +12,9 @@
         "height": 4,
         "price": 50
     },
-    "images": ["$RCT2:OBJDATA/WCORR06.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/WCORR06.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Corrugated Wall Piece",

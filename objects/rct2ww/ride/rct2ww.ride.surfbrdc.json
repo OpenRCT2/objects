@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.surfbrdc",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0810|SURFBRDC|D0447CB8",
     "sourceGame": "rct2ww",
@@ -22,13 +24,25 @@
         "maxHeight": 40,
         "carColours": [
             [
-                ["yellow", "black", "bright_red"]
+                [
+                    "yellow",
+                    "black",
+                    "bright_red"
+                ]
             ],
             [
-                ["light_purple", "bordeaux_red", "yellow"]
+                [
+                    "light_purple",
+                    "bordeaux_red",
+                    "yellow"
+                ]
             ],
             [
-                ["light_blue", "black", "teal"]
+                [
+                    "light_blue",
+                    "black",
+                    "teal"
+                ]
             ]
         ],
         "cars": [
@@ -60,7 +74,12 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [-2, -4, -2, -4]
+                "loadingPositions": [
+                    -2,
+                    -4,
+                    -2,
+                    -4
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -71,7 +90,7 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
@@ -79,7 +98,10 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SURFBRDC.DAT[0..2522]", ""],
+    "images": [
+        "$RCT2:OBJDATA/SURFBRDC.DAT[0..2522]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Surfing Trains",

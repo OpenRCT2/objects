@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.hmcar",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|HMCAR   |A151BA28",
     "sourceGame": "rct2",
@@ -17,13 +20,25 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["bright_red", "dark_brown", "black"]
+                [
+                    "bright_red",
+                    "dark_brown",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "bordeaux_red", "black"]
+                [
+                    "yellow",
+                    "bordeaux_red",
+                    "black"
+                ]
             ],
             [
-                ["bright_purple", "bordeaux_red", "black"]
+                [
+                    "bright_purple",
+                    "bordeaux_red",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -47,7 +62,10 @@
                 "hasAdditionalColour1": true,
                 "isPowered": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [3, -3]
+                "loadingPositions": [
+                    3,
+                    -3
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -57,7 +75,7 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "isPoweredRideWithUnrestrictedGravity": true,
                 "hasNoUpstopWheels": true,
@@ -68,7 +86,10 @@
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/HMCAR.DAT[0..210]", ""],
+    "images": [
+        "$RCT2:OBJDATA/HMCAR.DAT[0..210]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Haunted Mansion Cars",

@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.gtc",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|GTC     |9F6FE3B5",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "ghost_train",
@@ -17,13 +23,25 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["yellow", "bright_pink", "dark_green"]
+                [
+                    "yellow",
+                    "bright_pink",
+                    "dark_green"
+                ]
             ],
             [
-                ["bright_red", "light_purple", "black"]
+                [
+                    "bright_red",
+                    "light_purple",
+                    "black"
+                ]
             ],
             [
-                ["aquamarine", "light_blue", "bordeaux_red"]
+                [
+                    "aquamarine",
+                    "light_blue",
+                    "bordeaux_red"
+                ]
             ]
         ],
         "cars": [
@@ -48,7 +66,10 @@
                 "hasAdditionalColour1": true,
                 "isPowered": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [3, -3]
+                "loadingPositions": [
+                    3,
+                    -3
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -58,7 +79,7 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "isPoweredRideWithUnrestrictedGravity": true,
                 "hasNoUpstopWheels": true,
@@ -69,7 +90,10 @@
         ],
         "buildMenuPriority": 2
     },
-    "images": ["$RCT2:OBJDATA/GTC.DAT[0..210]", ""],
+    "images": [
+        "$RCT2:OBJDATA/GTC.DAT[0..210]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Ghost Train Cars",

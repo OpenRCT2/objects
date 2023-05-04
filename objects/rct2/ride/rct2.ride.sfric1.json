@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.sfric1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|SFRIC1  |9880CB23",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "side_friction_rc",
@@ -11,16 +17,32 @@
         "maxCarsPerTrain": 3,
         "carColours": [
             [
-                ["bright_red", "light_brown", "black"]
+                [
+                    "bright_red",
+                    "light_brown",
+                    "black"
+                ]
             ],
             [
-                ["dark_green", "bordeaux_red", "black"]
+                [
+                    "dark_green",
+                    "bordeaux_red",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "saturated_brown", "black"]
+                [
+                    "yellow",
+                    "saturated_brown",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "grey", "black"]
+                [
+                    "light_blue",
+                    "grey",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -41,11 +63,18 @@
             "hasNoUpstopWheelsBobsleigh": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [5, 3, -7, -9]
+            "loadingPositions": [
+                5,
+                3,
+                -7,
+                -9
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/SFRIC1.DAT[0..626]"],
+    "images": [
+        "$RCT2:OBJDATA/SFRIC1.DAT[0..626]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Wooden Side-Friction Cars",

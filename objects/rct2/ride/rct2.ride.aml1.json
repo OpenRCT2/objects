@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.aml1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|AML1    |4FA82E87",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "miniature_railway",
@@ -22,13 +28,25 @@
         ],
         "carColours": [
             [
-                ["bright_red", "dark_brown", "yellow"]
+                [
+                    "bright_red",
+                    "dark_brown",
+                    "yellow"
+                ]
             ],
             [
-                ["olive_green", "grey", "yellow"]
+                [
+                    "olive_green",
+                    "grey",
+                    "yellow"
+                ]
             ],
             [
-                ["dark_purple", "bordeaux_red", "yellow"]
+                [
+                    "dark_purple",
+                    "bordeaux_red",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -82,12 +100,21 @@
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [10, 8, 1, -1, -8, -10]
+                "loadingPositions": [
+                    10,
+                    8,
+                    1,
+                    -1,
+                    -8,
+                    -10
+                ]
             }
         ],
         "buildMenuPriority": 2
     },
-    "images": ["$RCT2:OBJDATA/AML1.DAT[0..1154]"],
+    "images": [
+        "$RCT2:OBJDATA/AML1.DAT[0..1154]"
+    ],
     "strings": {
         "name": {
             "en-GB": "American Style Steam Trains",

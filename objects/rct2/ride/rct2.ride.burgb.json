@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.burgb",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|BURGB   |2BBB59E4",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "food_stall",
@@ -14,11 +20,17 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["black", "black", "black"]
+                [
+                    "black",
+                    "black",
+                    "black"
+                ]
             ]
         ]
     },
-    "images": ["$RCT2:OBJDATA/BURGB.DAT[0..6]"],
+    "images": [
+        "$RCT2:OBJDATA/BURGB.DAT[0..6]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Burger Bar",

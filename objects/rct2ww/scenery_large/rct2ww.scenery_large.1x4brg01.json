@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.1x4brg01",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0812|1X4BRG01|4DB28937",
     "sourceGame": "rct2ww",
@@ -40,7 +42,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/1X4BRG01.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/1X4BRG01.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Suspension Bridge Start side 1",

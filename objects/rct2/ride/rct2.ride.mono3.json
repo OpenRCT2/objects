@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.mono3",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|MONO3   |E6D0B3B8",
     "sourceGame": "rct2",
@@ -17,13 +20,25 @@
         "tailCars": 2,
         "carColours": [
             [
-                ["bordeaux_red", "white", "yellow"]
+                [
+                    "bordeaux_red",
+                    "white",
+                    "yellow"
+                ]
             ],
             [
-                ["moss_green", "yellow", "dark_brown"]
+                [
+                    "moss_green",
+                    "yellow",
+                    "dark_brown"
+                ]
             ],
             [
-                ["white", "teal", "yellow"]
+                [
+                    "white",
+                    "teal",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -45,7 +60,12 @@
                 },
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
-                "loadingPositions": [3, -3, 3, -3]
+                "loadingPositions": [
+                    3,
+                    -3,
+                    3,
+                    -3
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -66,7 +86,12 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [3, -3, 3, -3]
+                "loadingPositions": [
+                    3,
+                    -3,
+                    3,
+                    -3
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -86,12 +111,19 @@
                 },
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
-                "loadingPositions": [3, -3, 3, -3]
+                "loadingPositions": [
+                    3,
+                    -3,
+                    3,
+                    -3
+                ]
             }
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/MONO3.DAT[0..1154]"],
+    "images": [
+        "$RCT2:OBJDATA/MONO3.DAT[0..1154]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Retro-style Monorail Trains",

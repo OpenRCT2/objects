@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_small.beanst2",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C81|BEANST2 |037FD401",
     "sourceGame": "rct2",
@@ -13,7 +16,9 @@
         "shape": "4/4",
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/BEANST2.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/BEANST2.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Giant Beanstalk",

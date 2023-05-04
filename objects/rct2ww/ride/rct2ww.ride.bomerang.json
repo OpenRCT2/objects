@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.bomerang",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0E10|BOMERANG|AD9AB191",
     "sourceGame": "rct2ww",
@@ -16,13 +18,25 @@
         "headCars": 1,
         "carColours": [
             [
-                ["bright_red", "bright_yellow", "black"]
+                [
+                    "bright_red",
+                    "bright_yellow",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "bright_red", "black"]
+                [
+                    "light_blue",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "bright_red", "black"]
+                [
+                    "yellow",
+                    "bright_red",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -46,7 +60,10 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [3, -3]
+                "loadingPositions": [
+                    3,
+                    -3
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -68,7 +85,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/BOMERANG.DAT[0..1166]"],
+    "images": [
+        "$RCT2:OBJDATA/BOMERANG.DAT[0..1166]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Boomerang Trains",

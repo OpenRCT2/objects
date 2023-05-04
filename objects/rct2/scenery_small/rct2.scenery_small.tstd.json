@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.tstd",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F81|TSTD    |045F3DF2",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 21,
@@ -16,7 +22,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/TSTD.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TSTD.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Dolphins Statue",

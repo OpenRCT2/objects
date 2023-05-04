@@ -1,13 +1,18 @@
 {
     "id": "openrct2.terrain_surface.void",
-    "authors": ["OpenRCT2 developers"],
+    "authors": [
+        "OpenRCT2 developers"
+    ],
     "version": "1.0",
     "originalId": "0000008B|#ORCT2TV|00000000",
     "sourceGame": "official",
     "objectType": "terrain_surface",
     "properties": {
         "price": 100,
-        "mapColours": [10, 10]
+        "mapColours": [
+            10,
+            10
+        ]
     },
     "images": [
         { "path": "images/icon.png", "format": "raw", "x": 2, "y": 2 },

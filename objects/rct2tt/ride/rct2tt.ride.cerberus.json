@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.cerberus",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F820|CERBERUS|7CE9E834",
     "sourceGame": "rct2tt",
@@ -20,16 +22,32 @@
         },
         "carColours": [
             [
-                ["dark_green", "bordeaux_red", "yellow"]
+                [
+                    "dark_green",
+                    "bordeaux_red",
+                    "yellow"
+                ]
             ],
             [
-                ["light_purple", "black", "grey"]
+                [
+                    "light_purple",
+                    "black",
+                    "grey"
+                ]
             ],
             [
-                ["light_orange", "bordeaux_red", "dark_yellow"]
+                [
+                    "light_orange",
+                    "bordeaux_red",
+                    "dark_yellow"
+                ]
             ],
             [
-                ["bright_red", "light_brown", "black"]
+                [
+                    "bright_red",
+                    "light_brown",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -59,7 +77,12 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [-2, -4, -2, -4]
+                "loadingPositions": [
+                    -2,
+                    -4,
+                    -2,
+                    -4
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -87,7 +110,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/CERBERUS.DAT[0..2870]"],
+    "images": [
+        "$RCT2:OBJDATA/CERBERUS.DAT[0..2870]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Cerberus Trains",

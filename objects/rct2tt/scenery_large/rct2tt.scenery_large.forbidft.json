@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.forbidft",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F822|FORBIDFT|45B441C9",
     "sourceGame": "rct2tt",
@@ -43,7 +45,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/FORBIDFT.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/FORBIDFT.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Forbidden Fruit Tree",

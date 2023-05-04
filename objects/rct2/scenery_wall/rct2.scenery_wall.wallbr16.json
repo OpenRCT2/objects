@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_wall.wallbr16",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F83|WALLBR16|032D2B9E",
     "sourceGame": "rct2",
@@ -10,7 +13,9 @@
         "height": 2,
         "price": 50
     },
-    "images": ["$RCT2:OBJDATA/WALLBR16.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/WALLBR16.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Wall",

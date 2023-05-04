@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.minecart",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0210|MINECART|CC5270CE",
     "sourceGame": "rct2ww",
@@ -12,13 +14,25 @@
         "maxCarsPerTrain": 7,
         "carColours": [
             [
-                ["yellow", "black", "light_orange"]
+                [
+                    "yellow",
+                    "black",
+                    "light_orange"
+                ]
             ],
             [
-                ["bright_red", "saturated_brown", "yellow"]
+                [
+                    "bright_red",
+                    "saturated_brown",
+                    "yellow"
+                ]
             ],
             [
-                ["bright_green", "grey", "bright_red"]
+                [
+                    "bright_green",
+                    "grey",
+                    "bright_red"
+                ]
             ]
         ],
         "cars": {
@@ -46,10 +60,17 @@
                 "restraintAnimation": true
             },
             "hasScreamingRiders": true,
-            "loadingPositions": [5, 3, -7, -9]
+            "loadingPositions": [
+                5,
+                3,
+                -7,
+                -9
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/MINECART.DAT[0..2162]"],
+    "images": [
+        "$RCT2:OBJDATA/MINECART.DAT[0..2162]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Mine Cart Trains",

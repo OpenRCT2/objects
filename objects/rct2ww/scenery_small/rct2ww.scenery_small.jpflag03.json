@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_small.jpflag03",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBCFD11|JPFLAG03|8C3FE72A",
     "sourceGame": "rct2ww",
@@ -19,9 +21,28 @@
         "isAnimated": true,
         "isStackable": true,
         "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
-        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+        "frameOffsets": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
     },
-    "images": ["$RCT2:OBJDATA/JSF3.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/JSF3.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Japanese Silk Flag",

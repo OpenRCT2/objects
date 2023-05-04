@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.geisha",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0012|GEISHA  |07D94B3F",
     "sourceGame": "rct2ww",
@@ -76,7 +78,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/GEISHA.DAT[0..39]"],
+    "images": [
+        "$RCT2:OBJDATA/GEISHA.DAT[0..39]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Geisha",

@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.cratr4x4",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F722|CRATR4X4|A9A36342",
     "sourceGame": "rct2tt",
@@ -109,7 +111,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/CRATR4X4.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/CRATR4X4.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Large Meteor Crater",

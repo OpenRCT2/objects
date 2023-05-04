@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.zeplelin",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F920|ZEPLELIN|DBCFDAE2",
     "sourceGame": "rct2tt",
@@ -14,13 +16,25 @@
         "maxCarsPerTrain": 4,
         "carColours": [
             [
-                ["white", "bright_red", "black"]
+                [
+                    "white",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "white", "black"]
+                [
+                    "yellow",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["bordeaux_red", "light_brown", "black"]
+                [
+                    "bordeaux_red",
+                    "light_brown",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -42,10 +56,21 @@
             },
             "hasAdditionalColour1": true,
             "isPowered": true,
-            "loadingPositions": [-15, -12, 15, 12, -15, -12, 15, 12]
+            "loadingPositions": [
+                -15,
+                -12,
+                15,
+                12,
+                -15,
+                -12,
+                15,
+                12
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/ZEPLELIN.DAT[0..702]"],
+    "images": [
+        "$RCT2:OBJDATA/ZEPLELIN.DAT[0..702]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Airship Themed Monorail Trains",

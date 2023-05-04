@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.schnpl06",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA21|SCHNPL06|AF6CFC22",
     "sourceGame": "rct2tt",
@@ -19,7 +21,9 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/SCHNPL06.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/SCHNPL06.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Sea Plane",

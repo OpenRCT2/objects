@@ -1,12 +1,19 @@
 {
     "id": "rct2.ride.rckc",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.1",
     "originalId": "0A188B80|RCKC    |546E3576",
-    "sourceGame": ["rct2"],
+    "sourceGame": [
+        "rct2"
+    ],
     "objectType": "ride",
     "properties": {
-        "type": ["mini_rc"],
+        "type": [
+            "mini_rc"
+        ],
         "category": "rollercoaster",
         "minCarsPerTrain": 1,
         "maxCarsPerTrain": 1,
@@ -15,13 +22,25 @@
         },
         "carColours": [
             [
-                ["grey", "bright_red", "bordeaux_red"]
+                [
+                    "grey",
+                    "bright_red",
+                    "bordeaux_red"
+                ]
             ],
             [
-                ["grey", "yellow", "saturated_brown"]
+                [
+                    "grey",
+                    "yellow",
+                    "saturated_brown"
+                ]
             ],
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -48,7 +67,12 @@
             "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [4, -4, 4, -4]
+            "loadingPositions": [
+                4,
+                -4,
+                4,
+                -4
+            ]
         },
         "buildMenuPriority": 2
     },

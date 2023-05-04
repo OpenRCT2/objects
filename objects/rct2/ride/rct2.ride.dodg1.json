@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.dodg1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|DODG1   |202805C0",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "dodgems",
@@ -11,16 +17,32 @@
         "carsPerFlatRide": 12,
         "carColours": [
             [
-                ["bright_red", "white", "black"]
+                [
+                    "bright_red",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "white", "black"]
+                [
+                    "light_blue",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "bright_red", "black"]
+                [
+                    "yellow",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["bright_purple", "yellow", "black"]
+                [
+                    "bright_purple",
+                    "yellow",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -41,10 +63,14 @@
             "useBoatHireCollisionDetection": true,
             "hasVehicleAnimation": true,
             "useDodgemCarPlacement": true,
-            "loadingPositions": [0]
+            "loadingPositions": [
+                0
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/DODG1.DAT[0..130]"],
+    "images": [
+        "$RCT2:OBJDATA/DODG1.DAT[0..130]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Dodgems",

@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_group.scgjuras",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F87|SCGJURAS|FEEFC769",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "scenery_group",
     "properties": {
         "entries": [
@@ -22,7 +28,9 @@
         ],
         "priority": 25
     },
-    "images": ["$RCT2:OBJDATA/SCGJURAS.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGJURAS.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Jurassic Theming",

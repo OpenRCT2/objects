@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_group.scgwond",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F87|SCGWOND |E20FD0F4",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_group",
     "properties": {
         "entries": [
@@ -37,7 +43,9 @@
         ],
         "priority": 34
     },
-    "images": ["$RCT2:OBJDATA/SCGWOND.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGWOND.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Wonderland Theming",

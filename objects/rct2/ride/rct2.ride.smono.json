@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.smono",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|SMONO   |31FC6615",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "suspended_monorail",
@@ -14,13 +20,25 @@
         "maxCarsPerTrain": 4,
         "carColours": [
             [
-                ["white", "bright_red", "black"]
+                [
+                    "white",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "white", "black"]
+                [
+                    "yellow",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["bordeaux_red", "light_brown", "black"]
+                [
+                    "bordeaux_red",
+                    "light_brown",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -42,11 +60,22 @@
             },
             "hasAdditionalColour1": true,
             "isPowered": true,
-            "loadingPositions": [-15, -12, 15, 12, -15, -12, 15, 12]
+            "loadingPositions": [
+                -15,
+                -12,
+                15,
+                12,
+                -15,
+                -12,
+                15,
+                12
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/SMONO.DAT[0..702]"],
+    "images": [
+        "$RCT2:OBJDATA/SMONO.DAT[0..702]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Suspended Monorail Trains",

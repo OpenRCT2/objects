@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.atomium",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0B12|ATOMIUM |6BB52A1D",
     "sourceGame": "rct2ww",
@@ -125,7 +127,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/ATOMIUM.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/ATOMIUM.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Atomium",

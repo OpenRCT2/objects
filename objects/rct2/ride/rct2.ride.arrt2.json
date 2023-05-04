@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.arrt2",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|ARRT2   |9A9CBE22",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "hypercoaster",
@@ -19,13 +25,25 @@
         "maxHeight": 45,
         "carColours": [
             [
-                ["white", "bright_red", "yellow"]
+                [
+                    "white",
+                    "bright_red",
+                    "yellow"
+                ]
             ],
             [
-                ["yellow", "white", "bordeaux_red"]
+                [
+                    "yellow",
+                    "white",
+                    "bordeaux_red"
+                ]
             ],
             [
-                ["bright_red", "saturated_red", "yellow"]
+                [
+                    "bright_red",
+                    "saturated_red",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -51,7 +69,14 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [5, 3, -1, -3, -7, -9]
+                "loadingPositions": [
+                    5,
+                    3,
+                    -1,
+                    -3,
+                    -7,
+                    -9
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -75,12 +100,21 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, 2, 4, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    2,
+                    4,
+                    -3,
+                    -1
+                ]
             }
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/ARRT2.DAT[0..3554]"],
+    "images": [
+        "$RCT2:OBJDATA/ARRT2.DAT[0..3554]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Hypercoaster Trains",

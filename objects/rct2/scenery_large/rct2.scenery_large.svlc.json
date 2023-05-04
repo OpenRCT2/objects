@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_large.svlc",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C82|SVLC    |238F1F22",
     "sourceGame": "rct2",
@@ -109,7 +112,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SVLC.DAT[0..51]"],
+    "images": [
+        "$RCT2:OBJDATA/SVLC.DAT[0..51]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Volcano",

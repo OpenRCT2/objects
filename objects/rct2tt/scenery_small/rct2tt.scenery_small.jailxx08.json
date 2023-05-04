@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.jailxx08",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA21|JAILXX08|85F1CF69",
     "sourceGame": "rct2tt",
@@ -19,7 +21,9 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/JAILXX08.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/JAILXX08.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Prison Inverted Piece",

@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.robncamp",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F922|ROBNCAMP|5F594CB3",
     "sourceGame": "rct2tt",
@@ -109,7 +111,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/ROBNCAMP.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/ROBNCAMP.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Robin Hood’s Camp",

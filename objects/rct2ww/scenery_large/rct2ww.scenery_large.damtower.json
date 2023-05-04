@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.damtower",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0512|DAMTOWER|096245A1",
     "sourceGame": "rct2ww",
@@ -40,7 +42,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/DAMTOWER.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/DAMTOWER.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Dam Tower",

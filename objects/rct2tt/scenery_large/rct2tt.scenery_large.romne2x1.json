@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.romne2x1",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F822|ROMNE2X1|F006C186",
     "sourceGame": "rct2tt",
@@ -28,7 +30,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/ROMNE2X1.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/ROMNE2X1.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Roman Palace End Piece",

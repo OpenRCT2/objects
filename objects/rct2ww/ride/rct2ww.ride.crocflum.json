@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.crocflum",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0E10|CROCFLUM|E73057F7",
     "sourceGame": "rct2ww",
@@ -13,7 +15,11 @@
         "noCollisionCrashes": true,
         "carColours": [
             [
-                ["dark_brown", "black", "black"]
+                [
+                    "dark_brown",
+                    "black",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -37,7 +43,12 @@
                 "isPowered": true,
                 "hasScreamingRiders": true,
                 "isWaterRide": true,
-                "loadingPositions": [6, 4, -7, -9]
+                "loadingPositions": [
+                    6,
+                    4,
+                    -7,
+                    -9
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -57,11 +68,18 @@
                 "isPowered": true,
                 "hasScreamingRiders": true,
                 "isWaterRide": true,
-                "loadingPositions": [6, 4, -7, -9]
+                "loadingPositions": [
+                    6,
+                    4,
+                    -7,
+                    -9
+                ]
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/CROCFLUM.DAT[0..626]"],
+    "images": [
+        "$RCT2:OBJDATA/CROCFLUM.DAT[0..626]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Crocodile Boats",

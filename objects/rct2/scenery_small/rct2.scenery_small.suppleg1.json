@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_small.suppleg1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188D81|SUPPLEG1|5D6607DF",
     "sourceGame": "rct2",
@@ -18,7 +21,9 @@
         "hasNoSupports": true,
         "SMALL_SCENERY_FLAG27": true
     },
-    "images": ["$RCT2:OBJDATA/SUPPLEG1.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/SUPPLEG1.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Pole",

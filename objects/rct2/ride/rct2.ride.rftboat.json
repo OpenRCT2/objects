@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.rftboat",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|RFTBOAT |9C39AB46",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "river_rafts",
@@ -15,13 +21,25 @@
         "noCollisionCrashes": true,
         "carColours": [
             [
-                ["light_brown", "white", "white"]
+                [
+                    "light_brown",
+                    "white",
+                    "white"
+                ]
             ],
             [
-                ["light_brown", "yellow", "bright_red"]
+                [
+                    "light_brown",
+                    "yellow",
+                    "bright_red"
+                ]
             ],
             [
-                ["light_brown", "dark_green", "dark_green"]
+                [
+                    "light_brown",
+                    "dark_green",
+                    "dark_green"
+                ]
             ]
         ],
         "cars": {
@@ -40,11 +58,18 @@
             "hasAdditionalColour1": true,
             "isPowered": true,
             "isWaterRide": true,
-            "loadingPositions": [6, 4, -6, -4]
+            "loadingPositions": [
+                6,
+                4,
+                -6,
+                -4
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/RFTBOAT.DAT[0..98]"],
+    "images": [
+        "$RCT2:OBJDATA/RFTBOAT.DAT[0..98]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Rafts",

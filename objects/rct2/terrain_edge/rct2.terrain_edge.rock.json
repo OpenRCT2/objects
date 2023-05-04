@@ -1,9 +1,15 @@
 {
     "id": "rct2.terrain_edge.rock",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0000008C|#RCT2ERO|00000000",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "terrain_edge",
     "properties": {
     },

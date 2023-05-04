@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.schntent",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA22|SCHNTENT|FB8EF05D",
     "sourceGame": "rct2tt",
@@ -110,7 +112,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SCHNTENT.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/SCHNTENT.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Marquee",

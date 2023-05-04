@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.oldnyk30",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F922|OLDNYK30|29E4A7B2",
     "sourceGame": "rct2tt",
@@ -70,7 +72,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/OLDNYK30.DAT[0..39]"],
+    "images": [
+        "$RCT2:OBJDATA/OLDNYK30.DAT[0..39]"
+    ],
     "strings": {
         "name": {
             "en-GB": "New York Wall Piece",

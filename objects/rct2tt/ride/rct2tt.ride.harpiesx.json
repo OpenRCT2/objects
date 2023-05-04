@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.harpiesx",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F820|HARPIESX|EB713E06",
     "sourceGame": "rct2tt",
@@ -13,13 +15,25 @@
         "maxCarsPerTrain": 6,
         "carColours": [
             [
-                ["dark_purple", "black", "bright_red"]
+                [
+                    "dark_purple",
+                    "black",
+                    "bright_red"
+                ]
             ],
             [
-                ["yellow", "dark_green", "black"]
+                [
+                    "yellow",
+                    "dark_green",
+                    "black"
+                ]
             ],
             [
-                ["bright_red", "light_blue", "black"]
+                [
+                    "bright_red",
+                    "light_blue",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -49,7 +63,12 @@
                 "spriteBoundsIncludeInvertedSet": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, -2, 2, -2]
+                "loadingPositions": [
+                    2,
+                    -2,
+                    2,
+                    -2
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -76,11 +95,18 @@
                 "hasInvertedSpriteSet": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, -2, 2, -2]
+                "loadingPositions": [
+                    2,
+                    -2,
+                    2,
+                    -2
+                ]
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/HARPIESX.DAT[0..4082]"],
+    "images": [
+        "$RCT2:OBJDATA/HARPIESX.DAT[0..4082]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Harpies Trains",

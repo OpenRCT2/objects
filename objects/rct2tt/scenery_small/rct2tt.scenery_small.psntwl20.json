@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.psntwl20",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F821|PSNTWL20|2B448F33",
     "sourceGame": "rct2tt",
@@ -20,7 +22,9 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/PSNTWL20.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/PSNTWL20.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Dark Age Village Window Box Roof",

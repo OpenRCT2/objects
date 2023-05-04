@@ -1,9 +1,15 @@
 {
     "id": "rct2.music.snow",
-    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC22|00000000",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "music",
     "properties": {
         "originalStyleId": 22,
