@@ -156,19 +156,22 @@
             "en-GB": "Single Rail Roller Coaster Trains",
             "de-DE": "Einschienenachterbahnzüge",
             "nl-NL": "Trein voor achtbaan met enkele rail",
-            "eo-ZZ": "Trajnoj de Onda Fervojo kun Unuopa Relo"
+            "eo-ZZ": "Trajnoj de Onda Fervojo kun Unuopa Relo",
+            "ca-ES": "Muntanya russa d’un sol rail"
         },
         "description": {
             "en-GB": "Roller coaster trains in which riders are seated single file",
             "de-DE": "Achterbahnzüge, in denen die Fahrgäste in einer Einzelreihe sitzen",
             "nl-NL": "Achtbaantrein waarin de passagiers achter elkaar zitten, in eigen karretjes.",
-            "eo-ZZ": "Trajnoj de onda fervojo, kiuj rajdantoj sidas anservice"
+            "eo-ZZ": "Trajnoj de onda fervojo, kiuj rajdantoj sidas anservice",
+            "ca-ES": "Muntanya russa amb cotxes en la qual els passatgers van asseguts un darrere l’altre."
         },
         "capacity": {
             "en-GB": "1 passenger per car",
             "de-DE": "1 Fahrgast pro Wagen",
             "nl-NL": "1 passagier per karretje",
-            "eo-ZZ": "Po 1 pasaĝero por ĉaro"
+            "eo-ZZ": "Po 1 pasaĝero por ĉaro",
+            "ca-ES": "1 passatger per cotxe"
         }
     },
     "images": [
