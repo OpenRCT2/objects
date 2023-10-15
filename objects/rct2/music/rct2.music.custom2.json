@@ -8,6 +8,7 @@
         "rct2",
         "rct1ll"
     ],
+    "isCompatibilityObject": true,
     "objectType": "music",
     "properties": {
         "originalStyleId": 24,
@@ -20,7 +21,7 @@
     },
     "strings": {
         "name": {
-            "en-GB": "Custom music 2",
+            "en-GB": "Legacy custom music 2",
             "ca-ES": "Peça personalitzada 2",
             "cs-CZ": "Vlastní hudba 2",
             "da-DK": "Valgfrit musik 2",
