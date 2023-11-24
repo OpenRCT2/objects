@@ -1,17 +1,18 @@
 {
-    "id": "rct2.footpath_surface.road",
+    "id": "rct1.footpath_surface.road",
     "authors": [
         "Chris Sawyer",
         "Simon Foster"
     ],
     "version": "1.0",
     "sourceGame": [
+        "rct1",
         "rct2"
     ],
     "objectType": "footpath_surface",
-    "isCompatibilityObject": true,
     "properties": {
-        "editorOnly": true
+        "editorOnly": true,
+        "noSlopeRailings": true
     },
     "images": [
         "$RCT2:OBJDATA/ROAD.DAT[71]",
