@@ -17,12 +17,13 @@
         { "path": "images/preview.png", "format": "raw" },
         "",
         "",
-        { "path": "images/0.png", "format": "raw", "x": -32, "y": -18 },
-        { "path": "images/1.png", "format": "raw", "x": -32, "y": -27 },
-        { "path": "images/2.png", "format": "raw", "x": -32, "y": -27 },
-        { "path": "images/3.png", "format": "raw", "x": 11, "y": -17 },
-        { "path": "images/4.png", "format": "raw", "x": -20, "y": -27 },
-        { "path": "images/5.png", "format": "raw", "x": -32, "y": -27 }
+        "$CSG[61289..61294]"
+    ],
+    "noCsgImages": [
+        { "path": "images/preview.png", "format": "raw" },
+        "",
+        "",
+        "$RCT2:OBJDATA/TLT1.DAT[3..8]"
     ],
     "strings": {
         "name": {
