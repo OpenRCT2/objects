@@ -17,7 +17,8 @@
         "tracks": [
             {
                 "source": "$RCT2:DATA/css3.dat",
-                "name": "Dodgems beat"
+                "name": "Dodgems beat",
+                "composer": "Allister Brimble"
             }
         ]
     },

@@ -15,7 +15,8 @@
         "tracks": [
             {
                 "source": "$RCT2:DATA/css45.dat",
-                "name": "Space Rock"
+                "name": "Space Rock",
+                "composer": "Allister Brimble"
             }
         ]
     },
