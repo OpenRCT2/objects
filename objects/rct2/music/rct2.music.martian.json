@@ -16,7 +16,8 @@
         "tracks": [
             {
                 "source": "$RCT2:DATA/css20.dat",
-                "name": "Invaders"
+                "name": "Invaders",
+                "composer": "Allister Brimble"
             }
         ]
     },

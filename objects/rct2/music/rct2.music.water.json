@@ -16,7 +16,8 @@
         "tracks": [
             {
                 "source": "$RCT2:DATA/css30.dat",
-                "name": "Atlantis"
+                "name": "Atlantis",
+                "composer": "Allister Brimble"
             }
         ]
     },

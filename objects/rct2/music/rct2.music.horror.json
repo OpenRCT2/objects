@@ -16,7 +16,8 @@
         "tracks": [
             {
                 "source": "$RCT2:DATA/css26.dat",
-                "name": "Vampire’s Lair"
+                "name": "Vampire’s Lair",
+                "composer": "Allister Brimble"
             }
         ]
     },

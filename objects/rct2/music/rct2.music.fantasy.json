@@ -2,7 +2,7 @@
     "id": "rct2.music.fantasy",
     "authors": [
         "Chris Sawyer",
-        "Allister Brimble"
+        "Steve Blenkinsopp"
     ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC19|00000000",
@@ -16,7 +16,8 @@
         "tracks": [
             {
                 "source": "$RCT2:DATA/css35.dat",
-                "name": "Flight of Fantasy"
+                "name": "Flight of Fantasy",
+                "composer": "Steve Blenkinsopp"
             }
         ]
     },

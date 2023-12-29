@@ -16,7 +16,8 @@
         "tracks": [
             {
                 "source": "$RCT2:DATA/css27.dat",
-                "name": "Brimble’s Beat"
+                "name": "Brimble’s Beat",
+                "composer": "Allister Brimble"
             }
         ]
     },
