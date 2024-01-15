@@ -43,10 +43,12 @@
             "frictionSoundId": 2,
             "soundRange": 0,
             "drawOrder": 2,
-            "frames": {
-                "flat": true,
-                "gentleSlopes": true,
-                "diagonalSlopes": true
+            "spriteGroups": {
+                "slopeFlat": 32,
+                "slopes12": 4,
+                "slopes25": 32,
+                "slopes8": 4,
+                "slopes16": 4
             },
             "hasAdditionalColour1": true,
             "hasSwinging": true,
@@ -58,7 +60,44 @@
         }
     },
     "images": [
-        "$RCT2:OBJDATA/SPUTNIKR.DAT[0..1282]"
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[0]",
+        "",
+        "",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[3..522]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[223..227]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[263..267]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[303..307]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[343..347]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[383..387]",                                                                                                                                                                                  
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[423..427]",                                                                                                                                                                                  
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[463..467]",                                                                                                                                                                                  
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[503..507]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[223..227]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[263..267]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[303..307]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[343..347]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[383..387]",                                                                                                                                                                                  
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[423..427]",                                                                                                                                                                                  
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[463..467]",                                                                                                                                                                                  
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[503..507]",
+        
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[643..1162]",                                                                                                                                                                               
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[863..867]",                                                                                                                                                                                
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[903..907]",                                                                                                                                                                                
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[943..947]",                                                                                                                                                                                
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[983..987]",                                                                                                                                                                                
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[1023..1027]",                                                                                                                                                                                                                                                                                                                                                                                                               
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[1063..1067]",                                                                                                                                                                                                                                                                                                                                                                                                               
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[1103..1107]",                                                                                                                                                                                                                                                                                                                                                                                                               
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[1143..1147]",                                                                                                                                                                              
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[863..867]",                                                                                                                                                                                
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[903..907]",                                                                                                                                                                                
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[943..947]",                                                                                                                                                                                
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[983..987]",                                                                                                                                                                                
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[1023..1027]",                                                                                                                                                                                                                                                                                                                                                                                                               
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[1063..1067]",                                                                                                                                                                                                                                                                                                                                                                                                               
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[1103..1107]",                                                                                                                                                                                                                                                                                                                                                                                                               
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[1143..1147]"
     ],
     "strings": {
         "name": {
