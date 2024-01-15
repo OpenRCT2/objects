@@ -43,10 +43,12 @@
             "frictionSoundId": 2,
             "soundRange": 0,
             "drawOrder": 2,
-            "frames": {
-                "flat": true,
-                "gentleSlopes": true,
-                "diagonalSlopes": true
+            "spriteGroups": {
+                "slopeFlat": 32,
+                "slopes12": 4,
+                "slopes25": 32,
+                "slopes8": 4,
+                "slopes16": 4
             },
             "hasAdditionalColour1": true,
             "hasSwinging": true,
@@ -58,7 +60,46 @@
         }
     },
     "images": [
-        "$RCT2:OBJDATA/HOVRBORD.DAT[0..1282]"
+        "$RCT2:OBJDATA/HOVRBORD.DAT[0]",
+        "",
+        "",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[3..537]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[543..546]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[542]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[548..552]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[558..560]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[556..557]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[563..572]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[578..581]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[577]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[583..587]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[593..595]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[591..592]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[598..607]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[613..616]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[612]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[618..622]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[628]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[624..627]",
+
+        "$RCT2:OBJDATA/HOVRBORD.DAT[643..1177]",                                                                                                                                                                               
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1183..1186]",                                                                                                                                                                              
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1182]",                                                                                                                                                                                    
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1188..1192]",                                                                                                                                                                              
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1198..1200]",                                                                                                                                                                              
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1196..1197]",                                                                                                                                                                              
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1203..1212]",                                                                                                                                                                              
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1218..1221]",                                                                                                                                                                              
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1217]",                                                                                                                                                                                    
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1223..1227]",                                                                                                                                                                              
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1233..1235]",                                                                                                                                                                              
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1231..1232]",                                                                                                                                                                              
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1238..1247]",                                                                                                                                                                              
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1253..1256]",                                                                                                                                                                              
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1252]",                                                                                                                                                                                    
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1258..1262]",                                                                                                                                                                              
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1268]",                                                                                                                                                                                    
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1264..1267]"
     ],
     "strings": {
         "name": {
