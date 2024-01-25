@@ -1,0 +1,48 @@
+{
+    "id": "rct1aa.scenery_wall.glass_wall",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": "rct1aa",
+    "isCompatibilityObject": true,
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasGlass": true,
+        "isOpaque": true,
+        "isAllowedOnSlope": true,
+        "height": 3,
+        "price": 60,
+        "sceneryGroup": "rct2.scenery_group.scgabstr"
+    },
+    "images": [
+        { "path": "images/1.png", "x": -31, "y": -21 },
+        { "path": "images/2.png", "x": -1, "y": -20 },
+        { "path": "images/3.png", "x": -31, "y": -37 },
+        { "path": "images/4.png", "x": -1, "y": -37 },
+        { "path": "images/5.png", "x": -31, "y": -20 },
+        { "path": "images/6.png", "x": -1, "y": -20 },
+        "$CSG[63101..63106]"
+    ],
+    "noCsgImages": ["$RCT2:OBJDATA/WALLGL16.DAT[0..11]"],
+    "strings": {
+        "name": {
+            "en-GB": "Glass Wall",
+            "fr-FR": "Façade vitrée",
+            "de-DE": "Glaswand",
+            "es-ES": "Pared de cristal",
+            "it-IT": "Muro di vetro",
+            "nl-NL": "Glaswand",
+            "sv-SE": "Glasvägg",
+            "ko-KR": "유리 벽",
+            "zh-CN": "玻璃墙",
+            "zh-TW": "玻璃牆",
+            "pt-BR": "Parede de Vidro",
+            "cs-CZ": "Skleněná stěna",
+            "ja-JP": "ガラスの壁",
+            "pl-PL": "Szklana ściana",
+            "ru-RU": "Стена",
+            "eo-ZZ": "Vitra Muro"
+        }
+    }
+}

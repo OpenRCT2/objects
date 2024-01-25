@@ -1,0 +1,38 @@
+{
+    "id": "rct1.scenery_wall.roman_column_wall",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": "rct1",
+    "isCompatibilityObject": true,
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 110,
+        "sceneryGroup": "rct2.scenery_group.scgclass"
+    },
+    "images": ["$CSG[63083..63088]"],
+    "noCsgImages": ["$RCT2:OBJDATA/WC3.DAT[0..5]"],
+    "strings": {
+        "name": {
+            "en-GB": "Roman Column Wall",
+            "fr-FR": "Façade de colonnes romaines",
+            "de-DE": "Römische Säulenmauer",
+            "es-ES": "Columna romana",
+            "it-IT": "Muro a colonne romane",
+            "nl-NL": "Romeinse zuilenmuur",
+            "sv-SE": "Romersk pelarmur",
+            "ko-KR": "로마식 기둥 벽",
+            "zh-CN": "罗马圆柱墙",
+            "zh-TW": "羅馬圓柱牆",
+            "pt-BR": "Muro de Colunas Romanas",
+            "cs-CZ": "Stěna římských sloupů",
+            "ja-JP": "ローマの柱の壁",
+            "pl-PL": "Ściana z rzymskich kolumn",
+            "ru-RU": "Римская стена",
+            "eo-ZZ": "Muro de Roma Kolono",
+            "ca-ES": "Fila de columnes romanes",
+            "fi-FI": "Roomalainen pylvässeinä"
+        }
+    }
+}
