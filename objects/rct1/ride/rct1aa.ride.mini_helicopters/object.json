@@ -1,0 +1,268 @@
+{
+    "id": "rct1aa.ride.mini_helicopters",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "originalId": "00000000|#RCT1HEL|00000000",
+    "sourceGame": "rct1aa",
+    "isCompatibilityObject": true,
+    "objectType": "ride",
+    "properties": {
+        "type": "mini_helicopters",
+        "category": "gentle",
+        "hasShelter": true,
+        "noCollisionCrashes": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "carColours": [
+            [
+                [
+                    "light_blue",
+                    "yellow",
+                    "black"
+                ]
+            ],
+            [
+                [
+                    "bright_green",
+                    "white",
+                    "black"
+                ]
+            ],
+            [
+                [
+                    "bright_red",
+                    "white",
+                    "black"
+                ]
+            ],
+            [
+                [
+                    "yellow",
+                    "bright_red",
+                    "black"
+                ]
+            ],
+            [
+                [
+                    "light_purple",
+                    "bright_red",
+                    "black"
+                ]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 15,
+                "spacing": 148172,
+                "mass": 270,
+                "numSeats": 2,
+                "animation": 7,
+                "numSeatRows": 1,
+                "poweredAcceleration": 40,
+                "poweredMaxSpeed": 5,
+                "drawOrder": 6,
+                "spriteGroups": {
+                    "slopeFlat": 16,
+                    "slopes12": 4,
+                    "slopes25": 4,
+                    "restraintAnimation": 4
+                },
+                "hasAdditionalColour1": true,
+                "isPowered": true,
+                "hasVehicleAnimation": true,
+                "loadingPositions": [
+                    3,
+                    -3
+                ]
+            },
+            {
+                "rotationFrameMask": 0,
+                "spacing": 34864,
+                "poweredAcceleration": 40,
+                "poweredMaxSpeed": 5,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "spriteGroups": {
+                    "slopeFlat": 1
+                },
+                "isPowered": true
+            }
+        ],
+        "buildMenuPriority": 1
+    },
+    "images": [
+        { "path": "images/preview.png", "format": "raw" },
+        "",
+        "",
+        "$CSG[32877..33004]",
+        "$CSG[33005..33008]",
+        "$CSG[33017..33020]",
+        "$CSG[33029..33032]",
+        "$CSG[33041..33044]",
+        "$CSG[33009..33012]",
+        "$CSG[33021..33024]",
+        "$CSG[33033..33036]",
+        "$CSG[33045..33048]",
+        "$CSG[33013..33016]",
+        "$CSG[33025..33028]",
+        "$CSG[33037..33040]",
+        "$CSG[33049..33052]",
+        "$CSG[33053..33180]",
+        "$CSG[33181..33184]",
+        "$CSG[33193..33196]",
+        "$CSG[33205..33208]",
+        "$CSG[33217..33220]",
+        "$CSG[33185..33188]",
+        "$CSG[33197..33200]",
+        "$CSG[33209..33212]",
+        "$CSG[33221..33224]",
+        "$CSG[33189..33192]",
+        "$CSG[33201..33204]",
+        "$CSG[33213..33216]",
+        "$CSG[33225..33228]",
+        ""
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Mini Helicopters",
+            "fr-FR": "Mini hélicoptère",
+            "de-DE": "Minihubschrauber",
+            "es-ES": "Mini Helicópteros",
+            "it-IT": "Mini-elicotteri",
+            "nl-NL": "Minihelikopters",
+            "sv-SE": "Minihelikoptrar",
+            "ko-KR": "미니 헬리콥터",
+            "zh-CN": "矿坑升降机",
+            "zh-TW": "礦坑升降機",
+            "pt-BR": "Mini-Helicópteros",
+            "cs-CZ": "Mini vrtulníky",
+            "ja-JP": "ミニヘリコプター",
+            "nb-NO": "Minihelikoptere",
+            "pl-PL": "Minihelikoptery",
+            "ru-RU": "Вертолётики",
+            "eo-ZZ": "Miniaturaj Helikopteroj"
+        },
+        "description": {
+            "en-GB": "Powered helicopter-shaped cars, controlled by the pedalling of the riders",
+            "en-US": "Powered helicopter-shaped cars, controlled by the pedaling of the riders",
+            "fr-FR": "Installés dans des voitures en forme d'hélicoptère, les passagers parcourent une voie métallique en pédalant pour avancer",
+            "de-DE": "Helikopterförmige Wagen, die von den Pedaltritten der Fahrer angetrieben werden",
+            "es-ES": "Vagones con forma de helicópteros corren por una vía de acero controlados por los pedales de los pasajeros",
+            "it-IT": "Carrozze a motore a forma di elicotteri corrono lungo un tracciato d'acciaio spinte dalle pedalate dei passeggeri",
+            "nl-NL": "Aangedreven karretjes in de vorm van een helikopter rijden over een stalen baan, bestuurd door het trappen van de passagiers.",
+            "sv-SE": "Motordrivna helikopterformade vagnar, som passagerarna kontrollerar med trampor",
+            "ko-KR": "탑승자가 페달을 밟아서 철제 트랙을 따라 움직이는 헬리콥터 모양의 차량",
+            "zh-CN": "具动力的升降机外形列车在钢制轨道上运行由乘客的踏板控制速度",
+            "zh-TW": "具動力的升降機外形列車在鋼製軌道上運行由乘客的踏板控制速度",
+            "pt-BR": "Vagões em forma de helicópteros, controlados pelas pedaladas dos passageiros",
+            "cs-CZ": "Po ocelové kolejnici jezdí miniaturní helikoptéry, ovládané šlapáním návštěvníků",
+            "ja-JP": "スチール製コースを走るヘリコプター型の動力付き車両で、乗客がペダルを使って操作します",
+            "pl-PL": "Wagoniki w kształcie helikopterów jadące po stalowym torze, sterowane przez pedałujących pasażerów",
+            "ru-RU": "Машинки в виде вертолетиков.",
+            "eo-ZZ": "Ŝaltitaj helikopteroformaj ĉaroj, kiujn la pedalado de la rajdantoj funkciigas"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por vagón",
+            "it-IT": "2 passeggeri a carrozza",
+            "nl-NL": "2 passagiers per karretje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량당 2명의 승객",
+            "zh-CN": "2 位乘客/每个车厢",
+            "zh-TW": "2 位乘客/每個車廂",
+            "pt-BR": "2 passageiros por vagão",
+            "cs-CZ": "2 místa v každém vozu",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 passengers per car",
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+        }
+    },
+    "noCsgImages": [
+        { "path": "images/preview.png", "format": "raw" },
+        "",
+        "",
+        "$RCT2:OBJDATA/HELICAR.DAT[3..6]",
+        "$RCT2:OBJDATA/HELICAR.DAT[11..14]",
+        "$RCT2:OBJDATA/HELICAR.DAT[19..22]",
+        "$RCT2:OBJDATA/HELICAR.DAT[27..30]",
+        "$RCT2:OBJDATA/HELICAR.DAT[35..38]",
+        "$RCT2:OBJDATA/HELICAR.DAT[43..46]",
+        "$RCT2:OBJDATA/HELICAR.DAT[51..54]",
+        "$RCT2:OBJDATA/HELICAR.DAT[59..62]",
+        "$RCT2:OBJDATA/HELICAR.DAT[67..70]",
+        "$RCT2:OBJDATA/HELICAR.DAT[75..78]",
+        "$RCT2:OBJDATA/HELICAR.DAT[83..86]",
+        "$RCT2:OBJDATA/HELICAR.DAT[91..94]",
+        "$RCT2:OBJDATA/HELICAR.DAT[99..102]",
+        "$RCT2:OBJDATA/HELICAR.DAT[107..110]",
+        "$RCT2:OBJDATA/HELICAR.DAT[115..118]",
+        "$RCT2:OBJDATA/HELICAR.DAT[123..126]",
+        "$RCT2:OBJDATA/HELICAR.DAT[131..166]",
+        "$RCT2:OBJDATA/HELICAR.DAT[195..198]",
+        "$RCT2:OBJDATA/HELICAR.DAT[227..230]",
+        "$RCT2:OBJDATA/HELICAR.DAT[259..262]",
+        "$RCT2:OBJDATA/HELICAR.DAT[291..294]",
+        "$RCT2:OBJDATA/HELICAR.DAT[323..326]",
+        "$RCT2:OBJDATA/HELICAR.DAT[355..358]",
+        "$RCT2:OBJDATA/HELICAR.DAT[387..390]",
+        "$RCT2:OBJDATA/HELICAR.DAT[3..6]",
+        "$RCT2:OBJDATA/HELICAR.DAT[35..38]",
+        "$RCT2:OBJDATA/HELICAR.DAT[67..70]",
+        "$RCT2:OBJDATA/HELICAR.DAT[99..102]",
+        "$RCT2:OBJDATA/HELICAR.DAT[3..6]",
+        "$RCT2:OBJDATA/HELICAR.DAT[35..38]",
+        "$RCT2:OBJDATA/HELICAR.DAT[67..70]",
+        "$RCT2:OBJDATA/HELICAR.DAT[99..102]",
+        "$RCT2:OBJDATA/HELICAR.DAT[3..6]",
+        "$RCT2:OBJDATA/HELICAR.DAT[35..38]",
+        "$RCT2:OBJDATA/HELICAR.DAT[67..70]",
+        "$RCT2:OBJDATA/HELICAR.DAT[99..102]",
+        "$RCT2:OBJDATA/HELICAR.DAT[419..422]",
+        "$RCT2:OBJDATA/HELICAR.DAT[427..430]",
+        "$RCT2:OBJDATA/HELICAR.DAT[435..438]",
+        "$RCT2:OBJDATA/HELICAR.DAT[443..446]",
+        "$RCT2:OBJDATA/HELICAR.DAT[451..454]",
+        "$RCT2:OBJDATA/HELICAR.DAT[459..462]",
+        "$RCT2:OBJDATA/HELICAR.DAT[467..470]",
+        "$RCT2:OBJDATA/HELICAR.DAT[475..478]",
+        "$RCT2:OBJDATA/HELICAR.DAT[483..486]",
+        "$RCT2:OBJDATA/HELICAR.DAT[491..494]",
+        "$RCT2:OBJDATA/HELICAR.DAT[499..502]",
+        "$RCT2:OBJDATA/HELICAR.DAT[507..510]",
+        "$RCT2:OBJDATA/HELICAR.DAT[515..518]",
+        "$RCT2:OBJDATA/HELICAR.DAT[523..526]",
+        "$RCT2:OBJDATA/HELICAR.DAT[531..534]",
+        "$RCT2:OBJDATA/HELICAR.DAT[539..542]",
+        "$RCT2:OBJDATA/HELICAR.DAT[547..582]",
+        "$RCT2:OBJDATA/HELICAR.DAT[611..614]",
+        "$RCT2:OBJDATA/HELICAR.DAT[643..646]",
+        "$RCT2:OBJDATA/HELICAR.DAT[675..678]",
+        "$RCT2:OBJDATA/HELICAR.DAT[707..710]",
+        "$RCT2:OBJDATA/HELICAR.DAT[739..742]",
+        "$RCT2:OBJDATA/HELICAR.DAT[771..774]",
+        "$RCT2:OBJDATA/HELICAR.DAT[803..806]",
+        "$RCT2:OBJDATA/HELICAR.DAT[419..422]",
+        "$RCT2:OBJDATA/HELICAR.DAT[443..446]",
+        "$RCT2:OBJDATA/HELICAR.DAT[475..478]",
+        "$RCT2:OBJDATA/HELICAR.DAT[507..510]",
+        "$RCT2:OBJDATA/HELICAR.DAT[419..422]",
+        "$RCT2:OBJDATA/HELICAR.DAT[443..446]",
+        "$RCT2:OBJDATA/HELICAR.DAT[475..478]",
+        "$RCT2:OBJDATA/HELICAR.DAT[507..510]",
+        "$RCT2:OBJDATA/HELICAR.DAT[419..422]",
+        "$RCT2:OBJDATA/HELICAR.DAT[443..446]",
+        "$RCT2:OBJDATA/HELICAR.DAT[475..478]",
+        "$RCT2:OBJDATA/HELICAR.DAT[507..510]",
+        ""
+    ]
+}
