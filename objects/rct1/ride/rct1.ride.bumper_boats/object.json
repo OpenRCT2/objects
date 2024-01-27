@@ -1,0 +1,150 @@
+{
+    "id": "rct1.ride.bumper_boats",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "00000000|#RCT1BBT|00000000",
+    "sourceGame": "rct1",
+    "isCompatibilityObject": true,
+    "objectType": "ride",
+    "properties": {
+        "type": "boat_hire",
+        "category": [
+            "water",
+            "thrill"
+        ],
+        "ratingMultipler": {
+            "excitement": 30,
+            "intensity": 15,
+            "nausea": 15
+        },
+        "carColours": [
+            [
+                ["yellow", "light_blue", "black"]
+            ],
+            [
+                ["bright_red", "light_blue", "black"]
+            ],
+            [
+                ["dark_green", "yellow", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 15,
+            "spacing": 182272,
+            "mass": 140,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "poweredAcceleration": 220,
+            "poweredMaxSpeed": 9,
+            "drawOrder": 7,
+            "spriteGroups": {
+                "slopeFlat":16
+            },
+            "hasAdditionalColour1": true,
+            "isPowered": true,
+            "useBoatHireCollisionDetection": true,
+            "loadingPositions": [3, -3]
+        },
+        "buildMenuPriority": 5
+    },
+    "images": [
+        { "path": "images/preview.png", "format": "raw" },
+        "",
+        "",
+        "$CSG[32685..32716]"
+    ],
+    "noCsgImages": [
+        { "path": "images/preview.png", "format": "raw" },
+        "",
+        "",
+        "$RCT2:OBJDATA/BBOAT.DAT[3]",
+        "$RCT2:OBJDATA/BBOAT.DAT[5]",
+        "$RCT2:OBJDATA/BBOAT.DAT[7]",
+        "$RCT2:OBJDATA/BBOAT.DAT[9]",
+        "$RCT2:OBJDATA/BBOAT.DAT[11]",
+        "$RCT2:OBJDATA/BBOAT.DAT[13]",
+        "$RCT2:OBJDATA/BBOAT.DAT[15]",
+        "$RCT2:OBJDATA/BBOAT.DAT[17]",
+        "$RCT2:OBJDATA/BBOAT.DAT[19]",
+        "$RCT2:OBJDATA/BBOAT.DAT[21]",
+        "$RCT2:OBJDATA/BBOAT.DAT[23]",
+        "$RCT2:OBJDATA/BBOAT.DAT[25]",
+        "$RCT2:OBJDATA/BBOAT.DAT[27]",
+        "$RCT2:OBJDATA/BBOAT.DAT[29]",
+        "$RCT2:OBJDATA/BBOAT.DAT[31]",
+        "$RCT2:OBJDATA/BBOAT.DAT[33]",
+
+        "$RCT2:OBJDATA/BBOAT.DAT[35]",
+        "$RCT2:OBJDATA/BBOAT.DAT[37]",
+        "$RCT2:OBJDATA/BBOAT.DAT[39]",
+        "$RCT2:OBJDATA/BBOAT.DAT[41]",
+        "$RCT2:OBJDATA/BBOAT.DAT[43]",
+        "$RCT2:OBJDATA/BBOAT.DAT[45]",
+        "$RCT2:OBJDATA/BBOAT.DAT[47]",
+        "$RCT2:OBJDATA/BBOAT.DAT[49]",
+        "$RCT2:OBJDATA/BBOAT.DAT[51]",
+        "$RCT2:OBJDATA/BBOAT.DAT[53]",
+        "$RCT2:OBJDATA/BBOAT.DAT[55]",
+        "$RCT2:OBJDATA/BBOAT.DAT[57]",
+        "$RCT2:OBJDATA/BBOAT.DAT[59]",
+        "$RCT2:OBJDATA/BBOAT.DAT[61]",
+        "$RCT2:OBJDATA/BBOAT.DAT[63]",
+        "$RCT2:OBJDATA/BBOAT.DAT[65]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Bumper Boats",
+            "fr-FR": "Bateaux-tamponneurs",
+            "de-DE": "Scooter-Boote",
+            "es-ES": "Botes de choque",
+            "it-IT": "Barche da scontro",
+            "nl-NL": "Botsboten",
+            "sv-SE": "Krockbåtar",
+            "ko-KR": "범퍼 보트",
+            "zh-CN": "碰碰船",
+            "zh-TW": "碰碰船",
+            "pt-BR": "Barcos de Batida",
+            "cs-CZ": "Malé čluny",
+            "ja-JP": "バンパー・ボート",
+            "pl-PL": "Gumołódki",
+            "ru-RU": "Лодочки",
+            "eo-ZZ": "Doĝemo-Boatoj"
+        },
+        "description": {
+            "en-GB": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
+            "fr-FR": "Petits canots pneumatiques de forme circulaire alimentés par un moteur central que contrôlent les passagers",
+            "de-DE": "Kleine, runde Schlauchboote, die von einem zentralen Motor angetrieben werden, der von den Fahrgästen gesteuert wird",
+            "es-ES": "Botes pequeños,inflables y redondos propulsados por un motor central controlado por los pasajeros",
+            "it-IT": "Piccoli canotti circolari, alimentati da un motore montato al centro e controllati dai passeggeri",
+            "nl-NL": "Kleine ronde bootjes, aangedreven door een centrale motor en bestuurd door de passagiers.",
+            "sv-SE": "Små runda gummibåtar som drivs av en mittmonterad motor och styrs av passagerarna",
+            "ko-KR": "중앙 모터에 의해 움직이며 탑승객이 조종할 수 있는 원형의 작은 보트",
+            "zh-CN": "由乘客在有动力装制的小型圆型小船内操控中心马达",
+            "zh-TW": "由乘客在有動力裝置的小型圓型小船內操控中心馬達",
+            "pt-BR": "Pequenos barcos circulares com um motor central controlado pelos passageiros",
+            "cs-CZ": "Malé čluny s motorovým pohonem ovládaným návštěvníky",
+            "ja-JP": "丸い小型ボートで、乗客が操作する中央部のモーターで動きます",
+            "pl-PL": "Małe okrągłe pontony napędzane silnikiem zamontowanym centralnie i sterowanym przez pasażerów",
+            "ru-RU": "Маленькие круглые лодочки с моторами управляются пассажирами.",
+            "eo-ZZ": "Malgrandaj rondaj boatetoj ŝaltitaj per centra motoro, kiun la pasaĝeroj funkciigas"
+        },
+        "capacity": {
+            "en-GB": "2 passengers per boat",
+            "fr-FR": "2 passagers par bateau",
+            "de-DE": "2 Fahrgäste pro Boot",
+            "es-ES": "2 pasajeros por bote",
+            "it-IT": "2 passeggeri per barca",
+            "nl-NL": "2 passagiers per boot",
+            "sv-SE": "2 passagerare per båt",
+            "ko-KR": "보트당 2명의 승객",
+            "zh-CN": "2 位乘客/每艘船",
+            "zh-TW": "2 位乘客/每艘船",
+            "pt-BR": "2 passageiros por barco",
+            "cs-CZ": "2 místa v každé lodi",
+            "ja-JP": "各ボート2名",
+            "pl-PL": "2 pasażerów na łódkę",
+            "ru-RU": "2 пассажира",
+            "eo-ZZ": "Po 2 pasaĝeroj por boato"
+        }
+    }
+}
