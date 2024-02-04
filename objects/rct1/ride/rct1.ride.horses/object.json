@@ -1,0 +1,218 @@
+{
+    "id": "rct1.ride.horses",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "00000000|#RCT1ST1|00000000",
+    "sourceGame": "rct1",
+    "isCompatibilityObject": true,
+    "objectType": "ride",
+    "properties": {
+        "type": "steeplechase",
+        "category": "rollercoaster",
+        "ratingMultipler": {
+            "excitement": 5
+        },
+        "carColours": [
+            [
+                ["white", "bright_red", "black"]
+            ],
+            [
+                ["white", "yellow", "black"]
+            ],
+            [
+                ["white", "light_blue", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 15,
+            "spacing": 243712,
+            "mass": 800,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "frictionSoundId": 2,
+            "soundRange": 0,
+            "drawOrder": 9,
+            "spriteGroups":{
+                "slopeFlat":16,
+                "slopes12":4,
+                "slopes25":4
+            },
+            "hasAdditionalColour1": true,
+            "hasScreamingRiders": true,
+            "loadingPositions": [4, -4]
+        },
+        "buildMenuPriority": 3
+    },
+    "images": [
+        { "path": "images/preview.png", "format": "raw" },
+        "",
+        "",
+        "$CSG[32141..32156]",
+    
+        "$CSG[32157]",
+        "$CSG[32161]",
+        "$CSG[32165]",
+        "$CSG[32169]",
+
+        "$CSG[32159]",
+        "$CSG[32163]",
+        "$CSG[32167]",
+        "$CSG[32171]", 
+
+        "$CSG[32158]",
+        "$CSG[32162]",
+        "$CSG[32166]",
+        "$CSG[32170]",
+
+        "$CSG[32160]",
+        "$CSG[32164]",
+        "$CSG[32168]",
+        "$CSG[32172]",
+    
+        "$CSG[32173..32188]",
+    
+        "$CSG[32189]",
+        "$CSG[32193]",
+        "$CSG[32197]",
+        "$CSG[32201]",
+
+        "$CSG[32191]",
+        "$CSG[32195]",
+        "$CSG[32199]",
+        "$CSG[32203]", 
+
+        "$CSG[32190]",
+        "$CSG[32194]",
+        "$CSG[32198]",
+        "$CSG[32202]",
+
+        "$CSG[32192]",
+        "$CSG[32196]",
+        "$CSG[32200]",
+        "$CSG[32204]"
+    ],
+    "noCsgImages": [
+        { "path": "images/preview.png", "format": "raw" },
+        "",
+        "",
+        "$RCT2:OBJDATA/STEEP1.DAT[3]",
+        "$RCT2:OBJDATA/STEEP1.DAT[5]",
+        "$RCT2:OBJDATA/STEEP1.DAT[7]",
+        "$RCT2:OBJDATA/STEEP1.DAT[9]",
+        "$RCT2:OBJDATA/STEEP1.DAT[11]",
+        "$RCT2:OBJDATA/STEEP1.DAT[13]",
+        "$RCT2:OBJDATA/STEEP1.DAT[15]",
+        "$RCT2:OBJDATA/STEEP1.DAT[17]",
+        "$RCT2:OBJDATA/STEEP1.DAT[19]",
+        "$RCT2:OBJDATA/STEEP1.DAT[21]",
+        "$RCT2:OBJDATA/STEEP1.DAT[23]",
+        "$RCT2:OBJDATA/STEEP1.DAT[25]",
+        "$RCT2:OBJDATA/STEEP1.DAT[27]",
+        "$RCT2:OBJDATA/STEEP1.DAT[29]",
+        "$RCT2:OBJDATA/STEEP1.DAT[31]",
+        "$RCT2:OBJDATA/STEEP1.DAT[33]",
+
+        "$RCT2:OBJDATA/STEEP1.DAT[35..42]",
+
+        "$RCT2:OBJDATA/STEEP1.DAT[43]",
+        "$RCT2:OBJDATA/STEEP1.DAT[51]",
+        "$RCT2:OBJDATA/STEEP1.DAT[59]",
+        "$RCT2:OBJDATA/STEEP1.DAT[67]",
+        "$RCT2:OBJDATA/STEEP1.DAT[75]",
+        "$RCT2:OBJDATA/STEEP1.DAT[83]",
+        "$RCT2:OBJDATA/STEEP1.DAT[91]",
+        "$RCT2:OBJDATA/STEEP1.DAT[99]",
+
+        "$RCT2:OBJDATA/STEEP1.DAT[131]",
+        "$RCT2:OBJDATA/STEEP1.DAT[133]",
+        "$RCT2:OBJDATA/STEEP1.DAT[135]",
+        "$RCT2:OBJDATA/STEEP1.DAT[137]",
+        "$RCT2:OBJDATA/STEEP1.DAT[139]",
+        "$RCT2:OBJDATA/STEEP1.DAT[141]",
+        "$RCT2:OBJDATA/STEEP1.DAT[143]",
+        "$RCT2:OBJDATA/STEEP1.DAT[145]",
+        "$RCT2:OBJDATA/STEEP1.DAT[147]",
+        "$RCT2:OBJDATA/STEEP1.DAT[149]",
+        "$RCT2:OBJDATA/STEEP1.DAT[151]",
+        "$RCT2:OBJDATA/STEEP1.DAT[153]",
+        "$RCT2:OBJDATA/STEEP1.DAT[155]",
+        "$RCT2:OBJDATA/STEEP1.DAT[157]",
+        "$RCT2:OBJDATA/STEEP1.DAT[159]",
+        "$RCT2:OBJDATA/STEEP1.DAT[161]",
+
+        "$RCT2:OBJDATA/STEEP1.DAT[163..170]",
+
+        "$RCT2:OBJDATA/STEEP1.DAT[171]",
+        "$RCT2:OBJDATA/STEEP1.DAT[179]",
+        "$RCT2:OBJDATA/STEEP1.DAT[187]",
+        "$RCT2:OBJDATA/STEEP1.DAT[195]",
+        "$RCT2:OBJDATA/STEEP1.DAT[203]",
+        "$RCT2:OBJDATA/STEEP1.DAT[211]",
+        "$RCT2:OBJDATA/STEEP1.DAT[219]",
+        "$RCT2:OBJDATA/STEEP1.DAT[227]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Horses",
+            "fr-FR": "Rodéo montagnes",
+            "de-DE": "Pferde",
+            "es-ES": "Carrera Ciega",
+            "it-IT": "Corsa a ostacoli",
+            "nl-NL": "Paarden",
+            "sv-SE": "Hinderlopp",
+            "ko-KR": "말 차량",
+            "zh-CN": "越野障碍赛马",
+            "zh-TW": "越野障礙賽馬",
+            "pt-BR": "Cavalos",
+            "cs-CZ": "Dostihy",
+            "ja-JP": "障害物競馬",
+            "pl-PL": "Bieg z przeszkodami",
+            "ru-RU": "Стиплчез",
+            "eo-ZZ": "Ĉevaloj",
+            "ca-ES": "Cavalls",
+            "fi-FI": "Hevoset"
+        },
+        "description": {
+            "en-GB": "Single cars shaped like a horse",
+            "fr-FR": "Véhicule en forme de cheval parcourant des montagnes russes sur une voie monorail",
+            "de-DE": "Einzelfahrzeuge in Form von Pferden",
+            "es-ES": "Los pasajeros se montan en unos vagones con forma de caballo que recorren sobre un monoraíl",
+            "it-IT": "I passeggeri attraversano un tracciato monorotaia su veicoli a forma di cavallo",
+            "nl-NL": "Losse karretjes in de vorm van een paard.",
+            "sv-SE": "Hästformade singelvagnar",
+            "ko-KR": "단선 롤러코스터 트랙을 따라 달리는 말 모양의 차량에 탑승하는 놀이기구",
+            "zh-CN": "乘客骑着马形车辆循着单轨式过山车轨道",
+            "zh-TW": "乘客騎著馬形車輛循著單軌式雲霄飛車軌道",
+            "pt-BR": "Carros únicos moldados como um cavalo",
+            "ar-EG": "Single cars shaped like a horse",
+            "cs-CZ": "Vozy ve tvaru koní vozí návštěvníky po jednokolejné trati",
+            "en-US": "Single cars shaped like a horse",
+            "ja-JP": "シングルレールコースを馬の形の車両が走行する乗物です",
+            "pl-PL": "Pasażerowie jadą pojazdami w kształcie koni, poruszającymi się po jednoszynowym torze kolejki",
+            "ru-RU": "Люди едут на машинках в виде лошадей.",
+            "eo-ZZ": "Individuaj ĉaroj, formitaj kiel ĉevalo",
+            "ca-ES": "Cotxes en forma de cavall.",
+            "fi-FI": "Yksittäiset hevosenmuotoiset ajoneuvot"
+        },
+        "capacity": {
+            "en-GB": "2 riders per horse",
+            "fr-FR": "2 passagers par cheval",
+            "de-DE": "2 Fahrgäste pro Pferd",
+            "es-ES": "2 jinetes por caballo",
+            "it-IT": "2 passeggeri per cavallo",
+            "nl-NL": "2 passagiers per paard",
+            "sv-SE": "2 ryttare per häst",
+            "ko-KR": "차량당 2명의 승객",
+            "zh-CN": "2 位乘客/马",
+            "zh-TW": "2 位乘客/每輛馬",
+            "pt-BR": "2 passageiros por cavalo",
+            "cs-CZ": "2 místa na každém koni",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na konia",
+            "ru-RU": "2 пассажира",
+            "eo-ZZ": "Po 2 rajdantoj por ĉevalo",
+            "ca-ES": "2 genets per cavall",
+            "fi-FI": "2 ratsastajaa per hevonen"
+        }
+    }
+}

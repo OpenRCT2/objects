@@ -1,0 +1,210 @@
+{
+    "id": "rct1.ride.motorbikes",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "00000000|#RCT1ST2|00000000",
+    "sourceGame": "rct1",
+    "isCompatibilityObject": true,
+    "objectType": "ride",
+    "properties": {
+        "type": "steeplechase",
+        "category": "rollercoaster",
+        "ratingMultipler": {
+            "excitement": 3
+        },
+        "carColours": [
+            [
+                ["bright_red", "white", "black"]
+            ],
+            [
+                ["bright_green", "white", "black"]
+            ],
+            [
+                ["light_blue", "white", "black"]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 15,
+            "spacing": 208896,
+            "mass": 800,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "frictionSoundId": 2,
+            "soundRange": 0,
+            "drawOrder": 9,
+            "spriteGroups":{
+                "slopeFlat":16,
+                "slopes12":4,
+                "slopes25":4
+            },
+            "hasAdditionalColour1": true,
+            "hasScreamingRiders": true,
+            "loadingPositions": [4, -4]
+        },
+        "buildMenuPriority": 2
+    },
+    "images": [
+        { "path": "images/preview.png", "format": "raw" },
+        "",
+        "",
+        "$CSG[32205..32220]",
+
+        "$CSG[32221]",
+        "$CSG[32225]",
+        "$CSG[32229]",
+        "$CSG[32233]",
+
+        "$CSG[32223]",
+        "$CSG[32227]",
+        "$CSG[32231]",
+        "$CSG[32235]", 
+
+        "$CSG[32222]",
+        "$CSG[32226]",
+        "$CSG[32230]",
+        "$CSG[32234]",
+
+        "$CSG[32224]",
+        "$CSG[32228]",
+        "$CSG[32232]",
+        "$CSG[32236]",
+
+        "$CSG[32237..32252]",
+
+        "$CSG[32253]",
+        "$CSG[32257]",
+        "$CSG[32261]",
+        "$CSG[32265]",
+
+        "$CSG[32255]",
+        "$CSG[32259]",
+        "$CSG[32263]",
+        "$CSG[32267]", 
+
+        "$CSG[32254]",
+        "$CSG[32258]",
+        "$CSG[32262]",
+        "$CSG[32266]",
+
+        "$CSG[32256]",
+        "$CSG[32260]",
+        "$CSG[32264]",
+        "$CSG[32268]"
+    ],
+    "noCsgImages": [
+        { "path": "images/preview.png", "format": "raw" },
+        "",
+        "",
+        "$RCT2:OBJDATA/STEEP2.DAT[3]",
+        "$RCT2:OBJDATA/STEEP2.DAT[5]",
+        "$RCT2:OBJDATA/STEEP2.DAT[7]",
+        "$RCT2:OBJDATA/STEEP2.DAT[9]",
+        "$RCT2:OBJDATA/STEEP2.DAT[11]",
+        "$RCT2:OBJDATA/STEEP2.DAT[13]",
+        "$RCT2:OBJDATA/STEEP2.DAT[15]",
+        "$RCT2:OBJDATA/STEEP2.DAT[17]",
+        "$RCT2:OBJDATA/STEEP2.DAT[19]",
+        "$RCT2:OBJDATA/STEEP2.DAT[21]",
+        "$RCT2:OBJDATA/STEEP2.DAT[23]",
+        "$RCT2:OBJDATA/STEEP2.DAT[25]",
+        "$RCT2:OBJDATA/STEEP2.DAT[27]",
+        "$RCT2:OBJDATA/STEEP2.DAT[29]",
+        "$RCT2:OBJDATA/STEEP2.DAT[31]",
+        "$RCT2:OBJDATA/STEEP2.DAT[33]",
+
+        "$RCT2:OBJDATA/STEEP2.DAT[35..42]",
+
+        "$RCT2:OBJDATA/STEEP2.DAT[43]",
+        "$RCT2:OBJDATA/STEEP2.DAT[51]",
+        "$RCT2:OBJDATA/STEEP2.DAT[59]",
+        "$RCT2:OBJDATA/STEEP2.DAT[67]",
+        "$RCT2:OBJDATA/STEEP2.DAT[75]",
+        "$RCT2:OBJDATA/STEEP2.DAT[83]",
+        "$RCT2:OBJDATA/STEEP2.DAT[91]",
+        "$RCT2:OBJDATA/STEEP2.DAT[99]",
+
+        "$RCT2:OBJDATA/STEEP2.DAT[131]",
+        "$RCT2:OBJDATA/STEEP2.DAT[133]",
+        "$RCT2:OBJDATA/STEEP2.DAT[135]",
+        "$RCT2:OBJDATA/STEEP2.DAT[137]",
+        "$RCT2:OBJDATA/STEEP2.DAT[139]",
+        "$RCT2:OBJDATA/STEEP2.DAT[141]",
+        "$RCT2:OBJDATA/STEEP2.DAT[143]",
+        "$RCT2:OBJDATA/STEEP2.DAT[145]",
+        "$RCT2:OBJDATA/STEEP2.DAT[147]",
+        "$RCT2:OBJDATA/STEEP2.DAT[149]",
+        "$RCT2:OBJDATA/STEEP2.DAT[151]",
+        "$RCT2:OBJDATA/STEEP2.DAT[153]",
+        "$RCT2:OBJDATA/STEEP2.DAT[155]",
+        "$RCT2:OBJDATA/STEEP2.DAT[157]",
+        "$RCT2:OBJDATA/STEEP2.DAT[159]",
+        "$RCT2:OBJDATA/STEEP2.DAT[161]",
+
+        "$RCT2:OBJDATA/STEEP2.DAT[163..170]",
+
+        "$RCT2:OBJDATA/STEEP2.DAT[171]",
+        "$RCT2:OBJDATA/STEEP2.DAT[179]",
+        "$RCT2:OBJDATA/STEEP2.DAT[187]",
+        "$RCT2:OBJDATA/STEEP2.DAT[195]",
+        "$RCT2:OBJDATA/STEEP2.DAT[203]",
+        "$RCT2:OBJDATA/STEEP2.DAT[211]",
+        "$RCT2:OBJDATA/STEEP2.DAT[219]",
+        "$RCT2:OBJDATA/STEEP2.DAT[227]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Motorbikes",
+            "fr-FR": "Courses de moto",
+            "de-DE": "Motorräder",
+            "es-ES": "Carrera de Motos",
+            "it-IT": "Corsa in motocicletta",
+            "nl-NL": "Motorfietsen",
+            "sv-SE": "Motorcykeltävling",
+            "ko-KR": "모터바이크 차량",
+            "zh-CN": "摩托车竞速赛",
+            "zh-TW": "摩托車競速賽",
+            "pt-BR": "Motos",
+            "cs-CZ": "Závody motorek",
+            "ja-JP": "オートバイレース",
+            "pl-PL": "Wyścigi motocyklowe",
+            "ru-RU": "Мотоциклы",
+            "eo-ZZ": "Motorbicikloj"
+        },
+        "description": {
+            "en-GB": "Single cars shaped like a motorbike",
+            "fr-FR": "Véhicule en forme de moto de course parcourant des montagnes russes sur une voie monorail",
+            "de-DE": "Einzelwagen, die wie Motorräder geformt sind",
+            "es-ES": "Los pasajeros se montan en unos vagones con forma de moto que recorren sobre un monoraíl",
+            "it-IT": "I passeggeri attraversano un tracciato monorotaia su veicoli a forma di motocicletta",
+            "nl-NL": "Losse karretjes in de vorm van een motorfiets.",
+            "sv-SE": "Motorcykelformade singelvagnar",
+            "ko-KR": "단선 롤러코스터 트랙을 따라 달리는 오토바이 모양의 차량에 탑승하는 놀이기구",
+            "zh-CN": "乘客搭着摩托车形的过山车车辆延着单轨轨道前进",
+            "zh-TW": "乘客搭著摩托車形的雲霄飛車車輛延著單軌軌道前進",
+            "pt-BR": "Carros únicos moldados como motos",
+            "cs-CZ": "Vozy ve tvaru motorek vozí návštěvníky po jednokolejné trati",
+            "ja-JP": "シングルレールコースをオートバイの形の車両が走行する乗物です",
+            "pl-PL": "Pasażerowie jadą wagonikami w kształcie motocykli po jednoszynowym torze",
+            "ru-RU": "Пассажиры едут в вагончиках в виде мотоциклов по треку",
+            "eo-ZZ": "Unuopaj ĉaroj formitaj kiel motorbiciklo"
+        },
+        "capacity": {
+            "en-GB": "2 riders per bike",
+            "fr-FR": "2 passagers par moto",
+            "de-DE": "2 Fahrgäste pro Motorrad",
+            "es-ES": "2 pasajeros por moto",
+            "it-IT": "2 passeggeri per motocicletta",
+            "nl-NL": "2 passagiers per motorfiets",
+            "sv-SE": "2 passagerare per motorcykel",
+            "ko-KR": "자전거당 2명의 승객",
+            "zh-CN": "2 位乘客/每辆摩托车",
+            "zh-TW": "2 位乘客/每輛摩托車",
+            "pt-BR": "2 passageiros por moto",
+            "cs-CZ": "2 místa na každé motorce",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na motocykl",
+            "ru-RU": "2 пассажира",
+            "eo-ZZ": "Po 2 rajdantoj por biciklo"
+        }
+    }
+}
