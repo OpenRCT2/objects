@@ -10,6 +10,7 @@
         "rct2",
         "rct1aa"
     ],
+    "isCompatibilityObject": true,
     "objectType": "ride",
     "properties": {
         "type": "heartline_twister_rc",
