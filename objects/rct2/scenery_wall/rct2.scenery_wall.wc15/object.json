@@ -12,12 +12,17 @@
     ],
     "objectType": "scenery_wall",
     "properties": {
+        "isAllowedOnSlope": true,
         "height": 3,
         "price": 60,
         "sceneryGroup": "rct2.scenery_group.scgfence"
     },
     "images": [
-        "$RCT2:OBJDATA/WC15.DAT[0..5]"
+        "$RCT2:OBJDATA/WC15.DAT[0..1]",
+        { "path": "images/2.png", "x": -30, "y": -39 },
+        { "path": "images/3.png", "x": -1, "y": -39 },
+        { "path": "images/4.png", "x": -30, "y": -33 },
+        { "path": "images/5.png", "x": -1, "y": -32 }
     ],
     "strings": {
         "name": {
