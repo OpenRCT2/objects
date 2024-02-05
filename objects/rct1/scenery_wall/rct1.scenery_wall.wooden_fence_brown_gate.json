@@ -7,13 +7,12 @@
     "objectType": "scenery_wall",
     "properties": {
         "hasPrimaryColour": true,
-        "isAllowedOnSlope": true,
         "height": 2,
         "price": 40,
         "sceneryGroup": "rct2.scenery_group.scgfence"
     },
-    "images": ["$CSG[63155..63160]"],
-    "noCsgImages": ["$RCT2:OBJDATA/WPW1.DAT[0..5]"],
+    "images": ["$CSG[63155..63156]"],
+    "noCsgImages": ["$RCT2:OBJDATA/WPW1.DAT[0..1]"],
     "strings": {
         "name": {
             "en-GB": "Wooden Fence",
