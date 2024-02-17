@@ -18,16 +18,9 @@
         "carColours": [
             [
                 [
-                    "yellow",
-                    "olive_green",
-                    "black"
-                ]
-            ],
-            [
-                [
-                    "grey",
-                    "bordeaux_red",
-                    "black"
+                    "light_blue",
+                    "bright_pink",
+                    "yellow"
                 ]
             ]
         ],
@@ -47,7 +40,6 @@
                 "restraintAnimation": true
             },
             "overrideNumberOfVerticalFrames": true,
-            "hasAdditionalColour1": true,
             "isPowered": true,
             "loadingPositions": [
                 -7,
