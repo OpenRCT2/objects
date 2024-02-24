@@ -19,8 +19,9 @@
         "tabCar": 1,
         "headCars": 1,
         "ratingMultipler": {
-            "excitement": 15,
-            "intensity": 3
+            "excitement": 22,
+            "intensity": 5,
+            "nausea": 5
         },
         "carColours": [
             [

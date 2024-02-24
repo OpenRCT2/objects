@@ -15,7 +15,9 @@
         "defaultCar": 1,
         "headCars": 0,
         "ratingMultipler": {
-            "excitement": 15
+            "excitement": 10,
+            "intensity": -6,
+            "nausea": -6
         },
         "maxHeight": 45,
         "carColours": [

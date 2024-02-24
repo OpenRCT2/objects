@@ -9,9 +9,6 @@
     "properties": {
         "type": "steeplechase",
         "category": "rollercoaster",
-        "ratingMultipler": {
-            "excitement": 3
-        },
         "carColours": [
             [
                 ["bright_red", "white", "black"]

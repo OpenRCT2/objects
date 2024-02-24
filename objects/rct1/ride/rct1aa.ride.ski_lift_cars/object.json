@@ -10,8 +10,9 @@
         "type": "chairlift",
         "category": "transport",
         "ratingMultipler": {
-            "intensity": 3,
-            "nausea": 4
+            "excitement": 4,
+            "intensity": 36,
+            "nausea": 18
         },
         "carColours": [
             [
