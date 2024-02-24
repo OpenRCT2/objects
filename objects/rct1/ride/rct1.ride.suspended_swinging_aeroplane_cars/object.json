@@ -15,8 +15,7 @@
         "tabScale": 0.5,
         "maxCarsPerTrain": 8,
         "ratingMultipler": {
-            "excitement": 5,
-            "nausea": 3
+            "excitement": 2
         },
         "carColours": [
             [

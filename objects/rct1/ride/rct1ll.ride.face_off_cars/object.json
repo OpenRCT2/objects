@@ -13,9 +13,9 @@
         "minCarsPerTrain": 2,
         "maxCarsPerTrain": 7,
         "ratingMultipler": {
-            "excitement": 8,
-            "intensity": 12,
-            "nausea": 10
+            "excitement": 6,
+            "intensity": 2,
+            "nausea": 9
         },
         "carColours": [
             [
