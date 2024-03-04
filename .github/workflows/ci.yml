@@ -58,9 +58,14 @@ jobs:
       with:
         name: "OpenRCT2 Objects"
         path: artifacts/objects.zip
+    - name: Calculate SHA1
+      run: |
+        echo "SHA1=$(sha1sum artifacts/objects.zip | awk '{printf $1}')" >> $GITHUB_OUTPUT
+      id: calculate_sha1
     - name: Create release
       uses: softprops/action-gh-release@v1
       if: startsWith(github.ref, 'refs/tags/v')
       with:
         fail_on_unmatched_files: true
         files: artifacts/objects.zip
+        body: SHA1:${{ steps.calculate_sha1.outputs.SHA1 }}
