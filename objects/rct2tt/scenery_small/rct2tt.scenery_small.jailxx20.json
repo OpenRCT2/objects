@@ -26,7 +26,7 @@
     "strings": {
         "name": {
             "en-GB": "Prison Wall Corner",
-            "fr-FR": "Virage de mur de prison",
+            "fr-FR": "Coin de mur de prison",
             "de-DE": "Gefängnismauerecke",
             "es-ES": "Esquina de muro de prisión",
             "it-IT": "Curva del muro della prigione",
@@ -42,7 +42,8 @@
             "eo-ZZ": "Murangulo de Malliberejo",
             "ca-ES": "Cantonada de paret de presó",
             "fi-FI": "Vankilan seinän kulmaosa",
-            "zh-CN": "监狱-墙转角"
+            "zh-CN": "监狱-墙转角",
+            "hu-HU": "Börtönfal sarok"
         }
     }
 }

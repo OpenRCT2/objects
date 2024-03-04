@@ -1,6 +1,9 @@
 {
     "id": "rct1.ride.racing_cars",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1RCR|00000000",
     "sourceGame": "rct1",
@@ -18,13 +21,25 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["bright_green", "yellow", "black"]
+                [
+                    "bright_green",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "light_orange", "black"]
+                [
+                    "light_blue",
+                    "light_orange",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -38,13 +53,15 @@
                 "poweredMaxSpeed": 9,
                 "drawOrder": 7,
                 "spriteGroups": {
-                    "slopeFlat":16,
-                    "slopes12":4,
-                    "slopes25":4
+                    "slopeFlat": 16,
+                    "slopes12": 4,
+                    "slopes25": 4
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [0]
+                "loadingPositions": [
+                    0
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -54,7 +71,7 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "isPowered": true
             }
@@ -66,50 +83,40 @@
         "",
         "",
         "$CSG[33293..33308]",
-
         "$CSG[33309]",
         "$CSG[33313]",
         "$CSG[33317]",
         "$CSG[33321]",
-
         "$CSG[33311]",
         "$CSG[33315]",
         "$CSG[33319]",
-        "$CSG[33323]", 
-
+        "$CSG[33323]",
         "$CSG[33310]",
         "$CSG[33314]",
         "$CSG[33318]",
         "$CSG[33322]",
-
         "$CSG[33312]",
         "$CSG[33316]",
         "$CSG[33320]",
         "$CSG[33324]",
-
         "$CSG[33325..33340]",
-
         "$CSG[33341]",
         "$CSG[33345]",
         "$CSG[33349]",
         "$CSG[33353]",
-
         "$CSG[33343]",
         "$CSG[33347]",
         "$CSG[33351]",
-        "$CSG[33355]", 
-
+        "$CSG[33355]",
         "$CSG[33342]",
         "$CSG[33346]",
         "$CSG[33350]",
         "$CSG[33354]",
-
         "$CSG[33344]",
         "$CSG[33348]",
         "$CSG[33352]",
         "$CSG[33356]",
-
-		""
+        ""
     ],
     "noCsgImages": [
         { "path": "images/preview.png", "format": "raw" },
@@ -131,9 +138,7 @@
         "$RCT2:OBJDATA/RCR.DAT[29]",
         "$RCT2:OBJDATA/RCR.DAT[31]",
         "$RCT2:OBJDATA/RCR.DAT[33]",
-
         "$RCT2:OBJDATA/RCR.DAT[35..42]",
-
         "$RCT2:OBJDATA/RCR.DAT[43]",
         "$RCT2:OBJDATA/RCR.DAT[51]",
         "$RCT2:OBJDATA/RCR.DAT[59]",
@@ -142,7 +147,6 @@
         "$RCT2:OBJDATA/RCR.DAT[83]",
         "$RCT2:OBJDATA/RCR.DAT[91]",
         "$RCT2:OBJDATA/RCR.DAT[99]",
-
         "$RCT2:OBJDATA/RCR.DAT[107]",
         "$RCT2:OBJDATA/RCR.DAT[109]",
         "$RCT2:OBJDATA/RCR.DAT[111]",
@@ -159,9 +163,7 @@
         "$RCT2:OBJDATA/RCR.DAT[133]",
         "$RCT2:OBJDATA/RCR.DAT[135]",
         "$RCT2:OBJDATA/RCR.DAT[137]",
-
         "$RCT2:OBJDATA/RCR.DAT[139..146]",
-
         "$RCT2:OBJDATA/RCR.DAT[147]",
         "$RCT2:OBJDATA/RCR.DAT[155]",
         "$RCT2:OBJDATA/RCR.DAT[163]",
@@ -170,13 +172,12 @@
         "$RCT2:OBJDATA/RCR.DAT[187]",
         "$RCT2:OBJDATA/RCR.DAT[195]",
         "$RCT2:OBJDATA/RCR.DAT[203]",
-
-		""
+        ""
     ],
     "strings": {
         "name": {
             "en-GB": "Racing Cars",
-            "fr-FR": "Voitures de course",
+            "fr-FR": "Voiture de course",
             "de-DE": "Rennwagen",
             "es-ES": "Coches de Carreras",
             "it-IT": "Auto da corsa",
@@ -194,7 +195,7 @@
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of racing cars",
-            "fr-FR": "Véhicules à propulsion en forme de voitures de course",
+            "fr-FR": "Véhicule à propulsion en forme de voiture de course",
             "de-DE": "Angetriebene Fahrzeuge in Form von Rennwagen",
             "es-ES": "Vehículos autopropulsados con forma de coches de carreras",
             "it-IT": "Veicoli a motore che ricordano le auto da corsa",

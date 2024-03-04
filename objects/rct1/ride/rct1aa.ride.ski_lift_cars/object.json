@@ -1,6 +1,9 @@
 {
     "id": "rct1aa.ride.ski_lift_cars",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1SFT|00000000",
     "sourceGame": "rct1aa",
@@ -16,13 +19,25 @@
         },
         "carColours": [
             [
-                ["white", "bright_red", "black"]
+                [
+                    "white",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["white", "dark_green", "black"]
+                [
+                    "white",
+                    "dark_green",
+                    "black"
+                ]
             ],
             [
-                ["black", "white", "black"]
+                [
+                    "black",
+                    "white",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -33,12 +48,15 @@
             "numSeats": 2,
             "numSeatRows": 1,
             "spriteGroups": {
-                "slopeFlat":16,
+                "slopeFlat": 16,
                 "restraintAnimation": 4
             },
             "hasAdditionalColour1": true,
             "isChairlift": true,
-            "loadingPositions": [4, 0]
+            "loadingPositions": [
+                4,
+                0
+            ]
         },
         "buildMenuPriority": 1
     },
@@ -47,7 +65,6 @@
         "",
         "",
         "$CSG[36717..36732]",
-
         "$CSG[36733]",
         "$CSG[36736]",
         "$CSG[36739]",
@@ -60,9 +77,7 @@
         "$CSG[36738]",
         "$CSG[36741]",
         "$CSG[36744]",
-
         "$CSG[36745..36760]",
-
         "$CSG[36761]",
         "$CSG[36764]",
         "$CSG[36767]",
@@ -96,9 +111,7 @@
         "$RCT2:OBJDATA/CLIFT2.DAT[29]",
         "$RCT2:OBJDATA/CLIFT2.DAT[31]",
         "$RCT2:OBJDATA/CLIFT2.DAT[33]",
-
         "$RCT2:OBJDATA/CLIFT2.DAT[35..46]",
-
         "$RCT2:OBJDATA/CLIFT2.DAT[47]",
         "$RCT2:OBJDATA/CLIFT2.DAT[49]",
         "$RCT2:OBJDATA/CLIFT2.DAT[51]",
@@ -115,7 +128,6 @@
         "$RCT2:OBJDATA/CLIFT2.DAT[73]",
         "$RCT2:OBJDATA/CLIFT2.DAT[75]",
         "$RCT2:OBJDATA/CLIFT2.DAT[77]",
-
         "$RCT2:OBJDATA/CLIFT2.DAT[79..90]"
     ],
     "strings": {
@@ -139,7 +151,7 @@
         },
         "description": {
             "en-GB": "Open cars for chairlift",
-            "fr-FR": "Voitures ouvertes pour télésiège",
+            "fr-FR": "Voiture ouverte pour télésiège",
             "de-DE": "Offene Wagen für Sessellift",
             "es-ES": "Vagones abiertos para el telesilla",
             "it-IT": "Carrozze aperte che vengono trainate",

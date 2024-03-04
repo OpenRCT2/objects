@@ -1,6 +1,9 @@
 {
     "id": "rct1.ride.steam_trains",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1NR1|00000000",
     "sourceGame": "rct1",
@@ -22,13 +25,25 @@
         ],
         "carColours": [
             [
-                ["bright_red", "moss_green", "yellow"]
+                [
+                    "bright_red",
+                    "moss_green",
+                    "yellow"
+                ]
             ],
             [
-                ["light_blue", "saturated_red", "yellow"]
+                [
+                    "light_blue",
+                    "saturated_red",
+                    "yellow"
+                ]
             ],
             [
-                ["bright_green", "light_brown", "yellow"]
+                [
+                    "bright_green",
+                    "light_brown",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -43,11 +58,11 @@
                 "poweredMaxSpeed": 18,
                 "drawOrder": 5,
                 "spriteGroups": {
-                    "slopeFlat":16,
-                    "slopes12":4,
-                    "slopes25":4,
-                    "slopes8":4,
-                    "slopes16":4
+                    "slopeFlat": 16,
+                    "slopes12": 4,
+                    "slopes25": 4,
+                    "slopes8": 4,
+                    "slopes16": 4
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true,
@@ -61,11 +76,11 @@
                 "soundRange": 3,
                 "drawOrder": 7,
                 "spriteGroups": {
-                    "slopeFlat":16,
-                    "slopes12":4,
-                    "slopes25":4,
-                    "slopes8":4,
-                    "slopes16":4
+                    "slopeFlat": 16,
+                    "slopes12": 4,
+                    "slopes25": 4,
+                    "slopes8": 4,
+                    "slopes16": 4
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true
@@ -80,25 +95,31 @@
                 "soundRange": 3,
                 "drawOrder": 5,
                 "spriteGroups": {
-                    "slopeFlat":16,
-                    "slopes12":4,
-                    "slopes25":4,
-                    "slopes8":4,
-                    "slopes16":4
+                    "slopeFlat": 16,
+                    "slopes12": 4,
+                    "slopes25": 4,
+                    "slopes8": 4,
+                    "slopes16": 4
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [10, 8, 1, -1, -8, -10]
+                "loadingPositions": [
+                    10,
+                    8,
+                    1,
+                    -1,
+                    -8,
+                    -10
+                ]
             }
         ],
         "buildMenuPriority": 4
     },
     "images": [
-    { "path": "images/preview.png", "format": "raw"},
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$CSG[29397..29460]",
-
         "$CSG[29461..29464]",
         "$CSG[29477..29480]",
         "$CSG[29493..29496]",
@@ -107,7 +128,6 @@
         "$CSG[29485..29488]",
         "$CSG[29501..29504]",
         "$CSG[29517..29520]",
-
         "$CSG[29465..29468]",
         "$CSG[29481..29484]",
         "$CSG[29497..29500]",
@@ -116,152 +136,121 @@
         "$CSG[29489..29492]",
         "$CSG[29505..29508]",
         "$CSG[29521..29524]",
-
         "$CSG[29525..29540]",
         "$CSG[29557..29572]",
         "$CSG[29541..29556]",
         "$CSG[29573..29588]",
-
         "$CSG[29349..29364]",
-
         "$CSG[29365]",
         "$CSG[29369]",
         "$CSG[29373]",
         "$CSG[29377]",
-
         "$CSG[29367]",
         "$CSG[29371]",
         "$CSG[29375]",
-        "$CSG[29379]", 
-
+        "$CSG[29379]",
         "$CSG[29366]",
         "$CSG[29370]",
         "$CSG[29374]",
         "$CSG[29378]",
-
         "$CSG[29368]",
         "$CSG[29372]",
         "$CSG[29376]",
         "$CSG[29380]",
-
         "$CSG[29381..29384]",
         "$CSG[29389..29392]",
         "$CSG[29385..29388]",
         "$CSG[29393..29396]",
-
         "$CSG[30181..30196]",
-
         "$CSG[30197]",
         "$CSG[30201]",
         "$CSG[30205]",
         "$CSG[30209]",
-
         "$CSG[30199]",
         "$CSG[30203]",
         "$CSG[30207]",
-        "$CSG[30211]", 
-
+        "$CSG[30211]",
         "$CSG[30198]",
         "$CSG[30202]",
         "$CSG[30206]",
         "$CSG[30210]",
-
         "$CSG[30200]",
         "$CSG[30204]",
         "$CSG[30208]",
         "$CSG[30212]",
-
         "$CSG[30213..30216]",
         "$CSG[30221..30224]",
         "$CSG[30217..30220]",
         "$CSG[30225..30228]",
-
         "$CSG[30229..30244]",
-
         "$CSG[30245]",
         "$CSG[30249]",
         "$CSG[30253]",
         "$CSG[30257]",
-
         "$CSG[30247]",
         "$CSG[30251]",
         "$CSG[30255]",
-        "$CSG[30259]", 
-
+        "$CSG[30259]",
         "$CSG[30246]",
         "$CSG[30250]",
         "$CSG[30254]",
         "$CSG[30258]",
-
         "$CSG[30248]",
         "$CSG[30252]",
         "$CSG[30256]",
         "$CSG[30260]",
-
         "$CSG[30261..30264]",
         "$CSG[30269..30272]",
         "$CSG[30265..30268]",
         "$CSG[30273..30276]",
-
         "$CSG[30277..30292]",
-
         "$CSG[30293]",
         "$CSG[30297]",
         "$CSG[30301]",
         "$CSG[30305]",
-
         "$CSG[30295]",
         "$CSG[30299]",
         "$CSG[30303]",
-        "$CSG[30307]", 
-
+        "$CSG[30307]",
         "$CSG[30294]",
         "$CSG[30298]",
         "$CSG[30302]",
         "$CSG[30306]",
-
         "$CSG[30296]",
         "$CSG[30300]",
         "$CSG[30304]",
         "$CSG[30308]",
-
         "$CSG[30309..30312]",
         "$CSG[30317..30320]",
         "$CSG[30313..30316]",
         "$CSG[30321..30324]",
-
         "$CSG[30325..30340]",
-
         "$CSG[30341]",
         "$CSG[30345]",
         "$CSG[30349]",
         "$CSG[30353]",
-
         "$CSG[30343]",
         "$CSG[30347]",
         "$CSG[30351]",
-        "$CSG[30355]", 
-
+        "$CSG[30355]",
         "$CSG[30342]",
         "$CSG[30346]",
         "$CSG[30350]",
         "$CSG[30354]",
-
         "$CSG[30344]",
         "$CSG[30348]",
         "$CSG[30352]",
         "$CSG[30356]",
-
         "$CSG[30357..30360]",
         "$CSG[30365..30368]",
         "$CSG[30361..30364]",
         "$CSG[30369..30372]"
     ],
     "noCsgImages": [
-    { "path": "images/preview.png", "format": "raw"},
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
-           "$RCT2:OBJDATA/NRL.DAT[3..6]",
+        "$RCT2:OBJDATA/NRL.DAT[3..6]",
         "$RCT2:OBJDATA/NRL.DAT[11..14]",
         "$RCT2:OBJDATA/NRL.DAT[19..22]",
         "$RCT2:OBJDATA/NRL.DAT[27..30]",
@@ -277,9 +266,7 @@
         "$RCT2:OBJDATA/NRL.DAT[107..110]",
         "$RCT2:OBJDATA/NRL.DAT[115..118]",
         "$RCT2:OBJDATA/NRL.DAT[123..126]",
-
         "$RCT2:OBJDATA/NRL.DAT[131..162]",
-
         "$RCT2:OBJDATA/NRL.DAT[163..166]",
         "$RCT2:OBJDATA/NRL.DAT[195..198]",
         "$RCT2:OBJDATA/NRL.DAT[227..230]",
@@ -288,10 +275,8 @@
         "$RCT2:OBJDATA/NRL.DAT[323..326]",
         "$RCT2:OBJDATA/NRL.DAT[355..358]",
         "$RCT2:OBJDATA/NRL.DAT[387..390]",
-
         "$RCT2:OBJDATA/NRL.DAT[419..482]",
-
-           "$RCT2:OBJDATA/NRL.DAT[515]",
+        "$RCT2:OBJDATA/NRL.DAT[515]",
         "$RCT2:OBJDATA/NRL.DAT[517]",
         "$RCT2:OBJDATA/NRL.DAT[519]",
         "$RCT2:OBJDATA/NRL.DAT[521]",
@@ -307,9 +292,7 @@
         "$RCT2:OBJDATA/NRL.DAT[541]",
         "$RCT2:OBJDATA/NRL.DAT[543]",
         "$RCT2:OBJDATA/NRL.DAT[545]",
-
         "$RCT2:OBJDATA/NRL.DAT[547..554]",
-
         "$RCT2:OBJDATA/NRL.DAT[555]",
         "$RCT2:OBJDATA/NRL.DAT[563]",
         "$RCT2:OBJDATA/NRL.DAT[571]",
@@ -318,10 +301,8 @@
         "$RCT2:OBJDATA/NRL.DAT[595]",
         "$RCT2:OBJDATA/NRL.DAT[603]",
         "$RCT2:OBJDATA/NRL.DAT[611]",
-
         "$RCT2:OBJDATA/NRL.DAT[619..634]",
-
-           "$RCT2:OBJDATA/NRL.DAT[643]",
+        "$RCT2:OBJDATA/NRL.DAT[643]",
         "$RCT2:OBJDATA/NRL.DAT[645]",
         "$RCT2:OBJDATA/NRL.DAT[647]",
         "$RCT2:OBJDATA/NRL.DAT[649]",
@@ -337,9 +318,7 @@
         "$RCT2:OBJDATA/NRL.DAT[669]",
         "$RCT2:OBJDATA/NRL.DAT[671]",
         "$RCT2:OBJDATA/NRL.DAT[673]",
-
         "$RCT2:OBJDATA/NRL.DAT[675..682]",
-
         "$RCT2:OBJDATA/NRL.DAT[683]",
         "$RCT2:OBJDATA/NRL.DAT[691]",
         "$RCT2:OBJDATA/NRL.DAT[699]",
@@ -348,10 +327,8 @@
         "$RCT2:OBJDATA/NRL.DAT[723]",
         "$RCT2:OBJDATA/NRL.DAT[731]",
         "$RCT2:OBJDATA/NRL.DAT[739]",
-
         "$RCT2:OBJDATA/NRL.DAT[747..762]",
-
-         "$RCT2:OBJDATA/NRL.DAT[771]",
+        "$RCT2:OBJDATA/NRL.DAT[771]",
         "$RCT2:OBJDATA/NRL.DAT[773]",
         "$RCT2:OBJDATA/NRL.DAT[775]",
         "$RCT2:OBJDATA/NRL.DAT[777]",
@@ -367,9 +344,7 @@
         "$RCT2:OBJDATA/NRL.DAT[797]",
         "$RCT2:OBJDATA/NRL.DAT[799]",
         "$RCT2:OBJDATA/NRL.DAT[801]",
-
         "$RCT2:OBJDATA/NRL.DAT[803..810]",
-
         "$RCT2:OBJDATA/NRL.DAT[811]",
         "$RCT2:OBJDATA/NRL.DAT[819]",
         "$RCT2:OBJDATA/NRL.DAT[827]",
@@ -378,10 +353,8 @@
         "$RCT2:OBJDATA/NRL.DAT[851]",
         "$RCT2:OBJDATA/NRL.DAT[859]",
         "$RCT2:OBJDATA/NRL.DAT[867]",
-
         "$RCT2:OBJDATA/NRL.DAT[875..890]",
-
-         "$RCT2:OBJDATA/NRL.DAT[899]",
+        "$RCT2:OBJDATA/NRL.DAT[899]",
         "$RCT2:OBJDATA/NRL.DAT[901]",
         "$RCT2:OBJDATA/NRL.DAT[903]",
         "$RCT2:OBJDATA/NRL.DAT[905]",
@@ -397,9 +370,7 @@
         "$RCT2:OBJDATA/NRL.DAT[925]",
         "$RCT2:OBJDATA/NRL.DAT[927]",
         "$RCT2:OBJDATA/NRL.DAT[929]",
-
         "$RCT2:OBJDATA/NRL.DAT[931..938]",
-
         "$RCT2:OBJDATA/NRL.DAT[939]",
         "$RCT2:OBJDATA/NRL.DAT[947]",
         "$RCT2:OBJDATA/NRL.DAT[955]",
@@ -408,10 +379,8 @@
         "$RCT2:OBJDATA/NRL.DAT[979]",
         "$RCT2:OBJDATA/NRL.DAT[987]",
         "$RCT2:OBJDATA/NRL.DAT[995]",
-
         "$RCT2:OBJDATA/NRL.DAT[1003..1018]",
-
-         "$RCT2:OBJDATA/NRL.DAT[1027]",
+        "$RCT2:OBJDATA/NRL.DAT[1027]",
         "$RCT2:OBJDATA/NRL.DAT[1029]",
         "$RCT2:OBJDATA/NRL.DAT[1031]",
         "$RCT2:OBJDATA/NRL.DAT[1033]",
@@ -427,9 +396,7 @@
         "$RCT2:OBJDATA/NRL.DAT[1053]",
         "$RCT2:OBJDATA/NRL.DAT[1055]",
         "$RCT2:OBJDATA/NRL.DAT[1057]",
-
         "$RCT2:OBJDATA/NRL.DAT[1059..1066]",
-
         "$RCT2:OBJDATA/NRL.DAT[1067]",
         "$RCT2:OBJDATA/NRL.DAT[1075]",
         "$RCT2:OBJDATA/NRL.DAT[1083]",
@@ -438,13 +405,12 @@
         "$RCT2:OBJDATA/NRL.DAT[1107]",
         "$RCT2:OBJDATA/NRL.DAT[1115]",
         "$RCT2:OBJDATA/NRL.DAT[1123]",
-
         "$RCT2:OBJDATA/NRL.DAT[1131..1146]"
     ],
     "strings": {
         "name": {
             "en-GB": "Steam Trains",
-            "fr-FR": "Trains vapeur",
+            "fr-FR": "Train à vapeur",
             "de-DE": "Dampfzüge",
             "es-ES": "Tren de Vapor",
             "it-IT": "Treni a vapore",
@@ -462,7 +428,7 @@
         },
         "description": {
             "en-GB": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling open wooden carriages",
-            "fr-FR": "Trains miniatures comprenant une réplique de locomotive à vapeur et des petits wagons en bois et ouverts",
+            "fr-FR": "Train miniature comprenant une réplique de locomotive à vapeur et des petits wagons en bois et ouverts",
             "de-DE": "Mini-Dampfzüge bestehend aus nachgemachter Dampflok und Tender mit offenen Holzwagons",
             "es-ES": "Trenes vapor en miniatura que son réplicas de las auténticas, tirando de vagones de madera",
             "it-IT": "Treni a vapore in miniatura che replicano le locomotive a vapore e i carri scorta. Trainano carrozze di legno aperte",

@@ -1,6 +1,9 @@
 {
     "id": "rct1aa.ride.steel_wild_mouse_cars",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1SMC|00000000",
     "sourceGame": "rct1aa",
@@ -17,38 +20,166 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["white", "bordeaux_red", "black"],
-                ["dark_brown", "bordeaux_red", "black"],
-                ["light_pink", "dark_green", "black"],
-                ["grey", "saturated_brown", "black"],
-                ["yellow", "bordeaux_red", "black"],
-                ["bright_red", "yellow", "black"],
-                ["light_blue", "yellow", "black"],
-                ["dark_green", "bordeaux_red", "black"],
-                ["bordeaux_red", "black", "black"],
-                ["black", "bordeaux_red", "black"],
-                ["light_brown", "black", "black"],
-                ["light_orange", "bordeaux_red", "black"],
-                ["dark_green", "saturated_brown", "black"],
-                ["dark_brown", "saturated_brown", "black"],
-                ["salmon_pink", "saturated_brown", "black"],
-                ["white", "saturated_brown", "black"],
-                ["light_brown", "saturated_brown", "black"],
-                ["bordeaux_red", "saturated_brown", "black"],
-                ["yellow", "saturated_brown", "black"],
-                ["light_pink", "saturated_brown", "black"],
-                ["light_blue", "saturated_brown", "black"],
-                ["grey", "saturated_brown", "black"],
-                ["light_purple", "saturated_brown", "black"],
-                ["light_orange", "saturated_brown", "black"],
-                ["bright_red", "saturated_brown", "black"],
-                ["black", "saturated_brown", "black"],
-                ["light_pink", "saturated_brown", "black"],
-                ["aquamarine", "saturated_brown", "black"],
-                ["dark_green", "saturated_brown", "black"],
-                ["light_brown", "saturated_brown", "black"],
-                ["salmon_pink", "saturated_brown", "black"],
-                ["light_orange", "saturated_brown", "black"]
+                [
+                    "white",
+                    "bordeaux_red",
+                    "black"
+                ],
+                [
+                    "dark_brown",
+                    "bordeaux_red",
+                    "black"
+                ],
+                [
+                    "light_pink",
+                    "dark_green",
+                    "black"
+                ],
+                [
+                    "grey",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "yellow",
+                    "bordeaux_red",
+                    "black"
+                ],
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ],
+                [
+                    "light_blue",
+                    "yellow",
+                    "black"
+                ],
+                [
+                    "dark_green",
+                    "bordeaux_red",
+                    "black"
+                ],
+                [
+                    "bordeaux_red",
+                    "black",
+                    "black"
+                ],
+                [
+                    "black",
+                    "bordeaux_red",
+                    "black"
+                ],
+                [
+                    "light_brown",
+                    "black",
+                    "black"
+                ],
+                [
+                    "light_orange",
+                    "bordeaux_red",
+                    "black"
+                ],
+                [
+                    "dark_green",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "dark_brown",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "salmon_pink",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "white",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_brown",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "bordeaux_red",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "yellow",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_pink",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_blue",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "grey",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_purple",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_orange",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "bright_red",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "black",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_pink",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "aquamarine",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "dark_green",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_brown",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "salmon_pink",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_orange",
+                    "saturated_brown",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -62,15 +193,20 @@
                 "soundRange": 2,
                 "drawOrder": 6,
                 "spriteGroups": {
-                    "slopeFlat":16,
-                    "slopes12":4,
-                    "slopes25":16,
-                    "slopes42":4,
-                    "slopes60":4
+                    "slopeFlat": 16,
+                    "slopes12": 4,
+                    "slopes25": 16,
+                    "slopes42": 4,
+                    "slopes60": 4
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    -3,
+                    -1
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -80,7 +216,7 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "hasScreamingRiders": true
             }
@@ -92,17 +228,14 @@
         "",
         "",
         "$CSG[18550..18565]",
-
         "$CSG[18566]",
         "$CSG[18574]",
         "$CSG[18582]",
         "$CSG[18590]",
-
         "$CSG[18570]",
         "$CSG[18578]",
         "$CSG[18586]",
         "$CSG[18594]",
- 
         "$CSG[18567]",
         "$CSG[18598..18600]",
         "$CSG[18575]",
@@ -111,7 +244,6 @@
         "$CSG[18604..18606]",
         "$CSG[18591]",
         "$CSG[18607..18609]",
-
         "$CSG[18571]",
         "$CSG[18610..18612]",
         "$CSG[18579]",
@@ -120,7 +252,6 @@
         "$CSG[18616..18618]",
         "$CSG[18595]",
         "$CSG[18619..18621]",
-
         "$CSG[18568]",
         "$CSG[18576]",
         "$CSG[18584]",
@@ -137,19 +268,15 @@
         "$CSG[18581]",
         "$CSG[18589]",
         "$CSG[18597]",
-
         "$CSG[18622..18637]",
-
         "$CSG[18638]",
         "$CSG[18646]",
         "$CSG[18654]",
         "$CSG[18662]",
-
         "$CSG[18642]",
         "$CSG[18650]",
         "$CSG[18658]",
         "$CSG[18666]",
- 
         "$CSG[18639]",
         "$CSG[18670..18672]",
         "$CSG[18647]",
@@ -158,7 +285,6 @@
         "$CSG[18676..18678]",
         "$CSG[18663]",
         "$CSG[18679..18681]",
-
         "$CSG[18643]",
         "$CSG[18682..18684]",
         "$CSG[18651]",
@@ -167,7 +293,6 @@
         "$CSG[18688..18690]",
         "$CSG[18667]",
         "$CSG[18691..18693]",
-
         "$CSG[18640]",
         "$CSG[18648]",
         "$CSG[18656]",
@@ -184,19 +309,15 @@
         "$CSG[18653]",
         "$CSG[18661]",
         "$CSG[18669]",
-
         "$CSG[18694..18709]",
-
         "$CSG[18710]",
         "$CSG[18718]",
         "$CSG[18726]",
         "$CSG[18734]",
-
         "$CSG[18714]",
         "$CSG[18722]",
         "$CSG[18730]",
         "$CSG[18738]",
- 
         "$CSG[18711]",
         "$CSG[18742..18744]",
         "$CSG[18719]",
@@ -205,7 +326,6 @@
         "$CSG[18748..18750]",
         "$CSG[18735]",
         "$CSG[18751..18753]",
-
         "$CSG[18715]",
         "$CSG[18754..18756]",
         "$CSG[18723]",
@@ -214,7 +334,6 @@
         "$CSG[18760..18762]",
         "$CSG[18739]",
         "$CSG[18763..18765]",
-
         "$CSG[18712]",
         "$CSG[18720]",
         "$CSG[18728]",
@@ -231,7 +350,6 @@
         "$CSG[18725]",
         "$CSG[18733]",
         "$CSG[18741]",
-
         ""
     ],
     "noCsgImages": [
@@ -254,9 +372,7 @@
         "$RCT2:OBJDATA/SMC1.DAT[29]",
         "$RCT2:OBJDATA/SMC1.DAT[31]",
         "$RCT2:OBJDATA/SMC1.DAT[33]",
-
         "$RCT2:OBJDATA/SMC1.DAT[35..42]",
-
         "$RCT2:OBJDATA/SMC1.DAT[43]",
         "$RCT2:OBJDATA/SMC1.DAT[45]",
         "$RCT2:OBJDATA/SMC1.DAT[47]",
@@ -273,7 +389,6 @@
         "$RCT2:OBJDATA/SMC1.DAT[69]",
         "$RCT2:OBJDATA/SMC1.DAT[71]",
         "$RCT2:OBJDATA/SMC1.DAT[73]",
-
         "$RCT2:OBJDATA/SMC1.DAT[75]",
         "$RCT2:OBJDATA/SMC1.DAT[77]",
         "$RCT2:OBJDATA/SMC1.DAT[79]",
@@ -290,7 +405,6 @@
         "$RCT2:OBJDATA/SMC1.DAT[101]",
         "$RCT2:OBJDATA/SMC1.DAT[103]",
         "$RCT2:OBJDATA/SMC1.DAT[105]",
-
         "$RCT2:OBJDATA/SMC1.DAT[107]",
         "$RCT2:OBJDATA/SMC1.DAT[109]",
         "$RCT2:OBJDATA/SMC1.DAT[111]",
@@ -299,7 +413,6 @@
         "$RCT2:OBJDATA/SMC1.DAT[117]",
         "$RCT2:OBJDATA/SMC1.DAT[119]",
         "$RCT2:OBJDATA/SMC1.DAT[121]",
-
         "$RCT2:OBJDATA/SMC1.DAT[123]",
         "$RCT2:OBJDATA/SMC1.DAT[131]",
         "$RCT2:OBJDATA/SMC1.DAT[139]",
@@ -308,7 +421,6 @@
         "$RCT2:OBJDATA/SMC1.DAT[163]",
         "$RCT2:OBJDATA/SMC1.DAT[171]",
         "$RCT2:OBJDATA/SMC1.DAT[179]",
-
         "$RCT2:OBJDATA/SMC1.DAT[199]",
         "$RCT2:OBJDATA/SMC1.DAT[201]",
         "$RCT2:OBJDATA/SMC1.DAT[203]",
@@ -325,9 +437,7 @@
         "$RCT2:OBJDATA/SMC1.DAT[225]",
         "$RCT2:OBJDATA/SMC1.DAT[227]",
         "$RCT2:OBJDATA/SMC1.DAT[229]",
-
         "$RCT2:OBJDATA/SMC1.DAT[231..238]",
-
         "$RCT2:OBJDATA/SMC1.DAT[239]",
         "$RCT2:OBJDATA/SMC1.DAT[241]",
         "$RCT2:OBJDATA/SMC1.DAT[243]",
@@ -344,7 +454,6 @@
         "$RCT2:OBJDATA/SMC1.DAT[265]",
         "$RCT2:OBJDATA/SMC1.DAT[267]",
         "$RCT2:OBJDATA/SMC1.DAT[269]",
-
         "$RCT2:OBJDATA/SMC1.DAT[271]",
         "$RCT2:OBJDATA/SMC1.DAT[273]",
         "$RCT2:OBJDATA/SMC1.DAT[275]",
@@ -361,7 +470,6 @@
         "$RCT2:OBJDATA/SMC1.DAT[297]",
         "$RCT2:OBJDATA/SMC1.DAT[299]",
         "$RCT2:OBJDATA/SMC1.DAT[301]",
-
         "$RCT2:OBJDATA/SMC1.DAT[303]",
         "$RCT2:OBJDATA/SMC1.DAT[305]",
         "$RCT2:OBJDATA/SMC1.DAT[307]",
@@ -370,7 +478,6 @@
         "$RCT2:OBJDATA/SMC1.DAT[313]",
         "$RCT2:OBJDATA/SMC1.DAT[315]",
         "$RCT2:OBJDATA/SMC1.DAT[317]",
-
         "$RCT2:OBJDATA/SMC1.DAT[319]",
         "$RCT2:OBJDATA/SMC1.DAT[327]",
         "$RCT2:OBJDATA/SMC1.DAT[335]",
@@ -379,7 +486,6 @@
         "$RCT2:OBJDATA/SMC1.DAT[359]",
         "$RCT2:OBJDATA/SMC1.DAT[367]",
         "$RCT2:OBJDATA/SMC1.DAT[375]",
-
         "$RCT2:OBJDATA/SMC1.DAT[395]",
         "$RCT2:OBJDATA/SMC1.DAT[397]",
         "$RCT2:OBJDATA/SMC1.DAT[399]",
@@ -396,9 +502,7 @@
         "$RCT2:OBJDATA/SMC1.DAT[421]",
         "$RCT2:OBJDATA/SMC1.DAT[423]",
         "$RCT2:OBJDATA/SMC1.DAT[425]",
-
         "$RCT2:OBJDATA/SMC1.DAT[427..434]",
-
         "$RCT2:OBJDATA/SMC1.DAT[435]",
         "$RCT2:OBJDATA/SMC1.DAT[437]",
         "$RCT2:OBJDATA/SMC1.DAT[439]",
@@ -415,7 +519,6 @@
         "$RCT2:OBJDATA/SMC1.DAT[461]",
         "$RCT2:OBJDATA/SMC1.DAT[463]",
         "$RCT2:OBJDATA/SMC1.DAT[465]",
-
         "$RCT2:OBJDATA/SMC1.DAT[467]",
         "$RCT2:OBJDATA/SMC1.DAT[469]",
         "$RCT2:OBJDATA/SMC1.DAT[471]",
@@ -432,7 +535,6 @@
         "$RCT2:OBJDATA/SMC1.DAT[493]",
         "$RCT2:OBJDATA/SMC1.DAT[495]",
         "$RCT2:OBJDATA/SMC1.DAT[497]",
-
         "$RCT2:OBJDATA/SMC1.DAT[499]",
         "$RCT2:OBJDATA/SMC1.DAT[501]",
         "$RCT2:OBJDATA/SMC1.DAT[503]",
@@ -441,7 +543,6 @@
         "$RCT2:OBJDATA/SMC1.DAT[509]",
         "$RCT2:OBJDATA/SMC1.DAT[511]",
         "$RCT2:OBJDATA/SMC1.DAT[513]",
-
         "$RCT2:OBJDATA/SMC1.DAT[515]",
         "$RCT2:OBJDATA/SMC1.DAT[523]",
         "$RCT2:OBJDATA/SMC1.DAT[531]",
@@ -450,7 +551,6 @@
         "$RCT2:OBJDATA/SMC1.DAT[555]",
         "$RCT2:OBJDATA/SMC1.DAT[563]",
         "$RCT2:OBJDATA/SMC1.DAT[571]",
-
         ""
     ],
     "strings": {
@@ -474,7 +574,7 @@
         },
         "description": {
             "en-GB": "Individual cars shaped like mice",
-            "fr-FR": "Voitures individuelles en forme de souris",
+            "fr-FR": "Voiture individuelle en forme de souris",
             "de-DE": "Einzelne Wagen in Form von Mäusen",
             "es-ES": "Coches individuales con forma de ratón",
             "it-IT": "Carrozze individuali a forma di topolini",

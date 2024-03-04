@@ -1,6 +1,9 @@
 {
     "id": "rct1.ride.bobsleigh_trains",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1BOB|00000000",
     "sourceGame": "rct1",
@@ -12,10 +15,18 @@
         "maxCarsPerTrain": 8,
         "carColours": [
             [
-                ["light_blue", "white", "black"]
+                [
+                    "light_blue",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["bright_red", "white", "black"]
+                [
+                    "bright_red",
+                    "white",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -28,9 +39,9 @@
             "soundRange": 0,
             "drawOrder": 7,
             "spriteGroups": {
-                "slopeFlat":16,
-                "slopes12":4,
-                "slopes25":4
+                "slopeFlat": 16,
+                "slopes12": 4,
+                "slopes25": 4
             },
             "hasNoUpstopWheelsBobsleigh": true,
             "hasAdditionalColour1": true,
@@ -38,7 +49,10 @@
             "hasScreamingRiders": true,
             "useSuspendedSwing": true,
             "useSlideSwing": true,
-            "loadingPositions": [3, -3]
+            "loadingPositions": [
+                3,
+                -3
+            ]
         },
         "buildMenuPriority": 2
     },
@@ -47,7 +61,6 @@
         "",
         "",
         "$CSG[34425..34632]",
-
         "$CSG[34633..34639]",
         "$CSG[34638..34639]",
         "$CSG[34638..34639]",
@@ -64,7 +77,6 @@
         "$CSG[34722..34723]",
         "$CSG[34722..34723]",
         "$CSG[34722..34723]",
-
         "$CSG[34647..34653]",
         "$CSG[34652..34653]",
         "$CSG[34652..34653]",
@@ -81,7 +93,6 @@
         "$CSG[34736..34737]",
         "$CSG[34736..34737]",
         "$CSG[34736..34737]",
-
         "$CSG[34640..34646]",
         "$CSG[34645..34646]",
         "$CSG[34645..34646]",
@@ -98,7 +109,6 @@
         "$CSG[34729..34730]",
         "$CSG[34729..34730]",
         "$CSG[34729..34730]",
-
         "$CSG[34654..34660]",
         "$CSG[34659..34660]",
         "$CSG[34659..34660]",
@@ -115,9 +125,7 @@
         "$CSG[34743..34744]",
         "$CSG[34743..34744]",
         "$CSG[34743..34744]",
-
         "$CSG[34745..34952]",
-
         "$CSG[34953..34959]",
         "$CSG[34958..34959]",
         "$CSG[34958..34959]",
@@ -134,7 +142,6 @@
         "$CSG[35042..35043]",
         "$CSG[35042..35043]",
         "$CSG[35042..35043]",
-
         "$CSG[34967..34973]",
         "$CSG[34972..34973]",
         "$CSG[34972..34973]",
@@ -151,7 +158,6 @@
         "$CSG[35056..35057]",
         "$CSG[35056..35057]",
         "$CSG[35056..35057]",
-
         "$CSG[34960..34966]",
         "$CSG[34965..34966]",
         "$CSG[34965..34966]",
@@ -168,7 +174,6 @@
         "$CSG[35049..35050]",
         "$CSG[35049..35050]",
         "$CSG[35049..35050]",
-
         "$CSG[34974..34980]",
         "$CSG[34979..34980]",
         "$CSG[34979..34980]",
@@ -206,9 +211,7 @@
         "$RCT2:OBJDATA/BOB1.DAT[341..353]",
         "$RCT2:OBJDATA/BOB1.DAT[367..379]",
         "$RCT2:OBJDATA/BOB1.DAT[393..405]",
-
         "$RCT2:OBJDATA/BOB1.DAT[419..522]",
-
         "$RCT2:OBJDATA/BOB1.DAT[523..535]",
         "$RCT2:OBJDATA/BOB1.DAT[627..639]",
         "$RCT2:OBJDATA/BOB1.DAT[731..743]",
@@ -217,7 +220,6 @@
         "$RCT2:OBJDATA/BOB1.DAT[1043..1055]",
         "$RCT2:OBJDATA/BOB1.DAT[1147..1159]",
         "$RCT2:OBJDATA/BOB1.DAT[1251..1263]",
-
         "$RCT2:OBJDATA/BOB1.DAT[1355..1367]",
         "$RCT2:OBJDATA/BOB1.DAT[1381..1393]",
         "$RCT2:OBJDATA/BOB1.DAT[1407..1419]",
@@ -234,9 +236,7 @@
         "$RCT2:OBJDATA/BOB1.DAT[1693..1705]",
         "$RCT2:OBJDATA/BOB1.DAT[1719..1731]",
         "$RCT2:OBJDATA/BOB1.DAT[1745..1757]",
-
         "$RCT2:OBJDATA/BOB1.DAT[1771..1874]",
-
         "$RCT2:OBJDATA/BOB1.DAT[1875..1887]",
         "$RCT2:OBJDATA/BOB1.DAT[1979..1991]",
         "$RCT2:OBJDATA/BOB1.DAT[2083..2095]",
@@ -267,7 +267,7 @@
         },
         "description": {
             "en-GB": "Trains consisting of 2-seater cars where the riders are behind each other",
-            "fr-FR": "Les passagers descendent un parcours plein de virages à bord d'une voiture en forme de bobsleigh dirigée uniquement par les courbes et l'inclinaison de la voie semi-circulaire",
+            "fr-FR": "Train composé de voitures où deux passagers s’asseoient l’un derrière l’autre sur des sièges",
             "de-DE": "Züge mit Zweisitzerwagen, in denen die Fahrgäste hintereinander sitzen",
             "es-ES": "Los pasajeros viajan por unas vías retorcidas en vagones tipo bobsleigh guiados únicamente por la curvatura y los peraltes de la vía semicircular",
             "it-IT": "I passeggeri si fanno strada lungo un tracciato con molte curve all'interno di carrozze a forma di slittino guidate solo dalla curvatura e dall'inclinazione del tracciato semi-circolare",
@@ -291,7 +291,7 @@
             "it-IT": "2 passeggeri a carrozza",
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "ko-KR": "차량당 2명의 승객",
+            "ko-KR": "차량 당 2명의 승객",
             "zh-CN": "2位乘客/每个车厢",
             "zh-TW": "2位乘客/每個車廂",
             "pt-BR": "2 passageiros por carro",

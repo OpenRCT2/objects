@@ -204,7 +204,7 @@
     "strings": {
         "name": {
             "en-GB": "Caveman Cars",
-            "fr-FR": "Voitures des hommes des cavernes",
+            "fr-FR": "Voiture des hommes des cavernes",
             "de-DE": "Höhlenmenschenwagen",
             "es-ES": "Coches cavernícolas",
             "it-IT": "Carrozze dei cavernicoli",
@@ -220,12 +220,13 @@
             "eo-ZZ": "Kavernhomo-Aŭtoj",
             "ca-ES": "Cotxes cavernícoles",
             "fi-FI": "Luolamiesautot",
-            "zh-CN": "洞穴人小车"
+            "zh-CN": "洞穴人小车",
+            "hu-HU": "Ősember kocsik"
         },
         "description": {
             "en-GB": "Self-drive go-karts in Stone Age style",
             "en-US": "Self-driven go-karts in Stone Age style",
-            "fr-FR": "Les passagers font la course à bord de karts préhistoriques",
+            "fr-FR": "Kart préhistorique",
             "de-DE": "Selbstbetriebene Go-Karts im Steinzeitstil",
             "es-ES": "Los usuarios compiten en los karts de la edad de piedra",
             "it-IT": "I passeggeri si sfidano su go-kart dell’Età della Pietra",
@@ -241,7 +242,8 @@
             "eo-ZZ": "Gokartoj kun Ŝtonepoka stilo",
             "ca-ES": "Karts que condueixen els usuaris de l’edat de pedra.",
             "fi-FI": "Itse ajettavat kivikauden tyyliset mikroautot",
-            "zh-CN": "石器时代风格的自驾卡丁车"
+            "zh-CN": "石器时代风格的自驾卡丁车",
+            "hu-HU": "Önvezető gokartok kőkorszaki stílusban"
         },
         "capacity": {
             "en-GB": "Single-seater",
@@ -261,7 +263,8 @@
             "eo-ZZ": "Po 1 pasaĝero por aŭto",
             "ca-ES": "Monoplaça",
             "fi-FI": "Yksipaikkainen",
-            "zh-CN": "单人座"
+            "zh-CN": "单人座",
+            "hu-HU": "Együléses"
         }
     }
 }

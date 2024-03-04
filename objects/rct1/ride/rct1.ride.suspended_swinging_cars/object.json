@@ -65,7 +65,7 @@
         "buildMenuPriority": 3
     },
     "images": [
-        { "path": "images/preview.png", "format": "raw"},
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$CSG[22482..22873]",
@@ -396,7 +396,7 @@
     "strings": {
         "name": {
             "en-GB": "Suspended Swinging Cars",
-            "fr-FR": "Voitures à bascule suspendues",
+            "fr-FR": "Voiture à bascule suspendue",
             "de-DE": "Hängebahnwagen",
             "es-ES": "Coches Suspendidos",
             "it-IT": "Carrozze oscillanti sospese",
@@ -414,7 +414,7 @@
         },
         "description": {
             "en-GB": "Suspended roller coaster trains consisting of cars able to swing freely as the train goes around corners",
-            "fr-FR": "Train suspendu à des montagnes russes et dont les voitures se balancent dans les virages",
+            "fr-FR": "Train de montagnes russes suspendue dont les voitures se balançant librement dans les virages",
             "de-DE": "Hängende Achterbahnzüge, die aus Wagen bestehen, die frei schwingen können, wenn der Zug um die Kurven fährt",
             "es-ES": "Vagones suspendidos que se balancean libremente al tomar las curvas",
             "it-IT": "I treni da ottovolante sospesi trainano carrozze capaci di oscillare liberamente quando il treno gira in una curva",
@@ -450,7 +450,7 @@
         }
     },
     "noCsgImages": [
-        { "path": "images/preview.png", "format": "raw"},
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$RCT2:OBJDATA/ARRSW1.DAT[3..9]",

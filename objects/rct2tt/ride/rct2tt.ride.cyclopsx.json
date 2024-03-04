@@ -70,7 +70,8 @@
             "eo-ZZ": "Ciklopo-Atrakcio",
             "ca-ES": "El viatge del cíclop",
             "fi-FI": "Kykloopit",
-            "zh-CN": "独眼巨人"
+            "zh-CN": "独眼巨人",
+            "hu-HU": "Küklopsz utazás"
         },
         "description": {
             "en-GB": "Riders drive the Eye of a Giant Cyclops",
@@ -90,7 +91,8 @@
             "eo-ZZ": "Rajdantoj stiras la Okulon de Giganta Ciklopo",
             "ca-ES": "Els passatgers condueixen l’ull d’un cíclop gegant.",
             "fi-FI": "Kävijät ajavat jättiläiskykloopin silmän muotoisissa ajoneuvoissa",
-            "zh-CN": "乘客驾驶巨型独眼巨人之眼"
+            "zh-CN": "乘客驾驶巨型独眼巨人之眼",
+            "hu-HU": "Az utasok egy hatalmas küklopsz szemét vezetik"
         },
         "capacity": {
             "en-GB": "1 person per car",
@@ -110,7 +112,8 @@
             "eo-ZZ": "Po 1 ulo por ĉaro",
             "ca-ES": "1 persona per cotxe",
             "fi-FI": "1 matkustaja per ajoneuvo",
-            "zh-CN": "1位乘客/车"
+            "zh-CN": "1位乘客/车",
+            "hu-HU": "1 utas kocsinként"
         }
     }
 }

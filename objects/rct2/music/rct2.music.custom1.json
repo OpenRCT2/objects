@@ -26,9 +26,9 @@
             "cs-CZ": "Vlastní hudba 1",
             "da-DK": "Valgfrit musik 1",
             "de-DE": "Eigene Musik 1",
-            "es-ES": "Música personalizada 1",
-            "fr-FR": "Musique perso 1",
-            "hu-HU": "Egyedi stílus 1",
+            "es-ES": "Música personalizada 1 (legacy)",
+            "fr-FR": "Ancienne musique perso 1",
+            "hu-HU": "Régi egyedi stílus 1",
             "it-IT": "Musica personalizzata 1",
             "ja-JP": "カスタム・スタイル １番",
             "ko-KR": "사용자 음악 1",
@@ -41,7 +41,8 @@
             "zh-CN": "自定义音乐1",
             "zh-TW": "自訂音樂1",
             "eo-ZZ": "Propra muziko 1",
-            "fi-FI": "Mukautettu musiikki 1"
+            "fi-FI": "Mukautettu musiikki 1",
+            "nb-NO": "Legacy egendefinert musikk 1"
         }
     }
 }

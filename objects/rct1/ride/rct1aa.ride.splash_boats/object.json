@@ -1,6 +1,9 @@
 {
     "id": "rct1aa.ride.splash_boats",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1SPB|00000000",
     "sourceGame": "rct1aa",
@@ -23,10 +26,18 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["saturated_brown", "bordeaux_red", "black"]
+                [
+                    "saturated_brown",
+                    "bordeaux_red",
+                    "black"
+                ]
             ],
             [
-                ["grey", "dark_purple", "black"]
+                [
+                    "grey",
+                    "dark_purple",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -43,17 +54,34 @@
                 "effectVisual": 13,
                 "drawOrder": 10,
                 "spriteGroups": {
-                    "slopeFlat":16,
-                    "slopes12":4,
-                    "slopes25":4,
-                    "slopes42":4,
-                    "slopes60":4
+                    "slopeFlat": 16,
+                    "slopes12": 4,
+                    "slopes25": 4,
+                    "slopes42": 4,
+                    "slopes60": 4
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true,
                 "hasScreamingRiders": true,
                 "isWaterRide": true,
-                "loadingPositions": [14, 12, 14, 12, 6, 4, 6, 4, -6, -4, -6, -4, -14, -12, -14, -12]
+                "loadingPositions": [
+                    14,
+                    12,
+                    14,
+                    12,
+                    6,
+                    4,
+                    6,
+                    4,
+                    -6,
+                    -4,
+                    -6,
+                    -4,
+                    -14,
+                    -12,
+                    -14,
+                    -12
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -65,7 +93,7 @@
                 "effectVisual": 13,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "isPowered": true,
                 "hasScreamingRiders": true,
@@ -75,20 +103,14 @@
         "buildMenuPriority": 1
     },
     "images": [
-        {
-            "path": "images/preview.png",
-            "format": "raw"
-        },
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$CSG[33657..34088]",
-		""
+        ""
     ],
     "noCsgImages": [
-        {
-            "path": "images/preview.png",
-            "format": "raw"
-        },
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$RCT2:OBJDATA/SPBOAT.DAT[3]",
@@ -107,9 +129,7 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[29]",
         "$RCT2:OBJDATA/SPBOAT.DAT[31]",
         "$RCT2:OBJDATA/SPBOAT.DAT[33]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[35..42]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[43]",
         "$RCT2:OBJDATA/SPBOAT.DAT[51]",
         "$RCT2:OBJDATA/SPBOAT.DAT[59]",
@@ -118,7 +138,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[83]",
         "$RCT2:OBJDATA/SPBOAT.DAT[91]",
         "$RCT2:OBJDATA/SPBOAT.DAT[99]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[107]",
         "$RCT2:OBJDATA/SPBOAT.DAT[109]",
         "$RCT2:OBJDATA/SPBOAT.DAT[111]",
@@ -127,7 +146,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[117]",
         "$RCT2:OBJDATA/SPBOAT.DAT[119]",
         "$RCT2:OBJDATA/SPBOAT.DAT[121]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[123]",
         "$RCT2:OBJDATA/SPBOAT.DAT[131]",
         "$RCT2:OBJDATA/SPBOAT.DAT[139]",
@@ -136,7 +154,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[163]",
         "$RCT2:OBJDATA/SPBOAT.DAT[171]",
         "$RCT2:OBJDATA/SPBOAT.DAT[179]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[187]",
         "$RCT2:OBJDATA/SPBOAT.DAT[189]",
         "$RCT2:OBJDATA/SPBOAT.DAT[191]",
@@ -153,9 +170,7 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[213]",
         "$RCT2:OBJDATA/SPBOAT.DAT[215]",
         "$RCT2:OBJDATA/SPBOAT.DAT[217]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[219..226]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[227]",
         "$RCT2:OBJDATA/SPBOAT.DAT[235]",
         "$RCT2:OBJDATA/SPBOAT.DAT[243]",
@@ -164,7 +179,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[267]",
         "$RCT2:OBJDATA/SPBOAT.DAT[275]",
         "$RCT2:OBJDATA/SPBOAT.DAT[283]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[291]",
         "$RCT2:OBJDATA/SPBOAT.DAT[293]",
         "$RCT2:OBJDATA/SPBOAT.DAT[295]",
@@ -173,7 +187,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[301]",
         "$RCT2:OBJDATA/SPBOAT.DAT[303]",
         "$RCT2:OBJDATA/SPBOAT.DAT[305]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[307]",
         "$RCT2:OBJDATA/SPBOAT.DAT[315]",
         "$RCT2:OBJDATA/SPBOAT.DAT[323]",
@@ -182,7 +195,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[347]",
         "$RCT2:OBJDATA/SPBOAT.DAT[355]",
         "$RCT2:OBJDATA/SPBOAT.DAT[363]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[371]",
         "$RCT2:OBJDATA/SPBOAT.DAT[373]",
         "$RCT2:OBJDATA/SPBOAT.DAT[375]",
@@ -199,9 +211,7 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[397]",
         "$RCT2:OBJDATA/SPBOAT.DAT[399]",
         "$RCT2:OBJDATA/SPBOAT.DAT[401]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[403..410]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[411]",
         "$RCT2:OBJDATA/SPBOAT.DAT[419]",
         "$RCT2:OBJDATA/SPBOAT.DAT[427]",
@@ -210,7 +220,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[451]",
         "$RCT2:OBJDATA/SPBOAT.DAT[459]",
         "$RCT2:OBJDATA/SPBOAT.DAT[467]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[475]",
         "$RCT2:OBJDATA/SPBOAT.DAT[477]",
         "$RCT2:OBJDATA/SPBOAT.DAT[479]",
@@ -219,7 +228,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[485]",
         "$RCT2:OBJDATA/SPBOAT.DAT[487]",
         "$RCT2:OBJDATA/SPBOAT.DAT[489]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[491]",
         "$RCT2:OBJDATA/SPBOAT.DAT[499]",
         "$RCT2:OBJDATA/SPBOAT.DAT[507]",
@@ -228,7 +236,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[531]",
         "$RCT2:OBJDATA/SPBOAT.DAT[539]",
         "$RCT2:OBJDATA/SPBOAT.DAT[547]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[555]",
         "$RCT2:OBJDATA/SPBOAT.DAT[557]",
         "$RCT2:OBJDATA/SPBOAT.DAT[559]",
@@ -245,9 +252,7 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[581]",
         "$RCT2:OBJDATA/SPBOAT.DAT[583]",
         "$RCT2:OBJDATA/SPBOAT.DAT[585]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[587..594]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[595]",
         "$RCT2:OBJDATA/SPBOAT.DAT[603]",
         "$RCT2:OBJDATA/SPBOAT.DAT[611]",
@@ -256,7 +261,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[635]",
         "$RCT2:OBJDATA/SPBOAT.DAT[643]",
         "$RCT2:OBJDATA/SPBOAT.DAT[651]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[659]",
         "$RCT2:OBJDATA/SPBOAT.DAT[661]",
         "$RCT2:OBJDATA/SPBOAT.DAT[663]",
@@ -265,7 +269,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[669]",
         "$RCT2:OBJDATA/SPBOAT.DAT[671]",
         "$RCT2:OBJDATA/SPBOAT.DAT[673]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[675]",
         "$RCT2:OBJDATA/SPBOAT.DAT[683]",
         "$RCT2:OBJDATA/SPBOAT.DAT[691]",
@@ -274,7 +277,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[715]",
         "$RCT2:OBJDATA/SPBOAT.DAT[723]",
         "$RCT2:OBJDATA/SPBOAT.DAT[731]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[739]",
         "$RCT2:OBJDATA/SPBOAT.DAT[741]",
         "$RCT2:OBJDATA/SPBOAT.DAT[743]",
@@ -291,9 +293,7 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[765]",
         "$RCT2:OBJDATA/SPBOAT.DAT[767]",
         "$RCT2:OBJDATA/SPBOAT.DAT[769]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[771..778]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[779]",
         "$RCT2:OBJDATA/SPBOAT.DAT[787]",
         "$RCT2:OBJDATA/SPBOAT.DAT[795]",
@@ -302,7 +302,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[819]",
         "$RCT2:OBJDATA/SPBOAT.DAT[827]",
         "$RCT2:OBJDATA/SPBOAT.DAT[835]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[843]",
         "$RCT2:OBJDATA/SPBOAT.DAT[845]",
         "$RCT2:OBJDATA/SPBOAT.DAT[847]",
@@ -311,7 +310,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[853]",
         "$RCT2:OBJDATA/SPBOAT.DAT[855]",
         "$RCT2:OBJDATA/SPBOAT.DAT[857]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[859]",
         "$RCT2:OBJDATA/SPBOAT.DAT[867]",
         "$RCT2:OBJDATA/SPBOAT.DAT[875]",
@@ -320,7 +318,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[899]",
         "$RCT2:OBJDATA/SPBOAT.DAT[907]",
         "$RCT2:OBJDATA/SPBOAT.DAT[915]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[923]",
         "$RCT2:OBJDATA/SPBOAT.DAT[925]",
         "$RCT2:OBJDATA/SPBOAT.DAT[927]",
@@ -337,9 +334,7 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[949]",
         "$RCT2:OBJDATA/SPBOAT.DAT[951]",
         "$RCT2:OBJDATA/SPBOAT.DAT[953]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[955..962]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[963]",
         "$RCT2:OBJDATA/SPBOAT.DAT[971]",
         "$RCT2:OBJDATA/SPBOAT.DAT[979]",
@@ -348,7 +343,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[1003]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1011]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1019]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[1027]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1029]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1031]",
@@ -357,7 +351,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[1037]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1039]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1041]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[1043]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1051]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1059]",
@@ -366,7 +359,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[1083]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1091]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1099]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[1107]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1109]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1111]",
@@ -383,9 +375,7 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[1133]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1135]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1137]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[1139..1146]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[1147]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1155]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1163]",
@@ -394,7 +384,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[1187]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1195]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1203]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[1211]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1213]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1215]",
@@ -403,7 +392,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[1221]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1223]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1225]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[1227]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1235]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1243]",
@@ -412,7 +400,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[1267]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1275]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1283]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[1291]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1293]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1295]",
@@ -429,9 +416,7 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[1317]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1319]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1321]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[1323..1330]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[1331]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1339]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1347]",
@@ -440,7 +425,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[1371]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1379]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1387]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[1395]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1397]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1399]",
@@ -449,7 +433,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[1405]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1407]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1409]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[1411]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1419]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1427]",
@@ -458,7 +441,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[1451]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1459]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1467]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[1475]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1477]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1479]",
@@ -475,9 +457,7 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[1501]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1503]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1505]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[1507..1514]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[1515]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1523]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1531]",
@@ -486,7 +466,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[1555]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1563]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1571]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[1579]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1581]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1583]",
@@ -495,7 +474,6 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[1589]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1591]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1593]",
-
         "$RCT2:OBJDATA/SPBOAT.DAT[1595]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1603]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1611]",
@@ -504,8 +482,7 @@
         "$RCT2:OBJDATA/SPBOAT.DAT[1635]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1643]",
         "$RCT2:OBJDATA/SPBOAT.DAT[1651]",
-
-		""
+        ""
     ],
     "strings": {
         "name": {
@@ -529,7 +506,7 @@
         },
         "description": {
             "en-GB": "Large capacity boats, built for water tracks with very steep drops",
-            "fr-FR": "Grand bateau qui serpente le long d'une large voie navigable, monte sur des pentes grâce à un tapis roulant, et descend à toute vitesse de l'autre côté, éclaboussant allègrement les passagers",
+            "fr-FR": "Bateau de grande capacité, conçu pour les voies navigables aux chutes abruptes",
             "de-DE": "Boote mit hoher Kapazität, gebaut für Wasserstrecken mit sehr steilen Gefällen",
             "es-ES": "Botes de gran capacidad que viajan por un amplio canal impulsados por una cinta transportadora que producen grandes salpicaduras",
             "it-IT": "Barche molto capienti viaggiano per un largo canale d'acqua, trainate da nastri trasportatori, per poi prendere velocità lungo ripidi pendii bagnando i passeggeri con schizzi d'acqua giganti",

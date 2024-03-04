@@ -1,6 +1,9 @@
 {
     "id": "rct1.ride.fruity_ices_stall",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "rct1",
     "isCompatibilityObject": true,
@@ -13,7 +16,11 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["light_blue", "black", "black"]
+                [
+                    "light_blue",
+                    "black",
+                    "black"
+                ]
             ]
         ]
     },

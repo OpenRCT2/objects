@@ -628,11 +628,17 @@
     "strings": {
         "name": {
             "en-GB": "Inverted Coaster Trains",
-            "nl-NL": "Trein voor omgekeerde achtbaan"
+            "nl-NL": "Trein voor omgekeerde achtbaan",
+            "fr-FR": "Train de montagnes russes inversé",
+            "ko-KR": "인버티드 롤러코스터 차량",
+            "pt-BR": "Trens de Montanha-Russa Invertida"
         },
         "description": {
             "en-GB": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
-            "nl-NL": "Achtbaantrein met stoeljes die aan een steunconstructie zijn bevestigd die op de baan erboven rijdt."
+            "nl-NL": "Achtbaantrein met stoeljes die aan een steunconstructie zijn bevestigd die op de baan erboven rijdt.",
+            "fr-FR": "Train de montagnes russes inversé, composé de sièges suspendus à un cadre parcourant la voie située au-dessus",
+            "ko-KR": "트랙 위를 지나가는 지지 프레임에 달린 좌석으로 구성된 인버티드 롤러코스터 차량입니다.",
+            "pt-BR": "Trem de montanha-russa invertida, que consiste em assentos dependurados por um suporte que corre pelo trilho acima."
         },
         "capacity": {
             "en-GB": "2 passengers per car",

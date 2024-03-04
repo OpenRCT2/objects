@@ -1,6 +1,9 @@
 {
     "id": "rct1.ride.horses",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1ST1|00000000",
     "sourceGame": "rct1",
@@ -11,13 +14,25 @@
         "category": "rollercoaster",
         "carColours": [
             [
-                ["white", "bright_red", "black"]
+                [
+                    "white",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["white", "yellow", "black"]
+                [
+                    "white",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["white", "light_blue", "black"]
+                [
+                    "white",
+                    "light_blue",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -29,14 +44,17 @@
             "frictionSoundId": 2,
             "soundRange": 0,
             "drawOrder": 9,
-            "spriteGroups":{
-                "slopeFlat":16,
-                "slopes12":4,
-                "slopes25":4
+            "spriteGroups": {
+                "slopeFlat": 16,
+                "slopes12": 4,
+                "slopes25": 4
             },
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [4, -4]
+            "loadingPositions": [
+                4,
+                -4
+            ]
         },
         "buildMenuPriority": 3
     },
@@ -45,44 +63,35 @@
         "",
         "",
         "$CSG[32141..32156]",
-    
         "$CSG[32157]",
         "$CSG[32161]",
         "$CSG[32165]",
         "$CSG[32169]",
-
         "$CSG[32159]",
         "$CSG[32163]",
         "$CSG[32167]",
-        "$CSG[32171]", 
-
+        "$CSG[32171]",
         "$CSG[32158]",
         "$CSG[32162]",
         "$CSG[32166]",
         "$CSG[32170]",
-
         "$CSG[32160]",
         "$CSG[32164]",
         "$CSG[32168]",
         "$CSG[32172]",
-    
         "$CSG[32173..32188]",
-    
         "$CSG[32189]",
         "$CSG[32193]",
         "$CSG[32197]",
         "$CSG[32201]",
-
         "$CSG[32191]",
         "$CSG[32195]",
         "$CSG[32199]",
-        "$CSG[32203]", 
-
+        "$CSG[32203]",
         "$CSG[32190]",
         "$CSG[32194]",
         "$CSG[32198]",
         "$CSG[32202]",
-
         "$CSG[32192]",
         "$CSG[32196]",
         "$CSG[32200]",
@@ -108,9 +117,7 @@
         "$RCT2:OBJDATA/STEEP1.DAT[29]",
         "$RCT2:OBJDATA/STEEP1.DAT[31]",
         "$RCT2:OBJDATA/STEEP1.DAT[33]",
-
         "$RCT2:OBJDATA/STEEP1.DAT[35..42]",
-
         "$RCT2:OBJDATA/STEEP1.DAT[43]",
         "$RCT2:OBJDATA/STEEP1.DAT[51]",
         "$RCT2:OBJDATA/STEEP1.DAT[59]",
@@ -119,7 +126,6 @@
         "$RCT2:OBJDATA/STEEP1.DAT[83]",
         "$RCT2:OBJDATA/STEEP1.DAT[91]",
         "$RCT2:OBJDATA/STEEP1.DAT[99]",
-
         "$RCT2:OBJDATA/STEEP1.DAT[131]",
         "$RCT2:OBJDATA/STEEP1.DAT[133]",
         "$RCT2:OBJDATA/STEEP1.DAT[135]",
@@ -136,9 +142,7 @@
         "$RCT2:OBJDATA/STEEP1.DAT[157]",
         "$RCT2:OBJDATA/STEEP1.DAT[159]",
         "$RCT2:OBJDATA/STEEP1.DAT[161]",
-
         "$RCT2:OBJDATA/STEEP1.DAT[163..170]",
-
         "$RCT2:OBJDATA/STEEP1.DAT[171]",
         "$RCT2:OBJDATA/STEEP1.DAT[179]",
         "$RCT2:OBJDATA/STEEP1.DAT[187]",
@@ -151,7 +155,7 @@
     "strings": {
         "name": {
             "en-GB": "Horses",
-            "fr-FR": "Rodéo montagnes",
+            "fr-FR": "Cheval",
             "de-DE": "Pferde",
             "es-ES": "Carrera Ciega",
             "it-IT": "Corsa a ostacoli",
@@ -171,7 +175,7 @@
         },
         "description": {
             "en-GB": "Single cars shaped like a horse",
-            "fr-FR": "Véhicule en forme de cheval parcourant des montagnes russes sur une voie monorail",
+            "fr-FR": "Véhicule individuel en forme de cheval",
             "de-DE": "Einzelfahrzeuge in Form von Pferden",
             "es-ES": "Los pasajeros se montan en unos vagones con forma de caballo que recorren sobre un monoraíl",
             "it-IT": "I passeggeri attraversano un tracciato monorotaia su veicoli a forma di cavallo",
@@ -183,7 +187,6 @@
             "pt-BR": "Carros únicos moldados como um cavalo",
             "ar-EG": "Single cars shaped like a horse",
             "cs-CZ": "Vozy ve tvaru koní vozí návštěvníky po jednokolejné trati",
-            "en-US": "Single cars shaped like a horse",
             "ja-JP": "シングルレールコースを馬の形の車両が走行する乗物です",
             "pl-PL": "Pasażerowie jadą pojazdami w kształcie koni, poruszającymi się po jednoszynowym torze kolejki",
             "ru-RU": "Люди едут на машинках в виде лошадей.",

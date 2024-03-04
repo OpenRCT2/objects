@@ -1,6 +1,9 @@
 {
     "id": "rct1.ride.motorbikes",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1ST2|00000000",
     "sourceGame": "rct1",
@@ -11,13 +14,25 @@
         "category": "rollercoaster",
         "carColours": [
             [
-                ["bright_red", "white", "black"]
+                [
+                    "bright_red",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["bright_green", "white", "black"]
+                [
+                    "bright_green",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "white", "black"]
+                [
+                    "light_blue",
+                    "white",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -29,14 +44,17 @@
             "frictionSoundId": 2,
             "soundRange": 0,
             "drawOrder": 9,
-            "spriteGroups":{
-                "slopeFlat":16,
-                "slopes12":4,
-                "slopes25":4
+            "spriteGroups": {
+                "slopeFlat": 16,
+                "slopes12": 4,
+                "slopes25": 4
             },
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [4, -4]
+            "loadingPositions": [
+                4,
+                -4
+            ]
         },
         "buildMenuPriority": 2
     },
@@ -45,44 +63,35 @@
         "",
         "",
         "$CSG[32205..32220]",
-
         "$CSG[32221]",
         "$CSG[32225]",
         "$CSG[32229]",
         "$CSG[32233]",
-
         "$CSG[32223]",
         "$CSG[32227]",
         "$CSG[32231]",
-        "$CSG[32235]", 
-
+        "$CSG[32235]",
         "$CSG[32222]",
         "$CSG[32226]",
         "$CSG[32230]",
         "$CSG[32234]",
-
         "$CSG[32224]",
         "$CSG[32228]",
         "$CSG[32232]",
         "$CSG[32236]",
-
         "$CSG[32237..32252]",
-
         "$CSG[32253]",
         "$CSG[32257]",
         "$CSG[32261]",
         "$CSG[32265]",
-
         "$CSG[32255]",
         "$CSG[32259]",
         "$CSG[32263]",
-        "$CSG[32267]", 
-
+        "$CSG[32267]",
         "$CSG[32254]",
         "$CSG[32258]",
         "$CSG[32262]",
         "$CSG[32266]",
-
         "$CSG[32256]",
         "$CSG[32260]",
         "$CSG[32264]",
@@ -108,9 +117,7 @@
         "$RCT2:OBJDATA/STEEP2.DAT[29]",
         "$RCT2:OBJDATA/STEEP2.DAT[31]",
         "$RCT2:OBJDATA/STEEP2.DAT[33]",
-
         "$RCT2:OBJDATA/STEEP2.DAT[35..42]",
-
         "$RCT2:OBJDATA/STEEP2.DAT[43]",
         "$RCT2:OBJDATA/STEEP2.DAT[51]",
         "$RCT2:OBJDATA/STEEP2.DAT[59]",
@@ -119,7 +126,6 @@
         "$RCT2:OBJDATA/STEEP2.DAT[83]",
         "$RCT2:OBJDATA/STEEP2.DAT[91]",
         "$RCT2:OBJDATA/STEEP2.DAT[99]",
-
         "$RCT2:OBJDATA/STEEP2.DAT[131]",
         "$RCT2:OBJDATA/STEEP2.DAT[133]",
         "$RCT2:OBJDATA/STEEP2.DAT[135]",
@@ -136,9 +142,7 @@
         "$RCT2:OBJDATA/STEEP2.DAT[157]",
         "$RCT2:OBJDATA/STEEP2.DAT[159]",
         "$RCT2:OBJDATA/STEEP2.DAT[161]",
-
         "$RCT2:OBJDATA/STEEP2.DAT[163..170]",
-
         "$RCT2:OBJDATA/STEEP2.DAT[171]",
         "$RCT2:OBJDATA/STEEP2.DAT[179]",
         "$RCT2:OBJDATA/STEEP2.DAT[187]",
@@ -151,7 +155,7 @@
     "strings": {
         "name": {
             "en-GB": "Motorbikes",
-            "fr-FR": "Courses de moto",
+            "fr-FR": "Moto",
             "de-DE": "Motorräder",
             "es-ES": "Carrera de Motos",
             "it-IT": "Corsa in motocicletta",
@@ -169,7 +173,7 @@
         },
         "description": {
             "en-GB": "Single cars shaped like a motorbike",
-            "fr-FR": "Véhicule en forme de moto de course parcourant des montagnes russes sur une voie monorail",
+            "fr-FR": "Voiture individuelle en forme de moto",
             "de-DE": "Einzelwagen, die wie Motorräder geformt sind",
             "es-ES": "Los pasajeros se montan en unos vagones con forma de moto que recorren sobre un monoraíl",
             "it-IT": "I passeggeri attraversano un tracciato monorotaia su veicoli a forma di motocicletta",

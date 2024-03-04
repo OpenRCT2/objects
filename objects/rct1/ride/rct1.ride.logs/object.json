@@ -1,6 +1,9 @@
 {
     "id": "rct1.ride.logs",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1LFB|00000000",
     "sourceGame": "rct1",
@@ -13,13 +16,25 @@
         "noCollisionCrashes": true,
         "carColours": [
             [
-                ["dark_brown", "black", "black"]
+                [
+                    "dark_brown",
+                    "black",
+                    "black"
+                ]
             ],
             [
-                ["light_brown", "black", "black"]
+                [
+                    "light_brown",
+                    "black",
+                    "black"
+                ]
             ],
             [
-                ["saturated_brown", "black", "black"]
+                [
+                    "saturated_brown",
+                    "black",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -36,14 +51,19 @@
                 "effectVisual": 12,
                 "drawOrder": 9,
                 "spriteGroups": {
-                    "slopeFlat":16,
-                    "slopes12":4,
-                    "slopes25":4
+                    "slopeFlat": 16,
+                    "slopes12": 4,
+                    "slopes25": 4
                 },
                 "isPowered": true,
                 "hasScreamingRiders": true,
                 "isWaterRide": true,
-                "loadingPositions": [6, 4, -7, -9]
+                "loadingPositions": [
+                    6,
+                    4,
+                    -7,
+                    -9
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -57,14 +77,19 @@
                 "effectVisual": 12,
                 "drawOrder": 9,
                 "spriteGroups": {
-                    "slopeFlat":16,
-                    "slopes12":4,
-                    "slopes25":4
+                    "slopeFlat": 16,
+                    "slopes12": 4,
+                    "slopes25": 4
                 },
                 "isPowered": true,
                 "hasScreamingRiders": true,
                 "isWaterRide": true,
-                "loadingPositions": [6, 4, -7, -9]
+                "loadingPositions": [
+                    6,
+                    4,
+                    -7,
+                    -9
+                ]
             }
         ],
         "buildMenuPriority": 1
@@ -74,71 +99,56 @@
         "",
         "",
         "$CSG[34169..34184]",
-
         "$CSG[34185]",
         "$CSG[34189]",
         "$CSG[34193]",
         "$CSG[34197]",
-
         "$CSG[34187]",
         "$CSG[34191]",
         "$CSG[34195]",
-        "$CSG[34199]", 
-
+        "$CSG[34199]",
         "$CSG[34186]",
         "$CSG[34190]",
         "$CSG[34194]",
         "$CSG[34198]",
-
         "$CSG[34188]",
         "$CSG[34192]",
         "$CSG[34196]",
         "$CSG[34200]",
-
         "$CSG[34201..34216]",
-
         "$CSG[34217]",
         "$CSG[34221]",
         "$CSG[34225]",
         "$CSG[34229]",
-
         "$CSG[34219]",
         "$CSG[34223]",
         "$CSG[34227]",
-        "$CSG[34231]", 
-
+        "$CSG[34231]",
         "$CSG[34218]",
         "$CSG[34222]",
         "$CSG[34226]",
         "$CSG[34230]",
-
         "$CSG[34220]",
         "$CSG[34224]",
         "$CSG[34228]",
         "$CSG[34232]",
-
         "$CSG[34233..34248]",
-
         "$CSG[34249]",
         "$CSG[34253]",
         "$CSG[34257]",
         "$CSG[34261]",
-
         "$CSG[34251]",
         "$CSG[34255]",
         "$CSG[34259]",
-        "$CSG[34263]", 
-
+        "$CSG[34263]",
         "$CSG[34250]",
         "$CSG[34254]",
         "$CSG[34258]",
         "$CSG[34262]",
-
         "$CSG[34252]",
         "$CSG[34256]",
         "$CSG[34260]",
         "$CSG[34264]",
-
         "$CSG[34177]",
         "$CSG[34178]",
         "$CSG[34179]",
@@ -256,9 +266,7 @@
         "$RCT2:OBJDATA/LFB1.DAT[29]",
         "$RCT2:OBJDATA/LFB1.DAT[31]",
         "$RCT2:OBJDATA/LFB1.DAT[33]",
-
         "$RCT2:OBJDATA/LFB1.DAT[35..42]",
-
         "$RCT2:OBJDATA/LFB1.DAT[43]",
         "$RCT2:OBJDATA/LFB1.DAT[51]",
         "$RCT2:OBJDATA/LFB1.DAT[59]",
@@ -267,7 +275,6 @@
         "$RCT2:OBJDATA/LFB1.DAT[83]",
         "$RCT2:OBJDATA/LFB1.DAT[91]",
         "$RCT2:OBJDATA/LFB1.DAT[99]",
-
         "$RCT2:OBJDATA/LFB1.DAT[107]",
         "$RCT2:OBJDATA/LFB1.DAT[109]",
         "$RCT2:OBJDATA/LFB1.DAT[111]",
@@ -284,9 +291,7 @@
         "$RCT2:OBJDATA/LFB1.DAT[133]",
         "$RCT2:OBJDATA/LFB1.DAT[135]",
         "$RCT2:OBJDATA/LFB1.DAT[137]",
-
         "$RCT2:OBJDATA/LFB1.DAT[139..146]",
-
         "$RCT2:OBJDATA/LFB1.DAT[147]",
         "$RCT2:OBJDATA/LFB1.DAT[155]",
         "$RCT2:OBJDATA/LFB1.DAT[163]",
@@ -295,7 +300,6 @@
         "$RCT2:OBJDATA/LFB1.DAT[187]",
         "$RCT2:OBJDATA/LFB1.DAT[195]",
         "$RCT2:OBJDATA/LFB1.DAT[203]",
-
         "$RCT2:OBJDATA/LFB1.DAT[211]",
         "$RCT2:OBJDATA/LFB1.DAT[213]",
         "$RCT2:OBJDATA/LFB1.DAT[215]",
@@ -312,9 +316,7 @@
         "$RCT2:OBJDATA/LFB1.DAT[237]",
         "$RCT2:OBJDATA/LFB1.DAT[239]",
         "$RCT2:OBJDATA/LFB1.DAT[241]",
-
         "$RCT2:OBJDATA/LFB1.DAT[243..250]",
-
         "$RCT2:OBJDATA/LFB1.DAT[251]",
         "$RCT2:OBJDATA/LFB1.DAT[259]",
         "$RCT2:OBJDATA/LFB1.DAT[267]",
@@ -323,7 +325,6 @@
         "$RCT2:OBJDATA/LFB1.DAT[291]",
         "$RCT2:OBJDATA/LFB1.DAT[299]",
         "$RCT2:OBJDATA/LFB1.DAT[307]",
-
         "$RCT2:OBJDATA/LFB1.DAT[315]",
         "$RCT2:OBJDATA/LFB1.DAT[317]",
         "$RCT2:OBJDATA/LFB1.DAT[319]",
@@ -340,9 +341,7 @@
         "$RCT2:OBJDATA/LFB1.DAT[341]",
         "$RCT2:OBJDATA/LFB1.DAT[343]",
         "$RCT2:OBJDATA/LFB1.DAT[345]",
-
         "$RCT2:OBJDATA/LFB1.DAT[347..354]",
-
         "$RCT2:OBJDATA/LFB1.DAT[355]",
         "$RCT2:OBJDATA/LFB1.DAT[363]",
         "$RCT2:OBJDATA/LFB1.DAT[371]",
@@ -351,7 +350,6 @@
         "$RCT2:OBJDATA/LFB1.DAT[395]",
         "$RCT2:OBJDATA/LFB1.DAT[403]",
         "$RCT2:OBJDATA/LFB1.DAT[411]",
-
         "$RCT2:OBJDATA/LFB1.DAT[419]",
         "$RCT2:OBJDATA/LFB1.DAT[421]",
         "$RCT2:OBJDATA/LFB1.DAT[423]",
@@ -368,9 +366,7 @@
         "$RCT2:OBJDATA/LFB1.DAT[445]",
         "$RCT2:OBJDATA/LFB1.DAT[447]",
         "$RCT2:OBJDATA/LFB1.DAT[449]",
-
         "$RCT2:OBJDATA/LFB1.DAT[451..458]",
-
         "$RCT2:OBJDATA/LFB1.DAT[459]",
         "$RCT2:OBJDATA/LFB1.DAT[467]",
         "$RCT2:OBJDATA/LFB1.DAT[475]",
@@ -379,7 +375,6 @@
         "$RCT2:OBJDATA/LFB1.DAT[499]",
         "$RCT2:OBJDATA/LFB1.DAT[507]",
         "$RCT2:OBJDATA/LFB1.DAT[515]",
-
         "$RCT2:OBJDATA/LFB1.DAT[523]",
         "$RCT2:OBJDATA/LFB1.DAT[525]",
         "$RCT2:OBJDATA/LFB1.DAT[527]",
@@ -396,9 +391,7 @@
         "$RCT2:OBJDATA/LFB1.DAT[549]",
         "$RCT2:OBJDATA/LFB1.DAT[551]",
         "$RCT2:OBJDATA/LFB1.DAT[553]",
-
         "$RCT2:OBJDATA/LFB1.DAT[555..562]",
-
         "$RCT2:OBJDATA/LFB1.DAT[563]",
         "$RCT2:OBJDATA/LFB1.DAT[571]",
         "$RCT2:OBJDATA/LFB1.DAT[579]",
@@ -411,7 +404,7 @@
     "strings": {
         "name": {
             "en-GB": "Logs",
-            "fr-FR": "Bûches",
+            "fr-FR": "Bûche",
             "de-DE": "Baumstämme",
             "es-ES": "Leños de agua",
             "it-IT": "Canale con i tronchi",
@@ -429,7 +422,7 @@
         },
         "description": {
             "en-GB": "Log-shaped boats built for running in water channels",
-            "fr-FR": "Bateaux en forme de bûches géantes parcourant un tube aquatique dont les pentes abruptes auront pour effet de tremper les passagers",
+            "fr-FR": "Bateau en forme de bûche géante conçu pour parcourir un tube aquatique",
             "de-DE": "Baumstammförmige Boote, die für die Fahrt in Wasserkanälen ausgelegt sind",
             "es-ES": "Barcos con forma de tronco que viajan por un canal de agua, salpicando hasta empapar a los pasajeros",
             "it-IT": "Barche a forma di tronco viaggiano lungo un canale d'acqua, generando al termine delle discese enormi spruzzi che inzuppano i passeggeri",

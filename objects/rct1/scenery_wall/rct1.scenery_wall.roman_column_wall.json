@@ -1,6 +1,9 @@
 {
     "id": "rct1.scenery_wall.roman_column_wall",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "rct1",
     "isCompatibilityObject": true,
@@ -11,8 +14,12 @@
         "price": 110,
         "sceneryGroup": "rct2.scenery_group.scgclass"
     },
-    "images": ["$CSG[63083..63088]"],
-    "noCsgImages": ["$RCT2:OBJDATA/WC3.DAT[0..5]"],
+    "images": [
+        "$CSG[63083..63088]"
+    ],
+    "noCsgImages": [
+        "$RCT2:OBJDATA/WC3.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Roman Column Wall",

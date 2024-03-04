@@ -1411,11 +1411,17 @@
     "strings": {
         "name": {
             "en-GB": "Wooden Roller Coaster Trains (Reversed)",
-            "nl-NL:": "Trein voor houten achtbaan (achteruit)"
+            "nl-NL:": "Trein voor houten achtbaan (achteruit)",
+            "fr-FR": "Train de montagnes russes en bois (inversé)",
+            "ko-KR": "우든 롤러코스터 차량 (역방향)",
+            "pt-BR": "Trens de Montanha-Russa de Madeira (Reversos)"
         },
         "description": {
             "en-GB": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards.",
-            "nl-NL": "Houten achtbaantreinen die achterstevoren staan, zodat de passagiers achteruit rijden."
+            "nl-NL": "Houten achtbaantreinen die achterstevoren staan, zodat de passagiers achteruit rijden.",
+            "fr-FR": "Train de montagnes russes en bois circulant à l’envers de façon à ce que les passagers soient de dos",
+            "ko-KR": "승객들이 뒤를 보고 타는 역방향 우든 롤러코스터 차량입니다.",
+            "pt-BR": "Trens de montanha-russa de madeira, que correm ao contrário, tal que o passageiro esteja virado de costas."
         },
         "capacity": {
             "en-GB": "4 passengers per car",

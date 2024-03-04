@@ -1,6 +1,9 @@
 {
     "id": "rct1.scenery_wall.wooden_fence_brown",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "rct1",
     "isCompatibilityObject": true,
@@ -12,8 +15,12 @@
         "price": 40,
         "sceneryGroup": "rct2.scenery_group.scgfence"
     },
-    "images": ["$CSG[63047..63052]"],
-    "noCsgImages": ["$RCT2:OBJDATA/WPW1.DAT[0..5]"],
+    "images": [
+        "$CSG[63047..63052]"
+    ],
+    "noCsgImages": [
+        "$RCT2:OBJDATA/WPW1.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Wooden Fence",

@@ -1,6 +1,9 @@
 {
     "id": "rct1.ride.cat_cars",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1CTC|00000000",
     "sourceGame": "rct1",
@@ -18,13 +21,25 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["white", "bordeaux_red", "black"]
+                [
+                    "white",
+                    "bordeaux_red",
+                    "black"
+                ]
             ],
             [
-                ["black", "dark_green", "black"]
+                [
+                    "black",
+                    "dark_green",
+                    "black"
+                ]
             ],
             [
-                ["salmon_pink", "saturated_brown", "black"]
+                [
+                    "salmon_pink",
+                    "saturated_brown",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -38,13 +53,16 @@
                 "poweredMaxSpeed": 7,
                 "drawOrder": 9,
                 "spriteGroups": {
-                    "slopeFlat":16,
-                    "slopes12":4,
-                    "slopes25":4
+                    "slopeFlat": 16,
+                    "slopes12": 4,
+                    "slopes25": 4
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [3, -3]
+                "loadingPositions": [
+                    3,
+                    -3
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -54,7 +72,7 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "isPowered": true
             }
@@ -66,50 +84,40 @@
         "",
         "",
         "$CSG[40289..40304]",
-
         "$CSG[40305]",
         "$CSG[40309]",
         "$CSG[40313]",
         "$CSG[40317]",
-
         "$CSG[40307]",
         "$CSG[40311]",
         "$CSG[40315]",
-        "$CSG[40319]", 
-
+        "$CSG[40319]",
         "$CSG[40306]",
         "$CSG[40310]",
         "$CSG[40314]",
         "$CSG[40318]",
-
         "$CSG[40308]",
         "$CSG[40312]",
         "$CSG[40316]",
         "$CSG[40320]",
-
         "$CSG[40321..40336]",
-
         "$CSG[40337]",
         "$CSG[40341]",
         "$CSG[40345]",
         "$CSG[40349]",
-
         "$CSG[40339]",
         "$CSG[40343]",
         "$CSG[40347]",
-        "$CSG[40351]", 
-
+        "$CSG[40351]",
         "$CSG[40338]",
         "$CSG[40342]",
         "$CSG[40346]",
         "$CSG[40350]",
-
         "$CSG[40340]",
         "$CSG[40344]",
         "$CSG[40348]",
         "$CSG[40352]",
-
-		""
+        ""
     ],
     "noCsgImages": [
         { "path": "images/preview.png", "format": "raw" },
@@ -131,9 +139,7 @@
         "$RCT2:OBJDATA/CTCAR.DAT[29]",
         "$RCT2:OBJDATA/CTCAR.DAT[31]",
         "$RCT2:OBJDATA/CTCAR.DAT[33]",
-
         "$RCT2:OBJDATA/CTCAR.DAT[35..42]",
-
         "$RCT2:OBJDATA/CTCAR.DAT[43]",
         "$RCT2:OBJDATA/CTCAR.DAT[51]",
         "$RCT2:OBJDATA/CTCAR.DAT[59]",
@@ -142,7 +148,6 @@
         "$RCT2:OBJDATA/CTCAR.DAT[83]",
         "$RCT2:OBJDATA/CTCAR.DAT[91]",
         "$RCT2:OBJDATA/CTCAR.DAT[99]",
-
         "$RCT2:OBJDATA/CTCAR.DAT[107]",
         "$RCT2:OBJDATA/CTCAR.DAT[109]",
         "$RCT2:OBJDATA/CTCAR.DAT[111]",
@@ -159,9 +164,7 @@
         "$RCT2:OBJDATA/CTCAR.DAT[133]",
         "$RCT2:OBJDATA/CTCAR.DAT[135]",
         "$RCT2:OBJDATA/CTCAR.DAT[137]",
-
         "$RCT2:OBJDATA/CTCAR.DAT[139..146]",
-
         "$RCT2:OBJDATA/CTCAR.DAT[147]",
         "$RCT2:OBJDATA/CTCAR.DAT[155]",
         "$RCT2:OBJDATA/CTCAR.DAT[163]",
@@ -170,13 +173,12 @@
         "$RCT2:OBJDATA/CTCAR.DAT[187]",
         "$RCT2:OBJDATA/CTCAR.DAT[195]",
         "$RCT2:OBJDATA/CTCAR.DAT[203]",
-
         ""
     ],
     "strings": {
         "name": {
             "en-GB": "Cheshire Cats",
-            "fr-FR": "Chat-chars",
+            "fr-FR": "Chat-char",
             "de-DE": "Grinsekatzen",
             "es-ES": "Gatos Cheshire",
             "it-IT": "Gatti del cheshire",
@@ -194,7 +196,7 @@
         },
         "description": {
             "en-GB": "Powered cat-shaped vehicles",
-            "fr-FR": "Véhicule à propulsion en forme de chats se déplaçant sur une route plane",
+            "fr-FR": "Véhicule à propulsion en forme de chat se déplaçant sur une route plane",
             "de-DE": "Angetriebene Fahrzeuge in Katzenform",
             "es-ES": "Vehículos autopropulsados con forma de gato que siguen la ruta de las vías",
             "it-IT": "Veicoli a motore a forma di gatto che seguono un percorso stabilito",

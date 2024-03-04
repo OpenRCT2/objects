@@ -127,10 +127,7 @@
         "buildMenuPriority": 5
     },
     "images": [
-        {
-            "path": "images/preview.png",
-            "format": "raw"
-        },
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$CSG[11762..11777]",
@@ -873,7 +870,7 @@
     "strings": {
         "name": {
             "en-GB": "Twister Trains",
-            "fr-FR": "Montagnes tornado",
+            "fr-FR": "Train de montagnes tornado",
             "de-DE": "Twister-Züge",
             "es-ES": "Montaña Rusa Tornado",
             "it-IT": "Ottovolante contorsionista",
@@ -893,7 +890,7 @@
         },
         "description": {
             "en-GB": "Spacious trains with shoulder restraints",
-            "fr-FR": "De larges trains glissent le long de montagnes russes métalliques régulières proposant un grand éventail d’inversions",
+            "fr-FR": "Train spacieux avec des retenues aux épaules",
             "de-DE": "Breite Achterbahnzüge mit Schulterhalterungen",
             "es-ES": "Montaña rusa amplia sobre vías de acero que efectúa varias inversiones",
             "it-IT": "Dei grandi treni sfrecciano su un tracciato di acciaio passando per tutta una serie di inversioni",
@@ -935,10 +932,7 @@
         }
     },
     "noCsgImages": [
-        {
-            "path": "images/preview.png",
-            "format": "raw"
-        },
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$RCT2:OBJDATA/BMSD.DAT[3]",

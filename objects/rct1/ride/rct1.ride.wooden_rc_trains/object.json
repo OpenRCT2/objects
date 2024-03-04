@@ -767,11 +767,17 @@
     "strings": {
         "name": {
             "en-GB": "Wooden Roller Coaster Trains",
-            "nl-NL": "Trein voor houten achtbaan"
+            "nl-NL": "Trein voor houten achtbaan",
+            "fr-FR": "Train de montagnes russes en bois",
+            "ko-KR": "우든 롤러코스터 차량",
+            "pt-BR": "Trens de Montanha-Russa de Madeira"
         },
         "description": {
             "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints",
-            "nl-NL": "Houten achtbaantreinen met gevoerde zittingen en heupbeugels."
+            "nl-NL": "Houten achtbaantreinen met gevoerde zittingen en heupbeugels.",
+            "fr-FR": "Train de montagnes russes en bois avec des sièges rembourrés et des barres de protection au niveau des jambes",
+            "ko-KR": "푹신한 좌석과 무릎 안전 장치가 있는 우든 롤러코스터 차량",
+            "pt-BR": "Trens de montanha-russa de madeira com assentos acolchoados e proteções de colo"
         },
         "capacity": {
             "en-GB": "4 passengers per car",

@@ -1,6 +1,9 @@
 {
     "id": "rct1beta.terrain_edge.rock",
-    "authors": ["Simon Foster", "ZeeMaji"],
+    "authors": [
+        "Simon Foster",
+        "ZeeMaji"
+    ],
     "version": "1.0",
     "sourceGame": "official",
     "objectType": "terrain_edge",
@@ -8,7 +11,6 @@
     },
     "images": [
         { "path": "images/icon.png", "format": "raw", "x": 2, "y": 2 },
-        
         { "path": "images/01.png", "x": -2, "y": -15 },
         { "path": "images/02.png", "x": -2, "y": -15 },
         { "path": "images/03.png", "x": -2, "y": 0 },
@@ -19,7 +21,6 @@
         { "path": "images/08.png", "x": -30, "y": 0 },
         { "path": "images/09.png", "x": -30, "y": -15 },
         { "path": "images/10.png", "x": -28, "y": -15 },
-        
         { "path": "images/01.png", "x": -2, "y": -15 },
         { "path": "images/02.png", "x": -2, "y": -15 },
         { "path": "images/03.png", "x": -2, "y": 0 },
@@ -30,7 +31,6 @@
         { "path": "images/08.png", "x": -30, "y": 0 },
         { "path": "images/09.png", "x": -30, "y": -15 },
         { "path": "images/10.png", "x": -28, "y": -15 },
-        
         { "path": "images/21.png", "x": -2, "y": -15 },
         { "path": "images/22.png", "x": -2, "y": -15 },
         { "path": "images/23.png", "x": -2, "y": 0 },
@@ -41,14 +41,12 @@
         { "path": "images/28.png", "x": -30, "y": 0 },
         { "path": "images/29.png", "x": -30, "y": -15 },
         { "path": "images/30.png", "x": -28, "y": -15 },
-        
         { "path": "images/31.png", "x": 0, "y": 0 },
         { "path": "images/32.png", "x": 0, "y": 0 },
         { "path": "images/33.png", "x": 0, "y": -1 },
         { "path": "images/34.png", "x": -31, "y": 0 },
         { "path": "images/35.png", "x": -32, "y": 0 },
         { "path": "images/36.png", "x": -32, "y": -1 },
-        
         { "path": "images/37.png", "x": -2, "y": -31 },
         { "path": "images/38.png", "x": 11, "y": -25 },
         { "path": "images/39.png", "x": -25, "y": -31 },
@@ -97,7 +95,12 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Rock (Brown)"
+            "en-GB": "Rock (Brown)",
+            "fr-FR": "Pierre (marron)",
+            "hu-HU": "Szikla (barna)",
+            "ko-KR": "바위 (갈색)",
+            "nl-NL": "Bruine rotsen",
+            "pt-BR": "Pedra (Marrom)"
         }
     }
 }

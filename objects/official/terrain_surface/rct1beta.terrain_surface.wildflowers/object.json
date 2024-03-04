@@ -1,14 +1,20 @@
 {
     "id": "rct1beta.terrain_surface.wildflowers",
-    "authors": ["Simon Foster", "spacek"],
+    "authors": [
+        "Simon Foster",
+        "spacek"
+    ],
     "version": "1.2",
     "sourceGame": "official",
     "objectType": "terrain_surface",
     "properties": {
         "price": 300,
-        "mapColours": [75, 75],
-	"smoothWithSelf": true,
-	"smoothWithOther": true
+        "mapColours": [
+            75,
+            75
+        ],
+        "smoothWithSelf": true,
+        "smoothWithOther": true
     },
     "images": [
         { "path": "images/icon.png", "format": "raw", "x": 2, "y": 2 },
@@ -18,7 +24,6 @@
         { "path": "images/s4.png", "format": "raw", "x": 0, "y": 0 },
         { "path": "images/s5.png", "format": "raw", "x": 0, "y": 0 },
         { "path": "images/s6.png", "format": "raw", "x": 0, "y": 0 },
-        
         { "path": "images/00.png", "x": -32, "y": 0 },
         { "path": "images/01.png", "x": -32, "y": -1 },
         { "path": "images/02.png", "x": -32, "y": 0 },
@@ -38,7 +43,6 @@
         "",
         { "path": "images/17.png", "x": -32, "y": -17 },
         { "path": "images/18.png", "x": -31, "y": -17 },
-        
         { "path": "images/19.png", "x": -32, "y": 0 },
         { "path": "images/20.png", "x": -32, "y": -1 },
         { "path": "images/21.png", "x": -32, "y": 0 },
@@ -58,7 +62,6 @@
         "",
         { "path": "images/36.png", "x": -32, "y": -17 },
         { "path": "images/37.png", "x": -31, "y": -17 },
-        
         { "path": "images/38.png", "x": -32, "y": 0 },
         { "path": "images/39.png", "x": -32, "y": -1 },
         { "path": "images/40.png", "x": -32, "y": 0 },
@@ -81,7 +84,12 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Wildflowers"
+            "en-GB": "Wildflowers",
+            "fr-FR": "Fleurs sauvages",
+            "hu-HU": "Vadvirágok",
+            "ko-KR": "들꽃",
+            "nl-NL": "Wilde bloemen",
+            "pt-BR": "Flores Silvestres"
         }
     }
 }

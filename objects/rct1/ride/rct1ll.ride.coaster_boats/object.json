@@ -1,6 +1,9 @@
 {
     "id": "rct1ll.ride.coaster_boats",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1CSB|00000000",
     "sourceGame": "rct1ll",
@@ -21,13 +24,25 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["dark_brown", "bright_red", "black"]
+                [
+                    "dark_brown",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["grey", "dark_brown", "black"]
+                [
+                    "grey",
+                    "dark_brown",
+                    "black"
+                ]
             ],
             [
-                ["saturated_brown", "dark_green", "black"]
+                [
+                    "saturated_brown",
+                    "dark_green",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -42,22 +57,29 @@
                 "effectVisual": 14,
                 "drawOrder": 10,
                 "spriteGroups": {
-                    "slopeFlat":16,
-                    "slopes12":4,
-                    "slopes25":16,
-                    "slopes42":8,
-                    "slopes60":4,
-                    "slopes8":4,
-                    "slopes16":4,
-                    "slopes50":4,
-                    "flatBanked22":8,
-                    "flatBanked45":16,
-                    "slopes12Banked22":4,
-                    "slopes8Banked22":4
+                    "slopeFlat": 16,
+                    "slopes12": 4,
+                    "slopes25": 16,
+                    "slopes42": 8,
+                    "slopes60": 4,
+                    "slopes8": 4,
+                    "slopes16": 4,
+                    "slopes50": 4,
+                    "flatBanked22": 8,
+                    "flatBanked45": 16,
+                    "slopes12Banked22": 4,
+                    "slopes8Banked22": 4
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, 2, 4, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    2,
+                    4,
+                    -3,
+                    -1
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -67,28 +89,25 @@
                 "carVisual": 8,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "hasScreamingRiders": true
             }
         ]
     },
     "images": [
-    { "path": "images/preview.png", "format": "raw"},
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$CSG[31061..31076]",
-
         "$CSG[31077]",
         "$CSG[31085]",
         "$CSG[31093]",
         "$CSG[31101]",
-
         "$CSG[31081]",
         "$CSG[31089]",
         "$CSG[31097]",
         "$CSG[31105]",
-
         "$CSG[31078]",
         "$CSG[31109..31111]",
         "$CSG[31086]",
@@ -97,7 +116,6 @@
         "$CSG[31115..31117]",
         "$CSG[31102]",
         "$CSG[31118..31120]",
-
         "$CSG[31082]",
         "$CSG[31121..31123]",
         "$CSG[31090]",
@@ -106,7 +124,6 @@
         "$CSG[31127..31129]",
         "$CSG[31106]",
         "$CSG[31130..31132]",
-
         "$CSG[31079]",
         "$CSG[31141]",
         "$CSG[31087]",
@@ -131,14 +148,12 @@
         "$CSG[31092]",
         "$CSG[31100]",
         "$CSG[31108]",
-
         "$CSG[31133..31136]",
         "$CSG[31149..31152]",
         "$CSG[31137..31140]",
         "$CSG[31153..31156]",
         "$CSG[31145..31148]",
         "$CSG[31161..31164]",
-
         "$CSG[31197]",
         "$CSG[31237]",
         "$CSG[31198]",
@@ -155,25 +170,18 @@
         "$CSG[31243]",
         "$CSG[31204]",
         "$CSG[31244]",
-
         "$CSG[31165..31196]",
-
         "$CSG[31205..31220]",
-
         "$CSG[31221..31236]",
-
         "$CSG[31245..31260]",
-
         "$CSG[31261]",
         "$CSG[31269]",
         "$CSG[31277]",
         "$CSG[31285]",
-
         "$CSG[31265]",
         "$CSG[31273]",
         "$CSG[31281]",
         "$CSG[31289]",
-
         "$CSG[31262]",
         "$CSG[31293..31295]",
         "$CSG[31270]",
@@ -182,7 +190,6 @@
         "$CSG[31299..31301]",
         "$CSG[31286]",
         "$CSG[31302..31304]",
-
         "$CSG[31266]",
         "$CSG[31305..31307]",
         "$CSG[31274]",
@@ -191,7 +198,6 @@
         "$CSG[31311..31313]",
         "$CSG[31290]",
         "$CSG[31314..31316]",
-
         "$CSG[31263]",
         "$CSG[31325]",
         "$CSG[31271]",
@@ -216,14 +222,12 @@
         "$CSG[31276]",
         "$CSG[31284]",
         "$CSG[31292]",
-
         "$CSG[31317..31320]",
         "$CSG[31333..31336]",
         "$CSG[31321..31324]",
         "$CSG[31337..31340]",
         "$CSG[31329..31332]",
         "$CSG[31345..31348]",
-
         "$CSG[31381]",
         "$CSG[31421]",
         "$CSG[31382]",
@@ -240,25 +244,18 @@
         "$CSG[31427]",
         "$CSG[31388]",
         "$CSG[31428]",
-
         "$CSG[31349..31380]",
-
         "$CSG[31389..31404]",
-
         "$CSG[31405..31420]",
-
         "$CSG[31429..31444]",
-
         "$CSG[31445]",
         "$CSG[31453]",
         "$CSG[31461]",
         "$CSG[31469]",
-
         "$CSG[31449]",
         "$CSG[31457]",
         "$CSG[31465]",
         "$CSG[31473]",
-
         "$CSG[31446]",
         "$CSG[31477..31479]",
         "$CSG[31454]",
@@ -267,7 +264,6 @@
         "$CSG[31483..31485]",
         "$CSG[31470]",
         "$CSG[31486..31488]",
-
         "$CSG[31450]",
         "$CSG[31489..31491]",
         "$CSG[31458]",
@@ -276,7 +272,6 @@
         "$CSG[31495..31497]",
         "$CSG[31474]",
         "$CSG[31498..31500]",
-
         "$CSG[31447]",
         "$CSG[31509]",
         "$CSG[31455]",
@@ -301,14 +296,12 @@
         "$CSG[31460]",
         "$CSG[31468]",
         "$CSG[31476]",
-
         "$CSG[31501..31504]",
         "$CSG[31517..31520]",
         "$CSG[31505..31508]",
         "$CSG[31521..31524]",
         "$CSG[31513..31516]",
         "$CSG[31529..31532]",
-
         "$CSG[31565]",
         "$CSG[31605]",
         "$CSG[31566]",
@@ -325,25 +318,18 @@
         "$CSG[31611]",
         "$CSG[31572]",
         "$CSG[31612]",
-
         "$CSG[31533..31564]",
-
         "$CSG[31573..31588]",
-
         "$CSG[31589..31604]",
-
         "$CSG[31613..31628]",
-
         "$CSG[31629]",
         "$CSG[31637]",
         "$CSG[31645]",
         "$CSG[31653]",
-
         "$CSG[31633]",
         "$CSG[31641]",
         "$CSG[31649]",
         "$CSG[31657]",
-
         "$CSG[31630]",
         "$CSG[31661..31663]",
         "$CSG[31638]",
@@ -352,7 +338,6 @@
         "$CSG[31667..31669]",
         "$CSG[31654]",
         "$CSG[31670..31672]",
-
         "$CSG[31634]",
         "$CSG[31673..31675]",
         "$CSG[31642]",
@@ -361,7 +346,6 @@
         "$CSG[31679..31681]",
         "$CSG[31658]",
         "$CSG[31682..31684]",
-
         "$CSG[31631]",
         "$CSG[31693]",
         "$CSG[31639]",
@@ -386,14 +370,12 @@
         "$CSG[31644]",
         "$CSG[31652]",
         "$CSG[31660]",
-
         "$CSG[31685..31688]",
         "$CSG[31701..31704]",
         "$CSG[31689..31692]",
         "$CSG[31705..31708]",
         "$CSG[31697..31700]",
         "$CSG[31713..31716]",
-
         "$CSG[31749]",
         "$CSG[31789]",
         "$CSG[31750]",
@@ -410,17 +392,13 @@
         "$CSG[31795]",
         "$CSG[31756]",
         "$CSG[31796]",
-
         "$CSG[31717..31748]",
-
         "$CSG[31757..31772]",
-
         "$CSG[31773..31788]",
-
-		""
+        ""
     ],
     "noCsgImages": [
-    { "path": "images/preview.png", "format": "raw"},
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$RCT2:OBJDATA/CSTBOAT.DAT[3]",
@@ -439,9 +417,7 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[29]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[31]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[33]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[35..42]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[43]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[45]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[47]",
@@ -458,7 +434,6 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[69]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[71]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[73]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[75]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[77]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[79]",
@@ -475,9 +450,7 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[101]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[103]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[105]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[107..122]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[123]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[131]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[139]",
@@ -486,9 +459,7 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[163]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[171]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[179]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[187..226]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[227]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[229]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[231]",
@@ -505,7 +476,6 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[253]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[255]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[257]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[259]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[261]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[263]",
@@ -522,7 +492,6 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[285]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[287]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[289]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[291]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[299]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[307]",
@@ -531,7 +500,6 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[331]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[339]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[347]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[355]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[363]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[371]",
@@ -540,9 +508,7 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[395]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[403]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[411]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[419..434]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[435]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[437]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[439]",
@@ -559,9 +525,7 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[461]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[463]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[465]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[467..474]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[475]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[477]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[479]",
@@ -578,7 +542,6 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[501]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[503]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[505]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[507]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[509]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[511]",
@@ -595,9 +558,7 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[533]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[535]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[537]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[539..554]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[555]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[563]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[571]",
@@ -606,9 +567,7 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[595]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[603]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[611]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[619..658]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[659]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[661]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[663]",
@@ -625,7 +584,6 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[685]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[687]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[689]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[691]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[693]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[695]",
@@ -642,7 +600,6 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[717]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[719]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[721]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[723]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[731]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[739]",
@@ -651,7 +608,6 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[763]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[771]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[779]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[787]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[795]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[803]",
@@ -660,9 +616,7 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[827]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[835]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[843]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[851..866]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[867]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[869]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[871]",
@@ -679,9 +633,7 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[893]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[895]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[897]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[899..906]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[907]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[909]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[911]",
@@ -698,7 +650,6 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[933]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[935]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[937]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[939]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[941]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[943]",
@@ -715,9 +666,7 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[965]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[967]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[969]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[971..986]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[987]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[995]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1003]",
@@ -726,9 +675,7 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[1027]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1035]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1043]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[1051..1090]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[1091]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1093]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1095]",
@@ -745,7 +692,6 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[1117]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1119]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1121]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[1123]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1125]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1127]",
@@ -762,7 +708,6 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[1149]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1151]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1153]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[1155]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1163]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1171]",
@@ -771,7 +716,6 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[1195]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1203]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1211]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[1219]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1227]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1235]",
@@ -780,9 +724,7 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[1259]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1267]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1275]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[1283..1298]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[1299]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1301]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1303]",
@@ -799,9 +741,7 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[1325]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1327]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1329]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[1331..1338]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[1339]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1341]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1343]",
@@ -818,7 +758,6 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[1365]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1367]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1369]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[1371]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1373]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1375]",
@@ -835,9 +774,7 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[1397]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1399]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1401]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[1403..1418]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[1419]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1427]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1435]",
@@ -846,9 +783,7 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[1459]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1467]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1475]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[1483..1522]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[1523]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1525]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1527]",
@@ -865,7 +800,6 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[1549]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1551]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1553]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[1555]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1557]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1559]",
@@ -882,7 +816,6 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[1581]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1583]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1585]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[1587]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1595]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1603]",
@@ -891,7 +824,6 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[1627]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1635]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1643]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[1651]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1659]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1667]",
@@ -900,10 +832,8 @@
         "$RCT2:OBJDATA/CSTBOAT.DAT[1691]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1699]",
         "$RCT2:OBJDATA/CSTBOAT.DAT[1707]",
-
         "$RCT2:OBJDATA/CSTBOAT.DAT[1715..1730]",
-
-		""
+        ""
     ],
     "strings": {
         "name": {
@@ -926,7 +856,7 @@
         },
         "description": {
             "en-GB": "Boat-shaped roller coaster cars",
-            "fr-FR": "Voitures de montagnes russes en forme de bateau",
+            "fr-FR": "Voiture de montagnes russes en forme de bateau",
             "de-DE": "Bootsförmige Achterbahnwagen",
             "es-ES": "Vagones con forma de bote",
             "it-IT": "Carrozze da ottovolante a forma di barche",

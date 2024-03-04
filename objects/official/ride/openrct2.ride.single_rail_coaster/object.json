@@ -157,21 +157,36 @@
             "de-DE": "Einschienenachterbahnzüge",
             "nl-NL": "Trein voor achtbaan met enkele rail",
             "eo-ZZ": "Trajnoj de Onda Fervojo kun Unuopa Relo",
-            "ca-ES": "Muntanya russa d’un sol rail"
+            "ca-ES": "Muntanya russa d’un sol rail",
+            "fr-FR": "Train de montagnes russes à rail unique",
+            "hu-HU": "Egysínű hullámvasútvonatok",
+            "ko-KR": "모노레일 롤러코스터 열차",
+            "nb-NO": "Enkeltspor berg-og-dal-bane-tog",
+            "pt-BR": "Trens de Montanha-Russa de Trilho Único"
         },
         "description": {
             "en-GB": "Roller coaster trains in which riders are seated single file",
             "de-DE": "Achterbahnzüge, in denen die Fahrgäste in einer Einzelreihe sitzen",
             "nl-NL": "Achtbaantrein waarin de passagiers achter elkaar zitten, in eigen karretjes.",
             "eo-ZZ": "Trajnoj de onda fervojo, kiuj rajdantoj sidas anservice",
-            "ca-ES": "Muntanya russa amb cotxes en la qual els passatgers van asseguts un darrere l’altre."
+            "ca-ES": "Muntanya russa amb cotxes en la qual els passatgers van asseguts un darrere l’altre.",
+            "fr-FR": "Train de montagnes russes dans lequel les passagers sont assis en ligne",
+            "hu-HU": "Hullámvasút vonatok, amelyeken az utasok egymás után ülnek",
+            "ko-KR": "승객이 일렬로 앉아 있는 롤러코스터 열차",
+            "nb-NO": "Berg-og-dal-bane-tog hvor gjester sitter i én kolonne",
+            "pt-BR": "Trens de montanha russa onde os passageiros sentam-se em fila única"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
             "de-DE": "1 Fahrgast pro Wagen",
             "nl-NL": "1 passagier per karretje",
             "eo-ZZ": "Po 1 pasaĝero por ĉaro",
-            "ca-ES": "1 passatger per cotxe"
+            "ca-ES": "1 passatger per cotxe",
+            "fr-FR": "1 passager par voiture",
+            "hu-HU": "1 utas kocsinként",
+            "ko-KR": "차량 당 승객 1명",
+            "nb-NO": "1 passasjer per vogn",
+            "pt-BR": "1 passageiro por carro"
         }
     },
     "images": [

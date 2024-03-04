@@ -1,6 +1,9 @@
 {
     "id": "rct1aa.ride.flying_saucers",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1FSA|00000000",
     "sourceGame": "rct1aa",
@@ -12,10 +15,18 @@
         "carsPerFlatRide": 12,
         "carColours": [
             [
-                ["white", "light_orange", "black"]
+                [
+                    "white",
+                    "light_orange",
+                    "black"
+                ]
             ],
             [
-                ["light_purple", "bright_red", "black"]
+                [
+                    "light_purple",
+                    "bright_red",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -28,23 +39,25 @@
             "poweredMaxSpeed": 10,
             "drawOrder": 7,
             "spriteGroups": {
-                "slopeFlat":16
+                "slopeFlat": 16
             },
             "hasAdditionalColour1": true,
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
             "useDodgemCarPlacement": true,
-            "loadingPositions": [0]
+            "loadingPositions": [
+                0
+            ]
         }
     },
     "images": [
-    { "path": "images/preview.png", "format": "raw"},
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$CSG[32653..32684]"
     ],
     "noCsgImages": [
-    { "path": "images/preview.png", "format": "raw"},
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$RCT2:OBJDATA/FSAUC.DAT[3]",
@@ -63,7 +76,6 @@
         "$RCT2:OBJDATA/FSAUC.DAT[29]",
         "$RCT2:OBJDATA/FSAUC.DAT[31]",
         "$RCT2:OBJDATA/FSAUC.DAT[33]",
-
         "$RCT2:OBJDATA/FSAUC.DAT[35]",
         "$RCT2:OBJDATA/FSAUC.DAT[37]",
         "$RCT2:OBJDATA/FSAUC.DAT[39]",
@@ -103,7 +115,7 @@
         },
         "description": {
             "en-GB": "Guests ride in saucer-shaped hovercraft vehicles that they freely control",
-            "fr-FR": "Aéroglisseurs auto-guidés",
+            "fr-FR": "Les visiteurs contrôlent des aéroglisseurs en forme de soucoupes volantes",
             "de-DE": "Die Gäste fahren in untertassenförmigen Luftkissenfahrzeugen, die sie selbst steuern",
             "es-ES": "Vehículos aerodeslizadores autopropulsados",
             "it-IT": "Veicoli hovercraft guidati dai visitatori",

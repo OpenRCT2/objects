@@ -85,7 +85,7 @@
     "strings": {
         "name": {
             "en-GB": "Pegasus Cars",
-            "fr-FR": "Pégase",
+            "fr-FR": "Voiture Pégase",
             "de-DE": "Pegasus-Wagen",
             "es-ES": "Viaje de pegaso",
             "it-IT": "Corsa di Pegaso",
@@ -106,7 +106,7 @@
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of Pegasus drawing a cart",
-            "fr-FR": "Véhicule à propulsion en forme de Pégase tirant une charrette et parcourant une route plane",
+            "fr-FR": "Véhicule à propulsion en forme de Pégase tirant une charrette",
             "de-DE": "Angetriebene Fahrzeuge in Form eines Pegasus, der einen Karren zieht",
             "es-ES": "Poderosos vehículos en forma de pegaso tiran de un carro, siguiendo una ruta prefijada.",
             "it-IT": "I veicoli elettrici, a forma di Pegaso che traina un carrello, seguono un circuito prestabilito.",
@@ -132,7 +132,7 @@
             "it-IT": "2 passeggeri per carrozza",
             "nl-NL": "2 passagiers per karretje",
             "sv-SE": "2 passagerare per vagn",
-            "ko-KR": "차량당 2명의 승객",
+            "ko-KR": "차량 당 2명의 승객",
             "zh-TW": "每輛車限乘2人",
             "ja-JP": "各車両2名",
             "pt-BR": "2 passageiros por vagão",

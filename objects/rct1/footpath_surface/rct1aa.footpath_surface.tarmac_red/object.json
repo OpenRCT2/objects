@@ -22,10 +22,12 @@
         "name": {
             "en-GB": "Red Tarmac Footpath (Sloped)",
             "de-DE": "Roter Makadam-Fußweg (Schräge)",
-            "fr-FR": "Allée en bitume rouge",
+            "fr-FR": "Allée en bitume rouge (pente)",
             "nl-NL": "Voetpad van rood asfalt (met helling)",
             "eo-ZZ": "Ruĝa Asfalta Trotuaro (Dekliva)",
-            "ca-ES": "Camí vermell asfaltat (amb rampes)"
+            "ca-ES": "Camí vermell asfaltat (amb rampes)",
+            "ko-KR": "빨간색 타맥 보도 (경사)",
+            "pt-BR": "Caminho de Asfalto Vermelho (Inclinado)"
         }
     }
 }

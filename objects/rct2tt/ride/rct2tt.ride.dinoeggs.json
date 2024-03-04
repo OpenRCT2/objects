@@ -1070,11 +1070,12 @@
             "eo-ZZ": "Dinosaŭro-Ovo-Atrakcio",
             "ca-ES": "L’ou del dinosaure",
             "fi-FI": "Dinosauruksen muna -laite",
-            "zh-CN": "恐龙蛋大历险"
+            "zh-CN": "恐龙蛋大历险",
+            "hu-HU": "Dinoszaurusztojás-utazás"
         },
         "description": {
             "en-GB": "Riders ride in pairs, in themed seats rotating around an animated mother dinosaur",
-            "fr-FR": "Les passagers sont assis par deux dans des sièges thématiques et font le tour d’une maman dinosaure animée.",
+            "fr-FR": "Les passagers sont assis par deux dans des sièges thématiques et font le tour d’une maman dinosaure animée",
             "de-DE": "Die Fahrgäste fahren zu zweit in Sitzen, die um eine animierte Dinosauriermama rotieren",
             "es-ES": "Los usuarios montan en parejas, en asientos ambientados que giran alrededor de una madre dinosaurio animada.",
             "it-IT": "I passeggeri siedono in coppia su sedili che ruotano intorno a un pupazzo animato raffigurante una mamma dinosauro.",
@@ -1090,7 +1091,8 @@
             "eo-ZZ": "Rajdantoj rajdas en paroj da temitaj seĝoj, kiuj turniĝas ĉirkaŭ animita patrino-dinosaŭro",
             "ca-ES": "Els passatgers seuen per parelles en seients tematitzats al voltant d’una mare dinosaure animada.",
             "fi-FI": "Kävijät istuvat pareittain teematuissa istuimissa, jotka pyörivät liikkuvan dinosaurusemon ympärillä",
-            "zh-CN": "乘客成对骑行，主题座椅围绕着一只动画的母恐龙旋转"
+            "zh-CN": "乘客成对骑行，主题座椅围绕着一只动画的母恐龙旋转",
+            "hu-HU": "Az utasok párban utaznak, tematikus ülésekben, amelyek egy animált anyadinoszaurusz körül forognak"
         },
         "capacity": {
             "en-GB": "18 passengers",
@@ -1110,7 +1112,8 @@
             "eo-ZZ": "18 pasaĝeroj",
             "ca-ES": "18 passatgers",
             "fi-FI": "18 matkustajaa",
-            "zh-CN": "18位顾客"
+            "zh-CN": "18位顾客",
+            "hu-HU": "18 utas"
         }
     }
 }

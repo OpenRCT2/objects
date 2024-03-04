@@ -1,6 +1,9 @@
 {
     "id": "rct1.ride.dodgems",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1DOD|00000000",
     "sourceGame": "rct1",
@@ -12,16 +15,32 @@
         "carsPerFlatRide": 12,
         "carColours": [
             [
-                ["bright_red", "white", "black"]
+                [
+                    "bright_red",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "white", "black"]
+                [
+                    "light_blue",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "bright_red", "black"]
+                [
+                    "yellow",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["bright_purple", "yellow", "black"]
+                [
+                    "bright_purple",
+                    "yellow",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -34,7 +53,7 @@
             "poweredMaxSpeed": 10,
             "drawOrder": 7,
             "spriteGroups": {
-                "slopeFlat":16
+                "slopeFlat": 16
             },
             "hasDodgemInUseLights": true,
             "hasAdditionalColour1": true,
@@ -42,7 +61,9 @@
             "useBoatHireCollisionDetection": true,
             "hasVehicleAnimation": true,
             "useDodgemCarPlacement": true,
-            "loadingPositions": [0]
+            "loadingPositions": [
+                0
+            ]
         }
     },
     "images": [
@@ -71,7 +92,6 @@
         "$RCT2:OBJDATA/DODG1.DAT[55..56]",
         "$RCT2:OBJDATA/DODG1.DAT[59..60]",
         "$RCT2:OBJDATA/DODG1.DAT[63..64]",
-
         "$RCT2:OBJDATA/DODG1.DAT[67..68]",
         "$RCT2:OBJDATA/DODG1.DAT[71..72]",
         "$RCT2:OBJDATA/DODG1.DAT[75..76]",
@@ -93,7 +113,7 @@
         "name": {
             "en-GB": "Dodgems",
             "en-US": "Bumper Cars",
-            "fr-FR": "Autos tamponneuses",
+            "fr-FR": "Auto-tamponneuses",
             "de-DE": "Autoscooter",
             "es-ES": "Coches de choque",
             "it-IT": "Auto-scontro",
@@ -113,7 +133,7 @@
         "description": {
             "en-GB": "Riders bump into each other in self-drive electric dodgems",
             "en-US": "Riders bump into each other in self-driven electric bumper cars",
-            "fr-FR": "Autos tamponneuses électriques",
+            "fr-FR": "Les passagers se rentrent dedans à bord d’auto-tamponneuses électriques",
             "de-DE": "Die Fahrer kollidieren miteinander in selbstgesteuerten elektrischen Wagen",
             "es-ES": "Coches de choque eléctricos autopropulsados",
             "it-IT": "Auto da scontro elettriche guidate dal visitatore",

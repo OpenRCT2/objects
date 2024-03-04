@@ -1680,13 +1680,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Corkscrew Roller Coaster Trains"
+            "en-GB": "Corkscrew Roller Coaster Trains",
+            "fr-FR": "Train de montagnes russes tire-bouchon",
+            "ko-KR": "나선 롤러코스터 차량",
+            "nl-NL": "Trein voor stalen schroefachtbaan",
+            "pt-BR": "Trens de Montanha-Russa Saca-Rolhas"
         },
         "description": {
-            "en-GB": "Roller coaster trains with shoulder restraints"
+            "en-GB": "Roller coaster trains with shoulder restraints",
+            "fr-FR": "Train de montagnes russes avec des retenues aux épaules",
+            "ko-KR": "어깨 안전 장치가 있는 롤러코스터 차량",
+            "nl-NL": "Achtbaantreinen met schouderbeugels.",
+            "pt-BR": "Trens de montanha russa com travas de ombro"
         },
         "capacity": {
-            "en-GB": "4 passengers per car"
+            "en-GB": "4 passengers per car",
+            "ko-KR": "차량당 4명의 승객",
+            "nl-NL": "4 passagiers per karretje",
+            "pt-BR": "4 passageiros por carro"
         }
     }
 }

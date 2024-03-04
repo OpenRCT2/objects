@@ -75,7 +75,7 @@
     "strings": {
         "name": {
             "en-GB": "Battering Ram Trains",
-            "fr-FR": "Le bélier",
+            "fr-FR": "Train bélier",
             "de-DE": "Rammbockzüge",
             "es-ES": "Montaña rusa Ariete",
             "it-IT": "Ottovolante Ariete",
@@ -91,11 +91,12 @@
             "eo-ZZ": "Ramilego-Trajnoj",
             "ca-ES": "Trens ariet",
             "fi-FI": "Muurinmurtajavaunut",
-            "zh-CN": "攻城锤列车"
+            "zh-CN": "攻城锤列车",
+            "hu-HU": "Faltörő kos vonatok"
         },
         "description": {
             "en-GB": "Compact roller coaster trains with cars with in-line seating, themed to look like battering rams from the Dark Age",
-            "fr-FR": "Montagnes russes compactes et métalliques avec une remontée en spirale et des voitures disposant de sièges en ligne",
+            "fr-FR": "Train de montagnes russes compactes avec des voitures en ligne, représentant un bélier médiéval",
             "de-DE": "Kompakte Achterbahnzüge mit Wagen mit Sitzen in einer Reihe, mit dem Aussehen von Rammböcken aus dem finsterem Mittelalter",
             "es-ES": "Una montaña rusa compacta, de metal, con una subida en espiral y coches con asientos en línea.",
             "it-IT": "Un ottovolante d’acciaio compatto, caratterizzato da una salita da traino a spirale e da carrozze con sedili in fila.",
@@ -111,7 +112,8 @@
             "eo-ZZ": "Kompaktaj trajnoj de onda fervojo kun ĉaroj kun kolono da seĝoj, temitaj por aspekti kiel ramilegoj de la Malluma Epoko",
             "ca-ES": "Trens compactes per a muntanyes russes amb cotxes tematitzats com ariets d’època mevieval i amb seients en línia.",
             "fi-FI": "Keskiaikaisen muurinmurtajan näköiset kompaktin vuoristoradan vaunut",
-            "zh-CN": "紧凑型过山车列车，带有直排座椅的汽车，主题看起来像黑暗时代的攻城车"
+            "zh-CN": "紧凑型过山车列车，带有直排座椅的汽车，主题看起来像黑暗时代的攻城车",
+            "hu-HU": "Kompakt hullámvasútvonatok, egymás utáni ülésekkel ellátott kocsikkal, amelyek témája a sötét középkor faltörő kosait idézi"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -121,7 +123,7 @@
             "it-IT": "6 passeggeri per vettura",
             "nl-NL": "6 passagiers per karretje",
             "sv-SE": "6 passagerare per vagn",
-            "ko-KR": "차량당 6명의 승객",
+            "ko-KR": "차량 당 6명의 승객",
             "zh-TW": "每輛車限乘6人",
             "ja-JP": "各車両6名",
             "pt-BR": "6 passageiros por vagão",
@@ -131,7 +133,8 @@
             "eo-ZZ": "Po 6 pasaĝeroj por ĉaro",
             "ca-ES": "6 passatgers per cotxe",
             "fi-FI": "6 matkustajaa per vaunu",
-            "zh-CN": "6位乘客/车"
+            "zh-CN": "6位乘客/车",
+            "hu-HU": "6 utas kocsinként"
         }
     }
 }

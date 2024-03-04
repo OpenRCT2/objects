@@ -1,6 +1,9 @@
 {
     "id": "rct1aa.scenery_wall.wooden_post_wall_2",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "rct1aa",
     "isCompatibilityObject": true,
@@ -11,8 +14,12 @@
         "price": 40,
         "sceneryGroup": "rct2.scenery_group.scgjungl"
     },
-    "images": ["$CSG[63221..63226]"],
-    "noCsgImages": ["$RCT2:OBJDATA/WPW2.DAT[0..5]"],
+    "images": [
+        "$CSG[63221..63226]"
+    ],
+    "noCsgImages": [
+        "$RCT2:OBJDATA/WPW2.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Wooden Post Wall",

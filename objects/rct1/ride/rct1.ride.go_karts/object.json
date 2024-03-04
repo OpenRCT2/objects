@@ -295,11 +295,19 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Go-Karts (with helmets)"
+            "en-GB": "Go-Karts (with helmets)",
+            "fr-FR": "Karting (avec des casques)",
+            "ko-KR": "고 카트 (헬멧)",
+            "nl-NL": "Go-Karts (met helmen)",
+            "pt-BR": "Karts (com capacetes)"
         },
         "description": {
             "en-GB": "Self-driven petrol-engined go-karts that come with safety helmets",
-            "en-US": "Self-driven gas-engined go-karts that come with safety helmets"
+            "en-US": "Self-driven gas-engined go-karts that come with safety helmets",
+            "fr-FR": "Karts individuels constitués de moteurs à essence avec un casque de protection",
+            "ko-KR": "안전 헬멧이 함께 제공되는 자체 구동 휘발유 엔진 고 카트",
+            "nl-NL": "Go-karts met benzinemotor die de passagiers zelf besturen.",
+            "pt-BR": "Karts à gasolina auto-pilotáveis com capacetes de segurança"
         },
         "capacity": {
             "en-GB": "single-seater",

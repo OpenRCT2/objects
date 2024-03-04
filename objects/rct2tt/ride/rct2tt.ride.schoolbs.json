@@ -111,11 +111,12 @@
             "eo-ZZ": "Lernejo-Buso-Tramoj",
             "ca-ES": "Tramvies d’autobusos escolars",
             "fi-FI": "Koulubussivaunut",
-            "zh-CN": "校车电车"
+            "zh-CN": "校车电车",
+            "hu-HU": "Iskolabusz-villamosok"
         },
         "description": {
             "en-GB": "Miniature trams themed to look like North American school buses",
-            "fr-FR": "Tramways reprenant la thématique des bus scolaires jaunes américains",
+            "fr-FR": "Tramway reprenant la thématique des bus scolaires jaunes nord-américains",
             "de-DE": "Miniaturstraßenbahnen, die Schulbussen nachempfunden sind",
             "es-ES": "Réplica del clásico autocar amarillo",
             "it-IT": "Tram in miniatura a forma di scuolabus nordamericani",
@@ -131,7 +132,8 @@
             "eo-ZZ": "Miniaturaj tramoj temitaj por aspekti kiel nordamerikaj lernejo-busoj",
             "ca-ES": "Tramvies en miniatura tematitzats com a autobusos escolars nord-americans.",
             "fi-FI": "Pohjoisamerikkalaisien koulubussien näköisiksi teematut pienoisvaunut",
-            "zh-CN": "以北美校车为主题的微型电车"
+            "zh-CN": "以北美校车为主题的微型电车",
+            "hu-HU": "Miniatűr villamosok, amelyek úgy néznek ki, mint az észak-amerikai iskolabuszok"
         },
         "capacity": {
             "en-GB": "10 passengers per car",
@@ -151,7 +153,8 @@
             "eo-ZZ": "Po 10 pasaĝeroj por ĉaro",
             "ca-ES": "10 passatgers per cotxe",
             "fi-FI": "10 matkustajaa per vaunu",
-            "zh-CN": "10位乘客/车"
+            "zh-CN": "10位乘客/车",
+            "hu-HU": "10 utas kocsinként"
         }
     }
 }

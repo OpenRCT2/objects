@@ -163,21 +163,36 @@
             "de-DE": "Hybridachterbahnzüge",
             "nl-NL": "Trein voor hybride achtbaan",
             "eo-ZZ": "Trajnoj de Hibrida Onda Fervojo",
-            "ca-ES": "Muntanya russa híbrida"
+            "ca-ES": "Muntanya russa híbrida",
+            "fr-FR": "Train de montagnes russes hybrides",
+            "hu-HU": "Hibrid hullámvasútvonatok",
+            "ko-KR": "하이브리드 코스터 열차",
+            "nb-NO": "Hybrid berg-og-dal-bane-tog",
+            "pt-BR": "Trens de Montanha-Russa Híbrida"
         },
         "description": {
             "en-GB": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
             "de-DE": "Achterbahnzüge mit Schoßhalterungen; für steile Stürze und Inversionen geeignet",
             "nl-NL": "Achtbaantreinen met schootbeugels, die geschikt zijn voor steile heilingen en omkeringen.",
             "eo-ZZ": "Trajnoj de onda fervojo kun sinobridoj, kapablaj je krutaj malleviĝoj kaj inversigoj",
-            "ca-ES": "Muntanya russa amb cotxes amb subjecció simple, amb caigudes pronunciades i inversions."
+            "ca-ES": "Muntanya russa amb cotxes amb subjecció simple, amb caigudes pronunciades i inversions.",
+            "fr-FR": "Train de montagnes russes avec des barres aux jambes, prévu pour des chutes raides et des inversions",
+            "hu-HU": "Hullámvasútvonatok biztonsági rudakkal, amelyek képesek meredek zuhanásokra és átfordulásokra",
+            "ko-KR": "무릎 안전 장치가 있어 가파른 낙하와 반전이 가능한 롤러코스터 차량",
+            "nb-NO": "Berg-og-dal-bane-tog med sikringer over fanget, i stand til å tåle bratte fall og inversjoner",
+            "pt-BR": "Trens de montanha russa com proteção de colo, capazes de quedas íngremes e inversões"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
             "de-DE": "4 Fahrgäste pro Wagen",
             "nl-NL": "4 passagiers per karretje",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
-            "ca-ES": "4 passatgers per cotxe"
+            "ca-ES": "4 passatgers per cotxe",
+            "fr-FR": "4 passagers par voiture",
+            "hu-HU": "4 utas kocsinként",
+            "ko-KR": "차량 당 승객 4명",
+            "nb-NO": "4 passasjerer per vogn",
+            "pt-BR": "4 passageiros por carro"
         }
     },
     "images": [

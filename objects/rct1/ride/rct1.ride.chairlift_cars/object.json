@@ -1,6 +1,9 @@
 {
     "id": "rct1.ride.chairlift_cars",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1CFT|00000000",
     "sourceGame": "rct1",
@@ -12,16 +15,32 @@
         "hasShelter": true,
         "carColours": [
             [
-                ["yellow", "saturated_brown", "black"]
+                [
+                    "yellow",
+                    "saturated_brown",
+                    "black"
+                ]
             ],
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["bright_green", "yellow", "black"]
+                [
+                    "bright_green",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "white", "black"]
+                [
+                    "light_blue",
+                    "white",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -32,12 +51,15 @@
             "numSeats": 2,
             "numSeatRows": 1,
             "spriteGroups": {
-                "slopeFlat":16,
+                "slopeFlat": 16,
                 "restraintAnimation": 4
             },
             "hasAdditionalColour1": true,
             "isChairlift": true,
-            "loadingPositions": [4, 0]
+            "loadingPositions": [
+                4,
+                0
+            ]
         },
         "buildMenuPriority": 2
     },
@@ -46,7 +68,6 @@
         "",
         "",
         "$CSG[36773..36788]",
-
         "$CSG[36789]",
         "$CSG[36792]",
         "$CSG[36795]",
@@ -59,9 +80,7 @@
         "$CSG[36794]",
         "$CSG[36797]",
         "$CSG[36800]",
-
         "$CSG[36801..36816]",
-
         "$CSG[36817]",
         "$CSG[36820]",
         "$CSG[36823]",
@@ -95,9 +114,7 @@
         "$RCT2:OBJDATA/CLIFT1.DAT[29]",
         "$RCT2:OBJDATA/CLIFT1.DAT[31]",
         "$RCT2:OBJDATA/CLIFT1.DAT[33]",
-
         "$RCT2:OBJDATA/CLIFT1.DAT[35..46]",
-
         "$RCT2:OBJDATA/CLIFT1.DAT[47]",
         "$RCT2:OBJDATA/CLIFT1.DAT[49]",
         "$RCT2:OBJDATA/CLIFT1.DAT[51]",
@@ -114,7 +131,6 @@
         "$RCT2:OBJDATA/CLIFT1.DAT[73]",
         "$RCT2:OBJDATA/CLIFT1.DAT[75]",
         "$RCT2:OBJDATA/CLIFT1.DAT[77]",
-
         "$RCT2:OBJDATA/CLIFT1.DAT[79..90]"
     ],
     "strings": {
@@ -138,7 +154,7 @@
         },
         "description": {
             "en-GB": "Open cars for chairlift",
-            "fr-FR": "Voitures ouvertes pour télésiège",
+            "fr-FR": "Voiture ouverte pour télésiège",
             "de-DE": "Offene Wagen für Sessellift",
             "es-ES": "Vagones abiertos para el telesilla",
             "it-IT": "Carrozze aperte che vengono trainate",

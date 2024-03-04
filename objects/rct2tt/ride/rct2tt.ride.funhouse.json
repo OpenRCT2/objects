@@ -287,7 +287,8 @@
             "eo-ZZ": "Konstruaĵo de Amuzo",
             "ca-ES": "Casa de la diversió",
             "fi-FI": "Hupitalo",
-            "zh-CN": "马戏妙妙屋"
+            "zh-CN": "马戏妙妙屋",
+            "hu-HU": "Elvarázsolt kastély"
         },
         "description": {
             "en-GB": "Building containing moving walls and floors to disorientate people walking through it",
@@ -307,7 +308,8 @@
             "eo-ZZ": "Konstruaĵo, kiu enhavas movantajn murojn kaj plankojn por malorienti homojn irante tra tie",
             "ca-ES": "Edifici que conté parets i terra que es mouen per a desorientar les persones que hi entren.",
             "fi-FI": "Rakennus, jossa on liikkuvia seiniä ja lattioita läpikulkevien kävijöiden hämmennykseksi",
-            "zh-CN": "包含移动墙壁和地板的建筑物，以使穿过它的人迷失方向"
+            "zh-CN": "包含移动墙壁和地板的建筑物，以使穿过它的人迷失方向",
+            "hu-HU": "Épület mozgó falakkkal és padlókkal, hogy összezavarja a rajta áthaladó embereket"
         },
         "capacity": {
             "en-GB": "5 guests",
@@ -327,7 +329,8 @@
             "eo-ZZ": "5 gastoj",
             "ca-ES": "5 visitants",
             "fi-FI": "5 kävijää",
-            "zh-CN": "5位乘客"
+            "zh-CN": "5位乘客",
+            "hu-HU": "5 vendég"
         }
     }
 }

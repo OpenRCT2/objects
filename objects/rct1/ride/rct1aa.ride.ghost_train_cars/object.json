@@ -1,6 +1,9 @@
 {
     "id": "rct1aa.ride.ghost_train_cars",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1GTC|00000000",
     "sourceGame": "rct1aa",
@@ -18,13 +21,25 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["light_purple", "light_orange", "black"]
+                [
+                    "light_purple",
+                    "light_orange",
+                    "black"
+                ]
             ],
             [
-                ["dark_brown", "bright_pink", "black"]
+                [
+                    "dark_brown",
+                    "bright_pink",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -39,9 +54,9 @@
                 "poweredMaxSpeed": 9,
                 "drawOrder": 7,
                 "spriteGroups": {
-                    "slopeFlat":16,
-                    "slopes12":4,
-                    "slopes25":4
+                    "slopeFlat": 16,
+                    "slopes12": 4,
+                    "slopes25": 4
                 },
                 "isPoweredRideWithUnrestrictedGravity": true,
                 "hasNoUpstopWheels": true,
@@ -49,7 +64,10 @@
                 "hasAdditionalColour1": true,
                 "isPowered": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [3, -3]
+                "loadingPositions": [
+                    3,
+                    -3
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -59,7 +77,7 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "isPoweredRideWithUnrestrictedGravity": true,
                 "hasNoUpstopWheels": true,
@@ -74,50 +92,40 @@
         "",
         "",
         "$CSG[40354..40369]",
-
         "$CSG[40370]",
         "$CSG[40374]",
         "$CSG[40378]",
         "$CSG[40382]",
-
         "$CSG[40372]",
         "$CSG[40376]",
         "$CSG[40380]",
-        "$CSG[40384]", 
-
+        "$CSG[40384]",
         "$CSG[40371]",
         "$CSG[40375]",
         "$CSG[40379]",
         "$CSG[40383]",
-
         "$CSG[40373]",
         "$CSG[40377]",
         "$CSG[40381]",
         "$CSG[40385]",
-
         "$CSG[40386..40401]",
-
         "$CSG[40402]",
         "$CSG[40406]",
         "$CSG[40410]",
         "$CSG[40414]",
-
         "$CSG[40404]",
         "$CSG[40408]",
         "$CSG[40412]",
-        "$CSG[40416]", 
-
+        "$CSG[40416]",
         "$CSG[40403]",
         "$CSG[40407]",
         "$CSG[40411]",
         "$CSG[40415]",
-
         "$CSG[40405]",
         "$CSG[40409]",
         "$CSG[40413]",
         "$CSG[40417]",
-
-		""
+        ""
     ],
     "noCsgImages": [
         { "path": "images/preview.png", "format": "raw" },
@@ -139,9 +147,7 @@
         "$RCT2:OBJDATA/GTC.DAT[29]",
         "$RCT2:OBJDATA/GTC.DAT[31]",
         "$RCT2:OBJDATA/GTC.DAT[33]",
-
         "$RCT2:OBJDATA/GTC.DAT[35..42]",
-
         "$RCT2:OBJDATA/GTC.DAT[43]",
         "$RCT2:OBJDATA/GTC.DAT[51]",
         "$RCT2:OBJDATA/GTC.DAT[59]",
@@ -150,7 +156,6 @@
         "$RCT2:OBJDATA/GTC.DAT[83]",
         "$RCT2:OBJDATA/GTC.DAT[91]",
         "$RCT2:OBJDATA/GTC.DAT[99]",
-
         "$RCT2:OBJDATA/GTC.DAT[107]",
         "$RCT2:OBJDATA/GTC.DAT[109]",
         "$RCT2:OBJDATA/GTC.DAT[111]",
@@ -167,9 +172,7 @@
         "$RCT2:OBJDATA/GTC.DAT[133]",
         "$RCT2:OBJDATA/GTC.DAT[135]",
         "$RCT2:OBJDATA/GTC.DAT[137]",
-
         "$RCT2:OBJDATA/GTC.DAT[139..146]",
-
         "$RCT2:OBJDATA/GTC.DAT[147]",
         "$RCT2:OBJDATA/GTC.DAT[155]",
         "$RCT2:OBJDATA/GTC.DAT[163]",
@@ -178,8 +181,7 @@
         "$RCT2:OBJDATA/GTC.DAT[187]",
         "$RCT2:OBJDATA/GTC.DAT[195]",
         "$RCT2:OBJDATA/GTC.DAT[203]",
-
-		""
+        ""
     ],
     "strings": {
         "name": {
@@ -202,7 +204,7 @@
         },
         "description": {
             "en-GB": "Powered monster-shaped cars that run on a ghost train track",
-            "fr-FR": "Des voitures en forme de monstres sont propulsées à travers plusieurs niveaux de décors et d'effets spéciaux effrayants",
+            "fr-FR": "Voiture en forme de monstre propulsée sur une voie de train fantôme",
             "de-DE": "Angetriebene Wagen in Monsterform, die auf einer Geisterbahnstrecke fahren",
             "es-ES": "Vagones con forma de monstruo en una vía múltiple pasando por un escenario tenebroso y lleno de efectos especiales",
             "it-IT": "Carrozze a motore dalle forme mostruose corrono lungo un tracciato multi-livello attraverso uno scenario spaventoso ricco di effetti speciali",

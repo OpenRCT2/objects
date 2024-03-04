@@ -1,6 +1,9 @@
 {
     "id": "rct1.ride.sports_cars",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1SPC|00000000",
     "sourceGame": "rct1",
@@ -18,10 +21,18 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["dark_green", "olive_green", "black"]
+                [
+                    "dark_green",
+                    "olive_green",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -35,13 +46,16 @@
                 "poweredMaxSpeed": 8,
                 "drawOrder": 9,
                 "spriteGroups": {
-                    "slopeFlat":16,
-                    "slopes12":4,
-                    "slopes25":4
+                    "slopeFlat": 16,
+                    "slopes12": 4,
+                    "slopes25": 4
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [4, -4]
+                "loadingPositions": [
+                    4,
+                    -4
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -51,7 +65,7 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "isPowered": true
             }
@@ -59,11 +73,10 @@
         "buildMenuPriority": 5
     },
     "images": [
-    { "path": "images/preview.png", "format": "raw"},
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
-            "$CSG[33229..33244]",
-
+        "$CSG[33229..33244]",
         "$CSG[33245]",
         "$CSG[33249]",
         "$CSG[33253]",
@@ -72,7 +85,6 @@
         "$CSG[33251]",
         "$CSG[33255]",
         "$CSG[33259]",
-
         "$CSG[33246]",
         "$CSG[33250]",
         "$CSG[33254]",
@@ -81,9 +93,7 @@
         "$CSG[33252]",
         "$CSG[33256]",
         "$CSG[33260]",
-
-            "$CSG[33261..33276]",
-
+        "$CSG[33261..33276]",
         "$CSG[33277]",
         "$CSG[33281]",
         "$CSG[33285]",
@@ -92,7 +102,6 @@
         "$CSG[33283]",
         "$CSG[33287]",
         "$CSG[33291]",
-
         "$CSG[33278]",
         "$CSG[33282]",
         "$CSG[33286]",
@@ -101,11 +110,10 @@
         "$CSG[33284]",
         "$CSG[33288]",
         "$CSG[33292]",
-
         ""
     ],
     "noCsgImages": [
-    { "path": "images/preview.png", "format": "raw"},
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$RCT2:OBJDATA/SPCAR.DAT[3]",
@@ -124,9 +132,7 @@
         "$RCT2:OBJDATA/SPCAR.DAT[29]",
         "$RCT2:OBJDATA/SPCAR.DAT[31]",
         "$RCT2:OBJDATA/SPCAR.DAT[33]",
-
         "$RCT2:OBJDATA/SPCAR.DAT[35..42]",
-
         "$RCT2:OBJDATA/SPCAR.DAT[43]",
         "$RCT2:OBJDATA/SPCAR.DAT[51]",
         "$RCT2:OBJDATA/SPCAR.DAT[59]",
@@ -135,7 +141,6 @@
         "$RCT2:OBJDATA/SPCAR.DAT[83]",
         "$RCT2:OBJDATA/SPCAR.DAT[91]",
         "$RCT2:OBJDATA/SPCAR.DAT[99]",
-
         "$RCT2:OBJDATA/SPCAR.DAT[107]",
         "$RCT2:OBJDATA/SPCAR.DAT[109]",
         "$RCT2:OBJDATA/SPCAR.DAT[111]",
@@ -152,9 +157,7 @@
         "$RCT2:OBJDATA/SPCAR.DAT[133]",
         "$RCT2:OBJDATA/SPCAR.DAT[135]",
         "$RCT2:OBJDATA/SPCAR.DAT[137]",
-
         "$RCT2:OBJDATA/SPCAR.DAT[139..146]",
-
         "$RCT2:OBJDATA/SPCAR.DAT[147]",
         "$RCT2:OBJDATA/SPCAR.DAT[155]",
         "$RCT2:OBJDATA/SPCAR.DAT[163]",
@@ -168,7 +171,7 @@
     "strings": {
         "name": {
             "en-GB": "Sports Cars",
-            "fr-FR": "Voitures de sport",
+            "fr-FR": "Voiture de sport",
             "de-DE": "Sportwagen",
             "es-ES": "Deportivos",
             "it-IT": "Auto sportive",
@@ -188,7 +191,7 @@
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of sports cars",
-            "fr-FR": "Véhicules à propulsion en forme de voitures de sport",
+            "fr-FR": "Véhicule à propulsion en forme de voiture de sport",
             "de-DE": "Angetriebene Fahrzeuge in Form von Sportwagen",
             "es-ES": "Vehículos autopropulsados de forma de carreras",
             "it-IT": "Veicoli a motore che ricordano le auto sportive",

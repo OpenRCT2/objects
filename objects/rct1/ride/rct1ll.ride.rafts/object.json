@@ -1,6 +1,9 @@
 {
     "id": "rct1ll.ride.rafts",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1RFT|00000000",
     "sourceGame": "rct1ll",
@@ -17,13 +20,25 @@
         "tabScale": 0.5,
         "carColours": [
             [
-                ["light_brown", "white", "black"]
+                [
+                    "light_brown",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["light_brown", "yellow", "black"]
+                [
+                    "light_brown",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["light_brown", "dark_green", "black"]
+                [
+                    "light_brown",
+                    "dark_green",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -36,12 +51,17 @@
             "poweredMaxSpeed": 5,
             "drawOrder": 9,
             "spriteGroups": {
-                "slopeFlat":16
+                "slopeFlat": 16
             },
             "hasAdditionalColour1": true,
             "isPowered": true,
             "isWaterRide": true,
-            "loadingPositions": [6, 4, -6, -4]
+            "loadingPositions": [
+                6,
+                4,
+                -6,
+                -4
+            ]
         },
         "buildMenuPriority": 1
     },
@@ -71,7 +91,6 @@
         "$RCT2:OBJDATA/RFTBOAT.DAT[29]",
         "$RCT2:OBJDATA/RFTBOAT.DAT[31]",
         "$RCT2:OBJDATA/RFTBOAT.DAT[33]",
-
         "$RCT2:OBJDATA/RFTBOAT.DAT[35]",
         "$RCT2:OBJDATA/RFTBOAT.DAT[37]",
         "$RCT2:OBJDATA/RFTBOAT.DAT[39]",
@@ -88,7 +107,6 @@
         "$RCT2:OBJDATA/RFTBOAT.DAT[61]",
         "$RCT2:OBJDATA/RFTBOAT.DAT[63]",
         "$RCT2:OBJDATA/RFTBOAT.DAT[65]",
-
         "$RCT2:OBJDATA/RFTBOAT.DAT[67]",
         "$RCT2:OBJDATA/RFTBOAT.DAT[69]",
         "$RCT2:OBJDATA/RFTBOAT.DAT[71]",
@@ -109,7 +127,7 @@
     "strings": {
         "name": {
             "en-GB": "Rafts",
-            "fr-FR": "Radeau médusé",
+            "fr-FR": "Radeau",
             "de-DE": "Floße",
             "es-ES": "Balsas de Río",
             "it-IT": "Zattere lungo il fiume",
@@ -127,7 +145,7 @@
         },
         "description": {
             "en-GB": "Raft-shaped boats built for flat river tracks",
-            "fr-FR": "Des bateaux en forme de radeau descendent paisiblement une voie navigable",
+            "fr-FR": "Bateau en forme de radeau conçu pour des voies navigables",
             "de-DE": "Floßförmige Boote, die für flache Flussstrecken ausgelegt sind",
             "es-ES": "Botes con forma de balsa",
             "it-IT": "Barche a forma di zattera si muovono dolcemente lungo una pista d'acqua",

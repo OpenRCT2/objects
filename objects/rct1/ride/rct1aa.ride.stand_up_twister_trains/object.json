@@ -125,10 +125,7 @@
         "buildMenuPriority": 4
     },
     "images": [
-        {
-            "path": "images/preview.png",
-            "format": "raw"
-        },
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$CSG[10418..10433]",
@@ -871,7 +868,7 @@
     "strings": {
         "name": {
             "en-GB": "Stand-up Twister Trains",
-            "fr-FR": "Montagnes tornado debout",
+            "fr-FR": "Train de montagnes tornado debout",
             "de-DE": "Steh-Twister-Züge",
             "es-ES": "Montaña Rusa En Pie Tornado",
             "it-IT": "Serpentone in pos..eretta",
@@ -891,7 +888,7 @@
         },
         "description": {
             "en-GB": "A train with shoulder restraints, in which the riders stand up",
-            "fr-FR": "Les passagers suivent un parcours jalonné de pentes régulières et de multiples inversions, debout dans de grands trains disposant de protections spéciales",
+            "fr-FR": "Train avec des retenues aux épaules dans lequel les passagers se tiennent debout",
             "de-DE": "Ein Zug mit Schulterhalterungen; die Fahrgäste stehen",
             "es-ES": "Los pasajeros permanecen de pie en unos vagones con sujeciones especiales atravesando caídas y múltiples inversiones",
             "it-IT": "I passeggeri si muovono stando in posizione eretta sopra grandi treni da ottovolante forniti di speciali misure di sicurezza, percorrendo lunghe discese e subendo numerose inversioni consecutive",
@@ -931,10 +928,7 @@
         }
     },
     "noCsgImages": [
-        {
-            "path": "images/preview.png",
-            "format": "raw"
-        },
+        { "path": "images/preview.png", "format": "raw" },
         "",
         "",
         "$RCT2:OBJDATA/BMSU.DAT[3]",

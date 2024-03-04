@@ -1,6 +1,9 @@
 {
     "id": "rct1ll.ride.jet_skis",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1JSK|00000000",
     "sourceGame": "rct1ll",
@@ -19,13 +22,25 @@
         },
         "carColours": [
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["white", "bright_red", "black"]
+                [
+                    "white",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["black", "bright_pink", "black"]
+                [
+                    "black",
+                    "bright_pink",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -38,12 +53,14 @@
             "poweredMaxSpeed": 25,
             "drawOrder": 7,
             "spriteGroups": {
-                "slopeFlat":16
+                "slopeFlat": 16
             },
             "hasAdditionalColour1": true,
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
-            "loadingPositions": [0]
+            "loadingPositions": [
+                0
+            ]
         },
         "buildMenuPriority": 1
     },
@@ -73,7 +90,6 @@
         "$RCT2:OBJDATA/JSKI.DAT[29]",
         "$RCT2:OBJDATA/JSKI.DAT[31]",
         "$RCT2:OBJDATA/JSKI.DAT[33]",
-
         "$RCT2:OBJDATA/JSKI.DAT[35]",
         "$RCT2:OBJDATA/JSKI.DAT[37]",
         "$RCT2:OBJDATA/JSKI.DAT[39]",
@@ -106,11 +122,12 @@
             "ja-JP": "ジェットスキー",
             "pl-PL": "Skutery wodne",
             "ru-RU": "Скутеры",
-            "eo-ZZ": "Akvo-Motorsledoj"
+            "eo-ZZ": "Akvo-Motorsledoj",
+            "fr-FR": "Jet ski"
         },
         "description": {
             "en-GB": "Single-seater jet skis which riders can drive themselves",
-            "fr-FR": "Jet skis individuels que les visiteurs peuvent conduire eux-mêmes",
+            "fr-FR": "Jet ski individuel que les visiteurs peuvent conduire eux-mêmes",
             "de-DE": "Einsitzige Jetskis, die die Passagiere selbst steuern können",
             "es-ES": "Jet Skis que un único pasajero puede conducir",
             "it-IT": "Moto d'acqua che il passeggero può guidare da solo",
