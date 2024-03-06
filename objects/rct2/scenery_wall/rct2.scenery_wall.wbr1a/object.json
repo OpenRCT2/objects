@@ -14,7 +14,11 @@
         "price": 50
     },
     "images": [
-        "$RCT2:OBJDATA/WBR1A.DAT[0..1]"
+        "$RCT2:OBJDATA/WBR1A.DAT[0..1]",
+        { "path": "images/2.png", "x": -31, "y": -43 },
+        { "path": "images/3.png", "x": -1, "y": -42 },
+        { "path": "images/4.png", "x": -31, "y": -26 },
+        { "path": "images/5.png", "x": -1, "y": -25 }
     ],
     "strings": {
         "name": {
