@@ -9,6 +9,7 @@
     "sourceGame": "rct2",
     "objectType": "scenery_wall",
     "properties": {
+        "isAllowedOnSlope": true,
         "height": 3,
         "price": 50
     },
