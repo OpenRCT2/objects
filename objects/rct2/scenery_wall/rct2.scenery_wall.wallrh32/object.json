@@ -9,13 +9,18 @@
     "sourceGame": "rct2",
     "objectType": "scenery_wall",
     "properties": {
+        "isAllowedOnSlope": true,
         "hasPrimaryColour": true,
         "isOpaque": true,
         "height": 4,
         "price": 110
     },
     "images": [
-        "$RCT2:OBJDATA/WALLRH32.DAT[0..1]"
+        "$RCT2:OBJDATA/WALLRH32.DAT[0..1]",
+        { "path": "images/2.png", "x": -31, "y": -49 },
+        { "path": "images/3.png", "x": 0, "y": -48 },
+        { "path": "images/4.png", "x": -32, "y": -34 },
+        { "path": "images/5.png", "x": -2, "y": -33 }
     ],
     "strings": {
         "name": {
