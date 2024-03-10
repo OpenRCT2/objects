@@ -50,7 +50,8 @@
             "loadingPositions": [
                 0
             ]
-        }
+        },
+        "buildMenuPriority": 1
     },
     "images": [
         "$RCT2:OBJDATA/FSAUC.DAT[0..66]"
