@@ -48,7 +48,8 @@
             "loadingPositions": [
                 0
             ]
-        }
+        },
+        "buildMenuPriority": 1
     },
     "images": [
         { "path": "images/preview.png", "format": "raw" },
