@@ -1,21 +1,26 @@
 {
-    "id": "rct2.scenery_wall.wallst32",
+    "id": "rct2.scenery_wall.wallst8",
     "authors": [
         "Chris Sawyer",
         "Simon Foster"
     ],
     "version": "1.0",
-    "originalId": "0A188083|WALLST32|C4FFD57E",
+    "originalId": "0A188083|WALLST8 |301FA257",
     "sourceGame": "rct2",
     "objectType": "scenery_wall",
     "properties": {
+        "isAllowedOnSlope": true,
         "hasPrimaryColour": true,
-        "height": 4,
-        "price": 80,
+        "height": 1,
+        "price": 40,
         "sceneryGroup": "rct2.scenery_group.scgwalls"
     },
     "images": [
-        "$RCT2:OBJDATA/WALLST32.DAT[0..1]"
+        "$RCT2:OBJDATA/WALLST8.DAT[0..1]",
+        { "path": "images/2.png", "x": -31, "y": -25 },
+        { "path": "images/3.png", "x": -1, "y": -24 },
+        { "path": "images/4.png", "x": -31, "y": -9 },
+        { "path": "images/5.png", "x": -1, "y": -8 }
     ],
     "strings": {
         "name": {
