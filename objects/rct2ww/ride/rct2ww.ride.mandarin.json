@@ -44,8 +44,8 @@
             "rotationFrameMask": 15,
             "spacing": 278912,
             "mass": 350,
-            "numSeats": 4,
-            "animation": 2,
+            "numSeats": 2,
+            "animation": 5,
             "numSeatRows": 3,
             "poweredAcceleration": 8,
             "poweredMaxSpeed": 5,
@@ -67,7 +67,8 @@
         }
     },
     "images": [
-        "$RCT2:OBJDATA/MANDARIN.DAT[0..66]"
+        "$RCT2:OBJDATA/MANDARIN.DAT[0..34]",
+        "$RCT2:OBJDATA/MANDARIN.DAT[51..66]"
     ],
     "strings": {
         "name": {
@@ -110,7 +111,7 @@
             "fi-FI": "Sorsan muotoiset veneet, jotka liikkuvat eturivin kävijöiden polkemana"
         },
         "capacity": {
-            "en-GB": "4 passengers per boat",
+            "en-GB": "2 passengers per boat",
             "fr-FR": "4 passagers par bateau",
             "de-DE": "4 Fahrgäste pro Boot",
             "es-ES": "4 pasajeros por bote",
