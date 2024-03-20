@@ -90,7 +90,8 @@
             "eo-ZZ": "Monorelaj Trajnoj kun Aeroŝipo-Temo",
             "ca-ES": "Trens monorail amb temàtica d’aeronaus",
             "fi-FI": "Ilmalaivan tyyliset kohoratavaunut",
-            "zh-CN": "飞艇主题单轨列车"
+            "zh-CN": "飞艇主题单轨列车",
+            "hu-HU": "Léghajó témájú egyvágányú vonatok"
         },
         "description": {
             "en-GB": "Large capacity themed monorail trains with streamlined front and rear cars",
@@ -110,7 +111,8 @@
             "eo-ZZ": "Grandaj temitaj monorelaj trajnoj kun aerodinamikaj frontaj kaj postaj ĉaroj",
             "ca-ES": "Trens monorail de gran capacitat amb el primer i últim vagó aerodinàmics.",
             "fi-FI": "Suuren kapasiteetin teematut kohoratajunat, joissa on virtaviivaiset etu- ja takavaunut",
-            "zh-CN": "具有流线型前后车厢的大容量主题单轨列车"
+            "zh-CN": "具有流线型前后车厢的大容量主题单轨列车",
+            "hu-HU": "Nagy kapacitású, tematikus egyvágányú vonatok áramvonalas első és hátsó kocsikkal"
         },
         "capacity": {
             "en-GB": "8 passengers per car",
@@ -130,7 +132,8 @@
             "ja-JP": "各車両8名",
             "eo-ZZ": "Po 8 pasaĝeroj por ĉaro",
             "ca-ES": "8 passatgers per cotxe",
-            "fi-FI": "8 matkustajaa per vaunu"
+            "fi-FI": "8 matkustajaa per vaunu",
+            "hu-HU": "8 utas kocsinként"
         }
     }
 }

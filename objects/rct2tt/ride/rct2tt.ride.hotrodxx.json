@@ -104,7 +104,8 @@
             "ja-JP": "ホットロッドレーストレイン",
             "eo-ZZ": "Hot-Rod Trajnoj",
             "ca-ES": "Muntanya russa de bòlids",
-            "fi-FI": "Hot rod -vaunut"
+            "fi-FI": "Hot rod -vaunut",
+            "hu-HU": "Hot rod vonatok"
         },
         "description": {
             "en-GB": "Air-powered launched roller coaster trains in the shape of hot rod cars",
@@ -123,7 +124,8 @@
             "ru-RU": "После ускоряющего толчка поезд разгоняется по вертикальному треку и опускается вниз на станцию.",
             "eo-ZZ": "Trajnoj de onda fervojo, lanĉitaj per aero kaj formitaj kiel hot-rod-aj aŭtoj",
             "ca-ES": "Muntanya russa amb trens propulsats amb aire en forma de bòlids.",
-            "fi-FI": "Hot rod -autojen muotoiset ilmakäyttöislaukaistut vuoristoratavaunut"
+            "fi-FI": "Hot rod -autojen muotoiset ilmakäyttöislaukaistut vuoristoratavaunut",
+            "hu-HU": "Léghajtású kilövős hullámvasútvonatok, hot rod autók formájában"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -143,7 +145,8 @@
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
-            "zh-CN": "2位乘客/车"
+            "zh-CN": "2位乘客/车",
+            "hu-HU": "2 utas kocsinként"
         }
     }
 }

@@ -418,7 +418,8 @@
             "ja-JP": "ログ・フリューム",
             "pl-PL": "Jazda flisacka",
             "ru-RU": "Ущелье",
-            "eo-ZZ": "Ŝtipoj"
+            "eo-ZZ": "Ŝtipoj",
+            "ca-ES": "Troncs"
         },
         "description": {
             "en-GB": "Log-shaped boats built for running in water channels",
@@ -436,7 +437,8 @@
             "ja-JP": "水路を進む丸太舟で、急傾斜から水に飛び込み、乗客はずぶぬれになります",
             "pl-PL": "Łódki w kształcie pni płyną wodnym kanałem, spadając z pluskiem ze stromych spadków, aby zamoczyć pasażerów",
             "ru-RU": "Лодки в виде бревен плывут по каналу, периодически плюхаясь со склонов.",
-            "eo-ZZ": "Ŝtipoformaj boatoj konstruitaj por veturi en akvokanaloj"
+            "eo-ZZ": "Ŝtipoformaj boatoj konstruitaj por veturi en akvokanaloj",
+            "ca-ES": "Barques en forma de tron que circulen per canals d’aigua."
         },
         "capacity": {
             "en-GB": "4 passengers per boat",
@@ -454,7 +456,8 @@
             "ja-JP": "各ボート4名",
             "pl-PL": "4 pasażerów na łódkę",
             "ru-RU": "4 пассажира",
-            "eo-ZZ": "Po 4 pasaĝeroj por boato"
+            "eo-ZZ": "Po 4 pasaĝeroj por boato",
+            "ca-ES": "4 passatgers per barqueta"
         }
     }
 }

@@ -3020,14 +3020,16 @@
             "nl-NL": "Achtbaantrein (achteruit)",
             "fr-FR": "Train de montagnes russes (inversé)",
             "ko-KR": "롤러코스터 차량 (역방향)",
-            "pt-BR": "Trens de Montanha-Russa (Reversos)"
+            "pt-BR": "Trens de Montanha-Russa (Reversos)",
+            "ca-ES": "Muntanya russa (cap enrere)"
         },
         "description": {
             "en-GB": "Roller coaster train running in reverse, so that the passengers face backwards.",
             "nl-NL": "Achtbaantrein waarvan het voorste karretje gestroomlijnd is.",
             "fr-FR": "Train de montagnes russes circulant à l’envers de façon à ce que les passagers soient de dos",
             "ko-KR": "승객들이 뒤를 보고 타는 역방향 롤러코스터 차량입니다.",
-            "pt-BR": "Trens de montanha-russa que correm ao contrário, de modo que o passageiro esteja olhando para trás."
+            "pt-BR": "Trens de montanha-russa que correm ao contrário, de modo que o passageiro esteja olhando para trás.",
+            "ca-ES": "Muntanya russa amb trens que circulen a l’inrevés, de manera que els passatgers es mouen cap enrere."
         },
         "capacity": {
             "en-GB": "4 riders per car",

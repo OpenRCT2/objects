@@ -58,7 +58,8 @@
             "ru-RU": "Банкомат",
             "eo-ZZ": "Bankaŭtomato",
             "ca-ES": "Caixer automàtic",
-            "fi-FI": "Raha-automaatti"
+            "fi-FI": "Raha-automaatti",
+            "en-US": "ATM"
         },
         "description": {
             "en-GB": "An A.T.M. (Cash Machine) for guests to use if they run low on funds",
@@ -79,7 +80,8 @@
             "eo-ZZ": "Bankaŭtomato (Monomaŝino) por gastoj, kiam mankas al ili monrimedoj",
             "ca-ES": "Un caixer automàtic per als visitants que van curts d’efectiu.",
             "fi-FI": "Raha-automaatti jota kävijät voivat käyttää jos rahat ovat vähissä",
-            "nb-NO": "En minibank (Bankautomat) som gjester kan bruke hvis de begynner å gå tom for penger"
+            "nb-NO": "En minibank (Bankautomat) som gjester kan bruke hvis de begynner å gå tom for penger",
+            "en-US": "An ATM for guests to use if they run low on funds"
         }
     }
 }

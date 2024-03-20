@@ -229,7 +229,8 @@
             "eo-ZZ": "Aeroplano-Ĉaroj",
             "ca-ES": "Avions a reacció",
             "fi-FI": "Suihkukonevaunut",
-            "zh-CN": "喷气式飞机过山车"
+            "zh-CN": "喷气式飞机过山车",
+            "hu-HU": "Sugárhajtású repülő kocsik"
         },
         "description": {
             "en-GB": "Roller coaster cars in the shape of jet planes",
@@ -249,7 +250,8 @@
             "eo-ZZ": "Ĉaroj de onda fervojo formitaj kiel aeroplanoj",
             "ca-ES": "Cotxes de muntanya russa en forma d’avions a reacció.",
             "fi-FI": "Suihkukoneen muotoiset vuoristoratavaunut",
-            "zh-CN": "喷气式飞机样式的过山车"
+            "zh-CN": "喷气式飞机样式的过山车",
+            "hu-HU": "Sugárhajtású repülő alakú hullámvasútkocsik"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -269,7 +271,8 @@
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
-            "zh-CN": "4位乘客/车"
+            "zh-CN": "4位乘客/车",
+            "hu-HU": "4 utas kocsinként"
         }
     }
 }

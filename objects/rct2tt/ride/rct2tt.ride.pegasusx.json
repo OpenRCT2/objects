@@ -102,7 +102,8 @@
             "eo-ZZ": "Pegaso-Ĉaroj",
             "ca-ES": "Cotxes pegàs",
             "fi-FI": "Pegasus-autot",
-            "zh-CN": "飞马车"
+            "zh-CN": "飞马车",
+            "hu-HU": "Pegazus kocsik"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of Pegasus drawing a cart",
@@ -122,7 +123,8 @@
             "eo-ZZ": "Ŝaltitaj veturiloj formitaj kiel Pegaso tiranta ĉaron",
             "ca-ES": "Vehicles en forma de pegàs arrossegant un carro.",
             "fi-FI": "Pegasuksen vetämien vankkureiden muotoiset moottoroidut ajoneuvot",
-            "zh-CN": "以飞马形状的动力车辆"
+            "zh-CN": "以飞马形状的动力车辆",
+            "hu-HU": "Motoros járművek, amelyek úgy néznek ki, mintha Pegazus egy szekeret húzna"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -142,7 +144,8 @@
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per ajoneuvo",
-            "zh-CN": "2位乘客/车"
+            "zh-CN": "2位乘客/车",
+            "hu-HU": "2 utas kocsinként"
         }
     }
 }

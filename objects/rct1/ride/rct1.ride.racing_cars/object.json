@@ -191,7 +191,8 @@
             "ja-JP": "レーシングカー",
             "pl-PL": "Wyścigówki",
             "ru-RU": "Машинки",
-            "eo-ZZ": "Vetkuraŭtoj"
+            "eo-ZZ": "Vetkuraŭtoj",
+            "ca-ES": "Cotxes de carreres"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of racing cars",
@@ -209,7 +210,8 @@
             "ja-JP": "レーシングカーの形をした、動力付きの車両です",
             "pl-PL": "Pojazdy z napędem mające kształt samochodów wyścigowych",
             "ru-RU": "Гоночные Машинки",
-            "eo-ZZ": "Ŝaltitaj veturiloj formitaj kiel vetkuraŭtoj"
+            "eo-ZZ": "Ŝaltitaj veturiloj formitaj kiel vetkuraŭtoj",
+            "ca-ES": "Vehicles en forma de cotxes de carreres."
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -227,7 +229,8 @@
             "ja-JP": "各車両1名",
             "pl-PL": "1 pasażer na wagonik",
             "ru-RU": "1 пассажир",
-            "eo-ZZ": "Po 1 pasaĝero por ĉaro"
+            "eo-ZZ": "Po 1 pasaĝero por ĉaro",
+            "ca-ES": "1 passatger per cotxe"
         }
     }
 }

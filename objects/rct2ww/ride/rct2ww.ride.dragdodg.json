@@ -56,27 +56,29 @@
             "en-GB": "Chinese Dragonhead Dodgems",
             "fr-FR": "La tête du dragon",
             "de-DE": "Chinesische Drachenkopffahrt",
-            "es-ES": "Montaña Rusa Cabeza de Dragón Chino",
+            "es-ES": "Coches de choque Cabeza de Dragón Chino",
             "it-IT": "Testa del drago cinese",
             "nl-NL": "Chinese drakenkoppen",
             "sv-SE": "Kinesiska drakar",
             "zh-CN": "东方祥龙游乐设施",
             "ja-JP": "竜の頭車両",
             "cs-CZ": "Čínská dračí hlava",
-            "ko-KR": "차이니즈 드래곤헤드 라이드",
+            "ko-KR": "중국 용머리 범퍼카",
             "pl-PL": "Przejażdżka na chińskim smoku",
             "ru-RU": "Китайский дракон",
-            "pt-BR": "Cabeça de Dragão Chinês",
-            "eo-ZZ": "Atrackio de Ĉina Drakokapo",
+            "pt-BR": "Bate-bate Cabeça de Dragão Chinesa",
+            "eo-ZZ": "Ĉinaj Drakokapaj Doĝemoj",
             "ca-ES": "Atracció del cap de drac xinès",
-            "fi-FI": "Kiinalaiset lohikäärmeenpäät"
+            "fi-FI": "Kiinalaiset lohikäärmeenpäät",
+            "en-US": "Chinese Dragonhead Bumper Cars",
+            "hu-HU": "Kínai sárkányfejes dodzsemek"
         },
         "description": {
             "en-GB": "Guests battle each other in dragonhead-shaped dodgems",
             "en-US": "Guests battle each other in dragonhead-shaped bumper cars",
             "fr-FR": "Les visiteurs s’affrontent dans des auto-tamponneuses en forme de tête de dragon",
             "de-DE": "Die Gäste liefern sich Gefechte in drachenkopfförmigen Autoscootern",
-            "es-ES": "Coches de choque eléctricos autopropulsados",
+            "es-ES": "Los usuarios luchan con coches con forma de cabeza de dragón",
             "it-IT": "Vetture elettriche tipo autoscontro",
             "nl-NL": "Vliegende schotels die de passagiers zelf besturen",
             "sv-SE": "Besökare kämpar mot varandra i drakhuvud-formade radiobilar",
@@ -89,7 +91,8 @@
             "pt-BR": "Passageiros lutam uns com os outros em carros bate-bate elétricos pilotáveis em formato de cabeça de dragão",
             "eo-ZZ": "Gastoj batalas unu la alian en drakokapoformaj doĝemoj",
             "ca-ES": "Els conductors lluiten entre ells en cotxes de xoc elèctrics.",
-            "fi-FI": "Kävijät taistelevat toisiaan vastaan lohikäärmeen pään muotoisissa törmäysautoissa"
+            "fi-FI": "Kävijät taistelevat toisiaan vastaan lohikäärmeen pään muotoisissa törmäysautoissa",
+            "hu-HU": "A vendégek sárkányfejet formázó dodzsemeken csatáznak egymással"
         },
         "capacity": {
             "en-GB": "1 person per car",
@@ -108,7 +111,8 @@
             "pt-BR": "1 pessoa por carro",
             "eo-ZZ": "Po 1 ulo por ĉaro",
             "ca-ES": "1 persona per cotxe",
-            "fi-FI": "1 matkustaja per ajoneuvo"
+            "fi-FI": "1 matkustaja per ajoneuvo",
+            "hu-HU": "1 személy kocsinként"
         }
     }
 }

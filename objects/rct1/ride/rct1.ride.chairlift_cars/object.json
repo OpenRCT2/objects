@@ -150,7 +150,8 @@
             "ja-JP": "チェアリフト車両",
             "pl-PL": "Latające krzesełka",
             "ru-RU": "Кресло-лифт",
-            "eo-ZZ": "Ĉaroj de Seĝlifto"
+            "eo-ZZ": "Ĉaroj de Seĝlifto",
+            "ca-ES": "Cotxes telecadira"
         },
         "description": {
             "en-GB": "Open cars for chairlift",
@@ -168,7 +169,8 @@
             "ja-JP": "屋根のないリフトカーです",
             "pl-PL": "Kolejka krzesełkowa z otwartymi siedziskami",
             "ru-RU": "Открытые вагончики",
-            "eo-ZZ": "Subĉielaj ĉaroj de seĝlifto"
+            "eo-ZZ": "Subĉielaj ĉaroj de seĝlifto",
+            "ca-ES": "Cotxes oberts per al telecadira."
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -186,7 +188,8 @@
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe"
         }
     }
 }

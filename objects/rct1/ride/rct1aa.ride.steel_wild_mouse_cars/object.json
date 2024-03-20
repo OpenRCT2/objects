@@ -570,7 +570,8 @@
             "ja-JP": "ネズミ車両",
             "pl-PL": "Myszochody",
             "ru-RU": "Мышки",
-            "eo-ZZ": "Musoĉaroj"
+            "eo-ZZ": "Musoĉaroj",
+            "ca-ES": "Cotxes ratolí"
         },
         "description": {
             "en-GB": "Individual cars shaped like mice",
@@ -588,7 +589,8 @@
             "ja-JP": "各車両がネズミの形をした乗物です",
             "pl-PL": "Pojedyncze samochodziki w kształcie myszy",
             "ru-RU": "Машинки в виде мышек",
-            "eo-ZZ": "Individualaj ĉaroj formitaj kiel musoj"
+            "eo-ZZ": "Individualaj ĉaroj formitaj kiel musoj",
+            "ca-ES": "Cotxes individuals en forma de ratolí."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -606,7 +608,8 @@
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe"
         }
     }
 }

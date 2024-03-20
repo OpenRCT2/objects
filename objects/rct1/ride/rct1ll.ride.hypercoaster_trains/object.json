@@ -1866,7 +1866,8 @@
             "nl-NL": "Hypercoaster-trein",
             "pl-PL": "Hiperjazda",
             "ru-RU": "Гипергорки",
-            "eo-ZZ": "Trajnoj de Hipergiganta Onda Fervojo"
+            "eo-ZZ": "Trajnoj de Hipergiganta Onda Fervojo",
+            "ca-ES": "Hipermuntanya russa"
         },
         "description": {
             "en-GB": "Comfortable trains with only lap bar restraints",
@@ -1884,7 +1885,8 @@
             "ja-JP": "高低差もあり速度も速いですが、逆さにはならず膝にしか安全バーがないので、快適な車両です",
             "pl-PL": "Wysoka, nieobrotowa szybka kolejka górska z dużymi zjazdami i wygodnymi wagonikami, wyposażonymi w zabezpieczenia obejmujące pasażerów jedynie w pasie",
             "ru-RU": "Высокие прямые горки с глубокими падениями и большой скоростью, ремни только на колени.",
-            "eo-ZZ": "Komfortaj trajnoj kun nur sinobridoj"
+            "eo-ZZ": "Komfortaj trajnoj kun nur sinobridoj",
+            "ca-ES": "Cotxes còmodes amb subjecció sols amb barra per la falda."
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -1902,7 +1904,8 @@
             "ja-JP": "各車両6名",
             "pl-PL": "6 pasażerów na wagonik",
             "ru-RU": "6 пассажиров",
-            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro",
+            "ca-ES": "6 passatgers per cotxe"
         }
     }
 }

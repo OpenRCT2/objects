@@ -198,7 +198,8 @@
             "ja-JP": "ヴィンテージカー",
             "pl-PL": "Klasyczne wagoniki",
             "ru-RU": "Ретрокары",
-            "eo-ZZ": "Malnovaj Aŭtoj"
+            "eo-ZZ": "Malnovaj Aŭtoj",
+            "ca-ES": "Cotxes vintage"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of vintage cars",
@@ -216,7 +217,8 @@
             "ja-JP": "クラシックスタイルの動力付き車両が、あらかじめ決められたコースを進む乗物です",
             "pl-PL": "Pojazdy z napędem mające kształt klasycznych wagoników jadących po szynowym torze",
             "ru-RU": "Люди катаются на старинных автомобильчиках.",
-            "eo-ZZ": "Ŝaltitaj veturiloj en la formo de malnovaj aŭtoj"
+            "eo-ZZ": "Ŝaltitaj veturiloj en la formo de malnovaj aŭtoj",
+            "ca-ES": "Vehicles decorats com a cotxes vintage."
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -234,7 +236,8 @@
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe"
         }
     }
 }

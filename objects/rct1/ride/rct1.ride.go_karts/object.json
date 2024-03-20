@@ -299,7 +299,8 @@
             "fr-FR": "Karting (avec des casques)",
             "ko-KR": "고 카트 (헬멧)",
             "nl-NL": "Go-Karts (met helmen)",
-            "pt-BR": "Karts (com capacetes)"
+            "pt-BR": "Karts (com capacetes)",
+            "ca-ES": "Karts (amb cascos)"
         },
         "description": {
             "en-GB": "Self-driven petrol-engined go-karts that come with safety helmets",
@@ -307,7 +308,8 @@
             "fr-FR": "Karts individuels constitués de moteurs à essence avec un casque de protection",
             "ko-KR": "안전 헬멧이 함께 제공되는 자체 구동 휘발유 엔진 고 카트",
             "nl-NL": "Go-karts met benzinemotor die de passagiers zelf besturen.",
-            "pt-BR": "Karts à gasolina auto-pilotáveis com capacetes de segurança"
+            "pt-BR": "Karts à gasolina auto-pilotáveis com capacetes de segurança",
+            "ca-ES": "Karts autopropulsats que funcionen amb gasolina i els passatgers duen cascos de seguretat."
         },
         "capacity": {
             "en-GB": "single-seater",
@@ -325,7 +327,8 @@
             "ja-JP": "各車両1名",
             "pl-PL": "1 miejsce",
             "ru-RU": "одиночные",
-            "eo-OO": "Po 1 pasaĝero por aŭto"
+            "eo-OO": "Po 1 pasaĝero por aŭto",
+            "ca-ES": "1 passatger"
         }
     }
 }
