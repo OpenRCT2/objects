@@ -18,7 +18,11 @@
         "sceneryGroup": "rct2.scenery_group.scgfence"
     },
     "images": [
-        "$RCT2:OBJDATA/WC8.DAT[0..5]"
+        "$RCT2:OBJDATA/WC8.DAT[0..1]",
+        { "gx": "$RCT2:OBJDATA/WC8.DAT[2]", "y": -51 },
+        { "gx": "$RCT2:OBJDATA/WC8.DAT[3]", "y": -50 },
+        { "gx": "$RCT2:OBJDATA/WC8.DAT[4]", "y": -37 },
+        { "gx": "$RCT2:OBJDATA/WC8.DAT[5]", "y": -36 }
     ],
     "strings": {
         "name": {
