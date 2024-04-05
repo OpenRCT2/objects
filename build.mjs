@@ -86,12 +86,12 @@ function isImageLgxCompatible(image) {
             return false;
         }
     } else {
-        return true;
+        return image.hasOwnProperty('path');
     }
 }
 
 function isImageLgxRequired(image) {
-    return typeof image !== 'string';
+    return typeof image !== 'string' && image.hasOwnProperty('path');
 }
 
 function shouldProcessImageArray(images) {
