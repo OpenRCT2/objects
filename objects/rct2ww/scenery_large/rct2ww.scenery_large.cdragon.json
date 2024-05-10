@@ -25,14 +25,14 @@
                 "y": 32,
                 "clearance": 160,
                 "hasSupports": true,
-                "walls": 3
+                "walls": 1
             },
             {
                 "x": 0,
                 "y": 64,
                 "clearance": 160,
                 "hasSupports": true,
-                "walls": 9
+                "walls": 1
             },
             {
                 "x": 0,
@@ -53,14 +53,14 @@
                 "y": 32,
                 "clearance": 160,
                 "hasSupports": true,
-                "walls": 2
+                "walls": 0
             },
             {
                 "x": 32,
                 "y": 64,
                 "clearance": 160,
                 "hasSupports": true,
-                "walls": 8
+                "walls": 0
             },
             {
                 "x": 32,
@@ -81,14 +81,14 @@
                 "y": 32,
                 "clearance": 160,
                 "hasSupports": true,
-                "walls": 2
+                "walls": 0
             },
             {
                 "x": 64,
                 "y": 64,
                 "clearance": 160,
                 "hasSupports": true,
-                "walls": 8
+                "walls": 0
             },
             {
                 "x": 64,
@@ -109,14 +109,14 @@
                 "y": 32,
                 "clearance": 160,
                 "hasSupports": true,
-                "walls": 6
+                "walls": 4
             },
             {
                 "x": 96,
                 "y": 64,
                 "clearance": 160,
                 "hasSupports": true,
-                "walls": 12
+                "walls": 4
             },
             {
                 "x": 96,
