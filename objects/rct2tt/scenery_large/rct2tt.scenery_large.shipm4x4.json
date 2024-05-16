@@ -17,25 +17,25 @@
                 "x": 0,
                 "y": 0,
                 "clearance": 128,
-                "walls": 9
+                "walls": 8
             },
             {
                 "x": 0,
                 "y": 32,
                 "clearance": 128,
-                "walls": 1
+                "walls": 0
             },
             {
                 "x": 0,
                 "y": 64,
                 "clearance": 128,
-                "walls": 1
+                "walls": 0
             },
             {
                 "x": 0,
                 "y": 96,
                 "clearance": 128,
-                "walls": 3
+                "walls": 2
             },
             {
                 "x": 32,
@@ -89,25 +89,25 @@
                 "x": 96,
                 "y": 0,
                 "clearance": 128,
-                "walls": 12
+                "walls": 8
             },
             {
                 "x": 96,
                 "y": 32,
                 "clearance": 128,
-                "walls": 4
+                "walls": 0
             },
             {
                 "x": 96,
                 "y": 64,
                 "clearance": 128,
-                "walls": 4
+                "walls": 0
             },
             {
                 "x": 96,
                 "y": 96,
                 "clearance": 128,
-                "walls": 6
+                "walls": 2
             }
         ]
     },
