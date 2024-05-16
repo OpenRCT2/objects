@@ -31,13 +31,13 @@
                 "x": 32,
                 "y": 0,
                 "clearance": 32,
-                "walls": 8
+                "walls": 12
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 32,
-                "walls": 2
+                "walls": 6
             }
         ]
     },

@@ -17,28 +17,28 @@
                 "y": 0,
                 "clearance": 248,
                 "allowSupportsAbove": true,
-                "walls": 13
+                "walls": 11
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 248,
                 "allowSupportsAbove": true,
-                "walls": 5
+                "walls": 10
             },
             {
                 "x": 64,
                 "y": 0,
                 "clearance": 248,
                 "allowSupportsAbove": true,
-                "walls": 5
+                "walls": 10
             },
             {
                 "x": 96,
                 "y": 0,
                 "clearance": 248,
                 "allowSupportsAbove": true,
-                "walls": 7
+                "walls": 14
             }
         ]
     },
