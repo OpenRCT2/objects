@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.wmspin",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C80|WMSPIN  |0E117B71",
     "sourceGame": "rct2",
@@ -8,20 +11,32 @@
     "properties": {
         "type": "spinning_wild_mouse",
         "category": "rollercoaster",
-          "ratingMultipler": {
+        "ratingMultipler": {
             "excitement": 7,
             "intensity": 5,
             "nausea": 43
         },
         "carColours": [
             [
-                ["bright_green", "yellow", "bordeaux_red"]
+                [
+                    "bright_green",
+                    "yellow",
+                    "bordeaux_red"
+                ]
             ],
             [
-                ["bright_red", "yellow", "dark_purple"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "dark_purple"
+                ]
             ],
             [
-                ["yellow", "light_blue", "saturated_brown"]
+                [
+                    "yellow",
+                    "light_blue",
+                    "saturated_brown"
+                ]
             ]
         ],
         "cars": {
@@ -44,15 +59,22 @@
             "hasAdditionalColour1": true,
             "hasSpinning": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [2, -2, 2, -2]
+            "loadingPositions": [
+                2,
+                -2,
+                2,
+                -2
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/WMSPIN.DAT[0..4610]"],
+    "images": [
+        "$RCT2:OBJDATA/WMSPIN.DAT[0..4610]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Spinning Mouse Cars",
-            "fr-FR": "Souris folle tournante",
+            "fr-FR": "Voiture de souris folle tournante",
             "de-DE": "Rotierende Mauswagen",
             "es-ES": "Ratón Loco Giratorio",
             "it-IT": "Topo rotante tutto matto",
@@ -72,7 +94,7 @@
         },
         "description": {
             "en-GB": "Mouse-shaped cars that keep gently spinning around to disorientate the riders",
-            "fr-FR": "Voiture en forme de souris fonçant dans des virages serrés et des petites chutes, tout en tournant sur elle-même afin de désorienter les passagers",
+            "fr-FR": "Voiture en forme de souris tournant doucement sur elle-même afin de désorienter les passagers",
             "de-DE": "Mausförmige Wagen rasen um enge Kurven und kurze Gefälle herunter, wobei sie sich sanft drehen, um die Fahrgäste zu desorientieren",
             "es-ES": "Vagones con forma de ratón efectúan curvas bruscas",
             "it-IT": "Le carrozze a forma di topo sfrecciano lungo curve molto strette e ripide discese, ruotando lentamente su se stesse per disorientare i passeggeri",
@@ -87,7 +109,7 @@
             "pl-PL": "Wagoniki w kształcie myszy pokonujące ostre zakręty i krótkie zjazdy, wirujące łagodnie w celu zdezorientowania pasażerów",
             "ru-RU": "Машинки в виде мышек едут по трассе, слегка вращаясь.",
             "eo-ZZ": "Musoformaj ĉaroj, kiuj milde turniĝadas por malorienti la rajdantojn",
-            "ca-ES": "Cotxes en forma de ratolí que giren suaument per desorientar els passatgers.",
+            "ca-ES": "Cotxes en forma de ratolí que giren suaument per a desorientar els passatgers.",
             "fi-FI": "Hiiren muotoiset vaunut, jotka pyörivät leppeästi matkustajien hämmennykseksi"
         },
         "capacity": {

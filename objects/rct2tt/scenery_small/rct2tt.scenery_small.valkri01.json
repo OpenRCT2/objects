@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.valkri01",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F821|VALKRI01|6A3EB19F",
     "sourceGame": "rct2tt",
@@ -16,7 +18,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/VALKRI01.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/VALKRI01.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Valkyrie",
@@ -36,7 +40,8 @@
             "eo-ZZ": "Valkiro",
             "ca-ES": "Valquíria",
             "fi-FI": "Valkyria",
-            "zh-CN": "女武神"
+            "zh-CN": "女武神",
+            "hu-HU": "Valkűr"
         }
     }
 }

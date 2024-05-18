@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_group.scgspace",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F87|SCGSPACE|452286E1",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "scenery_group",
     "properties": {
         "entries": [
@@ -24,11 +30,13 @@
         "priority": 31,
         "entertainerCostumes": "astronaut"
     },
-    "images": ["$RCT2:OBJDATA/SCGSPACE.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGSPACE.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Space Theming",
-            "fr-FR": "Thème Espace",
+            "fr-FR": "Thème espace",
             "de-DE": "Weltraumthema",
             "es-ES": "Temática espacial",
             "it-IT": "Tema spaziale",

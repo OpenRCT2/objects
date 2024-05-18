@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.park_entrance.euroent",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0B18|EUROENT |B2CD7437",
     "sourceGame": "rct2ww",
@@ -9,11 +11,13 @@
         "scrollingMode": 36,
         "textHeight": 51
     },
-    "images": ["$RCT2:OBJDATA/EUROENT.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/EUROENT.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "European Park Entrance",
-            "fr-FR": "Entrée du parc européen",
+            "fr-FR": "Entrée du parc européenne",
             "de-DE": "Europäischer Parkeingang",
             "es-ES": "Entrada al parque europeo",
             "it-IT": "Ingresso del parco europeo",

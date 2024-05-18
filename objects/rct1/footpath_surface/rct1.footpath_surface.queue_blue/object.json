@@ -1,6 +1,9 @@
 {
     "id": "rct1.footpath_surface.queue_blue",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "rct1",
     "objectType": "footpath_surface",
@@ -20,7 +23,10 @@
             "en-GB": "Blue Queue (Sloped)",
             "de-DE": "Blaue Warteschlange (Schräge)",
             "nl-NL": "Blauwe wachtrij (met helling)",
-            "eo-ZZ": "Blua Atendovico (Dekliva)"
+            "eo-ZZ": "Blua Atendovico (Dekliva)",
+            "ca-ES": "Cua blava (amb escales)",
+            "fr-FR": "File d’attente bleue (pente)",
+            "ko-KR": "파란색 대기줄 (경사)"
         }
     }
 }

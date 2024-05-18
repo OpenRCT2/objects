@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.smc1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|SMC1    |4B7812BB",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "steel_wild_mouse",
@@ -16,38 +22,166 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["white", "saturated_brown", "black"],
-                ["light_brown", "saturated_brown", "black"],
-                ["bordeaux_red", "saturated_brown", "black"],
-                ["yellow", "saturated_brown", "black"],
-                ["light_pink", "saturated_brown", "black"],
-                ["light_blue", "saturated_brown", "black"],
-                ["grey", "saturated_brown", "black"],
-                ["light_purple", "saturated_brown", "black"],
-                ["light_orange", "saturated_brown", "black"],
-                ["bright_red", "saturated_brown", "black"],
-                ["black", "saturated_brown", "black"],
-                ["light_pink", "saturated_brown", "black"],
-                ["aquamarine", "saturated_brown", "black"],
-                ["dark_green", "saturated_brown", "black"],
-                ["dark_brown", "saturated_brown", "black"],
-                ["salmon_pink", "saturated_brown", "black"],
-                ["white", "saturated_brown", "black"],
-                ["light_brown", "saturated_brown", "black"],
-                ["bordeaux_red", "saturated_brown", "black"],
-                ["yellow", "saturated_brown", "black"],
-                ["light_pink", "saturated_brown", "black"],
-                ["light_blue", "saturated_brown", "black"],
-                ["grey", "saturated_brown", "black"],
-                ["light_purple", "saturated_brown", "black"],
-                ["light_orange", "saturated_brown", "black"],
-                ["bright_red", "saturated_brown", "black"],
-                ["black", "saturated_brown", "black"],
-                ["light_pink", "saturated_brown", "black"],
-                ["aquamarine", "saturated_brown", "black"],
-                ["dark_green", "saturated_brown", "black"],
-                ["dark_brown", "saturated_brown", "black"],
-                ["salmon_pink", "saturated_brown", "black"]
+                [
+                    "white",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_brown",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "bordeaux_red",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "yellow",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_pink",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_blue",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "grey",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_purple",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_orange",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "bright_red",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "black",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_pink",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "aquamarine",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "dark_green",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "dark_brown",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "salmon_pink",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "white",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_brown",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "bordeaux_red",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "yellow",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_pink",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_blue",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "grey",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_purple",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_orange",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "bright_red",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "black",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "light_pink",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "aquamarine",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "dark_green",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "dark_brown",
+                    "saturated_brown",
+                    "black"
+                ],
+                [
+                    "salmon_pink",
+                    "saturated_brown",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -68,7 +202,12 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    -3,
+                    -1
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -78,18 +217,21 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "hasScreamingRiders": true
             }
         ],
         "buildMenuPriority": 3
     },
-    "images": ["$RCT2:OBJDATA/SMC1.DAT[0..590]", ""],
+    "images": [
+        "$RCT2:OBJDATA/SMC1.DAT[0..590]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Mouse Cars",
-            "fr-FR": "Souris",
+            "fr-FR": "Voiture souris",
             "de-DE": "Mauswagen",
             "es-ES": "Coches Ratón",
             "it-IT": "Topolini",
@@ -109,7 +251,7 @@
         },
         "description": {
             "en-GB": "Individual cars shaped like mice",
-            "fr-FR": "Voitures individuelles en forme de souris",
+            "fr-FR": "Voiture individuelle en forme de souris",
             "de-DE": "Einzelne Wagen in Form von Mäusen",
             "es-ES": "Coches individuales con forma de ratón",
             "it-IT": "Carrozze individuali a forma di topolini",

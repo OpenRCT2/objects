@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.mcastl08",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F821|MCASTL08|C422EE61",
     "sourceGame": "rct2tt",
@@ -18,11 +20,13 @@
         "isStackable": true,
         "prohibitWalls": true
     },
-    "images": ["$RCT2:OBJDATA/MCASTL08.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/MCASTL08.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Castle Ramparts Inverted Corner",
-            "fr-FR": "Virage inversé des remparts du château",
+            "fr-FR": "Coin inversé des remparts du château",
             "de-DE": "Umgedrehte Schlosswall-Ecke",
             "es-ES": "Esquina inversa de muralla de castillo",
             "it-IT": "Curva invertita dei bastioni del Castello",

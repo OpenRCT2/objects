@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.dkfight2",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F821|DKFIGHT2|F5EDB154",
     "sourceGame": "rct2tt",
@@ -20,9 +22,31 @@
         "isStackable": true,
         "hasNoSupports": true,
         "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
-        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 0, 0, 0]
+        "frameOffsets": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            0,
+            0,
+            0
+        ]
     },
-    "images": ["$RCT2:OBJDATA/DKFIGHT2.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/DKFIGHT2.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Animatronic Knight",
@@ -42,7 +66,8 @@
             "eo-ZZ": "Animatronika Kavaliro",
             "ca-ES": "Animatrònic de cavaller",
             "fi-FI": "Animatroninen ritari",
-            "zh-CN": "可动的骑士"
+            "zh-CN": "可动的骑士",
+            "hu-HU": "Animatronikus lovag"
         }
     }
 }

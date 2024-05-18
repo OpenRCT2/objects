@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_group.scgpirat",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F87|SCGPIRAT|013DAB9B",
     "sourceGame": "rct2",
@@ -31,11 +34,13 @@
         "priority": 38,
         "entertainerCostumes": "pirate"
     },
-    "images": ["$RCT2:OBJDATA/SCGPIRAT.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGPIRAT.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Pirates Theming",
-            "fr-FR": "Thème Pirates",
+            "fr-FR": "Thème pirates",
             "de-DE": "Piratenthema",
             "es-ES": "Temática pirata",
             "it-IT": "Tema piratesco",

@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.rdrab02",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0A12|RDRAB02 |164AC344",
     "sourceGame": "rct2ww",
@@ -26,17 +28,19 @@
                 "x": 32,
                 "y": 0,
                 "clearance": 64,
-                "walls": 8
+                "walls": 12
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 64,
-                "walls": 2
+                "walls": 6
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/RDRAB02.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/RDRAB02.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Drab Large Tower Base",

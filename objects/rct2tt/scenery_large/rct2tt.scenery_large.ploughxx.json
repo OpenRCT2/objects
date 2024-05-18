@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.ploughxx",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F922|PLOUGHXX|55BDAE0B",
     "sourceGame": "rct2tt",
@@ -30,18 +32,20 @@
                 "y": 0,
                 "clearance": 32,
                 "hasSupports": true,
-                "walls": 8
+                "walls": 12
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 32,
                 "hasSupports": true,
-                "walls": 2
+                "walls": 6
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/PLOUGHXX.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/PLOUGHXX.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Plough",

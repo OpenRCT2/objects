@@ -1,9 +1,15 @@
 {
     "id": "rct2.footpath_item.benchstn",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188786|BENCHSTN|9408AFDE",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "footpath_item",
     "properties": {
         "isBench": true,
@@ -13,7 +19,9 @@
         "price": 50,
         "sceneryGroup": "rct2.scenery_group.scgpathx"
     },
-    "images": ["$RCT2:OBJDATA/BENCHSTN.DAT[0..8]"],
+    "images": [
+        "$RCT2:OBJDATA/BENCHSTN.DAT[0..8]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Stone Bench",

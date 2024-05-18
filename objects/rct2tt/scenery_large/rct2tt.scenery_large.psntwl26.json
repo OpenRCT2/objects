@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.psntwl26",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F822|PSNTWL26|CED430B7",
     "sourceGame": "rct2tt",
@@ -17,17 +19,19 @@
                 "x": 0,
                 "y": 0,
                 "clearance": 24,
-                "walls": 9
+                "walls": 11
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 24,
-                "walls": 3
+                "walls": 14
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/PSNTWL26.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/PSNTWL26.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Dark Age Village Roof Piece",

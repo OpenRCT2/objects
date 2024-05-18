@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_large.genstore",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C82|GENSTORE|3DD341F9",
     "sourceGame": "rct2",
@@ -40,11 +43,13 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/GENSTORE.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/GENSTORE.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "General Store",
-            "fr-FR": "Boutique généraliste",
+            "fr-FR": "Magasin général",
             "de-DE": "Gemischtwarenhandlung",
             "es-ES": "Gran almacén",
             "it-IT": "Magazzini generali",

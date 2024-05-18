@@ -1,0 +1,186 @@
+{
+    "id": "rct1ll.ride.rafts",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "originalId": "00000000|#RCT1RFT|00000000",
+    "sourceGame": "rct1ll",
+    "isCompatibilityObject": true,
+    "objectType": "ride",
+    "properties": {
+        "type": "river_rafts",
+        "category": [
+            "water",
+            "transport"
+        ],
+        "hasShelter": true,
+        "noCollisionCrashes": true,
+        "tabScale": 0.5,
+        "carColours": [
+            [
+                [
+                    "light_brown",
+                    "white",
+                    "black"
+                ]
+            ],
+            [
+                [
+                    "light_brown",
+                    "yellow",
+                    "black"
+                ]
+            ],
+            [
+                [
+                    "light_brown",
+                    "dark_green",
+                    "black"
+                ]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 15,
+            "spacing": 243712,
+            "mass": 950,
+            "numSeats": 4,
+            "numSeatRows": 2,
+            "poweredAcceleration": 255,
+            "poweredMaxSpeed": 5,
+            "drawOrder": 9,
+            "spriteGroups": {
+                "slopeFlat": 16
+            },
+            "hasAdditionalColour1": true,
+            "isPowered": true,
+            "isWaterRide": true,
+            "loadingPositions": [
+                6,
+                4,
+                -6,
+                -4
+            ]
+        },
+        "buildMenuPriority": 1
+    },
+    "images": [
+        { "path": "images/preview.png", "format": "raw" },
+        "",
+        "",
+        "$CSG[34121..34168]"
+    ],
+    "noCsgImages": [
+        { "path": "images/preview.png", "format": "raw" },
+        "",
+        "",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[3]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[5]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[7]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[9]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[11]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[13]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[15]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[17]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[19]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[21]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[23]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[25]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[27]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[29]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[31]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[33]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[35]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[37]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[39]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[41]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[43]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[45]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[47]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[49]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[51]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[53]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[55]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[57]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[59]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[61]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[63]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[65]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[67]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[69]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[71]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[73]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[75]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[77]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[79]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[81]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[83]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[85]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[87]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[89]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[91]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[93]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[95]",
+        "$RCT2:OBJDATA/RFTBOAT.DAT[97]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Rafts",
+            "fr-FR": "Radeau",
+            "de-DE": "Floße",
+            "es-ES": "Balsas de Río",
+            "it-IT": "Zattere lungo il fiume",
+            "nl-NL": "Overdekte vlotten",
+            "sv-SE": "Flodflottar",
+            "ko-KR": "뗏목",
+            "zh-CN": "水上橡皮艇",
+            "zh-TW": "水上橡皮艇",
+            "pt-BR": "Jangadas",
+            "cs-CZ": "Říční rafty",
+            "ja-JP": "川いかだ",
+            "pl-PL": "Tratwy rzeczne",
+            "ru-RU": "Рафтинг",
+            "eo-ZZ": "Flosoj",
+            "ca-ES": "Rais"
+        },
+        "description": {
+            "en-GB": "Raft-shaped boats built for flat river tracks",
+            "fr-FR": "Bateau en forme de radeau conçu pour des voies navigables",
+            "de-DE": "Floßförmige Boote, die für flache Flussstrecken ausgelegt sind",
+            "es-ES": "Botes con forma de balsa",
+            "it-IT": "Barche a forma di zattera si muovono dolcemente lungo una pista d'acqua",
+            "nl-NL": "Boten in de vorm van een vlot varen rustig door een waterbak.",
+            "sv-SE": "Flottformade båtar för lugna flodrännor",
+            "ko-KR": "구불구불한 강 모양의 트랙을 따라 얌전히 이동하는 뗏목 모양의 보트",
+            "zh-CN": "橡皮艇外形的船在水道上温和地曲折前进",
+            "zh-TW": "橡皮艇外形的船在水道上溫和地曲折前進",
+            "pt-BR": "Barcos em forma de balsa construídos para leitos de rios planos",
+            "cs-CZ": "Rafty se plaví po meandrech na vodním kanále",
+            "ja-JP": "川いかだの形のボートが、ゆるやかに曲がりくねった川のコースを進む乗物です",
+            "pl-PL": "Tratwy manewrujące zręcznie po wodnym torze",
+            "ru-RU": "Люди плывут по каналу на деревянных плотах.",
+            "eo-ZZ": "Flosoformaj boatoj konstruitaj por plataj rivertrakoj",
+            "ca-ES": "Rais que circulen per trams de riu plans."
+        },
+        "capacity": {
+            "en-GB": "4 passengers per raft",
+            "fr-FR": "4 passagers par radeau",
+            "de-DE": "4 Fahrgäste pro Floß",
+            "es-ES": "4 pasajeros por balsa",
+            "it-IT": "4 passeggeri a zattera",
+            "nl-NL": "4 passagiers per vlot",
+            "sv-SE": "4 passagerare per flotte",
+            "ko-KR": "래프트당 4명의 승객",
+            "zh-CN": "4 位乘客 /每艘橡皮艇",
+            "zh-TW": "4 位乘客 /每艘橡皮艇",
+            "pt-BR": "4 passageiros por balsa",
+            "cs-CZ": "4 místa na každém raftu",
+            "ja-JP": "各ボート4名",
+            "pl-PL": "4 pasażerów na tratwę",
+            "ru-RU": "4 пассажира",
+            "eo-ZZ": "Po 4 pasaĝeroj por floso",
+            "ca-ES": "4 passatgers per barqueta"
+        }
+    }
+}

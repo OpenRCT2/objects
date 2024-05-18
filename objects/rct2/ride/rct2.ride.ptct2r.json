@@ -1,9 +1,13 @@
 {
     "id": "rct2.ride.ptct2r",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.1",
     "originalId": "0A188B80|PTCT2R  |4433BD4C",
     "sourceGame": "rct2",
+    "isCompatibilityObject": true,
     "objectType": "ride",
     "properties": {
         "type": "wooden_rc",
@@ -17,13 +21,25 @@
         },
         "carColours": [
             [
-                ["bright_red", "bright_red", "saturated_brown"]
+                [
+                    "bright_red",
+                    "bright_red",
+                    "saturated_brown"
+                ]
             ],
             [
-                ["white", "dark_green", "black"]
+                [
+                    "white",
+                    "dark_green",
+                    "black"
+                ]
             ],
             [
-                ["black", "bordeaux_red", "bordeaux_red"]
+                [
+                    "black",
+                    "bordeaux_red",
+                    "bordeaux_red"
+                ]
             ]
         ],
         "cars": {
@@ -53,7 +69,14 @@
             "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [-15, -13, 1, -1, 13, 15]
+            "loadingPositions": [
+                -15,
+                -13,
+                1,
+                -1,
+                13,
+                15
+            ]
         },
         "buildMenuPriority": 1
     },
@@ -66,7 +89,7 @@
     "strings": {
         "name": {
             "en-GB": "Wooden Roller Coaster Trains (6 seater, Reversed)",
-            "fr-FR": "Trains montagnes en bois (6 places, retourné)",
+            "fr-FR": "Train de montagnes russes en bois (6 places, retourné)",
             "de-DE": "Holzachterbahnzüge (6-Sitzer, rückwärts)",
             "es-ES": "Mt. Rusa Madera (6 as., inv.)",
             "it-IT": "Ottovolante di legno (in retrom.)",
@@ -86,7 +109,7 @@
         },
         "description": {
             "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints, running with the seats facing backwards",
-            "fr-FR": "Train pour montagnes russes en bois avec des barres de protection au niveau des jambes et des sièges rembourrés placés dans le sens inverse de la marche",
+            "fr-FR": "Train de montagnes russes en bois avec des barres de protection au niveau des jambes et des sièges rembourrés placés dans le sens inverse de la marche",
             "de-DE": "Holzachterbahnzüge mit gepolsterten Sitzen und Beckenhalterungen, wobei die Sitze rückwärts sind",
             "es-ES": "Trenes de madera de montaña rusa con asientos acolchados y barras de sujección, mirando los asientos hacia atrás",
             "it-IT": "Treni di legno da ottovolante con sedili imbottiti e barre al petto per protezione, in cui i passeggeri sono orientati in senso contrario rispetto al senso di marcia",

@@ -1,16 +1,23 @@
 {
     "id": "rct2.music.snow",
-    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC22|00000000",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "music",
     "properties": {
         "originalStyleId": 22,
         "tracks": [
             {
                 "source": "$RCT2:DATA/css38.dat",
-                "name": "Last Sleigh Ride"
+                "name": "Last Sleigh Ride",
+                "composer": "Allister Brimble"
             }
         ]
     },
@@ -36,7 +43,8 @@
             "tr-TR": "Kar tarzı",
             "zh-CN": "雪地风格",
             "zh-TW": "雪地風格",
-            "eo-ZZ": "Neĝo-stilo"
+            "eo-ZZ": "Neĝo-stilo",
+            "nb-NO": "Snø-stil"
         }
     }
 }

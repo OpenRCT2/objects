@@ -1,6 +1,9 @@
 {
     "id": "rct2.footpath_surface.tarmac_brown",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "rct2",
     "objectType": "footpath_surface",
@@ -11,13 +14,13 @@
     "strings": {
         "name": {
             "en-GB": "Brown Tarmac Footpath (Stairs)",
-            "fr-FR": "Allée en bitume marron",
+            "fr-FR": "Allée en bitume marron (escaliers)",
             "de-DE": "Brauner Makadam-Fußweg (Treppe)",
             "es-ES": "Sendero asfaltado marrón",
             "it-IT": "Sentiero di catrame marrone",
             "nl-NL": "Voetpad van bruin asfalt (met trappen)",
             "sv-SE": "Brun asfalterad gångväg",
-            "ko-KR": "갈색 타맥 보도",
+            "ko-KR": "갈색 타맥 보도 (계단)",
             "zh-CN": "棕色柏油碎石步道",
             "zh-TW": "棕色柏油碎石步道",
             "pt-BR": "Caminho de Asfalto Marrom",
@@ -26,7 +29,8 @@
             "pl-PL": "Brązowa dróżka tłuczniowa",
             "ru-RU": "Дорожка",
             "ar-EG": "ممشي بُني مُعبد",
-            "eo-ZZ": "Bruna Asfalta Trotuaro (Ŝtuparo)"
+            "eo-ZZ": "Bruna Asfalta Trotuaro (Ŝtuparo)",
+            "ca-ES": "Camí marró asfaltat (amb escales)"
         }
     }
 }

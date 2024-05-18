@@ -1,6 +1,9 @@
 {
     "id": "rct1ll.footpath_surface.tiles_green",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "rct1ll",
     "objectType": "footpath_surface",
@@ -27,7 +30,8 @@
             "pl-PL": "Zielona i Brązowa Mozaikowa Ścieżka",
             "ko-KR": "녹색과 갈색 타일 보도",
             "eo-ZZ": "Verda kaj Bruna Kahelita Trotuaro",
-            "sv-SE": "Grön och brun stenlagd gångväg"
+            "sv-SE": "Grön och brun stenlagd gångväg",
+            "ca-ES": "Camí enrajolat verd i marró"
         }
     }
 }

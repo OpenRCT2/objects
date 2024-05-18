@@ -1,16 +1,23 @@
 {
     "id": "rct2.music.gentle",
-    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC12|00000000",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "music",
     "properties": {
         "originalStyleId": 12,
         "tracks": [
             {
                 "source": "$RCT2:DATA/css28.dat",
-                "name": "Drifting to Heaven"
+                "name": "Drifting to Heaven",
+                "composer": "Allister Brimble"
             }
         ]
     },
@@ -36,7 +43,8 @@
             "tr-TR": "Sakin tarz",
             "zh-CN": "温和风格",
             "zh-TW": "溫和風格",
-            "eo-ZZ": "Milda stilo"
+            "eo-ZZ": "Milda stilo",
+            "nb-NO": "Rolig stil"
         }
     }
 }

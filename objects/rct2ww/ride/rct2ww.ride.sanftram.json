@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.sanftram",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0810|SANFTRAM|C15AC087",
     "sourceGame": "rct2ww",
@@ -20,13 +22,25 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "yellow"
+                ]
             ],
             [
-                ["yellow", "white", "black"]
+                [
+                    "yellow",
+                    "white",
+                    "yellow"
+                ]
             ],
             [
-                ["light_blue", "white", "black"]
+                [
+                    "light_blue",
+                    "white",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -48,7 +62,18 @@
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [12, -12, 12, -12, 12, -12, 13, 11, -13, -11]
+                "loadingPositions": [
+                    12,
+                    -12,
+                    12,
+                    -12,
+                    12,
+                    -12,
+                    13,
+                    11,
+                    -13,
+                    -11
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -60,14 +85,17 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SANFTRAM.DAT[0..770]", ""],
+    "images": [
+        "$RCT2:OBJDATA/SANFTRAM.DAT[0..770]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "San Francisco Trams",
@@ -81,7 +109,6 @@
             "ja-JP": "サンフランシスコ・トラム",
             "ar-EG": "مترو سان فرنسيسكو",
             "cs-CZ": "Tramvaj ze San Francisca",
-            "en-US": "San Francisco Trams",
             "ko-KR": "샌프란시스코 전차",
             "pl-PL": "Tramwaj z San Francisco",
             "pt-BR": "Bondes de São Francisco",
@@ -92,7 +119,7 @@
         },
         "description": {
             "en-GB": "Replicas of the San Francisco Trams",
-            "fr-FR": "Répliques de trams",
+            "fr-FR": "Réplique de tram de San Francisco",
             "de-DE": "Nachgebaute Straßenbahnen",
             "es-ES": "Réplica de tranvías",
             "it-IT": "Replica dei tram di San Francisco",

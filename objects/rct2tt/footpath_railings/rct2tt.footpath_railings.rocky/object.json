@@ -1,8 +1,12 @@
 {
     "id": "rct2tt.footpath_railings.rocky",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
-    "sourceGame": ["rct2tt"],
+    "sourceGame": [
+        "rct2tt"
+    ],
     "objectType": "footpath_railings",
     "properties": {
         "hasSupportImages": true,
@@ -19,7 +23,11 @@
             "en-GB": "Jungle Railings",
             "de-DE": "Dschungelgeländer",
             "nl-NL": "Jungleondersteuningen",
-            "eo-ZZ": "Ĝangalaj Balustradoj"
+            "eo-ZZ": "Ĝangalaj Balustradoj",
+            "ca-ES": "Baranes de jungla",
+            "fr-FR": "Rambardes jungle",
+            "ko-KR": "정글 울타리",
+            "pt-BR": "Grades de Floresta"
         }
     }
 }

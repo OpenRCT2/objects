@@ -1,6 +1,9 @@
 {
     "id": "rct2.footpath_item.lampdsy",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188786|LAMPDSY |761C944D",
     "sourceGame": "rct2",
@@ -15,7 +18,9 @@
         "price": 60,
         "sceneryGroup": "rct2.scenery_group.scgpathx"
     },
-    "images": ["$RCT2:OBJDATA/LAMPDSY.DAT[0..8]"],
+    "images": [
+        "$RCT2:OBJDATA/LAMPDSY.DAT[0..8]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Daisy Lamp",

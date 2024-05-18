@@ -1,8 +1,13 @@
 {
     "id": "rct2.footpath_railings.concrete_green",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
-    "sourceGame": ["rct2"],
+    "sourceGame": [
+        "rct2"
+    ],
     "objectType": "footpath_railings",
     "properties": {
         "hasSupportImages": true,
@@ -19,7 +24,11 @@
             "en-GB": "Concrete Railings (Dark Green)",
             "de-DE": "Betongeländer (dunkelgrün)",
             "nl-NL": "Betonnen ondersteuningen (groen)",
-            "eo-ZZ": "Betonaj Balustradoj (Malhela Verda)"
+            "eo-ZZ": "Betonaj Balustradoj (Malhela Verda)",
+            "ca-ES": "Baranes de ciment (verd fosc)",
+            "fr-FR": "Rambardes en béton (vert foncé)",
+            "ko-KR": "콘크리트 울타리 (어두운 녹색)",
+            "pt-BR": "Grades Estilo Concreto (Verde Escuro)"
         }
     }
 }

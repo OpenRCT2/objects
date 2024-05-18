@@ -1,6 +1,9 @@
 {
     "id": "rct1aa.footpath_surface.queue_yellow",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "rct1aa",
     "objectType": "footpath_surface",
@@ -20,7 +23,12 @@
             "en-GB": "Yellow Queue (Sloped)",
             "de-DE": "Gelbe Warteschlange (Schräge)",
             "nl-NL": "Gele wachtrij (met helling)",
-            "eo-ZZ": "Flava Atendovico (Dekliva)"
+            "eo-ZZ": "Flava Atendovico (Dekliva)",
+            "ar-EG": "طابور إنتظار أصفر (مُنحدر)",
+            "ca-ES": "Cua groga (amb escales)",
+            "fr-FR": "File d’attente jaune (pente)",
+            "ko-KR": "노란색 대기줄 (경사)",
+            "pt-BR": "Fila Amarela (Inclinada)"
         }
     }
 }

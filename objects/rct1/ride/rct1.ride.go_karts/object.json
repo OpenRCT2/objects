@@ -1,6 +1,9 @@
 {
     "id": "rct1.ride.go_karts",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1KRT|00000000",
     "sourceGame": "rct1",
@@ -10,38 +13,166 @@
         "category": "thrill",
         "carColours": [
             [
-                ["yellow", "black", "black"],
-                ["light_blue", "black", "black"],
-                ["bright_red", "black", "black"],
-                ["bright_green", "black", "black"],
-                ["white", "black", "black"],
-                ["bright_purple", "black", "black"],
-                ["light_orange", "black", "black"],
-                ["bright_pink", "black", "black"],
-                ["teal", "black", "black"],
-                ["light_brown", "black", "black"],
-                ["light_purple", "black", "black"],
-                ["black", "black", "black"],
-                ["yellow", "black", "black"],
-                ["light_blue", "black", "black"],
-                ["bright_red", "black", "black"],
-                ["bright_green", "black", "black"],
-                ["white", "black", "black"],
-                ["bright_purple", "black", "black"],
-                ["light_orange", "black", "black"],
-                ["bright_pink", "black", "black"],
-                ["teal", "black", "black"],
-                ["light_brown", "black", "black"],
-                ["light_purple", "black", "black"],
-                ["black", "black", "black"],
-                ["yellow", "black", "black"],
-                ["light_blue", "black", "black"],
-                ["bright_red", "black", "black"],
-                ["bright_green", "black", "black"],
-                ["white", "black", "black"],
-                ["bright_purple", "black", "black"],
-                ["light_orange", "black", "black"],
-                ["bright_pink", "black", "black"]
+                [
+                    "yellow",
+                    "black",
+                    "black"
+                ],
+                [
+                    "light_blue",
+                    "black",
+                    "black"
+                ],
+                [
+                    "bright_red",
+                    "black",
+                    "black"
+                ],
+                [
+                    "bright_green",
+                    "black",
+                    "black"
+                ],
+                [
+                    "white",
+                    "black",
+                    "black"
+                ],
+                [
+                    "bright_purple",
+                    "black",
+                    "black"
+                ],
+                [
+                    "light_orange",
+                    "black",
+                    "black"
+                ],
+                [
+                    "bright_pink",
+                    "black",
+                    "black"
+                ],
+                [
+                    "teal",
+                    "black",
+                    "black"
+                ],
+                [
+                    "light_brown",
+                    "black",
+                    "black"
+                ],
+                [
+                    "light_purple",
+                    "black",
+                    "black"
+                ],
+                [
+                    "black",
+                    "black",
+                    "black"
+                ],
+                [
+                    "yellow",
+                    "black",
+                    "black"
+                ],
+                [
+                    "light_blue",
+                    "black",
+                    "black"
+                ],
+                [
+                    "bright_red",
+                    "black",
+                    "black"
+                ],
+                [
+                    "bright_green",
+                    "black",
+                    "black"
+                ],
+                [
+                    "white",
+                    "black",
+                    "black"
+                ],
+                [
+                    "bright_purple",
+                    "black",
+                    "black"
+                ],
+                [
+                    "light_orange",
+                    "black",
+                    "black"
+                ],
+                [
+                    "bright_pink",
+                    "black",
+                    "black"
+                ],
+                [
+                    "teal",
+                    "black",
+                    "black"
+                ],
+                [
+                    "light_brown",
+                    "black",
+                    "black"
+                ],
+                [
+                    "light_purple",
+                    "black",
+                    "black"
+                ],
+                [
+                    "black",
+                    "black",
+                    "black"
+                ],
+                [
+                    "yellow",
+                    "black",
+                    "black"
+                ],
+                [
+                    "light_blue",
+                    "black",
+                    "black"
+                ],
+                [
+                    "bright_red",
+                    "black",
+                    "black"
+                ],
+                [
+                    "bright_green",
+                    "black",
+                    "black"
+                ],
+                [
+                    "white",
+                    "black",
+                    "black"
+                ],
+                [
+                    "bright_purple",
+                    "black",
+                    "black"
+                ],
+                [
+                    "light_orange",
+                    "black",
+                    "black"
+                ],
+                [
+                    "bright_pink",
+                    "black",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -56,14 +187,16 @@
             "poweredMaxSpeed": 40,
             "drawOrder": 7,
             "spriteGroups": {
-                "slopeFlat":16,
-                "slopes12":4,
-                "slopes25":4
+                "slopeFlat": 16,
+                "slopes12": 4,
+                "slopes25": 4
             },
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
             "isGoKart": true,
-            "loadingPositions": [-1]
+            "loadingPositions": [
+                -1
+            ]
         }
     },
     "images": [
@@ -71,44 +204,35 @@
         "",
         "",
         "$CSG[34297..34312]",
-
         "$CSG[34313]",
         "$CSG[34317]",
         "$CSG[34321]",
         "$CSG[34325]",
-
         "$CSG[34315]",
         "$CSG[34319]",
         "$CSG[34323]",
         "$CSG[34327]",
- 
         "$CSG[34314]",
         "$CSG[34318]",
         "$CSG[34322]",
         "$CSG[34326]",
-
         "$CSG[34316]",
         "$CSG[34320]",
         "$CSG[34324]",
         "$CSG[34328]",
-
         "$CSG[34329..34344]",
-
         "$CSG[34345]",
         "$CSG[34349]",
         "$CSG[34353]",
         "$CSG[34357]",
-
         "$CSG[34347]",
         "$CSG[34351]",
         "$CSG[34355]",
-        "$CSG[34359]", 
-
+        "$CSG[34359]",
         "$CSG[34346]",
         "$CSG[34350]",
         "$CSG[34354]",
         "$CSG[34358]",
-
         "$CSG[34348]",
         "$CSG[34352]",
         "$CSG[34356]",
@@ -134,9 +258,7 @@
         "$RCT2:OBJDATA/KART1.DAT[29]",
         "$RCT2:OBJDATA/KART1.DAT[31]",
         "$RCT2:OBJDATA/KART1.DAT[33]",
-
         "$RCT2:OBJDATA/KART1.DAT[35..42]",
-
         "$RCT2:OBJDATA/KART1.DAT[43]",
         "$RCT2:OBJDATA/KART1.DAT[51]",
         "$RCT2:OBJDATA/KART1.DAT[59]",
@@ -145,7 +267,6 @@
         "$RCT2:OBJDATA/KART1.DAT[83]",
         "$RCT2:OBJDATA/KART1.DAT[91]",
         "$RCT2:OBJDATA/KART1.DAT[99]",
-
         "$RCT2:OBJDATA/KART1.DAT[107]",
         "$RCT2:OBJDATA/KART1.DAT[109]",
         "$RCT2:OBJDATA/KART1.DAT[111]",
@@ -162,9 +283,7 @@
         "$RCT2:OBJDATA/KART1.DAT[133]",
         "$RCT2:OBJDATA/KART1.DAT[135]",
         "$RCT2:OBJDATA/KART1.DAT[137]",
-
         "$RCT2:OBJDATA/KART1.DAT[139..146]",
-
         "$RCT2:OBJDATA/KART1.DAT[147]",
         "$RCT2:OBJDATA/KART1.DAT[155]",
         "$RCT2:OBJDATA/KART1.DAT[163]",
@@ -176,11 +295,21 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Go-Karts (with helmets)"
+            "en-GB": "Go-Karts (with helmets)",
+            "fr-FR": "Karting (avec des casques)",
+            "ko-KR": "고 카트 (헬멧)",
+            "nl-NL": "Go-Karts (met helmen)",
+            "pt-BR": "Karts (com capacetes)",
+            "ca-ES": "Karts (amb cascos)"
         },
         "description": {
             "en-GB": "Self-driven petrol-engined go-karts that come with safety helmets",
-            "en-US": "Self-driven gas-engined go-karts that come with safety helmets"
+            "en-US": "Self-driven gas-engined go-karts that come with safety helmets",
+            "fr-FR": "Karts individuels constitués de moteurs à essence avec un casque de protection",
+            "ko-KR": "안전 헬멧이 함께 제공되는 자체 구동 휘발유 엔진 고 카트",
+            "nl-NL": "Go-karts met benzinemotor die de passagiers zelf besturen.",
+            "pt-BR": "Karts à gasolina auto-pilotáveis com capacetes de segurança",
+            "ca-ES": "Karts autopropulsats que funcionen amb gasolina i els passatgers duen cascos de seguretat."
         },
         "capacity": {
             "en-GB": "single-seater",
@@ -198,7 +327,8 @@
             "ja-JP": "各車両1名",
             "pl-PL": "1 miejsce",
             "ru-RU": "одиночные",
-            "eo-OO": "Po 1 pasaĝero por aŭto"
+            "eo-OO": "Po 1 pasaĝero por aŭto",
+            "ca-ES": "1 passatger"
         }
     }
 }

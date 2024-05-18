@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.hmaze",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|HMAZE   |5BD31A4B",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "maze",
@@ -11,7 +17,11 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["black", "black", "black"]
+                [
+                    "black",
+                    "black",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -27,7 +37,9 @@
             "recalculateSpriteBounds": true
         }
     },
-    "images": ["$RCT2:OBJDATA/HMAZE.DAT[0..2]"],
+    "images": [
+        "$RCT2:OBJDATA/HMAZE.DAT[0..2]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Maze",

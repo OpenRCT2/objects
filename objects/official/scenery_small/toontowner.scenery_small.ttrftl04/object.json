@@ -1,6 +1,9 @@
 {
     "id": "toontowner.scenery_small.ttrftl04",
-    "authors": ["Simon Foster", "ToonTowner"],
+    "authors": [
+        "Simon Foster",
+        "ToonTowner"
+    ],
     "version": "1.0",
     "originalId": "09F55801|TTRFTL04|5BAF3974",
     "sourceGame": "official",
@@ -46,7 +49,9 @@
             "tr-TR": "Çatı",
             "eo-ZZ": "Tegmento",
             "ca-ES": "Teulada",
-            "fi-FI": "Katto"
+            "fi-FI": "Katto",
+            "ar-EG": "سقف",
+            "uk-UA": "Дах"
         }
     }
 }

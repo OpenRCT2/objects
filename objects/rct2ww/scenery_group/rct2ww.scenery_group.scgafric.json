@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_group.scgafric",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0217|SCGAFRIC|9E3F9928",
     "sourceGame": "rct2ww",
@@ -101,7 +103,7 @@
             "rct2ww.scenery_small.trckprt7",
             "rct2ww.scenery_small.trckprt8",
             "rct2ww.scenery_small.trckprt9",
-            "rct2ww.scenery_large.damtower",
+            "rct2ww.scenery_large.damtower_fix",
             "rct2ww.scenery_small.flamngo1",
             "rct2ww.scenery_small.flamngo2",
             "rct2ww.scenery_small.flamngo3",
@@ -112,10 +114,12 @@
             "rct2ww.scenery_large.3x3atre3",
             "rct2ww.scenery_large.3x3altre"
         ],
-        "priority": 25,
+        "priority": 41,
         "entertainerCostumes": "gorilla"
     },
-    "images": ["$RCT2:OBJDATA/SCGAFRIC.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGAFRIC.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Africa Theming",

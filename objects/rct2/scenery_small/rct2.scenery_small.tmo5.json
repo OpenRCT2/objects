@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.tmo5",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188E81|TMO5    |04C8891E",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 45,
@@ -15,11 +21,13 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/TMO5.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TMO5.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Martian Object",
-            "fr-FR": "Objet alien",
+            "fr-FR": "Objet martien",
             "de-DE": "Marsobjekt",
             "es-ES": "Objeto marciano",
             "it-IT": "Oggetto marziano",

@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.futsky37",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FB21|FUTSKY37|B4812471",
     "sourceGame": "rct2tt",
@@ -24,9 +26,28 @@
         "hasNoSupports": true,
         "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
         "SMALL_SCENERY_FLAG_COG": true,
-        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+        "frameOffsets": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
     },
-    "images": ["$RCT2:OBJDATA/FUTSKY37.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/FUTSKY37.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Obsidian SkyScraper Shallow Slope Corner",
@@ -46,7 +67,8 @@
             "eo-ZZ": "Malprofunda Deklivita Angulo de Obsidiana Ĉielskrapanto",
             "ca-ES": "Punta de teulada de gratacel d’obsidiana",
             "fi-FI": "Laavalasipilvenpiirtäjän loivan seinän kulma",
-            "zh-CN": "黑曜石高楼-缓斜转角"
+            "zh-CN": "黑曜石高楼-缓斜转角",
+            "hu-HU": "Obszidián felhőkarcoló sekély lejtős sarok"
         }
     }
 }

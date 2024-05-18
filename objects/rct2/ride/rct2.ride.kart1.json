@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.kart1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|KART1   |56DFF5D7",
     "sourceGame": "rct2",
@@ -10,38 +13,166 @@
         "category": "thrill",
         "carColours": [
             [
-                ["light_blue", "black", "black"],
-                ["bright_red", "black", "black"],
-                ["yellow", "black", "black"],
-                ["bright_green", "black", "black"],
-                ["black", "black", "black"],
-                ["light_purple", "black", "black"],
-                ["light_orange", "black", "black"],
-                ["aquamarine", "black", "black"],
-                ["dark_brown", "black", "black"],
-                ["white", "black", "black"],
-                ["bright_pink", "black", "black"],
-                ["dark_olive_green", "black", "black"],
-                ["bordeaux_red", "black", "black"],
-                ["dark_purple", "black", "black"],
-                ["bright_purple", "black", "black"],
-                ["light_pink", "black", "black"],
-                ["dark_blue", "black", "black"],
-                ["icy_blue", "black", "black"],
-                ["teal", "black", "black"],
-                ["saturated_green", "black", "black"],
-                ["dark_green", "black", "black"],
-                ["moss_green", "black", "black"],
-                ["olive_green", "black", "black"],
-                ["bright_yellow", "black", "black"],
-                ["dark_yellow", "black", "black"],
-                ["dark_orange", "black", "black"],
-                ["saturated_brown", "black", "black"],
-                ["salmon_pink", "black", "black"],
-                ["saturated_red", "black", "black"],
-                ["dark_pink", "black", "black"],
-                ["light_blue", "black", "black"],
-                ["bright_red", "black", "black"]
+                [
+                    "light_blue",
+                    "black",
+                    "black"
+                ],
+                [
+                    "bright_red",
+                    "black",
+                    "black"
+                ],
+                [
+                    "yellow",
+                    "black",
+                    "black"
+                ],
+                [
+                    "bright_green",
+                    "black",
+                    "black"
+                ],
+                [
+                    "black",
+                    "black",
+                    "black"
+                ],
+                [
+                    "light_purple",
+                    "black",
+                    "black"
+                ],
+                [
+                    "light_orange",
+                    "black",
+                    "black"
+                ],
+                [
+                    "aquamarine",
+                    "black",
+                    "black"
+                ],
+                [
+                    "dark_brown",
+                    "black",
+                    "black"
+                ],
+                [
+                    "white",
+                    "black",
+                    "black"
+                ],
+                [
+                    "bright_pink",
+                    "black",
+                    "black"
+                ],
+                [
+                    "dark_olive_green",
+                    "black",
+                    "black"
+                ],
+                [
+                    "bordeaux_red",
+                    "black",
+                    "black"
+                ],
+                [
+                    "dark_purple",
+                    "black",
+                    "black"
+                ],
+                [
+                    "bright_purple",
+                    "black",
+                    "black"
+                ],
+                [
+                    "light_pink",
+                    "black",
+                    "black"
+                ],
+                [
+                    "dark_blue",
+                    "black",
+                    "black"
+                ],
+                [
+                    "icy_blue",
+                    "black",
+                    "black"
+                ],
+                [
+                    "teal",
+                    "black",
+                    "black"
+                ],
+                [
+                    "saturated_green",
+                    "black",
+                    "black"
+                ],
+                [
+                    "dark_green",
+                    "black",
+                    "black"
+                ],
+                [
+                    "moss_green",
+                    "black",
+                    "black"
+                ],
+                [
+                    "olive_green",
+                    "black",
+                    "black"
+                ],
+                [
+                    "bright_yellow",
+                    "black",
+                    "black"
+                ],
+                [
+                    "dark_yellow",
+                    "black",
+                    "black"
+                ],
+                [
+                    "dark_orange",
+                    "black",
+                    "black"
+                ],
+                [
+                    "saturated_brown",
+                    "black",
+                    "black"
+                ],
+                [
+                    "salmon_pink",
+                    "black",
+                    "black"
+                ],
+                [
+                    "saturated_red",
+                    "black",
+                    "black"
+                ],
+                [
+                    "dark_pink",
+                    "black",
+                    "black"
+                ],
+                [
+                    "light_blue",
+                    "black",
+                    "black"
+                ],
+                [
+                    "bright_red",
+                    "black",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -62,11 +193,15 @@
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
             "isGoKart": true,
-            "loadingPositions": [-1]
+            "loadingPositions": [
+                -1
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/KART1.DAT[0..210]"],
+    "images": [
+        "$RCT2:OBJDATA/KART1.DAT[0..210]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Go-Karts",
@@ -106,7 +241,7 @@
             "pl-PL": "Samochodziki z napędem benzynowym",
             "ru-RU": "Карты с бенз. движками",
             "eo-ZZ": "Gokartoj kun benzinmotoroj, kiujn pasaĝeroj stiras per si mem",
-            "ca-ES": "Karts autopropulsats per gasolina.",
+            "ca-ES": "Karts autopropulsats que funcionen amb gasolina.",
             "fi-FI": "Itse ajettavat bensakäyttöiset mikroautot"
         },
         "capacity": {

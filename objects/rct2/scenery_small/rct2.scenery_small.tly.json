@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.tly",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188E81|TLY     |6BE9844D",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 5,
@@ -16,7 +22,9 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/TLY.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TLY.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Lily",

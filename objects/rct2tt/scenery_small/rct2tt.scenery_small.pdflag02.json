@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.pdflag02",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F921|PDFLAG02|A3903590",
     "sourceGame": "rct2tt",
@@ -19,9 +21,28 @@
         "isAnimated": true,
         "isStackable": true,
         "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
-        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+        "frameOffsets": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
     },
-    "images": ["$RCT2:OBJDATA/PDFLAG02.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/PDFLAG02.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Period Flag",
@@ -41,7 +62,8 @@
             "eo-ZZ": "Historia Flago",
             "ca-ES": "Bandera d’època",
             "fi-FI": "Aikakauden lippu",
-            "zh-CN": "老式-旗子"
+            "zh-CN": "老式-旗子",
+            "hu-HU": "Történelmi zászló"
         }
     }
 }

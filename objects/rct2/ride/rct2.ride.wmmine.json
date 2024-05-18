@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.wmmine",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C80|WMMINE  |F15E8338",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "wooden_wild_mouse",
@@ -19,13 +25,25 @@
         },
         "carColours": [
             [
-                ["saturated_brown", "saturated_brown", "black"]
+                [
+                    "saturated_brown",
+                    "saturated_brown",
+                    "black"
+                ]
             ],
             [
-                ["bordeaux_red", "bordeaux_red", "black"]
+                [
+                    "bordeaux_red",
+                    "bordeaux_red",
+                    "black"
+                ]
             ],
             [
-                ["black", "black", "black"]
+                [
+                    "black",
+                    "black",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -47,7 +65,10 @@
                 "hasSwinging": true,
                 "hasScreamingRiders": true,
                 "useWoodenWildMouseSwing": true,
-                "loadingPositions": [4, -4]
+                "loadingPositions": [
+                    4,
+                    -4
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -57,18 +78,21 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "hasScreamingRiders": true
             }
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/WMMINE.DAT[0..1106]", ""],
+    "images": [
+        "$RCT2:OBJDATA/WMMINE.DAT[0..1106]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Mine Cars",
-            "fr-FR": "Mine de bois",
+            "fr-FR": "Wagon de mine",
             "de-DE": "Minenwagen",
             "es-ES": "Mina Loca de Madera",
             "it-IT": "Corsa folle in miniera",
@@ -88,7 +112,7 @@
         },
         "description": {
             "en-GB": "Cars shaped like an old mine cart",
-            "fr-FR": "De tous petits wagons de mine dévalent une voie en zigzag composée de virages en épingle à cheveux et de chutes vicieuses",
+            "fr-FR": "Voiture en forme d’ancien wagon minier",
             "de-DE": "Wagen, die wie alte Minenloren geformt sind",
             "es-ES": "Mini camiones que corren sobre una pista de madera",
             "it-IT": "Carrelli da miniera sfrecciano lungo un percorso di legno a zig-zag, inclinandosi precariamente nelle curve a U e nelle spericolate discese",
@@ -103,7 +127,7 @@
             "pl-PL": "Małe wózki kopalniane jadące po zygzakowatym drewnianym torze, przechylające się na ostrych zakrętach i zdradliwych zjazdach",
             "ru-RU": "Маленькие вагонетки едут по зигзагообразному деревянному треку.",
             "eo-ZZ": "Ĉaroj formitaj kiel malnova minĉaro",
-            "ca-ES": "Cotxes en forma de vagoneta antiga.",
+            "ca-ES": "Cotxes en forma de vagonetes antigues.",
             "fi-FI": "Vanhan kaivoskärryn muotoiset vaunut"
         },
         "capacity": {

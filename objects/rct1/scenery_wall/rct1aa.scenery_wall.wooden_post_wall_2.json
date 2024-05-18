@@ -1,0 +1,45 @@
+{
+    "id": "rct1aa.scenery_wall.wooden_post_wall_2",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "sourceGame": "rct1aa",
+    "isCompatibilityObject": true,
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 2,
+        "price": 40,
+        "sceneryGroup": "rct2.scenery_group.scgjungl"
+    },
+    "images": [
+        "$CSG[63221..63226]"
+    ],
+    "noCsgImages": [
+        "$RCT2:OBJDATA/WPW2.DAT[0..5]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Wooden Post Wall",
+            "fr-FR": "Clôture avec poteaux de bois",
+            "de-DE": "Holzpfahlwand",
+            "es-ES": "Poste de madera",
+            "it-IT": "Muro di sostegno in legno",
+            "nl-NL": "Hek van houten palen",
+            "sv-SE": "Stolpstaket",
+            "ko-KR": "나무 울타리",
+            "zh-CN": "木桩墙",
+            "zh-TW": "木樁牆",
+            "pt-BR": "Parede de Poste de Madeira",
+            "cs-CZ": "Zeď dřevěných sloupů",
+            "ja-JP": "木製の柱の壁",
+            "pl-PL": "Ściana z drewnianych słupków",
+            "ru-RU": "Деревянная стена",
+            "eo-ZZ": "Muro el Lignaj Fostoj",
+            "ca-ES": "Paret de pals de fusta",
+            "fi-FI": "Puutolppaseinä"
+        }
+    }
+}

@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_wall.wbambo05",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBCFC13|WBambo05|20330AA6",
     "sourceGame": "rct2ww",
@@ -10,7 +12,9 @@
         "height": 4,
         "price": 50
     },
-    "images": ["$RCT2:OBJDATA/WBAMBO05.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/WBAMBO05.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Bamboo Wall",

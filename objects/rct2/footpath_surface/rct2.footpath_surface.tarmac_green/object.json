@@ -1,6 +1,9 @@
 {
     "id": "rct2.footpath_surface.tarmac_green",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "rct2",
     "objectType": "footpath_surface",
@@ -11,7 +14,7 @@
     "strings": {
         "name": {
             "en-GB": "Dark Green Tarmac Footpath",
-            "fr-FR": "Allée en bitume vert",
+            "fr-FR": "Allée en bitume vert foncé",
             "de-DE": "Dunkelgrüner Makadam-Fußweg",
             "es-ES": "Sendero asfaltado verde",
             "it-IT": "Sentiero di catrame verde",
@@ -26,7 +29,8 @@
             "pl-PL": "Zielona dróżka tłuczniowa",
             "ru-RU": "Зелёный асфальт",
             "ar-EG": "ممشي أخضر مُعبد",
-            "eo-ZZ": "Malhela Verda Asfalta Trotuaro"
+            "eo-ZZ": "Malhela Verda Asfalta Trotuaro",
+            "ca-ES": "Camí verd fosc asfaltat"
         }
     }
 }

@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_group.scgspook",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F87|SCGSPOOK|E05DA063",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "scenery_group",
     "properties": {
         "entries": [
@@ -23,11 +29,13 @@
         ],
         "priority": 32
     },
-    "images": ["$RCT2:OBJDATA/SCGSPOOK.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGSPOOK.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Spooky Theming",
-            "fr-FR": "Thème Terreur",
+            "fr-FR": "Thème terreur",
             "de-DE": "Spukthema",
             "es-ES": "Temática fantasmal",
             "it-IT": "Tema spettrale",

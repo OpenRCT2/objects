@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.pterodac",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F720|PTERODAC|83F40281",
     "sourceGame": "rct2tt",
@@ -13,10 +15,18 @@
         "maxCarsPerTrain": 8,
         "carColours": [
             [
-                ["bright_red", "yellow", "dark_purple"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "dark_purple"
+                ]
             ],
             [
-                ["teal", "grey", "black"]
+                [
+                    "teal",
+                    "grey",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -49,7 +59,12 @@
                 "spriteBoundsIncludeInvertedSet": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, -2, 2, -2]
+                "loadingPositions": [
+                    2,
+                    -2,
+                    2,
+                    -2
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -79,15 +94,22 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, -2, 2, -2]
+                "loadingPositions": [
+                    2,
+                    -2,
+                    2,
+                    -2
+                ]
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/PTERODAC.DAT[0..4562]"],
+    "images": [
+        "$RCT2:OBJDATA/PTERODAC.DAT[0..4562]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Pterodactyl Trains",
-            "fr-FR": "Le ptérodactyle",
+            "fr-FR": "Train ptérodactyle",
             "de-DE": "Pterodaktylus-Züge",
             "es-ES": "Montaña rusa Pterodáctilo",
             "it-IT": "Ottovolante Pterodattilo",
@@ -103,7 +125,8 @@
             "eo-ZZ": "Pterodaktilo-Trajnoj",
             "ca-ES": "Muntanya russa Pterodàctil",
             "fi-FI": "Lentoliskovaunut",
-            "zh-CN": "翼龙火车"
+            "zh-CN": "翼龙火车",
+            "hu-HU": "Pterodactyl Trains"
         },
         "description": {
             "en-GB": "Riders are held in comfortable seats below the track to give the ultimate prehistoric flying experience",
@@ -123,7 +146,8 @@
             "eo-ZZ": "Rajdantoj estas tenitaj en komfortaj seĝoj sub la trako por havi la plejan praan sperton de flugado",
             "ca-ES": "Els passatgers viatgen en seients còmodes per sota la via per aconseguir una sensació de vol prehistòric.",
             "fi-FI": "Matkustajat kulkevat mukavissa istuimissa radan alla, luoden äärimmäisen esihistoriallisen lennon tunteen",
-            "zh-CN": "乘客们被安置在赛道下方的舒适座椅上，以提供终极的史前飞行体验"
+            "zh-CN": "乘客们被安置在赛道下方的舒适座椅上，以提供终极的史前飞行体验",
+            "hu-HU": "Az utasok kényelmes ülésekben ülnek a pálya alatt, hogy a legteljesebb őskori repülési élményben részesüljenek"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -143,7 +167,8 @@
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
-            "zh-CN": "4位乘客/车"
+            "zh-CN": "4位乘客/车",
+            "hu-HU": "4 utas kocsinként"
         }
     }
 }

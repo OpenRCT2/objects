@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.jousting",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F820|JOUSTING|B8B67191",
     "sourceGame": "rct2tt",
@@ -10,13 +12,25 @@
         "category": "rollercoaster",
         "carColours": [
             [
-                ["saturated_brown", "light_brown", "yellow"]
+                [
+                    "saturated_brown",
+                    "light_brown",
+                    "yellow"
+                ]
             ],
             [
-                ["black", "grey", "bright_red"]
+                [
+                    "black",
+                    "grey",
+                    "yellow"
+                ]
             ],
             [
-                ["grey", "bordeaux_red", "yellow"]
+                [
+                    "grey",
+                    "bordeaux_red",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -35,10 +49,15 @@
             },
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [4, -4]
+            "loadingPositions": [
+                4,
+                -4
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/JOUSTING.DAT[0..386]"],
+    "images": [
+        "$RCT2:OBJDATA/JOUSTING.DAT[0..386]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Jousting Knights",
@@ -62,7 +81,7 @@
         },
         "description": {
             "en-GB": "Separate horse-shaped vehicles with a jousting knight on the front",
-            "fr-FR": "Les passagers voyagent à bord de véhicules en forme de chevaux le long d’une voie monorail",
+            "fr-FR": "Véhicule en forme de cheval avec un chevalier paré pour la joute à l’avant",
             "de-DE": "Pferdeartige Einzelwagen",
             "es-ES": "Los pasajeros se montan en la grupa de vehículos en forma de caballos que van por una vía monorraíl.",
             "it-IT": "I passeggeri attraversano un tracciato monorotaia, su veicoli a forma di cavallo.",

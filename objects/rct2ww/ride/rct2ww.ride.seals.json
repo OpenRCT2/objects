@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.seals",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0110|SEALS   |EC944C51",
     "sourceGame": "rct2ww",
@@ -20,13 +22,25 @@
         },
         "carColours": [
             [
-                ["light_blue", "white", "yellow"]
+                [
+                    "light_blue",
+                    "white",
+                    "yellow"
+                ]
             ],
             [
-                ["bright_red", "yellow", "yellow"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "yellow"
+                ]
             ],
             [
-                ["white", "bordeaux_red", "bordeaux_red"]
+                [
+                    "white",
+                    "bordeaux_red",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -53,7 +67,12 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [5, 3, -7, -9]
+                "loadingPositions": [
+                    5,
+                    3,
+                    -7,
+                    -9
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -78,7 +97,12 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    -3,
+                    -1
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -101,11 +125,13 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SEALS.DAT[0..4470]"],
+    "images": [
+        "$RCT2:OBJDATA/SEALS.DAT[0..4470]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Seal Trains",
-            "fr-FR": "Montagnes des phoques",
+            "fr-FR": "Phoque",
             "de-DE": "Robbenzüge",
             "es-ES": "Montaña Rusa Focas",
             "it-IT": "Ottovolante delle foche",
@@ -124,7 +150,7 @@
         },
         "description": {
             "en-GB": "Roller coaster trains with shoulder restraints themed to look like seals",
-            "fr-FR": "Montagnes russes compactes et métalliques dont le train effectue tire-bouchons et boucles",
+            "fr-FR": "Train de montagnes russes avec des retenues aux épaules en forme de phoque",
             "de-DE": "Achterbahnzüge mit Schulterhalterungen, in der Form von Robben",
             "es-ES": "Una montaña rusa compacta de acero donde los vagones circulan por rizos y sacacorchos",
             "it-IT": "Un ottovolante compatto, di acciaio, in cui le carrozze percorrono avvitamenti e giri della morte",

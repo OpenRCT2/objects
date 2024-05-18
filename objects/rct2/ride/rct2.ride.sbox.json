@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.sbox",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|SBOX    |E2B4D8AB",
     "sourceGame": "rct2",
@@ -10,13 +13,25 @@
         "category": "rollercoaster",
         "carColours": [
             [
-                ["saturated_brown", "light_brown", "yellow"]
+                [
+                    "saturated_brown",
+                    "light_brown",
+                    "yellow"
+                ]
             ],
             [
-                ["black", "grey", "bright_red"]
+                [
+                    "black",
+                    "grey",
+                    "bright_red"
+                ]
             ],
             [
-                ["grey", "bordeaux_red", "yellow"]
+                [
+                    "grey",
+                    "bordeaux_red",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -36,11 +51,18 @@
             "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [-8, 1, -8, 1]
+            "loadingPositions": [
+                -8,
+                1,
+                -8,
+                1
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/SBOX.DAT[0..386]"],
+    "images": [
+        "$RCT2:OBJDATA/SBOX.DAT[0..386]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Soap Boxes",
@@ -64,7 +86,7 @@
         },
         "description": {
             "en-GB": "Single cars shaped like a soap box",
-            "fr-FR": "Voiture en forme de boîte à savon se déplaçant sur des montagnes russes monorail",
+            "fr-FR": "Voiture en forme de boîte à savon",
             "de-DE": "Einzelwagen, die wie Seifenkisten geformt sind",
             "es-ES": "Los pasajeros usan vagones con forma de jaboneras",
             "it-IT": "I visitatori salgono su carrozze a forma di scatole di sapone che corrono lungo un tracciato monorotaia da ottovolante",

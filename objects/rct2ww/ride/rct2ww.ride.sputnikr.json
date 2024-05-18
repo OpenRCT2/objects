@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.sputnikr",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0910|SPUTNIKR|8EA42112",
     "sourceGame": "rct2ww",
@@ -10,13 +12,25 @@
         "category": "rollercoaster",
         "carColours": [
             [
-                ["black", "light_orange", "black"]
+                [
+                    "black",
+                    "light_orange",
+                    "yellow"
+                ]
             ],
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "yellow"
+                ]
             ],
             [
-                ["dark_green", "bright_red", "black"]
+                [
+                    "dark_green",
+                    "bright_red",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -29,22 +43,65 @@
             "frictionSoundId": 2,
             "soundRange": 0,
             "drawOrder": 2,
-            "frames": {
-                "flat": true,
-                "gentleSlopes": true,
-                "diagonalSlopes": true
+            "spriteGroups": {
+                "slopeFlat": 32,
+                "slopes12": 4,
+                "slopes25": 32,
+                "slopes8": 4,
+                "slopes16": 4
             },
             "hasAdditionalColour1": true,
             "hasSwinging": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [3, -3]
+            "loadingPositions": [
+                3,
+                -3
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/SPUTNIKR.DAT[0..1282]"],
+    "images": [
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[0]",
+        "",
+        "",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[3..522]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[223..227]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[263..267]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[303..307]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[343..347]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[383..387]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[423..427]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[463..467]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[503..507]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[223..227]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[263..267]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[303..307]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[343..347]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[383..387]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[423..427]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[463..467]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[503..507]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[643..1162]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[863..867]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[903..907]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[943..947]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[983..987]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[1023..1027]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[1063..1067]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[1103..1107]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[1143..1147]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[863..867]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[903..907]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[943..947]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[983..987]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[1023..1027]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[1063..1067]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[1103..1107]",
+        "$RCT2:OBJDATA/SPUTNIKR.DAT[1143..1147]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Sputnik Cars",
-            "fr-FR": "Montagnes Spoutnik",
+            "fr-FR": "Voiture Spoutnik",
             "de-DE": "Sputnik-Wagen",
             "es-ES": "Atracción Voladora del Sputnik Suspendido",
             "it-IT": "Ottovolante sospeso Sputnik",
@@ -63,7 +120,7 @@
         },
         "description": {
             "en-GB": "Russian satellite-shaped cars which swing from the rail above",
-            "fr-FR": "Les passagers sont couchés à plat ventre dans une voiture spéciale se déplaçant sur un monorail et se balançant d’un côté à l’autre dans les virages",
+            "fr-FR": "Voiture en forme du satellite russe se balançant du rail situé au-dessus",
             "de-DE": "Russische satellitenförmige Wagen, die von der Schiene oberhalb schwingen",
             "es-ES": "Los pasajeros viajan boca abajo en posición tumbada, suspendidos del monorraíl en un vagón de diseño especial que se balancea libremente de un lado a otro al tomar las curvas",
             "it-IT": "I passeggeri si trovano in posizione prona, sospesi in speciali carrozze monorotaia che oscillano liberamente nelle curve",

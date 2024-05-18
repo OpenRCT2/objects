@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_large.svlc",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C82|SVLC    |238F1F22",
     "sourceGame": "rct2",
@@ -16,100 +19,90 @@
                 "y": 0,
                 "clearance": 64,
                 "hasSupports": true,
-                "walls": 9,
-                "corners": 1
+                "walls": 9
             },
             {
                 "x": 0,
                 "y": 32,
                 "clearance": 64,
                 "hasSupports": true,
-                "walls": 5,
-                "corners": 11
+                "walls": 5
             },
             {
                 "x": 0,
                 "y": 64,
                 "clearance": 64,
                 "hasSupports": true,
-                "walls": 5,
-                "corners": 7
+                "walls": 5
             },
             {
                 "x": 0,
                 "y": 96,
                 "clearance": 64,
                 "hasSupports": true,
-                "walls": 3,
-                "corners": 2
+                "walls": 3
             },
             {
                 "x": 32,
                 "y": 96,
                 "clearance": 64,
                 "hasSupports": true,
-                "walls": 10,
-                "corners": 7
+                "walls": 10
             },
             {
                 "x": 64,
                 "y": 96,
                 "clearance": 64,
                 "hasSupports": true,
-                "walls": 10,
-                "corners": 14
+                "walls": 10
             },
             {
                 "x": 96,
                 "y": 96,
                 "clearance": 64,
                 "hasSupports": true,
-                "walls": 6,
-                "corners": 4
+                "walls": 6
             },
             {
                 "x": 96,
                 "y": 64,
                 "clearance": 64,
                 "hasSupports": true,
-                "walls": 5,
-                "corners": 14
+                "walls": 5
             },
             {
                 "x": 96,
                 "y": 32,
                 "clearance": 64,
                 "hasSupports": true,
-                "walls": 5,
-                "corners": 13
+                "walls": 5
             },
             {
                 "x": 96,
                 "y": 0,
                 "clearance": 64,
                 "hasSupports": true,
-                "walls": 12,
-                "corners": 8
+                "walls": 12
             },
             {
                 "x": 64,
                 "y": 0,
                 "clearance": 64,
                 "hasSupports": true,
-                "walls": 10,
-                "corners": 13
+                "walls": 10
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 64,
                 "hasSupports": true,
-                "walls": 10,
-                "corners": 11
+                "walls": 10
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SVLC.DAT[0..51]"],
+    "images": [
+        "$RCT2:OBJDATA/SVLC.DAT[0..51]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Volcano",
@@ -129,7 +122,8 @@
             "ru-RU": "Вулкан",
             "eo-ZZ": "Vulkano",
             "ca-ES": "Volcà",
-            "fi-FI": "Tulivuori"
+            "fi-FI": "Tulivuori",
+            "ar-EG": "بركان"
         }
     }
 }

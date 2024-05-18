@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.crnvlzrd",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CC31C10|CRNVLZRD|4CE0E220",
     "sourceGame": "rct2ww",
@@ -17,10 +19,18 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["dark_green", "olive_green", "black"]
+                [
+                    "dark_green",
+                    "olive_green",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -40,7 +50,10 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [4, -4]
+                "loadingPositions": [
+                    4,
+                    -4
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -50,17 +63,20 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "isPowered": true
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/CRNVLZRD.DAT[0..210]", ""],
+    "images": [
+        "$RCT2:OBJDATA/CRNVLZRD.DAT[0..210]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Carnival Lizard Cars",
-            "fr-FR": "Carnaval - Voitures lézards",
+            "fr-FR": "Lézard de carnaval",
             "de-DE": "Karnevalsechsenwagen",
             "es-ES": "Atracción flotadores de carnaval; vagones lagarto",
             "it-IT": "Carnevale sull’acqua - Carrozze lucertola",
@@ -79,7 +95,7 @@
         },
         "description": {
             "en-GB": "Cars in the shape of lizard carnival floats",
-            "fr-FR": "Voitures de montagnes russes en forme de chars lézards de carnaval",
+            "fr-FR": "Voiture en forme de char de carnaval lézard",
             "de-DE": "Echsenförmige Karnevalswagen",
             "es-ES": "Vagones de montaña rusa con forma de flotadores lagarto de carnaval",
             "it-IT": "Carrozze galleggianti di ottovolante a forma di lucertola",

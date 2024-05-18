@@ -1,9 +1,15 @@
 {
     "id": "rct2.station.classical",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0000008D|#RCT2STC|00000000",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "station",
     "properties": {
         "height": 34,
@@ -12,7 +18,8 @@
     },
     "images": [
         "$G1[22696..22711]",
-        "$G1[22505..22516]"],
+        "$G1[22505..22516]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Classical / Roman",
@@ -22,7 +29,7 @@
             "ko-KR": "고전 / 로마",
             "zh-CN": "经典 / 罗马",
             "ar-EG": "كلاسيكية / رومانية",
-            "nb-NO": "Klassisk / romersk",
+            "nb-NO": "Klassisk / Romersk",
             "hu-HU": "Klasszikus / római",
             "es-ES": "Clásico / Romano",
             "pt-BR": "Clássica / Romana",

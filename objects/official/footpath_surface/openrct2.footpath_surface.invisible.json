@@ -1,22 +1,82 @@
 {
-  "id": "openrct2.footpath_surface.invisible",
-  "authors": ["OpenRCT2 developers"],
-  "version": "1.0",
-  "sourceGame": ["official"],
-  "objectType": "footpath_surface",
-  "properties": {
-    "noSlopeRailings": true
-  },
-  "images": [
-    "",
-    "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
-  ],
-  "strings": {
-    "name": {
-      "en-GB": "Invisible Footpath",
-      "de-DE": "Unsichtbarer Fußweg",
-      "nl-NL": "Onzichtbaar pad",
-      "eo-ZZ": "Nevidebla Trotuaro"
+    "id": "openrct2.footpath_surface.invisible",
+    "authors": [
+        "OpenRCT2 developers"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "official"
+    ],
+    "objectType": "footpath_surface",
+    "properties": {
+        "noSlopeRailings": true
+    },
+    "images": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Invisible Footpath",
+            "de-DE": "Unsichtbarer Fußweg",
+            "nl-NL": "Onzichtbaar pad",
+            "eo-ZZ": "Nevidebla Trotuaro",
+            "ar-EG": "مسار أقدام غير مرئي",
+            "ca-ES": "Cua invisible",
+            "fr-FR": "Allée invisible",
+            "hu-HU": "Láthatatlan út",
+            "ko-KR": "투명 보도",
+            "pt-BR": "Caminho Invisível"
+        }
     }
-  }
 }

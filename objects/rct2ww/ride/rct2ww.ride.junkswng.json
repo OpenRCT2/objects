@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.junkswng",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBCFC10|JUNKSWNG|88A9282C",
     "sourceGame": "rct2ww",
@@ -13,13 +15,25 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["dark_brown", "yellow", "black"]
+                [
+                    "dark_brown",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["bordeaux_red", "white", "black"]
+                [
+                    "bordeaux_red",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["black", "bordeaux_red", "black"]
+                [
+                    "black",
+                    "bordeaux_red",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -37,10 +51,25 @@
                 "flat": true
             },
             "recalculateSpriteBounds": true,
-            "loadingPositions": [10, -10, 10, -10, 18, -18, 18, -18, 26, -26, 26, -26]
+            "loadingPositions": [
+                10,
+                -10,
+                10,
+                -10,
+                18,
+                -18,
+                18,
+                -18,
+                26,
+                -26,
+                26,
+                -26
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/JUNKSWNG.DAT[0..176]"],
+    "images": [
+        "$RCT2:OBJDATA/JUNKSWNG.DAT[0..176]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Chinese Junk Swing Ride",

@@ -1,9 +1,16 @@
 {
     "id": "rct2.ride.utcarr",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C80|UTCARR  |A91D1013",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
+    "isCompatibilityObject": true,
     "objectType": "ride",
     "properties": {
         "type": "heartline_twister_rc",
@@ -11,13 +18,25 @@
         "limitAirTimeBonus": true,
         "carColours": [
             [
-                ["white", "light_blue", "black"]
+                [
+                    "white",
+                    "light_blue",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "bright_red", "black"]
+                [
+                    "yellow",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -43,7 +62,12 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [-7, -9, 5, 3]
+                "loadingPositions": [
+                    -7,
+                    -9,
+                    5,
+                    3
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -67,16 +91,23 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [5, 3, -7, -9]
+                "loadingPositions": [
+                    5,
+                    3,
+                    -7,
+                    -9
+                ]
             }
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/UTCARR.DAT[0..2594]"],
+    "images": [
+        "$RCT2:OBJDATA/UTCARR.DAT[0..2594]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Twister Cars (starting reversed)",
-            "fr-FR": "Voit. tornado (dép. inversé)",
+            "fr-FR": "Voiture tornado (départ inversé)",
             "de-DE": "Twister-Wagen (m. umgek. Start)",
             "es-ES": "Coches Tornado (invertidos)",
             "it-IT": "Car. per Serpentone (retrom.)",
@@ -96,7 +127,7 @@
         },
         "description": {
             "en-GB": "Roller coaster cars capable of heartline twists, starting reversed",
-            "fr-FR": "Voiture de montagnes russes capable de passer dans des inversions à 360°",
+            "fr-FR": "Voiture de montagnes russes capable de passer dans des inversions à 360°, démarrant à l’envers",
             "de-DE": "Achterbahnwagen, mit denen Heartline-Twists möglich sind, mit umgekehrtem Start",
             "es-ES": "Montaña rusa con vagones capaces de giros a media altura",
             "it-IT": "Carrozze da ottovolante adatte alle curve ondulate",

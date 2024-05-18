@@ -1,15 +1,20 @@
 {
     "id": "toontowner.scenery_small.xxbbbr01",
-    "authors": ["Simon Foster", "ToonTowner"],
+    "authors": [
+        "Simon Foster",
+        "ToonTowner"
+    ],
     "version": "1.0",
     "originalId": "09F55901|XXBBBR01|952CA772",
     "sourceGame": "official",
+    "isCompatibilityObject": true,
     "objectType": "scenery_small",
     "properties": {
         "price": 20,
         "removalPrice": 0,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 8,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
@@ -20,9 +25,9 @@
     },
     "images": [
         { "path": "images/0.png", "x": -32, "y": -9 },
-        { "path": "images/1.png", "x": -32, "y": -9 },
-        { "path": "images/2.png", "x": -32, "y": -9 },
-        { "path": "images/3.png", "x": -32, "y": -9 }
+        { "path": "images/0.png", "x": -32, "y": -9 },
+        { "path": "images/0.png", "x": -32, "y": -9 },
+        { "path": "images/0.png", "x": -32, "y": -9 }
     ],
     "strings": {
         "name": {
@@ -45,7 +50,8 @@
             "tr-TR": "Ana blok",
             "eo-ZZ": "Bazobloko",
             "ca-ES": "Bloc base",
-            "fi-FI": "Perustuslohko"
+            "fi-FI": "Perustuslohko",
+            "ar-EG": "الكتلة الأساسية"
         }
     }
 }

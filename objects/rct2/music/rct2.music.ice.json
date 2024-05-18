@@ -1,16 +1,23 @@
 {
     "id": "rct2.music.ice",
-    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC21|00000000",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "music",
     "properties": {
         "originalStyleId": 21,
         "tracks": [
             {
                 "source": "$RCT2:DATA/css37.dat",
-                "name": "Hypothermia"
+                "name": "Hypothermia",
+                "composer": "Allister Brimble"
             }
         ]
     },
@@ -36,7 +43,8 @@
             "tr-TR": "Buz tarzı",
             "zh-CN": "冰封风格",
             "zh-TW": "冰封風格",
-            "eo-ZZ": "Glacia stilo"
+            "eo-ZZ": "Glacia stilo",
+            "nb-NO": "Is-stil"
         }
     }
 }

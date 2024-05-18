@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.park_entrance.mythentr",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F828|MYTHENTR|58E99AAF",
     "sourceGame": "rct2tt",
@@ -9,7 +11,9 @@
         "scrollingMode": 32,
         "textHeight": 79
     },
-    "images": ["$RCT2:OBJDATA/MYTHENTR.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/MYTHENTR.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Mythological Entrance",

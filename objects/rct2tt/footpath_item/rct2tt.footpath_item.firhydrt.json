@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.footpath_item.firhydrt",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA26|FIRHYDRT|5CF8AEBA",
     "sourceGame": "rct2tt",
@@ -15,7 +17,9 @@
         "price": 40,
         "sceneryGroup": "rct2.scenery_group.scgpathx"
     },
-    "images": ["$RCT2:OBJDATA/FIRHYDRT.DAT[0..8]"],
+    "images": [
+        "$RCT2:OBJDATA/FIRHYDRT.DAT[0..8]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Fire Hydrant",
@@ -35,7 +39,8 @@
             "eo-ZZ": "Fajro-Hidranto",
             "ca-ES": "Boca d’incendis",
             "fi-FI": "Paloposti",
-            "zh-CN": "消防栓"
+            "zh-CN": "消防栓",
+            "hu-HU": "Tűzcsap"
         }
     }
 }

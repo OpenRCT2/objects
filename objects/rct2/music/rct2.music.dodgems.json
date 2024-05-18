@@ -1,9 +1,15 @@
 {
     "id": "rct2.music.dodgems",
-    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC00|00000000",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "music",
     "properties": {
         "originalStyleId": 0,
@@ -11,11 +17,14 @@
         "tracks": [
             {
                 "source": "$RCT2:DATA/css3.dat",
-                "name": "Dodgems beat"
+                "name": "Dodgems beat",
+                "composer": "Allister Brimble"
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/DODG1.DAT[0]"],
+    "images": [
+        "$RCT2:OBJDATA/DODG1.DAT[0]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Dodgems beat style",
@@ -25,7 +34,7 @@
             "de-DE": "Autoscooter-Beat-Stil",
             "es-ES": "Estilo coches de choque",
             "fr-FR": "Auto-tamponneuse",
-            "hu-HU": "Dodzsem beat stílus",
+            "hu-HU": "Dodzsem stílus",
             "it-IT": "Stile auto da scontro",
             "ja-JP": "ダージャムズ・ビート・スタイル",
             "ko-KR": "범퍼카 비트 스타일",
@@ -38,7 +47,8 @@
             "zh-CN": "碰碰车节奏风格",
             "zh-TW": "碰碰車節奏風格",
             "eo-ZZ": "Muzikstilo de Doĝemoj-trako",
-            "fi-FI": "Törmäysautobiitin tyylinen"
+            "fi-FI": "Törmäysautobiitin tyylinen",
+            "nb-NO": "Radiobil-rytme-stil"
         }
     }
 }

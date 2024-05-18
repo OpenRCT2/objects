@@ -1,6 +1,9 @@
 {
     "id": "rct2.footpath_item.qtv1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188786|QTV1    |5703406F",
     "sourceGame": "rct2",
@@ -13,7 +16,9 @@
         "cursor": "CURSOR_TREE_DOWN",
         "price": 150
     },
-    "images": ["$RCT2:OBJDATA/QTV1.DAT[0..4]"],
+    "images": [
+        "$RCT2:OBJDATA/QTV1.DAT[0..4]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Queue Line TV",

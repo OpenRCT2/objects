@@ -1,8 +1,14 @@
 {
     "id": "rct2.footpath_railings.concrete",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "footpath_railings",
     "properties": {
         "hasSupportImages": true,
@@ -19,7 +25,12 @@
             "en-GB": "Concrete Railings (Grey-Brown)",
             "de-DE": "Betongeländer (graubraun)",
             "nl-NL": "Betonnen ondersteuningen",
-            "eo-ZZ": "Betonaj Balustradoj (Griza-Bruna)"
+            "eo-ZZ": "Betonaj Balustradoj (Griza-Bruna)",
+            "ca-ES": "Baranes de ciment (verdes i marrons)",
+            "en-US": "Concrete Railings (Gray-Brown)",
+            "fr-FR": "Rambardes en béton (beige)",
+            "ko-KR": "콘크리트 울타리 (회갈색)",
+            "pt-BR": "Grades Estilo Concreto (Cinza-amarronzado)"
         }
     }
 }

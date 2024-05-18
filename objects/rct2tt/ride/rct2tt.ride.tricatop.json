@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.tricatop",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F720|TRICATOP|AB340BCD",
     "sourceGame": "rct2tt",
@@ -11,16 +13,32 @@
         "carsPerFlatRide": 12,
         "carColours": [
             [
-                ["bright_red", "white", "black"]
+                [
+                    "bright_red",
+                    "bright_pink",
+                    "yellow"
+                ]
             ],
             [
-                ["light_blue", "white", "black"]
+                [
+                    "light_blue",
+                    "bright_pink",
+                    "yellow"
+                ]
             ],
             [
-                ["yellow", "bright_red", "black"]
+                [
+                    "yellow",
+                    "bright_pink",
+                    "yellow"
+                ]
             ],
             [
-                ["bright_purple", "yellow", "black"]
+                [
+                    "bright_purple",
+                    "bright_pink",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -40,10 +58,14 @@
             "useBoatHireCollisionDetection": true,
             "hasVehicleAnimation": true,
             "useDodgemCarPlacement": true,
-            "loadingPositions": [0]
+            "loadingPositions": [
+                0
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/TRICATOP.DAT[0..130]"],
+    "images": [
+        "$RCT2:OBJDATA/TRICATOP.DAT[0..130]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Triceratops Dodgems",
@@ -64,7 +86,8 @@
             "eo-ZZ": "Triceratopaj Aŭtetoj",
             "ca-ES": "Cotxes de xoc de triceràtops",
             "fi-FI": "Triceratops-törmäysautot",
-            "zh-CN": "三角龙闪击"
+            "zh-CN": "三角龙闪击",
+            "hu-HU": "Triceratopsz dodzsemek"
         },
         "description": {
             "en-GB": "Riders lock horns with each other in triceratops dodgems",
@@ -85,7 +108,8 @@
             "eo-ZZ": "Rajdantoj ŝlosas kornojn kun unu la alian en triceratopo-doĝemoj",
             "ca-ES": "Els passatgers xoquen contra les banyes d’altres cotxes decorats com a triceràtops.",
             "fi-FI": "Kävijät käyvät taistelua triceratops-törmäysautoissa",
-            "zh-CN": "乘客驾驶三角龙形状的碰碰车中互相碰撞与躲避"
+            "zh-CN": "乘客驾驶三角龙形状的碰碰车中互相碰撞与躲避",
+            "hu-HU": "Az utasok triceratopsz dodzsemekben akasztják össze a szarvaikat"
         },
         "capacity": {
             "en-GB": "1 person per car",
@@ -105,7 +129,8 @@
             "eo-ZZ": "Po 1 ulo por ĉaro",
             "ca-ES": "1 persona per cotxe",
             "fi-FI": "1 matkustaja per auto",
-            "zh-CN": "6位乘客/车"
+            "zh-CN": "6位乘客/车",
+            "hu-HU": "1 személy kocsinként"
         }
     }
 }

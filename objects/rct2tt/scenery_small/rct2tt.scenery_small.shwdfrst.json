@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.shwdfrst",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F921|SHWDFRST|EB2C1A0A",
     "sourceGame": "rct2tt",
@@ -16,7 +18,9 @@
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/SHWDFRST.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/SHWDFRST.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Forest Trees",
@@ -36,7 +40,8 @@
             "eo-ZZ": "Arboj de Arbaro",
             "ca-ES": "Arbres del bosc",
             "fi-FI": "Metsäpuut",
-            "zh-CN": "F果树"
+            "zh-CN": "F果树",
+            "hu-HU": "Erdei fák"
         }
     }
 }

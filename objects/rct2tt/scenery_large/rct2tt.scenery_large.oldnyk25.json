@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.oldnyk25",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F922|OLDNYK25|6A7FABD9",
     "sourceGame": "rct2tt",
@@ -27,17 +29,19 @@
                 "x": 32,
                 "y": 0,
                 "clearance": 8,
-                "walls": 8
+                "walls": 12
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 8,
-                "walls": 2
+                "walls": 6
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/OLDNYK25.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/OLDNYK25.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "New York Roof Piece",
@@ -57,7 +61,8 @@
             "eo-ZZ": "Novjorka Tegmentoparto",
             "ca-ES": "Part de teulada novaiorquesa",
             "fi-FI": "Newyorkilaisen katon osa",
-            "zh-CN": "纽约-屋顶"
+            "zh-CN": "纽约-屋顶",
+            "hu-HU": "New York-i tetőelem"
         }
     }
 }

@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.cavmncar",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F720|CAVMNCAR|52588A77",
     "sourceGame": "rct2tt",
@@ -10,38 +12,166 @@
         "category": "thrill",
         "carColours": [
             [
-                ["light_blue", "black", "black"],
-                ["bright_red", "black", "black"],
-                ["yellow", "black", "black"],
-                ["bright_green", "black", "black"],
-                ["black", "black", "black"],
-                ["light_purple", "black", "black"],
-                ["light_orange", "black", "black"],
-                ["aquamarine", "black", "black"],
-                ["dark_brown", "black", "black"],
-                ["white", "black", "black"],
-                ["bright_pink", "black", "black"],
-                ["dark_olive_green", "black", "black"],
-                ["bordeaux_red", "black", "black"],
-                ["dark_purple", "black", "black"],
-                ["bright_purple", "black", "black"],
-                ["light_pink", "black", "black"],
-                ["dark_blue", "black", "black"],
-                ["icy_blue", "black", "black"],
-                ["teal", "black", "black"],
-                ["saturated_green", "black", "black"],
-                ["dark_green", "black", "black"],
-                ["moss_green", "black", "black"],
-                ["olive_green", "black", "black"],
-                ["bright_yellow", "black", "black"],
-                ["dark_yellow", "black", "black"],
-                ["dark_orange", "black", "black"],
-                ["saturated_brown", "black", "black"],
-                ["salmon_pink", "black", "black"],
-                ["saturated_red", "black", "black"],
-                ["dark_pink", "black", "black"],
-                ["light_blue", "black", "black"],
-                ["bright_red", "black", "black"]
+                [
+                    "light_blue",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "bright_red",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "yellow",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "bright_green",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "black",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "light_purple",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "light_orange",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "aquamarine",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "dark_brown",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "white",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "bright_pink",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "dark_olive_green",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "bordeaux_red",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "dark_purple",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "bright_purple",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "light_pink",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "dark_blue",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "icy_blue",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "teal",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "saturated_green",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "dark_green",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "moss_green",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "olive_green",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "bright_yellow",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "dark_yellow",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "dark_orange",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "saturated_brown",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "salmon_pink",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "saturated_red",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "dark_pink",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "light_blue",
+                    "black",
+                    "yellow"
+                ],
+                [
+                    "bright_red",
+                    "black",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -63,14 +193,18 @@
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
             "isGoKart": true,
-            "loadingPositions": [-1]
+            "loadingPositions": [
+                -1
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/CAVMNCAR.DAT[0..210]"],
+    "images": [
+        "$RCT2:OBJDATA/CAVMNCAR.DAT[0..210]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Caveman Cars",
-            "fr-FR": "Voitures des hommes des cavernes",
+            "fr-FR": "Voiture des hommes des cavernes",
             "de-DE": "Höhlenmenschenwagen",
             "es-ES": "Coches cavernícolas",
             "it-IT": "Carrozze dei cavernicoli",
@@ -86,12 +220,13 @@
             "eo-ZZ": "Kavernhomo-Aŭtoj",
             "ca-ES": "Cotxes cavernícoles",
             "fi-FI": "Luolamiesautot",
-            "zh-CN": "洞穴人小车"
+            "zh-CN": "洞穴人小车",
+            "hu-HU": "Ősember kocsik"
         },
         "description": {
             "en-GB": "Self-drive go-karts in Stone Age style",
             "en-US": "Self-driven go-karts in Stone Age style",
-            "fr-FR": "Les passagers font la course à bord de karts préhistoriques",
+            "fr-FR": "Kart préhistorique",
             "de-DE": "Selbstbetriebene Go-Karts im Steinzeitstil",
             "es-ES": "Los usuarios compiten en los karts de la edad de piedra",
             "it-IT": "I passeggeri si sfidano su go-kart dell’Età della Pietra",
@@ -107,7 +242,8 @@
             "eo-ZZ": "Gokartoj kun Ŝtonepoka stilo",
             "ca-ES": "Karts que condueixen els usuaris de l’edat de pedra.",
             "fi-FI": "Itse ajettavat kivikauden tyyliset mikroautot",
-            "zh-CN": "石器时代风格的自驾卡丁车"
+            "zh-CN": "石器时代风格的自驾卡丁车",
+            "hu-HU": "Önvezető gokartok, kőkorszaki stílusban"
         },
         "capacity": {
             "en-GB": "Single-seater",
@@ -127,7 +263,8 @@
             "eo-ZZ": "Po 1 pasaĝero por aŭto",
             "ca-ES": "Monoplaça",
             "fi-FI": "Yksipaikkainen",
-            "zh-CN": "单人座"
+            "zh-CN": "单人座",
+            "hu-HU": "Együléses"
         }
     }
 }

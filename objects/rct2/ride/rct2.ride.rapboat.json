@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.rapboat",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|RAPBOAT |2271B2DD",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "river_rapids",
@@ -15,19 +21,39 @@
         "noCollisionCrashes": true,
         "carColours": [
             [
-                ["bright_red", "bright_red", "black"]
+                [
+                    "bright_red",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "light_blue", "black"]
+                [
+                    "light_blue",
+                    "light_blue",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "yellow", "black"]
+                [
+                    "yellow",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["bright_green", "bright_green", "black"]
+                [
+                    "bright_green",
+                    "bright_green",
+                    "black"
+                ]
             ],
             [
-                ["light_orange", "light_orange", "black"]
+                [
+                    "light_orange",
+                    "light_orange",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -53,15 +79,26 @@
             "isPowered": true,
             "hasScreamingRiders": true,
             "isWaterRide": true,
-            "loadingPositions": [4, -4, 4, -4, 4, -4, 4, -4]
+            "loadingPositions": [
+                4,
+                -4,
+                4,
+                -4,
+                4,
+                -4,
+                4,
+                -4
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/RAPBOAT.DAT[0..362]"],
+    "images": [
+        "$RCT2:OBJDATA/RAPBOAT.DAT[0..362]"
+    ],
     "strings": {
         "name": {
             "en-GB": "River Rapids Boats",
-            "fr-FR": "Rapides",
+            "fr-FR": "Bateau de rapides",
             "de-DE": "Stromschnellen-Boote",
             "es-ES": "Rápidos",
             "it-IT": "Rapide",
@@ -81,7 +118,7 @@
         },
         "description": {
             "en-GB": "Circular boats that turn and splash around as they meander along the river rapids",
-            "fr-FR": "Des bateaux de forme circulaire serpentent le long d’un large cours d’eau, puis dévalent des rapides et des chutes d’eau spectaculaires",
+            "fr-FR": "Bateau circulaire qui tournent et éclaboussent en serpentant dans des rapides",
             "de-DE": "Runde Boote, die drehend und platschend durch die Stromschnellen gleiten",
             "es-ES": "Botes circulares que corren por canales de agua salpicando",
             "it-IT": "Barche circolari si fanno strada lungo un largo canale d’acqua per poi tuffarsi dalle cascate e seguire un eccitante percorso fra le rapide",

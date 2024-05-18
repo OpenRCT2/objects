@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_wall.wallgl32",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F83|WALLGL32|872881D9",
     "sourceGame": "rct2",
@@ -15,7 +18,9 @@
         "price": 120,
         "sceneryGroup": "rct2.scenery_group.scgwalls"
     },
-    "images": ["$RCT2:OBJDATA/WALLGL32.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/WALLGL32.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Glass Wall",

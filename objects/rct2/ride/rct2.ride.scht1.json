@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.scht1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|SCHT1   |4862FCC8",
     "sourceGame": "rct2",
@@ -14,13 +17,25 @@
         "headCars": 0,
         "carColours": [
             [
-                ["bright_red", "bright_red", "yellow"]
+                [
+                    "bright_red",
+                    "bright_red",
+                    "yellow"
+                ]
             ],
             [
-                ["dark_green", "bright_red", "dark_green"]
+                [
+                    "dark_green",
+                    "bright_red",
+                    "dark_green"
+                ]
             ],
             [
-                ["light_blue", "white", "light_blue"]
+                [
+                    "light_blue",
+                    "white",
+                    "light_blue"
+                ]
             ]
         ],
         "cars": [
@@ -50,7 +65,12 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [5, 3, -7, -9]
+                "loadingPositions": [
+                    5,
+                    3,
+                    -7,
+                    -9
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -58,7 +78,7 @@
                 "mass": 525,
                 "numSeats": 4,
                 "numSeatRows": 2,
-                "frictionSoundId": 0,
+                "frictionSoundId": 2,
                 "soundRange": 0,
                 "drawOrder": 7,
                 "frames": {
@@ -77,16 +97,23 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    -3,
+                    -1
+                ]
             }
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/SCHT1.DAT[0..4322]"],
+    "images": [
+        "$RCT2:OBJDATA/SCHT1.DAT[0..4322]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Looping Roller Coaster Trains",
-            "fr-FR": "Trains de montagnes russes",
+            "fr-FR": "Train de montagnes russes looping",
             "de-DE": "Looping-Achterbahnzüge",
             "es-ES": "Trenes de Montaña Rusa",
             "it-IT": "Treni da ottovolante",
@@ -107,7 +134,7 @@
         "description": {
             "en-GB": "Roller coaster trains with lap bars capable of travelling through vertical loops",
             "en-US": "Roller coaster trains with lap bars capable of traveling through vertical loops",
-            "fr-FR": "Trains de montagnes russes avec des barres de protection au niveau des jambes et capables de passer dans des boucles verticales",
+            "fr-FR": "Train de montagnes russes avec des barres de protection au niveau des jambes et capable de passer dans des boucles verticales",
             "de-DE": "Achterbahnzüge mit Beckenhalterungen, die durch vertikale Schleifen fahren können",
             "es-ES": "Montaña rusa con barras de regazo capaz de rizos verticales",
             "it-IT": "Treni da ottovolante con barre al petto capaci di correre lungo giri della morte in verticale",

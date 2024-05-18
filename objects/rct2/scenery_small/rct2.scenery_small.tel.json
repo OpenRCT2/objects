@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.tel",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188D81|TEL     |D438EAFD",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 26,
@@ -13,7 +19,9 @@
         "isTree": true,
         "shape": "4/4"
     },
-    "images": ["$RCT2:OBJDATA/TEL.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TEL.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "European Larch Tree",

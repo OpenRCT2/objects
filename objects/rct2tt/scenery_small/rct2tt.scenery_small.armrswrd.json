@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.armrswrd",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F821|ARMRSWRD|3951D0D1",
     "sourceGame": "rct2tt",
@@ -17,7 +19,9 @@
         "isStackable": true,
         "prohibitWalls": true
     },
-    "images": ["$RCT2:OBJDATA/ARMRSWRD.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/ARMRSWRD.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Magical Sword",
@@ -37,7 +41,8 @@
             "eo-ZZ": "Magia Glavo",
             "ca-ES": "Espasa màgica",
             "fi-FI": "Taikamiekka",
-            "zh-CN": "魔法剑"
+            "zh-CN": "魔法剑",
+            "hu-HU": "Varázskard"
         }
     }
 }

@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.hovrbord",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA20|HOVRBORD|28FAF04B",
     "sourceGame": "rct2tt",
@@ -10,13 +12,25 @@
         "category": "rollercoaster",
         "carColours": [
             [
-                ["black", "light_orange", "black"]
+                [
+                    "black",
+                    "light_orange",
+                    "yellow"
+                ]
             ],
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "yellow"
+                ]
             ],
             [
-                ["dark_green", "bright_red", "black"]
+                [
+                    "dark_green",
+                    "bright_red",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -29,18 +43,63 @@
             "frictionSoundId": 2,
             "soundRange": 0,
             "drawOrder": 2,
-            "frames": {
-                "flat": true,
-                "gentleSlopes": true,
-                "diagonalSlopes": true
+            "spriteGroups": {
+                "slopeFlat": 32,
+                "slopes12": 4,
+                "slopes25": 32,
+                "slopes8": 4,
+                "slopes16": 4
             },
             "hasAdditionalColour1": true,
             "hasSwinging": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [3, -3]
+            "loadingPositions": [
+                3,
+                -3
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/HOVRBORD.DAT[0..1282]"],
+    "images": [
+        "$RCT2:OBJDATA/HOVRBORD.DAT[0]",
+        "",
+        "",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[3..537]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[543..546]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[542]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[548..552]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[558..560]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[556..557]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[563..572]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[578..581]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[577]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[583..587]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[593..595]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[591..592]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[598..607]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[613..616]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[612]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[618..622]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[628]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[624..627]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[643..1177]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1183..1186]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1182]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1188..1192]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1198..1200]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1196..1197]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1203..1212]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1218..1221]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1217]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1223..1227]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1233..1235]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1231..1232]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1238..1247]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1253..1256]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1252]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1258..1262]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1268]",
+        "$RCT2:OBJDATA/HOVRBORD.DAT[1264..1267]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Hoverboards",
@@ -61,7 +120,8 @@
             "eo-ZZ": "Flugpendantaj Platoj",
             "ca-ES": "Taules planadores",
             "fi-FI": "Liitolaudat",
-            "zh-CN": "浮空板"
+            "zh-CN": "浮空板",
+            "hu-HU": "Légdeszkák"
         },
         "description": {
             "en-GB": "Guests ride on a futuristic hoverboard, swinging freely from side to side around corners",
@@ -81,7 +141,8 @@
             "eo-ZZ": "Gastoj rajdas sur estonteca flugpendanta plato, kaj svingiĝas libere ĉirkaŭ anguloj",
             "ca-ES": "Els passatgers munten en una taula planadora, balancejant-se de costat a costat quan passa per les corbes.",
             "fi-FI": "Matkustajat kulkevat futuristisilla liitolaudoilla, vapaasti heilahtaen käänteissä",
-            "zh-CN": "乘客乘坐未来主义的悬浮滑板在拐角处左右自由摆动"
+            "zh-CN": "乘客乘坐未来主义的悬浮滑板在拐角处左右自由摆动",
+            "hu-HU": "A vendégek futurisztikus légdeszkákon utaznak, szabadon lengve ide-oda a kanyarokban"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -101,7 +162,8 @@
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
-            "zh-CN": "2位乘客/车"
+            "zh-CN": "2位乘客/车",
+            "hu-HU": "2 utas kocsinként"
         }
     }
 }

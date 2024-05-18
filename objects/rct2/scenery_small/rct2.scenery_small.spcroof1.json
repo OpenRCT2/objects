@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_small.spcroof1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188D81|SPCROOF1|A26A6E72",
     "sourceGame": "rct2",
@@ -19,7 +22,9 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/SPCROOF1.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/SPCROOF1.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Roof",
@@ -39,7 +44,9 @@
             "ru-RU": "Блок",
             "eo-ZZ": "Tegmento",
             "ca-ES": "Teulada",
-            "fi-FI": "Katto"
+            "fi-FI": "Katto",
+            "hu-HU": "Tető",
+            "uk-UA": "Дах"
         }
     }
 }

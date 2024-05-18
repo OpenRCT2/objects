@@ -1,6 +1,9 @@
 {
     "id": "rct2.footpath_surface.ash",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "rct2",
     "objectType": "footpath_surface",
@@ -11,13 +14,13 @@
     "strings": {
         "name": {
             "en-GB": "Ash Footpath (Rounded)",
-            "fr-FR": "Allée en bois",
+            "fr-FR": "Allée en cendres (arrondie)",
             "de-DE": "Aschefußweg (rund)",
             "es-ES": "Sendero de ceniza",
             "it-IT": "Sentiero di cenere",
             "nl-NL": "Sintelpad (afgeronde hoeken)",
             "sv-SE": "Gångväg av aska",
-            "ko-KR": "잿더미 보도",
+            "ko-KR": "잿더미 보도 (둥근 모서리)",
             "zh-CN": "梣木步道",
             "zh-TW": "梣木步道",
             "pt-BR": "Caminho de Cascalho",
@@ -26,7 +29,8 @@
             "pl-PL": "Dróżka żwirowa",
             "ru-RU": "Гравий",
             "ar-EG": "ممشي رماد",
-            "eo-ZZ": "Trotuaro el Cindropovo (Rondigita)"
+            "eo-ZZ": "Trotuaro el Cindropovo (Rondigita)",
+            "ca-ES": "Camí de cendra (arrodonit)"
         }
     }
 }

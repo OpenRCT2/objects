@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_wall.wwtwa",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188083|WWTWA   |94A393D0",
     "sourceGame": "rct2",
@@ -10,7 +13,9 @@
         "price": 60,
         "sceneryGroup": "rct2.scenery_group.scgwalls"
     },
-    "images": ["$RCT2:OBJDATA/WWTWA.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/WWTWA.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Wooden Fence Wall",

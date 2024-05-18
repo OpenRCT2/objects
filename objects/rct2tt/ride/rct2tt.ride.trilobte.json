@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.trilobte",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F720|TRILOBTE|4F91E524",
     "sourceGame": "rct2tt",
@@ -20,13 +22,11 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["dark_brown", "bright_red", "black"]
-            ],
-            [
-                ["grey", "dark_brown", "black"]
-            ],
-            [
-                ["saturated_brown", "dark_green", "black"]
+                [
+                    "black",
+                    "bright_pink",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -50,7 +50,14 @@
                     "diagonalGentleSlopeBankedTransitions": true
                 },
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, 2, 4, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    2,
+                    4,
+                    -3,
+                    -1
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -60,17 +67,20 @@
                 "carVisual": 8,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "hasScreamingRiders": true
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/TRILOBTE.DAT[0..1730]", ""],
+    "images": [
+        "$RCT2:OBJDATA/TRILOBTE.DAT[0..1730]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Trilobite Boats",
-            "fr-FR": "Bateaux trilobites",
+            "fr-FR": "Bateau trilobite",
             "de-DE": "Trilobitenboote",
             "es-ES": "Botes trilobite",
             "it-IT": "Navi trilobiti",
@@ -86,11 +96,12 @@
             "eo-ZZ": "Trilobita-Boatoj",
             "ca-ES": "Bots trilobita",
             "fi-FI": "Trilobiittiveneet",
-            "zh-CN": "三叶虫船"
+            "zh-CN": "三叶虫船",
+            "hu-HU": "Trilobita csónakok"
         },
         "description": {
             "en-GB": "Trilobite-shaped roller coaster cars",
-            "fr-FR": "Les voitures en forme de trilobites dévalent une voie en zigzag qui descend à toute vitesse dans l’eau, éclaboussant allègrement les passagers avant de traverser des passages en eau calme",
+            "fr-FR": "Voiture en forme de trilobite",
             "de-DE": "Achterbahnwagen in der Form von Trilobiten",
             "es-ES": "Los vagones con forma de trilobite se desplazan por una montaña rusa de giros cerrados y pronunciadas caídas, pasando por zonas de agua de un río tranquilo.",
             "it-IT": "Carrozze a forma di trilobite viaggiano lungo l’ottovolante, caratterizzato da ripide discese, curve avvitate e tuffi in sezioni acquatiche più tranquille.",
@@ -106,7 +117,8 @@
             "eo-ZZ": "Trilobitformaj ĉaroj de onda fervojo",
             "ca-ES": "Cotxes de muntanya russa en forma de trilobita.",
             "fi-FI": "Trilobiitin muotoiset vuoristoratavaunut",
-            "zh-CN": "三叶虫形状的过山车车厢"
+            "zh-CN": "三叶虫形状的过山车车厢",
+            "hu-HU": "Trilobita formájú hullámvasútkocsik"
         },
         "capacity": {
             "en-GB": "6 passengers per boat",
@@ -126,7 +138,8 @@
             "eo-ZZ": "Po 6 pasaĝeroj por boato",
             "ca-ES": "6 passatgers per bot",
             "fi-FI": "6 matkustajaa per vene",
-            "zh-CN": "6位乘客/船"
+            "zh-CN": "6位乘客/船",
+            "hu-HU": "6 utas csónakonként"
         }
     }
 }

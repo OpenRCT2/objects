@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_large.nitroent",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C82|NITROENT|EC20D1C3",
     "sourceGame": "rct2",
@@ -27,11 +30,13 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/NITROENT.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/NITROENT.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "‘Nitro’ Sign",
-            "fr-FR": "Panneau ‘Nitro’",
+            "fr-FR": "Panneau « Nitro »",
             "de-DE": "„Nitro“-Schild",
             "es-ES": "Señal de nitro",
             "it-IT": "Insegna della ‘Nitro’",
@@ -48,7 +53,8 @@
             "eo-ZZ": "‘Nitro’ Afiŝo",
             "ca-ES": "Senyal «Nitro»",
             "fi-FI": "”Nitro”-kyltti",
-            "tr-TR": "‘Nitro’ Sign"
+            "tr-TR": "‘Nitro’ Sign",
+            "ar-EG": "علامة نيترو"
         }
     }
 }

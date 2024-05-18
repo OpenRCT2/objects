@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.wonton",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C80|WONTON  |81A2D3DE",
     "sourceGame": "rct2",
@@ -14,11 +17,17 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["black", "black", "black"]
+                [
+                    "black",
+                    "black",
+                    "black"
+                ]
             ]
         ]
     },
-    "images": ["$RCT2:OBJDATA/WONTON.DAT[0..6]"],
+    "images": [
+        "$RCT2:OBJDATA/WONTON.DAT[0..6]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Wonton Soup Stall",
@@ -42,7 +51,7 @@
         },
         "description": {
             "en-GB": "A stall selling Wonton Soup",
-            "fr-FR": "Boutique vendant des bouillons",
+            "fr-FR": "Boutique vendant des soupes aux raviolis",
             "de-DE": "Ein Stand, an dem Wonton-Suppe verkauft wird",
             "es-ES": "Un puesto que vende sopa wonton",
             "it-IT": "Un chiosco che vende zuppa di wonton",

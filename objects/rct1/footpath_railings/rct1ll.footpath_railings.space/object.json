@@ -1,6 +1,9 @@
 {
     "id": "rct1ll.footpath_railings.space",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "rct1ll",
     "objectType": "footpath_railings",
@@ -22,7 +25,11 @@
             "en-US": "Space Style Railings (Gray)",
             "de-DE": "Weltraumstilgeländer (grau)",
             "nl-NL": "Ruimte-ondersteuningen (grijs)",
-            "eo-ZZ": "Kosmo-Stilaj Balustradoj (Griza)"
+            "eo-ZZ": "Kosmo-Stilaj Balustradoj (Griza)",
+            "ca-ES": "Baranes d’estil espacial (grises)",
+            "fr-FR": "Rambardes spatiales (grises)",
+            "ko-KR": "우주 스타일 울타리 (회색)",
+            "pt-BR": "Grades Estilo Espaço (Cinza)"
         }
     }
 }

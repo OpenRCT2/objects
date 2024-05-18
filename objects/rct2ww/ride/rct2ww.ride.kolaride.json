@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.kolaride",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0E10|KOLARIDE|53611988",
     "sourceGame": "rct2ww",
@@ -12,13 +14,25 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["bright_red", "grey", "light_purple"]
+                [
+                    "bright_red",
+                    "grey",
+                    "light_purple"
+                ]
             ],
             [
-                ["yellow", "bordeaux_red", "bordeaux_red"]
+                [
+                    "yellow",
+                    "bordeaux_red",
+                    "bordeaux_red"
+                ]
             ],
             [
-                ["bright_purple", "yellow", "yellow"]
+                [
+                    "bright_purple",
+                    "yellow",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -40,10 +54,21 @@
             "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [7, 5, 2, 0, -5, -7, -6, 1]
+            "loadingPositions": [
+                7,
+                5,
+                2,
+                0,
+                -5,
+                -7,
+                -6,
+                1
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/KOLARIDE.DAT[0..1562]"],
+    "images": [
+        "$RCT2:OBJDATA/KOLARIDE.DAT[0..1562]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Koala Car",
@@ -66,7 +91,7 @@
         },
         "description": {
             "en-GB": "Large koala-shaped coaster car for the Reverse Freefall Coaster",
-            "fr-FR": "Voiture destinée à la Chute libre renversée",
+            "fr-FR": "Grande voiture en forme de koala destinée à la chute libre renversée",
             "de-DE": "Großer koalaförmiger Wagen für die umgekehrte Freefall-Bahn",
             "es-ES": "Gran vagón para la montaña rusa invertida de caída libre",
             "it-IT": "Usa le grandi carrozze dell’ottovolante invertito a caduta libera",

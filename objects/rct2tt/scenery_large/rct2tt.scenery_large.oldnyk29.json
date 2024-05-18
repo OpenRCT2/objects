@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.oldnyk29",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F922|OLDNYK29|73C97494",
     "sourceGame": "rct2tt",
@@ -24,25 +26,25 @@
                 "x": 0,
                 "y": 32,
                 "clearance": 112,
-                "walls": 3
+                "walls": 1
             },
             {
                 "x": 0,
                 "y": 64,
                 "clearance": 112,
-                "walls": 2
+                "walls": 3
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 112,
-                "walls": 9
+                "walls": 8
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 112,
-                "walls": 3
+                "walls": 0
             },
             {
                 "x": 32,
@@ -54,23 +56,25 @@
                 "x": 64,
                 "y": 0,
                 "clearance": 112,
-                "walls": 9
+                "walls": 12
             },
             {
                 "x": 64,
                 "y": 32,
                 "clearance": 112,
-                "walls": 3
+                "walls": 4
             },
             {
                 "x": 64,
                 "y": 64,
                 "clearance": 112,
-                "walls": 2
+                "walls": 6
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/OLDNYK29.DAT[0..39]"],
+    "images": [
+        "$RCT2:OBJDATA/OLDNYK29.DAT[0..39]"
+    ],
     "strings": {
         "name": {
             "en-GB": "New York Wall Piece",
@@ -90,7 +94,8 @@
             "eo-ZZ": "Novjorka Muroparto",
             "ca-ES": "Part de paret novaiorquesa",
             "fi-FI": "Newyorkilaisen seinän osa",
-            "zh-CN": "纽约-墙"
+            "zh-CN": "纽约-墙",
+            "hu-HU": "New York-i falelem"
         }
     }
 }

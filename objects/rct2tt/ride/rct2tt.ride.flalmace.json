@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.flalmace",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F820|FLALMACE|D18A4C96",
     "sourceGame": "rct2tt",
@@ -18,16 +20,32 @@
         },
         "carColours": [
             [
-                ["light_blue", "yellow", "black"]
+                [
+                    "light_blue",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["dark_green", "yellow", "black"]
+                [
+                    "dark_green",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["bright_red", "white", "black"]
+                [
+                    "bright_red",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["black", "bright_red", "black"]
+                [
+                    "black",
+                    "bright_red",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -46,89 +64,235 @@
             "numSegments": 0,
             "loadingWaypoints": [
                 [
-                    [40, 0],
-                    [0, 0],
-                    [0, 0]
+                    [
+                        40,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
                 ],
                 [
-                    [0, -40],
-                    [0, 0],
-                    [0, 0]
+                    [
+                        0,
+                        -40
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
                 ],
                 [
-                    [-40, 0],
-                    [0, 0],
-                    [0, 0]
+                    [
+                        -40,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
                 ],
                 [
-                    [0, 40],
-                    [0, 0],
-                    [0, 0]
+                    [
+                        0,
+                        40
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
                 ],
                 [
-                    [40, 0],
-                    [0, 0],
-                    [0, 0]
+                    [
+                        40,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
                 ],
                 [
-                    [0, -40],
-                    [0, 0],
-                    [0, 0]
+                    [
+                        0,
+                        -40
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
                 ],
                 [
-                    [-40, 0],
-                    [0, 0],
-                    [0, 0]
+                    [
+                        -40,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
                 ],
                 [
-                    [0, 40],
-                    [0, 0],
-                    [0, 0]
+                    [
+                        0,
+                        40
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
                 ],
                 [
-                    [40, 0],
-                    [0, 0],
-                    [0, 0]
+                    [
+                        40,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
                 ],
                 [
-                    [0, -40],
-                    [0, 0],
-                    [0, 0]
+                    [
+                        0,
+                        -40
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
                 ],
                 [
-                    [-40, 0],
-                    [0, 0],
-                    [0, 0]
+                    [
+                        -40,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
                 ],
                 [
-                    [0, 40],
-                    [0, 0],
-                    [0, 0]
+                    [
+                        0,
+                        40
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
                 ],
                 [
-                    [40, 0],
-                    [0, 0],
-                    [0, 0]
+                    [
+                        40,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
                 ],
                 [
-                    [0, -40],
-                    [0, 0],
-                    [0, 0]
+                    [
+                        0,
+                        -40
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
                 ],
                 [
-                    [-40, 0],
-                    [0, 0],
-                    [0, 0]
+                    [
+                        -40,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
                 ],
                 [
-                    [0, 40],
-                    [0, 0],
-                    [0, 0]
+                    [
+                        0,
+                        40
+                    ],
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
                 ]
             ]
         }
     },
-    "images": ["$RCT2:OBJDATA/FLALMACE.DAT[0..706]"],
+    "images": [
+        "$RCT2:OBJDATA/FLALMACE.DAT[0..706]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Mace Ride",
@@ -148,11 +312,12 @@
             "eo-ZZ": "Klabo-Atrakcio",
             "ca-ES": "Viatge de la maça",
             "fi-FI": "Nuijalaite",
-            "zh-CN": "权之宝杖"
+            "zh-CN": "权之宝杖",
+            "hu-HU": "Buzogány játék"
         },
         "description": {
             "en-GB": "Riders sit on a themed chair which is attached to a motor driven spinning arm.",
-            "fr-FR": "Les passagers sont assis sur un siège thématique attaché à un bras articulé motorisé.",
+            "fr-FR": "Les passagers sont assis sur un siège thématique attaché à un bras articulé motorisé",
             "de-DE": "Die Fahrgäste sitzen auf einem thematisch gestalteten Sessel, der an einem motorbetriebenen Dreharm befestigt ist",
             "es-ES": "Los usuarios se sientan en un asiento ambientado en la época que está unido a un brazo giratorio.",
             "it-IT": "I passeggeri siedono su un sedile speciale, collegato a un braccio rotante controllato da un motore.",
@@ -168,7 +333,8 @@
             "eo-ZZ": "Rajdantoj sidas sur temita seĝo, kiu estas fiksita al turniĝanta brako, kiun motoro gvidas.",
             "ca-ES": "Els visitants seuen en una cadira tematitzada unida a un braç rotatori.",
             "fi-FI": "Kävijät istuvat teematussa istuimessa, joka pyörii moottoroidun tolpan ympärillä",
-            "zh-CN": "乘客坐在主题椅子上，椅子上连接着电机驱动的旋转臂。"
+            "zh-CN": "乘客坐在主题椅子上，椅子上连接着电机驱动的旋转臂。",
+            "hu-HU": "Az utasok egy tematikus széken ülnek, amely egy motorral hajtott forgó karhoz van rögzítve."
         },
         "capacity": {
             "en-GB": "1 guest per chair",
@@ -188,7 +354,8 @@
             "eo-ZZ": "Po 1 gasto por seĝo",
             "ca-ES": "1 persona per cadira",
             "fi-FI": "1 matkustaja per istuin",
-            "zh-CN": "1位乘客/座位"
+            "zh-CN": "1位乘客/座位",
+            "hu-HU": "1 vendég székenként"
         }
     }
 }

@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.hrbwal07",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA22|HRBWAL07|D22AA6C7",
     "sourceGame": "rct2tt",
@@ -27,21 +29,23 @@
                 "x": 32,
                 "y": 0,
                 "clearance": 96,
-                "walls": 8
+                "walls": 12
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 96,
-                "walls": 2
+                "walls": 6
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/HRBWAL07.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/HRBWAL07.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Harbour Wall Corner Piece",
-            "fr-FR": "Section de virage du mur du port",
+            "fr-FR": "Coin du mur du port",
             "de-DE": "Hafenmauer-Eckstück",
             "es-ES": "Sección de esquina de muro del puerto",
             "it-IT": "Tratto di curva del muro del porto",

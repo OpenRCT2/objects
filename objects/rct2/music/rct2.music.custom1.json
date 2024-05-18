@@ -1,9 +1,14 @@
 {
     "id": "rct2.music.custom1",
-    "authors": [],
+    "authors": [
+    ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC23|00000000",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
+    "isCompatibilityObject": true,
     "objectType": "music",
     "properties": {
         "originalStyleId": 23,
@@ -16,14 +21,14 @@
     },
     "strings": {
         "name": {
-            "en-GB": "Custom music 1",
+            "en-GB": "Legacy custom music 1",
             "ca-ES": "Peça personalitzada 1",
             "cs-CZ": "Vlastní hudba 1",
             "da-DK": "Valgfrit musik 1",
             "de-DE": "Eigene Musik 1",
-            "es-ES": "Música personalizada 1",
-            "fr-FR": "Musique perso 1",
-            "hu-HU": "Egyedi stílus 1",
+            "es-ES": "Música personalizada 1 (legacy)",
+            "fr-FR": "Ancienne musique perso 1",
+            "hu-HU": "Régi egyedi stílus 1",
             "it-IT": "Musica personalizzata 1",
             "ja-JP": "カスタム・スタイル １番",
             "ko-KR": "사용자 음악 1",
@@ -36,7 +41,8 @@
             "zh-CN": "自定义音乐1",
             "zh-TW": "自訂音樂1",
             "eo-ZZ": "Propra muziko 1",
-            "fi-FI": "Mukautettu musiikki 1"
+            "fi-FI": "Mukautettu musiikki 1",
+            "nb-NO": "Legacy egendefinert musikk 1"
         }
     }
 }

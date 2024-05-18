@@ -1,9 +1,14 @@
 {
     "id": "rct2.music.pirate",
-    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC30|00000000",
-    "sourceGame": ["rct2"],
+    "sourceGame": [
+        "rct2"
+    ],
     "objectType": "music",
     "properties": {
         "originalStyleId": 30,
@@ -37,7 +42,8 @@
             "tr-TR": "Korsan tarzı",
             "zh-CN": "海盗风格",
             "zh-TW": "海盜風格",
-            "eo-ZZ": "Pirato-stilo"
+            "eo-ZZ": "Pirato-stilo",
+            "nb-NO": "Pirat-stil"
         }
     }
 }

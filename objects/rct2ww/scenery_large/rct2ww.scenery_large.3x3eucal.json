@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.3x3eucal",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0E12|3X3EUCAL|499431B5",
     "sourceGame": "rct2ww",
@@ -23,25 +25,25 @@
                 "x": 0,
                 "y": 32,
                 "clearance": 200,
-                "walls": 3
+                "walls": 1
             },
             {
                 "x": 0,
                 "y": 64,
                 "clearance": 200,
-                "walls": 2
+                "walls": 3
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 200,
-                "walls": 9
+                "walls": 8
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 200,
-                "walls": 3
+                "walls": 0
             },
             {
                 "x": 32,
@@ -53,23 +55,25 @@
                 "x": 64,
                 "y": 0,
                 "clearance": 200,
-                "walls": 9
+                "walls": 12
             },
             {
                 "x": 64,
                 "y": 32,
                 "clearance": 200,
-                "walls": 3
+                "walls": 4
             },
             {
                 "x": 64,
                 "y": 64,
                 "clearance": 200,
-                "walls": 2
+                "walls": 6
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/3X3EUCAL.DAT[0..39]"],
+    "images": [
+        "$RCT2:OBJDATA/3X3EUCAL.DAT[0..39]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Eucalyptus Tree",

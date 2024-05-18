@@ -1,14 +1,18 @@
 {
-  "id": "openrct2.footpath_surface.queue_invisible",
-  "authors": ["OpenRCT2 developers"],
-  "version": "1.0",
-  "sourceGame": ["official"],
-  "objectType": "footpath_surface",
-  "properties": {
-    "isQueue": true
-  },
-  "images": [
-     {
+    "id": "openrct2.footpath_surface.queue_invisible",
+    "authors": [
+        "OpenRCT2 developers"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "official"
+    ],
+    "objectType": "footpath_surface",
+    "properties": {
+        "isQueue": true
+    },
+    "images": [
+        {
             "path": "queue_invisible_preview.png",
             "srcX": 0,
             "srcY": 0,
@@ -16,14 +20,40 @@
             "srcHeight": 34,
             "x": 1,
             "y": 1
-        }, "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
-  ],
-  "strings": {
-    "name": {
-      "en-GB": "Invisible Queue",
-      "de-DE": "Unsichtbare Warteschlange",
-      "nl-NL": "Onzichtbare wachtrij",
-      "eo-ZZ": "Nevidebla Atendovico"
+        },
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Invisible Queue",
+            "de-DE": "Unsichtbare Warteschlange",
+            "nl-NL": "Onzichtbare wachtrij",
+            "eo-ZZ": "Nevidebla Atendovico",
+            "ar-EG": "طابور إنتظار غير مرئي",
+            "ca-ES": "Cua invisible",
+            "fr-FR": "File d’attente invisible",
+            "hu-HU": "Láthatatlan várósor",
+            "ko-KR": "투명 대기줄",
+            "pt-BR": "Fila Invisível"
+        }
     }
-  }
 }

@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.slct",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|SLCT    |702E2F19",
     "sourceGame": "rct2",
@@ -13,13 +16,25 @@
         "maxCarsPerTrain": 8,
         "carColours": [
             [
-                ["yellow", "black", "bright_red"]
+                [
+                    "yellow",
+                    "black",
+                    "bright_red"
+                ]
             ],
             [
-                ["black", "bright_red", "bright_red"]
+                [
+                    "black",
+                    "bright_red",
+                    "bright_red"
+                ]
             ],
             [
-                ["dark_green", "yellow", "yellow"]
+                [
+                    "dark_green",
+                    "yellow",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -48,15 +63,20 @@
             "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [1, 3]
+            "loadingPositions": [
+                1,
+                3
+            ]
         },
         "buildMenuPriority": 3
     },
-    "images": ["$RCT2:OBJDATA/SLCT.DAT[0..1362]"],
+    "images": [
+        "$RCT2:OBJDATA/SLCT.DAT[0..1362]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Compact Inverted Coaster Trains",
-            "fr-FR": "Montagnes compactes inversées",
+            "fr-FR": "Train de montagnes compactes inversées",
             "de-DE": "Kompakte umgekehrte Bahnzüge",
             "es-ES": "Montaña Rusa Compacta",
             "it-IT": "Ottovolante invertito compatto",
@@ -76,7 +96,7 @@
         },
         "description": {
             "en-GB": "Riders sit in pairs of seats suspended beneath the track",
-            "fr-FR": "Les passagers sont assis par deux, suspendus à la voie tandis qu’ils zigzaguent et sont chahutés lors d’inversions serrées",
+            "fr-FR": "Les passagers sont assis par deux, suspendus à la voie",
             "de-DE": "Die Fahrgäste hängen in Sitzpaaren unterhalb der Strecke",
             "es-ES": "Los pasajeros se sientan en parejas atravesando rizos e inversiones",
             "it-IT": "I passeggeri siedono in coppia sospesi al tracciato e affrontano giri della morte, curve e improvvise inversioni",

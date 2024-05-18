@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.metoan02",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F722|METOAN02|2357B56E",
     "sourceGame": "rct2tt",
@@ -16,21 +18,23 @@
                 "x": 0,
                 "y": 0,
                 "clearance": 90,
-                "walls": 9
+                "walls": 11
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 90,
-                "walls": 3
+                "walls": 14
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/METOAN02.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/METOAN02.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Meteor Crater Inverted Corner",
-            "fr-FR": "Virage de cratère météoritique inversé",
+            "fr-FR": "Coin inversé de cratère météoritique",
             "de-DE": "Umgedrehte Meteoritenkrater-Ecke",
             "es-ES": "Esquina inversa de cráter de meteorito",
             "it-IT": "Curva invertita del cratere meteoritico",

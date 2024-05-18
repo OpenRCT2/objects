@@ -1,6 +1,9 @@
 {
     "id": "rct2.footpath_surface.queue_red",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "rct2",
     "objectType": "footpath_surface",
@@ -17,7 +20,11 @@
             "en-GB": "Red Queue (Stairs)",
             "de-DE": "Rote Warteschlange (Treppe)",
             "nl-NL": "Rode wachtrij (met trappen)",
-            "eo-ZZ": "Ruĝa Atendovico (Ŝtuparo)"
+            "eo-ZZ": "Ruĝa Atendovico (Ŝtuparo)",
+            "ca-ES": "Cua vermella (amb escales)",
+            "fr-FR": "File d’attente rouge (escaliers)",
+            "ko-KR": "빨간색 대기줄 (계단)",
+            "pt-BR": "Fila Vermelha (Escadas)"
         }
     }
 }

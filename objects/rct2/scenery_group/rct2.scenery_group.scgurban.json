@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_group.scgurban",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F87|SCGURBAN|B7B8C7C2",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "scenery_group",
     "properties": {
         "entries": [
@@ -20,11 +26,13 @@
         ],
         "priority": 33
     },
-    "images": ["$RCT2:OBJDATA/SCGURBAN.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGURBAN.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Urban Theming",
-            "fr-FR": "Thème Urbain",
+            "fr-FR": "Thème urbain",
             "de-DE": "Stadtthema",
             "es-ES": "Temática urbana",
             "it-IT": "Tema urbano",

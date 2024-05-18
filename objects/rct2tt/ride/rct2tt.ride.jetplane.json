@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.jetplane",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA20|JETPLANE|27A7754A",
     "sourceGame": "rct2tt",
@@ -10,38 +12,166 @@
         "category": "rollercoaster",
         "carColours": [
             [
-                ["olive_green", "saturated_brown", "bright_red"],
-                ["bordeaux_red", "saturated_brown", "bright_red"],
-                ["light_purple", "saturated_brown", "bright_red"],
-                ["black", "saturated_brown", "bright_red"],
-                ["salmon_pink", "saturated_brown", "bright_red"],
-                ["light_blue", "saturated_brown", "bright_red"],
-                ["light_pink", "saturated_brown", "bright_red"],
-                ["yellow", "saturated_brown", "bright_red"],
-                ["olive_green", "saturated_brown", "bright_red"],
-                ["bordeaux_red", "saturated_brown", "bright_red"],
-                ["light_purple", "saturated_brown", "bright_red"],
-                ["black", "saturated_brown", "bright_red"],
-                ["salmon_pink", "saturated_brown", "bright_red"],
-                ["light_blue", "saturated_brown", "bright_red"],
-                ["light_pink", "saturated_brown", "bright_red"],
-                ["yellow", "saturated_brown", "bright_red"],
-                ["olive_green", "saturated_brown", "bright_red"],
-                ["bordeaux_red", "saturated_brown", "bright_red"],
-                ["light_purple", "saturated_brown", "bright_red"],
-                ["black", "saturated_brown", "bright_red"],
-                ["salmon_pink", "saturated_brown", "bright_red"],
-                ["light_blue", "saturated_brown", "bright_red"],
-                ["light_pink", "saturated_brown", "bright_red"],
-                ["yellow", "saturated_brown", "bright_red"],
-                ["olive_green", "saturated_brown", "bright_red"],
-                ["bordeaux_red", "saturated_brown", "bright_red"],
-                ["light_purple", "saturated_brown", "bright_red"],
-                ["black", "saturated_brown", "bright_red"],
-                ["salmon_pink", "saturated_brown", "bright_red"],
-                ["light_blue", "saturated_brown", "bright_red"],
-                ["light_pink", "saturated_brown", "bright_red"],
-                ["yellow", "saturated_brown", "bright_red"]
+                [
+                    "olive_green",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "bordeaux_red",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "light_purple",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "black",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "salmon_pink",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "light_blue",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "light_pink",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "yellow",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "olive_green",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "bordeaux_red",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "light_purple",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "black",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "salmon_pink",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "light_blue",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "light_pink",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "yellow",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "olive_green",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "bordeaux_red",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "light_purple",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "black",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "salmon_pink",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "light_blue",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "light_pink",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "yellow",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "olive_green",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "bordeaux_red",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "light_purple",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "black",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "salmon_pink",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "light_blue",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "light_pink",
+                    "saturated_brown",
+                    "yellow"
+                ],
+                [
+                    "yellow",
+                    "saturated_brown",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -68,10 +198,17 @@
             },
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [5, 3, -5, -3]
+            "loadingPositions": [
+                5,
+                3,
+                -5,
+                -3
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/JETPLANE.DAT[0..1814]"],
+    "images": [
+        "$RCT2:OBJDATA/JETPLANE.DAT[0..1814]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Jet Plane Cars",
@@ -92,11 +229,12 @@
             "eo-ZZ": "Aeroplano-Ĉaroj",
             "ca-ES": "Avions a reacció",
             "fi-FI": "Suihkukonevaunut",
-            "zh-CN": "喷气式飞机过山车"
+            "zh-CN": "喷气式飞机过山车",
+            "hu-HU": "Sugárhajtású repülő kocsik"
         },
         "description": {
             "en-GB": "Roller coaster cars in the shape of jet planes",
-            "fr-FR": "Des voitures individuelles descendent des pentes régulières en virage",
+            "fr-FR": "Voiture en forme d’avion",
             "de-DE": "Achterbahnwagen in der Form von Düsenflugzeugen",
             "es-ES": "Una montaña rusa compacta con vagones individuales y suaves caídas en espiral.",
             "it-IT": "Un ottovolante compatto con carrozze individuali e rapide curve in discesa.",
@@ -112,7 +250,8 @@
             "eo-ZZ": "Ĉaroj de onda fervojo formitaj kiel aeroplanoj",
             "ca-ES": "Cotxes de muntanya russa en forma d’avions a reacció.",
             "fi-FI": "Suihkukoneen muotoiset vuoristoratavaunut",
-            "zh-CN": "喷气式飞机样式的过山车"
+            "zh-CN": "喷气式飞机样式的过山车",
+            "hu-HU": "Sugárhajtású repülő alakú hullámvasútkocsik"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -132,7 +271,8 @@
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
-            "zh-CN": "4位乘客/车"
+            "zh-CN": "4位乘客/车",
+            "hu-HU": "4 utas kocsinként"
         }
     }
 }

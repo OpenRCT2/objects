@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.lfb1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|LFB1    |202DF350",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "log_flume",
@@ -12,7 +18,11 @@
         "noCollisionCrashes": true,
         "carColours": [
             [
-                ["dark_brown", "black", "black"]
+                [
+                    "dark_brown",
+                    "black",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -35,7 +45,12 @@
                 "isPowered": true,
                 "hasScreamingRiders": true,
                 "isWaterRide": true,
-                "loadingPositions": [6, 4, -7, -9]
+                "loadingPositions": [
+                    6,
+                    4,
+                    -7,
+                    -9
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -55,16 +70,23 @@
                 "isPowered": true,
                 "hasScreamingRiders": true,
                 "isWaterRide": true,
-                "loadingPositions": [6, 4, -7, -9]
+                "loadingPositions": [
+                    6,
+                    4,
+                    -7,
+                    -9
+                ]
             }
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/LFB1.DAT[0..626]"],
+    "images": [
+        "$RCT2:OBJDATA/LFB1.DAT[0..626]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Logs",
-            "fr-FR": "Bûches",
+            "fr-FR": "Bûche",
             "de-DE": "Baumstämme",
             "es-ES": "Leños de agua",
             "it-IT": "Canale con i tronchi",
@@ -84,7 +106,7 @@
         },
         "description": {
             "en-GB": "Log-shaped boats built for running in water channels",
-            "fr-FR": "Bateaux en forme de bûches géantes parcourant un tube aquatique dont les pentes abruptes auront pour effet de tremper les passagers",
+            "fr-FR": "Bateau en forme de bûche géante conçu pour parcourir un tube aquatique",
             "de-DE": "Baumstammförmige Boote, die für die Fahrt in Wasserkanälen ausgelegt sind",
             "es-ES": "Barcos con forma de tronco que viajan por un canal de agua, salpicando hasta empapar a los pasajeros",
             "it-IT": "Barche a forma di tronco viaggiano lungo un canale d’acqua, generando al termine delle discese enormi spruzzi che inzuppano i passeggeri",

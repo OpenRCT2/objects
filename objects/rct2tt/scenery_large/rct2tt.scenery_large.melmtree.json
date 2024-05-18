@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.melmtree",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F922|MELMTREE|99673EFE",
     "sourceGame": "rct2tt",
@@ -28,17 +30,19 @@
                 "x": 32,
                 "y": 0,
                 "clearance": 128,
-                "walls": 8
+                "walls": 12
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 128,
-                "walls": 2
+                "walls": 6
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/MELMTREE.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/MELMTREE.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Large Elm Tree",
@@ -58,7 +62,8 @@
             "eo-ZZ": "Granda Ulmoarbo",
             "ca-ES": "Om gran",
             "fi-FI": "Valkojalava",
-            "zh-CN": "大榆树"
+            "zh-CN": "大榆树",
+            "hu-HU": "Nagy szilfa"
         }
     }
 }

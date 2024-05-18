@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.ganstrcr",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F920|GANSTRCR|79CD04F1",
     "sourceGame": "rct2tt",
@@ -18,13 +20,25 @@
         },
         "carColours": [
             [
-                ["light_blue", "white", "yellow"]
+                [
+                    "light_blue",
+                    "white",
+                    "yellow"
+                ]
             ],
             [
-                ["bright_red", "yellow", "yellow"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "yellow"
+                ]
             ],
             [
-                ["white", "bordeaux_red", "bordeaux_red"]
+                [
+                    "white",
+                    "bordeaux_red",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -55,7 +69,12 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [5, 3, -7, -9]
+                "loadingPositions": [
+                    5,
+                    3,
+                    -7,
+                    -9
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -84,11 +103,18 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    -3,
+                    -1
+                ]
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/GANSTRCR.DAT[0..5042]"],
+    "images": [
+        "$RCT2:OBJDATA/GANSTRCR.DAT[0..5042]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Gangster Cars",
@@ -104,7 +130,6 @@
             "pt-BR": "Carros Gangster",
             "ar-EG": "سيارات العصابات",
             "cs-CZ": "Gangsterská horská dráha",
-            "en-US": "Gangster Cars",
             "pl-PL": "Gangsterska kolejka",
             "ru-RU": "Горки гангстеров",
             "eo-ZZ": "Gangstero-Aŭtoj",

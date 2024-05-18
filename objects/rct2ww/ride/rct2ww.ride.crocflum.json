@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.crocflum",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0E10|CROCFLUM|E73057F7",
     "sourceGame": "rct2ww",
@@ -13,7 +15,11 @@
         "noCollisionCrashes": true,
         "carColours": [
             [
-                ["dark_brown", "black", "black"]
+                [
+                    "dark_brown",
+                    "black",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -37,7 +43,12 @@
                 "isPowered": true,
                 "hasScreamingRiders": true,
                 "isWaterRide": true,
-                "loadingPositions": [6, 4, -7, -9]
+                "loadingPositions": [
+                    6,
+                    4,
+                    -7,
+                    -9
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -57,11 +68,18 @@
                 "isPowered": true,
                 "hasScreamingRiders": true,
                 "isWaterRide": true,
-                "loadingPositions": [6, 4, -7, -9]
+                "loadingPositions": [
+                    6,
+                    4,
+                    -7,
+                    -9
+                ]
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/CROCFLUM.DAT[0..626]"],
+    "images": [
+        "$RCT2:OBJDATA/CROCFLUM.DAT[0..626]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Crocodile Boats",
@@ -79,12 +97,12 @@
             "pt-BR": "Barcos Crocodilo",
             "ru-RU": "Крокодил",
             "eo-ZZ": "Krokadilo-Boatoj",
-            "ca-ES": "Atracció Cocodrils",
+            "ca-ES": "Atracció Cocodril",
             "fi-FI": "Krokotiiliveneet"
         },
         "description": {
             "en-GB": "Crocodile-shaped boats built for running in water channels",
-            "fr-FR": "Bateaux en forme de crocodiles parcourant un tube aquatique dont les pentes abruptes auront pour effet de tremper les passagers",
+            "fr-FR": "Bateau en forme de crocodile conçu pour parcourir un tube aquatique",
             "de-DE": "Krokodilsförmige Boote, die für die Fahrt in Wasserkanälen ausgelegt sind",
             "es-ES": "Botes con forma de cocodrilo viajan por un canal de agua, salpicando por las empinadas cuestas de descenso para empapar a sus ocupantes",
             "it-IT": "Le carrozze hanno la forma di coccodrillo e si muovono lungo un canale, piombando in acqua dopo le discese ripide e facendo infradiciare i passeggeri",
@@ -98,7 +116,7 @@
             "pt-BR": "Barcos com formato de crocodilo feitos para percorrer canais d’água",
             "ru-RU": "Лодки в форме крокодилов плывут по каналу.",
             "eo-ZZ": "Krokadiloformaj boatoj konstruitaj por veturi en akvokanaloj",
-            "ca-ES": "Barques en forma de cocodril construïdes per circular per canals d’aigua.",
+            "ca-ES": "Barques en forma de cocodril construïdes per a circular per canals d’aigua.",
             "fi-FI": "Krokotiilin muotoiset veneet, jotka on tehty vesikanavissa matkustusta varten"
         },
         "capacity": {

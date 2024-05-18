@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.hadesxxx",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F822|HADESXXX|E0E083CE",
     "sourceGame": "rct2tt",
@@ -30,18 +32,20 @@
                 "y": 0,
                 "clearance": 96,
                 "hasSupports": true,
-                "walls": 8
+                "walls": 12
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 96,
                 "hasSupports": true,
-                "walls": 2
+                "walls": 6
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/HADESXXX.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/HADESXXX.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Hades Statue",
@@ -61,7 +65,8 @@
             "eo-ZZ": "Statuo de Hadeso",
             "ca-ES": "Estàtua d’Hades",
             "fi-FI": "Haades-patsas",
-            "zh-CN": "冥王雕像"
+            "zh-CN": "冥王雕像",
+            "hu-HU": "Hádész szobor"
         }
     }
 }

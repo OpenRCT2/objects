@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_wall.wpalm04",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0713|WPALM04 |D9C8C0C9",
     "sourceGame": "rct2ww",
@@ -10,7 +12,9 @@
         "height": 2,
         "price": 50
     },
-    "images": ["$RCT2:OBJDATA/WPALM04.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/WPALM04.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Cabana Wall Piece",

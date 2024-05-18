@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.dolphinr",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0E10|DOLPHINR|54291652",
     "sourceGame": "rct2ww",
@@ -18,13 +20,25 @@
         },
         "carColours": [
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "yellow"
+                ]
             ],
             [
-                ["white", "bright_red", "black"]
+                [
+                    "white",
+                    "bright_red",
+                    "yellow"
+                ]
             ],
             [
-                ["black", "bright_pink", "black"]
+                [
+                    "black",
+                    "bright_pink",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -42,10 +56,14 @@
             "hasAdditionalColour1": true,
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
-            "loadingPositions": [0]
+            "loadingPositions": [
+                0
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/DOLPHINR.DAT[0..66]"],
+    "images": [
+        "$RCT2:OBJDATA/DOLPHINR.DAT[0..66]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Dolphin Boats",
@@ -69,7 +87,7 @@
         },
         "description": {
             "en-GB": "Single-seater dolphin-shaped vehicles which riders can drive themselves",
-            "fr-FR": "Véhicules individuels en forme de dauphins que les visiteurs peuvent conduire eux-mêmes",
+            "fr-FR": "Véhicule individuel en forme de dauphins que les visiteurs peuvent conduire eux-mêmes",
             "de-DE": "Einsitzige delfinförmige Fahrzeuge, die die Passagiere selbst steuern können",
             "es-ES": "Vehículos de uno solo asiento con forma de delfín que son conducidos por el propio pasajero",
             "it-IT": "Usa veicoli monoposto a forma di delfino che sono controllati dai passeggeri",
@@ -97,7 +115,7 @@
             "zh-CN": "1位乘客/车",
             "ja-JP": "各1名",
             "cs-CZ": "1 místo v každé lodi",
-            "ko-KR": "차량당 1명의 탑승객",
+            "ko-KR": "차량 당 1명의 탑승객",
             "pl-PL": "1 osoba na pojazd",
             "pt-BR": "1 passageiro por vagão",
             "ru-RU": "1 человек в машинке",

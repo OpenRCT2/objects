@@ -1,6 +1,9 @@
 {
     "id": "rct2.footpath_surface.queue_green",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "rct2",
     "objectType": "footpath_surface",
@@ -17,7 +20,11 @@
             "en-GB": "Dark Green Queue",
             "de-DE": "Dunkelgrüne Warteschlange",
             "nl-NL": "Donkergroene wachtrij",
-            "eo-ZZ": "Malhela Verda Atendovico"
+            "eo-ZZ": "Malhela Verda Atendovico",
+            "ca-ES": "Cua verd fosc",
+            "fr-FR": "File d’attente vert foncé",
+            "ko-KR": "어두운 녹색 대기줄",
+            "pt-BR": "Fila Verde Escuro"
         }
     }
 }

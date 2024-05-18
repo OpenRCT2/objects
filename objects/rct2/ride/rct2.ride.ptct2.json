@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.ptct2",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.1",
     "originalId": "0A188B80|PTCT2   |064CCE3B",
     "sourceGame": "rct2",
@@ -12,13 +15,25 @@
         "maxCarsPerTrain": 6,
         "carColours": [
             [
-                ["bright_red", "bright_red", "saturated_brown"]
+                [
+                    "bright_red",
+                    "bright_red",
+                    "saturated_brown"
+                ]
             ],
             [
-                ["white", "dark_green", "black"]
+                [
+                    "white",
+                    "dark_green",
+                    "black"
+                ]
             ],
             [
-                ["black", "bordeaux_red", "bordeaux_red"]
+                [
+                    "black",
+                    "bordeaux_red",
+                    "bordeaux_red"
+                ]
             ]
         ],
         "cars": {
@@ -48,7 +63,14 @@
             "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [15, 13, 1, -1, -13, -15]
+            "loadingPositions": [
+                15,
+                13,
+                1,
+                -1,
+                -13,
+                -15
+            ]
         },
         "buildMenuPriority": 2
     },
@@ -61,7 +83,7 @@
     "strings": {
         "name": {
             "en-GB": "Wooden Roller Coaster Trains (6 seater)",
-            "fr-FR": "Trains montagnes en bois (6 places)",
+            "fr-FR": "Train de montagnes russes en bois (6 places)",
             "de-DE": "Holzachterbahnzüge (6-Sitzer)",
             "es-ES": "Montaña Rusa Madera (6 asi.)",
             "it-IT": "Ottovolante di legno",
@@ -81,7 +103,7 @@
         },
         "description": {
             "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints",
-            "fr-FR": "Train pour montagnes russes en bois avec des sièges rembourrés et des barres de protection au niveau des jambes",
+            "fr-FR": "Train de montagnes russes en bois avec des sièges rembourrés et des barres de protection au niveau des jambes",
             "de-DE": "Holzachterbahnzüge mit gepolsterten Sitzen und Beckenhalterungen",
             "es-ES": "Montaña rusa de madera con asientos acolchados y barras de sujección",
             "it-IT": "Treni di legno da ottovolante con sedili imbottiti e barre al petto per protezione",

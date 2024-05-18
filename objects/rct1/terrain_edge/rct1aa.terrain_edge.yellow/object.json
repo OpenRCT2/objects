@@ -1,6 +1,9 @@
 {
     "id": "rct1aa.terrain_edge.yellow",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0000008C|#RCT1EYE|00000000",
     "sourceGame": "rct1aa",
@@ -28,7 +31,7 @@
             "ko-KR": "흙벽 (노란색)",
             "eo-ZZ": "Stukaĵo (Flava)",
             "sv-SE": "Stuck (gul)",
-            "ca-ES": "Estuc (Groc)",
+            "ca-ES": "Estuc (groc)",
             "fi-FI": "Stukki (keltainen)",
             "zh-CN": "灰泥(黄色)"
         }

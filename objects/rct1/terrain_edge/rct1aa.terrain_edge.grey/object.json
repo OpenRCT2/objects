@@ -1,6 +1,9 @@
 {
     "id": "rct1aa.terrain_edge.grey",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0000008C|#RCT1EGY|00000000",
     "sourceGame": "rct1aa",
@@ -29,9 +32,10 @@
             "ko-KR": "흙벽 (회색)",
             "eo-ZZ": "Stukaĵo (Griza)",
             "sv-SE": "Stuck (grå)",
-            "ca-ES": "Estuc (Gris)",
+            "ca-ES": "Estuc (gris)",
             "fi-FI": "Stukki (harmaa)",
-            "zh-CN": "灰泥(灰色)"
+            "zh-CN": "灰泥(灰色)",
+            "en-US": "Stucco (Gray)"
         }
     }
 }

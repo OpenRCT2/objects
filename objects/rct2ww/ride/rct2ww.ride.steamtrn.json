@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.steamtrn",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBCFC10|STEAMTRN|F4C15AAC",
     "sourceGame": "rct2ww",
@@ -22,13 +24,25 @@
         ],
         "carColours": [
             [
-                ["yellow", "bordeaux_red", "bright_yellow"]
+                [
+                    "yellow",
+                    "bordeaux_red",
+                    "yellow"
+                ]
             ],
             [
-                ["dark_green", "dark_brown", "yellow"]
+                [
+                    "dark_green",
+                    "dark_brown",
+                    "yellow"
+                ]
             ],
             [
-                ["bordeaux_red", "dark_green", "yellow"]
+                [
+                    "bordeaux_red",
+                    "dark_green",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -88,15 +102,24 @@
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [10, 8, 1, -1, -8, -10]
+                "loadingPositions": [
+                    10,
+                    8,
+                    1,
+                    -1,
+                    -8,
+                    -10
+                ]
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/STEAMTRN.DAT[0..1154]"],
+    "images": [
+        "$RCT2:OBJDATA/STEAMTRN.DAT[0..1154]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Maharaja Steam Trains",
-            "fr-FR": "Train à vapeur",
+            "fr-FR": "Train à vapeur Maharaja",
             "de-DE": "Maharadscha-Dampfzüge",
             "es-ES": "Tren de vapor",
             "it-IT": "Treno a vapore",

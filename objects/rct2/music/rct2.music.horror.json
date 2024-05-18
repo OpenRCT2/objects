@@ -1,20 +1,29 @@
 {
     "id": "rct2.music.horror",
-    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC10|00000000",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "music",
     "properties": {
         "originalStyleId": 10,
         "tracks": [
             {
                 "source": "$RCT2:DATA/css26.dat",
-                "name": "Vampire’s Lair"
+                "name": "Vampire’s Lair",
+                "composer": "Allister Brimble"
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/HHBUILD.DAT[0]"],
+    "images": [
+        "$RCT2:OBJDATA/HHBUILD.DAT[0]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Horror style",
@@ -22,7 +31,7 @@
             "cs-CZ": "Horor",
             "da-DK": "Gyser stil",
             "de-DE": "Horrorstil",
-            "es-ES": "Estilo horror",
+            "es-ES": "Estilo terror",
             "fi-FI": "Kauhutyylinen",
             "fr-FR": "Horreur",
             "hu-HU": "Rémisztő stílus",
@@ -37,7 +46,8 @@
             "tr-TR": "Korku tarzı",
             "zh-CN": "恐怖风格",
             "zh-TW": "恐怖風格",
-            "eo-ZZ": "Horora stilo"
+            "eo-ZZ": "Horora stilo",
+            "nb-NO": "Skrekk-stil"
         }
     }
 }

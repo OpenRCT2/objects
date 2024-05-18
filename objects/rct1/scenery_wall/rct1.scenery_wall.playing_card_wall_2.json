@@ -1,0 +1,47 @@
+{
+    "id": "rct1.scenery_wall.playing_card_wall_2",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct1"
+    ],
+    "isCompatibilityObject": true,
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50,
+        "sceneryGroup": "rct2.scenery_group.scgwond"
+    },
+    "images": [
+        "$CSG[63245..63250]"
+    ],
+    "noCsgImages": [
+        "$RCT2:OBJDATA/WCW2.DAT[0..5]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Playing Card Wall",
+            "fr-FR": "Mur en cartes à jouer",
+            "de-DE": "Spielkartenwand",
+            "es-ES": "Pared de cartas",
+            "it-IT": "Muro a carta da gioco",
+            "nl-NL": "Muur van speelkaarten",
+            "sv-SE": "Spelkortsmur",
+            "ko-KR": "트럼프 벽",
+            "zh-CN": "扑克牌墙",
+            "zh-TW": "卜克牌牆",
+            "pt-BR": "Parede de Cartas",
+            "cs-CZ": "Stěna z hracích karet",
+            "ja-JP": "トランプの壁",
+            "pl-PL": "Ściana z kart do gry",
+            "ru-RU": "Карточная стена",
+            "eo-ZZ": "Muro el Ludkartoj",
+            "ca-ES": "Paret de carta",
+            "fi-FI": "Pelikorttiseinä"
+        }
+    }
+}

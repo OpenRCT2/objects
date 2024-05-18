@@ -1,6 +1,9 @@
 {
     "id": "rct2dlc.scenery_small.bigpanda",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "09F8EC01|BIGPANDA|F06CB437",
     "sourceGame": "official",
@@ -39,7 +42,8 @@
             "eo-ZZ": "Giganta Pando",
             "ca-ES": "Panda gegant",
             "fi-FI": "Jättiläispanda",
-            "zh-CN": "巨大熊猫"
+            "zh-CN": "巨大熊猫",
+            "hu-HU": "Óriáspanda"
         }
     }
 }

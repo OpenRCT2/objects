@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_group.scgsamer",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CC31417|SCGSAMER|32D8D7B2",
     "sourceGame": "rct2ww",
@@ -102,9 +104,11 @@
             "rct2ww.scenery_large.gdstaue1",
             "rct2ww.scenery_large.gdstaue2"
         ],
-        "priority": 25
+        "priority": 47
     },
-    "images": ["$RCT2:OBJDATA/SCGSAMRC.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGSAMRC.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "South America Theming",

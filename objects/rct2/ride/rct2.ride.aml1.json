@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.aml1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|AML1    |4FA82E87",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "miniature_railway",
@@ -22,13 +28,25 @@
         ],
         "carColours": [
             [
-                ["bright_red", "dark_brown", "yellow"]
+                [
+                    "bright_red",
+                    "dark_brown",
+                    "yellow"
+                ]
             ],
             [
-                ["olive_green", "grey", "yellow"]
+                [
+                    "olive_green",
+                    "grey",
+                    "yellow"
+                ]
             ],
             [
-                ["dark_purple", "bordeaux_red", "yellow"]
+                [
+                    "dark_purple",
+                    "bordeaux_red",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -82,16 +100,25 @@
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [10, 8, 1, -1, -8, -10]
+                "loadingPositions": [
+                    10,
+                    8,
+                    1,
+                    -1,
+                    -8,
+                    -10
+                ]
             }
         ],
         "buildMenuPriority": 2
     },
-    "images": ["$RCT2:OBJDATA/AML1.DAT[0..1154]"],
+    "images": [
+        "$RCT2:OBJDATA/AML1.DAT[0..1154]"
+    ],
     "strings": {
         "name": {
             "en-GB": "American Style Steam Trains",
-            "fr-FR": "Trains vapeur",
+            "fr-FR": "Train à vapeur américain",
             "de-DE": "Dampfzüge im amerik. Stil",
             "es-ES": "Trenes vapor estilo americano",
             "it-IT": "Treni a vapore americani",
@@ -111,7 +138,7 @@
         },
         "description": {
             "en-GB": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
-            "fr-FR": "Trains miniatures comprenant une réplique de locomotive à vapeur et des petits wagons en bois avec des toits en tissu",
+            "fr-FR": "Train miniature comprenant une réplique de locomotive à vapeur et des petits wagons en bois avec des toits en tissu",
             "de-DE": "Mini-Dampfzüge bestehend aus nachgemachter Dampflok und Tender mit Holzwaggons mit Stoffdächern",
             "es-ES": "Trenes de vapor en miniatura compuestos por una locomotora a réplica y vagones de madera con techos de tela",
             "it-IT": "Treni in miniatura che replicano le locomotive a vapore e i carri scorta. Trainano carrozze di legno con i tetti in tessuto",

@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.largecpu",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA21|LARGECPU|434AA618",
     "sourceGame": "rct2tt",
@@ -23,9 +25,28 @@
         "prohibitWalls": true,
         "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
         "SMALL_SCENERY_FLAG_COG": true,
-        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+        "frameOffsets": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
     },
-    "images": ["$RCT2:OBJDATA/LARGECPU.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/LARGECPU.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Super Computer Large CPU",
@@ -45,7 +66,8 @@
             "eo-ZZ": "Granda Ĉefprocesoro de Superkomputilo",
             "ca-ES": "CPU enorme de supercomputador",
             "fi-FI": "Supertietokoneen suuri CPU",
-            "zh-CN": "超级电脑-大型中央处理器"
+            "zh-CN": "超级电脑-大型中央处理器",
+            "hu-HU": "Szuperszámítógép nagy CPU"
         }
     }
 }

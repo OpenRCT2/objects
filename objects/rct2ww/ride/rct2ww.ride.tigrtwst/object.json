@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.tigrtwst",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBCFC10|TIGRTWST|16352D82",
     "sourceGame": "rct2ww",
@@ -11,13 +13,11 @@
         "limitAirTimeBonus": true,
         "carColours": [
             [
-                ["white", "light_blue", "black"]
-            ],
-            [
-                ["yellow", "bright_red", "black"]
-            ],
-            [
-                ["bright_red", "yellow", "black"]
+                [
+                    "black",
+                    "bright_pink",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -42,7 +42,12 @@
                     "restraintAnimation": true
                 },
                 "hasScreamingRiders": true,
-                "loadingPositions": [5, 3, -7, -9]
+                "loadingPositions": [
+                    5,
+                    3,
+                    -7,
+                    -9
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -65,21 +70,26 @@
                     "restraintAnimation": true
                 },
                 "hasScreamingRiders": true,
-                "loadingPositions": [-7, -9, 5, 3]
+                "loadingPositions": [
+                    -7,
+                    -9,
+                    5,
+                    3
+                ]
             }
         ]
     },
     "images": [
         "$RCT2:OBJDATA/TIGRTWST.DAT[0..16]",
-        { "path": "images/17-1329-fixed.png", "x": -21, "y":-13 },
+        { "path": "images/17-1329-fixed.png", "x": -21, "y": -13 },
         "$RCT2:OBJDATA/TIGRTWST.DAT[18..1328]",
-        { "path": "images/17-1329-fixed.png", "x": -21, "y":-13 },
+        { "path": "images/17-1329-fixed.png", "x": -21, "y": -13 },
         "$RCT2:OBJDATA/TIGRTWST.DAT[1330..2594]"
     ],
     "strings": {
         "name": {
             "en-GB": "Bengal Tiger Cars",
-            "fr-FR": "Montagnes Tigre du Bengale",
+            "fr-FR": "Tigre du Bengale",
             "de-DE": "Bengalischer-Tiger-Wagen",
             "es-ES": "Montaña Rusa Tigre de Bengala",
             "it-IT": "Ottovolante Tigre del Bengala",
@@ -89,7 +99,6 @@
             "ja-JP": "ベンガルトラ車両",
             "ar-EG": "Bengal Tiger Cars",
             "cs-CZ": "Horská dráha bengálských tygrů",
-            "en-US": "Bengal Tiger Cars",
             "ko-KR": "뱅갈 호랑이 차량",
             "pl-PL": "Tygrys bengalski",
             "pt-BR": "Carros Tigre-de-Bengala",
@@ -100,7 +109,7 @@
         },
         "description": {
             "en-GB": "Roller coaster cars capable of heartline twists, themend to look like Bengal tigers",
-            "fr-FR": "Montagnes russes avec inversions à 360°",
+            "fr-FR": "Voiture de montagnes russes capable de passer dans des inversions à 360° en forme de tigre du Bengale",
             "de-DE": "Achterbahnwagen, die sich um ihre Mittelachse drehen können, mit dem Aussehen von Bengalischen Tigern",
             "es-ES": "Vagones capaces de dar giros a media altura, con temática de tigres de Bengala",
             "it-IT": "Ottovolante con carrozze capaci di avvitamento",
@@ -128,7 +137,7 @@
             "zh-CN": "4位乘客/车",
             "ja-JP": "各車両4名",
             "cs-CZ": "4 místa v každém voze",
-            "ko-KR": "차량당 4명의 승객",
+            "ko-KR": "차량 당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
             "pt-BR": "4 passageiros por carro",
             "ru-RU": "4 пассажира",

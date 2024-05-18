@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.wiskybl2",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA21|WISKYBL2|165E1AD2",
     "sourceGame": "rct2tt",
@@ -42,7 +44,8 @@
             "eo-ZZ": "Viskio-Bareloj",
             "ca-ES": "Barrils de whisky",
             "fi-FI": "Viskitynnyrit",
-            "zh-CN": "威士忌桶"
+            "zh-CN": "威士忌桶",
+            "hu-HU": "Whiskys hordók"
         }
     }
 }

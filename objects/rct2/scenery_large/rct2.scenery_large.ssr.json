@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_large.ssr",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C82|SSR     |93531AB6",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "scenery_large",
     "properties": {
         "price": 175,
@@ -41,7 +47,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SSR.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/SSR.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Space Rocket",
@@ -61,7 +69,8 @@
             "ru-RU": "Ракета",
             "eo-ZZ": "Kosma Raketo",
             "ca-ES": "Coet espacial",
-            "fi-FI": "Avaruusraketti"
+            "fi-FI": "Avaruusraketti",
+            "ar-EG": "صاروخ فضائي"
         }
     }
 }

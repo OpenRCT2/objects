@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_group.scgfutur",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F627|SCGFUTUR|E4736CB4",
     "sourceGame": "rct2tt",
@@ -117,10 +119,12 @@
             "rct2tt.scenery_small.fltsign1",
             "rct2tt.scenery_small.fltsign2"
         ],
-        "priority": 25,
+        "priority": 51,
         "entertainerCostumes": "astronaut"
     },
-    "images": ["$RCT2:OBJDATA/SCGFUTUR.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGFUTUR.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Future Theming",

@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.batfl",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|BATFL   |95108819",
     "sourceGame": "rct2",
@@ -10,13 +13,25 @@
         "category": "rollercoaster",
         "carColours": [
             [
-                ["black", "light_orange", "black"]
+                [
+                    "black",
+                    "light_orange",
+                    "black"
+                ]
             ],
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["dark_green", "bright_red", "black"]
+                [
+                    "dark_green",
+                    "bright_red",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -37,15 +52,20 @@
             "hasAdditionalColour1": true,
             "hasSwinging": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [3, -3]
+            "loadingPositions": [
+                3,
+                -3
+            ]
         },
         "buildMenuPriority": 2
     },
-    "images": ["$RCT2:OBJDATA/BATFL.DAT[0..1282]"],
+    "images": [
+        "$RCT2:OBJDATA/BATFL.DAT[0..1282]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Swinging Cars",
-            "fr-FR": "Voitures balançoires",
+            "fr-FR": "Voiture balançoire",
             "de-DE": "Schwingwagen",
             "es-ES": "Coches Balancín",
             "it-IT": "Carrozze oscillanti",
@@ -65,7 +85,7 @@
         },
         "description": {
             "en-GB": "Small cars which swing from the rail above",
-            "fr-FR": "Petites voitures se balançant sous un rail",
+            "fr-FR": "Petite voiture se balançant sous un rail",
             "de-DE": "Kleine Wagen, die von der darüberliegenden Schiene schwingen",
             "es-ES": "Pequeños vagones que cuelgan del raíl superior",
             "it-IT": "Piccole carrozze che oscillano da sotto la rotaia",

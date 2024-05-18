@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.gorilla",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0210|GORILLA |E8224108",
     "sourceGame": "rct2ww",
@@ -11,13 +13,25 @@
         "maxCarsPerTrain": 8,
         "carColours": [
             [
-                ["bright_red", "saturated_red", "yellow"]
+                [
+                    "bright_red",
+                    "saturated_red",
+                    "yellow"
+                ]
             ],
             [
-                ["dark_green", "dark_purple", "white"]
+                [
+                    "dark_green",
+                    "dark_purple",
+                    "white"
+                ]
             ],
             [
-                ["white", "grey", "bright_red"]
+                [
+                    "white",
+                    "grey",
+                    "bright_red"
+                ]
             ]
         ],
         "cars": {
@@ -42,10 +56,17 @@
             "hasSwinging": true,
             "hasScreamingRiders": true,
             "useSuspendedSwing": true,
-            "loadingPositions": [4, 6, -6, -4]
+            "loadingPositions": [
+                4,
+                6,
+                -6,
+                -4
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/GORILLA.DAT[0..4622]"],
+    "images": [
+        "$RCT2:OBJDATA/GORILLA.DAT[0..4622]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Gorilla Trains",
@@ -59,7 +80,6 @@
             "ja-JP": "ゴリラ車両",
             "ar-EG": "Gorilla Trains",
             "cs-CZ": "Gorilí horská dráha",
-            "en-US": "Gorilla Trains",
             "ko-KR": "고릴라 차량",
             "pl-PL": "Przejażdżka na gorylu",
             "pt-BR": "Trens Gorila",
@@ -70,7 +90,7 @@
         },
         "description": {
             "en-GB": "Suspended roller coaster trains consisting of gorilla-shaped cars able to swing freely as the train goes around corners",
-            "fr-FR": "Train de montagnes russes suspendu constitué de voitures en forme de gorille qui se balancent librement dans les virages",
+            "fr-FR": "Train de montagnes russes suspendues constitué de voitures en forme de gorille qui se balancent librement dans les virages",
             "de-DE": "Aufgehängte Achterbahnzüge, deren gorillaförmige Wagen frei schwingen können, wenn der Zug in die Kurven geht",
             "es-ES": "Tren en suspensión consistentes en vagones con forma de gorila capaces de balancearse con libertad al tomar las esquinas",
             "it-IT": "Ottovolante sospeso con carrozze a forma di gorilla che possono oscillare liberamente quando percorrono le curve",
@@ -98,7 +118,7 @@
             "zh-CN": "4位乘客/车",
             "ja-JP": "各車両4名",
             "cs-CZ": "4 místa v každém voze",
-            "ko-KR": "차량당 4명의 승객",
+            "ko-KR": "차량 당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 человека в вагоне",
             "pt-BR": "4 passageiros por vagão",

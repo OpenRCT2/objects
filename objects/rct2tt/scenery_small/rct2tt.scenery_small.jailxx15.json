@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.jailxx15",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA21|JAILXX15|5C41F814",
     "sourceGame": "rct2tt",
@@ -18,7 +20,9 @@
         "isStackable": true,
         "prohibitWalls": true
     },
-    "images": ["$RCT2:OBJDATA/JAILXX15.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/JAILXX15.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Prison Watch Tower Stairs",
@@ -38,7 +42,8 @@
             "eo-ZZ": "Ŝtuparo de Gardoturo de Malliberejo",
             "ca-ES": "Escales de torre de vigilància de presó",
             "fi-FI": "Vankilan vahtitornin portaikko",
-            "zh-CN": "监狱-瞭望塔楼梯"
+            "zh-CN": "监狱-瞭望塔楼梯",
+            "hu-HU": "Börtön őrtorony lépcsők"
         }
     }
 }

@@ -1,15 +1,23 @@
 {
     "id": "rct2.park_entrance.pkent1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188088|PKENT1  |E3FB2B4B",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "park_entrance",
     "properties": {
         "scrollingMode": 3,
         "textHeight": 81
     },
-    "images": ["$RCT2:OBJDATA/PKENT1.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/PKENT1.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Traditional Park Entrance",

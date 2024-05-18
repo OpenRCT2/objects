@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_small.sbwind15",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0711|SBWIND15|E8E96AC3",
     "sourceGame": "rct2ww",
@@ -18,7 +20,9 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/SBWIND15.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/SBWIND15.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Wind Sculpted Roof Flat Roof Piece",

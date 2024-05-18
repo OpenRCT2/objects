@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.medstool",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F921|MEDSTOOL|A8E7BEAD",
     "sourceGame": "rct2tt",
@@ -16,7 +18,9 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/MEDSTOOL.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/MEDSTOOL.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Stool",

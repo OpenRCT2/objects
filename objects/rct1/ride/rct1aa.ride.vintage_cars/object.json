@@ -1,0 +1,243 @@
+{
+    "id": "rct1aa.ride.vintage_cars",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "originalId": "00000000|#RCT1VCR|00000000",
+    "sourceGame": "rct1aa",
+    "isCompatibilityObject": true,
+    "objectType": "ride",
+    "properties": {
+        "type": "car_ride",
+        "category": "gentle",
+        "noCollisionCrashes": true,
+        "minCarsPerTrain": 3,
+        "maxCarsPerTrain": 3,
+        "numEmptyCars": 2,
+        "tabCar": 1,
+        "headCars": 1,
+        "tailCars": 1,
+        "carColours": [
+            [
+                [
+                    "bordeaux_red",
+                    "black",
+                    "black"
+                ]
+            ],
+            [
+                [
+                    "yellow",
+                    "black",
+                    "black"
+                ]
+            ],
+            [
+                [
+                    "black",
+                    "black",
+                    "black"
+                ]
+            ],
+            [
+                [
+                    "saturated_green",
+                    "black",
+                    "black"
+                ]
+            ]
+        ],
+        "cars": [
+            {
+                "rotationFrameMask": 15,
+                "spacing": 165604,
+                "mass": 330,
+                "numSeats": 2,
+                "numSeatRows": 1,
+                "poweredAcceleration": 60,
+                "poweredMaxSpeed": 7,
+                "drawOrder": 6,
+                "spriteGroups": {
+                    "slopeFlat": 16,
+                    "slopes12": 4,
+                    "slopes25": 4
+                },
+                "isPowered": true,
+                "loadingPositions": [
+                    4,
+                    -4
+                ]
+            },
+            {
+                "rotationFrameMask": 0,
+                "spacing": 34864,
+                "poweredAcceleration": 60,
+                "poweredMaxSpeed": 7,
+                "carVisual": 1,
+                "drawOrder": 8,
+                "spriteGroups": {
+                    "slopeFlat": 1
+                },
+                "isPowered": true
+            }
+        ],
+        "buildMenuPriority": 2
+    },
+    "images": [
+        { "path": "images/preview.png", "format": "raw" },
+        "",
+        "",
+        "$CSG[32813..32828]",
+        "$CSG[32829]",
+        "$CSG[32833]",
+        "$CSG[32837]",
+        "$CSG[32841]",
+        "$CSG[32831]",
+        "$CSG[32835]",
+        "$CSG[32839]",
+        "$CSG[32843]",
+        "$CSG[32830]",
+        "$CSG[32834]",
+        "$CSG[32838]",
+        "$CSG[32842]",
+        "$CSG[32832]",
+        "$CSG[32836]",
+        "$CSG[32840]",
+        "$CSG[32844]",
+        "$CSG[32845..32860]",
+        "$CSG[32861]",
+        "$CSG[32865]",
+        "$CSG[32869]",
+        "$CSG[32873]",
+        "$CSG[32863]",
+        "$CSG[32867]",
+        "$CSG[32871]",
+        "$CSG[32875]",
+        "$CSG[32862]",
+        "$CSG[32866]",
+        "$CSG[32870]",
+        "$CSG[32874]",
+        "$CSG[32864]",
+        "$CSG[32868]",
+        "$CSG[32872]",
+        "$CSG[32876]",
+        ""
+    ],
+    "noCsgImages": [
+        { "path": "images/preview.png", "format": "raw" },
+        "",
+        "",
+        "$RCT2:OBJDATA/VCR.DAT[3]",
+        "$RCT2:OBJDATA/VCR.DAT[5]",
+        "$RCT2:OBJDATA/VCR.DAT[7]",
+        "$RCT2:OBJDATA/VCR.DAT[9]",
+        "$RCT2:OBJDATA/VCR.DAT[11]",
+        "$RCT2:OBJDATA/VCR.DAT[13]",
+        "$RCT2:OBJDATA/VCR.DAT[15]",
+        "$RCT2:OBJDATA/VCR.DAT[17]",
+        "$RCT2:OBJDATA/VCR.DAT[19]",
+        "$RCT2:OBJDATA/VCR.DAT[21]",
+        "$RCT2:OBJDATA/VCR.DAT[23]",
+        "$RCT2:OBJDATA/VCR.DAT[25]",
+        "$RCT2:OBJDATA/VCR.DAT[27]",
+        "$RCT2:OBJDATA/VCR.DAT[29]",
+        "$RCT2:OBJDATA/VCR.DAT[31]",
+        "$RCT2:OBJDATA/VCR.DAT[33]",
+        "$RCT2:OBJDATA/VCR.DAT[35..42]",
+        "$RCT2:OBJDATA/VCR.DAT[43]",
+        "$RCT2:OBJDATA/VCR.DAT[51]",
+        "$RCT2:OBJDATA/VCR.DAT[59]",
+        "$RCT2:OBJDATA/VCR.DAT[67]",
+        "$RCT2:OBJDATA/VCR.DAT[75]",
+        "$RCT2:OBJDATA/VCR.DAT[83]",
+        "$RCT2:OBJDATA/VCR.DAT[91]",
+        "$RCT2:OBJDATA/VCR.DAT[99]",
+        "$RCT2:OBJDATA/VCR.DAT[107]",
+        "$RCT2:OBJDATA/VCR.DAT[109]",
+        "$RCT2:OBJDATA/VCR.DAT[111]",
+        "$RCT2:OBJDATA/VCR.DAT[113]",
+        "$RCT2:OBJDATA/VCR.DAT[115]",
+        "$RCT2:OBJDATA/VCR.DAT[117]",
+        "$RCT2:OBJDATA/VCR.DAT[119]",
+        "$RCT2:OBJDATA/VCR.DAT[121]",
+        "$RCT2:OBJDATA/VCR.DAT[123]",
+        "$RCT2:OBJDATA/VCR.DAT[125]",
+        "$RCT2:OBJDATA/VCR.DAT[127]",
+        "$RCT2:OBJDATA/VCR.DAT[129]",
+        "$RCT2:OBJDATA/VCR.DAT[131]",
+        "$RCT2:OBJDATA/VCR.DAT[133]",
+        "$RCT2:OBJDATA/VCR.DAT[135]",
+        "$RCT2:OBJDATA/VCR.DAT[137]",
+        "$RCT2:OBJDATA/VCR.DAT[139..146]",
+        "$RCT2:OBJDATA/VCR.DAT[147]",
+        "$RCT2:OBJDATA/VCR.DAT[155]",
+        "$RCT2:OBJDATA/VCR.DAT[163]",
+        "$RCT2:OBJDATA/VCR.DAT[171]",
+        "$RCT2:OBJDATA/VCR.DAT[179]",
+        "$RCT2:OBJDATA/VCR.DAT[187]",
+        "$RCT2:OBJDATA/VCR.DAT[195]",
+        "$RCT2:OBJDATA/VCR.DAT[203]",
+        ""
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Vintage Cars",
+            "fr-FR": "Voiture vintage",
+            "de-DE": "Oldie-Wagen",
+            "es-ES": "Coches de Época",
+            "it-IT": "Auto d'epoca",
+            "nl-NL": "Oldtimers",
+            "sv-SE": "Veteranbilar",
+            "ko-KR": "빈티지 차량",
+            "zh-CN": "葡萄酒列车",
+            "zh-TW": "葡萄酒列車",
+            "pt-BR": "Carros Antigos",
+            "cs-CZ": "Veteráni",
+            "ja-JP": "ヴィンテージカー",
+            "pl-PL": "Klasyczne wagoniki",
+            "ru-RU": "Ретрокары",
+            "eo-ZZ": "Malnovaj Aŭtoj",
+            "ca-ES": "Cotxes vintage"
+        },
+        "description": {
+            "en-GB": "Powered vehicles in the shape of vintage cars",
+            "fr-FR": "Véhicule à propulsion en forme de voiture ancienne",
+            "de-DE": "Angetriebene Fahrzeuge in Form von Oldie-Wagen",
+            "es-ES": "Vehículos con forma de coches antiguos que recorren una vía",
+            "it-IT": "Veicoli a motore che ricordano le auto d'epoca seguono un percorso fisso su un tracciato",
+            "nl-NL": "Elektrische voertuigen in de vorm van een oldtimer.",
+            "sv-SE": "Motordrivna fordon utformade som veteranbilar",
+            "ko-KR": "트랙을 따라 이동하는 빈티지 모양의 차량",
+            "zh-CN": "具动力装置及葡萄酒外型的车辆在即定航线轨道上运行",
+            "zh-TW": "具動力裝置及葡萄酒外型的車輛在即定航線軌道上運行",
+            "pt-BR": "Veículos motorizados na forma de carros antigos",
+            "cs-CZ": "Vozy ve tvaru veteránů jezdí po postavené dráze",
+            "ja-JP": "クラシックスタイルの動力付き車両が、あらかじめ決められたコースを進む乗物です",
+            "pl-PL": "Pojazdy z napędem mające kształt klasycznych wagoników jadących po szynowym torze",
+            "ru-RU": "Люди катаются на старинных автомобильчиках.",
+            "eo-ZZ": "Ŝaltitaj veturiloj en la formo de malnovaj aŭtoj",
+            "ca-ES": "Vehicles decorats com a cotxes vintage."
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por vehículo",
+            "it-IT": "2 passeggeri a carrozza",
+            "nl-NL": "1 passagier per karretje",
+            "sv-SE": "2 passagerare per vagn",
+            "ko-KR": "차량당 2명의 승객",
+            "zh-CN": "2 位乘客/每个车厢",
+            "zh-TW": "2 位乘客/每個車廂",
+            "pt-BR": "2 passageiros por carro",
+            "cs-CZ": "2 místa v každém vozu",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира",
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe"
+        }
+    }
+}

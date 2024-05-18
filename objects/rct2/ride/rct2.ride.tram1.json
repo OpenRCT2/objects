@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.tram1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|TRAM1   |B16BC043",
     "sourceGame": "rct2",
@@ -20,13 +23,25 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "white", "black"]
+                [
+                    "yellow",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "white", "black"]
+                [
+                    "light_blue",
+                    "white",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -48,7 +63,18 @@
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [12, -12, 12, -12, 12, -12, 13, 11, -13, -11]
+                "loadingPositions": [
+                    12,
+                    -12,
+                    12,
+                    -12,
+                    12,
+                    -12,
+                    13,
+                    11,
+                    -13,
+                    -11
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -60,7 +86,7 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true
@@ -68,7 +94,10 @@
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/TRAM1.DAT[0..770]", ""],
+    "images": [
+        "$RCT2:OBJDATA/TRAM1.DAT[0..770]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Trams",
@@ -92,7 +121,7 @@
         },
         "description": {
             "en-GB": "Old-timer replica trams",
-            "fr-FR": "Réplique des trams d’antan",
+            "fr-FR": "Réplique de tramway d’antan",
             "de-DE": "Nachgebaute Oldtimer-Straßenbahnen",
             "es-ES": "Tranvías de estilo antiguo",
             "it-IT": "Repliche dei tram d’altri tempi",

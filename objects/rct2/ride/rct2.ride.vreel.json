@@ -1,22 +1,40 @@
 {
     "id": "rct2.ride.vreel",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C80|VREEL   |5E89C4A1",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "virginia_reel",
         "category": "rollercoaster",
         "carColours": [
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "yellow", "black"]
+                [
+                    "light_blue",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["dark_green", "light_brown", "black"]
+                [
+                    "dark_green",
+                    "light_brown",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -38,11 +56,18 @@
             "hasAdditionalColour1": true,
             "hasSpinning": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [4, -4, 4, -4]
+            "loadingPositions": [
+                4,
+                -4,
+                4,
+                -4
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/VREEL.DAT[0..362]"],
+    "images": [
+        "$RCT2:OBJDATA/VREEL.DAT[0..362]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Virginia Reel Tubs",
@@ -61,11 +86,12 @@
             "ru-RU": "Вирджиния",
             "eo-ZZ": "Kuvoj de Virginia Reel",
             "ca-ES": "Pots «Virginia Reel»",
-            "fi-FI": "Virginia-kehrävaunut"
+            "fi-FI": "Virginia-kehrävaunut",
+            "fr-FR": "Tonneau Virginia Reel"
         },
         "description": {
             "en-GB": "Circular cars that spin around as they travel along the track",
-            "fr-FR": "Voitures de forme circulaire tournant sur elles-même tout en parcourant une voie en bois faite de zigzags",
+            "fr-FR": "Voiture de forme circulaire tournant sur elle-même en parcourant la voie",
             "de-DE": "Runde Wagen, die sich bei der Fahrt drehen",
             "es-ES": "Vagones circulares que rebotan mientras corren sobre la pista de madera en zigzag",
             "it-IT": "Carrozze circolari ruotano per il tracciato di legno a zig-zag",

@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_group.scgwalls",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F87|SCGWALLS|D5927415",
     "sourceGame": "rct2",
@@ -16,7 +19,7 @@
             "rct2.scenery_wall.wallbb16",
             "rct2.scenery_wall.wallbb8",
             "rct2.scenery_wall.wallbb33",
-            "toontowner.scenery_small.xxbbbr01",
+            "toontowner.scenery_small.xxbbbr01_fix",
             "rct2.scenery_small.roof5",
             "rct2.scenery_small.roof7",
             "rct2.scenery_wall.wallrs32",
@@ -72,7 +75,10 @@
             "rct2.scenery_small.sktdw",
             "rct2.scenery_small.sktbase",
             "rct2.scenery_small.sktbaset",
+            "official.scenery_wall.support_structure_full",
+            "official.scenery_wall.support_structure_half",
             "rct2.scenery_small.suppw2",
+            "official.scenery_small.support_structure_half",
             "rct2.scenery_small.suppw1",
             "rct2.scenery_small.suppw3",
             "rct2.scenery_small.suppleg1",
@@ -82,7 +88,9 @@
         ],
         "priority": 5
     },
-    "images": ["$RCT2:OBJDATA/SCGWALLS.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGWALLS.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Walls and Roofs",

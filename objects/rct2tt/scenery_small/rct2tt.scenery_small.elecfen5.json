@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.elecfen5",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F721|ELECFEN5|3A233597",
     "sourceGame": "rct2tt",
@@ -18,11 +20,13 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/ELECFEN5.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/ELECFEN5.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Electric Fence Inverted Corner Piece",
-            "fr-FR": "Section de virage de clôture électrique inversé",
+            "fr-FR": "Coin inversé de clôture électrique",
             "de-DE": "Umgedrehtes Elektrozaun-Eckstück",
             "es-ES": "Esquina inversa de valla electrificada",
             "it-IT": "Tratto di curva invertita di recinzione elettrica",

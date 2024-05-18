@@ -1,9 +1,15 @@
 {
     "id": "rct2.station.log",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0000008D|#RCT2STL|00000000",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "station",
     "properties": {
         "height": 32,
@@ -12,7 +18,8 @@
     },
     "images": [
         "$G1[22744..22759]",
-        "$G1[22493..22504]"],
+        "$G1[22493..22504]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Log Cabin",
@@ -22,7 +29,7 @@
             "ko-KR": "통나무",
             "zh-CN": "木屋",
             "ar-EG": "كوخ خشبي",
-            "nb-NO": "Tømmer",
+            "nb-NO": "Tømmerhytte",
             "hu-HU": "Fakunyhó",
             "es-ES": "Troncos de madera",
             "pt-BR": "Cabine de madeira",

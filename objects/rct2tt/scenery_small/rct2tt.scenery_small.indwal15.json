@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.indwal15",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F921|INDWAL15|F30B7CB2",
     "sourceGame": "rct2tt",
@@ -19,11 +21,13 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/INDWAL15.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/INDWAL15.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Industrial Wall Corner Piece",
-            "fr-FR": "Section de mur de virage industriel",
+            "fr-FR": "Coin de mur industriel",
             "de-DE": "Industriemauer-Eckstück",
             "es-ES": "Sección de esquina de muro industrial",
             "it-IT": "Tratto di curva del muro industriale",

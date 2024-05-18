@@ -1,0 +1,55 @@
+{
+    "id": "toontowner.scenery_small.xxbbbr01_fix",
+    "authors": [
+        "Simon Foster",
+        "ToonTowner"
+    ],
+    "version": "1.0",
+    "sourceGame": "official",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 0,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "allowSupportsAbove": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -9 },
+        { "path": "images/0.png", "x": -32, "y": -9 },
+        { "path": "images/0.png", "x": -32, "y": -9 },
+        { "path": "images/0.png", "x": -32, "y": -9 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Base Block",
+            "fr-FR": "Bloc de base",
+            "de-DE": "Basisblock",
+            "es-ES": "Bloque de base",
+            "it-IT": "Base",
+            "nl-NL": "Basisblok",
+            "sv-SE": "Grundblock",
+            "ko-KR": "기본 블록",
+            "zh-CN": "垒包",
+            "zh-TW": "壘包",
+            "pt-BR": "Bloco de Base",
+            "cs-CZ": "Základní blok",
+            "ja-JP": "ベースブロック",
+            "pl-PL": "Blok podstawy",
+            "ru-RU": "База",
+            "hu-HU": "Alap blokk",
+            "tr-TR": "Ana blok",
+            "eo-ZZ": "Bazobloko",
+            "ca-ES": "Bloc base",
+            "fi-FI": "Perustuslohko",
+            "ar-EG": "الكتلة الأساسية"
+        }
+    }
+}

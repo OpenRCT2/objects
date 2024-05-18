@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.tg13",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188E81|TG13    |1370E133",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 13,
@@ -17,7 +23,9 @@
         "canBeWatered": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/TG13.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/TG13.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Gardens",
@@ -37,7 +45,8 @@
             "ru-RU": "Клумба",
             "eo-ZZ": "Ĝardenoj",
             "ca-ES": "Jardins",
-            "fi-FI": "Kukkapenkki"
+            "fi-FI": "Kukkapenkki",
+            "hu-HU": "Kert"
         }
     }
 }

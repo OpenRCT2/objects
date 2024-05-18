@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_wall.wmud03",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0413|WMUD03  |B4D0B190",
     "sourceGame": "rct2ww",
@@ -10,7 +12,9 @@
         "height": 4,
         "price": 50
     },
-    "images": ["$RCT2:OBJDATA/WMUD03.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/WMUD03.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Mud Wall Piece",

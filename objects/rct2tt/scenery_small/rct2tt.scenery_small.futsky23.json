@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.futsky23",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FB21|FUTSKY23|DFAB8C16",
     "sourceGame": "rct2tt",
@@ -19,11 +21,13 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/FUTSKY23.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/FUTSKY23.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Sandstone Skyscraper Inverted Corner Top",
-            "fr-FR": "Haut du virage inversé du gratte-ciel",
+            "fr-FR": "Coin haut inversé du gratte-ciel",
             "de-DE": "Sandstein-Wolkenkratzer Obere Umgedrehte Ecke",
             "es-ES": "Parte superior de esquina invertida de rascacielos de arenisca",
             "it-IT": "Cima della curva invertita del grattacielo in arenaria",

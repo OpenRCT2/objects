@@ -1,6 +1,9 @@
 {
     "id": "toontowner.scenery_small.ttpirf03",
-    "authors": ["Simon Foster", "ToonTowner"],
+    "authors": [
+        "Simon Foster",
+        "ToonTowner"
+    ],
     "version": "1.0",
     "originalId": "09F55801|TTPIRF03|6E43EB7D",
     "sourceGame": "official",
@@ -20,42 +23,10 @@
         "hasNoSupports": true
     },
     "images": [
-        {
-            "path": "images.png",
-            "srcX": 0,
-            "srcY": 0,
-            "srcWidth": 64,
-            "srcHeight": 63,
-            "x": -32,
-            "y": -32
-        },
-        {
-            "path": "images.png",
-            "srcX": 64,
-            "srcY": 0,
-            "srcWidth": 63,
-            "srcHeight": 63,
-            "x": -31,
-            "y": -32
-        },
-        {
-            "path": "images.png",
-            "srcX": 127,
-            "srcY": 0,
-            "srcWidth": 62,
-            "srcHeight": 48,
-            "x": -31,
-            "y": -17
-        },
-        {
-            "path": "images.png",
-            "srcX": 189,
-            "srcY": 0,
-            "srcWidth": 63,
-            "srcHeight": 63,
-            "x": -32,
-            "y": -32
-        }
+        { "path": "images.png", "srcX": 0, "srcY": 0, "srcWidth": 64, "srcHeight": 63, "x": -32, "y": -32 },
+        { "path": "images.png", "srcX": 64, "srcY": 0, "srcWidth": 63, "srcHeight": 63, "x": -31, "y": -32 },
+        { "path": "images.png", "srcX": 127, "srcY": 0, "srcWidth": 62, "srcHeight": 48, "x": -31, "y": -17 },
+        { "path": "images.png", "srcX": 189, "srcY": 0, "srcWidth": 63, "srcHeight": 63, "x": -32, "y": -32 }
     ],
     "strings": {
         "name": {
@@ -75,7 +46,10 @@
             "pl-PL": "Dach",
             "eo-ZZ": "Tegmento",
             "ca-ES": "Teulada",
-            "fi-FI": "Katto"
+            "fi-FI": "Katto",
+            "ar-EG": "سقف",
+            "hu-HU": "Tető",
+            "uk-UA": "Дах"
         }
     }
 }

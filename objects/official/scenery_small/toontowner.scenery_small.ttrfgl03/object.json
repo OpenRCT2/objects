@@ -1,6 +1,9 @@
 {
     "id": "toontowner.scenery_small.ttrfgl03",
-    "authors": ["Simon Foster", "ToonTowner"],
+    "authors": [
+        "Simon Foster",
+        "ToonTowner"
+    ],
     "version": "1.0",
     "originalId": "09F55701|TTRFGL03|A98985AC",
     "sourceGame": "official",
@@ -23,78 +26,14 @@
         "hasNoSupports": true
     },
     "images": [
-        {
-            "path": "images.png",
-            "srcX": 0,
-            "srcY": 0,
-            "srcWidth": 64,
-            "srcHeight": 33,
-            "x": -32,
-            "y": -3
-        },
-        {
-            "path": "images.png",
-            "srcX": 64,
-            "srcY": 0,
-            "srcWidth": 64,
-            "srcHeight": 33,
-            "x": -32,
-            "y": -3
-        },
-        {
-            "path": "images.png",
-            "srcX": 128,
-            "srcY": 0,
-            "srcWidth": 64,
-            "srcHeight": 33,
-            "x": -32,
-            "y": -3
-        },
-        {
-            "path": "images.png",
-            "srcX": 192,
-            "srcY": 0,
-            "srcWidth": 64,
-            "srcHeight": 33,
-            "x": -32,
-            "y": -3
-        },
-        {
-            "path": "images.png",
-            "srcX": 256,
-            "srcY": 0,
-            "srcWidth": 54,
-            "srcHeight": 27,
-            "x": -27,
-            "y": 0
-        },
-        {
-            "path": "images.png",
-            "srcX": 310,
-            "srcY": 0,
-            "srcWidth": 54,
-            "srcHeight": 27,
-            "x": -27,
-            "y": 0
-        },
-        {
-            "path": "images.png",
-            "srcX": 364,
-            "srcY": 0,
-            "srcWidth": 54,
-            "srcHeight": 27,
-            "x": -27,
-            "y": 0
-        },
-        {
-            "path": "images.png",
-            "srcX": 418,
-            "srcY": 0,
-            "srcWidth": 54,
-            "srcHeight": 27,
-            "x": -27,
-            "y": 0
-        }
+        { "path": "images.png", "srcX": 0, "srcY": 0, "srcWidth": 64, "srcHeight": 33, "x": -32, "y": -3 },
+        { "path": "images.png", "srcX": 64, "srcY": 0, "srcWidth": 64, "srcHeight": 33, "x": -32, "y": -3 },
+        { "path": "images.png", "srcX": 128, "srcY": 0, "srcWidth": 64, "srcHeight": 33, "x": -32, "y": -3 },
+        { "path": "images.png", "srcX": 192, "srcY": 0, "srcWidth": 64, "srcHeight": 33, "x": -32, "y": -3 },
+        { "path": "images.png", "srcX": 256, "srcY": 0, "srcWidth": 54, "srcHeight": 27, "x": -27, "y": 0 },
+        { "path": "images.png", "srcX": 310, "srcY": 0, "srcWidth": 54, "srcHeight": 27, "x": -27, "y": 0 },
+        { "path": "images.png", "srcX": 364, "srcY": 0, "srcWidth": 54, "srcHeight": 27, "x": -27, "y": 0 },
+        { "path": "images.png", "srcX": 418, "srcY": 0, "srcWidth": 54, "srcHeight": 27, "x": -27, "y": 0 }
     ],
     "strings": {
         "name": {
@@ -115,7 +54,9 @@
             "ru-RU": "Крыша",
             "eo-ZZ": "Vitra Tegmento",
             "ca-ES": "Teulada de vidre",
-            "fi-FI": "Lasikatto"
+            "fi-FI": "Lasikatto",
+            "ar-EG": "سقف زجاجي",
+            "hu-HU": "Üvegtető"
         }
     }
 }

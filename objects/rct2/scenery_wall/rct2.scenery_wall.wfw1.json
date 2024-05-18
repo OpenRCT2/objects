@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_wall.wfw1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188083|WFW1    |D1026E02",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_wall",
     "properties": {
         "hasPrimaryColour": true,
@@ -11,7 +17,9 @@
         "height": 2,
         "price": 40
     },
-    "images": ["$RCT2:OBJDATA/WFW1.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/WFW1.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Wooden Fence",

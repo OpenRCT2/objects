@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_group.scgsport",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F87|SCGSPORT|4CF0A796",
     "sourceGame": "rct2",
@@ -22,11 +25,13 @@
         ],
         "priority": 38
     },
-    "images": ["$RCT2:OBJDATA/SCGSPORT.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGSPORT.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Sports Theming",
-            "fr-FR": "Thème Sports",
+            "fr-FR": "Thème sports",
             "de-DE": "Sport-Thema",
             "es-ES": "Temática deportiva",
             "it-IT": "Tema sportivo",

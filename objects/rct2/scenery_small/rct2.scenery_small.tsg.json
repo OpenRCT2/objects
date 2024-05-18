@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.tsg",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188E81|TSG     |DA15B1D7",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 30,
@@ -18,11 +24,13 @@
         "isStackable": true,
         "prohibitWalls": true
     },
-    "images": ["$RCT2:OBJDATA/TSG.DAT[0..15]"],
+    "images": [
+        "$RCT2:OBJDATA/TSG.DAT[0..15]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Swamp Goo",
-            "fr-FR": "Marécages",
+            "fr-FR": "Substance marécageuse",
             "de-DE": "Sumpfschleim",
             "es-ES": "Ciénaga",
             "it-IT": "Fanghiglia della palude",

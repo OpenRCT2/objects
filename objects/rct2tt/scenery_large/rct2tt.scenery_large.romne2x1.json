@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.romne2x1",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F822|ROMNE2X1|F006C186",
     "sourceGame": "rct2tt",
@@ -17,22 +19,24 @@
                 "y": 0,
                 "clearance": 96,
                 "hasSupports": true,
-                "walls": 9
+                "walls": 11
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 96,
                 "hasSupports": true,
-                "walls": 3
+                "walls": 14
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/ROMNE2X1.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/ROMNE2X1.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Roman Palace End Piece",
-            "fr-FR": "Section d’arrivée de palais romain",
+            "fr-FR": "Section finale de palais romain",
             "de-DE": "Endstück des Römischen Palastes",
             "es-ES": "Sección final de palacio romano",
             "it-IT": "Tratto finale del Palazzo Romano",
@@ -48,7 +52,8 @@
             "eo-ZZ": "Finoparto de Roma Palaco",
             "ca-ES": "Part final de palau romà",
             "fi-FI": "Roomalaisen palatsin pääteosa",
-            "zh-CN": "罗马宫殿-结尾部分"
+            "zh-CN": "罗马宫殿-结尾部分",
+            "hu-HU": "Római palota végelem"
         }
     }
 }

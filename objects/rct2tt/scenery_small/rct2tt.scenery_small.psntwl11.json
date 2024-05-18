@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.psntwl11",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F821|PSNTWL11|52F2AC52",
     "sourceGame": "rct2tt",
@@ -20,7 +22,9 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/PSNTWL11.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/PSNTWL11.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Dark Age Village Upper Wall Piece",
@@ -40,7 +44,8 @@
             "eo-ZZ": "Supra Muroparto de Vilaĝo de Malluma Epoko",
             "ca-ES": "Part superior de paret de poble medieval",
             "fi-FI": "Keskiaikaisen kylän ylemmän seinän osa",
-            "zh-CN": "黑暗时代-乡村上方墙"
+            "zh-CN": "黑暗时代-乡村上方墙",
+            "hu-HU": "Középkori falu felső falelem"
         }
     }
 }

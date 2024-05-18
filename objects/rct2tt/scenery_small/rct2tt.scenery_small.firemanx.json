@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.firemanx",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA21|FIREMANX|6CE71723",
     "sourceGame": "rct2tt",
@@ -17,7 +19,9 @@
         "isStackable": true,
         "prohibitWalls": true
     },
-    "images": ["$RCT2:OBJDATA/FIREMANX.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/FIREMANX.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Animatronic Fireman",
@@ -37,7 +41,8 @@
             "eo-ZZ": "Animatronika Fajrobrigado",
             "ca-ES": "Animatrònic de bomber",
             "fi-FI": "Animatroninen palomies",
-            "zh-CN": "可动的消防员"
+            "zh-CN": "可动的消防员",
+            "hu-HU": "Animatronikus tűzoltó"
         }
     }
 }

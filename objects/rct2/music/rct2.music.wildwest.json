@@ -1,16 +1,23 @@
 {
     "id": "rct2.music.wildwest",
-    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC15|00000000",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "music",
     "properties": {
         "originalStyleId": 15,
         "tracks": [
             {
                 "source": "$RCT2:DATA/css31.dat",
-                "name": "Wild West Kid"
+                "name": "Wild West Kid",
+                "composer": "Allister Brimble"
             }
         ]
     },
@@ -36,7 +43,8 @@
             "tr-TR": "Vahşi batı tarzı",
             "zh-CN": "西部荒野风格",
             "zh-TW": "美國西部風格",
-            "eo-ZZ": "Sovaĝa-okcidento-stilo"
+            "eo-ZZ": "Sovaĝa-okcidento-stilo",
+            "nb-NO": "Vill vest-stil"
         }
     }
 }

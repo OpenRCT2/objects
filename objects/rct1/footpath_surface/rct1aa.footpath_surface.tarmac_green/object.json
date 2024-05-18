@@ -1,6 +1,9 @@
 {
     "id": "rct1aa.footpath_surface.tarmac_green",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "rct1aa",
     "objectType": "footpath_surface",
@@ -33,7 +36,8 @@
             "pl-PL": "Zielona dróżka tłuczniowa",
             "ru-RU": "Зелёный асфальт",
             "ar-EG": "ممشي أخضر مُعبد",
-            "eo-ZZ": "Verda Asfalta Trotuaro"
+            "eo-ZZ": "Verda Asfalta Trotuaro",
+            "ca-ES": "Camí asfaltat verd"
         }
     }
 }

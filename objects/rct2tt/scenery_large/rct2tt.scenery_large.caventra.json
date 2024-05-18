@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.caventra",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F722|CAVENTRA|D03F5980",
     "sourceGame": "rct2tt",
@@ -15,17 +17,19 @@
                 "x": 0,
                 "y": 0,
                 "clearance": 80,
-                "walls": 9
+                "walls": 11
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 80,
-                "walls": 3
+                "walls": 14
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/CAVENTRA.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/CAVENTRA.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Cave Entrance",
@@ -45,7 +49,8 @@
             "eo-ZZ": "Enirejo de Kavo",
             "ca-ES": "Entrada de cova",
             "fi-FI": "Luolan suu",
-            "zh-CN": "洞穴入口"
+            "zh-CN": "洞穴入口",
+            "hu-HU": "Barlangbejárat"
         }
     }
 }

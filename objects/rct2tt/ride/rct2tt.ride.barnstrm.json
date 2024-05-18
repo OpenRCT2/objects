@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.barnstrm",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F920|BARNSTRM|52510CB2",
     "sourceGame": "rct2tt",
@@ -13,13 +15,25 @@
         "maxCarsPerTrain": 9,
         "carColours": [
             [
-                ["light_blue", "black", "bright_red"]
+                [
+                    "light_blue",
+                    "black",
+                    "bright_red"
+                ]
             ],
             [
-                ["black", "bordeaux_red", "yellow"]
+                [
+                    "black",
+                    "bordeaux_red",
+                    "yellow"
+                ]
             ],
             [
-                ["bordeaux_red", "white", "black"]
+                [
+                    "bordeaux_red",
+                    "white",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -42,14 +56,21 @@
             "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [6, 8, -4, -6]
+            "loadingPositions": [
+                6,
+                8,
+                -4,
+                -6
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/BARNSTRM.DAT[0..938]"],
+    "images": [
+        "$RCT2:OBJDATA/BARNSTRM.DAT[0..938]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Barnstorming Trains",
-            "fr-FR": "Attaque de l’entrepôt",
+            "fr-FR": "Train du cirque volant",
             "de-DE": "Himmelsstürmer-Wagen",
             "es-ES": "Montaña rusa Políticos",
             "it-IT": "Ottovolante acrobatico",
@@ -64,14 +85,15 @@
             "pl-PL": "Inwazja agrarna",
             "ru-RU": "Гастрольные горки",
             "eo-ZZ": "Trajnoj de Barnstorming",
-            "ca-ES": "Acrobàcies aèrees",
+            "ca-ES": "Acrobàcies aèries",
             "fi-FI": "Lentosirkusvaunut",
-            "zh-CN": "谷仓风暴列车"
+            "zh-CN": "谷仓风暴列车",
+            "hu-HU": "Légivagány vonatok"
         },
         "description": {
             "en-GB": "Inverted roller coaster trains for the Inverted Impulse Coaster, in the shape of double decker aeroplanes",
             "en-US": "Inverted roller coaster trains for the Inverted Impulse Coaster, in the shape of double decker airplanes",
-            "fr-FR": "Les passagers parcourent des boucles géantes, des virages et des grandes descentes en piqué, installés sur des sièges suspendus à la voie",
+            "fr-FR": "Train destiné à l’impulsion inversée, en forme de biplan",
             "de-DE": "Umgekehrte Achterbahnzüge für die umgekehrte Impuls-Bahn, in der Form von Doppeldeckerflugzeugen",
             "es-ES": "Los usuarios se sientan suspendidos debajo de la estructura, pasando a toda velocidad por bucles gigantes, giros y grandes caídas en picado.",
             "it-IT": "I passeggeri siedono su sedili sospesi sotto il tracciato e affrontano giri della morte giganti, curve e lunghe discese a strapiombo.",
@@ -87,7 +109,8 @@
             "eo-ZZ": "Inversigitaj trajnoj de onda fervojo por la Inversigita Lanĉita Onda Fervojo, formitaj kiel duetaĝaj aeroplanoj",
             "ca-ES": "Trens en forma d’avions de dos pisos per a muntanyes russes d’impuls invers.",
             "fi-FI": "Käänteiset kaksitasolentokoneen muotoiset vaunut käänteisimpulssiradalle",
-            "zh-CN": "用于倒置脉冲过山车的倒置过山车列车，形状为双层飞机"
+            "zh-CN": "用于倒置脉冲过山车的倒置过山车列车，形状为双层飞机",
+            "hu-HU": "Fordított hullámvasútvonatok a fordított impulzus hullámvasúthoz, kétfedelű repülőgépek formájában"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -107,7 +130,8 @@
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
-            "zh-CN": "4位乘客/车"
+            "zh-CN": "4位乘客/车",
+            "hu-HU": "4 utas kocsinként"
         }
     }
 }

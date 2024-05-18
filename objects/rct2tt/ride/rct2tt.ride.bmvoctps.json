@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.bmvoctps",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA20|BMVOCTPS|4A0F520E",
     "sourceGame": "rct2tt",
@@ -16,7 +18,11 @@
         },
         "carColours": [
             [
-                ["white", "white", "yellow"]
+                [
+                    "black",
+                    "bright_pink",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -40,89 +46,235 @@
             "numSegments": 0,
             "loadingWaypoints": [
                 [
-                    [28, 28],
-                    [-28, 28],
-                    [-20, 0]
+                    [
+                        28,
+                        28
+                    ],
+                    [
+                        -28,
+                        28
+                    ],
+                    [
+                        -20,
+                        0
+                    ]
                 ],
                 [
-                    [-28, -28],
-                    [-20, 0],
-                    [-20, 0]
+                    [
+                        -28,
+                        -28
+                    ],
+                    [
+                        -20,
+                        0
+                    ],
+                    [
+                        -20,
+                        0
+                    ]
                 ],
                 [
-                    [-20, 0],
-                    [-20, 0],
-                    [-20, 0]
+                    [
+                        -20,
+                        0
+                    ],
+                    [
+                        -20,
+                        0
+                    ],
+                    [
+                        -20,
+                        0
+                    ]
                 ],
                 [
-                    [-28, 28],
-                    [-20, 0],
-                    [-20, 0]
+                    [
+                        -28,
+                        28
+                    ],
+                    [
+                        -20,
+                        0
+                    ],
+                    [
+                        -20,
+                        0
+                    ]
                 ],
                 [
-                    [28, 28],
-                    [0, 20],
-                    [0, 20]
+                    [
+                        28,
+                        28
+                    ],
+                    [
+                        0,
+                        20
+                    ],
+                    [
+                        0,
+                        20
+                    ]
                 ],
                 [
-                    [28, -28],
-                    [28, 28],
-                    [0, 20]
+                    [
+                        28,
+                        -28
+                    ],
+                    [
+                        28,
+                        28
+                    ],
+                    [
+                        0,
+                        20
+                    ]
                 ],
                 [
-                    [-28, 28],
-                    [0, 20],
-                    [0, 20]
+                    [
+                        -28,
+                        28
+                    ],
+                    [
+                        0,
+                        20
+                    ],
+                    [
+                        0,
+                        20
+                    ]
                 ],
                 [
-                    [0, 20],
-                    [0, 20],
-                    [0, 20]
+                    [
+                        0,
+                        20
+                    ],
+                    [
+                        0,
+                        20
+                    ],
+                    [
+                        0,
+                        20
+                    ]
                 ],
                 [
-                    [20, 0],
-                    [20, 0],
-                    [20, 0]
+                    [
+                        20,
+                        0
+                    ],
+                    [
+                        20,
+                        0
+                    ],
+                    [
+                        20,
+                        0
+                    ]
                 ],
                 [
-                    [28, -28],
-                    [20, 0],
-                    [20, 0]
+                    [
+                        28,
+                        -28
+                    ],
+                    [
+                        20,
+                        0
+                    ],
+                    [
+                        20,
+                        0
+                    ]
                 ],
                 [
-                    [-28, -28],
-                    [28, -28],
-                    [20, 0]
+                    [
+                        -28,
+                        -28
+                    ],
+                    [
+                        28,
+                        -28
+                    ],
+                    [
+                        20,
+                        0
+                    ]
                 ],
                 [
-                    [28, 28],
-                    [20, 0],
-                    [20, 0]
+                    [
+                        28,
+                        28
+                    ],
+                    [
+                        20,
+                        0
+                    ],
+                    [
+                        20,
+                        0
+                    ]
                 ],
                 [
-                    [28, -28],
-                    [0, -20],
-                    [0, -20]
+                    [
+                        28,
+                        -28
+                    ],
+                    [
+                        0,
+                        -20
+                    ],
+                    [
+                        0,
+                        -20
+                    ]
                 ],
                 [
-                    [0, -20],
-                    [0, -20],
-                    [0, -20]
+                    [
+                        0,
+                        -20
+                    ],
+                    [
+                        0,
+                        -20
+                    ],
+                    [
+                        0,
+                        -20
+                    ]
                 ],
                 [
-                    [-28, -28],
-                    [0, -20],
-                    [0, -20]
+                    [
+                        -28,
+                        -28
+                    ],
+                    [
+                        0,
+                        -20
+                    ],
+                    [
+                        0,
+                        -20
+                    ]
                 ],
                 [
-                    [-28, 28],
-                    [-28, -28],
-                    [0, -20]
+                    [
+                        -28,
+                        28
+                    ],
+                    [
+                        -28,
+                        -28
+                    ],
+                    [
+                        0,
+                        -20
+                    ]
                 ]
             ]
         }
     },
-    "images": ["$RCT2:OBJDATA/BMVOCTPS.DAT[0..38]"],
+    "images": [
+        "$RCT2:OBJDATA/BMVOCTPS.DAT[0..38]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Blob from Outer Space",
@@ -143,12 +295,13 @@
             "eo-ZZ": "Aĵo de Kosmospaco",
             "ca-ES": "El monstre de l’espai exterior",
             "fi-FI": "Möykky ulkoavaruudesta",
-            "zh-CN": "太空黑点"
+            "zh-CN": "太空黑点",
+            "hu-HU": "Massza a világűrből"
         },
         "description": {
             "en-GB": "A themed rotating observation cabin shaped like a blob from a sci-fi B-film",
             "en-US": "A themed rotating observation cabin shaped like a blob from a sci-fi B-movie",
-            "fr-FR": "Une cabine thématique rotative qui se hisse le long d’une immense tour",
+            "fr-FR": "Une cabine d’observation rotative reprenant la forme d’un blob d’un film de science-fiction de série B",
             "de-DE": "Eine thematisch gestaltete rotierende Aussichtskabine, die wie ein Blob aus einem Science-Fiction-B-Movie aussieht",
             "es-ES": "Cabina de observación rotatoria decorada",
             "it-IT": "Speciale cabina d’osservazione che sale su un’alta torre",
@@ -164,7 +317,8 @@
             "eo-ZZ": "Temita turniĝanta kajuto formita kiel iu aĵo de sciencofiksia B-filmo",
             "ca-ES": "Cabina rotatòria d’observació en forma de monstre de pel·lícula de ciència-ficció de sèrie B.",
             "fi-FI": "B-luokan scifi-elokuvatyylisen ulkoavaruuden möykyn näköiseksi teemattu pyörivä näköalakoppi",
-            "zh-CN": "一个主题旋转的观察舱-形状像科幻B级片中的一个斑点"
+            "zh-CN": "一个主题旋转的观察舱-形状像科幻B级片中的一个斑点",
+            "hu-HU": "Egy tematikus, forgó megfigyelőfülke, amely olyan alakú, mint egy massza egy sci-fi B-filmből"
         },
         "capacity": {
             "en-GB": "20 passengers",
@@ -184,7 +338,8 @@
             "eo-ZZ": "20 pasaĝeroj",
             "ca-ES": "20 passatgers",
             "fi-FI": "20 matkustajaa",
-            "zh-CN": "20位乘客"
+            "zh-CN": "20位乘客",
+            "hu-HU": "20 utas"
         }
     }
 }

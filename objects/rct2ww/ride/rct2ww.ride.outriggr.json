@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.outriggr",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0810|OUTRIGGR|CEE2B803",
     "sourceGame": "rct2ww",
@@ -14,7 +16,11 @@
         "disableBreakdown": true,
         "carColours": [
             [
-                ["saturated_brown", "bordeaux_red", "black"]
+                [
+                    "saturated_brown",
+                    "bordeaux_red",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -35,10 +41,15 @@
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
             "hasRiderAnimation": true,
-            "loadingPositions": [3, -3]
+            "loadingPositions": [
+                3,
+                -3
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/OUTRIGGR.DAT[0..114]"],
+    "images": [
+        "$RCT2:OBJDATA/OUTRIGGR.DAT[0..114]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Outrigger Canoes",
@@ -61,7 +72,7 @@
         },
         "description": {
             "en-GB": "Long canoes which the passengers paddle themselves",
-            "fr-FR": "Longs canoës que les passagers dirigent en pagayant",
+            "fr-FR": "Long canoë que les passagers dirigent en pagayant",
             "de-DE": "Lange Kanus, in denen die Passagiere selbst rudern",
             "es-ES": "Canoas largas en las que los pasajeros pedalean",
             "it-IT": "Lunghe canoe sospinte a remi dai passeggeri",

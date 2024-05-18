@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.stnesta4",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F821|STNESTA4|4B986026",
     "sourceGame": "rct2tt",
@@ -17,7 +19,9 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/STNESTA4.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/STNESTA4.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Men Turned to Stone",
@@ -37,7 +41,8 @@
             "eo-ZZ": "Homoj Farigitaj al Ŝtono",
             "ca-ES": "Homes convertits en pedra",
             "fi-FI": "Kiveksi muuttunut mies",
-            "zh-CN": "石化的人"
+            "zh-CN": "石化的人",
+            "hu-HU": "Kővé vált férfiak"
         }
     }
 }

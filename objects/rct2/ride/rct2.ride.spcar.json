@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.spcar",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|SPCAR   |69F23BC4",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "car_ride",
@@ -17,10 +23,18 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["dark_green", "olive_green", "black"]
+                [
+                    "dark_green",
+                    "olive_green",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -39,7 +53,10 @@
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [4, -4]
+                "loadingPositions": [
+                    4,
+                    -4
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -49,18 +66,21 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "isPowered": true
             }
         ],
         "buildMenuPriority": 5
     },
-    "images": ["$RCT2:OBJDATA/SPCAR.DAT[0..210]", ""],
+    "images": [
+        "$RCT2:OBJDATA/SPCAR.DAT[0..210]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Sports Cars",
-            "fr-FR": "Voitures de sport",
+            "fr-FR": "Voiture de sport",
             "de-DE": "Sportwagen",
             "es-ES": "Deportivos",
             "it-IT": "Auto sportive",
@@ -80,7 +100,7 @@
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of sports cars",
-            "fr-FR": "Véhicules à propulsion en forme de voitures de sport",
+            "fr-FR": "Véhicule à propulsion en forme de voiture de sport",
             "de-DE": "Angetriebene Fahrzeuge in Form von Sportwagen",
             "es-ES": "Vehículos autopropulsados de forma de carreras",
             "it-IT": "Veicoli a motore che ricordano le auto sportive",

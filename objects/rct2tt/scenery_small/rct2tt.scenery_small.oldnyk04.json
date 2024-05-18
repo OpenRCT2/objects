@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.oldnyk04",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F921|OLDNYK04|B06B6017",
     "sourceGame": "rct2tt",
@@ -19,7 +21,9 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/OLDNYK04.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/OLDNYK04.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "New York Wall Piece",
@@ -39,7 +43,8 @@
             "eo-ZZ": "Novjorka Muroparto",
             "ca-ES": "Part de paret novaiorquesa",
             "fi-FI": "Newyorkilaisen seinän osa",
-            "zh-CN": "纽约-墙"
+            "zh-CN": "纽约-墙",
+            "hu-HU": "New York-i falelem"
         }
     }
 }

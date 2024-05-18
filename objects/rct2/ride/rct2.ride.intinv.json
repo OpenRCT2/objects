@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.intinv",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|INTINV  |695D7C15",
     "sourceGame": "rct2",
@@ -13,13 +16,25 @@
         "maxCarsPerTrain": 9,
         "carColours": [
             [
-                ["light_blue", "black", "bright_red"]
+                [
+                    "light_blue",
+                    "black",
+                    "bright_red"
+                ]
             ],
             [
-                ["black", "bordeaux_red", "yellow"]
+                [
+                    "black",
+                    "bordeaux_red",
+                    "yellow"
+                ]
             ],
             [
-                ["bordeaux_red", "white", "black"]
+                [
+                    "bordeaux_red",
+                    "white",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -42,15 +57,22 @@
             "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [6, 8, -4, -6]
+            "loadingPositions": [
+                6,
+                8,
+                -4,
+                -6
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/INTINV.DAT[0..938]"],
+    "images": [
+        "$RCT2:OBJDATA/INTINV.DAT[0..938]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Impulse Trains",
-            "fr-FR": "Impulsion inversée",
+            "fr-FR": "Train d’impulsion",
             "de-DE": "Impuls-Züge",
             "es-ES": "Montaña Rusa Impulso Inverso",
             "it-IT": "Corsa invertita a impulsi",
@@ -62,7 +84,6 @@
             "pt-BR": "Trens Impulso",
             "ar-EG": "Impulse Trains",
             "cs-CZ": "Horská dráha ve tvaru \"U\"",
-            "en-US": "Impulse Trains",
             "ja-JP": "インバーテッド・インパルス・コースター",
             "pl-PL": "Kolejka zwrotna",
             "ru-RU": "Обратно-импульсные горки",
@@ -72,7 +93,7 @@
         },
         "description": {
             "en-GB": "Inverted roller coaster trains for the Inverted Impulse Coaster",
-            "fr-FR": "Les trains de montagnes russes à impulsion sont propulsés hors de la station puis, après avoir atteint une pointe verticale, redescendent vers la station et entament une nouvelle montée verticale en sens inverse",
+            "fr-FR": "Train inversé pour les montagnes russes à impulsion inversée",
             "de-DE": "Umgekehrte Achterbahnzüge für die umgekehrte Impuls-Bahn",
             "es-ES": "Los vagones de la montaña rusa invertida aceleran saliendo del andén y toman un tramo de vía vertical, entonces vuelven marcha atrás pasando por el andén y subiendo por otro tramo de vía vertical",
             "it-IT": "Treni da ottovolante invertiti accelerano partendo dalla stazione lungo un braccio verticale del tracciato, quindi tornano in retromarcia alla stazione per salire su un altro braccio verticale",

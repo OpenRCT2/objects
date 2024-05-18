@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.cyclopsx",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F820|CYCLOPSX|FFBAFCD6",
     "sourceGame": "rct2tt",
@@ -11,10 +13,18 @@
         "carsPerFlatRide": 12,
         "carColours": [
             [
-                ["white", "light_orange", "black"]
+                [
+                    "white",
+                    "light_orange",
+                    "yellow"
+                ]
             ],
             [
-                ["light_purple", "bright_red", "black"]
+                [
+                    "light_purple",
+                    "bright_red",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -33,36 +43,42 @@
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
             "useDodgemCarPlacement": true,
-            "loadingPositions": [0]
+            "loadingPositions": [
+                0
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/CYCLOPSX.DAT[0..66]"],
+    "images": [
+        "$RCT2:OBJDATA/CYCLOPSX.DAT[0..66]"
+    ],
     "strings": {
         "name": {
-            "en-GB": "Cyclops Ride",
+            "en-GB": "Cyclops Dodgems",
             "fr-FR": "Le cyclope",
             "de-DE": "Zyklopenfahrt",
-            "es-ES": "Viaje del cíclope",
+            "es-ES": "Coches de choque del Cíclope",
             "it-IT": "Corsa del Ciclope",
             "nl-NL": "Cyclopenogen",
             "sv-SE": "Cyklop",
-            "ko-KR": "사이클롭스 라이드",
+            "ko-KR": "사이클롭스 범퍼카",
             "zh-TW": "獨眼巨人遊樂設施",
             "ja-JP": "サイクロプスの目",
-            "pt-BR": "Brinquedo do Ciclope",
+            "pt-BR": "Bate-bate do Ciclope",
             "cs-CZ": "Kyklopský autodrom",
             "pl-PL": "Cyklopowa jazda",
             "ru-RU": "Циклоп",
-            "eo-ZZ": "Ciklopo-Atrakcio",
+            "eo-ZZ": "Ciklopaj Doĝemoj",
             "ca-ES": "El viatge del cíclop",
             "fi-FI": "Kykloopit",
-            "zh-CN": "独眼巨人"
+            "zh-CN": "独眼巨人",
+            "hu-HU": "Küklopsz dodzsemek",
+            "en-US": "Cyclops Bumper Cars"
         },
         "description": {
             "en-GB": "Riders drive the Eye of a Giant Cyclops",
             "fr-FR": "Les passagers sont installés dans l’œil du cyclope",
             "de-DE": "Die Fahrer fahren im Auge eines Riesenzyklopen",
-            "es-ES": "Los usuarios viajan en el ojo de un cíclope gigante.",
+            "es-ES": "Los usuarios conducen el Ojo de un Cíclope Gigante.",
             "it-IT": "I passeggeri viaggiano nell’occhio di un ciclope gigante.",
             "nl-NL": "Passagiers rijden in het oog van een grote cycloop.",
             "sv-SE": "Förarna kör omkring med ögat från en jättecyklop",
@@ -76,7 +92,8 @@
             "eo-ZZ": "Rajdantoj stiras la Okulon de Giganta Ciklopo",
             "ca-ES": "Els passatgers condueixen l’ull d’un cíclop gegant.",
             "fi-FI": "Kävijät ajavat jättiläiskykloopin silmän muotoisissa ajoneuvoissa",
-            "zh-CN": "乘客驾驶巨型独眼巨人之眼"
+            "zh-CN": "乘客驾驶巨型独眼巨人之眼",
+            "hu-HU": "Az utasok egy hatalmas küklopsz szemét vezetik"
         },
         "capacity": {
             "en-GB": "1 person per car",
@@ -96,7 +113,8 @@
             "eo-ZZ": "Po 1 ulo por ĉaro",
             "ca-ES": "1 persona per cotxe",
             "fi-FI": "1 matkustaja per ajoneuvo",
-            "zh-CN": "1位乘客/车"
+            "zh-CN": "1位乘客/车",
+            "hu-HU": "1 személy kocsinként"
         }
     }
 }

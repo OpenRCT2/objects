@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.robnhood",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F921|ROBNHOOD|6387A81C",
     "sourceGame": "rct2tt",
@@ -20,9 +22,31 @@
         "isStackable": true,
         "hasNoSupports": true,
         "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
-        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 0, 0, 0]
+        "frameOffsets": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            0,
+            0,
+            0
+        ]
     },
-    "images": ["$RCT2:OBJDATA/ROBNHOOD.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/ROBNHOOD.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Animatronic Robin Hood",
@@ -41,7 +65,8 @@
             "eo-ZZ": "Animatronika Robin Hood",
             "ca-ES": "Animatrònic de Robin Hood",
             "fi-FI": "Animatroninen Robin Hood",
-            "zh-CN": "可动的罗宾汉"
+            "zh-CN": "可动的罗宾汉",
+            "hu-HU": "Animatronikus Robin Hood"
         }
     }
 }

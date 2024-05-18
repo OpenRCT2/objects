@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.blackcab",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0810|BLACKCAB|2E5D8CFF",
     "sourceGame": "rct2ww",
@@ -18,10 +20,11 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["bright_red", "yellow", "black"]
-            ],
-            [
-                ["dark_green", "olive_green", "black"]
+                [
+                    "black",
+                    "bright_pink",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -39,7 +42,10 @@
                     "gentleSlopes": true
                 },
                 "isPowered": true,
-                "loadingPositions": [4, -4]
+                "loadingPositions": [
+                    4,
+                    -4
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -49,17 +55,20 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "isPowered": true
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/BLACKCAB.DAT[0..210]", ""],
+    "images": [
+        "$RCT2:OBJDATA/BLACKCAB.DAT[0..210]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Black Cabs",
-            "fr-FR": "Taxis londoniens",
+            "fr-FR": "Taxi londonien",
             "de-DE": "Londoner Taxis",
             "es-ES": "Atracción de taxi londinense negro",
             "it-IT": "Corsa sui taxi neri di Londra",
@@ -78,7 +87,7 @@
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of London Taxis",
-            "fr-FR": "Véhicules automobiles en forme de taxis londoniens",
+            "fr-FR": "Véhicule à propulsion en forme de taxi londonien",
             "de-DE": "Fahrzeuge mit Eigenantrieb und dem Aussehen von Londoner Taxis",
             "es-ES": "Vehículos eléctricos con la forma de taxis londinenses",
             "it-IT": "Veicoli semoventi a forma di taxi londinesi",

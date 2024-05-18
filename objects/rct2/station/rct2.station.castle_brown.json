@@ -1,9 +1,15 @@
 {
     "id": "rct2.station.castle_brown",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0000008D|#RCT2ST4|00000000",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "station",
     "properties": {
         "height": 43,
@@ -12,7 +18,8 @@
     },
     "images": [
         "$G1[22712..22727]",
-        "$G1[22469..22480]"],
+        "$G1[22469..22480]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Castle (Brown)",
@@ -22,7 +29,7 @@
             "ko-KR": "성 (갈색)",
             "zn-CN": "城堡 (棕色)",
             "ar-EG": "قلعة (بني)",
-            "nb-NO": "Slott (brun)",
+            "nb-NO": "Slott (Brun)",
             "hu-HU": "Kastély (barna)",
             "es-ES": "Castillo (marrón)",
             "pt-BR": "Castelo (marrom)",

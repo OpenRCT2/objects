@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.oldnyk07",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F921|OLDNYK07|8EEE8B6C",
     "sourceGame": "rct2tt",
@@ -20,11 +22,13 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/OLDNYK07.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/OLDNYK07.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "New York Inverted Corner Piece",
-            "fr-FR": "Section de virage inversé de New York",
+            "fr-FR": "Coin inversé de New York",
             "de-DE": "New-York-Eckstück, umgedreht",
             "es-ES": "Sección de esquina invertida de Nueva York",
             "it-IT": "Tratto di curva invertita di New York",

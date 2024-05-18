@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.rboat",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|RBOAT   |E952C72A",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "boat_hire",
@@ -14,10 +20,18 @@
         "disableBreakdown": true,
         "carColours": [
             [
-                ["saturated_brown", "yellow", "black"]
+                [
+                    "saturated_brown",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["white", "moss_green", "black"]
+                [
+                    "white",
+                    "moss_green",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -38,15 +52,20 @@
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
             "hasRiderAnimation": true,
-            "loadingPositions": [3, -3]
+            "loadingPositions": [
+                3,
+                -3
+            ]
         },
         "buildMenuPriority": 6
     },
-    "images": ["$RCT2:OBJDATA/RBOAT.DAT[0..130]"],
+    "images": [
+        "$RCT2:OBJDATA/RBOAT.DAT[0..130]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Rowing Boats",
-            "fr-FR": "Rameurs",
+            "fr-FR": "Rameur",
             "de-DE": "Ruderboote",
             "es-ES": "Bote a Remos",
             "it-IT": "Barche a remi",
@@ -66,7 +85,7 @@
         },
         "description": {
             "en-GB": "Rowing boats which passengers row themselves",
-            "fr-FR": "Bateaux que les passagers font avancer en ramant",
+            "fr-FR": "Bateau que les passagers font avancer en ramant",
             "de-DE": "Ruderboote, die von den Fahrgästen selbst gerudert werden",
             "es-ES": "Botes de remos en los que los pasajeros reman",
             "it-IT": "Barche in cui sono i passeggeri a remare",
@@ -81,7 +100,7 @@
             "pl-PL": "Łodzie wiosłowe napędzane przez samych pasażerów",
             "ru-RU": "Гребные лодки, где пассажиры гребут сами",
             "eo-ZZ": "Remado-boatoj, kiujn pasaĝeroj remas per si mem",
-            "ca-ES": "Bots de rem en els quals els passatgers han de remar per moure’ls.",
+            "ca-ES": "Bots de rem en els quals els passatgers han de remar per a moure’ls.",
             "fi-FI": "Soutuveneet, joita matkustajat itse soutavat"
         },
         "capacity": {

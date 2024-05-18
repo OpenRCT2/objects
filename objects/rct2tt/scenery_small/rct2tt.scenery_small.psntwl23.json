@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.psntwl23",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F821|PSNTWL23|58AC5C32",
     "sourceGame": "rct2tt",
@@ -20,11 +22,13 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/PSNTWL23.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/PSNTWL23.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Dark Age Village Upper Corner Piece",
-            "fr-FR": "Section haute de virage du village médiéval",
+            "fr-FR": "Coin haut du village médiéval",
             "de-DE": "Mittelalterdorf - Oberes Eckstück",
             "es-ES": "Sección inferior de esquina de pueblo medieval",
             "it-IT": "Tratto di curva superiore del villaggio dell’Età Oscura",

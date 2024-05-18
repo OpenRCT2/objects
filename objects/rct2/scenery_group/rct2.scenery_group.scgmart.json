@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_group.scgmart",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F87|SCGMART |4CDEB2CA",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_group",
     "properties": {
         "entries": [
@@ -20,11 +26,13 @@
         "priority": 26,
         "entertainerCostumes": "astronaut"
     },
-    "images": ["$RCT2:OBJDATA/SCGMART.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGMART.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Martian Theming",
-            "fr-FR": "Thème Alien",
+            "fr-FR": "Thème martien",
             "de-DE": "Mars-Thema",
             "es-ES": "Temática marciana",
             "it-IT": "Tema marziano",

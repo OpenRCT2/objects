@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.cyclopss",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F822|CYCLOPSS|91D50FE2",
     "sourceGame": "rct2tt",
@@ -30,18 +32,20 @@
                 "y": 0,
                 "clearance": 168,
                 "hasSupports": true,
-                "walls": 8
+                "walls": 12
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 168,
                 "hasSupports": true,
-                "walls": 2
+                "walls": 6
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/CYCLOPSS.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/CYCLOPSS.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Cyclops Statue",
@@ -61,7 +65,8 @@
             "eo-ZZ": "Statuo de Ciklopo",
             "ca-ES": "Estàtua de cíclop",
             "fi-FI": "Yksisilmäinen patsas",
-            "zh-CN": "独眼巨人雕像"
+            "zh-CN": "独眼巨人雕像",
+            "hu-HU": "Küklopsz szobor"
         }
     }
 }

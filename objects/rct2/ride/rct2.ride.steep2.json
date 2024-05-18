@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.steep2",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|STEEP2  |773C635C",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "steeplechase",
@@ -13,13 +19,25 @@
         },
         "carColours": [
             [
-                ["bright_red", "white", "black"]
+                [
+                    "bright_red",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["bright_green", "white", "black"]
+                [
+                    "bright_green",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "white", "black"]
+                [
+                    "light_blue",
+                    "white",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -38,15 +56,20 @@
             },
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [4, -4]
+            "loadingPositions": [
+                4,
+                -4
+            ]
         },
         "buildMenuPriority": 2
     },
-    "images": ["$RCT2:OBJDATA/STEEP2.DAT[0..258]"],
+    "images": [
+        "$RCT2:OBJDATA/STEEP2.DAT[0..258]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Motorbikes",
-            "fr-FR": "Courses de moto",
+            "fr-FR": "Moto",
             "de-DE": "Motorräder",
             "es-ES": "Carrera de Motos",
             "it-IT": "Corsa in motocicletta",
@@ -66,7 +89,7 @@
         },
         "description": {
             "en-GB": "Single cars shaped like a motorbike",
-            "fr-FR": "Véhicule en forme de moto de course parcourant des montagnes russes sur une voie monorail",
+            "fr-FR": "Voiture individuelle en forme de moto",
             "de-DE": "Einzelwagen, die wie Motorräder geformt sind",
             "es-ES": "Los pasajeros se montan en unos vagones con forma de moto que recorren sobre un monoraíl",
             "it-IT": "I passeggeri attraversano un tracciato monorotaia su veicoli a forma di motocicletta",

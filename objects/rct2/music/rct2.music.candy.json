@@ -1,16 +1,22 @@
 {
     "id": "rct2.music.candy",
-    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC32|00000000",
-    "sourceGame": ["rct2"],
+    "sourceGame": [
+        "rct2"
+    ],
     "objectType": "music",
     "properties": {
         "originalStyleId": 32,
         "tracks": [
             {
                 "source": "$RCT2:DATA/css46.dat",
-                "name": "Sweat Dreams"
+                "name": "Sweat Dreams",
+                "composer": "Allister Brimble"
             }
         ]
     },
@@ -36,7 +42,8 @@
             "tr-TR": "Şeker dünyası tarzı",
             "zh-CN": "糖果风格",
             "zh-TW": "糖果風格",
-            "eo-ZZ": "Dolĉaĵo-stilo"
+            "eo-ZZ": "Dolĉaĵo-stilo",
+            "nb-NO": "Godteri-stil"
         }
     }
 }

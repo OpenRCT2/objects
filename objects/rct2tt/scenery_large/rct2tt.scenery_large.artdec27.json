@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.artdec27",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F922|ARTDEC27|76ABF50F",
     "sourceGame": "rct2tt",
@@ -29,21 +31,23 @@
                 "x": 32,
                 "y": 0,
                 "clearance": 32,
-                "walls": 8
+                "walls": 12
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 32,
-                "walls": 2
+                "walls": 6
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/ARTDEC27.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/ARTDEC27.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Art Deco Top Corner Section",
-            "fr-FR": "Section de virage haut art déco",
+            "fr-FR": "Coin haut art déco",
             "de-DE": "Art Déco - oberer Eckabschnitt",
             "es-ES": "Sección superior de esquina Art Decó",
             "it-IT": "Sezione di curva superiore in art decò",

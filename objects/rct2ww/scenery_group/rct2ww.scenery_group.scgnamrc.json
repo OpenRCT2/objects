@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_group.scgnamrc",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0217|SCGNAMRC|354795D0",
     "sourceGame": "rct2ww",
@@ -121,13 +123,15 @@
             "rct2ww.scenery_large.1x4brg04",
             "rct2ww.scenery_large.1x4brg05"
         ],
-        "priority": 25,
+        "priority": 46,
         "entertainerCostumes": [
             "bandit",
             "sheriff"
         ]
     },
-    "images": ["$RCT2:OBJDATA/SCGNAMRC.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGNAMRC.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "North America Theming",

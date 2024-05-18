@@ -1,0 +1,195 @@
+{
+    "id": "rct1.ride.chairlift_cars",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "originalId": "00000000|#RCT1CFT|00000000",
+    "sourceGame": "rct1",
+    "isCompatibilityObject": true,
+    "objectType": "ride",
+    "properties": {
+        "type": "chairlift",
+        "category": "transport",
+        "hasShelter": true,
+        "carColours": [
+            [
+                [
+                    "yellow",
+                    "saturated_brown",
+                    "black"
+                ]
+            ],
+            [
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
+            ],
+            [
+                [
+                    "bright_green",
+                    "yellow",
+                    "black"
+                ]
+            ],
+            [
+                [
+                    "light_blue",
+                    "white",
+                    "black"
+                ]
+            ]
+        ],
+        "cars": {
+            "rotationFrameMask": 15,
+            "spacing": 147456,
+            "mass": 300,
+            "tabOffset": -22,
+            "numSeats": 2,
+            "numSeatRows": 1,
+            "spriteGroups": {
+                "slopeFlat": 16,
+                "restraintAnimation": 4
+            },
+            "hasAdditionalColour1": true,
+            "isChairlift": true,
+            "loadingPositions": [
+                4,
+                0
+            ]
+        },
+        "buildMenuPriority": 2
+    },
+    "images": [
+        { "path": "images/preview.png", "format": "raw" },
+        "",
+        "",
+        "$CSG[36773..36788]",
+        "$CSG[36789]",
+        "$CSG[36792]",
+        "$CSG[36795]",
+        "$CSG[36798]",
+        "$CSG[36790]",
+        "$CSG[36793]",
+        "$CSG[36796]",
+        "$CSG[36799]",
+        "$CSG[36791]",
+        "$CSG[36794]",
+        "$CSG[36797]",
+        "$CSG[36800]",
+        "$CSG[36801..36816]",
+        "$CSG[36817]",
+        "$CSG[36820]",
+        "$CSG[36823]",
+        "$CSG[36826]",
+        "$CSG[36818]",
+        "$CSG[36821]",
+        "$CSG[36824]",
+        "$CSG[36827]",
+        "$CSG[36819]",
+        "$CSG[36822]",
+        "$CSG[36825]",
+        "$CSG[36828]"
+    ],
+    "noCsgImages": [
+        { "path": "images/preview.png", "format": "raw" },
+        "",
+        "",
+        "$RCT2:OBJDATA/CLIFT1.DAT[3]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[5]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[7]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[9]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[11]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[13]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[15]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[17]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[19]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[21]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[23]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[25]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[27]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[29]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[31]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[33]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[35..46]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[47]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[49]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[51]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[53]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[55]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[57]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[59]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[61]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[63]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[65]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[67]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[69]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[71]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[73]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[75]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[77]",
+        "$RCT2:OBJDATA/CLIFT1.DAT[79..90]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Chairlift Cars",
+            "fr-FR": "Voiture télésiège",
+            "de-DE": "Sesselliftwagen",
+            "es-ES": "Coches de telesilla",
+            "it-IT": "Carrozze",
+            "nl-NL": "Stoeltjesliftkarretjes",
+            "sv-SE": "Gondollift",
+            "ko-KR": "리프트 차량",
+            "zh-CN": "升降机列车",
+            "zh-TW": "纜車車卡",
+            "pt-BR": "Carros de Teleférico",
+            "cs-CZ": "Kryté sedačkové lanovky",
+            "ja-JP": "チェアリフト車両",
+            "pl-PL": "Latające krzesełka",
+            "ru-RU": "Кресло-лифт",
+            "eo-ZZ": "Ĉaroj de Seĝlifto",
+            "ca-ES": "Cotxes telecadira"
+        },
+        "description": {
+            "en-GB": "Open cars for chairlift",
+            "fr-FR": "Voiture ouverte pour télésiège",
+            "de-DE": "Offene Wagen für Sessellift",
+            "es-ES": "Vagones abiertos para el telesilla",
+            "it-IT": "Carrozze aperte che vengono trainate",
+            "nl-NL": "Open stoeltjesliftkarretjes.",
+            "sv-SE": "Öppna gondoler för linbana",
+            "ko-KR": "철제 리프트 차량",
+            "zh-CN": "开放列车让游客上下山使用",
+            "zh-TW": "供纜車使用的開放式車卡",
+            "pt-BR": "Carros abertos para teleférico",
+            "cs-CZ": "Lanovka se sedačkami se střechou",
+            "ja-JP": "屋根のないリフトカーです",
+            "pl-PL": "Kolejka krzesełkowa z otwartymi siedziskami",
+            "ru-RU": "Открытые вагончики",
+            "eo-ZZ": "Subĉielaj ĉaroj de seĝlifto",
+            "ca-ES": "Cotxes oberts per al telecadira."
+        },
+        "capacity": {
+            "en-GB": "2 passengers per car",
+            "fr-FR": "2 passagers par voiture",
+            "de-DE": "2 Fahrgäste pro Wagen",
+            "es-ES": "2 pasajeros por vagón",
+            "it-IT": "2 passeggeri a carrozza",
+            "nl-NL": "2 passagiers per karretje",
+            "sv-SE": "2 passagerare per gondol",
+            "ko-KR": "차량당 2명의 승객",
+            "zh-CN": "2 位乘客/每个车厢",
+            "zh-TW": "每車卡2位乘客",
+            "pt-BR": "2 passageiros por carro",
+            "cs-CZ": "2 místa na jedné sedačce",
+            "ja-JP": "各車両2名",
+            "pl-PL": "2 pasażerów na wagonik",
+            "ru-RU": "2 пассажира",
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "ca-ES": "2 passatgers per cotxe"
+        }
+    }
+}

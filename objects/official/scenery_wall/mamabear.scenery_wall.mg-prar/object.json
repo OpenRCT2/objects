@@ -1,6 +1,9 @@
 {
     "id": "mamabear.scenery_wall.mg-prar",
-    "authors": ["Simon Foster", "Mama Bear"],
+    "authors": [
+        "Simon Foster",
+        "Mama Bear"
+    ],
     "version": "1.0",
     "originalId": "09F55A03|MG-PRAR |593FB402",
     "sourceGame": "official",
@@ -67,7 +70,9 @@
             "sv-SE": "Vägg med passage",
             "ca-ES": "Paret amb passadís",
             "fi-FI": "Seinä oviaukolla",
-            "zh-CN": "带通道的墙"
+            "zh-CN": "带通道的墙",
+            "ar-EG": "سور مع ممر",
+            "cs-CZ": "Stěna s průchodem"
         }
     }
 }

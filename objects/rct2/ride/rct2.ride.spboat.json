@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.spboat",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|SPBOAT  |1057649F",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "splash_boats",
@@ -22,10 +28,18 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["saturated_brown", "bordeaux_red", "black"]
+                [
+                    "saturated_brown",
+                    "bordeaux_red",
+                    "black"
+                ]
             ],
             [
-                ["grey", "dark_purple", "black"]
+                [
+                    "grey",
+                    "dark_purple",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -50,7 +64,24 @@
                 "isPowered": true,
                 "hasScreamingRiders": true,
                 "isWaterRide": true,
-                "loadingPositions": [14, 12, 14, 12, 6, 4, 6, 4, -6, -4, -6, -4, -14, -12, -14, -12]
+                "loadingPositions": [
+                    14,
+                    12,
+                    14,
+                    12,
+                    6,
+                    4,
+                    6,
+                    4,
+                    -6,
+                    -4,
+                    -6,
+                    -4,
+                    -14,
+                    -12,
+                    -14,
+                    -12
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -62,7 +93,7 @@
                 "effectVisual": 13,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true,
@@ -72,11 +103,14 @@
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/SPBOAT.DAT[0..1658]", ""],
+    "images": [
+        "$RCT2:OBJDATA/SPBOAT.DAT[0..1658]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Splash Boats",
-            "fr-FR": "Eclabousseur",
+            "fr-FR": "Bateau éclabousseur",
             "de-DE": "Splash-Boote",
             "es-ES": "Botes Locos",
             "it-IT": "Barche con lo schizzo",
@@ -97,7 +131,7 @@
         },
         "description": {
             "en-GB": "Large capacity boats, built for water tracks with very steep drops",
-            "fr-FR": "Grand bateau qui serpente le long d’une large voie navigable, monte sur des pentes grâce à un tapis roulant, et descend à toute vitesse de l’autre côté, éclaboussant allègrement les passagers",
+            "fr-FR": "Bateau de grande capacité, conçu pour les voies navigables aux chutes abruptes",
             "de-DE": "Boote mit hoher Kapazität, gebaut für Wasserstrecken mit sehr steilen Gefällen",
             "es-ES": "Botes de gran capacidad que viajan por un amplio canal impulsados por una cinta transportadora que producen grandes salpicaduras",
             "it-IT": "Barche molto capienti viaggiano per un largo canale d’acqua, trainate da nastri trasportatori, per poi prendere velocità lungo ripidi pendii bagnando i passeggeri con schizzi d’acqua giganti",

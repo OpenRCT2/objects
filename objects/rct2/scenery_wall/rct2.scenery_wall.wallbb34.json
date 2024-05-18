@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_wall.wallbb34",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F83|WALLBB34|37E35643",
     "sourceGame": "rct2",
@@ -10,7 +13,9 @@
         "height": 4,
         "price": 90
     },
-    "images": ["$RCT2:OBJDATA/WALLBB34.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/WALLBB34.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Stone Wall",

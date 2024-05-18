@@ -1,16 +1,23 @@
 {
     "id": "rct2.music.summer",
-    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC13|00000000",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "music",
     "properties": {
         "originalStyleId": 13,
         "tracks": [
             {
                 "source": "$RCT2:DATA/css29.dat",
-                "name": "Mid Summer’s Heat"
+                "name": "Mid Summer’s Heat",
+                "composer": "Allister Brimble"
             }
         ]
     },
@@ -36,7 +43,8 @@
             "tr-TR": "Yaz tarzı",
             "zh-CN": "夏日风格",
             "zh-TW": "夏日風格",
-            "eo-ZZ": "Somera stilo"
+            "eo-ZZ": "Somera stilo",
+            "nb-NO": "Sommer-stil"
         }
     }
 }

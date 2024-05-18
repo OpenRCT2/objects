@@ -1,8 +1,12 @@
 {
     "id": "rct2tt.footpath_surface.pavement",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
-    "sourceGame": ["rct2tt"],
+    "sourceGame": [
+        "rct2tt"
+    ],
     "objectType": "footpath_surface",
     "images": [
         { "path": "preview.png", "x": 1, "y": 1 },
@@ -25,7 +29,9 @@
             "pl-PL": "Chodnik uliczny",
             "ru-RU": "Тротуар",
             "ja-JP": "サイドワークの歩道",
-            "eo-ZZ": "Pavimo"
+            "eo-ZZ": "Pavimo",
+            "ca-ES": "Paviment",
+            "hu-HU": "Járda"
         }
     }
 }

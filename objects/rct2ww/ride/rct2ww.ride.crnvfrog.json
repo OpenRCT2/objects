@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.crnvfrog",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CC31C10|CRNVFROG|5C24055D",
     "sourceGame": "rct2ww",
@@ -17,10 +19,18 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["dark_green", "olive_green", "black"]
+                [
+                    "dark_green",
+                    "olive_green",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -40,7 +50,10 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [4, -4]
+                "loadingPositions": [
+                    4,
+                    -4
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -50,17 +63,20 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "isPowered": true
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/CRNVFROG.DAT[0..210]", ""],
+    "images": [
+        "$RCT2:OBJDATA/CRNVFROG.DAT[0..210]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Carnival Frog Cars",
-            "fr-FR": "Carnaval - Voitures grenouilles",
+            "fr-FR": "Grenouille de carnaval",
             "de-DE": "Karnevalsfroschwagen",
             "es-ES": "Atracción flotadores de carnaval; vagones rana",
             "it-IT": "Carnevale sull’acqua - Carrozze rana",
@@ -79,7 +95,7 @@
         },
         "description": {
             "en-GB": "Cars in the shape of frog carnival floats",
-            "fr-FR": "Voitures de montagnes russes en forme de chars grenouilles de carnaval",
+            "fr-FR": "Voiture en forme de char de carnaval grenouille",
             "de-DE": "Froschförmige Karnevalswagen",
             "es-ES": "Vagones de montaña rusa con forma de flotadores rana de carnaval",
             "it-IT": "Carrozze galleggianti di ottovolante a forma di rana",

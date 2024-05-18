@@ -1,6 +1,9 @@
 {
     "id": "rct1aa.footpath_surface.queue_green",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "rct1aa",
     "objectType": "footpath_surface",
@@ -20,7 +23,11 @@
             "en-GB": "Green Queue",
             "de-DE": "Grüne Warteschlange",
             "nl-NL": "Groene wachtrij",
-            "eo-ZZ": "Verda Atendovico"
+            "eo-ZZ": "Verda Atendovico",
+            "ar-EG": "طابور إنتظار أخضر",
+            "ca-ES": "Cua verda",
+            "ko-KR": "녹색 대기줄",
+            "pt-BR": "Fila Verde"
         }
     }
 }

@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.arrsw1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|ARRSW1  |0861F5A7",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "suspended_swinging_rc",
@@ -12,13 +18,25 @@
         "maxCarsPerTrain": 8,
         "carColours": [
             [
-                ["bright_red", "saturated_red", "yellow"]
+                [
+                    "bright_red",
+                    "saturated_red",
+                    "yellow"
+                ]
             ],
             [
-                ["dark_green", "dark_purple", "white"]
+                [
+                    "dark_green",
+                    "dark_purple",
+                    "white"
+                ]
             ],
             [
-                ["white", "grey", "bright_red"]
+                [
+                    "white",
+                    "grey",
+                    "bright_red"
+                ]
             ]
         ],
         "cars": {
@@ -43,11 +61,18 @@
             "hasSwinging": true,
             "hasScreamingRiders": true,
             "useSuspendedSwing": true,
-            "loadingPositions": [4, 6, -6, -4]
+            "loadingPositions": [
+                4,
+                6,
+                -6,
+                -4
+            ]
         },
         "buildMenuPriority": 3
     },
-    "images": ["$RCT2:OBJDATA/ARRSW1.DAT[0..4622]"],
+    "images": [
+        "$RCT2:OBJDATA/ARRSW1.DAT[0..4622]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Suspended Swinging Cars",
@@ -71,7 +96,7 @@
         },
         "description": {
             "en-GB": "Suspended roller coaster trains consisting of cars able to swing freely as the train goes around corners",
-            "fr-FR": "Train suspendu à des montagnes russes et dont les voitures se balancent dans les virages",
+            "fr-FR": "Train de montagnes russes suspendues dont les voitures se balancent dans les virages",
             "de-DE": "Hängende Achterbahnzüge, die aus Wagen bestehen, die frei schwingen können, wenn der Zug um die Kurven fährt",
             "es-ES": "Vagones suspendidos que se balancean libremente al tomar las curvas",
             "it-IT": "I treni da ottovolante sospesi trainano carrozze capaci di oscillare liberamente quando il treno gira in una curva",

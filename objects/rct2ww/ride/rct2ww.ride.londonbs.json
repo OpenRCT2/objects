@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.londonbs",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0810|LONDONBS|20DA2498",
     "sourceGame": "rct2ww",
@@ -18,13 +20,11 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["bright_red", "yellow", "black"]
-            ],
-            [
-                ["yellow", "white", "black"]
-            ],
-            [
-                ["light_blue", "white", "black"]
+                [
+                    "black",
+                    "bright_pink",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -45,7 +45,18 @@
                     "diagonalSlopes": true
                 },
                 "isPowered": true,
-                "loadingPositions": [12, -12, 12, -12, 12, -12, 13, 11, -13, -11]
+                "loadingPositions": [
+                    12,
+                    -12,
+                    12,
+                    -12,
+                    12,
+                    -12,
+                    13,
+                    11,
+                    -13,
+                    -11
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -57,17 +68,20 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "isPowered": true
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/LONDONBS.DAT[0..770]", ""],
+    "images": [
+        "$RCT2:OBJDATA/LONDONBS.DAT[0..770]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Routemaster Buses",
-            "fr-FR": "Tram bus londonien",
+            "fr-FR": "Bus londonien",
             "de-DE": "Londoner Busse",
             "es-ES": "Tranvía de autobús londinense",
             "it-IT": "Autobus di Londra",
@@ -86,7 +100,7 @@
         },
         "description": {
             "en-GB": "Replicas of the famous London Routemaster bus",
-            "fr-FR": "Répliques de trams",
+            "fr-FR": "Réplique des célèbres bus londoniens",
             "de-DE": "Nachbauten des berühmten Londoner Routemaster-Busses",
             "es-ES": "Réplica de tranvías",
             "it-IT": "Replica del famoso autobus Routemaster di Londra",
@@ -96,13 +110,12 @@
             "ja-JP": "ルートマスターバスのレプリカです",
             "ar-EG": "Replicas of the famous London Routemaster bus",
             "cs-CZ": "Repliky červených dvoupatrových londýnských autobusů",
-            "en-US": "Replicas of the famous London Routemaster bus",
             "ko-KR": "유명한 런던 루트마스터 버스의 모형",
             "pl-PL": "Wagoniki są replikami londyńskich autobusów",
             "pt-BR": "Réplicas do famoso ônibus Routemaster de Londres",
             "ru-RU": "Автобус",
             "eo-ZZ": "Replikaĵoj de la fama Londona Etaĝa Buso",
-            "ca-ES": "Rèpliques del famos autobús londinenc Routemaster.",
+            "ca-ES": "Rèpliques del famós autobús londinenc Routemaster.",
             "fi-FI": "Lontoon kuuluisan Routemaster-bussin jäljennökset"
         },
         "capacity": {

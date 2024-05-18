@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.minecart",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0210|MINECART|CC5270CE",
     "sourceGame": "rct2ww",
@@ -12,13 +14,11 @@
         "maxCarsPerTrain": 7,
         "carColours": [
             [
-                ["yellow", "black", "light_orange"]
-            ],
-            [
-                ["bright_red", "saturated_brown", "yellow"]
-            ],
-            [
-                ["bright_green", "grey", "bright_red"]
+                [
+                    "black",
+                    "bright_pink",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -46,14 +46,21 @@
                 "restraintAnimation": true
             },
             "hasScreamingRiders": true,
-            "loadingPositions": [5, 3, -7, -9]
+            "loadingPositions": [
+                5,
+                3,
+                -7,
+                -9
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/MINECART.DAT[0..2162]"],
+    "images": [
+        "$RCT2:OBJDATA/MINECART.DAT[0..2162]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Mine Cart Trains",
-            "fr-FR": "Mine en folie",
+            "fr-FR": "Chariot de mine",
             "de-DE": "Minenlorenzüge",
             "es-ES": "Atracción Vagonetas",
             "it-IT": "La miniera",
@@ -62,7 +69,6 @@
             "zh-CN": "矿车游乐设施",
             "ar-EG": "Mine Cart Trains",
             "cs-CZ": "Dulní jízda",
-            "en-US": "Mine Cart Trains",
             "ja-JP": "鉱山カートトレイン",
             "ko-KR": "탄광 카트 차량",
             "pl-PL": "Wagoniki kopalniane",
@@ -74,7 +80,7 @@
         },
         "description": {
             "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints",
-            "fr-FR": "Train pour montagnes russes en bois avec des sièges rembourrés et des barres de protection au niveau des jambes",
+            "fr-FR": "Train de montagnes russes en bois avec des sièges rembourrés et des barres de protection au niveau des jambes",
             "de-DE": "Holzachterbahnzüge mit gepolsterten Sitzen und Beckenhalterungen",
             "es-ES": "Trenes de madera con asientos acolchados y barras de sujeción",
             "it-IT": "Ottovolante percorso da carrozze di legno con sedili imbottiti e barre di sicurezza che bloccano le gambe",
@@ -101,7 +107,7 @@
             "sv-SE": "4 passagerare per vagn",
             "zh-CN": "4位乘客/车",
             "cs-CZ": "4 místa v každém voze",
-            "ko-KR": "차량당 4명의 승객",
+            "ko-KR": "차량 당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
             "pt-BR": "4 passageiros por vagão",
             "ru-RU": "4 пассажира в вагоне",

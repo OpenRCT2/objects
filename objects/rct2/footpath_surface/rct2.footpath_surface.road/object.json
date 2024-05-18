@@ -1,9 +1,15 @@
 {
     "id": "rct2.footpath_surface.road",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2"
+    ],
     "objectType": "footpath_surface",
+    "isCompatibilityObject": true,
     "properties": {
         "editorOnly": true
     },
@@ -29,7 +35,8 @@
             "pl-PL": "Droga",
             "ru-RU": "Путь",
             "ar-Eg": "طريق",
-            "eo-ZZ": "Strato"
+            "eo-ZZ": "Strato",
+            "ca-ES": "Camí pavimentat"
         }
     }
 }

@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.hodshut2",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F822|HODSHUT2|F1131793",
     "sourceGame": "rct2tt",
@@ -27,17 +29,19 @@
                 "x": 32,
                 "y": 0,
                 "clearance": 64,
-                "walls": 8
+                "walls": 12
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 64,
-                "walls": 2
+                "walls": 6
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/HODSHUT2.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/HODSHUT2.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Robin Hood’s Hut",

@@ -1,13 +1,19 @@
 {
     "id": "rct2.terrain_surface.sand_red",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0000008B|#RCT2SSR|00000000",
     "sourceGame": "rct2",
     "objectType": "terrain_surface",
     "properties": {
         "price": 110,
-        "mapColours": [111, 111],
+        "mapColours": [
+            111,
+            111
+        ],
         "smoothWithSelf": true,
         "smoothWithOther": true
     },
@@ -28,7 +34,7 @@
             "ko-KR": "모래 (적색)",
             "eo-ZZ": "Sablo (Ruĝa)",
             "sv-SE": "Sand (röd)",
-            "ca-ES": "Sorra (Vermella)",
+            "ca-ES": "Sorra (vermella)",
             "fi-FI": "Hiekka (punainen)",
             "zh-CN": "沙子(红色)"
         }

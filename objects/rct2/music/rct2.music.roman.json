@@ -1,16 +1,23 @@
 {
     "id": "rct2.music.roman",
-    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC02|00000000",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "music",
     "properties": {
         "originalStyleId": 2,
         "tracks": [
             {
                 "source": "$RCT2:DATA/css18.dat",
-                "name": "Caesar’s March"
+                "name": "Caesar’s March",
+                "composer": "Allister Brimble"
             }
         ]
     },
@@ -36,7 +43,8 @@
             "zh-CN": "罗马号角风格",
             "zh-TW": "羅馬號角風格",
             "eo-ZZ": "Roma-fanfaro-stilo",
-            "fi-FI": "Roomalaisfanfaarin tyylinen"
+            "fi-FI": "Roomalaisfanfaarin tyylinen",
+            "nb-NO": "Romersk fanfare-stil"
         }
     }
 }

@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.tjt3",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188E81|TJT3    |31293077",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 20,
@@ -14,7 +20,9 @@
         "isTree": true,
         "shape": "4/4"
     },
-    "images": ["$RCT2:OBJDATA/TJT3.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TJT3.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Tree",

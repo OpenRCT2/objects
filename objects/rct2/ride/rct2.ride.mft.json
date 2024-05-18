@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.mft",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|MFT     |52488B03",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "wooden_rc",
@@ -18,13 +24,25 @@
         },
         "carColours": [
             [
-                ["dark_green", "bordeaux_red", "black"]
+                [
+                    "dark_green",
+                    "bordeaux_red",
+                    "black"
+                ]
             ],
             [
-                ["bordeaux_red", "dark_brown", "yellow"]
+                [
+                    "bordeaux_red",
+                    "dark_brown",
+                    "yellow"
+                ]
             ],
             [
-                ["dark_brown", "black", "bordeaux_red"]
+                [
+                    "dark_brown",
+                    "black",
+                    "bordeaux_red"
+                ]
             ]
         ],
         "cars": [
@@ -55,7 +73,12 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [5, 3, -7, -9]
+                "loadingPositions": [
+                    5,
+                    3,
+                    -7,
+                    -9
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -83,7 +106,12 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    -3,
+                    -1
+                ]
             }
         ],
         "buildMenuPriority": 3
@@ -97,7 +125,7 @@
     "strings": {
         "name": {
             "en-GB": "Articulated Roller Coaster Trains",
-            "fr-FR": "Trains articulés",
+            "fr-FR": "Train articulé",
             "de-DE": "Gelenkverbundene Züge",
             "es-ES": "Tren Montaña Rusa Articulado",
             "it-IT": "Treni da ottovolante articolati",
@@ -117,7 +145,7 @@
         },
         "description": {
             "en-GB": "Roller coaster trains with short single-row cars and open fronts",
-            "fr-FR": "Trains composés de voitures de petite taille disposées en une seule rangée et dévalant des montagnes russes",
+            "fr-FR": "Train de montagnes russes composé de voitures d’une seule rangée ouvertes à l’avant",
             "de-DE": "Achterbahnzüge mit kurzen einreihigen Wagen und offenen Fronten",
             "es-ES": "Montaña rusa con pequeños vagones en una única fila",
             "it-IT": "Treni da ottovolante con piccole carrozze a unica fila aperte sul davanti",

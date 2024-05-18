@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.corns2x2",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F822|CORNS2X2|6BFBB64E",
     "sourceGame": "rct2tt",
@@ -31,22 +33,24 @@
                 "y": 0,
                 "clearance": 72,
                 "hasSupports": true,
-                "walls": 8
+                "walls": 12
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 72,
                 "hasSupports": true,
-                "walls": 2
+                "walls": 6
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/CORNS2X2.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/CORNS2X2.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Roman Palace Corner Piece",
-            "fr-FR": "Section de virage de palais romain",
+            "fr-FR": "Coin de palais romain",
             "de-DE": "Eckstück des Römischen Palastes",
             "es-ES": "Sección de esquina de palacio romano",
             "it-IT": "Tratto di curva del Palazzo Romano",

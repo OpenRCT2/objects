@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.1x2glama",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CC31D12|1X2GLAMA|7B537B66",
     "sourceGame": "rct2ww",
@@ -16,18 +18,20 @@
                 "y": 0,
                 "clearance": 119,
                 "hasSupports": true,
-                "walls": 9
+                "walls": 11
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 119,
                 "hasSupports": true,
-                "walls": 3
+                "walls": 14
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/1X2GLAMA.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/1X2GLAMA.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Gold Llama",

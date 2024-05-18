@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.bmvd",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|BMVD    |2652B6A8",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "vertical_drop_rc",
@@ -12,10 +18,18 @@
         "maxCarsPerTrain": 3,
         "carColours": [
             [
-                ["black", "light_orange", "light_orange"]
+                [
+                    "black",
+                    "light_orange",
+                    "light_orange"
+                ]
             ],
             [
-                ["light_purple", "bright_red", "black"]
+                [
+                    "light_purple",
+                    "bright_red",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -44,15 +58,24 @@
             "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [3, -3, 3, -3, 3, -3]
+            "loadingPositions": [
+                3,
+                -3,
+                3,
+                -3,
+                3,
+                -3
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/BMVD.DAT[0..2882]"],
+    "images": [
+        "$RCT2:OBJDATA/BMVD.DAT[0..2882]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Six-seater Twister Trains",
-            "fr-FR": "Montagnes russes en chute vert.",
+            "fr-FR": "Train à six places",
             "de-DE": "6-Sitzer-Twister-Züge",
             "es-ES": "Montaña Rusa Caída Vertical",
             "it-IT": "Ottovolante a caduta verticale",
@@ -72,7 +95,7 @@
         },
         "description": {
             "en-GB": "Roller coaster trains with extra-wide cars, built for vertical drops",
-            "fr-FR": "Des voitures très larges descendent des voies en pente verticale. Pour amateurs de chute libre",
+            "fr-FR": "Train de montagnes russes avec des voitures extra-larges, conçues pour des chutes verticales",
             "de-DE": "Achterbahnzüge mit besonders breiten Wagen, für vertikale Gefälle ausgelegt",
             "es-ES": "Vagones superanchos descienden completamente verticales para una experiencia definitiva",
             "it-IT": "Carrozze larghissime scendono giù per un tracciato completamente in verticale per offrire l’esperienza di caduta libera definitiva per quel che riguarda un ottovolante",

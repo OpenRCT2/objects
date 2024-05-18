@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.slcfo",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|SLCFO   |7E0B210A",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "compact_inverted_rc",
@@ -18,13 +24,25 @@
         },
         "carColours": [
             [
-                ["yellow", "black", "bright_red"]
+                [
+                    "yellow",
+                    "black",
+                    "bright_red"
+                ]
             ],
             [
-                ["black", "bright_red", "bright_red"]
+                [
+                    "black",
+                    "bright_red",
+                    "bright_red"
+                ]
             ],
             [
-                ["dark_green", "yellow", "yellow"]
+                [
+                    "dark_green",
+                    "yellow",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -53,15 +71,22 @@
             "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [1, 3, 1, 3]
+            "loadingPositions": [
+                1,
+                3,
+                1,
+                3
+            ]
         },
         "buildMenuPriority": 2
     },
-    "images": ["$RCT2:OBJDATA/SLCFO.DAT[0..2042]"],
+    "images": [
+        "$RCT2:OBJDATA/SLCFO.DAT[0..2042]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Face-off Cars",
-            "fr-FR": "Navette inversée",
+            "fr-FR": "Voiture face-à-face",
             "de-DE": "Plandrehwagen",
             "es-ES": "Montaña Rusa Lanzadera",
             "it-IT": "Ottovolante a navetta invertita",

@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_group.scgmine",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F87|SCGMINE |BAA04D4E",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_group",
     "properties": {
         "entries": [
@@ -38,11 +44,13 @@
         ],
         "priority": 28
     },
-    "images": ["$RCT2:OBJDATA/SCGMINE.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGMINE.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Mine Theming",
-            "fr-FR": "Thème Minier",
+            "fr-FR": "Thème minier",
             "de-DE": "Bergwerksthema",
             "es-ES": "Temática minera",
             "it-IT": "Tema miniera",

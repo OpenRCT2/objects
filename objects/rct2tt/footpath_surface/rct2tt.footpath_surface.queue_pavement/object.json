@@ -1,8 +1,12 @@
 {
     "id": "rct2tt.footpath_surface.queue_pavement",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
-    "sourceGame": ["rct2tt"],
+    "sourceGame": [
+        "rct2tt"
+    ],
     "objectType": "footpath_surface",
     "properties": {
         "isQueue": true
@@ -17,7 +21,12 @@
             "en-US": "Sidewalk Queue",
             "de-DE": "Bürgersteigwarteschlange",
             "nl-NL": "Stoepwachtrij",
-            "eo-ZZ": "Pavima Atendovico"
+            "eo-ZZ": "Pavima Atendovico",
+            "ca-ES": "Cua arc de Sant Martí",
+            "fr-FR": "File d’attente pavée",
+            "ko-KR": "포장도로 대기줄",
+            "pt-BR": "Fila de Pavimento",
+            "hu-HU": "Járda várósor"
         }
     }
 }

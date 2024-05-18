@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.hotrodxx",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA20|HOTRODXX|C6560675",
     "sourceGame": "rct2tt",
@@ -16,13 +18,25 @@
         "headCars": 1,
         "carColours": [
             [
-                ["bright_red", "bright_yellow", "black"]
+                [
+                    "bright_red",
+                    "bright_yellow",
+                    "yellow"
+                ]
             ],
             [
-                ["light_blue", "bright_red", "black"]
+                [
+                    "light_blue",
+                    "bright_red",
+                    "yellow"
+                ]
             ],
             [
-                ["yellow", "bright_red", "black"]
+                [
+                    "yellow",
+                    "bright_red",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -45,7 +59,10 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [3, -3]
+                "loadingPositions": [
+                    3,
+                    -3
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -65,7 +82,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/HOTRODXX.DAT[0..1166]"],
+    "images": [
+        "$RCT2:OBJDATA/HOTRODXX.DAT[0..1166]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Hot Rod Trains",
@@ -85,11 +104,12 @@
             "ja-JP": "ホットロッドレーストレイン",
             "eo-ZZ": "Hot-Rod Trajnoj",
             "ca-ES": "Muntanya russa de bòlids",
-            "fi-FI": "Hot rod -vaunut"
+            "fi-FI": "Hot rod -vaunut",
+            "hu-HU": "Hot rod vonatok"
         },
         "description": {
             "en-GB": "Air-powered launched roller coaster trains in the shape of hot rod cars",
-            "fr-FR": "Après avoir été propulsé dans les airs, le train accélère sur une voie verticale, passe le sommet, et retombe de l’autre côté en direction de la station",
+            "fr-FR": "Train de montagnes russes à air comprimé en forme de bolide",
             "de-DE": "Achterbahnzüge, die luftbetrieben gestartet werden. Sie sehen aus wie Hotrod-Wagen",
             "es-ES": "Después de un divertido lanzamiento por aire, el tren acelera por una vía vertical, hasta lo más alto, viajando verticalmente por el otro lado para llegar a la estación.",
             "it-IT": "Dopo un esilarante lancio effettuato sfruttando l’aria compressa, il treno accelera lungo una salita verticale, supera la cima e scende lungo un pendio verticale per tornare infine alla stazione.",
@@ -104,7 +124,8 @@
             "ru-RU": "После ускоряющего толчка поезд разгоняется по вертикальному треку и опускается вниз на станцию.",
             "eo-ZZ": "Trajnoj de onda fervojo, lanĉitaj per aero kaj formitaj kiel hot-rod-aj aŭtoj",
             "ca-ES": "Muntanya russa amb trens propulsats amb aire en forma de bòlids.",
-            "fi-FI": "Hot rod -autojen muotoiset ilmakäyttöislaukaistut vuoristoratavaunut"
+            "fi-FI": "Hot rod -autojen muotoiset ilmakäyttöislaukaistut vuoristoratavaunut",
+            "hu-HU": "Léghajtású kilövős hullámvasútvonatok, hot rod autók formájában"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -124,7 +145,8 @@
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
-            "zh-CN": "2位乘客/车"
+            "zh-CN": "2位乘客/车",
+            "hu-HU": "2 utas kocsinként"
         }
     }
 }

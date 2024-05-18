@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_small.sbh3cskl",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0711|SBH3CSKL|16B402D9",
     "sourceGame": "rct2ww",
@@ -14,7 +16,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/SBH3CSKL.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/SBH3CSKL.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Cattle Skull",

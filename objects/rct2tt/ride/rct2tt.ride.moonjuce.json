@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.moonjuce",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FB20|MOONJUCE|6C54E05B",
     "sourceGame": "rct2tt",
@@ -14,11 +16,17 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["black", "black", "black"]
+                [
+                    "black",
+                    "black",
+                    "black"
+                ]
             ]
         ]
     },
-    "images": ["$RCT2:OBJDATA/MOONJUCE.DAT[0..6]"],
+    "images": [
+        "$RCT2:OBJDATA/MOONJUCE.DAT[0..6]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Moon Juice",
@@ -38,7 +46,8 @@
             "eo-ZZ": "Lunsuko",
             "ca-ES": "Suc de lluna",
             "fi-FI": "Kuumehu",
-            "zh-CN": "月亮果汁"
+            "zh-CN": "月亮果汁",
+            "hu-HU": "Holdlé"
         },
         "description": {
             "en-GB": "A stall selling the latest soft drinks",
@@ -58,7 +67,8 @@
             "eo-ZZ": "Budo vendanta la plej aktualajn refreŝigaĵojn",
             "ca-ES": "Un estand on es venen les begudes de refresc més noves.",
             "fi-FI": "Koju, joka myy kaikista uusimpia juomia",
-            "zh-CN": "卖最新软饮料的摊位"
+            "zh-CN": "卖最新软饮料的摊位",
+            "hu-HU": "Egy bódé, ahol a legújabb üdítőitalokat árulják"
         }
     }
 }

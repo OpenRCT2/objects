@@ -1,9 +1,14 @@
 {
     "id": "rct2.ride.togst",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|TOGST   |48100195",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "stand_up_rc",
@@ -17,13 +22,25 @@
         "tailCars": 2,
         "carColours": [
             [
-                ["yellow", "bright_red", "black"]
+                [
+                    "yellow",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["bright_red", "white", "black"]
+                [
+                    "bright_red",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "yellow", "black"]
+                [
+                    "light_blue",
+                    "yellow",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -51,7 +68,12 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [6, 8, -4, -2]
+                "loadingPositions": [
+                    6,
+                    8,
+                    -4,
+                    -2
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -77,7 +99,12 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [6, 8, -4, -2]
+                "loadingPositions": [
+                    6,
+                    8,
+                    -4,
+                    -2
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -101,11 +128,13 @@
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/TOGST.DAT[0..4470]"],
+    "images": [
+        "$RCT2:OBJDATA/TOGST.DAT[0..4470]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Stand-up Roller Coaster Trains",
-            "fr-FR": "Montagnes russes debout",
+            "fr-FR": "Train de montagnes russes debout",
             "de-DE": "Stehachterbahnzüge",
             "es-ES": "Montaña Rusa En Pie",
             "it-IT": "Corsa in posiz. eretta",
@@ -117,7 +146,6 @@
             "pt-BR": "Trens Montanha-Russa em Pé",
             "ar-EG": "Stand-up Roller Coaster Trains",
             "cs-CZ": "Horská dráha \"na stojáka\"",
-            "en-US": "Stand-up Roller Coaster Trains",
             "ja-JP": "立ち乗りローラーコースター",
             "pl-PL": "Stojąca kolejka",
             "ru-RU": "Стоячие горки",
@@ -127,7 +155,7 @@
         },
         "description": {
             "en-GB": "Roller coaster trains in which the riders ride in a standing position",
-            "fr-FR": "Grand huit que les passagers parcourent debout",
+            "fr-FR": "Train de montagnes russes où les passagers restent debout",
             "de-DE": "Achterbahnzüge, bei der sich die Fahrgäste in einer stehenden Position befinden",
             "es-ES": "Una montaña rusa en el que los pasajeros permanecen de pie",
             "it-IT": "Un ottovolante con giro della morte in cui i passeggeri stanno in posizione eretta",

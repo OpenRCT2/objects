@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.mantaray",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0E10|MANTARAY|F70C5508",
     "sourceGame": "rct2ww",
@@ -20,13 +22,25 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["dark_brown", "bright_red", "black"]
+                [
+                    "dark_brown",
+                    "bright_red",
+                    "yellow"
+                ]
             ],
             [
-                ["grey", "dark_brown", "black"]
+                [
+                    "grey",
+                    "dark_brown",
+                    "yellow"
+                ]
             ],
             [
-                ["saturated_brown", "dark_green", "black"]
+                [
+                    "saturated_brown",
+                    "dark_green",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -51,7 +65,14 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, 2, 4, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    2,
+                    4,
+                    -3,
+                    -1
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -61,14 +82,17 @@
                 "carVisual": 8,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/MANTARAY.DAT[0..1730]", ""],
+    "images": [
+        "$RCT2:OBJDATA/MANTARAY.DAT[0..1730]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Manta Ray Boats",
@@ -91,7 +115,7 @@
         },
         "description": {
             "en-GB": "Coaster boats in the shape of a manta ray",
-            "fr-FR": "Grand bateau qui serpente le long d’une large voie navigable, monte sur des pentes grâce à un tapis roulant, et descend à toute vitesse de l’autre côté, éclaboussant allègrement les passagers",
+            "fr-FR": "Bateau de montagnes russes en forme de raie manta",
             "de-DE": "Achterbahnboote in der Form eines Mantarochens",
             "es-ES": "Botes de gran capacidad que viajan por un amplio canal de agua y son empujados hacia arriba por una cinta transportadora, para luego precipitarse cuesta abajo empapando a los viajeros con una salpicadura gigante",
             "it-IT": "Delle capienti imbarcazioni si muovono lungo un ampio canale, risalendo grazie a un nastro trasportatore e lanciandosi dalle discese per piombare in acqua e infradiciare i passeggeri",

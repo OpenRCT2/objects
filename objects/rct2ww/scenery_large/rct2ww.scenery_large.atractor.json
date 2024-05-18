@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.atractor",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0512|ATRACTOR|7B1283E5",
     "sourceGame": "rct2ww",
@@ -14,13 +16,13 @@
                 "x": 0,
                 "y": 0,
                 "clearance": 48,
-                "walls": 9
+                "walls": 11
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 48,
-                "walls": 3
+                "walls": 14
             }
         ]
     },

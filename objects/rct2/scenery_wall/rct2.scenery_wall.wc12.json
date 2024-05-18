@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_wall.wc12",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188083|WC12    |7E62BBB8",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "scenery_wall",
     "properties": {
         "hasPrimaryColour": true,
@@ -12,7 +18,13 @@
         "price": 100,
         "sceneryGroup": "rct2.scenery_group.scgfence"
     },
-    "images": ["$RCT2:OBJDATA/WC12.DAT[0..5]"],
+    "images": [
+        "$RCT2:OBJDATA/WC12.DAT[0..1]",
+        { "gx": "$RCT2:OBJDATA/WC12.DAT[2]", "y": -83 },
+        { "gx": "$RCT2:OBJDATA/WC12.DAT[3]", "y": -82 },
+        { "gx": "$RCT2:OBJDATA/WC12.DAT[4]", "y": -69 },
+        { "gx": "$RCT2:OBJDATA/WC12.DAT[5]", "y": -68 }
+    ],
     "strings": {
         "name": {
             "en-GB": "Castle Wall",

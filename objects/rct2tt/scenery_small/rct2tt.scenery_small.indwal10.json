@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.indwal10",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F921|INDWAL10|4CB7C2A9",
     "sourceGame": "rct2tt",
@@ -19,7 +21,9 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/INDWAL10.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/INDWAL10.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Industrial Wall with Doorway",

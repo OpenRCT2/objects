@@ -1,8 +1,12 @@
 {
     "id": "rct2tt.footpath_surface.rainbow",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
-    "sourceGame": ["rct2tt"],
+    "sourceGame": [
+        "rct2tt"
+    ],
     "objectType": "footpath_surface",
     "images": [
         { "path": "preview.png", "x": 1, "y": 1 },
@@ -24,7 +28,8 @@
             "pl-PL": "Tęczowy chodnik",
             "ru-RU": "Дорожка",
             "ja-JP": "虹色な木造",
-            "eo-ZZ": "Ĉielarka Trotuaro"
+            "eo-ZZ": "Ĉielarka Trotuaro",
+            "ca-ES": "Camí arc de Sant Martí"
         }
     }
 }

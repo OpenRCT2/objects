@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.bob1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|BOB1    |2A8F112F",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "bobsleigh_rc",
@@ -11,13 +17,25 @@
         "maxCarsPerTrain": 8,
         "carColours": [
             [
-                ["light_blue", "white", "bright_red"]
+                [
+                    "light_blue",
+                    "white",
+                    "bright_red"
+                ]
             ],
             [
-                ["bright_red", "saturated_red", "yellow"]
+                [
+                    "bright_red",
+                    "saturated_red",
+                    "yellow"
+                ]
             ],
             [
-                ["yellow", "dark_olive_green", "light_orange"]
+                [
+                    "yellow",
+                    "dark_olive_green",
+                    "light_orange"
+                ]
             ]
         ],
         "cars": {
@@ -40,11 +58,16 @@
             "hasScreamingRiders": true,
             "useSuspendedSwing": true,
             "useSlideSwing": true,
-            "loadingPositions": [3, -3]
+            "loadingPositions": [
+                3,
+                -3
+            ]
         },
         "buildMenuPriority": 2
     },
-    "images": ["$RCT2:OBJDATA/BOB1.DAT[0..2706]"],
+    "images": [
+        "$RCT2:OBJDATA/BOB1.DAT[0..2706]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Bobsleigh Trains",
@@ -64,11 +87,12 @@
             "ru-RU": "Бобслей-поезд",
             "eo-ZZ": "Bobsledo-Trajnoj",
             "ca-ES": "Trens bob",
-            "fi-FI": "Rattikelkkavaunut"
+            "fi-FI": "Rattikelkkavaunut",
+            "en-US": "Bobsled Trains"
         },
         "description": {
             "en-GB": "Trains consisting of 2-seater cars where the riders are behind each other",
-            "fr-FR": "Les passagers descendent un parcours plein de virages à bord d’une voiture en forme de bobsleigh dirigée uniquement par les courbes et l’inclinaison de la voie semi-circulaire",
+            "fr-FR": "Train composé de voitures où deux passagers s’asseoient l’un derrière l’autre sur des sièges",
             "de-DE": "Züge mit Zweisitzerwagen, in denen die Fahrgäste hintereinander sitzen",
             "es-ES": "Los pasajeros viajan por unas vías retorcidas en vagones tipo bobsleigh guiados únicamente por la curvatura y los peraltes de la vía semicircular",
             "it-IT": "I passeggeri si fanno strada lungo un tracciato con molte curve all’interno di carrozze a forma di slittino guidate solo dalla curvatura e dall’inclinazione del tracciato semi-circolare",

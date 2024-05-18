@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.bigbassx",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA21|BIGBASSX|84361EED",
     "sourceGame": "rct2tt",
@@ -15,7 +17,9 @@
         "hasPrimaryColour": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/BIGBASSX.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/BIGBASSX.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Giant Bass Guitar",
@@ -35,7 +39,8 @@
             "eo-ZZ": "Giganta Basagitaro",
             "ca-ES": "Baix gegant",
             "fi-FI": "Jättimäinen basso",
-            "zh-CN": "巨大低音吉他"
+            "zh-CN": "巨大低音吉他",
+            "hu-HU": "Óriás basszusgitár"
         }
     }
 }

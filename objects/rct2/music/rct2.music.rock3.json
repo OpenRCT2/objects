@@ -1,16 +1,22 @@
 {
     "id": "rct2.music.rock3",
-    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC31|00000000",
-    "sourceGame": ["rct2"],
+    "sourceGame": [
+        "rct2"
+    ],
     "objectType": "music",
     "properties": {
         "originalStyleId": 31,
         "tracks": [
             {
                 "source": "$RCT2:DATA/css45.dat",
-                "name": "Space Rock"
+                "name": "Space Rock",
+                "composer": "Allister Brimble"
             }
         ]
     },
@@ -36,7 +42,8 @@
             "tr-TR": "Rock tarzı 3",
             "zh-CN": "摇滚风格3",
             "zh-TW": "搖滾風格3",
-            "eo-ZZ": "Rokmuzika stilo 3"
+            "eo-ZZ": "Rokmuzika stilo 3",
+            "nb-NO": "Rock-stil 3"
         }
     }
 }

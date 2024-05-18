@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.rkreml09",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0912|RKREML09|9D332FBA",
     "sourceGame": "rct2ww",
@@ -28,17 +30,19 @@
                 "x": 32,
                 "y": 0,
                 "clearance": 128,
-                "walls": 8
+                "walls": 12
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 128,
-                "walls": 2
+                "walls": 6
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/RKREML09.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/RKREML09.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Kremlin Large Tower Top",

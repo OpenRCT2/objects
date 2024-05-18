@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_group.scgorien",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F87|SCGORIEN|94A48203",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "scenery_group",
     "properties": {
         "entries": [
@@ -24,11 +30,13 @@
         ],
         "priority": 29
     },
-    "images": ["$RCT2:OBJDATA/SCGORIEN.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGORIEN.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Pagoda Theming",
-            "fr-FR": "Thème Pagode",
+            "fr-FR": "Thème [P]agode",
             "de-DE": "Pagodenthema",
             "es-ES": "Temática de pagoda",
             "it-IT": "Tema pagoda",

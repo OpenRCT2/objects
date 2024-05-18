@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_large.eiffel",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0B12|EIFFEL  |D391688F",
     "sourceGame": "rct2ww",
@@ -29,18 +31,20 @@
                 "y": 0,
                 "clearance": 225,
                 "hasSupports": true,
-                "walls": 8
+                "walls": 12
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 225,
                 "hasSupports": true,
-                "walls": 2
+                "walls": 6
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/EIFFEL.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/EIFFEL.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Eiffel Tower",

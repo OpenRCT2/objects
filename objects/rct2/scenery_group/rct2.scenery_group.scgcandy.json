@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_group.scgcandy",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F87|SCGCANDY|C645A8BC",
     "sourceGame": "rct2",
@@ -28,11 +31,13 @@
         ],
         "priority": 39
     },
-    "images": ["$RCT2:OBJDATA/SCGCANDY.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGCANDY.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Giant Candy Theming",
-            "fr-FR": "Thème Bonbon",
+            "fr-FR": "Thème bonbon",
             "de-DE": "Süßwarenland-Thema",
             "es-ES": "Temática caramelolandia",
             "it-IT": "Tema paese dei dolci",

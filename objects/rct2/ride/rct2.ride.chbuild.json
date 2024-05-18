@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.chbuild",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|CHBUILD |B3C76043",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "crooked_house",
@@ -13,7 +19,11 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["moss_green", "yellow", "black"]
+                [
+                    "moss_green",
+                    "yellow",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -33,89 +43,235 @@
             "numSegments": 0,
             "loadingWaypoints": [
                 [
-                    [40, 40],
-                    [-40, 40],
-                    [-36, 0]
+                    [
+                        40,
+                        40
+                    ],
+                    [
+                        -40,
+                        40
+                    ],
+                    [
+                        -36,
+                        0
+                    ]
                 ],
                 [
-                    [-40, -40],
-                    [-36, 0],
-                    [-36, 0]
+                    [
+                        -40,
+                        -40
+                    ],
+                    [
+                        -36,
+                        0
+                    ],
+                    [
+                        -36,
+                        0
+                    ]
                 ],
                 [
-                    [-36, 0],
-                    [-36, 0],
-                    [-36, 0]
+                    [
+                        -36,
+                        0
+                    ],
+                    [
+                        -36,
+                        0
+                    ],
+                    [
+                        -36,
+                        0
+                    ]
                 ],
                 [
-                    [-40, 40],
-                    [-36, 0],
-                    [-36, 0]
+                    [
+                        -40,
+                        40
+                    ],
+                    [
+                        -36,
+                        0
+                    ],
+                    [
+                        -36,
+                        0
+                    ]
                 ],
                 [
-                    [40, 40],
-                    [0, 36],
-                    [0, 36]
+                    [
+                        40,
+                        40
+                    ],
+                    [
+                        0,
+                        36
+                    ],
+                    [
+                        0,
+                        36
+                    ]
                 ],
                 [
-                    [40, -40],
-                    [40, 40],
-                    [0, 36]
+                    [
+                        40,
+                        -40
+                    ],
+                    [
+                        40,
+                        40
+                    ],
+                    [
+                        0,
+                        36
+                    ]
                 ],
                 [
-                    [-40, 40],
-                    [0, 36],
-                    [0, 36]
+                    [
+                        -40,
+                        40
+                    ],
+                    [
+                        0,
+                        36
+                    ],
+                    [
+                        0,
+                        36
+                    ]
                 ],
                 [
-                    [0, 36],
-                    [0, 36],
-                    [0, 36]
+                    [
+                        0,
+                        36
+                    ],
+                    [
+                        0,
+                        36
+                    ],
+                    [
+                        0,
+                        36
+                    ]
                 ],
                 [
-                    [36, 0],
-                    [36, 0],
-                    [36, 0]
+                    [
+                        36,
+                        0
+                    ],
+                    [
+                        36,
+                        0
+                    ],
+                    [
+                        36,
+                        0
+                    ]
                 ],
                 [
-                    [40, -40],
-                    [36, 0],
-                    [36, 0]
+                    [
+                        40,
+                        -40
+                    ],
+                    [
+                        36,
+                        0
+                    ],
+                    [
+                        36,
+                        0
+                    ]
                 ],
                 [
-                    [-40, -40],
-                    [40, -40],
-                    [36, 0]
+                    [
+                        -40,
+                        -40
+                    ],
+                    [
+                        40,
+                        -40
+                    ],
+                    [
+                        36,
+                        0
+                    ]
                 ],
                 [
-                    [40, 40],
-                    [36, 0],
-                    [36, 0]
+                    [
+                        40,
+                        40
+                    ],
+                    [
+                        36,
+                        0
+                    ],
+                    [
+                        36,
+                        0
+                    ]
                 ],
                 [
-                    [40, -40],
-                    [0, -36],
-                    [0, -36]
+                    [
+                        40,
+                        -40
+                    ],
+                    [
+                        0,
+                        -36
+                    ],
+                    [
+                        0,
+                        -36
+                    ]
                 ],
                 [
-                    [0, -36],
-                    [0, -36],
-                    [0, -36]
+                    [
+                        0,
+                        -36
+                    ],
+                    [
+                        0,
+                        -36
+                    ],
+                    [
+                        0,
+                        -36
+                    ]
                 ],
                 [
-                    [-40, -40],
-                    [0, -36],
-                    [0, -36]
+                    [
+                        -40,
+                        -40
+                    ],
+                    [
+                        0,
+                        -36
+                    ],
+                    [
+                        0,
+                        -36
+                    ]
                 ],
                 [
-                    [-40, 40],
-                    [-40, -40],
-                    [0, -36]
+                    [
+                        -40,
+                        40
+                    ],
+                    [
+                        -40,
+                        -40
+                    ],
+                    [
+                        0,
+                        -36
+                    ]
                 ]
             ]
         }
     },
-    "images": ["$RCT2:OBJDATA/CHBUILD.DAT[0..6]"],
+    "images": [
+        "$RCT2:OBJDATA/CHBUILD.DAT[0..6]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Crooked House",
@@ -155,7 +311,7 @@
             "pl-PL": "Budynek z powykrzywianymi ścianami i zakręconymi korytarzami, dezorientujący ludzi, którzy do niego wejdą",
             "ru-RU": "Здание с кривыми комнатами и коридорами",
             "eo-ZZ": "Konstruaĵo, kiu enhavas ĉambrojn torditajn kaj koridorojn angulajn por malorienti homojn tie",
-            "ca-ES": "Edifici amb habitacions deformades i passadissos angulosos per desorientar les persones que el visiten.",
+            "ca-ES": "Edifici amb habitacions deformades i passadissos angulosos per a desorientar les persones que el visiten.",
             "fi-FI": "Rakennus täynnä kävijöitä kummastuttavia vääristettyjä huoneita ja kieroutuineita käytäviä"
         },
         "capacity": {

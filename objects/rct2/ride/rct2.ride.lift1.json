@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.lift1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|LIFT1   |F43C91B2",
     "sourceGame": "rct2",
@@ -14,10 +17,18 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["black", "dark_brown", "black"]
+                [
+                    "black",
+                    "dark_brown",
+                    "black"
+                ]
             ],
             [
-                ["dark_green", "black", "black"]
+                [
+                    "dark_green",
+                    "black",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -40,94 +51,240 @@
             "numSegments": 0,
             "loadingWaypoints": [
                 [
-                    [28, 28],
-                    [-28, 28],
-                    [-16, 0]
+                    [
+                        28,
+                        28
+                    ],
+                    [
+                        -28,
+                        28
+                    ],
+                    [
+                        -16,
+                        0
+                    ]
                 ],
                 [
-                    [-28, -28],
-                    [-20, 0],
-                    [-16, 0]
+                    [
+                        -28,
+                        -28
+                    ],
+                    [
+                        -20,
+                        0
+                    ],
+                    [
+                        -16,
+                        0
+                    ]
                 ],
                 [
-                    [-20, 0],
-                    [-20, 0],
-                    [-16, 0]
+                    [
+                        -20,
+                        0
+                    ],
+                    [
+                        -20,
+                        0
+                    ],
+                    [
+                        -16,
+                        0
+                    ]
                 ],
                 [
-                    [-28, 28],
-                    [-20, 0],
-                    [-16, 0]
+                    [
+                        -28,
+                        28
+                    ],
+                    [
+                        -20,
+                        0
+                    ],
+                    [
+                        -16,
+                        0
+                    ]
                 ],
                 [
-                    [28, 28],
-                    [0, 20],
-                    [0, 16]
+                    [
+                        28,
+                        28
+                    ],
+                    [
+                        0,
+                        20
+                    ],
+                    [
+                        0,
+                        16
+                    ]
                 ],
                 [
-                    [28, -28],
-                    [28, 28],
-                    [0, 16]
+                    [
+                        28,
+                        -28
+                    ],
+                    [
+                        28,
+                        28
+                    ],
+                    [
+                        0,
+                        16
+                    ]
                 ],
                 [
-                    [-28, 28],
-                    [0, 20],
-                    [0, 16]
+                    [
+                        -28,
+                        28
+                    ],
+                    [
+                        0,
+                        20
+                    ],
+                    [
+                        0,
+                        16
+                    ]
                 ],
                 [
-                    [0, 20],
-                    [0, 20],
-                    [0, 16]
+                    [
+                        0,
+                        20
+                    ],
+                    [
+                        0,
+                        20
+                    ],
+                    [
+                        0,
+                        16
+                    ]
                 ],
                 [
-                    [20, 0],
-                    [20, 0],
-                    [16, 0]
+                    [
+                        20,
+                        0
+                    ],
+                    [
+                        20,
+                        0
+                    ],
+                    [
+                        16,
+                        0
+                    ]
                 ],
                 [
-                    [28, -28],
-                    [20, 0],
-                    [16, 0]
+                    [
+                        28,
+                        -28
+                    ],
+                    [
+                        20,
+                        0
+                    ],
+                    [
+                        16,
+                        0
+                    ]
                 ],
                 [
-                    [-28, -28],
-                    [28, -28],
-                    [16, 0]
+                    [
+                        -28,
+                        -28
+                    ],
+                    [
+                        28,
+                        -28
+                    ],
+                    [
+                        16,
+                        0
+                    ]
                 ],
                 [
-                    [28, 28],
-                    [20, 0],
-                    [16, 0]
+                    [
+                        28,
+                        28
+                    ],
+                    [
+                        20,
+                        0
+                    ],
+                    [
+                        16,
+                        0
+                    ]
                 ],
                 [
-                    [28, -28],
-                    [0, -20],
-                    [0, -16]
+                    [
+                        28,
+                        -28
+                    ],
+                    [
+                        0,
+                        -20
+                    ],
+                    [
+                        0,
+                        -16
+                    ]
                 ],
                 [
-                    [0, -20],
-                    [0, -20],
-                    [0, -16]
+                    [
+                        0,
+                        -20
+                    ],
+                    [
+                        0,
+                        -20
+                    ],
+                    [
+                        0,
+                        -16
+                    ]
                 ],
                 [
-                    [-28, -28],
-                    [0, -20],
-                    [0, -16]
+                    [
+                        -28,
+                        -28
+                    ],
+                    [
+                        0,
+                        -20
+                    ],
+                    [
+                        0,
+                        -16
+                    ]
                 ],
                 [
-                    [-28, 28],
-                    [-28, -28],
-                    [0, -16]
+                    [
+                        -28,
+                        28
+                    ],
+                    [
+                        -28,
+                        -28
+                    ],
+                    [
+                        0,
+                        -16
+                    ]
                 ]
             ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/LIFT1.DAT[0..146]"],
+    "images": [
+        "$RCT2:OBJDATA/LIFT1.DAT[0..146]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Lift Cabin",
-            "fr-FR": "Ascenseur",
+            "fr-FR": "Cabine d’ascenseur",
             "de-DE": "Aufzugskabine",
             "es-ES": "Ascensor",
             "it-IT": "Ascensore",
@@ -147,7 +304,7 @@
         },
         "description": {
             "en-GB": "Steel lift cabin",
-            "fr-FR": "Ascenseur montant ou descendant un à un les étages d’une tour verticale",
+            "fr-FR": "Cabine d’ascenseur en acier",
             "de-DE": "Stahlaufzugskabine",
             "es-ES": "Los pasajeros suben o bajan en un ascensor para acceder a distintos niveles de una torre vertical",
             "it-IT": "I visitatori corrono dentro un ascensore su e giù per una torre per passare da un livello all’altro",

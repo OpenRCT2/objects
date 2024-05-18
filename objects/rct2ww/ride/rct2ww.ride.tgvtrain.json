@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.tgvtrain",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0910|TGVTRAIN|B9C286EC",
     "sourceGame": "rct2ww",
@@ -11,6 +13,7 @@
         "limitAirTimeBonus": true,
         "minCarsPerTrain": 3,
         "maxCarsPerTrain": 8,
+        "numEmptyCars": 1,
         "defaultCar": 1,
         "headCars": 0,
         "tailCars": 2,
@@ -19,13 +22,25 @@
         },
         "carColours": [
             [
-                ["light_blue", "white", "yellow"]
+                [
+                    "light_blue",
+                    "white",
+                    "yellow"
+                ]
             ],
             [
-                ["bright_red", "yellow", "yellow"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "yellow"
+                ]
             ],
             [
-                ["white", "bordeaux_red", "bordeaux_red"]
+                [
+                    "white",
+                    "bordeaux_red",
+                    "bordeaux_red"
+                ]
             ]
         ],
         "cars": [
@@ -57,7 +72,12 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [5, 3, -7, -9]
+                "loadingPositions": [
+                    5,
+                    3,
+                    -7,
+                    -9
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -87,7 +107,12 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [7, 9, -3, -1]
+                "loadingPositions": [
+                    7,
+                    9,
+                    -3,
+                    -1
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -115,7 +140,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/TGVTRAIN.DAT[0..5882]"],
+    "images": [
+        "$RCT2:OBJDATA/TGVTRAIN.DAT[0..5882]"
+    ],
     "strings": {
         "name": {
             "en-GB": "TGV Trains",
@@ -129,7 +156,6 @@
             "ja-JP": "TGVトレイン",
             "ar-EG": "TGV Trains",
             "cs-CZ": "TGV horská dráha",
-            "en-US": "TGV Trains",
             "ko-KR": "TGV 차량",
             "pl-PL": "Pociąg TGV",
             "pt-BR": "Trens TGV",
@@ -140,7 +166,7 @@
         },
         "description": {
             "en-GB": "Roller coaster trains in the style of French high-speed trains (TGV) that are accelerated by linear induction motors",
-            "fr-FR": "Train de montagnes russes propulsé hors de la station par des moteurs à induction linéaire et fonçant dans des inversions renversantes",
+            "fr-FR": "Train de montagnes russes en forme de TGV propulsé par des moteurs à induction linéaire",
             "de-DE": "Achterbahnzüge im Stil französischer Schnellzüge (TGV), die mithilfe von Linearmotoren beschleunigt werden",
             "es-ES": "Los trenes de la montaña rusa salen de la estación acelerados por unos motores de inducción para pasar a toda velocidad por unas retorcidas inversiones",
             "it-IT": "Le carrozze dell’ottovolante sono spinte da motori lineari a induzione, che le lanciano lungo una serie di tortuose inversioni",
@@ -168,7 +194,7 @@
             "zh-CN": "4位乘客/车",
             "ja-JP": "各車両4名",
             "cs-CZ": "4 místa v každém voze",
-            "ko-KR": "차량당 4명의 승객",
+            "ko-KR": "차량 당 4명의 승객",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
             "pt-BR": "4 passageiros por carro",

@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.nrl",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|NRL     |EB8FF03D",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "miniature_railway",
@@ -24,13 +30,25 @@
         },
         "carColours": [
             [
-                ["yellow", "bordeaux_red", "bright_yellow"]
+                [
+                    "yellow",
+                    "bordeaux_red",
+                    "bright_yellow"
+                ]
             ],
             [
-                ["dark_green", "dark_brown", "yellow"]
+                [
+                    "dark_green",
+                    "dark_brown",
+                    "yellow"
+                ]
             ],
             [
-                ["bordeaux_red", "dark_green", "yellow"]
+                [
+                    "bordeaux_red",
+                    "dark_green",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -87,16 +105,25 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [10, 8, 1, -1, -8, -10]
+                "loadingPositions": [
+                    10,
+                    8,
+                    1,
+                    -1,
+                    -8,
+                    -10
+                ]
             }
         ],
         "buildMenuPriority": 4
     },
-    "images": ["$RCT2:OBJDATA/NRL.DAT[0..1154]"],
+    "images": [
+        "$RCT2:OBJDATA/NRL.DAT[0..1154]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Steam Trains",
-            "fr-FR": "Trains vapeur",
+            "fr-FR": "Train à vapeur",
             "de-DE": "Dampfzüge",
             "es-ES": "Tren de Vapor",
             "it-IT": "Treni a vapore",
@@ -116,7 +143,7 @@
         },
         "description": {
             "en-GB": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling open wooden carriages",
-            "fr-FR": "Trains miniatures comprenant une réplique de locomotive à vapeur et des petits wagons en bois et ouverts",
+            "fr-FR": "Train miniature comprenant une réplique de locomotive à vapeur et des petits wagons en bois et ouverts",
             "de-DE": "Mini-Dampfzüge bestehend aus nachgemachter Dampflok und Tender mit offenen Holzwaggons",
             "es-ES": "Trenes vapor en miniatura que son réplicas de las auténticas, tirando de vagones de madera",
             "it-IT": "Treni a vapore in miniatura che replicano le locomotive a vapore e i carri scorta. Trainano carrozze di legno aperte",

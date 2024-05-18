@@ -1,13 +1,19 @@
 {
     "id": "rct1aa.terrain_surface.roof_red",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0000008B|#RCT1SRR|00000000",
     "sourceGame": "rct1aa",
     "objectType": "terrain_surface",
     "properties": {
-        "price": 100,
-        "mapColours": [113, 113]
+        "price": 120,
+        "mapColours": [
+            111,
+            111
+        ]
     },
     "images": [
         { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
@@ -29,9 +35,10 @@
             "ko-KR": "천장 (빨간색)",
             "eo-ZZ": "Tegmento (Ruĝa)",
             "sv-SE": "Tak (rött)",
-            "ca-ES": "Teulada (Vermella)",
+            "ca-ES": "Teulada (vermella)",
             "fi-FI": "Katto (punainen)",
-            "zh-CN": "房顶(红色)"
+            "zh-CN": "房顶(红色)",
+            "ar-EG": "سقف (أحمر)"
         }
     }
 }

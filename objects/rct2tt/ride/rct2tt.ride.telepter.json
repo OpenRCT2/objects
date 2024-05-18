@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.telepter",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA20|TELEPTER|F17CB5D9",
     "sourceGame": "rct2tt",
@@ -14,10 +16,11 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["black", "dark_brown", "black"]
-            ],
-            [
-                ["dark_green", "black", "black"]
+                [
+                    "black",
+                    "bright_pink",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -39,89 +42,235 @@
             "numSegments": 0,
             "loadingWaypoints": [
                 [
-                    [28, 28],
-                    [-28, 28],
-                    [-16, 0]
+                    [
+                        28,
+                        28
+                    ],
+                    [
+                        -28,
+                        28
+                    ],
+                    [
+                        -16,
+                        0
+                    ]
                 ],
                 [
-                    [-28, -28],
-                    [-20, 0],
-                    [-16, 0]
+                    [
+                        -28,
+                        -28
+                    ],
+                    [
+                        -20,
+                        0
+                    ],
+                    [
+                        -16,
+                        0
+                    ]
                 ],
                 [
-                    [-20, 0],
-                    [-20, 0],
-                    [-16, 0]
+                    [
+                        -20,
+                        0
+                    ],
+                    [
+                        -20,
+                        0
+                    ],
+                    [
+                        -16,
+                        0
+                    ]
                 ],
                 [
-                    [-28, 28],
-                    [-20, 0],
-                    [-16, 0]
+                    [
+                        -28,
+                        28
+                    ],
+                    [
+                        -20,
+                        0
+                    ],
+                    [
+                        -16,
+                        0
+                    ]
                 ],
                 [
-                    [28, 28],
-                    [0, 20],
-                    [0, 16]
+                    [
+                        28,
+                        28
+                    ],
+                    [
+                        0,
+                        20
+                    ],
+                    [
+                        0,
+                        16
+                    ]
                 ],
                 [
-                    [28, -28],
-                    [28, 28],
-                    [0, 16]
+                    [
+                        28,
+                        -28
+                    ],
+                    [
+                        28,
+                        28
+                    ],
+                    [
+                        0,
+                        16
+                    ]
                 ],
                 [
-                    [-28, 28],
-                    [0, 20],
-                    [0, 16]
+                    [
+                        -28,
+                        28
+                    ],
+                    [
+                        0,
+                        20
+                    ],
+                    [
+                        0,
+                        16
+                    ]
                 ],
                 [
-                    [0, 20],
-                    [0, 20],
-                    [0, 16]
+                    [
+                        0,
+                        20
+                    ],
+                    [
+                        0,
+                        20
+                    ],
+                    [
+                        0,
+                        16
+                    ]
                 ],
                 [
-                    [20, 0],
-                    [20, 0],
-                    [16, 0]
+                    [
+                        20,
+                        0
+                    ],
+                    [
+                        20,
+                        0
+                    ],
+                    [
+                        16,
+                        0
+                    ]
                 ],
                 [
-                    [28, -28],
-                    [20, 0],
-                    [16, 0]
+                    [
+                        28,
+                        -28
+                    ],
+                    [
+                        20,
+                        0
+                    ],
+                    [
+                        16,
+                        0
+                    ]
                 ],
                 [
-                    [-28, -28],
-                    [28, -28],
-                    [16, 0]
+                    [
+                        -28,
+                        -28
+                    ],
+                    [
+                        28,
+                        -28
+                    ],
+                    [
+                        16,
+                        0
+                    ]
                 ],
                 [
-                    [28, 28],
-                    [20, 0],
-                    [16, 0]
+                    [
+                        28,
+                        28
+                    ],
+                    [
+                        20,
+                        0
+                    ],
+                    [
+                        16,
+                        0
+                    ]
                 ],
                 [
-                    [28, -28],
-                    [0, -20],
-                    [0, -16]
+                    [
+                        28,
+                        -28
+                    ],
+                    [
+                        0,
+                        -20
+                    ],
+                    [
+                        0,
+                        -16
+                    ]
                 ],
                 [
-                    [0, -20],
-                    [0, -20],
-                    [0, -16]
+                    [
+                        0,
+                        -20
+                    ],
+                    [
+                        0,
+                        -20
+                    ],
+                    [
+                        0,
+                        -16
+                    ]
                 ],
                 [
-                    [-28, -28],
-                    [0, -20],
-                    [0, -16]
+                    [
+                        -28,
+                        -28
+                    ],
+                    [
+                        0,
+                        -20
+                    ],
+                    [
+                        0,
+                        -16
+                    ]
                 ],
                 [
-                    [-28, 28],
-                    [-28, -28],
-                    [0, -16]
+                    [
+                        -28,
+                        28
+                    ],
+                    [
+                        -28,
+                        -28
+                    ],
+                    [
+                        0,
+                        -16
+                    ]
                 ]
             ]
         }
     },
-    "images": ["$RCT2:OBJDATA/TELEPTER.DAT[0..146]"],
+    "images": [
+        "$RCT2:OBJDATA/TELEPTER.DAT[0..146]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Teleporter Cabin",
@@ -146,7 +295,7 @@
         },
         "description": {
             "en-GB": "Futuristic lift cabin that gives guests the illusion of teleportation",
-            "fr-FR": "Les visiteurs sont transportés vers le haut ou le bas d’un niveau à l’autre",
+            "fr-FR": "Ascenseur futuriste qui donne aux visiteurs l’illusion de la téléportation",
             "de-DE": "Futuristische Aufzugskabine, welche den Gästen die Illusion einer Teleportation gibt",
             "es-ES": "Los invitados son transportados arriba y abajo, de un nivel a otro.",
             "it-IT": "I visitatori vengono trasportati su e giù da un livello all’altro",

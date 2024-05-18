@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.skidoo",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0110|SKIDOO  |6C9D01B6",
     "sourceGame": "rct2ww",
@@ -11,10 +13,18 @@
         "carsPerFlatRide": 12,
         "carColours": [
             [
-                ["white", "light_orange", "black"]
+                [
+                    "white",
+                    "light_orange",
+                    "black"
+                ]
             ],
             [
-                ["light_purple", "bright_red", "black"]
+                [
+                    "light_purple",
+                    "bright_red",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -33,15 +43,19 @@
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
             "useDodgemCarPlacement": true,
-            "loadingPositions": [0]
+            "loadingPositions": [
+                0
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/SKIDOO.DAT[0..66]"],
+    "images": [
+        "$RCT2:OBJDATA/SKIDOO.DAT[0..66]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Skidoo Dodgems",
             "en-US": "Skidoo Bumper Cars",
-            "fr-FR": "Motoneiges tamponneuses",
+            "fr-FR": "Motoneiges-tamponneuses",
             "de-DE": "Schlitterscooter",
             "es-ES": "Coches de choque esquimales",
             "it-IT": "Le motoslitte",
@@ -60,7 +74,7 @@
         },
         "description": {
             "en-GB": "Guests slide around in skidoo-shaped vehicles that they freely control",
-            "fr-FR": "Auto-tamponneuses électriques programmées",
+            "fr-FR": "Les passagers glissent sur des véhicules en forme de motoneiges qu’ils contrôlent à leur guise",
             "de-DE": "Die Fahrgäste schlittern in selbstgesteuerten schlittenförmigen Fahrzeugen umher",
             "es-ES": "Coches de choque eléctricos de conducción propia",
             "it-IT": "Usa veicoli elettrici tipo autoscontro",

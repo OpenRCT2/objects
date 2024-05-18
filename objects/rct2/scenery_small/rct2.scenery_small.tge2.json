@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.tge2",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188E81|TGE2    |2DF3FB8A",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 16,
@@ -18,7 +24,9 @@
         "isStackable": true,
         "hasSecondaryColour": true
     },
-    "images": ["$RCT2:OBJDATA/TGE2.DAT[0..7]"],
+    "images": [
+        "$RCT2:OBJDATA/TGE2.DAT[0..7]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Geometric Sculpture",

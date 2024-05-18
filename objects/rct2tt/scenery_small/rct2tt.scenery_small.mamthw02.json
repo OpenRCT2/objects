@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.mamthw02",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F721|MAMTHW02|18E67D72",
     "sourceGame": "rct2tt",
@@ -19,7 +21,9 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/MAMTHW02.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/MAMTHW02.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Large Mammoth Fence",
@@ -39,7 +43,8 @@
             "eo-ZZ": "Granda Mamuto-Barilo",
             "ca-ES": "Tanca gran d’ossos de mamut",
             "fi-FI": "Suuri torahammasaita",
-            "zh-CN": "大型猛犸象围栏"
+            "zh-CN": "大型猛犸象围栏",
+            "hu-HU": "Nagy mamutkerítés"
         }
     }
 }

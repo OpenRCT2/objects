@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_group.scgsnow",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188F87|SCGSNOW |255174BF",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "scenery_group",
     "properties": {
         "entries": [
@@ -31,11 +37,13 @@
         "priority": 30,
         "entertainerCostumes": "snowman"
     },
-    "images": ["$RCT2:OBJDATA/SCGSNOW.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGSNOW.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Snow and Ice Theming",
-            "fr-FR": "Thème Neige et glace",
+            "fr-FR": "Thème neige et glace",
             "de-DE": "Schnee- und Eisthema",
             "es-ES": "Temática de nieve y hielo",
             "it-IT": "Tema nevoso/ghiacciato",

@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_small.trckprt4",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0511|TRCKPRT4|E0762124",
     "sourceGame": "rct2ww",
@@ -14,7 +16,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/TRCKPRT4.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TRCKPRT4.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Cart Shaft",

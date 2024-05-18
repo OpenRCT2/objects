@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.runway03",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA21|RUNWAY03|E0A2AF20",
     "sourceGame": "rct2tt",
@@ -19,7 +21,9 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/RUNWAY03.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/RUNWAY03.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Runway Corner Piece",
@@ -39,7 +43,8 @@
             "eo-ZZ": "Anguloparto de Aviokurejo",
             "ca-ES": "Part de cantonada d’autopista",
             "fi-FI": "Kiitoradan kulmaosa",
-            "zh-CN": "跑道-转角"
+            "zh-CN": "跑道-转角",
+            "hu-HU": "Kifutópálya sarokelem"
         }
     }
 }

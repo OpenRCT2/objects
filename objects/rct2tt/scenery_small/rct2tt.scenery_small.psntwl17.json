@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.psntwl17",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F821|PSNTWL17|03732F37",
     "sourceGame": "rct2tt",
@@ -19,7 +21,9 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/PSNTWL17.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/PSNTWL17.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Dark Age Village Roof Piece",
@@ -39,7 +43,8 @@
             "eo-ZZ": "Tegmentoparto de Vilaĝo de Malluma Epoko",
             "ca-ES": "Part de teulada medieval",
             "fi-FI": "Keskiaikaisen kylän katon osa",
-            "zh-CN": "黑暗时代-乡村房顶"
+            "zh-CN": "黑暗时代-乡村房顶",
+            "hu-HU": "Középkori falu tető elem"
         }
     }
 }

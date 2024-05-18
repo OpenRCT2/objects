@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.bmrb",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|BMRB    |DFE3E54D",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "hyper_twister",
@@ -20,16 +26,32 @@
         },
         "carColours": [
             [
-                ["dark_green", "bordeaux_red", "yellow"]
+                [
+                    "dark_green",
+                    "bordeaux_red",
+                    "yellow"
+                ]
             ],
             [
-                ["light_purple", "black", "grey"]
+                [
+                    "light_purple",
+                    "black",
+                    "grey"
+                ]
             ],
             [
-                ["light_orange", "bordeaux_red", "dark_yellow"]
+                [
+                    "light_orange",
+                    "bordeaux_red",
+                    "dark_yellow"
+                ]
             ],
             [
-                ["bright_red", "light_brown", "black"]
+                [
+                    "bright_red",
+                    "light_brown",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -59,7 +81,12 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [-2, -4, -2, -4]
+                "loadingPositions": [
+                    -2,
+                    -4,
+                    -2,
+                    -4
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -88,11 +115,13 @@
         ],
         "buildMenuPriority": 2
     },
-    "images": ["$RCT2:OBJDATA/BMRB.DAT[0..2870]"],
+    "images": [
+        "$RCT2:OBJDATA/BMRB.DAT[0..2870]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Hyper-Twister Trains (wide cars)",
-            "fr-FR": "Train sup.-torn. (grdes voit)",
+            "fr-FR": "Train super-tornado (grandes voitures)",
             "de-DE": "Hyper-Twister-Züge (breite Wagen)",
             "es-ES": "Trenes Hiper-Tornado (anchos)",
             "it-IT": "Super-serpentina (treni grandi)",
@@ -112,7 +141,7 @@
         },
         "description": {
             "en-GB": "Wide 4-across cars with raised seating and simple lap restraints",
-            "fr-FR": "4 voitures disposées de chaque côté avec des sièges relevés et des barres de protection simples",
+            "fr-FR": "Large voiture dotée d’une rangée de 4 sièges surelevés et de barres de protection simples",
             "de-DE": "Breite Wagen mit einfachen Beckenhalterungen und erhöhten Sitzen, in denen 4 Personen nebeneinander sitzen",
             "es-ES": "Vagones amplios con asientos elevados",
             "it-IT": "Grandi carrozze da quattro posti a fila con sedili rialzati e semplici protezioni al petto",

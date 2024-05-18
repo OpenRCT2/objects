@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.starfrdr",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|STARFRDR|2FB4B79C",
     "sourceGame": "rct2",
@@ -14,15 +17,21 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["black", "black", "black"]
+                [
+                    "black",
+                    "black",
+                    "black"
+                ]
             ]
         ]
     },
-    "images": ["$RCT2:OBJDATA/STARFRDR.DAT[0..6]"],
+    "images": [
+        "$RCT2:OBJDATA/STARFRDR.DAT[0..6]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Star Fruit Drink Stall",
-            "fr-FR": "Fruitier",
+            "fr-FR": "Carambolier",
             "de-DE": "Fruchtsaft-Stand",
             "es-ES": "Puesto de bebidas de frutas",
             "it-IT": "Chiosco dei succhi di frutta",
@@ -42,7 +51,7 @@
         },
         "description": {
             "en-GB": "A stall selling star fruit drinks",
-            "fr-FR": "Boutique vendant des jus de fruits",
+            "fr-FR": "Boutique vendant des jus de carambole",
             "de-DE": "Ein Stand, an dem Fruchtsaftgetränke verkauft werden",
             "es-ES": "Puesto que vende bebidas de frutas",
             "it-IT": "Un chiosco che vende succhi di frutta",

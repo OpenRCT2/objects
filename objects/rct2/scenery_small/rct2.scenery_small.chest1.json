@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_small.chest1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188D81|CHEST1  |B33C9736",
     "sourceGame": "rct2",
@@ -14,7 +17,9 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/CHEST1.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/CHEST1.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Treasure Chest",

@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.ride.condorrd",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CC31B10|CONDORRD|12189574",
     "sourceGame": "rct2ww",
@@ -13,10 +15,18 @@
         "maxCarsPerTrain": 8,
         "carColours": [
             [
-                ["bright_red", "yellow", "dark_purple"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "yellow"
+                ]
             ],
             [
-                ["teal", "grey", "dark_purple"]
+                [
+                    "teal",
+                    "grey",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -48,7 +58,12 @@
                 "spriteBoundsIncludeInvertedSet": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, -2, 2, -2]
+                "loadingPositions": [
+                    2,
+                    -2,
+                    2,
+                    -2
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -77,15 +92,22 @@
                 "hasInvertedSpriteSet": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, -2, 2, -2]
+                "loadingPositions": [
+                    2,
+                    -2,
+                    2,
+                    -2
+                ]
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/CONDORRD.DAT[0..4562]"],
+    "images": [
+        "$RCT2:OBJDATA/CONDORRD.DAT[0..4562]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Condor Trains",
-            "fr-FR": "Le condor",
+            "fr-FR": "Condor",
             "de-DE": "Kondorzüge",
             "es-ES": "Atracción Condor",
             "it-IT": "Condor",
@@ -94,7 +116,6 @@
             "zh-CN": "兀鹰游乐设施",
             "ca-ES": "El còndor",
             "cs-CZ": "Jízda kondorů",
-            "en-US": "Condor Trains",
             "ja-JP": "コンドルトレイン",
             "ko-KR": "콘도르 차량",
             "pl-PL": "Lot kondora",
@@ -106,7 +127,7 @@
         },
         "description": {
             "en-GB": "Riding in special harnesses below the track, riders experience the feeling of flight in condor-shaped trains",
-            "fr-FR": "Les passagers sont couchés à plat ventre dans une voiture en forme de condor se déplaçant sur un monorail et se balançant d’un côté à l’autre dans les virages",
+            "fr-FR": "Harnachés sous la voie, les passagers ont la sensation de voler dans un train en forme de condor",
             "de-DE": "Die Passagiere fahren, in speziellen Gurten hängend, unterhalb der Strecke. In den kondorförmigen Wagen erleben sie dabei ein Gefühl des Fliegens",
             "es-ES": "Los pasajeros viajan boca abajo y acostados, suspendidos del arnés debajo de la pista en un vagón con forma de Cóndor que se balancea libremente de un lado a otro al pasar por las curvas.",
             "it-IT": "Guidando in speciali carrelli sotto la pista, i piloti sperimentano la sensazione di volo mentre prendono aria nei treni Condor",

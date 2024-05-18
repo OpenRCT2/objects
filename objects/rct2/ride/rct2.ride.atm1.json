@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.atm1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|ATM1    |BBDCC13A",
     "sourceGame": "rct2",
@@ -12,7 +15,11 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["black", "black", "black"]
+                [
+                    "black",
+                    "black",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -28,7 +35,9 @@
             "recalculateSpriteBounds": true
         }
     },
-    "images": ["$RCT2:OBJDATA/ATM1.DAT[0..6]"],
+    "images": [
+        "$RCT2:OBJDATA/ATM1.DAT[0..6]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Cash Machine",
@@ -44,12 +53,13 @@
             "pt-BR": "Caixa Eletrônico",
             "cs-CZ": "Bankomat",
             "ja-JP": "ATM",
-            "nb-NO": "Bankautomat",
+            "nb-NO": "Minibank",
             "pl-PL": "Bankomat",
             "ru-RU": "Банкомат",
             "eo-ZZ": "Bankaŭtomato",
             "ca-ES": "Caixer automàtic",
-            "fi-FI": "Raha-automaatti"
+            "fi-FI": "Raha-automaatti",
+            "en-US": "ATM"
         },
         "description": {
             "en-GB": "An A.T.M. (Cash Machine) for guests to use if they run low on funds",
@@ -69,7 +79,9 @@
             "ru-RU": "Банкомат",
             "eo-ZZ": "Bankaŭtomato (Monomaŝino) por gastoj, kiam mankas al ili monrimedoj",
             "ca-ES": "Un caixer automàtic per als visitants que van curts d’efectiu.",
-            "fi-FI": "Raha-automaatti jota kävijät voivat käyttää jos rahat ovat vähissä"
+            "fi-FI": "Raha-automaatti jota kävijät voivat käyttää jos rahat ovat vähissä",
+            "nb-NO": "En minibank (Bankautomat) som gjester kan bruke hvis de begynner å gå tom for penger",
+            "en-US": "An ATM for guests to use if they run low on funds"
         }
     }
 }

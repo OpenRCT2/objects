@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.cndyf",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|CNDYF   |FFE03AB6",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "food_stall",
@@ -14,11 +20,17 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["black", "black", "black"]
+                [
+                    "black",
+                    "black",
+                    "black"
+                ]
             ]
         ]
     },
-    "images": ["$RCT2:OBJDATA/CNDYF.DAT[0..6]"],
+    "images": [
+        "$RCT2:OBJDATA/CNDYF.DAT[0..6]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Candyfloss Stall",
@@ -44,7 +56,7 @@
         "description": {
             "en-GB": "A candyfloss shaped building selling pink candyfloss",
             "en-US": "A cotton candy shaped building selling pink cotton candy",
-            "fr-FR": "Bâtiment en forme de barbe à papa vendant... des barbes à papa",
+            "fr-FR": "Bâtiment en forme de barbe à papa vendant… des barbes à papa",
             "de-DE": "Ein Stand in Zuckerwatte-Form, an dem pinkfarbene Zuckerwatte verkauft wird",
             "es-ES": "Un edificio con forma de algodón de azúcar que vende algodón de azúcar rosa",
             "it-IT": "Un edificio a forma di zucchero filato che vende dello zucchero filato rosa",

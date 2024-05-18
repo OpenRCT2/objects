@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.skytr",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|SKYTR   |AB64B391",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "mini_suspended_rc",
@@ -17,13 +23,25 @@
         },
         "carColours": [
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["dark_green", "yellow", "black"]
+                [
+                    "dark_green",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["bordeaux_red", "bright_red", "black"]
+                [
+                    "bordeaux_red",
+                    "bright_red",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -45,15 +63,19 @@
             "hasAdditionalColour1": true,
             "hasSwinging": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [1]
+            "loadingPositions": [
+                1
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/SKYTR.DAT[0..1402]"],
+    "images": [
+        "$RCT2:OBJDATA/SKYTR.DAT[0..1402]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Lay-down Cars",
-            "fr-FR": "Mini montagnes suspendues",
+            "fr-FR": "Voiture allongée",
             "de-DE": "Liegewagen",
             "es-ES": "Mini Montaña Rusa Suspendida",
             "it-IT": "Mini-ottovolante sospeso",
@@ -65,7 +87,6 @@
             "pt-BR": "Carros Deitados",
             "ar-EG": "Lay-down Cars",
             "cs-CZ": "Zavěšená horská dráha na \"ležáka\"",
-            "en-US": "Lay-down Cars",
             "ja-JP": "ミニ・サスペンデッド・フライング・コースター",
             "pl-PL": "Podwieszana minikolejka",
             "ru-RU": "Мини-летающие горки",
@@ -75,7 +96,7 @@
         },
         "description": {
             "en-GB": "Small suspended cars in which the passengers ride face-down in a lying position, swinging freely from side to side",
-            "fr-FR": "Les passagers sont couchés à plat ventre dans une voiture spéciale se déplaçant sur un monorail et se balançant d’un côté à l’autre dans les virages",
+            "fr-FR": "Petite voiture suspendue dans laquelle les passagers sont couchés à plat ventre, se balançant librement d’un côté à l’autre",
             "de-DE": "Kleine hängende Wagen, in denen sich die Passagiere mit dem Gesicht nach unten in einer liegenden Position befinden und frei hin- und her schwingen",
             "es-ES": "Los pasajeros se colocan boca abajo en unos vagones especiales en ésta montaña rusa",
             "it-IT": "I passeggeri, distesi a pancia in giù in una carrozza speciale, sono sospesi al tracciato monorotaia e oscillano da una parte all’altra a ogni curva",

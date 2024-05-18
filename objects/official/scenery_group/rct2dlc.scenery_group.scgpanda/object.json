@@ -1,6 +1,9 @@
 {
     "id": "rct2dlc.scenery_group.scgpanda",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "09F8ED07|SCGPANDA|34EFBA3D",
     "sourceGame": "official",
@@ -35,7 +38,9 @@
             "eo-ZZ": "Pando-Temo",
             "ca-ES": "Temàtica amb óssos panda",
             "fi-FI": "Pandateemaus",
-            "zh-CN": "熊猫主题"
+            "zh-CN": "熊猫主题",
+            "ar-EG": "طابع الباندا",
+            "hu-HU": "Panda téma"
         }
     }
 }

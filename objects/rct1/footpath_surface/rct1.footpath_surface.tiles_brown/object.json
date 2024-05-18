@@ -1,6 +1,9 @@
 {
     "id": "rct1.footpath_surface.tiles_brown",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "rct1",
     "objectType": "footpath_surface",
@@ -27,7 +30,8 @@
             "pl-PL": "Brązowa Mozaikowa Ścieżka",
             "ko-KR": "갈색 타일 보도",
             "eo-ZZ": "Bruna Kahelita Trotuaro",
-            "sv-SE": "Brun stenlagd gångväg"
+            "sv-SE": "Brun stenlagd gångväg",
+            "ca-ES": "Camí enrajolat marró"
         }
     }
 }

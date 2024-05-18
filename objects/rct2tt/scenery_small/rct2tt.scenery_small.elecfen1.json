@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.elecfen1",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F721|ELECFEN1|25DCE9DD",
     "sourceGame": "rct2tt",
@@ -23,13 +25,32 @@
         "prohibitWalls": true,
         "hasNoSupports": true,
         "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
-        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+        "frameOffsets": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
     },
-    "images": ["$RCT2:OBJDATA/ELECFEN1.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/ELECFEN1.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Electric Fence Corner Piece",
-            "fr-FR": "Section de virage de clôture électrique",
+            "fr-FR": "Coin de clôture électrique",
             "de-DE": "Elektrozaun-Eckstück",
             "es-ES": "Esquina de valla electrificada",
             "it-IT": "Recinzione elettrica con tratto di curva",

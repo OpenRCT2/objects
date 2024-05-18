@@ -1,9 +1,15 @@
 {
     "id": "rct2.scenery_small.tmj",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188E81|TMJ     |847E3C80",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "scenery_small",
     "properties": {
         "price": 6,
@@ -14,11 +20,13 @@
         "isRotatable": true,
         "isStackable": true
     },
-    "images": ["$RCT2:OBJDATA/TMJ.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/TMJ.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Junk",
-            "fr-FR": "Jonque",
+            "fr-FR": "Déchets",
             "de-DE": "Gerümpel",
             "es-ES": "Chatarra",
             "it-IT": "Giunca",

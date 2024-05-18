@@ -1,0 +1,45 @@
+{
+    "id": "rct2.scenery_wall.wbr1a",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "originalId": "0A188083|WBR1A   |B589A46E",
+    "sourceGame": "rct2",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 3,
+        "price": 50
+    },
+    "images": [
+        "$RCT2:OBJDATA/WBR1A.DAT[0..1]",
+        { "path": "images/2.png", "x": -31, "y": -43 },
+        { "path": "images/3.png", "x": -1, "y": -42 },
+        { "path": "images/4.png", "x": -31, "y": -26 },
+        { "path": "images/5.png", "x": -1, "y": -25 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Brick Wall",
+            "fr-FR": "Mur de brique",
+            "de-DE": "Ziegelmauer",
+            "es-ES": "Pared de ladrillo",
+            "it-IT": "Muro di mattoni",
+            "nl-NL": "Baksteenmuur",
+            "sv-SE": "Tegelmur",
+            "ko-KR": "벽돌 벽",
+            "zh-CN": "砖墙",
+            "zh-TW": "磚牆",
+            "pt-BR": "Parede de Tijolo",
+            "cs-CZ": "Cihlová stěna",
+            "ja-JP": "レンガの壁",
+            "pl-PL": "Ściana ceglana",
+            "ru-RU": "Стена",
+            "eo-ZZ": "Brika Muro",
+            "ca-ES": "Paret de maons",
+            "fi-FI": "Tiiliseinä"
+        }
+    }
+}

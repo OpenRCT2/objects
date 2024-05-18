@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.schoolbs",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA20|SCHOOLBS|BF619A2B",
     "sourceGame": "rct2tt",
@@ -18,13 +20,25 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "bright_pink",
+                    "yellow"
+                ]
             ],
             [
-                ["yellow", "white", "black"]
+                [
+                    "yellow",
+                    "bright_pink",
+                    "yellow"
+                ]
             ],
             [
-                ["light_blue", "white", "black"]
+                [
+                    "light_blue",
+                    "bright_pink",
+                    "yellow"
+                ]
             ]
         ],
         "cars": [
@@ -45,7 +59,18 @@
                     "diagonalSlopes": true
                 },
                 "isPowered": true,
-                "loadingPositions": [12, -12, 12, -12, 12, -12, 13, 11, -13, -11]
+                "loadingPositions": [
+                    12,
+                    -12,
+                    12,
+                    -12,
+                    12,
+                    -12,
+                    13,
+                    11,
+                    -13,
+                    -11
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -57,13 +82,16 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "isPowered": true
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/SCHOOLBS.DAT[0..770]", ""],
+    "images": [
+        "$RCT2:OBJDATA/SCHOOLBS.DAT[0..770]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "School Bus Trams",
@@ -83,11 +111,12 @@
             "eo-ZZ": "Lernejo-Buso-Tramoj",
             "ca-ES": "Tramvies d’autobusos escolars",
             "fi-FI": "Koulubussivaunut",
-            "zh-CN": "校车电车"
+            "zh-CN": "校车电车",
+            "hu-HU": "Iskolabusz-villamosok"
         },
         "description": {
             "en-GB": "Miniature trams themed to look like North American school buses",
-            "fr-FR": "Tramways reprenant la thématique des bus scolaires jaunes américains",
+            "fr-FR": "Tramway reprenant la thématique des bus scolaires jaunes nord-américains",
             "de-DE": "Miniaturstraßenbahnen, die Schulbussen nachempfunden sind",
             "es-ES": "Réplica del clásico autocar amarillo",
             "it-IT": "Tram in miniatura a forma di scuolabus nordamericani",
@@ -103,27 +132,29 @@
             "eo-ZZ": "Miniaturaj tramoj temitaj por aspekti kiel nordamerikaj lernejo-busoj",
             "ca-ES": "Tramvies en miniatura tematitzats com a autobusos escolars nord-americans.",
             "fi-FI": "Pohjoisamerikkalaisien koulubussien näköisiksi teematut pienoisvaunut",
-            "zh-CN": "以北美校车为主题的微型电车"
+            "zh-CN": "以北美校车为主题的微型电车",
+            "hu-HU": "Miniatűr villamosok, amelyek úgy néznek ki, mint az észak-amerikai iskolabuszok"
         },
         "capacity": {
-            "en-GB": "10 passengers per car",
-            "fr-FR": "10 passagers par voiture",
-            "de-DE": "10 Fahrgäste pro Wagen",
-            "es-ES": "10 pasajeros por coche",
-            "it-IT": "10 passeggeri per carrozza",
-            "nl-NL": "10 passagiers per bus",
-            "sv-SE": "10 passagerare per vagn",
-            "ko-KR": "차량당 10명의 승객",
-            "zh-TW": "每輛車限乘10人",
-            "ja-JP": "各車両10名",
-            "pt-BR": "10 passageiros por vagão",
-            "cs-CZ": "10 míst v každém voze",
-            "pl-PL": "10 pasażerów na wagonik",
-            "ru-RU": "10 человек",
-            "eo-ZZ": "Po 10 pasaĝeroj por ĉaro",
-            "ca-ES": "10 passatgers per cotxe",
-            "fi-FI": "10 matkustajaa per vaunu",
-            "zh-CN": "10位乘客/车"
+            "en-GB": "6 passengers per car",
+            "fr-FR": "6 passagers par voiture",
+            "de-DE": "6 Fahrgäste pro Wagen",
+            "es-ES": "6 pasajeros por coche",
+            "it-IT": "6 passeggeri per carrozza",
+            "nl-NL": "6 passagiers per bus",
+            "sv-SE": "6 passagerare per vagn",
+            "ko-KR": "차량당 6명의 승객",
+            "zh-TW": "每輛車限乘6人",
+            "ja-JP": "各車両6名",
+            "pt-BR": "6 passageiros por vagão",
+            "cs-CZ": "6 míst v každém voze",
+            "pl-PL": "6 pasażerów na wagonik",
+            "ru-RU": "6 человек",
+            "eo-ZZ": "Po 6 pasaĝeroj por ĉaro",
+            "ca-ES": "6 passatgers per cotxe",
+            "fi-FI": "6 matkustajaa per vaunu",
+            "zh-CN": "6位乘客/车",
+            "hu-HU": "6 utas kocsinként"
         }
     }
 }

@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.1960tsrt",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA20|1960TSRT|4241E72B",
     "sourceGame": "rct2tt",
@@ -13,17 +15,23 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["black", "black", "black"]
+                [
+                    "black",
+                    "black",
+                    "black"
+                ]
             ]
         ]
     },
-    "images": ["$RCT2:OBJDATA/1960TSRT.DAT[0..6]"],
+    "images": [
+        "$RCT2:OBJDATA/1960TSRT.DAT[0..6]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Flower Power T-Shirts",
             "fr-FR": "T-shirts Flower Power",
             "de-DE": "Flower-Power-T-Shirts",
-            "es-ES": "Camisetas de poder floral",
+            "es-ES": "Camisetas de Paz y Amor",
             "it-IT": "T-shirt floreali",
             "nl-NL": "‘Flower Power’-t-shirtkraam",
             "sv-SE": "’Flower Power’-t-tröjor",
@@ -37,7 +45,8 @@
             "eo-ZZ": "Florpotencaj T-Ĉemizoj",
             "ca-ES": "Estand de samarretes Flower Power",
             "fi-FI": "Kukkavoima-t-paitakoju",
-            "zh-CN": "花之力T恤专卖店"
+            "zh-CN": "花之力T恤专卖店",
+            "hu-HU": "Virágbéke pólók"
         },
         "description": {
             "en-GB": "Stall selling T-shirts with a flower motif",
@@ -57,7 +66,8 @@
             "eo-ZZ": "Budo vendanta T-ĉemizojn kun motivo de floro",
             "ca-ES": "Estand que ven samarretes amb motius florals.",
             "fi-FI": "Koju, joka myy kukkateemaisia t-paitoja",
-            "zh-CN": "卖花图案T恤的摊位"
+            "zh-CN": "卖花图案T恤的摊位",
+            "hu-HU": "Egy bódé, ahol virág motívummal ellátott pólókat árulnak"
         }
     }
 }

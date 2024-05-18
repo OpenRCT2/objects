@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_small.wcuzco12",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CC31D11|WCUZCO12|8B8E2BDE",
     "sourceGame": "rct2ww",
@@ -15,7 +17,9 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/WCUZCO12.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/WCUZCO12.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Monumental Broken Wall Piece",

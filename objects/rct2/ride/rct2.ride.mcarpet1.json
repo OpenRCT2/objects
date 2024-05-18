@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.mcarpet1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|MCARPET1|073E5C11",
     "sourceGame": "rct2",
@@ -13,13 +16,25 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["bordeaux_red", "bright_red", "black"]
+                [
+                    "bordeaux_red",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["grey", "bright_red", "black"]
+                [
+                    "grey",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "light_blue", "black"]
+                [
+                    "yellow",
+                    "light_blue",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -37,10 +52,25 @@
             },
             "recalculateSpriteBounds": true,
             "hasAdditionalColour1": true,
-            "loadingPositions": [-27, -25, 27, 25, -17, -15, 17, 15, -7, -5, 7, 5]
+            "loadingPositions": [
+                -27,
+                -25,
+                27,
+                25,
+                -17,
+                -15,
+                17,
+                15,
+                -7,
+                -5,
+                7,
+                5
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/MCARPET1.DAT[0..30]"],
+    "images": [
+        "$RCT2:OBJDATA/MCARPET1.DAT[0..30]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Magic Carpet",

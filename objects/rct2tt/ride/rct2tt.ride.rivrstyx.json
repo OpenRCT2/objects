@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.rivrstyx",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F820|RIVRSTYX|E701FD53",
     "sourceGame": "rct2tt",
@@ -14,13 +16,11 @@
         "noCollisionCrashes": true,
         "carColours": [
             [
-                ["light_brown", "white", "white"]
-            ],
-            [
-                ["light_brown", "yellow", "bright_red"]
-            ],
-            [
-                ["light_brown", "dark_green", "dark_green"]
+                [
+                    "black",
+                    "bright_pink",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -37,14 +37,21 @@
             },
             "isPowered": true,
             "isWaterRide": true,
-            "loadingPositions": [6, 4, -6, -4]
+            "loadingPositions": [
+                6,
+                4,
+                -6,
+                -4
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/RIVRSTYX.DAT[0..98]"],
+    "images": [
+        "$RCT2:OBJDATA/RIVRSTYX.DAT[0..98]"
+    ],
     "strings": {
         "name": {
             "en-GB": "River Styx boats",
-            "fr-FR": "Le Styx",
+            "fr-FR": "Bateau du Styx",
             "de-DE": "Styx-Flussboote",
             "es-ES": "Río Styx",
             "it-IT": "Lo Stige",
@@ -64,7 +71,7 @@
         },
         "description": {
             "en-GB": "Boats with an Underworld theme, built for flat river tracks",
-            "fr-FR": "Des bateaux en forme de radeau descendent paisiblement une voie navigable",
+            "fr-FR": "Bateau du dernier voyage, conçu pour des voies navigables plates",
             "de-DE": "Boote im Unterweltstil, die für flache Flussstrecken ausgelegt sind",
             "es-ES": "Botes con forma de balsa que serpentean tranquilamente por un circuito de río.",
             "it-IT": "Barche a forma di zattere si muovono dolcemente lungo una pista d’acqua.",

@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.wmouse",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C80|WMOUSE  |32C36628",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "wooden_wild_mouse",
@@ -19,13 +25,25 @@
         },
         "carColours": [
             [
-                ["bright_red", "white", "light_pink"]
+                [
+                    "bright_red",
+                    "white",
+                    "light_pink"
+                ]
             ],
             [
-                ["saturated_brown", "yellow", "white"]
+                [
+                    "saturated_brown",
+                    "yellow",
+                    "white"
+                ]
             ],
             [
-                ["white", "bright_pink", "bright_purple"]
+                [
+                    "white",
+                    "bright_pink",
+                    "bright_purple"
+                ]
             ]
         ],
         "cars": [
@@ -48,7 +66,10 @@
                 "hasSwinging": true,
                 "hasScreamingRiders": true,
                 "useWoodenWildMouseSwing": true,
-                "loadingPositions": [4, -4]
+                "loadingPositions": [
+                    4,
+                    -4
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -58,18 +79,21 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "hasScreamingRiders": true
             }
         ],
         "buildMenuPriority": 2
     },
-    "images": ["$RCT2:OBJDATA/WMOUSE.DAT[0..1106]", ""],
+    "images": [
+        "$RCT2:OBJDATA/WMOUSE.DAT[0..1106]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Mouse Cars",
-            "fr-FR": "Souris folle en bois",
+            "fr-FR": "Voiture souris",
             "de-DE": "Mauswagen",
             "es-ES": "Ratón Loco de Madera",
             "it-IT": "Topo tutto matto di legno",
@@ -89,7 +113,7 @@
         },
         "description": {
             "en-GB": "Individual cars shaped like a mouse",
-            "fr-FR": "De petites voitures en forme de souris dévalent une voie en bois et sont chahutées dans des virages en épingle à cheveux et des descentes abruptes",
+            "fr-FR": "Voiture individuelle en forme de souris",
             "de-DE": "Einzelne mausförmige Wagen",
             "es-ES": "Coches con forma de ratones que corren sobre una pista de madera",
             "it-IT": "Piccole carrozze a forma di topo sfrecciano lungo un tracciato di legno, inclinandosi pericolosamente nelle curve a U e nelle discese ripide",

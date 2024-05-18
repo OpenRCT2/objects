@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.helicar",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|HELICAR |A4EBEE6C",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "mini_helicopters",
@@ -18,19 +24,39 @@
         "tailCars": 1,
         "carColours": [
             [
-                ["light_blue", "yellow", "black"]
+                [
+                    "light_blue",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["bright_green", "white", "black"]
+                [
+                    "bright_green",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["bright_red", "white", "black"]
+                [
+                    "bright_red",
+                    "white",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "bright_red", "black"]
+                [
+                    "yellow",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["light_purple", "bright_red", "black"]
+                [
+                    "light_purple",
+                    "bright_red",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -51,7 +77,10 @@
                 "hasAdditionalColour1": true,
                 "isPowered": true,
                 "hasVehicleAnimation": true,
-                "loadingPositions": [3, -3]
+                "loadingPositions": [
+                    3,
+                    -3
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -61,14 +90,17 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "isPowered": true
             }
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/HELICAR.DAT[0..834]", ""],
+    "images": [
+        "$RCT2:OBJDATA/HELICAR.DAT[0..834]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Mini Helicopters",
@@ -94,7 +126,7 @@
         "description": {
             "en-GB": "Powered helicopter-shaped cars, controlled by the pedalling of the riders",
             "en-US": "Powered helicopter-shaped cars, controlled by the pedaling of the riders",
-            "fr-FR": "Installés dans des voitures en forme d’hélicoptère, les passagers parcourent une voie métallique en pédalant pour avancer",
+            "fr-FR": "Voiture en forme d’hélicoptère propulsée par le coup de pédale des passagers",
             "de-DE": "Helikopterförmige Wagen, die von den Pedaltritten der Fahrer angetrieben werden",
             "es-ES": "Vagones con forma de helicópteros corren por una vía de acero controlados por los pedales de los pasajeros",
             "it-IT": "Carrozze a motore a forma di elicotteri corrono lungo un tracciato d’acciaio spinte dalle pedalate dei passeggeri",

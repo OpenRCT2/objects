@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.bmair",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|BMAIR   |28DE8ACD",
     "sourceGame": "rct2",
@@ -13,10 +16,18 @@
         "maxCarsPerTrain": 8,
         "carColours": [
             [
-                ["bright_red", "yellow", "dark_purple"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "dark_purple"
+                ]
             ],
             [
-                ["teal", "grey", "black"]
+                [
+                    "teal",
+                    "grey",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -49,7 +60,12 @@
                 "spriteBoundsIncludeInvertedSet": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, -2, 2, -2]
+                "loadingPositions": [
+                    2,
+                    -2,
+                    2,
+                    -2
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -79,16 +95,23 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, -2, 2, -2]
+                "loadingPositions": [
+                    2,
+                    -2,
+                    2,
+                    -2
+                ]
             }
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/BMAIR.DAT[0..4562]"],
+    "images": [
+        "$RCT2:OBJDATA/BMAIR.DAT[0..4562]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Flying Roller Coaster Trains",
-            "fr-FR": "Montagnes russes volantes",
+            "fr-FR": "Train de montagnes russes volantes",
             "de-DE": "Züge für Fliegende Achterbahn",
             "es-ES": "Montaña Rusa Volante",
             "it-IT": "Ottovolante volante",
@@ -123,7 +146,7 @@
             "pl-PL": "Pasażerowie zasiadają w wygodnych fotelach zawieszonych pod torem i jadą zawiłą trasą, czując się, jakby potrafili latać",
             "ru-RU": "Люди сидят в удобных креслах и едут по очень сложной трассе, испытывая чувство полёта.",
             "eo-ZZ": "Rajdantoj estas tenitaj en komfortaj seĝoj sub la trako por havi la plej bonan sperton de flugado",
-            "ca-ES": "Els passatgers s’asseuen en seients còmodes per sota de la via per donar la sensació d’estar volant.",
+            "ca-ES": "Els passatgers s’asseuen en seients còmodes per sota de la via per a donar la sensació d’estar volant.",
             "fi-FI": "Matkustajat kulkevat mukavissa istuimissa radan alla, luoden äärimmäisen lennon tunteen"
         },
         "capacity": {

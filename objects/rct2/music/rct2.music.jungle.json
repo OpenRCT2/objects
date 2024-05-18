@@ -1,16 +1,23 @@
 {
     "id": "rct2.music.jungle",
-    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC05|00000000",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "music",
     "properties": {
         "originalStyleId": 5,
         "tracks": [
             {
                 "source": "$RCT2:DATA/css21.dat",
-                "name": "Jungle juice"
+                "name": "Jungle juice",
+                "composer": "Allister Brimble"
             }
         ]
     },
@@ -21,7 +28,7 @@
             "cs-CZ": "Jungle bubny",
             "da-DK": "Jungletrommer stil",
             "de-DE": "Dschungeltrommelnstil",
-            "es-ES": "Estilo tambores jungla",
+            "es-ES": "Estilo tambores de la selva",
             "fi-FI": "Viidakkorumputyylinen",
             "fr-FR": "Tambours de la jungle",
             "hu-HU": "Dzsungel dob stílus",
@@ -36,7 +43,8 @@
             "tr-TR": "Cengel tarzı",
             "zh-CN": "丛林敲击风格",
             "zh-TW": "叢林敲擊風格",
-            "eo-ZZ": "Ĝangalo-tamburoj-stilo"
+            "eo-ZZ": "Ĝangalo-tamburoj-stilo",
+            "nb-NO": "Jungeltromme-stil"
         }
     }
 }

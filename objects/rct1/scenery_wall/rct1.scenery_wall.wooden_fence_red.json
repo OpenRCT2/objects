@@ -1,6 +1,9 @@
 {
     "id": "rct1.scenery_wall.wooden_fence_red",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000053|#RCT1WF0|D1026E02",
     "sourceGame": "rct1",
@@ -12,8 +15,12 @@
         "price": 40,
         "sceneryGroup": "rct2.scenery_group.scgfence"
     },
-    "images": ["$CSG[63131..63137]"],
-    "noCsgImages": ["$RCT2:OBJDATA/WPW2.DAT[0..5]"],
+    "images": [
+        "$CSG[63131..63137]"
+    ],
+    "noCsgImages": [
+        "$RCT2:OBJDATA/WPW2.DAT[0..5]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Wooden Fence",
@@ -32,7 +39,8 @@
             "pl-PL": "Drewniany płot",
             "ru-RU": "Забор",
             "ar-EG": "سياج خشبي",
-            "eo-ZZ": "Ligna Barilo"
+            "eo-ZZ": "Ligna Barilo",
+            "ca-ES": "Tanca de fusta"
         }
     }
 }

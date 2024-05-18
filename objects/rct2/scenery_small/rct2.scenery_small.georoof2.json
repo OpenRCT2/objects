@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_small.georoof2",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188D81|GEOROOF2|6050210C",
     "sourceGame": "rct2",
@@ -23,7 +26,9 @@
         "hasNoSupports": true,
         "allowSupportsAbove": true
     },
-    "images": ["$RCT2:OBJDATA/GEOROOF2.DAT[0..7]"],
+    "images": [
+        "$RCT2:OBJDATA/GEOROOF2.DAT[0..7]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Glass Roof",
@@ -43,7 +48,9 @@
             "ru-RU": "Крыша",
             "eo-ZZ": "Vitra Tegmento",
             "ca-ES": "Teulada de vidre",
-            "fi-FI": "Lasikatto"
+            "fi-FI": "Lasikatto",
+            "ar-EG": "سقف زجاجي",
+            "hu-HU": "Üvegtető"
         }
     }
 }

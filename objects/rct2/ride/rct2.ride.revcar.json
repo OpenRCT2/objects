@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.revcar",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|REVCAR  |50718182",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "reverser_rc",
@@ -16,16 +22,32 @@
         "tailCars": 2,
         "carColours": [
             [
-                ["bright_red", "dark_green", "black"]
+                [
+                    "bright_red",
+                    "dark_green",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "dark_brown", "black"]
+                [
+                    "yellow",
+                    "dark_brown",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "dark_green", "black"]
+                [
+                    "light_blue",
+                    "dark_green",
+                    "black"
+                ]
             ],
             [
-                ["white", "bordeaux_red", "black"]
+                [
+                    "white",
+                    "bordeaux_red",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -52,7 +74,14 @@
                 "recalculateSpriteBounds": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [11, 7, 2, -2, -7, -11]
+                "loadingPositions": [
+                    11,
+                    7,
+                    2,
+                    -2,
+                    -7,
+                    -11
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -76,7 +105,14 @@
                 "recalculateSpriteBounds": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [-7, -11, 2, -2, 11, 7]
+                "loadingPositions": [
+                    -7,
+                    -11,
+                    2,
+                    -2,
+                    11,
+                    7
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -98,7 +134,9 @@
         ],
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/REVCAR.DAT[0..938]"],
+    "images": [
+        "$RCT2:OBJDATA/REVCAR.DAT[0..938]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Reverser Cars",
@@ -122,7 +160,7 @@
         },
         "description": {
             "en-GB": "Bogied cars capable of turning around on special reversing sections",
-            "fr-FR": "Chariot dévalant une voie en bois, tournant à des sections inverseuses spéciales",
+            "fr-FR": "Chariot capable de tourner à des sections inverseuses spéciales",
             "de-DE": "Wagen mit Drehgestell fahren auf einer Holzstrecke und rotieren dabei auf speziellen Umkehrabschnitten",
             "es-ES": "Vagones que corren por una vía de madera girando en secciones especiales de inversión",
             "it-IT": "Dei carrelli corrono su un tracciato di legno, ruotando di 180° in speciali sezioni",
@@ -134,7 +172,6 @@
             "pt-BR": "Carros Truque capaz de virar em torno de si em seções de reversão especiais",
             "ar-EG": "Bogied cars capable of turning around on special reversing sections",
             "cs-CZ": "Horská dráha s vozy, které se ve speciálních místech se otočí a jedou pozpátku",
-            "en-US": "Bogied cars capable of turning around on special reversing sections",
             "ja-JP": "特殊な反転ターンがある木製のコースをボギー車両が走行するコースターです",
             "pl-PL": "Wózki kopalniane jeżdżące po drewnianych torach, zawracające na specjalnych obrotowych sekcjach",
             "ru-RU": "Вагончики на деревянных рельсах, меняющие направление на середине трека.",

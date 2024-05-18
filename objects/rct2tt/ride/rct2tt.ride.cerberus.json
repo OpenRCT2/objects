@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.cerberus",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F820|CERBERUS|7CE9E834",
     "sourceGame": "rct2tt",
@@ -20,16 +22,32 @@
         },
         "carColours": [
             [
-                ["dark_green", "bordeaux_red", "yellow"]
+                [
+                    "dark_green",
+                    "bordeaux_red",
+                    "yellow"
+                ]
             ],
             [
-                ["light_purple", "black", "grey"]
+                [
+                    "light_purple",
+                    "black",
+                    "grey"
+                ]
             ],
             [
-                ["light_orange", "bordeaux_red", "dark_yellow"]
+                [
+                    "light_orange",
+                    "bordeaux_red",
+                    "dark_yellow"
+                ]
             ],
             [
-                ["bright_red", "light_brown", "black"]
+                [
+                    "bright_red",
+                    "light_brown",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -59,7 +77,12 @@
                 "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [-2, -4, -2, -4]
+                "loadingPositions": [
+                    -2,
+                    -4,
+                    -2,
+                    -4
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -87,11 +110,13 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/CERBERUS.DAT[0..2870]"],
+    "images": [
+        "$RCT2:OBJDATA/CERBERUS.DAT[0..2870]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Cerberus Trains",
-            "fr-FR": "Le cerbère",
+            "fr-FR": "Train cerbère",
             "de-DE": "Zerberus-Züge",
             "es-ES": "Montaña rusa Cerbero",
             "it-IT": "Ottovolante Cerbero",
@@ -107,11 +132,12 @@
             "eo-ZZ": "Cerbero-Trajnoj",
             "ca-ES": "Trens Cèrber",
             "fi-FI": "Kerberos-vaunut",
-            "zh-CN": "地狱犬列车"
+            "zh-CN": "地狱犬列车",
+            "hu-HU": "Kerberosz vonatok"
         },
         "description": {
             "en-GB": "Spacious trains with simple lap restraints with cars shaped like the multi-headed dog from the Underworld",
-            "fr-FR": "Retenus uniquement par les jambes dans des voitures confortables, les visiteurs effectuent des descentes géantes le long d’un tracé sinueux et décollent de leur siège en haut des collines",
+            "fr-FR": "Spacieux train avec de simples barres aux jambes reprenant l’apparence du chien aux multiples têtes des Enfers",
             "de-DE": "Geräumige Züge mit einfachen Beckenhalterungen mit Wagen, die wie der mehrköpfige Hund aus der Unterwelt geformt sind",
             "es-ES": "Sentados en cómodos vagones con sujeciones simples, los viajeros disfrutan de grandes y suaves caídas así como de giros y gran cantidad de momentos de caída libre en los puntos superiores.",
             "it-IT": "Seduti comodamente - il solo limite è che si può effettuare un solo giro alla volta - i passeggeri affrontano dolci discese e numerose curve, sperimentando una piacevole sensazione di assenza di gravità.",
@@ -127,7 +153,8 @@
             "eo-ZZ": "Grandspacoj trajnoj kun simplaj sinobridoj, kaj ĉaroj, kiuj aspektas kiel la hundo de la infero kun multaj kapoj",
             "ca-ES": "Trens espaiosos amb subjeccions simples amb cotxes en forma de gos de diversos caps de l’inframón.",
             "fi-FI": "Manalan monipäisen koiran muotoiset tilavat vaunut, joissa on yksinkertaiset turvakaiteet",
-            "zh-CN": "宽敞的车厢，带有简单的膝部约束装置，车厢形状像来自冥界的多头狗"
+            "zh-CN": "宽敞的车厢，带有简单的膝部约束装置，车厢形状像来自冥界的多头狗",
+            "hu-HU": "Tágas vonatok egyszerű biztonsági rudakkal, a kocsik pedig az alvilág többfejű kutyájának formáját öltik"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -147,7 +174,8 @@
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
-            "zh-CN": "4位乘客/车"
+            "zh-CN": "4位乘客/车",
+            "hu-HU": "4 utas kocsinként"
         }
     }
 }

@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_group.scgmytho",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F627|SCGMYTHO|8A3065E6",
     "sourceGame": "rct2tt",
@@ -74,10 +76,12 @@
             "rct2tt.scenery_small.titansta",
             "rct2tt.scenery_small.zeusstat"
         ],
-        "priority": 25,
+        "priority": 54,
         "entertainerCostumes": "roman"
     },
-    "images": ["$RCT2:OBJDATA/SCGMYTHO.DAT[0..1]"],
+    "images": [
+        "$RCT2:OBJDATA/SCGMYTHO.DAT[0..1]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Mythological Theming",

@@ -1,6 +1,9 @@
 {
     "id": "rct2.footpath_railings.bamboo_black",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "rct2",
     "objectType": "footpath_railings",
@@ -17,7 +20,11 @@
             "en-GB": "Bamboo Railings (Black)",
             "de-DE": "Bambusgeländer (schwarz)",
             "nl-NL": "Ondersteuningen van bamboe (zwart)",
-            "eo-ZZ": "Bambuaj Balustradoj (Nigra)"
+            "eo-ZZ": "Bambuaj Balustradoj (Nigra)",
+            "ca-ES": "Baranes de bambú (negres)",
+            "fr-FR": "Rambardes en bambou (noires)",
+            "ko-KR": "대나무 울타리 (검은색)",
+            "pt-BR": "Grades Estilo Bambu (Preta)"
         }
     }
 }

@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.rcr",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|RCR     |14407591",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "car_ride",
@@ -20,13 +26,25 @@
         },
         "carColours": [
             [
-                ["bright_green", "light_orange", "black"]
+                [
+                    "bright_green",
+                    "light_orange",
+                    "black"
+                ]
             ],
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "bright_red", "black"]
+                [
+                    "light_blue",
+                    "bright_red",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -45,7 +63,9 @@
                 },
                 "hasAdditionalColour1": true,
                 "isPowered": true,
-                "loadingPositions": [0]
+                "loadingPositions": [
+                    0
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -55,18 +75,21 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "isPowered": true
             }
         ],
         "buildMenuPriority": 4
     },
-    "images": ["$RCT2:OBJDATA/RCR.DAT[0..210]", ""],
+    "images": [
+        "$RCT2:OBJDATA/RCR.DAT[0..210]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Racing Cars",
-            "fr-FR": "Voitures de course",
+            "fr-FR": "Voiture de course",
             "de-DE": "Rennwagen",
             "es-ES": "Coches de Carreras",
             "it-IT": "Auto da corsa",
@@ -86,7 +109,7 @@
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of racing cars",
-            "fr-FR": "Véhicules à propulsion en forme de voitures de course",
+            "fr-FR": "Véhicule à propulsion en forme de voiture de course",
             "de-DE": "Angetriebene Fahrzeuge in Form von Rennwagen",
             "es-ES": "Vehículos autopropulsados con forma de coches de carreras",
             "it-IT": "Veicoli a motore che ricordano le auto da corsa",

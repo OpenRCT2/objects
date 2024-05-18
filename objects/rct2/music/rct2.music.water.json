@@ -1,16 +1,23 @@
 {
     "id": "rct2.music.water",
-    "authors": ["Chris Sawyer", "Allister Brimble"],
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC14|00000000",
-    "sourceGame": ["rct2", "rct1aa"],
+    "sourceGame": [
+        "rct2",
+        "rct1aa"
+    ],
     "objectType": "music",
     "properties": {
         "originalStyleId": 14,
         "tracks": [
             {
                 "source": "$RCT2:DATA/css30.dat",
-                "name": "Atlantis"
+                "name": "Atlantis",
+                "composer": "Allister Brimble"
             }
         ]
     },
@@ -36,7 +43,8 @@
             "tr-TR": "Su tarzı",
             "zh-CN": "水上风格",
             "zh-TW": "水文風格",
-            "eo-ZZ": "Akva stilo"
+            "eo-ZZ": "Akva stilo",
+            "nb-NO": "Vann-stil"
         }
     }
 }

@@ -1,8 +1,12 @@
 {
     "id": "rct2tt.footpath_surface.circuitboard",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
-    "sourceGame": ["rct2tt"],
+    "sourceGame": [
+        "rct2tt"
+    ],
     "objectType": "footpath_surface",
     "images": [
         { "path": "preview.png", "x": 1, "y": 1 },
@@ -11,7 +15,7 @@
     "strings": {
         "name": {
             "en-GB": "Circuit Footpath",
-            "fr-FR": "Allée circuit",
+            "fr-FR": "Allée circuit imprimé",
             "de-DE": "Elektronischer Fußweg",
             "es-ES": "Sendero circuito",
             "it-IT": "Sentiero circuito",
@@ -24,7 +28,8 @@
             "pl-PL": "Dróżka obwodowa",
             "ru-RU": "Тропа",
             "ja-JP": "迂回路の歩道",
-            "eo-ZZ": "Cirkvitkarta Trotuaro"
+            "eo-ZZ": "Cirkvitkarta Trotuaro",
+            "ca-ES": "Camí d’estil circuit elèctric"
         }
     }
 }

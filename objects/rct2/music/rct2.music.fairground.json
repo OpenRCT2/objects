@@ -1,12 +1,19 @@
 {
     "id": "rct2.music.fairground",
-    "authors": ["C. John Mears"],
+    "authors": [
+        "C. John Mears"
+    ],
     "version": "1.0",
     "originalId": "0000008E|#MUSIC01|00000000",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "music",
     "properties": {
-        "rideTypes": ["merry_go_round"],
+        "rideTypes": [
+            "merry_go_round"
+        ],
         "niceFactor": 1,
         "tracks": [
             {
@@ -76,7 +83,9 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/MGR1.DAT[0]"],
+    "images": [
+        "$RCT2:OBJDATA/MGR1.DAT[0]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Fairground organ style",
@@ -98,7 +107,9 @@
             "zh-CN": "游乐场风琴风格",
             "zh-TW": "遊樂場風琴風格",
             "eo-ZZ": "Foirejo-orgeno-stilo",
-            "fi-FI": "Karusellimusiikin tyylinen"
+            "fi-FI": "Karusellimusiikin tyylinen",
+            "es-ES": "Estilo órgano de feria",
+            "nb-NO": "Tivoli-orgel-stil"
         }
     }
 }

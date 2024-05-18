@@ -1,6 +1,9 @@
 {
     "id": "rct1aa.footpath_surface.tiles_grey",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "rct1aa",
     "objectType": "footpath_surface",
@@ -29,7 +32,9 @@
             "pl-PL": "Szara Mozaikowa Ścieżka",
             "ko-KR": "회색 타일 보도",
             "eo-ZZ": "Griza Kahelita Trotuaro",
-            "sv-SE": "Grå stenlagd gångväg"
+            "sv-SE": "Grå stenlagd gångväg",
+            "ca-ES": "Camí enrajolat gris",
+            "en-US": "Gray Tiled Footpath"
         }
     }
 }

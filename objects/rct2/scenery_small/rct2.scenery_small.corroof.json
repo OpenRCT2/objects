@@ -1,6 +1,9 @@
 {
     "id": "rct2.scenery_small.corroof",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188D81|CORROOF |157BA6B7",
     "sourceGame": "rct2",
@@ -19,7 +22,9 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/CORROOF.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/CORROOF.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Corrugated Steel Roof",

@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.clift1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|CLIFT1  |A87D4055",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "chairlift",
@@ -11,16 +17,32 @@
         "hasShelter": true,
         "carColours": [
             [
-                ["yellow", "saturated_brown", "black"]
+                [
+                    "yellow",
+                    "saturated_brown",
+                    "black"
+                ]
             ],
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["bright_green", "yellow", "black"]
+                [
+                    "bright_green",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["light_blue", "white", "black"]
+                [
+                    "light_blue",
+                    "white",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -36,11 +58,16 @@
             },
             "hasAdditionalColour1": true,
             "isChairlift": true,
-            "loadingPositions": [4, 0]
+            "loadingPositions": [
+                4,
+                0
+            ]
         },
         "buildMenuPriority": 2
     },
-    "images": ["$RCT2:OBJDATA/CLIFT1.DAT[0..90]"],
+    "images": [
+        "$RCT2:OBJDATA/CLIFT1.DAT[0..90]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Chairlift Cars",
@@ -64,7 +91,7 @@
         },
         "description": {
             "en-GB": "Open cars for chairlift",
-            "fr-FR": "Voitures ouvertes pour télésiège",
+            "fr-FR": "Voiture ouverte pour télésiège",
             "de-DE": "Offene Wagen für Sessellift",
             "es-ES": "Vagones abiertos para el telesilla",
             "it-IT": "Carrozze aperte che vengono trainate",

@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.mcastl12",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F822|MCASTL12|F1EE8A92",
     "sourceGame": "rct2tt",
@@ -15,17 +17,19 @@
                 "x": 0,
                 "y": 0,
                 "clearance": 128,
-                "walls": 9
+                "walls": 11
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 128,
-                "walls": 3
+                "walls": 14
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/MCASTL12.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/MCASTL12.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Castle Entrance",

@@ -1,6 +1,9 @@
 {
     "id": "rct1ll.terrain_edge.stone_brown",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0000008C|#RCT1ESN|00000000",
     "sourceGame": "rct1ll",
@@ -29,7 +32,7 @@
             "ko-KR": "사암 (갈색)",
             "eo-ZZ": "Sabloŝtono (Bruna)",
             "sv-SE": "Sandsten (brun)",
-            "ca-ES": "Gres (Marró)",
+            "ca-ES": "Gres (marró)",
             "fi-FI": "Hiekkakivinen (ruskea)",
             "zh-CN": "砂岩(棕色)"
         }

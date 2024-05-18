@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.ride.figtknit",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F820|FIGTKNIT|ACA0B9C9",
     "sourceGame": "rct2tt",
@@ -11,16 +13,32 @@
         "carsPerFlatRide": 12,
         "carColours": [
             [
-                ["bright_red", "white", "black"]
+                [
+                    "bright_red",
+                    "white",
+                    "yellow"
+                ]
             ],
             [
-                ["light_blue", "white", "black"]
+                [
+                    "light_blue",
+                    "white",
+                    "yellow"
+                ]
             ],
             [
-                ["yellow", "bright_red", "black"]
+                [
+                    "yellow",
+                    "bright_red",
+                    "yellow"
+                ]
             ],
             [
-                ["bright_purple", "yellow", "black"]
+                [
+                    "bright_purple",
+                    "yellow",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -41,10 +59,14 @@
             "useBoatHireCollisionDetection": true,
             "hasVehicleAnimation": true,
             "useDodgemCarPlacement": true,
-            "loadingPositions": [0]
+            "loadingPositions": [
+                0
+            ]
         }
     },
-    "images": ["$RCT2:OBJDATA/FIGTKNIT.DAT[0..130]"],
+    "images": [
+        "$RCT2:OBJDATA/FIGTKNIT.DAT[0..130]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Fighting Knights Dodgems",

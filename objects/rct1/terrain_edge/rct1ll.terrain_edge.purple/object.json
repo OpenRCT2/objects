@@ -1,6 +1,9 @@
 {
     "id": "rct1ll.terrain_edge.purple",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0000008C|#RCT1EPU|00000000",
     "sourceGame": "rct1ll",
@@ -29,7 +32,7 @@
             "ko-KR": "흙벽 (보라색)",
             "eo-ZZ": "Stukaĵo (Purpura)",
             "sv-SE": "Stuck (lila)",
-            "ca-ES": "Estuc (Morat)",
+            "ca-ES": "Estuc (morat)",
             "fi-FI": "Stukki (violetti)",
             "zh-CN": "灰泥(紫色)"
         }

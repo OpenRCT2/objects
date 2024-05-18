@@ -1,0 +1,100 @@
+{
+    "id": "rct2.audio.base.rct2",
+    "authors": [
+        "Chris Sawyer",
+        "Allister Brimble"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "audio",
+    "samples": [
+        "$RCT2:DATA/CSS1.DAT[0..12]",
+        {
+            "source": "$RCT2:DATA/CSS1.DAT[13]",
+            "modifier": -400
+        },
+        "$RCT2:DATA/CSS1.DAT[14..19]",
+        {
+            "source": "$RCT2:DATA/CSS1.DAT[20]",
+            "modifier": -1000
+        },
+        "$RCT2:DATA/CSS1.DAT[21]",
+        {
+            "source": "$RCT2:DATA/CSS1.DAT[22]",
+            "modifier": -800
+        },
+        {
+            "source": "$RCT2:DATA/CSS1.DAT[23]",
+            "modifier": -1700
+        },
+        {
+            "source": "$RCT2:DATA/CSS1.DAT[24..27]",
+            "modifier": -700
+        },
+        "$RCT2:DATA/CSS1.DAT[28..33]",
+        {
+            "source": "$RCT2:DATA/CSS1.DAT[34]",
+            "modifier": -700
+        },
+        "$RCT2:DATA/CSS1.DAT[35]",
+        {
+            "source": "$RCT2:DATA/CSS1.DAT[36]",
+            "modifier": -2500
+        },
+        "$RCT2:DATA/CSS1.DAT[37..40]",
+        {
+            "source": "$RCT2:DATA/CSS1.DAT[41..43]",
+            "modifier": -900
+        },
+        "$RCT2:DATA/CSS1.DAT[44]",
+        {
+            "source": "$RCT2:DATA/CSS1.DAT[45]",
+            "modifier": -600
+        },
+        {
+            "source": "$RCT2:DATA/CSS1.DAT[46..47]",
+            "modifier": -700
+        },
+        {
+            "source": "$RCT2:DATA/CSS1.DAT[48]",
+            "modifier": -2550
+        },
+        {
+            "source": "$RCT2:DATA/CSS1.DAT[49]",
+            "modifier": -2900
+        },
+        "$RCT2:DATA/CSS1.DAT[50]",
+        {
+            "source": "$RCT2:DATA/CSS1.DAT[51]",
+            "modifier": -3400
+        },
+        "$RCT2:DATA/CSS1.DAT[52..59]",
+        {
+            "source": "$RCT2:DATA/CSS1.DAT[60]",
+            "modifier": -2000
+        },
+        {
+            "source": "$RCT2:DATA/CSS1.DAT[61]",
+            "modifier": -2700
+        },
+        {
+            "source": "$RCT2:DATA/CSS1.DAT[62]",
+            "modifier": -700
+        },
+        "$RCT2:DATA/CSS2.DAT"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Base audio for the game.",
+            "de-DE": "Basisaudio für das Spiel.",
+            "eo-ZZ": "Baza aŭdio por la ludo.",
+            "nl-NL": "Basisaudio (zoals geluidseffecten)",
+            "ca-ES": "So base per al joc.",
+            "fr-FR": "Audio de base pour le jeu.",
+            "ko-KR": "게임의 기본 효과음입니다.",
+            "pt-BR": "Áudio original do jogo."
+        }
+    }
+}

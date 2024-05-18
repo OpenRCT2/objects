@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.futsky29",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FB21|FUTSKY29|A23FBCD4",
     "sourceGame": "rct2tt",
@@ -19,11 +21,13 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/FUTSKY29.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/FUTSKY29.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Sandstone Skyscraper Bottom Curved Slope",
-            "fr-FR": "Pente en courbe basse du gratte-ciel",
+            "fr-FR": "Bas de pente en courbe du gratte-ciel",
             "de-DE": "Sandstein-Wolkenkratzer Untere Gewundene Schräge",
             "es-ES": "Forma redondeada inferior de rascacielos de arenisca",
             "it-IT": "Pendio in curva inferiore del grattacielo in arenaria",

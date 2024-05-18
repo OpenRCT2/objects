@@ -1,9 +1,15 @@
 {
     "id": "rct2.station.snow",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0000008D|#RCT2STS|00000000",
-    "sourceGame": ["rct2", "rct1ll"],
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
     "objectType": "station",
     "properties": {
         "height": 35,
@@ -12,7 +18,8 @@
     },
     "images": [
         "$G1[22824..22839]",
-        "$G1[22541..22552]"],
+        "$G1[22541..22552]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Snow / Ice",
@@ -22,7 +29,7 @@
             "ko-KR": "눈 / 얼음",
             "zh-CN": "雪/冰",
             "ar-EG": "ثلج / جليد",
-            "nb-NO": "Snø / is",
+            "nb-NO": "Snø / Is",
             "hu-HU": "Havas / jeges",
             "es-ES": "Nieve / Hielo",
             "pt-BR": "Neve / Gelo",

@@ -1,9 +1,14 @@
 {
     "id": "rct2.ride.zldb",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C80|ZLDB    |42D2D111",
-    "sourceGame": ["rct2"],
+    "sourceGame": [
+        "rct2"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "junior_rc",
@@ -21,13 +26,25 @@
         "tailCars": 2,
         "carColours": [
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["dark_green", "bordeaux_red", "black"]
+                [
+                    "dark_green",
+                    "bordeaux_red",
+                    "black"
+                ]
             ],
             [
-                ["yellow", "dark_brown", "black"]
+                [
+                    "yellow",
+                    "dark_brown",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -51,7 +68,10 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, 4]
+                "loadingPositions": [
+                    2,
+                    4
+                ]
             },
             {
                 "rotationFrameMask": 31,
@@ -73,7 +93,10 @@
                 },
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, 4]
+                "loadingPositions": [
+                    2,
+                    4
+                ]
             },
             {
                 "rotationFrameMask": 0,
@@ -83,14 +106,17 @@
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {
-                    "slopeFlat":1
+                    "slopeFlat": 1
                 },
                 "hasScreamingRiders": true
             }
         ],
         "buildMenuPriority": 3
     },
-    "images": ["$RCT2:OBJDATA/ZLDB.DAT[0..1458]", ""],
+    "images": [
+        "$RCT2:OBJDATA/ZLDB.DAT[0..1458]",
+        ""
+    ],
     "strings": {
         "name": {
             "en-GB": "Ladybird Trains",
@@ -114,7 +140,7 @@
         },
         "description": {
             "en-GB": "Roller coaster trains with small ladybird-shaped cars",
-            "fr-FR": "Train de montagne russe avec des voitures en forme de coccinelle",
+            "fr-FR": "Train de montagnes russes avec des voitures en forme de coccinelle",
             "de-DE": "Achterbahnzüge mit kleinen Marienkäferwagen",
             "es-ES": "Montaña rusa con vagones de forma de mariquitas",
             "it-IT": "Treni da ottovolante a forma di piccole coccinelle",

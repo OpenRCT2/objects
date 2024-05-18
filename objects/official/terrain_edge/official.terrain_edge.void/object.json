@@ -1,6 +1,8 @@
 {
     "id": "official.terrain_edge.void",
-    "authors": ["Xtreme97"],
+    "authors": [
+        "Xtreme97"
+    ],
     "version": "1.0",
     "sourceGame": "official",
     "objectType": "terrain_edge",
@@ -103,7 +105,10 @@
             "fr-FR": "Vide",
             "pl-PL": "Pustka",
             "ko-KR": "공허",
-            "eo-ZZ": "Vaka"
+            "eo-ZZ": "Vaka",
+            "ar-EG": "فراغ",
+            "ca-ES": "Buit",
+            "hu-HU": "Üresség"
         }
     }
 }

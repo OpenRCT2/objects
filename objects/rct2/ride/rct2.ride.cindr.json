@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.cindr",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188A80|CINDR   |E62108E8",
     "sourceGame": "rct2",
@@ -14,15 +17,21 @@
         "carsPerFlatRide": 1,
         "carColours": [
             [
-                ["black", "black", "black"]
+                [
+                    "black",
+                    "black",
+                    "black"
+                ]
             ]
         ]
     },
-    "images": ["$RCT2:OBJDATA/CINDR.DAT[0..6]"],
+    "images": [
+        "$RCT2:OBJDATA/CINDR.DAT[0..6]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Sujeonggwa Stall",
-            "fr-FR": "Rhumerie",
+            "fr-FR": "Boutique de Sujeonggwa",
             "de-DE": "Sujeonggwa-Stand",
             "es-ES": "Puesto de sujeonggwa",
             "it-IT": "Chiosco di sujeonggwa",
@@ -42,7 +51,7 @@
         },
         "description": {
             "en-GB": "A stall selling Korean style Sujeonggwa drinks",
-            "fr-FR": "Boutique vendant du punch",
+            "fr-FR": "Boutique vendant du Sujeonggwa, une boisson coréenne",
             "de-DE": "Ein Stand, an dem koreanische Sujeonggwa-Getränke verkauft werden",
             "es-ES": "Puesto que vende bebidas estilo koreano sujeonggwa",
             "it-IT": "Un chiosco che vende bevande di sujeonggwa alla coreana",

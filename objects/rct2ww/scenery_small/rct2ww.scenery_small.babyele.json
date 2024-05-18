@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_small.babyele",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CBD0011|BABYELE |2FC0C1CD",
     "sourceGame": "rct2ww",
@@ -11,7 +13,6 @@
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 32,
         "shape": "4/4",
-        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
         "isRotatable": true,
         "hasPrimaryColour": true,
@@ -19,7 +20,9 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/BABYELE.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/BABYELE.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Baby Indian Elephant",

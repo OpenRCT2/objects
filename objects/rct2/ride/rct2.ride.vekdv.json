@@ -1,6 +1,9 @@
 {
     "id": "rct2.ride.vekdv",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188C80|VEKDV   |F1CEB26E",
     "sourceGame": "rct2",
@@ -18,7 +21,11 @@
         },
         "carColours": [
             [
-                ["yellow", "bright_green", "yellow"]
+                [
+                    "yellow",
+                    "bright_green",
+                    "yellow"
+                ]
             ]
         ],
         "cars": {
@@ -47,15 +54,22 @@
             "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [1, 3, 1, 3]
+            "loadingPositions": [
+                1,
+                3,
+                1,
+                3
+            ]
         },
         "buildMenuPriority": 1
     },
-    "images": ["$RCT2:OBJDATA/VEKDV.DAT[0..2042]"],
+    "images": [
+        "$RCT2:OBJDATA/VEKDV.DAT[0..2042]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Vertical Shuttle Cars",
-            "fr-FR": "Navette verticale inversée",
+            "fr-FR": "Voiture de navette verticale",
             "de-DE": "Umgekehrte vertikale Shuttlewagen",
             "es-ES": "Lanzadera Vertical Inversa",
             "it-IT": "Navetta verticale invertita",
@@ -75,7 +89,7 @@
         },
         "description": {
             "en-GB": "Large roller coaster cars in which riders sit in seats suspended beneath the track",
-            "fr-FR": "Voitures suspendues à la voie, hissées en marche arrière au sommet d’une voie verticale, puis lâchées  dans un parcours fait de boucles et d’inversions serrées",
+            "fr-FR": "Grande voiture de montagnes russes suspendue sous la voie dans laquelle les passagers s’asseoient",
             "de-DE": "Große Achterbahnwagen, in denen die Fahrgäste in unterhalb der Strecke aufgehängten Sitzen sitzen",
             "es-ES": "Los pasajeros están sentados suspendidos bajo la vía",
             "it-IT": "I passeggeri siedono in carrozze sospese sotto il tracciato, trainate in retromarcia su per un tratto verticale e poi sganciate per effettuare giri della morte e curve molto strette",

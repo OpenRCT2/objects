@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.rdmeto04",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FB21|RDMETO04|7BA0FC9D",
     "sourceGame": "rct2tt",
@@ -17,11 +19,13 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/RDMETO04.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/RDMETO04.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Red Meteor Crater Inverted Corner",
-            "fr-FR": "Virage inversé de cratère météoritique rouge",
+            "fr-FR": "Coin inversé de cratère météoritique rouge",
             "de-DE": "Umgedrehte roter Meteoritenkrater-Ecke",
             "es-ES": "Esquina invertida de cráter de meteorito rojo",
             "it-IT": "Curva invertita del cratere meteoritico rosso",

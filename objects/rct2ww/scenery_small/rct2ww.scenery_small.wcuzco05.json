@@ -1,6 +1,8 @@
 {
     "id": "rct2ww.scenery_small.wcuzco05",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0CC31D11|WCUZCO05|1CECDF63",
     "sourceGame": "rct2ww",
@@ -15,7 +17,9 @@
         "isStackable": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/WCUZCO05.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/WCUZCO05.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Monumental Wall Piece",

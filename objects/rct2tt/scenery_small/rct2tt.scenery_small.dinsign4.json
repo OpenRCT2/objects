@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.dinsign4",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA21|DINSIGN4|BA715793",
     "sourceGame": "rct2tt",
@@ -19,9 +21,28 @@
         "isAnimated": true,
         "isStackable": true,
         "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
-        "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+        "frameOffsets": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
     },
-    "images": ["$RCT2:OBJDATA/DINSIGN4.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/DINSIGN4.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Neon Diner Sign",
@@ -41,7 +62,8 @@
             "eo-ZZ": "Neona Afiŝo de Tagmanĝejo",
             "ca-ES": "Anunci de restaurant de neó",
             "fi-FI": "Ruokalan tienviitta",
-            "zh-CN": "霓虹餐厅标志"
+            "zh-CN": "霓虹餐厅标志",
+            "hu-HU": "Éttermi fényreklám"
         }
     }
 }

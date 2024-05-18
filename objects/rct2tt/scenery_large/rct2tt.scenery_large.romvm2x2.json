@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.romvm2x2",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F822|ROMVM2X2|AFA11ADB",
     "sourceGame": "rct2tt",
@@ -31,18 +33,20 @@
                 "y": 0,
                 "clearance": 96,
                 "hasSupports": true,
-                "walls": 8
+                "walls": 12
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 96,
                 "hasSupports": true,
-                "walls": 2
+                "walls": 6
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/ROMVM2X2.DAT[0..19]"],
+    "images": [
+        "$RCT2:OBJDATA/ROMVM2X2.DAT[0..19]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Roman Palace Cross Section",
@@ -62,7 +66,8 @@
             "eo-ZZ": "Sekco de Roma Palaco",
             "ca-ES": "Secció d’encreuament de palau romà",
             "fi-FI": "Roomalaisen palatsin risteysosa",
-            "zh-CN": "罗马宫殿-交叉部分"
+            "zh-CN": "罗马宫殿-交叉部分",
+            "hu-HU": "Római palota keresztmetszet"
         }
     }
 }

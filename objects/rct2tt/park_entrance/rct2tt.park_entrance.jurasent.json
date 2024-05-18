@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.park_entrance.jurasent",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F728|JURASENT|A2B32D74",
     "sourceGame": "rct2tt",
@@ -9,7 +11,9 @@
         "scrollingMode": 3,
         "textHeight": 83
     },
-    "images": ["$RCT2:OBJDATA/JURASENT.DAT[0..11]"],
+    "images": [
+        "$RCT2:OBJDATA/JURASENT.DAT[0..11]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Prehistoric Entrance",

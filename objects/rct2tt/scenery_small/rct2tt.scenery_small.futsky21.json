@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_small.futsky21",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24FA21|FUTSKY21|1BFE97FD",
     "sourceGame": "rct2tt",
@@ -19,7 +21,9 @@
         "prohibitWalls": true,
         "hasNoSupports": true
     },
-    "images": ["$RCT2:OBJDATA/FUTSKY21.DAT[0..3]"],
+    "images": [
+        "$RCT2:OBJDATA/FUTSKY21.DAT[0..3]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Sandstone Skyscraper Mid Wall Section",
@@ -39,7 +43,8 @@
             "eo-ZZ": "Meza Muroparto de Sabloŝtona Ĉielskrapanto",
             "ca-ES": "Secció central de paret de gratacel de gres",
             "fi-FI": "Hiekkakivipilvenpiirtäjän keskiosan seinän osa",
-            "zh-CN": "砂岩-高楼中部墙"
+            "zh-CN": "砂岩-高楼中部墙",
+            "hu-HU": "Homokkő felhőkarcoló középső falszakasz"
         }
     }
 }
