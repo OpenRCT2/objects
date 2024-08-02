@@ -1,0 +1,23 @@
+{
+  "id": "official.scenery_wall.betabrick16",
+  "authors": [
+    "Simon Foster"
+  ],
+  "version": "1.0",
+  "sourceGame": "official",
+  "objectType": "scenery_wall",
+  "properties": {
+    "height": 4,
+    "price": 80,
+    "sceneryGroup": "rct2.scenery_group.scgwalls"
+  },
+  "images": [
+    { "path": "images/0.png", "x": -31, "y": -16 },
+    { "path": "images/1.png", "x": -1, "y": -15 }
+  ],
+  "strings": {
+    "name": {
+      "en-GB": "Brick wall (Brown)"
+    }
+  }
+}
