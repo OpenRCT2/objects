@@ -9,8 +9,7 @@
   "properties": {
     "isAllowedOnSlope": true,
     "height": 4,
-    "price": 80,
-    "sceneryGroup": "rct2.scenery_group.scgwalls"
+    "price": 80
   },
   "images": [
     { "path": "images/0.png", "x": -31, "y": -33 },
