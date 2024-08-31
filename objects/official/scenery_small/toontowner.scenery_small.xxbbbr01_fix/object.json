@@ -9,7 +9,7 @@
     "objectType": "scenery_small",
     "properties": {
         "price": 20,
-        "removalPrice": 15,
+        "removalPrice": -15,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 8,
         "shape": "4/4",
