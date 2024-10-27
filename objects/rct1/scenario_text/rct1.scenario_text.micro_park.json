@@ -1,0 +1,60 @@
+{
+ "id": "rct1.scenario_text.micro_park",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct1"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "ميكرو بارك",
+   "ca-ES": "Microparc",
+   "en-GB": "Micro Park",
+   "eo-ZZ": "Mikro-Parko",
+   "fi-FI": "Mikropuisto",
+   "fr-FR": "Micro Parc",
+   "hu-HU": "Mikro Park",
+   "ja-JP": "マイクロ・パーク",
+   "pt-BR": "Microparque",
+   "zh-CN": "微型公园"
+  },
+  "park": {
+   "ar-EG": "ميكرو بارك",
+   "ca-ES": "Microparc",
+   "en-GB": "Micro Park",
+   "eo-ZZ": "Mikro-Parko",
+   "fi-FI": "Mikropuisto",
+   "fr-FR": "Micro Parc",
+   "hu-HU": "Mikro Park",
+   "ko-KR": "마이크로 공원",
+   "pl-PL": "Micro Parkwiecie ",
+   "pt-BR": "Microparque",
+   "zh-CN": "微型公园"
+  },
+  "details": {
+   "ar-EG": "حاول أن تبني أصغر حديقة ملاهي ربحية",
+   "ca-ES": "Es pot crear aquí el parc més petit del món i que tingui beneficis?",
+   "da-DK": "Prøv at skabe verdens mindste rentable Park",
+   "de-DE": "Versuchen Sie, den kleinsten Park der Welt anzulegen und dabei möglichst viel Gewinn zu erzielen.",
+   "en-GB": "Try to create the world’s smallest profitable park",
+   "eo-ZZ": "Provu krei la plej malgrandan profiteblan parkon de la mondo",
+   "es-ES": "Intenta crear el parque rentable más pequeño del mundo.",
+   "fi-FI": "Kokeile rakentaa maailman pienin tuottoisa huvipuisto",
+   "fr-FR": "Essayez de créer le plus petit parc bénéficiaire du monde.",
+   "hu-HU": "Próbáld meg létrehozni a világ legkisebb nyereséges parkját",
+   "it-IT": "Prova a creare un piccolo parco facendo dei soldi",
+   "ko-KR": "세상에서 가장 작지만 수익이 좋은 공원을 만들어보세요.",
+   "nb-NO": "Prøv å lage verdens minste lønnsomme park",
+   "nl-NL": "Je moet proberen het kleinste winstgevende pretpark ter wereld te bouwen.",
+   "pl-PL": "Spróbuj stworzyć najmniejszy dochodowy park rozrywki na świecie",
+   "pt-BR": "Tente criar o menor parque mais lucrativo do mundo.",
+   "sv-SE": "Försök att skapa världens minsta vinstgivande park",
+   "tr-TR": "Mikro bir alanda park değerinin yüksek olmasını sağlamaya çalışınız",
+   "zh-CN": "试着建造一个世界上最小的公园",
+   "zh-TW": "嘗試建立一個世界上最小的利潤性樂園"
+  }
+ }
+}

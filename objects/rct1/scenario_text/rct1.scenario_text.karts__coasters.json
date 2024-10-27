@@ -1,0 +1,58 @@
+{
+ "id": "rct1.scenario_text.karts__coasters",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct1"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ca-ES": "Kàrting i muntanyes russes",
+   "en-GB": "Karts & Coasters",
+   "eo-ZZ": "Gokartoj k Ondaj Fervojoj",
+   "es-ES": "Go-Karts & Montañas Rusas",
+   "fi-FI": "Ratoja ja ratoja",
+   "fr-FR": "Karts & Grands Huit",
+   "hu-HU": "Gokartok & Hullámvasutak",
+   "ja-JP": "カートとコースター",
+   "pt-BR": "Karts e Montanhas-Russas",
+   "zh-CN": "过山卡丁"
+  },
+  "park": {
+   "ca-ES": "Kàrting i muntanyes russes",
+   "en-GB": "Karts & Coasters",
+   "eo-ZZ": "Gokartoj k Ondaj Fervojoj",
+   "fi-FI": "Ratoja ja ratoja",
+   "fr-FR": "Karts & Grands Huit",
+   "hu-HU": "Gokartok & Hullámvasutak",
+   "ja-JP": "カートとコースター",
+   "ko-KR": "카트 & 코스터",
+   "pt-BR": "Karts e Montanhas-Russas",
+   "zh-CN": "过山卡丁"
+  },
+  "details": {
+   "ca-ES": "Un parc gran amagat al bell mig dels boscos. Només té vies de kàrting i muntanyes russes de fusta.",
+   "da-DK": "En stor park skjult i skoven, med kun Go-Kart bane og træ rutschebaner",
+   "de-DE": "Ein großer Park, versteckt im Wald gelegen, der nur Gokartbahnen und Holzachterbahnen aufzuweisen hat.",
+   "en-GB": "A large park hidden in the forest, with only go-kart tracks and wooden roller coasters",
+   "eo-ZZ": "Granda parko kaŝita en la arbaro, kiu enhavas nur trakojn de gokartoj kaj lignajn ondajn fervojojn",
+   "es-ES": "Un gran parque oculto en el bosque, que sólo contiene pistas de Go-karts y montañas rusas de madera.",
+   "fi-FI": "Metsään piilotettu suuri puisto, jossa on vain mikroautoratoja ja puisia vuoristoratoja",
+   "fr-FR": "Un grand parc caché dans la forêt, avec uniquement des pistes de karting et des montagnes russes en bois.",
+   "hu-HU": "Egy nagy park, elrejtve az erdőben, amelyben csak gokart pályák és fa hullámvasutak vannak",
+   "it-IT": "Un grande parco nascosto nella foresta; dispone solo di percorsi per go-kart e per Montagne Russe in legno",
+   "ko-KR": "몇 개의 고 카트 트랙과 우든 롤러코스터가 숲속에 숨겨진 대형 놀이공원입니다.",
+   "nb-NO": "En stor bortgjemt park i skogen, med kun go karts og tre-berg-og-dal-baner",
+   "nl-NL": "Een groot park, verscholen in het bos, met alleen kartbanen en houten achtbanen.",
+   "pl-PL": "Wielki park w środku lasu, jedynie z gokartami i drewnianymi kolejkami",
+   "pt-BR": "Um grande parque escondido na floresta, somente com pistas de karts e montanhas-russas de madeira.",
+   "sv-SE": "En stor park gömd i skogen, med endast gokarter och träberg- och dalbanor",
+   "tr-TR": "Ormanın içinde gizlenmiş ve sadece Kart Yarışı ve Ahşap Hız Trenleri bulunduran bir lunapark",
+   "zh-CN": "一个隐藏在森林的大型乐园，但当中只有小型赛车及木制过山车",
+   "zh-TW": "一個隱藏在森林的大型樂園, 但當中只有小型賽車及木製雲霄飛車"
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "id": "rct1.scenario_text.pacific_pyramids",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct1"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "أهرامات المحيط الهادئ",
+   "ca-ES": "Les piràmides pacífiques",
+   "en-GB": "Pacific Pyramids",
+   "eo-ZZ": "Pacifikaj Piramidoj",
+   "es-ES": "Pirámides Pacíficas",
+   "fi-FI": "Ponnekkaat pyramidit",
+   "fr-FR": "Pyramides Pacifiques",
+   "hu-HU": "Pihenő Piramisok",
+   "ja-JP": "パシフィック・ピラミッド",
+   "pt-BR": "Pirâmides Pacíficas",
+   "zh-CN": "太平洋金字塔"
+  },
+  "park": {
+   "ar-EG": "أهرامات المحيط الهادئ",
+   "ca-ES": "Les piràmides pacífiques",
+   "en-GB": "Pacific Pyramids",
+   "eo-ZZ": "Pacifikaj Piramidoj",
+   "es-ES": "Pirámides Pacíficas",
+   "fi-FI": "Ponnekkaat pyramidit",
+   "fr-FR": "Pyramides Pacifiques",
+   "hu-HU": "Pihenő Piramisok",
+   "ko-KR": "평화로운 피라미드",
+   "pt-BR": "Pirâmides Pacíficas",
+   "zh-CN": "太平洋金字塔"
+  },
+  "details": {
+   "ar-EG": "تحويل المعالم السياحية المصرية الأثرية إلى مدينة ترفيهية مزدهرة",
+   "ca-ES": "Convertiu l’atracció turística d’aquestes ruïnes egípcies en un parc temàtic pròsper.",
+   "da-DK": "Konverter turistattraktion, egyptiske ruiner til en blomstrende forlystelsespark",
+   "de-DE": "Verwandeln Sie die Touristenattraktion mit ägyptischen Ruinen in einen erfolgreichen Freizeitpark.",
+   "en-GB": "Convert the Egyptian Ruins tourist attraction into a thriving theme park",
+   "eo-ZZ": "Konvertu la vidindaĵon de Egiptaj Restaĵoj en prosperan amuzparkon",
+   "es-ES": "Convierte la atracción turística de las ruinas egipcias en un próspero parque temático.",
+   "fi-FI": "Muunna egyptiläiset rauniot menestyväksi huvipuistoksi",
+   "fr-FR": "Transformez les ruines égyptiennes prisées par les touristes en un parc à thème florissant.",
+   "hu-HU": "Alakítsd át a turistalátványosságként szolgáló egyiptomi romokat egy virágzó vidámparkká",
+   "it-IT": "Trasforma l’attrazione turistica delle rovine egizie in un fiorente parco a tema",
+   "ko-KR": "이집트 유적 관광지를 번창한 놀이공원으로 바꿔보세요.",
+   "nb-NO": "Konverter disse egyptiske ruinene til en blomstrende fornøyelsespark",
+   "nl-NL": "Verander de Egyptische ruïnes (een toeristische attractie) in een bloeiend pretpark.",
+   "pl-PL": "Zamień egipskie ruiny ze nudnej atrakcji turystycznej w tętniący życiem park rozrywki",
+   "pt-BR": "Converta a atração turística Ruínas Egípcias em um próspero parque temático",
+   "sv-SE": "Förvandla de egyptiska ruinerna till en spännande nöjespark",
+   "tr-TR": "Bu tarihi yeri bir lunaparka dönüştürünüz",
+   "zh-CN": "将埃及遗址旅游景点改造成繁荣的主题公园",
+   "zh-TW": "將這個一直為旅遊景點的埃及遺址轉型成一個很受歡迎的樂園"
+  }
+ }
+}

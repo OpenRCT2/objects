@@ -1,0 +1,60 @@
+{
+ "id": "rct1.scenario_text.frightmare_hills",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct1"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "سهول الرعب",
+   "ca-ES": "Els turons de la por",
+   "en-GB": "Frightmare Hills",
+   "eo-ZZ": "Inkubo-Montetoj",
+   "fi-FI": "Painajaispuisto",
+   "fr-FR": "Monts Epouvante",
+   "hu-HU": "Rémálom Dombok",
+   "ja-JP": "フライトメア・ヒルズ",
+   "pt-BR": "Colinas do Medo",
+   "zh-CN": "惊魂山丘"
+  },
+  "park": {
+   "ar-EG": "سهول الرعب",
+   "ca-ES": "Els turons de la por",
+   "en-GB": "Frightmare Hills",
+   "eo-ZZ": "Inkubo-Montetoj",
+   "fi-FI": "Painajaispuisto",
+   "fr-FR": "Monts Epouvante",
+   "hu-HU": "Rémálom Dombok",
+   "ko-KR": "무시무시한 언덕",
+   "pt-BR": "Colinas do Medo",
+   "zh-CN": "惊魂山丘"
+  },
+  "details": {
+   "ar-EG": "حديقة مرعبة مع الأفعوانية المركزية العملاقة",
+   "ca-ES": "Un parc sinistre amb una muntanya russa gegant que atrau totes les mirades.",
+   "da-DK": "En skræmmende park, med en gigantisk rutchebane i centrum",
+   "de-DE": "Ein Gruselpark mit einer Riesenachterbahn als Herzstück.",
+   "en-GB": "A scary park with a giant centrepiece coaster",
+   "en-US": "A scary park with a giant centerpiece coaster",
+   "eo-ZZ": "Timiga parko, kun giganta ĉefa onda fervojo",
+   "es-ES": "Un parque espeluznante con una montaña rusa gigante como atracción principal.",
+   "fi-FI": "Pelottava puisto, jossa on valtava vuoristorata keskipisteenä",
+   "fr-FR": "Un parc d’horreur dont le clou est un circuit de montagnes russes géant.",
+   "hu-HU": "Egy rémisztő vidámpark, a közepén egy hatalmas hullámvasúttal",
+   "it-IT": "Un parco spaventoso con una montagna russa gigante centrale",
+   "ko-KR": "거대한 롤러코스터가 공원 가운데에 있는 무시무시한 공원",
+   "nb-NO": "En skumel park med en gigantisk berg-og-dal-bane som midtpunkt",
+   "nl-NL": "Een eng park met een grote achtbaan als trekpleister.",
+   "pl-PL": "Przerażający park rozrywki z wielką kolejką pośrodku.",
+   "pt-BR": "Um parque assustador com uma montanha-russa gigantesca como peça central.",
+   "sv-SE": "En läskig park centrerad runt en stor berg- och dalbana",
+   "tr-TR": "Büyük bir hız treni bulunduran korkunç lunapark",
+   "zh-CN": "一个在中心有一座巨大过山车的诡异公园",
+   "zh-TW": "一個在中心擁有一座巨大的雲霄飛車的恐怖樂園"
+  }
+ }
+}

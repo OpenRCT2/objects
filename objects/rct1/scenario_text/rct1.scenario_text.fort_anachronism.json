@@ -1,0 +1,40 @@
+{
+ "id": "rct1.scenario_text.fort_anachronism",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct1"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "حصن المفارقة تاريخية",
+   "ca-ES": "El castell «Fort Anachronism»",
+   "en-GB": "Fort Anachronism",
+   "eo-ZZ": "Fuort-Anakronismo",
+   "fi-FI": "Anakronismilinnake",
+   "fr-FR": "Fort Anachronisme",
+   "hu-HU": "Anakronizmus-erőd",
+   "ja-JP": "フォート・アナクロニズム",
+   "pt-BR": "Castelo Anacronismo",
+   "zh-CN": "时空堡垒"
+  },
+  "park": {
+   "ar-EG": "حصن المفارقة تاريخية",
+   "ca-ES": "El castell «Fort Anachronism»",
+   "en-GB": "Fort Anachronism",
+   "eo-ZZ": "Fuort-Anakronismo",
+   "fi-FI": "Anakronismilinnake",
+   "fr-FR": "Fort Anachronisme",
+   "hu-HU": "Anakronizmus-erőd",
+   "ko-KR": "역사적인 성채",
+   "pt-BR": "Castelo Anacronismo",
+   "zh-CN": "时空堡垒"
+  },
+  "details": {
+   "en-GB": ""
+  }
+ }
+}

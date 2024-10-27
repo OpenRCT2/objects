@@ -1,0 +1,58 @@
+{
+ "id": "rct1.scenario_text.whispering_cliffs",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct1"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ca-ES": "Els penya-segats murmuriosos",
+   "en-GB": "Whispering Cliffs",
+   "eo-ZZ": "Flustrantaj Klifoj",
+   "es-ES": "Colinas susurrantes",
+   "fi-FI": "Kuikauskalliot",
+   "fr-FR": "Falaises Insidieuses",
+   "hu-HU": "Suttogó-sziklák",
+   "ja-JP": "ウィスペリング・クリフス",
+   "pt-BR": "Penhascos Sussurrantes",
+   "zh-CN": "耳语崖"
+  },
+  "park": {
+   "ca-ES": "Els penya-segats murmuriosos",
+   "en-GB": "Whispering Cliffs",
+   "eo-ZZ": "Flustrantaj Klifoj",
+   "es-ES": "Colinas susurrantes",
+   "fi-FI": "Kuikauskalliot",
+   "fr-FR": "Falaises Insidieuses",
+   "hu-HU": "Suttogó-sziklák",
+   "ko-KR": "속삭이는 절벽",
+   "pt-BR": "Penhascos Sussurrantes",
+   "zh-CN": "耳语崖"
+  },
+  "details": {
+   "ca-ES": "Desenvolupeu els penya-segats i convertiu-los en un parc d’atraccions pròsper.",
+   "da-DK": "Udvikel denne klippe ud mod havet, til en blomstrende forlystelsespark",
+   "de-DE": "Lassen Sie in diesen Klippen am Meer einen florierenden Vergnügungspark entstehen.",
+   "en-GB": "Develop the seaside cliffs into a thriving amusement park",
+   "eo-ZZ": "Ellaboru la apudmarajn klifojn en prosperan amuzparkon",
+   "es-ES": "Convierte los acantilados en un próspero parque de atracciones.",
+   "fi-FI": "Kehitä rannikkokallioista menestyvä huvipuisto",
+   "fr-FR": "Transformer les falaises de bord de mer en parc d’attractions à succès.",
+   "hu-HU": "Fejleszd a tengerparti sziklákat virágzó vidámparkká",
+   "it-IT": "Sviluppa le cascate in un fiorente parco a tema",
+   "ko-KR": "해변의 절벽을 인기 있는 놀이공원으로 발전시키세요.",
+   "nb-NO": "Videreutvikle sjøklippene til å bli en flott fornøyelsespark",
+   "nl-NL": "Ontwikkel het rotsgebied bij de kust tot een bloeiend pretpark.",
+   "pl-PL": "Rozwiń nadmorskie klify w kwitnący park rozrywki",
+   "pt-BR": "Transforme os penhascos à beira-mar em um parque de diversões próspero.",
+   "sv-SE": "Utveckla havskustens klippor till en spännande nöjespark",
+   "tr-TR": "Bir uçurumun kenarına lunapark inşa ediniz",
+   "zh-CN": "将海边悬崖开发成繁华的游乐园",
+   "zh-TW": "將這個海邊懸崖發展成一個很受歡迎的樂園"
+  }
+ }
+}

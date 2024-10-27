@@ -1,0 +1,59 @@
+{
+ "id": "rct1.scenario_text.urban_park",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct1"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "الحديقة الحضرية",
+   "ca-ES": "Parc urbà",
+   "en-GB": "Urban Park",
+   "eo-ZZ": "Urba Parko",
+   "fi-FI": "Urbaanipuisto",
+   "fr-FR": "Parc Urbain",
+   "hu-HU": "Városi Park",
+   "ja-JP": "アーバン・パーク",
+   "pt-BR": "Parque Urbano",
+   "zh-CN": "城市公园"
+  },
+  "park": {
+   "ar-EG": "الحديقة الحضرية",
+   "ca-ES": "Parc urbà",
+   "en-GB": "Urban Park",
+   "eo-ZZ": "Urba Parko",
+   "fi-FI": "Urbaanipuisto",
+   "fr-FR": "Parc Urbain",
+   "hu-HU": "Városi Park",
+   "ko-KR": "도시 공원",
+   "pt-BR": "Parque Urbano",
+   "zh-CN": "城市公园"
+  },
+  "details": {
+   "ar-EG": "حديقة صغيرة قد عقدت عقداً مع المدينة القريبة لكي تتوسع في المدينة نفسها",
+   "ca-ES": "Un petit parc ha arribat a un acord amb una població propera per a expandir-se pel mig de la mateixa població.",
+   "da-DK": "En lille forlystelsespark har lavet en aftale, med den nærliggende by, for at tillade ekspansion, gennem selve byen",
+   "de-DE": "Ein winzig kleiner Park hat mit der nahe gelegenen Stadt vereinbart, dass er sich durch die Stadt hindurch ausbreiten darf.",
+   "en-GB": "A tiny park has done a deal with the nearby town to allow expansion through the town itself",
+   "eo-ZZ": "Eta parko negocis kun la proksima urbeto, por permesi ellaboradon tra la urbeto sin mem",
+   "es-ES": "Un pequeño parque ha establecido un acuerdo con la ciudad vecina con el fin de ampliar su territorio.",
+   "fi-FI": "Pikkuruinen puisto on päässyt sopimukseen puiston laajennuksesta läpi lähikylän katujen",
+   "fr-FR": "Un parc minuscule a signé un accord avec la ville voisine pour autoriser son expansion dans la ville elle-même.",
+   "hu-HU": "Egy apró park egyezséget kötött a közeli várossal, amelynek értelmében magán a városon keresztül terjeszkedhet",
+   "it-IT": "Un piccolo parco ha fatto un accordo con la vicina città per consentire l’espansione attraverso la città stessa",
+   "ko-KR": "이 작은 공원은 이 도시뿐만 아니라 근교 도시의 주민들에게까지 인기를 모으고 있습니다.",
+   "nb-NO": "En liten park har laget en avtale med nærmeste by som tillater bygging inne i byen",
+   "nl-NL": "Een piepklein park heeft een overeenkomst afgesloten met de gemeente om uit te breiden door de stad zelf.",
+   "pl-PL": "Mały park doszedł do porozumienia z pobliskim miastem i ma zgodę na rozbudowę przez miasto",
+   "pt-BR": "Um parque minúsculo fez um acordo com a cidade vizinha para permitir a expansão através da própria cidade.",
+   "sv-SE": "En liten park som har gjort en uppgörelse med staden som tillåter byggnationer genom staden",
+   "tr-TR": "Şehir içi bulunan bu mikro parkta satılı arazi kısıtlı",
+   "zh-CN": "一个小公园与附近的城镇达成了一项协议，允许经过城镇上空向周边进行扩张",
+   "zh-TW": "這個微小的樂園已與鄰近城鎮商討好使用後者來擴充前者的交易"
+  }
+ }
+}

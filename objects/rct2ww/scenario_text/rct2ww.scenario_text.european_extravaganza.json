@@ -1,0 +1,72 @@
+{
+ "id": "rct2ww.scenario_text.european_extravaganza",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct2ww"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "الروعة الأوروبية",
+   "ca-ES": "Extravagància europea",
+   "de-DE": "Europäisches Happening",
+   "en-GB": "European Extravaganza",
+   "eo-ZZ": "Eŭropa Ekstravagancaĵo",
+   "es-ES": "Extravagancia europea",
+   "fi-FI": "Euro-elämyksiä",
+   "fr-FR": "L’extravagance européenne",
+   "hu-HU": "Európai Extravagancia",
+   "it-IT": "Festival europeo",
+   "ja-JP": "ヨーロッパ文化祭",
+   "ko-KR": "유럽의 축제",
+   "pt-BR": "Extravagância Europeia",
+   "ru-RU": "Европейский Фестиваль",
+   "sv-SE": "Europeisk festival",
+   "zh-CN": "欧洲盛会"
+  },
+  "park": {
+   "ar-EG": "الروعة الأوروبية",
+   "ca-ES": "Extravagància europea",
+   "de-DE": "Europäisches Happening",
+   "en-GB": "European Extravaganza",
+   "eo-ZZ": "Eŭropa Ekstravagancaĵo",
+   "es-ES": "Extravagancia europea",
+   "fi-FI": "Euro-elämyksiä",
+   "fr-FR": "L’extravagance européenne",
+   "hu-HU": "Európai Extravagancia",
+   "it-IT": "Festival europeo",
+   "ja-JP": "ヨーロッパ文化祭",
+   "ko-KR": "유럽의 축제",
+   "pt-BR": "Extravagância Europeia",
+   "ru-RU": "Европейский Фестиваль",
+   "sv-SE": "Europeisk festival",
+   "zh-CN": "欧洲盛会"
+  },
+  "details": {
+   "ar-EG": "لقد تم إحضارك لتولي مركز جذب الزوار الثقافيين الأوروبيين ويجب عليك زيادة عدد الضيوف من أجل سداد دعم الاتحاد الأوروبي بحلول نهاية الدورة الحالية للبرلمان الأوروبي.",
+   "ca-ES": "Us han dut per a dirigir una atracció cultural europea per als turistes i heu d’augmentar el nombre de visitants per tal de poder retornar la subvenció de la UE a finals de l’actual mandat del parlament europeu.",
+   "cs-CZ": "Byli jste přizváni, abyste převzali kontrolu nad Evropskou Kulturní Návštěvnickou Atrakcí a musíte zajistit nárůst návštěvnosti, jinak nebudete moci zaplatit za EU dotaci do konce vládního období.",
+   "da-DK": "De er blevet hentet ind for at overtage, en europæisk kulturel turistattraktion, og skal øge antallet af gæster, for at kunne betale EU-tilskuddet tilbage, inden udgangen af den nuværende valgperiode i Europa-Parlamentet.",
+   "de-DE": "Sie wurden engagiert, um eine kulturelle Besucherattraktion in Europa zu leiten, und müssen die Anzahl der Gäste steigern, um die EU-Subventionen bis zum Ende der Amtsperiode des aktuellen Europäischen Parlaments zurückzahlen zu können.",
+   "en-GB": "You have been brought in to take over a European Cultural Visitor Attraction and must increase the number of guests in order to pay back the EU subsidy by the end of the current European parliament term.",
+   "eo-ZZ": "Vi estis alportita por transpreni Eŭropan Kulturan Vizitanto-Vidindaĵon kaj devas pliigi la nombron de gastoj por repagi la EU-subvencion antaŭ la fino de la aktuala Eŭropa parlamento-oficdaŭro.",
+   "es-ES": "Te han traído aquí para que te ocupes de una atracción europea cultural para visitantes, y tienes que aumentar el número de asistentes para poder devolver el subsidio de la UE al final del periodo parlamentario europeo actual.",
+   "fi-FI": "Sinut on tuotu ottamaan haltuun yksi Euroopan kulttuurimatkakohteista, ja sinun tulee nostaa kävijämäärää jotta voit maksaa EU-tuen takaisin ennen Euroopan parlamentin vaalikauden loppua.",
+   "fr-FR": "Vous avez été choisi pour reprendre un parc d’attractions culturel européen et devez augmenter sa fréquentation pour pouvoir rembourser les subventions européennes à la fin du mandat parlementaire européen.",
+   "hu-HU": "Felkértek, hogy vegyél át egy európai kulturális látványosságot, és növelned kell a vendégszámot, hogy a jelenlegi európai parlamenti ciklus végéig visszafizethesd az EU-támogatást.",
+   "it-IT": "Ti è stato chiesto di gestire una grande attrazione culturale europea. Devi incrementare il numero di visite per ripagare i sussidi UE prima che scada il termine stabilito dal Parlamento Europeo.",
+   "ko-KR": "유럽 문화 축제의 경영권을 확보한 당신은 이제 유럽 연합의 보조금을 갚기 위해 현재의 유럽 의회 임기가 끝날 때까지 손님을 늘려야합니다.",
+   "nb-NO": "Du har blitt brakt inn for å overta en European Cultural Visitor Attraction og må øke antall gjester slik at du kan betale tilbake pengestøtten til EU ved slutten av det nåværende Europeiske stortingets termin.",
+   "nl-NL": "Je bent aangesteld om het beheer over een attractiepark over de Europese cultuur over te nemen. Je moet het aantal bezoekers verhogen om de EU-subsidie terug te betalen voor het einde van de huidige termijn van het Europees Parlement.",
+   "pl-PL": "Zlecono ci objęcie kierownictwa działu Turystycznych Atrakcji Kulturalnych. Musisz zwiększyć liczbę gości, aby spłacić unijne dofinansowanie przed zakończeniem bieżącej kadencji parlamentu europejskiego.",
+   "pt-BR": "Você foi trazido para controlar uma Atração Cultural Europeia do Visitante e deve aumentar o número de visitantes a fim de reembolsar o subsídio da União Europeia no fim do mandato atual do Parlamento Europeu.",
+   "ru-RU": "Вам передали в управление Европейский Культурный Центр. Вы должны увеличить число гостей и вернуть субсидию Евросоюза до начала парламентских выборов.",
+   "sv-SE": "Du har blivit erbjuden att ta över en europeisk turistattraktion, men måste öka besöksfrekvensen för att kunna betala tillbaka ett EU-lån innan det europeiska parlamentet tar sommarlov.",
+   "tr-TR": "Avrupa kültürel festivalinin yöneticisi olarak seçildiniz. Sizden festivale daha fazla müşteri getirmeniz bekleniyor",
+   "zh-CN": "你被安排接管一个欧洲文化游的景点，必须增加客人的数量，在目前的欧洲议会任期结束前支付加入欧盟的税款。"
+  }
+ }
+}

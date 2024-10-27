@@ -1,0 +1,62 @@
+{
+ "id": "official.scenario_text.the_time_machine",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "official"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "آلة السفر عبر الزمن",
+   "ca-ES": "La màquina del temps",
+   "de-DE": "Die Zeitmaschine",
+   "en-GB": "The Time Machine",
+   "eo-ZZ": "La Tempomaŝino",
+   "es-ES": "La Máquina del Tiempo",
+   "fi-FI": "Aikakone",
+   "fr-FR": "La machine temporelle",
+   "hu-HU": "Az Időgép",
+   "nl-NL": "De tijdmachine",
+   "pt-BR": "A Máquina do Tempo",
+   "uk-UA": "Машина часу",
+   "zh-CN": "时间机器"
+  },
+  "park": {
+   "ar-EG": "آلة السفر عبر الزمن",
+   "ca-ES": "La màquina del temps",
+   "de-DE": "Die Zeitmaschine",
+   "en-GB": "The Time Machine",
+   "eo-ZZ": "La Tempomaŝino",
+   "es-ES": "La Máquina del Tiempo",
+   "fi-FI": "Aikakone",
+   "fr-FR": "La machine temporelle",
+   "hu-HU": "Az Időgép",
+   "ko-KR": "타임 머신",
+   "pt-BR": "A Máquina do Tempo",
+   "uk-UA": "Машина часу",
+   "zh-CN": "时间机器"
+  },
+  "details": {
+   "ar-EG": "آلة السفر عبر الزمن. صمم لتذهب - عندما تريد، أينما تريد. الأبدية تنتظر. انها كلها نسبية.{NEWLINE}المؤلف: Katatude",
+   "ca-ES": "La màquina del temps. Construïda per a anar on vulgueu quan vulgueu. L’eternitat us espera. Tot és relatiu.{NEWLINE}Autor: Katatude",
+   "da-DK": "Tidsmaskinen. Byg med på farten – når du vil, hvor du vil. Evigheden venter. Alt er relativt.{NEWLINE}Forfatter: Katatude",
+   "de-DE": "Die Zeitmaschine. Bauen Sie, wann Sie wollen, wo Sie wollen. Die Ewigkeit wartet. Alles ist relativ.{NEWLINE}Autor: Katatude",
+   "en-GB": "The Time Machine. Build to go - when you want, where you want. Eternity awaits. It’s all relative.{NEWLINE}Author: Katatude",
+   "eo-ZZ": "La Tempomaŝino. Konstruu por iri - kiam vi volas, kien vi volas. Eterneco atendas. Ĉio estas relativa.{NEWLINE}Aŭtoro: Katatude",
+   "es-ES": "La Máquina del Tiempo. Construida para ir - cuando quieras, donde quieras. La eternidad espera. Todo es relativo.{NEWLINE}Autor: Katatude",
+   "fi-FI": "Aikakone. Rakenna mennäksesi mihin vain, milloin vain. Ikuisuus odottaa. Kaikki on suhteellista.{NEWLINE}Tekijä: Katatude",
+   "fr-FR": "La machine temporelle. Construite pour partir — quand vous voulez, où vous voulez. L’éternité attend. Tout est relatif.{NEWLINE}Par : Katatude",
+   "hu-HU": "Az időgép. Építsd meg, hogy mehess - amikor akarsz, ahová akarsz. Az örökkévalóság vár. Minden relatív.{NEWLINE}Szerző: Katatude",
+   "it-IT": "La macchina del tempo. Costruisci e viaggia, dove vuoi, quando vuoi. L’eternità ti aspetta. È tutto relativo.{NEWLINE}Autore: Katatude",
+   "ko-KR": "원하는 때, 원하는 곳으로 갈 수 있도록 타임 머신을 만드세요. 영원이 당신을 기다립니다. 모든 것은 상대적이니 말이죠.{NEWLINE}제작자: Katatude",
+   "nb-NO": "Tidsmaskinen. Bygg for å dra - når du vil, hvor du vil. Evigheten venter. Alt er relativt.{NEWLINE}Forfatter: Katatude",
+   "nl-NL": "De tijdmachine, die je overal heen brengt waar en wanneer je maar wilt. De eeuwigheid wacht op je. Maar alles is relatief.{NEWLINE}Gemaakt door: Katatude",
+   "pt-BR": "A Máquina do Tempo. Construa para ir: quando quiser, aonde quiser. A eternidade espera. É tudo relativo.{NEWLINE}Autor: Katatude",
+   "uk-UA": "Машина часу. Будуйте, щоб йти — коли хочете та куди хочете. Вічність чекає. Це все відносно.{NEWLINE}Автор: Katatude",
+   "zh-CN": "时间机器。一个用来去往任何你想去的时间，任何你想去的地点。等待永恒。这都是相对的。{NEWLINE}作者：Katatude"
+  }
+ }
+}

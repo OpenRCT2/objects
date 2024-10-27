@@ -1,0 +1,72 @@
+{
+ "id": "rct2ww.scenario_text.from_the_ashes",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct2ww"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "من الرماد",
+   "ca-ES": "Des de les cendres",
+   "de-DE": "Wie Phönix aus der Asche",
+   "en-GB": "From The Ashes",
+   "eo-ZZ": "El La Cindroj",
+   "es-ES": "Desde las cenizas",
+   "fi-FI": "Tuhkista nousee",
+   "fr-FR": "La Renaissance",
+   "hu-HU": "Hamvakból",
+   "it-IT": "Rinascita dalle ceneri",
+   "ja-JP": "灰の中から",
+   "ko-KR": "잿더미를 딛고",
+   "pt-BR": "Das Cinzas",
+   "ru-RU": "Возрождение",
+   "sv-SE": "Ur askan",
+   "zh-CN": "来自灰烬"
+  },
+  "park": {
+   "ar-EG": "من الرماد",
+   "ca-ES": "Des de les cendres",
+   "de-DE": "Wie Phönix aus der Asche",
+   "en-GB": "From The Ashes",
+   "eo-ZZ": "El La Cindroj",
+   "es-ES": "Desde las cenizas",
+   "fi-FI": "Tuhkista nousee",
+   "fr-FR": "La Renaissance",
+   "hu-HU": "Hamvakból",
+   "it-IT": "Rinascita dalle ceneri",
+   "ja-JP": "灰の中から",
+   "ko-KR": "잿더미를 딛고",
+   "pt-BR": "Das Cinzas",
+   "ru-RU": "Возрождение",
+   "sv-SE": "Ur askan",
+   "zh-CN": "来自灰烬"
+  },
+  "details": {
+   "ar-EG": "لقد أصبحت هذه الحديقة القديمة بحالة يرثى لها. حَصلت على منحة من الاتحاد الأوروبي لإعادة هذه المنطقة المحرومة إلى مجدها السابق! تحتاج إلى تجديد الحديقة وسداد المنحة.",
+   "ca-ES": "Aquest parc vell està en mal estat. Heu guanyat una subvenció per a retornar aquesta àrea desafavorida a la seva antiga glòria! Heu de renovar el parc i retornar la subvenció.",
+   "cs-CZ": "Evropská Unie vám dala grant, abyste zajistil obnovu starého, neudržovaného zábavního parku a přinesl zpět jeho tehdejší slávu. Musíte celý park renovovat a splatit grant.",
+   "da-DK": "En gammel park er gået i forfald. De får et EU-tilskud til at bringe dette ugunstigt stillede område, tilbage til sin tidligere herlighed! Du er nødt til at renovere parken, og tilbagebetale tilskuddet.",
+   "de-DE": "Ein alter Vergnügungspark befindet sich in desolatem Zustand. Sie erhalten EU-Fördermittel, um dem verwahrlosten Gebiet wieder zu seinem früheren Glanz zu verhelfen. Sie müssen den Park renovieren und die Fördermittel zurückzahlen.",
+   "en-GB": "An old park has fallen into disrepair. You gain a European Union grant to return this deprived area to its former glory! You need to renovate the park and repay the grant.",
+   "eo-ZZ": "Malnova parko falis je kadukiĝo. Vi akiras subvencion de Eŭropa Unio por redoni ĉi tiun senigitan areon al sia iama gloro! Vi bezonas renovigi la parkon kaj repagi la subvencion.",
+   "es-ES": "Un viejo parque se encuentra en mal estado. Has recibido una subvención de la Unión Europea para devolver a esta depauperada área a su antigua gloria. Tendrás que renovar el parque y ganar lo suficiente para pagar la subvención.",
+   "fi-FI": "Vanha puisto on päässyt ränsistymään. Saat Euroopan unionilta apurahaa tämän puutteellisen alueen kunnostamiseen! Sinun täytyy kunnostaa puisto ja maksaa apuraha takaisin.",
+   "fr-FR": "Un ancien parc est tombé en ruines. Vous recevez une subvention de l’Union Européenne pour rendre à cette zone défavorisée sa gloire passée. Vous devez rénover le parc et rembourser la subvention.",
+   "hu-HU": "Egy régi park leromlott állapotba került. Elnyersz egy európai uniós támogatást, hogy ez a lepusztult terület újra régi fényében tündökölhessen! Fel kell újítanod a parkot, és vissza kell fizetned a támogatást.",
+   "it-IT": "Un vecchio parco è in sfacelo. Ti viene concesso un prestito dall’Unione Europea per riportare questa zona desolata alla sua bellezza originaria. Dovrai rinnovare il parco e ripagare il prestito.",
+   "ko-KR": "방치된 낡은 공원이 있습니다. 이 공원이 과거에 누렸던 영광을 재현하기 위해 유럽 연합의 허가를 받았습니다! 허가를 받은 만큼 공원을 혁신해서 보답하세요.",
+   "nb-NO": "En gammel park har forfalt. Du mottar et stipend fra den Europeiske Union for å returne dette forfalne området tilbake til sin tidligere prakt! Du må renovere parken og betale tilbake stipendet.",
+   "nl-NL": "Een oud park is vervallen. Je hebt een lening van de Europese Unie gekregen om het troosteloze terrein weer in oude luister te herstellen! Je moet het park renoveren en de lening terugbetalen.",
+   "pl-PL": "Pewien stary lunapark popadł w ruinę. Otrzymujesz fundusze z Unii Europejskiej, aby przywrócić temu żałosnemu miejscu jego dawną chwałę! Musisz odnowić park i zwrócić otrzymany kredyt.",
+   "pt-BR": "Um velho parque caiu em ruínas. Você ganha uma concessão da União Europeia para retornar essa área privada à sua antiga glória! Você precisa renovar o parque e reembolsar a concessão.",
+   "ru-RU": "Старый парк пришел в запустение. Вы получили грант Евросоюза и должны вернуть эту землю к былой славе! Необходимо обновить парк и выплатить грант.",
+   "sv-SE": "Ett gammalt nöjesfält har förfallit. Du har beviljats ett EU-lån för att kunna återställa det nedgångna området till sin forna prakt. Du måste renovera nöjesfältet och betala tillbaka lånet.",
+   "tr-TR": "Eski bir lunapark harabeye dönüştü. Avrupa Birliği size bu parkı eski ihtişamına getirmek dileği ile verdi. Parkı yenilemeniz ve krediyi geri ödemeniz gerekiyor.",
+   "zh-CN": "一个老公园年久失修。你获得一个欧盟的补助金，将这个被剥夺的地区归还给它昔日的荣耀！你需要整修公园并偿还补助金。"
+  }
+ }
+}

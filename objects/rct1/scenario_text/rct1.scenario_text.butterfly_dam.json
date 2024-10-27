@@ -1,0 +1,59 @@
+{
+ "id": "rct1.scenario_text.butterfly_dam",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct1"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "سد الفراشات",
+   "ca-ES": "La presa Papallona",
+   "en-GB": "Butterfly Dam",
+   "eo-ZZ": "Papilio-Akvobaraĵo",
+   "fi-FI": "Perhospato",
+   "fr-FR": "Barrage Papillon",
+   "hu-HU": "Pillangó-gát",
+   "ja-JP": "バタフライダム",
+   "pt-BR": "Barragem da Borboleta",
+   "zh-CN": "蝴蝶坝"
+  },
+  "park": {
+   "ar-EG": "سد الفراشات",
+   "ca-ES": "La presa Papallona",
+   "en-GB": "Butterfly Dam",
+   "eo-ZZ": "Papilio-Akvobaraĵo",
+   "fi-FI": "Perhospato",
+   "fr-FR": "Barrage Papillon",
+   "hu-HU": "Pillangó-gát",
+   "ko-KR": "나비 댐",
+   "pt-BR": "Barragem da Borboleta",
+   "zh-CN": "蝴蝶坝"
+  },
+  "details": {
+   "ar-EG": "المنطقة حول السد متوفرة لكي تطورها إلي حديقة ترفيهية",
+   "ca-ES": "L’àrea del voltant de la presa està disponible perquè hi desenvolupeu un parc d’atraccions.",
+   "da-DK": "Området omkring en dæmning er til rådighed for dig, til at udvikle en forlystelsespark",
+   "de-DE": "Das Gebiet rings um einen Damm steht Ihnen zur Verfügung, damit daraus ein Vergnügungspark entsteht.",
+   "en-GB": "The area around a dam is available for you to develop into an amusement park",
+   "eo-ZZ": "La areo ĉirkaŭ akvobaraĵo estas disponebla, por ke vi ellaboru ĝin en amuzparkon",
+   "es-ES": "Dispones del área que rodea una presa para convertirla en un parque de atracciones.",
+   "fi-FI": "Tätä patoa ympäröivä alue on kuin luotu huvipuiston kehittämiseen",
+   "fr-FR": "La zone entourant un barrage est disponible et peut être transformée en parc d’attractions.",
+   "hu-HU": "Egy gát körüli területen kell vidámparkot kialakítanod",
+   "it-IT": "Quest’area intorno a una diga è pronta per diventare un parco a tema",
+   "ko-KR": "댐 주변 지역을 놀이공원으로 개발할 수 있습니다.",
+   "nb-NO": "Området rundt en demning er tilgjengelig for fornøyelsesparken din",
+   "nl-NL": "Je mag het gebied rondom een dam ontwikkelen tot een attractiepark.",
+   "pl-PL": "Obszar wokół zapory jest dostępy dla Ciebie, zbuduj tutaj park rozrywki",
+   "pt-BR": "A área envolta de uma barragem está disponível para você desenvolver um parque de diversões.",
+   "sv-SE": "Området runt dammen är ditt för att skapa ett nöjesfält",
+   "tr-TR": "Barajın etrafındaki boş alana lunapark inşa ediniz",
+   "zh-CN": "大坝周边的区域可以供你开发成一个主题公园",
+   "zh-TW": "這個圍繞水霸的地方現可由你任意發展成一個樂園"
+  }
+ }
+}

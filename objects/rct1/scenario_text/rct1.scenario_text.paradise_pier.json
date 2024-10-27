@@ -1,0 +1,60 @@
+{
+ "id": "rct1.scenario_text.paradise_pier",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct1"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ca-ES": "El moll paradisíac",
+   "en-GB": "Paradise Pier",
+   "en-US": "Big Pier",
+   "eo-ZZ": "Paradizo-Enŝipigejo",
+   "es-ES": "Gran Muelle",
+   "fi-FI": "Eedenlaituri",
+   "fr-FR": "Ponton Paradis",
+   "hu-HU": "Paradicsom Móló",
+   "ja-JP": "パラダイス・ピア",
+   "pt-BR": "Cais do Paraíso",
+   "zh-CN": "天堂码头"
+  },
+  "park": {
+   "ca-ES": "El moll paradisíac",
+   "en-GB": "Paradise Pier",
+   "en-US": "Big Pier",
+   "eo-ZZ": "Paradizo-Enŝipigejo",
+   "es-ES": "Gran Muelle",
+   "fi-FI": "Eedenlaituri",
+   "fr-FR": "Ponton Paradis",
+   "hu-HU": "Paradicsom Móló",
+   "ko-KR": "파라다이스 부두",
+   "pt-BR": "Cais do Paraíso",
+   "zh-CN": "天堂码头"
+  },
+  "details": {
+   "ca-ES": "Convertiu aquest petit moll fantasma en una atracció pròspera.",
+   "da-DK": "Konverter denne søvnige bys mole til en blomstrende attraktion",
+   "de-DE": "Verwandeln Sie die Anlegestelle dieser verschlafenen Stadt in einen wohlbekannten und gutgehenden Anziehungspunkt.",
+   "en-GB": "Convert this sleepy town’s pier into a thriving attraction",
+   "eo-ZZ": "Konvertu la enŝipigejon de ĉi tiu dormema urbeto en prosperan atrakcion",
+   "es-ES": "Convierte el muelle de esta mortecina ciudad en una próspera atracción.",
+   "fi-FI": "Tee tästä pikkukylän laiturista menestyvä huvipuisto",
+   "fr-FR": "Transformez la jetée de cette ville endormie en un parc d’attractions florissant.",
+   "hu-HU": "Alakítsd át ennek az álmos kisvárosnak a mólóját virágzó attrakcióvá",
+   "it-IT": "Trasforma questo tranquillo molo in una fiorente attrazione",
+   "ko-KR": "이 조용한 마을의 부두를 번창한 놀이공원으로 바꿔보세요.",
+   "nb-NO": "Gjør om denne døsige byens brygge til en tiltrekkende attraksjon",
+   "nl-NL": "Verander de pier van dit slaperige stadje in een bloeiende attractie.",
+   "pl-PL": "Przekształć te senne miasteczko w tętniący życiem park rozrywki",
+   "pt-BR": "Converta o cais desta cidade sonolenta em uma atração próspera.",
+   "sv-SE": "Förvandla denna trötta pir till en livlig attraktion",
+   "tr-TR": "Bu küçük şehrin kullanılmayan iskelesini lunaparka dönüştürünüz",
+   "zh-CN": "将这个沉睡小镇的码头变成一个繁荣的景点。",
+   "zh-TW": "將這個平凡無奇的小鎮碼頭轉型成一個很受歡迎的樂園"
+  }
+ }
+}

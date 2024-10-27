@@ -1,0 +1,41 @@
+{
+ "id": "rct2.scenario_text.tycoon_park",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct2"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "حديقة تايكون",
+   "ca-ES": "Parc Tycoon",
+   "en-GB": "Tycoon Park",
+   "eo-ZZ": "Magnata Parko",
+   "es-ES": "Parque Tycoon",
+   "fi-FI": "Pohattapuisto",
+   "fr-FR": "Parc Tycoon",
+   "pt-BR": "Parque Tycoon",
+   "uk-UA": "Парк магнату",
+   "zh-CN": "大亨公园"
+  },
+  "park": {
+   "ar-EG": "حديقة تايكون",
+   "ca-ES": "Parc Tycoon",
+   "en-GB": "Tycoon Park",
+   "eo-ZZ": "Magnata Parko",
+   "es-ES": "Parque Tycoon",
+   "fi-FI": "Pohattapuisto",
+   "fr-FR": "Parc Tycoon",
+   "ko-KR": "타이쿤 공원",
+   "pt-BR": "Parque Tycoon",
+   "uk-UA": "Парк магнату",
+   "zh-CN": "大亨公园"
+  },
+  "details": {
+   "en-GB": ""
+  }
+ }
+}

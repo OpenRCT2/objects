@@ -1,0 +1,63 @@
+{
+ "id": "official.scenario_text.tower_of_babel",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "official"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "برج بابل",
+   "ca-ES": "La Torre de Babel",
+   "de-DE": "Turmbau zu Babel",
+   "en-GB": "Tower of Babel",
+   "eo-ZZ": "Babela Turo",
+   "es-ES": "Torre de Babel",
+   "fi-FI": "Baabelin torni",
+   "fr-FR": "La tour de Babel",
+   "hu-HU": "Bábel tornya",
+   "nl-NL": "De toren van Babel",
+   "pt-BR": "Torre de Babel",
+   "uk-UA": "Вавилонська вежа",
+   "zh-CN": "吵闹之塔"
+  },
+  "park": {
+   "ar-EG": "برج بابل",
+   "ca-ES": "La Torre de Babel",
+   "de-DE": "Turmbau zu Babel",
+   "en-GB": "Tower of Babel",
+   "eo-ZZ": "Babela Turo",
+   "es-ES": "Torre de Babel",
+   "fi-FI": "Baabelin torni",
+   "fr-FR": "La tour de Babel",
+   "hu-HU": "Bábel tornya",
+   "ko-KR": "바벨 탑",
+   "nl-NL": "Babel",
+   "pt-BR": "Torre de Babel",
+   "uk-UA": "Вавилонська вежа",
+   "zh-CN": "吵闹之塔"
+  },
+  "details": {
+   "ar-EG": "قف! انظر أين أخذتنا آلة الزمن الآن! أين ذهب الجميع?{NEWLINE}المؤلف: Fossil",
+   "ca-ES": "Ua! Mireu on ens ha dut la màquina del temps! On ha anat tothom?{NEWLINE}Autor: Fossil",
+   "da-DK": "Hovsa! Se, hvor tidsmaskinen tog os til nu! Hvor forsvandt alle hen?{NEWLINE}Forfatter: Fossil",
+   "de-DE": "Wow! Schauen Sie, wohin uns die Zeitmaschine jetzt befördert hat! Wo sind alle hin?{NEWLINE}Autor: Fossil",
+   "en-GB": "Whoaa! Look where the time machine took us now! Where did everybody go?{NEWLINE}Author: Fossil",
+   "eo-ZZ": "Ho! Rigardu kien la tempomaŝino kondukis nin nun! Kien ĉiuj iris?{NEWLINE}Aŭtoro: Fossil",
+   "es-ES": "¡Whoaa! ¡Mira dónde nos ha llevado la Máquina del Tiempo! ¿Dónde se ha ido todo el mundo?{NEWLINE}Autor: Fossil",
+   "fi-FI": "Oho! Mihinkäs aikakone nyt meidät toi? Mihin kaikki häipyivät?{NEWLINE}Tekijä: Fossil",
+   "fr-FR": "Ouaah ! Regardez où la machine temporelle nous a emmené ! Où est tout le monde ?{NEWLINE}Par : Fossil",
+   "hu-HU": "Hűű! Nézd csak, hova vitt minket az időgép! Hová tűnt mindenki?{NEWLINE}Szerző: Fossil",
+   "it-IT": "Ehii! Guarda dove ci ha portato adesso la macchina del tempo! Dove sono finiti tutti?{NEWLINE}Autore: Fossil",
+   "ko-KR": "우와, 타임머신이 우릴 어디로 대려왔는지 보세요! 근데 다들 어디갔죠?{NEWLINE}제작자: Fossil",
+   "nb-NO": "Jøss! Se hvor tidsmaskinen førte oss nå! Hvor ble alle av?{NEWLINE}Forfatter: Fossil",
+   "nl-NL": "Waar zijn we nu weer beland? Waar is iedereen?{NEWLINE}Gemaakt door: Fossil",
+   "pt-BR": "Eita! Olha aonde a máquina do tempo nos trouxe agora! Aonde foram todos?{NEWLINE}Autor: Fossil",
+   "uk-UA": "Ого! Подивіться, куди нас занесла машина часу! Куди всі поділися?{NEWLINE}Автор: Fossil",
+   "zh-CN": "哇奥！看看这这个时间机器吧我们带到哪里去了！大家都去哪了？{NEWLINE}作者：Fossil"
+  }
+ }
+}

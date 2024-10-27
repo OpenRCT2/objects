@@ -1,0 +1,59 @@
+{
+ "id": "rct1.scenario_text.thunder_rocks",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct1"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "صخور الرعد",
+   "ca-ES": "Les roques del tro",
+   "en-GB": "Thunder Rocks",
+   "eo-ZZ": "Tondro-Rokoj",
+   "fi-FI": "Jylinäkalliot",
+   "fr-FR": "Rocs Fracas",
+   "hu-HU": "Mennydörgő-sziklák",
+   "ja-JP": "サンダー・ロック",
+   "pt-BR": "Rochas do Trovão",
+   "zh-CN": "雷霆巨石"
+  },
+  "park": {
+   "ar-EG": "صخور الرعد",
+   "ca-ES": "Les roques del tro",
+   "en-GB": "Thunder Rocks",
+   "eo-ZZ": "Tondro-Rokoj",
+   "fi-FI": "Jylinäkalliot",
+   "fr-FR": "Rocs Fracas",
+   "hu-HU": "Mennydörgő-sziklák",
+   "ko-KR": "천둥 바위들",
+   "pt-BR": "Rochas do Trovão",
+   "zh-CN": "雷霆巨石"
+  },
+  "details": {
+   "ar-EG": "اثنين من الكتل الكبيرة من الصخور تبرز من الرمال، والتي يتم بناء عليها بدايات حديقة الملاهي",
+   "ca-ES": "De la sorra sobresurten dos trossos de roca, justament on comença el vostre parc temàtic.",
+   "da-DK": "To store klipper stikker frem fra sandet, hvorpå der er påbegyndt en forlystelsespark",
+   "de-DE": "Zwei enorme Gesteinsbrocken ragen aus dem Wüstensand, auf denen mit den ersten Bauten für einen Vergnügungspark bereits begonnen wurde.",
+   "en-GB": "Two large hunks of rock stick out of the sand, upon which the beginnings of a theme park are constructed",
+   "eo-ZZ": "La komenco de ĉi tiu amuzparko estas sur du grandaj eroj da ŝtonego, kiuj elstaras el la sablo",
+   "es-ES": "Dos grandes pedazos de roca sacados de la arena del desierto, sobre los cuales se construyen los principios de este parque temático.",
+   "fi-FI": "Kaksi suurta kivenlohkaretta törröttävät hiekasta, ja niiden päälle on tarkoitus rakentaa uusi huvipuisto",
+   "fr-FR": "Deux rochers émergeant du sable supportent les premiers éléments d’un parc à thème.",
+   "hu-HU": "Két nagy szikladarab emelkedik ki a homokból, amelyekre egy vidámpark alapjai épülnek",
+   "it-IT": "Due grandi pezzi di roccia sbucano dalla sabbia, che saranno le base di un parco a tema",
+   "ko-KR": "놀이공원의 기초가 될 두 개의 커다란 바위가 사막의 모래 위에 솟아 있습니다.",
+   "nb-NO": "To store steinformasjoner stikker ut av sanden, hvor starten på en fornøyelsespark er bygget",
+   "nl-NL": "Het fundament van dit themapark wordt gevormd door twee enorme rotsen die in het zand staan.",
+   "pl-PL": "Dwa wielkie głazy wystające z piasku stanowią zalążek wystroju tego parku",
+   "pt-BR": "Dois grandes pedaços de pedra saem da areia, sobre os quais o início de um parque temático é construído.",
+   "sv-SE": "Två stora stenar sticker upp från sanden, vilket är början till konstruktionen av en nöjespark",
+   "tr-TR": "İki büyük kayalık üstünde lunapark kurunuz. Bu iki kayalık hız treni ile birbirine bağlı",
+   "zh-CN": "在沙漠上的两块巨型岩柱上构建的主题公园",
+   "zh-TW": "兩座屹立在沙地之上的巨型石將會作為建造一個主題樂園的初始環境"
+  }
+ }
+}

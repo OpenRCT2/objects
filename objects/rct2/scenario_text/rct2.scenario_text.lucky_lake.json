@@ -1,0 +1,70 @@
+{
+ "id": "rct2.scenario_text.lucky_lake",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct2"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ca-ES": "Llac de la sort",
+   "de-DE": "Glückssee",
+   "en-GB": "Lucky Lake",
+   "eo-ZZ": "Bonŝanca Lago",
+   "es-ES": "Lago Suerte",
+   "fi-FI": "Onnenjärvi",
+   "fr-FR": "Lucky Lac",
+   "hu-HU": "Szerencsés-tó",
+   "it-IT": "Lago fortunato",
+   "ja-JP": "ラッキー・レイク",
+   "ko-KR": "행운의 호수",
+   "pt-BR": "Lago da Sorte",
+   "sv-SE": "Tursjön",
+   "zh-CN": "幸运湖泊",
+   "zh-TW": "幸運湖泊"
+  },
+  "park": {
+   "ca-ES": "Llac de la sort",
+   "de-DE": "Glückssee",
+   "en-GB": "Lucky Lake",
+   "eo-ZZ": "Bonŝanca Lago",
+   "es-ES": "Lago Suerte",
+   "fi-FI": "Onnenjärvi",
+   "fr-FR": "Lucky Lac",
+   "hu-HU": "Szerencsés-tó",
+   "it-IT": "Lago fortunato",
+   "ko-KR": "행운의 호수",
+   "pt-BR": "Lago da Sorte",
+   "sv-SE": "Tursjön",
+   "zh-CN": "幸运湖泊",
+   "zh-TW": "幸運湖泊"
+  },
+  "details": {
+   "ca-ES": "Amb fons il·limitats però en un entorn exigent, expandir i dirigir aquest parc serà tot un repte.",
+   "cs-CZ": "S neomezenými financemi v nesnadném terénu okolo jezera - bude obtížné zábavní park dále rozšiřovat",
+   "da-DK": "Med ubegrænsede midler, men en udfordrende søplacering, vil denne park være en udfordring at udvide og administrere",
+   "de-DE": "Bei den unbegrenzten Geldmitteln aber der herausfordernden Seelage wird es eine große Aufgabe sein, diesen Park zu erweitern und verwalten",
+   "en-GB": "With unlimited funds but a challenging lake location, this park will be a challenge to expand and manage",
+   "eo-ZZ": "Kun senlima mono, sed malfacila lagoloko, ĉi tiu parko estos defio por ellabori kaj administri",
+   "es-ES": "Con fondos ilimitados pero una ubicación desafiante, este parque será difícil de expandir y administrar.",
+   "fi-FI": "Tätä rajattomilla rahoilla mutta vaikealla järvisijainnilla varustettua puistoa on haastaavaa laajentaa ja johtaa",
+   "fr-FR": "Vous disposez de fonds illimités pour développer et gérer un parc sur ce lac en location.",
+   "hu-HU": "Korlátlan pénzzel, de egy kihívást jelentő tavi helyszínen, ezt a parkot igazi próbatétel lesz bővíteni és igazgatni",
+   "it-IT": "Nonostante i fondi illimitati, la posizione di questo parco ti darà del filo da torcere se vorrai espanderlo e gestirlo",
+   "ja-JP": "この遊園地では資金は使い放題ですが、湖畔に位置しているので、拡張と経営はきっと困難なものとなるでしょう",
+   "ko-KR": "자본에는 제한이 없지만 호수가 있는 곳이기 때문에 이 공원을 확장하고 관리하는 건 많이 힘들 것입니다.",
+   "nb-NO": "Med uendelig finansiering, men med et utfordrende område rundt en innsjø, vil denne parken bli utfordrende å utvide og drive",
+   "nl-NL": "Met een onbeperkt budget, maar gesitueerd op een veeleisende locatie is het een uitdaging dit park uit te breiden en te beheren.",
+   "pl-PL": "Z uwagi na trudne położenie nad jeziorem rozbudowa i zarządzanie tym lunaparkiem będzie dużym wyzwaniem pomimo nieograniczonych funduszy.",
+   "pt-BR": "Com fundos ilimitados, mas com uma localização desafiadora no lago, este parque será um desafio para expandir e gerenciar",
+   "ru-RU": "Этот парк станет настоящим испытанием для самого опытного менеджера.",
+   "sv-SE": "Med obegränsat kapital men en utmanande sjöplats kommer det här nöjesfältet att bli en utmaning att expandera och driva",
+   "tr-TR": "Paranız sınırsız fakat gölün içindeki kayalıklar alet inşasını zorlaştırıyor",
+   "zh-CN": "你有了无限的资金，但湖泊是一个具有挑战性的位置，这个公园将是一个挑战，扩大它并运营它",
+   "zh-TW": "在沒有資金限制下挑戰湖泊區域,這座遊樂園的開發及管理將是一個挑戰"
+  }
+ }
+}

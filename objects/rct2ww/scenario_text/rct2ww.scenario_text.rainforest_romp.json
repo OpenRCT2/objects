@@ -1,0 +1,72 @@
+{
+ "id": "rct2ww.scenario_text.rainforest_romp",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct2ww"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "العاب الغابات المطيرة",
+   "ca-ES": "Diversió a la selva",
+   "de-DE": "Rummel im Regenwald",
+   "en-GB": "Rainforest Romp",
+   "eo-ZZ": "Pluvarbaro-Kapriolo",
+   "es-ES": "Aventuras en la selva",
+   "fi-FI": "Sademetsän seikkailu",
+   "fr-FR": "La forêt en folie",
+   "hu-HU": "Esőerdei Kaland",
+   "it-IT": "Scorribanda nella foresta",
+   "ja-JP": "熱帯雨林高原",
+   "ko-KR": "열대우림 고원",
+   "pt-BR": "Diversão na Floresta",
+   "ru-RU": "Тропический Лес",
+   "sv-SE": "Kul i regnskog",
+   "zh-CN": "嬉闹雨林"
+  },
+  "park": {
+   "ar-EG": "العاب الغابات المطيرة",
+   "ca-ES": "Diversió a la selva",
+   "de-DE": "Rummel im Regenwald",
+   "en-GB": "Rainforest Romp",
+   "eo-ZZ": "Pluvarbaro-Kapriolo",
+   "es-ES": "Aventuras en la selva",
+   "fi-FI": "Sademetsän seikkailu",
+   "fr-FR": "La forêt en folie",
+   "hu-HU": "Esőerdei Kaland",
+   "it-IT": "Scorribanda nella foresta",
+   "ja-JP": "熱帯雨林高原",
+   "ko-KR": "열대우림 고원",
+   "pt-BR": "Diversão na Floresta",
+   "ru-RU": "Тропический Лес",
+   "sv-SE": "Kul i regnskog",
+   "zh-CN": "嬉闹雨林"
+  },
+  "details": {
+   "ar-EG": "المساحة محدودة في الغابات المطيرة الثمينة - حيث يجب عليك ضم أكبر قدر ممكن في المساحة المخلية الحالية، من أجل توفير بديل قابل للتطبيق لصناعة الأخشاب المحليةالمساحة محدودة في الغابات المطيرة الثمينة - يجب حشر أكبر قدر ممكن في المساحة المخلية الحالية، من أجل توفير بديل قابل للتطبيق لصناعة الأخشاب المحلية.",
+   "ca-ES": "En aquesta preciosa selva tropical, l’espai està limitat. Heu d’amuntegar tot el que pugueu en els llocs sense arbres, per tal de que la indústria local de la fusta continuï sent una alternativa viable al turisme.",
+   "cs-CZ": "Prostor je limitovaný drahocenným deštným pralesem - musíte toho namáčknout co nejvíce do dosavadních pozemků, abyste mohli konkurovat místním dřevorubeckým společnostem.",
+   "da-DK": "Pladsen er begrænset i den dyrebare regnskov - du skal proppe så meget som muligt ind i den eksisterende rydning for at give et levedygtigt alternativ til den lokale træindustri.",
+   "de-DE": "Platz ist Mangelware im kostbaren Regenwald - Sie müssen so viele Attraktionen wie möglich auf der existierenden Lichtung unterbringen, um eine rentable Alternative zur örtlichen Holzindustrie zu schaffen.",
+   "en-GB": "Space is limited in the precious rainforest - you must cram as much as possible into the existing clearing, in order to provide a viable alternative to the local timber industry.",
+   "eo-ZZ": "Spaco estas limigita en la altvalora pluvarbaro - vi devas plenegigi kiel eble plej multe en la ekzistantan senarbejon, por havigi vivipovan alternativon je la loka ligno-industrio.",
+   "es-ES": "En esta valiosa selva el espacio es limitado, tendrás que apretujarte tanto como puedas en el claro existente, con el fin de proporcionar una alternativa viable para la industria maderera local.",
+   "fi-FI": "Tila on niukassa tässä korvaamattomassa sademetsässä - sinun täytyy ahtaa mahdollisimman paljon jo raivattuun alueeseen, jotta paikalliselle puuteollisuudelle olisi kannattava vaihtoehto.",
+   "fr-FR": "L’espace est limité dans la précieuse forêt équatoriale : vous devez entasser les éléments autant que vous pouvez dans la clairière déjà existante, de manière à fournir une alternative à l’industrie sylvestre locale.",
+   "hu-HU": "A tér korlátozott az értékes esőerdőben - mindent be kell zsúfolnod a meglévő tisztásra, hogy életképes alternatívát nyújthass a helyi faiparnak.",
+   "it-IT": "Nella preziosa foresta pluviale, lo spazio è limitato. Devi sfruttare al meglio la radura già esistente per creare una valida alternativa all’industria locale del legno.",
+   "ko-KR": "소중한 열대우림 속의 제한된 공간만을 받았습니다. 이곳의 벌목 산업을 대신할 수 있는 방법을 제공하기 위해 기존의 빈 공간을 최대한 많이 활용해야 합니다.",
+   "nb-NO": "Plass er begrenset i den faretruede regnskogen - du må klemme så mye som mulig inn i den eksisterende klaringen, for å bringe et lønnsomt alternativ til den lokale tømmerindustrien.",
+   "nl-NL": "In het regenwoud is er niet veel plek. Je moet zo veel mogelijk in de open plek zien te persen om een goed alternatief voor de lokale houtindustrie te vormen.",
+   "pl-PL": "W lesie deszczowym miejsce jest bardzo cenne - musisz upchnąć jak najwięcej obiektów na dostępnym wykarczowanym obszarze, aby lunapark stał się dobrą alternatywą dla miejscowego przemysłu drzewnego.",
+   "pt-BR": "Espaço é limitado nessa preciosa floresta tropical - você deve amontoar o máximo possível na clareira existente, a fim de prover uma alternativa viável para a indústria madeireira local.",
+   "ru-RU": "Место ограничено ценнейшими тропическими лесами - вы должны строить на существующей территории, чтобы не дать вырубать леса.",
+   "sv-SE": "Utrymmet är begränsat i den utrotningshotade regnskogen. Du måste få plats med så mycket som möjligt i gläntan för att kunna erbjuda ett alternativ till den lokala timmerindustrin.",
+   "tr-TR": "Bu yağmur ormanında boş alan kısıtlı - yerel kereste endüstrisine bir alternatif sunmak için bu kısıtlı alanda lunapark inşa ediniz",
+   "zh-CN": "空间是有限的宝贵的热带雨林——你必须尽可能多地塞进现有的结算，以提供一个可行的替代当地木材业。"
+  }
+ }
+}

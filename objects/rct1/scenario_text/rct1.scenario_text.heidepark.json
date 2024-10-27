@@ -1,0 +1,36 @@
+{
+ "id": "rct1.scenario_text.heidepark",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct1"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "هايد بارك",
+   "ca-ES": "Heide-Park (Alemanya)",
+   "en-GB": "Heide-Park",
+   "hu-HU": "Heide Park",
+   "ja-JP": "ハイデ・パーク",
+   "pt-BR": "Parque Heide",
+   "zh-CN": "海德公园"
+  },
+  "park": {
+   "ar-EG": "هايد بارك",
+   "ca-ES": "Heide-Park (Alemanya)",
+   "en-GB": "Heide-Park",
+   "hu-HU": "Heide Park",
+   "ko-KR": "하이데 파르크",
+   "pt-BR": "Parque Heide",
+   "zh-CN": "海德公园"
+  },
+  "details": {
+   "da-DK": "Stor park der ligger i det nordlige Tyskland",
+   "en-GB": "",
+   "tr-TR": "Gerçekte Almanya’da bulunan bir lunapark"
+  }
+ }
+}

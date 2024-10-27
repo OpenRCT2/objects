@@ -1,0 +1,61 @@
+{
+ "id": "official.scenario_text.the_sandbox",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "official"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "صندوق التجارب",
+   "de-DE": "Der Sandkasten",
+   "en-GB": "The Sandbox",
+   "eo-ZZ": "La Sablokesto",
+   "es-ES": "La caja de arena",
+   "fi-FI": "Hiekkalaatikko",
+   "fr-FR": "Le bac à sable",
+   "hu-HU": "A Homokozó",
+   "nl-NL": "De zandbak",
+   "pt-BR": "A Caixa de Areia",
+   "uk-UA": "Пісочниця",
+   "zh-CN": "沙盒"
+  },
+  "park": {
+   "ar-EG": "صندوق التجارب",
+   "de-DE": "Der Sandkasten",
+   "en-GB": "The Sandbox",
+   "eo-ZZ": "La Sablokesto",
+   "es-ES": "La caja de arena",
+   "fi-FI": "Hiekkalaatikko",
+   "fr-FR": "Le bac à sable",
+   "hu-HU": "A Homokozó",
+   "ko-KR": "모래 상자",
+   "nl-NL": "De zandbak",
+   "pt-BR": "A Caixa de Areia",
+   "uk-UA": "Пісочниця",
+   "zh-CN": "沙盒"
+  },
+  "details": {
+   "ar-EG": "ما يريده الجميع - صندوق تجارب! لذا خذ سطلًا صغيرًا ومجرفة وأستعد لبناء الحديقة!{NEWLINE}المؤلف: Katatude",
+   "ca-ES": "Tot el que tothom desitja: una caixa d’arena. Així que agafeu la vostra petita pala i a construir-hi un parc!{NEWLINE}Autor: Katatude",
+   "da-DK": "Hvad alle vil have - en sandkasse! Så grib din lille spand og skovl og byg en park!{NEWLINE}Forfatter: Katatude",
+   "de-DE": "Was alle wollen - ein Sandkasten! Also schnappen Sie sich Eimer und Schaufel und bauen Sie einen Park!{NEWLINE}Autor: Katatude",
+   "en-GB": "What everyone wants - a sandbox! So grab your l’il pail and shovel and build a park!{NEWLINE}Author: Katatude",
+   "eo-ZZ": "Kion ĉiuj volas - sablokesto! Do prenu vian etan sitelon kaj fosilon kaj konstruu parkon!{NEWLINE}Aŭtoro: Katatude",
+   "es-ES": "Lo que todo el mundo quiere - ¡una caja de arena! Así que coge tu cubito y pala, ¡y a construir un parque!{NEWLINE}Autor: Katatude",
+   "fi-FI": "Se, mitä kaikki aina haluavat - hiekkalaatikko! Tartu siis ämpäriin ja lapioon, ja rakenna puisto!{NEWLINE}Tekijä: Katatude",
+   "fr-FR": "Ce que tout le monde veut — un bac à sable ! Alors prenez votre pelle et votre râteau et contruisez un parc !{NEWLINE}Par : Katatude",
+   "hu-HU": "Amit mindenki akar - egy homokozó! Szóval ragadjátok meg a kis vödrötöket és lapátotokat és építsetek egy parkot!{NEWLINE}Szerző: Katatude",
+   "it-IT": "Quello che tutti desiderano - una sandbox! Quindi prendi secchio e pala e costruisci un parco!{NEWLINE}Autore: Katatude",
+   "ko-KR": "모두가 원하는 모래 상자! 이제 양동이와 삽을 들고 원하는 공원을 만드세요!{NEWLINE}제작자: Katatude",
+   "nb-NO": "Det alle vil ha - en sandboks! Så hent ditt lille spann og spade og bygg en park!{NEWLINE}Forfatter: Katatude",
+   "nl-NL": "Iedereen wil toch wel eens in de zandbak spelen? Pak je emmertje en je schepje en bouw een park!{NEWLINE}Gemaakt door: Katatude",
+   "pt-BR": "O que todos querem: uma caixa de areia! Então pegue seu baldinho e sua pá e construa um parque!{NEWLINE}Autor: Katatude",
+   "uk-UA": "Те, чого хоче кожен — пісочниця! Тож беріть своє відерце та лопату і будуйте парк!{NEWLINE}Автор: Katatude",
+   "zh-CN": "每个人都想拥有的——沙盒！所以拿起你的桶和铲子，建造一个公园吧！{NEWLINE}作者：Katatude"
+  }
+ }
+}

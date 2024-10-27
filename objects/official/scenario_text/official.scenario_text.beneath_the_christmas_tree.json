@@ -1,0 +1,61 @@
+{
+ "id": "official.scenario_text.beneath_the_christmas_tree",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "official"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "تحت شجرة عيد الميلاد",
+   "ca-ES": "Sota l’arbre de Nadal",
+   "de-DE": "Unter dem Weihnachtsbaum",
+   "en-GB": "Beneath the Christmas Tree",
+   "eo-ZZ": "Sub la Kristnaska Arbo",
+   "es-ES": "Bajo el Árbol de Navidad",
+   "fi-FI": "Alla joulupuun",
+   "fr-FR": "Sous le sapin de Noël",
+   "hu-HU": "A karácsonyfa alatt",
+   "pt-BR": "Debaixo da Árvore de Natal",
+   "uk-UA": "Під різдвяною ялинкою",
+   "zh-CN": "圣诞树下"
+  },
+  "park": {
+   "ar-EG": "أرض عجائب الشتاء",
+   "ca-ES": "El món de fantasia hivernal",
+   "de-DE": "Winterwunderland",
+   "en-GB": "Winter Wonderland",
+   "eo-ZZ": "Vintra Mirlando",
+   "es-ES": "País de las Maravillas Invernal",
+   "fi-FI": "Talven ihmemaa",
+   "fr-FR": "Pays de l’hiver",
+   "hu-HU": "Téli Csodaország",
+   "ko-KR": "겨울 원더 랜드",
+   "pt-BR": "Inverno das Maravilhas",
+   "uk-UA": "Зимова країна чудес",
+   "zh-CN": "冬季仙境"
+  },
+  "details": {
+   "ar-EG": "قامت أمي ببناء هذا المشهد تحت شجرتنا. الآن تريد إنشاء حديقة فيها! هل يمكنك المساعدة?{NEWLINE}المؤلف: Katatude",
+   "ca-ES": "La meva mare ha construït aquesta escena a sota de l’arbre de Nadal. Ara vol que hi construïm un parc a dins! Ens podeu ajudar?{NEWLINE}Autor: Katatude",
+   "da-DK": "Mor byggede denne scene under vores træ. Nu vil hun have lavet en park i den! Kan du hjælpe?{NEWLINE}Forfatter: Katatude",
+   "de-DE": "Mama hat diese Szenerie unter unserem Baum gebaut. Jetzt möchte sie darin einen Park gebaut haben! Können Sie helfen?{NEWLINE}Autor: Katatude",
+   "en-GB": "Mum built this scene under our tree. Now she wants a park made in it! Can you help?{NEWLINE}Author: Katatude",
+   "eo-ZZ": "Panjo konstruis ĉi tiun scenon sub nia arbo. Nun ŝi volas parkon farigitan en ĝi! Ĉu vi povas helpi?{NEWLINE}Aŭtoro: Katatude",
+   "es-ES": "Mamá construyó esta escena bajo nuestro árbol. ¡Ahora quiere que construyamos un parque en ella! ¿Puedes ayudar?{NEWLINE}Autor: Katatude",
+   "fi-FI": "Äiti rakensi tämän dioraaman joulukuusen alle. Nyt hän haluaa sinne huvipuiston! Pystytkö auttamaan?{NEWLINE}Tekijä: Katatude",
+   "fr-FR": "Maman a construit cette scène sous notre sapin. Maintenant elle veut qu’un parc y soit construit ! Pouvez-vous aider ?{NEWLINE}Par : Katatude",
+   "hu-HU": "Anyu építette ezt a jelenetet a fánk alá. Most azt akarja, hogy parkot csináljunk bele! Tudsz segíteni?{NEWLINE}Szerző: Katatude",
+   "it-IT": "La mamma ha costruito questa scena sotto al nostro albero. Ora vuole che ci costruiamo un parco! Puoi aiutarci?{NEWLINE}Autore: Katatude",
+   "ko-KR": "엄마가 우리 나무 아래를 이렇게 만들었어요. 이제 공원을 만들고 싶으시대요. 도와주실 수 있나요?{NEWLINE}제작자: Katatude",
+   "nb-NO": "Mamma bygde denne scenen under vårt tre. Nå vil hun ha en park bygget i det! Kan du hjelpe?{NEWLINE}Forfatter: Katatude",
+   "nl-NL": "Je moeder heeft dit tafereel onder de kerstboom gebouwd. Nu is het jouw beurt om er een park van te maken!{NEWLINE}Gemaakt door: Katatude",
+   "pt-BR": "Mamãe construiu esse cenário debaixo de nossa árvore. Agora ela quer um parque feito nele! Você pode ajudar?{NEWLINE}Autor: Katatude",
+   "uk-UA": "Мама побудувала цю сцену під нашою ялинкою. Тепер вона хоче зробити там парк! Можете допомогти?{NEWLINE}Автор: Katatude",
+   "zh-CN": "妈妈在树下创造了这个场景，现在，她想要在这里创造一个游乐园！你能帮忙吗？{NEWLINE}作者：Katatude"
+  }
+ }
+}

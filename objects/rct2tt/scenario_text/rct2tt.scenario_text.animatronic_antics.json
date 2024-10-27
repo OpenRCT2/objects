@@ -1,0 +1,75 @@
+{
+ "id": "rct2tt.scenario_text.animatronic_antics",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct2tt"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "تحفيات أنيماترونكس",
+   "ca-ES": "Relíquies animatròniques",
+   "de-DE": "Animatronic-Possen",
+   "en-GB": "Animatronic Antics",
+   "eo-ZZ": "Animatronikaj Burleskaĵoj",
+   "es-ES": "Animatrónica de los antiguos",
+   "fi-FI": "Animatronian antia",
+   "fr-FR": "Automates de l’Antiquité",
+   "hu-HU": "Animatronikus Mókák",
+   "it-IT": "Animatronica antichità",
+   "ja-JP": "アニマトロ・アンティクス",
+   "ko-KR": "애니매트로닉 앤틱스",
+   "pt-BR": "Travessuras Animatrônicas",
+   "ru-RU": "Студия Абсурда",
+   "sv-SE": "Animatroniska äventyr",
+   "zh-CN": "古怪的动画电影",
+   "zh-TW": "機械偶動作"
+  },
+  "park": {
+   "ar-EG": "تحفيات أنيماترونكس",
+   "ca-ES": "Relíquies animatròniques",
+   "de-DE": "Animatronic-Possen",
+   "en-GB": "Animatronic Antics",
+   "eo-ZZ": "Animatronikaj Burleskaĵoj",
+   "es-ES": "Animatrónica de los antiguos",
+   "fi-FI": "Animatronian antia",
+   "fr-FR": "Automates de l’Antiquité",
+   "hu-HU": "Animatronikus Mókák",
+   "it-IT": "Animatronica antichità",
+   "ja-JP": "アニマトロ・アンティクス",
+   "ko-KR": "애니매트로닉 앤틱스",
+   "pt-BR": "Travessuras Animatrônicas",
+   "ru-RU": "Студия Абсурда",
+   "sv-SE": "Animatroniska äventyr",
+   "zh-CN": "古怪的动画电影",
+   "zh-TW": "機械偶動作"
+  },
+  "details": {
+   "ar-EG": "لقد تم تكليفك بمهمة تشغيل وتحسين مدينة ملاهي موجودة، والتي تم إنشاؤها على مجموعة أفلام قديمة. أنشئ تكريمًا لرسامي تقنية إيقاف الحركة الرائدين الذين قاموا بإحياء الكائنات الأسطورية على الشاشة الفضية لأول مرة.",
+   "ca-ES": "Us han encomanat la tasca de fer funcionar i millorar un parc temàtic ja existent que s’ha construït en un vell plató de cinema. Construïu un tribut als animadors pioners de l’stop-motion que van portar per primer cop criatures mítiques a la vida a la gran pantalla.",
+   "cs-CZ": "Byl vám zadán úkol správy a vylepšování stávajícího zábavního parku, který byl postaven na starém filmařském místě. Vybudujte odkaz průkopníkům-animátorům, kteří poprvé přinesli mýtické postavy k životu na stříbrném plátně.",
+   "da-DK": "Du har fået til opgave at drive og forbedre en eksisterende forlystelsespark, som er bygget på et gammelt filmsæt. Byg en hyldest til de banebrydende stop-motion animatorer, der først bragte mytiske væsner til live på biograflærredet.",
+   "de-DE": "Ihre Aufgabe ist, einen bestehenden Freizeitpark zu verbessern, der auf einem alten Filmgelände gebaut wurde. Bauen Sie eine Gedenkstätte für die Pioniere der Stop-Motion, die die Mystikwesen als Erste ins Kino brachten.",
+   "en-GB": "You have been given the task of running and improving an existing theme park, which has been built on an old film set. Build a tribute to the pioneering stop-motion animators who first brought mythical creatures to life on the silver screen.",
+   "eo-ZZ": "Vi ricevis la taskon de funkciigi kaj plibonigi ekzistantan amuzparkon, kiu estis konstruita ĉe malnova filmado-loko. Konstruu tributon al la pioniraj haltmovado-animistoj, kiuj unue vivigis mitajn kreitojn sur la film-ekranon.",
+   "es-ES": "Se te ha encargado dirigir y mejorar un parque temático ya existente sobre unos antiguos estudios de cine. Rinde tributo a los pioneros de las animaciones que fueron los primeros en llevar a la gran pantalla las criaturas míticas.",
+   "fi-FI": "Sinulle on annettu tehtäväksi vanhan filmistudion paikalle rakennetun toimivan teemapuiston hoito ja laajennus. Rakenna kunnianosoitus niille stop motion -animaattoreille jotka toivat myyttiset hahmot ensi kertaa valkokankaalle.",
+   "fr-FR": "Vous êtes chargé(e) de rénover et d’exploiter un parc déjà existant, construit à partir d’un ancien décor de cinéma. Rendez hommage aux pionniers de l’animation d’automates qui ont donné vie à des créatures mythiques dans les salles obscures.",
+   "hu-HU": "Egy már létező vidámpark vezetését és fejlesztését kaptad feladatul, amely egy régi film díszleteire épült. Építs egy emlékművet az úttörő stop-motion animátoroknak, akik először keltettek életre mitikus lényeket a mozivásznon.",
+   "it-IT": "Hai ricevuto l’incarico di gestire un parco a tema esistente, costruito sul set di un vecchio film. Rendi omaggio ai pionieri dell’animazione cinematografica che per primi hanno portato sul grande schermo e creature mitologiche.",
+   "ko-KR": "이번 임무는 옛 영화 세트장에 설립된 기존 테마파크를 운영하고 발전시키는 것입니다. 흑백 스크린에 신화 속 인물을 옮겨놓은 스톱 모션 애니메이션의 선구자들에게 이 공원을 헌정합시다.",
+   "nb-NO": "Du har blitt gitt oppgaven av å drive og forbedre en eksisterende fornøyelsespark, som har blitt bygd på et gammelt filmstudio. Bygg en hyllest til pionerene av stop-motion animatører som først brakte mytiske skapninger til liv på filmlerretet.",
+   "nl-NL": "Je moet een bestaand pretpark, gebouwd op een oude filmset, beheren en verbeteren. Bouw een eerbetoon aan de pioniers van de stop-motionanimatie, die de wezens uit de mythologie tot leven brachten op het witte doek.",
+   "pl-PL": "Otrzymujesz zadanie prowadzenia i rozbudowy istniejącego lunaparku, wybudowanego na dawnym planie filmowym. Stwórz hołd dla pionierów animacji poklatkowej, którzy przywoływali do życia mitologiczne potwory na srebrnym ekranie.",
+   "pt-BR": "Você foi designado para gerir e melhorar um parque temático existente, que foi construído num velho set de filme. Faça um tributo aos animadores pioneiros de stop-motion, os primeiros a trazer criaturas míticas à vida na tela prateada.",
+   "ru-RU": "Вам поставили задачу улучшить существующий тематический парк, построенный на месте старой киностудии. Сделайте акцент на мифических существах, которых оживили пионеры анимации.",
+   "sv-SE": "Du har fått i uppgift att driva och förbättra en existerande park som ligger på en gammal filminspelningsplats. Bygg en hyllning till filmhistoriens animationspionjärer som först gav liv åt förhistoriska vidunder på vita duken.",
+   "tr-TR": "Eski bir film setinde kurulmuş olan mevcut bir lunaparkını işletme ve geliştirme görevi size verilmiştir",
+   "zh-CN": "你已经被赋予了运行和改进现有的主题公园的任务，它是建立在一个旧的电影集上的。建立一个向创业的定格动画人第一次带来了神秘的生物生活在银幕上。",
+   "zh-TW": "您被賦予經營並改善現有主題樂園的工作,樂園建築在舊片場上。為首先將神話生物帶到銀幕中的定格動畫家們獻上崇高敬意"
+  }
+ }
+}

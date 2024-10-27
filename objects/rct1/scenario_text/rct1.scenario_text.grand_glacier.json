@@ -1,0 +1,54 @@
+{
+ "id": "rct1.scenario_text.grand_glacier",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct1"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ca-ES": "La gran glacera",
+   "en-GB": "Grand Glacier",
+   "eo-ZZ": "Granda Glaĉero",
+   "fi-FI": "Jäätikön jäynät",
+   "hu-HU": "Nagy Gleccser",
+   "ja-JP": "グランド・グレーシアー",
+   "pt-BR": "Grande Geleira",
+   "zh-CN": "大冰川"
+  },
+  "park": {
+   "ca-ES": "La gran glacera",
+   "en-GB": "Grand Glacier",
+   "eo-ZZ": "Granda Glaĉero",
+   "fi-FI": "Jäätikön jäynät",
+   "hu-HU": "Nagy Gleccser",
+   "ko-KR": "웅장한 빙하",
+   "pt-BR": "Grande Geleira",
+   "zh-CN": "大冰川"
+  },
+  "details": {
+   "ca-ES": "Teniu aquesta vall ocupada per una glacera. Hi heu de desenvolupar un parc temàtic.",
+   "da-DK": "En gletscherfyldt dal er din, til at udvikle sig til en forlystelsespark",
+   "de-DE": "Es steht Ihnen ein Gletschertal zur Verfügung, das in einen Vergnügungspark zu verwandeln ist.",
+   "en-GB": "A glacier-filled valley is yours to develop into a theme park",
+   "eo-ZZ": "Valo kun glaĉero estas via por ellabori en amuzparkon",
+   "es-ES": "Tienes a tu disposición un valle lleno de glaciares para desarrollar en el un parque temático.",
+   "fi-FI": "Jäätiköitä täynnä oleva laakso on sinun huvipuiston kehitystä varten",
+   "fr-FR": "Il vous appartient de développer une vallée abritant un glacier en parc à thème.",
+   "hu-HU": "Fejleszd vidámparkká ezt a gleccserekkel teli völgyet",
+   "it-IT": "Una valle piena di ghiacciai è tua per svilupparci un parco a tema",
+   "ko-KR": "놀이공원으로 만들기 위해 당신에게 빙하가 가득한 계곡이 주어졌습니다.",
+   "nb-NO": "Bygg en fornøyelsespark i denne isbre-dalen",
+   "nl-NL": "Je mag een vallei met een gletsjer ontwikkelen tot een themapark.",
+   "pl-PL": "Dolina wypełniona lodowcem czeka na przemianę w park rozrywki",
+   "pt-BR": "Um vale cheio de geleira é seu para desenvolver um parque temático.",
+   "sv-SE": "En glaciärdal är din för att skapa ett nöjesfält",
+   "tr-TR": "Buzul ile kaplı olan bu vadide lunapark oluşturunuz",
+   "zh-CN": "一个充满冰川的山谷等你开发成游乐园",
+   "zh-TW": "一個由冰川所填滿的峽谷現可由你任意發展成一個樂園"
+  }
+ }
+}

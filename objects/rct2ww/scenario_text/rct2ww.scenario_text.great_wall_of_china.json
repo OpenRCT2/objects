@@ -1,0 +1,76 @@
+{
+ "id": "rct2ww.scenario_text.great_wall_of_china",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct2ww"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "سور الصين العظيم",
+   "ca-ES": "La Gran Muralla xinesa",
+   "de-DE": "Große Mauer von China",
+   "en-GB": "Great Wall of China",
+   "eo-ZZ": "La Granda Ĉina Muro",
+   "es-ES": "Gran Muralla China",
+   "fi-FI": "Kiinan muuri",
+   "fr-FR": "Grande Muraille de Chine",
+   "hu-HU": "Kínai Nagy Fal",
+   "it-IT": "La Grande Muraglia Cinese",
+   "ja-JP": "万里の長城",
+   "ko-KR": "만리장성",
+   "nl-NL": "De Chinese Muur",
+   "pl-PL": "Wielki Mur Chiński",
+   "pt-BR": "Grande Muralha da China",
+   "ru-RU": "Великая стена",
+   "sv-SE": "Kinesiska muren",
+   "zh-CN": "中国长城"
+  },
+  "park": {
+   "ar-EG": "سور الصين العظيم",
+   "ca-ES": "La Gran Muralla xinesa",
+   "de-DE": "Große Mauer von China",
+   "en-GB": "Great Wall of China",
+   "eo-ZZ": "La Granda Ĉina Muro",
+   "es-ES": "Gran Muralla China",
+   "fi-FI": "Kiinan muuri",
+   "fr-FR": "Grande Muraille de Chine",
+   "hu-HU": "Kínai Nagy Fal",
+   "it-IT": "La Grande Muraglia Cinese",
+   "ja-JP": "万里の長城",
+   "ko-KR": "만리장성",
+   "nl-NL": "De Chinese Muur",
+   "pl-PL": "Wielki Mur Chiński",
+   "pt-BR": "Grande Muralha da China",
+   "ru-RU": "Великая стена",
+   "sv-SE": "Kinesiska muren",
+   "zh-CN": "中国长城"
+  },
+  "details": {
+   "ar-EG": "قررت السلطات تعزيز السياحة حول السور العظيم من خلال بناء مدينة ترفيهية على الأرض المجاورة. المال ليس مُعضلة!",
+   "ca-ES": "Les autoritats han decidit millorar les instal·lacions turístiques al voltant de la Gran Muralla construint-hi un parc temàtic. I no us preocupeu pels diners!",
+   "cs-CZ": "Místní správa se rozhodla podpořit cestovní ruch a vytvořit Velkou zeď stavbou přilehlého zábavního parku. Peníze nehrají roli.",
+   "da-DK": "Myndighederne har besluttet at forbedre turismen omkring Den Kinesiske Mur ved at bygge en forlystelsespark på den tilstødende jord. Penge er ikke noget problem!",
+   "de-DE": "Die Behörden haben entschieden, noch mehr Touristen zur Großen Mauer zu locken, und wollen auf einem angrenzenden Gebiet einen Themenpark errichten. Geld spielt keine Rolle",
+   "en-GB": "The authorities have decided to enhance tourism around the Great Wall by building a theme park on the adjacent land. Money is no object!",
+   "eo-ZZ": "La aŭtoritatoj decidis plibonigi turismon ĉirkaŭ la Granda Muro per konstrui amuzparkon sur la apuda tereno. Mono estas neniu problemo!",
+   "es-ES": "Las autoridades han decidido mejorar el turismo en torno a la Gran Muralla construyendo un parque temático en el terreno adyacente. ¡El dinero no es un problema",
+   "fi-FI": "Paikalliset viranomaiset ovat päättäneet kehittää muurin alueen matkailua rakentamalla teemapuiston naapuritontille. Maksoi mitä maksoi!",
+   "fr-FR": "Les autorités ont décidé d’accroître le tourisme dans les environs de la Grande Muraille en construisant un parc à thème sur les terrains environnants. Aucune restriction financière.",
+   "hu-HU": "A hatóságok úgy döntöttek, hogy a Nagy Fal körüli turizmus élénkítésére egy vidámparkot építenek a szomszédos területen. A pénz nem számít!",
+   "it-IT": "Le autorità hanno deciso di promuovere il turismo presso la Grande Muraglia costruendo un parco a tema nei paraggi. I soldi non sono un problema",
+   "ko-KR": "관광 당국이 만리장성 주변의 땅에 놀이공원을 지어서 관광객 수를 늘리기로 결정했습니다. 돈이 문제가 아니군요!",
+   "nb-NO": "Myndighetene har bestemt seg for å øke turismen rundt Den Kinesiske Mur ved å bygge en fornøyelsespark ved siden av. Penger er ikke noe problem!",
+   "nl-NL": "De regering heeft besloten om meer toeristen naar de Chinese Muur door er een themapark naast te bouwen. Geld speelt geen rol!",
+   "pl-PL": "Władze postanowiły przyciągnąć więcej turystów w okolice Wielkiego Muru, budując w pobliżu park tematyczny. Pieniądze nie grają roli!",
+   "pt-BR": "As autoridades decidiram melhorar o turismo em volta da Grande Muralha construindo um parque no terreno ao lado. Dinheiro não é o problema!",
+   "ru-RU": "Власти решили развивать туризм вокруг ВКС, построив тематический парк. Деньги - не проблема!",
+   "sv-SE": "Myndigheterna har beslutat att stödja turismen kring Kinesiska muren genom att bygga ett nöjesfält i dess närhet. Pengar är inget hinder!",
+   "tr-TR": "Yetkililer, bitişik arazide bir lunapark inşa ederek Çin Seddi çevresindeki turizmi geliştirmeye karar verdiler. Paranız sınırsız",
+   "zh-CN": "当局已决定在附近的土地上建造主题公园，以加强在长城周边的旅游业发展。"
+  }
+ }
+}

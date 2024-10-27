@@ -1,0 +1,59 @@
+{
+ "id": "official.scenario_text.rocky_mountain_miners",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "official"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "منقبي الصخور الجبلية",
+   "ca-ES": "Els miners de les Muntanyes Rocoses",
+   "en-GB": "Rocky Mountain Miners",
+   "eo-ZZ": "Ministoj de Roka Montaro",
+   "es-ES": "Mineros de las Montañas Rocosas",
+   "fi-FI": "Kalliovuorten kaivos",
+   "fr-FR": "Mineurs des montagnes Rocheuses",
+   "hu-HU": "Sziklás-hegyi bányászok",
+   "pt-BR": "Mineradores da Montanha Rochosa",
+   "uk-UA": "Шахтарі Скелястої гори",
+   "zh-CN": "落石山矿工"
+  },
+  "park": {
+   "ar-EG": "منقبي الصخور الجبلية",
+   "ca-ES": "Els miners de les Muntanyes Rocoses",
+   "en-GB": "Rocky Mountain Miners",
+   "eo-ZZ": "Ministoj de Roka Montaro",
+   "es-ES": "Mineros de las Montañas Rocosas",
+   "fi-FI": "Kalliovuorten kaivos",
+   "fr-FR": "Mineurs des montagnes Rocheuses",
+   "hu-HU": "Sziklás-hegyi bányászok",
+   "ko-KR": "록키 산맥 광부",
+   "pt-BR": "Mineradores da Montanha Rochosa",
+   "uk-UA": "Шахтарі Скелястої гори",
+   "zh-CN": "落石山矿工"
+  },
+  "details": {
+   "ar-EG": "تسبب الانهيار الصخري في إتلاف السكك الحديدية الخاصة بك. لقد ذهب عمالك للتنقيب. هل يوجد ذهب في الأفوانيات?{NEWLINE}المؤلفون: Squid, Buckone, Fossil",
+   "ca-ES": "Un despreniment ha fet malbé el ferrocarril. Els treballadors ara mateix no hi són. Hi ha or a les muntanyes russes?{NEWLINE}Autors: Squid, Buckone, Fossil",
+   "da-DK": "Et stenskred beskadigede din jernbane. Dine arbejdere er gået på guldjagt. Er der guld i rutsjebaner?{NEWLINE}Forfattere: Squid, Buckone, Fossil",
+   "de-DE": "Ein Steinschlag hat Ihre Eisenbahnstrecke beschädigt. Ihre Arbeiter sind auf die Suche nach Bodenschätzen gegangen. Gibt es Gold in Achterbahnen?{NEWLINE}Autoren: Squid, Buckone, Fossil",
+   "en-GB": "A rockslide damaged your railway. Your workers have gone prospecting. Is there gold in roller coasters?{NEWLINE}Authors: Squid, Buckone, Fossil",
+   "eo-ZZ": "Terŝoviĝo damaĝis vian fervojon. Viaj laboristoj foriris por esplori. Ĉu estas oro en onda-fervojojn?{NEWLINE}Aŭtoroj: Squid, Buckone, Fossil",
+   "es-ES": "Un desprendimiento de rocas ha dañado tu ferrocarril. Tus trabajadores se han ido de exploración. ¿Hay oro en las montañas rusas?{NEWLINE}Autores: Squid, Buckone, Fossil",
+   "fi-FI": "Maavyöry tukki rautatien. Työntekijäsi lähtivät tutkimuksille. Onko vuoristoradoissa sittenkin kultaa?{NEWLINE}Tekijät: Squid, Buckone, Fossil",
+   "fr-FR": "Un glissement de terrain a endommagé votre chemin de fer. Vos travailleurs sont partis prospecter. Y a-t-il de l’or dans les montagnes russes ?{NEWLINE}Par : Squid, Buckone, Fossil",
+   "hu-HU": "Egy sziklaomlás megrongálta a vasutadat. A munkásaid elmentek kutatni. Van arany a hullámvasutakban?{NEWLINE}Szerzők: Squid, Buckone, Fossil",
+   "it-IT": "Una frana ha danneggiato la tua ferrovia. I tuoi lavoratori sono andati a scavare, ci sarà dell’oro nelle montagne russe?{NEWLINE}Autori: Squid, Buckone, Fossil",
+   "ko-KR": "산사태로 철도가 손상되었습니다. 직원들이 탐사에 나섰습니다. 롤러코스터에 금이 있을까요?{NEWLINE}제작자: Squid, Buckone, Fossil",
+   "nb-NO": "Et steinras skadde din jernbane. Arbeiderne dine har dratt for å grave. Er det gull i berg-og-dal-baner?{NEWLINE}Forfattere: Squid, Buckone, Fossil",
+   "nl-NL": "Door een aardverschuiving is je spoorweg bedolven onder het puin. Je werknemers zijn het gebied gaan verkennen. Zijn achtbanen misschien de gouden bergen waar je naar op zoek was?{NEWLINE}Gemaakt door: Squid, Buckone, Fossil",
+   "pt-BR": "Um deslizamento de pedras danificou sua linha de trem. Seus trabalhadores saíram para explorar. Há ouro em montanhas-russas?{NEWLINE}Autores: Squid, Buckone, Fossil",
+   "uk-UA": "Обвал гірських порід пошкодив вашу залізницю. Ваші робітники пішли на розвідку. Чи є золото в американських гірках?{NEWLINE}Автори: Squid, Buckone, Fossil",
+   "zh-CN": "泥石流摧毁了你的铁路。通过工人的勘探，过山车中貌似有黄金？{NEWLINE}作者：Squid，Buckone，Fossil"
+  }
+ }
+}

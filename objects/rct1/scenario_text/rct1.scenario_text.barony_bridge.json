@@ -1,0 +1,56 @@
+{
+ "id": "rct1.scenario_text.barony_bridge",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct1"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ca-ES": "El pont de la baronia",
+   "en-GB": "Barony Bridge",
+   "eo-ZZ": "Baronlando-Ponto",
+   "fi-FI": "Simpukkasilta",
+   "fr-FR": "Pont Baron",
+   "hu-HU": "Hűbéri Híd",
+   "ja-JP": "バリー・ブリッジ",
+   "pt-BR": "Ponte Baronato",
+   "zh-CN": "男爵之桥"
+  },
+  "park": {
+   "ca-ES": "El pont de la baronia",
+   "en-GB": "Barony Bridge",
+   "eo-ZZ": "Baronlando-Ponto",
+   "fi-FI": "Simpukkasilta",
+   "fr-FR": "Pont Baron",
+   "hu-HU": "Hűbéri Híd",
+   "ko-KR": "남작의 다리",
+   "pt-BR": "Ponte Baronato",
+   "zh-CN": "男爵之桥"
+  },
+  "details": {
+   "ca-ES": "Disposeu d’un pont antic que actualment és redundant. Convertiu-lo en un parc temàtic.",
+   "da-DK": "Få denne gamle udtjente bro, til at udvikle sig til en forlystelsespark",
+   "de-DE": "Wandeln Sie eine alte, nicht mehr benutzte Brücke in einen attraktiven Park um.",
+   "en-GB": "An old redundant bridge is yours to develop into an amusement park",
+   "eo-ZZ": "Malnova senutila ponto estas via por ellabori en amuzparkon",
+   "es-ES": "Dispones de un viejo puente inutilizado para convertirlo en un parque de atracciones.",
+   "fi-FI": "Kehitä sinulle annetusta vanhasta hylätystä sillasta kukoistava huvipuisto",
+   "fr-FR": "Vous pouvez transformer un vieux pont désaffecté en parc d’attractions.",
+   "hu-HU": "Egy öreg, feleslegessé vált híd, amelyet neked kell vidámparkká fejleszteni",
+   "it-IT": "Un vecchio ponte superfluo è pronto per essere trasformato in un parco a tema",
+   "ko-KR": "필요없는 오래된 다리를 놀이공원으로 개발할 수 있습니다.",
+   "nb-NO": "Du får utvikle en gammel ubrukt bro til en fornøyelsespark",
+   "nl-NL": "Je hebt de beschikking over een oude, niet meer gebruikte brug. Verander deze in een pretpark.",
+   "pl-PL": "Stary nieużywany most zostaje przekazany w Twoją dyspozycję w celu przemienienia go w park rozrywki",
+   "pt-BR": "Uma velha ponte redundante é sua para transformar em um parque de diversões.",
+   "sv-SE": "En gammal övergiven bro som du får förvandla till ett nöjesfält",
+   "tr-TR": "Eski bir yedek köprünün etrafına lunapark inşa ediniz",
+   "zh-CN": "你要将一个多余的老破桥开发成游乐园",
+   "zh-TW": "一條古舊並多餘的橋現可由你任意發展成一個樂園"
+  }
+ }
+}

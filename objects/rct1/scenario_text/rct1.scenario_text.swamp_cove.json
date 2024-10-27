@@ -1,0 +1,57 @@
+{
+ "id": "rct1.scenario_text.swamp_cove",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct1"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ca-ES": "La cova del pantà",
+   "en-GB": "Swamp Cove",
+   "eo-ZZ": "Marĉejo-Golfeto",
+   "fi-FI": "Suolahti",
+   "fr-FR": "Crique Cloaque",
+   "hu-HU": "Mocsár-öböl",
+   "ja-JP": "スワンプ・コーブ",
+   "pt-BR": "Angra do Pântano",
+   "zh-CN": "沼泽湾"
+  },
+  "park": {
+   "ca-ES": "La cova del pantà",
+   "en-GB": "Swamp Cove",
+   "eo-ZZ": "Marĉejo-Golfeto",
+   "fi-FI": "Suolahti",
+   "fr-FR": "Crique Cloaque",
+   "hu-HU": "Mocsár-öböl",
+   "ko-KR": "습지 골짜기",
+   "pt-BR": "Angra do Pântano",
+   "zh-CN": "沼泽湾"
+  },
+  "details": {
+   "ca-ES": "Construït parcialment en illes petites, aquest parc ja disposa d’un parell de muntanyes russes enormes com a peces centrals.",
+   "da-DK": "Bygget delvist på en række små øer, har denne forlystelsespark allerede et par store rutschebaner som sit centrum",
+   "de-DE": "Dieser Park, der sich über eine Reihe kleiner Inseln erstreckt, besitzt ein Paar einer großen Achterbahn als Hauptattraktion.",
+   "en-GB": "Built partly on a series of small islands, this park already has a pair of large roller coasters as its centrepiece",
+   "en-US": "Built partly on a series of small islands, this park already has a pair of large roller coasters as its centerpiece",
+   "eo-ZZ": "Konstruita parte sur serio de malgrandaj insuloj, ĉi tiu parko jam havas paron da grandaj ondaj fervojoj kiel ĝiaj ĉefaĵo",
+   "es-ES": "Construye parcialmente sobre una serie de islas pequeñas; este parque cuenta ya con un par de montañas rusas de gran tamaño como atracción central.",
+   "fi-FI": "Osittain rakennettu saariryhmän päälle, tässä puistossa on jo kaksi isoa vuoristorataa keskipisteenä",
+   "fr-FR": "Construit partiellement sur de petites îles, ce parc contient déjà deux grosses montagnes russes en attractions principales.",
+   "hu-HU": "A kis szigetcsoportra épült parkban már van egy nagy, központi elemként funkcionáló hullámvasútpár",
+   "it-IT": "Costruito parzialmente su una serie di piccole isole, questo parco ha già un paio di ottovolanti come principale attrattiva",
+   "ko-KR": "몇 개의 작은 섬에 부분 부분 건설된 이 공원에는 이미 중앙에 한 쌍의 거대한 롤러코스터가 있습니다.",
+   "nb-NO": "Denne parken bygd delvis på en liten øyrekke har allerede et par store berg-og-dal-baner",
+   "nl-NL": "Dit park is gedeeltelijk gebouwd op een serie kleine eilanden en heeft al een paar grote achtbanen als trekpleister.",
+   "pl-PL": "Zabuduj kilka małych wysepek, ten park ma już pare dużych koleje górskich w centralnej części",
+   "pt-BR": "Construído parcialmente em uma série de pequenas ilhas, este parque já tem um par de grandes montanhas-russas como sua peça central.",
+   "sv-SE": "Denna park byggd på små öar har redan några berg- och dalbanor",
+   "tr-TR": "Küçük adalar bulunduran bu araziye lunapark inşa ediniz",
+   "zh-CN": "这个公园部分建在一系列小岛上，已经有一对大型过山车作为卖点",
+   "zh-TW": "此樂園已經有一對建造在數個小島嶼上的巨型雲霄飛車作為它的靈魂"
+  }
+ }
+}

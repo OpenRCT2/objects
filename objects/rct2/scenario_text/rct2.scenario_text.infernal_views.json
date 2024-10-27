@@ -1,0 +1,70 @@
+{
+ "id": "rct2.scenario_text.infernal_views",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct2"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ca-ES": "Paisatges infernals",
+   "de-DE": "Höllenaussicht",
+   "en-GB": "Infernal Views",
+   "eo-ZZ": "Inferaj Vidoj",
+   "es-ES": "Vistas Infernales",
+   "fi-FI": "Hiisipuisto",
+   "fr-FR": "Vue sur l’enfer",
+   "hu-HU": "Pokoli Kilátások",
+   "it-IT": "Viste infernali",
+   "ja-JP": "地獄絵図",
+   "ko-KR": "지옥 풍경",
+   "pt-BR": "Visões Infernais",
+   "sv-SE": "Infernaliska utsikter",
+   "zh-CN": "炼狱",
+   "zh-TW": "地獄般的景色"
+  },
+  "park": {
+   "ca-ES": "Paisatges infernals",
+   "de-DE": "Höllenaussicht",
+   "en-GB": "Infernal Views",
+   "eo-ZZ": "Inferaj Vidoj",
+   "es-ES": "Vistas Infernales",
+   "fi-FI": "Hiisipuisto",
+   "fr-FR": "Vue sur l’enfer",
+   "hu-HU": "Pokoli Kilátások",
+   "it-IT": "Viste infernali",
+   "ko-KR": "지옥 풍경",
+   "pt-BR": "Visões Infernais",
+   "sv-SE": "Infernaliska utsikter",
+   "zh-CN": "炼狱",
+   "zh-TW": "地獄般的景色"
+  },
+  "details": {
+   "ca-ES": "Un parc construït precàriament en roques volcàniques amb rius de magma.",
+   "cs-CZ": "Zábavní park, postavený na úpatní neklidné sopky",
+   "da-DK": "En park beliggende usikkert på lava sten med strømme af magma",
+   "de-DE": "Ein Park, der sich auf einem gefährlichen Lavafelsen mit Magmaströmen befindet",
+   "en-GB": "A park nestled precariously on lava rock with streams of magma",
+   "eo-ZZ": "Parko troviĝanta malfirme sur lafoŝtonego kun riveroj de magmo",
+   "es-ES": "Un parque colocado precariamente sobre roca volcánica (principalmente basalto) con ríos de lava.",
+   "fi-FI": "Puisto, joka on arveluttavasti rakennettu laavakiven päälle magmavirtojen oheen",
+   "fr-FR": "Parc niché en équilibre sur des roches de magma en fusion.",
+   "hu-HU": "A park bizonytalanul fészkel a magmafolyamokkal övezett lávasziklákon",
+   "it-IT": "Un parco arroccato pericolosamente su roccia vulcanica e tra fiumi di lava",
+   "ja-JP": "すぐ近くを溶岩とマグマが流れる、危険な遊園地です",
+   "ko-KR": "마그마 강이 흐르는 용암으로 위태롭게 둘러싸인 공원입니다.",
+   "nb-NO": "En park plassert i utrygge omgivelser på lavastein med elver av magma",
+   "nl-NL": "Een park dat op een hachelijke plaats is gevestigd: op een vulkaan, naast stromende lava.",
+   "pl-PL": "Lunapark umieszczony na polu lawy, poprzecinanym strumieniami rozpalonej magmy.",
+   "pt-BR": "Um parque precariamente aninhado em pedras de lava com vapores de magma",
+   "ru-RU": "Парк, расположенный на скале из застывшей лавы.",
+   "sv-SE": "En park som ligger osäkert på lavasten med strömmar av magma",
+   "tr-TR": "Kenarlarında magma akan bu alanda lunapark kurunuz",
+   "zh-CN": "公园坐落在炙热的熔岩流和不稳定的岩浆中",
+   "zh-TW": "一座遊樂園位於火山岩地會噴出熔岩的危險地帶"
+  }
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "id": "rct1.scenario_text.coaster_crazy",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct1"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "جنون الأفعوانيات",
+   "ca-ES": "Vessants boges",
+   "en-GB": "Coaster Crazy",
+   "eo-ZZ": "Onda-Fervojo-Frenezo",
+   "fi-FI": "Vuoristoradan räminät",
+   "fr-FR": "Loopings en Folie",
+   "hu-HU": "Hullámvasút-őrület",
+   "ja-JP": "コースター・クレイジー",
+   "pt-BR": "Encostas Loucas",
+   "zh-CN": "狂热过山车"
+  },
+  "park": {
+   "ar-EG": "جنون الأفعوانيات",
+   "ca-ES": "Vessants boges",
+   "en-GB": "Coaster Crazy",
+   "eo-ZZ": "Onda-Fervojo-Frenezo",
+   "fi-FI": "Vuoristoradan räminät",
+   "fr-FR": "Loopings en Folie",
+   "hu-HU": "Hullámvasút-őrület",
+   "ko-KR": "미친 코스터",
+   "pt-BR": "Encostas Loucas",
+   "zh-CN": "狂热过山车"
+  },
+  "details": {
+   "ar-EG": "لديك أموال محدودة ولكن لديك وقت غير محدود لتحويل هذه المنطقة الجبلية إلى حديقة أفعوانيات شاسعة",
+   "ca-ES": "Disposeu de fons financers limitats però temps il·limitat per a convertir aquesta àrea de muntanyes en un gran parc de muntanyes russes.",
+   "da-DK": "Du har begrænsede midler, men ubegrænset tid til at vende dette bjergområde til en stor rutschebane forlystelsespark",
+   "de-DE": "Sie haben nur begrenzt Geld, aber jede Menge Zeit, aus diesem Berggelände einen riesigen Achterbahn-Park zu machen.",
+   "en-GB": "You have limited funds but unlimited time to turn this mountainside area into a vast roller coaster park",
+   "eo-ZZ": "Vi havas limigitan monon, sed senliman tempon, por ellabori ĉi tiun montoflankan areon en gigantan parkon de ondaj fervojoj",
+   "es-ES": "Tienes a tu disposición todo el tiempo necesario para convertir esta área montañosa en un enorme parque de atracciones, pero no olvides que el presupuesto con el que cuentas es limitado.",
+   "fi-FI": "Sinulla on rajallisesti rahaa mutta rajattomasti aikaa muuntaa tämä vuoristomaisema laajaksi vuoristoratapuistoksi",
+   "fr-FR": "Vous disposez de peu de fonds mais d’un temps illimité pour transformer cette zone montagneuse en un parc de montagnes russes géant.",
+   "hu-HU": "Szűkösek a pénzügyi forrásaid, de végtelen sok időd van arra, hogy egy hatalmas vidámparkot alakíts ki ezen a hegyoldali területen",
+   "it-IT": "Hai fondi limitati ma un tempo illimitato per trasformare questa zona di montagna in un vasto parco di montagne russe",
+   "ko-KR": "이 산악 지대에 다양한 롤러코스터를 건설해보세요. 예산은 한정되어 있지만 시간은 제한이 없습니다.",
+   "nb-NO": "Du har begrensede midler, men ubegrenset tid, til å gjøre denne fjellsiden til en enorm berg-og-dal-bane-park",
+   "nl-NL": "Je hebt een beperkt budget om dit berggebied in een groot park vol achtbanen te veranderen, maar tijd speelt geen rol.",
+   "pl-PL": "Masz ograniczony budżet ale nie ogranicza Cię czas, aby zmienić to zbocze góry w ogromny park rozrywki",
+   "pt-BR": "Você tem fundos limitados, mas tempo ilimitado para transformar esta área montanhosa em um vasto parque de montanha-russa.",
+   "sv-SE": "Du har begränsade resurser men oändligt med tid att förvandla denna klippsida till en stor park med många berg- och dalbanor",
+   "tr-TR": "Bu dağlık bölgeyi geniş bir lunaparka dönüştürmek için sınırsız süreniz fakat sınırlı sermayeniz var",
+   "zh-CN": "用有限的金钱和无限的时间把这个山脚下的地区变成一个巨大的游乐园吧",
+   "zh-TW": "你擁有有限的金錢但無限的時間來將這個山區轉變成一個巨大的雲霄飛車樂園"
+  }
+ }
+}

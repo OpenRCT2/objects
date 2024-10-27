@@ -1,0 +1,74 @@
+{
+ "id": "rct2.scenario_text.build_your_own_six_flags_over_texas",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct2"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "قم ببناء الأعلام الستة الخاصة بولاية تكساس",
+   "ca-ES": "El vostre Six Flags over Texas",
+   "cs-CZ": "Postavte si svůj vlastní Six Flags over Texas",
+   "de-DE": "Bauen Sie Ihren eigenen Six Flags over Texas",
+   "en-GB": "Build your own Six Flags over Texas",
+   "eo-ZZ": "Konstrui je via propra Six Flags over Texas",
+   "es-ES": "Contruye tu propio Six Flags sobe Tejas",
+   "fi-FI": "Rakenna oma Six Flags yllä Teksasisi",
+   "fr-FR": "Construisez votre propre parc Six Flags au Texas",
+   "hu-HU": "Építsd meg a saját Six Flags over Texasodat",
+   "it-IT": "Costruisci il tuo Six Flags sul Texas",
+   "ja-JP": "自身のシックス・フラッグス・オバー・テキサス",
+   "ko-KR": "식스 플래그 오버 텍사스 건설",
+   "nb-NO": "Bygg din egen Six Flags over Texas",
+   "nl-NL": "Bouw je eigen Six Flags over Texas",
+   "pl-PL": "Wybuduj własny park “Six Flags over Texas”",
+   "pt-BR": "Construa seu próprio Six Flags no Texas",
+   "ru-RU": "Постройте свой парк Six Flags over Texas.",
+   "sv-SE": "Bygg ditt eget Six Flags över Texas",
+   "zh-CN": "建造你自己的 六旗降临得克萨斯游乐园",
+   "zh-TW": "在德州建造屬於你自己的六旗"
+  },
+  "park": {
+   "ar-EG": "الأعلام الستة الخاصة بولاية تكساس",
+   "en-GB": "Six Flags over Texas",
+   "es-ES": "Six Flags sobre Tejas",
+   "fi-FI": "Six Flags yllä Teksasin",
+   "fr-FR": "Six Flags au Texas",
+   "it-IT": "Six Flags sul Texas",
+   "ko-KR": "오버 텍사스",
+   "pt-BR": "Six Flags no Texas",
+   "sv-SE": "Six Flags över Texas",
+   "zh-CN": "六旗降临得克萨斯",
+   "zh-TW": "在德州的六旗"
+  },
+  "details": {
+   "ar-EG": "بدءاً من الصفر ، قم ببناء الرحلات في حديقة الأعلام الستة",
+   "ca-ES": "Començant des del principi, construïu atraccions en aquest parc Six Flags.",
+   "cs-CZ": "Postavte atrakce tohoto Six Flags zábavního parku na zelené louce",
+   "da-DK": "Start fra bunden, byg forlystelserne i denne Six Flags park",
+   "de-DE": "Sie fangen von vorne an, diesen Six-Flags-Park zu bauen",
+   "en-GB": "Starting from scratch, build the rides in this Six Flags park",
+   "eo-ZZ": "Komencante de nulo, konstruu la atrakciojn en ĉi tiu parko de Six Flags",
+   "es-ES": "Comenzando desde cero, construye las atracciones de este Six Flags tan caluroso.",
+   "fi-FI": "Aloittaen tyhjästä, rakenna kaikki tämän Six Flags -puiston laitteet",
+   "fr-FR": "Construisez toutes les attractions de ce parc Six Flags.",
+   "hu-HU": "A semmiből kiindulva építsd meg ebben a Six Flags parkban a játékokat",
+   "it-IT": "Cominciando da zero, costruisci tutte le attrazioni di questo parco Six Flags",
+   "ja-JP": "このテーマパークに自身のシックス・フラッグス・パークを作って下さい。",
+   "ko-KR": "이 식스 플래그 공원에 처음부터 놀이기구를 건설하여 시작해보세요.",
+   "nb-NO": "Bygg attraksjonene i denne Six Flags parken fra bunnen opp",
+   "nl-NL": "Maak je eigen versie van dit Six Flags-park.",
+   "pl-PL": "Wybuduj obiekty w tym parku “Six Flags”, zaczynając od samego początku",
+   "pt-BR": "Começando do zero, construa os brinquedos nesse parque Six Flags",
+   "ru-RU": "Постройте аттракционы в этом парке Six Flags.",
+   "sv-SE": "Börja från början, bygg attraktionerna på det här Six Flags-nöjesfältet",
+   "tr-TR": "Kendi Six Flags over Texas parkınızı inşa ediniz",
+   "zh-CN": "从零开始，建造这个六旗游乐园的游乐设施",
+   "zh-TW": "從頭開始做起,在六旗遊樂園內建造遊樂設施"
+  }
+ }
+}

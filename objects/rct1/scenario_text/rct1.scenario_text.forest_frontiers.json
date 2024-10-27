@@ -1,0 +1,64 @@
+{
+ "id": "rct1.scenario_text.forest_frontiers",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct1"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "حدود الغابات",
+   "ca-ES": "Les fronteres forestals",
+   "en-GB": "Forest Frontiers",
+   "eo-ZZ": "Arbaro-Limoj",
+   "es-ES": "Fronteras Forestales",
+   "fi-FI": "Metsämaan mekastus",
+   "fr-FR": "Frontières Forestières",
+   "hu-HU": "Elkerített Erdő",
+   "ja-JP": "フォレスト・フロンティア",
+   "pt-BR": "Fronteiras Florestais",
+   "uk-UA": "Лісові кордони",
+   "zh-CN": "森之边林"
+  },
+  "park": {
+   "ar-EG": "حدود الغابات",
+   "ca-ES": "Les fronteres forestals",
+   "en-GB": "Forest Frontiers",
+   "eo-ZZ": "Arbaro-Limoj",
+   "es-ES": "Fronteras Forestales",
+   "fi-FI": "Metsämaan mekastus",
+   "fr-FR": "Frontières Forestières",
+   "hu-HU": "Elkerített Erdő",
+   "ko-KR": "미개척된 숲",
+   "pt-BR": "Fronteiras Florestais",
+   "uk-UA": "Лісові кордони",
+   "zh-CN": "森之边林"
+  },
+  "details": {
+   "ar-EG": "عميقًا في الغابة، أبني حديقة مزدهرة في منطقة خالية كبيرة",
+   "ca-ES": "Construïu un parc pròsper a l’àrea que s’ha netejat ben endins del bosc.",
+   "da-DK": "Dybt inde i skoven, Byg en blomstrende forlystelsespark i et stort ryddet område",
+   "de-DE": "Bauen Sie tief im Wald auf einem großen freigelegten Gelände einen erfolgreichen Freizeitpark.",
+   "en-GB": "Deep in the forest, build a thriving theme park in a large cleared area",
+   "eo-ZZ": "En profunda arbaro, konstruu prosperan amuzparkon en granda vakigita areo",
+   "es-ES": "Construye un próspero parque temático en una amplia zona deforestada de un espeso bosque.",
+   "fi-FI": "Metsän syövereihin on raivattu laaja alue, johon voit rakentaa kukoistavan huvipuiston",
+   "fr-FR": "Au cœur de la forêt, construisez un parc à thème florissant dans une grande zone ouverte.",
+   "hu-HU": "Építs egy virágzó vidámparkot az erdő mélyén lévő nagy tisztáson",
+   "it-IT": "Costruisci un fiorente parco a tema in una zona disboscata all’interno della foresta",
+   "ko-KR": "깊은 숲 속 넓은 공터에 번창한 놀이공원을 건설하세요.",
+   "nb-NO": "Bygg en blomstrende fornøyelsespark i en stor lysning dypt inni skogen",
+   "nl-NL": "Bouw een bloeiend pretpark diep in het bos, op een grote open plek.",
+   "pl-PL": "W środku lasu zbuduj tętniący życiem park rozrywki korzystając z pustego kawałka terenu",
+   "pt-BR": "No meio da floresta, construa um próspero parque temático numa grande área aberta.",
+   "sv-SE": "Djupt inne i skogen ska du bygga en utgrenande nöjespark i en stor öppen glänta",
+   "tr-TR": "Ormanın içinde boş bir alanda güzel bir Lunapark inşa ediniz",
+   "uk-UA": "Глибоко в лісі побудуйте успішний тематичний парк на великій розчищеній території",
+   "zh-CN": "在隐藏于森林深处的空地中，建造一个繁荣的主题公园",
+   "zh-TW": "在隱藏於森林深處的清空範圍中, 建造一個很受歡迎的樂園"
+  }
+ }
+}

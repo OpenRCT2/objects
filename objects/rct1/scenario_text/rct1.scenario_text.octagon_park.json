@@ -1,0 +1,59 @@
+{
+ "id": "rct1.scenario_text.octagon_park",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct1"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ar-EG": "الحديقة الثمانية",
+   "ca-ES": "Parc octagonal",
+   "en-GB": "Octagon Park",
+   "eo-ZZ": "Okangulo-Parko",
+   "fi-FI": "Kahdeksankulmion puisto",
+   "fr-FR": "Parc Octogone",
+   "hu-HU": "Oktogon Park",
+   "ja-JP": "オクタゴン・パーク",
+   "pt-BR": "Parque Octogonal",
+   "zh-CN": "八角游乐园"
+  },
+  "park": {
+   "ar-EG": "الحديقة الثمانية",
+   "ca-ES": "Parc octagonal",
+   "en-GB": "Octagon Park",
+   "eo-ZZ": "Okangulo-Parko",
+   "fi-FI": "Kahdeksankulmion puisto",
+   "fr-FR": "Parc Octogone",
+   "hu-HU": "Oktogon Park",
+   "ko-KR": "팔각형 공원",
+   "pt-BR": "Parque Octogonal",
+   "zh-CN": "八角游乐园"
+  },
+  "details": {
+   "ar-EG": "في هذه الحديقة الكبيرة، يجب تصميم وبناء عشرة أفعوانيات كبيرة",
+   "ca-ES": "En aquest parc gran heu de dissenyar i construir 10 muntanyes russes grans.",
+   "da-DK": "I denne store park skal du designe og bygge ti store rutchebaner",
+   "de-DE": "In diesem weitläufigen Park sollen Sie zehn große Achterbahnen entwerfen und konstruieren.",
+   "en-GB": "In this large park you must design and build ten large coasters",
+   "eo-ZZ": "En ĉi tiu granda parko, vi devas desegni kaj konstrui dek grandajn ondajn fervojojn",
+   "es-ES": "En este gran parque debes diseñar y construir diez grandes montañas rusas.",
+   "fi-FI": "Sinun tulee suunnitella ja rakentaa kymmenen vuoristorataa tähän suureen puistoon",
+   "fr-FR": "Vous devez concevoir et construire dix montagnes russes dans ce vaste parc.",
+   "hu-HU": "Tíz hullámvasutat kell tervezned és építened ebben a nagy parkban",
+   "it-IT": "In questo grande parco è necessario progettare e costruire dieci montagne russe",
+   "ko-KR": "이 거대한 공원에 여러분은 10개의 거대한 롤러코스터를 디자인하고 만들어야 합니다.",
+   "nb-NO": "I denne store parken må du designe og bygge ti store berg-og-dal-baner",
+   "nl-NL": "In dit grote park moet je tien grote achtbanen ontwerpen en bouwen.",
+   "pl-PL": "W tym ogromnym parku musisz zaprojektować i zbudować wielkie kolejki",
+   "pt-BR": "Neste grande parque você deve projetar e construir dez grandes montanhas-russas.",
+   "sv-SE": "I denna stora park måste du designa och bygga tio berg- och dalbanor",
+   "tr-TR": "Bu büyük alanda on çeşitli hız treni inşa etmelisiniz",
+   "zh-CN": "在这个大公园里你需要设计建造十种大型过山车",
+   "zh-TW": "你需要在此大型樂園內建造十座雲霄飛車"
+  }
+ }
+}

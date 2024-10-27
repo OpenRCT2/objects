@@ -1,0 +1,56 @@
+{
+ "id": "rct1.scenario_text.geoffrey_gardens",
+ "authors": [
+  "Chris Sawyer"
+ ],
+ "version": "1.0",
+ "sourceGame": [
+  "rct1"
+ ],
+ "objectType": "scenario_text",
+ "strings": {
+  "name": {
+   "ca-ES": "Jardins Geoffrey",
+   "en-GB": "Geoffrey Gardens",
+   "eo-ZZ": "Geoffrey-Ĝardenoj",
+   "fi-FI": "Paten puutarha",
+   "fr-FR": "Jardins Geoffrey",
+   "hu-HU": "Geoffrey Kert",
+   "ja-JP": "ジェフリー・ガーデンズ",
+   "pt-BR": "Jardins Geoffrey",
+   "zh-CN": "杰弗里花园"
+  },
+  "park": {
+   "ca-ES": "Jardins Geoffrey",
+   "en-GB": "Geoffrey Gardens",
+   "eo-ZZ": "Geoffrey-Ĝardenoj",
+   "fi-FI": "Paten puutarha",
+   "fr-FR": "Jardins Geoffrey",
+   "hu-HU": "Geoffrey Kert",
+   "ko-KR": "제프리의 정원",
+   "pt-BR": "Jardins Geoffrey",
+   "zh-CN": "杰弗里花园"
+  },
+  "details": {
+   "ca-ES": "Un gran parc de jardins necessita reformar-se i convertir-se en un parc temàtic pròsper.",
+   "da-DK": "En stor have park skal forvandles til en blomstrende forlystelsespark",
+   "de-DE": "Eine große gepflegte Parkanlage soll in einen erfolgreichen Themenpark umgestaltet werden.",
+   "en-GB": "A large garden park needs turning into a thriving theme park",
+   "eo-ZZ": "Vi devas ŝanĝi grandan ĝardenoparkon al prospera amuzparko",
+   "es-ES": "Deberás convertir un gran parque con jardines en un próspero parque de atracciones.",
+   "fi-FI": "Valtava puutarha pitäisi muuntaa kukoistavaksi huvipuistoksi",
+   "fr-FR": "Un grand parc de jardins doit être transformé en parc à thème prospère.",
+   "hu-HU": "Egy nagy kertnek arra van szüksége, hogy sikeres vidámpark legyen belőle",
+   "it-IT": "Un grande parco giardino ha bisogno di trasformarsi in un fiorente parco a tema",
+   "ko-KR": "대규모의 정원 공원을 북적이는 놀이공원으로 바꿔야 합니다.",
+   "nb-NO": "En stor hagepark trenger å gjøres om til en blomstrende fornøyelsespark",
+   "nl-NL": "Een groot tuinpark moet worden veranderd in een bloeiend themapark.",
+   "pl-PL": "Wielki ogród wymaga przemiany w tętniący życiem park rozrywki",
+   "pt-BR": "Um grande parque de jardim precisa ser transformado em um próspero parque temático.",
+   "sv-SE": "En stor trädgård måste förvandlas till ett spännande nöjesfält",
+   "tr-TR": "Lunaparka dönüştürülmeyi bekleyen bir bahçe",
+   "zh-CN": "一个大型花园公园需要变成一个欣欣向荣的主题公园",
+   "zh-TW": "一個大型的賞花公園需要改造為一個壯大的主題樂園"
+  }
+ }
+}
