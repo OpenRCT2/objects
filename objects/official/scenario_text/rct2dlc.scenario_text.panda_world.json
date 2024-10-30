@@ -1,12 +1,10 @@
 {
-    "id": "rct2.scenario_text.panda_world",
+    "id": "rct2dlc.scenario_text.panda_world",
     "authors": [
         "Chris Sawyer"
     ],
     "version": "1.0",
-    "sourceGame": [
-        "rct2"
-    ],
+    "sourceGame": "official",
     "objectType": "scenario_text",
     "strings": {
         "name": {
