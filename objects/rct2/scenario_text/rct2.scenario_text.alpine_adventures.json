@@ -1,72 +1,72 @@
 {
- "id": "rct2.scenario_text.alpine_adventures",
- "authors": [
-  "Chris Sawyer"
- ],
- "version": "1.0",
- "originalId": "0A18808A|STEX17  |FEDC63A4",
- "sourceGame": [
-  "rct2"
- ],
- "objectType": "scenario_text",
- "strings": {
-  "name": {
-   "ar-EG": "مغامرات جبال الألب",
-   "ca-ES": "Aventures alpines",
-   "de-DE": "Bergabenteuer",
-   "en-GB": "Alpine Adventures",
-   "eo-ZZ": "Alpaj Aventuroj",
-   "fi-FI": "Alppiseikkailu",
-   "fr-FR": "Le Grand blanc",
-   "hu-HU": "Alpesi Kalandok",
-   "it-IT": "Avventure alpine",
-   "ja-JP": "高山アドベンチャー",
-   "ko-KR": "알프스의 모험",
-   "pt-BR": "Aventuras Alpinas",
-   "sv-SE": "Alpinäventyr",
-   "zh-CN": "阿尔卑斯历险记",
-   "zh-TW": "高山冒險"
-  },
-  "park": {
-   "ar-EG": "مغامرات جبال الألب",
-   "ca-ES": "Aventures alpines",
-   "de-DE": "Bergabenteuer",
-   "en-GB": "Alpine Adventures",
-   "eo-ZZ": "Alpaj Aventuroj",
-   "fi-FI": "Alppiseikkailu",
-   "fr-FR": "Le Grand blanc",
-   "hu-HU": "Alpesi Kalandok",
-   "it-IT": "Avventure alpine",
-   "ko-KR": "알프스의 모험",
-   "pt-BR": "Aventuras Alpinas",
-   "sv-SE": "Alpinäventyr",
-   "zh-CN": "阿尔卑斯历险记",
-   "zh-TW": "高山冒險"
-  },
-  "details": {
-   "ar-EG": "قم بتحويل منتجع تزلج جبلي صغير إلى متنزه ترفيهي ذا طابع ثلجي",
-   "ca-ES": "Convertiu una estació d’esquí en un parc d’atraccions cobert de neu.",
-   "cs-CZ": "Přestavte malý horský ski-resort na sněžný zábavní park",
-   "da-DK": "Konverter et lille bjerg ski ressort, til en park med sne som tema",
-   "de-DE": "Verwandeln Sie einen kleinen Bergskiort in einen Schnee-Themenpark",
-   "en-GB": "Convert a small mountain ski resort into a snow-themed amusement park",
-   "eo-ZZ": "Konvertu skiejon ĉe malgranda monto en neĝo-temitan amuzparkon",
-   "es-ES": "Convierte un pequeño centro de esquí en un parque temático en la nieve.",
-   "fi-FI": "Muunna pieni vuoriston hiihtokeskus lumiteemaiseksi huvipuistoksi",
-   "fr-FR": "Transformez une petite station de ski en parc d’attraction sur le thème de la neige.",
-   "hu-HU": "Alakíts át egy kis hegyi síközpontot havas témájú vidámparkká",
-   "it-IT": "Converti un piccolo rifugio d’alta quota in un parco dei divertimenti a tema nevoso",
-   "ja-JP": "山あいの小さなスキーリゾート地を、雪をテーマにした遊園地に造り替えてください",
-   "ko-KR": "작은 산악 스키 리조트를 눈 테마 놀이공원으로 바꿔보세요.",
-   "nb-NO": "Konverter en liten alpinbakke til en fornøyelsespark med snø-tema",
-   "nl-NL": "Maak van een klein skistation in de bergen een amusementspark met een sneeuwthema.",
-   "pl-PL": "Przekształć niewielki ośrodek narciarski w lunapark z wystrojem zimowym.",
-   "pt-BR": "Converta um pequeno resort de ski de montanha em um parque de diversões com tema de neve",
-   "ru-RU": "Превратите горнолыжный курорт в тематический парк развлечений.",
-   "sv-SE": "Förvandla en liten bergsskidort till en nöjespark med vintertema",
-   "tr-TR": "Küçük bir kayak merkezini başarılı bir lunaparka dönüştürünüz",
-   "zh-CN": "将一个小滑雪胜地转型为一个以冰雪为主题的游乐园",
-   "zh-TW": "將一座小型滑雪勝地的山區轉換成一座雪景主題趣味遊樂園"
-  }
- }
+    "id": "rct2.scenario_text.alpine_adventures",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "0A18808A|STEX17  |FEDC63A4",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "مغامرات جبال الألب",
+            "ca-ES": "Aventures alpines",
+            "de-DE": "Bergabenteuer",
+            "en-GB": "Alpine Adventures",
+            "eo-ZZ": "Alpaj Aventuroj",
+            "fi-FI": "Alppiseikkailu",
+            "fr-FR": "Le Grand blanc",
+            "hu-HU": "Alpesi Kalandok",
+            "it-IT": "Avventure alpine",
+            "ja-JP": "高山アドベンチャー",
+            "ko-KR": "알프스의 모험",
+            "pt-BR": "Aventuras Alpinas",
+            "sv-SE": "Alpinäventyr",
+            "zh-CN": "阿尔卑斯历险记",
+            "zh-TW": "高山冒險"
+        },
+        "park_name": {
+            "ar-EG": "مغامرات جبال الألب",
+            "ca-ES": "Aventures alpines",
+            "de-DE": "Bergabenteuer",
+            "en-GB": "Alpine Adventures",
+            "eo-ZZ": "Alpaj Aventuroj",
+            "fi-FI": "Alppiseikkailu",
+            "fr-FR": "Le Grand blanc",
+            "hu-HU": "Alpesi Kalandok",
+            "it-IT": "Avventure alpine",
+            "ko-KR": "알프스의 모험",
+            "pt-BR": "Aventuras Alpinas",
+            "sv-SE": "Alpinäventyr",
+            "zh-CN": "阿尔卑斯历险记",
+            "zh-TW": "高山冒險"
+        },
+        "details": {
+            "ar-EG": "قم بتحويل منتجع تزلج جبلي صغير إلى متنزه ترفيهي ذا طابع ثلجي",
+            "ca-ES": "Convertiu una estació d’esquí en un parc d’atraccions cobert de neu.",
+            "cs-CZ": "Přestavte malý horský ski-resort na sněžný zábavní park",
+            "da-DK": "Konverter et lille bjerg ski ressort, til en park med sne som tema",
+            "de-DE": "Verwandeln Sie einen kleinen Bergskiort in einen Schnee-Themenpark",
+            "en-GB": "Convert a small mountain ski resort into a snow-themed amusement park",
+            "eo-ZZ": "Konvertu skiejon ĉe malgranda monto en neĝo-temitan amuzparkon",
+            "es-ES": "Convierte un pequeño centro de esquí en un parque temático en la nieve.",
+            "fi-FI": "Muunna pieni vuoriston hiihtokeskus lumiteemaiseksi huvipuistoksi",
+            "fr-FR": "Transformez une petite station de ski en parc d’attraction sur le thème de la neige.",
+            "hu-HU": "Alakíts át egy kis hegyi síközpontot havas témájú vidámparkká",
+            "it-IT": "Converti un piccolo rifugio d’alta quota in un parco dei divertimenti a tema nevoso",
+            "ja-JP": "山あいの小さなスキーリゾート地を、雪をテーマにした遊園地に造り替えてください",
+            "ko-KR": "작은 산악 스키 리조트를 눈 테마 놀이공원으로 바꿔보세요.",
+            "nb-NO": "Konverter en liten alpinbakke til en fornøyelsespark med snø-tema",
+            "nl-NL": "Maak van een klein skistation in de bergen een amusementspark met een sneeuwthema.",
+            "pl-PL": "Przekształć niewielki ośrodek narciarski w lunapark z wystrojem zimowym.",
+            "pt-BR": "Converta um pequeno resort de ski de montanha em um parque de diversões com tema de neve",
+            "ru-RU": "Превратите горнолыжный курорт в тематический парк развлечений.",
+            "sv-SE": "Förvandla en liten bergsskidort till en nöjespark med vintertema",
+            "tr-TR": "Küçük bir kayak merkezini başarılı bir lunaparka dönüştürünüz",
+            "zh-CN": "将一个小滑雪胜地转型为一个以冰雪为主题的游乐园",
+            "zh-TW": "將一座小型滑雪勝地的山區轉換成一座雪景主題趣味遊樂園"
+        }
+    }
 }

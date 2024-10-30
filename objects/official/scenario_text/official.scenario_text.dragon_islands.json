@@ -1,61 +1,61 @@
 {
- "id": "official.scenario_text.dragon_islands",
- "authors": [
-  "Chris Sawyer"
- ],
- "version": "1.0",
- "sourceGame": [
-  "official"
- ],
- "objectType": "scenario_text",
- "strings": {
-  "name": {
-   "ar-EG": "جزر التنين",
-   "ca-ES": "Arxipèlag del Drac",
-   "de-DE": "Dracheninseln",
-   "en-GB": "Dragon Islands",
-   "eo-ZZ": "Drakaj Insuloj",
-   "es-ES": "Archipiélago Dragon",
-   "fi-FI": "Lohikäärmesaaret",
-   "fr-FR": "Archipel du dragon",
-   "hu-HU": "Sárkány-szigetek",
-   "pt-BR": "Ilhas do Dragão",
-   "uk-UA": "Острови Драконів",
-   "zh-CN": "龙之岛"
-  },
-  "park": {
-   "ar-EG": "جزر التنين",
-   "ca-ES": "Arxipèlag del Drac",
-   "de-DE": "Dracheninseln",
-   "en-GB": "Dragon Islands",
-   "eo-ZZ": "Drakaj Insuloj",
-   "es-ES": "Archipiélago Dragon",
-   "fi-FI": "Lohikäärmesaaret",
-   "fr-FR": "Archipel du dragon",
-   "hu-HU": "Sárkány-szigetek",
-   "ko-KR": "용의 섬",
-   "pt-BR": "Ilhas do Dragão",
-   "uk-UA": "Острови Драконів",
-   "zh-CN": "龙之岛"
-  },
-  "details": {
-   "ar-EG": "جزر التنين? لست متأكدًا من أنني أريد الذهاب إلى هناك…{NEWLINE}المؤلف: Fossil",
-   "ca-ES": "Illes del Drac? No estic segur que hi vulgui anar…{NEWLINE}Autor: Fossil",
-   "da-DK": "Drageøen? Jeg er ikke sikker på at jeg vil derhen…{NEWLINE}Forfatter: Fossil",
-   "de-DE": "Dracheninseln? Ich bin mir nicht sicher, wie man da hinkommt …{NEWLINE}Autor: Fossil",
-   "en-GB": "Dragon Islands? I’m not sure I want to go there…{NEWLINE}Author: Fossil",
-   "eo-ZZ": "Ĉu Drakaj Insuloj? Mi ne estas certa, ke mi volas iri tien…{NEWLINE}Aŭtoro: Fossil",
-   "es-ES": "¿Archipiélago Dragon? No estoy seguro de querer ir ahí…{NEWLINE}Autor: Fossil",
-   "fi-FI": "Lohikäärmesaaret? En ole varma, haluanko mennä sinne…{NEWLINE}Tekijä: Fossil",
-   "fr-FR": "Archipel du dragon ? Je ne suis pas sûr de vouloir y aller…{NEWLINE}Par : Fossil",
-   "hu-HU": "Sárkány-szigetek? Nem biztos, hogy oda akarok menni…{NEWLINE}Szerző: Fossil",
-   "it-IT": "L’isola dei dragoni? Non sono sicuro di volerci andare…{NEWLINE}Autore: Fossil",
-   "ko-KR": "용의 섬이라고? 거기 가고 싶은지 확신이 안 서는 걸…{NEWLINE}제작자: Fossil",
-   "nb-NO": "Drageøyene? Jeg er ikke sikker på om jeg vil dra dit…{NEWLINE}Forfatter: Fossil",
-   "nl-NL": "Dragon Islands? Dat klinkt niet erg veilig…{NEWLINE}Gemaakt door: Fossil",
-   "pt-BR": "Ilhas do Dragão? Não tenho certeza se quero ir lá…{NEWLINE}Autor: Fossil",
-   "uk-UA": "Острови Драконів? Я не дуже хочу туди.…{NEWLINE}Автор: Fossil",
-   "zh-CN": "龙之岛？我可不确定我会想去那……{NEWLINE}作者：Fossil"
-  }
- }
+    "id": "official.scenario_text.dragon_islands",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "official"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "جزر التنين",
+            "ca-ES": "Arxipèlag del Drac",
+            "de-DE": "Dracheninseln",
+            "en-GB": "Dragon Islands",
+            "eo-ZZ": "Drakaj Insuloj",
+            "es-ES": "Archipiélago Dragon",
+            "fi-FI": "Lohikäärmesaaret",
+            "fr-FR": "Archipel du dragon",
+            "hu-HU": "Sárkány-szigetek",
+            "pt-BR": "Ilhas do Dragão",
+            "uk-UA": "Острови Драконів",
+            "zh-CN": "龙之岛"
+        },
+        "park_name": {
+            "ar-EG": "جزر التنين",
+            "ca-ES": "Arxipèlag del Drac",
+            "de-DE": "Dracheninseln",
+            "en-GB": "Dragon Islands",
+            "eo-ZZ": "Drakaj Insuloj",
+            "es-ES": "Archipiélago Dragon",
+            "fi-FI": "Lohikäärmesaaret",
+            "fr-FR": "Archipel du dragon",
+            "hu-HU": "Sárkány-szigetek",
+            "ko-KR": "용의 섬",
+            "pt-BR": "Ilhas do Dragão",
+            "uk-UA": "Острови Драконів",
+            "zh-CN": "龙之岛"
+        },
+        "details": {
+            "ar-EG": "جزر التنين? لست متأكدًا من أنني أريد الذهاب إلى هناك…{NEWLINE}المؤلف: Fossil",
+            "ca-ES": "Illes del Drac? No estic segur que hi vulgui anar…{NEWLINE}Autor: Fossil",
+            "da-DK": "Drageøen? Jeg er ikke sikker på at jeg vil derhen…{NEWLINE}Forfatter: Fossil",
+            "de-DE": "Dracheninseln? Ich bin mir nicht sicher, wie man da hinkommt …{NEWLINE}Autor: Fossil",
+            "en-GB": "Dragon Islands? I’m not sure I want to go there…{NEWLINE}Author: Fossil",
+            "eo-ZZ": "Ĉu Drakaj Insuloj? Mi ne estas certa, ke mi volas iri tien…{NEWLINE}Aŭtoro: Fossil",
+            "es-ES": "¿Archipiélago Dragon? No estoy seguro de querer ir ahí…{NEWLINE}Autor: Fossil",
+            "fi-FI": "Lohikäärmesaaret? En ole varma, haluanko mennä sinne…{NEWLINE}Tekijä: Fossil",
+            "fr-FR": "Archipel du dragon ? Je ne suis pas sûr de vouloir y aller…{NEWLINE}Par : Fossil",
+            "hu-HU": "Sárkány-szigetek? Nem biztos, hogy oda akarok menni…{NEWLINE}Szerző: Fossil",
+            "it-IT": "L’isola dei dragoni? Non sono sicuro di volerci andare…{NEWLINE}Autore: Fossil",
+            "ko-KR": "용의 섬이라고? 거기 가고 싶은지 확신이 안 서는 걸…{NEWLINE}제작자: Fossil",
+            "nb-NO": "Drageøyene? Jeg er ikke sikker på om jeg vil dra dit…{NEWLINE}Forfatter: Fossil",
+            "nl-NL": "Dragon Islands? Dat klinkt niet erg veilig…{NEWLINE}Gemaakt door: Fossil",
+            "pt-BR": "Ilhas do Dragão? Não tenho certeza se quero ir lá…{NEWLINE}Autor: Fossil",
+            "uk-UA": "Острови Драконів? Я не дуже хочу туди.…{NEWLINE}Автор: Fossil",
+            "zh-CN": "龙之岛？我可不确定我会想去那……{NEWLINE}作者：Fossil"
+        }
+    }
 }

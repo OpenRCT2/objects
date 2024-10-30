@@ -1,56 +1,56 @@
 {
- "id": "rct1.scenario_text.pickle_park",
- "authors": [
-  "Chris Sawyer"
- ],
- "version": "1.0",
- "sourceGame": [
-  "rct1"
- ],
- "objectType": "scenario_text",
- "strings": {
-  "name": {
-   "ca-ES": "Parc dels cogombrets",
-   "en-GB": "Pickle Park",
-   "eo-ZZ": "Peklaĵo-Parko",
-   "fi-FI": "Pikkelssipuisto",
-   "fr-FR": "Parc Pétrin",
-   "hu-HU": "Pác Park",
-   "ja-JP": "ピクル・パーク",
-   "pt-BR": "Parque dos Picles",
-   "zh-CN": "腌黄瓜公园"
-  },
-  "park": {
-   "ca-ES": "Parc dels cogombrets",
-   "en-GB": "Pickle Park",
-   "eo-ZZ": "Peklaĵo-Parko",
-   "fi-FI": "Pikkelssipuisto",
-   "fr-FR": "Parc Pétrin",
-   "hu-HU": "Pác Park",
-   "ko-KR": "피클 공원",
-   "pt-BR": "Parque dos Picles",
-   "zh-CN": "腌黄瓜公园"
-  },
-  "details": {
-   "ca-ES": "L’autoritat local no permetrà campanyes de màrqueting. El parc haurà d’aconseguir tirar endavant només amb la seva reputació.",
-   "da-DK": "De lokale myndigheder vil ikke tillade nogen form for reklame eller forfremmelse, så denne forlystelsespark skal lykkes udelukkende på omdømme",
-   "de-DE": "Die strengen örtlichen Ämter erlauben keinerlei Werbung oder Propaganda. Dieser Park kann also nur durch seinen Ruf zum Erfolg gelangen.",
-   "en-GB": "The local authority will not allow any kind of advertising or promotion, so this park must succeed by reputation only",
-   "eo-ZZ": "La loka aŭtoritato ne permesos ian ajn reklamadon aŭ kampanjojn de vendado, do ĉi tiu parko devas sukcesi nur per reputacio.",
-   "es-ES": "Las autoridades locales prohíben todo tipo de publicidad o propaganda de este parque, de modo que este deberá salir adelante por si mismo.",
-   "fi-FI": "Paikallisviranomaiset eivät suostu minkäänlaiseen markkinointiin tai mainontaan, joten tämän puiston on menestyttävä pelkällä maineella",
-   "fr-FR": "Les autorités locales interdisent tout type de publicité ou promotion, vous devez donc essayer de faire marcher ce parc par le bouche à oreille uniquement.",
-   "hu-HU": "A helyi önkormányzat nem engedélyez semmiféle reklámot vagy promóciót, úgyhogy a parknak kizárólag a jó hírnevére alapozva kell sikereket elérnie",
-   "it-IT": "L’autorità locale non permetterà alcun tipo di pubblicità o promozione, quindi questo parco deve avere successo solo per la reputazione",
-   "ko-KR": "지역 당국이 광고나 홍보를 불허했기 때문에 이 공원은 사람들의 입을 통해서만 알릴 수 있습니다.",
-   "nb-NO": "De lokale myndighetene tillater ikke reklame så denne parken må overleve på ryktet alene",
-   "nl-NL": "De gemeenteraad staat geen enkele vorm van adverteren toe, dus dit park kan enkel slagen op basis van zijn reputatie.",
-   "pl-PL": "Lokalne władze nie zgodzą się na żadne promocje lub reklamy, dlatego sukces musi być oparty tylko na reputacji",
-   "pt-BR": "A autoridade local não permite qualquer tipo de campanha publicitária ou promoções, então este parque deve ser um sucesso só pela reputação.",
-   "sv-SE": "De lokala myndigheterna tillåter ingen reklam eller marknadsföring, så denna park måste klara sig på sitt rykte",
-   "tr-TR": "Yerel makamlar tarafından pazarlama kampanyaları yasaklanmış. Parkın şöhreti ile müşteri sayısını yükseltmeye çalışınız",
-   "zh-CN": "地方政府不允许任何形式的广告或促销，所以这个公园必须靠声誉才能赢得成功。",
-   "zh-TW": "當地政府並不准許任何營銷活動, 所以這個樂園必須要以名譽來達至成功"
-  }
- }
+    "id": "rct1.scenario_text.pickle_park",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ca-ES": "Parc dels cogombrets",
+            "en-GB": "Pickle Park",
+            "eo-ZZ": "Peklaĵo-Parko",
+            "fi-FI": "Pikkelssipuisto",
+            "fr-FR": "Parc Pétrin",
+            "hu-HU": "Pác Park",
+            "ja-JP": "ピクル・パーク",
+            "pt-BR": "Parque dos Picles",
+            "zh-CN": "腌黄瓜公园"
+        },
+        "park_name": {
+            "ca-ES": "Parc dels cogombrets",
+            "en-GB": "Pickle Park",
+            "eo-ZZ": "Peklaĵo-Parko",
+            "fi-FI": "Pikkelssipuisto",
+            "fr-FR": "Parc Pétrin",
+            "hu-HU": "Pác Park",
+            "ko-KR": "피클 공원",
+            "pt-BR": "Parque dos Picles",
+            "zh-CN": "腌黄瓜公园"
+        },
+        "details": {
+            "ca-ES": "L’autoritat local no permetrà campanyes de màrqueting. El parc haurà d’aconseguir tirar endavant només amb la seva reputació.",
+            "da-DK": "De lokale myndigheder vil ikke tillade nogen form for reklame eller forfremmelse, så denne forlystelsespark skal lykkes udelukkende på omdømme",
+            "de-DE": "Die strengen örtlichen Ämter erlauben keinerlei Werbung oder Propaganda. Dieser Park kann also nur durch seinen Ruf zum Erfolg gelangen.",
+            "en-GB": "The local authority will not allow any kind of advertising or promotion, so this park must succeed by reputation only",
+            "eo-ZZ": "La loka aŭtoritato ne permesos ian ajn reklamadon aŭ kampanjojn de vendado, do ĉi tiu parko devas sukcesi nur per reputacio.",
+            "es-ES": "Las autoridades locales prohíben todo tipo de publicidad o propaganda de este parque, de modo que este deberá salir adelante por si mismo.",
+            "fi-FI": "Paikallisviranomaiset eivät suostu minkäänlaiseen markkinointiin tai mainontaan, joten tämän puiston on menestyttävä pelkällä maineella",
+            "fr-FR": "Les autorités locales interdisent tout type de publicité ou promotion, vous devez donc essayer de faire marcher ce parc par le bouche à oreille uniquement.",
+            "hu-HU": "A helyi önkormányzat nem engedélyez semmiféle reklámot vagy promóciót, úgyhogy a parknak kizárólag a jó hírnevére alapozva kell sikereket elérnie",
+            "it-IT": "L’autorità locale non permetterà alcun tipo di pubblicità o promozione, quindi questo parco deve avere successo solo per la reputazione",
+            "ko-KR": "지역 당국이 광고나 홍보를 불허했기 때문에 이 공원은 사람들의 입을 통해서만 알릴 수 있습니다.",
+            "nb-NO": "De lokale myndighetene tillater ikke reklame så denne parken må overleve på ryktet alene",
+            "nl-NL": "De gemeenteraad staat geen enkele vorm van adverteren toe, dus dit park kan enkel slagen op basis van zijn reputatie.",
+            "pl-PL": "Lokalne władze nie zgodzą się na żadne promocje lub reklamy, dlatego sukces musi być oparty tylko na reputacji",
+            "pt-BR": "A autoridade local não permite qualquer tipo de campanha publicitária ou promoções, então este parque deve ser um sucesso só pela reputação.",
+            "sv-SE": "De lokala myndigheterna tillåter ingen reklam eller marknadsföring, så denna park måste klara sig på sitt rykte",
+            "tr-TR": "Yerel makamlar tarafından pazarlama kampanyaları yasaklanmış. Parkın şöhreti ile müşteri sayısını yükseltmeye çalışınız",
+            "zh-CN": "地方政府不允许任何形式的广告或促销，所以这个公园必须靠声誉才能赢得成功。",
+            "zh-TW": "當地政府並不准許任何營銷活動, 所以這個樂園必須要以名譽來達至成功"
+        }
+    }
 }

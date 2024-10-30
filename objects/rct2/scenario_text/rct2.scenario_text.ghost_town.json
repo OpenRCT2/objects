@@ -1,71 +1,71 @@
 {
- "id": "rct2.scenario_text.ghost_town",
- "authors": [
-  "Chris Sawyer"
- ],
- "version": "1.0",
- "originalId": "0A18808A|STEX15  |DA4D9B7D",
- "sourceGame": [
-  "rct2"
- ],
- "objectType": "scenario_text",
- "strings": {
-  "name": {
-   "ca-ES": "El poble fantasma",
-   "de-DE": "Geisterstadt",
-   "en-GB": "Ghost Town",
-   "eo-ZZ": "Fantoma Urbeto",
-   "es-ES": "Pueblo Fantasma",
-   "fi-FI": "Aavekaupunki",
-   "fr-FR": "La Ville fantôme",
-   "hu-HU": "Szellemváros",
-   "it-IT": "Città fantasma",
-   "ja-JP": "ゴーストタウン",
-   "ko-KR": "유령 도시",
-   "pt-BR": "Cidade Fantasma",
-   "sv-SE": "Spökstad",
-   "zh-CN": "鬼城",
-   "zh-TW": "鬼城"
-  },
-  "park": {
-   "ca-ES": "El poble fantasma",
-   "de-DE": "Geisterstadt",
-   "en-GB": "Ghost Town",
-   "eo-ZZ": "Fantoma Urbeto",
-   "es-ES": "Pueblo Fantasma",
-   "fi-FI": "Aavekaupunki",
-   "fr-FR": "La Ville fantôme",
-   "hu-HU": "Szellemváros",
-   "it-IT": "Città fantasma",
-   "ko-KR": "유령 도시",
-   "pt-BR": "Cidade Fantasma",
-   "sv-SE": "Spökstad",
-   "zh-CN": "鬼城",
-   "zh-TW": "鬼城"
-  },
-  "details": {
-   "ca-ES": "Contractat per una cadena de parcs temàtics gran, la vostra tasca consisteix en construir-los una muntanya russa gegant al voltant d’un poble miner abandonat.",
-   "cs-CZ": "Velký řetěze zábavních parků si vás najal, abyste postavili obrovský zábavní park plný horských drah v okolí opuštěného důlního městečka",
-   "da-DK": "Hyret af en stor forlystelsespark kæde, din opgave er at bygge dem en kæmpe rutschebane park omkring en forladt mineby",
-   "de-DE": "Sie wurden von einer großen Vergnügungsparkkette angeheuert und müssen für sie einen riesigen Achterbahnpark rings um eine verlassene Minenstadt bauen",
-   "en-GB": "Hired by a large amusement park chain, your task is to build them a giant roller coaster park around an abandoned mining town",
-   "eo-ZZ": "Dungita de granda amuzparkofirmo, via celo estas konstrui por ĝi gigantan amuzparkon de ondaj fervojoj ĉe forlasita minurbeto",
-   "es-ES": "Constratado por una gran cadena de parque de atracciones, tu tarea será construir para ellos un gigantesco parque alrededor de una ciudad minera abandonada.",
-   "fi-FI": "Suuren huvipuistoketjun palkkaamana sinun tehtävänäsi on rakentaa heille mittava vuoristoratapuisto hylätyn kaivoskylän ympärille",
-   "fr-FR": "En tant que nouvel employé d’une grande chaîne de parcs d’attraction, vous devez construire un parc de montagnes russes géantes autour d’une ville minière abandonnée.",
-   "hu-HU": "Egy nagy vidámparklánc felbérelt, hogy építs nekik óriási hullámvasútparkot egy elhagyatott bányászváros köré",
-   "it-IT": "Sei stato assunto da una grande catena di parchi di divertimento per costruire un parco con ottovolanti giganti intorno a una città abbandonata vicino a una miniera",
-   "ja-JP": "大遊園地チェーンに雇われたあなたは、この古ぼけた鉱山の町の周りに巨大ローラーコースター遊園地を造らなければなりません",
-   "ko-KR": "대형 놀이공원 회사에 고용된 당신의 임무는 버려진 광산촌 주위에 대형 롤러코스터 공원을 건설하는 것입니다.",
-   "nb-NO": "Ansatt av en stor fornøyelsespark-kjede, er din oppgave å bygge en enorm berg-og-dal-banepark for dem rundt en forlatt gruvelandsby",
-   "nl-NL": "Je bent aangenomen door een grote keten van amusementsparken. Het is je taak een gigantisch park met achtbanen te bouwen rond een verlaten mijnstadje.",
-   "pl-PL": "Otrzymujesz zlecenie od sieci lunaparków na wybudowanie wielkiego parku kolejek górskich wokół opuszczonego miasteczka górniczego.",
-   "pt-BR": "Contratado por uma grande cadeia de parques de diversões, sua tarefa é construir para eles um grande parque de montanha-russa em volta de uma cidade mineira abandonada",
-   "ru-RU": "Ваша задача - построить гигантский парк американских горок вокруг заброшенного шахтерского городка.",
-   "sv-SE": "Som anställd av en stor nöjesparkskedja, är det din uppgift att bygga en jätteberg- och dalbana runt en övergiven gruvstad",
-   "tr-TR": "Bir büyük lunapark zinciri tarafından bu terk edilmiş maden kasabasına lunapark inşa etmeniz istendi",
-   "zh-CN": "由一个大型的娱乐公园开始，你的任务是在一个废弃的采矿镇周围建造一个巨大的过山车游乐园",
-   "zh-TW": "你被一座超大的遊樂園所僱用,你的任務是在被遺棄的礦業城鎮將它建造成一座大型的雲霄飛車遊樂園"
-  }
- }
+    "id": "rct2.scenario_text.ghost_town",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "0A18808A|STEX15  |DA4D9B7D",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ca-ES": "El poble fantasma",
+            "de-DE": "Geisterstadt",
+            "en-GB": "Ghost Town",
+            "eo-ZZ": "Fantoma Urbeto",
+            "es-ES": "Pueblo Fantasma",
+            "fi-FI": "Aavekaupunki",
+            "fr-FR": "La Ville fantôme",
+            "hu-HU": "Szellemváros",
+            "it-IT": "Città fantasma",
+            "ja-JP": "ゴーストタウン",
+            "ko-KR": "유령 도시",
+            "pt-BR": "Cidade Fantasma",
+            "sv-SE": "Spökstad",
+            "zh-CN": "鬼城",
+            "zh-TW": "鬼城"
+        },
+        "park_name": {
+            "ca-ES": "El poble fantasma",
+            "de-DE": "Geisterstadt",
+            "en-GB": "Ghost Town",
+            "eo-ZZ": "Fantoma Urbeto",
+            "es-ES": "Pueblo Fantasma",
+            "fi-FI": "Aavekaupunki",
+            "fr-FR": "La Ville fantôme",
+            "hu-HU": "Szellemváros",
+            "it-IT": "Città fantasma",
+            "ko-KR": "유령 도시",
+            "pt-BR": "Cidade Fantasma",
+            "sv-SE": "Spökstad",
+            "zh-CN": "鬼城",
+            "zh-TW": "鬼城"
+        },
+        "details": {
+            "ca-ES": "Contractat per una cadena de parcs temàtics gran, la vostra tasca consisteix en construir-los una muntanya russa gegant al voltant d’un poble miner abandonat.",
+            "cs-CZ": "Velký řetěze zábavních parků si vás najal, abyste postavili obrovský zábavní park plný horských drah v okolí opuštěného důlního městečka",
+            "da-DK": "Hyret af en stor forlystelsespark kæde, din opgave er at bygge dem en kæmpe rutschebane park omkring en forladt mineby",
+            "de-DE": "Sie wurden von einer großen Vergnügungsparkkette angeheuert und müssen für sie einen riesigen Achterbahnpark rings um eine verlassene Minenstadt bauen",
+            "en-GB": "Hired by a large amusement park chain, your task is to build them a giant roller coaster park around an abandoned mining town",
+            "eo-ZZ": "Dungita de granda amuzparkofirmo, via celo estas konstrui por ĝi gigantan amuzparkon de ondaj fervojoj ĉe forlasita minurbeto",
+            "es-ES": "Constratado por una gran cadena de parque de atracciones, tu tarea será construir para ellos un gigantesco parque alrededor de una ciudad minera abandonada.",
+            "fi-FI": "Suuren huvipuistoketjun palkkaamana sinun tehtävänäsi on rakentaa heille mittava vuoristoratapuisto hylätyn kaivoskylän ympärille",
+            "fr-FR": "En tant que nouvel employé d’une grande chaîne de parcs d’attraction, vous devez construire un parc de montagnes russes géantes autour d’une ville minière abandonnée.",
+            "hu-HU": "Egy nagy vidámparklánc felbérelt, hogy építs nekik óriási hullámvasútparkot egy elhagyatott bányászváros köré",
+            "it-IT": "Sei stato assunto da una grande catena di parchi di divertimento per costruire un parco con ottovolanti giganti intorno a una città abbandonata vicino a una miniera",
+            "ja-JP": "大遊園地チェーンに雇われたあなたは、この古ぼけた鉱山の町の周りに巨大ローラーコースター遊園地を造らなければなりません",
+            "ko-KR": "대형 놀이공원 회사에 고용된 당신의 임무는 버려진 광산촌 주위에 대형 롤러코스터 공원을 건설하는 것입니다.",
+            "nb-NO": "Ansatt av en stor fornøyelsespark-kjede, er din oppgave å bygge en enorm berg-og-dal-banepark for dem rundt en forlatt gruvelandsby",
+            "nl-NL": "Je bent aangenomen door een grote keten van amusementsparken. Het is je taak een gigantisch park met achtbanen te bouwen rond een verlaten mijnstadje.",
+            "pl-PL": "Otrzymujesz zlecenie od sieci lunaparków na wybudowanie wielkiego parku kolejek górskich wokół opuszczonego miasteczka górniczego.",
+            "pt-BR": "Contratado por uma grande cadeia de parques de diversões, sua tarefa é construir para eles um grande parque de montanha-russa em volta de uma cidade mineira abandonada",
+            "ru-RU": "Ваша задача - построить гигантский парк американских горок вокруг заброшенного шахтерского городка.",
+            "sv-SE": "Som anställd av en stor nöjesparkskedja, är det din uppgift att bygga en jätteberg- och dalbana runt en övergiven gruvstad",
+            "tr-TR": "Bir büyük lunapark zinciri tarafından bu terk edilmiş maden kasabasına lunapark inşa etmeniz istendi",
+            "zh-CN": "由一个大型的娱乐公园开始，你的任务是在一个废弃的采矿镇周围建造一个巨大的过山车游乐园",
+            "zh-TW": "你被一座超大的遊樂園所僱用,你的任務是在被遺棄的礦業城鎮將它建造成一座大型的雲霄飛車遊樂園"
+        }
+    }
 }

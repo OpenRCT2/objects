@@ -1,56 +1,56 @@
 {
- "id": "rct1.scenario_text.sprightly_park",
- "authors": [
-  "Chris Sawyer"
- ],
- "version": "1.0",
- "sourceGame": [
-  "rct1"
- ],
- "objectType": "scenario_text",
- "strings": {
-  "name": {
-   "ca-ES": "El parc alegre",
-   "en-GB": "Sprightly Park",
-   "eo-ZZ": "Vigla Parko",
-   "fi-FI": "Pirteä puisto",
-   "fr-FR": "Parc Pétillant",
-   "hu-HU": "Pezsgő Park",
-   "ja-JP": "スポライトリー・パーク",
-   "pt-BR": "Parque Animado",
-   "zh-CN": "活泼公园"
-  },
-  "park": {
-   "ca-ES": "El parc alegre",
-   "en-GB": "Sprightly Park",
-   "eo-ZZ": "Vigla Parko",
-   "fi-FI": "Pirteä puisto",
-   "fr-FR": "Parc Pétillant",
-   "hu-HU": "Pezsgő Park",
-   "ko-KR": "활기 넘치는 공원",
-   "pt-BR": "Parque Animado",
-   "zh-CN": "活泼公园"
-  },
-  "details": {
-   "ca-ES": "Aquest parc envellit té moltes atraccions històriques però està massa endeutat.",
-   "da-DK": "Denne aldrene Park har mange historiske forlystelser, men er forgældet",
-   "de-DE": "Dieser ältere Park besitzt viele historisch interessante Attraktionen, ist aber hoch verschuldet.",
-   "en-GB": "This elderly park has many historical rides but is badly in debt",
-   "eo-ZZ": "Ĉi tiu malnova parko havas multajn historiajn atrakciojn, sed ankaŭ dronas en ŝuldoj",
-   "es-ES": "Este antiguo parque cuenta con numerosas atracciones históricas, pero en la actualidad se encuentra en quiebra.",
-   "fi-FI": "Tässä puistovanhuksessa on monta historiallista laitetta, mutta on pahasti velkakierteessä",
-   "fr-FR": "Ce parc assez ancien comporte de nombreuses attractions historiques mais est très endetté.",
-   "hu-HU": "Ez az idős park számos történelmi játékkal rendelkezik, de súlyosan el van adósodva",
-   "it-IT": "Questo vecchio parco ha molte attrazioni storiche ma è in crisi finanziaria",
-   "ko-KR": "이 오래된 공원에는 아주 역사적인 놀이기구가 많이 있지만 심각한 적자에 시달리고 있습니다.",
-   "nb-NO": "Denne eldre parken har har flere historiske attraksjoner, men er i dyp gjeld",
-   "nl-NL": "Dit oude park heeft veel historische attracties maar ook grote schulden.",
-   "pl-PL": "Ten wiekowy park posiada wiele historycznych atrakcji, jednak jest bardzo zadłużony",
-   "pt-BR": "Este parque ancião tem muitas atrações históricas, mas está muito endividado.",
-   "sv-SE": "Denna åldrande park har mycket historia, men är också djupt skuldsatt",
-   "tr-TR": "Tarihi aletlete sahip olan bu lunapark aşırı derecede borçlanmış",
-   "zh-CN": "这个古老的公园有许多历史悠久的游乐设施，但负债累累",
-   "zh-TW": "這個古舊的樂園擁有很多具歷史性的遊樂設施, 但它欠債纍纍"
-  }
- }
+    "id": "rct1.scenario_text.sprightly_park",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ca-ES": "El parc alegre",
+            "en-GB": "Sprightly Park",
+            "eo-ZZ": "Vigla Parko",
+            "fi-FI": "Pirteä puisto",
+            "fr-FR": "Parc Pétillant",
+            "hu-HU": "Pezsgő Park",
+            "ja-JP": "スポライトリー・パーク",
+            "pt-BR": "Parque Animado",
+            "zh-CN": "活泼公园"
+        },
+        "park_name": {
+            "ca-ES": "El parc alegre",
+            "en-GB": "Sprightly Park",
+            "eo-ZZ": "Vigla Parko",
+            "fi-FI": "Pirteä puisto",
+            "fr-FR": "Parc Pétillant",
+            "hu-HU": "Pezsgő Park",
+            "ko-KR": "활기 넘치는 공원",
+            "pt-BR": "Parque Animado",
+            "zh-CN": "活泼公园"
+        },
+        "details": {
+            "ca-ES": "Aquest parc envellit té moltes atraccions històriques però està massa endeutat.",
+            "da-DK": "Denne aldrene Park har mange historiske forlystelser, men er forgældet",
+            "de-DE": "Dieser ältere Park besitzt viele historisch interessante Attraktionen, ist aber hoch verschuldet.",
+            "en-GB": "This elderly park has many historical rides but is badly in debt",
+            "eo-ZZ": "Ĉi tiu malnova parko havas multajn historiajn atrakciojn, sed ankaŭ dronas en ŝuldoj",
+            "es-ES": "Este antiguo parque cuenta con numerosas atracciones históricas, pero en la actualidad se encuentra en quiebra.",
+            "fi-FI": "Tässä puistovanhuksessa on monta historiallista laitetta, mutta on pahasti velkakierteessä",
+            "fr-FR": "Ce parc assez ancien comporte de nombreuses attractions historiques mais est très endetté.",
+            "hu-HU": "Ez az idős park számos történelmi játékkal rendelkezik, de súlyosan el van adósodva",
+            "it-IT": "Questo vecchio parco ha molte attrazioni storiche ma è in crisi finanziaria",
+            "ko-KR": "이 오래된 공원에는 아주 역사적인 놀이기구가 많이 있지만 심각한 적자에 시달리고 있습니다.",
+            "nb-NO": "Denne eldre parken har har flere historiske attraksjoner, men er i dyp gjeld",
+            "nl-NL": "Dit oude park heeft veel historische attracties maar ook grote schulden.",
+            "pl-PL": "Ten wiekowy park posiada wiele historycznych atrakcji, jednak jest bardzo zadłużony",
+            "pt-BR": "Este parque ancião tem muitas atrações históricas, mas está muito endividado.",
+            "sv-SE": "Denna åldrande park har mycket historia, men är också djupt skuldsatt",
+            "tr-TR": "Tarihi aletlete sahip olan bu lunapark aşırı derecede borçlanmış",
+            "zh-CN": "这个古老的公园有许多历史悠久的游乐设施，但负债累累",
+            "zh-TW": "這個古舊的樂園擁有很多具歷史性的遊樂設施, 但它欠債纍纍"
+        }
+    }
 }

@@ -1,63 +1,63 @@
 {
- "id": "rct1.scenario_text.katies_dreamland",
- "authors": [
-  "Chris Sawyer"
- ],
- "version": "1.0",
- "sourceGame": [
-  "rct1"
- ],
- "objectType": "scenario_text",
- "strings": {
-  "name": {
-   "ca-ES": "El món de fantasia de la Katie",
-   "en-GB": "Katie’s Dreamland",
-   "en-US": "Katie’s World",
-   "eo-ZZ": "La Revolando de Kejta",
-   "es-ES": "Mundo de Katie",
-   "fi-FI": "Ullan unelmapuisto",
-   "fr-FR": "Monde de Katie",
-   "hu-HU": "Katie Álomvilága",
-   "ja-JP": "ケイティーズ・ドリームランド",
-   "pt-BR": "Mundo de Katie",
-   "zh-CN": "凯蒂梦之境"
-  },
-  "park": {
-   "ca-ES": "El món de fantasia de la Katie",
-   "en-GB": "Katie’s Dreamland",
-   "en-US": "Katie’s World",
-   "eo-ZZ": "La Revolando de Kejta",
-   "es-ES": "Mundo de Katie",
-   "fi-FI": "Ullan unelmapuisto",
-   "fr-FR": "Monde de Katie",
-   "hu-HU": "Katie Álomvilága",
-   "ko-KR": "케이티의 드림랜드",
-   "pt-BR": "Mundo de Katie",
-   "zh-CN": "凯蒂梦之境"
-  },
-  "details": {
-   "ar-EG": "A small theme park with a few rides and room for expansion - Your aim is to double the park value",
-   "ca-ES": "Un parc temàtic petit amb unes quantes atraccions i espai per a expandir-lo. El vostre objectiu és duplicar-ne el valor.",
-   "da-DK": "En lille forlystelsespark med et par forlystelser og plads til udvidelser - Dit mål er at fordoble parkens værdi",
-   "de-DE": "Ein kleiner Freizeitpark mit wenigen Attraktionen, aber genug Gelände zur Erweiterung. Ihr Ziel ist es, den Verkehrswert des Parks zu verdoppeln.",
-   "en-GB": "A small theme park with a few rides and room for expansion. Your aim is to double the park value.",
-   "en-US": "A small theme park with a few rides and room for expansion - Your aim is to double the park value",
-   "eo-ZZ": "Malgranda amuzparko kun kelkaj atrakcioj kaj spaco por kreski. Via celo estas duobligi la parkvaloron.",
-   "es-ES": "Un pequeño parque temático con unas cuantas atracciones y posibilidades de expansión. Tu objetivo será duplicar el valor del parque.",
-   "fi-FI": "Pieni huvipuisto, jossa on muutama laite ja tilaa laajentaa. Tehtävänäsi on tuplata puiston arvo.",
-   "fr-FR": "Un petit parc à thème avec peu d’attractions et peu de place pour s’agrandir. Votre mission est de doubler la valeur du parc.",
-   "hu-HU": "Egy kis méretű vidámpark, pár játékkal és hellyel a terjeszkedéshez - A célod, hogy megduplázd a park értékét",
-   "it-IT": "Un piccolo parco a tema con pochi percorsi e grande spazio per lo sviluppo. Il tuo compito è di raddoppiarne il valore",
-   "ja-JP": "A small theme park with a few rides and room for expansion - Your aim is to double the park value",
-   "ko-KR": "몇 개의 놀이기구와 확장할 공간이 있는 작은 놀이공원으로, 여러분의 목표는 공원 가치를 두 배로 늘리는 것입니다.",
-   "nb-NO": "En liten fornøyelsespark med noen få attraksjoner og rom for utvidelse – Målet ditt er å doble parkens verdi",
-   "nl-NL": "Een klein pretpark met een paar attracties en ruimte voor uitbreiding. Jouw doel is om de parkwaarde te verdubbelen.",
-   "pl-PL": "Mały park z kilkoma atrakcjami oraz przestrzenią do rozwoju - podwój jego wartość",
-   "pt-BR": "Um pequeno parque temático com alguns brinquedos e espaço para expansão - Seu objetivo é dobrar o valor do parque.",
-   "sv-SE": "Ett litet nöjesfält som behöver fräschas upp och utökas – Ditt mål är att dubbla parkvärdet",
-   "tr-TR": "Küçük fakat büyütme imkanları sunan bir lunapark - Hedefiniz parkın değerini iki misline katmak",
-   "zh-CN": "一个只有几个游乐设施但有扩展空间的小型乐园——你的目标是让它的价值翻倍",
-   "zh-TW": "一個只有幾個遊樂設施但有擴展空間的小型樂園 - 你的目標是讓它的價值翻倍"
-  }
- }
+    "id": "rct1.scenario_text.katies_dreamland",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ca-ES": "El món de fantasia de la Katie",
+            "en-GB": "Katie’s Dreamland",
+            "en-US": "Katie’s World",
+            "eo-ZZ": "La Revolando de Kejta",
+            "es-ES": "Mundo de Katie",
+            "fi-FI": "Ullan unelmapuisto",
+            "fr-FR": "Monde de Katie",
+            "hu-HU": "Katie Álomvilága",
+            "ja-JP": "ケイティーズ・ドリームランド",
+            "pt-BR": "Mundo de Katie",
+            "zh-CN": "凯蒂梦之境"
+        },
+        "park_name": {
+            "ca-ES": "El món de fantasia de la Katie",
+            "en-GB": "Katie’s Dreamland",
+            "en-US": "Katie’s World",
+            "eo-ZZ": "La Revolando de Kejta",
+            "es-ES": "Mundo de Katie",
+            "fi-FI": "Ullan unelmapuisto",
+            "fr-FR": "Monde de Katie",
+            "hu-HU": "Katie Álomvilága",
+            "ko-KR": "케이티의 드림랜드",
+            "pt-BR": "Mundo de Katie",
+            "zh-CN": "凯蒂梦之境"
+        },
+        "details": {
+            "ar-EG": "A small theme park with a few rides and room for expansion - Your aim is to double the park value",
+            "ca-ES": "Un parc temàtic petit amb unes quantes atraccions i espai per a expandir-lo. El vostre objectiu és duplicar-ne el valor.",
+            "da-DK": "En lille forlystelsespark med et par forlystelser og plads til udvidelser - Dit mål er at fordoble parkens værdi",
+            "de-DE": "Ein kleiner Freizeitpark mit wenigen Attraktionen, aber genug Gelände zur Erweiterung. Ihr Ziel ist es, den Verkehrswert des Parks zu verdoppeln.",
+            "en-GB": "A small theme park with a few rides and room for expansion. Your aim is to double the park value.",
+            "en-US": "A small theme park with a few rides and room for expansion - Your aim is to double the park value",
+            "eo-ZZ": "Malgranda amuzparko kun kelkaj atrakcioj kaj spaco por kreski. Via celo estas duobligi la parkvaloron.",
+            "es-ES": "Un pequeño parque temático con unas cuantas atracciones y posibilidades de expansión. Tu objetivo será duplicar el valor del parque.",
+            "fi-FI": "Pieni huvipuisto, jossa on muutama laite ja tilaa laajentaa. Tehtävänäsi on tuplata puiston arvo.",
+            "fr-FR": "Un petit parc à thème avec peu d’attractions et peu de place pour s’agrandir. Votre mission est de doubler la valeur du parc.",
+            "hu-HU": "Egy kis méretű vidámpark, pár játékkal és hellyel a terjeszkedéshez - A célod, hogy megduplázd a park értékét",
+            "it-IT": "Un piccolo parco a tema con pochi percorsi e grande spazio per lo sviluppo. Il tuo compito è di raddoppiarne il valore",
+            "ja-JP": "A small theme park with a few rides and room for expansion - Your aim is to double the park value",
+            "ko-KR": "몇 개의 놀이기구와 확장할 공간이 있는 작은 놀이공원으로, 여러분의 목표는 공원 가치를 두 배로 늘리는 것입니다.",
+            "nb-NO": "En liten fornøyelsespark med noen få attraksjoner og rom for utvidelse – Målet ditt er å doble parkens verdi",
+            "nl-NL": "Een klein pretpark met een paar attracties en ruimte voor uitbreiding. Jouw doel is om de parkwaarde te verdubbelen.",
+            "pl-PL": "Mały park z kilkoma atrakcjami oraz przestrzenią do rozwoju - podwój jego wartość",
+            "pt-BR": "Um pequeno parque temático com alguns brinquedos e espaço para expansão - Seu objetivo é dobrar o valor do parque.",
+            "sv-SE": "Ett litet nöjesfält som behöver fräschas upp och utökas – Ditt mål är att dubbla parkvärdet",
+            "tr-TR": "Küçük fakat büyütme imkanları sunan bir lunapark - Hedefiniz parkın değerini iki misline katmak",
+            "zh-CN": "一个只有几个游乐设施但有扩展空间的小型乐园——你的目标是让它的价值翻倍",
+            "zh-TW": "一個只有幾個遊樂設施但有擴展空間的小型樂園 - 你的目標是讓它的價值翻倍"
+        }
+    }
 }

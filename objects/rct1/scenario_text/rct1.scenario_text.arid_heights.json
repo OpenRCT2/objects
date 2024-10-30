@@ -1,56 +1,56 @@
 {
- "id": "rct1.scenario_text.arid_heights",
- "authors": [
-  "Chris Sawyer"
- ],
- "version": "1.0",
- "sourceGame": [
-  "rct1"
- ],
- "objectType": "scenario_text",
- "strings": {
-  "name": {
-   "ca-ES": "Els cims àrids",
-   "en-GB": "Arid Heights",
-   "eo-ZZ": "Aridaj Altaĵoj",
-   "fi-FI": "Santarinne",
-   "fr-FR": "Hauteurs Arides",
-   "hu-HU": "Száraz Magaslatok",
-   "ja-JP": "アリド・ハイツ",
-   "pt-BR": "Picos Áridos",
-   "zh-CN": "干旱高地"
-  },
-  "park": {
-   "ca-ES": "Els cims àrids",
-   "en-GB": "Arid Heights",
-   "eo-ZZ": "Aridaj Altaĵoj",
-   "fi-FI": "Santarinne",
-   "fr-FR": "Hauteurs Arides",
-   "hu-HU": "Száraz Magaslatok",
-   "ko-KR": "건조한 언덕",
-   "pt-BR": "Picos Áridos",
-   "zh-CN": "干旱高地"
-  },
-  "details": {
-   "ca-ES": "Sense límits financers, el repte és desenvolupar aquest parc desèrtic mantenint feliços als visitants.",
-   "da-DK": "Fri for eventuelle finansielle grænser, din udfordring er at udvikle denne ørken park og samtidig holde gæsterne glade",
-   "de-DE": "Ohne jegliche finanzielle Einschränkungen sollen Sie diesen Wüstenpark ausbauen und dabei die Besucher bei Laune halten.",
-   "en-GB": "Free of any financial limits, your challenge is to develop this desert park while keeping the guests happy",
-   "eo-ZZ": "Sen financaj limigoj, via defio estas ellabori ĉi tiun dezertparkon, kaj samtempe restigi la gastojn feliĉaj",
-   "es-ES": "Libre de cualquier límite financiero, tu reto es desarrollar este desértico parque mientras mantienes contentos a los invitados.",
-   "fi-FI": "Maallisista rahoitushuolista vapaana, sinun tulee kehittää tästä aavikkopuistosta kävijöitä tyydyttävä huvipuisto",
-   "fr-FR": "Vous avez carte blanche pour développer ce parc désertique en assurant la joie de ses visiteurs.",
-   "hu-HU": "Az a kihívásod, hogy gondoskodj a park fejlesztéséről, miközben biztosítod a vendégek jókedvét, pénzügyi korlátok nélkül",
-   "it-IT": "Senza limiti finanziari, la tua sfida consiste nello sviluppare questo parco deserto, mantenendo felici i tuoi visitatori",
-   "ko-KR": "아무런 재정적 제한 없는 상황에서, 손님들을 언제나 행복하게 만들 수 있는 공원을 사막에 건설해보세요.",
-   "nb-NO": "Utfordringen din er å bygge en ørkenpark med høye krav, fri for økonomiske begrensinger",
-   "nl-NL": "Het is je taak dit woestijnpark te ontwikkelen terwijl je de gasten tevreden houdt. Geld speelt geen rol!",
-   "pl-PL": "Bez limitów finansowych, Twoim zadaniem jest zamiana tej pustyni w park gdzie goście są szczęśliwi",
-   "pt-BR": "Livre de qualquer limite financeiro, seu desafio é desenvolver este parque desértico enquanto mantém os visitantes felizes.",
-   "sv-SE": "Din utmaning är att, fri från finansiella gränser, utöka denna ökenpark medan du håller besökarna glada",
-   "tr-TR": "Bir çölün ortasını sınırsız bütçe ile lunapark inşa ediniz",
-   "zh-CN": "你的挑战是在没有任何的财政限制的情况下开发一个一直使游客开心的沙漠公园",
-   "zh-TW": "沒有任何財政上的限制, 你的挑戰是要發展這個沙漠中的樂園並讓遊客樂而忘返"
-  }
- }
+    "id": "rct1.scenario_text.arid_heights",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ca-ES": "Els cims àrids",
+            "en-GB": "Arid Heights",
+            "eo-ZZ": "Aridaj Altaĵoj",
+            "fi-FI": "Santarinne",
+            "fr-FR": "Hauteurs Arides",
+            "hu-HU": "Száraz Magaslatok",
+            "ja-JP": "アリド・ハイツ",
+            "pt-BR": "Picos Áridos",
+            "zh-CN": "干旱高地"
+        },
+        "park_name": {
+            "ca-ES": "Els cims àrids",
+            "en-GB": "Arid Heights",
+            "eo-ZZ": "Aridaj Altaĵoj",
+            "fi-FI": "Santarinne",
+            "fr-FR": "Hauteurs Arides",
+            "hu-HU": "Száraz Magaslatok",
+            "ko-KR": "건조한 언덕",
+            "pt-BR": "Picos Áridos",
+            "zh-CN": "干旱高地"
+        },
+        "details": {
+            "ca-ES": "Sense límits financers, el repte és desenvolupar aquest parc desèrtic mantenint feliços als visitants.",
+            "da-DK": "Fri for eventuelle finansielle grænser, din udfordring er at udvikle denne ørken park og samtidig holde gæsterne glade",
+            "de-DE": "Ohne jegliche finanzielle Einschränkungen sollen Sie diesen Wüstenpark ausbauen und dabei die Besucher bei Laune halten.",
+            "en-GB": "Free of any financial limits, your challenge is to develop this desert park while keeping the guests happy",
+            "eo-ZZ": "Sen financaj limigoj, via defio estas ellabori ĉi tiun dezertparkon, kaj samtempe restigi la gastojn feliĉaj",
+            "es-ES": "Libre de cualquier límite financiero, tu reto es desarrollar este desértico parque mientras mantienes contentos a los invitados.",
+            "fi-FI": "Maallisista rahoitushuolista vapaana, sinun tulee kehittää tästä aavikkopuistosta kävijöitä tyydyttävä huvipuisto",
+            "fr-FR": "Vous avez carte blanche pour développer ce parc désertique en assurant la joie de ses visiteurs.",
+            "hu-HU": "Az a kihívásod, hogy gondoskodj a park fejlesztéséről, miközben biztosítod a vendégek jókedvét, pénzügyi korlátok nélkül",
+            "it-IT": "Senza limiti finanziari, la tua sfida consiste nello sviluppare questo parco deserto, mantenendo felici i tuoi visitatori",
+            "ko-KR": "아무런 재정적 제한 없는 상황에서, 손님들을 언제나 행복하게 만들 수 있는 공원을 사막에 건설해보세요.",
+            "nb-NO": "Utfordringen din er å bygge en ørkenpark med høye krav, fri for økonomiske begrensinger",
+            "nl-NL": "Het is je taak dit woestijnpark te ontwikkelen terwijl je de gasten tevreden houdt. Geld speelt geen rol!",
+            "pl-PL": "Bez limitów finansowych, Twoim zadaniem jest zamiana tej pustyni w park gdzie goście są szczęśliwi",
+            "pt-BR": "Livre de qualquer limite financeiro, seu desafio é desenvolver este parque desértico enquanto mantém os visitantes felizes.",
+            "sv-SE": "Din utmaning är att, fri från finansiella gränser, utöka denna ökenpark medan du håller besökarna glada",
+            "tr-TR": "Bir çölün ortasını sınırsız bütçe ile lunapark inşa ediniz",
+            "zh-CN": "你的挑战是在没有任何的财政限制的情况下开发一个一直使游客开心的沙漠公园",
+            "zh-TW": "沒有任何財政上的限制, 你的挑戰是要發展這個沙漠中的樂園並讓遊客樂而忘返"
+        }
+    }
 }

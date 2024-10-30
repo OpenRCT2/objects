@@ -1,59 +1,59 @@
 {
- "id": "official.scenario_text.bigrock_blast",
- "authors": [
-  "Chris Sawyer"
- ],
- "version": "1.0",
- "sourceGame": [
-  "official"
- ],
- "objectType": "scenario_text",
- "strings": {
-  "name": {
-   "ar-EG": "انفجار بيجروك",
-   "ca-ES": "Explosió a Rocagrossa",
-   "en-GB": "Bigrock Blast",
-   "eo-ZZ": "Rokega Eksplodo",
-   "es-ES": "Explosión en Rocagrande",
-   "fi-FI": "Jättikiven jytky",
-   "fr-FR": "Explosion à Groscailloux",
-   "hu-HU": "Robbanás Bigrockban",
-   "pt-BR": "Explosão de Pedragrande",
-   "uk-UA": "Вибух Біґрок",
-   "zh-CN": "巨石镇大爆炸"
-  },
-  "park": {
-   "ar-EG": "انفجار بيجروك",
-   "ca-ES": "Explosió a Rocagrossa",
-   "en-GB": "Bigrock Blast",
-   "eo-ZZ": "Rokega Eksplodo",
-   "es-ES": "Explosión en Rocagrande",
-   "fi-FI": "Jättikiven jytky",
-   "fr-FR": "Explosion à Groscailloux",
-   "hu-HU": "Robbanás Bigrockban",
-   "ko-KR": "빅록 폭발",
-   "pt-BR": "Explosão de Pedragrande",
-   "uk-UA": "Вибух Біґрок",
-   "zh-CN": "巨石镇大爆炸"
-  },
-  "details": {
-   "ar-EG": "بعد انفجار في شركة شركة بيجروك للتعدين، يتعين على سكان بيجروك بناء مدينة ملاهي للحفاظ على حياة بلدتهم.{NEWLINE}المؤلفان: rbarclay & buckone",
-   "ca-ES": "Després de l’explosió de la Companyia Minera Rocagrossa, la gent de Rocagrossa han de construir un parc d’atraccions per a mantenir el seu poble amb vida.{NEWLINE}Autors: rbarclay & buckone",
-   "da-DK": "Efter en eksplosion på Bigrock Mining Co. er befolkningen i Bigrock nødt til at bygge en forlystelsespark for at holde deres by i live.{NEWLINE}Forfattere: rbarclay & buckone",
-   "de-DE": "Nach einer Explosion bei der Bigrock Mining Co. haben die Einwohner von Bigrock einen Vergnügungspark gebaut, um ihre Stadt am Leben zu halten.{NEWLINE}Autoren: rbarclay u. buckone",
-   "en-GB": "After an explosion at the Bigrock Mining Co., the people of Bigrock have to build an amusement park to keep their town alive.{NEWLINE}Authors: rbarclay & buckone",
-   "eo-ZZ": "Post eksplodo ĉe la Rokega Minada Kompanio, la homoj de Rokego devas konstrui amuzparkon por konservi ilian urbeton viva.{NEWLINE}Aŭtoroj: rbarclay & buckone",
-   "es-ES": "Tras una explosión en la Compañía Minera Rocagrande, los habitantes de Rocagrande tienen que construir un parque de atracciones para mantener vivo su pueblo.{NEWLINE}Autores: rbarclay & buckone",
-   "fi-FI": "Jättikiven Kaivokset Oy:n räjähdysonnettomuuden jälkeen Jättikiven kylän asukkaat ovat rakentaneet huvipuiston kylänsä elinkeinoksi.{NEWLINE}Tekijät: rbarclay ja buckone",
-   "fr-FR": "Après une explosion à la Compagnie de Minage de Groscailloux, les habitants de Groscailloux doivent bâtir un parc d’attractions pour garder leur ville vivante.{NEWLINE}Par : rbarclay & buckone",
-   "hu-HU": "Miután robbanás történt a Bigrock Bányászati Vállalatnál, Bigrock lakosainak egy vidámparkot kell építeniük, hogy életben tartsák városukat.{NEWLINE}Szerzők: rbarclay & buckone",
-   "it-IT": "Dopo un’esplosione alle Miniere Pietragrossa S.p.A., agli abitanti di Pietragrossa tocca costruire un parco divertimenti per mantenere la loro città viva.{NEWLINE}Autori: rbarclay & buckone",
-   "ko-KR": "빅록 채광 주식회사에서 폭발 사건이 일어난 이후, 빅록의 사람들은 마을을 유지하기 위해 놀이공원을 지어야만 한다고 합니다.{NEWLINE}제작자: rbarclay & buckone",
-   "nb-NO": "Etter en eksplosjon på Bigrock Mining Co., må Bigrock's innbyggere bygge en fornøyelsespark for å holde deres landsby i live.{NEWLINE}Forfatter: rbarclay & buckone",
-   "nl-NL": "Na een explosie bij de Bigrock Mining Co. moeten de inwoners van Bigrock hun stad in leven zien te houden. Ze hebben jou ingehuurd om deze klus te klaren.{NEWLINE}Gemaakt door: rbarclay & buckone",
-   "pt-BR": "Após uma explosão na Companhia de Mineração de Pedragrande, as pessoa de Pedragrande tem de construir um parque de diversões para manter sua cidade viva.{NEWLINE}Autores: rbarclay & buckone",
-   "uk-UA": "Після вибуху на гірничодобувній компанії Біґрок мешканці міста змушені будувати парк розваг, щоб зберегти своє місто.{NEWLINE}Автори: rbarclay та buckone",
-   "zh-CN": "在巨石镇矿产公司发生爆炸后，巨石镇的人们不得不建造一个游乐园来维持他们的城镇活力。{NEWLINE}作者：rbarclay & buckone"
-  }
- }
+    "id": "official.scenario_text.bigrock_blast",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "official"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "انفجار بيجروك",
+            "ca-ES": "Explosió a Rocagrossa",
+            "en-GB": "Bigrock Blast",
+            "eo-ZZ": "Rokega Eksplodo",
+            "es-ES": "Explosión en Rocagrande",
+            "fi-FI": "Jättikiven jytky",
+            "fr-FR": "Explosion à Groscailloux",
+            "hu-HU": "Robbanás Bigrockban",
+            "pt-BR": "Explosão de Pedragrande",
+            "uk-UA": "Вибух Біґрок",
+            "zh-CN": "巨石镇大爆炸"
+        },
+        "park_name": {
+            "ar-EG": "انفجار بيجروك",
+            "ca-ES": "Explosió a Rocagrossa",
+            "en-GB": "Bigrock Blast",
+            "eo-ZZ": "Rokega Eksplodo",
+            "es-ES": "Explosión en Rocagrande",
+            "fi-FI": "Jättikiven jytky",
+            "fr-FR": "Explosion à Groscailloux",
+            "hu-HU": "Robbanás Bigrockban",
+            "ko-KR": "빅록 폭발",
+            "pt-BR": "Explosão de Pedragrande",
+            "uk-UA": "Вибух Біґрок",
+            "zh-CN": "巨石镇大爆炸"
+        },
+        "details": {
+            "ar-EG": "بعد انفجار في شركة شركة بيجروك للتعدين، يتعين على سكان بيجروك بناء مدينة ملاهي للحفاظ على حياة بلدتهم.{NEWLINE}المؤلفان: rbarclay & buckone",
+            "ca-ES": "Després de l’explosió de la Companyia Minera Rocagrossa, la gent de Rocagrossa han de construir un parc d’atraccions per a mantenir el seu poble amb vida.{NEWLINE}Autors: rbarclay & buckone",
+            "da-DK": "Efter en eksplosion på Bigrock Mining Co. er befolkningen i Bigrock nødt til at bygge en forlystelsespark for at holde deres by i live.{NEWLINE}Forfattere: rbarclay & buckone",
+            "de-DE": "Nach einer Explosion bei der Bigrock Mining Co. haben die Einwohner von Bigrock einen Vergnügungspark gebaut, um ihre Stadt am Leben zu halten.{NEWLINE}Autoren: rbarclay u. buckone",
+            "en-GB": "After an explosion at the Bigrock Mining Co., the people of Bigrock have to build an amusement park to keep their town alive.{NEWLINE}Authors: rbarclay & buckone",
+            "eo-ZZ": "Post eksplodo ĉe la Rokega Minada Kompanio, la homoj de Rokego devas konstrui amuzparkon por konservi ilian urbeton viva.{NEWLINE}Aŭtoroj: rbarclay & buckone",
+            "es-ES": "Tras una explosión en la Compañía Minera Rocagrande, los habitantes de Rocagrande tienen que construir un parque de atracciones para mantener vivo su pueblo.{NEWLINE}Autores: rbarclay & buckone",
+            "fi-FI": "Jättikiven Kaivokset Oy:n räjähdysonnettomuuden jälkeen Jättikiven kylän asukkaat ovat rakentaneet huvipuiston kylänsä elinkeinoksi.{NEWLINE}Tekijät: rbarclay ja buckone",
+            "fr-FR": "Après une explosion à la Compagnie de Minage de Groscailloux, les habitants de Groscailloux doivent bâtir un parc d’attractions pour garder leur ville vivante.{NEWLINE}Par : rbarclay & buckone",
+            "hu-HU": "Miután robbanás történt a Bigrock Bányászati Vállalatnál, Bigrock lakosainak egy vidámparkot kell építeniük, hogy életben tartsák városukat.{NEWLINE}Szerzők: rbarclay & buckone",
+            "it-IT": "Dopo un’esplosione alle Miniere Pietragrossa S.p.A., agli abitanti di Pietragrossa tocca costruire un parco divertimenti per mantenere la loro città viva.{NEWLINE}Autori: rbarclay & buckone",
+            "ko-KR": "빅록 채광 주식회사에서 폭발 사건이 일어난 이후, 빅록의 사람들은 마을을 유지하기 위해 놀이공원을 지어야만 한다고 합니다.{NEWLINE}제작자: rbarclay & buckone",
+            "nb-NO": "Etter en eksplosjon på Bigrock Mining Co., må Bigrock's innbyggere bygge en fornøyelsespark for å holde deres landsby i live.{NEWLINE}Forfatter: rbarclay & buckone",
+            "nl-NL": "Na een explosie bij de Bigrock Mining Co. moeten de inwoners van Bigrock hun stad in leven zien te houden. Ze hebben jou ingehuurd om deze klus te klaren.{NEWLINE}Gemaakt door: rbarclay & buckone",
+            "pt-BR": "Após uma explosão na Companhia de Mineração de Pedragrande, as pessoa de Pedragrande tem de construir um parque de diversões para manter sua cidade viva.{NEWLINE}Autores: rbarclay & buckone",
+            "uk-UA": "Після вибуху на гірничодобувній компанії Біґрок мешканці міста змушені будувати парк розваг, щоб зберегти своє місто.{NEWLINE}Автори: rbarclay та buckone",
+            "zh-CN": "在巨石镇矿产公司发生爆炸后，巨石镇的人们不得不建造一个游乐园来维持他们的城镇活力。{NEWLINE}作者：rbarclay & buckone"
+        }
+    }
 }

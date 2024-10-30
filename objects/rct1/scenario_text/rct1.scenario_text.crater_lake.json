@@ -1,56 +1,56 @@
 {
- "id": "rct1.scenario_text.crater_lake",
- "authors": [
-  "Chris Sawyer"
- ],
- "version": "1.0",
- "sourceGame": [
-  "rct1"
- ],
- "objectType": "scenario_text",
- "strings": {
-  "name": {
-   "ca-ES": "El llac del cràter",
-   "en-GB": "Crater Lake",
-   "eo-ZZ": "Kratero-Lago",
-   "fi-FI": "Kraaterinjärvi",
-   "fr-FR": "Cratère Lacustre",
-   "hu-HU": "Kráter-tó",
-   "ja-JP": "クレーター・レーク",
-   "pt-BR": "Lago da Cratera",
-   "zh-CN": "中心湖"
-  },
-  "park": {
-   "ca-ES": "El llac del cràter",
-   "en-GB": "Crater Lake",
-   "eo-ZZ": "Kratero-Lago",
-   "fi-FI": "Kraaterinjärvi",
-   "fr-FR": "Cratère Lacustre",
-   "hu-HU": "Kráter-tó",
-   "ko-KR": "분화구 호수",
-   "pt-BR": "Lago da Cratera",
-   "zh-CN": "中心湖"
-  },
-  "details": {
-   "ca-ES": "Aquest parc està situat en un llac molt gran al mig d’un antic cràter.",
-   "da-DK": "En stor sø i et gammelt krater er hovedtemaet denne park",
-   "de-DE": "Ein großer See in einem alten Krater ist Ausgangspunkt für diesen Park.",
-   "en-GB": "A large lake in an ancient crater is the setting for this park",
-   "eo-ZZ": "Granda lago en praa kratero estas la okazejo de ĉi tiu parko",
-   "es-ES": "Un gran lago en un viejo cráter es el entorno para este parque.",
-   "fi-FI": "Muinaiseen kraateriin muodostunut suuri järvi on tämän puiston sijaintina",
-   "fr-FR": "Ce parc a pour environnement un vaste lac dans un ancien cratère.",
-   "hu-HU": "Egy ősi kráterben elterülő hatalmas tó a park a helyszíne",
-   "it-IT": "Questo parco è ambientato in un grande lago all’interno di un antico cratere",
-   "ko-KR": "이 공원의 부지는 고대 분화구에 만들어진 커다란 호수입니다.",
-   "nb-NO": "En stor innsjø i et eldgammelt krater er settingen for denne parken",
-   "nl-NL": "De achtergrond van dit park wordt gevormd door een groot meer in oude krater.",
-   "pl-PL": "W tej misji znajduje się wielkie jezioro w starożytnym kraterze",
-   "pt-BR": "Um grande lago numa cratera anciã é o ambiente para este parque.",
-   "sv-SE": "En stor sjö i en uråldrig krater är grunden för parken",
-   "tr-TR": "Sönmüş yanardağın içinde zamanla göl oluşan bu alanda lunapark kurunuz",
-   "zh-CN": "一个坐落于古老火山口中的湖上的主题乐园",
-   "zh-TW": "此樂園設定於一個沉睡火山口的湖之上"
-  }
- }
+    "id": "rct1.scenario_text.crater_lake",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ca-ES": "El llac del cràter",
+            "en-GB": "Crater Lake",
+            "eo-ZZ": "Kratero-Lago",
+            "fi-FI": "Kraaterinjärvi",
+            "fr-FR": "Cratère Lacustre",
+            "hu-HU": "Kráter-tó",
+            "ja-JP": "クレーター・レーク",
+            "pt-BR": "Lago da Cratera",
+            "zh-CN": "中心湖"
+        },
+        "park_name": {
+            "ca-ES": "El llac del cràter",
+            "en-GB": "Crater Lake",
+            "eo-ZZ": "Kratero-Lago",
+            "fi-FI": "Kraaterinjärvi",
+            "fr-FR": "Cratère Lacustre",
+            "hu-HU": "Kráter-tó",
+            "ko-KR": "분화구 호수",
+            "pt-BR": "Lago da Cratera",
+            "zh-CN": "中心湖"
+        },
+        "details": {
+            "ca-ES": "Aquest parc està situat en un llac molt gran al mig d’un antic cràter.",
+            "da-DK": "En stor sø i et gammelt krater er hovedtemaet denne park",
+            "de-DE": "Ein großer See in einem alten Krater ist Ausgangspunkt für diesen Park.",
+            "en-GB": "A large lake in an ancient crater is the setting for this park",
+            "eo-ZZ": "Granda lago en praa kratero estas la okazejo de ĉi tiu parko",
+            "es-ES": "Un gran lago en un viejo cráter es el entorno para este parque.",
+            "fi-FI": "Muinaiseen kraateriin muodostunut suuri järvi on tämän puiston sijaintina",
+            "fr-FR": "Ce parc a pour environnement un vaste lac dans un ancien cratère.",
+            "hu-HU": "Egy ősi kráterben elterülő hatalmas tó a park a helyszíne",
+            "it-IT": "Questo parco è ambientato in un grande lago all’interno di un antico cratere",
+            "ko-KR": "이 공원의 부지는 고대 분화구에 만들어진 커다란 호수입니다.",
+            "nb-NO": "En stor innsjø i et eldgammelt krater er settingen for denne parken",
+            "nl-NL": "De achtergrond van dit park wordt gevormd door een groot meer in oude krater.",
+            "pl-PL": "W tej misji znajduje się wielkie jezioro w starożytnym kraterze",
+            "pt-BR": "Um grande lago numa cratera anciã é o ambiente para este parque.",
+            "sv-SE": "En stor sjö i en uråldrig krater är grunden för parken",
+            "tr-TR": "Sönmüş yanardağın içinde zamanla göl oluşan bu alanda lunapark kurunuz",
+            "zh-CN": "一个坐落于古老火山口中的湖上的主题乐园",
+            "zh-TW": "此樂園設定於一個沉睡火山口的湖之上"
+        }
+    }
 }

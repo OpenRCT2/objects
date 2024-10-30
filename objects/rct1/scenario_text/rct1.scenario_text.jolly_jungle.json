@@ -1,56 +1,56 @@
 {
- "id": "rct1.scenario_text.jolly_jungle",
- "authors": [
-  "Chris Sawyer"
- ],
- "version": "1.0",
- "sourceGame": [
-  "rct1"
- ],
- "objectType": "scenario_text",
- "strings": {
-  "name": {
-   "ca-ES": "La selva alegre",
-   "en-GB": "Jolly Jungle",
-   "eo-ZZ": "Gajega Ĝangalo",
-   "fi-FI": "Vinkeä viidakko",
-   "fr-FR": "Jungle Joviale",
-   "hu-HU": "Derűs Dzsungel",
-   "ja-JP": "ジョリー・ジャングル",
-   "pt-BR": "Selva da Alegria",
-   "zh-CN": "欢乐丛林"
-  },
-  "park": {
-   "ca-ES": "La selva alegre",
-   "en-GB": "Jolly Jungle",
-   "eo-ZZ": "Gajega Ĝangalo",
-   "fi-FI": "Vinkeä viidakko",
-   "fr-FR": "Jungle Joviale",
-   "hu-HU": "Derűs Dzsungel",
-   "ko-KR": "즐거운 정글",
-   "pt-BR": "Selva da Alegria",
-   "zh-CN": "欢乐丛林"
-  },
-  "details": {
-   "ca-ES": "Ben endins de la selva hi ha una gran àrea de terreny preparada per a convertir-la en un parc temàtic.",
-   "da-DK": "Dybt inde i junglen ligger et stort landområde, klar til at blive omdannet til en forlystelsespark",
-   "de-DE": "Ein riesiges Gelände tief im Dschungel wartet darauf, von Ihnen in einen Themenpark umgewandelt zu werden.",
-   "en-GB": "Deep in the jungle lies a large area of land ready to be turned into a theme park",
-   "eo-ZZ": "Profunde en la ĝangalo estas granda areo de tero preta por esti transformita en amuzparkon",
-   "es-ES": "En las profundidades de la selva hay unos grandes terrenos listos para ser convertidos en un parque temático.",
-   "fi-FI": "Viidakon syvyyksissä on laaja maa-alue, valmiina teemapuiston rakentamiseen",
-   "fr-FR": "Dans les profondeurs de la jungle se trouve une zone de terrain qui ferait un parc d’attractions parfait.",
-   "hu-HU": "Ez a dzsungel mélyén elterülő nagy földterület épp megfelelő egy vidámpark számára",
-   "it-IT": "Nel profondo della giungla si trova una larga zona di terreno pronta per essere trasformata in un parco a tema",
-   "ko-KR": "정글 속 깊은 곳에 놀이공원으로 탈바꿈할 수 있는 넓은 대지가 있습니다.",
-   "nb-NO": "Dypt i jungelen er det et passende område for en fornøyelsespark",
-   "nl-NL": "Dit grote stuk land, diep in het oerwoud, ligt klaar om te worden veranderd in een attractiepark.",
-   "pl-PL": "Głęboko w dżungli znajduje się wielki teren gotowy na przekształcenie w park rozrywki",
-   "pt-BR": "Selva adentro jaz uma grande área pronta para ser transformada em um parque temático.",
-   "sv-SE": "Djupt in i djungeln ligger en öppen mark och väntar på att bli förvandlad till ett nöjesfält",
-   "tr-TR": "Cengelin ortasına bir lunapark oluşturunuz",
-   "zh-CN": "丛林深处有大片土地准备变成主题公园",
-   "zh-TW": "埋藏在森林深處的一塊巨型土地現已準備改造為一個主題樂園"
-  }
- }
+    "id": "rct1.scenario_text.jolly_jungle",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ca-ES": "La selva alegre",
+            "en-GB": "Jolly Jungle",
+            "eo-ZZ": "Gajega Ĝangalo",
+            "fi-FI": "Vinkeä viidakko",
+            "fr-FR": "Jungle Joviale",
+            "hu-HU": "Derűs Dzsungel",
+            "ja-JP": "ジョリー・ジャングル",
+            "pt-BR": "Selva da Alegria",
+            "zh-CN": "欢乐丛林"
+        },
+        "park_name": {
+            "ca-ES": "La selva alegre",
+            "en-GB": "Jolly Jungle",
+            "eo-ZZ": "Gajega Ĝangalo",
+            "fi-FI": "Vinkeä viidakko",
+            "fr-FR": "Jungle Joviale",
+            "hu-HU": "Derűs Dzsungel",
+            "ko-KR": "즐거운 정글",
+            "pt-BR": "Selva da Alegria",
+            "zh-CN": "欢乐丛林"
+        },
+        "details": {
+            "ca-ES": "Ben endins de la selva hi ha una gran àrea de terreny preparada per a convertir-la en un parc temàtic.",
+            "da-DK": "Dybt inde i junglen ligger et stort landområde, klar til at blive omdannet til en forlystelsespark",
+            "de-DE": "Ein riesiges Gelände tief im Dschungel wartet darauf, von Ihnen in einen Themenpark umgewandelt zu werden.",
+            "en-GB": "Deep in the jungle lies a large area of land ready to be turned into a theme park",
+            "eo-ZZ": "Profunde en la ĝangalo estas granda areo de tero preta por esti transformita en amuzparkon",
+            "es-ES": "En las profundidades de la selva hay unos grandes terrenos listos para ser convertidos en un parque temático.",
+            "fi-FI": "Viidakon syvyyksissä on laaja maa-alue, valmiina teemapuiston rakentamiseen",
+            "fr-FR": "Dans les profondeurs de la jungle se trouve une zone de terrain qui ferait un parc d’attractions parfait.",
+            "hu-HU": "Ez a dzsungel mélyén elterülő nagy földterület épp megfelelő egy vidámpark számára",
+            "it-IT": "Nel profondo della giungla si trova una larga zona di terreno pronta per essere trasformata in un parco a tema",
+            "ko-KR": "정글 속 깊은 곳에 놀이공원으로 탈바꿈할 수 있는 넓은 대지가 있습니다.",
+            "nb-NO": "Dypt i jungelen er det et passende område for en fornøyelsespark",
+            "nl-NL": "Dit grote stuk land, diep in het oerwoud, ligt klaar om te worden veranderd in een attractiepark.",
+            "pl-PL": "Głęboko w dżungli znajduje się wielki teren gotowy na przekształcenie w park rozrywki",
+            "pt-BR": "Selva adentro jaz uma grande área pronta para ser transformada em um parque temático.",
+            "sv-SE": "Djupt in i djungeln ligger en öppen mark och väntar på att bli förvandlad till ett nöjesfält",
+            "tr-TR": "Cengelin ortasına bir lunapark oluşturunuz",
+            "zh-CN": "丛林深处有大片土地准备变成主题公园",
+            "zh-TW": "埋藏在森林深處的一塊巨型土地現已準備改造為一個主題樂園"
+        }
+    }
 }

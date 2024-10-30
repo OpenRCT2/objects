@@ -1,56 +1,56 @@
 {
- "id": "rct1.scenario_text.rotting_heights",
- "authors": [
-  "Chris Sawyer"
- ],
- "version": "1.0",
- "sourceGame": [
-  "rct1"
- ],
- "objectType": "scenario_text",
- "strings": {
-  "name": {
-   "ca-ES": "Els cims Mig-Podrits",
-   "en-GB": "Rotting Heights",
-   "eo-ZZ": "Putradaj Altaĵoj",
-   "fi-FI": "Laholahti",
-   "fr-FR": "Monts Putrides",
-   "hu-HU": "Rohadó Magaslatok",
-   "ja-JP": "ロッティングハイツ",
-   "pt-BR": "Picos Apodrecidos",
-   "zh-CN": "腐烂高地"
-  },
-  "park": {
-   "ca-ES": "Els cims Mig-Podrits",
-   "en-GB": "Rotting Heights",
-   "eo-ZZ": "Putradaj Altaĵoj",
-   "fi-FI": "Laholahti",
-   "fr-FR": "Monts Putrides",
-   "hu-HU": "Rohadó Magaslatok",
-   "ko-KR": "썩어버린 언덕",
-   "pt-BR": "Picos Apodrecidos",
-   "zh-CN": "腐烂高地"
-  },
-  "details": {
-   "ca-ES": "Descuidat i dilapidat, podreu ressuscitar aquest parc d’atraccions que fa temps era un dels millors?",
-   "da-DK": "Overgroet og nedslidt, kan du genoplive denne en gang store forlystelsespark?",
-   "de-DE": "Überwuchert und verfallen. Können Sie diesen einst großartigen Vergnügungspark wieder zum Leben erwecken?",
-   "en-GB": "Overgrown and dilapidated, can you resurrect this once-great amusement park?",
-   "eo-ZZ": "Surkreskata kaj kaduka, ĉu vi povas relevigi ĉi tiun bonintan amuzparkon?",
-   "es-ES": "¿Puedes devolver la vida a este antiguo parque, ahora abandonado y en ruinas?",
-   "fi-FI": "Rikkaruohoinen ja ränsistynyt, pystytkö sinä elvyttämään tämän rappeutuneen puiston?",
-   "fr-FR": "Pouvez-vous relancer ce parc envahi par la végétation et délabré qui connut jadis son heure de gloire ?",
-   "hu-HU": "Képes vagy feltámasztani ezt a valaha szebb napokat látott, ám mára gazzal benőtt és düledező vidámparkot?",
-   "it-IT": "Coperto di vegetazione e fatiscente, puoi resuscitare questo grande parco di divertimenti?",
-   "ko-KR": "지나치게 성장해서 황폐화되어버린 이곳을 다시 멋진 공원으로 바꿀 수 있습니까?",
-   "nb-NO": "Kan du gjenopplive den fordums storheten til denne falleferdige og gjengrodde fornøyelsesparken?",
-   "nl-NL": "Dit park is overwoekerd en vervallen. Kun je het weer in ere herstellen?",
-   "pl-PL": "Zarośnięty i zrujnowany, czy jesteś w stanie przywrócić świetność temu wesołemu miasteczku?",
-   "pt-BR": "Repleto de vegetação e delapidado, você consegue fazer este parque de diversões que já foi grande ressurgir?",
-   "sv-SE": "Igenvuxet och förfallet, kan du återuppliva detta övergivna nöjesfält?",
-   "tr-TR": "Terk edilmiş bu lunaparkı geride kalmış parlak haline getiriniz",
-   "zh-CN": "杂草丛生，破败不堪，你能复活这个曾经伟大的游乐园吗？",
-   "zh-TW": "你能拯救這個曾經輝煌過, 但現殘破又雜草叢生的主題樂園嗎?"
-  }
- }
+    "id": "rct1.scenario_text.rotting_heights",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ca-ES": "Els cims Mig-Podrits",
+            "en-GB": "Rotting Heights",
+            "eo-ZZ": "Putradaj Altaĵoj",
+            "fi-FI": "Laholahti",
+            "fr-FR": "Monts Putrides",
+            "hu-HU": "Rohadó Magaslatok",
+            "ja-JP": "ロッティングハイツ",
+            "pt-BR": "Picos Apodrecidos",
+            "zh-CN": "腐烂高地"
+        },
+        "park_name": {
+            "ca-ES": "Els cims Mig-Podrits",
+            "en-GB": "Rotting Heights",
+            "eo-ZZ": "Putradaj Altaĵoj",
+            "fi-FI": "Laholahti",
+            "fr-FR": "Monts Putrides",
+            "hu-HU": "Rohadó Magaslatok",
+            "ko-KR": "썩어버린 언덕",
+            "pt-BR": "Picos Apodrecidos",
+            "zh-CN": "腐烂高地"
+        },
+        "details": {
+            "ca-ES": "Descuidat i dilapidat, podreu ressuscitar aquest parc d’atraccions que fa temps era un dels millors?",
+            "da-DK": "Overgroet og nedslidt, kan du genoplive denne en gang store forlystelsespark?",
+            "de-DE": "Überwuchert und verfallen. Können Sie diesen einst großartigen Vergnügungspark wieder zum Leben erwecken?",
+            "en-GB": "Overgrown and dilapidated, can you resurrect this once-great amusement park?",
+            "eo-ZZ": "Surkreskata kaj kaduka, ĉu vi povas relevigi ĉi tiun bonintan amuzparkon?",
+            "es-ES": "¿Puedes devolver la vida a este antiguo parque, ahora abandonado y en ruinas?",
+            "fi-FI": "Rikkaruohoinen ja ränsistynyt, pystytkö sinä elvyttämään tämän rappeutuneen puiston?",
+            "fr-FR": "Pouvez-vous relancer ce parc envahi par la végétation et délabré qui connut jadis son heure de gloire ?",
+            "hu-HU": "Képes vagy feltámasztani ezt a valaha szebb napokat látott, ám mára gazzal benőtt és düledező vidámparkot?",
+            "it-IT": "Coperto di vegetazione e fatiscente, puoi resuscitare questo grande parco di divertimenti?",
+            "ko-KR": "지나치게 성장해서 황폐화되어버린 이곳을 다시 멋진 공원으로 바꿀 수 있습니까?",
+            "nb-NO": "Kan du gjenopplive den fordums storheten til denne falleferdige og gjengrodde fornøyelsesparken?",
+            "nl-NL": "Dit park is overwoekerd en vervallen. Kun je het weer in ere herstellen?",
+            "pl-PL": "Zarośnięty i zrujnowany, czy jesteś w stanie przywrócić świetność temu wesołemu miasteczku?",
+            "pt-BR": "Repleto de vegetação e delapidado, você consegue fazer este parque de diversões que já foi grande ressurgir?",
+            "sv-SE": "Igenvuxet och förfallet, kan du återuppliva detta övergivna nöjesfält?",
+            "tr-TR": "Terk edilmiş bu lunaparkı geride kalmış parlak haline getiriniz",
+            "zh-CN": "杂草丛生，破败不堪，你能复活这个曾经伟大的游乐园吗？",
+            "zh-TW": "你能拯救這個曾經輝煌過, 但現殘破又雜草叢生的主題樂園嗎?"
+        }
+    }
 }

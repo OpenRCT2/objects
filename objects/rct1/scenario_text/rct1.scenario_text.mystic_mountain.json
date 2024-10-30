@@ -1,64 +1,64 @@
 {
- "id": "rct1.scenario_text.mystic_mountain",
- "authors": [
-  "Chris Sawyer"
- ],
- "version": "1.0",
- "sourceGame": [
-  "rct1"
- ],
- "objectType": "scenario_text",
- "strings": {
-  "name": {
-   "ar-EG": "الجبل السحري",
-   "ca-ES": "La muntanya mística",
-   "en-GB": "Mystic Mountain",
-   "en-US": "Mothball Mountain",
-   "eo-ZZ": "Mistika Monto",
-   "es-ES": "Montaña Mística",
-   "fi-FI": "Salakallio",
-   "fr-FR": "Montagnes Mystiques",
-   "hu-HU": "Misztikus-hegy",
-   "ja-JP": "ミスティック・マウンテン",
-   "pt-BR": "Montanha Mística",
-   "zh-CN": "神秘山"
-  },
-  "park": {
-   "ar-EG": "الجبل السحري",
-   "ca-ES": "La muntanya mística",
-   "en-GB": "Mystic Mountain",
-   "en-US": "Mothball Mountain",
-   "eo-ZZ": "Mistika Monto",
-   "es-ES": "Montaña Mística",
-   "fi-FI": "Salakallio",
-   "fr-FR": "Montagnes Mystiques",
-   "hu-HU": "Misztikus-hegy",
-   "ko-KR": "신비한 산",
-   "pt-BR": "Montanha Mística",
-   "zh-CN": "神秘山"
-  },
-  "details": {
-   "ar-EG": "في غابات الجبل السحري، قم ببناء مدينة ملاهي من الصفر",
-   "ca-ES": "Construïu un parc temàtic des de zero en els boscos i turons de la muntanya mística.",
-   "da-DK": "I de bjergrige skove i Mystic Mountain, Byg en forlystelsespark fra bunden",
-   "de-DE": "Bauen Sie in den bergigen Wäldern der Mystic Mountains einen neuen Freizeitpark.",
-   "en-GB": "In the hilly forests of Mystic Mountain, build a theme park from scratch",
-   "en-US": "In the hilly forests of Mothball Mountain, build a theme park from scratch",
-   "eo-ZZ": "En la ondaj arbaroj de Mistika Monto, konstruu amuzparkon komencante de nulo",
-   "es-ES": "Construye un parque temático a partir de cero en las boscosas colinas de la Montaña Mística.",
-   "fi-FI": "Rakenna upouusi huvipuisto Salakallion mäkiseen metsään",
-   "fr-FR": "Dans les forêts vallonnées des Montagnes Mystiques, construisez un parc à thème en partant de rien.",
-   "hu-HU": "A nulláról kezdve építs egy vidámparkot Misztikus-hegy dombos erdeiben",
-   "it-IT": "Costruisci da zero un parco a tema nelle foreste collinose della Mystic Mountain",
-   "ko-KR": "비밀스런 숲 속 언덕에 처음부터 놀이공원을 건설하세요.",
-   "nb-NO": "Bygg en fornøyelsespark fra bunnen av i Mystic Mountains skogkledde åser",
-   "nl-NL": "Bouw vanaf het begin een pretpark in de heuvelachtige bossen van Mystic Mountain.",
-   "pl-PL": "W pagórkowatych lasach Mystic Mountain, zbuduj nowy park od podstaw",
-   "pt-BR": "Nas florestas da Montanha Mística, construa um parque temático do zero.",
-   "sv-SE": "Bygg ett nöjesfält från grunden i den bergiga skogen Mystic Mountain",
-   "tr-TR": "Bir dağın eteğine lunapark inşa ediniz",
-   "zh-CN": "在神秘山的丘陵森林中，从零开始建造主题公园",
-   "zh-TW": "在Mystic Mountain的崎嶇不平森林中, 由零開始建造一個樂園"
-  }
- }
+    "id": "rct1.scenario_text.mystic_mountain",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "الجبل السحري",
+            "ca-ES": "La muntanya mística",
+            "en-GB": "Mystic Mountain",
+            "en-US": "Mothball Mountain",
+            "eo-ZZ": "Mistika Monto",
+            "es-ES": "Montaña Mística",
+            "fi-FI": "Salakallio",
+            "fr-FR": "Montagnes Mystiques",
+            "hu-HU": "Misztikus-hegy",
+            "ja-JP": "ミスティック・マウンテン",
+            "pt-BR": "Montanha Mística",
+            "zh-CN": "神秘山"
+        },
+        "park_name": {
+            "ar-EG": "الجبل السحري",
+            "ca-ES": "La muntanya mística",
+            "en-GB": "Mystic Mountain",
+            "en-US": "Mothball Mountain",
+            "eo-ZZ": "Mistika Monto",
+            "es-ES": "Montaña Mística",
+            "fi-FI": "Salakallio",
+            "fr-FR": "Montagnes Mystiques",
+            "hu-HU": "Misztikus-hegy",
+            "ko-KR": "신비한 산",
+            "pt-BR": "Montanha Mística",
+            "zh-CN": "神秘山"
+        },
+        "details": {
+            "ar-EG": "في غابات الجبل السحري، قم ببناء مدينة ملاهي من الصفر",
+            "ca-ES": "Construïu un parc temàtic des de zero en els boscos i turons de la muntanya mística.",
+            "da-DK": "I de bjergrige skove i Mystic Mountain, Byg en forlystelsespark fra bunden",
+            "de-DE": "Bauen Sie in den bergigen Wäldern der Mystic Mountains einen neuen Freizeitpark.",
+            "en-GB": "In the hilly forests of Mystic Mountain, build a theme park from scratch",
+            "en-US": "In the hilly forests of Mothball Mountain, build a theme park from scratch",
+            "eo-ZZ": "En la ondaj arbaroj de Mistika Monto, konstruu amuzparkon komencante de nulo",
+            "es-ES": "Construye un parque temático a partir de cero en las boscosas colinas de la Montaña Mística.",
+            "fi-FI": "Rakenna upouusi huvipuisto Salakallion mäkiseen metsään",
+            "fr-FR": "Dans les forêts vallonnées des Montagnes Mystiques, construisez un parc à thème en partant de rien.",
+            "hu-HU": "A nulláról kezdve építs egy vidámparkot Misztikus-hegy dombos erdeiben",
+            "it-IT": "Costruisci da zero un parco a tema nelle foreste collinose della Mystic Mountain",
+            "ko-KR": "비밀스런 숲 속 언덕에 처음부터 놀이공원을 건설하세요.",
+            "nb-NO": "Bygg en fornøyelsespark fra bunnen av i Mystic Mountains skogkledde åser",
+            "nl-NL": "Bouw vanaf het begin een pretpark in de heuvelachtige bossen van Mystic Mountain.",
+            "pl-PL": "W pagórkowatych lasach Mystic Mountain, zbuduj nowy park od podstaw",
+            "pt-BR": "Nas florestas da Montanha Mística, construa um parque temático do zero.",
+            "sv-SE": "Bygg ett nöjesfält från grunden i den bergiga skogen Mystic Mountain",
+            "tr-TR": "Bir dağın eteğine lunapark inşa ediniz",
+            "zh-CN": "在神秘山的丘陵森林中，从零开始建造主题公园",
+            "zh-TW": "在Mystic Mountain的崎嶇不平森林中, 由零開始建造一個樂園"
+        }
+    }
 }

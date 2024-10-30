@@ -1,47 +1,47 @@
 {
- "id": "official.scenario_text.luna_park_cleveland",
- "authors": [
-  "Chris Sawyer"
- ],
- "version": "1.0",
- "sourceGame": [
-  "official"
- ],
- "objectType": "scenario_text",
- "strings": {
-  "name": {
-   "ar-EG": "حديقة لونا، كليفلاند",
-   "en-GB": "Luna Park, Cleveland",
-   "eo-ZZ": "Luna Parko, Klevlando",
-   "uk-UA": "Луна-парк, Клівленд",
-   "zh-CN": "克利夫兰的月神公园"
-  },
-  "park": {
-   "ar-EG": "حديقة لونا",
-   "en-GB": "Luna Park",
-   "eo-ZZ": "Luna Parko",
-   "ko-KR": "루나 파크",
-   "uk-UA": "Луна-парк",
-   "zh-CN": "月神公园"
-  },
-  "details": {
-   "ar-EG": "كما كانت في يوم أفتتاحها - 18 مايو 1905.{NEWLINE}المؤلف: Aetherwave",
-   "ca-ES": "Tal i com era el dia de la seva inauguració, el dia 18 de maig de 1.905.{NEWLINE}Autor: Aetherwave",
-   "da-DK": "Som den var på åbningsdagen - 18. Maj 1905.{NEWLINE}Forfatter: Aetherwave",
-   "de-DE": "So, wie er am Eröffnungstag war, den 18. Mai 1905.{NEWLINE}Autor: Aetherwave",
-   "en-GB": "As it was on its opening day - 18 May 1905.{NEWLINE}Author: Aetherwave",
-   "eo-ZZ": "Kiel ĝi estis en ĝia inaŭgura tago - 18 Majo 1905.{NEWLINE}Aŭtoro: Aetherwave",
-   "es-ES": "Tal y como era en el día de su inauguración - 18 de mayo de 1905.{NEWLINE}Autor: Aetherwave",
-   "fi-FI": "Aivan kuten se oli avajaispäivänään - 18. toukokuuta 1905.{NEWLINE}Tekijä: Aetherwave",
-   "fr-FR": "Comme à son jour d’ouverture — 18 mai 1905.{NEWLINE}Par : Aetherwave",
-   "hu-HU": "Amilyen a megnyitó napján volt - 1905. május 18-án.{NEWLINE}Szerző: Aetherwave",
-   "it-IT": "Proprio com’era il giorno della sua apertura, il 18 maggio 1905.{NEWLINE}Autore: Aetherwave",
-   "ko-KR": "공원 개장일이었떤 1905년 5월 18일처럼.{NEWLINE}제작자: Aetherwave",
-   "nb-NO": "Som den var på sin åpningsdag - 18 Mai 1905.{NEWLINE}Forfatter: Aetherwave",
-   "nl-NL": "Zoals het eruitzag op de openingsdag, 18 mei 1905.{NEWLINE}Gemaakt door: Aetherwave",
-   "pt-BR": "Como estava no seu dia de inauguração - 18 de maio de 1905.{NEWLINE}Autor: Aetherwave",
-   "uk-UA": "Таким він був у день відкриття — 18 травня 1905 року.{NEWLINE}Автор: Aetherwave",
-   "zh-CN": "一切就像它开幕当天一样——1905年5月18日。{NEWLINE}作者：Aetherwave"
-  }
- }
+    "id": "official.scenario_text.luna_park_cleveland",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "official"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "حديقة لونا، كليفلاند",
+            "en-GB": "Luna Park, Cleveland",
+            "eo-ZZ": "Luna Parko, Klevlando",
+            "uk-UA": "Луна-парк, Клівленд",
+            "zh-CN": "克利夫兰的月神公园"
+        },
+        "park_name": {
+            "ar-EG": "حديقة لونا",
+            "en-GB": "Luna Park",
+            "eo-ZZ": "Luna Parko",
+            "ko-KR": "루나 파크",
+            "uk-UA": "Луна-парк",
+            "zh-CN": "月神公园"
+        },
+        "details": {
+            "ar-EG": "كما كانت في يوم أفتتاحها - 18 مايو 1905.{NEWLINE}المؤلف: Aetherwave",
+            "ca-ES": "Tal i com era el dia de la seva inauguració, el dia 18 de maig de 1.905.{NEWLINE}Autor: Aetherwave",
+            "da-DK": "Som den var på åbningsdagen - 18. Maj 1905.{NEWLINE}Forfatter: Aetherwave",
+            "de-DE": "So, wie er am Eröffnungstag war, den 18. Mai 1905.{NEWLINE}Autor: Aetherwave",
+            "en-GB": "As it was on its opening day - 18 May 1905.{NEWLINE}Author: Aetherwave",
+            "eo-ZZ": "Kiel ĝi estis en ĝia inaŭgura tago - 18 Majo 1905.{NEWLINE}Aŭtoro: Aetherwave",
+            "es-ES": "Tal y como era en el día de su inauguración - 18 de mayo de 1905.{NEWLINE}Autor: Aetherwave",
+            "fi-FI": "Aivan kuten se oli avajaispäivänään - 18. toukokuuta 1905.{NEWLINE}Tekijä: Aetherwave",
+            "fr-FR": "Comme à son jour d’ouverture — 18 mai 1905.{NEWLINE}Par : Aetherwave",
+            "hu-HU": "Amilyen a megnyitó napján volt - 1905. május 18-án.{NEWLINE}Szerző: Aetherwave",
+            "it-IT": "Proprio com’era il giorno della sua apertura, il 18 maggio 1905.{NEWLINE}Autore: Aetherwave",
+            "ko-KR": "공원 개장일이었떤 1905년 5월 18일처럼.{NEWLINE}제작자: Aetherwave",
+            "nb-NO": "Som den var på sin åpningsdag - 18 Mai 1905.{NEWLINE}Forfatter: Aetherwave",
+            "nl-NL": "Zoals het eruitzag op de openingsdag, 18 mei 1905.{NEWLINE}Gemaakt door: Aetherwave",
+            "pt-BR": "Como estava no seu dia de inauguração - 18 de maio de 1905.{NEWLINE}Autor: Aetherwave",
+            "uk-UA": "Таким він був у день відкриття — 18 травня 1905 року.{NEWLINE}Автор: Aetherwave",
+            "zh-CN": "一切就像它开幕当天一样——1905年5月18日。{NEWLINE}作者：Aetherwave"
+        }
+    }
 }

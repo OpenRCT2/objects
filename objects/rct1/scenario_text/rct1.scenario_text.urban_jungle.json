@@ -1,59 +1,59 @@
 {
- "id": "rct1.scenario_text.urban_jungle",
- "authors": [
-  "Chris Sawyer"
- ],
- "version": "1.0",
- "sourceGame": [
-  "rct1"
- ],
- "objectType": "scenario_text",
- "strings": {
-  "name": {
-   "ar-EG": "الغابة الحضرية",
-   "ca-ES": "La jungla urbana",
-   "en-GB": "Urban Jungle",
-   "eo-ZZ": "Urba Ĝangalo",
-   "fi-FI": "Betoniviidakko",
-   "fr-FR": "Jungle Urbaine",
-   "hu-HU": "Városi Dzsungel",
-   "ja-JP": "アーバン・ジャングル",
-   "pt-BR": "Selva Urbana",
-   "zh-CN": "都市丛林"
-  },
-  "park": {
-   "ar-EG": "الغابة الحضرية",
-   "ca-ES": "La jungla urbana",
-   "en-GB": "Urban Jungle",
-   "eo-ZZ": "Urba Ĝangalo",
-   "fi-FI": "Betoniviidakko",
-   "fr-FR": "Jungle Urbaine",
-   "hu-HU": "Városi Dzsungel",
-   "ko-KR": "도시의 정글",
-   "pt-BR": "Selva Urbana",
-   "zh-CN": "都市丛林"
-  },
-  "details": {
-   "ar-EG": "ناطحة سحاب مهجورة عملاقة هي فرصة فريدة لمطور متنزه ملاهي",
-   "ca-ES": "Un gratacels gegant abandonat és l’única opció per a desenvolupar un parc temàtic.",
-   "da-DK": "En kæmpe forladt skyskraber er en enestående mulighed for en forlystelsespark udvikler",
-   "de-DE": "Ein gigantischer, verlassener Wolkenkratzer ist eine einmalige Gelegenheit für einen Vergnügungsparkbetreiber.",
-   "en-GB": "A giant abandoned skyscraper is a unique opportunity for a theme park developer",
-   "eo-ZZ": "Giganta forlasita ĉielskrapanto estas unika okazo por amuzparko-ellaboranto",
-   "es-ES": "Un rascacielos gigante abandonado es una oportunidad única para un desarrollador de parques temáticos.",
-   "fi-FI": "Jättimäinen hylätty pilvenpiirtäjä on erikoinen tilaisuus huvipuiston rakentajalle",
-   "fr-FR": "Un gratte-ciel géant à l’abandon : une occasion unique pour un concepteur de parc à thème.",
-   "hu-HU": "Ez a hatalmas elhagyatott felhőkarcoló egyedi lehetőség egy vidámpark-fejlesztő számára",
-   "it-IT": "Un gigantesco grattacielo abbandonato è un’occasione unica per un creatore di aree tematiche",
-   "ko-KR": "버려진 거대한 마천루 빌딩은 놀이공원 개발자에게는 독특한 기회일 것입니다.",
-   "nb-NO": "En gigantisk forlatt skyskraper er en unik mulighet for en fornøyelsesparkentrepenør",
-   "nl-NL": "Deze enorme verlaten wolkenkrabber is een unieke kans voor een pretparkontwikkelaar.",
-   "pl-PL": "Wielki opuszczony drapacz chmur jest świetną okazją do wykorzystania w wystroju parku",
-   "pt-BR": "Um gigante arranha-céu abandonado é a oportunidade única para um desenvolvedor de parque temático.",
-   "sv-SE": "En gigantisk övergiven skyskrapa är en unik chans till att bygga en park",
-   "tr-TR": "Bu terk edilmiş gökdelenin üstüne ve etrafına lunapark kurunuz",
-   "zh-CN": "一座巨大的废弃摩天大楼对主题公园开发商来说是一个难得的机会",
-   "zh-TW": "一座被棄置的摩天大樓是發展主題樂園的難得機會"
-  }
- }
+    "id": "rct1.scenario_text.urban_jungle",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "الغابة الحضرية",
+            "ca-ES": "La jungla urbana",
+            "en-GB": "Urban Jungle",
+            "eo-ZZ": "Urba Ĝangalo",
+            "fi-FI": "Betoniviidakko",
+            "fr-FR": "Jungle Urbaine",
+            "hu-HU": "Városi Dzsungel",
+            "ja-JP": "アーバン・ジャングル",
+            "pt-BR": "Selva Urbana",
+            "zh-CN": "都市丛林"
+        },
+        "park_name": {
+            "ar-EG": "الغابة الحضرية",
+            "ca-ES": "La jungla urbana",
+            "en-GB": "Urban Jungle",
+            "eo-ZZ": "Urba Ĝangalo",
+            "fi-FI": "Betoniviidakko",
+            "fr-FR": "Jungle Urbaine",
+            "hu-HU": "Városi Dzsungel",
+            "ko-KR": "도시의 정글",
+            "pt-BR": "Selva Urbana",
+            "zh-CN": "都市丛林"
+        },
+        "details": {
+            "ar-EG": "ناطحة سحاب مهجورة عملاقة هي فرصة فريدة لمطور متنزه ملاهي",
+            "ca-ES": "Un gratacels gegant abandonat és l’única opció per a desenvolupar un parc temàtic.",
+            "da-DK": "En kæmpe forladt skyskraber er en enestående mulighed for en forlystelsespark udvikler",
+            "de-DE": "Ein gigantischer, verlassener Wolkenkratzer ist eine einmalige Gelegenheit für einen Vergnügungsparkbetreiber.",
+            "en-GB": "A giant abandoned skyscraper is a unique opportunity for a theme park developer",
+            "eo-ZZ": "Giganta forlasita ĉielskrapanto estas unika okazo por amuzparko-ellaboranto",
+            "es-ES": "Un rascacielos gigante abandonado es una oportunidad única para un desarrollador de parques temáticos.",
+            "fi-FI": "Jättimäinen hylätty pilvenpiirtäjä on erikoinen tilaisuus huvipuiston rakentajalle",
+            "fr-FR": "Un gratte-ciel géant à l’abandon : une occasion unique pour un concepteur de parc à thème.",
+            "hu-HU": "Ez a hatalmas elhagyatott felhőkarcoló egyedi lehetőség egy vidámpark-fejlesztő számára",
+            "it-IT": "Un gigantesco grattacielo abbandonato è un’occasione unica per un creatore di aree tematiche",
+            "ko-KR": "버려진 거대한 마천루 빌딩은 놀이공원 개발자에게는 독특한 기회일 것입니다.",
+            "nb-NO": "En gigantisk forlatt skyskraper er en unik mulighet for en fornøyelsesparkentrepenør",
+            "nl-NL": "Deze enorme verlaten wolkenkrabber is een unieke kans voor een pretparkontwikkelaar.",
+            "pl-PL": "Wielki opuszczony drapacz chmur jest świetną okazją do wykorzystania w wystroju parku",
+            "pt-BR": "Um gigante arranha-céu abandonado é a oportunidade única para um desenvolvedor de parque temático.",
+            "sv-SE": "En gigantisk övergiven skyskrapa är en unik chans till att bygga en park",
+            "tr-TR": "Bu terk edilmiş gökdelenin üstüne ve etrafına lunapark kurunuz",
+            "zh-CN": "一座巨大的废弃摩天大楼对主题公园开发商来说是一个难得的机会",
+            "zh-TW": "一座被棄置的摩天大樓是發展主題樂園的難得機會"
+        }
+    }
 }

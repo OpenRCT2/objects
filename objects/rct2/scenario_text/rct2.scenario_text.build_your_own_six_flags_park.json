@@ -1,70 +1,70 @@
 {
- "id": "rct2.scenario_text.build_your_own_six_flags_park",
- "authors": [
-  "Chris Sawyer"
- ],
- "version": "1.0",
- "originalId": "0A18808A|STEX2   |04FC5740",
- "sourceGame": [
-  "rct2"
- ],
- "objectType": "scenario_text",
- "strings": {
-  "name": {
-   "ar-EG": "قم ببناء حديقة الستةأعلام الخاص بك",
-   "ca-ES": "El vostre Six Flags",
-   "cs-CZ": "Postavte si svůj vlastní Six Flags Park",
-   "de-DE": "Bauen Sie Ihren eigenen Six-Flags-Park",
-   "en-GB": "Build your own Six Flags Park",
-   "eo-ZZ": "Konstrui vian propran parkon de Six Flags",
-   "es-ES": "Construye tu propio parque Six Flags",
-   "fi-FI": "Rakenna oma Six Flags -puistosi",
-   "fr-FR": "Construisez votre propre parc Six Flags",
-   "hu-HU": "Építsd meg a saját Six Flags parkodat",
-   "it-IT": "Costruisci il tuo parco Six Flags",
-   "ja-JP": "自身のシックス・フラッグス・パーク",
-   "ko-KR": "당신만의 식스 플래그 공원 건설",
-   "nb-NO": "Bygg din egen Six Flags Park",
-   "nl-NL": "Bouw je eigen Six Flags-park",
-   "pl-PL": "Wybuduj własny park “Six Flags”",
-   "pt-BR": "Construa seu próprio Parque Six Flags",
-   "ru-RU": "Постройте Парк Six Flags",
-   "sv-SE": "Bygg din egen Six Flags-Park",
-   "zh-CN": "建造你自己的 六旗游乐园",
-   "zh-TW": "建造你自己的六旗遊樂園"
-  },
-  "park": {
-   "ar-EG": "الستة أعلام",
-   "en-GB": "Six Flags",
-   "ko-KR": "식스 플래그",
-   "zh-CN": "六旗游乐园",
-   "zh-TW": "六旗"
-  },
-  "details": {
-   "ar-EG": "قم ببناء التصميم الخاص بك لحديقة الأعلام الستة - أو قم ببناء الرحلات من حدائق الأعلام الستة الأخرى أو قم بتصميم وبناء ألعابك الخاصة",
-   "ca-ES": "Construïu el vostre disseny del parc Six Flags. Construïu atraccions d’altres Six Flags o bé dissenyeu-ne de noves.",
-   "cs-CZ": "Postavte si svůj vlastní návrh Six Flags zábavního parku - použijte buď atrakce z jiných Six Flags parků, nebo si navrhněte vlastní",
-   "da-DK": "Byg dit eget Six Flags park design - Enten ved at bygge forlystelser fra andre Six Flags parker eller ved at designe og bygge dine egne forlystelser",
-   "de-DE": "Setzen Sie Ihren eigenen Entwurf eines Six-Flags-Park um. Bauen Sie entweder Bahnen aus anderen Six-Flags-Parks oder entwerfen und bauen Sie Ihre eigenen Bahnen",
-   "en-GB": "Build your own design of Six Flags park - either build rides from other Six Flags parks or design and build your own rides",
-   "en-US": "Build your own design of Six Flags park - Either build rides from other Six Flags parks or design and build your own rides",
-   "eo-ZZ": "Konstruu vian propran desegnaĵon de parko de Six Flags - aŭ konstruu atrakciojn de aliaj parkoj de Six Flags, aŭ desegnu kaj konstruu viajn proprajn atrakciojn",
-   "es-ES": "Construye tu propio diseño de un parque Six Flags. Ya sea incluyendo atracciones de otros parques Six Flags, o poniendo tu propia impronta.",
-   "fi-FI": "Rakenna oma Six Flags -puistosi - rakenna joko muiden Six Flags -puistojen laitteet, tai luo ja rakenna omat laitteesi",
-   "fr-FR": "Construisez votre propre parc Six Flags : inspirez-vous des attractions des autres parcs Six Flags ou bien imaginez-les vous-même.",
-   "hu-HU": "Építs saját tervezésű Six Flags parkot - vagy más Six Flags parkokból építs játékokat, vagy tervezz és építs saját játékokat",
-   "it-IT": "Costruisci il tuo progetto di parco Six Flags: costruisci le attrazioni degli altri parchi Six Flags oppure progettale da solo",
-   "ja-JP": "このテーマパークに自身シックス・フラッグス・パークを作って下さい。",
-   "ko-KR": "당신만의 디자인대로 식스 플래그 공원을 만드세요. 다른 식스 플래그 공원의 놀이기구를 짓거나 자신만의 놀이기구를 만들어보세요.",
-   "nb-NO": "Bygg din en egendefinerte Six Flags park - Enten bygg attraksjoner fra andre Six Flags parker eller design dine egne attraksjoner",
-   "nl-NL": "Maak je eigen Six Flags-park, door gebruik te maken van attracties uit andere Six Flags-parken of door zelf nieuwe attracties te ontwerpen.",
-   "pl-PL": "Wybuduj własny park “Six Flags” - wykorzystaj obiekty z innych parków tej sieci lub projektuj i buduj własne atrakcje.",
-   "pt-BR": "Construa seu próprio design do parque Six Flags - Ou construa atrações de outros parques Six Flags ou projete e construa suas próprias atrações",
-   "ru-RU": "Постройте собственный парк Six Flags. Вы можете строить собственные аттракционы.",
-   "sv-SE": "Designa din egen Six Flags-park – Bygg antingen attraktioner från andra Six Flags-parker eller designa och bygg dina egna attraktioner",
-   "tr-TR": "Kendi Six Flags parkınızı inşa ediniz",
-   "zh-CN": "建造你自己设计的六旗游乐园——你可以从其他六旗游乐园借鉴或者设计建造你自己的游乐设施",
-   "zh-TW": "建造你自己設計的六旗遊樂園- 從其他的六旗遊樂園建造遊樂設施或是設計及建造你自己擁有的遊樂設施"
-  }
- }
+    "id": "rct2.scenario_text.build_your_own_six_flags_park",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "0A18808A|STEX2   |04FC5740",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "قم ببناء حديقة الستةأعلام الخاص بك",
+            "ca-ES": "El vostre Six Flags",
+            "cs-CZ": "Postavte si svůj vlastní Six Flags Park",
+            "de-DE": "Bauen Sie Ihren eigenen Six-Flags-Park",
+            "en-GB": "Build your own Six Flags Park",
+            "eo-ZZ": "Konstrui vian propran parkon de Six Flags",
+            "es-ES": "Construye tu propio parque Six Flags",
+            "fi-FI": "Rakenna oma Six Flags -puistosi",
+            "fr-FR": "Construisez votre propre parc Six Flags",
+            "hu-HU": "Építsd meg a saját Six Flags parkodat",
+            "it-IT": "Costruisci il tuo parco Six Flags",
+            "ja-JP": "自身のシックス・フラッグス・パーク",
+            "ko-KR": "당신만의 식스 플래그 공원 건설",
+            "nb-NO": "Bygg din egen Six Flags Park",
+            "nl-NL": "Bouw je eigen Six Flags-park",
+            "pl-PL": "Wybuduj własny park “Six Flags”",
+            "pt-BR": "Construa seu próprio Parque Six Flags",
+            "ru-RU": "Постройте Парк Six Flags",
+            "sv-SE": "Bygg din egen Six Flags-Park",
+            "zh-CN": "建造你自己的 六旗游乐园",
+            "zh-TW": "建造你自己的六旗遊樂園"
+        },
+        "park_name": {
+            "ar-EG": "الستة أعلام",
+            "en-GB": "Six Flags",
+            "ko-KR": "식스 플래그",
+            "zh-CN": "六旗游乐园",
+            "zh-TW": "六旗"
+        },
+        "details": {
+            "ar-EG": "قم ببناء التصميم الخاص بك لحديقة الأعلام الستة - أو قم ببناء الرحلات من حدائق الأعلام الستة الأخرى أو قم بتصميم وبناء ألعابك الخاصة",
+            "ca-ES": "Construïu el vostre disseny del parc Six Flags. Construïu atraccions d’altres Six Flags o bé dissenyeu-ne de noves.",
+            "cs-CZ": "Postavte si svůj vlastní návrh Six Flags zábavního parku - použijte buď atrakce z jiných Six Flags parků, nebo si navrhněte vlastní",
+            "da-DK": "Byg dit eget Six Flags park design - Enten ved at bygge forlystelser fra andre Six Flags parker eller ved at designe og bygge dine egne forlystelser",
+            "de-DE": "Setzen Sie Ihren eigenen Entwurf eines Six-Flags-Park um. Bauen Sie entweder Bahnen aus anderen Six-Flags-Parks oder entwerfen und bauen Sie Ihre eigenen Bahnen",
+            "en-GB": "Build your own design of Six Flags park - either build rides from other Six Flags parks or design and build your own rides",
+            "en-US": "Build your own design of Six Flags park - Either build rides from other Six Flags parks or design and build your own rides",
+            "eo-ZZ": "Konstruu vian propran desegnaĵon de parko de Six Flags - aŭ konstruu atrakciojn de aliaj parkoj de Six Flags, aŭ desegnu kaj konstruu viajn proprajn atrakciojn",
+            "es-ES": "Construye tu propio diseño de un parque Six Flags. Ya sea incluyendo atracciones de otros parques Six Flags, o poniendo tu propia impronta.",
+            "fi-FI": "Rakenna oma Six Flags -puistosi - rakenna joko muiden Six Flags -puistojen laitteet, tai luo ja rakenna omat laitteesi",
+            "fr-FR": "Construisez votre propre parc Six Flags : inspirez-vous des attractions des autres parcs Six Flags ou bien imaginez-les vous-même.",
+            "hu-HU": "Építs saját tervezésű Six Flags parkot - vagy más Six Flags parkokból építs játékokat, vagy tervezz és építs saját játékokat",
+            "it-IT": "Costruisci il tuo progetto di parco Six Flags: costruisci le attrazioni degli altri parchi Six Flags oppure progettale da solo",
+            "ja-JP": "このテーマパークに自身シックス・フラッグス・パークを作って下さい。",
+            "ko-KR": "당신만의 디자인대로 식스 플래그 공원을 만드세요. 다른 식스 플래그 공원의 놀이기구를 짓거나 자신만의 놀이기구를 만들어보세요.",
+            "nb-NO": "Bygg din en egendefinerte Six Flags park - Enten bygg attraksjoner fra andre Six Flags parker eller design dine egne attraksjoner",
+            "nl-NL": "Maak je eigen Six Flags-park, door gebruik te maken van attracties uit andere Six Flags-parken of door zelf nieuwe attracties te ontwerpen.",
+            "pl-PL": "Wybuduj własny park “Six Flags” - wykorzystaj obiekty z innych parków tej sieci lub projektuj i buduj własne atrakcje.",
+            "pt-BR": "Construa seu próprio design do parque Six Flags - Ou construa atrações de outros parques Six Flags ou projete e construa suas próprias atrações",
+            "ru-RU": "Постройте собственный парк Six Flags. Вы можете строить собственные аттракционы.",
+            "sv-SE": "Designa din egen Six Flags-park – Bygg antingen attraktioner från andra Six Flags-parker eller designa och bygg dina egna attraktioner",
+            "tr-TR": "Kendi Six Flags parkınızı inşa ediniz",
+            "zh-CN": "建造你自己设计的六旗游乐园——你可以从其他六旗游乐园借鉴或者设计建造你自己的游乐设施",
+            "zh-TW": "建造你自己設計的六旗遊樂園- 從其他的六旗遊樂園建造遊樂設施或是設計及建造你自己擁有的遊樂設施"
+        }
+    }
 }

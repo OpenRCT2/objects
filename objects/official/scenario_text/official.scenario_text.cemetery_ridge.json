@@ -1,57 +1,57 @@
 {
- "id": "official.scenario_text.cemetery_ridge",
- "authors": [
-  "Chris Sawyer"
- ],
- "version": "1.0",
- "sourceGame": [
-  "official"
- ],
- "objectType": "scenario_text",
- "strings": {
-  "name": {
-   "ar-EG": "مقبرة التلال",
-   "ca-ES": "La cresta del cementiri",
-   "en-GB": "Cemetery Ridge",
-   "eo-ZZ": "Tombeja Kresto",
-   "es-ES": "Loma del cementerio",
-   "fi-FI": "Kalmistokallio",
-   "fr-FR": "Crête du cimetière",
-   "hu-HU": "Temető-gerinc",
-   "uk-UA": "Цвинтарний хребет",
-   "zh-CN": "墓地飞车"
-  },
-  "park": {
-   "ar-EG": "مقبرة التلال",
-   "ca-ES": "La cresta del cementiri",
-   "en-GB": "Cemetery Ridge",
-   "eo-ZZ": "Tombeja Kresto",
-   "es-ES": "Loma del cementerio",
-   "fi-FI": "Kalmistokallio",
-   "fr-FR": "Crête du cimetière",
-   "hu-HU": "Temető-gerinc",
-   "ko-KR": "묘지 언덕",
-   "uk-UA": "Цвинтарний хребет",
-   "zh-CN": "墓地飞车"
-  },
-  "details": {
-   "ar-EG": "هذا عيد الهالوين ،UCES هالوين، القرع يصرخ في جوف الليل! هذه المقبرة في ورطة والأمر متروك لك لإنقاذها مع ترك الموتى يرقدون بسلام! هل يمكنك إبقاء الأشباح في قبورهم وتجلب القشعريرة لعملائك؟{NEWLINE}المؤلف: Squid",
-   "ca-ES": "Aquest Halloween, el Halloween UCES, les carabasses cridaran durant les hores més fosques de la nit! Aquest cementiri té problemes i l’heu de salvar, al mateix temps que heu de permetre que els morts descansin en pau. Podeu deixar tranquils els fantasmes a les seves tombes i fer que els visitants s’estremeixin?{NEWLINE}Autor: Squid",
-   "da-DK": "Dette er Halloween, UCES Halloween, græskar skriger i nattens mulm og mørke! Denne kirkegård er i problemer, og det er op til dig at redde den, mens du lader de døde hvile i fred! Kan du holde spøgelserne i deres grave og give de besøgende kuldegysninger?{NEWLINE}Forfatter: Squid",
-   "de-DE": "Es ist Halloween, UCES-Halloween. Kürbisse kreischen in der kalten toten Nacht! Dieser Friedhof ist in Gefahr, und es liegt an Ihnen, ihn zu retten, während Sie die Toten in Frieden ruhen lassen. Können Sie die Geister in ihren Gräbern halten und Ihren Kunden das Fürchten lehren?{NEWLINE}Autor: Squid",
-   "en-GB": "This is Halloween, UCES Halloween, pumpkins scream in the dead of night! This graveyard is in trouble and it’s up to you to save it, while letting the dead rest in peace! Can you keep the ghosts in their graves and bring chills to your customers?{NEWLINE}Author: Squid",
-   "eo-ZZ": "Ĉi Tio estas Haloveno, UCES Haloveno, kukurboj kriegas en la plena nokto! Ĉi tiu tombejo havas problemon kaj ĝi dependas de vi por savi ĝin, dum lasinte la mortinton ripozi en paco! Ĉu vi povas teni la fantomojn en iliaj tomboj kaj alporti frostotremojn al viaj klientoj?{NEWLINE}Aŭtoro: Squid",
-   "es-ES": "Esto es halloween, el Halloween UCES, ¡las calabazas gritan en la oscuridad de la noche! Este cementerio está en problemas y tu trabajo es salvarlo, ¡mientras dejas que los muertos descansen en paz! ¿Podrás mantener a los fantasmas en sus tumbas y escalofriar a tus clientes?{NEWLINE}Autor: Squid",
-   "fi-FI": "Nyt on halloween, UCES halloween, kurpitsat kirkuvat öisin tääl’! Tämä hautausmaa on pulassa, ja vain sinä voit sen pelastaa - kunhan annat vainajien levätä rauhassa! Pystytkö pitämään kummitukset haudoissaan, ja kävijät värinöissään?{NEWLINE}Tekijä: Squid",
-   "fr-FR": "C’est Halloween, l’Halloween UCES, les citrouilles hurlent au milieu de la nuit ! Ce cimetière est en mauvaise posture et vous devez le sauver, tout en laissant les défunts reposer en paix ! Pouvez-vous garder les fantômes dans leurs tombes et faire frissonner vos clients ?{NEWLINE}Par : Squid",
-   "hu-HU": "Itt van halloween, UCES halloween, tök lámpás ami gyertyát rejt! Mentsd meg a bajba jutott temetőt, ügyelve a halottak békéjére! Képes vagy a szellemeket sírjukban tartani és frászt hozni a vendégeidre?{NEWLINE}Szerző: Squid",
-   "it-IT": "Questo è Halloween, l’Halloween di UCES, le zucche urlano nel bel mezzo della notte! Questo cimitero è in grossi guai e tocca a te salvarlo, lasciando però i morti riposare in pace! Sarai in grado di tenere i fantasmi all’interno delle loro tombe e far rabbrividire i tuoi visitatori?{NEWLINE}Autore: Squid",
-   "ko-KR": "핼러원, UCES의 핼러윈, 호박이 비명을 지르는 죽음의 밤! 죽은 자들을 편히 쉬게 하는 동시에 어려운 처지에 놓여있는 이 묘지를 구하는 것은 당신의 몫입니다! 유령을 무덤에 가둬놓고 손님들에게 오들오들함을 선사할 수 있나요?{NEWLINE}제작자: Squid",
-   "nb-NO": "Dette er Halloween, UCES Halloween, gresskar skriker i nattens mørke! Denne kirkegården har trøbbel og det er opp til deg å redde den, mens du lar de døde hvile i fred! Kan du holde spøkelsene i deres graver og bringe frysninger til dine kunder?{NEWLINE}Forfatter: Squid",
-   "nl-NL": "Het is Allerheiligenavond bij UCES en de pompoenen komen tot leven! Deze begraafplaats is in de problemen gekomen en het is jouw taak om deze op te lossen, zonder de doden te storen! Gaat het je lukken om de geesten in de graven te houden en je bezoekers koude rillingen te bezorgen?{NEWLINE}Gemaakt door: Squid",
-   "pt-BR": "É Halloween, Halloween do UCES, abóboras gritam na calada da noite! Esse cemitério está em apuros e cabe a você salvá-lo enquanto deixa os mortos descansarem em paz! Você consegue manter os fantasmas em seus túmulos e dar calafrios aos seus clientes?{NEWLINE}Autor: Squid",
-   "uk-UA": "Це Геловін, Геловін UCES, гарбузи кричать серед ночі! Цей цвинтар у біді, і тільки ти можеш врятувати його, дозволивши мертвим спочивати з миром! Чи зможеш ти утримати привидів у їхніх могилах і нагнати жаху на своїх відвідувачів?{NEWLINE}Автор: Squid",
-   "zh-CN": "万圣节到了，UCES万圣节，南瓜在夜深人静时尖叫！这个墓地有麻烦了，由你来拯救它，同时让死者安息！你能把鬼魂留在他们的坟墓里，给你的顾客带来寒意吗？"
-  }
- }
+    "id": "official.scenario_text.cemetery_ridge",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "official"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "مقبرة التلال",
+            "ca-ES": "La cresta del cementiri",
+            "en-GB": "Cemetery Ridge",
+            "eo-ZZ": "Tombeja Kresto",
+            "es-ES": "Loma del cementerio",
+            "fi-FI": "Kalmistokallio",
+            "fr-FR": "Crête du cimetière",
+            "hu-HU": "Temető-gerinc",
+            "uk-UA": "Цвинтарний хребет",
+            "zh-CN": "墓地飞车"
+        },
+        "park_name": {
+            "ar-EG": "مقبرة التلال",
+            "ca-ES": "La cresta del cementiri",
+            "en-GB": "Cemetery Ridge",
+            "eo-ZZ": "Tombeja Kresto",
+            "es-ES": "Loma del cementerio",
+            "fi-FI": "Kalmistokallio",
+            "fr-FR": "Crête du cimetière",
+            "hu-HU": "Temető-gerinc",
+            "ko-KR": "묘지 언덕",
+            "uk-UA": "Цвинтарний хребет",
+            "zh-CN": "墓地飞车"
+        },
+        "details": {
+            "ar-EG": "هذا عيد الهالوين ،UCES هالوين، القرع يصرخ في جوف الليل! هذه المقبرة في ورطة والأمر متروك لك لإنقاذها مع ترك الموتى يرقدون بسلام! هل يمكنك إبقاء الأشباح في قبورهم وتجلب القشعريرة لعملائك؟{NEWLINE}المؤلف: Squid",
+            "ca-ES": "Aquest Halloween, el Halloween UCES, les carabasses cridaran durant les hores més fosques de la nit! Aquest cementiri té problemes i l’heu de salvar, al mateix temps que heu de permetre que els morts descansin en pau. Podeu deixar tranquils els fantasmes a les seves tombes i fer que els visitants s’estremeixin?{NEWLINE}Autor: Squid",
+            "da-DK": "Dette er Halloween, UCES Halloween, græskar skriger i nattens mulm og mørke! Denne kirkegård er i problemer, og det er op til dig at redde den, mens du lader de døde hvile i fred! Kan du holde spøgelserne i deres grave og give de besøgende kuldegysninger?{NEWLINE}Forfatter: Squid",
+            "de-DE": "Es ist Halloween, UCES-Halloween. Kürbisse kreischen in der kalten toten Nacht! Dieser Friedhof ist in Gefahr, und es liegt an Ihnen, ihn zu retten, während Sie die Toten in Frieden ruhen lassen. Können Sie die Geister in ihren Gräbern halten und Ihren Kunden das Fürchten lehren?{NEWLINE}Autor: Squid",
+            "en-GB": "This is Halloween, UCES Halloween, pumpkins scream in the dead of night! This graveyard is in trouble and it’s up to you to save it, while letting the dead rest in peace! Can you keep the ghosts in their graves and bring chills to your customers?{NEWLINE}Author: Squid",
+            "eo-ZZ": "Ĉi Tio estas Haloveno, UCES Haloveno, kukurboj kriegas en la plena nokto! Ĉi tiu tombejo havas problemon kaj ĝi dependas de vi por savi ĝin, dum lasinte la mortinton ripozi en paco! Ĉu vi povas teni la fantomojn en iliaj tomboj kaj alporti frostotremojn al viaj klientoj?{NEWLINE}Aŭtoro: Squid",
+            "es-ES": "Esto es halloween, el Halloween UCES, ¡las calabazas gritan en la oscuridad de la noche! Este cementerio está en problemas y tu trabajo es salvarlo, ¡mientras dejas que los muertos descansen en paz! ¿Podrás mantener a los fantasmas en sus tumbas y escalofriar a tus clientes?{NEWLINE}Autor: Squid",
+            "fi-FI": "Nyt on halloween, UCES halloween, kurpitsat kirkuvat öisin tääl’! Tämä hautausmaa on pulassa, ja vain sinä voit sen pelastaa - kunhan annat vainajien levätä rauhassa! Pystytkö pitämään kummitukset haudoissaan, ja kävijät värinöissään?{NEWLINE}Tekijä: Squid",
+            "fr-FR": "C’est Halloween, l’Halloween UCES, les citrouilles hurlent au milieu de la nuit ! Ce cimetière est en mauvaise posture et vous devez le sauver, tout en laissant les défunts reposer en paix ! Pouvez-vous garder les fantômes dans leurs tombes et faire frissonner vos clients ?{NEWLINE}Par : Squid",
+            "hu-HU": "Itt van halloween, UCES halloween, tök lámpás ami gyertyát rejt! Mentsd meg a bajba jutott temetőt, ügyelve a halottak békéjére! Képes vagy a szellemeket sírjukban tartani és frászt hozni a vendégeidre?{NEWLINE}Szerző: Squid",
+            "it-IT": "Questo è Halloween, l’Halloween di UCES, le zucche urlano nel bel mezzo della notte! Questo cimitero è in grossi guai e tocca a te salvarlo, lasciando però i morti riposare in pace! Sarai in grado di tenere i fantasmi all’interno delle loro tombe e far rabbrividire i tuoi visitatori?{NEWLINE}Autore: Squid",
+            "ko-KR": "핼러원, UCES의 핼러윈, 호박이 비명을 지르는 죽음의 밤! 죽은 자들을 편히 쉬게 하는 동시에 어려운 처지에 놓여있는 이 묘지를 구하는 것은 당신의 몫입니다! 유령을 무덤에 가둬놓고 손님들에게 오들오들함을 선사할 수 있나요?{NEWLINE}제작자: Squid",
+            "nb-NO": "Dette er Halloween, UCES Halloween, gresskar skriker i nattens mørke! Denne kirkegården har trøbbel og det er opp til deg å redde den, mens du lar de døde hvile i fred! Kan du holde spøkelsene i deres graver og bringe frysninger til dine kunder?{NEWLINE}Forfatter: Squid",
+            "nl-NL": "Het is Allerheiligenavond bij UCES en de pompoenen komen tot leven! Deze begraafplaats is in de problemen gekomen en het is jouw taak om deze op te lossen, zonder de doden te storen! Gaat het je lukken om de geesten in de graven te houden en je bezoekers koude rillingen te bezorgen?{NEWLINE}Gemaakt door: Squid",
+            "pt-BR": "É Halloween, Halloween do UCES, abóboras gritam na calada da noite! Esse cemitério está em apuros e cabe a você salvá-lo enquanto deixa os mortos descansarem em paz! Você consegue manter os fantasmas em seus túmulos e dar calafrios aos seus clientes?{NEWLINE}Autor: Squid",
+            "uk-UA": "Це Геловін, Геловін UCES, гарбузи кричать серед ночі! Цей цвинтар у біді, і тільки ти можеш врятувати його, дозволивши мертвим спочивати з миром! Чи зможеш ти утримати привидів у їхніх могилах і нагнати жаху на своїх відвідувачів?{NEWLINE}Автор: Squid",
+            "zh-CN": "万圣节到了，UCES万圣节，南瓜在夜深人静时尖叫！这个墓地有麻烦了，由你来拯救它，同时让死者安息！你能把鬼魂留在他们的坟墓里，给你的顾客带来寒意吗？"
+        }
+    }
 }

@@ -1,61 +1,61 @@
 {
- "id": "rct1.scenario_text.rainbow_valley",
- "authors": [
-  "Chris Sawyer"
- ],
- "version": "1.0",
- "sourceGame": [
-  "rct1"
- ],
- "objectType": "scenario_text",
- "strings": {
-  "name": {
-   "ar-EG": "وادي قوس القزح",
-   "ca-ES": "La vall de l’arc iris",
-   "en-GB": "Rainbow Valley",
-   "eo-ZZ": "Ĉielarko-Valo",
-   "es-ES": "Valle del Arcoíris",
-   "fi-FI": "Sateenkaarilaakso",
-   "fr-FR": "Vallée Arc-en-ciel",
-   "hu-HU": "Szivárványvölgy",
-   "ja-JP": "レインボー・バレー",
-   "pt-BR": "Vale do Arco-íris",
-   "zh-CN": "彩虹谷"
-  },
-  "park": {
-   "ar-EG": "وادي قوس القزح",
-   "ca-ES": "La vall de l’arc iris",
-   "en-GB": "Rainbow Valley",
-   "eo-ZZ": "Ĉielarko-Valo",
-   "es-ES": "Valle del Arcoíris",
-   "fi-FI": "Sateenkaarilaakso",
-   "fr-FR": "Vallée Arc-en-ciel",
-   "hu-HU": "Szivárványvölgy",
-   "ko-KR": "무지개 계곡",
-   "pt-BR": "Vale do Arco-íris",
-   "zh-CN": "彩虹谷"
-  },
-  "details": {
-   "ar-EG": "لن تسمح السلطة المحلية في \"وادي قوس القزح\" بأي تغييرات في المناظر الطبيعية أو إزالة الأشجار الكبيرة، ولكن يجب عليك تطوير المنطقة لتصبح حديقة ملاهي كبيرة",
-   "ca-ES": "Les autoritats locals de la vall no permetran canvis en el terreny ni que es treguin arbres centenaris. L’haureu de desenvolupar amb molt de compte per a convertir-la en un parc temàtic.",
-   "da-DK": "Rainbow Valley lokale myndighed vil ikke tillade nogen landskabsændringer eller store træ rydninger, men du skal udvikle området til en stor forlystelsespark",
-   "de-DE": "Die örtlichen Behörden von Rainbow Valley werden landschaftliche Veränderungen oder größere Baumrodungen nicht erlauben, aber Sie sollen in dem Gebiet einen großen Freizeitpark entstehen lassen.",
-   "en-GB": "Rainbow Valley’s local authority won’t allow any landscape changes or large tree removal, but you must develop the area into a large theme park",
-   "eo-ZZ": "La loka aŭtoritato de Ĉielarko-Valo ne permesos iun ajn ŝanĝadon de tero aŭ forigadon de grandaj arboj, sed vi devas ellabori la areon en grandan amuzparkon",
-   "es-ES": "Las autoridades del Valle del Arcoíris no te dejarán introducir cambios paisajísticos ni eliminar árboles grandes; Aún así, debes convertir el área en un gran parque temático.",
-   "fi-FI": "Sateenkaarilaakson paikallisviranomaiset eivät anna lupaa maansiirtoon tai isojen puiden kaatamiseen, mutta sinun tulee silti kehittää alueesta iso huvipuisto",
-   "fr-FR": "Les autorités locales de la Vallée Arc-en-ciel ne permettront aucun changement dans l’aménagement du territoire ou l’abattage de gros arbres, mais vous devez transformer la zone en un grand parc à thème.",
-   "hu-HU": "Szivárványvölgy helyi önkormányzata nem engedélyez semmilyen tájátalakítást vagy a nagy fák eltávolítását, de a területet egy hatalmas vidámparkká kell fejlesztened",
-   "it-IT": "Le autorità di Rainbow Valley non permettono modifiche al panorama o estesi disboscamenti; cerca comunque di sviluppare l’area e creare un parco a tema più grande",
-   "ko-KR": "무지개 계곡의 지역 당국이 풍경을 바꾸거나 큰 나무를 제거할 수 없게 금지했지만, 이 지역을 개발하여 대형 놀이공원으로 바꿔야만 합니다.",
-   "nb-NO": "De lokale myndighetene i Rainbow Valley tillater hverken endringer i landskapet eller felling av trær, men du må utvikle området til å bli en stor fornøyelsespark",
-   "nl-NL": "Van de gemeenteraad van Rainbow Valley mag het landschap niet gewijzigd worden en er mogen er geen grote bomen worden gekapt. Desondanks moet je het gebied ontwikkelen tot een groot pretpark.",
-   "pl-PL": "Lokalne władze nie pozwolą na żadne zmiany krajobrazu ani na wycinkę dużej liczby drzew, lecz mimo to musisz zbudować tutaj wielki park rozrywki",
-   "pt-BR": "A autoridade local do Vale do Arco-íris não permite mudanças no terreno ou remover as árvores, mas você deve desenvolver a área em um grande parque temático.",
-   "sv-SE": "Rainbow Valleys lokala myndighet tillåter inga landändringar eller stora trädfällningar, men du måste göra en stor park av marken ändå",
-   "tr-TR": "Yerel makamlardan arazi değişiklikleri yasaklanmış bir alanda lunapark oluşturunuz",
-   "zh-CN": "彩虹谷的地方当局不允许任何景观变化或大树砍伐，但您必须将该地区开发成大型主题公园。",
-   "zh-TW": "Rainbow Valley的當地政府不容許改變土地或移除樹木, 但你要將此地區發展為一個大型樂園"
-  }
- }
+    "id": "rct1.scenario_text.rainbow_valley",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "وادي قوس القزح",
+            "ca-ES": "La vall de l’arc iris",
+            "en-GB": "Rainbow Valley",
+            "eo-ZZ": "Ĉielarko-Valo",
+            "es-ES": "Valle del Arcoíris",
+            "fi-FI": "Sateenkaarilaakso",
+            "fr-FR": "Vallée Arc-en-ciel",
+            "hu-HU": "Szivárványvölgy",
+            "ja-JP": "レインボー・バレー",
+            "pt-BR": "Vale do Arco-íris",
+            "zh-CN": "彩虹谷"
+        },
+        "park_name": {
+            "ar-EG": "وادي قوس القزح",
+            "ca-ES": "La vall de l’arc iris",
+            "en-GB": "Rainbow Valley",
+            "eo-ZZ": "Ĉielarko-Valo",
+            "es-ES": "Valle del Arcoíris",
+            "fi-FI": "Sateenkaarilaakso",
+            "fr-FR": "Vallée Arc-en-ciel",
+            "hu-HU": "Szivárványvölgy",
+            "ko-KR": "무지개 계곡",
+            "pt-BR": "Vale do Arco-íris",
+            "zh-CN": "彩虹谷"
+        },
+        "details": {
+            "ar-EG": "لن تسمح السلطة المحلية في \"وادي قوس القزح\" بأي تغييرات في المناظر الطبيعية أو إزالة الأشجار الكبيرة، ولكن يجب عليك تطوير المنطقة لتصبح حديقة ملاهي كبيرة",
+            "ca-ES": "Les autoritats locals de la vall no permetran canvis en el terreny ni que es treguin arbres centenaris. L’haureu de desenvolupar amb molt de compte per a convertir-la en un parc temàtic.",
+            "da-DK": "Rainbow Valley lokale myndighed vil ikke tillade nogen landskabsændringer eller store træ rydninger, men du skal udvikle området til en stor forlystelsespark",
+            "de-DE": "Die örtlichen Behörden von Rainbow Valley werden landschaftliche Veränderungen oder größere Baumrodungen nicht erlauben, aber Sie sollen in dem Gebiet einen großen Freizeitpark entstehen lassen.",
+            "en-GB": "Rainbow Valley’s local authority won’t allow any landscape changes or large tree removal, but you must develop the area into a large theme park",
+            "eo-ZZ": "La loka aŭtoritato de Ĉielarko-Valo ne permesos iun ajn ŝanĝadon de tero aŭ forigadon de grandaj arboj, sed vi devas ellabori la areon en grandan amuzparkon",
+            "es-ES": "Las autoridades del Valle del Arcoíris no te dejarán introducir cambios paisajísticos ni eliminar árboles grandes; Aún así, debes convertir el área en un gran parque temático.",
+            "fi-FI": "Sateenkaarilaakson paikallisviranomaiset eivät anna lupaa maansiirtoon tai isojen puiden kaatamiseen, mutta sinun tulee silti kehittää alueesta iso huvipuisto",
+            "fr-FR": "Les autorités locales de la Vallée Arc-en-ciel ne permettront aucun changement dans l’aménagement du territoire ou l’abattage de gros arbres, mais vous devez transformer la zone en un grand parc à thème.",
+            "hu-HU": "Szivárványvölgy helyi önkormányzata nem engedélyez semmilyen tájátalakítást vagy a nagy fák eltávolítását, de a területet egy hatalmas vidámparkká kell fejlesztened",
+            "it-IT": "Le autorità di Rainbow Valley non permettono modifiche al panorama o estesi disboscamenti; cerca comunque di sviluppare l’area e creare un parco a tema più grande",
+            "ko-KR": "무지개 계곡의 지역 당국이 풍경을 바꾸거나 큰 나무를 제거할 수 없게 금지했지만, 이 지역을 개발하여 대형 놀이공원으로 바꿔야만 합니다.",
+            "nb-NO": "De lokale myndighetene i Rainbow Valley tillater hverken endringer i landskapet eller felling av trær, men du må utvikle området til å bli en stor fornøyelsespark",
+            "nl-NL": "Van de gemeenteraad van Rainbow Valley mag het landschap niet gewijzigd worden en er mogen er geen grote bomen worden gekapt. Desondanks moet je het gebied ontwikkelen tot een groot pretpark.",
+            "pl-PL": "Lokalne władze nie pozwolą na żadne zmiany krajobrazu ani na wycinkę dużej liczby drzew, lecz mimo to musisz zbudować tutaj wielki park rozrywki",
+            "pt-BR": "A autoridade local do Vale do Arco-íris não permite mudanças no terreno ou remover as árvores, mas você deve desenvolver a área em um grande parque temático.",
+            "sv-SE": "Rainbow Valleys lokala myndighet tillåter inga landändringar eller stora trädfällningar, men du måste göra en stor park av marken ändå",
+            "tr-TR": "Yerel makamlardan arazi değişiklikleri yasaklanmış bir alanda lunapark oluşturunuz",
+            "zh-CN": "彩虹谷的地方当局不允许任何景观变化或大树砍伐，但您必须将该地区开发成大型主题公园。",
+            "zh-TW": "Rainbow Valley的當地政府不容許改變土地或移除樹木, 但你要將此地區發展為一個大型樂園"
+        }
+    }
 }

@@ -1,74 +1,74 @@
 {
- "id": "rct2.scenario_text.amity_airfield",
- "authors": [
-  "Chris Sawyer"
- ],
- "version": "1.0",
- "originalId": "0A18818A|STEX6   |CDA20197",
- "sourceGame": [
-  "rct2"
- ],
- "objectType": "scenario_text",
- "strings": {
-  "name": {
-   "ar-EG": "مطار أميتي",
-   "ca-ES": "Aeròdrom de la concòrdia",
-   "de-DE": "Amity-Flugplatz",
-   "en-GB": "Amity Airfield",
-   "eo-ZZ": "Amikeco-Aerodromo",
-   "es-ES": "Aeroparque Amity",
-   "fi-FI": "Lennokas lentokenttä",
-   "fr-FR": "La Piste de l’envol",
-   "hu-HU": "Barátság Repülőtér",
-   "it-IT": "Campo d’aviazione dell’amicizia",
-   "ja-JP": "アミティ・エアフィールド",
-   "ko-KR": "우호 비행장",
-   "pt-BR": "Aeroporto da Amizade",
-   "sv-SE": "Vänskapsflygfält",
-   "zh-CN": "和睦机场",
-   "zh-TW": "亞米提飛機場"
-  },
-  "park": {
-   "ar-EG": "مطار أميتي",
-   "ca-ES": "Aeròdrom de la concòrdia",
-   "de-DE": "Amity-Flugplatz",
-   "en-GB": "Amity Airfield",
-   "eo-ZZ": "Amikeco-Aerodromo",
-   "es-ES": "Aeroparque Amity",
-   "fi-FI": "Lennokas lentokenttä",
-   "fr-FR": "La Piste de l’envol",
-   "hu-HU": "Barátság Repülőtér",
-   "it-IT": "Campo d’aviazione dell’amicizia",
-   "ko-KR": "우호 비행장",
-   "pt-BR": "Aeroporto da Amizade",
-   "sv-SE": "Vänskapsflygfält",
-   "zh-CN": "和睦机场",
-   "zh-TW": "亞米提飛機場"
-  },
-  "details": {
-   "ar-EG": "قم ببناء متنزه ترفيهي ذا طابع الطيران بهذا المطار المهجور",
-   "ca-ES": "Construïu un parc d’atraccions de temàtica aeronàutica en un aeroport abandonat.",
-   "cs-CZ": "Postavte letecky-orientovaný zábavní park na tomto opuštěném letišti",
-   "da-DK": "Byg en forlystelsespark med luftfart som tema, i en forladt lufthavn.",
-   "de-DE": "Bauen Sie einen Vergnügungspark mit dem Thema „Fliegen“ auf diesem verlassenen Flughafen",
-   "en-GB": "Build a flying-themed amusement park in this abandoned airport",
-   "eo-ZZ": "Konstruu amuzparkon kun flugado-temo en ĉi tiu forlasita flughaveno",
-   "es-ES": "Construye un parque de alto vuelo en este aeropuerto abandonado.",
-   "fi-FI": "Rakenna lentoteemainen huvipuisto tämän hylätyn lentokentän kupeeseen",
-   "fr-FR": "Construisez un parc d’attractions sur le thème de l’aéronautique dans cet aéroport abandonné.",
-   "hu-HU": "Építs egy repülés témájú vidámparkot ezen az elhagyatott repülőtéren",
-   "it-IT": "Costruisci un parco avente come tema il volo in questo aeroporto abbandonato",
-   "ja-JP": "この放置された空港を、飛行をテーマにした遊園地に造り替えてください",
-   "ko-KR": "이 버려진 비행장에 날아다니는 것을 주제로 한 놀이공원을 만들어보세요.",
-   "nb-NO": "Bygg en fornøyelsespark på denne forlatte flyplassen med fly-tema",
-   "nl-NL": "Bouw een amusementspark met een luchtvaartthema op dit verlaten vliegveld.",
-   "pl-PL": "Wybuduj na tym opuszczonym lotnisku park rozrywki z lotniczym wystrojem.",
-   "pt-BR": "Construa um parque de diversões com tema voador nesse aeroporto abandonado",
-   "ru-RU": "Постройте парк на территории заброшенного аэродрома.",
-   "sv-SE": "Bygg en nöjespark med flygtema på den här övergivna flygplatsen",
-   "tr-TR": "Bu terk edilmiş havalimanına lunapark inşa ediniz",
-   "zh-CN": "在这个被遗弃的飞机场建立一个以飞行为主题的游乐园",
-   "zh-TW": "在這個放棄的機場建一座飛行樂趣的遊樂園"
-  }
- }
+    "id": "rct2.scenario_text.amity_airfield",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "0A18818A|STEX6   |CDA20197",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "مطار أميتي",
+            "ca-ES": "Aeròdrom de la concòrdia",
+            "de-DE": "Amity-Flugplatz",
+            "en-GB": "Amity Airfield",
+            "eo-ZZ": "Amikeco-Aerodromo",
+            "es-ES": "Aeroparque Amity",
+            "fi-FI": "Lennokas lentokenttä",
+            "fr-FR": "La Piste de l’envol",
+            "hu-HU": "Barátság Repülőtér",
+            "it-IT": "Campo d’aviazione dell’amicizia",
+            "ja-JP": "アミティ・エアフィールド",
+            "ko-KR": "우호 비행장",
+            "pt-BR": "Aeroporto da Amizade",
+            "sv-SE": "Vänskapsflygfält",
+            "zh-CN": "和睦机场",
+            "zh-TW": "亞米提飛機場"
+        },
+        "park_name": {
+            "ar-EG": "مطار أميتي",
+            "ca-ES": "Aeròdrom de la concòrdia",
+            "de-DE": "Amity-Flugplatz",
+            "en-GB": "Amity Airfield",
+            "eo-ZZ": "Amikeco-Aerodromo",
+            "es-ES": "Aeroparque Amity",
+            "fi-FI": "Lennokas lentokenttä",
+            "fr-FR": "La Piste de l’envol",
+            "hu-HU": "Barátság Repülőtér",
+            "it-IT": "Campo d’aviazione dell’amicizia",
+            "ko-KR": "우호 비행장",
+            "pt-BR": "Aeroporto da Amizade",
+            "sv-SE": "Vänskapsflygfält",
+            "zh-CN": "和睦机场",
+            "zh-TW": "亞米提飛機場"
+        },
+        "details": {
+            "ar-EG": "قم ببناء متنزه ترفيهي ذا طابع الطيران بهذا المطار المهجور",
+            "ca-ES": "Construïu un parc d’atraccions de temàtica aeronàutica en un aeroport abandonat.",
+            "cs-CZ": "Postavte letecky-orientovaný zábavní park na tomto opuštěném letišti",
+            "da-DK": "Byg en forlystelsespark med luftfart som tema, i en forladt lufthavn.",
+            "de-DE": "Bauen Sie einen Vergnügungspark mit dem Thema „Fliegen“ auf diesem verlassenen Flughafen",
+            "en-GB": "Build a flying-themed amusement park in this abandoned airport",
+            "eo-ZZ": "Konstruu amuzparkon kun flugado-temo en ĉi tiu forlasita flughaveno",
+            "es-ES": "Construye un parque de alto vuelo en este aeropuerto abandonado.",
+            "fi-FI": "Rakenna lentoteemainen huvipuisto tämän hylätyn lentokentän kupeeseen",
+            "fr-FR": "Construisez un parc d’attractions sur le thème de l’aéronautique dans cet aéroport abandonné.",
+            "hu-HU": "Építs egy repülés témájú vidámparkot ezen az elhagyatott repülőtéren",
+            "it-IT": "Costruisci un parco avente come tema il volo in questo aeroporto abbandonato",
+            "ja-JP": "この放置された空港を、飛行をテーマにした遊園地に造り替えてください",
+            "ko-KR": "이 버려진 비행장에 날아다니는 것을 주제로 한 놀이공원을 만들어보세요.",
+            "nb-NO": "Bygg en fornøyelsespark på denne forlatte flyplassen med fly-tema",
+            "nl-NL": "Bouw een amusementspark met een luchtvaartthema op dit verlaten vliegveld.",
+            "pl-PL": "Wybuduj na tym opuszczonym lotnisku park rozrywki z lotniczym wystrojem.",
+            "pt-BR": "Construa um parque de diversões com tema voador nesse aeroporto abandonado",
+            "ru-RU": "Постройте парк на территории заброшенного аэродрома.",
+            "sv-SE": "Bygg en nöjespark med flygtema på den här övergivna flygplatsen",
+            "tr-TR": "Bu terk edilmiş havalimanına lunapark inşa ediniz",
+            "zh-CN": "在这个被遗弃的飞机场建立一个以飞行为主题的游乐园",
+            "zh-TW": "在這個放棄的機場建一座飛行樂趣的遊樂園"
+        }
+    }
 }
