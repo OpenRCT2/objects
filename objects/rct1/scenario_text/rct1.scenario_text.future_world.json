@@ -1,0 +1,61 @@
+{
+    "id": "rct1.scenario_text.future_world",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB4F0A|STEX928 |CF385012",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "عالم المستقبل",
+            "ca-ES": "El món del futur",
+            "en-GB": "Future World",
+            "eo-ZZ": "Estonto-Mondo",
+            "fi-FI": "Tulevaisuuden maa",
+            "fr-FR": "Monde Futur",
+            "hu-HU": "Jövőbeli Világ",
+            "ja-JP": "未来世界",
+            "pt-BR": "Mundo Futurista",
+            "zh-CN": "未来之地"
+        },
+        "park_name": {
+            "ar-EG": "عالم المستقبل",
+            "ca-ES": "El món del futur",
+            "en-GB": "Future World",
+            "eo-ZZ": "Estonto-Mondo",
+            "fi-FI": "Tulevaisuuden maa",
+            "fr-FR": "Monde Futur",
+            "hu-HU": "Jövőbeli Világ",
+            "ja-JP": "未来世界",
+            "ko-KR": "미래 세계",
+            "pt-BR": "Mundo Futurista",
+            "zh-CN": "未来之地"
+        },
+        "details": {
+            "ar-EG": "هذه الحديقة المستقبلية لديها الكثير من المساحة لتبني العديد من الإفعوانيات علي أرضها الفضائية",
+            "ca-ES": "Aquest parc futurístic disposa de molt d’espai lliure per a noves atraccions en terreny alienígena.",
+            "da-DK": "Denne futuristiske forlystelsespark, har masser af plads til nye forlystelser på sit fremmede landskab",
+            "de-DE": "Dieser futuristische Park bietet auf seinem fremdartigen Gelände viel Platz für neue Attraktionen.",
+            "en-GB": "This futuristic park has plenty of space for new rides on its alien landscape",
+            "eo-ZZ": "Ĉi tiu estonteca parko havas multe da spaco por novaj atrakcioj sur ĝia ekstertera pejzaĝo",
+            "es-ES": "Este parque futurista tiene sitio de sobra para nuevas atracciones en la zona de paisajes extraterrestres.",
+            "fi-FI": "Tässä futuristisessa puistossa on runsaasti tilaa uusia laitteita varten",
+            "fr-FR": "L’étrange paysage de ce parc futuriste offre suffisamment d’espace pour la construction de nouvelles attractions.",
+            "hu-HU": "E futurisztikus park földönkívüli táján bőven van hely az új játékok számára",
+            "it-IT": "Questo parco futuristico dal tema alieno ha molto spazio per nuove attrazioni",
+            "ko-KR": "이 미래지향적인 공원에는 외계 지형 위에 새로운 놀이기구를 지을 넓은 공간이 있습니다.",
+            "nb-NO": "Denne framtidsparken med sitt utenomjordiske landskap har stor plass for nye attraksjoner",
+            "nl-NL": "Dit futuristische park met buitenaards landschap heeft genoeg ruimte beschikbaar voor nieuwe attracties.",
+            "pl-PL": "Ten futurystyczny park posiada pełno miejsca na nowe atrakcje w jego obcym krajobranie",
+            "pt-BR": "Este parque futurista tem muito espaço para novas atrações em sua paisagem alienígena.",
+            "sv-SE": "Denna futuristiska park har massor med plats för nya åkturer i dess rymdlandskap",
+            "tr-TR": "Bu uzaylı ve Mars temalı park müşterileri diğer bir gezegene götürüyor",
+            "zh-CN": "这个未来派的公园有足够的空间供新的游乐设施在其外星景观中使用",
+            "zh-TW": "這個於外星土地上, 並富有未來感的樂園擁有很多建造遊樂設施的空間"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "id": "rct1.scenario_text.pleasure_island",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB400A|STEX970 |6815B25B",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "جزيرة المتعة",
+            "ca-ES": "L’illa Delícia",
+            "en-GB": "Pleasure Island",
+            "eo-ZZ": "Plezuro-Insulo",
+            "fi-FI": "Huvisaari",
+            "fr-FR": "Îles Délices",
+            "hu-HU": "Élménysziget",
+            "ja-JP": "プレジャー・アイランド",
+            "pt-BR": "Ilha do Prazer",
+            "zh-CN": "欢悦岛"
+        },
+        "park_name": {
+            "ar-EG": "جزيرة المتعة",
+            "ca-ES": "L’illa Delícia",
+            "en-GB": "Pleasure Island",
+            "eo-ZZ": "Plezuro-Insulo",
+            "fi-FI": "Huvisaari",
+            "fr-FR": "Îles Délices",
+            "hu-HU": "Élménysziget",
+            "ko-KR": "즐거운 섬",
+            "pt-BR": "Ilha do Prazer",
+            "zh-CN": "欢悦岛"
+        },
+        "details": {
+            "ar-EG": "جزيرة رفيعة طويلة تشكل بيئة صعبة لبناء مجموعة من الأفعوانيات",
+            "ca-ES": "Una illa llarga i estreta que fa difícil triar i construir una bona selecció de muntanyes russes.",
+            "da-DK": "En lang tynd ø uggør en udfordrende ramme til at konstruere et udvalg af rutchebaner",
+            "de-DE": "Diese lange, schmale Insel ist Anreiz genug, eine Auswahl an Achterbahnen zu errichten.",
+            "en-GB": "A long thin island makes a challenging setting to build a selection of coasters",
+            "eo-ZZ": "Longa mallarĝa insulo fariĝas defia okazejo por konstrui elektaron da ondaj fervojoj",
+            "es-ES": "Una larga y estrecha isla será el desafiante entorno en el que debes construir una selección de montañas rusas.",
+            "fi-FI": "Saaren pitkä ja kapea muoto tekee vuoristoratojen rakennuksesta haastavaa",
+            "fr-FR": "Un vrai défi : implanter une sélection de montagnes russes sur une île longue et étroite.",
+            "hu-HU": "A hosszú, keskeny sziget kihívásokkal teli helyszín a megadott hullámvasutak építésére",
+            "it-IT": "Una lunga isola sottile è una base impegnativa per la costruzione di una selezione di montagne russe",
+            "ko-KR": "길고 가느다란 섬에서 롤러코스터 건설에 도전해보세요.",
+            "nb-NO": "En lang tynn øy blir utfordrende omgivelser for å bygge et utvalg berg-og-dal-baner",
+            "nl-NL": "Dit lange, smalle eiland is een uitdagende locatie om een aantal achtbanen te bouwen.",
+            "pl-PL": "Długie i cienkie wyspy są wyzwaniem przy budowie kolejek",
+            "pt-BR": "Uma longa ilha fina fornece um cenário desafiador para construir uma seleção de montanhas-russas.",
+            "sv-SE": "En lång smal ö gör det utmanande att bygga berg- och dalbanor med endast ett fåtal att välja mellan",
+            "tr-TR": "Uzun ince bir adanın üstüne lunapark inşa ediniz",
+            "zh-CN": "一个狭长的岛屿使得过山车的建筑变得富有挑战",
+            "zh-TW": "一個又長又窄的島嶼令到建造挑選好的雲霄飛車十分有挑戰性"
+        }
+    }
+}

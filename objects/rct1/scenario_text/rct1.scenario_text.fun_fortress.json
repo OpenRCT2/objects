@@ -1,0 +1,60 @@
+{
+    "id": "rct1.scenario_text.fun_fortress",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB4F0A|STEX927 |ED40C0D6",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "قلعة المرح",
+            "ca-ES": "La fortalesa de la diversió",
+            "en-GB": "Fun Fortress",
+            "eo-ZZ": "Amuza Fortreso",
+            "fi-FI": "Ilolinna",
+            "fr-FR": "Forteresse Frivole",
+            "hu-HU": "Vidám Vár",
+            "ja-JP": "ファン・フォートレス",
+            "pt-BR": "Fortaleza Divertida",
+            "zh-CN": "趣味堡垒"
+        },
+        "park_name": {
+            "ar-EG": "قلعة المرح",
+            "ca-ES": "La fortalesa de la diversió",
+            "en-GB": "Fun Fortress",
+            "eo-ZZ": "Amuza Fortreso",
+            "fi-FI": "Ilolinna",
+            "fr-FR": "Forteresse Frivole",
+            "hu-HU": "Vidám Vár",
+            "ko-KR": "즐거운 요새",
+            "pt-BR": "Fortaleza Divertida",
+            "zh-CN": "趣味堡垒"
+        },
+        "details": {
+            "ar-EG": "هذه الحديقة كلها لك لكي تحولها إلي حديقة ترفيهية",
+            "ca-ES": "Aquest castell és tot vostre per a convertir-lo en un parc temàtic.",
+            "da-DK": "Denne borg, kan du forvandle til en forlystelspark ",
+            "de-DE": "Sie können Ihrer Fantasie freien Lauf lassen, damit ein Themenpark aus diesem Schloss entsteht.",
+            "en-GB": "This castle is all yours to turn into a theme park",
+            "eo-ZZ": "Ĉi tiu fortreso estas tute via por ŝanĝiĝi al amuzparko",
+            "es-ES": "Este castillo queda a tu entera disposición para que lo conviertas en un parque temático.",
+            "fi-FI": "Tämä linna on annettu käsiisi teemapuiston kehitystä varten",
+            "fr-FR": "À vous de transformer ce château en parc d’attractions.",
+            "hu-HU": "Ez a vár csak arra vár, hogy vidámparkká alakítsd",
+            "it-IT": "Un castello pronto per diventare un parco a tema",
+            "ko-KR": "이 성은 이제 당신의 소유입니다. 이 성을 놀이공원으로 바꾸어보세요.",
+            "nb-NO": "Du får gjøre dette slottet om til en fornøyelsespark",
+            "nl-NL": "Je mag dit kasteel naar eigen inzicht veranderen in een pretpark.",
+            "pl-PL": "Zamień ten zamek w wymarzony park rozrywki",
+            "pt-BR": "Este castelo é todo seu para transformar em um parque temático.",
+            "sv-SE": "Detta slott är ditt att förvandla till ett nöjesfält",
+            "tr-TR": "Eski bir kalenin alanına lunapark kurunuz",
+            "zh-CN": "这整个城堡都是你的，快把它改造为主题乐园吧",
+            "zh-TW": "這個城堡現可由你任意發展成一個樂園"
+        }
+    }
+}

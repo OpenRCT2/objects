@@ -1,0 +1,59 @@
+{
+    "id": "rct1.scenario_text.ivory_towers",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB4F0A|STEX918 |E6312257",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ca-ES": "Les torres de vori",
+            "en-GB": "Ivory Towers",
+            "eo-ZZ": "Eburo-Turoj",
+            "es-ES": "Torres de marfil",
+            "fi-FI": "Norsunluutornit",
+            "fr-FR": "Tours d’Ivoire",
+            "hu-HU": "Elefántcsont-tornyok",
+            "ja-JP": "アイボリー・タワーズ",
+            "pt-BR": "Torres de Marfim",
+            "zh-CN": "象牙塔"
+        },
+        "park_name": {
+            "ca-ES": "Les torres de vori",
+            "en-GB": "Ivory Towers",
+            "eo-ZZ": "Eburo-Turoj",
+            "es-ES": "Torres de marfil",
+            "fi-FI": "Norsunluutornit",
+            "fr-FR": "Tours d’Ivoire",
+            "hu-HU": "Elefántcsont-tornyok",
+            "ko-KR": "상아 탑",
+            "pt-BR": "Torres de Marfim",
+            "zh-CN": "象牙塔"
+        },
+        "details": {
+            "ca-ES": "Un parc ben establert que té alguns problemes.",
+            "da-DK": "En veletableret Park, som har et par problemer",
+            "de-DE": "Ein gut geführter Park, der jedoch ein paar Probleme hat.",
+            "en-GB": "A well-established park, which has a few problems",
+            "eo-ZZ": "Bone-establita parko, kiu havas kelkajn problemojn",
+            "es-ES": "Un parque bien establecido, con algunos problemas.",
+            "fi-FI": "Pitkälle kehitetty puisto, jossa on pari ongelmaa",
+            "fr-FR": "Un parc bien établi, qui a quelques petits problèmes.",
+            "hu-HU": "Egy jól működő park, amely néhány problémával küzd",
+            "it-IT": "Un parco conosciuto, ma con qualche problema",
+            "ko-KR": "문제가 몇 가지 있지만 잘 구성된 공원입니다.",
+            "nb-NO": "En veletablert park med noen problemer",
+            "nl-NL": "Een gevestigd park met een aantal problemen.",
+            "pl-PL": "Park z ugruntowaną pozycją, jednak z kilkoma problemami",
+            "pt-BR": "Um parque bem estabelecido, que possui alguns problemas.",
+            "sv-SE": "En välgrundad park som har några problem",
+            "tr-TR": "Küçük araziye fakat büyük sorunlara sahip bir lunapark",
+            "zh-CN": "一个完善的但拥有一些小问题的公园。",
+            "zh-TW": "一個有數項問題的知名樂園"
+        }
+    }
+}

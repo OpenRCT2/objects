@@ -1,0 +1,62 @@
+{
+    "id": "rct1.scenario_text.evergreen_gardens",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB4F0A|STEX904 |10B85C2A",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "الحدائق الخضراء دائماً",
+            "ca-ES": "Els jardins perennes",
+            "en-GB": "Evergreen Gardens",
+            "eo-ZZ": "Ĉiamverdaj Ĝardenoj",
+            "es-ES": "Jardines Perennes",
+            "fi-FI": "Ikivihreä puutarha",
+            "fr-FR": "Jardins Verdoyants",
+            "hu-HU": "Örökzöld Kert",
+            "ja-JP": "エバーグリーン・ガーデンズ",
+            "pt-BR": "Jardins Perenes",
+            "zh-CN": "常青花园"
+        },
+        "park_name": {
+            "ar-EG": "الحدائق الخضراء دائماً",
+            "ca-ES": "Els jardins perennes",
+            "en-GB": "Evergreen Gardens",
+            "eo-ZZ": "Ĉiamverdaj Ĝardenoj",
+            "es-ES": "Jardines Perennes",
+            "fi-FI": "Ikivihreä puutarha",
+            "fr-FR": "Jardins Verdoyants",
+            "hu-HU": "Örökzöld Kert",
+            "ko-KR": "상록수 정원",
+            "pt-BR": "Jardins Perenes",
+            "zh-CN": "常青花园"
+        },
+        "details": {
+            "ar-EG": "حول الحدائق الخضراء دائماً إلى مدينة ترفيهية مزدهرة",
+            "ca-ES": "Convertiu aquests preciosos jardins perennes en un parc temàtic pròsper.",
+            "da-DK": "Konverter den smukke ‘Evergreen Gardens’ om til en blomstrende forlystelsespark",
+            "de-DE": "Wandeln Sie die schönen Evergreen Gardens in einen gut besuchten Freizeitpark um.",
+            "en-GB": "Convert the beautiful Evergreen Gardens into a thriving theme park",
+            "eo-ZZ": "Konvertu la belajn Ĉiamverdajn Ĝardenojn en prosperan amuzparkon",
+            "es-ES": "Convierte los hermosos Jardines Perennes en un próspero parque temático.",
+            "fi-FI": "Muunna kaunis puutarha menestyväksi huvipuistoksi",
+            "fr-FR": "Transformez les magnifiques Jardins Verdoyants en un parc à thème florissant.",
+            "hu-HU": "Alakítsd át a csodaszép Örökzöld Kertet egy virágzó vidámparkká",
+            "it-IT": "Trasforma i bellissimi Evergreen Gardens in un fiorente parco a tema",
+            "ko-KR": "아름다운 상록수 정원을 번창한 놀이공원으로 바꿔보세요.",
+            "nb-NO": "Konverter den praktfulle parken Evergreen Gardens til en blomstrende fornøyelsespark",
+            "nl-NL": "Verander de schitterende Evergreen Gardens in een bloeiend pretpark.",
+            "pl-PL": "Przemień piękne Evergreen Gardens w kwitnący park tematyczny",
+            "pt-BR": "Converta os belos Jardins Perenes em um próspero parque temático.",
+            "sv-SE": "Gör om den vackra trädgården till en spännande nöjespark",
+            "tr-TR": "Evergreen Gardens isimli bu alanı güzel bir Lunaparka dönüştürünüz",
+            "zh-CN": "将景色优美的常青花园转型成一个很受欢迎的乐园",
+            "zh-TW": "將景色優美的Evergreen Gardens轉型成一個很受歡迎的樂園"
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "id": "rct2.scenario_text.build_your_own_six_flags_great_adventure",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "0A18818A|STEX35  |223F302C",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "قم ببناء مغامرتك الرائعة ذات الأعلام الستة",
+            "ca-ES": "El vostre Six Flags Great Adventure",
+            "cs-CZ": "Postavte si svůj vlastní Six Flags Great Adventure",
+            "de-DE": "Bauen Sie Ihr eigenes Six Flags Great Adventure",
+            "en-GB": "Build your own Six Flags Great Adventure",
+            "eo-ZZ": "Konstrui je via propra Six Flags Great Adventure",
+            "es-ES": "Construye tu propio Six Flags Gran Aventura",
+            "fi-FI": "Rakenna oma Six Flags Great Adventuresi",
+            "fr-FR": "Construisez votre propre Grande Aventure Six Flags",
+            "hu-HU": "Építsd meg a saját Six Flags Great Adventure-ödet",
+            "it-IT": "Costruisci la tua Grande avventura Six Flags",
+            "ja-JP": "自身のシックス・フラッグス・グレート・アドベンチャー",
+            "ko-KR": "식스 플래그 그레이트 어드벤처 건설",
+            "nb-NO": "Bygg din egen Six Flags Great Adventure",
+            "nl-NL": "Bouw je eigen Six Flags Great Adventure",
+            "pl-PL": "Wybuduj własny park “Six Flags Great Adventure”",
+            "pt-BR": "Construa sua própria Grande Aventura Six Flags",
+            "ru-RU": "Постройте свой парк Six Flags Great Adventure",
+            "sv-SE": "Bygg ditt eget Six Flags Great Adventure",
+            "zh-CN": "建造你自己的 六旗大冒险游乐园",
+            "zh-TW": "建造屬於你的六旗大型規模冒險樂園"
+        },
+        "park_name": {
+            "ar-EG": "مغامرات الستة أعلام العظيمة",
+            "en-GB": "Six Flags Great Adventure",
+            "es-ES": "Six Flags Gran Aventura",
+            "fr-FR": "Grande Aventure Six Flags",
+            "it-IT": "Grande avventura Six Flags",
+            "ko-KR": "그레이트 어드벤처",
+            "pt-BR": "Grande Aventura Six Flags",
+            "zh-CN": "六旗大冒险",
+            "zh-TW": "六旗大型規模冒險樂園"
+        },
+        "details": {
+            "ar-EG": "استخدم مهارات التصميم الخاصة بك لإعادة إنشاء حديقة الأعلام الستة",
+            "ca-ES": "Empreu les vostres tècniques de disseny per tal de recrear aquest parc Six Flag.",
+            "cs-CZ": "Využijte svých návrhářských dovedností a vytvořte tento Six Flags zábavní park",
+            "da-DK": "Brug dine designer evner, til at genopbygge denne ‘Six Flags’ forlystelsespark",
+            "de-DE": "Nutzen Sie Ihre Entwurfsfähigkeiten, um diesen Six-Flags-Park nachzubauen",
+            "en-GB": "Use your design skills to recreate this Six Flags park",
+            "eo-ZZ": "Uzu viajn kapablojn de desegnado por rekrei ĉi tiun parkon de Six Flags",
+            "es-ES": "Usa tus habilidades de diseño para recrear este parque de Six Flags",
+            "fi-FI": "Käytä luovia kykyjäsi tämän Six Flags -puiston jäljennykseen",
+            "fr-FR": "Utilisez vos dons de créateur pour rebâtir ce parc Six Flags.",
+            "hu-HU": "Használd a tervezői képességeidet, hogy újraalkosd ezt a Six Flags parkot",
+            "it-IT": "Usa la tua abilità nel progettare per ricreare questo parco Six Flags",
+            "ja-JP": "このテーマパークに自身のシックス・フラッグス・パークを作って下さい。",
+            "ko-KR": "이 식스 플래그 공원을 당신의 디자인 기술로 재탄생시키십시오.",
+            "nb-NO": "Bruk dine designferdigheter for å gjenskape denne Six Flags parken",
+            "nl-NL": "Gebruik je ontwerpvaardigheden om dit Six Flags-park opnieuw te maken.",
+            "pl-PL": "Skorzystaj ze swoich umiejętności projektowania, aby odtworzyć ten park “Six Flags”",
+            "pt-BR": "Use suas habilidades de design para recriar este parque Six Flags",
+            "ru-RU": "Восстановите этот парк Six Flags.",
+            "sv-SE": "Använd din designförmåga för att återskapa den här Six Flags-parken",
+            "tr-TR": "Kendi Six Flags Great Adventure parkınız inşa ediniz",
+            "zh-CN": "使用您的设计技能来重建这个六旗游乐园",
+            "zh-TW": "運用你的設計能力使六旗遊樂園具娛樂性"
+        }
+    }
+}

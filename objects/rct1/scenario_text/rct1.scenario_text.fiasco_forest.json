@@ -1,0 +1,57 @@
+{
+    "id": "rct1.scenario_text.fiasco_forest",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB400A|STEX944 |CDEA125E",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ca-ES": "El bosc Fiasco",
+            "en-GB": "Fiasco Forest",
+            "eo-ZZ": "Fiasko-Arbaro",
+            "fi-FI": "Katastrofikukkula",
+            "fr-FR": "Forêt Faillite",
+            "hu-HU": "Elbaltázott Erdő",
+            "ja-JP": "フィアスコ・フォレスト",
+            "pt-BR": "Floresta Fiasco",
+            "zh-CN": "惨淡森林"
+        },
+        "park_name": {
+            "ca-ES": "El bosc Fiasco",
+            "en-GB": "Fiasco Forest",
+            "eo-ZZ": "Fiasko-Arbaro",
+            "fi-FI": "Katastrofikukkula",
+            "fr-FR": "Forêt Faillite",
+            "hu-HU": "Elbaltázott Erdő",
+            "ko-KR": "실패한 숲",
+            "pt-BR": "Floresta Fiasco",
+            "zh-CN": "惨淡森林"
+        },
+        "details": {
+            "ca-ES": "Ple d’atraccions perilloses i mal dissenyades, teniu un pressupost i temps molt limitat per a solucionar-ne els problemes i tirar endavant el parc.",
+            "da-DK": "Fuld af dårligt designede og farlige forlystelser, har du et meget begrænset budget og tid, til at løse problemerne og vende parken rundt",
+            "de-DE": "Hier gibt es fast nur gefährliche und schlecht geplante Attraktionen. Sie haben nur sehr begrenzte finanzielle Mittel und wenig Zeit, die Probleme zu beheben und den Park umzukrempeln.",
+            "en-GB": "Full of badly designed and dangerous rides, you have a very limited budget and time to fix the problems and turn the park around",
+            "eo-ZZ": "Plene je malbone-desegnitaj kaj danĝeraj atrakcioj, vi havas tre limigitan buĝeton kaj tempon por ripari la problemojn kaj rebonigi la parkon",
+            "es-ES": "Cuentas con un presupuesto y un tiempo limitados para reformar este parque, que esta lleno de atracciones defectuosas y peligrosas.",
+            "fi-FI": "Täynnä huonosti suunniteltuja ja vaarallisia laitteita, sinulla on vain vähän rahaa ja aikaa korjata ongelmat ja kääntää puiston suunta parempaan päin",
+            "fr-FR": "Vous disposez d’un budget très limité et de peu de temps pour réparer et améliorer ce parc équipé d’attractions mal conçues et dangereuses.",
+            "hu-HU": "Meglehetősen korlátozottak az anyagi és időbeli lehetőségeid arra, hogy rendbe rakd ezt a rosszul tervezett és veszélyes játékokkal teli parkot",
+            "it-IT": "Pieno di corse mal progettate e pericolose, hai un budget e tempo molto limitato per risolvere i problemi e trasformare il parco",
+            "ko-KR": "위험하고 잘못 설계된 놀이기구가 많이 있습니다. 공원을 둘러보고 문제를 수정할 시간과 예산이 매우 부족합니다.",
+            "nb-NO": "Du har begrenset tid og budsjett til å fikse problemene til denne parken full av dårlig designet og farlige attraksjoner",
+            "nl-NL": "Dit park staat vol met slecht ontworpen en gevaarlijke attracties. Je hebt een zeer beperkt budget en weinig tijd om het park weer op de rails te krijgen.",
+            "pl-PL": "Pełen źle zaprojektowanych i niebezpiecznych kolejek, masz ograniczony budżet i mało czasu, aby działać i ulepszyć park",
+            "pt-BR": "Cheio de brinquedos perigosos e mal projetados, você tem um orçamento muito limitado, tempo para consertar os problemas e transformar este parque.",
+            "sv-SE": "Parken är full av dåliga och farliga berg- och dalbanor, och du har en väldigt tajt budget att fixa problemen och vända den tillbaka till det positiva",
+            "tr-TR": "Çok kötü tasarlanmış alet bulunduran ve bütçesi sınırlı olan bu lunaparkın sorunlarını ortadan kaldırınız",
+            "zh-CN": "充满设计不良和危险的游乐设施，您的预算和时间非常有限，解决这些问题并扭转乐园的颓势。",
+            "zh-TW": "你只有非常有限的資金及時間去修復這一個充滿不同劣質設計及非常危險的遊樂設施的樂園"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "id": "rct1.scenario_text.terror_town",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB400A|STEX977 |6E7C5E6F",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "مدينة الرعب",
+            "ca-ES": "El poble Terror",
+            "en-GB": "Terror Town",
+            "eo-ZZ": "Teruro-Urbo",
+            "fi-FI": "Kirkuva kylä",
+            "fr-FR": "Faubourg du Frisson",
+            "hu-HU": "Terrorváros",
+            "ja-JP": "タッラー・タウン",
+            "pt-BR": "Cidade do Terror",
+            "zh-CN": "恐怖镇"
+        },
+        "park_name": {
+            "ar-EG": "مدينة الرعب",
+            "ca-ES": "El poble Terror",
+            "en-GB": "Terror Town",
+            "eo-ZZ": "Teruro-Urbo",
+            "fi-FI": "Kirkuva kylä",
+            "fr-FR": "Faubourg du Frisson",
+            "hu-HU": "Terrorváros",
+            "ko-KR": "공포스러운 마을",
+            "pt-BR": "Cidade do Terror",
+            "zh-CN": "恐怖镇"
+        },
+        "details": {
+            "ar-EG": "هذه المنطقة الحضارية هي لك كلياً لتحولها إلي حديقة للمتعة",
+            "ca-ES": "Aquesta àrea urbana és tota vostra per a desenvolupar-la com a parc d’atraccions.",
+            "da-DK": "Dette byområde er klar til at udvikle sig til en forlystelsespark",
+            "de-DE": "Aus diesem Stadtgebiet können Sie einen Vergnügungspark zaubern.",
+            "en-GB": "This urban area is all yours to develop into an amusement park",
+            "eo-ZZ": "Ĉi tiu urba areo estas tute via por ellabori en amuzparkon",
+            "es-ES": "Esta área urbana es toda tuya para que la desarrolles como parque de atracciones.",
+            "fi-FI": "Tämä urbaani alue on sinun huvipuiston kehitystä varten",
+            "fr-FR": "Développez un parc d’amusement dans cette zone urbaine.",
+            "hu-HU": "Ez a városi terület csak a tiéd, hogy vidámparkká fejleszd",
+            "it-IT": "Questa zona urbana è pronta per diventare un parco di divertimenti",
+            "ko-KR": "놀이공원으로 개발하기 위해 이 도시 지역이 여러분에게 주어졌습니다.",
+            "nb-NO": "Du får utvikle en fornøyelsespark i dette urbane området",
+            "nl-NL": "Je mag deze stedelijke omgeving ontwikkelen tot een pretpark.",
+            "pl-PL": "Ten miejski teren jest do Twojej dyspozycji, przekształć go w park rozrywki",
+            "pt-BR": "Esta área urbana é toda sua para desenvolver um parque de diversões.",
+            "sv-SE": "Detta stadsområde är ditt för att göras till en nöjespark",
+            "tr-TR": "Bu terk edilmiş şehri lunaparka dönüştürünüz",
+            "zh-CN": "你的这个小镇需要你来改造成为游乐园",
+            "zh-TW": "此市區現可由你任意發展成一個樂園"
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": "rct2tt.scenario_text.metropolis",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "originalId": "0E43032A|STEX76  |A08860D3",
+    "sourceGame": [
+        "rct2tt"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "متروبوليس",
+            "ca-ES": "Metròpoli",
+            "en-GB": "Metropolis",
+            "eo-ZZ": "Metropolo",
+            "es-ES": "Metrópolis",
+            "fi-FI": "Metropoli",
+            "fr-FR": "Métropolis",
+            "hu-HU": "Metropolisz",
+            "it-IT": "Metropoli",
+            "ja-JP": "メトロポリス",
+            "ko-KR": "메트로폴리스",
+            "pt-BR": "Metrópole",
+            "ru-RU": "Метрополис",
+            "zh-CN": "大都会",
+            "zh-TW": "大都會"
+        },
+        "park_name": {
+            "ar-EG": "متروبوليس",
+            "ca-ES": "Metròpoli",
+            "en-GB": "Metropolis",
+            "eo-ZZ": "Metropolo",
+            "es-ES": "Metrópolis",
+            "fi-FI": "Metropoli",
+            "fr-FR": "Métropolis",
+            "hu-HU": "Metropolisz",
+            "it-IT": "Metropoli",
+            "ja-JP": "メトロポリス",
+            "ko-KR": "메트로폴리스",
+            "pt-BR": "Metrópole",
+            "ru-RU": "Метрополис",
+            "zh-CN": "大都会",
+            "zh-TW": "大都會"
+        },
+        "details": {
+            "ar-EG": "أنت تمتلك قطعة أرض فارغة بالقرب من الجزء المنخفض من المدينة. لتحقيق أقصى استفادة من الممتلكات الحضرية الخاصة بك ، قم ببناء مدينة ملاهي مع ناطحات سحاب مستوحاة من العمارة الشاهقة على طراز فن الآرت ديكو في العشرينات.",
+            "ca-ES": "Disposeu d’un solar buit prop de la zona pobra de la població. Per a treure profit d’aquests terrenys urbans, construïu un parc en forma de gratacels inspirat en el desorbitat art decó dels anys vint.",
+            "cs-CZ": "Vlastníte volný pozemek v městské oblasti téměř bez růstu. Abyste vymačkali co nejvíce z vaší nemovitosti, postavíte mrakodrap-zábavní park inspirovaný architekturou dvacátých let.",
+            "da-DK": "Du ejer en tom grund i nærheden af den lave del af byen. For at presse mest muligt ud af din byejendom skal du bygge en skyskraber forlystelsespark inspireret af den skyhøje art deco arkitektur i tyverne.",
+            "de-DE": "Sie besitzen ein Gelände in der Nähe des flach gebauten Teils der Stadt. Um aus Ihrem Besitz das Beste zu machen, bauen Sie einen Wolkenkratzer-Freizeitpark im hochragenden Stil der Art Déco-Architektur der Zwanziger Jahre.",
+            "en-GB": "You own an empty lot near the low-rise part of town. To squeeze the most out of your urban property, build a skyscraper theme park inspired by the soaring art deco architecture of the twenties.",
+            "eo-ZZ": "Vi posedas malplenan teron proksime de la malaltaĵo-parto de la urbo. Por akiri la plej grandan parton de via urba propraĵo, konstruu ĉielskrapanto-temitan amuzparkon inspiritan de la altegiĝia artodekora arkitekturo de la dudekaj.",
+            "es-ES": "Posees una parcela vacía en la parte baja de la ciudad. Para exprimir al máximo tu propiedad, decides construir un parque temático basado en los rascacielos y la arquitectura Art Decó de los años veinte.",
+            "fi-FI": "Omistat tyhjän tontin pienasutusalueen vieressä. 20-luvun art deco -arkkitehtuurin innoittamana rakenna pilvenpiirtäjien teemapuisto puristaaksesi kaupunkitontistasi viimeisetkin tuoton pisarat.",
+            "fr-FR": "Vous possédez un terrain nu dans les faubourgs de la ville. Pour en tirer un maximum de revenus, construisez un parc sur le thème des gratte-ciel en vous inspirant de l’architecture art déco des années folles.",
+            "hu-HU": "Egy üres telek tulajdonosa vagy a város alacsonyabb részéhez közel. Hogy a legtöbbet hozd ki városi ingatlanodból, építs egy felhőkarcoló témájú parkot, amelyet a húszas évek szárnyaló art deco építészete ihletett.",
+            "it-IT": "Possiedi un lotto di terra vuoto vicino alla parte meno sviluppata della città. Per sfruttare al meglio la tua proprietà, costruisci un parco caratterizzato da grattacieli ispirandoti all’architettura art decò degli anni Venti.",
+            "ko-KR": "당신은 도시 저층부 근처의 빈 공간을 갖게 되었습니다. 최대한 이익을 많이 얻기 위해, 20년대에 유행했던 아르데코식 건축물을 본딴 마천루 테마파크를 지어보세요.",
+            "nb-NO": "Du eier en øde tomt nær utkanten av byen. For å skvise mest mulig ut av din urbane eiendom, bygg en fornøyelsespark med skyskraper-tema inspirert av art deco arkitekturen til tjuetallet.",
+            "nl-NL": "Je bezit een lege kavel in de stad, tussen de laagbouw. Bouw een themapark van wolkenkrabbers, geïnspireerd door de artdecostijl van de jaren twintig.",
+            "pl-PL": "Jesteś właścicielem pustej parceli w pobliżu dzielnicy o niskiej zabudowie. Aby wycisnąć jak największy zysk ze swej nieruchomości, wybuduj lunapark, którego motywem wiodącym będą drapacze chmur w stylu art deco, charakterystycznym dla lat dwudziestych.",
+            "pt-BR": "Você é dono de um lote vazio perto da parte baixa da cidade. Para espremer o máximo de sua propriedade urbana, construa um parque temático arranha-céu inspirado pela arquitetura Art Déco crescente dos anos vinte.",
+            "ru-RU": "Вы владеете пустырём в одном из районов города. Чтобы выжать из своей земли максимум, постройте парк развлечений в виде небоскрёба в духе двадцатых годов.",
+            "sv-SE": "Du äger en tom tomt i närheten av stadens lågt byggda kvarter. För att få ut så mycket vinst som möjligt av marken bygger du ett nöjesfält i form av en skyskrapa inspirerad av tjugotalets art déco-arkitektur.",
+            "tr-TR": "Şehrin içinde boş bir araziye sahipsiniz ve bu boş araziye şehir ve yirmili yıllar temalı bir lunapark inşa etmeye karar verdiniz",
+            "zh-CN": "你拥有一个空的地段，靠近城镇的低矮的部分。把最贵的城市属性，建立一个主题公园的启发，摩天大楼高耸的建筑装饰艺术的年代。",
+            "zh-TW": "您在市鎮低層數建築區中擁有空地。為了讓地產發揮最大價值,請建造以喧騰的20年代裝飾藝術為主題的摩天大樓主題樂園"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "id": "rct2ww.scenario_text.wacky_waikiki",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "originalId": "0CDCF51A|STEX58  |2AC28CE5",
+    "sourceGame": [
+        "rct2ww"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "واكي وايكيكي",
+            "de-DE": "Verrücktes Waikiki",
+            "en-GB": "Wacky Waikiki",
+            "eo-ZZ": "Komika Waikiki",
+            "es-ES": "Waikiki Guay",
+            "fi-FI": "Waikikileikki",
+            "fr-FR": "C’est parti Waikiki !",
+            "hu-HU": "Veszett Waikiki",
+            "it-IT": "Brivido a Waikiki",
+            "ja-JP": "ワッキー・ワイキキ",
+            "ko-KR": "왁자지껄 와이키키",
+            "pt-BR": "Waikiki Maluca",
+            "ru-RU": "Ваки Ваикики",
+            "zh-CN": "积极威基基"
+        },
+        "park_name": {
+            "ar-EG": "واكي وايكيكي",
+            "de-DE": "Verrücktes Waikiki",
+            "en-GB": "Wacky Waikiki",
+            "eo-ZZ": "Komika Waikiki",
+            "es-ES": "Waikiki Guay",
+            "fi-FI": "Waikikileikki",
+            "fr-FR": "C’est parti Waikiki !",
+            "hu-HU": "Veszett Waikiki",
+            "it-IT": "Brivido a Waikiki",
+            "ja-JP": "ワッキー・ワイキキ",
+            "ko-KR": "왁자지껄 와이키키",
+            "pt-BR": "Waikiki Maluca",
+            "ru-RU": "Ваки Ваикики",
+            "zh-CN": "积极威基基"
+        },
+        "details": {
+            "ar-EG": "يشعر سكان هاواي بالملل من ركوب الأمواج ويبحثون عن شيء أكثر إثارة. تحتاج إلى بناء حديقة مع وضع ذلك في الاعتبار للحفاظ على التصنيف المرتفع لمناطق الجذب السياحي في المنطقة.",
+            "ca-ES": "La gent de Hawaii s’avorreixen només fent surf i busquen alguna cosa més intensa. Heu de construir un parc amb això al cap per tal de mantenir un interès turístic a la zona prou elevat.",
+            "cs-CZ": "Havajané jsou znudění ze surfování a chtějí zažít něco adrenalinovějšího. Postavte zábavní park a nezapomeňte na to - pomůže vám to s dosažením dobrého hodnocení parku.",
+            "da-DK": "Befolkningen i Hawaii er træt af surfing, og er på udkig efter noget mere intenst. Du skal bygge en park, med dette i tankerne for at holde områdets turistattraktion rating i top.",
+            "de-DE": "Die Bevölkerung von Hawaii hat das Surfen satt und sehnt sich nach etwas Abwechslung. Sie müssen einen Park bauen, um sie bei Laune zu halten und gleichzeitig dafür sorgen, dass die Insel für Touristen attraktiv bleibt.",
+            "en-GB": "The people of Hawaii are bored of surfing and are looking for something more intense. You need to build a park with this in mind to keep the area’s tourist attraction rating high.",
+            "eo-ZZ": "La homoj de Havajo estas enuigitaj de surfado kaj serĉas ion pli intensan. Vi devas konstrui parkon ĉi-rilate por subteni la vidindaĵo-valoron de la areo alta.",
+            "es-ES": "Las gentes de Hawai se han aburrido de practicar surf y ahora buscan algo más intenso. Tienes que construir un parque para satisfacerlos, y conservar alto el índice de atractivo turístico del área.",
+            "fi-FI": "Havaijin ihmiset ovat tylsistyneitä surffaukseen, ja haluavat jotain jännittävämpää. Pidä tämä mielessä kun rakennat puistoa, joka ylläpitää alueen turistiluokitusta.",
+            "fr-FR": "Les habitants de Hawaii en ont assez de surfer et cherche des sensations plus fortes. Vous devez construire un parc qui les satisfera et qui garantira l’attrait touristique de la zone.",
+            "hu-HU": "Hawaii lakói már unják a szörfözést, és valami intenzívebbet keresnek. Erre tekintettel kell parkot építened, hogy a terület turisztikai vonzereje magasan maradjon.",
+            "it-IT": "Gli abitanti delle Hawaii sono stufi del surf e cercano qualcosa di più eccitante. Devi costruire un parco che soddisfi le loro aspettative, mantenendo alto il livello di attrazione turistica locale.",
+            "ko-KR": "하와이 주민들이 이제 파도타기가 지겨워져서 좀 더 자극적인 뭔가를 원하고 있습니다. 주민들도 만족시키면서 이 지역의 관광객들이 찾아오고 싶어 하는 공원을 만드세요.",
+            "nb-NO": "Folket på Hawaii er lei av surfing og ser etter noe mer intenst. Du trenger å bygge en park med tanke på dette for å holde tiltrekningen av turister til området på et høyt nivå.",
+            "nl-NL": "De bevolking van Hawaii wil wel eens iets spannenders dan surfen. Houd dit in het achterhoofd bij het bouwen van een park om zoveel mogelijk mogelijk toeristen aan te trekken.",
+            "pl-PL": "Mieszkańcy Hawajów znudzili się surfowaniem i szukają bardziej intensywnych przeżyć. Budując swój lunapark, musisz o tym pamiętać, aby utrzymać wysoką ocenę dla turystów.",
+            "pt-BR": "As pessoas do Havaí estão entediadas de surfar e estão procurando por algo mais intenso. Você precisa construir um parque com isto em mente para manter a atração turística da área com classificação alta.",
+            "ru-RU": "Населению Гаваев надоело заниматься сёрфингом и они желают что-нибудь более экстремальное. Вам надо построить парк, чтобы жители островов снова почувствовали вкус жизни!",
+            "sv-SE": "Folket på Hawaii har tröttnat på att surfa och vill göra något mer spännande. Du måste bygga ett nöjesfält för att hålla dem på gott humör och bibehålla områdets attraktionskraft.",
+            "tr-TR": "Hawaii’de yaşayan insanlar bütün gün sörf yapmaktan sıkılmış ve daha heyecanlı bir şey yapmak istiyorlar. Sizden turistlerin ziyaret edeceği ve yerel halkı memnun edecek bir park inşa etmeniz bekleniyor",
+            "zh-CN": "夏威夷的人们厌倦了冲浪，寻找更刺激的东西。你需要建立一个游乐园，以保持该地区的旅游评级。"
+        }
+    }
+}

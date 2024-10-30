@@ -1,0 +1,73 @@
+{
+    "id": "rct2ww.scenario_text.ayers_adventure",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "originalId": "0CCEA21A|STEX65  |06A73180",
+    "sourceGame": [
+        "rct2ww"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "مغامرات أولورو",
+            "ca-ES": "L’aventura Uluru",
+            "de-DE": "Ayers-Abenteuer",
+            "en-GB": "Ayers Adventure",
+            "eo-ZZ": "Uluru-Aventuro",
+            "es-ES": "Aventura en Ayers",
+            "fi-FI": "Uluru-seikkailu",
+            "fr-FR": "L’aventure aborigène",
+            "hu-HU": "Ayers Kaland",
+            "it-IT": "Avventura all’Ayers",
+            "ja-JP": "エアーズ・アドベンチャー",
+            "ko-KR": "에어즈 어드벤처",
+            "pt-BR": "Aventura Uluru",
+            "ru-RU": "Приключение Айа",
+            "sv-SE": "Ayers äventyr",
+            "zh-CN": "艾尔斯冒险"
+        },
+        "park_name": {
+            "ar-EG": "مغامرات أولورو",
+            "ca-ES": "L’aventura Uluru",
+            "de-DE": "Ayers-Abenteuer",
+            "en-GB": "Ayers Adventure",
+            "eo-ZZ": "Uluru-Aventuro",
+            "es-ES": "Aventura en Ayers",
+            "fi-FI": "Uluru-seikkailu",
+            "fr-FR": "L’aventure aborigène",
+            "hu-HU": "Ayers Kaland",
+            "it-IT": "Avventura all’Ayers",
+            "ja-JP": "エアーズ・アドベンチャー",
+            "ko-KR": "에어즈 어드벤처",
+            "pt-BR": "Aventura Uluru",
+            "ru-RU": "Приключение Айа",
+            "sv-SE": "Ayers äventyr",
+            "zh-CN": "艾尔斯冒险"
+        },
+        "details": {
+            "ar-EG": "أنت تساعد السكان الأصليين في بناء حديقة كجزء من برنامج التوعية الثقافية. تحتاج إلى الوصول إلى عدد كبير من الزوار لتثقيفهم حول التراث الفريد للسكان الأصليين.",
+            "ca-ES": "Esteu ajudant els aborígens a construir un parc dins del programa de conscienciació cultural. Necessiteu un gran nombre de visitants per a instruir-los en l’herència cultural única de la població indígena.",
+            "cs-CZ": "Pomáháte domorodcům postavit zábavní park pro upozornění na jejich kulturu. Musíte poučit co nejvíce lidí o unikátní kultuře domorodých obyvatel.",
+            "da-DK": "Du hjælper aboriginal folk, til at bygge en park, som en del af en kulturel bevidsthed program. Du skal få et stort antal gæster, til at uddanne dem i den unikke arv af det oprindelige folk.",
+            "de-DE": "Sie helfen den Aborigines, im Rahmen eines Programms zur Kulturförderung einen Vergnügungspark zu bauen. Sie müssen eine große Besucherzahl erreichen, um den Leuten das einzigartige kulturelle Erbe der Aborigines nahe zu bringen.",
+            "en-GB": "You are helping Aboriginal people to build a park as part of a cultural awareness program. You need to get a large number of guests to educate them in the unique heritage of the Aboriginal people.",
+            "eo-ZZ": "Vi helpas aborigenojn per konstrui parkon kiel parto de programo de kultura konscio. Vi bezonas akiri multajn gastojn por eduki ilin pri la unika heredaĵo de la aborigenoj.",
+            "es-ES": "Estás ayudando al pueblo aborigen a construir un parque como parte de un programa de concienciación cultural. Necesitas a un gran número de visitantes para instruirles acerca de la herencia única del pueblo aborigen.",
+            "fi-FI": "Auta aboriginaaleja rakentamaan puisto osana heidän kulttuurinedistämisohjelmaa. Sinun täytyy houkutella suuri määrä kävijöitä opettaaksesi heille aboriginaalien kulttuuriperintöä.",
+            "fr-FR": "Vous aidez les Aborigènes à construire un parc s’inscrivant dans un programme de sensibilisation culturelle. Vous devez toucher un large public et l’intéresser au patrimoine authentique des Aborigènes.",
+            "hu-HU": "Segítesz az aborigineknek egy parkot építeni egy kulturális tudatossági program részeként. Rengeteg vendéget kell szerezned, hogy megismertesd velük az aborigin nép egyedülálló örökségét.",
+            "it-IT": "Nell’ambito di un programma di rivalutazione culturale, stai aiutando gli aborigeni a creare un parco. Devi attrarre un numero elevato di visitatori per trasmettergli l’eredità culturale degli aborigeni.",
+            "ko-KR": "문화 인식 프로그램의 일환으로, 오스트레일리아 원주민들을 도와서 공원을 개발하려 합니다. 원주민들의 독특한 문화유산을 알리기 위해 많은 관광객을 모아야 합니다.",
+            "nb-NO": "Du hjelper Aboriginske folk å bygge en park som del av et kulturelt kunnskapsprogram. Du trenger en stor mengde gjester for å utdanne de om den unike arven til Aboriginerne.",
+            "nl-NL": "Je helpt de Aboriginals om een park te bouwen om het bewustzijn voor hun cultuur te vergroten. Je moet een groot aantal bezoekers aantrekken om hen de unieke geschiedenis van de Aboriginals bij te brengen.",
+            "pl-PL": "Pomagasz Aborygenom w budowie lunaparku w ramach programu świadomości kulturalnej. Musisz przyciągnąć wielu gości i zapoznać ich z unikalnym dziedzictwem ludu Aborygenów.",
+            "pt-BR": "Você está ajudando os aborígenes a construir um parque como parte do programa de conscientização cultural. Você precisa conseguir um grande número de visitantes para educá-los no patrimônio único dos aborígenes.",
+            "ru-RU": "Вы помогаете аборигенам построить парк, как часть культурной программы. Вам нужно привлечь большое число гостей и передать им уникальное наследие местной культуры.",
+            "sv-SE": "Du hjälper urbefolkningen att bygga ett nöjesfält som en del av ett kulturprogram. Du måste locka tillräckligt med besökare för att kunna sprida urbefolkningens kultur.",
+            "tr-TR": "Aborjin halkının kültürünü anma programı için bir lunapark kurmanız rica edildi.",
+            "zh-CN": "作为文化意识计划的一部分，你要帮助土著人建立一个游乐园。你需要让大量的客人知道土著们具有独特的文化遗产。"
+        }
+    }
+}

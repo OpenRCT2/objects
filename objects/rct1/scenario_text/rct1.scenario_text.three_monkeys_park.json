@@ -1,0 +1,61 @@
+{
+    "id": "rct1.scenario_text.three_monkeys_park",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB4F0A|STEX922 |26856CE1",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "حديقة القرود الثلاثة",
+            "ca-ES": "El parc de les tres mones",
+            "en-GB": "Three Monkeys Park",
+            "eo-ZZ": "Tri-Simioj-Parko",
+            "fi-FI": "Kolmen apinan puisto",
+            "fr-FR": "Parc des Trois Singes",
+            "hu-HU": "Három Majom Park",
+            "ja-JP": "スリー・モンキー・パーク",
+            "pt-BR": "Parque dos Três Macacos",
+            "zh-CN": "三猴乐园"
+        },
+        "park_name": {
+            "ar-EG": "حديقة القرود الثلاثة",
+            "ca-ES": "El parc de les tres mones",
+            "en-GB": "Three Monkeys Park",
+            "eo-ZZ": "Tri-Simioj-Parko",
+            "fi-FI": "Kolmen apinan puisto",
+            "fr-FR": "Parc des Trois Singes",
+            "hu-HU": "Három Majom Park",
+            "ko-KR": "세 원숭이 공원",
+            "pt-BR": "Parque dos Três Macacos",
+            "zh-CN": "三猴乐园"
+        },
+        "details": {
+            "ar-EG": "في قلب هذه الحديقة النامية الكبيرة توجد سفينة فولاذية عملاقة ثلاثية الحلقات للسباقات أو المبارزات",
+            "ca-ES": "Al bell mig d’aquest gran parc en desenvolupament i hi ha una muntanya russa d’acer amb triple carril per a fer competicions.",
+            "da-DK": "Centralt i denne store udviklingspark, er en kæmpe tredobbelt-Track Racing/Duelling stål rutchebane",
+            "de-DE": "Mitten in diesem großen, aufstrebenden Park steht eine riesige Dreispur-Achterbahn, in der die Fahrt wie ein Kopf-an-Kopf-Rennen abläuft.",
+            "en-GB": "Central to this large developing park is a giant triple-track racing/duelling steel coaster",
+            "en-US": "Central to this large developing park is a giant triple-track racing/dueling steel coaster",
+            "eo-ZZ": "La ĉefa atrakcio de ĉi tiu granda ellaborata parko estas giganta triopa-traka vetkuranta ŝtala onda fervojo",
+            "es-ES": "En el centro de este gran parque en desarrollo hay una montaña rusa de tres vías para carreras y duelos.",
+            "fi-FI": "Tämän laajan puisto keskellä on valtava kolmintaisteleva teräksinen vuoristorata",
+            "fr-FR": "Au centre de ce grand parc en construction se trouvent des montagnes russes géantes en acier à triple voie.",
+            "hu-HU": "A nagy, fejlődő park központi eleme egy óriási, hárompályás versenyző/párbajozó acél hullámvasút",
+            "it-IT": "Al centro di questo grande parco in sviluppo c’è un gigantesco ottovolante in acciaio a tre percorsi gareggianti",
+            "ko-KR": "개발 중인 이 거대한 공원의 한 가운데에는 동시에 경주하는 거대한 세쌍둥이 철제 롤러코스터가 있습니다.",
+            "nb-NO": "En gigangisk duellerende stål-berg-og-dal-bane er sentral i denne store parken",
+            "nl-NL": "Het middelpunt van dit grote park in ontwikkeling is een enorme duellerende stalen achtbaan met drie sporen.",
+            "pl-PL": "W centrum tego dużego parku jest wielki potrójny tor do wyścigów kolejek na stalowych torach",
+            "pt-BR": "No centro deste grande parque em crescimento está a grande montanha-russa de aço de corrida tripla.",
+            "sv-SE": "I centrum av denna stora, växande park finns ett trespårig racingberg- och dalbana i stål",
+            "tr-TR": "Yarışan hız trenleri bulunduran bir lunapark",
+            "zh-CN": "这个大型发展中公园的中心是一个巨大的三轨钢制过山车",
+            "zh-TW": "此發展中的大型樂園中部有三座互相競賽的鐵架旋轉式雲霄飛車"
+        }
+    }
+}

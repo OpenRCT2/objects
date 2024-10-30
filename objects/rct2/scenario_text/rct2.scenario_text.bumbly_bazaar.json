@@ -1,0 +1,74 @@
+{
+    "id": "rct2.scenario_text.bumbly_bazaar",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "0A18808A|STEX28  |EECDFA00",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "بازار بومبلي",
+            "ca-ES": "El basar atrafegat",
+            "de-DE": "Kleinbasar",
+            "en-GB": "Bumbly Bazaar",
+            "eo-ZZ": "Burda Bazaro",
+            "es-ES": "Bazar Ruidoso",
+            "fi-FI": "Mukavat markkinat",
+            "fr-FR": "Le Grand bazar",
+            "hu-HU": "Bumfordi Bazár",
+            "it-IT": "Bazar nei guai",
+            "ja-JP": "バンブリー商店街",
+            "ko-KR": "북적이는 시장",
+            "pt-BR": "Bazar Bamba",
+            "sv-SE": "Bumbly basar",
+            "zh-CN": "混乱集市",
+            "zh-TW": "雜亂的商店街"
+        },
+        "park_name": {
+            "ar-EG": "بازار بومبلي",
+            "ca-ES": "El basar atrafegat",
+            "de-DE": "Kleinbasar",
+            "en-GB": "Bumbly Bazaar",
+            "eo-ZZ": "Burda Bazaro",
+            "es-ES": "Bazar Ruidoso",
+            "fi-FI": "Mukavat markkinat",
+            "fr-FR": "Le Grand bazar",
+            "hu-HU": "Bumfordi Bazár",
+            "it-IT": "Bazar nei guai",
+            "ko-KR": "북적이는 시장",
+            "pt-BR": "Bazar Bamba",
+            "sv-SE": "Bumbly basar",
+            "zh-CN": "混乱集市",
+            "zh-TW": "雜亂的商店街"
+        },
+        "details": {
+            "ar-EG": "بدءًا من بازار صغير، يتمثل التحدي الذي تواجهه في زيادة أرباح المتاجر والأكشاك عن طريق بناء الرحلات والأفعوانيات لجذب المزيد من الزوار",
+            "ca-ES": "Començant amb un petit basar, el repte consisteix en incrementar els beneficis de les paradetes construint atraccions i muntanyes russes per a atreure més clients.",
+            "cs-CZ": "Začínáte s malým bazarem, přičemž vaším úkolem je zvýšit zisky z obchodů a stánků stavbou nových atrakcí k přilákání nových zákazníků",
+            "da-DK": "Du starter med en lille markeds bazaar, din udfordring er at forøge indtjeningen fra butikker og boder, ved at bygge forlystelser og rutschebaner for at tiltrække flere kunder",
+            "de-DE": "Sie fangen mit einem kleinen Basar an und müssen die Gewinne aus Läden und Ständen steigern, damit Sie Attraktionen und Achterbahnen bauen können, um weitere Kunden anzuziehen",
+            "en-GB": "Starting with a small market bazaar, your challenge is to increase the profit from shops and stalls by building rides and roller coasters to attract more customers",
+            "eo-ZZ": "Komencante kun malgranda bazaro, via defio estas pliigi la profitan de vendejoj kaj budoj per konstrui atrakciojn kaj ondajn fervojojn por allogi pli da klientoj",
+            "es-ES": "Comenzando desde un pequeño mercado, tu desafío es aumentar los ingresos de los negocios y puestos mediante la construcción de atracciones y montañas rusas para atraer a más clientes.",
+            "fi-FI": "Aloittaen pienestä markkinapaikasta, haasteenasi on korottaa tuottoa pelkistä kojuista rakentamalla laitteita ja vuoristoratoja kävijöitä houkuttamaan",
+            "fr-FR": "Autour d’un petit marché, construisez des attractions et des montagnes russes qui permettront aux boutiques et aux magasins de s’enrichir.",
+            "hu-HU": "Egy kis piaci bazárral kezdve, a kihívásod a boltok és bódék nyereségének növelése azzal, hogy több vendéget vonzol be játékok és hullámvasutak építésével",
+            "it-IT": "A partire da un bazar in un piccolo mercato, devi far aumentare i profitti dei negozi e dei chioschi costruendo attrazioni e ottovolanti per attirare più clienti",
+            "ja-JP": " 小さな商店街からスタートし、乗物やローラーコースターで来園客を呼び寄せ、店や売店の利益を増やしてください",
+            "ko-KR": "이 작은 시장에 고객들을 유치하기 위해 놀이기구와 롤러코스터를 지어 상점과 가게의 수익을 늘리는 것이 목표입니다.",
+            "nb-NO": "Du starter med en liten basar og din utfordring blir å øke profitten fra butikker og boder ved å bygge attraksjoner og berg-og-dal-baner for å tiltrekke flere kunder",
+            "nl-NL": "Je begint met een kleine markt. Je opdracht is om de winst van je winkels en kraampjes te vergroten door attracties en achtbanen te bouwen en zo meer klanten te trekken.",
+            "pl-PL": "Zaczynasz od małego targowiska, a twoim zadaniem jest zwiększenie zysku przynoszonego przez sklepy i stragany. Buduj karuzele i kolejki, aby przyciągnąć klientów.",
+            "pt-BR": "Começando com um pequeno mercado de bazar, seu desafio é aumentar o lucro das lojas e barracas construindo brinquedos e montanhas-russas para atrair mais visitantes",
+            "ru-RU": "Вы должны добиться увеличения прибыли небольшого базара за счет строительства аттракционов и привлечения покупателей.",
+            "sv-SE": "Du börjar med en liten marknad, och din utmaning är att öka vinsten från affärer och stånd genom att bygga attraktioner och berg- och dalbanor för att locka fler kunder",
+            "tr-TR": "Küçük bir pazar yeri ile başlayan bu yeri başarılı bir lunaparka çeviriniz",
+            "zh-CN": "从一个小集市，你的挑战是增加商店利润，建设商店及游乐设施和过山车来吸引更多的顾客",
+            "zh-TW": "以一個小型的市場商店街開始, 你的挑戰是從商店及攤販增加收入以建設遊樂設施及雲霄飛車以吸引更多的顧客"
+        }
+    }
+}

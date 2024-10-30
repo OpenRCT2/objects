@@ -1,0 +1,73 @@
+{
+    "id": "rct2ww.scenario_text.okinawa_coast",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "originalId": "0CCEA11A|STEX50  |9C58607E",
+    "sourceGame": [
+        "rct2ww"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "شاطئ أوكيناوا",
+            "ca-ES": "Costa d’Okinawa",
+            "de-DE": "Okinawa-Küste",
+            "en-GB": "Okinawa Coast",
+            "eo-ZZ": "Okinavo-Marbordo",
+            "es-ES": "Costa Okinawa",
+            "fi-FI": "Okinawan ranta",
+            "fr-FR": "Côte Okinawa",
+            "hu-HU": "Okinawa Partjai",
+            "it-IT": "Costa di Okinawa",
+            "ja-JP": "沖縄海岸",
+            "ko-KR": "오키나와 해변",
+            "pt-BR": "Costa de Okinawa",
+            "ru-RU": "Окинава",
+            "sv-SE": "Okinawa-kusten",
+            "zh-CN": "冲绳海岸"
+        },
+        "park_name": {
+            "ar-EG": "شاطئ أوكيناوا",
+            "ca-ES": "Costa d’Okinawa",
+            "de-DE": "Okinawa-Küste",
+            "en-GB": "Okinawa Coast",
+            "eo-ZZ": "Okinavo-Marbordo",
+            "es-ES": "Costa Okinawa",
+            "fi-FI": "Okinawan ranta",
+            "fr-FR": "Côte Okinawa",
+            "hu-HU": "Okinawa Partjai",
+            "it-IT": "Costa di Okinawa",
+            "ja-JP": "沖縄海岸",
+            "ko-KR": "오키나와 해변",
+            "pt-BR": "Costa de Okinawa",
+            "ru-RU": "Окинава",
+            "sv-SE": "Okinawa-kusten",
+            "zh-CN": "冲绳海岸"
+        },
+        "details": {
+            "ar-EG": "نفدت مساحة الحديقة الموجودة. خيارك الوحيد هو البناء في البحر، وهكذا حصلت على قرض. يتم فرض قيود الارتفاع على المباني الخاصة بك بسبب الأساسات ومخاطر الزلازل.",
+            "ca-ES": "Un parc s’ha quedat sense espai. L’única opció és construir mar endins, i per això heu demanat un préstec. Les restriccions d’alçada dels edificis es deuen al tipus de fonaments i el risc de terratrèmols.",
+            "cs-CZ": "Současnému zábavnímu parku došlo místo. Jedinou možností je začít stavět na moři, takže budete potřebovat velkou půjčku. V této oblasti jsou častá zemětřesení, proto nesmíte stavět vysoké budovy.",
+            "da-DK": "En eksisterende park er løbet tør for plads. Din eneste mulighed er at bygge ud i havet, og så har du taget et lån. Højdebegrænsninger på din bygning håndhæves på grund af fundamenter og jordskælvsrisiko.",
+            "de-DE": "In einem vorhandenen Park herrscht Platzmangel, Sie müssen also dem Meer neues Land abringen. Dafür haben Sie ein Darlehen aufgenommen. Die maximale Bauhöhe ist aufgrund des instabilen Untergrunds und der Erdbeben beschränkt.",
+            "en-GB": "An existing park has run out of space. Your only option is to build out into the sea, and so you have taken out a loan. Height restrictions on your building are enforced due to foundations and earthquake risk.",
+            "eo-ZZ": "Ekzistanta parko elĉerpiĝis de spaco. Via sola eblo estas konstrui sur la maron, kaj tial vi elprenis prunton. Alteco-limigoj de viaj konstruaĵoj estas observigitaj pro fondaĵoj kaj tertremo-risko.",
+            "es-ES": "Un parque ya existente se ha quedado sin espacio. Tu única opción para seguir construyendo es ganarle terreno al mar, así que has pedido un préstamo. Las restricciones de altura de los edificios son obligatorias debido a los cimientos/rie…",
+            "fi-FI": "Rannikon puistolta on loppunut tila. Ainoa mahdollisuutesi on rakentaa mereen, joten olet ottanut lainaa. Korkeusrajoitukset ovat voimassa perustojen ja maanjäristyksien takia.",
+            "fr-FR": "L’un de vos parcs au Japon ne peut plus s’étendre. Une seule possibilité : construire sur la mer. Vous contractez un emprunt et devez respecter des restrictions de hauteur en raison du risque de tremblement de terre.",
+            "hu-HU": "Egy már meglévő park kifogyott a területből. Az egyetlen lehetőséged a tenger felé történő bővítés, ehhez pedig kölcsönt kell felvenned. Az épületekre vonatkozó magassági korlátozások a talapzatok és az esetleges földrengési kockázatok miatt vannak érvényben.",
+            "it-IT": "Un parco esistente ha esaurito lo spazio a sua disposizione. L’unica possibilità è costruire in mare aperto e per riuscirci hai chiesto un prestito. Le limitazioni di altezza sono piuttosto restrittive, a causa del terreno cedevole.",
+            "ko-KR": "기존 공원은 이미 공간이 모자랍니다. 대출을 받아서 바다로 확장해나갈 수밖에 없습니다. 지진 우려와 약한 기반을 이유로 건설 높이가 제한됩니다.",
+            "nb-NO": "En eksisterende park har gått tom for plass. Din eneste mulighet er å bygge ut i sjøen, og så har du tatt ut et lån. Høyderestriksjoner på bygningene blir vernet om pga. fundamenter og jordskjelvsfare.",
+            "nl-NL": "Een bestaand pretpark heeft geen ruimte meer. Je enige optie is om naar de zee uit te breiden, waarvoor je geld hebt geleend. Vanwege het aardbevingsgevaar zijn er hoogtebeperkingen van kracht.",
+            "pl-PL": "W pewnym parku zabrakło miejsca. Twoją jedyną szansą jest wyjście w morze i w tym celu zaciągasz kredyt. Twoje budowle muszą mieć ograniczoną wysokość z uwagi na obciążenie fundamentów i zagrożenie trzęsieniem ziemi.",
+            "pt-BR": "Um parque já existente ficou sem espaço. Sua única opção é construir em cima do mar, e também você pegou um empréstimo. Restrições de altura nas suas construções são obrigatórias por causa das fundações e riscos de terremotos.",
+            "ru-RU": "Парку не хватает земли. Единственный шанс - строить в море, и вы берете заем. Высоту сооружений ограничивает фундамент и риск землетрясений.",
+            "sv-SE": "Ett nöjesfält behöver mer plats. Din enda möjlighet är att ta ett lån och bygga ut mot havet. Höjdrestriktioner råder på grund av jordbävningsfaran.",
+            "tr-TR": "Burada kurulu olan lunaparkın yeri bitmek üzere. Bundan dolayı suyun üstüne inşa etmeniz gerekli. Bu yüzden kredi çekmeniz gereklidir. Deprem riskinden dolayı yüksek inşa yasağı koyulmuştur",
+            "zh-CN": "一个现有的公园已经用完了空间。你唯一的选择是建立在海上，所以你采取了贷款。你的建筑的高度被地基和地震风险限制。"
+        }
+    }
+}

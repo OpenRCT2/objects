@@ -1,0 +1,56 @@
+{
+    "id": "uces.scenario_text.sand_dune",
+    "authors": [
+        "rbarclay"
+    ],
+    "version": "1.0",
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "الكثبان الرملية",
+            "ca-ES": "Les dunes d’arena",
+            "de-DE": "Sanddüne",
+            "en-GB": "Sand Dune",
+            "eo-ZZ": "Sabla Duno",
+            "fi-FI": "Hiekkadyyni",
+            "fr-FR": "Dune ensablée",
+            "hu-HU": "Homokdűne",
+            "pt-BR": "Duna de Areia",
+            "uk-UA": "Піщана дюна",
+            "zh-CN": "梦幻沙丘"
+        },
+        "park_name": {
+            "ar-EG": "الكثبان الرملية",
+            "ca-ES": "Les dunes d’arena",
+            "de-DE": "Sanddüne",
+            "en-GB": "Sand Dune",
+            "eo-ZZ": "Sabla Duno",
+            "fi-FI": "Hiekkadyyni",
+            "fr-FR": "Dune ensablée",
+            "hu-HU": "Homokdűne",
+            "ko-KR": "모래 언덕",
+            "pt-BR": "Duna de Areia",
+            "uk-UA": "Піщана дюна",
+            "zh-CN": "梦幻沙丘"
+        },
+        "details": {
+            "ar-EG": "باعتبارك مالكًا لمتنزه صغير، فقد اشتريت قطعة أرض كبيرة على طول الشاطئ للتوسع وجذب المزيد من الضيوف لزيارة الكثبان الرملية الجميلة، ولكن احذر: لا يمكنك إزعاج تلك الكثبان الرملية الهشة بيئيًا.",
+            "ca-ES": "Com a propietari d’un parc petit, heu comprat una parcel·la enorme al costat de la platja per a expandir i atraure més visitants a les dunes de sorra precioses. Però, aneu amb compte: no podeu pertorbar l’ecologia fràgil de les dunes d’arena.",
+            "da-DK": "Som ejer af en lille park, købte du et stort stykke jord langs stranden for at udvide og tiltrække flere gæster til at besøge de smukke klitter, men pas på, du må ikke forstyrre de økologisk skrøbelige klitter.",
+            "de-DE": "Als der Eigentümer eines kleinen Parks haben Sie sich ein größes Grundstück am Strand gekauft, um den Park zu erweitern, um mehr Gäste anzulocken, die schönen Sanddünen zu besuchen. Aber vorsicht: Sie dürfen die ökologisch fragilen Sanddünen nicht zerstören.",
+            "en-GB": "As the owner of a small park, you bought a large piece of land along the beach to expand and attract more guests to visit the beautiful sand dunes, but beware: you cannot disturb those ecologically fragile sand dunes.",
+            "eo-ZZ": "Kiel posedanto de malgranda parko, vi aĉetis grandan terpecon laŭ la marbordo por vastigi kaj allogi pli da gastoj viziti la belajn sablajn dunojn, sed singardu: vi ne povas perturbi tiujn ekologie delikatajn sablajn dunojn.",
+            "es-ES": "Como propietario de un pequeño parque, has comprado un gran terreno junto a la playa para ampliarlo y atraer a más visitantes a las hermosas dunas, pero cuidado: no puedes perturbar esas dunas ecológicamente frágiles.",
+            "fi-FI": "Pienen puiston omistajana ostit valtavan rantatontin kävijöitä houkuttelevaa laajennusta varten. Mutta varo: et saa häiritä ekologisesti herkkiä hiekkadyynejä.",
+            "fr-FR": "En tant que propriétaire d’un petit parc, vous avez acheté un grand terrain le long de la plage pour vous étendre et attirer plus de visiteurs dans ces magnifiques dunes de sable, mais attention : vous ne pouvez pas perturber de fragile écosystème.",
+            "hu-HU": "Egy kis park tulajdonosaként vásároltál egy nagy darab földet a tengerparton, hogy bővíts és még több vendéget vonzz a gyönyörű homokdűnékhez, de vigyázz: nem bolygathatod az ökológiailag érzékeny homokdűnéket.",
+            "it-IT": "In veste di proprietario di un piccolo parco, hai acquistato un ampio terreno lungo la costa per espanderti e portare più visitatori tra le dune di sabbia, ma stai attento: non puoi disturbare queste dune così ecologicamente fragili!",
+            "ko-KR": "이 작은 공원의 소유자로써, 아름다운 모래 언덕을 방문하여 더 많은 목표를 유치하고 확장하기 위해 해변을 따라 큰 땅을 샀지만 조심하세요! 생태학적으로 소중한 이 모래 언덕을 건드릴 수는 없습니다.",
+            "nb-NO": "Som eieren av en liten park, kjøpte du et stort stykke land langs stranda for å utvide og tiltrekke flere gjester til å besøke de vakre sanddynene, men være på vakt: du kan ikke forstyrre de økologisk skjøre sanddynene.",
+            "nl-NL": "Je bezit al een klein park en hebt besloten om een groot stuk land bij het strand erbij te kopen, om meer bezoekers naar deze prachtige duinen te trekken. Maar let op: de duinen zijn een gevoelig ecosysteem dat je niet mag verstoren.",
+            "pt-BR": "Como o dono de um pequeno parque, você comprou um grande terreno ao longo da praia para expandir e atrair mais visitantes para visitar as lindas dunas de areia, mas cuidado: você não pode perturbar essas dunas de areia frágeis ecologicamente.",
+            "uk-UA": "Як власник невеликого парку, ви купили велику ділянку землі вздовж пляжу, щоб розширити його і привабити більше гостей до прекрасних піщаних дюн, але будьте обережні: ви не можете порушувати ці екологічно крихкі піщані дюни.",
+            "zh-CN": "你是一个小公园的拥有者，你买了一大块土地去扩展，希望可以吸引更多的游客来欣赏美丽的沙丘，但是别忘了：你可不能破坏沙丘的生态平衡。"
+        }
+    }
+}

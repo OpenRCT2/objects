@@ -1,0 +1,77 @@
+{
+    "id": "rct2ww.scenario_text.lost_city_founder",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "originalId": "0CDCF51A|STEX64  |4840AB56",
+    "sourceGame": [
+        "rct2ww"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "مؤسس المدينة المفقودة",
+            "ca-ES": "La fundació de la ciutat perduda",
+            "de-DE": "Gründer der Verlorenen Stadt",
+            "en-GB": "Lost City Founder",
+            "eo-ZZ": "Fondinto de la Perdita Urbo",
+            "es-ES": "Fundador de la ciudad perdida",
+            "fi-FI": "Kadonnut kaupunki",
+            "fr-FR": "Les aventuriers de la cité perdue",
+            "hu-HU": "Elveszett Város Alapító",
+            "it-IT": "Il fondatore della città perduta",
+            "ja-JP": "ロスト・シティ",
+            "ko-KR": "잊혀진 도시의 발견자",
+            "pt-BR": "Fundadação da Cidade Perdida",
+            "ru-RU": "Город Инков",
+            "sv-SE": "Grundare av Förlorade Staden",
+            "zh-CN": "失落之城"
+        },
+        "park_name": {
+            "ar-EG": "مؤسس المدينة المفقودة",
+            "ca-ES": "La fundació de la ciutat perduda",
+            "de-DE": "Gründer der Verlorenen Stadt",
+            "en-GB": "Lost City Founder",
+            "eo-ZZ": "Fondinto de la Perdita Urbo",
+            "es-ES": "Fundador de la ciudad perdida",
+            "fi-FI": "Kadonnut kaupunki",
+            "fr-FR": "Les aventuriers de la cité perdue",
+            "hu-HU": "Elveszett Város Alapító",
+            "it-IT": "Il fondatore della città perduta",
+            "ja-JP": "ロスト・シティ",
+            "ko-KR": "잊혀진 도시의 발견자",
+            "pt-BR": "Fundadação da Cidade Perdida",
+            "ru-RU": "Город Инков",
+            "sv-SE": "Grundare av Förlorade Staden",
+            "zh-CN": "失落之城"
+        },
+        "details": {
+            "ar-EG": "لتعزيز السياحة المحلية، يجب عليك إنشاء حديقة تتماشى مع محيطها، ولها قيود على الارتفاع.",
+            "ca-ES": "Per a augmentar el turisme local heu de construir un parc que s’adigui amb els seus voltants.",
+            "cs-CZ": "Abyste zvýšili počet místních turistů, musíte postavit zábavní park, který zapadá do okolí a nemá žádné výškové budovy.",
+            "da-DK": "For yderligere at øge den lokale turisme skal du konstruere en park, der er i harmoni med sine omgivelser.",
+            "de-DE": "Um der örtlichen Tourismusindustrie den Rücken zu stärken, müssen Sie einen Vergnügungspark konstruieren, der sich harmonisch in die Umgebung einfügt.",
+            "en-GB": "To further boost local tourism you must construct a park that is in tune with its surroundings.",
+            "eo-ZZ": "Por plue akceli lokan turismon, vi devas konstrui parkon, kiu akordas kun sia ĉirkaŭaĵo.",
+            "es-ES": "Para impulsar aún más el turismo local, tienes que construir un parque que esté en sintonía con el entorno que lo rodea.",
+            "fi-FI": "Edistääksesi paikallista turismia, sinun tulee rakentaa puisto, joka on ympäristönsä kaltainen.",
+            "fr-FR": "Pour dynamiser encore plus le tourisme local vous devez construire un parc en harmonie avec son environnement.",
+            "hu-HU": "A helyi turizmus további fellendítése érdekében egy olyan parkot kell létrehoznod, amely harmonizál a környezetével.",
+            "it-IT": "Per potenziare il turismo, devi creare un parco intonato all’ambiente.",
+            "ja-JP": "To further boost local tourism you must construct a park that is in tune with its surroundings, and has height restrictions.",
+            "ko-KR": "이 지역의 관광산업을 보다 활기차게 만들기 위해서는 주변 환경과 잘 어울리는 공원을 지어야 합니다.",
+            "nb-NO": "For å videre øke turisme må du konstruere en park som tar hensyn til sine omgivelser.",
+            "nl-NL": "Om nog meer toeristen te trekken moet je een park bouwen dat past bij de omgeving.",
+            "pl-PL": "W celu lepszego wypromowania miejscowej turystyki musisz wybudować lunapark pasujący do swego otoczenia. Obowiązuje ograniczenie wysokości budynków.",
+            "pt-BR": "Para dar um impulso adicional ao turismo local você deve construir um parque que está em sintonia com seus arredores.",
+            "ru-RU": "Чтобы развивать местный туризм, вы должны создать парк в духе местных достопримечательностей.",
+            "sv-SE": "Du måste öka de lokala turistintäkterna genom att bygga ett nöjesfält som passar omgivningen och håller sig inom höjdrestriktionerna.",
+            "tr-TR": "Yerel turizmi güçlendirmek için çevresiyle uyumlu bir park kurmanız gereklidir. Fakat inşa için yükseklik sınırı koyulmuştur",
+            "uk-UA": "To further boost local tourism you must construct a park that is in tune with its surroundings, and has height restrictions.",
+            "vi-VN": "To further boost local tourism you must construct a park that is in tune with its surroundings, and has height restrictions.",
+            "zh-CN": "为了进一步促进当地旅游业的发展，你需要建设一个与周围环境相协调的公园。",
+            "zh-TW": "To further boost local tourism you must construct a park that is in tune with its surroundings, and has height restrictions."
+        }
+    }
+}

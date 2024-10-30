@@ -1,0 +1,54 @@
+{
+    "id": "uces.scenario_text.transformation",
+    "authors": [
+        "Fossil"
+    ],
+    "version": "1.0",
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "التحول",
+            "ca-ES": "Transformació",
+            "en-GB": "Transformation",
+            "eo-ZZ": "Transformiĝo",
+            "es-ES": "Transformación",
+            "fi-FI": "Muutos",
+            "hu-HU": "Transzformáció",
+            "pt-BR": "Transformação",
+            "uk-UA": "Перетворення",
+            "zh-CN": "做出改变"
+        },
+        "park_name": {
+            "ar-EG": "التحول",
+            "ca-ES": "Transformació",
+            "en-GB": "Transformation",
+            "eo-ZZ": "Transformiĝo",
+            "es-ES": "Transformación",
+            "fi-FI": "Muutos",
+            "hu-HU": "Transzformáció",
+            "ko-KR": "트랜스포메이션",
+            "pt-BR": "Transformação",
+            "uk-UA": "Перетворення",
+            "zh-CN": "做出改变"
+        },
+        "details": {
+            "ar-EG": "كنا نتوقع ظهورك…",
+            "ca-ES": "Us estàvem esperant…",
+            "da-DK": "Vi har ventet dig…",
+            "de-DE": "Wir haben auf Sie gewartet …",
+            "en-GB": "We were expecting you…",
+            "eo-ZZ": "Ni atendis vin…",
+            "es-ES": "Te estábamos esperando…",
+            "fi-FI": "Olemme odottaneet teitä…",
+            "fr-FR": "Nous vous attendions…",
+            "hu-HU": "Vártunk téged…",
+            "it-IT": "Ti stavamo aspettando…",
+            "ko-KR": "널 기다리고 있었어…",
+            "nb-NO": "Vi har ventet på deg…",
+            "nl-NL": "We hadden je al verwacht…",
+            "pt-BR": "Estávamos te esperando…",
+            "uk-UA": "Ми чекали на тебе…",
+            "zh-CN": "我们会希望你可以……"
+        }
+    }
+}

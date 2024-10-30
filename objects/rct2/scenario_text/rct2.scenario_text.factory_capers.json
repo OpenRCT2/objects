@@ -1,0 +1,69 @@
+{
+    "id": "rct2.scenario_text.factory_capers",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "0A18808A|STEX16  |763305DB",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ca-ES": "Aventures de la fàbrica",
+            "de-DE": "Fabrikkapriolen",
+            "en-GB": "Factory Capers",
+            "eo-ZZ": "Fabriko-Kaprioloj",
+            "es-ES": "Tope de Fábrica",
+            "fi-FI": "Tehdastemput",
+            "fr-FR": "L’Usine en folie",
+            "hu-HU": "Gyári Móka",
+            "it-IT": "Stramberie industriali",
+            "ja-JP": "ファクトリー・ケイパーズ",
+            "ko-KR": "공장 놀이터",
+            "pt-BR": "Loucuras na Fábrica",
+            "zh-CN": "工厂冒险",
+            "zh-TW": "活躍工廠"
+        },
+        "park_name": {
+            "ca-ES": "Aventures de la fàbrica",
+            "de-DE": "Fabrikkapriolen",
+            "en-GB": "Factory Capers",
+            "eo-ZZ": "Fabriko-Kaprioloj",
+            "es-ES": "Tope de Fábrica",
+            "fi-FI": "Tehdastemput",
+            "fr-FR": "L’Usine en folie",
+            "hu-HU": "Gyári Móka",
+            "it-IT": "Stramberie industriali",
+            "ko-KR": "공장 놀이터",
+            "pt-BR": "Loucuras na Fábrica",
+            "zh-CN": "工厂冒险",
+            "zh-TW": "活躍工廠"
+        },
+        "details": {
+            "ca-ES": "Un complex abandonat és una oportunitat per a construir un parc d’atraccions de temàtica industrial.",
+            "cs-CZ": "Opuštěný tovární komplex nabízí možnost postavit mechanicky-zaměřený zábavní park",
+            "da-DK": "Et forladt fabrikskompleks, er en mulighed for at bygge en forlystelsespark med mekanisk tema",
+            "de-DE": "Ein verlassener Fabrikkomplex bietet die Gelegenheit, einen Vergnügungspark mit einem Maschinenthema zu bauen",
+            "en-GB": "An abandoned factory complex is an opportunity to build a mechanical-themed amusement park",
+            "eo-ZZ": "Ĉi tiu forlasita fabriko-konstruaĵaro estas okazo por konstrui amuzparkon kun mekanika temo",
+            "es-ES": "Un complejo fabril abandonado es la oportunidad perfecta para construir un parque temático mecanizado.",
+            "fi-FI": "Hylätty tehdaskompleksi on hyvä tilaisuus rakentaa mekaanisen teemainen huvipuisto",
+            "fr-FR": "Construisez un parc d’attractions sur le thème de l’industrie dans cette usine désaffectée des plus appropriées.",
+            "hu-HU": "Az elhagyatott gyárkomplexum lehetőség egy mechanikus témájú vidámpark építésére",
+            "it-IT": "Un complesso industriale abbandonato è un’opportunità ideale per costruire un parco dei divertimenti con a tema la meccanica",
+            "ja-JP": "放置された工業コンビナートは、機械風のテーマの遊園地を造るのにうってつけです",
+            "ko-KR": "버려진 공장 지대에 기계를 주제로 한 놀이공원을 만들어보세요.",
+            "nb-NO": "Et forlatt fabrikkområde er en mulighet til å bygge en fornøyelsespark med mekanisk tema",
+            "nl-NL": "Een verlaten fabriekscomplex is een gelegenheid om een amusementspark met een fabrieksthema te bouwen.",
+            "pl-PL": "Opuszczony kompleks fabryczny to świetne miejsce pod budowę parku rozrywki z wystrojem mechanicznym.",
+            "pt-BR": "Um complexo de fábricas abandonado é uma oportunidade para construir um parque de diversões com tema mecânico",
+            "ru-RU": "Заброшенный промышленный комплекс - отличное место для строительство парка развлечений.",
+            "sv-SE": "Ett övergivet fabrikskomplex är en möjlighet för att bygga en nöjespark med mekaniskt tema",
+            "tr-TR": "Terk edilmiş bir sanayi bölgesine lunapark inşa ediniz",
+            "zh-CN": "一个废弃的工厂是你的机遇，把它建造成一个机械为主题的游乐园",
+            "zh-TW": "一座錯綜複雜的被廢棄工廠是去建造一座機械主題的趣味遊樂園的一個機會"
+        }
+    }
+}

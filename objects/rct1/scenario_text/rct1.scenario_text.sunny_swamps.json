@@ -1,0 +1,60 @@
+{
+    "id": "rct1.scenario_text.sunny_swamps",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB400A|STEX966 |2003510E",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "المستنقع المُشمس",
+            "ca-ES": "Pantans solejats",
+            "en-GB": "Sunny Swamps",
+            "eo-ZZ": "Sunplenaj Marĉejoj",
+            "fi-FI": "Rämeen rällätys",
+            "fr-FR": "Marais Radieux",
+            "hu-HU": "Napos Mocsarak",
+            "ja-JP": "サニー・スワンプ",
+            "pt-BR": "Pântanos Ensolarados",
+            "zh-CN": "阳光沼泽"
+        },
+        "park_name": {
+            "ar-EG": "المستنقع المُشمس",
+            "ca-ES": "Pantans solejats",
+            "en-GB": "Sunny Swamps",
+            "eo-ZZ": "Sunplenaj Marĉejoj",
+            "fi-FI": "Rämeen rällätys",
+            "fr-FR": "Marais Radieux",
+            "hu-HU": "Napos Mocsarak",
+            "ko-KR": "맑은 늪지",
+            "pt-BR": "Pântanos Ensolarados",
+            "zh-CN": "阳光沼泽"
+        },
+        "details": {
+            "ar-EG": "هذا المنتزه الترفيهي يحتوي على العديد من الألعاب، لكنه يحتوي على الكثير من المساحة للتوسع",
+            "ca-ES": "Aquest parc d’atraccions ben tematitzat ja disposa d’unes quantes atraccions, però encara es pot expandir molt més.",
+            "da-DK": "Denne velusmykket forlystelsespark har allerede adskillige forlystelser, men der er masser af plads til udvidelse",
+            "de-DE": "In diesem nach Themen angelegten Park gibt es zwar verschiedene Attraktionen, aber noch viel Platz für Erweiterungen.",
+            "en-GB": "This well-themed amusement park already has several rides, but has plenty of space for expansion",
+            "eo-ZZ": "Ĉi tiu bone-temita amuzparko jam havas multajn atrakciojn, sed ankoraŭ havas multe da spaco por ellabori",
+            "es-ES": "Este buen parque de atracciones temático ya cuenta con numerosas atracciones, aunque tiene espacio suficiente para ampliarlo.",
+            "fi-FI": "Tässä hienosti maisemoidussa huvipuistossa on jo monia laitteita, mutta myös tilaa laajennukseen",
+            "fr-FR": "Ce parc à thème bien choisi possède déjà quelques attractions, mais aussi une grande surface à exploiter.",
+            "hu-HU": "Ennek a jól tematizált vidámparknak már számos játéka van, de bőven van helye a terjeszkedésre",
+            "it-IT": "Questo parco divertimenti a tema ha già diversi percorsi, ma ha molto spazio per l’espansione",
+            "ko-KR": "이 잘 구성된 놀이공원에는 이미 몇 개의 놀이기구가 존재하지만, 아직은 확장할 수 있는 공간이 충분합니다.",
+            "nb-NO": "Denne veldekorerte fornøyelsesparken har allerede flere attraksjoner, men stor plass for utvidelse",
+            "nl-NL": "Dit goed gethematiseerde pretpark heeft al diverse attracties, maar nog voldoende ruimte voor uitbreiding.",
+            "pl-PL": "Ten dobrze ustrojony park ma już kilka atrakcji, ale posiada także masę miejsca na rozbudowę",
+            "pt-BR": "Este parque de diversões bem tematizado já tem vários brinquedos e muito espaço para expansão.",
+            "sv-SE": "Denna temapark har redan ett antal åkturer med gott om utrymme för utökning",
+            "tr-TR": "Bu güzel dekorasyonlu lunapark bir kaç alet bulunduruyor",
+            "zh-CN": "这个主题鲜明的游乐园已经有好几部游乐设施，但仍有足够的扩展空间等你来扩张",
+            "zh-TW": "這個佈置得很好的主題樂園已經有數項遊樂設施, 但有很多擴張的空間"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "id": "rct1.scenario_text.roman_village",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB4F0A|STEX939 |9582A8D7",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "القرية الرومانية",
+            "ca-ES": "La vila romana",
+            "en-GB": "Roman Village",
+            "eo-ZZ": "Romana Vilaĝo",
+            "fi-FI": "Roomalaiskylä",
+            "fr-FR": "Village Romain",
+            "hu-HU": "Római Falu",
+            "ja-JP": "ローマン・ビレッジ",
+            "pt-BR": "Vila Romana",
+            "zh-CN": "罗马村庄"
+        },
+        "park_name": {
+            "ar-EG": "القرية الرومانية",
+            "ca-ES": "La vila romana",
+            "en-GB": "Roman Village",
+            "eo-ZZ": "Romana Vilaĝo",
+            "fi-FI": "Roomalaiskylä",
+            "fr-FR": "Village Romain",
+            "hu-HU": "Római Falu",
+            "ko-KR": "로마의 마을",
+            "pt-BR": "Vila Romana",
+            "zh-CN": "罗马村庄"
+        },
+        "details": {
+            "ar-EG": "طور هذه الحديقة المثيرة علي النمط اليوناني، بالمزيد من الأفعوانيات والرحلات",
+            "ca-ES": "Desenvolupeu aquest parc temàtic romà afegint-hi atraccions i muntanyes russes.",
+            "da-DK": "Udvikl denne forlystelsespark med et romersk tema, ved at tilføje forlystelser og rutschebaner",
+            "de-DE": "Entwickeln Sie diesen römisch gestalteten Park weiter, indem Sie Achterbahnen und andere Attraktionen hinzufügen.",
+            "en-GB": "Develop this Roman-themed park by adding rides and roller coasters",
+            "eo-ZZ": "Ellaboru ĉi tiun parkon kun romana temo, per aldoni atrakciojn kaj ondajn fervojojn",
+            "es-ES": "Desarrolla este parque temático romano añadiendo atracciones y montañas rusas.",
+            "fi-FI": "Kehitä tätä roomalaisteemaista puistoa lisäämällä laitteita ja vuoristoratoja",
+            "fr-FR": "Développez ce parc à thème romain en en ajoutant des attractions et des montagnes russes.",
+            "hu-HU": "Fejleszd ezt a római témájú parkot játékok és hullámvasutak építésével",
+            "it-IT": "Sviluppa questo parco a tema romano aggiungendo attrazioni e ottovolanti",
+            "ko-KR": "이 로마 스타일의 테마파크에 놀이기구와 롤러코스터를 추가해서 더욱 발전시켜보세요.",
+            "nb-NO": "Videreutvikle denne romerparken ved å bygge spennende attraksjoner",
+            "nl-NL": "Ontwikkel dit Romeinse themapark door achtbanen en andere attracties toe te voegen.",
+            "pl-PL": "Rozwiń ten park w stylu rzymskim budując atrakcje i kolejki górskie",
+            "pt-BR": "Desenvolva um parque com tema romano adicionando brinquedos e montanhas-russas.",
+            "sv-SE": "Utveckla denna romerska park genom att utöka den",
+            "tr-TR": "Roma temalı dekorasyonlar içeren bir lunapark",
+            "zh-CN": "通过增加更多的设施和过山车来开发这个罗马主题的公园",
+            "zh-TW": "以添加遊樂設施及雲霄飛車發展這個羅馬主題的樂園"
+        }
+    }
+}

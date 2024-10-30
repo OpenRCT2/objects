@@ -1,0 +1,69 @@
+{
+    "id": "rct2.scenario_text.fungus_woods",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "0A18808A|STEX23  |A99C72B4",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ca-ES": "Boscos rancis",
+            "en-GB": "Fungus Woods",
+            "eo-ZZ": "Fungo-Arbaro",
+            "es-ES": "Maderas Fungosas",
+            "fi-FI": "Sienikorpi",
+            "fr-FR": "Les Bois sauvages",
+            "hu-HU": "Gombaerdő",
+            "it-IT": "Boschi fungosi",
+            "ja-JP": "キノコの森",
+            "ko-KR": "버섯 숲",
+            "pt-BR": "Bosque dos Cogumelos",
+            "sv-SE": "Fungus skogar",
+            "zh-CN": "真菌森林",
+            "zh-TW": "菌類森林"
+        },
+        "park_name": {
+            "ca-ES": "Boscos rancis",
+            "en-GB": "Fungus Woods",
+            "eo-ZZ": "Fungo-Arbaro",
+            "es-ES": "Maderas Fungosas",
+            "fi-FI": "Sienikorpi",
+            "fr-FR": "Les Bois sauvages",
+            "hu-HU": "Gombaerdő",
+            "it-IT": "Boschi fungosi",
+            "ko-KR": "버섯 숲",
+            "pt-BR": "Bosque dos Cogumelos",
+            "sv-SE": "Fungus skogar",
+            "zh-CN": "真菌森林",
+            "zh-TW": "菌類森林"
+        },
+        "details": {
+            "ca-ES": "Amb només atraccions de fusta i d’estil antic, el repte consisteix en construir un parc temàtic pròsper als «Boscos rancis».",
+            "cs-CZ": "Omezeni pouze na starší, dřevěné, dráhy, postavte vzkvétající zábavní park ve Fungus Woods",
+            "da-DK": "Begrænset til kun ældre træ forlystelser, er din udfordring at bygge en blomstrende forlystelsespark, i Fungus Woods",
+            "de-DE": "Sie sind ausschließlich auf ältere Holzbahnen beschränkt und müssen einen expandierenden Themenpark in Fungus Woods errichten",
+            "en-GB": "Restricted to only older-style wooden rides, your challenge is to build a thriving theme park in Fungus Woods",
+            "eo-ZZ": "Via defio estas konstrui prosperan amuzparkon en Fungo-Arbaro, sed vi povas konstrui nur malnovecajn lignajn atrakciojn",
+            "es-ES": "Restringido a solo construir atracciones de madera del viejo estilo, tú desafío será construir un próspero parque temático en Maderas Fungosas",
+            "fi-FI": "Haasteenasi on rakentaa kukoistava teemapuisto Sienikorpeen - mutta voit ainoastaan rakentaa vanhanaikaisia puulaitteita",
+            "fr-FR": "Construisez dans cette forêt un super parc à thème exclusivement réservé aux attractions en bois.",
+            "hu-HU": "Kizárólag régebbi stílusú, fából készült hullámvasutakra korlátozva, a kihívásod egy virágzó vidámpark építése Gombaerdőben",
+            "it-IT": "La sfida sta nel costruire un entusiasmante parco a tema nei Boschi fungosi utilizzando solo attrazioni di legno d’altri tempi",
+            "ja-JP": "この「キノコの森」では、乗物は昔風の木造のものしか造れません。果たして、あなたはここを人気遊園地にできるでしょうか",
+            "ko-KR": "당신의 목표는 오직 오래된 나무 놀이기구만을 사용해서 버섯 숲에 번화한 놀이공원을 만드는 것입니다.",
+            "nb-NO": "Begrenset til å kun bygge gammeldagse tre-attraksjoner, er din utfordring å bygge en blomstrende fornøyelsespark i Fungus Woods",
+            "nl-NL": "Het is je uitdaging om een succesvol themapark in Fungus Woods te bouwen, maar je bent beperkt tot ouderwetse houten attracties.",
+            "pl-PL": "Twoim zadaniem jest stworzenie kwitnącego lunaparku w Grzybowych Lasach, przy czym musisz ograniczyć się do staroświeckich drewnianych obiektów.",
+            "pt-BR": "Restrito a apenas brinquedos de madeira de estilo antigo, seu desafio é construir um próspero parque temático no Bosque dos Cogumelos",
+            "ru-RU": "Задача - построить парк развлеченийв Грибном Лесу, используя только деревянные аттракционы.",
+            "sv-SE": "Begränsad till bara äldre sorters träattraktioner är det din utmaning att bygga en framgångsrik temapark i Fungus’ skogar",
+            "tr-TR": "Sadece eski tarz aletler inşasına izin verilen bir lunapark",
+            "zh-CN": "仅限于老式的木制游乐设施，你的挑战是在真菌森林建造一个蓬勃发展的主题乐园",
+            "zh-TW": "只被老舊所設限-森林式遊樂設施風格, 你的挑戰是在菌類森林中建造一座成功主題遊樂園"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "id": "rct1.scenario_text.razor_rocks",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB400A|STEX954 |817F6A98",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ca-ES": "Roques afilades",
+            "en-GB": "Razor Rocks",
+            "eo-ZZ": "Razilecaj Rokoj",
+            "fi-FI": "Terälohkare",
+            "fr-FR": "Rocs Rasoirs",
+            "hu-HU": "Penge Sziklák",
+            "ja-JP": "レーザー・ロック",
+            "pt-BR": "Pedras de Navalha",
+            "zh-CN": "剃刀岩"
+        },
+        "park_name": {
+            "ca-ES": "Roques afilades",
+            "en-GB": "Razor Rocks",
+            "eo-ZZ": "Razilecaj Rokoj",
+            "fi-FI": "Terälohkare",
+            "fr-FR": "Rocs Rasoirs",
+            "hu-HU": "Penge Sziklák",
+            "ko-KR": "날카로운 바위",
+            "pt-BR": "Pedras de Navalha",
+            "zh-CN": "剃刀岩"
+        },
+        "details": {
+            "ca-ES": "La vostra tasca és construir un parc ple de muntanyes russes gegantines entre roques afilades.",
+            "da-DK": "Din opgave er at bygge en massiv coaster-fyldt park i blandt Razor Rocks",
+            "de-DE": "Ihre Aufgabe ist es, zwischen den zerklüfteten Felsen einen Park mit dicht gedrängten Achterbahnen zu bauen.",
+            "en-GB": "Your task is to build a massive coaster-filled park in amongst Razor Rocks",
+            "eo-ZZ": "Via celo estas konstrui grandegan parkon da ondaj fervojoj ĉe Razilecaj Rokoj",
+            "es-ES": "Tu cometido es construir un gran parque lleno de montañas rusas en medio de Razor Rocks.",
+            "fi-FI": "Tehtävänäsi on rakentaa Terälohkareiden keskuuteen valtava puisto täynnä vuoristoratoja",
+            "fr-FR": "Vous devez construire un vaste parc rempli de montagnes russes près des Rocs Rasoirs.",
+            "hu-HU": "Az a feladatod, hogy egy masszív, hullámvasutakkal teli parkot alakíts ki a Penge Sziklák között",
+            "it-IT": "Il tuo compito è costruire un gigantesco parco pieno di attrazioni presso Razor Rocks",
+            "ko-KR": "여러분의 임무는 날카로운 바위 사이에 롤러코스터로 가득한 거대한 공원을 만드는 것입니다.",
+            "nb-NO": "Din oppgave er å bygge en massiv park fylt med berg-og-dal-baner midt i Razor Rocks",
+            "nl-NL": "Het is je taak een park vol met achtbanen te bouwen tussen de Razor Rocks.",
+            "pl-PL": "Twoje zadanie polega na budowie wielkich kolejek w parku znajdującym się wśród gór Razor Rocks",
+            "pt-BR": "Sua tarefa é construir um parque repleto de montanhas-russas no meio das Pedras de Navalha.",
+            "sv-SE": "Ditt mål är att bygga en stor berg- och dalbanepark mellan sylvassa stenar",
+            "tr-TR": "‘Razor Rocks’ adlı bu alana bir lunapark kurunuz",
+            "zh-CN": "你的任务是在一个巨大的岩石群中建造充满过山车的乐园",
+            "zh-TW": "你的任務是於Razor Rocks之中建造一個擁有不同雲霄飛車的樂園"
+        }
+    }
+}

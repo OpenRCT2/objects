@@ -1,0 +1,57 @@
+{
+    "id": "rct1.scenario_text.iceberg_islands",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB400A|STEX951 |96209B26",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ca-ES": "Illes Iceberg",
+            "en-GB": "Iceberg Islands",
+            "eo-ZZ": "Glacimonto-Insuloj",
+            "fi-FI": "Jäävuorisaaret",
+            "fr-FR": "Îles Iceberg",
+            "hu-HU": "Jéghegy-szigetek",
+            "ja-JP": "アイスベルグ・アイランド",
+            "pt-BR": "Ilhas Iceberg",
+            "zh-CN": "冰山群岛"
+        },
+        "park_name": {
+            "ca-ES": "Illes Iceberg",
+            "en-GB": "Iceberg Islands",
+            "eo-ZZ": "Glacimonto-Insuloj",
+            "fi-FI": "Jäävuorisaaret",
+            "fr-FR": "Îles Iceberg",
+            "hu-HU": "Jéghegy-szigetek",
+            "ko-KR": "빙산 섬",
+            "pt-BR": "Ilhas Iceberg",
+            "zh-CN": "冰山群岛"
+        },
+        "details": {
+            "ca-ES": "L’entorn d’aquest gèlid i ambiciós parc temàtic és un grup d’icebergs.",
+            "da-DK": "En samling af isbjerge udgør en kold ramme for denne ambitiøse forlystelsespark",
+            "de-DE": "Eine Anzahl Eisberge bilden die kalte Umgebung dieses anspruchsvollen Parkprojekts.",
+            "en-GB": "A collection of icebergs make a cold setting for this ambitious theme park",
+            "eo-ZZ": "Aro da glacimontoj fariĝas malvarma okazejo por ĉi tiu ambicia amuzparko",
+            "es-ES": "Una colección de icebergs dan un gélido entorno a este ambicioso parque temático.",
+            "fi-FI": "Ryhmä jäävuoria on tämän kunnianhimoisen mutta kylmän huvipuiston pohjana",
+            "fr-FR": "Un ensemble d’icebergs constitue l’environnement glacial de cet ambitieux parc à thème.",
+            "hu-HU": "Egy csoportnyi jéghegy hideg helyszínt biztosít ennek az ambiciózus vidámparknak",
+            "it-IT": "Questo ambizioso parco a tema è costituito da iceberg che creano un ambiente di tipo artico",
+            "ko-KR": "빙산이 이 야심찬 놀이공원에 차가운 이미지를 더하고 있습니다.",
+            "nb-NO": "En samling isfjell danner en kald setting for denne ambisiøse fornøyelsesparken",
+            "nl-NL": "Een hele verzameling ijsbergen vormt de ijzige achtergrond van dit ambitieuze themapark.",
+            "pl-PL": "Góry lodowe w parku sprawiają chłodne wrażenie w tym parku rozrywki",
+            "pt-BR": "Uma coleção de icebergs faz um ambiente frio para este ambicioso parque temático.",
+            "sv-SE": "En samling av isberg i detta kalla klimat ska förvandlas till ett nöjesfält",
+            "tr-TR": "Buz dağlarının üstüne lunapark inşa ediniz",
+            "zh-CN": "一系列冰山为这个雄心勃勃的主题公园营造了一个寒冷的环境",
+            "zh-TW": "一些冰川為此雄心勃勃的主題樂園帶來了一絲寒意"
+        }
+    }
+}

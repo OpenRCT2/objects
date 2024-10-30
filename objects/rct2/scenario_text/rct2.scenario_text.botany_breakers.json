@@ -1,0 +1,72 @@
+{
+    "id": "rct2.scenario_text.botany_breakers",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "0A18818A|STEX9   |3A3DB548",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "قاطع النباتات",
+            "ca-ES": "El factor botànic",
+            "de-DE": "Kahlschlag",
+            "en-GB": "Botany Breakers",
+            "eo-ZZ": "Botaniko-Rompiloj",
+            "es-ES": "Barrenas Botánicas",
+            "fi-FI": "Sekasortosaari",
+            "fr-FR": "Le Jardin d’Eden",
+            "hu-HU": "Botanikus Hullámok",
+            "it-IT": "Distruttori botanici",
+            "ja-JP": "ボタニー・ブレイカーズ",
+            "ko-KR": "보타니의 하얀 파도",
+            "pt-BR": "Invasores Botânicos",
+            "zh-CN": "绿色杀手",
+            "zh-TW": "植物生態破壞者"
+        },
+        "park_name": {
+            "ar-EG": "قاطع النباتات",
+            "ca-ES": "El factor botànic",
+            "de-DE": "Kahlschlag",
+            "en-GB": "Botany Breakers",
+            "eo-ZZ": "Botaniko-Rompiloj",
+            "es-ES": "Barrenas Botánicas",
+            "fi-FI": "Sekasortosaari",
+            "fr-FR": "Le Jardin d’Eden",
+            "hu-HU": "Botanikus Hullámok",
+            "it-IT": "Distruttori botanici",
+            "ko-KR": "보타니의 하얀 파도",
+            "pt-BR": "Invasores Botânicos",
+            "zh-CN": "绿色杀手",
+            "zh-TW": "植物生態破壞者"
+        },
+        "details": {
+            "ar-EG": "التحدي الخاص بك هو بناء حديقة عالية الربح في جزيرة الفردوس هذه",
+            "ca-ES": "El repte és construir un parc que generi molts beneficis en aquesta illa paradisíaca.",
+            "cs-CZ": "Vaším úkolem je postavit vysoce výnosný zábavní park na tomto rajském ostrově",
+            "da-DK": "Din udfordring, er at bygge en højt profitabel forlystelsespark, på denne paradisø",
+            "de-DE": "Ihre Aufgabe besteht darin, einen gewinnträchtigen Park auf dieser paradiesischen Insel zu errichten",
+            "en-GB": "Your challenge is to build a high-profit park on this paradise island",
+            "eo-ZZ": "Via defio estas konstrui tre profitan parkon sur ĉi tiu paradiza insulo",
+            "es-ES": "Tú desafío es construir un parque lucrativo en esta isla paradisíaca",
+            "fi-FI": "Haasteenasi on rakentaa tuottoisa puisto tälle paratiisisaarelle",
+            "fr-FR": "Construisez un parc très rentable sur cette île paradisiaque.",
+            "hu-HU": "A kihívásod az, hogy építs egy igazán nyereséges parkot ezen a paradicsomi szigeten",
+            "it-IT": "La sfida è quella di costruire un parco ad alto profitto su questa isola paradisiaca",
+            "ja-JP": "この楽園のような島に、高い収益を生み出す遊園地を建設するのがあなたに与えられた課題です",
+            "ko-KR": "당신의 목표는 이 파라다이스 섬에 고수익 공원을 만드는 것입니다.",
+            "nb-NO": "Din utfordring er å bygge en lukrativ park i dette øyparadiset",
+            "nl-NL": "Het is je uitdaging om een zeer winstgevend park te bouwen op dit paradijselijke eiland.",
+            "pl-PL": "Twoim zadaniem jest wybudować na tej rajskiej wyspie lunapark przynoszący duże zyski.",
+            "pt-BR": "Seu desafio é construir um parque altamente lucrativo nessa ilha paradisíaca",
+            "ru-RU": "Вы должны построить прибыльный парк на этом райском острове.",
+            "sv-SE": "Din utmaning är att bygga en högvinstspark på den här paradisön",
+            "tr-TR": "Bu tropikal adanın üzerinde başarılı lunapark inşa ediniz",
+            "zh-CN": "你的挑战是在这个天堂岛上建立一个高利润的游乐园",
+            "zh-TW": "你的挑戰是在這天堂島建設一座高收益的遊樂園"
+        }
+    }
+}

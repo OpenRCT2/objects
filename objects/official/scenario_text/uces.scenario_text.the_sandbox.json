@@ -1,0 +1,58 @@
+{
+    "id": "uces.scenario_text.the_sandbox",
+    "authors": [
+        "Katatude"
+    ],
+    "version": "1.0",
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "صندوق التجارب",
+            "de-DE": "Der Sandkasten",
+            "en-GB": "The Sandbox",
+            "eo-ZZ": "La Sablokesto",
+            "es-ES": "La caja de arena",
+            "fi-FI": "Hiekkalaatikko",
+            "fr-FR": "Le bac à sable",
+            "hu-HU": "A Homokozó",
+            "nl-NL": "De zandbak",
+            "pt-BR": "A Caixa de Areia",
+            "uk-UA": "Пісочниця",
+            "zh-CN": "沙盒"
+        },
+        "park_name": {
+            "ar-EG": "صندوق التجارب",
+            "de-DE": "Der Sandkasten",
+            "en-GB": "The Sandbox",
+            "eo-ZZ": "La Sablokesto",
+            "es-ES": "La caja de arena",
+            "fi-FI": "Hiekkalaatikko",
+            "fr-FR": "Le bac à sable",
+            "hu-HU": "A Homokozó",
+            "ko-KR": "모래 상자",
+            "nl-NL": "De zandbak",
+            "pt-BR": "A Caixa de Areia",
+            "uk-UA": "Пісочниця",
+            "zh-CN": "沙盒"
+        },
+        "details": {
+            "ar-EG": "ما يريده الجميع - صندوق تجارب! لذا خذ سطلًا صغيرًا ومجرفة وأستعد لبناء الحديقة!",
+            "ca-ES": "Tot el que tothom desitja: una caixa d’arena. Així que agafeu la vostra petita pala i a construir-hi un parc!",
+            "da-DK": "Hvad alle vil have - en sandkasse! Så grib din lille spand og skovl og byg en park!",
+            "de-DE": "Was alle wollen - ein Sandkasten! Also schnappen Sie sich Eimer und Schaufel und bauen Sie einen Park!",
+            "en-GB": "What everyone wants - a sandbox! So grab your l’il pail and shovel and build a park!",
+            "eo-ZZ": "Kion ĉiuj volas - sablokesto! Do prenu vian etan sitelon kaj fosilon kaj konstruu parkon!",
+            "es-ES": "Lo que todo el mundo quiere - ¡una caja de arena! Así que coge tu cubito y pala, ¡y a construir un parque!",
+            "fi-FI": "Se, mitä kaikki aina haluavat - hiekkalaatikko! Tartu siis ämpäriin ja lapioon, ja rakenna puisto!",
+            "fr-FR": "Ce que tout le monde veut — un bac à sable ! Alors prenez votre pelle et votre râteau et contruisez un parc !",
+            "hu-HU": "Amit mindenki akar - egy homokozó! Szóval ragadjátok meg a kis vödrötöket és lapátotokat és építsetek egy parkot!",
+            "it-IT": "Quello che tutti desiderano - una sandbox! Quindi prendi secchio e pala e costruisci un parco!",
+            "ko-KR": "모두가 원하는 모래 상자! 이제 양동이와 삽을 들고 원하는 공원을 만드세요!",
+            "nb-NO": "Det alle vil ha - en sandboks! Så hent ditt lille spann og spade og bygg en park!",
+            "nl-NL": "Iedereen wil toch wel eens in de zandbak spelen? Pak je emmertje en je schepje en bouw een park!",
+            "pt-BR": "O que todos querem: uma caixa de areia! Então pegue seu baldinho e sua pá e construa um parque!",
+            "uk-UA": "Те, чого хоче кожен — пісочниця! Тож беріть своє відерце та лопату і будуйте парк!",
+            "zh-CN": "每个人都想拥有的——沙盒！所以拿起你的桶和铲子，建造一个公园吧！"
+        }
+    }
+}

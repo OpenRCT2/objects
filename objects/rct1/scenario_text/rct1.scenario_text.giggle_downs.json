@@ -1,0 +1,58 @@
+{
+    "id": "rct1.scenario_text.giggle_downs",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB400A|STEX946 |CB7273E0",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ca-ES": "Baixades de riure",
+            "en-GB": "Giggle Downs",
+            "eo-ZZ": "Subrido-Malaltaĵoj",
+            "fi-FI": "Riemuravit",
+            "fr-FR": "Pentes Glapissantes",
+            "hu-HU": "Kacaj-dombság",
+            "ja-JP": "ギゴル・ダウンズ",
+            "pt-BR": "Colinas do Riso",
+            "zh-CN": "伤心嬉笑"
+        },
+        "park_name": {
+            "ca-ES": "Baixades de riure",
+            "en-GB": "Giggle Downs",
+            "eo-ZZ": "Subrido-Malaltaĵoj",
+            "fi-FI": "Riemuravit",
+            "fr-FR": "Pentes Glapissantes",
+            "hu-HU": "Kacaj-dombság",
+            "ko-KR": "웃기는 구릉 지대",
+            "pt-BR": "Colinas do Riso",
+            "zh-CN": "伤心嬉笑"
+        },
+        "details": {
+            "ca-ES": "Un «steeplechase» de quatre carrils és la peça centra d’aquest parc en expansió.",
+            "da-DK": "En fire sporet hestevæddeløbs bane er kernen i denne ekspanderende forlystelsespark",
+            "de-DE": "Eine vierspurige Bahn mit Renncharakter ist das Herzstück dieses aufstrebenden Parks.",
+            "en-GB": "A four lane steeplechase ride is the centrepiece of this expanding park",
+            "en-US": "A four lane steeplechase ride is the centerpiece of this expanding park",
+            "eo-ZZ": "Kvaropa-traka stipoĉejso estas la ĉefaĵo de ĉi tiu ellaborata parko",
+            "es-ES": "Una atracción de carreras de obstáculos de cuatro calles es el núcleo principal de este parque en crecimiento.",
+            "fi-FI": "Neliratainen hevosajelu on tämän laajentuvan puiston keskipiste",
+            "fr-FR": "L’attraction principale de ce parc en pleine expansion est un rodéo-montagnes.",
+            "hu-HU": "Egy négysávos akadályverseny-játék a központi eleme ennek a terjeszkedő parknak",
+            "it-IT": "Una passeggiata a quattro corsie è il fulcro di questo parco in espansione",
+            "ko-KR": "이 넓은 공원의 중앙에는 네 쌍둥이 스티플체이스 놀이기구가 있습니다.",
+            "nb-NO": "Midtpunktet i denne voksende parken er et firefelts hinderløp",
+            "nl-NL": "De trekpleister van dit park is een duellerende Steeplechase met vier sporen naast elkaar.",
+            "pl-PL": "Czterotorowy bieg z przeszkodami jako centralna atrakcja tego rozwijającego się parku",
+            "pt-BR": "Uma corrida de obstáculos quádrupla é a peça central deste parque em expansão.",
+            "sv-SE": "En hästbana för hinderlöpning är i centrum för denna växande park",
+            "tr-TR": "Çocuklara özel inşa edilmiş bir lunapark",
+            "zh-CN": "四车道障碍赛是这个不断扩大的游乐园的核心",
+            "zh-TW": "四座馬術障礙賽式雲霄飛車是這個需要擴張的樂園的靈魂"
+        }
+    }
+}

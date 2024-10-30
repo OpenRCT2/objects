@@ -1,0 +1,73 @@
+{
+    "id": "rct2ww.scenario_text.beach_barbecue_blast",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "originalId": "0CCEA21A|STEX66  |E9805B76",
+    "sourceGame": [
+        "rct2ww"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "حفلة شواء على الشاطئ",
+            "ca-ES": "L’explosió de la barbacoa de la platja",
+            "de-DE": "Strand-Party",
+            "en-GB": "Beach Barbecue Blast",
+            "eo-ZZ": "Kradostado-Festo ĉe la Plaĝo",
+            "es-ES": "Bárbara barbacoa playera",
+            "fi-FI": "Rantakivaa",
+            "fr-FR": "Attractions sous les tropiques",
+            "hu-HU": "Tengerparti Grillparti",
+            "it-IT": "Barbecue balneare",
+            "ja-JP": "ビーチ・バーベキュー",
+            "ko-KR": "해변의 바베큐 파티",
+            "pt-BR": "Explosão de Churrasco na Praia",
+            "ru-RU": "Барбекю на Берегу",
+            "sv-SE": "Strandhugg",
+            "zh-CN": "海滩烧烤风"
+        },
+        "park_name": {
+            "ar-EG": "حفلة شواء على الشاطئ",
+            "ca-ES": "L’explosió de la barbacoa de la platja",
+            "de-DE": "Strand-Party",
+            "en-GB": "Beach Barbecue Blast",
+            "eo-ZZ": "Kradostado-Festo ĉe la Plaĝo",
+            "es-ES": "Bárbara barbacoa playera",
+            "fi-FI": "Rantakivaa",
+            "fr-FR": "Attractions sous les tropiques",
+            "hu-HU": "Tengerparti Grillparti",
+            "it-IT": "Barbecue balneare",
+            "ja-JP": "ビーチ・バーベキュー",
+            "ko-KR": "해변의 바베큐 파티",
+            "pt-BR": "Explosão de Churrasco na Praia",
+            "ru-RU": "Барбекю на Берегу",
+            "sv-SE": "Strandhugg",
+            "zh-CN": "海滩烧烤风"
+        },
+        "details": {
+            "ar-EG": "تعرضت حديقة الفقمة الخاصة برجل أعمال محلي للإفلاس. أنت حاليًا تدير حديقة صغيرة، قُمت بشراء الحديقة الأخرى من شركة البناء. ويتعين عليك الأن تطوير حديقة مشتركة كبيرة.",
+            "ca-ES": "El parc marítim d’un emprenedor local ha fet fallida. Ja teniu un parc petit que funciona, però ara acabeu de comprar l’altre parc. Desenvolupeu un únic parc combinat.",
+            "cs-CZ": "Místní mořský svět bankrotoval a vy jste ho odkoupili. Vám už ale jeden malý park patří - postavte tedy ze dvou malých parků jeden obrovský!",
+            "da-DK": "En lokal iværksætters havlivs park er gået fallit. Du driver allerede en lille park og køber den anden park fra byggefirmaet. Udvikl den til en stor kombineret park.",
+            "de-DE": "Der Meerespark eines örtlichen Unternehmers hat Bankrott gemacht. Sie besitzen bereits einen kleinen Park und möchten den anderen dazukaufen. Um die benötigten Gelder aufzutreiben, müssen Sie zunächst Ihren kleinen Park ausbauen.",
+            "en-GB": "A local entrepreneur’s sealife park has gone bust. You already operate a small park and buy the other park from the construction company. Develop a big combined park.",
+            "eo-ZZ": "La marvivo-parko de loka entreprenisto eksenmoniĝis. Vi jam funkciigas malgrandan parkon, kaj aĉetas la alian parkon de la konstruo-kompanio. Ellaboru grandan kombinitan parkon.",
+            "es-ES": "El parque marino de un empresario local se ha arruinado. Tú ya tienes un pequeño parque y tienes que ganar suficiente dinero para comprar el otro parque a la compañía de construcción. Tendrás que desarrollar tu propio parque para crea…",
+            "fi-FI": "Paikallisen yrittäjän akvaario on mennyt konkurssiin. Sinulla on jo pieni huvipuisto vastarannalla, ja ostat konkurssipesän rakennusyhtiöltä. Kehitä yksi yhtenäinen puisto.",
+            "fr-FR": "Le parc maritime d’un entrepreneur local fait faillite. Vous êtes à la tête d’un petit parc et devez trouver les fonds nécessaires au rachat de l’autre parc. Vous y parviendrez en visant la création d’un immense parc combiné.",
+            "hu-HU": "Egy helyi vállalkozó tengeri élményparkja tönkrement. Már üzemeltetsz egy kis parkot, és megveszed a másik parkot az építővállalattól. Alakíts ki egy nagy, összekapcsolt parkot.",
+            "it-IT": "Il parco marino di un imprenditore locale è fallito. Tu possiedi già un piccolo parco e per comprare l’altro devi trovare dei soldi, sviluppando poi entrambi in una grossa struttura combinata.",
+            "ko-KR": "근처 지역 사업가의 해안 공원이 파산해버렸습니다. 이미 작은 공원을 운영하는 당신은 건설사로부터 그 공원을 구입하였습니다. 두 공원을 합쳐 크게 사업을 확장해보세요.",
+            "nb-NO": "En lokal entreprenør's marinepark har gått konkurs. Du driver allerede en liten park og kjøper den andre parken fra konstruksjonsfirmaet. Utvikle en stor, kombinert park.",
+            "nl-NL": "Het themapark van een lokale ondernemer is over de kop gegaan. Je bezit zelf al een klein park en hebt het andere park overgenomen. Combineer beide parken tot één groot park.",
+            "pl-PL": "Miejscowe oceanarium zbankrutowało. Masz już niewielki własny lunapark i kupujesz drugi park od firmy budowlanej. Przekształć je w duży połączony lunapark.",
+            "pt-BR": "Um empreendimento local de parque de vida marinha foi derrubado. Você já opera um pequeno parque e compra o outro parque da companhia de construção. Desenvolva um grande parque combinado.",
+            "ru-RU": "Местный морской парк потерпел банкротство. У вас уже есть небольшой парк и вы можете купить еще один у строительной компании. Создайте один общий парк.",
+            "sv-SE": "En lokal affärsmans vattenpark har gått i konkurs. Du driver redan en liten välfungerande park, och har köpt upp konkursboet. Utveckla det hela till en stor gemensam park.",
+            "tr-TR": "Yerel bir girişimcinin deniz yaşamı parkı kapandı. Siz henüz küçük bir lunaparka sahipsiniz ve kapalı olan diğer parkında satın aldınız. Bu parkları birleştiriniz",
+            "zh-CN": "一个本地企业家的海滨游乐园已经破产。你已经经营了一个小游乐园，你要从建筑公司购买另一个游乐园。开发一个大联合游乐园。"
+        }
+    }
+}

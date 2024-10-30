@@ -1,0 +1,70 @@
+{
+    "id": "rct2.scenario_text.rainbow_summit",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "0A18818A|STEX5   |EC433BAD",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ca-ES": "La cima de l’arc de San Martí",
+            "de-DE": "Regenbogen-Gipfel",
+            "en-GB": "Rainbow Summit",
+            "eo-ZZ": "Ĉielarko-Supraĵo",
+            "es-ES": "Cresta Arcoíris",
+            "fi-FI": "Sateenkaarikukkula",
+            "fr-FR": "L’Orée de l’arc-en-ciel",
+            "hu-HU": "Szivárvány Csúcs",
+            "it-IT": "Vertice dell’arcobaleno",
+            "ja-JP": "レインボーサミット",
+            "ko-KR": "무지개 정상",
+            "pt-BR": "Cúpula do Arco-Íris",
+            "zh-CN": "彩虹尽头",
+            "zh-TW": "彩虹峰頂"
+        },
+        "park_name": {
+            "ca-ES": "La cima de l’arc de San Martí",
+            "de-DE": "Regenbogen-Gipfel",
+            "en-GB": "Rainbow Summit",
+            "eo-ZZ": "Ĉielarko-Supraĵo",
+            "es-ES": "Cresta Arcoíris",
+            "fi-FI": "Sateenkaarikukkula",
+            "fr-FR": "L’Orée de l’arc-en-ciel",
+            "hu-HU": "Szivárvány Csúcs",
+            "it-IT": "Vertice dell’arcobaleno",
+            "ko-KR": "무지개 정상",
+            "pt-BR": "Cúpula do Arco-Íris",
+            "sv-SE": "Regnbågstopp",
+            "zh-CN": "彩虹尽头",
+            "zh-TW": "彩虹峰頂"
+        },
+        "details": {
+            "ca-ES": "Construït en una vessant, aquest parc té prohibit construir-hi res gaire alt. Podeu expandir-lo i fer que tingui èxit?",
+            "cs-CZ": "Zábavní park vybudovaný na straně kopce má zakázány výškové stavby. Dokážete i přes to park rozšířit a dosáhnout úspěchu?",
+            "da-DK": "Bygget på en bjergskråning, er denne park forbudt at bygge noget højt. Kan du udvide parken og gøre den vellykket?",
+            "de-DE": "Dieser Park wurde auf einem Hügel errichtet, und es darf nichts Hohes darauf gebaut werden. Können Sie den Park vergrößern und ihn zu einem Erfolg machen?",
+            "en-GB": "Built on a hillside, this park is forbidden from building anything tall. Can you expand the park and make it successful?",
+            "eo-ZZ": "Konstruita ĉe montetoflanko, la aŭtoritato malpermesas altajn konstruaĵojn. Ĉu vi povas ellabori la parkon kaj farigi ĝin sukcesa?",
+            "es-ES": "Construido en una ladera, este parque la tiene difícil para construir algo alto. ¿Podrás expandir este parque y hacerlo exitoso?",
+            "fi-FI": "Tällä mäen reunaan rakennetulla puistolla ei ole lupaa rakentaa mitään korkeaa. Pystytkö sinä laajentamaan puistoa ja tehdä siitä menestyksen?",
+            "fr-FR": "Ce parc a été construit sur le versant d’une colline, et ne peut donc comprendre aucune installation de grande taille. Saurez-vous malgré tout le développer et le rendre attractif ?",
+            "hu-HU": "A domboldalon épült parkban tilos bármi magasat építeni. Sikerül bővítened a parkot és sikeressé tenni?",
+            "it-IT": "Questo parco, costruito sul lato di una collina, non può avere attrazioni molto alte. Riuscirai a espandere il parco e a renderlo un enorme successo?",
+            "ja-JP": "丘の中腹にあるこの遊園地では、いかなる高層建築物も禁止されています。遊園地を拡張し、成功に導くことができるでしょうか",
+            "ko-KR": "이 공원은 산허리에 만들어야 하고, 높은 건물은 지을 수 없습니다. 공원을 확장하여 성공할 자신이 있습니까?",
+            "nb-NO": "Bygget på en fjellside, har denne parken fått forbud fra å bygge høye attraksjoner. Klarer du å utvide parken og gjøre den til en suksess?",
+            "nl-NL": "In dit park, gelegen op een heuvel, zijn hoge bouwwerken verboden. Kun je het park uitbreiden en het succesvol maken?",
+            "pl-PL": "Ten park, ulokowany na zboczu wzgórza, nie może zawierać żadnych wysokich obiektów. Czy uda ci się go rozbudować i zapewnić mu powodzenie?",
+            "pt-BR": "Construído numa encosta, este parque é proibido de construir qualquer coisa alta. Você consegue expandir o parque e torná-lo bem-sucedido?",
+            "ru-RU": "В этом парке нельзя строить ничего высокого. Попробуйте сделать этот парк успешным.",
+            "sv-SE": "Parken är belägen på en sluttning, och förbjuden att bygga något högt. Kan du utvidga parken och göra den framgångsrik?",
+            "tr-TR": "Bir dağın eteğine lunapark kurunuz. Fakat yüksek aletlerin inşasına izin verilmiyor",
+            "zh-CN": "这个游乐园建在一个山坡上，禁止建造任何高的东西。你能扩大游乐园，使它成功吗？",
+            "zh-TW": "在山坡上建造,這個遊樂園被禁止建造高的建物,你可以擴展這個遊樂園獲得勝利?"
+        }
+    }
+}

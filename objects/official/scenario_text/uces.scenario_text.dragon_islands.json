@@ -1,0 +1,58 @@
+{
+    "id": "uces.scenario_text.dragon_islands",
+    "authors": [
+        "Fossil"
+    ],
+    "version": "1.0",
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "جزر التنين",
+            "ca-ES": "Arxipèlag del Drac",
+            "de-DE": "Dracheninseln",
+            "en-GB": "Dragon Islands",
+            "eo-ZZ": "Drakaj Insuloj",
+            "es-ES": "Archipiélago Dragon",
+            "fi-FI": "Lohikäärmesaaret",
+            "fr-FR": "Archipel du dragon",
+            "hu-HU": "Sárkány-szigetek",
+            "pt-BR": "Ilhas do Dragão",
+            "uk-UA": "Острови Драконів",
+            "zh-CN": "龙之岛"
+        },
+        "park_name": {
+            "ar-EG": "جزر التنين",
+            "ca-ES": "Arxipèlag del Drac",
+            "de-DE": "Dracheninseln",
+            "en-GB": "Dragon Islands",
+            "eo-ZZ": "Drakaj Insuloj",
+            "es-ES": "Archipiélago Dragon",
+            "fi-FI": "Lohikäärmesaaret",
+            "fr-FR": "Archipel du dragon",
+            "hu-HU": "Sárkány-szigetek",
+            "ko-KR": "용의 섬",
+            "pt-BR": "Ilhas do Dragão",
+            "uk-UA": "Острови Драконів",
+            "zh-CN": "龙之岛"
+        },
+        "details": {
+            "ar-EG": "جزر التنين? لست متأكدًا من أنني أريد الذهاب إلى هناك…",
+            "ca-ES": "Illes del Drac? No estic segur que hi vulgui anar…",
+            "da-DK": "Drageøen? Jeg er ikke sikker på at jeg vil derhen…",
+            "de-DE": "Dracheninseln? Ich bin mir nicht sicher, wie man da hinkommt …",
+            "en-GB": "Dragon Islands? I’m not sure I want to go there…",
+            "eo-ZZ": "Ĉu Drakaj Insuloj? Mi ne estas certa, ke mi volas iri tien…",
+            "es-ES": "¿Archipiélago Dragon? No estoy seguro de querer ir ahí…",
+            "fi-FI": "Lohikäärmesaaret? En ole varma, haluanko mennä sinne…",
+            "fr-FR": "Archipel du dragon ? Je ne suis pas sûr de vouloir y aller…",
+            "hu-HU": "Sárkány-szigetek? Nem biztos, hogy oda akarok menni…",
+            "it-IT": "L’isola dei dragoni? Non sono sicuro di volerci andare…",
+            "ko-KR": "용의 섬이라고? 거기 가고 싶은지 확신이 안 서는 걸…",
+            "nb-NO": "Drageøyene? Jeg er ikke sikker på om jeg vil dra dit…",
+            "nl-NL": "Dragon Islands? Dat klinkt niet erg veilig…",
+            "pt-BR": "Ilhas do Dragão? Não tenho certeza se quero ir lá…",
+            "uk-UA": "Острови Драконів? Я не дуже хочу туди.…",
+            "zh-CN": "龙之岛？我可不确定我会想去那……"
+        }
+    }
+}
