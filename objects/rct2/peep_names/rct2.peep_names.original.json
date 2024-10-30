@@ -1,8 +1,12 @@
 {
     "id": "rct2.peep_names.original",
-    "authors": ["Chris Sawyer"],
+    "authors": [
+        "Chris Sawyer"
+    ],
     "version": "1.0",
-    "sourceGame": ["rct2"],
+    "sourceGame": [
+        "rct2"
+    ],
     "objectType": "peep_names",
     "strings": {
         "name": {

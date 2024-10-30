@@ -1,6 +1,9 @@
 {
     "id": "rct1aa.ride.lay_down_trains",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "00000000|#RCT1VEK|00000000",
     "sourceGame": "rct1aa",
@@ -13,10 +16,18 @@
         "maxCarsPerTrain": 6,
         "carColours": [
             [
-                ["bright_red", "yellow", "black"]
+                [
+                    "bright_red",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["bright_green", "yellow", "black"]
+                [
+                    "bright_green",
+                    "yellow",
+                    "black"
+                ]
             ]
         ],
         "cars": [
@@ -30,33 +41,38 @@
                 "soundRange": 2,
                 "drawOrder": 6,
                 "spriteGroups": {
-                    "slopeFlat":16,
-                    "slopes12":4,
-                    "slopes25":16,
-                    "slopes42":8,
-                    "slopes60":16,
-                    "slopes75":4,
-                    "slopes90":4,
-                    "slopesLoop":4,
-                    "slopeInverted":4,
-                    "slopes8":4,
-                    "slopes16":4,
-                    "slopes50":4,
-                    "flatBanked22":8,
-                    "flatBanked45":16,
-                    "flatBanked67":4,
-                    "flatBanked90":4,
-                    "inlineTwists":4,
-                    "slopes12Banked22":4,
-                    "slopes8Banked22":4,
-                    "corkscrews":4,
+                    "slopeFlat": 16,
+                    "slopes12": 4,
+                    "slopes25": 16,
+                    "slopes42": 8,
+                    "slopes60": 16,
+                    "slopes75": 4,
+                    "slopes90": 4,
+                    "slopesLoop": 4,
+                    "slopeInverted": 4,
+                    "slopes8": 4,
+                    "slopes16": 4,
+                    "slopes50": 4,
+                    "flatBanked22": 8,
+                    "flatBanked45": 16,
+                    "flatBanked67": 4,
+                    "flatBanked90": 4,
+                    "inlineTwists": 4,
+                    "slopes12Banked22": 4,
+                    "slopes8Banked22": 4,
+                    "corkscrews": 4,
                     "restraintAnimation": 4
                 },
                 "hasInvertedSpriteSet": true,
                 "spriteBoundsIncludeInvertedSet": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, -2, 2, -2]
+                "loadingPositions": [
+                    2,
+                    -2,
+                    2,
+                    -2
+                ]
             },
             {
                 "rotationFrameMask": 15,
@@ -68,24 +84,29 @@
                 "soundRange": 2,
                 "drawOrder": 2,
                 "spriteGroups": {
-                    "slopeFlat":16,
-                    "slopes12":4,
-                    "slopes25":16,
-                    "slopes42":8,
-                    "slopes60":16,
-                    "slopeInverted":4,
-                    "slopes8":4,
-                    "slopes16":4,
-                    "slopes50":4,
-                    "flatBanked22":8,
-                    "flatBanked45":16,
-                    "slopes12Banked22":4,
-                    "slopes8Banked22":4
+                    "slopeFlat": 16,
+                    "slopes12": 4,
+                    "slopes25": 16,
+                    "slopes42": 8,
+                    "slopes60": 16,
+                    "slopeInverted": 4,
+                    "slopes8": 4,
+                    "slopes16": 4,
+                    "slopes50": 4,
+                    "flatBanked22": 8,
+                    "flatBanked45": 16,
+                    "slopes12Banked22": 4,
+                    "slopes8Banked22": 4
                 },
                 "hasInvertedSpriteSet": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
-                "loadingPositions": [2, -2, 2, -2]
+                "loadingPositions": [
+                    2,
+                    -2,
+                    2,
+                    -2
+                ]
             }
         ],
         "buildMenuPriority": 1
@@ -95,17 +116,14 @@
         "",
         "",
         "$CSG[7106..7121]",
-
         "$CSG[7122]",
         "$CSG[7130]",
         "$CSG[7138]",
         "$CSG[7146]",
-
         "$CSG[7126]",
         "$CSG[7134]",
         "$CSG[7142]",
         "$CSG[7150]",
- 
         "$CSG[7123]",
         "$CSG[7210..7212]",
         "$CSG[7131]",
@@ -114,7 +132,6 @@
         "$CSG[7216..7218]",
         "$CSG[7147]",
         "$CSG[7219..7221]",
-
         "$CSG[7127]",
         "$CSG[7222..7224]",
         "$CSG[7135]",
@@ -123,7 +140,6 @@
         "$CSG[7228..7230]",
         "$CSG[7151]",
         "$CSG[7231..7233]",
-
         "$CSG[7124]",
         "$CSG[7458]",
         "$CSG[7132]",
@@ -140,7 +156,6 @@
         "$CSG[7476]",
         "$CSG[7152]",
         "$CSG[7477]",
-
         "$CSG[7125]",
         "$CSG[7374..7376]",
         "$CSG[7133]",
@@ -157,7 +172,6 @@
         "$CSG[7392..7394]",
         "$CSG[7153]",
         "$CSG[7395..7397]",
-
         "$CSG[7234..7237]",
         "$CSG[7266..7269]",
         "$CSG[7238..7241]",
@@ -173,14 +187,12 @@
         "$CSG[7258..7261]",
         "$CSG[7290..7293]",
         "$CSG[7262..7265]",
-
         "$CSG[7450..7453]",
         "$CSG[7466..7469]",
         "$CSG[7454..7457]",
         "$CSG[7470..7473]",
         "$CSG[7462..7465]",
         "$CSG[7478..7481]",
-
         "$CSG[7186]",
         "$CSG[7498]",
         "$CSG[7187]",
@@ -197,9 +209,7 @@
         "$CSG[7504]",
         "$CSG[7193]",
         "$CSG[7505]",
-
         "$CSG[7154..7185]",
-
         "$CSG[7398]",
         "$CSG[7403]",
         "$CSG[7408]",
@@ -240,13 +250,9 @@
         "$CSG[7427]",
         "$CSG[7432]",
         "$CSG[7437]",
-
         "$CSG[7194..7209]",
-
         "$CSG[7482..7497]",
-
         "$CSG[7294..7373]",
-
         "$CSG[7438]",
         "$CSG[7441]",
         "$CSG[7444]",
@@ -259,19 +265,15 @@
         "$CSG[7443]",
         "$CSG[7446]",
         "$CSG[7449]",
-
         "$CSG[7942..7957]",
-
         "$CSG[7958]",
         "$CSG[7966]",
         "$CSG[7974]",
         "$CSG[7982]",
-
         "$CSG[7962]",
         "$CSG[7970]",
         "$CSG[7978]",
         "$CSG[7986]",
- 
         "$CSG[7959]",
         "$CSG[8046..8048]",
         "$CSG[7967]",
@@ -280,7 +282,6 @@
         "$CSG[8052..8054]",
         "$CSG[7983]",
         "$CSG[8055..8057]",
-
         "$CSG[7963]",
         "$CSG[8058..8060]",
         "$CSG[7971]",
@@ -289,7 +290,6 @@
         "$CSG[8064..8066]",
         "$CSG[7987]",
         "$CSG[8067..8069]",
-
         "$CSG[7960]",
         "$CSG[8294]",
         "$CSG[7968]",
@@ -306,7 +306,6 @@
         "$CSG[8312]",
         "$CSG[7988]",
         "$CSG[8313]",
-
         "$CSG[7961]",
         "$CSG[8210..8212]",
         "$CSG[7969]",
@@ -323,7 +322,6 @@
         "$CSG[8228..8230]",
         "$CSG[7989]",
         "$CSG[8231..8233]",
-
         "$CSG[8070..8073]",
         "$CSG[8102..8105]",
         "$CSG[8074..8077]",
@@ -339,14 +337,12 @@
         "$CSG[8094..8097]",
         "$CSG[8126..8129]",
         "$CSG[8098..8101]",
-
         "$CSG[8286..8289]",
         "$CSG[8302..8305]",
         "$CSG[8290..8293]",
         "$CSG[8306..8309]",
         "$CSG[8298..8301]",
         "$CSG[8314..8317]",
-
         "$CSG[8022]",
         "$CSG[8334]",
         "$CSG[8023]",
@@ -363,9 +359,7 @@
         "$CSG[8340]",
         "$CSG[8029]",
         "$CSG[8341]",
-
         "$CSG[7990..8021]",
-
         "$CSG[8234]",
         "$CSG[8239]",
         "$CSG[8244]",
@@ -406,13 +400,9 @@
         "$CSG[8263]",
         "$CSG[8268]",
         "$CSG[8273]",
-
         "$CSG[8030..8045]",
-
         "$CSG[8318..8333]",
-
         "$CSG[8130..8209]",
-
         "$CSG[8274]",
         "$CSG[8277]",
         "$CSG[8280]",
@@ -425,19 +415,15 @@
         "$CSG[8279]",
         "$CSG[8282]",
         "$CSG[8285]",
-
         "$CSG[8778..8793]",
-
         "$CSG[8794]",
         "$CSG[8802]",
         "$CSG[8810]",
         "$CSG[8818]",
-
         "$CSG[8798]",
         "$CSG[8806]",
         "$CSG[8814]",
         "$CSG[8822]",
- 
         "$CSG[8795]",
         "$CSG[8882..8884]",
         "$CSG[8803]",
@@ -446,7 +432,6 @@
         "$CSG[8888..8890]",
         "$CSG[8819]",
         "$CSG[8891..8893]",
-
         "$CSG[8799]",
         "$CSG[8894..8896]",
         "$CSG[8807]",
@@ -455,7 +440,6 @@
         "$CSG[8900..8902]",
         "$CSG[8823]",
         "$CSG[8903..8905]",
-
         "$CSG[8796]",
         "$CSG[9130]",
         "$CSG[8804]",
@@ -472,7 +456,6 @@
         "$CSG[9148]",
         "$CSG[8824]",
         "$CSG[9149]",
-
         "$CSG[8797]",
         "$CSG[9046..9048]",
         "$CSG[8805]",
@@ -489,7 +472,6 @@
         "$CSG[9064..9066]",
         "$CSG[8825]",
         "$CSG[9067..9069]",
-
         "$CSG[8906..8909]",
         "$CSG[8938..8941]",
         "$CSG[8910..8913]",
@@ -505,14 +487,12 @@
         "$CSG[8930..8933]",
         "$CSG[8962..8965]",
         "$CSG[8934..8937]",
-
         "$CSG[9122..9125]",
         "$CSG[9138..9141]",
         "$CSG[9126..9129]",
         "$CSG[9142..9145]",
         "$CSG[9134..9137]",
         "$CSG[9150..9153]",
-
         "$CSG[8858]",
         "$CSG[9170]",
         "$CSG[8859]",
@@ -529,9 +509,7 @@
         "$CSG[9176]",
         "$CSG[8865]",
         "$CSG[9177]",
-
         "$CSG[8826..8857]",
-
         "$CSG[9070]",
         "$CSG[9075]",
         "$CSG[9080]",
@@ -572,13 +550,9 @@
         "$CSG[9099]",
         "$CSG[9104]",
         "$CSG[9109]",
-
         "$CSG[8866..8881]",
-
         "$CSG[9154..9169]",
-
         "$CSG[8966..9045]",
-
         "$CSG[9110]",
         "$CSG[9113]",
         "$CSG[9116]",
@@ -591,32 +565,23 @@
         "$CSG[9115]",
         "$CSG[9118]",
         "$CSG[9121]",
-
-        
-        
-        
-        
-        
-        
-        
-     "$CSG[7264]",
-         { "gx": "$CSG[7507]", "y": -5 },
-         { "gx": "$CSG[7508]", "y": -5 },
-         { "gx": "$CSG[7509]", "y": -5 },
-     "$CSG[7265]",
-         { "gx": "$CSG[7511]", "y": -4 },
-         { "gx": "$CSG[7512]", "y": -3 },
-         { "gx": "$CSG[7513]", "y": -4 },
-     "$CSG[7262]",
-         { "gx": "$CSG[7515]", "y": -5 },
-         { "gx": "$CSG[7516]", "y": -5 },
-         { "gx": "$CSG[7517]", "y": -5 },
-     "$CSG[7263]",
-         { "gx": "$CSG[7519]", "y": -4 },
-         { "gx": "$CSG[7520]", "y": -2 },
-         { "gx": "$CSG[7521]", "y": -4 },
-
-            { "gx": "$CSG[7522]", "y": -5 },
+        "$CSG[7264]",
+        { "gx": "$CSG[7507]", "y": -5 },
+        { "gx": "$CSG[7508]", "y": -5 },
+        { "gx": "$CSG[7509]", "y": -5 },
+        "$CSG[7265]",
+        { "gx": "$CSG[7511]", "y": -4 },
+        { "gx": "$CSG[7512]", "y": -3 },
+        { "gx": "$CSG[7513]", "y": -4 },
+        "$CSG[7262]",
+        { "gx": "$CSG[7515]", "y": -5 },
+        { "gx": "$CSG[7516]", "y": -5 },
+        { "gx": "$CSG[7517]", "y": -5 },
+        "$CSG[7263]",
+        { "gx": "$CSG[7519]", "y": -4 },
+        { "gx": "$CSG[7520]", "y": -2 },
+        { "gx": "$CSG[7521]", "y": -4 },
+        { "gx": "$CSG[7522]", "y": -5 },
         { "gx": "$CSG[7530]", "y": -4 },
         { "gx": "$CSG[7538]", "y": -4 },
         { "gx": "$CSG[7546]", "y": -6 },
@@ -624,8 +589,7 @@
         { "gx": "$CSG[7534]", "y": -7 },
         { "gx": "$CSG[7542]", "y": -7 },
         { "gx": "$CSG[7550]", "y": -4 },
- 
-            { "gx": "$CSG[7523]", "y": -6 },
+        { "gx": "$CSG[7523]", "y": -6 },
         { "gx": "$CSG[7610]", "y": -7 },
         { "gx": "$CSG[7611]", "y": -6 },
         { "gx": "$CSG[7612]", "y": -5 },
@@ -657,8 +621,7 @@
         { "gx": "$CSG[7631]", "y": -2 },
         { "gx": "$CSG[7632]", "y": 0 },
         { "gx": "$CSG[7633]", "y": -2 },
-
-            { "gx": "$CSG[7524]", "y": -8 },
+        { "gx": "$CSG[7524]", "y": -8 },
         { "gx": "$CSG[7894]", "y": -7 },
         { "gx": "$CSG[7532]", "y": -5 },
         { "gx": "$CSG[7895]", "y": 0 },
@@ -674,8 +637,7 @@
         { "gx": "$CSG[7912]", "y": -10 },
         { "gx": "$CSG[7552]", "y": -5 },
         { "gx": "$CSG[7913]", "y": 0 },
-
-            { "gx": "$CSG[7525]", "y": -10 },
+        { "gx": "$CSG[7525]", "y": -10 },
         { "gx": "$CSG[7774]", "y": -9 },
         { "gx": "$CSG[7775]", "y": -8 },
         { "gx": "$CSG[7776]", "y": -7 },
@@ -707,13 +669,11 @@
         { "gx": "$CSG[7795]", "y": -4 },
         { "gx": "$CSG[7796]", "y": -3 },
         { "gx": "$CSG[7797]", "y": -4 },
-        
-    "$CSG[7114]",
+        "$CSG[7114]",
         "$CSG[7118]",
         "$CSG[7106]",
         "$CSG[7110]",
-
-            { "gx": "$CSG[7886]", "y": -5 },
+        { "gx": "$CSG[7886]", "y": -5 },
         { "gx": "$CSG[7887]", "y": -1 },
         { "gx": "$CSG[7888]", "y": -5 },
         { "gx": "$CSG[7889]", "y": -4 },
@@ -737,8 +697,7 @@
         { "gx": "$CSG[7915]", "y": -12 },
         { "gx": "$CSG[7916]", "y": -11 },
         { "gx": "$CSG[7917]", "y": -1 },
-
-            { "gx": "$CSG[7586]", "y": -1 },
+        { "gx": "$CSG[7586]", "y": -1 },
         { "gx": "$CSG[7934]", "y": -1 },
         { "gx": "$CSG[7587]", "y": -1 },
         { "gx": "$CSG[7935]", "y": -6 },
@@ -754,8 +713,7 @@
         { "gx": "$CSG[7940]", "y": -1 },
         { "gx": "$CSG[7593]", "y": -1 },
         { "gx": "$CSG[7941]", "y": -5 },
-
-            { "gx": "$CSG[7554]", "y": -5 },
+        { "gx": "$CSG[7554]", "y": -5 },
         { "gx": "$CSG[7555]", "y": -4 },
         { "gx": "$CSG[7556]", "y": -3 },
         { "gx": "$CSG[7557]", "y": -3 },
@@ -787,8 +745,7 @@
         { "gx": "$CSG[7583]", "y": -7 },
         { "gx": "$CSG[7584]", "y": -8 },
         { "gx": "$CSG[7585]", "y": -9 },
-
-            { "gx": "$CSG[7594]", "y": -2 },
+        { "gx": "$CSG[7594]", "y": -2 },
         { "gx": "$CSG[7595]", "y": -1 },
         { "gx": "$CSG[7596]", "y": -8 },
         { "gx": "$CSG[7597]", "y": -8 },
@@ -804,8 +761,7 @@
         { "gx": "$CSG[7607]", "y": -11 },
         { "gx": "$CSG[7608]", "y": -3 },
         { "gx": "$CSG[7609]", "y": -1 },
-
-            { "gx": "$CSG[7918]", "y": -2 },
+        { "gx": "$CSG[7918]", "y": -2 },
         { "gx": "$CSG[7919]", "y": -5 },
         { "gx": "$CSG[7920]", "y": -9 },
         { "gx": "$CSG[7921]", "y": -5 },
@@ -821,37 +777,23 @@
         { "gx": "$CSG[7931]", "y": -8 },
         { "gx": "$CSG[7932]", "y": -2 },
         { "gx": "$CSG[7933]", "y": -4 },
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-             "$CSG[8100]",
-         { "gx": "$CSG[8343]", "y": 6 },
-         { "gx": "$CSG[8344]", "y": 18 },
-         { "gx": "$CSG[8345]", "y": 26 },
-     "$CSG[8101]",
-         { "gx": "$CSG[8347]", "y": 5 },
-         { "gx": "$CSG[8348]", "y": 5 },
-         { "gx": "$CSG[8349]", "y": 7 },
-     "$CSG[8098]",
-         { "gx": "$CSG[8351]", "y": 11 },
-         { "gx": "$CSG[8352]", "y": 10 },
-         { "gx": "$CSG[8353]", "y": 10 },
-     "$CSG[8099]",
-         { "gx": "$CSG[8355]", "y": 7 },
-         { "gx": "$CSG[8356]", "y": 10 },
-         { "gx": "$CSG[8357]", "y": 12 },
-
-            { "gx": "$CSG[8358]", "y": 10 },
+        "$CSG[8100]",
+        { "gx": "$CSG[8343]", "y": 6 },
+        { "gx": "$CSG[8344]", "y": 18 },
+        { "gx": "$CSG[8345]", "y": 26 },
+        "$CSG[8101]",
+        { "gx": "$CSG[8347]", "y": 5 },
+        { "gx": "$CSG[8348]", "y": 5 },
+        { "gx": "$CSG[8349]", "y": 7 },
+        "$CSG[8098]",
+        { "gx": "$CSG[8351]", "y": 11 },
+        { "gx": "$CSG[8352]", "y": 10 },
+        { "gx": "$CSG[8353]", "y": 10 },
+        "$CSG[8099]",
+        { "gx": "$CSG[8355]", "y": 7 },
+        { "gx": "$CSG[8356]", "y": 10 },
+        { "gx": "$CSG[8357]", "y": 12 },
+        { "gx": "$CSG[8358]", "y": 10 },
         { "gx": "$CSG[8366]", "y": 3 },
         { "gx": "$CSG[8374]", "y": 9 },
         { "gx": "$CSG[8382]", "y": 8 },
@@ -859,8 +801,7 @@
         { "gx": "$CSG[8370]", "y": 3 },
         { "gx": "$CSG[8378]", "y": 8 },
         { "gx": "$CSG[8386]", "y": 10 },
- 
-            { "gx": "$CSG[8359]", "y": 10 },
+        { "gx": "$CSG[8359]", "y": 10 },
         { "gx": "$CSG[8446]", "y": 18 },
         { "gx": "$CSG[8447]", "y": 26 },
         { "gx": "$CSG[8448]", "y": 4 },
@@ -892,8 +833,7 @@
         { "gx": "$CSG[8467]", "y": 10 },
         { "gx": "$CSG[8468]", "y": 9 },
         { "gx": "$CSG[8469]", "y": 9 },
-
-            { "gx": "$CSG[8360]", "y": 26 },
+        { "gx": "$CSG[8360]", "y": 26 },
         { "gx": "$CSG[8730]", "y": 2 },
         { "gx": "$CSG[8368]", "y": 1 },
         { "gx": "$CSG[8731]", "y": 6 },
@@ -909,8 +849,7 @@
         { "gx": "$CSG[8748]", "y": 2 },
         { "gx": "$CSG[8388]", "y": 8 },
         { "gx": "$CSG[8749]", "y": 8 },
-
-            { "gx": "$CSG[8361]", "y": 11 },
+        { "gx": "$CSG[8361]", "y": 11 },
         { "gx": "$CSG[8610]", "y": 26 },
         { "gx": "$CSG[8611]", "y": -5 },
         { "gx": "$CSG[8612]", "y": -3 },
@@ -942,13 +881,11 @@
         { "gx": "$CSG[8631]", "y": 4 },
         { "gx": "$CSG[8632]", "y": 5 },
         { "gx": "$CSG[8633]", "y": 2 },
-        
-    "$CSG[7950]",
+        "$CSG[7950]",
         "$CSG[7954]",
         "$CSG[7942]",
         "$CSG[7946]",
-
-            { "gx": "$CSG[8722]", "y": 26 },
+        { "gx": "$CSG[8722]", "y": 26 },
         { "gx": "$CSG[8723]", "y": 7 },
         { "gx": "$CSG[8724]", "y": 10 },
         { "gx": "$CSG[8725]", "y": 15 },
@@ -972,8 +909,7 @@
         { "gx": "$CSG[8751]", "y": -2 },
         { "gx": "$CSG[8752]", "y": 0 },
         { "gx": "$CSG[8753]", "y": 7 },
-
-            { "gx": "$CSG[8422]", "y": 14 },
+        { "gx": "$CSG[8422]", "y": 14 },
         { "gx": "$CSG[8770]", "y": 10 },
         { "gx": "$CSG[8423]", "y": 8 },
         { "gx": "$CSG[8771]", "y": 10 },
@@ -989,8 +925,7 @@
         { "gx": "$CSG[8776]", "y": 7 },
         { "gx": "$CSG[8429]", "y": 5 },
         { "gx": "$CSG[8777]", "y": 3 },
-
-            { "gx": "$CSG[8390]", "y": 14 },
+        { "gx": "$CSG[8390]", "y": 14 },
         { "gx": "$CSG[8391]", "y": 10 },
         { "gx": "$CSG[8392]", "y": 10 },
         { "gx": "$CSG[8393]", "y": 8 },
@@ -1022,8 +957,7 @@
         { "gx": "$CSG[8419]", "y": -2 },
         { "gx": "$CSG[8420]", "y": -5 },
         { "gx": "$CSG[8421]", "y": -7 },
-
-            { "gx": "$CSG[8430]", "y": 14 },
+        { "gx": "$CSG[8430]", "y": 14 },
         { "gx": "$CSG[8431]", "y": 7 },
         { "gx": "$CSG[8432]", "y": 10 },
         { "gx": "$CSG[8433]", "y": 9 },
@@ -1039,8 +973,7 @@
         { "gx": "$CSG[8443]", "y": -2 },
         { "gx": "$CSG[8444]", "y": 5 },
         { "gx": "$CSG[8445]", "y": 6 },
-
-            { "gx": "$CSG[8754]", "y": 6 },
+        { "gx": "$CSG[8754]", "y": 6 },
         { "gx": "$CSG[8755]", "y": 8 },
         { "gx": "$CSG[8756]", "y": 12 },
         { "gx": "$CSG[8757]", "y": 15 },
@@ -1056,38 +989,23 @@
         { "gx": "$CSG[8767]", "y": -2 },
         { "gx": "$CSG[8768]", "y": 8 },
         { "gx": "$CSG[8769]", "y": 3 },
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-     "$CSG[8936]",
-         { "gx": "$CSG[9179]", "y": 10 },
-         { "gx": "$CSG[9180]", "y": 10 },
-         { "gx": "$CSG[9181]", "y": 10 },
-     "$CSG[8937]",
-         { "gx": "$CSG[9183]", "y": 8 },
-         { "gx": "$CSG[9184]", "y": 5 },
-         { "gx": "$CSG[9185]", "y": 5 },
-     "$CSG[8934]",
-         { "gx": "$CSG[9187]", "y": 11 },
-         { "gx": "$CSG[9188]", "y": 11 },
-         { "gx": "$CSG[9189]", "y": 6 },
-     "$CSG[8935]",
-         { "gx": "$CSG[9191]", "y": 12 },
-         { "gx": "$CSG[9192]", "y": 15 },
-         { "gx": "$CSG[9193]", "y": 7 },
-
-            { "gx": "$CSG[9194]", "y": 7 },
+        "$CSG[8936]",
+        { "gx": "$CSG[9179]", "y": 10 },
+        { "gx": "$CSG[9180]", "y": 10 },
+        { "gx": "$CSG[9181]", "y": 10 },
+        "$CSG[8937]",
+        { "gx": "$CSG[9183]", "y": 8 },
+        { "gx": "$CSG[9184]", "y": 5 },
+        { "gx": "$CSG[9185]", "y": 5 },
+        "$CSG[8934]",
+        { "gx": "$CSG[9187]", "y": 11 },
+        { "gx": "$CSG[9188]", "y": 11 },
+        { "gx": "$CSG[9189]", "y": 6 },
+        "$CSG[8935]",
+        { "gx": "$CSG[9191]", "y": 12 },
+        { "gx": "$CSG[9192]", "y": 15 },
+        { "gx": "$CSG[9193]", "y": 7 },
+        { "gx": "$CSG[9194]", "y": 7 },
         { "gx": "$CSG[9202]", "y": 9 },
         { "gx": "$CSG[9210]", "y": 4 },
         { "gx": "$CSG[9218]", "y": 10 },
@@ -1095,8 +1013,7 @@
         { "gx": "$CSG[9206]", "y": 7 },
         { "gx": "$CSG[9214]", "y": 3 },
         { "gx": "$CSG[9222]", "y": 8 },
- 
-            { "gx": "$CSG[9195]", "y": 6 },
+        { "gx": "$CSG[9195]", "y": 6 },
         { "gx": "$CSG[9282]", "y": 7 },
         { "gx": "$CSG[9283]", "y": 7 },
         { "gx": "$CSG[9284]", "y": 8 },
@@ -1128,8 +1045,7 @@
         { "gx": "$CSG[9303]", "y": 10 },
         { "gx": "$CSG[9304]", "y": 10 },
         { "gx": "$CSG[9305]", "y": 9 },
-
-            { "gx": "$CSG[9196]", "y": 3 },
+        { "gx": "$CSG[9196]", "y": 3 },
         { "gx": "$CSG[9566]", "y": 4 },
         { "gx": "$CSG[9204]", "y": 6 },
         { "gx": "$CSG[9567]", "y": 6 },
@@ -1145,8 +1061,7 @@
         { "gx": "$CSG[9584]", "y": -5 },
         { "gx": "$CSG[9224]", "y": 3 },
         { "gx": "$CSG[9585]", "y": 9 },
-
-            { "gx": "$CSG[9197]", "y": 1 },
+        { "gx": "$CSG[9197]", "y": 1 },
         { "gx": "$CSG[9446]", "y": 0 },
         { "gx": "$CSG[9447]", "y": 2 },
         { "gx": "$CSG[9448]", "y": 3 },
@@ -1178,13 +1093,11 @@
         { "gx": "$CSG[9467]", "y": 2 },
         { "gx": "$CSG[9468]", "y": 5 },
         { "gx": "$CSG[9469]", "y": 5 },
-        
-    "$CSG[8786]",
+        "$CSG[8786]",
         "$CSG[8790]",
         "$CSG[8778]",
         "$CSG[8782]",
-
-            { "gx": "$CSG[9558]", "y": 9 },
+        { "gx": "$CSG[9558]", "y": 9 },
         { "gx": "$CSG[9559]", "y": 7 },
         { "gx": "$CSG[9560]", "y": 12 },
         { "gx": "$CSG[9561]", "y": 15 },
@@ -1208,8 +1121,7 @@
         { "gx": "$CSG[9587]", "y": -9 },
         { "gx": "$CSG[9588]", "y": -7 },
         { "gx": "$CSG[9589]", "y": 7 },
-
-            { "gx": "$CSG[9258]", "y": 5 },
+        { "gx": "$CSG[9258]", "y": 5 },
         { "gx": "$CSG[9606]", "y": 7 },
         { "gx": "$CSG[9259]", "y": 6 },
         { "gx": "$CSG[9607]", "y": 1 },
@@ -1225,8 +1137,7 @@
         { "gx": "$CSG[9612]", "y": 7 },
         { "gx": "$CSG[9265]", "y": 10 },
         { "gx": "$CSG[9613]", "y": 14 },
-
-            { "gx": "$CSG[9226]", "y": 1 },
+        { "gx": "$CSG[9226]", "y": 1 },
         { "gx": "$CSG[9227]", "y": 3 },
         { "gx": "$CSG[9228]", "y": 4 },
         { "gx": "$CSG[9229]", "y": 3 },
@@ -1258,8 +1169,7 @@
         { "gx": "$CSG[9255]", "y": 10 },
         { "gx": "$CSG[9256]", "y": 13 },
         { "gx": "$CSG[9257]", "y": 12 },
-
-            { "gx": "$CSG[9266]", "y": 5 },
+        { "gx": "$CSG[9266]", "y": 5 },
         { "gx": "$CSG[9267]", "y": 6 },
         { "gx": "$CSG[9268]", "y": -2 },
         { "gx": "$CSG[9269]", "y": 4 },
@@ -1275,8 +1185,7 @@
         { "gx": "$CSG[9279]", "y": 9 },
         { "gx": "$CSG[9280]", "y": 8 },
         { "gx": "$CSG[9281]", "y": 13 },
-
-            { "gx": "$CSG[9590]", "y": 7 },
+        { "gx": "$CSG[9590]", "y": 7 },
         { "gx": "$CSG[9591]", "y": 2 },
         { "gx": "$CSG[9592]", "y": 26 },
         { "gx": "$CSG[9593]", "y": 0 },
@@ -1292,8 +1201,6 @@
         { "gx": "$CSG[9603]", "y": 9 },
         { "gx": "$CSG[9604]", "y": 8 },
         { "gx": "$CSG[9605]", "y": -5 }
-        
-        
     ],
     "noCsgImages": [
         { "path": "images/preview.png", "format": "raw" },
@@ -1315,9 +1222,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[29]",
         "$RCT2:OBJDATA/VEKST.DAT[31]",
         "$RCT2:OBJDATA/VEKST.DAT[33]",
-
         "$RCT2:OBJDATA/VEKST.DAT[35..42]",
-
         "$RCT2:OBJDATA/VEKST.DAT[43]",
         "$RCT2:OBJDATA/VEKST.DAT[45]",
         "$RCT2:OBJDATA/VEKST.DAT[47]",
@@ -1334,7 +1239,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[69]",
         "$RCT2:OBJDATA/VEKST.DAT[71]",
         "$RCT2:OBJDATA/VEKST.DAT[73]",
-
         "$RCT2:OBJDATA/VEKST.DAT[75]",
         "$RCT2:OBJDATA/VEKST.DAT[77]",
         "$RCT2:OBJDATA/VEKST.DAT[79]",
@@ -1351,9 +1255,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[101]",
         "$RCT2:OBJDATA/VEKST.DAT[103]",
         "$RCT2:OBJDATA/VEKST.DAT[105]",
-
         "$RCT2:OBJDATA/VEKST.DAT[107..122]",
-
         "$RCT2:OBJDATA/VEKST.DAT[123]",
         "$RCT2:OBJDATA/VEKST.DAT[125]",
         "$RCT2:OBJDATA/VEKST.DAT[127]",
@@ -1370,7 +1272,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[149]",
         "$RCT2:OBJDATA/VEKST.DAT[151]",
         "$RCT2:OBJDATA/VEKST.DAT[153]",
-
         "$RCT2:OBJDATA/VEKST.DAT[155]",
         "$RCT2:OBJDATA/VEKST.DAT[157]",
         "$RCT2:OBJDATA/VEKST.DAT[159]",
@@ -1387,9 +1288,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[181]",
         "$RCT2:OBJDATA/VEKST.DAT[183]",
         "$RCT2:OBJDATA/VEKST.DAT[185]",
-
         "$RCT2:OBJDATA/VEKST.DAT[187..194]",
-
         "$RCT2:OBJDATA/VEKST.DAT[195]",
         "$RCT2:OBJDATA/VEKST.DAT[203]",
         "$RCT2:OBJDATA/VEKST.DAT[211]",
@@ -1398,9 +1297,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[235]",
         "$RCT2:OBJDATA/VEKST.DAT[243]",
         "$RCT2:OBJDATA/VEKST.DAT[251]",
-
         "$RCT2:OBJDATA/VEKST.DAT[259..342]",
-
         "$RCT2:OBJDATA/VEKST.DAT[343]",
         "$RCT2:OBJDATA/VEKST.DAT[345]",
         "$RCT2:OBJDATA/VEKST.DAT[347]",
@@ -1417,7 +1314,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[369]",
         "$RCT2:OBJDATA/VEKST.DAT[371]",
         "$RCT2:OBJDATA/VEKST.DAT[373]",
-
         "$RCT2:OBJDATA/VEKST.DAT[375]",
         "$RCT2:OBJDATA/VEKST.DAT[377]",
         "$RCT2:OBJDATA/VEKST.DAT[379]",
@@ -1434,9 +1330,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[401]",
         "$RCT2:OBJDATA/VEKST.DAT[403]",
         "$RCT2:OBJDATA/VEKST.DAT[405]",
-
         "$RCT2:OBJDATA/VEKST.DAT[407..446]",
-
         "$RCT2:OBJDATA/VEKST.DAT[447]",
         "$RCT2:OBJDATA/VEKST.DAT[455]",
         "$RCT2:OBJDATA/VEKST.DAT[463]",
@@ -1445,7 +1339,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[487]",
         "$RCT2:OBJDATA/VEKST.DAT[495]",
         "$RCT2:OBJDATA/VEKST.DAT[503]",
-
         "$RCT2:OBJDATA/VEKST.DAT[511]",
         "$RCT2:OBJDATA/VEKST.DAT[519]",
         "$RCT2:OBJDATA/VEKST.DAT[527]",
@@ -1454,9 +1347,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[551]",
         "$RCT2:OBJDATA/VEKST.DAT[559]",
         "$RCT2:OBJDATA/VEKST.DAT[567]",
-
         "$RCT2:OBJDATA/VEKST.DAT[575..682]",
-
         "$RCT2:OBJDATA/VEKST.DAT[683]",
         "$RCT2:OBJDATA/VEKST.DAT[685]",
         "$RCT2:OBJDATA/VEKST.DAT[687]",
@@ -1473,9 +1364,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[709]",
         "$RCT2:OBJDATA/VEKST.DAT[711]",
         "$RCT2:OBJDATA/VEKST.DAT[713]",
-
         "$RCT2:OBJDATA/VEKST.DAT[715..722]",
-
         "$RCT2:OBJDATA/VEKST.DAT[723]",
         "$RCT2:OBJDATA/VEKST.DAT[725]",
         "$RCT2:OBJDATA/VEKST.DAT[727]",
@@ -1492,7 +1381,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[749]",
         "$RCT2:OBJDATA/VEKST.DAT[751]",
         "$RCT2:OBJDATA/VEKST.DAT[753]",
-
         "$RCT2:OBJDATA/VEKST.DAT[755]",
         "$RCT2:OBJDATA/VEKST.DAT[757]",
         "$RCT2:OBJDATA/VEKST.DAT[759]",
@@ -1509,9 +1397,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[781]",
         "$RCT2:OBJDATA/VEKST.DAT[783]",
         "$RCT2:OBJDATA/VEKST.DAT[785]",
-
         "$RCT2:OBJDATA/VEKST.DAT[787..802]",
-
         "$RCT2:OBJDATA/VEKST.DAT[803]",
         "$RCT2:OBJDATA/VEKST.DAT[805]",
         "$RCT2:OBJDATA/VEKST.DAT[807]",
@@ -1528,7 +1414,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[829]",
         "$RCT2:OBJDATA/VEKST.DAT[831]",
         "$RCT2:OBJDATA/VEKST.DAT[833]",
-
         "$RCT2:OBJDATA/VEKST.DAT[835]",
         "$RCT2:OBJDATA/VEKST.DAT[837]",
         "$RCT2:OBJDATA/VEKST.DAT[839]",
@@ -1545,9 +1430,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[861]",
         "$RCT2:OBJDATA/VEKST.DAT[863]",
         "$RCT2:OBJDATA/VEKST.DAT[865]",
-
         "$RCT2:OBJDATA/VEKST.DAT[867..874]",
-
         "$RCT2:OBJDATA/VEKST.DAT[875]",
         "$RCT2:OBJDATA/VEKST.DAT[883]",
         "$RCT2:OBJDATA/VEKST.DAT[891]",
@@ -1556,9 +1439,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[915]",
         "$RCT2:OBJDATA/VEKST.DAT[923]",
         "$RCT2:OBJDATA/VEKST.DAT[931]",
-
         "$RCT2:OBJDATA/VEKST.DAT[939..1022]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1023]",
         "$RCT2:OBJDATA/VEKST.DAT[1025]",
         "$RCT2:OBJDATA/VEKST.DAT[1027]",
@@ -1575,7 +1456,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[1049]",
         "$RCT2:OBJDATA/VEKST.DAT[1051]",
         "$RCT2:OBJDATA/VEKST.DAT[1053]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1055]",
         "$RCT2:OBJDATA/VEKST.DAT[1057]",
         "$RCT2:OBJDATA/VEKST.DAT[1059]",
@@ -1592,9 +1472,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[1081]",
         "$RCT2:OBJDATA/VEKST.DAT[1083]",
         "$RCT2:OBJDATA/VEKST.DAT[1085]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1087..1126]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1127]",
         "$RCT2:OBJDATA/VEKST.DAT[1135]",
         "$RCT2:OBJDATA/VEKST.DAT[1143]",
@@ -1603,7 +1481,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[1167]",
         "$RCT2:OBJDATA/VEKST.DAT[1175]",
         "$RCT2:OBJDATA/VEKST.DAT[1183]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1191]",
         "$RCT2:OBJDATA/VEKST.DAT[1199]",
         "$RCT2:OBJDATA/VEKST.DAT[1207]",
@@ -1612,10 +1489,8 @@
         "$RCT2:OBJDATA/VEKST.DAT[1231]",
         "$RCT2:OBJDATA/VEKST.DAT[1239]",
         "$RCT2:OBJDATA/VEKST.DAT[1247]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1255..1362]",
-        
-                "$RCT2:OBJDATA/VEKST.DAT[1363]",
+        "$RCT2:OBJDATA/VEKST.DAT[1363]",
         "$RCT2:OBJDATA/VEKST.DAT[1365]",
         "$RCT2:OBJDATA/VEKST.DAT[1367]",
         "$RCT2:OBJDATA/VEKST.DAT[1369]",
@@ -1631,9 +1506,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[1389]",
         "$RCT2:OBJDATA/VEKST.DAT[1391]",
         "$RCT2:OBJDATA/VEKST.DAT[1393]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1395..1402]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1403]",
         "$RCT2:OBJDATA/VEKST.DAT[1405]",
         "$RCT2:OBJDATA/VEKST.DAT[1407]",
@@ -1650,7 +1523,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[1429]",
         "$RCT2:OBJDATA/VEKST.DAT[1431]",
         "$RCT2:OBJDATA/VEKST.DAT[1433]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1435]",
         "$RCT2:OBJDATA/VEKST.DAT[1437]",
         "$RCT2:OBJDATA/VEKST.DAT[1439]",
@@ -1667,9 +1539,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[1461]",
         "$RCT2:OBJDATA/VEKST.DAT[1463]",
         "$RCT2:OBJDATA/VEKST.DAT[1465]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1467..1482]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1483]",
         "$RCT2:OBJDATA/VEKST.DAT[1485]",
         "$RCT2:OBJDATA/VEKST.DAT[1487]",
@@ -1686,7 +1556,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[1509]",
         "$RCT2:OBJDATA/VEKST.DAT[1511]",
         "$RCT2:OBJDATA/VEKST.DAT[1513]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1515]",
         "$RCT2:OBJDATA/VEKST.DAT[1517]",
         "$RCT2:OBJDATA/VEKST.DAT[1519]",
@@ -1703,9 +1572,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[1541]",
         "$RCT2:OBJDATA/VEKST.DAT[1543]",
         "$RCT2:OBJDATA/VEKST.DAT[1545]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1547..1554]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1555]",
         "$RCT2:OBJDATA/VEKST.DAT[1563]",
         "$RCT2:OBJDATA/VEKST.DAT[1571]",
@@ -1714,9 +1581,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[1595]",
         "$RCT2:OBJDATA/VEKST.DAT[1603]",
         "$RCT2:OBJDATA/VEKST.DAT[1611]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1619..1702]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1703]",
         "$RCT2:OBJDATA/VEKST.DAT[1705]",
         "$RCT2:OBJDATA/VEKST.DAT[1707]",
@@ -1733,7 +1598,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[1729]",
         "$RCT2:OBJDATA/VEKST.DAT[1731]",
         "$RCT2:OBJDATA/VEKST.DAT[1733]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1735]",
         "$RCT2:OBJDATA/VEKST.DAT[1737]",
         "$RCT2:OBJDATA/VEKST.DAT[1739]",
@@ -1750,9 +1614,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[1761]",
         "$RCT2:OBJDATA/VEKST.DAT[1763]",
         "$RCT2:OBJDATA/VEKST.DAT[1765]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1767..1806]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1807]",
         "$RCT2:OBJDATA/VEKST.DAT[1815]",
         "$RCT2:OBJDATA/VEKST.DAT[1823]",
@@ -1761,7 +1623,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[1847]",
         "$RCT2:OBJDATA/VEKST.DAT[1855]",
         "$RCT2:OBJDATA/VEKST.DAT[1863]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1871]",
         "$RCT2:OBJDATA/VEKST.DAT[1879]",
         "$RCT2:OBJDATA/VEKST.DAT[1887]",
@@ -1770,13 +1631,8 @@
         "$RCT2:OBJDATA/VEKST.DAT[1911]",
         "$RCT2:OBJDATA/VEKST.DAT[1919]",
         "$RCT2:OBJDATA/VEKST.DAT[1927]",
-
         "$RCT2:OBJDATA/VEKST.DAT[1935..2042]",
-        
-        
-        
-        
-                "$RCT2:OBJDATA/VEKST.DAT[2043]",
+        "$RCT2:OBJDATA/VEKST.DAT[2043]",
         "$RCT2:OBJDATA/VEKST.DAT[2045]",
         "$RCT2:OBJDATA/VEKST.DAT[2047]",
         "$RCT2:OBJDATA/VEKST.DAT[2049]",
@@ -1792,9 +1648,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[2069]",
         "$RCT2:OBJDATA/VEKST.DAT[2071]",
         "$RCT2:OBJDATA/VEKST.DAT[2073]",
-
         "$RCT2:OBJDATA/VEKST.DAT[2075..2082]",
-
         "$RCT2:OBJDATA/VEKST.DAT[2083]",
         "$RCT2:OBJDATA/VEKST.DAT[2085]",
         "$RCT2:OBJDATA/VEKST.DAT[2087]",
@@ -1811,7 +1665,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[2109]",
         "$RCT2:OBJDATA/VEKST.DAT[2111]",
         "$RCT2:OBJDATA/VEKST.DAT[2113]",
-
         "$RCT2:OBJDATA/VEKST.DAT[2115]",
         "$RCT2:OBJDATA/VEKST.DAT[2117]",
         "$RCT2:OBJDATA/VEKST.DAT[2119]",
@@ -1828,9 +1681,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[2141]",
         "$RCT2:OBJDATA/VEKST.DAT[2143]",
         "$RCT2:OBJDATA/VEKST.DAT[2145]",
-
         "$RCT2:OBJDATA/VEKST.DAT[2147..2162]",
-
         "$RCT2:OBJDATA/VEKST.DAT[2163]",
         "$RCT2:OBJDATA/VEKST.DAT[2165]",
         "$RCT2:OBJDATA/VEKST.DAT[2167]",
@@ -1847,7 +1698,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[2189]",
         "$RCT2:OBJDATA/VEKST.DAT[2191]",
         "$RCT2:OBJDATA/VEKST.DAT[2193]",
-
         "$RCT2:OBJDATA/VEKST.DAT[2195]",
         "$RCT2:OBJDATA/VEKST.DAT[2197]",
         "$RCT2:OBJDATA/VEKST.DAT[2199]",
@@ -1864,9 +1714,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[2221]",
         "$RCT2:OBJDATA/VEKST.DAT[2223]",
         "$RCT2:OBJDATA/VEKST.DAT[2225]",
-
         "$RCT2:OBJDATA/VEKST.DAT[2339..2382]",
-
         "$RCT2:OBJDATA/VEKST.DAT[2383]",
         "$RCT2:OBJDATA/VEKST.DAT[2385]",
         "$RCT2:OBJDATA/VEKST.DAT[2387]",
@@ -1883,7 +1731,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[2409]",
         "$RCT2:OBJDATA/VEKST.DAT[2411]",
         "$RCT2:OBJDATA/VEKST.DAT[2413]",
-
         "$RCT2:OBJDATA/VEKST.DAT[2415]",
         "$RCT2:OBJDATA/VEKST.DAT[2417]",
         "$RCT2:OBJDATA/VEKST.DAT[2419]",
@@ -1900,7 +1747,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[2441]",
         "$RCT2:OBJDATA/VEKST.DAT[2443]",
         "$RCT2:OBJDATA/VEKST.DAT[2445]",
-
         "$RCT2:OBJDATA/VEKST.DAT[2487]",
         "$RCT2:OBJDATA/VEKST.DAT[2495]",
         "$RCT2:OBJDATA/VEKST.DAT[2503]",
@@ -1909,7 +1755,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[2527]",
         "$RCT2:OBJDATA/VEKST.DAT[2535]",
         "$RCT2:OBJDATA/VEKST.DAT[2543]",
-
         "$RCT2:OBJDATA/VEKST.DAT[2551]",
         "$RCT2:OBJDATA/VEKST.DAT[2559]",
         "$RCT2:OBJDATA/VEKST.DAT[2567]",
@@ -1918,11 +1763,8 @@
         "$RCT2:OBJDATA/VEKST.DAT[2591]",
         "$RCT2:OBJDATA/VEKST.DAT[2599]",
         "$RCT2:OBJDATA/VEKST.DAT[2607]",
-
         "$RCT2:OBJDATA/VEKST.DAT[2615..2630]",
-        
-        
-                "$RCT2:OBJDATA/VEKST.DAT[2723]",
+        "$RCT2:OBJDATA/VEKST.DAT[2723]",
         "$RCT2:OBJDATA/VEKST.DAT[2725]",
         "$RCT2:OBJDATA/VEKST.DAT[2727]",
         "$RCT2:OBJDATA/VEKST.DAT[2729]",
@@ -1938,9 +1780,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[2749]",
         "$RCT2:OBJDATA/VEKST.DAT[2751]",
         "$RCT2:OBJDATA/VEKST.DAT[2753]",
-
         "$RCT2:OBJDATA/VEKST.DAT[2755..2762]",
-
         "$RCT2:OBJDATA/VEKST.DAT[2763]",
         "$RCT2:OBJDATA/VEKST.DAT[2765]",
         "$RCT2:OBJDATA/VEKST.DAT[2767]",
@@ -1957,7 +1797,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[2789]",
         "$RCT2:OBJDATA/VEKST.DAT[2791]",
         "$RCT2:OBJDATA/VEKST.DAT[2793]",
-
         "$RCT2:OBJDATA/VEKST.DAT[2795]",
         "$RCT2:OBJDATA/VEKST.DAT[2797]",
         "$RCT2:OBJDATA/VEKST.DAT[2799]",
@@ -1974,9 +1813,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[2821]",
         "$RCT2:OBJDATA/VEKST.DAT[2823]",
         "$RCT2:OBJDATA/VEKST.DAT[2825]",
-
         "$RCT2:OBJDATA/VEKST.DAT[2827..2842]",
-
         "$RCT2:OBJDATA/VEKST.DAT[2843]",
         "$RCT2:OBJDATA/VEKST.DAT[2845]",
         "$RCT2:OBJDATA/VEKST.DAT[2847]",
@@ -1993,7 +1830,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[2869]",
         "$RCT2:OBJDATA/VEKST.DAT[2871]",
         "$RCT2:OBJDATA/VEKST.DAT[2873]",
-
         "$RCT2:OBJDATA/VEKST.DAT[2875]",
         "$RCT2:OBJDATA/VEKST.DAT[2877]",
         "$RCT2:OBJDATA/VEKST.DAT[2879]",
@@ -2010,9 +1846,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[2901]",
         "$RCT2:OBJDATA/VEKST.DAT[2903]",
         "$RCT2:OBJDATA/VEKST.DAT[2905]",
-
         "$RCT2:OBJDATA/VEKST.DAT[3019..3062]",
-
         "$RCT2:OBJDATA/VEKST.DAT[3063]",
         "$RCT2:OBJDATA/VEKST.DAT[3065]",
         "$RCT2:OBJDATA/VEKST.DAT[3067]",
@@ -2029,7 +1863,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[3089]",
         "$RCT2:OBJDATA/VEKST.DAT[3091]",
         "$RCT2:OBJDATA/VEKST.DAT[3093]",
-
         "$RCT2:OBJDATA/VEKST.DAT[3095]",
         "$RCT2:OBJDATA/VEKST.DAT[3097]",
         "$RCT2:OBJDATA/VEKST.DAT[3099]",
@@ -2046,7 +1879,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[3121]",
         "$RCT2:OBJDATA/VEKST.DAT[3123]",
         "$RCT2:OBJDATA/VEKST.DAT[3125]",
-
         "$RCT2:OBJDATA/VEKST.DAT[3167]",
         "$RCT2:OBJDATA/VEKST.DAT[3175]",
         "$RCT2:OBJDATA/VEKST.DAT[3183]",
@@ -2055,7 +1887,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[3207]",
         "$RCT2:OBJDATA/VEKST.DAT[3215]",
         "$RCT2:OBJDATA/VEKST.DAT[3223]",
-
         "$RCT2:OBJDATA/VEKST.DAT[3231]",
         "$RCT2:OBJDATA/VEKST.DAT[3239]",
         "$RCT2:OBJDATA/VEKST.DAT[3247]",
@@ -2064,13 +1895,8 @@
         "$RCT2:OBJDATA/VEKST.DAT[3271]",
         "$RCT2:OBJDATA/VEKST.DAT[3279]",
         "$RCT2:OBJDATA/VEKST.DAT[3287]",
-
         "$RCT2:OBJDATA/VEKST.DAT[3295..3310]",
-        
-        
-        
-        
-                        "$RCT2:OBJDATA/VEKST.DAT[3403]",
+        "$RCT2:OBJDATA/VEKST.DAT[3403]",
         "$RCT2:OBJDATA/VEKST.DAT[3405]",
         "$RCT2:OBJDATA/VEKST.DAT[3407]",
         "$RCT2:OBJDATA/VEKST.DAT[3409]",
@@ -2086,9 +1912,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[3429]",
         "$RCT2:OBJDATA/VEKST.DAT[3431]",
         "$RCT2:OBJDATA/VEKST.DAT[3433]",
-
         "$RCT2:OBJDATA/VEKST.DAT[3435..3442]",
-
         "$RCT2:OBJDATA/VEKST.DAT[3443]",
         "$RCT2:OBJDATA/VEKST.DAT[3445]",
         "$RCT2:OBJDATA/VEKST.DAT[3447]",
@@ -2105,7 +1929,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[3469]",
         "$RCT2:OBJDATA/VEKST.DAT[3471]",
         "$RCT2:OBJDATA/VEKST.DAT[3473]",
-
         "$RCT2:OBJDATA/VEKST.DAT[3475]",
         "$RCT2:OBJDATA/VEKST.DAT[3477]",
         "$RCT2:OBJDATA/VEKST.DAT[3479]",
@@ -2122,9 +1945,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[3501]",
         "$RCT2:OBJDATA/VEKST.DAT[3503]",
         "$RCT2:OBJDATA/VEKST.DAT[3505]",
-
         "$RCT2:OBJDATA/VEKST.DAT[3507..3522]",
-
         "$RCT2:OBJDATA/VEKST.DAT[3523]",
         "$RCT2:OBJDATA/VEKST.DAT[3525]",
         "$RCT2:OBJDATA/VEKST.DAT[3527]",
@@ -2141,7 +1962,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[3549]",
         "$RCT2:OBJDATA/VEKST.DAT[3551]",
         "$RCT2:OBJDATA/VEKST.DAT[3553]",
-
         "$RCT2:OBJDATA/VEKST.DAT[3555]",
         "$RCT2:OBJDATA/VEKST.DAT[3557]",
         "$RCT2:OBJDATA/VEKST.DAT[3559]",
@@ -2158,9 +1978,7 @@
         "$RCT2:OBJDATA/VEKST.DAT[3581]",
         "$RCT2:OBJDATA/VEKST.DAT[3583]",
         "$RCT2:OBJDATA/VEKST.DAT[3585]",
-
         "$RCT2:OBJDATA/VEKST.DAT[3699..3742]",
-
         "$RCT2:OBJDATA/VEKST.DAT[3743]",
         "$RCT2:OBJDATA/VEKST.DAT[3745]",
         "$RCT2:OBJDATA/VEKST.DAT[3747]",
@@ -2177,7 +1995,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[3769]",
         "$RCT2:OBJDATA/VEKST.DAT[3771]",
         "$RCT2:OBJDATA/VEKST.DAT[3773]",
-
         "$RCT2:OBJDATA/VEKST.DAT[3775]",
         "$RCT2:OBJDATA/VEKST.DAT[3777]",
         "$RCT2:OBJDATA/VEKST.DAT[3779]",
@@ -2194,7 +2011,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[3801]",
         "$RCT2:OBJDATA/VEKST.DAT[3803]",
         "$RCT2:OBJDATA/VEKST.DAT[3805]",
-
         "$RCT2:OBJDATA/VEKST.DAT[3847]",
         "$RCT2:OBJDATA/VEKST.DAT[3855]",
         "$RCT2:OBJDATA/VEKST.DAT[3863]",
@@ -2203,7 +2019,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[3887]",
         "$RCT2:OBJDATA/VEKST.DAT[3895]",
         "$RCT2:OBJDATA/VEKST.DAT[3903]",
-
         "$RCT2:OBJDATA/VEKST.DAT[3911]",
         "$RCT2:OBJDATA/VEKST.DAT[3919]",
         "$RCT2:OBJDATA/VEKST.DAT[3927]",
@@ -2212,7 +2027,6 @@
         "$RCT2:OBJDATA/VEKST.DAT[3951]",
         "$RCT2:OBJDATA/VEKST.DAT[3959]",
         "$RCT2:OBJDATA/VEKST.DAT[3967]",
-
         "$RCT2:OBJDATA/VEKST.DAT[3975..3990]"
     ],
     "strings": {
