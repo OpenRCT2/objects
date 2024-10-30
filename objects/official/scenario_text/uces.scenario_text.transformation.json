@@ -1,12 +1,9 @@
 {
     "id": "uces.scenario_text.transformation",
     "authors": [
-        "Chris Sawyer"
+        "Fossil"
     ],
     "version": "1.0",
-    "sourceGame": [
-        "uces"
-    ],
     "objectType": "scenario_text",
     "strings": {
         "name": {
@@ -35,23 +32,23 @@
             "zh-CN": "做出改变"
         },
         "details": {
-            "ar-EG": "كنا نتوقع ظهورك…{NEWLINE}المؤلف: Fossil",
-            "ca-ES": "Us estàvem esperant…{NEWLINE}Autor: Fossil",
-            "da-DK": "Vi har ventet dig…{NEWLINE}Forfatter: Fossil",
-            "de-DE": "Wir haben auf Sie gewartet …{NEWLINE}Autor: Fossil",
-            "en-GB": "We were expecting you…{NEWLINE}Author: Fossil",
-            "eo-ZZ": "Ni atendis vin…{NEWLINE}Aŭtoro: Fossil",
-            "es-ES": "Te estábamos esperando…{NEWLINE}Autor: Fossil",
-            "fi-FI": "Olemme odottaneet teitä…{NEWLINE}Tekijä: Fossil",
-            "fr-FR": "Nous vous attendions…{NEWLINE}Par : Fossil",
-            "hu-HU": "Vártunk téged…{NEWLINE}Szerző: Fossil",
-            "it-IT": "Ti stavamo aspettando…{NEWLINE}Autore: Fossil",
-            "ko-KR": "널 기다리고 있었어…{NEWLINE}제작자: Fossil",
-            "nb-NO": "Vi har ventet på deg…{NEWLINE}Forfatter: Fossil",
-            "nl-NL": "We hadden je al verwacht…{NEWLINE}Gemaakt door: Fossil",
-            "pt-BR": "Estávamos te esperando…{NEWLINE}Autor: Fossil",
-            "uk-UA": "Ми чекали на тебе…{NEWLINE}Автор: Fossil",
-            "zh-CN": "我们会希望你可以……{NEWLINE}作者：Fossil"
+            "ar-EG": "كنا نتوقع ظهورك…",
+            "ca-ES": "Us estàvem esperant…",
+            "da-DK": "Vi har ventet dig…",
+            "de-DE": "Wir haben auf Sie gewartet …",
+            "en-GB": "We were expecting you…",
+            "eo-ZZ": "Ni atendis vin…",
+            "es-ES": "Te estábamos esperando…",
+            "fi-FI": "Olemme odottaneet teitä…",
+            "fr-FR": "Nous vous attendions…",
+            "hu-HU": "Vártunk téged…",
+            "it-IT": "Ti stavamo aspettando…",
+            "ko-KR": "널 기다리고 있었어…",
+            "nb-NO": "Vi har ventet på deg…",
+            "nl-NL": "We hadden je al verwacht…",
+            "pt-BR": "Estávamos te esperando…",
+            "uk-UA": "Ми чекали на тебе…",
+            "zh-CN": "我们会希望你可以……"
         }
     }
 }

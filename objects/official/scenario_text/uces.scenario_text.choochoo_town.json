@@ -1,12 +1,9 @@
 {
     "id": "uces.scenario_text.choochoo_town",
     "authors": [
-        "Chris Sawyer"
+        "Fossil"
     ],
     "version": "1.0",
-    "sourceGame": [
-        "uces"
-    ],
     "objectType": "scenario_text",
     "strings": {
         "name": {
@@ -39,23 +36,23 @@
             "zh-CN": "呜呜小镇"
         },
         "details": {
-            "ar-EG": "ماما! بابا! أريد الذهاب لمدينة تشو تشو!{NEWLINE}المؤلف: Fossil",
-            "ca-ES": "Mamà! Papa! Vull anar al Poblet Xu-xu-xú!{NEWLINE}Autor: Fossil",
-            "da-DK": "Mor! Far! Jeg vil til Fut-Fut by!{NEWLINE}Forfatter: Fossil",
-            "de-DE": "Mama! Papa! Ich will ins Töff-Töff-Land!{NEWLINE}Autor: Fossil",
-            "en-GB": "Mommy! Daddy! I want to go to Choo-Choo Town!{NEWLINE}Author: Fossil",
-            "eo-ZZ": "Panjo! Paĉjo! Mi volas iri al Ĉu-Ĉu-Urbeto!{NEWLINE}Aŭtoro: Fossil",
-            "es-ES": "¡Mami! ¡Papi! !Quiero ir al pueblo Coo-Choo!{NEWLINE}Autor: Fossil",
-            "fi-FI": "Äiti! Isä! Tahdon mennä Tsuku-tsuku-kylään!{NEWLINE}Tekijä: Fossil",
-            "fr-FR": "Maman ! Papa ! Je veux aller à Tchoutchouville !{NEWLINE}Par : Fossil",
-            "hu-HU": "Anyu! Apu! Sihuhu városba akarok menni!{NEWLINE}Szerző: Fossil",
-            "it-IT": "Mamma! Papà! Voglio andare a Choo-Choo Town!{NEWLINE}Autore: Fossil",
-            "ko-KR": "엄마! 아빠! 나 칙칙폭폭 마을에 가고 싶어요!{NEWLINE}제작자: Fossil",
-            "nb-NO": "Mamma! Pappa! Jeg vil dra til Choo-Choo By!{NEWLINE}Forfatter: Fossil",
-            "nl-NL": "Mam! Pap! Ik wil naarChoo-Choo Town!{NEWLINE}Gemaakt door: Fossil",
-            "pt-BR": "Mamãe! Papai! Quero ir pra Cidade do Piuí!{NEWLINE}Autor: Fossil",
-            "uk-UA": "Мамо! Татку! Я хочу в місто Чух-Чух!{NEWLINE}Автор: Fossil",
-            "zh-CN": "妈咪！爸比！我想去呜呜小镇！{NEWLINE}作者：Fossil"
+            "ar-EG": "ماما! بابا! أريد الذهاب لمدينة تشو تشو!",
+            "ca-ES": "Mamà! Papa! Vull anar al Poblet Xu-xu-xú!",
+            "da-DK": "Mor! Far! Jeg vil til Fut-Fut by!",
+            "de-DE": "Mama! Papa! Ich will ins Töff-Töff-Land!",
+            "en-GB": "Mommy! Daddy! I want to go to Choo-Choo Town!",
+            "eo-ZZ": "Panjo! Paĉjo! Mi volas iri al Ĉu-Ĉu-Urbeto!",
+            "es-ES": "¡Mami! ¡Papi! !Quiero ir al pueblo Coo-Choo!",
+            "fi-FI": "Äiti! Isä! Tahdon mennä Tsuku-tsuku-kylään!",
+            "fr-FR": "Maman ! Papa ! Je veux aller à Tchoutchouville !",
+            "hu-HU": "Anyu! Apu! Sihuhu városba akarok menni!",
+            "it-IT": "Mamma! Papà! Voglio andare a Choo-Choo Town!",
+            "ko-KR": "엄마! 아빠! 나 칙칙폭폭 마을에 가고 싶어요!",
+            "nb-NO": "Mamma! Pappa! Jeg vil dra til Choo-Choo By!",
+            "nl-NL": "Mam! Pap! Ik wil naarChoo-Choo Town!",
+            "pt-BR": "Mamãe! Papai! Quero ir pra Cidade do Piuí!",
+            "uk-UA": "Мамо! Татку! Я хочу в місто Чух-Чух!",
+            "zh-CN": "妈咪！爸比！我想去呜呜小镇！"
         }
     }
 }

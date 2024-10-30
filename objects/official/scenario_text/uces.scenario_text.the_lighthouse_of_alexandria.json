@@ -1,12 +1,9 @@
 {
     "id": "uces.scenario_text.the_lighthouse_of_alexandria",
     "authors": [
-        "Chris Sawyer"
+        "Katatude"
     ],
     "version": "1.0",
-    "sourceGame": [
-        "uces"
-    ],
     "objectType": "scenario_text",
     "strings": {
         "name": {
@@ -41,23 +38,23 @@
             "zh-CN": "亚历山德里亚的灯塔"
         },
         "details": {
-            "ar-EG": "بنى الإسكندر هذه المدينة. ترك الإغريق والرومان والمصريون بصماتهم. ولكن كان التكريم الأكبر هو أعجوبة العالم القديم - المنارة. قم بزيارتها وإنشئ حديقة ترفيهية!{NEWLINE}المؤلف: Katatude",
-            "ca-ES": "Alexandre el Gran construí la ciutat; els grecs, els romans i els egipcis hi van deixar la seva petjada. Però l’honor més gran és una meravella del món antic: el Far d’Alexandria. Visiteu-lo i construïu-hi un parc!{NEWLINE}Autor: Katatude",
-            "da-DK": "Alexander byggede byen; Grækere, romere, egyptere satte deres præg. Men den største ære var et vidunder i den antikke verden - fyret. Besøg og lav en park!{NEWLINE}Forfatter: Katatude",
-            "de-DE": "Alexander erbaute die Stadt; Griechen, Römer, Ägypter hinterließen ihre Spuren. Aber die größte Ehre war ein Wunder der Antiken Welt - der Leuchtturm. Statten Sie ihm einen Besuch ab und bauen Sie einen Park.{NEWLINE}Autor: Katatude",
-            "en-GB": "Alexander built the city; Greeks, Romans, Egyptians left their mark. But the biggest honor was a Wonder of the Ancient World - the Lighthouse. Visit and make a park!{NEWLINE}Author: Katatude",
-            "eo-ZZ": "Aleksandrio konstruis la urbon; Grekoj, romianoj, kaj egiptoj lasis siajn markojn. Sed la plej granda honoro estis Mirindaĵo de la Antikva Mondo - la Lumturo. Vizitu kaj farigu parkon!{NEWLINE}Aŭtoro: Katatude",
-            "es-ES": "Alejandro construyó la ciudad; griegos, romanos y egipcios dejaron su huella. Pero el mayor honor fue una Maravilla del Mundo Antiguo - el Faro. ¡Visítalo y construye un parque!{NEWLINE}Autor: Katatude",
-            "fi-FI": "Aleksanteri rakensi kaupunkinsa; kreikkalaiset, roomalaiset, ja egyptiläiset jättivät jälkensä. Mutta kaupungin suurin kunnia on yksi vanhan maailman seitsemästä ihmeestä - Faroksen majakka. Vieraile ja rakenna puisto!{NEWLINE}Tekijä: Katatude",
-            "fr-FR": "Alexandre a bâti la cité ; les Grecs, les Romains, les Égyptiens y ont laissé leur marque. Mais le plus grand accomplissement était une merveille de l’ancien monde — le Phare. Venez visiter et bâtir un parc !{NEWLINE}Par : Katatude",
-            "hu-HU": "Sándor építette a várost; a görögök, rómaiak, egyiptomiak rányomták bélyegüket. De a legnagyobb megtiszteltetés az ókori világ egy csodája - a világítótorony. Látogass el és hozz létre egy parkot!{NEWLINE}Szerző: Katatude",
-            "it-IT": "Alessandro costruì la città; i greci, i romani e gli egiziani lasciarono le loro tracce. Ma il più grande regalo è una delle Meraviglie del Mondo Antico, il Faro. Visitalo e creaci un parco!{NEWLINE}Autore: Katatude",
-            "ko-KR": "알렉산더 대왕은 도시를 건설했습니다. 그리스인, 로마인, 이집트인들이 흔적을 남겼죠. 하지만 가장 큰 영예는 고대의 불가사의인 등대였습니다. 이 곳을 공원으로 만들어보세요!{NEWLINE}제작자: Katatude",
-            "nb-NO": "Alexander bygde byen; Grekerne, Romerne, Egypterne satte sine spor. Men den største æren var ett Under fra den Antikke Verden - Fyrtårnet. Besøk og lag en park!{NEWLINE}Forfatter: Katatude",
-            "nl-NL": "Alexander bouwde deze stad. De Grieken, Romeinen en Egyptenaren drukten er hun stempel op. Maar het pronkstuk was dit wereldwonder: de vuurtoren. Kom langs en bouw een park!{NEWLINE}Gemaakt door: Katatude",
-            "pt-BR": "Alexandre construiu a cidade; Gregos, romanos, egípcios deixaram suas marcas. Mas a maior honra foi um monumento do mundo antigo - o farol. Visite e faça um parque!{NEWLINE}Autor: Katatude",
-            "uk-UA": "Олександр побудував місто, греки, римляни, єгиптяни залишили свій слід. Але найбільшої честі відзначилося Диво Стародавнього Світу — Маяк. Приїжджайте і створіть парк!{NEWLINE}Автор: Katatude",
-            "zh-CN": "亚历山大建造了这座城市;希腊人、罗马人、埃及人纷纷留下了他们的印记。但最大的荣耀是来自古代世界的奇迹——灯塔。建造一个公园！{NEWLINE}作者：Katatude"
+            "ar-EG": "بنى الإسكندر هذه المدينة. ترك الإغريق والرومان والمصريون بصماتهم. ولكن كان التكريم الأكبر هو أعجوبة العالم القديم - المنارة. قم بزيارتها وإنشئ حديقة ترفيهية!",
+            "ca-ES": "Alexandre el Gran construí la ciutat; els grecs, els romans i els egipcis hi van deixar la seva petjada. Però l’honor més gran és una meravella del món antic: el Far d’Alexandria. Visiteu-lo i construïu-hi un parc!",
+            "da-DK": "Alexander byggede byen; Grækere, romere, egyptere satte deres præg. Men den største ære var et vidunder i den antikke verden - fyret. Besøg og lav en park!",
+            "de-DE": "Alexander erbaute die Stadt; Griechen, Römer, Ägypter hinterließen ihre Spuren. Aber die größte Ehre war ein Wunder der Antiken Welt - der Leuchtturm. Statten Sie ihm einen Besuch ab und bauen Sie einen Park.",
+            "en-GB": "Alexander built the city; Greeks, Romans, Egyptians left their mark. But the biggest honor was a Wonder of the Ancient World - the Lighthouse. Visit and make a park!",
+            "eo-ZZ": "Aleksandrio konstruis la urbon; Grekoj, romianoj, kaj egiptoj lasis siajn markojn. Sed la plej granda honoro estis Mirindaĵo de la Antikva Mondo - la Lumturo. Vizitu kaj farigu parkon!",
+            "es-ES": "Alejandro construyó la ciudad; griegos, romanos y egipcios dejaron su huella. Pero el mayor honor fue una Maravilla del Mundo Antiguo - el Faro. ¡Visítalo y construye un parque!",
+            "fi-FI": "Aleksanteri rakensi kaupunkinsa; kreikkalaiset, roomalaiset, ja egyptiläiset jättivät jälkensä. Mutta kaupungin suurin kunnia on yksi vanhan maailman seitsemästä ihmeestä - Faroksen majakka. Vieraile ja rakenna puisto!",
+            "fr-FR": "Alexandre a bâti la cité ; les Grecs, les Romains, les Égyptiens y ont laissé leur marque. Mais le plus grand accomplissement était une merveille de l’ancien monde — le Phare. Venez visiter et bâtir un parc !",
+            "hu-HU": "Sándor építette a várost; a görögök, rómaiak, egyiptomiak rányomták bélyegüket. De a legnagyobb megtiszteltetés az ókori világ egy csodája - a világítótorony. Látogass el és hozz létre egy parkot!",
+            "it-IT": "Alessandro costruì la città; i greci, i romani e gli egiziani lasciarono le loro tracce. Ma il più grande regalo è una delle Meraviglie del Mondo Antico, il Faro. Visitalo e creaci un parco!",
+            "ko-KR": "알렉산더 대왕은 도시를 건설했습니다. 그리스인, 로마인, 이집트인들이 흔적을 남겼죠. 하지만 가장 큰 영예는 고대의 불가사의인 등대였습니다. 이 곳을 공원으로 만들어보세요!",
+            "nb-NO": "Alexander bygde byen; Grekerne, Romerne, Egypterne satte sine spor. Men den største æren var ett Under fra den Antikke Verden - Fyrtårnet. Besøk og lag en park!",
+            "nl-NL": "Alexander bouwde deze stad. De Grieken, Romeinen en Egyptenaren drukten er hun stempel op. Maar het pronkstuk was dit wereldwonder: de vuurtoren. Kom langs en bouw een park!",
+            "pt-BR": "Alexandre construiu a cidade; Gregos, romanos, egípcios deixaram suas marcas. Mas a maior honra foi um monumento do mundo antigo - o farol. Visite e faça um parque!",
+            "uk-UA": "Олександр побудував місто, греки, римляни, єгиптяни залишили свій слід. Але найбільшої честі відзначилося Диво Стародавнього Світу — Маяк. Приїжджайте і створіть парк!",
+            "zh-CN": "亚历山大建造了这座城市;希腊人、罗马人、埃及人纷纷留下了他们的印记。但最大的荣耀是来自古代世界的奇迹——灯塔。建造一个公园！"
         }
     }
 }

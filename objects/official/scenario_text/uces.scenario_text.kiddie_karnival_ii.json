@@ -1,12 +1,10 @@
 {
     "id": "uces.scenario_text.kiddie_karnival_ii",
     "authors": [
-        "Chris Sawyer"
+        "Piehead",
+        "Fossil"
     ],
     "version": "1.0",
-    "sourceGame": [
-        "uces"
-    ],
     "objectType": "scenario_text",
     "strings": {
         "name": {
@@ -35,23 +33,23 @@
             "zh-CN": "基迪嘉年华"
         },
         "details": {
-            "ar-EG": "يا أطفال! هيا نمرح!{NEWLINE}المؤلفان: Piehead & Fossil",
-            "ca-ES": "Ei, nens! Divertiu-vos!{NEWLINE}Autors: Piehead & Fossil",
-            "da-DK": "Hej Unger, Lad os have det sjovt!{NEWLINE}Forfattere: Piehead & Fossil",
-            "de-DE": "Hallo Kinder! Lasst uns Spaß haben!{NEWLINE}Autoren: Piehead u. Fossil",
-            "en-GB": "Hey kids! Let’s have fun!{NEWLINE}Authors: Piehead & Fossil",
-            "eo-ZZ": "He infanoj! Ni amuziĝu!{NEWLINE}Aŭtoroj: Piehead & Fossil",
-            "es-ES": "¡Hey, chavales! ¡Vamos a divertirnos!{NEWLINE}Autores: Piehead & Fossil",
-            "fi-FI": "Hei muksut! Pidetään hauskaa!{NEWLINE}Tekijät: Piehead ja Fossil",
-            "fr-FR": "Eh les enfants ! Amusons-nous !{NEWLINE}Par : Piehead & Fossil",
-            "hu-HU": "Hé, gyerekek! Érezzük jól magunkat!{NEWLINE}Szerzők: Piehead & Fossil",
-            "it-IT": "Ehi bambini! Divertiamoci!{NEWLINE}Autori: Piehead & Fossil",
-            "ko-KR": "어린이 여러분! 같이 신나게 놀아봐요!{NEWLINE}제작자: Piehead & Fossil",
-            "nb-NO": "Hei unger! La oss ha det gøy!{NEWLINE}Forfattere: Piehead & Fossil",
-            "nl-NL": "Tijd om de kleintjes te vermaken!{NEWLINE}Gemaakt door: Piehead & Fossil",
-            "pt-BR": "Ei crianças! Vamos nos divertir!{NEWLINE}Autores: Piehead & Fossil",
-            "uk-UA": "Привіт, дітки! Нумо розважатися!{NEWLINE}Автори: Piehead та Fossil",
-            "zh-CN": "嘿，孩子们！玩的开心！{NEWLINE}作者：Piehead & Fossil"
+            "ar-EG": "يا أطفال! هيا نمرح!",
+            "ca-ES": "Ei, nens! Divertiu-vos!",
+            "da-DK": "Hej Unger, Lad os have det sjovt!",
+            "de-DE": "Hallo Kinder! Lasst uns Spaß haben!",
+            "en-GB": "Hey kids! Let’s have fun!",
+            "eo-ZZ": "He infanoj! Ni amuziĝu!",
+            "es-ES": "¡Hey, chavales! ¡Vamos a divertirnos!",
+            "fi-FI": "Hei muksut! Pidetään hauskaa!",
+            "fr-FR": "Eh les enfants ! Amusons-nous !",
+            "hu-HU": "Hé, gyerekek! Érezzük jól magunkat!",
+            "it-IT": "Ehi bambini! Divertiamoci!",
+            "ko-KR": "어린이 여러분! 같이 신나게 놀아봐요!",
+            "nb-NO": "Hei unger! La oss ha det gøy!",
+            "nl-NL": "Tijd om de kleintjes te vermaken!",
+            "pt-BR": "Ei crianças! Vamos nos divertir!",
+            "uk-UA": "Привіт, дітки! Нумо розважатися!",
+            "zh-CN": "嘿，孩子们！玩的开心！"
         }
     }
 }

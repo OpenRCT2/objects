@@ -1,12 +1,9 @@
 {
     "id": "uces.scenario_text.niagara_falls_gorge",
     "authors": [
-        "Chris Sawyer"
+        "Katatude"
     ],
     "version": "1.0",
-    "sourceGame": [
-        "uces"
-    ],
     "objectType": "scenario_text",
     "strings": {
         "name": {
@@ -38,23 +35,23 @@
             "zh-CN": "尼亚加拉大瀑布"
         },
         "details": {
-            "ar-EG": "الشلالات الأمريكية، وشلالات برايدل، وشلالات حدوة الحصان الكندية على حدود نياجرا فرونتير، 1850.{NEWLINE}المؤلف: Katatude",
-            "ca-ES": "Les Cascades Americanes, les del Vel de la Núvia i les cataractes Horseshoe canadenques a la frontera del Niàgara, 1850.{NEWLINE}Autor: Katatude",
-            "da-DK": "American Falls, Bridal Falls & Canadian Horseshoe Falls på Niagara Frontier, 1850.{NEWLINE}Forfatter: Katatude",
-            "de-DE": "Die American Falls, Bridal Falls und die kanadischen Horseshoe Falls am Niagara, 1850.{NEWLINE}Autor: Katatude",
-            "en-GB": "American Falls, Bridal Falls & Canadian Horseshoe Falls on the Niagara Frontier, 1850.{NEWLINE}Author: Katatude",
-            "eo-ZZ": "Usona Akvofalo, Luna Akvofalo & Huffera Akvofalo sur la Niagara Limo, 1850.{NEWLINE}Aŭtoro: Katatude",
-            "es-ES": "La catarata Estadounidense, la catarata Velo de Novia y la catarata Canadiense en la frontera del Niágara, 1850.{NEWLINE}Autor: Katatude",
-            "fi-FI": "American Falls, Bridal Falls ja kanadalainen Horseshoe Falls, Niagaran rajaseudulla vuonna 1850.{NEWLINE}Tekijä: Katatude",
-            "fr-FR": "Les chutes américaines, les chutes du Voile de la Mariée et les chutes du Fer-à-Cheval sur la frontière du Niagara, 1850.{NEWLINE}Par : Katatude",
-            "hu-HU": "Amerikai-zuhatag, Menyasszonyi fátyol-zuhatag és a kanadai Patkó-zuhatag a Niagara határon, 1850.{NEWLINE}Szerző: Katatude",
-            "it-IT": "Le American Falls, le Bridal Falls e le Canadian Horseshoe Falls sul confine del Niagara, 1850.{NEWLINE}Autore: Katatude",
-            "ko-KR": "1850년 나이아가라 폭포의 아메리카 폭포, 브라이들 폭포, 캐나다 폭포{NEWLINE}제작자: Katatude",
-            "nb-NO": "American Falls, Bridal Falls & Canadian Horseshoe Falls på Niagara Frontier, 1850.{NEWLINE}Forfatter: Katatude",
-            "nl-NL": "American Falls, Bridal Falls en Canadian Horseshoe Falls op de grens bij de Niagara, 1850.{NEWLINE}Gemaakt door: Katatude",
-            "pt-BR": "Cataratas Americanas, Cataratas “Véu da Noiva” & Cataratas “Ferradura” na fronteira Niágara, 1850.{NEWLINE}Autor: Katatude",
-            "uk-UA": "Американський водоспад, водоспад Брейдл та канадський водоспад Підкова на кордоні Ніагарського водоспаду, 1850 рік.{NEWLINE}Автор: Katatude",
-            "zh-CN": "美国的瀑布，婚纱样的瀑布，加拿大的瀑布，在尼亚加拉丛林旁，1850年。{NEWLINE}作者：Katatude"
+            "ar-EG": "الشلالات الأمريكية، وشلالات برايدل، وشلالات حدوة الحصان الكندية على حدود نياجرا فرونتير، 1850.",
+            "ca-ES": "Les Cascades Americanes, les del Vel de la Núvia i les cataractes Horseshoe canadenques a la frontera del Niàgara, 1850.",
+            "da-DK": "American Falls, Bridal Falls & Canadian Horseshoe Falls på Niagara Frontier, 1850.",
+            "de-DE": "Die American Falls, Bridal Falls und die kanadischen Horseshoe Falls am Niagara, 1850.",
+            "en-GB": "American Falls, Bridal Falls & Canadian Horseshoe Falls on the Niagara Frontier, 1850.",
+            "eo-ZZ": "Usona Akvofalo, Luna Akvofalo & Huffera Akvofalo sur la Niagara Limo, 1850.",
+            "es-ES": "La catarata Estadounidense, la catarata Velo de Novia y la catarata Canadiense en la frontera del Niágara, 1850.",
+            "fi-FI": "American Falls, Bridal Falls ja kanadalainen Horseshoe Falls, Niagaran rajaseudulla vuonna 1850.",
+            "fr-FR": "Les chutes américaines, les chutes du Voile de la Mariée et les chutes du Fer-à-Cheval sur la frontière du Niagara, 1850.",
+            "hu-HU": "Amerikai-zuhatag, Menyasszonyi fátyol-zuhatag és a kanadai Patkó-zuhatag a Niagara határon, 1850.",
+            "it-IT": "Le American Falls, le Bridal Falls e le Canadian Horseshoe Falls sul confine del Niagara, 1850.",
+            "ko-KR": "1850년 나이아가라 폭포의 아메리카 폭포, 브라이들 폭포, 캐나다 폭포",
+            "nb-NO": "American Falls, Bridal Falls & Canadian Horseshoe Falls på Niagara Frontier, 1850.",
+            "nl-NL": "American Falls, Bridal Falls en Canadian Horseshoe Falls op de grens bij de Niagara, 1850.",
+            "pt-BR": "Cataratas Americanas, Cataratas “Véu da Noiva” & Cataratas “Ferradura” na fronteira Niágara, 1850.",
+            "uk-UA": "Американський водоспад, водоспад Брейдл та канадський водоспад Підкова на кордоні Ніагарського водоспаду, 1850 рік.",
+            "zh-CN": "美国的瀑布，婚纱样的瀑布，加拿大的瀑布，在尼亚加拉丛林旁，1850年。"
         }
     }
 }
