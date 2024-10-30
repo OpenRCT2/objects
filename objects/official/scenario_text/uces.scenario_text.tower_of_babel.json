@@ -1,11 +1,11 @@
 {
-    "id": "official.scenario_text.tower_of_babel",
+    "id": "uces.scenario_text.tower_of_babel",
     "authors": [
         "Chris Sawyer"
     ],
     "version": "1.0",
     "sourceGame": [
-        "official"
+        "uces"
     ],
     "objectType": "scenario_text",
     "strings": {

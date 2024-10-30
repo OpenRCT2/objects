@@ -1,11 +1,11 @@
 {
-    "id": "official.scenario_text.cemetery_ridge",
+    "id": "uces.scenario_text.cemetery_ridge",
     "authors": [
         "Chris Sawyer"
     ],
     "version": "1.0",
     "sourceGame": [
-        "official"
+        "uces"
     ],
     "objectType": "scenario_text",
     "strings": {

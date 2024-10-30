@@ -1,11 +1,11 @@
 {
-    "id": "official.scenario_text.bigrock_blast",
+    "id": "uces.scenario_text.bigrock_blast",
     "authors": [
         "Chris Sawyer"
     ],
     "version": "1.0",
     "sourceGame": [
-        "official"
+        "uces"
     ],
     "objectType": "scenario_text",
     "strings": {

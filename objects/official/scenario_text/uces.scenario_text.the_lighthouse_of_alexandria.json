@@ -1,11 +1,11 @@
 {
-    "id": "official.scenario_text.the_lighthouse_of_alexandria",
+    "id": "uces.scenario_text.the_lighthouse_of_alexandria",
     "authors": [
         "Chris Sawyer"
     ],
     "version": "1.0",
     "sourceGame": [
-        "official"
+        "uces"
     ],
     "objectType": "scenario_text",
     "strings": {

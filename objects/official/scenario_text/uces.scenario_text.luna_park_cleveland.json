@@ -1,11 +1,11 @@
 {
-    "id": "official.scenario_text.luna_park_cleveland",
+    "id": "uces.scenario_text.luna_park_cleveland",
     "authors": [
         "Chris Sawyer"
     ],
     "version": "1.0",
     "sourceGame": [
-        "official"
+        "uces"
     ],
     "objectType": "scenario_text",
     "strings": {

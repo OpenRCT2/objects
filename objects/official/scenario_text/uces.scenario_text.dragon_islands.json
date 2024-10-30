@@ -1,11 +1,11 @@
 {
-    "id": "official.scenario_text.dragon_islands",
+    "id": "uces.scenario_text.dragon_islands",
     "authors": [
         "Chris Sawyer"
     ],
     "version": "1.0",
     "sourceGame": [
-        "official"
+        "uces"
     ],
     "objectType": "scenario_text",
     "strings": {
