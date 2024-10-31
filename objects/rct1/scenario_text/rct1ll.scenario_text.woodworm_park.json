@@ -1,0 +1,60 @@
+{
+    "id": "rct1ll.scenario_text.woodworm_park",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB400A|STEX964 |9B2F103D",
+    "sourceGame": [
+        "rct1ll"
+    ],
+    "objectType": "scenario_text",
+    "strings": {
+        "name": {
+            "ar-EG": "حديقة دودة الخشب",
+            "ca-ES": "Parc dels corcs",
+            "en-GB": "Woodworm Park",
+            "eo-ZZ": "Anobio-Parko",
+            "fi-FI": "Toukkapuisto",
+            "fr-FR": "Parc Vermoulu",
+            "hu-HU": "Fakukac Park",
+            "ja-JP": "ウードウォーム・パーク",
+            "pt-BR": "Parque da Minhoca da Madeira",
+            "zh-CN": "朽木公园"
+        },
+        "park_name": {
+            "ar-EG": "حديقة دودة الخشب",
+            "ca-ES": "Parc dels corcs",
+            "en-GB": "Woodworm Park",
+            "eo-ZZ": "Anobio-Parko",
+            "fi-FI": "Toukkapuisto",
+            "fr-FR": "Parc Vermoulu",
+            "hu-HU": "Fakukac Park",
+            "ko-KR": "나무좀벌레 공원",
+            "pt-BR": "Parque da Minhoca da Madeira",
+            "zh-CN": "朽木公园"
+        },
+        "details": {
+            "ar-EG": "هذه الحديقة التاريخية يُسمح فيها فقط ببناء الرحلات القديمة",
+            "ca-ES": "Aquest parc històric només té permís per a construir atraccions d’estil antic.",
+            "da-DK": "I denne historiske park er kun tilladt at bygge gammeldags forlystelser",
+            "de-DE": "In diesem historischen Park dürfen nur Attraktionen im altmodischen Stil gebaut werden.",
+            "en-GB": "This historical park is only allowed to build older-styled rides",
+            "eo-ZZ": "Eblas konstrui nur malmodernajn atrakciojn en ĉi tiu historia parko",
+            "es-ES": "En este parque histórico solo está permitido construir atracciones al viejo estilo.",
+            "fi-FI": "Tämä historiallinen puisto on saanut luvan ainoastaan vanhanaikaisten laitteiden rakennukseen",
+            "fr-FR": "Ce parc historique ne peut accueillir que des attractions de style ancien.",
+            "hu-HU": "Ez a történelmi park csak régi stílusú játékokat építhet",
+            "it-IT": "In questo parco storico è consentito solo costruire percorsi vecchio stile",
+            "ko-KR": "이 역사적인 공원에는 오직 오래된 스타일의 놀이기구만을 건설할 수 있습니다.",
+            "nb-NO": "I denne historiske parken får du kun bygge attraksjoner i eldre stil",
+            "nl-NL": "Dit historische park mag alleen oudere soorten attracties bouwen.",
+            "pl-PL": "W tym starodawnym parku dozwolona jest tylko budowa kolejek starego typu",
+            "pt-BR": "Neste parque histórico só é permitido construir atrações no estilo antigo.",
+            "sv-SE": "I denna historiska park är det endast tillåtet att bygga äldre, historiska attraktioner",
+            "tr-TR": "Bu tarihi lunaparkta sadece eski tarz aletlerin inşasına izin veriliyor",
+            "zh-CN": "这个久经沙场的公园只允许建造老式设施",
+            "zh-TW": "這個很有歷史的樂園只能讓你建造一些古舊風格的遊樂設施"
+        }
+    }
+}
