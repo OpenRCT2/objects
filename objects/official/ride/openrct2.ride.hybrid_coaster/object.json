@@ -168,7 +168,8 @@
             "hu-HU": "Hibrid hullámvasútvonatok",
             "ko-KR": "하이브리드 코스터 열차",
             "nb-NO": "Hybrid berg-og-dal-bane-tog",
-            "pt-BR": "Trens de Montanha-Russa Híbrida"
+            "pt-BR": "Trens de Montanha-Russa Híbrida",
+            "pl-PL": "Kolejka hybrydowa"
         },
         "description": {
             "en-GB": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
@@ -180,7 +181,8 @@
             "hu-HU": "Hullámvasútvonatok biztonsági rudakkal, amelyek képesek meredek zuhanásokra és átfordulásokra",
             "ko-KR": "무릎 안전 장치가 있어 가파른 낙하와 반전이 가능한 롤러코스터 차량",
             "nb-NO": "Berg-og-dal-bane-tog med sikringer over fanget, i stand til å tåle bratte fall og inversjoner",
-            "pt-BR": "Trens de montanha russa com proteção de colo, capazes de quedas íngremes e inversões"
+            "pt-BR": "Trens de montanha russa com proteção de colo, capazes de quedas íngremes e inversões",
+            "pl-PL": "Kolejka górska z prostymi zabezpieczeniami, zdolna do stromych zjazdów i inwersji"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -192,7 +194,8 @@
             "hu-HU": "4 utas kocsinként",
             "ko-KR": "차량 당 승객 4명",
             "nb-NO": "4 passasjerer per vogn",
-            "pt-BR": "4 passageiros por carro"
+            "pt-BR": "4 passageiros por carro",
+            "pl-PL": "4 pasażerów na wagonik"
         }
     },
     "images": [
