@@ -77,7 +77,8 @@
             "pl-PL": "Rowery jednotorowe",
             "ru-RU": "Моноциклы",
             "eo-ZZ": "Bicikloj",
-            "ca-ES": "Bicicletes"
+            "ca-ES": "Bicicletes",
+            "fi-FI": "Polkupyörät"
         },
         "description": {
             "en-GB": "Special bicycles that run on a monorail track, propelled by the pedalling of the riders",
@@ -97,7 +98,8 @@
             "pl-PL": "Specjalne rowery jadące po stalowej jednoszynowej trasie, napędzane przez pedałujących pasażerów",
             "ru-RU": "Особые велосипеды с педальной тягой едут по стальным рельсам.",
             "eo-ZZ": "Specialaj bicikloj, kiuj veturas sur monorela trako, povigitaj de la pedalo de la rajdantoj",
-            "ca-ES": "Bicicletes especials que circulen per un monorail, impulsades pel pedaleig dels passatgers."
+            "ca-ES": "Bicicletes especials que circulen per un monorail, impulsades pel pedaleig dels passatgers.",
+            "fi-FI": "Matkustajat itse polkevat näitä erikoisvalmisteisia polkupyöriä yksittäistä teräsrataa pitkin"
         },
         "capacity": {
             "en-GB": "1 rider per bicycle",
@@ -116,7 +118,8 @@
             "pl-PL": "1 pasażer na rower",
             "ru-RU": "1 человек",
             "eo-ZZ": "Po 1 rajdanto por biciklo",
-            "ca-ES": "1 passatger per bicicleta"
+            "ca-ES": "1 passatger per bicicleta",
+            "fi-FI": "1 matkustaja per polkupyörä"
         }
     },
     "noCsgImages": [

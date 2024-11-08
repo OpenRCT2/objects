@@ -319,7 +319,8 @@
             "pl-PL": "Zawracajka",
             "ru-RU": "Горки с 4м измерением",
             "eo-ZZ": "Inversiĝantaj Ĉaroj",
-            "ca-ES": "Muntanya russa invertida"
+            "ca-ES": "Muntanya russa invertida",
+            "fi-FI": "Kääntövaunut"
         },
         "description": {
             "en-GB": "Bogied cars capable of turning around on special reversing sections",
@@ -339,7 +340,8 @@
             "pl-PL": "Wózki kopalniane jeżdżące po drewnianych torach, zawracające na specjalnych obrotowych sekcjach",
             "ru-RU": "Вагончики на деревянных рельсах, меняющие направление на середине трека.",
             "eo-ZZ": "Boĝiĉaroj kapablas je turniĝi ĉirkaŭ specialaj inversigantaj partoj",
-            "ca-ES": "Cotxes bogi que poden girar en seccions especials d’inversió."
+            "ca-ES": "Cotxes bogi que poden girar en seccions especials d’inversió.",
+            "fi-FI": "Vaunut, jotka kulkevat puisilla kiskoilla, ja kääntyvät ympäri erityisissä kääntöosioissa"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -358,7 +360,8 @@
             "pl-PL": "6 pasażerów na wagonik",
             "ru-RU": "6 пассажиров",
             "eo-ZZ": "Po 6 pasaĝeroj por ĉaro",
-            "ca-ES": "6 passatgers per cotxe"
+            "ca-ES": "6 passatgers per cotxe",
+            "fi-FI": "6 matkustajaa per vaunu"
         }
     },
     "noCsgImages": [

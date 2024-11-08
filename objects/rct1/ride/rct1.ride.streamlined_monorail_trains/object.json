@@ -298,7 +298,8 @@
             "pl-PL": "Opływowa kolejka jednoszynowa",
             "ru-RU": "Моно-паровозики",
             "eo-ZZ": "Aerodinamikaj Monorelaj Trajnoj",
-            "ca-ES": "Trens monorails aerodinàmics"
+            "ca-ES": "Trens monorails aerodinàmics",
+            "fi-FI": "Virtaviivaiset kohoratavaunut"
         },
         "description": {
             "en-GB": "Large capacity monorail trains with streamlined front and rear cars",
@@ -317,7 +318,8 @@
             "pl-PL": "Pojemne wagony jednoszynowe, opływowe na obu końcach",
             "ru-RU": "Вместимые монорельсовые поезда с паровозами",
             "eo-ZZ": "Grandspacaj monorelaj trajnoj kun aerodinamikaj frontaj kaj postaj ĉaroj",
-            "ca-ES": "Trens monorail de gran capacitat amb els cotxes davanter i posterior aerodinàmics."
+            "ca-ES": "Trens monorail de gran capacitat amb els cotxes davanter i posterior aerodinàmics.",
+            "fi-FI": "Suuren kapasiteetin kohoratajunat, joissa on virtaviivaiset etu- ja takavaunut"
         },
         "capacity": {
             "en-GB": "5 or 10 passengers per car",
@@ -336,7 +338,8 @@
             "pl-PL": "5 lub 10 pasażerów na wagonik",
             "ru-RU": "5 или 10 пассажиров",
             "eo-ZZ": "Po 5 aŭ 10 pasaĝeroj por ĉaro",
-            "ca-ES": "5 o 10 passatgers per cotxe"
+            "ca-ES": "5 o 10 passatgers per cotxe",
+            "fi-FI": "5 tai 10 matkustajaa per vaunu"
         }
     },
     "noCsgImages": [

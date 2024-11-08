@@ -571,7 +571,8 @@
             "pl-PL": "Myszochody",
             "ru-RU": "Мышки",
             "eo-ZZ": "Musoĉaroj",
-            "ca-ES": "Cotxes ratolí"
+            "ca-ES": "Cotxes ratolí",
+            "fi-FI": "Hiirivaunut"
         },
         "description": {
             "en-GB": "Individual cars shaped like mice",
@@ -590,7 +591,8 @@
             "pl-PL": "Pojedyncze samochodziki w kształcie myszy",
             "ru-RU": "Машинки в виде мышек",
             "eo-ZZ": "Individualaj ĉaroj formitaj kiel musoj",
-            "ca-ES": "Cotxes individuals en forma de ratolí."
+            "ca-ES": "Cotxes individuals en forma de ratolí.",
+            "fi-FI": "Yksittäiset hiiren muotoiset vaunut"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -609,7 +611,8 @@
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
-            "ca-ES": "4 passatgers per cotxe"
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

@@ -411,7 +411,8 @@
             "pl-PL": "Swobodnie podwieszone wagoniki",
             "ru-RU": "Подвесные вагоны",
             "eo-ZZ": "Penditaj Svingiĝantaj Ĉaroj",
-            "ca-ES": "Cotxes balancí penjants"
+            "ca-ES": "Cotxes balancí penjants",
+            "fi-FI": "Riippuvat keinuvaunut"
         },
         "description": {
             "en-GB": "Suspended roller coaster trains consisting of cars able to swing freely as the train goes around corners",
@@ -430,7 +431,8 @@
             "pl-PL": "Kolejka górska z podwieszanymi wagonikami, które mogą się swobodnie kołysać podczas pokonywania zakrętów",
             "ru-RU": "Suspended roller coaster train consisting of cars able to swing freely as the train goes around corners",
             "eo-ZZ": "Penditaj trajnoj de onda fervojo, kiuj konsistas el ĉaroj, kiuj svingiĝas libere kiam la trajno iras ĉirkau anguloj",
-            "ca-ES": "Muntanya russa amb trens penjants amb cotxes que es balancegen quan passen per les corbes."
+            "ca-ES": "Muntanya russa amb trens penjants amb cotxes que es balancegen quan passen per les corbes.",
+            "fi-FI": "Vapaasti käänteissä keinuvat riippuvat vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -449,7 +451,8 @@
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
-            "ca-ES": "4 passatgers per cotxe"
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     },
     "noCsgImages": [

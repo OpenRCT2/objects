@@ -192,7 +192,8 @@
             "pl-PL": "Wyścigówki",
             "ru-RU": "Машинки",
             "eo-ZZ": "Vetkuraŭtoj",
-            "ca-ES": "Cotxes de carreres"
+            "ca-ES": "Cotxes de carreres",
+            "fi-FI": "Kilpa-autot"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of racing cars",
@@ -211,7 +212,8 @@
             "pl-PL": "Pojazdy z napędem mające kształt samochodów wyścigowych",
             "ru-RU": "Гоночные Машинки",
             "eo-ZZ": "Ŝaltitaj veturiloj formitaj kiel vetkuraŭtoj",
-            "ca-ES": "Vehicles en forma de cotxes de carreres."
+            "ca-ES": "Vehicles en forma de cotxes de carreres.",
+            "fi-FI": "Kilpa-auton muotoiset moottoroidut ajoneuvot"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -230,7 +232,8 @@
             "pl-PL": "1 pasażer na wagonik",
             "ru-RU": "1 пассажир",
             "eo-ZZ": "Po 1 pasaĝero por ĉaro",
-            "ca-ES": "1 passatger per cotxe"
+            "ca-ES": "1 passatger per cotxe",
+            "fi-FI": "1 matkustaja per vaunu"
         }
     }
 }

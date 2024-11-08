@@ -220,7 +220,8 @@
             "pl-PL": "Furgonetki",
             "ru-RU": "Грузовики",
             "eo-ZZ": "Kamionetoj",
-            "ca-ES": "Camionetes"
+            "ca-ES": "Camionetes",
+            "fi-FI": "Lava-autot"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of pickup trucks",
@@ -239,7 +240,8 @@
             "pl-PL": "Pojazdy z napędem mające kształt półciężarówek",
             "ru-RU": "Powered vehicles in the shape of pickup trucks",
             "eo-ZZ": "Ŝaltitaj veturiloj formitaj kiel kamionetoj",
-            "ca-ES": "Vehicles tematitzats com a camionetes."
+            "ca-ES": "Vehicles tematitzats com a camionetes.",
+            "fi-FI": "Lava-auton muotoiset moottoroidut ajoneuvot"
         },
         "capacity": {
             "en-GB": "1 passenger per truck",
@@ -258,7 +260,8 @@
             "pl-PL": "1 pasażer na samochód",
             "ru-RU": "1 пассажир",
             "eo-ZZ": "Po 1 pasaĝero por kamiono",
-            "ca-ES": "1 passatger per camió"
+            "ca-ES": "1 passatger per camió",
+            "fi-FI": "1 matkustaja per auto"
         }
     }
 }

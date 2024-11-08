@@ -262,7 +262,8 @@
             "pl-PL": "Drewniane wagoniki \"Tarcie Boczne\"",
             "ru-RU": "Дерев. вагончики",
             "eo-ZZ": "Ĉaroj de Ligna Onda Fervojo kun Flanka Froto",
-            "ca-ES": "Cotxes de fusta de fricció lateral"
+            "ca-ES": "Cotxes de fusta de fricció lateral",
+            "fi-FI": "Puiset sivukitkavaunut"
         },
         "description": {
             "en-GB": "Basic cars for the Side-Friction Roller Coaster",
@@ -281,7 +282,8 @@
             "pl-PL": "Podstawowe wagoniki dla kolejki \"Tarcie Boczne\"",
             "ru-RU": "Вагончики для боковых горок.",
             "eo-ZZ": "Bazaj ĉaroj por la Ligna Onda Fervojo kun Flanka Froto",
-            "ca-ES": "Cotxes bàsics per a la muntanya russa de fricció lateral"
+            "ca-ES": "Cotxes bàsics per a la muntanya russa de fricció lateral",
+            "fi-FI": "Sivukitkavuoristoradan perusvaunut"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -300,7 +302,8 @@
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
-            "ca-ES": "4 passatgers per cotxe"
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     },
     "noCsgImages": [

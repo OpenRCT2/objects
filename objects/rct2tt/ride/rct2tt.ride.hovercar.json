@@ -131,21 +131,22 @@
             "en-GB": "1 passenger per car",
             "fr-FR": "1 passager par voiture",
             "de-DE": "1 Fahrgast pro Wagen",
-            "es-ES": "1 pasajero por vehículo",
+            "es-ES": "1 pasajero por coche",
             "it-IT": "1 passeggero a carrozza",
             "nl-NL": "1 passagier per karretje",
-            "sv-SE": "1 passagerare per bil",
+            "sv-SE": "1 passagerare per vagn",
             "ko-KR": "차량당 승객 1명",
             "zh-CN": "1位乘客/车",
             "zh-TW": "1 位乘客/每個車廂",
-            "pt-BR": "1 passageiro por carro",
+            "pt-BR": "1 passageiro por vagão",
             "cs-CZ": "1 místo v každém voze",
             "ja-JP": "各車両1名",
             "pl-PL": "1 pasażer na wagonik",
             "ru-RU": "1 пассажир",
-            "eo-ZZ": "Po 1 pasaĝero por ĉaro",
+            "eo-ZZ": "Po 1 pasaĝero por aŭto",
             "ca-ES": "1 passatger per cotxe",
-            "fi-FI": "1 matkustaja per ajoneuvo"
+            "fi-FI": "1 matkustaja per auto",
+            "hu-HU": "1 utas kocsinként"
         }
     }
 }

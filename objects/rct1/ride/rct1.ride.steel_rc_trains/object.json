@@ -1768,7 +1768,8 @@
             "ko-KR": "롤러코스터 차량",
             "pt-BR": "Trens de Montanha-Russa",
             "ca-ES": "Muntanya russa",
-            "pl-PL": "Opływowy przód"
+            "pl-PL": "Opływowy przód",
+            "fi-FI": "Vuoristoratavaunut"
         },
         "description": {
             "en-GB": "Roller coaster train with a streamlined front car.",
@@ -1777,7 +1778,9 @@
             "ko-KR": "유선형의 앞 모양을 가진 롤러코스터 차량입니다.",
             "pt-BR": "Trem de montanha-russa com um carro frontal simplificado.",
             "ca-ES": "Muntanya russa amb un cotxe frontal aerodinàmic.",
-            "pl-PL": "Pojazd pętlowej kolejki górskiej z opływowym przodem."
+            "pl-PL": "Pojazd pętlowej kolejki górskiej z opływowym przodem",
+            "fi-FI": "Vuoristoratajuna, jossa on virtaviivainen etuvaunu",
+            "zh-CN": "有着流线型前车厢的过山车列车。"
         },
         "capacity": {
             "en-GB": "4 passengers per car",

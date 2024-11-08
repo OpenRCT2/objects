@@ -419,7 +419,8 @@
             "pl-PL": "Jazda flisacka",
             "ru-RU": "Ущелье",
             "eo-ZZ": "Ŝtipoj",
-            "ca-ES": "Troncs"
+            "ca-ES": "Troncs",
+            "fi-FI": "Tukit"
         },
         "description": {
             "en-GB": "Log-shaped boats built for running in water channels",
@@ -438,7 +439,8 @@
             "pl-PL": "Łódki w kształcie pni płyną wodnym kanałem, spadając z pluskiem ze stromych spadków, aby zamoczyć pasażerów",
             "ru-RU": "Лодки в виде бревен плывут по каналу, периодически плюхаясь со склонов.",
             "eo-ZZ": "Ŝtipoformaj boatoj konstruitaj por veturi en akvokanaloj",
-            "ca-ES": "Barques en forma de tron que circulen per canals d’aigua."
+            "ca-ES": "Barques en forma de tron que circulen per canals d’aigua.",
+            "fi-FI": "Tukinmuotoiset veneet, jotka on tehty vesikanavissa matkustusta varten"
         },
         "capacity": {
             "en-GB": "4 passengers per boat",
@@ -457,7 +459,8 @@
             "pl-PL": "4 pasażerów na łódkę",
             "ru-RU": "4 пассажира",
             "eo-ZZ": "Po 4 pasaĝeroj por boato",
-            "ca-ES": "4 passatgers per barqueta"
+            "ca-ES": "4 passatgers per barqueta",
+            "fi-FI": "4 matkustajaa per vene"
         }
     }
 }

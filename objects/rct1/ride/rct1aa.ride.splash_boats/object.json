@@ -503,7 +503,8 @@
             "pl-PL": "Pluskołódki",
             "ru-RU": "Лодки",
             "eo-ZZ": "Plaŭdantaj Boatoj",
-            "ca-ES": "Barques esquitxadores"
+            "ca-ES": "Barques esquitxadores",
+            "fi-FI": "Roiskeveneet"
         },
         "description": {
             "en-GB": "Large capacity boats, built for water tracks with very steep drops",
@@ -522,7 +523,8 @@
             "pl-PL": "Pojemne łodzie płynące szerokim kanałem, wciągane po nachyleniu przez pasy napędowe, zjeżdżające ze wzniesień i w wielkim plusku moczące pasażerów",
             "ru-RU": "Вместительные лодки плывут по широкому каналу при помощи ременного привода.",
             "eo-ZZ": "Grandspacaj boatoj, konstruitaj por akvotrakoj kun tre krutaj faloj",
-            "ca-ES": "Barques de gran capacitat, construïdes per vies d’aigua amb caigudes pronunciades."
+            "ca-ES": "Barques de gran capacitat, construïdes per vies d’aigua amb caigudes pronunciades.",
+            "fi-FI": "Suuren kapasiteetin veneet, jotka on luoto jyrkkämäkisissä vesikanavissa ajeluun"
         },
         "capacity": {
             "en-GB": "16 passengers per boat",
@@ -541,7 +543,8 @@
             "pl-PL": "16 pasażerów na łódkę",
             "ru-RU": "16 пассажиров",
             "eo-ZZ": "16 pasaĝeroj por boato",
-            "ca-ES": "16 passatgers per bot"
+            "ca-ES": "16 passatgers per bot",
+            "fi-FI": "16 matkustajaa per vene"
         }
     }
 }

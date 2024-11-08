@@ -479,7 +479,8 @@
             "pl-PL": "Przełomy Dunajca",
             "ru-RU": "Перекаты",
             "eo-ZZ": "Boatoj de Rapidfluorajdo",
-            "ca-ES": "Ràpids"
+            "ca-ES": "Ràpids",
+            "fi-FI": "Koskiseikkailualukset"
         },
         "description": {
             "en-GB": "Circular boats that turn and splash around as they meander along the river rapids",
@@ -498,7 +499,8 @@
             "pl-PL": "Okrągłe łódki pokonujące szeroki kanał wodny, spadające z wodospadów i przepływające przez spienione bystrzyny",
             "ru-RU": "Круглые лодки плывут по широкому каналу, попадая на водопады и стремительные перекаты",
             "eo-ZZ": "Rondaj boatoj, kiuj turniĝas kaj plaŭdas vagante laŭ la rapidfluoj",
-            "ca-ES": "Bots circulars que giren i esquitxen mentre es mouen pel riu al llarg dels ràpids."
+            "ca-ES": "Bots circulars que giren i esquitxen mentre es mouen pel riu al llarg dels ràpids.",
+            "fi-FI": "Pyöreät alukset, jotka kääntyilevät ja roiskuvat koskea laskiessa"
         },
         "capacity": {
             "en-GB": "8 passengers per boat",
@@ -517,7 +519,8 @@
             "pl-PL": "8 pasażerów na łódkę",
             "ru-RU": "8 пассажиров",
             "eo-ZZ": "Po 8 pasaĝeroj por boato",
-            "ca-ES": "8 passatgers per barqueta"
+            "ca-ES": "8 passatgers per barqueta",
+            "fi-FI": "8 matkustajaa per alus"
         }
     }
 }

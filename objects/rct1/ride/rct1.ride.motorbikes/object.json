@@ -170,7 +170,8 @@
             "pl-PL": "Wyścigi motocyklowe",
             "ru-RU": "Мотоциклы",
             "eo-ZZ": "Motorbicikloj",
-            "ca-ES": "Motocicletes"
+            "ca-ES": "Motocicletes",
+            "fi-FI": "Moottoripyörät"
         },
         "description": {
             "en-GB": "Single cars shaped like a motorbike",
@@ -189,7 +190,8 @@
             "pl-PL": "Pasażerowie jadą wagonikami w kształcie motocykli po jednoszynowym torze",
             "ru-RU": "Пассажиры едут в вагончиках в виде мотоциклов по треку",
             "eo-ZZ": "Unuopaj ĉaroj formitaj kiel motorbiciklo",
-            "ca-ES": "Cotxes individuals en forma de motocicleta."
+            "ca-ES": "Cotxes individuals en forma de motocicleta.",
+            "fi-FI": "Yksittäiset moottoripyörän muotoiset vaunut"
         },
         "capacity": {
             "en-GB": "2 riders per bike",
@@ -207,7 +209,8 @@
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na motocykl",
             "ru-RU": "2 пассажира",
-            "eo-ZZ": "Po 2 rajdantoj por biciklo"
+            "eo-ZZ": "Po 2 rajdantoj por biciklo",
+            "fi-FI": "2 matkustajaa per pyörä"
         }
     }
 }

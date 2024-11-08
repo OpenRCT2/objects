@@ -1415,7 +1415,10 @@
             "fr-FR": "Train de montagnes russes en bois (inversé)",
             "ko-KR": "우든 롤러코스터 차량 (역방향)",
             "pt-BR": "Trens de Montanha-Russa de Madeira (Reversos)",
-            "ca-ES": "Muntanya russa de fusta (cap enrere)"
+            "ca-ES": "Muntanya russa de fusta (cap enrere)",
+            "fi-FI": "Puisen vuoristoradan vaunut (takaperin)",
+            "pl-PL": "Drewniana kolejka górska (odwrócona)",
+            "zh-CN": "木制过山车列车（反向）"
         },
         "description": {
             "en-GB": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards.",
@@ -1423,7 +1426,10 @@
             "fr-FR": "Train de montagnes russes en bois circulant à l’envers de façon à ce que les passagers soient de dos",
             "ko-KR": "승객들이 뒤를 보고 타는 역방향 우든 롤러코스터 차량입니다.",
             "pt-BR": "Trens de montanha-russa de madeira, que correm ao contrário, tal que o passageiro esteja virado de costas.",
-            "ca-ES": "Muntanya russa de fusta amb trens que circulen a l’inrevés, de manera que els passatgers es mouen cap enrere."
+            "ca-ES": "Muntanya russa de fusta amb trens que circulen a l’inrevés, de manera que els passatgers es mouen cap enrere.",
+            "fi-FI": "Puisen vuoristoradan vaunut, mutta takaperin ajettuna niin, että matkustajat istuvat selkä menosuuntaan päin",
+            "pl-PL": "Drewniana kolejka górska z odwróconymi wagonikami, tak aby pasażerowie byli skierowani tyłem do kierunku jazdy",
+            "zh-CN": "木制过山车列车，但反向运行，使乘客面朝后方。"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -1442,7 +1448,8 @@
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
-            "ca-ES": "4 passatgers per cotxe"
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

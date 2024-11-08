@@ -853,7 +853,8 @@
             "pl-PL": "Kolejka łódkowa",
             "ru-RU": "Лодки-горки",
             "eo-ZZ": "Boato-Ĉaroj",
-            "ca-ES": "Barquetes costeres"
+            "ca-ES": "Barquetes costeres",
+            "fi-FI": "Vuoristorataveneet"
         },
         "description": {
             "en-GB": "Boat-shaped roller coaster cars",
@@ -872,7 +873,8 @@
             "pl-PL": "Wagoniki w kształcie łódek",
             "ru-RU": "Вагончки в виде лодок",
             "eo-ZZ": "Boatoformaj ĉaroj de onda fervojo",
-            "ca-ES": "Cotxes per a muntanya russa en forma de barca."
+            "ca-ES": "Cotxes per a muntanya russa en forma de barca.",
+            "fi-FI": "Veneen muotoiset vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "6 passengers per boat",
@@ -891,7 +893,8 @@
             "pl-PL": "6 pasażerów na łódkę",
             "ru-RU": "6 пассажиров",
             "eo-ZZ": "Po 6 pasaĝeroj por boato",
-            "ca-ES": "6 passatgers per barqueta"
+            "ca-ES": "6 passatgers per barqueta",
+            "fi-FI": "6 matkustajaa per vene"
         }
     }
 }

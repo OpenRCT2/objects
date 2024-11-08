@@ -772,7 +772,9 @@
             "ko-KR": "우든 롤러코스터 차량",
             "pt-BR": "Trens de Montanha-Russa de Madeira",
             "ca-ES": "Muntanya russa de fusta",
-            "pl-PL": "Drewniana kolejka górska"
+            "pl-PL": "Drewniana kolejka górska",
+            "fi-FI": "Puisen vuoristoradan vaunut",
+            "zh-CN": "木制过山车列车"
         },
         "description": {
             "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints",
@@ -781,7 +783,9 @@
             "ko-KR": "푹신한 좌석과 무릎 안전 장치가 있는 우든 롤러코스터 차량",
             "pt-BR": "Trens de montanha-russa de madeira com assentos acolchoados e proteções de colo",
             "ca-ES": "Muntanya russa amb trens amb seients encoixinats amb barres de subjecció per la falda.",
-            "pl-PL": "Drewniane wagoniki z wyściełanymi siedzeniami i zabezpieczeniami obejmującymi pasażerów w pasie"
+            "pl-PL": "Drewniane wagoniki z wyściełanymi siedzeniami i zabezpieczeniami obejmującymi pasażerów w pasie",
+            "fi-FI": "Puisen vuoristoradan vaunut, joissa on pehmustetut istuimet ja turvakaiteet",
+            "zh-CN": "木制过山车列车，配有软垫座椅和膝部约束杆"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -800,7 +804,8 @@
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
-            "ca-ES": "4 passatgers per cotxe"
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

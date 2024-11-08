@@ -433,7 +433,8 @@
             "pl-PL": "Pociągi parowe z krytymi wagonami",
             "ru-RU": "Паровозики с вагончиками",
             "eo-ZZ": "Vaporlokomotivoj kun Kovritaj Ĉaroj",
-            "ca-ES": "Trens de vapor amb cotxes coberts"
+            "ca-ES": "Trens de vapor amb cotxes coberts",
+            "fi-FI": "Katetut höyryjunavaunut"
         },
         "description": {
             "en-GB": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
@@ -452,7 +453,8 @@
             "pl-PL": "Miniaturowe pociągi składające się z lokomotywy parowej i tendra, ciągnących drewniane wagoniki z płóciennymi daszkami",
             "ru-RU": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
             "eo-ZZ": "Miniaturaj lokomotivoj, kiuj konsistas el replikaĵo de lokomotivo kaj tendro, kaj tiras lignajn kaleŝojn kun fabrikaj tegmentoj",
-            "ca-ES": "Trens de vapor en miniatura amb una rèplica d’una locomotora a vapor i tènder, estirant vagons de fusta amb sostre de tela."
+            "ca-ES": "Trens de vapor en miniatura amb una rèplica d’una locomotora a vapor i tènder, estirant vagons de fusta amb sostre de tela.",
+            "fi-FI": "Pienikokoiset höyryjunat joihin kuuluu höyryveturin jäljitelmä ja hennot puiset vaunut kangaskatoilla"
         },
         "capacity": {
             "en-GB": "6 passengers per carriage",
@@ -471,7 +473,8 @@
             "pl-PL": "6 pasażerów na wagon",
             "ru-RU": "6 пассажиров",
             "eo-ZZ": "Po 6 pasaĝeroj por vagono",
-            "ca-ES": "6 passatgers per vagó"
+            "ca-ES": "6 passatgers per vagó",
+            "fi-FI": "6 matkustajaa per vaunu"
         }
     }
 }

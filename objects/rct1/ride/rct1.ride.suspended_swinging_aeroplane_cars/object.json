@@ -661,7 +661,8 @@
             "pl-PL": "Swobodnie podwieszone wagoniki samolotowe",
             "ru-RU": "Аэропланы",
             "eo-ZZ": "Penditaj Svingiĝantaj Aeroplano-Ĉaroj",
-            "ca-ES": "Avions"
+            "ca-ES": "Avions",
+            "fi-FI": "Riippuvat lentokone-keinuvaunut"
         },
         "description": {
             "en-GB": "Suspended roller coaster trains consisting of aeroplane-shaped cars able to swing freely as the train goes around corners",
@@ -681,7 +682,8 @@
             "pl-PL": "Kolejka górska z podwieszanymi wagonikami w kształcie samolotów, które mogą się swobodnie kołysać podczas pokonywania zakrętów",
             "ru-RU": "Suspended roller coaster train consisting of airplane shaped cars able to swing freely as the train goes around corners",
             "eo-ZZ": "Penditaj trajnoj de onda fervojo, kiuj konsistas el aeroplanoformaj ĉaroj, kiuj svingiĝas libere kiam la trajno iras ĉirkau anguloj",
-            "ca-ES": "Muntanya russa amb trens penjants amb cotxes en forma d’avió que es balancegen quan passen per les corbes."
+            "ca-ES": "Muntanya russa amb trens penjants amb cotxes en forma d’avió que es balancegen quan passen per les corbes.",
+            "fi-FI": "Lentokoneen muotoiset vapaasti käänteissä keinuvat riippuvat vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -700,7 +702,8 @@
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажираpa",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
-            "ca-ES": "4 passatgers per cotxe"
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     },
     "noCsgImages": [

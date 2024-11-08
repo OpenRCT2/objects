@@ -77,7 +77,8 @@
             "nl-NL": "Karretjes voor rodelachtbaan",
             "pt-BR": "Carros da Montanha-Russa Alpina",
             "ca-ES": "Muntanya russa alpina",
-            "pl-PL": "Tor saneczkowy"
+            "pl-PL": "Tor saneczkowy",
+            "fi-FI": "Alppivuoristoradan vaunut"
         },
         "description": {
             "en-GB": "Wheeled sleds equipped with manually operated brakes",
@@ -88,7 +89,9 @@
             "nl-NL": "Sleetjes op wielen met een handrem",
             "pt-BR": "Trenós com rodas equipados com freios operados manualmente",
             "ca-ES": "Trineus amb rodes i equipats amb frens que operen els passatgers.",
-            "pl-PL": "Sanki na kołach wyposażone w ręcznie obsługiwane hamulce"
+            "pl-PL": "Sanki na kołach wyposażone w ręcznie obsługiwane hamulce",
+            "fi-FI": "Renkailla kulkevat reet, joissa on käsikäyttöiset jarrut",
+            "zh-CN": "配备手动制动器的轮式雪橇"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -99,7 +102,9 @@
             "nl-NL": "2 passagiers per karretje",
             "pt-BR": "2 passageiros por carro",
             "ca-ES": "2 passatgers per cotxe",
-            "pl-PL": "2 pasażerów na wagonik"
+            "pl-PL": "2 pasażerów na wagonik",
+            "fi-FI": "2 matkustajaa per vaunu",
+            "zh-CN": "2位乘客/车"
         }
     },
     "images": [

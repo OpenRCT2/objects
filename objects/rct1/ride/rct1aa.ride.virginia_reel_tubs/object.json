@@ -452,7 +452,8 @@
             "ru-RU": "Вирджиния",
             "eo-ZZ": "Kuvoj de Virginia Reel",
             "fr-FR": "Tonneau Virginia Reel",
-            "ca-ES": "Pots «Virginia Reel»"
+            "ca-ES": "Pots «Virginia Reel»",
+            "fi-FI": "Virginia-kehrävaunut"
         },
         "description": {
             "en-GB": "Circular cars that spin around as they travel along the track",
@@ -471,7 +472,8 @@
             "pl-PL": "Okrągłe wagoniki wirują, jadąc po zygzakowatym drewnianym torze",
             "ru-RU": "Круглые вагончики едут по трассе и одновременно крутятся.",
             "eo-ZZ": "Rondaj ĉaroj, kiuj turniĝante veturas laŭ la trako",
-            "ca-ES": "Cotxes circulars que giren mentre es mouen per un circuit."
+            "ca-ES": "Cotxes circulars que giren mentre es mouen per un circuit.",
+            "fi-FI": "Pyöreät vaunut, jotka pyörivät rataa kulkiessaan"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -490,7 +492,8 @@
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
-            "ca-ES": "4 passatgers per cotxe"
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

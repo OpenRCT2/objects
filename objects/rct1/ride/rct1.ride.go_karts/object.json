@@ -301,7 +301,9 @@
             "nl-NL": "Go-Karts (met helmen)",
             "pt-BR": "Karts (com capacetes)",
             "ca-ES": "Karts (amb cascos)",
-            "pl-PL": "Gokarty (z kaskami)"
+            "pl-PL": "Gokarty (z kaskami)",
+            "fi-FI": "Mikroautot (kypärien kerä)",
+            "zh-CN": "卡丁车（带头盔）"
         },
         "description": {
             "en-GB": "Self-driven petrol-engined go-karts that come with safety helmets",
@@ -311,7 +313,9 @@
             "nl-NL": "Go-karts met benzinemotor die de passagiers zelf besturen.",
             "pt-BR": "Karts à gasolina auto-pilotáveis com capacetes de segurança",
             "ca-ES": "Karts autopropulsats que funcionen amb gasolina i els passatgers duen cascos de seguretat.",
-            "pl-PL": "Samochodziki z napędem benzynowym wyposażone w kaski"
+            "pl-PL": "Samochodziki z napędem benzynowym wyposażone w kaski",
+            "fi-FI": "Itse ajettavat bensakäyttöiset mikroautot, joiden mukana tulee turvakypärä",
+            "zh-CN": "附带安全头盔的汽油引擎自驾卡丁车"
         },
         "capacity": {
             "en-GB": "single-seater",
@@ -330,7 +334,8 @@
             "pl-PL": "1 miejsce",
             "ru-RU": "одиночные",
             "eo-OO": "Po 1 pasaĝero por aŭto",
-            "ca-ES": "1 passatger"
+            "ca-ES": "1 passatger",
+            "fi-FI": "Yksipaikkainen"
         }
     }
 }

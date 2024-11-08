@@ -163,7 +163,8 @@
             "pl-PL": "Ślizg pontonowy",
             "ru-RU": "Шлюпки",
             "eo-ZZ": "Boatetoj",
-            "ca-ES": "Bots inflables"
+            "ca-ES": "Bots inflables",
+            "fi-FI": "Puhallettavat veneet"
         },
         "description": {
             "en-GB": "Inflatable dinghies that can twist down a semi-circular or completely enclosed tube track",
@@ -182,7 +183,8 @@
             "pl-PL": "Pasażerowie podróżują w nadmuchiwanych pontonach po zawiłym półkolistym lub rurowym torze",
             "ru-RU": "Люди катаются в шлюпках.",
             "eo-ZZ": "Plenblovitaj boatetoj, kiuj malsupreniras kurboplenan duoncirklan aŭ cirklan tubotrakon",
-            "ca-ES": "Bots inflables que baixen per uns tubs semicirculars o totalment tancats."
+            "ca-ES": "Bots inflables que baixen per uns tubs semicirculars o totalment tancats.",
+            "fi-FI": "Matkustajat liukuvat puhallettavissa veneissä alas puolikuun tai umpinaisen putken muotoista rataa"
         },
         "capacity": {
             "en-GB": "2 passengers per dinghy",
@@ -201,7 +203,8 @@
             "pl-PL": "2 pasażerów na ponton",
             "ru-RU": "2 пассажира",
             "eo-ZZ": "Po 2 pasaĝeroj por boateto",
-            "ca-ES": "2 passatgers per bot inflable"
+            "ca-ES": "2 passatgers per bot inflable",
+            "fi-FI": "2 matkustajaa per vene"
         }
     },
     "noCsgImages": [

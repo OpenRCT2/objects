@@ -425,7 +425,8 @@
             "pl-PL": "Pociągi parowe",
             "ru-RU": "Паровозы",
             "eo-ZZ": "Vaporlokomotivoj",
-            "ca-ES": "Trens de vapor"
+            "ca-ES": "Trens de vapor",
+            "fi-FI": "Höyryjunavaunut"
         },
         "description": {
             "en-GB": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling open wooden carriages",
@@ -444,7 +445,8 @@
             "pl-PL": "Miniaturowe pociągi składające się z lokomotywy parowej i tendra, ciągnących otwarte drewniane wagoniki",
             "ru-RU": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling open wooden carriages",
             "eo-ZZ": "Miniaturaj lokomotivoj, kiuj konsistas el replikaĵo de lokomotivo kaj tendro, kaj tiras subĉielajn lignajn kaleŝojn",
-            "ca-ES": "Trens de vapor en miniatura amb una rèplica d’una locomotora a vapor i tènder, estirant vagons de fusta oberts."
+            "ca-ES": "Trens de vapor en miniatura amb una rèplica d’una locomotora a vapor i tènder, estirant vagons de fusta oberts.",
+            "fi-FI": "Pienikokoiset höyryjunat joihin kuuluu höyryveturin jäljitelmä ja hennot puiset vaunut"
         },
         "capacity": {
             "en-GB": "6 passengers per carriage",
@@ -463,7 +465,8 @@
             "pl-PL": "6 pasażerów na wagon",
             "ru-RU": "6 пассажиров",
             "eo-ZZ": "Po 6 pasaĝeroj por vagono",
-            "ca-ES": "6 passatgers per vagó"
+            "ca-ES": "6 passatgers per vagó",
+            "fi-FI": "6 matkustajaa per vaunu"
         }
     }
 }

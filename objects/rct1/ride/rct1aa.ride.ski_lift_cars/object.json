@@ -148,7 +148,8 @@
             "pl-PL": "Podniebne krzesełka",
             "ru-RU": "Лыжные кресла",
             "eo-ZZ": "Skilifto-Seĝoj",
-            "ca-ES": "Telecadires"
+            "ca-ES": "Telecadires",
+            "fi-FI": "Hiihtohissivaunut"
         },
         "description": {
             "en-GB": "Open cars for chairlift",
@@ -167,7 +168,8 @@
             "pl-PL": "Kolejka krzesełkowa z otwartymi siedziskami",
             "ru-RU": "Открытые вагончики",
             "eo-ZZ": "Subĉielaj ĉaroj de seĝlifto",
-            "ca-ES": "Cotxes oberts per al telecadira."
+            "ca-ES": "Cotxes oberts per al telecadira.",
+            "fi-FI": "Avoilmavaunut tuolihissiin"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -186,7 +188,8 @@
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
-            "ca-ES": "2 passatgers per cotxe"
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }

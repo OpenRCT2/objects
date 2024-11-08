@@ -302,7 +302,8 @@
             "pl-PL": "Zwariowana kopalnia",
             "ru-RU": "Деревянная Шахта",
             "eo-ZZ": "Minĉaroj",
-            "ca-ES": "Tren de la mina"
+            "ca-ES": "Tren de la mina",
+            "fi-FI": "Kaivosvaunut"
         },
         "description": {
             "en-GB": "Cars shaped like an old mine cart",
@@ -321,7 +322,8 @@
             "pl-PL": "Małe wózki kopalniane jadące po zygzakowatym drewnianym torze, przechylające się na ostrych zakrętach i zdradliwych zjazdach",
             "ru-RU": "Маленькие вагонетки едут по зигзагообразному деревянному треку.",
             "eo-ZZ": "Ĉaroj formitaj kiel malnova minĉaro",
-            "ca-ES": "Cotxes en forma de vagonetes antigues."
+            "ca-ES": "Cotxes en forma de vagonetes antigues.",
+            "fi-FI": "Vanhan kaivoskärryn muotoiset vaunut"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -340,7 +342,8 @@
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
-            "ca-ES": "2 passatgers per cotxe"
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     },
     "noCsgImages": [

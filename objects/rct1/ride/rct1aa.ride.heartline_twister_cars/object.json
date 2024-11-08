@@ -671,7 +671,8 @@
             "pl-PL": "Wagoniki zwijki",
             "ru-RU": "Твистер-Кар",
             "eo-ZZ": "Tvisto-Ĉaroj",
-            "ca-ES": "Cotxes Tornado"
+            "ca-ES": "Cotxes Tornado",
+            "fi-FI": "Kierrevaunut"
         },
         "description": {
             "en-GB": "Roller coaster cars capable of heartline twists",
@@ -690,7 +691,8 @@
             "pl-PL": "Wagoniki kolejki górskiej wykonującej zabójcze zakręty",
             "ru-RU": "Вагончики, способные вращаться",
             "eo-ZZ": "Ĉaroj de onda fervojo, kiuj povas fari ĉekorajn tvistojn",
-            "ca-ES": "Muntanya russa amb cotxes que giren a mitja altura."
+            "ca-ES": "Muntanya russa amb cotxes que giren a mitja altura.",
+            "fi-FI": "Sivuttaisvierityksiin kykenevät vuoristoratavaunut"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -709,7 +711,8 @@
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
-            "ca-ES": "4 passatgers per cotxe"
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     },
     "noCsgImages": [

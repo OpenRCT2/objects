@@ -148,7 +148,8 @@
             "pl-PL": "Minihelikoptery",
             "ru-RU": "Вертолётики",
             "eo-ZZ": "Miniaturaj Helikopteroj",
-            "ca-ES": "Minihelicòpters"
+            "ca-ES": "Minihelicòpters",
+            "fi-FI": "Minihelikopterit"
         },
         "description": {
             "en-GB": "Powered helicopter-shaped cars, controlled by the pedalling of the riders",
@@ -168,7 +169,8 @@
             "pl-PL": "Wagoniki w kształcie helikopterów jadące po stalowym torze, sterowane przez pedałujących pasażerów",
             "ru-RU": "Машинки в виде вертолетиков.",
             "eo-ZZ": "Ŝaltitaj helikopteroformaj ĉaroj, kiujn la pedalado de la rajdantoj funkciigas",
-            "ca-ES": "Cotxes en forma d’helicòpters controlats pel pedaleig dels passatgers."
+            "ca-ES": "Cotxes en forma d’helicòpters controlats pel pedaleig dels passatgers.",
+            "fi-FI": "Moottoroidut helikopterin muotoiset vaunut kulkevat teräsradalla, liikkuen matkustajien polkiessa"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -187,7 +189,8 @@
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 passengers per car",
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
-            "ca-ES": "2 passatgers per cotxe"
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     },
     "noCsgImages": [

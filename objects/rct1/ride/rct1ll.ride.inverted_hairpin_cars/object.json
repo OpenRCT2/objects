@@ -247,7 +247,8 @@
             "pl-PL": "Kolejka serpentynowa",
             "ru-RU": "Обратные поворот. горки",
             "eo-ZZ": "Ĉaroj kun Kvar Seĝoj",
-            "ca-ES": "Cotxes de quatre places"
+            "ca-ES": "Cotxes de quatre places",
+            "fi-FI": "Nelipaikkaiset vaunut"
         },
         "description": {
             "en-GB": "Individual roller coaster cars built for tracks with hairpin turns and sharp drops",
@@ -266,7 +267,8 @@
             "pl-PL": "Pojedyncze wagoniki jeżdżą podwieszone pod torem z ostrymi zakrętami i gwałtownymi spadkami",
             "ru-RU": "Отдельные вагончики едут по зигзагообразному треку с разворотами и падениями",
             "eo-ZZ": "Individuaj ĉaroj de onda fervojo, konstruitaj por trakoj kun harpingloformaj kurboj kaj krutaj malleviĝoj",
-            "ca-ES": "Cotxes individuals de muntanya russa construïts per a vies amb girs de forquilla i caigudes pronunciades."
+            "ca-ES": "Cotxes individuals de muntanya russa construïts per a vies amb girs de forquilla i caigudes pronunciades.",
+            "fi-FI": "Erilliset vuoristoratavaunut, jotka on tarkoitettu tiukkoihin mutkiin ja jyrkkiin mäkiin"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -285,7 +287,8 @@
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
-            "ca-ES": "4 passatgers per cotxe"
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     },
     "noCsgImages": [

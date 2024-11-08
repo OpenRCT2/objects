@@ -633,7 +633,9 @@
             "ko-KR": "인버티드 롤러코스터 차량",
             "pt-BR": "Trens de Montanha-Russa Invertida",
             "ca-ES": "Muntanya russa invertida",
-            "pl-PL": "Wagoniki kolejki odwrotnej"
+            "pl-PL": "Wagoniki kolejki odwrotnej",
+            "fi-FI": "Käänteisvuoristoradan vaunut",
+            "zh-CN": "倒置过山车列车"
         },
         "description": {
             "en-GB": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
@@ -642,7 +644,9 @@
             "ko-KR": "트랙 위를 지나가는 지지 프레임에 달린 좌석으로 구성된 인버티드 롤러코스터 차량입니다.",
             "pt-BR": "Trem de montanha-russa invertida, que consiste em assentos dependurados por um suporte que corre pelo trilho acima.",
             "ca-ES": "Muntanya russa invertida que té seients que pengen d'un marc de suport que es mou per un rail que té a sobre.",
-            "pl-PL": "Pasażerowie siedzą w fotelach podwieszonych pod torem, pokonując wielkie pętle, zakręty i zakręcone zjazdy."
+            "pl-PL": "Pasażerowie siedzą w fotelach podwieszonych pod torem, pokonując wielkie pętle, zakręty i zakręcone zjazdy",
+            "fi-FI": "Käänteinen vuoristoratavaunu, jossa istuimet roikkuvat pareittain radan alapuolella.",
+            "zh-CN": "倒置的过山车列车，由悬挂在轨道上方支撑架上的座椅组成。"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -661,7 +665,8 @@
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
             "eo-OO": "Po 2 pasaĝeroj por ĉaro",
-            "ca-ES": "2 passatgers per cotxe"
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }

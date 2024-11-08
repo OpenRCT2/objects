@@ -1686,7 +1686,8 @@
             "nl-NL": "Trein voor stalen schroefachtbaan",
             "pt-BR": "Trens de Montanha-Russa Saca-Rolhas",
             "ca-ES": "Muntanya russa amb tirabuixons",
-            "pl-PL": "Wagoniki kolejki korkociągowej"
+            "pl-PL": "Wagoniki kolejki korkociągowej",
+            "fi-FI": "Korkkiruuvivuoristoratavaunut"
         },
         "description": {
             "en-GB": "Roller coaster trains with shoulder restraints",
@@ -1695,7 +1696,8 @@
             "nl-NL": "Achtbaantreinen met schouderbeugels.",
             "pt-BR": "Trens de montanha russa com travas de ombro",
             "ca-ES": "Muntanya russa amb tren i subjeccions per l’espatlla.",
-            "pl-PL": "Wagoniki z zabezpieczeniami na ramiona"
+            "pl-PL": "Wagoniki z zabezpieczeniami na ramiona",
+            "fi-FI": "Vuoristoratavaunut, joissa on olkaturvakaiteet"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -1703,7 +1705,8 @@
             "nl-NL": "4 passagiers per karretje",
             "pt-BR": "4 passageiros por carro",
             "ca-ES": "4 passatgers per cotxe",
-            "pl-PL": "4 pasażerów na wagonik"
+            "pl-PL": "4 pasażerów na wagonik",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     }
 }

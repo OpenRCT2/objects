@@ -265,7 +265,8 @@
             "ru-RU": "Бобслей-поезд",
             "eo-ZZ": "Bobsledo-Trajnoj",
             "ca-ES": "Trens bob",
-            "en-US": "Bobsled Trains"
+            "en-US": "Bobsled Trains",
+            "fi-FI": "Rattikelkkavaunut"
         },
         "description": {
             "en-GB": "Trains consisting of 2-seater cars where the riders are behind each other",
@@ -284,7 +285,8 @@
             "pl-PL": "Pasażerowie zjeżdżają krętą trasą w wagonikach przypominających bobsleje, prowadzonych jedynie przez krzywizny i wychylenia półkolistego toru",
             "ru-RU": "Поезд состоящий из двухместных вагонов, где пассажиры сидят друг за другом",
             "eo-ZZ": "Trajnoj, konsistaj de ĉaroj kun 2 seĝoj, kie la rajdantoj estas malantaŭ unu la alian",
-            "ca-ES": "Trens amb cotxes de 2 seients on els passatgers van un darrere l’altre."
+            "ca-ES": "Trens amb cotxes de 2 seients on els passatgers van un darrere l’altre.",
+            "fi-FI": "Vaunut, jossa kaksi matkustajaa istuu peräkkäin"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -303,7 +305,8 @@
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
-            "ca-ES": "2 passatgers per cotxe"
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }

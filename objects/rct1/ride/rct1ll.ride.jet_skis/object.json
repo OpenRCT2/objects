@@ -124,7 +124,8 @@
             "ru-RU": "Скутеры",
             "eo-ZZ": "Akvo-Motorsledoj",
             "fr-FR": "Jet ski",
-            "ca-ES": "Motos d’aigua"
+            "ca-ES": "Motos d’aigua",
+            "fi-FI": "Vesiskootterit"
         },
         "description": {
             "en-GB": "Single-seater jet skis which riders can drive themselves",
@@ -143,7 +144,8 @@
             "pl-PL": "Jednomiejscowe skutery, którymi pasażerowie mogą sami kierować",
             "ru-RU": "Водные скутеры на одного человека.",
             "eo-ZZ": "Akvo-motorsledoj, kiujn rajdantoj povas stiri per si mem",
-            "ca-ES": "Motos d’aigua monoplaça que els passatgers poden conduir."
+            "ca-ES": "Motos d’aigua monoplaça que els passatgers poden conduir.",
+            "fi-FI": "Yksipaikkaiset vesiskootterit, joita matkustajat voivat itse ohjata"
         },
         "capacity": {
             "en-GB": "1 rider per vehicle",
@@ -162,7 +164,8 @@
             "pl-PL": "1 osoba na pojazd",
             "ru-RU": "1 чел",
             "eo-ZZ": "Po 1 rajdanto por veturilo",
-            "ca-ES": "1 passatger per vehicle"
+            "ca-ES": "1 passatger per vehicle",
+            "fi-FI": "1 matkustaja per ajoneuvo"
         }
     }
 }

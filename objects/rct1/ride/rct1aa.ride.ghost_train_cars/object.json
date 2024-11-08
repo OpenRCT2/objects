@@ -201,7 +201,8 @@
             "pl-PL": "Pociąg widmo",
             "ru-RU": "Призрак",
             "eo-ZZ": "Ĉaroj de Fantomo-Trajno",
-            "ca-ES": "Tren de la bruixa"
+            "ca-ES": "Tren de la bruixa",
+            "fi-FI": "Kummitusjunavaunut"
         },
         "description": {
             "en-GB": "Powered monster-shaped cars that run on a ghost train track",
@@ -220,7 +221,8 @@
             "pl-PL": "Napędzane wagoniki o potwornych kształtach jadą po wielopoziomowym torze wśród przerażających dekoracji i efektów specjalnych",
             "ru-RU": "Машинки в виде монстров едут по страшным лабиринтам",
             "eo-ZZ": "Ŝaltitaj monstroformaj ĉaroj, kiuj veturas sur trako de fantomo-trajno",
-            "ca-ES": "Cotxes en forma de monstre que circulen per una via per un escenari fosc i ple d’efectes especials."
+            "ca-ES": "Cotxes en forma de monstre que circulen per una via per un escenari fosc i ple d’efectes especials.",
+            "fi-FI": "Moottoroidut monsterin muotoiset vaunut, jotka kulkevat kummitusjunan radalla"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -239,7 +241,8 @@
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира",
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
-            "ca-ES": "2 passatgers per cotxe"
+            "ca-ES": "2 passatgers per cotxe",
+            "fi-FI": "2 matkustajaa per vaunu"
         }
     }
 }

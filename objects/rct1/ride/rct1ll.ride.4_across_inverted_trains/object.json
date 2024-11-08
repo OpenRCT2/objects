@@ -468,7 +468,8 @@
             "pl-PL": "Kolejka odwrotna",
             "ru-RU": "Перевёрнутые горки",
             "eo-ZZ": "4-horizontalaj Trajnoj de Inversigita Onda Fervojo",
-            "ca-ES": "Muntanya russa invertida amb cotxes de 4 places"
+            "ca-ES": "Muntanya russa invertida amb cotxes de 4 places",
+            "fi-FI": "Nelipaikkaiset käänteisvuoristoradan vaunut"
         },
         "description": {
             "en-GB": "Suspended trains in which riders sit in rows",
@@ -487,7 +488,8 @@
             "pl-PL": "Pasażerowie siedzą w fotelach podwieszonych pod torem, pokonując wielkie pętle, zakręty i zakręcone zjazdy",
             "ru-RU": "Пассажиры сидят под треком и несутся по огромным кольцам с переворотами и падениями.",
             "eo-ZZ": "Penditaj trajnoj, en kiuj rajdantoj sidas en vicoj",
-            "ca-ES": "Vagons penjants on els passatgers seuen per files."
+            "ca-ES": "Vagons penjants on els passatgers seuen per files.",
+            "fi-FI": "Riippuvat vaunut joissa matkustajat istuvat riveittäin"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -506,7 +508,8 @@
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
-            "ca-ES": "4 passatgers per cotxe"
+            "ca-ES": "4 passatgers per cotxe",
+            "fi-FI": "4 matkustajaa per vaunu"
         }
     },
     "noCsgImages": [
