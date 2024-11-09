@@ -60,6 +60,7 @@ def extract_translations(language_to_extract, args, filename, strings_by_object)
     verbose = args.verbose
     reference_str_count = 0
     translated_str_count = 0
+
     with open(filename, encoding="utf8") as file:
         data = json.load(file)
 
@@ -68,8 +69,6 @@ def extract_translations(language_to_extract, args, filename, strings_by_object)
             return (translated_str_count, reference_str_count)
 
         for string_key in data['strings']:
-
-
             if fallback_language in data['strings'][string_key]:
                 fallback_translation = data['strings'][string_key][fallback_language]
             else:
@@ -113,6 +112,9 @@ def dump_translation(language_to_extract, args, dump_file_name):
 
     translation_progress = round(100 * translated_str_count / reference_str_count, 2)
     print(f'{language_to_extract}: {translation_progress}% completeness')
+
+    # Sort output by object ids (dict keys)
+    strings_by_object = dict(sorted(strings_by_object.items()))
 
     out = open(dump_file_name, "w", encoding="utf8")
     json.dump(strings_by_object, out, indent=4, ensure_ascii=False, separators=(',', ': '))
