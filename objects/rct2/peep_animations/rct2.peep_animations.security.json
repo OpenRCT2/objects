@@ -1,0 +1,267 @@
+{
+    "id": "rct2.peep_animations.security",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "peep_animations",
+    "strings": {
+        "name": {
+            "ar-EG": "رجل الأمن",
+            "ca-ES": "Guarda de seguretat",
+            "cs-CZ": "Hlídač",
+            "da-DK": "Sikkerhedsvagt",
+            "de-DE": "Aufseher",
+            "en-GB": "Security Guard",
+            "eo-ZZ": "Gardisto",
+            "es-ES": "Guardia",
+            "fi-FI": "Vartija",
+            "fr-FR": "Agent de sécurité",
+            "gl-ES": "Garda",
+            "hu-HU": "Biztonsági őr",
+            "it-IT": "Vigilante",
+            "ja-JP": "警備員",
+            "ko-KR": "경비원",
+            "nb-NO": "Sikkerhetsvakt",
+            "nl-NL": "Bewaker",
+            "pl-PL": "Strażnik",
+            "pt-BR": "Segurança",
+            "ru-RU": "Охранник",
+            "sv-SE": "Säkerhetsvakt",
+            "tr-TR": "Güvenlik",
+            "uk-UA": "Охоронець",
+            "vi-VN": "Bảo vệ",
+            "zh-CN": "安全警卫",
+            "zh-TW": "安全警衛"
+        }
+    },
+    "images": [
+        "$G1[11881..11886]  // Security.None",
+        "$G1[11905..11905]  // Security.WatchRide",
+        "$G1[11909..11920]  // Security.Hanging",
+        "$G1[11921..11927]  // Security.Drowning",
+        "$G1[11949..11954]  // SecurityAlt.None"
+    ],
+    "animationGroups": [
+        {
+            "debugName": "Security",
+            "animations": {
+                "None": {
+                    "offset": 0,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                "WatchRide": {
+                    "offset": 6,
+                    "sequence": [
+                        0
+                    ]
+                },
+                "Hanging": {
+                    "offset": 7,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11
+                    ]
+                },
+                "Drowning": {
+                    "offset": 19,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        4,
+                        5,
+                        6
+                    ]
+                }
+            }
+        },
+        {
+            "debugName": "SecurityAlt",
+            "animations": {
+                "None": {
+                    "offset": 26,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                "WatchRide": {
+                    "offset": 6,
+                    "sequence": [
+                        0
+                    ]
+                },
+                "Hanging": {
+                    "offset": 7,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11
+                    ]
+                },
+                "Drowning": {
+                    "offset": 19,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        4,
+                        5,
+                        6
+                    ]
+                }
+            }
+        }
+    ]
+}
