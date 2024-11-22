@@ -762,7 +762,8 @@
             "ja-JP": "立ち乗りローラーコースター",
             "pl-PL": "Stojąca kolejka",
             "ru-RU": "Стоячие горки",
-            "eo-ZZ": "Stariĝantaj Trajnoj de Onda Fervojo"
+            "eo-ZZ": "Stariĝantaj Trajnoj de Onda Fervojo",
+            "ca-ES": "Muntanya russa a peu dret"
         },
         "description": {
             "en-GB": "Roller coaster trains in which the riders ride in a standing position",
@@ -780,7 +781,8 @@
             "ja-JP": "立ち乗りの、ループローラーコースターです",
             "pl-PL": "Zapętlona kolejka, w której pasażerowie jadą w pozycji stojącej",
             "ru-RU": "Кольцевые горки, где люди катаются стоя.",
-            "eo-ZZ": "Trajnoj de onda fervojo, en kiuj la rajdantoj rajdas en staranta pozicio"
+            "eo-ZZ": "Trajnoj de onda fervojo, en kiuj la rajdantoj rajdas en staranta pozicio",
+            "ca-ES": "Muntanya russa amb trens en els quals els passatgers van drets."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -798,7 +800,8 @@
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "ca-ES": "4 passatgers per cotxe"
         }
     }
 }
