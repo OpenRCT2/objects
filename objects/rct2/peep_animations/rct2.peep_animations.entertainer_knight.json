@@ -40,18 +40,19 @@
         }
     },
     "images": [
-        "$G1[12893..12893]  // EntertainerKnight.WatchRide",
-        "$G1[12897..12902]  // EntertainerKnight.None",
-        "$G1[12921..12935]  // EntertainerKnight.Drowning",
+        "$G1[5124..5124]  // Inline sprite id",
+        "$G1[12893..12896]  // EntertainerKnight.WatchRide",
+        "$G1[12897..12920]  // EntertainerKnight.None",
+        "$G1[12921..12980]  // EntertainerKnight.Drowning",
         "$G1[12981..12992]  // EntertainerKnight.Hanging",
-        "$G1[12993..13020]  // EntertainerKnight.EatFood"
+        "$G1[12993..13104]  // EntertainerKnight.EatFood"
     ],
     "animationGroups": [
         {
             "debugName": "EntertainerKnight",
             "animations": {
                 "None": {
-                    "offset": 1,
+                    "offset": 5,
                     "sequence": [
                         0,
                         1,
@@ -62,13 +63,13 @@
                     ]
                 },
                 "WatchRide": {
-                    "offset": 0,
+                    "offset": 1,
                     "sequence": [
                         0
                     ]
                 },
                 "EatFood": {
-                    "offset": 34,
+                    "offset": 101,
                     "sequence": [
                         0,
                         1,
@@ -120,7 +121,7 @@
                     ]
                 },
                 "Hanging": {
-                    "offset": 22,
+                    "offset": 89,
                     "sequence": [
                         0,
                         1,
@@ -137,7 +138,7 @@
                     ]
                 },
                 "Drowning": {
-                    "offset": 7,
+                    "offset": 29,
                     "sequence": [
                         0,
                         1,
@@ -208,7 +209,7 @@
                     ]
                 },
                 "Joy": {
-                    "offset": 34,
+                    "offset": 101,
                     "sequence": [
                         0,
                         1,
@@ -260,7 +261,7 @@
                     ]
                 },
                 "Wave2": {
-                    "offset": 34,
+                    "offset": 101,
                     "sequence": [
                         0,
                         1,

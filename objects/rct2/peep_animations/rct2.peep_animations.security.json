@@ -40,18 +40,19 @@
         }
     },
     "images": [
-        "$G1[11881..11886]  // Security.None",
-        "$G1[11905..11905]  // Security.WatchRide",
+        "$G1[5096..5096]  // Inline sprite id",
+        "$G1[11881..11904]  // Security.None",
+        "$G1[11905..11908]  // Security.WatchRide",
         "$G1[11909..11920]  // Security.Hanging",
-        "$G1[11921..11927]  // Security.Drowning",
-        "$G1[11949..11954]  // SecurityAlt.None"
+        "$G1[11921..11948]  // Security.Drowning",
+        "$G1[11949..11972]  // SecurityAlt.None"
     ],
     "animationGroups": [
         {
             "debugName": "Security",
             "animations": {
                 "None": {
-                    "offset": 0,
+                    "offset": 1,
                     "sequence": [
                         0,
                         1,
@@ -62,13 +63,13 @@
                     ]
                 },
                 "WatchRide": {
-                    "offset": 6,
+                    "offset": 25,
                     "sequence": [
                         0
                     ]
                 },
                 "Hanging": {
-                    "offset": 7,
+                    "offset": 29,
                     "sequence": [
                         0,
                         1,
@@ -85,7 +86,7 @@
                     ]
                 },
                 "Drowning": {
-                    "offset": 19,
+                    "offset": 41,
                     "sequence": [
                         0,
                         1,
@@ -159,7 +160,7 @@
             "debugName": "SecurityAlt",
             "animations": {
                 "None": {
-                    "offset": 26,
+                    "offset": 69,
                     "sequence": [
                         0,
                         1,
@@ -170,13 +171,13 @@
                     ]
                 },
                 "WatchRide": {
-                    "offset": 6,
+                    "offset": 25,
                     "sequence": [
                         0
                     ]
                 },
                 "Hanging": {
-                    "offset": 7,
+                    "offset": 29,
                     "sequence": [
                         0,
                         1,
@@ -193,7 +194,7 @@
                     ]
                 },
                 "Drowning": {
-                    "offset": 19,
+                    "offset": 41,
                     "sequence": [
                         0,
                         1,

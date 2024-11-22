@@ -40,10 +40,11 @@
         }
     },
     "images": [
-        "$G1[12677..12677]  // EntertainerSnowman.WatchRide",
-        "$G1[12681..12686]  // EntertainerSnowman.None",
-        "$G1[12705..12738]  // EntertainerSnowman.EatFood",
-        "$G1[12841..12850]  // EntertainerSnowman.Drowning",
+        "$G1[5123..5123]  // Inline sprite id",
+        "$G1[12677..12680]  // EntertainerSnowman.WatchRide",
+        "$G1[12681..12704]  // EntertainerSnowman.None",
+        "$G1[12705..12840]  // EntertainerSnowman.EatFood",
+        "$G1[12841..12880]  // EntertainerSnowman.Drowning",
         "$G1[12881..12892]  // EntertainerSnowman.Hanging"
     ],
     "animationGroups": [
@@ -51,7 +52,7 @@
             "debugName": "EntertainerSnowman",
             "animations": {
                 "None": {
-                    "offset": 1,
+                    "offset": 5,
                     "sequence": [
                         0,
                         1,
@@ -62,13 +63,13 @@
                     ]
                 },
                 "WatchRide": {
-                    "offset": 0,
+                    "offset": 1,
                     "sequence": [
                         0
                     ]
                 },
                 "EatFood": {
-                    "offset": 7,
+                    "offset": 29,
                     "sequence": [
                         0,
                         1,
@@ -138,7 +139,7 @@
                     ]
                 },
                 "Hanging": {
-                    "offset": 51,
+                    "offset": 205,
                     "sequence": [
                         0,
                         1,
@@ -155,7 +156,7 @@
                     ]
                 },
                 "Drowning": {
-                    "offset": 41,
+                    "offset": 165,
                     "sequence": [
                         0,
                         1,
@@ -222,7 +223,7 @@
                     ]
                 },
                 "Joy": {
-                    "offset": 7,
+                    "offset": 29,
                     "sequence": [
                         0,
                         1,
@@ -292,7 +293,7 @@
                     ]
                 },
                 "Wave2": {
-                    "offset": 7,
+                    "offset": 29,
                     "sequence": [
                         0,
                         1,

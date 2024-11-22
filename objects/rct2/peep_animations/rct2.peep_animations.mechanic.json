@@ -40,39 +40,40 @@
         }
     },
     "images": [
-        "$G1[6561..6566]  // Mechanic.HoldMat",
-        "$G1[6585..6593]  // Mechanic.CheckTime",
-        "$G1[6625..6625]  // Mechanic.SittingIdle",
-        "$G1[6629..6630]  // Mechanic.SittingEatFood",
-        "$G1[6637..6638]  // Mechanic.SittingLookAroundLeft",
-        "$G1[6645..6646]  // Mechanic.SittingLookAroundRight",
-        "$G1[6653..6663]  // Mechanic.EatFood",
-        "$G1[6697..6711]  // Mechanic.ShakeHead",
-        "$G1[6757..6770]  // Mechanic.EmptyPockets",
-        "$G1[6825..6829]  // Mechanic.Wow",
-        "$G1[6845..6860]  // Mechanic.ThrowUp",
-        "$G1[6909..6920]  // Mechanic.Jump",
-        "$G1[6989..7001]  // Mechanic.Joy",
-        "$G1[7041..7055]  // Mechanic.ReadMap",
-        "$G1[7101..7105]  // Mechanic.Wave",
-        "$G1[7121..7127]  // Mechanic.Wave2",
-        "$G1[7149..7156]  // Mechanic.TakePhoto",
-        "$G1[7181..7196]  // Mechanic.WithdrawMoney",
-        "$G1[7249..7257]  // Mechanic.Clap",
-        "$G1[7285..7290]  // Mechanic.BeingWatched",
-        "$G1[7309..7313]  // Mechanic.Disgust",
-        "$G1[7329..7345]  // Mechanic.DrawPicture",
-        "$G1[11441..11446]  // Mechanic.None",
-        "$G1[11465..11465]  // Mechanic.WatchRide",
+        "$G1[5116..5116]  // Inline sprite id",
+        "$G1[6561..6584]  // Mechanic.HoldMat",
+        "$G1[6585..6620]  // Mechanic.CheckTime",
+        "$G1[6625..6628]  // Mechanic.SittingIdle",
+        "$G1[6629..6636]  // Mechanic.SittingEatFood",
+        "$G1[6637..6644]  // Mechanic.SittingLookAroundLeft",
+        "$G1[6645..6652]  // Mechanic.SittingLookAroundRight",
+        "$G1[6653..6696]  // Mechanic.EatFood",
+        "$G1[6697..6756]  // Mechanic.ShakeHead",
+        "$G1[6757..6812]  // Mechanic.EmptyPockets",
+        "$G1[6825..6844]  // Mechanic.Wow",
+        "$G1[6845..6908]  // Mechanic.ThrowUp",
+        "$G1[6909..6956]  // Mechanic.Jump",
+        "$G1[6989..7040]  // Mechanic.Joy",
+        "$G1[7041..7100]  // Mechanic.ReadMap",
+        "$G1[7101..7120]  // Mechanic.Wave",
+        "$G1[7121..7148]  // Mechanic.Wave2",
+        "$G1[7149..7180]  // Mechanic.TakePhoto",
+        "$G1[7181..7244]  // Mechanic.WithdrawMoney",
+        "$G1[7249..7284]  // Mechanic.Clap",
+        "$G1[7285..7308]  // Mechanic.BeingWatched",
+        "$G1[7309..7328]  // Mechanic.Disgust",
+        "$G1[7329..7396]  // Mechanic.DrawPicture",
+        "$G1[11441..11464]  // Mechanic.None",
+        "$G1[11465..11468]  // Mechanic.WatchRide",
         "$G1[11469..11480]  // Mechanic.Hanging",
-        "$G1[11481..11488]  // Mechanic.Drowning"
+        "$G1[11481..11512]  // Mechanic.Drowning"
     ],
     "animationGroups": [
         {
             "debugName": "Mechanic",
             "animations": {
                 "None": {
-                    "offset": 196,
+                    "offset": 785,
                     "sequence": [
                         0,
                         1,
@@ -83,7 +84,7 @@
                     ]
                 },
                 "CheckTime": {
-                    "offset": 6,
+                    "offset": 25,
                     "sequence": [
                         0,
                         1,
@@ -104,13 +105,13 @@
                     ]
                 },
                 "WatchRide": {
-                    "offset": 202,
+                    "offset": 809,
                     "sequence": [
                         0
                     ]
                 },
                 "EatFood": {
-                    "offset": 22,
+                    "offset": 89,
                     "sequence": [
                         0,
                         1,
@@ -139,7 +140,7 @@
                     ]
                 },
                 "ShakeHead": {
-                    "offset": 33,
+                    "offset": 133,
                     "sequence": [
                         0,
                         1,
@@ -164,7 +165,7 @@
                     ]
                 },
                 "EmptyPockets": {
-                    "offset": 48,
+                    "offset": 193,
                     "sequence": [
                         0,
                         1,
@@ -183,7 +184,7 @@
                     ]
                 },
                 "HoldMat": {
-                    "offset": 0,
+                    "offset": 1,
                     "sequence": [
                         0,
                         1,
@@ -194,13 +195,13 @@
                     ]
                 },
                 "SittingIdle": {
-                    "offset": 15,
+                    "offset": 61,
                     "sequence": [
                         0
                     ]
                 },
                 "SittingEatFood": {
-                    "offset": 16,
+                    "offset": 65,
                     "sequence": [
                         0,
                         1,
@@ -231,7 +232,7 @@
                     ]
                 },
                 "SittingLookAroundLeft": {
-                    "offset": 18,
+                    "offset": 73,
                     "sequence": [
                         0,
                         0,
@@ -252,7 +253,7 @@
                     ]
                 },
                 "SittingLookAroundRight": {
-                    "offset": 20,
+                    "offset": 81,
                     "sequence": [
                         0,
                         0,
@@ -273,7 +274,7 @@
                     ]
                 },
                 "Hanging": {
-                    "offset": 203,
+                    "offset": 813,
                     "sequence": [
                         0,
                         1,
@@ -290,7 +291,7 @@
                     ]
                 },
                 "Wow": {
-                    "offset": 62,
+                    "offset": 249,
                     "sequence": [
                         0,
                         1,
@@ -305,7 +306,7 @@
                     ]
                 },
                 "ThrowUp": {
-                    "offset": 67,
+                    "offset": 269,
                     "sequence": [
                         8,
                         8,
@@ -343,7 +344,7 @@
                     ]
                 },
                 "Jump": {
-                    "offset": 83,
+                    "offset": 333,
                     "sequence": [
                         0,
                         0,
@@ -372,7 +373,7 @@
                     ]
                 },
                 "Drowning": {
-                    "offset": 215,
+                    "offset": 825,
                     "sequence": [
                         0,
                         1,
@@ -442,7 +443,7 @@
                     ]
                 },
                 "Joy": {
-                    "offset": 95,
+                    "offset": 381,
                     "sequence": [
                         0,
                         1,
@@ -460,7 +461,7 @@
                     ]
                 },
                 "ReadMap": {
-                    "offset": 108,
+                    "offset": 433,
                     "sequence": [
                         0,
                         1,
@@ -506,7 +507,7 @@
                     ]
                 },
                 "Wave": {
-                    "offset": 123,
+                    "offset": 493,
                     "sequence": [
                         0,
                         1,
@@ -531,7 +532,7 @@
                     ]
                 },
                 "Wave2": {
-                    "offset": 128,
+                    "offset": 513,
                     "sequence": [
                         0,
                         1,
@@ -561,7 +562,7 @@
                     ]
                 },
                 "TakePhoto": {
-                    "offset": 135,
+                    "offset": 541,
                     "sequence": [
                         0,
                         1,
@@ -589,7 +590,7 @@
                     ]
                 },
                 "Clap": {
-                    "offset": 159,
+                    "offset": 637,
                     "sequence": [
                         0,
                         1,
@@ -766,7 +767,7 @@
                     ]
                 },
                 "Disgust": {
-                    "offset": 174,
+                    "offset": 697,
                     "sequence": [
                         0,
                         1,
@@ -787,7 +788,7 @@
                     ]
                 },
                 "DrawPicture": {
-                    "offset": 179,
+                    "offset": 717,
                     "sequence": [
                         0,
                         1,
@@ -862,7 +863,7 @@
                     ]
                 },
                 "BeingWatched": {
-                    "offset": 168,
+                    "offset": 673,
                     "sequence": [
                         0,
                         1,
@@ -880,7 +881,7 @@
                     ]
                 },
                 "WithdrawMoney": {
-                    "offset": 143,
+                    "offset": 573,
                     "sequence": [
                         0,
                         1,
