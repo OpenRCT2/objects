@@ -41,20 +41,20 @@
     },
     "images": [
         "$G1[5116..5116]  // Inline sprite id",
-        "$G1[11441..11464]  // Mechanic.None",
-        "$G1[11465..11468]  // Mechanic.WatchRide",
-        "$G1[11469..11480]  // Mechanic.Hanging",
-        "$G1[11481..11512]  // Mechanic.Drowning",
-        "$G1[11513..11596]  // Mechanic.StaffAnswerCall",
-        "$G1[11597..11668]  // Mechanic.StaffCheckBoard",
-        "$G1[11669..11740]  // Mechanic.StaffFix",
-        "$G1[11801..11880]  // Mechanic.StaffFixGround"
+        "$G1[11441..11464]  // Mechanic.walking",
+        "$G1[11465..11468]  // Mechanic.watchRide",
+        "$G1[11469..11516]  // Mechanic.hanging",
+        "$G1[11481..11512]  // Mechanic.drowning",
+        "$G1[11513..11596]  // Mechanic.staffAnswerCall",
+        "$G1[11597..11668]  // Mechanic.staffCheckBoard",
+        "$G1[11669..11740]  // Mechanic.staffFix",
+        "$G1[11801..11880]  // Mechanic.staffFixGround"
     ],
     "animationGroups": [
         {
             "debugName": "Mechanic",
             "animations": {
-                "None": {
+                "walking": {
                     "offset": 1,
                     "sequence": [
                         0,
@@ -65,13 +65,13 @@
                         5
                     ]
                 },
-                "WatchRide": {
+                "watchRide": {
                     "offset": 25,
                     "sequence": [
                         0
                     ]
                 },
-                "Hanging": {
+                "hanging": {
                     "offset": 29,
                     "sequence": [
                         0,
@@ -88,8 +88,8 @@
                         11
                     ]
                 },
-                "Drowning": {
-                    "offset": 41,
+                "drowning": {
+                    "offset": 77,
                     "sequence": [
                         0,
                         1,
@@ -158,8 +158,8 @@
                         7
                     ]
                 },
-                "StaffAnswerCall": {
-                    "offset": 73,
+                "staffAnswerCall": {
+                    "offset": 109,
                     "sequence": [
                         0,
                         1,
@@ -248,8 +248,8 @@
                         0
                     ]
                 },
-                "StaffAnswerCall2": {
-                    "offset": 73,
+                "staffAnswerCall2": {
+                    "offset": 109,
                     "sequence": [
                         0,
                         1,
@@ -312,8 +312,8 @@
                         0
                     ]
                 },
-                "StaffCheckBoard": {
-                    "offset": 157,
+                "staffCheckBoard": {
+                    "offset": 193,
                     "sequence": [
                         0,
                         1,
@@ -360,8 +360,8 @@
                         0
                     ]
                 },
-                "StaffFix": {
-                    "offset": 229,
+                "staffFix": {
+                    "offset": 265,
                     "sequence": [
                         0,
                         1,
@@ -418,8 +418,8 @@
                         0
                     ]
                 },
-                "StaffFix2": {
-                    "offset": 229,
+                "staffFix2": {
+                    "offset": 265,
                     "sequence": [
                         0,
                         1,
@@ -522,8 +522,8 @@
                         0
                     ]
                 },
-                "StaffFixGround": {
-                    "offset": 301,
+                "staffFixGround": {
+                    "offset": 337,
                     "sequence": [
                         0,
                         1,
@@ -588,8 +588,8 @@
                         0
                     ]
                 },
-                "StaffFix3": {
-                    "offset": 229,
+                "staffFix3": {
+                    "offset": 265,
                     "sequence": [
                         0,
                         1,

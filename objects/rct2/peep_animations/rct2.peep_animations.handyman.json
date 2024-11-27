@@ -41,20 +41,20 @@
     },
     "images": [
         "$G1[5111..5111]  // Inline sprite id",
-        "$G1[11261..11284]  // Handyman.None",
-        "$G1[11285..11288]  // Handyman.WatchRide",
-        "$G1[11289..11300]  // Handyman.Hanging",
-        "$G1[11301..11324]  // Handyman.StaffMower",
-        "$G1[11325..11344]  // Handyman.StaffSweep",
-        "$G1[11345..11376]  // Handyman.Drowning",
-        "$G1[11377..11400]  // Handyman.StaffWatering",
-        "$G1[11401..11440]  // Handyman.StaffEmptyBin"
+        "$G1[11261..11284]  // Handyman.walking",
+        "$G1[11285..11288]  // Handyman.watchRide",
+        "$G1[11289..11336]  // Handyman.hanging",
+        "$G1[11301..11324]  // Handyman.staffMower",
+        "$G1[11325..11344]  // Handyman.staffSweep",
+        "$G1[11345..11376]  // Handyman.drowning",
+        "$G1[11377..11400]  // Handyman.staffWatering",
+        "$G1[11401..11440]  // Handyman.staffEmptyBin"
     ],
     "animationGroups": [
         {
             "debugName": "Handyman",
             "animations": {
-                "None": {
+                "walking": {
                     "offset": 1,
                     "sequence": [
                         0,
@@ -65,13 +65,13 @@
                         5
                     ]
                 },
-                "WatchRide": {
+                "watchRide": {
                     "offset": 25,
                     "sequence": [
                         0
                     ]
                 },
-                "Hanging": {
+                "hanging": {
                     "offset": 29,
                     "sequence": [
                         0,
@@ -88,8 +88,8 @@
                         11
                     ]
                 },
-                "StaffMower": {
-                    "offset": 41,
+                "staffMower": {
+                    "offset": 77,
                     "sequence": [
                         0,
                         1,
@@ -99,8 +99,8 @@
                         5
                     ]
                 },
-                "StaffSweep": {
-                    "offset": 65,
+                "staffSweep": {
+                    "offset": 101,
                     "sequence": [
                         0,
                         1,
@@ -129,8 +129,8 @@
                         4
                     ]
                 },
-                "Drowning": {
-                    "offset": 85,
+                "drowning": {
+                    "offset": 121,
                     "sequence": [
                         0,
                         1,
@@ -199,8 +199,8 @@
                         7
                     ]
                 },
-                "StaffWatering": {
-                    "offset": 117,
+                "staffWatering": {
+                    "offset": 153,
                     "sequence": [
                         0,
                         1,
@@ -222,8 +222,8 @@
                         0
                     ]
                 },
-                "StaffEmptyBin": {
-                    "offset": 141,
+                "staffEmptyBin": {
+                    "offset": 177,
                     "sequence": [
                         0,
                         1,

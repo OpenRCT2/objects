@@ -41,17 +41,17 @@
     },
     "images": [
         "$G1[5125..5125]  // Inline sprite id",
-        "$G1[13765..13768]  // EntertainerAstronaut.WatchRide",
-        "$G1[13769..13792]  // EntertainerAstronaut.None",
-        "$G1[13793..13844]  // EntertainerAstronaut.Drowning",
-        "$G1[13845..13856]  // EntertainerAstronaut.Hanging",
-        "$G1[13857..13896]  // EntertainerAstronaut.EatFood"
+        "$G1[13765..13768]  // EntertainerAstronaut.watchRide",
+        "$G1[13769..13792]  // EntertainerAstronaut.walking",
+        "$G1[13793..13844]  // EntertainerAstronaut.drowning",
+        "$G1[13845..13892]  // EntertainerAstronaut.hanging",
+        "$G1[13857..13896]  // EntertainerAstronaut.eatFood"
     ],
     "animationGroups": [
         {
             "debugName": "EntertainerAstronaut",
             "animations": {
-                "None": {
+                "walking": {
                     "offset": 5,
                     "sequence": [
                         0,
@@ -62,14 +62,14 @@
                         5
                     ]
                 },
-                "WatchRide": {
+                "watchRide": {
                     "offset": 1,
                     "sequence": [
                         0
                     ]
                 },
-                "EatFood": {
-                    "offset": 93,
+                "eatFood": {
+                    "offset": 129,
                     "sequence": [
                         0,
                         1,
@@ -92,7 +92,7 @@
                         0
                     ]
                 },
-                "Hanging": {
+                "hanging": {
                     "offset": 81,
                     "sequence": [
                         0,
@@ -109,7 +109,7 @@
                         11
                     ]
                 },
-                "Drowning": {
+                "drowning": {
                     "offset": 29,
                     "sequence": [
                         0,
@@ -177,8 +177,8 @@
                         12
                     ]
                 },
-                "Joy": {
-                    "offset": 93,
+                "joy": {
+                    "offset": 129,
                     "sequence": [
                         0,
                         1,
@@ -201,8 +201,8 @@
                         0
                     ]
                 },
-                "Wave2": {
-                    "offset": 93,
+                "wave2": {
+                    "offset": 129,
                     "sequence": [
                         0,
                         1,
