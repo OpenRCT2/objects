@@ -51,6 +51,7 @@
     "animationGroups": [
         {
             "debugName": "EntertainerKnight",
+            "legacyPosition": 10,
             "animations": {
                 "walking": {
                     "offset": 5,

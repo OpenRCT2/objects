@@ -51,6 +51,7 @@
     "animationGroups": [
         {
             "debugName": "EntertainerSheriff",
+            "legacyPosition": 13,
             "animations": {
                 "walking": {
                     "offset": 5,

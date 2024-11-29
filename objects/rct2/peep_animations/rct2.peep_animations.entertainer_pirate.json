@@ -51,6 +51,7 @@
     "animationGroups": [
         {
             "debugName": "EntertainerPirate",
+            "legacyPosition": 14,
             "animations": {
                 "walking": {
                     "offset": 5,

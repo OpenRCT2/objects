@@ -51,6 +51,7 @@
     "animationGroups": [
         {
             "debugName": "EntertainerGorilla",
+            "legacyPosition": 8,
             "animations": {
                 "walking": {
                     "offset": 5,

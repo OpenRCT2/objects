@@ -51,6 +51,7 @@
     "animationGroups": [
         {
             "debugName": "EntertainerAstronaut",
+            "legacyPosition": 11,
             "animations": {
                 "walking": {
                     "offset": 5,

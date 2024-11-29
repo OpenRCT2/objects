@@ -52,6 +52,7 @@
     "animationGroups": [
         {
             "debugName": "EntertainerPanda",
+            "legacyPosition": 4,
             "animations": {
                 "walking": {
                     "offset": 1,

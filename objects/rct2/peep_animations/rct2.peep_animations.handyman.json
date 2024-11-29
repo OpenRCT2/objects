@@ -54,6 +54,7 @@
     "animationGroups": [
         {
             "debugName": "Handyman",
+            "legacyPosition": 1,
             "animations": {
                 "walking": {
                     "offset": 1,

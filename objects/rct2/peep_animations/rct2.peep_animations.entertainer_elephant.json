@@ -52,6 +52,7 @@
     "animationGroups": [
         {
             "debugName": "EntertainerElephant",
+            "legacyPosition": 6,
             "animations": {
                 "walking": {
                     "offset": 1,

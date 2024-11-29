@@ -51,6 +51,7 @@
     "animationGroups": [
         {
             "debugName": "EntertainerSnowman",
+            "legacyPosition": 9,
             "animations": {
                 "walking": {
                     "offset": 5,

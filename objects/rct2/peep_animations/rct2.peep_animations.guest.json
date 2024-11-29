@@ -180,6 +180,7 @@
     "animationGroups": [
         {
             "debugName": "Normal",
+            "legacyPosition": 0,
             "animations": {
                 "walking": {
                     "offset": 1,
@@ -1031,6 +1032,7 @@
         },
         {
             "debugName": "IceCream",
+            "legacyPosition": 15,
             "animations": {
                 "walking": {
                     "offset": 1133,
@@ -1880,6 +1882,7 @@
         },
         {
             "debugName": "Chips",
+            "legacyPosition": 16,
             "animations": {
                 "walking": {
                     "offset": 1237,
@@ -2735,6 +2738,7 @@
         },
         {
             "debugName": "Burger",
+            "legacyPosition": 17,
             "animations": {
                 "walking": {
                     "offset": 2013,
@@ -3590,6 +3594,7 @@
         },
         {
             "debugName": "Drink",
+            "legacyPosition": 18,
             "animations": {
                 "walking": {
                     "offset": 2341,
@@ -4457,6 +4462,7 @@
         },
         {
             "debugName": "Balloon",
+            "legacyPosition": 19,
             "animations": {
                 "walking": {
                     "offset": 3461,
@@ -5308,6 +5314,7 @@
         },
         {
             "debugName": "Candyfloss",
+            "legacyPosition": 20,
             "animations": {
                 "walking": {
                     "offset": 3493,
@@ -6163,6 +6170,7 @@
         },
         {
             "debugName": "Umbrella",
+            "legacyPosition": 21,
             "animations": {
                 "walking": {
                     "offset": 3841,
@@ -7014,6 +7022,7 @@
         },
         {
             "debugName": "Pizza",
+            "legacyPosition": 22,
             "animations": {
                 "walking": {
                     "offset": 1413,
@@ -7851,6 +7860,7 @@
         },
         {
             "debugName": "Popcorn",
+            "legacyPosition": 24,
             "animations": {
                 "walking": {
                     "offset": 3669,
@@ -8706,6 +8716,7 @@
         },
         {
             "debugName": "ArmsCrossed",
+            "legacyPosition": 25,
             "animations": {
                 "walking": {
                     "offset": 25,
@@ -9557,6 +9568,7 @@
         },
         {
             "debugName": "HeadDown",
+            "legacyPosition": 26,
             "animations": {
                 "walking": {
                     "offset": 49,
@@ -10408,6 +10420,7 @@
         },
         {
             "debugName": "Nauseous",
+            "legacyPosition": 27,
             "animations": {
                 "walking": {
                     "offset": 73,
@@ -11259,6 +11272,7 @@
         },
         {
             "debugName": "VeryNauseous",
+            "legacyPosition": 28,
             "animations": {
                 "walking": {
                     "offset": 97,
@@ -12110,6 +12124,7 @@
         },
         {
             "debugName": "RequireToilet",
+            "legacyPosition": 29,
             "animations": {
                 "walking": {
                     "offset": 129,
@@ -12961,6 +12976,7 @@
         },
         {
             "debugName": "Hat",
+            "legacyPosition": 30,
             "animations": {
                 "walking": {
                     "offset": 3429,
@@ -13812,6 +13828,7 @@
         },
         {
             "debugName": "HotDog",
+            "legacyPosition": 31,
             "animations": {
                 "walking": {
                     "offset": 1517,
@@ -14667,6 +14684,7 @@
         },
         {
             "debugName": "Tentacle",
+            "legacyPosition": 32,
             "animations": {
                 "walking": {
                     "offset": 1693,
@@ -15558,6 +15576,7 @@
         },
         {
             "debugName": "ToffeeApple",
+            "legacyPosition": 33,
             "animations": {
                 "walking": {
                     "offset": 1029,
@@ -16407,6 +16426,7 @@
         },
         {
             "debugName": "Donut",
+            "legacyPosition": 34,
             "animations": {
                 "walking": {
                     "offset": 2189,
@@ -17261,6 +17281,7 @@
         },
         {
             "debugName": "Coffee",
+            "legacyPosition": 35,
             "animations": {
                 "walking": {
                     "offset": 2513,
@@ -18128,6 +18149,7 @@
         },
         {
             "debugName": "Chicken",
+            "legacyPosition": 36,
             "animations": {
                 "walking": {
                     "offset": 2593,
@@ -18995,6 +19017,7 @@
         },
         {
             "debugName": "Lemonade",
+            "legacyPosition": 37,
             "animations": {
                 "walking": {
                     "offset": 2673,
@@ -19862,6 +19885,7 @@
         },
         {
             "debugName": "Watching",
+            "legacyPosition": 38,
             "animations": {
                 "walking": {
                     "offset": 1,
@@ -20713,6 +20737,7 @@
         },
         {
             "debugName": "Pretzel",
+            "legacyPosition": 39,
             "animations": {
                 "walking": {
                     "offset": 2753,
@@ -21580,6 +21605,7 @@
         },
         {
             "debugName": "Sunglasses",
+            "legacyPosition": 40,
             "animations": {
                 "walking": {
                     "offset": 3393,
@@ -22431,6 +22457,7 @@
         },
         {
             "debugName": "SuJongkwa",
+            "legacyPosition": 41,
             "animations": {
                 "walking": {
                     "offset": 2833,
@@ -23298,6 +23325,7 @@
         },
         {
             "debugName": "Juice",
+            "legacyPosition": 42,
             "animations": {
                 "walking": {
                     "offset": 2913,
@@ -24165,6 +24193,7 @@
         },
         {
             "debugName": "FunnelCake",
+            "legacyPosition": 43,
             "animations": {
                 "walking": {
                     "offset": 2993,
@@ -25032,6 +25061,7 @@
         },
         {
             "debugName": "Noodles",
+            "legacyPosition": 44,
             "animations": {
                 "walking": {
                     "offset": 3073,
@@ -25899,6 +25929,7 @@
         },
         {
             "debugName": "Sausage",
+            "legacyPosition": 45,
             "animations": {
                 "walking": {
                     "offset": 3153,
@@ -26766,6 +26797,7 @@
         },
         {
             "debugName": "Soup",
+            "legacyPosition": 46,
             "animations": {
                 "walking": {
                     "offset": 3233,
@@ -27633,6 +27665,7 @@
         },
         {
             "debugName": "Sandwich",
+            "legacyPosition": 47,
             "animations": {
                 "walking": {
                     "offset": 3313,

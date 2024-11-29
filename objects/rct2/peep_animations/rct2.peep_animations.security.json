@@ -51,6 +51,7 @@
     "animationGroups": [
         {
             "debugName": "Security",
+            "legacyPosition": 3,
             "animations": {
                 "walking": {
                     "offset": 1,
@@ -159,6 +160,7 @@
         },
         {
             "debugName": "SecurityAlt",
+            "legacyPosition": 23,
             "animations": {
                 "walking": {
                     "offset": 105,

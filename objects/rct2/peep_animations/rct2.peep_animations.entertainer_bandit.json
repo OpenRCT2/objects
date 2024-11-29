@@ -51,6 +51,7 @@
     "animationGroups": [
         {
             "debugName": "EntertainerBandit",
+            "legacyPosition": 12,
             "animations": {
                 "walking": {
                     "offset": 5,

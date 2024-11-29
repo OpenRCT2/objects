@@ -52,6 +52,7 @@
     "animationGroups": [
         {
             "debugName": "EntertainerRoman",
+            "legacyPosition": 7,
             "animations": {
                 "walking": {
                     "offset": 1,
