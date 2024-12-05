@@ -10,6 +10,7 @@
     ],
     "objectType": "peep_animations",
     "peepType": "entertainer",
+    "isSlowWalking": false,
     "strings": {
         "name": {
             "ar-EG": "Panda costume",

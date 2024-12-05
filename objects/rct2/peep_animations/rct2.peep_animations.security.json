@@ -10,6 +10,7 @@
     ],
     "objectType": "peep_animations",
     "peepType": "security",
+    "isSlowWalking": false,
     "strings": {
         "name": {
             "ar-EG": "رجل الأمن",

@@ -10,6 +10,7 @@
     ],
     "objectType": "peep_animations",
     "peepType": "mechanic",
+    "isSlowWalking": false,
     "strings": {
         "name": {
             "ar-EG": "ميكانيكي",

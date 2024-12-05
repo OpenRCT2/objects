@@ -10,6 +10,7 @@
     ],
     "objectType": "peep_animations",
     "peepType": "handyman",
+    "isSlowWalking": false,
     "strings": {
         "name": {
             "ar-EG": "رجل مساعد",

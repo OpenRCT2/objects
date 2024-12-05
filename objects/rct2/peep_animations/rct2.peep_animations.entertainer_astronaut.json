@@ -10,6 +10,7 @@
     ],
     "objectType": "peep_animations",
     "peepType": "entertainer",
+    "isSlowWalking": true,
     "strings": {
         "name": {
             "ar-EG": "Astronaut costume",
