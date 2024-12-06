@@ -45,7 +45,7 @@
         "$G1[5120..5120]  // Inline sprite id",
         "$G1[12325..12348]  // EntertainerElephant.walking",
         "$G1[12349..12352]  // EntertainerElephant.watchRide",
-        "$G1[12353..12400]  // EntertainerElephant.hanging",
+        "$G1[12353..12364]  // EntertainerElephant.hanging",
         "$G1[12365..12392]  // EntertainerElephant.eatFood",
         "$G1[12393..12432]  // EntertainerElephant.drowning",
         "$G1[12433..12544]  // EntertainerElephant.joy"
@@ -73,7 +73,7 @@
                     ]
                 },
                 "eatFood": {
-                    "offset": 77,
+                    "offset": 41,
                     "sequence": [
                         0,
                         1,
@@ -120,7 +120,7 @@
                     ]
                 },
                 "drowning": {
-                    "offset": 105,
+                    "offset": 69,
                     "sequence": [
                         0,
                         1,
@@ -192,7 +192,7 @@
                     ]
                 },
                 "joy": {
-                    "offset": 145,
+                    "offset": 109,
                     "sequence": [
                         0,
                         1,
@@ -276,7 +276,7 @@
                     ]
                 },
                 "wave2": {
-                    "offset": 77,
+                    "offset": 41,
                     "sequence": [
                         0,
                         1,

@@ -45,7 +45,7 @@
         "$G1[5121..5121]  // Inline sprite id",
         "$G1[13897..13920]  // EntertainerRoman.walking",
         "$G1[13921..13924]  // EntertainerRoman.watchRide",
-        "$G1[13925..13972]  // EntertainerRoman.hanging",
+        "$G1[13925..13936]  // EntertainerRoman.hanging",
         "$G1[13937..13968]  // EntertainerRoman.eatFood",
         "$G1[13969..14028]  // EntertainerRoman.drowning",
         "$G1[14029..14184]  // EntertainerRoman.joy"
@@ -73,7 +73,7 @@
                     ]
                 },
                 "eatFood": {
-                    "offset": 77,
+                    "offset": 41,
                     "sequence": [
                         0,
                         1,
@@ -116,7 +116,7 @@
                     ]
                 },
                 "drowning": {
-                    "offset": 109,
+                    "offset": 73,
                     "sequence": [
                         0,
                         1,
@@ -186,7 +186,7 @@
                     ]
                 },
                 "joy": {
-                    "offset": 169,
+                    "offset": 133,
                     "sequence": [
                         0,
                         1,
@@ -335,7 +335,7 @@
                     ]
                 },
                 "wave2": {
-                    "offset": 77,
+                    "offset": 41,
                     "sequence": [
                         0,
                         1,

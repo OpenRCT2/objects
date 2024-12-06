@@ -46,7 +46,7 @@
         "$G1[13765..13768]  // EntertainerAstronaut.watchRide",
         "$G1[13769..13792]  // EntertainerAstronaut.walking",
         "$G1[13793..13844]  // EntertainerAstronaut.drowning",
-        "$G1[13845..13892]  // EntertainerAstronaut.hanging",
+        "$G1[13845..13856]  // EntertainerAstronaut.hanging",
         "$G1[13857..13896]  // EntertainerAstronaut.eatFood"
     ],
     "animationGroups": [
@@ -72,7 +72,7 @@
                     ]
                 },
                 "eatFood": {
-                    "offset": 129,
+                    "offset": 93,
                     "sequence": [
                         0,
                         1,
@@ -181,7 +181,7 @@
                     ]
                 },
                 "joy": {
-                    "offset": 129,
+                    "offset": 93,
                     "sequence": [
                         0,
                         1,
@@ -205,7 +205,7 @@
                     ]
                 },
                 "wave2": {
-                    "offset": 129,
+                    "offset": 93,
                     "sequence": [
                         0,
                         1,

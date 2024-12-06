@@ -45,7 +45,7 @@
         "$G1[5111..5111]  // Inline sprite id",
         "$G1[11261..11284]  // Handyman.walking",
         "$G1[11285..11288]  // Handyman.watchRide",
-        "$G1[11289..11336]  // Handyman.hanging",
+        "$G1[11289..11300]  // Handyman.hanging",
         "$G1[11301..11324]  // Handyman.staffMower",
         "$G1[11325..11344]  // Handyman.staffSweep",
         "$G1[11345..11376]  // Handyman.drowning",
@@ -92,7 +92,7 @@
                     ]
                 },
                 "staffMower": {
-                    "offset": 77,
+                    "offset": 41,
                     "sequence": [
                         0,
                         1,
@@ -103,7 +103,7 @@
                     ]
                 },
                 "staffSweep": {
-                    "offset": 101,
+                    "offset": 65,
                     "sequence": [
                         0,
                         1,
@@ -133,7 +133,7 @@
                     ]
                 },
                 "drowning": {
-                    "offset": 121,
+                    "offset": 85,
                     "sequence": [
                         0,
                         1,
@@ -203,7 +203,7 @@
                     ]
                 },
                 "staffWatering": {
-                    "offset": 153,
+                    "offset": 117,
                     "sequence": [
                         0,
                         1,
@@ -226,7 +226,7 @@
                     ]
                 },
                 "staffEmptyBin": {
-                    "offset": 177,
+                    "offset": 141,
                     "sequence": [
                         0,
                         1,

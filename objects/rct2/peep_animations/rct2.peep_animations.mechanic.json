@@ -45,7 +45,7 @@
         "$G1[5116..5116]  // Inline sprite id",
         "$G1[11441..11464]  // Mechanic.walking",
         "$G1[11465..11468]  // Mechanic.watchRide",
-        "$G1[11469..11516]  // Mechanic.hanging",
+        "$G1[11469..11480]  // Mechanic.hanging",
         "$G1[11481..11512]  // Mechanic.drowning",
         "$G1[11513..11596]  // Mechanic.staffAnswerCall",
         "$G1[11597..11668]  // Mechanic.staffCheckBoard",
@@ -92,7 +92,7 @@
                     ]
                 },
                 "drowning": {
-                    "offset": 77,
+                    "offset": 41,
                     "sequence": [
                         0,
                         1,
@@ -162,7 +162,7 @@
                     ]
                 },
                 "staffAnswerCall": {
-                    "offset": 109,
+                    "offset": 73,
                     "sequence": [
                         0,
                         1,
@@ -252,7 +252,7 @@
                     ]
                 },
                 "staffAnswerCall2": {
-                    "offset": 109,
+                    "offset": 73,
                     "sequence": [
                         0,
                         1,
@@ -316,7 +316,7 @@
                     ]
                 },
                 "staffCheckBoard": {
-                    "offset": 193,
+                    "offset": 157,
                     "sequence": [
                         0,
                         1,
@@ -364,7 +364,7 @@
                     ]
                 },
                 "staffFix": {
-                    "offset": 265,
+                    "offset": 229,
                     "sequence": [
                         0,
                         1,
@@ -422,7 +422,7 @@
                     ]
                 },
                 "staffFix2": {
-                    "offset": 265,
+                    "offset": 229,
                     "sequence": [
                         0,
                         1,
@@ -526,7 +526,7 @@
                     ]
                 },
                 "staffFixGround": {
-                    "offset": 337,
+                    "offset": 301,
                     "sequence": [
                         0,
                         1,
@@ -592,7 +592,7 @@
                     ]
                 },
                 "staffFix3": {
-                    "offset": 265,
+                    "offset": 229,
                     "sequence": [
                         0,
                         1,

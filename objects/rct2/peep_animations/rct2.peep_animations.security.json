@@ -45,7 +45,7 @@
         "$G1[5096..5096]  // Inline sprite id",
         "$G1[11881..11904]  // Security.walking",
         "$G1[11905..11908]  // Security.watchRide",
-        "$G1[11909..11956]  // Security.hanging",
+        "$G1[11909..11920]  // Security.hanging",
         "$G1[11921..11948]  // Security.drowning",
         "$G1[11949..11972]  // SecurityAlt.walking"
     ],
@@ -89,7 +89,7 @@
                     ]
                 },
                 "drowning": {
-                    "offset": 77,
+                    "offset": 41,
                     "sequence": [
                         0,
                         1,
@@ -164,7 +164,7 @@
             "legacyPosition": 23,
             "animations": {
                 "walking": {
-                    "offset": 105,
+                    "offset": 69,
                     "sequence": [
                         0,
                         1,
@@ -198,7 +198,7 @@
                     ]
                 },
                 "drowning": {
-                    "offset": 77,
+                    "offset": 41,
                     "sequence": [
                         0,
                         1,
