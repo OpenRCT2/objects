@@ -54,7 +54,7 @@
     ],
     "animationGroups": [
         {
-            "debugName": "Mechanic",
+            "scriptName": "mechanic",
             "legacyPosition": 2,
             "animations": {
                 "walking": {

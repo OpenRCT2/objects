@@ -51,7 +51,7 @@
     ],
     "animationGroups": [
         {
-            "debugName": "EntertainerGorilla",
+            "scriptName": "gorilla",
             "legacyPosition": 8,
             "animations": {
                 "walking": {

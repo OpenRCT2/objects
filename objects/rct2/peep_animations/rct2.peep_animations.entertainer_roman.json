@@ -52,7 +52,7 @@
     ],
     "animationGroups": [
         {
-            "debugName": "EntertainerRoman",
+            "scriptName": "roman",
             "legacyPosition": 7,
             "animations": {
                 "walking": {

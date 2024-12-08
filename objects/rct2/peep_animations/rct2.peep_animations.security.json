@@ -51,7 +51,7 @@
     ],
     "animationGroups": [
         {
-            "debugName": "Security",
+            "scriptName": "security1",
             "legacyPosition": 3,
             "animations": {
                 "walking": {
@@ -160,7 +160,7 @@
             }
         },
         {
-            "debugName": "SecurityAlt",
+            "scriptName": "security2",
             "legacyPosition": 23,
             "animations": {
                 "walking": {

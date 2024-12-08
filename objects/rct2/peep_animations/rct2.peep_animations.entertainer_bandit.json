@@ -51,7 +51,7 @@
     ],
     "animationGroups": [
         {
-            "debugName": "EntertainerBandit",
+            "scriptName": "bandit",
             "legacyPosition": 12,
             "animations": {
                 "walking": {

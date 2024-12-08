@@ -51,7 +51,7 @@
     ],
     "animationGroups": [
         {
-            "debugName": "EntertainerSnowman",
+            "scriptName": "snowman",
             "legacyPosition": 9,
             "animations": {
                 "walking": {

@@ -51,7 +51,7 @@
     ],
     "animationGroups": [
         {
-            "debugName": "EntertainerAstronaut",
+            "scriptName": "astronaut",
             "legacyPosition": 11,
             "animations": {
                 "walking": {

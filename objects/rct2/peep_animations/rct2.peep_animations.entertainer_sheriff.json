@@ -51,7 +51,7 @@
     ],
     "animationGroups": [
         {
-            "debugName": "EntertainerSheriff",
+            "scriptName": "sheriff",
             "legacyPosition": 13,
             "animations": {
                 "walking": {

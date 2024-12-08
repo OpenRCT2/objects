@@ -52,7 +52,7 @@
     ],
     "animationGroups": [
         {
-            "debugName": "EntertainerTiger",
+            "scriptName": "tiger",
             "legacyPosition": 5,
             "animations": {
                 "walking": {

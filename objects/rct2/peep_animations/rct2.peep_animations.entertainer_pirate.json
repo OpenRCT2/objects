@@ -51,7 +51,7 @@
     ],
     "animationGroups": [
         {
-            "debugName": "EntertainerPirate",
+            "scriptName": "pirate",
             "legacyPosition": 14,
             "animations": {
                 "walking": {

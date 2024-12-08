@@ -52,7 +52,7 @@
     ],
     "animationGroups": [
         {
-            "debugName": "EntertainerElephant",
+            "scriptName": "elephant",
             "legacyPosition": 6,
             "animations": {
                 "walking": {

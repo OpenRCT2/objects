@@ -180,7 +180,7 @@
     ],
     "animationGroups": [
         {
-            "debugName": "Normal",
+            "scriptName": "none",
             "legacyPosition": 0,
             "animations": {
                 "walking": {
@@ -1032,7 +1032,7 @@
             }
         },
         {
-            "debugName": "IceCream",
+            "scriptName": "iceCream",
             "legacyPosition": 15,
             "animations": {
                 "walking": {
@@ -1882,7 +1882,7 @@
             }
         },
         {
-            "debugName": "Chips",
+            "scriptName": "chips",
             "legacyPosition": 16,
             "animations": {
                 "walking": {
@@ -2738,7 +2738,7 @@
             }
         },
         {
-            "debugName": "Burger",
+            "scriptName": "burger",
             "legacyPosition": 17,
             "animations": {
                 "walking": {
@@ -3594,7 +3594,7 @@
             }
         },
         {
-            "debugName": "Drink",
+            "scriptName": "drink",
             "legacyPosition": 18,
             "animations": {
                 "walking": {
@@ -4462,7 +4462,7 @@
             }
         },
         {
-            "debugName": "Balloon",
+            "scriptName": "balloon",
             "legacyPosition": 19,
             "animations": {
                 "walking": {
@@ -5314,7 +5314,7 @@
             }
         },
         {
-            "debugName": "Candyfloss",
+            "scriptName": "candyfloss",
             "legacyPosition": 20,
             "animations": {
                 "walking": {
@@ -6170,7 +6170,7 @@
             }
         },
         {
-            "debugName": "Umbrella",
+            "scriptName": "umbrella",
             "legacyPosition": 21,
             "animations": {
                 "walking": {
@@ -7022,7 +7022,7 @@
             }
         },
         {
-            "debugName": "Pizza",
+            "scriptName": "pizza",
             "legacyPosition": 22,
             "animations": {
                 "walking": {
@@ -7860,7 +7860,7 @@
             }
         },
         {
-            "debugName": "Popcorn",
+            "scriptName": "popcorn",
             "legacyPosition": 24,
             "animations": {
                 "walking": {
@@ -8716,7 +8716,7 @@
             }
         },
         {
-            "debugName": "ArmsCrossed",
+            "scriptName": "armsCrossed",
             "legacyPosition": 25,
             "animations": {
                 "walking": {
@@ -9568,7 +9568,7 @@
             }
         },
         {
-            "debugName": "HeadDown",
+            "scriptName": "headDown",
             "legacyPosition": 26,
             "animations": {
                 "walking": {
@@ -10420,7 +10420,7 @@
             }
         },
         {
-            "debugName": "Nauseous",
+            "scriptName": "nauseous",
             "legacyPosition": 27,
             "animations": {
                 "walking": {
@@ -11272,7 +11272,7 @@
             }
         },
         {
-            "debugName": "VeryNauseous",
+            "scriptName": "veryNauseous",
             "legacyPosition": 28,
             "animations": {
                 "walking": {
@@ -12124,7 +12124,7 @@
             }
         },
         {
-            "debugName": "RequireToilet",
+            "scriptName": "requireToilet",
             "legacyPosition": 29,
             "animations": {
                 "walking": {
@@ -12976,7 +12976,7 @@
             }
         },
         {
-            "debugName": "Hat",
+            "scriptName": "hat",
             "legacyPosition": 30,
             "animations": {
                 "walking": {
@@ -13828,7 +13828,7 @@
             }
         },
         {
-            "debugName": "HotDog",
+            "scriptName": "hotDog",
             "legacyPosition": 31,
             "animations": {
                 "walking": {
@@ -14684,7 +14684,7 @@
             }
         },
         {
-            "debugName": "Tentacle",
+            "scriptName": "tentacle",
             "legacyPosition": 32,
             "animations": {
                 "walking": {
@@ -15576,7 +15576,7 @@
             }
         },
         {
-            "debugName": "ToffeeApple",
+            "scriptName": "toffeeApple",
             "legacyPosition": 33,
             "animations": {
                 "walking": {
@@ -16426,7 +16426,7 @@
             }
         },
         {
-            "debugName": "Donut",
+            "scriptName": "donut",
             "legacyPosition": 34,
             "animations": {
                 "walking": {
@@ -17281,7 +17281,7 @@
             }
         },
         {
-            "debugName": "Coffee",
+            "scriptName": "coffee",
             "legacyPosition": 35,
             "animations": {
                 "walking": {
@@ -18149,7 +18149,7 @@
             }
         },
         {
-            "debugName": "Chicken",
+            "scriptName": "chicken",
             "legacyPosition": 36,
             "animations": {
                 "walking": {
@@ -19017,7 +19017,7 @@
             }
         },
         {
-            "debugName": "Lemonade",
+            "scriptName": "lemonade",
             "legacyPosition": 37,
             "animations": {
                 "walking": {
@@ -19885,7 +19885,7 @@
             }
         },
         {
-            "debugName": "Watching",
+            "scriptName": "watching",
             "legacyPosition": 38,
             "animations": {
                 "walking": {
@@ -20737,7 +20737,7 @@
             }
         },
         {
-            "debugName": "Pretzel",
+            "scriptName": "pretzel",
             "legacyPosition": 39,
             "animations": {
                 "walking": {
@@ -21605,7 +21605,7 @@
             }
         },
         {
-            "debugName": "Sunglasses",
+            "scriptName": "sunglasses",
             "legacyPosition": 40,
             "animations": {
                 "walking": {
@@ -22457,7 +22457,7 @@
             }
         },
         {
-            "debugName": "SuJongkwa",
+            "scriptName": "suJongkwa",
             "legacyPosition": 41,
             "animations": {
                 "walking": {
@@ -23325,7 +23325,7 @@
             }
         },
         {
-            "debugName": "Juice",
+            "scriptName": "juice",
             "legacyPosition": 42,
             "animations": {
                 "walking": {
@@ -24193,7 +24193,7 @@
             }
         },
         {
-            "debugName": "FunnelCake",
+            "scriptName": "funnelCake",
             "legacyPosition": 43,
             "animations": {
                 "walking": {
@@ -25061,7 +25061,7 @@
             }
         },
         {
-            "debugName": "Noodles",
+            "scriptName": "noodles",
             "legacyPosition": 44,
             "animations": {
                 "walking": {
@@ -25929,7 +25929,7 @@
             }
         },
         {
-            "debugName": "Sausage",
+            "scriptName": "sausage",
             "legacyPosition": 45,
             "animations": {
                 "walking": {
@@ -26797,7 +26797,7 @@
             }
         },
         {
-            "debugName": "Soup",
+            "scriptName": "soup",
             "legacyPosition": 46,
             "animations": {
                 "walking": {
@@ -27665,7 +27665,7 @@
             }
         },
         {
-            "debugName": "Sandwich",
+            "scriptName": "sandwich",
             "legacyPosition": 47,
             "animations": {
                 "walking": {

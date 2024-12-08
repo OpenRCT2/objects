@@ -54,7 +54,7 @@
     ],
     "animationGroups": [
         {
-            "debugName": "Handyman",
+            "scriptName": "handyman",
             "legacyPosition": 1,
             "animations": {
                 "walking": {
