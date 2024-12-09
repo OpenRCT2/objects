@@ -46,7 +46,7 @@
         "$G1[12325..12348]  // EntertainerElephant.walking",
         "$G1[12349..12352]  // EntertainerElephant.watchRide",
         "$G1[12353..12364]  // EntertainerElephant.hanging",
-        "$G1[12365..12392]  // EntertainerElephant.eatFood",
+        "$G1[12365..12392]  // EntertainerElephant.wave2",
         "$G1[12393..12432]  // EntertainerElephant.drowning",
         "$G1[12433..12544]  // EntertainerElephant.joy"
     ],
@@ -69,36 +69,6 @@
                 "watchRide": {
                     "offset": 25,
                     "sequence": [
-                        0
-                    ]
-                },
-                "eatFood": {
-                    "offset": 41,
-                    "sequence": [
-                        0,
-                        1,
-                        2,
-                        3,
-                        4,
-                        5,
-                        6,
-                        5,
-                        4,
-                        3,
-                        4,
-                        5,
-                        6,
-                        5,
-                        4,
-                        3,
-                        4,
-                        5,
-                        6,
-                        5,
-                        4,
-                        3,
-                        2,
-                        1,
                         0
                     ]
                 },

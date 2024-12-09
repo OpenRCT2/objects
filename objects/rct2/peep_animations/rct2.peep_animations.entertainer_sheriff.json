@@ -47,7 +47,7 @@
         "$G1[13613..13636]  // EntertainerSheriff.walking",
         "$G1[13637..13700]  // EntertainerSheriff.drowning",
         "$G1[13701..13712]  // EntertainerSheriff.hanging",
-        "$G1[13713..13764]  // EntertainerSheriff.eatFood"
+        "$G1[13713..13764]  // EntertainerSheriff.joy"
     ],
     "animationGroups": [
         {
@@ -68,59 +68,6 @@
                 "watchRide": {
                     "offset": 1,
                     "sequence": [
-                        0
-                    ]
-                },
-                "eatFood": {
-                    "offset": 105,
-                    "sequence": [
-                        0,
-                        1,
-                        2,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        7,
-                        7,
-                        7,
-                        7,
-                        8,
-                        9,
-                        10,
-                        11,
-                        12,
-                        11,
-                        10,
-                        11,
-                        12,
-                        11,
-                        10,
-                        11,
-                        12,
-                        11,
-                        10,
-                        11,
-                        12,
-                        11,
-                        10,
-                        11,
-                        12,
-                        11,
-                        10,
-                        11,
-                        12,
-                        11,
-                        9,
-                        8,
-                        7,
-                        6,
-                        5,
-                        4,
-                        3,
-                        2,
-                        1,
                         0
                     ]
                 },

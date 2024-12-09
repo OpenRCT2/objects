@@ -47,7 +47,7 @@
         "$G1[12153..12156]  // EntertainerTiger.watchRide",
         "$G1[12157..12168]  // EntertainerTiger.hanging",
         "$G1[12169..12196]  // EntertainerTiger.drowning",
-        "$G1[12197..12220]  // EntertainerTiger.eatFood",
+        "$G1[12197..12220]  // EntertainerTiger.wave2",
         "$G1[12221..12324]  // EntertainerTiger.joy"
     ],
     "animationGroups": [
@@ -69,34 +69,6 @@
                 "watchRide": {
                     "offset": 25,
                     "sequence": [
-                        0
-                    ]
-                },
-                "eatFood": {
-                    "offset": 69,
-                    "sequence": [
-                        0,
-                        1,
-                        2,
-                        3,
-                        4,
-                        5,
-                        4,
-                        3,
-                        4,
-                        5,
-                        4,
-                        3,
-                        4,
-                        5,
-                        4,
-                        3,
-                        4,
-                        5,
-                        4,
-                        3,
-                        2,
-                        1,
                         0
                     ]
                 },

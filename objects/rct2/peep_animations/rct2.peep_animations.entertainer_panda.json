@@ -47,7 +47,7 @@
         "$G1[11997..12000]  // EntertainerPanda.watchRide",
         "$G1[12001..12012]  // EntertainerPanda.hanging",
         "$G1[12013..12040]  // EntertainerPanda.drowning",
-        "$G1[12041..12064]  // EntertainerPanda.eatFood",
+        "$G1[12041..12064]  // EntertainerPanda.wave2",
         "$G1[12065..12128]  // EntertainerPanda.joy"
     ],
     "animationGroups": [
@@ -69,34 +69,6 @@
                 "watchRide": {
                     "offset": 25,
                     "sequence": [
-                        0
-                    ]
-                },
-                "eatFood": {
-                    "offset": 69,
-                    "sequence": [
-                        0,
-                        1,
-                        2,
-                        3,
-                        4,
-                        5,
-                        4,
-                        3,
-                        4,
-                        5,
-                        4,
-                        3,
-                        4,
-                        5,
-                        4,
-                        3,
-                        4,
-                        5,
-                        4,
-                        3,
-                        2,
-                        1,
                         0
                     ]
                 },
