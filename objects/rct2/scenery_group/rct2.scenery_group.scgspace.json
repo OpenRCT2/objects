@@ -28,8 +28,7 @@
             "rct2.footpath_item.benchspc",
             "rct2.footpath_item.littersp"
         ],
-        "priority": 31,
-        "entertainerCostumes": "astronaut"
+        "priority": 31
     },
     "images": [
         "$RCT2:OBJDATA/SCGSPACE.DAT[0..1]"

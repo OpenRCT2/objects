@@ -57,8 +57,7 @@
             "rct2ww.scenery_small.pva",
             "rct2ww.scenery_large.sunken"
         ],
-        "priority": 42,
-        "entertainerCostumes": "snowman"
+        "priority": 42
     },
     "images": [
         "$RCT2:OBJDATA/SCGARTIC.DAT[0..1]"

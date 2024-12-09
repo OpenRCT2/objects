@@ -125,11 +125,7 @@
             "rct2ww.scenery_large.1x4brg04",
             "rct2ww.scenery_large.1x4brg05"
         ],
-        "priority": 46,
-        "entertainerCostumes": [
-            "bandit",
-            "sheriff"
-        ]
+        "priority": 46
     },
     "images": [
         "$RCT2:OBJDATA/SCGNAMRC.DAT[0..1]"

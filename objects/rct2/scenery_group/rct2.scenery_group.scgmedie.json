@@ -46,8 +46,7 @@
             "rct2.scenery_wall.wallcfpc",
             "rct2.scenery_wall.wallcbpc"
         ],
-        "priority": 27,
-        "entertainerCostumes": "knight"
+        "priority": 27
     },
     "images": [
         "$RCT2:OBJDATA/SCGMEDIE.DAT[0..1]"
