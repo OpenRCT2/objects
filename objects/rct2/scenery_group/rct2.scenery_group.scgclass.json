@@ -13,6 +13,7 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
+            "rct2.peep_animations.entertainer_roman",
             "rct2.scenery_large.scol",
             "rct2.scenery_small.tt1",
             "rct2.scenery_small.trms",
@@ -26,8 +27,7 @@
             "rct2.scenery_small.romroof1",
             "rct2.footpath_banner.bn3"
         ],
-        "priority": 21,
-        "entertainerCostumes": "roman"
+        "priority": 21
     },
     "images": [
         "$RCT2:OBJDATA/SCGCLASS.DAT[0..1]"
