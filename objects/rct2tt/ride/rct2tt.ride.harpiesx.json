@@ -105,7 +105,8 @@
         ]
     },
     "images": [
-        "$RCT2:OBJDATA/HARPIESX.DAT[0..4082]"
+	    "harpies.png",
+        "$RCT2:OBJDATA/HARPIESX.DAT[1..4082]"
     ],
     "strings": {
         "name": {
