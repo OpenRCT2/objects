@@ -9,8 +9,11 @@
         "rct2"
     ],
     "objectType": "peep_animations",
-    "peepType": "guest",
-    "isSlowWalking": false,
+    "properties": {
+        "peepType": "guest",
+        "isSlowWalking": false,
+        "noRandomPlacement": false
+    },
     "strings": {
         "name": {
             "ar-EG": "زائر",

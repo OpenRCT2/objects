@@ -9,8 +9,11 @@
         "rct2"
     ],
     "objectType": "peep_animations",
-    "peepType": "handyman",
-    "isSlowWalking": false,
+    "properties": {
+        "peepType": "handyman",
+        "isSlowWalking": false,
+        "noRandomPlacement": false
+    },
     "strings": {
         "name": {
             "ar-EG": "رجل مساعد",

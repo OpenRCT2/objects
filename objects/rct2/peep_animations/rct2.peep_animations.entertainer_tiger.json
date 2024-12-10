@@ -9,8 +9,11 @@
         "rct2"
     ],
     "objectType": "peep_animations",
-    "peepType": "entertainer",
-    "isSlowWalking": false,
+    "properties": {
+        "peepType": "entertainer",
+        "isSlowWalking": false,
+        "noRandomPlacement": false
+    },
     "strings": {
         "name": {
             "ar-EG": "Tiger costume",

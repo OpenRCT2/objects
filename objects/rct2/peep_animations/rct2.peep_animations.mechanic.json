@@ -9,8 +9,11 @@
         "rct2"
     ],
     "objectType": "peep_animations",
-    "peepType": "mechanic",
-    "isSlowWalking": false,
+    "properties": {
+        "peepType": "mechanic",
+        "isSlowWalking": false,
+        "noRandomPlacement": false
+    },
     "strings": {
         "name": {
             "ar-EG": "ميكانيكي",

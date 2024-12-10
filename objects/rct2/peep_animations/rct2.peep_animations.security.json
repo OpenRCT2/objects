@@ -9,8 +9,11 @@
         "rct2"
     ],
     "objectType": "peep_animations",
-    "peepType": "security",
-    "isSlowWalking": false,
+    "properties": {
+        "peepType": "security",
+        "isSlowWalking": false,
+        "noRandomPlacement": false
+    },
     "strings": {
         "name": {
             "ar-EG": "رجل الأمن",

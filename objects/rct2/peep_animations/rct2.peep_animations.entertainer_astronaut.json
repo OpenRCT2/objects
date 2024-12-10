@@ -9,8 +9,11 @@
         "rct2"
     ],
     "objectType": "peep_animations",
-    "peepType": "entertainer",
-    "isSlowWalking": true,
+    "properties": {
+        "peepType": "entertainer",
+        "isSlowWalking": true,
+        "noRandomPlacement": false
+    },
     "strings": {
         "name": {
             "ar-EG": "Astronaut costume",
