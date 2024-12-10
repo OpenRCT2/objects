@@ -10,6 +10,8 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
+            "rct2.peep_animations.entertainer_bandit",
+            "rct2.peep_animations.entertainer_sheriff",
             "rct2.scenery_small.wag1",
             "rct2.scenery_small.wag2",
             "rct2.scenery_wall.wallwdps",
@@ -21,11 +23,7 @@
             "rct2.scenery_small.teepee1",
             "rct2.footpath_item.litterww"
         ],
-        "priority": 38,
-        "entertainerCostumes": [
-            "bandit",
-            "sheriff"
-        ]
+        "priority": 38
     },
     "images": [
         "$RCT2:OBJDATA/SCGWWEST.DAT[0..1]"
