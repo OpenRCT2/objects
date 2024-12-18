@@ -13,6 +13,7 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
+            "rct2.peep_animations.entertainer_snowman",
             "rct2.scenery_large.sip",
             "rct2.scenery_small.tsm",
             "rct2.scenery_small.tig",
@@ -34,8 +35,7 @@
             "rct2.scenery_wall.wallig24",
             "rct2.scenery_small.igroof"
         ],
-        "priority": 30,
-        "entertainerCostumes": "snowman"
+        "priority": 30
     },
     "images": [
         "$RCT2:OBJDATA/SCGSNOW.DAT[0..1]"
