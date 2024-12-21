@@ -13,6 +13,7 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
+            "rct2.peep_animations.entertainer_astronaut",
             "rct2.scenery_large.smb",
             "rct2.scenery_small.tmo1",
             "rct2.scenery_small.tmo2",
@@ -23,8 +24,7 @@
             "rct2.scenery_wall.wmw",
             "rct2.footpath_item.lamp4"
         ],
-        "priority": 26,
-        "entertainerCostumes": "astronaut"
+        "priority": 26
     },
     "images": [
         "$RCT2:OBJDATA/SCGMART.DAT[0..1]"
