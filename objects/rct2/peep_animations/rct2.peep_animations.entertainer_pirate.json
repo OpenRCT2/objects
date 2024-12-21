@@ -11,7 +11,7 @@
     "objectType": "peep_animations",
     "properties": {
         "peepType": "entertainer",
-        "isSlowWalking": false,
+        "isSlowWalking": true,
         "noRandomPlacement": false
     },
     "strings": {
