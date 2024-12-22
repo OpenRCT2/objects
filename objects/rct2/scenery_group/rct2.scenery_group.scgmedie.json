@@ -13,6 +13,7 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
+            "rct2.peep_animations.entertainer_knight",
             "rct2.scenery_small.tct1",
             "rct2.scenery_large.stb1",
             "rct2.scenery_large.stb2",
@@ -45,8 +46,7 @@
             "rct2.scenery_wall.wallcfpc",
             "rct2.scenery_wall.wallcbpc"
         ],
-        "priority": 27,
-        "entertainerCostumes": "knight"
+        "priority": 27
     },
     "images": [
         "$RCT2:OBJDATA/SCGMEDIE.DAT[0..1]"

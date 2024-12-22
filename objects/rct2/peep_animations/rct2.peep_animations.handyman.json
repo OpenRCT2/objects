@@ -1,0 +1,259 @@
+{
+    "id": "rct2.peep_animations.handyman",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
+    "objectType": "peep_animations",
+    "properties": {
+        "peepType": "handyman",
+        "isSlowWalking": false,
+        "noRandomPlacement": false
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Handyman",
+            "ar-EG": "رجل مساعد",
+            "ca-ES": "Encarregat de neteja",
+            "cs-CZ": "Údržbář",
+            "da-DK": "Handymand",
+            "de-DE": "Parkpfleger",
+            "eo-ZZ": "Faktoto",
+            "es-ES": "Manitas",
+            "fi-FI": "Yleismies",
+            "fr-FR": "Agent d’entretien",
+            "gl-ES": "Manitas",
+            "hu-HU": "Mindenes",
+            "it-IT": "Tuttofare",
+            "ja-JP": "清掃員",
+            "ko-KR": "미화원",
+            "nb-NO": "Vaktmester",
+            "nl-NL": "Klusjesman",
+            "pl-PL": "Dozorca",
+            "pt-BR": "Faxineiro",
+            "ru-RU": "Дворник",
+            "sv-SE": "Vaktmästare",
+            "tr-TR": "Temizlikçi",
+            "uk-UA": "Різноробочий",
+            "vi-VN": "Lao công",
+            "zh-CN": "清洁工人",
+            "zh-TW": "清潔工人"
+        }
+    },
+    "images": [
+        "$G1[5111..5111]  // Inline sprite id",
+        "$G1[11261..11284]  // Handyman.walking",
+        "$G1[11285..11288]  // Handyman.watchRide",
+        "$G1[11289..11300]  // Handyman.hanging",
+        "$G1[11301..11324]  // Handyman.staffMower",
+        "$G1[11325..11344]  // Handyman.staffSweep",
+        "$G1[11345..11376]  // Handyman.drowning",
+        "$G1[11377..11400]  // Handyman.staffWatering",
+        "$G1[11401..11440]  // Handyman.staffEmptyBin"
+    ],
+    "animationGroups": [
+        {
+            "scriptName": "handyman",
+            "legacyPosition": 1,
+            "animations": {
+                "walking": {
+                    "offset": 1,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                "watchRide": {
+                    "offset": 25,
+                    "sequence": [
+                        0
+                    ]
+                },
+                "hanging": {
+                    "offset": 29,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11
+                    ]
+                },
+                "staffMower": {
+                    "offset": 41,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                "staffSweep": {
+                    "offset": 65,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        0,
+                        1,
+                        2,
+                        3,
+                        4
+                    ]
+                },
+                "drowning": {
+                    "offset": 85,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        4,
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                "staffWatering": {
+                    "offset": 117,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        5,
+                        5,
+                        5,
+                        5,
+                        5,
+                        5,
+                        5,
+                        4,
+                        3,
+                        2,
+                        1,
+                        0
+                    ]
+                },
+                "staffEmptyBin": {
+                    "offset": 141,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        8,
+                        7,
+                        6,
+                        5,
+                        4,
+                        3,
+                        2,
+                        1,
+                        0
+                    ]
+                }
+            }
+        }
+    ]
+}

@@ -9,6 +9,7 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
+            "rct2.peep_animations.entertainer_gorilla",
             "rct2ww.scenery_small.oilpump",
             "rct2ww.scenery_wall.wcorr01",
             "rct2ww.scenery_wall.wcorr02",
@@ -114,8 +115,7 @@
             "rct2ww.scenery_large.3x3atre3",
             "rct2ww.scenery_large.3x3altre"
         ],
-        "priority": 41,
-        "entertainerCostumes": "gorilla"
+        "priority": 41
     },
     "images": [
         "$RCT2:OBJDATA/SCGAFRIC.DAT[0..1]"

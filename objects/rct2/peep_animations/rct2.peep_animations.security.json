@@ -1,0 +1,184 @@
+{
+    "id": "rct2.peep_animations.security",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
+    "objectType": "peep_animations",
+    "properties": {
+        "peepType": "security",
+        "isSlowWalking": false,
+        "noRandomPlacement": false
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Security Guard",
+            "ar-EG": "رجل الأمن",
+            "ca-ES": "Guarda de seguretat",
+            "cs-CZ": "Hlídač",
+            "da-DK": "Sikkerhedsvagt",
+            "de-DE": "Aufseher",
+            "eo-ZZ": "Gardisto",
+            "es-ES": "Guardia",
+            "fi-FI": "Vartija",
+            "fr-FR": "Agent de sécurité",
+            "gl-ES": "Garda",
+            "hu-HU": "Biztonsági őr",
+            "it-IT": "Vigilante",
+            "ja-JP": "警備員",
+            "ko-KR": "경비원",
+            "nb-NO": "Sikkerhetsvakt",
+            "nl-NL": "Bewaker",
+            "pl-PL": "Strażnik",
+            "pt-BR": "Segurança",
+            "ru-RU": "Охранник",
+            "sv-SE": "Säkerhetsvakt",
+            "tr-TR": "Güvenlik",
+            "uk-UA": "Охоронець",
+            "vi-VN": "Bảo vệ",
+            "zh-CN": "安全警卫",
+            "zh-TW": "安全警衛"
+        }
+    },
+    "images": [
+        "$G1[5096..5096]  // Inline sprite id",
+        "$G1[11881..11904]  // Security.walking",
+        "$G1[11905..11908]  // Security.watchRide",
+        "$G1[11909..11920]  // Security.hanging",
+        "$G1[11921..11948]  // Security.drowning",
+        "$G1[11949..11972]  // SecurityAlt.walking"
+    ],
+    "animationGroups": [
+        {
+            "scriptName": "security1",
+            "legacyPosition": 3,
+            "animations": {
+                "walking": {
+                    "offset": 1,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                "watchRide": {
+                    "offset": 25,
+                    "sequence": [
+                        0
+                    ]
+                },
+                "hanging": {
+                    "offset": 29,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11
+                    ]
+                },
+                "drowning": {
+                    "offset": 41,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        4,
+                        5,
+                        6
+                    ]
+                }
+            }
+        },
+        {
+            "scriptName": "security2",
+            "legacyPosition": 23,
+            "animations": {
+                "walking": {
+                    "offset": 69,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                }
+            }
+        }
+    ]
+}

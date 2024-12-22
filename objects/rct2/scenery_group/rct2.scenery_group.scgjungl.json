@@ -13,6 +13,7 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
+            "rct2.peep_animations.entertainer_gorilla",
             "rct2.scenery_small.tjt1",
             "rct2.scenery_small.tjt2",
             "rct2.scenery_small.tjb1",
@@ -37,8 +38,7 @@
             "rct2.scenery_small.roof14",
             "rct2.footpath_item.benchlog"
         ],
-        "priority": 24,
-        "entertainerCostumes": "gorilla"
+        "priority": 24
     },
     "images": [
         "$RCT2:OBJDATA/SCGJUNGL.DAT[0..1]"

@@ -1,0 +1,212 @@
+{
+    "id": "rct2.peep_animations.entertainer_astronaut",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
+    "objectType": "peep_animations",
+    "properties": {
+        "peepType": "entertainer",
+        "isSlowWalking": true,
+        "noRandomPlacement": false
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Astronaut costume",
+            "ca-ES": "Disfressa d’astronauta",
+            "cs-CZ": "Skafandr",
+            "da-DK": "Astronaut kostume",
+            "de-DE": "Astronautenkostüm",
+            "eo-ZZ": "Astronaŭtokostumo",
+            "es-ES": "Disfraz de astronauta",
+            "fi-FI": "Astronauttipuku",
+            "fr-FR": "Costume d’astronaute",
+            "gl-ES": "Traxe de astronauta",
+            "hu-HU": "Űrhajós jelmez",
+            "it-IT": "Costume da astronauta",
+            "ja-JP": "宇宙飛行士のコスチューム",
+            "ko-KR": "우주비행사 복장",
+            "nb-NO": "Astronaut-kostyme",
+            "nl-NL": "Astronautenpak",
+            "pl-PL": "Kostium astronauty",
+            "pt-BR": "Fantasia de astronauta",
+            "ru-RU": "Костюм космонавта",
+            "sv-SE": "Astronautdräkt",
+            "tr-TR": "Astronot kıyafeti",
+            "uk-UA": "Костюм астронавта",
+            "zh-CN": "宇航员服装",
+            "zh-TW": "太空人服裝"
+        }
+    },
+    "images": [
+        "$G1[5125..5125]  // Inline sprite id",
+        "$G1[13765..13768]  // EntertainerAstronaut.watchRide",
+        "$G1[13769..13792]  // EntertainerAstronaut.walking",
+        "$G1[13793..13844]  // EntertainerAstronaut.drowning",
+        "$G1[13845..13856]  // EntertainerAstronaut.hanging",
+        "$G1[13857..13896]  // EntertainerAstronaut.joy"
+    ],
+    "animationGroups": [
+        {
+            "scriptName": "astronaut",
+            "legacyPosition": 11,
+            "animations": {
+                "walking": {
+                    "offset": 5,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                "watchRide": {
+                    "offset": 1,
+                    "sequence": [
+                        0
+                    ]
+                },
+                "hanging": {
+                    "offset": 81,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11
+                    ]
+                },
+                "drowning": {
+                    "offset": 29,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        0,
+                        1,
+                        2,
+                        3,
+                        2,
+                        1,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11,
+                        12
+                    ]
+                },
+                "joy": {
+                    "offset": 93,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        5,
+                        5,
+                        5,
+                        5,
+                        5,
+                        5,
+                        5,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        0
+                    ]
+                },
+                "wave2": {
+                    "offset": 93,
+                    "sequence": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        5,
+                        5,
+                        5,
+                        5,
+                        5,
+                        5,
+                        5,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        0
+                    ]
+                }
+            }
+        }
+    ]
+}

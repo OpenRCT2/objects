@@ -13,6 +13,9 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
+            "rct2.peep_animations.entertainer_panda",
+            "rct2.peep_animations.entertainer_tiger",
+            "rct2.peep_animations.entertainer_elephant",
             "rct2.scenery_small.tic",
             "rct2.scenery_small.tlc",
             "rct2.scenery_small.tmc",
@@ -55,12 +58,7 @@
             "rct2.scenery_small.tpm",
             "rct2.scenery_small.tropt1"
         ],
-        "priority": 1,
-        "entertainerCostumes": [
-            "panda",
-            "tiger",
-            "elephant"
-        ]
+        "priority": 1
     },
     "images": [
         "$RCT2:OBJDATA/SCGTREES.DAT[0..1]"

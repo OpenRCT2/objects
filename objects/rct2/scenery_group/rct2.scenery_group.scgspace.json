@@ -13,6 +13,7 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
+            "rct2.peep_animations.entertainer_astronaut",
             "rct2.scenery_large.ssr",
             "rct2.scenery_large.sst",
             "rct2.scenery_large.ssh",
@@ -27,8 +28,7 @@
             "rct2.footpath_item.benchspc",
             "rct2.footpath_item.littersp"
         ],
-        "priority": 31,
-        "entertainerCostumes": "astronaut"
+        "priority": 31
     },
     "images": [
         "$RCT2:OBJDATA/SCGSPACE.DAT[0..1]"

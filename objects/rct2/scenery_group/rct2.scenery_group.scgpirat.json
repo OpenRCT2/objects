@@ -10,6 +10,7 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
+            "rct2.peep_animations.entertainer_pirate",
             "rct2.scenery_large.prship",
             "rct2.scenery_small.chest1",
             "rct2.scenery_small.chest2",
@@ -31,8 +32,7 @@
             "rct2.scenery_wall.wallpr35",
             "mamabear.scenery_wall.mg-prar"
         ],
-        "priority": 38,
-        "entertainerCostumes": "pirate"
+        "priority": 38
     },
     "images": [
         "$RCT2:OBJDATA/SCGPIRAT.DAT[0..1]"
