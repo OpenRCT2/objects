@@ -11,7 +11,6 @@
     "objectType": "peep_animations",
     "properties": {
         "peepType": "entertainer",
-        "isSlowWalking": true,
         "noRandomPlacement": false
     },
     "strings": {
@@ -53,6 +52,7 @@
     "animationGroups": [
         {
             "scriptName": "pirate",
+            "isSlowWalking": true,
             "legacyPosition": 14,
             "animations": {
                 "walking": {

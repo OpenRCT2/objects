@@ -12,7 +12,6 @@
     "objectType": "peep_animations",
     "properties": {
         "peepType": "entertainer",
-        "isSlowWalking": true,
         "noRandomPlacement": false
     },
     "strings": {
@@ -54,6 +53,7 @@
     "animationGroups": [
         {
             "scriptName": "astronaut",
+            "isSlowWalking": true,
             "legacyPosition": 11,
             "animations": {
                 "walking": {

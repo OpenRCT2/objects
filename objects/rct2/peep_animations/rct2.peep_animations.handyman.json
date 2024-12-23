@@ -12,7 +12,6 @@
     "objectType": "peep_animations",
     "properties": {
         "peepType": "handyman",
-        "isSlowWalking": false,
         "noRandomPlacement": false
     },
     "strings": {
@@ -59,6 +58,7 @@
     "animationGroups": [
         {
             "scriptName": "handyman",
+            "isSlowWalking": false,
             "legacyPosition": 1,
             "animations": {
                 "walking": {

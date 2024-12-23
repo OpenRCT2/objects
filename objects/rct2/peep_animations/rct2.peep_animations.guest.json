@@ -12,7 +12,6 @@
     "objectType": "peep_animations",
     "properties": {
         "peepType": "guest",
-        "isSlowWalking": false,
         "noRandomPlacement": false
     },
     "strings": {
@@ -185,6 +184,7 @@
     "animationGroups": [
         {
             "scriptName": "none",
+            "isSlowWalking": false,
             "legacyPosition": 0,
             "animations": {
                 "walking": {
@@ -1037,6 +1037,7 @@
         },
         {
             "scriptName": "iceCream",
+            "isSlowWalking": true,
             "legacyPosition": 15,
             "animations": {
                 "walking": {
@@ -1124,6 +1125,7 @@
         },
         {
             "scriptName": "chips",
+            "isSlowWalking": true,
             "legacyPosition": 16,
             "animations": {
                 "walking": {
@@ -1217,6 +1219,7 @@
         },
         {
             "scriptName": "burger",
+            "isSlowWalking": true,
             "legacyPosition": 17,
             "animations": {
                 "walking": {
@@ -1310,6 +1313,7 @@
         },
         {
             "scriptName": "drink",
+            "isSlowWalking": true,
             "legacyPosition": 18,
             "animations": {
                 "walking": {
@@ -1415,6 +1419,7 @@
         },
         {
             "scriptName": "balloon",
+            "isSlowWalking": false,
             "legacyPosition": 19,
             "animations": {
                 "walking": {
@@ -1444,6 +1449,7 @@
         },
         {
             "scriptName": "candyfloss",
+            "isSlowWalking": true,
             "legacyPosition": 20,
             "animations": {
                 "walking": {
@@ -1537,6 +1543,7 @@
         },
         {
             "scriptName": "umbrella",
+            "isSlowWalking": false,
             "legacyPosition": 21,
             "animations": {
                 "walking": {
@@ -1566,6 +1573,7 @@
         },
         {
             "scriptName": "pizza",
+            "isSlowWalking": true,
             "legacyPosition": 22,
             "animations": {
                 "walking": {
@@ -1641,6 +1649,7 @@
         },
         {
             "scriptName": "popcorn",
+            "isSlowWalking": true,
             "legacyPosition": 24,
             "animations": {
                 "walking": {
@@ -1734,6 +1743,7 @@
         },
         {
             "scriptName": "armsCrossed",
+            "isSlowWalking": false,
             "legacyPosition": 25,
             "animations": {
                 "walking": {
@@ -1751,6 +1761,7 @@
         },
         {
             "scriptName": "headDown",
+            "isSlowWalking": false,
             "legacyPosition": 26,
             "animations": {
                 "walking": {
@@ -1768,6 +1779,7 @@
         },
         {
             "scriptName": "nauseous",
+            "isSlowWalking": true,
             "legacyPosition": 27,
             "animations": {
                 "walking": {
@@ -1785,6 +1797,7 @@
         },
         {
             "scriptName": "veryNauseous",
+            "isSlowWalking": true,
             "legacyPosition": 28,
             "animations": {
                 "walking": {
@@ -1814,6 +1827,7 @@
         },
         {
             "scriptName": "requireToilet",
+            "isSlowWalking": false,
             "legacyPosition": 29,
             "animations": {
                 "walking": {
@@ -1831,6 +1845,7 @@
         },
         {
             "scriptName": "hat",
+            "isSlowWalking": false,
             "legacyPosition": 30,
             "animations": {
                 "walking": {
@@ -1860,6 +1875,7 @@
         },
         {
             "scriptName": "hotDog",
+            "isSlowWalking": true,
             "legacyPosition": 31,
             "animations": {
                 "walking": {
@@ -1953,6 +1969,7 @@
         },
         {
             "scriptName": "tentacle",
+            "isSlowWalking": true,
             "legacyPosition": 32,
             "animations": {
                 "walking": {
@@ -2082,6 +2099,7 @@
         },
         {
             "scriptName": "toffeeApple",
+            "isSlowWalking": true,
             "legacyPosition": 33,
             "animations": {
                 "walking": {
@@ -2169,6 +2187,7 @@
         },
         {
             "scriptName": "donut",
+            "isSlowWalking": true,
             "legacyPosition": 34,
             "animations": {
                 "walking": {
@@ -2261,6 +2280,7 @@
         },
         {
             "scriptName": "coffee",
+            "isSlowWalking": true,
             "legacyPosition": 35,
             "animations": {
                 "walking": {
@@ -2366,6 +2386,7 @@
         },
         {
             "scriptName": "chicken",
+            "isSlowWalking": true,
             "legacyPosition": 36,
             "animations": {
                 "walking": {
@@ -2471,6 +2492,7 @@
         },
         {
             "scriptName": "lemonade",
+            "isSlowWalking": true,
             "legacyPosition": 37,
             "animations": {
                 "walking": {
@@ -2576,6 +2598,7 @@
         },
         {
             "scriptName": "watching",
+            "isSlowWalking": false,
             "legacyPosition": 38,
             "animations": {
                 "watchRide": {
@@ -2588,6 +2611,7 @@
         },
         {
             "scriptName": "pretzel",
+            "isSlowWalking": true,
             "legacyPosition": 39,
             "animations": {
                 "walking": {
@@ -2693,6 +2717,7 @@
         },
         {
             "scriptName": "sunglasses",
+            "isSlowWalking": false,
             "legacyPosition": 40,
             "animations": {
                 "walking": {
@@ -2722,6 +2747,7 @@
         },
         {
             "scriptName": "suJongkwa",
+            "isSlowWalking": true,
             "legacyPosition": 41,
             "animations": {
                 "walking": {
@@ -2827,6 +2853,7 @@
         },
         {
             "scriptName": "juice",
+            "isSlowWalking": true,
             "legacyPosition": 42,
             "animations": {
                 "walking": {
@@ -2932,6 +2959,7 @@
         },
         {
             "scriptName": "funnelCake",
+            "isSlowWalking": true,
             "legacyPosition": 43,
             "animations": {
                 "walking": {
@@ -3037,6 +3065,7 @@
         },
         {
             "scriptName": "noodles",
+            "isSlowWalking": true,
             "legacyPosition": 44,
             "animations": {
                 "walking": {
@@ -3142,6 +3171,7 @@
         },
         {
             "scriptName": "sausage",
+            "isSlowWalking": true,
             "legacyPosition": 45,
             "animations": {
                 "walking": {
@@ -3247,6 +3277,7 @@
         },
         {
             "scriptName": "soup",
+            "isSlowWalking": true,
             "legacyPosition": 46,
             "animations": {
                 "walking": {
@@ -3352,6 +3383,7 @@
         },
         {
             "scriptName": "sandwich",
+            "isSlowWalking": true,
             "legacyPosition": 47,
             "animations": {
                 "walking": {

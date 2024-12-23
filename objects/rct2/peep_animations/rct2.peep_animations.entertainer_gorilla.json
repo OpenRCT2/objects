@@ -12,7 +12,6 @@
     "objectType": "peep_animations",
     "properties": {
         "peepType": "entertainer",
-        "isSlowWalking": false,
         "noRandomPlacement": false
     },
     "strings": {
@@ -54,6 +53,7 @@
     "animationGroups": [
         {
             "scriptName": "gorilla",
+            "isSlowWalking": false,
             "legacyPosition": 8,
             "animations": {
                 "walking": {

@@ -12,7 +12,6 @@
     "objectType": "peep_animations",
     "properties": {
         "peepType": "mechanic",
-        "isSlowWalking": false,
         "noRandomPlacement": false
     },
     "strings": {
@@ -59,6 +58,7 @@
     "animationGroups": [
         {
             "scriptName": "mechanic",
+            "isSlowWalking": false,
             "legacyPosition": 2,
             "animations": {
                 "walking": {

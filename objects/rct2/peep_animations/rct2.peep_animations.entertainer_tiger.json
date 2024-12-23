@@ -12,7 +12,6 @@
     "objectType": "peep_animations",
     "properties": {
         "peepType": "entertainer",
-        "isSlowWalking": false,
         "noRandomPlacement": false
     },
     "strings": {
@@ -55,6 +54,7 @@
     "animationGroups": [
         {
             "scriptName": "tiger",
+            "isSlowWalking": false,
             "legacyPosition": 5,
             "animations": {
                 "walking": {
