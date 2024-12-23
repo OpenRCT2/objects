@@ -12,7 +12,6 @@
     "objectType": "peep_animations",
     "properties": {
         "peepType": "security",
-        "isSlowWalking": false,
         "noRandomPlacement": false
     },
     "strings": {
@@ -56,6 +55,7 @@
     "animationGroups": [
         {
             "scriptName": "security1",
+            "isSlowWalking": false,
             "legacyPosition": 3,
             "animations": {
                 "walking": {
@@ -165,6 +165,7 @@
         },
         {
             "scriptName": "security2",
+            "isSlowWalking": true,
             "legacyPosition": 23,
             "animations": {
                 "walking": {

@@ -11,7 +11,6 @@
     "objectType": "peep_animations",
     "properties": {
         "peepType": "entertainer",
-        "isSlowWalking": false,
         "noRandomPlacement": false
     },
     "strings": {
@@ -53,6 +52,7 @@
     "animationGroups": [
         {
             "scriptName": "bandit",
+            "isSlowWalking": false,
             "legacyPosition": 12,
             "animations": {
                 "walking": {
