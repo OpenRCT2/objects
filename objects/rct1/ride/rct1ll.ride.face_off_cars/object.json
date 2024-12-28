@@ -12,7 +12,7 @@
     "properties": {
         "type": "compact_inverted_rc",
         "category": "rollercoaster",
-        "limitAirT imeBonus": true,
+        "limitAirTimeBonus": true,
         "minCarsPerTrain": 2,
         "maxCarsPerTrain": 7,
         "ratingMultipler": {
