@@ -137,9 +137,9 @@
         "$G1[9341..9412]  // Pretzel.walking",
         "$G1[9413..9416]  // Pretzel.sittingIdle",
         "$G1[9461..9464]  // Pretzel.watchRide",
-        "$G1[9509..9580]  // SuJongkwa.walking",
-        "$G1[9581..9584]  // SuJongkwa.sittingIdle",
-        "$G1[9629..9632]  // SuJongkwa.watchRide",
+        "$G1[9509..9580]  // Sujeonggwa.walking",
+        "$G1[9581..9584]  // Sujeonggwa.sittingIdle",
+        "$G1[9629..9632]  // Sujeonggwa.watchRide",
         "$G1[9677..9748]  // Juice.walking",
         "$G1[9749..9752]  // Juice.sittingIdle",
         "$G1[9797..9800]  // Juice.watchRide",
@@ -2746,7 +2746,7 @@
             }
         },
         {
-            "scriptName": "suJongkwa",
+            "scriptName": "sujeonggwa",
             "isSlowWalking": true,
             "legacyPosition": 41,
             "animations": {
