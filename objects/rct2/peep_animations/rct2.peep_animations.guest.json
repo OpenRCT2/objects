@@ -126,38 +126,38 @@
         "$G1[8789..8836]  // Drink.sittingEatFood",
         "$G1[8837..8884]  // Drink.eatFood",
         "$G1[8885..8956]  // Coffee.walking",
-        "$G1[8957..8960]  // Coffee.sittingIdle",
-        "$G1[8981..8984]  // Coffee.watchRide",
+        "$G1[8957..8972]  // Coffee.sittingEatFood",
+        "$G1[8981..8996]  // Coffee.eatFood",
         "$G1[9005..9076]  // Chicken.walking",
-        "$G1[9077..9080]  // Chicken.sittingIdle",
-        "$G1[9125..9128]  // Chicken.watchRide",
+        "$G1[9077..9124]  // Chicken.sittingEatFood",
+        "$G1[9125..9172]  // Chicken.eatFood",
         "$G1[9173..9244]  // Lemonade.walking",
-        "$G1[9245..9248]  // Lemonade.sittingIdle",
-        "$G1[9293..9296]  // Lemonade.watchRide",
+        "$G1[9245..9292]  // Lemonade.sittingEatFood",
+        "$G1[9293..9340]  // Lemonade.eatFood",
         "$G1[9341..9412]  // Pretzel.walking",
-        "$G1[9413..9416]  // Pretzel.sittingIdle",
-        "$G1[9461..9464]  // Pretzel.watchRide",
+        "$G1[9413..9460]  // Pretzel.sittingEatFood",
+        "$G1[9461..9508]  // Pretzel.eatFood",
         "$G1[9509..9580]  // Sujeonggwa.walking",
-        "$G1[9581..9584]  // Sujeonggwa.sittingIdle",
-        "$G1[9629..9632]  // Sujeonggwa.watchRide",
+        "$G1[9581..9628]  // Sujeonggwa.sittingEatFood",
+        "$G1[9629..9676]  // Sujeonggwa.eatFood",
         "$G1[9677..9748]  // Juice.walking",
-        "$G1[9749..9752]  // Juice.sittingIdle",
-        "$G1[9797..9800]  // Juice.watchRide",
+        "$G1[9749..9796]  // Juice.sittingEatFood",
+        "$G1[9797..9844]  // Juice.eatFood",
         "$G1[9845..9916]  // FunnelCake.walking",
-        "$G1[9917..9920]  // FunnelCake.sittingIdle",
-        "$G1[9965..9968]  // FunnelCake.watchRide",
+        "$G1[9917..9964]  // FunnelCake.sittingEatFood",
+        "$G1[9965..10012]  // FunnelCake.eatFood",
         "$G1[10013..10084]  // Noodles.walking",
-        "$G1[10085..10088]  // Noodles.sittingIdle",
-        "$G1[10133..10136]  // Noodles.watchRide",
+        "$G1[10085..10132]  // Noodles.sittingEatFood",
+        "$G1[10133..10180]  // Noodles.eatFood",
         "$G1[10181..10252]  // Sausage.walking",
-        "$G1[10253..10256]  // Sausage.sittingIdle",
-        "$G1[10301..10304]  // Sausage.watchRide",
+        "$G1[10253..10300]  // Sausage.sittingEatFood",
+        "$G1[10301..10348]  // Sausage.eatFood",
         "$G1[10349..10420]  // Soup.walking",
-        "$G1[10421..10424]  // Soup.sittingIdle",
-        "$G1[10469..10472]  // Soup.watchRide",
+        "$G1[10421..10468]  // Soup.sittingEatFood",
+        "$G1[10469..10516]  // Soup.eatFood",
         "$G1[10517..10588]  // Sandwich.walking",
-        "$G1[10589..10592]  // Sandwich.sittingIdle",
-        "$G1[10637..10640]  // Sandwich.watchRide",
+        "$G1[10589..10636]  // Sandwich.sittingEatFood",
+        "$G1[10637..10684]  // Sandwich.eatFood",
         "$G1[10685..10708]  // Sunglasses.walking",
         "$G1[10709..10712]  // Sunglasses.sittingIdle",
         "$G1[10713..10716]  // Sunglasses.watchRide",
@@ -1423,7 +1423,7 @@
             "legacyPosition": 19,
             "animations": {
                 "walking": {
-                    "offset": 3425,
+                    "offset": 4329,
                     "sequence": [
                         0,
                         1,
@@ -1434,13 +1434,13 @@
                     ]
                 },
                 "watchRide": {
-                    "offset": 3421,
+                    "offset": 4325,
                     "sequence": [
                         0
                     ]
                 },
                 "sittingIdle": {
-                    "offset": 3449,
+                    "offset": 4353,
                     "sequence": [
                         0
                     ]
@@ -1453,7 +1453,7 @@
             "legacyPosition": 20,
             "animations": {
                 "walking": {
-                    "offset": 3457,
+                    "offset": 4361,
                     "sequence": [
                         0,
                         1,
@@ -1494,13 +1494,13 @@
                     ]
                 },
                 "watchRide": {
-                    "offset": 3453,
+                    "offset": 4357,
                     "sequence": [
                         0
                     ]
                 },
                 "eatFood": {
-                    "offset": 3581,
+                    "offset": 4485,
                     "sequence": [
                         0,
                         1,
@@ -1517,13 +1517,13 @@
                     ]
                 },
                 "sittingIdle": {
-                    "offset": 3529,
+                    "offset": 4433,
                     "sequence": [
                         0
                     ]
                 },
                 "sittingEatFood": {
-                    "offset": 3533,
+                    "offset": 4437,
                     "sequence": [
                         0,
                         1,
@@ -1547,7 +1547,7 @@
             "legacyPosition": 21,
             "animations": {
                 "walking": {
-                    "offset": 3805,
+                    "offset": 4709,
                     "sequence": [
                         0,
                         1,
@@ -1558,13 +1558,13 @@
                     ]
                 },
                 "watchRide": {
-                    "offset": 3829,
+                    "offset": 4733,
                     "sequence": [
                         0
                     ]
                 },
                 "sittingIdle": {
-                    "offset": 3833,
+                    "offset": 4737,
                     "sequence": [
                         0
                     ]
@@ -1653,7 +1653,7 @@
             "legacyPosition": 24,
             "animations": {
                 "walking": {
-                    "offset": 3633,
+                    "offset": 4537,
                     "sequence": [
                         0,
                         1,
@@ -1694,13 +1694,13 @@
                     ]
                 },
                 "watchRide": {
-                    "offset": 3629,
+                    "offset": 4533,
                     "sequence": [
                         0
                     ]
                 },
                 "eatFood": {
-                    "offset": 3757,
+                    "offset": 4661,
                     "sequence": [
                         0,
                         1,
@@ -1717,13 +1717,13 @@
                     ]
                 },
                 "sittingIdle": {
-                    "offset": 3705,
+                    "offset": 4609,
                     "sequence": [
                         0
                     ]
                 },
                 "sittingEatFood": {
-                    "offset": 3709,
+                    "offset": 4613,
                     "sequence": [
                         0,
                         1,
@@ -1849,7 +1849,7 @@
             "legacyPosition": 30,
             "animations": {
                 "walking": {
-                    "offset": 3393,
+                    "offset": 4297,
                     "sequence": [
                         0,
                         1,
@@ -1860,13 +1860,13 @@
                     ]
                 },
                 "watchRide": {
-                    "offset": 3389,
+                    "offset": 4293,
                     "sequence": [
                         0
                     ]
                 },
                 "sittingIdle": {
-                    "offset": 3417,
+                    "offset": 4321,
                     "sequence": [
                         0
                     ]
@@ -2337,13 +2337,13 @@
                     ]
                 },
                 "watchRide": {
-                    "offset": 2553,
+                    "offset": 2565,
                     "sequence": [
                         0
                     ]
                 },
                 "eatFood": {
-                    "offset": 2553,
+                    "offset": 2565,
                     "sequence": [
                         0,
                         1,
@@ -2390,7 +2390,7 @@
             "legacyPosition": 36,
             "animations": {
                 "walking": {
-                    "offset": 2557,
+                    "offset": 2581,
                     "sequence": [
                         0,
                         1,
@@ -2443,13 +2443,13 @@
                     ]
                 },
                 "watchRide": {
-                    "offset": 2633,
+                    "offset": 2701,
                     "sequence": [
                         0
                     ]
                 },
                 "eatFood": {
-                    "offset": 2633,
+                    "offset": 2701,
                     "sequence": [
                         0,
                         1,
@@ -2466,13 +2466,13 @@
                     ]
                 },
                 "sittingIdle": {
-                    "offset": 2629,
+                    "offset": 2653,
                     "sequence": [
                         0
                     ]
                 },
                 "sittingEatFood": {
-                    "offset": 2629,
+                    "offset": 2653,
                     "sequence": [
                         0,
                         1,
@@ -2496,7 +2496,7 @@
             "legacyPosition": 37,
             "animations": {
                 "walking": {
-                    "offset": 2637,
+                    "offset": 2749,
                     "sequence": [
                         0,
                         1,
@@ -2549,13 +2549,13 @@
                     ]
                 },
                 "watchRide": {
-                    "offset": 2713,
+                    "offset": 2869,
                     "sequence": [
                         0
                     ]
                 },
                 "eatFood": {
-                    "offset": 2713,
+                    "offset": 2869,
                     "sequence": [
                         0,
                         1,
@@ -2572,13 +2572,13 @@
                     ]
                 },
                 "sittingIdle": {
-                    "offset": 2709,
+                    "offset": 2821,
                     "sequence": [
                         0
                     ]
                 },
                 "sittingEatFood": {
-                    "offset": 2709,
+                    "offset": 2821,
                     "sequence": [
                         0,
                         1,
@@ -2615,7 +2615,7 @@
             "legacyPosition": 39,
             "animations": {
                 "walking": {
-                    "offset": 2717,
+                    "offset": 2917,
                     "sequence": [
                         0,
                         1,
@@ -2668,13 +2668,13 @@
                     ]
                 },
                 "watchRide": {
-                    "offset": 2793,
+                    "offset": 3037,
                     "sequence": [
                         0
                     ]
                 },
                 "eatFood": {
-                    "offset": 2793,
+                    "offset": 3037,
                     "sequence": [
                         0,
                         1,
@@ -2691,13 +2691,13 @@
                     ]
                 },
                 "sittingIdle": {
-                    "offset": 2789,
+                    "offset": 2989,
                     "sequence": [
                         0
                     ]
                 },
                 "sittingEatFood": {
-                    "offset": 2789,
+                    "offset": 2989,
                     "sequence": [
                         0,
                         1,
@@ -2721,7 +2721,7 @@
             "legacyPosition": 40,
             "animations": {
                 "walking": {
-                    "offset": 3357,
+                    "offset": 4261,
                     "sequence": [
                         0,
                         1,
@@ -2732,13 +2732,13 @@
                     ]
                 },
                 "watchRide": {
-                    "offset": 3385,
+                    "offset": 4289,
                     "sequence": [
                         0
                     ]
                 },
                 "sittingIdle": {
-                    "offset": 3381,
+                    "offset": 4285,
                     "sequence": [
                         0
                     ]
@@ -2751,7 +2751,7 @@
             "legacyPosition": 41,
             "animations": {
                 "walking": {
-                    "offset": 2797,
+                    "offset": 3085,
                     "sequence": [
                         0,
                         1,
@@ -2804,13 +2804,13 @@
                     ]
                 },
                 "watchRide": {
-                    "offset": 2873,
+                    "offset": 3205,
                     "sequence": [
                         0
                     ]
                 },
                 "eatFood": {
-                    "offset": 2873,
+                    "offset": 3205,
                     "sequence": [
                         0,
                         1,
@@ -2827,13 +2827,13 @@
                     ]
                 },
                 "sittingIdle": {
-                    "offset": 2869,
+                    "offset": 3157,
                     "sequence": [
                         0
                     ]
                 },
                 "sittingEatFood": {
-                    "offset": 2869,
+                    "offset": 3157,
                     "sequence": [
                         0,
                         1,
@@ -2857,7 +2857,7 @@
             "legacyPosition": 42,
             "animations": {
                 "walking": {
-                    "offset": 2877,
+                    "offset": 3253,
                     "sequence": [
                         0,
                         1,
@@ -2910,13 +2910,13 @@
                     ]
                 },
                 "watchRide": {
-                    "offset": 2953,
+                    "offset": 3373,
                     "sequence": [
                         0
                     ]
                 },
                 "eatFood": {
-                    "offset": 2953,
+                    "offset": 3373,
                     "sequence": [
                         0,
                         1,
@@ -2933,13 +2933,13 @@
                     ]
                 },
                 "sittingIdle": {
-                    "offset": 2949,
+                    "offset": 3325,
                     "sequence": [
                         0
                     ]
                 },
                 "sittingEatFood": {
-                    "offset": 2949,
+                    "offset": 3325,
                     "sequence": [
                         0,
                         1,
@@ -2963,7 +2963,7 @@
             "legacyPosition": 43,
             "animations": {
                 "walking": {
-                    "offset": 2957,
+                    "offset": 3421,
                     "sequence": [
                         0,
                         1,
@@ -3016,13 +3016,13 @@
                     ]
                 },
                 "watchRide": {
-                    "offset": 3033,
+                    "offset": 3541,
                     "sequence": [
                         0
                     ]
                 },
                 "eatFood": {
-                    "offset": 3033,
+                    "offset": 3541,
                     "sequence": [
                         0,
                         1,
@@ -3039,13 +3039,13 @@
                     ]
                 },
                 "sittingIdle": {
-                    "offset": 3029,
+                    "offset": 3493,
                     "sequence": [
                         0
                     ]
                 },
                 "sittingEatFood": {
-                    "offset": 3029,
+                    "offset": 3493,
                     "sequence": [
                         0,
                         1,
@@ -3069,7 +3069,7 @@
             "legacyPosition": 44,
             "animations": {
                 "walking": {
-                    "offset": 3037,
+                    "offset": 3589,
                     "sequence": [
                         0,
                         1,
@@ -3122,13 +3122,13 @@
                     ]
                 },
                 "watchRide": {
-                    "offset": 3113,
+                    "offset": 3709,
                     "sequence": [
                         0
                     ]
                 },
                 "eatFood": {
-                    "offset": 3113,
+                    "offset": 3709,
                     "sequence": [
                         0,
                         1,
@@ -3145,13 +3145,13 @@
                     ]
                 },
                 "sittingIdle": {
-                    "offset": 3109,
+                    "offset": 3661,
                     "sequence": [
                         0
                     ]
                 },
                 "sittingEatFood": {
-                    "offset": 3109,
+                    "offset": 3661,
                     "sequence": [
                         0,
                         1,
@@ -3175,7 +3175,7 @@
             "legacyPosition": 45,
             "animations": {
                 "walking": {
-                    "offset": 3117,
+                    "offset": 3757,
                     "sequence": [
                         0,
                         1,
@@ -3228,13 +3228,13 @@
                     ]
                 },
                 "watchRide": {
-                    "offset": 3193,
+                    "offset": 3877,
                     "sequence": [
                         0
                     ]
                 },
                 "eatFood": {
-                    "offset": 3193,
+                    "offset": 3877,
                     "sequence": [
                         0,
                         1,
@@ -3251,13 +3251,13 @@
                     ]
                 },
                 "sittingIdle": {
-                    "offset": 3189,
+                    "offset": 3829,
                     "sequence": [
                         0
                     ]
                 },
                 "sittingEatFood": {
-                    "offset": 3189,
+                    "offset": 3829,
                     "sequence": [
                         0,
                         1,
@@ -3281,7 +3281,7 @@
             "legacyPosition": 46,
             "animations": {
                 "walking": {
-                    "offset": 3197,
+                    "offset": 3925,
                     "sequence": [
                         0,
                         1,
@@ -3334,13 +3334,13 @@
                     ]
                 },
                 "watchRide": {
-                    "offset": 3273,
+                    "offset": 4045,
                     "sequence": [
                         0
                     ]
                 },
                 "eatFood": {
-                    "offset": 3273,
+                    "offset": 4045,
                     "sequence": [
                         0,
                         1,
@@ -3357,13 +3357,13 @@
                     ]
                 },
                 "sittingIdle": {
-                    "offset": 3269,
+                    "offset": 3997,
                     "sequence": [
                         0
                     ]
                 },
                 "sittingEatFood": {
-                    "offset": 3269,
+                    "offset": 3997,
                     "sequence": [
                         0,
                         1,
@@ -3387,7 +3387,7 @@
             "legacyPosition": 47,
             "animations": {
                 "walking": {
-                    "offset": 3277,
+                    "offset": 4093,
                     "sequence": [
                         0,
                         1,
@@ -3440,13 +3440,13 @@
                     ]
                 },
                 "watchRide": {
-                    "offset": 3353,
+                    "offset": 4213,
                     "sequence": [
                         0
                     ]
                 },
                 "eatFood": {
-                    "offset": 3353,
+                    "offset": 4213,
                     "sequence": [
                         0,
                         1,
@@ -3463,13 +3463,13 @@
                     ]
                 },
                 "sittingIdle": {
-                    "offset": 3349,
+                    "offset": 4165,
                     "sequence": [
                         0
                     ]
                 },
                 "sittingEatFood": {
-                    "offset": 3349,
+                    "offset": 4165,
                     "sequence": [
                         0,
                         1,
