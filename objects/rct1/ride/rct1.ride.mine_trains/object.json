@@ -560,7 +560,8 @@
             "ru-RU": "Шахтёрские поезда",
             "eo-ZZ": "Mintrajnoj",
             "ca-ES": "Trens de la mina",
-            "fi-FI": "Kaivosjunat"
+            "fi-FI": "Kaivosjunat",
+            "gl-ES": "Trens de mina"
         },
         "description": {
             "en-GB": "Mine train-themed roller coaster trains",
@@ -580,7 +581,8 @@
             "ru-RU": "Поезда для аттракционов, похожие те, что ходят в шахтах",
             "eo-ZZ": "Trajnoj de onda fervojo kun temo de mintrajno",
             "ca-ES": "Muntanya russa tematitzada com a tren de mina.",
-            "fi-FI": "Kaivosjunan näköisiksi teematut vuoristoratavaunut"
+            "fi-FI": "Kaivosjunan näköisiksi teematut vuoristoratavaunut",
+            "gl-ES": "Trens de montaña rusa con temática de tren de mina"
         },
         "capacity": {
             "en-GB": "2 or 4 passengers per car",
@@ -600,7 +602,8 @@
             "ru-RU": "2 или 4 пассажира на машину",
             "eo-ZZ": "Po 2 aŭ 4 pasaĝeroj por ĉaro",
             "ca-ES": "2 o 4 passatgers per vagoneta",
-            "fi-FI": "2 tai 4 matkustajaa per vaunu"
+            "fi-FI": "2 tai 4 matkustajaa per vaunu",
+            "gl-ES": "2 ou 4 pasaxeiros por coche"
         }
     },
     "noCsgImages": [

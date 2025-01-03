@@ -131,7 +131,8 @@
             "ru-RU": "Машины для автодрома",
             "eo-ZZ": "Doĝemoj",
             "ca-ES": "Cotxes de xoc",
-            "fi-FI": "Törmäilyautot"
+            "fi-FI": "Törmäilyautot",
+            "gl-ES": "Coches de choque"
         },
         "description": {
             "en-GB": "Riders bump into each other in self-drive electric dodgems",
@@ -152,7 +153,8 @@
             "ru-RU": "Пассажиры сталкиваются друг с другом в этих электрических мини-автомобилях",
             "eo-ZZ": "Rajdantoj albatiĝas al unu la alian per elektraj doĝemoj",
             "ca-ES": "Els passatgers condueixen cotxes de xoc elèctrics i xoquen entre ells.",
-            "fi-FI": "Kävijät törmäävät toisiinsa ajamissaan sähköautoissa"
+            "fi-FI": "Kävijät törmäävät toisiinsa ajamissaan sähköautoissa",
+            "gl-ES": "Os pasaxeiros chocan entre eles en coches de choque eléctricos de conducción autónoma"
         },
         "capacity": {
             "en-GB": "1 person per car",
@@ -172,7 +174,8 @@
             "ru-RU": "1 пассажир на машину",
             "eo-ZZ": "Po 1 ulo por ĉaro",
             "fi-FI": "1 matkustaja per auto",
-            "ca-ES": "1 persona per cotxe"
+            "ca-ES": "1 persona per cotxe",
+            "gl-ES": "1 person por coche"
         }
     }
 }

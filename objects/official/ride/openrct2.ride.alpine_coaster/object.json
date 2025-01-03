@@ -79,7 +79,8 @@
             "ca-ES": "Muntanya russa alpina",
             "pl-PL": "Tor saneczkowy",
             "fi-FI": "Alppivuoristoradan vaunut",
-            "ru-RU": "Альпийские машины"
+            "ru-RU": "Альпийские машины",
+            "gl-ES": "Vagóns de Montaña Rusa Alpina"
         },
         "description": {
             "en-GB": "Wheeled sleds equipped with manually operated brakes",
@@ -93,7 +94,8 @@
             "pl-PL": "Sanki na kołach wyposażone w ręcznie obsługiwane hamulce",
             "fi-FI": "Renkailla kulkevat reet, joissa on käsikäyttöiset jarrut",
             "zh-CN": "配备手动制动器的轮式雪橇",
-            "ru-RU": "Сани с колесами и ручными тормозами"
+            "ru-RU": "Сани с колесами и ручными тормозами",
+            "gl-ES": "Zorras con rodas equipados con freos manuais"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -107,7 +109,8 @@
             "pl-PL": "2 pasażerów na wagonik",
             "fi-FI": "2 matkustajaa per vaunu",
             "zh-CN": "2位乘客/车",
-            "ru-RU": "2 пассажира на машину"
+            "ru-RU": "2 пассажира на машину",
+            "gl-ES": "2 pasaxeiros por coche"
         }
     },
     "images": [

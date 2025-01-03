@@ -480,7 +480,8 @@
             "ru-RU": "Лодки для Речных Порогов",
             "eo-ZZ": "Boatoj de Rapidfluorajdo",
             "ca-ES": "Ràpids",
-            "fi-FI": "Koskiseikkailualukset"
+            "fi-FI": "Koskiseikkailualukset",
+            "gl-ES": "Botes de rápidos"
         },
         "description": {
             "en-GB": "Circular boats that turn and splash around as they meander along the river rapids",
@@ -500,7 +501,8 @@
             "ru-RU": "Круглые вращающиеся лодки, которые создают всплески во время путешествия по речным порогам",
             "eo-ZZ": "Rondaj boatoj, kiuj turniĝas kaj plaŭdas vagante laŭ la rapidfluoj",
             "ca-ES": "Bots circulars que giren i esquitxen mentre es mouen pel riu al llarg dels ràpids.",
-            "fi-FI": "Pyöreät alukset, jotka kääntyilevät ja roiskuvat koskea laskiessa"
+            "fi-FI": "Pyöreät alukset, jotka kääntyilevät ja roiskuvat koskea laskiessa",
+            "gl-ES": "Botes circulares que xiran e salpican mentres se deixan levar polos rápidos do río"
         },
         "capacity": {
             "en-GB": "8 passengers per boat",
@@ -520,7 +522,8 @@
             "ru-RU": "8 пассажиров на лодку",
             "eo-ZZ": "Po 8 pasaĝeroj por boato",
             "ca-ES": "8 passatgers per barqueta",
-            "fi-FI": "8 matkustajaa per alus"
+            "fi-FI": "8 matkustajaa per alus",
+            "gl-ES": "8 pasaxeiros por bote"
         }
     }
 }

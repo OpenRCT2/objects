@@ -1688,7 +1688,8 @@
             "ca-ES": "Muntanya russa amb tirabuixons",
             "pl-PL": "Kolejka korkociągowa",
             "fi-FI": "Korkkiruuvivuoristoratavaunut",
-            "ru-RU": "Штопорные поезда"
+            "ru-RU": "Штопорные поезда",
+            "gl-ES": "Trens de montaña rusa en espiral"
         },
         "description": {
             "en-GB": "Roller coaster trains with shoulder restraints",
@@ -1699,7 +1700,8 @@
             "ca-ES": "Muntanya russa amb tren i subjeccions per l’espatlla.",
             "pl-PL": "Zwarta przestrzennie kolejka ze stalowymi torami, w której wagoniki pokonują korkociągi i pętle",
             "fi-FI": "Vuoristoratavaunut, joissa on olkaturvakaiteet",
-            "ru-RU": "Поезда с безопасностью для плеч"
+            "ru-RU": "Поезда с безопасностью для плеч",
+            "gl-ES": "Trens de montaña rusa con suxeicións de ombreiro"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -1709,7 +1711,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "pl-PL": "4 pasażerów na wagonik",
             "fi-FI": "4 matkustajaa per vaunu",
-            "ru-RU": "4 пассажира на машину"
+            "ru-RU": "4 пассажира на машину",
+            "gl-ES": "4 pasaxeiros por coche"
         }
     }
 }

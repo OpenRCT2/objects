@@ -636,7 +636,8 @@
             "pl-PL": "Kolejka odwrotna",
             "fi-FI": "Käänteisvuoristoradan vaunut",
             "zh-CN": "倒置过山车列车",
-            "ru-RU": "Перевёрнутый поезд"
+            "ru-RU": "Перевёрнутый поезд",
+            "gl-ES": "Trens de montaña rusa invertida"
         },
         "description": {
             "en-GB": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
@@ -648,7 +649,8 @@
             "pl-PL": "Pasażerowie siedzą w fotelach podwieszonych pod torem, pokonując wielkie pętle, zakręty i zakręcone zjazdy",
             "fi-FI": "Käänteinen vuoristoratavaunu, jossa istuimet roikkuvat pareittain radan alapuolella.",
             "zh-CN": "倒置的过山车列车，由悬挂在轨道上方支撑架上的座椅组成。",
-            "ru-RU": "Сиденья, свешивающиеся вниз с поддерживающей рамки на треке сверху."
+            "ru-RU": "Сиденья, свешивающиеся вниз с поддерживающей рамки на треке сверху.",
+            "gl-ES": "Tren de montaña rusa invertida, composto por asentos pendurados dun marco de soporte que circula pola vía superior"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -668,7 +670,8 @@
             "ru-RU": "2 пассажира на машину",
             "eo-OO": "Po 2 pasaĝeroj por ĉaro",
             "ca-ES": "2 passatgers per cotxe",
-            "fi-FI": "2 matkustajaa per vaunu"
+            "fi-FI": "2 matkustajaa per vaunu",
+            "gl-ES": "2 pasaxeiros por coche"
         }
     }
 }

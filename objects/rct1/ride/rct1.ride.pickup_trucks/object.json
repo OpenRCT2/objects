@@ -221,7 +221,8 @@
             "ru-RU": "Грузовики",
             "eo-ZZ": "Kamionetoj",
             "ca-ES": "Camionetes",
-            "fi-FI": "Lava-autot"
+            "fi-FI": "Lava-autot",
+            "gl-ES": "Camionetas"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of pickup trucks",
@@ -241,7 +242,8 @@
             "ru-RU": "Электромашины в форме грузовиков",
             "eo-ZZ": "Ŝaltitaj veturiloj formitaj kiel kamionetoj",
             "ca-ES": "Vehicles tematitzats com a camionetes.",
-            "fi-FI": "Lava-auton muotoiset moottoroidut ajoneuvot"
+            "fi-FI": "Lava-auton muotoiset moottoroidut ajoneuvot",
+            "gl-ES": "Vehículos motorizados con forma de camioneta"
         },
         "capacity": {
             "en-GB": "1 passenger per truck",
@@ -261,7 +263,8 @@
             "ru-RU": "1 пассажир на грузовик",
             "eo-ZZ": "Po 1 pasaĝero por kamiono",
             "ca-ES": "1 passatger per camió",
-            "fi-FI": "1 matkustaja per auto"
+            "fi-FI": "1 matkustaja per auto",
+            "gl-ES": "1 pasaxeiro por camioneta"
         }
     }
 }

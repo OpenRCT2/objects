@@ -171,7 +171,8 @@
             "ru-RU": "Лошади",
             "eo-ZZ": "Ĉevaloj",
             "ca-ES": "Cavalls",
-            "fi-FI": "Hevoset"
+            "fi-FI": "Hevoset",
+            "gl-ES": "Cabalos"
         },
         "description": {
             "en-GB": "Single cars shaped like a horse",
@@ -192,7 +193,8 @@
             "ru-RU": "Машины в форме лошадей",
             "eo-ZZ": "Individuaj ĉaroj, formitaj kiel ĉevalo",
             "ca-ES": "Cotxes en forma de cavall.",
-            "fi-FI": "Yksittäiset hevosenmuotoiset ajoneuvot"
+            "fi-FI": "Yksittäiset hevosenmuotoiset ajoneuvot",
+            "gl-ES": "Coches únicos con forma de cabalo"
         },
         "capacity": {
             "en-GB": "2 riders per horse",
@@ -212,7 +214,8 @@
             "ru-RU": "2 пассажира на лошадь",
             "eo-ZZ": "Po 2 rajdantoj por ĉevalo",
             "ca-ES": "2 genets per cavall",
-            "fi-FI": "2 ratsastajaa per hevonen"
+            "fi-FI": "2 ratsastajaa per hevonen",
+            "gl-ES": "2 xinetes por cabalo"
         }
     }
 }
