@@ -282,7 +282,8 @@
             "pt-BR": "Carros de Balanço Individuais",
             "ca-ES": "Cotxes balancí individuals",
             "pl-PL": "Podwieszana minikolejka (siedząca)",
-            "fi-FI": "Henkilökohtaiset keinuvat vaunut"
+            "fi-FI": "Henkilökohtaiset keinuvat vaunut",
+            "ru-RU": "Качающиеся машины"
         },
         "description": {
             "en-GB": "Single-seater cars which hang from the rail above, and are free to swing from side to side",
@@ -291,7 +292,8 @@
             "pt-BR": "Carros individuais suspensos por um trilho que estão livres para balançar de um lado a outro",
             "ca-ES": "Cotxes individuals que pengen d'un rail i que balancegen de costat a costat.",
             "pl-PL": "Pasażerowie jeżdżą w pozycji siedzącej, w specjalnych wagonikach podwieszonych pod pojedynczym torem, które bujają się swobodnie na zakrętach",
-            "fi-FI": "Yhden henkilön vaunut, jotka keinuvat vapaasti kiskon alla"
+            "fi-FI": "Yhden henkilön vaunut, jotka keinuvat vapaasti kiskon alla",
+            "ru-RU": "Машины для одного, подвешенные на рельс сверху, что позволяет им раскачиваться"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -308,7 +310,7 @@
             "cs-CZ": "1 místo v každém voze",
             "ja-JP": "各車両1名",
             "pl-PL": "1 pasażer na wagonik",
-            "ru-RU": "1 пассажир",
+            "ru-RU": "1 пассажир на машину",
             "eo-ZZ": "Po 1 pasaĝero por ĉaro",
             "ca-ES": "1 passatger per cotxe",
             "fi-FI": "1 matkustaja per vaunu"

@@ -3024,7 +3024,8 @@
             "ca-ES": "Muntanya russa (cap enrere)",
             "pl-PL": "Opływowy przód (odwrócony)",
             "fi-FI": "Vuoristoratavaunut (takaperin)",
-            "zh-CN": "过山车列车（反向）"
+            "zh-CN": "过山车列车（反向）",
+            "ru-RU": "Поезда для аттракционов (реверс)"
         },
         "description": {
             "en-GB": "Roller coaster train running in reverse, so that the passengers face backwards.",
@@ -3035,7 +3036,8 @@
             "ca-ES": "Muntanya russa amb trens que circulen a l’inrevés, de manera que els passatgers es mouen cap enrere.",
             "pl-PL": "Opływowy pojazd z odwróconymi wagonikami, tak aby pasażerowie byli skierowani tyłem do kierunku jazdy",
             "fi-FI": "Vuoristoradan vaunut takaperin ajettuna niin, että matkustajat istuvat selkä menosuuntaan päin",
-            "zh-CN": "过山车列车反向运行，使乘客面朝后方。"
+            "zh-CN": "过山车列车反向运行，使乘客面朝后方。",
+            "ru-RU": "Поезда для аттракционов, едущие в обратную сторону: пассажиры повернуты лицом назад."
         },
         "capacity": {
             "en-GB": "4 riders per car",
@@ -3052,7 +3054,7 @@
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
-            "ru-RU": "4 пасс на вагон",
+            "ru-RU": "4 пассажира на машину",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu"

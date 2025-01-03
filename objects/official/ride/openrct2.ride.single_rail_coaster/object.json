@@ -164,7 +164,8 @@
             "nb-NO": "Enkeltspor berg-og-dal-bane-tog",
             "pt-BR": "Trens de Montanha-Russa de Trilho Único",
             "pl-PL": "Kolejka jednoszynowa",
-            "fi-FI": "Yksikiskoisen vuoristoradan vaunut"
+            "fi-FI": "Yksikiskoisen vuoristoradan vaunut",
+            "ru-RU": "Однорельсовые поезда"
         },
         "description": {
             "en-GB": "Roller coaster trains in which riders are seated single file",
@@ -179,7 +180,8 @@
             "pt-BR": "Trens de montanha russa onde os passageiros sentam-se em fila única",
             "pl-PL": "Kolejka z wagonami, w których pasażerowie siedzą jeden za drugim",
             "fi-FI": "Vuoristoratavaunut, joissa matkustajat istuvat jonossa",
-            "zh-CN": "乘客排成一列坐的过山车"
+            "zh-CN": "乘客排成一列坐的过山车",
+            "ru-RU": "Поезда, в которых пассажиры сидят друг за другом"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -194,7 +196,8 @@
             "pt-BR": "1 passageiro por carro",
             "pl-PL": "1 pasażer na wagonik",
             "fi-FI": "1 matkustaja per vaunu",
-            "zh-CN": "1位乘客/车"
+            "zh-CN": "1位乘客/车",
+            "ru-RU": "1 пассажир на машину"
         }
     },
     "images": [

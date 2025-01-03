@@ -827,7 +827,8 @@
             "fi-FI": "Pandavaunut",
             "zh-CN": "熊猫特快",
             "hu-HU": "Panda vonatok",
-            "nb-NO": "Panda-tog"
+            "nb-NO": "Panda-tog",
+            "ru-RU": "Поезда-панды"
         },
         "description": {
             "en-GB": "Roller coaster trains with cuddly panda cars",
@@ -848,7 +849,8 @@
             "fi-FI": "Pandan muotoiset vuoristoratavaunut",
             "zh-CN": "熊猫形状列车的过山车",
             "hu-HU": "Hullámvasút vonatok, aranyos panda kocsikal",
-            "nb-NO": "Berg-og-dal-bane-tog med koslige panda-vogner"
+            "nb-NO": "Berg-og-dal-bane-tog med koslige panda-vogner",
+            "ru-RU": "Поезда для аттракционов с мягкими машинами в форме панд"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -869,7 +871,8 @@
             "fi-FI": "1 matkustaja per vaunu",
             "zh-CN": "1位乘客/车",
             "hu-HU": "1 utas kocsinként",
-            "nb-NO": "1 passasjer per vogn"
+            "nb-NO": "1 passasjer per vogn",
+            "ru-RU": "1 пассажир на машину"
         }
     }
 }

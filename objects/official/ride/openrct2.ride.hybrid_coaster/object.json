@@ -170,7 +170,8 @@
             "nb-NO": "Hybrid berg-og-dal-bane-tog",
             "pt-BR": "Trens de Montanha-Russa Híbrida",
             "pl-PL": "Kolejka hybrydowa",
-            "fi-FI": "Hybridivuoristoradan vaunut"
+            "fi-FI": "Hybridivuoristoradan vaunut",
+            "ru-RU": "Гибридные поезда"
         },
         "description": {
             "en-GB": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
@@ -185,7 +186,8 @@
             "pt-BR": "Trens de montanha russa com proteção de colo, capazes de quedas íngremes e inversões",
             "pl-PL": "Kolejka górska z prostymi zabezpieczeniami, zdolna do stromych zjazdów i inwersji",
             "fi-FI": "Vuoristoratavaunut, joissa on syliturvakaiteet, pystyen jyrkkiin pudotuksiin ja käänteisiin",
-            "zh-CN": "带搭接限制器，可进行陡降和倒转运动的过山车"
+            "zh-CN": "带搭接限制器，可进行陡降和倒转运动的过山车",
+            "ru-RU": "Поезда с безопасностью для ног, способные совершать резкие падения и перевороты"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -200,7 +202,8 @@
             "pt-BR": "4 passageiros por carro",
             "pl-PL": "4 pasażerów na wagonik",
             "fi-FI": "4 matkustajaa per vaunu",
-            "zh-CN": "4位乘客/车"
+            "zh-CN": "4位乘客/车",
+            "ru-RU": "4 пассажира на машину"
         }
     },
     "images": [

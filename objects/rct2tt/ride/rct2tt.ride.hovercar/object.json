@@ -77,7 +77,7 @@
         ]
     },
     "images": [
-         { "path":"images/preview.png" },
+        { "path": "images/preview.png" },
         "",
         "",
         "$RCT2:OBJDATA/HOVERCAR.DAT[3..234]",
@@ -120,7 +120,7 @@
             "pt-BR": "A tecnologia de levitação magnética foi implementada para criar a ilusão de carros flutuantes futuristas",
             "cs-CZ": "Vozy ve tvaru futuristických vznášedel jezdí po postavené dráze",
             "pl-PL": "Technologia kolei magnetycznej umożliwiła stworzenie złudzenia futurystycznych latających samochodów",
-            "ru-RU": "С помощью мощных магнитов создаётся иллюзия парящих машин",
+            "ru-RU": "Иллюзия футуристических летающих машин, созданная через технологию магнитной левитации",
             "eo-ZZ": "Teknologio de magneta levitacio estis realigita por krei la iluzion de estontecaj flugpendantaj aŭtoj",
             "ca-ES": "En aquesta atracció, s’usa la tecnologia de levitació magnètica per a crear la il·lusió de viatjar en cotxes planadors futurístics.",
             "fi-FI": "Maglev-tekniikalla toteutetut futurististen liitoautojen illuusion kehittävät ajoneuvot",
@@ -142,7 +142,7 @@
             "cs-CZ": "1 místo v každém voze",
             "ja-JP": "各車両1名",
             "pl-PL": "1 pasażer na wagonik",
-            "ru-RU": "1 пассажир",
+            "ru-RU": "1 пассажир на машину",
             "eo-ZZ": "Po 1 pasaĝero por aŭto",
             "ca-ES": "1 passatger per cotxe",
             "fi-FI": "1 matkustaja per auto",

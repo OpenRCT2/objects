@@ -78,7 +78,8 @@
             "pt-BR": "Carros da Montanha-Russa Alpina",
             "ca-ES": "Muntanya russa alpina",
             "pl-PL": "Tor saneczkowy",
-            "fi-FI": "Alppivuoristoradan vaunut"
+            "fi-FI": "Alppivuoristoradan vaunut",
+            "ru-RU": "Альпийские машины"
         },
         "description": {
             "en-GB": "Wheeled sleds equipped with manually operated brakes",
@@ -91,7 +92,8 @@
             "ca-ES": "Trineus amb rodes i equipats amb frens que operen els passatgers.",
             "pl-PL": "Sanki na kołach wyposażone w ręcznie obsługiwane hamulce",
             "fi-FI": "Renkailla kulkevat reet, joissa on käsikäyttöiset jarrut",
-            "zh-CN": "配备手动制动器的轮式雪橇"
+            "zh-CN": "配备手动制动器的轮式雪橇",
+            "ru-RU": "Сани с колесами и ручными тормозами"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -104,7 +106,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "pl-PL": "2 pasażerów na wagonik",
             "fi-FI": "2 matkustajaa per vaunu",
-            "zh-CN": "2位乘客/车"
+            "zh-CN": "2位乘客/车",
+            "ru-RU": "2 пассажира на машину"
         }
     },
     "images": [

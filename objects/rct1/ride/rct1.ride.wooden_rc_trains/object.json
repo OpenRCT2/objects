@@ -774,7 +774,8 @@
             "ca-ES": "Muntanya russa de fusta",
             "pl-PL": "Drewniana jazda",
             "fi-FI": "Puisen vuoristoradan vaunut",
-            "zh-CN": "木制过山车列车"
+            "zh-CN": "木制过山车列车",
+            "ru-RU": "Деревянные поезда"
         },
         "description": {
             "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints",
@@ -785,7 +786,8 @@
             "ca-ES": "Muntanya russa amb trens amb seients encoixinats amb barres de subjecció per la falda.",
             "pl-PL": "Drewniane wagoniki z wyściełanymi siedzeniami i zabezpieczeniami obejmującymi pasażerów w pasie",
             "fi-FI": "Puisen vuoristoradan vaunut, joissa on pehmustetut istuimet ja turvakaiteet",
-            "zh-CN": "木制过山车列车，配有软垫座椅和膝部约束杆"
+            "zh-CN": "木制过山车列车，配有软垫座椅和膝部约束杆",
+            "ru-RU": "Деревянные поезда для аттракционов с набитыми сиденьями и безопасностью для ног"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -802,7 +804,7 @@
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
-            "ru-RU": "4 пассажира",
+            "ru-RU": "4 пассажира на машину",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu"

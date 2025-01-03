@@ -162,18 +162,21 @@
             "en-GB": "Modern Twister Trains",
             "nl-NL": "Moderne twistertrein",
             "ca-ES": "Muntanya russa Tornado moderna",
-            "pl-PL": "Nowoczesna zwijka"
+            "pl-PL": "Nowoczesna zwijka",
+            "ru-RU": "Современные поезда-твистер"
         },
         "description": {
             "en-GB": "Spacious trains with lap restraints, capable of tight twists and inversions",
             "nl-NL": "Ruime treinen met schootbeugels die geschikt zijn voor sterk kronkelende baan en over de kop kunnen.",
             "ca-ES": "Trens espaiosos amb subjecció per l’espatlla i que té girs i inversions brusques.",
-            "pl-PL": "Przestronne wagoniki z zabezpieczeniami obejmującymi pasażerów w pasie, zdolne do pokonywania ciasnych zakrętów i inwersji"
+            "pl-PL": "Przestronne wagoniki z zabezpieczeniami obejmującymi pasażerów w pasie, zdolne do pokonywania ciasnych zakrętów i inwersji",
+            "ru-RU": "Просторные поезда с безопасностью для ног, способные совершать легкие твисты и перевороты"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
             "nl-NL": "4 passagiers per karretje",
-            "ca-ES": "4 passatgers per cotxe"
+            "ca-ES": "4 passatgers per cotxe",
+            "ru-RU": "4 пассажира на машину"
         }
     },
     "images": [
