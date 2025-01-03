@@ -572,7 +572,8 @@
             "ru-RU": "Мышки",
             "eo-ZZ": "Musoĉaroj",
             "ca-ES": "Cotxes ratolí",
-            "fi-FI": "Hiirivaunut"
+            "fi-FI": "Hiirivaunut",
+            "gl-ES": "Coches do rato"
         },
         "description": {
             "en-GB": "Individual cars shaped like mice",
@@ -592,7 +593,8 @@
             "ru-RU": "Машинки в виде мышек",
             "eo-ZZ": "Individualaj ĉaroj formitaj kiel musoj",
             "ca-ES": "Cotxes individuals en forma de ratolí.",
-            "fi-FI": "Yksittäiset hiiren muotoiset vaunut"
+            "fi-FI": "Yksittäiset hiiren muotoiset vaunut",
+            "gl-ES": "Coches individuais con forma de rato"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -609,7 +611,7 @@
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
-            "ru-RU": "4 пассажира",
+            "ru-RU": "4 пассажира на машину",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu"

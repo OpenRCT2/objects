@@ -477,10 +477,11 @@
             "cs-CZ": "Divoká voda",
             "ja-JP": "リバー・ラピッド",
             "pl-PL": "Przełomy Dunajca",
-            "ru-RU": "Перекаты",
+            "ru-RU": "Лодки для Речных Порогов",
             "eo-ZZ": "Boatoj de Rapidfluorajdo",
             "ca-ES": "Ràpids",
-            "fi-FI": "Koskiseikkailualukset"
+            "fi-FI": "Koskiseikkailualukset",
+            "gl-ES": "Botes de rápidos"
         },
         "description": {
             "en-GB": "Circular boats that turn and splash around as they meander along the river rapids",
@@ -497,10 +498,11 @@
             "cs-CZ": "Kulaté lodě se plaví po meandrech na vodním kanále a sjíždějí pěnící peřeje",
             "ja-JP": "円形のボートが、滝や急流のある幅の広い水路を曲がりながら流れて行くスリリングな乗物です",
             "pl-PL": "Okrągłe łódki pokonujące szeroki kanał wodny, spadające z wodospadów i przepływające przez spienione bystrzyny",
-            "ru-RU": "Круглые лодки плывут по широкому каналу, попадая на водопады и стремительные перекаты",
+            "ru-RU": "Круглые вращающиеся лодки, которые создают всплески во время путешествия по речным порогам",
             "eo-ZZ": "Rondaj boatoj, kiuj turniĝas kaj plaŭdas vagante laŭ la rapidfluoj",
             "ca-ES": "Bots circulars que giren i esquitxen mentre es mouen pel riu al llarg dels ràpids.",
-            "fi-FI": "Pyöreät alukset, jotka kääntyilevät ja roiskuvat koskea laskiessa"
+            "fi-FI": "Pyöreät alukset, jotka kääntyilevät ja roiskuvat koskea laskiessa",
+            "gl-ES": "Botes circulares que xiran e salpican mentres se deixan levar polos rápidos do río"
         },
         "capacity": {
             "en-GB": "8 passengers per boat",
@@ -517,10 +519,11 @@
             "cs-CZ": "8 míst v každé lodi",
             "ja-JP": "各ボート8名",
             "pl-PL": "8 pasażerów na łódkę",
-            "ru-RU": "8 пассажиров",
+            "ru-RU": "8 пассажиров на лодку",
             "eo-ZZ": "Po 8 pasaĝeroj por boato",
             "ca-ES": "8 passatgers per barqueta",
-            "fi-FI": "8 matkustajaa per alus"
+            "fi-FI": "8 matkustajaa per alus",
+            "gl-ES": "8 pasaxeiros por bote"
         }
     }
 }

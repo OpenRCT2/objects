@@ -506,7 +506,8 @@
             "ru-RU": "Бревна",
             "eo-ZZ": "Ŝtipo-Trajnoj",
             "ca-ES": "Trens troncs",
-            "fi-FI": "Tukkivaunut"
+            "fi-FI": "Tukkivaunut",
+            "gl-ES": "Trens de troncos"
         },
         "description": {
             "en-GB": "Roller coaster trains with small log-shaped cars",
@@ -523,10 +524,11 @@
             "cs-CZ": "Horská dráha s vozy ve tvaru klád",
             "ja-JP": "丸太の形をした車両のローラーコースターです",
             "pl-PL": "Kolejka górska z wagonikami w kształcie pni drzew",
-            "ru-RU": "Поезда с небольшими вагончиками.",
+            "ru-RU": "Поезд с миниатюрными машинами в форме бревна.",
             "eo-ZZ": "Trajnoj de onda fervojo kun malgrandaj ŝtipoformaj ĉaroj",
             "ca-ES": "Muntanya russa amb trens que semblen troncs.",
-            "fi-FI": "Pienet tukin muotoiset vuoristoratavaunut"
+            "fi-FI": "Pienet tukin muotoiset vuoristoratavaunut",
+            "gl-ES": "Trens de montaña rusa con pequenos coches en forma de tronco"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -543,11 +545,12 @@
             "cs-CZ": "2 místa v každém vozu",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
-            "ru-RU": "2 пассажира",
+            "ru-RU": "2 пассажира на машину",
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
             "ar-EG": "2 راكب لكل عربة",
             "ca-ES": "2 passatgers per cotxe",
-            "fi-FI": "2 matkustajaa per vaunu"
+            "fi-FI": "2 matkustajaa per vaunu",
+            "gl-ES": "2 pasaxeiros por coche"
         }
     }
 }

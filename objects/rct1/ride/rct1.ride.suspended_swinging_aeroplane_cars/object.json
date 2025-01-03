@@ -659,10 +659,11 @@
             "cs-CZ": "Zavěšené houpající se aeroplány",
             "ja-JP": "サスペンデッド・スイング飛行車両",
             "pl-PL": "Swobodnie podwieszone wagoniki samolotowe",
-            "ru-RU": "Аэропланы",
+            "ru-RU": "Раскачивающиеся подвесные самолёты",
             "eo-ZZ": "Penditaj Svingiĝantaj Aeroplano-Ĉaroj",
             "ca-ES": "Avions",
-            "fi-FI": "Riippuvat lentokone-keinuvaunut"
+            "fi-FI": "Riippuvat lentokone-keinuvaunut",
+            "gl-ES": "Suspended Coches de avión oscilantes"
         },
         "description": {
             "en-GB": "Suspended roller coaster trains consisting of aeroplane-shaped cars able to swing freely as the train goes around corners",
@@ -680,10 +681,11 @@
             "cs-CZ": "Zavěšená horská dráha z volné zavěšených vozů ve tvaru aeroplánu, které se naklání při jízdě do zatáček",
             "ja-JP": "ぶら下がった飛行機型の車両が、コーナーで大きく揺れ動くコースターです",
             "pl-PL": "Kolejka górska z podwieszanymi wagonikami w kształcie samolotów, które mogą się swobodnie kołysać podczas pokonywania zakrętów",
-            "ru-RU": "Suspended roller coaster train consisting of airplane shaped cars able to swing freely as the train goes around corners",
+            "ru-RU": "Подвесной поезд, состоящий из машин-самолётов, свободно раскачивающихся на резких поворотах",
             "eo-ZZ": "Penditaj trajnoj de onda fervojo, kiuj konsistas el aeroplanoformaj ĉaroj, kiuj svingiĝas libere kiam la trajno iras ĉirkau anguloj",
             "ca-ES": "Muntanya russa amb trens penjants amb cotxes en forma d’avió que es balancegen quan passen per les corbes.",
-            "fi-FI": "Lentokoneen muotoiset vapaasti käänteissä keinuvat riippuvat vuoristoratavaunut"
+            "fi-FI": "Lentokoneen muotoiset vapaasti käänteissä keinuvat riippuvat vuoristoratavaunut",
+            "gl-ES": "Trens de montaña rusa suspendidos compostos por coches con forma de avión que poden oscilar libremente mentres o tren vira polas curvas"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -700,7 +702,7 @@
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
-            "ru-RU": "4 пассажираpa",
+            "ru-RU": "4 пассажира на машину",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu"

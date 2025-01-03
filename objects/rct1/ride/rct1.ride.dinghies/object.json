@@ -164,7 +164,8 @@
             "ru-RU": "Шлюпки",
             "eo-ZZ": "Boatetoj",
             "ca-ES": "Bots inflables",
-            "fi-FI": "Puhallettavat veneet"
+            "fi-FI": "Puhallettavat veneet",
+            "gl-ES": "Botes pequenos"
         },
         "description": {
             "en-GB": "Inflatable dinghies that can twist down a semi-circular or completely enclosed tube track",
@@ -181,10 +182,11 @@
             "cs-CZ": "Návštěvníci jedou v nafukovacích člunech po tobogánu",
             "ja-JP": "ねじれた半円形のコース、またはパイプの中を通るゴムボートです",
             "pl-PL": "Pasażerowie podróżują w nadmuchiwanych pontonach po zawiłym półkolistym lub rurowym torze",
-            "ru-RU": "Люди катаются в шлюпках.",
+            "ru-RU": "Надувные шлюпки, которые могут плыть по полу- или полностью закрытой трубе.",
             "eo-ZZ": "Plenblovitaj boatetoj, kiuj malsupreniras kurboplenan duoncirklan aŭ cirklan tubotrakon",
             "ca-ES": "Bots inflables que baixen per uns tubs semicirculars o totalment tancats.",
-            "fi-FI": "Matkustajat liukuvat puhallettavissa veneissä alas puolikuun tai umpinaisen putken muotoista rataa"
+            "fi-FI": "Matkustajat liukuvat puhallettavissa veneissä alas puolikuun tai umpinaisen putken muotoista rataa",
+            "gl-ES": "Botes pequenos inflables que poden xirar por unha pista tubular semicírcular ou completamente pechada"
         },
         "capacity": {
             "en-GB": "2 passengers per dinghy",
@@ -201,10 +203,11 @@
             "cs-CZ": "2 místa v každé lodi",
             "ja-JP": "各ボート2名",
             "pl-PL": "2 pasażerów na ponton",
-            "ru-RU": "2 пассажира",
+            "ru-RU": "2 пассажира на шлюпку",
             "eo-ZZ": "Po 2 pasaĝeroj por boateto",
             "ca-ES": "2 passatgers per bot inflable",
-            "fi-FI": "2 matkustajaa per vene"
+            "fi-FI": "2 matkustajaa per vene",
+            "gl-ES": "2 pasaxeiros por bote"
         }
     },
     "noCsgImages": [

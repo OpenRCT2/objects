@@ -296,10 +296,11 @@
             "cs-CZ": "Aerodynamické jednokolejné vlaky",
             "ja-JP": "流線型のモノレール車両",
             "pl-PL": "Opływowa kolejka jednoszynowa",
-            "ru-RU": "Моно-паровозики",
+            "ru-RU": "Гладкие монорельсовые поезда",
             "eo-ZZ": "Aerodinamikaj Monorelaj Trajnoj",
             "ca-ES": "Trens monorails aerodinàmics",
-            "fi-FI": "Virtaviivaiset kohoratavaunut"
+            "fi-FI": "Virtaviivaiset kohoratavaunut",
+            "gl-ES": "Trens de monorraíl aerodinámicos"
         },
         "description": {
             "en-GB": "Large capacity monorail trains with streamlined front and rear cars",
@@ -316,10 +317,11 @@
             "cs-CZ": "Velkokapacitní jednokolejné vlaky s aerodynamickou přídí a zádí",
             "ja-JP": "流線型の先頭車と客車から成る、定員の多いモノレールです",
             "pl-PL": "Pojemne wagony jednoszynowe, opływowe na obu końcach",
-            "ru-RU": "Вместимые монорельсовые поезда с паровозами",
+            "ru-RU": "Вместитильные поезда для монорельсов, с гладкими передними и задними машинами",
             "eo-ZZ": "Grandspacaj monorelaj trajnoj kun aerodinamikaj frontaj kaj postaj ĉaroj",
             "ca-ES": "Trens monorail de gran capacitat amb els cotxes davanter i posterior aerodinàmics.",
-            "fi-FI": "Suuren kapasiteetin kohoratajunat, joissa on virtaviivaiset etu- ja takavaunut"
+            "fi-FI": "Suuren kapasiteetin kohoratajunat, joissa on virtaviivaiset etu- ja takavaunut",
+            "gl-ES": "Trens de monorraíl de gran capacidade con coches aerodinámicos dianteiro e traseiro"
         },
         "capacity": {
             "en-GB": "5 or 10 passengers per car",
@@ -336,7 +338,7 @@
             "cs-CZ": "5 nebo 10 míst v každém vagónu",
             "ja-JP": "各車両5名または10名",
             "pl-PL": "5 lub 10 pasażerów na wagonik",
-            "ru-RU": "5 или 10 пассажиров",
+            "ru-RU": "5 или 10 пассажиров на машину",
             "eo-ZZ": "Po 5 aŭ 10 pasaĝeroj por ĉaro",
             "ca-ES": "5 o 10 passatgers per cotxe",
             "fi-FI": "5 tai 10 matkustajaa per vaunu"

@@ -168,10 +168,11 @@
             "cs-CZ": "Dostihy",
             "ja-JP": "障害物競馬",
             "pl-PL": "Bieg z przeszkodami",
-            "ru-RU": "Стиплчез",
+            "ru-RU": "Лошади",
             "eo-ZZ": "Ĉevaloj",
             "ca-ES": "Cavalls",
-            "fi-FI": "Hevoset"
+            "fi-FI": "Hevoset",
+            "gl-ES": "Cabalos"
         },
         "description": {
             "en-GB": "Single cars shaped like a horse",
@@ -189,10 +190,11 @@
             "cs-CZ": "Vozy ve tvaru koní vozí návštěvníky po jednokolejné trati",
             "ja-JP": "シングルレールコースを馬の形の車両が走行する乗物です",
             "pl-PL": "Pasażerowie jadą pojazdami w kształcie koni, poruszającymi się po jednoszynowym torze kolejki",
-            "ru-RU": "Люди едут на машинках в виде лошадей.",
+            "ru-RU": "Машины в форме лошадей",
             "eo-ZZ": "Individuaj ĉaroj, formitaj kiel ĉevalo",
             "ca-ES": "Cotxes en forma de cavall.",
-            "fi-FI": "Yksittäiset hevosenmuotoiset ajoneuvot"
+            "fi-FI": "Yksittäiset hevosenmuotoiset ajoneuvot",
+            "gl-ES": "Coches únicos con forma de cabalo"
         },
         "capacity": {
             "en-GB": "2 riders per horse",
@@ -209,10 +211,11 @@
             "cs-CZ": "2 místa na každém koni",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na konia",
-            "ru-RU": "2 пассажира",
+            "ru-RU": "2 пассажира на лошадь",
             "eo-ZZ": "Po 2 rajdantoj por ĉevalo",
             "ca-ES": "2 genets per cavall",
-            "fi-FI": "2 ratsastajaa per hevonen"
+            "fi-FI": "2 ratsastajaa per hevonen",
+            "gl-ES": "2 xinetes por cabalo"
         }
     }
 }

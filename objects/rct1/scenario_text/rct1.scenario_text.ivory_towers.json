@@ -21,7 +21,8 @@
             "ja-JP": "アイボリー・タワーズ",
             "pt-BR": "Torres de Marfim",
             "zh-CN": "象牙塔",
-            "pl-PL": "Wieże Białej Kości"
+            "pl-PL": "Wieże Białej Kości",
+            "gl-ES": "Torres de Marfil"
         },
         "park_name": {
             "ca-ES": "Les torres de vori",
@@ -34,7 +35,8 @@
             "ko-KR": "상아 탑",
             "pt-BR": "Torres de Marfim",
             "zh-CN": "象牙塔",
-            "pl-PL": "Wieże Białej Kości"
+            "pl-PL": "Wieże Białej Kości",
+            "gl-ES": "Torres de Marfil"
         },
         "details": {
             "ca-ES": "Un parc ben establert que té alguns problemes.",
@@ -55,7 +57,9 @@
             "sv-SE": "En välgrundad park som har några problem",
             "tr-TR": "Küçük araziye fakat büyük sorunlara sahip bir lunapark",
             "zh-CN": "一个完善的但拥有一些小问题的公园。",
-            "zh-TW": "一個有數項問題的知名樂園"
+            "zh-TW": "一個有數項問題的知名樂園",
+            "ru-RU": "Хорошо известный парк, у которого есть несколько проблем",
+            "gl-ES": "Un parque ben consolidado, que ten algúns problemas"
         }
     }
 }

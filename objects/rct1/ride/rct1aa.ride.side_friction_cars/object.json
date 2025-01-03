@@ -260,10 +260,11 @@
             "cs-CZ": "Horská dráha s bočním uchycením",
             "ja-JP": "木造のサイドフリクション車両",
             "pl-PL": "Drewniane wagoniki \"Tarcie Boczne\"",
-            "ru-RU": "Дерев. вагончики",
+            "ru-RU": "Деревянные машины с боковым трением",
             "eo-ZZ": "Ĉaroj de Ligna Onda Fervojo kun Flanka Froto",
             "ca-ES": "Cotxes de fusta de fricció lateral",
-            "fi-FI": "Puiset sivukitkavaunut"
+            "fi-FI": "Puiset sivukitkavaunut",
+            "gl-ES": "Vagóns de Madeira con Fricción Lateral"
         },
         "description": {
             "en-GB": "Basic cars for the Side-Friction Roller Coaster",
@@ -280,10 +281,11 @@
             "cs-CZ": "Po dráze jezdí vozy, které mají kola horizontálně uložená pod podlahou a opírají se jimi o stěny dráhy",
             "ja-JP": "ベーシックな車両の、サイドフリクションローラーコースターです",
             "pl-PL": "Podstawowe wagoniki dla kolejki \"Tarcie Boczne\"",
-            "ru-RU": "Вагончики для боковых горок.",
+            "ru-RU": "Машины для аттракционов с боковым трением.",
             "eo-ZZ": "Bazaj ĉaroj por la Ligna Onda Fervojo kun Flanka Froto",
             "ca-ES": "Cotxes bàsics per a la muntanya russa de fricció lateral",
-            "fi-FI": "Sivukitkavuoristoradan perusvaunut"
+            "fi-FI": "Sivukitkavuoristoradan perusvaunut",
+            "gl-ES": "Vagóns básicos para a montaña rusa de fricción lateral"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -300,7 +302,7 @@
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
-            "ru-RU": "4 пассажира",
+            "ru-RU": "4 пассажира на машину",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu"

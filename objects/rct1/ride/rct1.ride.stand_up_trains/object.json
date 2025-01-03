@@ -758,12 +758,12 @@
             "pt-BR": "Trens Montanha-Russa em Pé",
             "ar-EG": "Stand-up Roller Coaster Trains",
             "cs-CZ": "Horská dráha \"na stojáka\"",
-            "en-US": "Stand-up Roller Coaster Trains",
             "ja-JP": "立ち乗りローラーコースター",
             "pl-PL": "Kolejka stojąca",
-            "ru-RU": "Стоячие горки",
+            "ru-RU": "Стоячие поезда",
             "eo-ZZ": "Stariĝantaj Trajnoj de Onda Fervojo",
-            "ca-ES": "Muntanya russa a peu dret"
+            "ca-ES": "Muntanya russa a peu dret",
+            "gl-ES": "Trens de montaña rusa de pé"
         },
         "description": {
             "en-GB": "Roller coaster trains in which the riders ride in a standing position",
@@ -780,9 +780,10 @@
             "cs-CZ": "Návštěvníci jedou po horské dráze ve stoje",
             "ja-JP": "立ち乗りの、ループローラーコースターです",
             "pl-PL": "Zapętlona kolejka, w której pasażerowie jadą w pozycji stojącej",
-            "ru-RU": "Кольцевые горки, где люди катаются стоя.",
+            "ru-RU": "Поезда, в которых люди едут в стоячей позиции.",
             "eo-ZZ": "Trajnoj de onda fervojo, en kiuj la rajdantoj rajdas en staranta pozicio",
-            "ca-ES": "Muntanya russa amb trens en els quals els passatgers van drets."
+            "ca-ES": "Muntanya russa amb trens en els quals els passatgers van drets.",
+            "gl-ES": "Trens de montaña rusa nos que os pasaxeiros viaxan de pé"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -799,7 +800,7 @@
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
-            "ru-RU": "4 пассажира",
+            "ru-RU": "4 пассажира на машину",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe"
         }

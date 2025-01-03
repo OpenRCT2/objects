@@ -243,10 +243,11 @@
             "cs-CZ": "Zavěšená horská dráha na \"ležáka\"",
             "ja-JP": "ミニ・サスペンデッド・フライング・コースター",
             "pl-PL": "Podwieszana minikolejka (leżąca)",
-            "ru-RU": "Мини-летающие горки",
+            "ru-RU": "Лежачие машины",
             "eo-ZZ": "Kuŝiĝantaj Ĉaroj",
             "ca-ES": "Muntanya russa amb passatgers gitats en cotxes",
-            "fi-FI": "Makuuvaunut"
+            "fi-FI": "Makuuvaunut",
+            "gl-ES": "Coches de deitado"
         },
         "description": {
             "en-GB": "Small suspended cars in which the passengers ride face-down in a lying position, swinging freely from side to side",
@@ -263,10 +264,11 @@
             "cs-CZ": "Návštěvníci jedou na jednokolejné trati vleže hlavou dolů, zavěšeni ve speciálním voze, který se v zatáčkách houpe",
             "ja-JP": "シングルレールコースの特殊なデザインの車両から乗客がうつぶせにぶら下がり、コーナーでは左右に振られるコースターです",
             "pl-PL": "Pasażerowie podróżują w pozycji leżącej, twarzą w dół, w specjalnych wagonikach podwieszonych pod pojedynczym torem, które bujają się swobodnie na zakrętach",
-            "ru-RU": "Пассажиры едут лежа в вагончиках по одиночному рельсу, свободно качаясь на поворотах.",
+            "ru-RU": "Маленькие подвесные машины, в которых пассажиры лежат лицом вниз и качаются из стороны в сторону",
             "eo-ZZ": "Malgrandaj penditaj ĉaroj, en kiuj la pasaĝeroj rajdas kuŝiĝante, frontas al la tero, kaj svingiĝas libere de unu flanko al la alia",
             "ca-ES": "Cotxes petits penjants en els quals els passatgers viatgen tombats cara a terra, balancejant-se lliurement de costat a costat.",
-            "fi-FI": "Pienet riippuvat vaunut, joissa matkustajat kulkevat makuuasennossa vatsallaan, vapaasti heilahtaen käänteissä"
+            "fi-FI": "Pienet riippuvat vaunut, joissa matkustajat kulkevat makuuasennossa vatsallaan, vapaasti heilahtaen käänteissä",
+            "gl-ES": "Pequenos coches suspendidos nos que os pasaxeiros viaxan deitados boca abaixo, oscilando libremente de lado a lado"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -283,7 +285,7 @@
             "cs-CZ": "1 místo v každém voze",
             "ja-JP": "各車両1名",
             "pl-PL": "1 pasażer na wagonik",
-            "ru-RU": "1 пассажир",
+            "ru-RU": "1 пассажир на машину",
             "eo-ZZ": "Po 1 pasaĝero por ĉaro",
             "ca-ES": "1 passatger per cotxe",
             "fi-FI": "1 matkustaja per vaunu"

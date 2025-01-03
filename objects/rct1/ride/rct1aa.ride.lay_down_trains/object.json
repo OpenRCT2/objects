@@ -2045,10 +2045,11 @@
             "cs-CZ": "Horská dráha \"na ležáka\"",
             "ja-JP": "レイダウン・コースター",
             "pl-PL": "Leżąca kolejka",
-            "ru-RU": "Лежачие горки",
+            "ru-RU": "Лежачие поезда",
             "eo-ZZ": "Trajnoj de Kuŝiĝanta Onda Fervojo",
             "ca-ES": "Muntanya russa amb passatgers gitats en trens",
-            "fi-FI": "Makuuvuoristoratavaunut"
+            "fi-FI": "Makuuvuoristoratavaunut",
+            "gl-ES": "Trens de Montaña Rusa de Posición Tombada"
         },
         "description": {
             "en-GB": "Riders are held in special harnesses in a lying-down position, travelling either on their backs or facing the ground",
@@ -2066,10 +2067,11 @@
             "cs-CZ": "Návštěvníci jedou v leže zavěšeni do speciálního držení, ve kterém na břiše projedou trať s ostrými zatáčkami",
             "ja-JP": "乗客は特別なハーネスにより寝た状態で固定され、ひねりのあるコースを地面に面したり反転したりして走行します",
             "pl-PL": "Pasażerowie wiszą w specjalnych uprzężach twarzą w dół, podróżując przez zakręcony tor albo na plecach, albo twarzą ku ziemi",
-            "ru-RU": "Люди лежат на специальных ремнях и несутся по крутому треку",
+            "ru-RU": "Специальная запряжка держит людей в лежачей позиции, позволяя им ехать либо на спине, либо на животе",
             "eo-ZZ": "Rajdantoj kuŝiĝantaj estas tenitaj en specialaj jungaĵoj, kaj veturas aŭ fronte al la ĉielo aŭ fronte al la tero",
             "ca-ES": "Els passatgers estan lligats en arnesos gitats, movent-se mentre estan cara amunt o cara avall.",
-            "fi-FI": "Matkustajat laitetaan makuuasentoon erikoisvaljaisiin, ja laitetaan kiitämään kiemurtelevan ja kääntyilevän radan läpi, joko selin tai vatsallaan"
+            "fi-FI": "Matkustajat laitetaan makuuasentoon erikoisvaljaisiin, ja laitetaan kiitämään kiemurtelevan ja kääntyilevän radan läpi, joko selin tai vatsallaan",
+            "gl-ES": "Os pasaxeiros suxéitanse con arneses especiais en posición tombada, viaxando tanto de costas como mirando cara ao chan"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -2086,7 +2088,7 @@
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
-            "ru-RU": "4 пассажира",
+            "ru-RU": "4 пассажира на машину",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu"

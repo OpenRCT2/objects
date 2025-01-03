@@ -1049,7 +1049,7 @@
         }
     },
     "images": [
-	     { "path":"images/preview.png" },
+        { "path": "images/preview.png" },
         "$RCT2:OBJDATA/NEPTUNEX.DAT[1..242]"
     ],
     "strings": {
@@ -1088,7 +1088,7 @@
             "pt-BR": "Os visitantes andam em pares, em assentos temáticos que giram ao redor de uma estátua animada de Netuno",
             "cs-CZ": "Návštěvníci sedí po dvou na sedačkách, které se otáčejí okolo suchy Neptuna uprostřed",
             "pl-PL": "Pasażerowie jadą w parach stylizowanych siedzeń, obracających się wokół ruchomego posągu Neptuna",
-            "ru-RU": "Люди катаются парами вокруг статуи Нептуна.",
+            "ru-RU": "Стилизованные сиденья, вращающиеся вокруг движущейся статуи Нептуна",
             "eo-ZZ": "Rajdantoj rajdas pare, en temitaj seĝoj, kiuj turniĝas ĉirkaŭ animita statuo de Neptuno",
             "ca-ES": "Els passatgers van per parelles en seients tematitzats que giren al voltant d’una estàtua d’en Neptú.",
             "fi-FI": "Kävijät istuvat pareittain teematuissa istuimissa, jotka pyörivät liikkuvan Neptunus-patsaan ympärillä",
@@ -1109,7 +1109,7 @@
             "pt-BR": "18 passageiros",
             "cs-CZ": "18 návštěvníků",
             "pl-PL": "18 pasażerów",
-            "ru-RU": "18 человек",
+            "ru-RU": "18 пассажиров",
             "eo-ZZ": "18 pasaĝeroj",
             "ca-ES": "18 passatgers",
             "fi-FI": "18 matkustajaa",

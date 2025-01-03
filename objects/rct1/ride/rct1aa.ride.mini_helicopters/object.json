@@ -146,10 +146,11 @@
             "ja-JP": "ミニヘリコプター",
             "nb-NO": "Minihelikoptere",
             "pl-PL": "Minihelikoptery",
-            "ru-RU": "Вертолётики",
+            "ru-RU": "Мини-вертолёты",
             "eo-ZZ": "Miniaturaj Helikopteroj",
             "ca-ES": "Minihelicòpters",
-            "fi-FI": "Minihelikopterit"
+            "fi-FI": "Minihelikopterit",
+            "gl-ES": "Mini Helicópteros"
         },
         "description": {
             "en-GB": "Powered helicopter-shaped cars, controlled by the pedalling of the riders",
@@ -167,10 +168,11 @@
             "cs-CZ": "Po ocelové kolejnici jezdí miniaturní helikoptéry, ovládané šlapáním návštěvníků",
             "ja-JP": "スチール製コースを走るヘリコプター型の動力付き車両で、乗客がペダルを使って操作します",
             "pl-PL": "Wagoniki w kształcie helikopterów jadące po stalowym torze, sterowane przez pedałujących pasażerów",
-            "ru-RU": "Машинки в виде вертолетиков.",
+            "ru-RU": "Машины в виде вертолётов, управляемые педалями.",
             "eo-ZZ": "Ŝaltitaj helikopteroformaj ĉaroj, kiujn la pedalado de la rajdantoj funkciigas",
             "ca-ES": "Cotxes en forma d’helicòpters controlats pel pedaleig dels passatgers.",
-            "fi-FI": "Moottoroidut helikopterin muotoiset vaunut kulkevat teräsradalla, liikkuen matkustajien polkiessa"
+            "fi-FI": "Moottoroidut helikopterin muotoiset vaunut kulkevat teräsradalla, liikkuen matkustajien polkiessa",
+            "gl-ES": "Coches propulsados con forma de helicóptero, controlados polo pedaleo dos pilotos"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -187,7 +189,7 @@
             "cs-CZ": "2 místa v každém vozu",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
-            "ru-RU": "2 passengers per car",
+            "ru-RU": "2 пассажира на машину",
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu"

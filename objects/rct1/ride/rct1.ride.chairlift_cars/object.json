@@ -149,10 +149,11 @@
             "cs-CZ": "Kryté sedačkové lanovky",
             "ja-JP": "チェアリフト車両",
             "pl-PL": "Latające krzesełka",
-            "ru-RU": "Кресло-лифт",
+            "ru-RU": "Кресла для канатки",
             "eo-ZZ": "Ĉaroj de Seĝlifto",
             "ca-ES": "Cotxes telecadira",
-            "fi-FI": "Tuolihissivaunut"
+            "fi-FI": "Tuolihissivaunut",
+            "gl-ES": "Coches de telesquí"
         },
         "description": {
             "en-GB": "Open cars for chairlift",
@@ -169,10 +170,11 @@
             "cs-CZ": "Lanovka se sedačkami se střechou",
             "ja-JP": "屋根のないリフトカーです",
             "pl-PL": "Kolejka krzesełkowa z otwartymi siedziskami",
-            "ru-RU": "Открытые вагончики",
+            "ru-RU": "Открытые кресла для канатной дороги",
             "eo-ZZ": "Subĉielaj ĉaroj de seĝlifto",
             "ca-ES": "Cotxes oberts per al telecadira.",
-            "fi-FI": "Avoilmavaunut tuolihissiin"
+            "fi-FI": "Avoilmavaunut tuolihissiin",
+            "gl-ES": "Coches abertos para telesquí"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -189,10 +191,11 @@
             "cs-CZ": "2 místa na jedné sedačce",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
-            "ru-RU": "2 пассажира",
+            "ru-RU": "2 пассажира на машину",
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
             "ca-ES": "2 passatgers per cotxe",
-            "fi-FI": "2 matkustajaa per vaunu"
+            "fi-FI": "2 matkustajaa per vaunu",
+            "gl-ES": "2 pasaxeiros por coche"
         }
     }
 }

@@ -22,7 +22,8 @@
             "ja-JP": "リーフィー・レーク",
             "pt-BR": "Lago Frondoso",
             "zh-CN": "茂林湖",
-            "pl-PL": "Jezioro liściaste"
+            "pl-PL": "Jezioro liściaste",
+            "gl-ES": "Lago frondoso"
         },
         "park_name": {
             "ar-EG": "بحيرة ليفي",
@@ -36,7 +37,8 @@
             "ko-KR": "나뭇잎 호수",
             "pt-BR": "Lago Frondoso",
             "zh-CN": "茂林湖",
-            "pl-PL": "Jezioro liściaste"
+            "pl-PL": "Jezioro liściaste",
+            "gl-ES": "Lago frondoso"
         },
         "details": {
             "ar-EG": "إبدء من لاشئ، إبني حديقة مزدهرة حول بركة كبيرة",
@@ -58,7 +60,9 @@
             "sv-SE": "Börja från grunden med att bygga ett nöjesfält runt en stor sjö",
             "tr-TR": "Bu muhteşem doğanın içinde bir park oluşturunuz",
             "zh-CN": "在一个大型湖泊的旁边，从零开始兴建一个主题乐园",
-            "zh-TW": "在一個大型湖泊的旁邊, 由零開始建造一個樂園"
+            "zh-TW": "在一個大型湖泊的旁邊, 由零開始建造一個樂園",
+            "ru-RU": "Начните с нуля, и постройте парк вокруг большого озера",
+            "gl-ES": "Comezando desde cero, constrúe un parque temático arredor dun gran lago"
         }
     }
 }

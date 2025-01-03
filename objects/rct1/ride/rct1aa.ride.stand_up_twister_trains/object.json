@@ -881,10 +881,11 @@
             "cs-CZ": "Zakroucená horská dráha \"na stojáka\"",
             "ja-JP": "立ち乗り・ツイスター・コースター",
             "pl-PL": "Kolejka stojąca",
-            "ru-RU": "Стоячие горки",
+            "ru-RU": "Стоячие поезда Твистер",
             "eo-ZZ": "Stariĝantaj Tvisto-Trajnoj",
             "ca-ES": "Trens Tornado a peu dret",
-            "fi-FI": "Seisomakiehkuravaunut"
+            "fi-FI": "Seisomakiehkuravaunut",
+            "gl-ES": "Trens Tornado de pé"
         },
         "description": {
             "en-GB": "A train with shoulder restraints, in which the riders stand up",
@@ -901,10 +902,11 @@
             "cs-CZ": "Návštěvníci jedou ve stoje ve vozech vybavenými ramenními opěrkami",
             "ja-JP": "特殊な安全装置の付いた幅広の立ち乗りコースターで、スムーズな降下や複数の反転のあるコースを疾走します",
             "pl-PL": "Pasażerowie jadą w pozycji stojącej w szerokich wagonikach ze specjalnie zaprojektowanymi zabezpieczeniami, pokonując gładkie spadki i liczne ostre zakręty",
-            "ru-RU": "Посетители едут стоя в широких поездах в специальных креплениях.",
+            "ru-RU": "Поезд с безопасностью для плеч, предназначенный для езды стоя.",
             "eo-ZZ": "Trajno kun ŝultrobridoj, en kiuj la rajdantoj stariĝas",
             "ca-ES": "Un tren amb subjecció per l’espatlla en la qual els passatgers van drets.",
-            "fi-FI": "Seisoma-asennossa matkustettavat vaunut olkaturvakaiteilla"
+            "fi-FI": "Seisoma-asennossa matkustettavat vaunut olkaturvakaiteilla",
+            "gl-ES": "Un tren con suxeicións de ombreiro, no que os pasaxeiros viaxan de pé."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -921,7 +923,7 @@
             "cs-CZ": "4 místa v každém voze",
             "ja-JP": "各車両4名",
             "pl-PL": "4 pasażerów na wagonik",
-            "ru-RU": "4 пассажира",
+            "ru-RU": "4 пассажира на машину",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu"
