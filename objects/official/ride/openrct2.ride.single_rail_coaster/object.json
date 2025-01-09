@@ -166,7 +166,8 @@
             "pl-PL": "Kolejka jednoszynowa",
             "fi-FI": "Yksikiskoisen vuoristoradan vaunut",
             "ru-RU": "Однорельсовые поезда",
-            "gl-ES": "Trens de montaña rusa de vía simple"
+            "gl-ES": "Trens de montaña rusa de vía simple",
+            "ja-JP": "シングルレールジェットコースター車両"
         },
         "description": {
             "en-GB": "Roller coaster trains in which riders are seated single file",
@@ -183,7 +184,8 @@
             "fi-FI": "Vuoristoratavaunut, joissa matkustajat istuvat jonossa",
             "zh-CN": "乘客排成一列坐的过山车",
             "ru-RU": "Поезда, в которых пассажиры сидят друг за другом",
-            "gl-ES": "Trens de montaña rusa nos que os pasaxeiros están sentados en fila india"
+            "gl-ES": "Trens de montaña rusa nos que os pasaxeiros están sentados en fila india",
+            "ja-JP": "乗客が1列に並んで座るジェットコースター車両"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -200,7 +202,8 @@
             "fi-FI": "1 matkustaja per vaunu",
             "zh-CN": "1位乘客/车",
             "ru-RU": "1 пассажир на машину",
-            "gl-ES": "1 pasaxeiro por coche"
+            "gl-ES": "1 pasaxeiro por coche",
+            "ja-JP": "1車両あたり1人の乗客"
         }
     },
     "images": [
