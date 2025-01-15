@@ -1,0 +1,27 @@
+{
+  "id": "official.scenery_wall.betabrick32",
+  "authors": [
+    "Simon Foster"
+  ],
+  "version": "1.0",
+  "sourceGame": "official",
+  "objectType": "scenery_wall",
+  "properties": {
+    "isAllowedOnSlope": true,
+    "height": 4,
+    "price": 80
+  },
+  "images": [
+    { "path": "images/0.png", "x": -31, "y": -33 },
+    { "path": "images/1.png", "x": -1, "y": -32 },
+    { "path": "images/2.png", "x": -31, "y": -49 },
+    { "path": "images/3.png", "x": -1, "y": -48 },
+    { "path": "images/4.png", "x": -31, "y": -34 },
+    { "path": "images/5.png", "x": -1, "y": -33 }
+  ],
+  "strings": {
+    "name": {
+      "en-GB": "Brick Wall"
+    }
+  }
+}
