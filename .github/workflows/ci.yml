@@ -68,4 +68,5 @@ jobs:
       with:
         fail_on_unmatched_files: true
         files: artifacts/objects.zip
-        body: SHA1:${{ steps.calculate_sha1.outputs.SHA1 }}
+        body: "\nSHA1: ${{ steps.calculate_sha1.outputs.SHA1 }}"
+        append_body: true
