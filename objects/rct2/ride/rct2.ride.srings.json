@@ -312,7 +312,8 @@
             "ru-RU": "Космические кольца",
             "eo-ZZ": "Kosmaj Ringoj",
             "ca-ES": "Anelles espacials",
-            "fi-FI": "Avaruusrenkaat"
+            "fi-FI": "Avaruusrenkaat",
+            "gl-ES": "Aros espaciais"
         },
         "description": {
             "en-GB": "Concentric pivoting rings allowing the riders free rotation in all directions",
@@ -332,7 +333,8 @@
             "ru-RU": "Концентрические кольца, позволяющие пассажирам вращаться во всех направлениях",
             "eo-ZZ": "Koncentraj pivotantaj ringoj, kiuj donas al la rajdantoj liberan rotacion en ĉiuj direktoj",
             "ca-ES": "Anelles concèntriques que giren sobre elles mateixes i que permeten als passatgers girar en totes les direccions.",
-            "fi-FI": "Sisäkkäiset pyörivät renkaat antavat kävijöiden pyöriä vapaasti joka suuntaan"
+            "fi-FI": "Sisäkkäiset pyörivät renkaat antavat kävijöiden pyöriä vapaasti joka suuntaan",
+            "gl-ES": "Aros concéntricos xiratorios que permiten aos pasaxeiros rotar libremente en todas as direccións"
         },
         "capacity": {
             "en-GB": "1 guest per ring",
@@ -351,7 +353,8 @@
             "eo-ZZ": "Po 1 gasto por ringo",
             "ca-ES": "1 passatger per anella",
             "fi-FI": "1 kävijä per rengas",
-            "zh-CN": "1位乘客/环"
+            "zh-CN": "1位乘客/环",
+            "gl-ES": "1 pasaxeiro por aro"
         }
     }
 }

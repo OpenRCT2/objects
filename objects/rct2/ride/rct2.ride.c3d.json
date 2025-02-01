@@ -328,7 +328,8 @@
             "ru-RU": "3D Кинотеатр",
             "eo-ZZ": "3D Kinejo",
             "ca-ES": "Cinema 3D",
-            "fi-FI": "3D-elokuvateatteri"
+            "fi-FI": "3D-elokuvateatteri",
+            "gl-ES": "Cine 3D"
         },
         "description": {
             "en-GB": "Cinema showing 3D films inside a geodesic sphere shaped building",
@@ -348,7 +349,8 @@
             "ru-RU": "Кинотеатр, показывающий 3D фильмы в здании с формой геодезической сферы",
             "eo-ZZ": "Kinejo, kiu montras 3D-ajn filmojn en geodezikoforma konstruaĵo",
             "ca-ES": "Cinema on es projecten pel·lícules 3D dins d’un edifici en forma d’esfera geodèsica.",
-            "fi-FI": "Elokuvateatteri, joka näyttää 3D-elokuvia geodeettisen pallon muotoisessa rakennuksessa"
+            "fi-FI": "Elokuvateatteri, joka näyttää 3D-elokuvia geodeettisen pallon muotoisessa rakennuksessa",
+            "gl-ES": "Cine que mostra películas en 3D dentro dun edificio con forma de esfera xeodésica"
         },
         "capacity": {
             "en-GB": "20 guests",
@@ -368,7 +370,8 @@
             "ru-RU": "20 гостей",
             "eo-ZZ": "20 gastoj",
             "ca-ES": "20 espectadors",
-            "fi-FI": "20 kävijää"
+            "fi-FI": "20 kävijää",
+            "gl-ES": "20 invitados"
         }
     }
 }

@@ -103,7 +103,8 @@
             "ru-RU": "Монорельсовые вагоны",
             "eo-ZZ": "Malgrandaj Monorelaj Ĉaroj",
             "ca-ES": "Cotxes petits monorail",
-            "fi-FI": "Pienet kohoratavaunut"
+            "fi-FI": "Pienet kohoratavaunut",
+            "gl-ES": "Pequenos coches monorraíl"
         },
         "description": {
             "en-GB": "Small monorail cars with open sides",
@@ -123,7 +124,8 @@
             "ru-RU": "Маленькие монорельсовые вагоны с открытыми сторонами",
             "eo-ZZ": "Malgrandaj monorelaj ĉaroj kun subĉielaj flankoj",
             "ca-ES": "Cotxes petits monorail oberts per les dues bandes.",
-            "fi-FI": "Pienet kohoratavaunut joissa on avonaiset sivustat"
+            "fi-FI": "Pienet kohoratavaunut joissa on avonaiset sivustat",
+            "gl-ES": "Pequenos coches monorraíl con laterais abertos"
         },
         "capacity": {
             "en-GB": "4 passengers per car",

@@ -292,7 +292,8 @@
             "ru-RU": "Кривой дом",
             "eo-ZZ": "Malrekta Domo",
             "ca-ES": "La casa torta",
-            "fi-FI": "Kiero talo"
+            "fi-FI": "Kiero talo",
+            "gl-ES": "Casa torta"
         },
         "description": {
             "en-GB": "Building containing warped rooms and angled corridors to disorientate people walking through it",
@@ -312,7 +313,8 @@
             "ru-RU": "Здание с кривыми комнатами и угловыми коридорами, дизориентирующий своих гостей",
             "eo-ZZ": "Konstruaĵo, kiu enhavas ĉambrojn torditajn kaj koridorojn angulajn por malorienti homojn tie",
             "ca-ES": "Edifici amb habitacions deformades i passadissos angulosos per a desorientar les persones que el visiten.",
-            "fi-FI": "Rakennus täynnä kävijöitä kummastuttavia vääristettyjä huoneita ja kieroutuineita käytäviä"
+            "fi-FI": "Rakennus täynnä kävijöitä kummastuttavia vääristettyjä huoneita ja kieroutuineita käytäviä",
+            "gl-ES": "Edificio que contén habitacións deformadas e corredores inclinados para desorientar ás persoas que o percorren"
         },
         "capacity": {
             "en-GB": "5 guests",
@@ -332,7 +334,8 @@
             "ru-RU": "5 гостей",
             "eo-ZZ": "5 gastoj",
             "ca-ES": "5 visitants",
-            "fi-FI": "5 kävijää"
+            "fi-FI": "5 kävijää",
+            "gl-ES": "5 invitados"
         }
     }
 }

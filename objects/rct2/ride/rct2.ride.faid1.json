@@ -58,7 +58,8 @@
             "ru-RU": "Медпункт",
             "eo-ZZ": "Sukurejo",
             "ca-ES": "Sala de primers auxilis",
-            "fi-FI": "Ensiapuhuone"
+            "fi-FI": "Ensiapuhuone",
+            "gl-ES": "Sala de primeiros auxilios"
         },
         "description": {
             "en-GB": "A place for sick guests to go for faster recovery",
@@ -78,7 +79,8 @@
             "ru-RU": "Место для быстрого лечения больных гостей",
             "eo-ZZ": "Loko al kie malsanaj gastoj iras por resaniĝi pli rapide",
             "ca-ES": "Un lloc perquè els visitants malalts puguin anar-hi per recuperar-se més aviat.",
-            "fi-FI": "Paikka, jossa pahoinvoivat kävijät voivat levätä ja toipua nopeammin"
+            "fi-FI": "Paikka, jossa pahoinvoivat kävijät voivat levätä ja toipua nopeammin",
+            "gl-ES": "Un lugar para que os convidados enfermos vaian a recuperarse máis rapidamente"
         }
     }
 }

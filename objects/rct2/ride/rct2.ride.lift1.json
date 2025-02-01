@@ -300,7 +300,8 @@
             "ru-RU": "Кабина для лифта",
             "eo-ZZ": "Liftokajuto",
             "ca-ES": "Ascensor",
-            "fi-FI": "Hissikori"
+            "fi-FI": "Hissikori",
+            "gl-ES": "Cabina de elevador"
         },
         "description": {
             "en-GB": "Steel lift cabin",
@@ -320,7 +321,8 @@
             "ru-RU": "Стальная кабина для лифта",
             "eo-ZZ": "Ŝtala liftokajuto",
             "ca-ES": "Cabina d’ascensor d’acer",
-            "fi-FI": "Teräksinen hissikori"
+            "fi-FI": "Teräksinen hissikori",
+            "gl-ES": "Cabina de elevador de aceiro"
         },
         "capacity": {
             "en-GB": "16 passengers",

@@ -95,7 +95,8 @@
             "ru-RU": "Качающийся перевёрнутый корабль",
             "eo-ZZ": "Svingiĝanta Inversigilo-Ŝipo",
             "ca-ES": "Vaixell amb balanceig i inversió",
-            "fi-FI": "Kieppuva merirosvolaiva"
+            "fi-FI": "Kieppuva merirosvolaiva",
+            "gl-ES": "Barco oscilante invertido"
         },
         "description": {
             "en-GB": "Ship is attached to an arm with a counterweight at the opposite end, and swings through a complete 360 degrees",
@@ -115,7 +116,8 @@
             "ru-RU": "Корабль, прикрепленный к балке с противовесом на другом конце, который крутится на 360 градусов.",
             "eo-ZZ": "La ŝipo estas fiksita al brako, kiu havas kontraŭpezon al la kontraŭa flanko, kaj svingiĝas tra plenaj 360 gradoj",
             "ca-ES": "El vaixell està enganxat a un braç amb contrapès a l’altre extrem. Es balanceja i fa una volta completa de 360 graus.",
-            "fi-FI": "Laiva on kiinnitetty puomiin, jonka toisessa päässä on vastapaino, ja joka pyörii täydet 360 astetta"
+            "fi-FI": "Laiva on kiinnitetty puomiin, jonka toisessa päässä on vastapaino, ja joka pyörii täydet 360 astetta",
+            "gl-ES": "O barco está fixado a un brazo cun contrapeso no extremo oposto e oscila a través de 360 graos completos"
         },
         "capacity": {
             "en-GB": "12 passengers",
