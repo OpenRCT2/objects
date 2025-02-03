@@ -44,234 +44,82 @@
         "march": {
             "baseTemperature": 12,
             "randomBias": 21,
-            "distribution": [
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "heavyRain",
-                "sunny",
-                "sunny"
-            ]
+            "distribution": {
+                "sunny": 7,
+                "partiallyCloudy": 8,
+                "cloudy": 7,
+                "heavyRain": 1
+            }
         },
         "april": {
             "baseTemperature": 13,
             "randomBias": 22,
-            "distribution": [
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "rain",
-                "thunder",
-                "sunny"
-            ]
+            "distribution": {
+                "sunny": 6,
+                "partiallyCloudy": 6,
+                "cloudy": 9,
+                "rain": 1,
+                "thunder": 1
+            }
         },
         "may": {
             "baseTemperature": 16,
             "randomBias": 17,
-            "distribution": [
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "rain",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny"
-            ]
+            "distribution": {
+                "sunny": 12,
+                "partiallyCloudy": 6,
+                "cloudy": 4,
+                "rain": 1
+            }
         },
         "june": {
             "baseTemperature": 19,
             "randomBias": 18,
-            "distribution": [
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "rain",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny"
-            ]
+            "distribution": {
+                "sunny": 11,
+                "partiallyCloudy": 7,
+                "cloudy": 4,
+                "rain": 1
+            }
         },
         "july": {
             "baseTemperature": 21,
             "randomBias": 22,
-            "distribution": [
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "sunny"
-            ]
+            "distribution": {
+                "sunny": 11,
+                "partiallyCloudy": 9,
+                "cloudy": 3
+            }
         },
         "august": {
             "baseTemperature": 22,
             "randomBias": 17,
-            "distribution": [
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "cloudy",
-                "cloudy",
-                "thunder",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny"
-            ]
+            "distribution": {
+                "sunny": 15,
+                "partiallyCloudy": 5,
+                "cloudy": 2,
+                "thunder": 1
+            }
         },
         "september": {
             "baseTemperature": 19,
             "randomBias": 17,
-            "distribution": [
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "rain",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny"
-            ]
+            "distribution": {
+                "sunny": 11,
+                "partiallyCloudy": 5,
+                "cloudy": 6,
+                "rain": 1
+            }
         },
         "october": {
             "baseTemperature": 16,
             "randomBias": 17,
-            "distribution": [
-                "sunny",
-                "sunny",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "partiallyCloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "cloudy",
-                "heavyRain",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny",
-                "sunny"
-            ]
+            "distribution": {
+                "sunny": 8,
+                "partiallyCloudy": 5,
+                "cloudy": 9,
+                "heavyRain": 1
+            }
         }
     }
 }
