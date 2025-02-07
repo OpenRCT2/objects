@@ -50,7 +50,8 @@
                 "cloudy": 7,
                 "rain": 3,
                 "heavyRain": 2
-            }
+            },
+            "distRotation": 5
         },
         "april": {
             "baseTemperature": 10,
@@ -62,7 +63,8 @@
                 "heavyRain": 3,
                 "thunder": 1,
                 "sunny": 2
-            }
+            },
+            "distRotation": 2
         },
         "may": {
             "baseTemperature": 14,
@@ -73,7 +75,8 @@
                 "cloudy": 4,
                 "rain": 3,
                 "heavyRain": 1
-            }
+            },
+            "distRotation": 6
         },
         "june": {
             "baseTemperature": 17,
@@ -83,7 +86,8 @@
                 "partiallyCloudy": 7,
                 "cloudy": 4,
                 "rain": 2
-            }
+            },
+            "distRotation": 6
         },
         "july": {
             "baseTemperature": 19,
@@ -94,7 +98,8 @@
                 "cloudy": 5,
                 "rain": 1,
                 "heavyRain": 1
-            }
+            },
+            "distRotation": 0
         },
         "august": {
             "baseTemperature": 20,
@@ -106,7 +111,8 @@
                 "rain": 1,
                 "heavyRain": 3,
                 "thunder": 1
-            }
+            },
+            "distRotation": 0
         },
         "september": {
             "baseTemperature": 16,
@@ -118,7 +124,8 @@
                 "rain": 2,
                 "heavyRain": 2,
                 "thunder": 1
-            }
+            },
+            "distRotation": 4
         },
         "october": {
             "baseTemperature": 13,
@@ -130,7 +137,8 @@
                 "rain": 2,
                 "heavyRain": 1,
                 "thunder": 1
-            }
+            },
+            "distRotation": 7
         }
     }
 }
