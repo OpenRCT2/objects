@@ -14,7 +14,11 @@
     },
     "images": [
         { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$CSG[41550..41653]"
+        "$CSG[41550..41625]",
+        { "path": "images/41626.png", "x": -2, "y": -31 },
+        "$CSG[41627]",
+        { "path": "images/41628.png", "x": -22, "y": -31 },
+        "$CSG[41629..41653]"
     ],
     "noCsgImages": [
         { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
