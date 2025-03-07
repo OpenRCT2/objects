@@ -39,6 +39,10 @@
             "zh-TW": "又熱又乾燥"
         }
     },
+    "properties": {
+        "coldItemTempThreshold": 11,
+        "warmItemTempThreshold": 21
+    },
     "weather": {
         "march": {
             "baseTemperature": 12,

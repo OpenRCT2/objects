@@ -39,6 +39,10 @@
             "zh-TW": "寒冷"
         }
     },
+    "properties": {
+        "coldItemTempThreshold": 11,
+        "warmItemTempThreshold": 21
+    },
     "weather": {
         "march": {
             "baseTemperature": 4,
