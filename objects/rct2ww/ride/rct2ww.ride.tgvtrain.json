@@ -162,7 +162,8 @@
             "ru-RU": "Поезда TGV",
             "eo-ZZ": "TGV Trajnoj",
             "ca-ES": "Trens d’alta velocitat",
-            "fi-FI": "TGV-junat"
+            "fi-FI": "TGV-junat",
+            "gl-ES": "Trens TGV"
         },
         "description": {
             "en-GB": "Roller coaster trains in the style of French high-speed trains (TGV) that are accelerated by linear induction motors",
@@ -181,7 +182,8 @@
             "ru-RU": "Поезда для аттракционов с линейными индукционными моторами, стилизованные под французские высокоскоростные поезда TGV",
             "eo-ZZ": "Trajnoj de onda fervojo en la stilo de francaj rapidaj trajnoj (TGV), kiuj akceliĝas per linearaj induktaj motoroj",
             "ca-ES": "Muntanya russa amb trens de l’estil dels TGV francesos que acceleren amb motors d’inducció lineal.",
-            "fi-FI": "Ranskan TGV-pikajunien muotoiset vuoristoratavaunut, jotka kiihtyvät induktiomoottorilla"
+            "fi-FI": "Ranskan TGV-pikajunien muotoiset vuoristoratavaunut, jotka kiihtyvät induktiomoottorilla",
+            "gl-ES": "Trens de montaña rusa ao estilo dos trens franceses de alta velocidade (TGV) que son acelerados por motores de indución lineais"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -200,7 +202,8 @@
             "pt-BR": "4 passageiros por carro",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
-            "fi-FI": "4 matkustajaa per vaunu"
+            "fi-FI": "4 matkustajaa per vaunu",
+            "gl-ES": "4 pasaxeiros por coche"
         }
     }
 }

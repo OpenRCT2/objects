@@ -76,7 +76,8 @@
             "ru-RU": "Шахтёрские поезда",
             "eo-ZZ": "Trajnoj de Minĉaro",
             "ca-ES": "Vagonetes",
-            "fi-FI": "Kaivoskärryvaunut"
+            "fi-FI": "Kaivoskärryvaunut",
+            "gl-ES": "Trens de Vagóns de Mina"
         },
         "description": {
             "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints",
@@ -95,7 +96,8 @@
             "ru-RU": "Деревянные поезда с набитыми сиденьями и безопасностью для ног",
             "eo-ZZ": "Lignaj trajnoj de onda fervojo, kun komfortaj seĝoj kaj sinobridoj",
             "ca-ES": "Muntanya russa de fusta amb trens amb seients encoixinats i barres de subjecció per la falda.",
-            "fi-FI": "Puiset vuoristoratavaunut, joissa on pehmustetut istuimet ja turvakaiteet"
+            "fi-FI": "Puiset vuoristoratavaunut, joissa on pehmustetut istuimet ja turvakaiteet",
+            "gl-ES": "Trens de montaña rusa de madeira con asentos acolchonados e suxeicións de barra de cadeira"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -114,7 +116,8 @@
             "ja-JP": "各車両4名",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
-            "fi-FI": "4 matkustajaa per vaunu"
+            "fi-FI": "4 matkustajaa per vaunu",
+            "gl-ES": "4 pasaxeiros por coche"
         }
     }
 }

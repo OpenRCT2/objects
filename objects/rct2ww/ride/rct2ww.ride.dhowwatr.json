@@ -68,7 +68,8 @@
             "ru-RU": "Лодки для рыбалки",
             "eo-ZZ": "Daŭo-Boatoj",
             "ca-ES": "Barques àrabs",
-            "fi-FI": "Dhow-veneet"
+            "fi-FI": "Dhow-veneet",
+            "gl-ES": "Barcos Dhow"
         },
         "description": {
             "en-GB": "Decorative fishing boats, which the passengers paddle themselves",
@@ -87,7 +88,8 @@
             "ru-RU": "Декоративные рыбацкие лодки, на которых пассажиры гребут сами",
             "eo-ZZ": "Boatoj por fiŝkapti, kiujn la pasaĝeroj padelas per si mem",
             "ca-ES": "Barques de pesca decoratives que els passatgers mouen amb els rems.",
-            "fi-FI": "Koristeelliset kalastusveneet, joita matkustajat melovat itse"
+            "fi-FI": "Koristeelliset kalastusveneet, joita matkustajat melovat itse",
+            "gl-ES": "Barcos de pesca decorativos nos que os pasaxeiros reman eles mesmos"
         },
         "capacity": {
             "en-GB": "2 passengers per boat",
@@ -106,7 +108,8 @@
             "ru-RU": "2 человека на лодку",
             "eo-ZZ": "Po 2 pasaĝeroj por boato",
             "ca-ES": "2 passatgers per barca",
-            "fi-FI": "2 matkustajaa per vene"
+            "fi-FI": "2 matkustajaa per vene",
+            "gl-ES": "2 pasaxeiros por bote"
         }
     }
 }

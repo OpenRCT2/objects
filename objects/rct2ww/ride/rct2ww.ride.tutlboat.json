@@ -85,7 +85,8 @@
             "ru-RU": "Лодки-черепахи",
             "eo-ZZ": "Testudo-Boatoj",
             "ca-ES": "Bots tortuga",
-            "fi-FI": "Kilpikonnaveneet"
+            "fi-FI": "Kilpikonnaveneet",
+            "gl-ES": "Barcos Tartaruga"
         },
         "description": {
             "en-GB": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
@@ -104,7 +105,8 @@
             "ru-RU": "Маленькие круглые шлюпки с мотором в центре, которыми управляют сами пассажиры",
             "eo-ZZ": "Malgrandaj rondaj boatetoj ŝaltitaj per centra motoro, kiun la pasaĝeroj funkciigas",
             "ca-ES": "Bots inflables petits circulars amb un motor central controlat pels passatgers.",
-            "fi-FI": "Pienet pyöreät veneet, joita kuljettaa matkustajien ohjaama moottori"
+            "fi-FI": "Pienet pyöreät veneet, joita kuljettaa matkustajien ohjaama moottori",
+            "gl-ES": "Pequenos botes circulares impulsados ​​por un motor montado central controlado polos pasaxeiros"
         },
         "capacity": {
             "en-GB": "2 passengers per boat",
@@ -123,7 +125,8 @@
             "ru-RU": "2 пассажира на машину",
             "eo-ZZ": "Po 2 pasaĝeroj por boato",
             "ca-ES": "2 passatgers per barca",
-            "fi-FI": "2 matkustajaa per vene"
+            "fi-FI": "2 matkustajaa per vene",
+            "gl-ES": "2 pasaxeiros por bote"
         }
     }
 }

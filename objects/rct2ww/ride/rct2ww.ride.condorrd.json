@@ -123,7 +123,8 @@
             "ru-RU": "Поезда «Кондор»",
             "zh-TW": "神鷹暢遊",
             "eo-ZZ": "Kondoro-Trajnoj",
-            "fi-FI": "Kondorivaunut"
+            "fi-FI": "Kondorivaunut",
+            "gl-ES": "Trens Cóndor"
         },
         "description": {
             "en-GB": "Riding in special harnesses below the track, riders experience the feeling of flight in condor-shaped trains",
@@ -143,7 +144,8 @@
             "zh-TW": "乘客乘坐於軌道下的神鷹造型列車上, 將會於飛馳中體驗飛一般的快感",
             "ja-JP": "乗客はレールの下のコンドルの形をした車両の特殊なハーネスに乗り、飛んでいるような感覚を体験できます",
             "eo-ZZ": "Rajdante en specialaj jungaĵoj sub la trako, rajdantoj spertas la senton de flugado en kondorformaj trajnoj",
-            "fi-FI": "Matkustajat kokevat lentämisen tunteen kondorin muotoisissa vaunuissa, kun he kiitävät ilmojen halki erikoisvaljaissa radan alapuolella"
+            "fi-FI": "Matkustajat kokevat lentämisen tunteen kondorin muotoisissa vaunuissa, kun he kiitävät ilmojen halki erikoisvaljaissa radan alapuolella",
+            "gl-ES": "Viaxando con arnés especiais abaixo da vía, os pasaxeiros experimentan a sensación de voo en trens con forma de cóndor"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -164,7 +166,8 @@
             "ru-RU": "4 пассажира на машину",
             "fi-FI": "4 matkustajaa per vaunu",
             "zh-TW": "每車卡4位乘客",
-            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro"
+            "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
+            "gl-ES": "4 pasaxeiros por coche"
         }
     }
 }

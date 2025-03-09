@@ -91,7 +91,8 @@
             "eo-ZZ": "Karnavalaj Papilio-Ĉaroj",
             "ca-ES": "Carrosses de papallones",
             "fi-FI": "Karnevaalin perhosautot",
-            "zh-CN": "嘉年华蝴蝶车"
+            "zh-CN": "嘉年华蝴蝶车",
+            "gl-ES": "Vagóns de Borboleta de Entroido"
         },
         "description": {
             "en-GB": "Cars in the shape of butterfly carnival floats",
@@ -110,7 +111,8 @@
             "eo-ZZ": "Ĉaroj formitaj kiel papilio-paradiloj",
             "ca-ES": "Cotxes carrossa en forma de papallones.",
             "fi-FI": "Perhosen muotoiset karnevaaliautot",
-            "zh-CN": "蝴蝶嘉年华花车造型的汽车"
+            "zh-CN": "蝴蝶嘉年华花车造型的汽车",
+            "gl-ES": "Vagóns con forma de carrozas de entroido en forma de borboleta"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -129,7 +131,8 @@
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
-            "zh-CN": "2位乘客/车"
+            "zh-CN": "2位乘客/车",
+            "gl-ES": "2 pasaxeiros por coche"
         }
     }
 }

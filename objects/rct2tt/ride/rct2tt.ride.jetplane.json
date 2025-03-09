@@ -230,7 +230,8 @@
             "ca-ES": "Avions a reacció",
             "fi-FI": "Suihkukonevaunut",
             "zh-CN": "喷气式飞机过山车",
-            "hu-HU": "Sugárhajtású repülő kocsik"
+            "hu-HU": "Sugárhajtású repülő kocsik",
+            "gl-ES": "Coches de Aviación a Reacción"
         },
         "description": {
             "en-GB": "Roller coaster cars in the shape of jet planes",
@@ -251,7 +252,8 @@
             "ca-ES": "Cotxes de muntanya russa en forma d’avions a reacció.",
             "fi-FI": "Suihkukoneen muotoiset vuoristoratavaunut",
             "zh-CN": "喷气式飞机样式的过山车",
-            "hu-HU": "Sugárhajtású repülő alakú hullámvasútkocsik"
+            "hu-HU": "Sugárhajtású repülő alakú hullámvasútkocsik",
+            "gl-ES": "Vagóns de montaña rusa en forma de avións a reacción"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -272,7 +274,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "zh-CN": "4位乘客/车",
-            "hu-HU": "4 utas kocsinként"
+            "hu-HU": "4 utas kocsinként",
+            "gl-ES": "4 pasaxeiros por coche"
         }
     }
 }

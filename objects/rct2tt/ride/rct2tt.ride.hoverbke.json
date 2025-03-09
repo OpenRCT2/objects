@@ -82,7 +82,8 @@
             "ca-ES": "Motos futurístiques planadores",
             "fi-FI": "Liitopyörät",
             "zh-CN": "浮空摩托",
-            "hu-HU": "Lebegő motorok"
+            "hu-HU": "Lebegő motorok",
+            "gl-ES": "Bicicletas flotantes"
         },
         "description": {
             "en-GB": "Futuristic bike-shaped single vehicles",
@@ -103,7 +104,8 @@
             "ca-ES": "Muntanya russa amb vehicles en forma de motocicleta futurística planadora.",
             "fi-FI": "Futuristiset pyöränmuotoiset yksittäiset ajoneuvot",
             "zh-CN": "未来样式摩托车形的摩托车",
-            "hu-HU": "Futurisztikus motor alakú egyszemélyes járművek"
+            "hu-HU": "Futurisztikus motor alakú egyszemélyes járművek",
+            "gl-ES": "Vehículos individuais futuristas con forma de bicicleta"
         },
         "capacity": {
             "en-GB": "2 riders per vehicle",
@@ -124,7 +126,8 @@
             "ca-ES": "2 motociclistes per vehicle",
             "fi-FI": "2 pyöräilijää per pyörä",
             "zh-CN": "2位乘客/摩托",
-            "hu-HU": "2 utas járművenként"
+            "hu-HU": "2 utas járművenként",
+            "gl-ES": "2 pilotos por vehiculo"
         }
     }
 }

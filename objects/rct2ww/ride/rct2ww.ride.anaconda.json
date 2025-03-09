@@ -151,7 +151,8 @@
             "ru-RU": "Поезда «Анаконда»",
             "eo-ZZ": "Anakondaj Trajnoj",
             "ca-ES": "Atracció de l’Anaconda",
-            "fi-FI": "Anakondavaunut"
+            "fi-FI": "Anakondavaunut",
+            "gl-ES": "Trens Anaconda"
         },
         "description": {
             "en-GB": "Spacious trains with simple lap restraints",
@@ -170,7 +171,8 @@
             "ru-RU": "Просторные поезда с простой безопасностью на ноги",
             "eo-ZZ": "Grandspacaj trajnoj kun simplaj sinobridoj",
             "ca-ES": "Trens espaiosos amb barres de subjecció simples.",
-            "fi-FI": "Tilavat vaunut, joissa on yksinkertaiset turvakaiteet"
+            "fi-FI": "Tilavat vaunut, joissa on yksinkertaiset turvakaiteet",
+            "gl-ES": "Trens amplos con suxeicións simples de cintura"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -189,7 +191,8 @@
             "ru-RU": "6 пассажиров",
             "eo-ZZ": "Po 6 pasaĝeroj por ĉaro",
             "ca-ES": "6 passatgers per cotxe",
-            "fi-FI": "6 matkustajaa per vaunu"
+            "fi-FI": "6 matkustajaa per vaunu",
+            "gl-ES": "6 pasaxeiros por coche"
         }
     }
 }

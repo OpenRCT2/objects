@@ -112,7 +112,8 @@
             "ca-ES": "Tramvies d’autobusos escolars",
             "fi-FI": "Koulubussivaunut",
             "zh-CN": "校车电车",
-            "hu-HU": "Iskolabusz-villamosok"
+            "hu-HU": "Iskolabusz-villamosok",
+            "gl-ES": "Tranvías de Autobús Escolar"
         },
         "description": {
             "en-GB": "Miniature trams themed to look like North American school buses",
@@ -133,7 +134,8 @@
             "ca-ES": "Tramvies en miniatura tematitzats com a autobusos escolars nord-americans.",
             "fi-FI": "Pohjoisamerikkalaisien koulubussien näköisiksi teematut pienoisvaunut",
             "zh-CN": "以北美校车为主题的微型电车",
-            "hu-HU": "Miniatűr villamosok, amelyek úgy néznek ki, mint az észak-amerikai iskolabuszok"
+            "hu-HU": "Miniatűr villamosok, amelyek úgy néznek ki, mint az észak-amerikai iskolabuszok",
+            "gl-ES": "Tranvías pequenos con temática de autobuses escolares de Norteamérica"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -154,7 +156,8 @@
             "ca-ES": "6 passatgers per cotxe",
             "fi-FI": "6 matkustajaa per vaunu",
             "zh-CN": "6位乘客/车",
-            "hu-HU": "6 utas kocsinként"
+            "hu-HU": "6 utas kocsinként",
+            "gl-ES": "6 pasaxeiros por coche"
         }
     }
 }

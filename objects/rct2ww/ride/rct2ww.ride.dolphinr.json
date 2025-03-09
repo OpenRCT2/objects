@@ -83,7 +83,8 @@
             "ru-RU": "Лодки-дельфины",
             "eo-ZZ": "Delfeno-Boatoj",
             "ca-ES": "Barques dofí",
-            "fi-FI": "Delfiiniveneet"
+            "fi-FI": "Delfiiniveneet",
+            "gl-ES": "Barquiñas de Golfiño"
         },
         "description": {
             "en-GB": "Single-seater dolphin-shaped vehicles which riders can drive themselves",
@@ -102,7 +103,8 @@
             "ru-RU": "Одиночные машины в форме дельфина, которыми управляют пассажиры",
             "eo-ZZ": "Delfenoformaj veturiloj, kiujn rajdantoj povas stiri per si mem",
             "ca-ES": "Vehicles monoplaça en forma de dofí que els passatgers condueixen ells mateixos.",
-            "fi-FI": "Yksipaikkaiset delfiinin muotoiset veneet, joita kävijät voivat itse ohjata"
+            "fi-FI": "Yksipaikkaiset delfiinin muotoiset veneet, joita kävijät voivat itse ohjata",
+            "gl-ES": "Vehículos con forma de golfiño dun só asento que os pasaxeiros poden conducir por si mesmos"
         },
         "capacity": {
             "en-GB": "1 rider per vehicle",
@@ -121,7 +123,8 @@
             "ru-RU": "1 человек на машину",
             "eo-ZZ": "Po 1 rajdanto por veturilo",
             "ca-ES": "1 passatger per vehicle",
-            "fi-FI": "1 matkustaja per vene"
+            "fi-FI": "1 matkustaja per vene",
+            "gl-ES": "1 piloto por vehículo"
         }
     }
 }

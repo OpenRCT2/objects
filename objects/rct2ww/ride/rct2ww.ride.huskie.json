@@ -98,7 +98,8 @@
             "pt-BR": "Carro Huskie Siberiano",
             "eo-ZZ": "Sledhundo-Ĉaro",
             "ca-ES": "Huskys siberians",
-            "fi-FI": "Koirarekivaunut"
+            "fi-FI": "Koirarekivaunut",
+            "gl-ES": "Coche Huskie"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of Huskie sleds",
@@ -117,7 +118,8 @@
             "pt-BR": "Veículos elétricos em formato de trenós puxados por cães huskies siberianos",
             "eo-ZZ": "Ŝaltitaj veturiloj, formitaj kiel sledoj de sledhundoj",
             "ca-ES": "Vehicles elèctrics en forma de trineus de huskys.",
-            "fi-FI": "Moottoroidut koirareen muotoiset ajoneuvot"
+            "fi-FI": "Moottoroidut koirareen muotoiset ajoneuvot",
+            "gl-ES": "Vehículos motorizados na forma de trineos Huskie"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -136,7 +138,8 @@
             "pt-BR": "2 passageiros por carro",
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
             "ca-ES": "2 passatgers per cotxe",
-            "fi-FI": "2 matkustajaa per reki"
+            "fi-FI": "2 matkustajaa per reki",
+            "gl-ES": "2 pasaxeiros por coche"
         }
     }
 }

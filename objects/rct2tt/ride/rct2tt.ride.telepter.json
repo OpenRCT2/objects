@@ -291,7 +291,8 @@
             "eo-ZZ": "Teleportila Lifto",
             "ca-ES": "Cabina de teleportació",
             "fi-FI": "Teleportaatiokori",
-            "zh-CN": "传送舱"
+            "zh-CN": "传送舱",
+            "gl-ES": "Cabina de Teletransportación"
         },
         "description": {
             "en-GB": "Futuristic lift cabin that gives guests the illusion of teleportation",
@@ -311,7 +312,8 @@
             "eo-ZZ": "Futurisma lifto, kiu donas al gastoj la iluzion de teleportado",
             "ca-ES": "Cabina d’ascensor futurístic que dóna als passatgers la impressió de ser teletransportats.",
             "fi-FI": "Futuristinen hissikori, joka antaa matkustajien kokea teleportaation illuusion",
-            "zh-CN": "未来主义的电梯舱，让客人有瞬移的错觉"
+            "zh-CN": "未来主义的电梯舱，让客人有瞬移的错觉",
+            "gl-ES": "Cabina de ascensor futurista que dá aos pasaxeiros a ilusión de teletransportación"
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -331,7 +333,8 @@
             "eo-ZZ": "16 pasaĝeroj",
             "ca-ES": "16 passatgers",
             "fi-FI": "16 matkustajaa",
-            "zh-CN": "16位乘客"
+            "zh-CN": "16位乘客",
+            "gl-ES": "16 pasaxeiros"
         }
     }
 }

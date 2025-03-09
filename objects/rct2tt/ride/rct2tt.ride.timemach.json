@@ -285,7 +285,8 @@
             "eo-ZZ": "Tempomaŝino",
             "ca-ES": "Màquina del temps",
             "fi-FI": "Aikakone",
-            "zh-CN": "时光之旅"
+            "zh-CN": "时光之旅",
+            "gl-ES": "Máquina do Tempo"
         },
         "description": {
             "en-GB": "Guests sit in a specially designed sphere, and experience the illusion of time travel",
@@ -305,7 +306,8 @@
             "eo-ZZ": "Gastoj sidas en speciale desegnita globo, kaj spertas la iluzion de vojaĝi tra la tempo",
             "ca-ES": "Els passatgers seuen en una esfera amb un disseny especial per poder sentir la il·lusió de viatjar en el temps.",
             "fi-FI": "Kävijät istuvat erikoisrakenteisen pallon sisällä, ja kokevat aikamatkustuksen illuusion",
-            "zh-CN": "客人坐在特别设计的球体中，体验时间旅行的幻觉"
+            "zh-CN": "客人坐在特别设计的球体中，体验时间旅行的幻觉",
+            "gl-ES": "Os pasaxeiros sentan nunha esfera deseñada especialmente e experimentan a ilusión da viaxe no tempo"
         },
         "capacity": {
             "en-GB": "1 guest per time machine",
@@ -325,7 +327,8 @@
             "eo-ZZ": "Po 1 gasto por tempomaŝino",
             "ca-ES": "1 viatger per màquina del temps",
             "fi-FI": "1 kävijä per aikakone",
-            "zh-CN": "1位乘客/台"
+            "zh-CN": "1位乘客/台",
+            "gl-ES": "1 invitado por máquina do tempo"
         }
     }
 }

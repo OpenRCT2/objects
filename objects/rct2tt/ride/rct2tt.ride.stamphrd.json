@@ -143,7 +143,8 @@
             "ru-RU": "Стадо",
             "eo-ZZ": "Kureganta-Grego-Trajnoj",
             "ca-ES": "Estampida",
-            "fi-FI": "Vauhkoontunut lauma -vaunut"
+            "fi-FI": "Vauhkoontunut lauma -vaunut",
+            "gl-ES": "Trens de Manada Desbocada"
         },
         "description": {
             "en-GB": "Roller coaster trains in which the riders ride in a standing position, themed to look like a stampeding dinosaur herd",
@@ -163,7 +164,8 @@
             "eo-ZZ": "Trajnoj de onda fervojo, en kiuj la rajdantoj rajdas en staranta pozicio, temitaj por aspekti kiel kureganta dinosaŭro-grego",
             "ca-ES": "Muntanya russa amb trens en els quals els passatgers van drets, tematitzada com a una estampida de dinosaures.",
             "fi-FI": "Vauhkoontuneen dinosauruslauman näköiseksi teematut seisoma-asennossa matkustettavat vuoristoratavaunut",
-            "zh-CN": "过山车列车，乘坐者以站立姿势乘坐，其主题看起来像一个正在奔跑的恐龙群"
+            "zh-CN": "过山车列车，乘坐者以站立姿势乘坐，其主题看起来像一个正在奔跑的恐龙群",
+            "gl-ES": "Trens de montaña rusa nos que os pasaxeiros viaxan de pé, tematizados para parecer unha manada de dinosauros desbocada"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -183,7 +185,8 @@
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
-            "zh-CN": "4位乘客/车"
+            "zh-CN": "4位乘客/车",
+            "gl-ES": "4 pasaxeiros por coche"
         }
     }
 }

@@ -83,7 +83,8 @@
             "ru-RU": "Чёрное такси",
             "eo-ZZ": "Nigraj Taksioj",
             "ca-ES": "Taxis negres",
-            "fi-FI": "Mustat taksit"
+            "fi-FI": "Mustat taksit",
+            "gl-ES": "Taxis Negros"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of London Taxis",
@@ -102,7 +103,8 @@
             "ru-RU": "Электромобили в форме лондонских такси",
             "eo-ZZ": "Ŝaltitaj veturiloj formitaj kiel Taksioj de Londono",
             "ca-ES": "Vehicles elèctrics amb forma de taxis negres de Londres.",
-            "fi-FI": "Moottoroidut Lontoon taksien muotoiset vaunut"
+            "fi-FI": "Moottoroidut Lontoon taksien muotoiset vaunut",
+            "gl-ES": "Vehículos motorizados na forma de taxis de Londres"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -121,7 +123,8 @@
             "ru-RU": "2 пассажира на машину",
             "eo-ZZ": "Po 2 pasaĝeroj por aŭto",
             "ca-ES": "2 passatgers per cotxe",
-            "fi-FI": "2 matkustajaa per vaunu"
+            "fi-FI": "2 matkustajaa per vaunu",
+            "gl-ES": "2 pasaxeiros por coche"
         }
     }
 }

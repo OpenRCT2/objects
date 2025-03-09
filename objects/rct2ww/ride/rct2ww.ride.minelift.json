@@ -289,7 +289,8 @@
             "ru-RU": "Шахтёрский лифт",
             "eo-ZZ": "Kajuto de Minlifto",
             "ca-ES": "Cabina elevadora de la mina",
-            "fi-FI": "Kaivoshissikori"
+            "fi-FI": "Kaivoshissikori",
+            "gl-ES": "Cabina de Elevador de Mina"
         },
         "description": {
             "en-GB": "A steel lift cabin commonly used in mines",
@@ -309,7 +310,8 @@
             "ru-RU": "Стальная кабина для лифта, часто используемая в шахтах",
             "eo-ZZ": "Ŝtala liftokajuto ofte uzita en minoj",
             "ca-ES": "Una cabina elevadora d’acer emprada a les mines.",
-            "fi-FI": "Teräksinen hissikori, jota usein käytetään kaivoksissa"
+            "fi-FI": "Teräksinen hissikori, jota usein käytetään kaivoksissa",
+            "gl-ES": "Unha cabina de elevador de aceiro comunmente usada nas minas"
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -328,7 +330,8 @@
             "ru-RU": "16 пассажиров",
             "eo-ZZ": "16 pasaĝeroj",
             "ca-ES": "16 passatgers",
-            "fi-FI": "16 matkustajaa"
+            "fi-FI": "16 matkustajaa",
+            "gl-ES": "16 pasaxeiros"
         }
     }
 }

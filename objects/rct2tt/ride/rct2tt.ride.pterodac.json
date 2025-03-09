@@ -126,7 +126,8 @@
             "ca-ES": "Muntanya russa Pterodàctil",
             "fi-FI": "Lentoliskovaunut",
             "zh-CN": "翼龙火车",
-            "hu-HU": "Pterodactyl Trains"
+            "hu-HU": "Pterodactyl Trains",
+            "gl-ES": "Trens de Pterodáctilo"
         },
         "description": {
             "en-GB": "Riders are held in comfortable seats below the track to give the ultimate prehistoric flying experience",
@@ -147,7 +148,8 @@
             "ca-ES": "Els passatgers viatgen en seients còmodes per sota la via per aconseguir una sensació de vol prehistòric.",
             "fi-FI": "Matkustajat kulkevat mukavissa istuimissa radan alla, luoden äärimmäisen esihistoriallisen lennon tunteen",
             "zh-CN": "乘客们被安置在赛道下方的舒适座椅上，以提供终极的史前飞行体验",
-            "hu-HU": "Az utasok kényelmes ülésekben ülnek a pálya alatt, hogy a legteljesebb őskori repülési élményben részesüljenek"
+            "hu-HU": "Az utasok kényelmes ülésekben ülnek a pálya alatt, hogy a legteljesebb őskori repülési élményben részesüljenek",
+            "gl-ES": "Os pasaxeiros van suxeitos en asentos cómodos abaixo da vía para ofrecer a mellor experiencia de voo prehistórica"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -168,7 +170,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "zh-CN": "4位乘客/车",
-            "hu-HU": "4 utas kocsinként"
+            "hu-HU": "4 utas kocsinként",
+            "gl-ES": "4 pasaxeiros por coche"
         }
     }
 }

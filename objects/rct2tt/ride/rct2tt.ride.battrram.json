@@ -92,7 +92,8 @@
             "ca-ES": "Trens ariet",
             "fi-FI": "Muurinmurtajavaunut",
             "zh-CN": "攻城锤列车",
-            "hu-HU": "Faltörő kos vonatok"
+            "hu-HU": "Faltörő kos vonatok",
+            "gl-ES": "Trens de arietes"
         },
         "description": {
             "en-GB": "Compact roller coaster trains with cars with in-line seating, themed to look like battering rams from the Dark Age",
@@ -113,7 +114,8 @@
             "ca-ES": "Trens compactes per a muntanyes russes amb cotxes tematitzats com ariets d’època mevieval i amb seients en línia.",
             "fi-FI": "Keskiaikaisen muurinmurtajan näköiset kompaktin vuoristoradan vaunut",
             "zh-CN": "紧凑型过山车列车，带有直排座椅的汽车，主题看起来像黑暗时代的攻城车",
-            "hu-HU": "Kompakt hullámvasútvonatok, egymás utáni ülésekkel ellátott kocsikkal, amelyek témája a sötét középkor faltörő kosait idézi"
+            "hu-HU": "Kompakt hullámvasútvonatok, egymás utáni ülésekkel ellátott kocsikkal, amelyek témája a sötét középkor faltörő kosait idézi",
+            "gl-ES": "Trens de montaña rusa compactos con coches con asentos en liña, temáticos para parecer arietes da Idade Escura"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -134,7 +136,8 @@
             "ca-ES": "6 passatgers per cotxe",
             "fi-FI": "6 matkustajaa per vaunu",
             "zh-CN": "6位乘客/车",
-            "hu-HU": "6 utas kocsinként"
+            "hu-HU": "6 utas kocsinként",
+            "gl-ES": "6 pasaxeiros por coche"
         }
     }
 }

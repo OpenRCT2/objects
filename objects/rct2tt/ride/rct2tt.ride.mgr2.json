@@ -966,7 +966,8 @@
             "ca-ES": "Cavallets de dos pisos",
             "fi-FI": "Kaksikerroksinen karuselli",
             "zh-CN": "双层旋转木马",
-            "hu-HU": "Kétszintes körhinta"
+            "hu-HU": "Kétszintes körhinta",
+            "gl-ES": "Carrusel dobre piso"
         },
         "description": {
             "en-GB": "Traditional enclosed double-deck carousel with carved wooden horses",
@@ -987,7 +988,8 @@
             "ca-ES": "Cavallets tradicionals, tancats, amb dos pisos i cavalls tallats en fusta.",
             "fi-FI": "Vanhanaikainen pyörivä kaksikerroksinen puisten hevospatsaiden kera",
             "zh-CN": "带有雕刻木马的传统封闭式双层旋转木马",
-            "hu-HU": "Hagyományos, zárt, kétszintes körhinta faragott fa lovakkal"
+            "hu-HU": "Hagyományos, zárt, kétszintes körhinta faragott fa lovakkal",
+            "gl-ES": "Carrusel tradicional pechado de dous pisos con cabalos de madeira tallada"
         },
         "capacity": {
             "en-GB": "32 passengers",
@@ -1008,7 +1010,8 @@
             "ca-ES": "32 passatgers",
             "fi-FI": "32 matkustajaa",
             "zh-CN": "32位乘客",
-            "hu-HU": "32 utas"
+            "hu-HU": "32 utas",
+            "gl-ES": "32 pasaxeiros"
         }
     }
 }

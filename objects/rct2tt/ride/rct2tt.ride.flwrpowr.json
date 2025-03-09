@@ -78,7 +78,8 @@
             "fi-FI": "Kukkavoima-törmäilyautot",
             "zh-CN": "花之力碰碰车",
             "en-US": "Flower Power Bumper Cars",
-            "hu-HU": "Virágbéke dodzsemek"
+            "hu-HU": "Virágbéke dodzsemek",
+            "gl-ES": "Autos de Choque Poder Floral"
         },
         "description": {
             "en-GB": "Riders ride in flower-shaped hovercraft vehicles that they freely control",
@@ -99,7 +100,8 @@
             "ca-ES": "Atracció on els passatgers condueixen bots petits en forma de flor.",
             "fi-FI": "Matkustajat kulkevat itse ajamissaan kukan muotoisissa ilmatyynyaluksissa",
             "zh-CN": "乘客乘坐他们自由控制的花形气垫船",
-            "hu-HU": "Az utasok virág alakú légpárnás járművekben utaznak, melyeket szabadon irányíthatnak"
+            "hu-HU": "Az utasok virág alakú légpárnás járművekben utaznak, melyeket szabadon irányíthatnak",
+            "gl-ES": "Os pasaxeiros montan en vehículos hovercraft con forma de flor que poden controlar libremente"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -120,7 +122,8 @@
             "ca-ES": "1 passatger per cotxe",
             "fi-FI": "1 matkustaja per ajoneuvo",
             "zh-CN": "1位乘客/车",
-            "hu-HU": "1 utas kocsinként"
+            "hu-HU": "1 utas kocsinként",
+            "gl-ES": "1 pasaxeiro por coche"
         }
     }
 }

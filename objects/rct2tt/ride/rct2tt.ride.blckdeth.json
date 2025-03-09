@@ -81,7 +81,8 @@
             "eo-ZZ": "Trajnoj de la Nigra Morto",
             "ca-ES": "Trens de la pesta negra",
             "fi-FI": "Musta surma -vaunut",
-            "zh-CN": "黑色死亡列车"
+            "zh-CN": "黑色死亡列车",
+            "gl-ES": "Trens da Peste Negra"
         },
         "description": {
             "en-GB": "Rat-shaped trains consisting of 2-seater cars where the riders are behind each other",
@@ -101,7 +102,8 @@
             "eo-ZZ": "Ratformaj trajnoj, konsistaj de ĉaroj kun 2 seĝoj, kie la rajdantoj estas malantaŭ unu la alian",
             "ca-ES": "Trens en forma de rata amb cotxes de 2 seients on els passatgers estan un darrere l’altre.",
             "fi-FI": "Rotan muotoiset vaunut, jossa kaksi matkustajaa istuu peräkkäin",
-            "zh-CN": "鼠形列车由2人座车厢组成，乘客彼此并排"
+            "zh-CN": "鼠形列车由2人座车厢组成，乘客彼此并排",
+            "gl-ES": "Trens en forma de rata que consisten en coches de 2 prazas onde os pilotos están un detrás do outro"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -121,7 +123,8 @@
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
-            "zh-CN": "2位乘客/车"
+            "zh-CN": "2位乘客/车",
+            "gl-ES": "2 pasaxeiros por coche"
         }
     }
 }

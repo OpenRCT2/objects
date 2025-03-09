@@ -68,7 +68,8 @@
             "ru-RU": "Каноэ с балансиром",
             "eo-ZZ": "Polineziaj Kanuoj",
             "ca-ES": "Canoes hawaianes",
-            "fi-FI": "Kellukekanootit"
+            "fi-FI": "Kellukekanootit",
+            "gl-ES": "Canoas de Aforre"
         },
         "description": {
             "en-GB": "Long canoes which the passengers paddle themselves",
@@ -87,7 +88,8 @@
             "ru-RU": "Длинные каноэ, где пассажиры гребут сами",
             "eo-ZZ": "Longaj kanuoj, kiujn la pasaĝeroj padelas per si mem",
             "ca-ES": "Canoes llargues que els passatgers mouen pedalejant.",
-            "fi-FI": "Pitkät kanootit, joita matkustajat soutavat itse"
+            "fi-FI": "Pitkät kanootit, joita matkustajat soutavat itse",
+            "gl-ES": "Canoas longas nas que os pasaxeiros reman por si mesmos"
         },
         "capacity": {
             "en-GB": "2 passengers per canoe",
@@ -106,7 +108,8 @@
             "ru-RU": "2 пассажира на каноэ",
             "eo-ZZ": "Po 2 pasaĝeroj por kanuo",
             "ca-ES": "2 passatgers per canoa",
-            "fi-FI": "2 matkustajaa per kanootti"
+            "fi-FI": "2 matkustajaa per kanootti",
+            "gl-ES": "2 pasaxeiros por canoa"
         }
     }
 }

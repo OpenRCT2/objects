@@ -91,7 +91,8 @@
             "eo-ZZ": "Karnavalaj Lacerto-Ĉaroj",
             "ca-ES": "Carrosses de llangardaixos",
             "fi-FI": "Karnevaalin liskoautot",
-            "zh-CN": "嘉年华蜥蜴车"
+            "zh-CN": "嘉年华蜥蜴车",
+            "gl-ES": "Vagóns de Lagarto de Entroido"
         },
         "description": {
             "en-GB": "Cars in the shape of lizard carnival floats",
@@ -110,7 +111,8 @@
             "eo-ZZ": "Ĉaroj formitaj kiel lacerto-paradiloj",
             "ca-ES": "Cotxes carrossa en forma de llangardaix",
             "fi-FI": "Liskon muotoiset karnevaaliautot",
-            "zh-CN": "蜥蜴嘉年华形状的汽车"
+            "zh-CN": "蜥蜴嘉年华形状的汽车",
+            "gl-ES": "Vagóns con forma de carrozas de entroido en forma de lagarto"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -129,7 +131,8 @@
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
-            "zh-CN": "2位乘客/车"
+            "zh-CN": "2位乘客/车",
+            "gl-ES": "2 pasaxeiros por coche"
         }
     }
 }

@@ -96,7 +96,8 @@
             "ru-RU": "Автобусы «Routemaster»",
             "eo-ZZ": "Londonaj Etaĝaj Busoj",
             "ca-ES": "Autobusos londinencs",
-            "fi-FI": "Routemaster-bussit"
+            "fi-FI": "Routemaster-bussit",
+            "gl-ES": "Autobuses Routemaster"
         },
         "description": {
             "en-GB": "Replicas of the famous London Routemaster bus",
@@ -116,7 +117,8 @@
             "ru-RU": "Реплики знаменитых лондонских автобусов «Routemaster»",
             "eo-ZZ": "Replikaĵoj de la fama Londona Etaĝa Buso",
             "ca-ES": "Rèpliques del famós autobús londinenc Routemaster.",
-            "fi-FI": "Lontoon kuuluisan Routemaster-bussin jäljennökset"
+            "fi-FI": "Lontoon kuuluisan Routemaster-bussin jäljennökset",
+            "gl-ES": "Réplicas do famoso autobús Routemaster de Londres"
         },
         "capacity": {
             "en-GB": "10 passengers per car",
@@ -135,7 +137,8 @@
             "ru-RU": "10 пассажиров на машину",
             "eo-ZZ": "Po 10 pasaĝeroj por ĉaro",
             "ca-ES": "10 passatgers per cotxe",
-            "fi-FI": "10 matkustajaa per vaunu"
+            "fi-FI": "10 matkustajaa per vaunu",
+            "gl-ES": "10 pasaxeiros por coche"
         }
     }
 }

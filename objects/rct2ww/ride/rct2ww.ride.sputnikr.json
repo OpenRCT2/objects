@@ -116,7 +116,8 @@
             "ru-RU": "Машины «Спутник»",
             "eo-ZZ": "Sputnik-formaj Ĉaroj",
             "ca-ES": "Cotxes Spútnik",
-            "fi-FI": "Sputnik-vaunut"
+            "fi-FI": "Sputnik-vaunut",
+            "gl-ES": "Coches Sputnik"
         },
         "description": {
             "en-GB": "Russian satellite-shaped cars which swing from the rail above",
@@ -135,7 +136,8 @@
             "ru-RU": "Подвесные машины в форме русского искуственного спутника",
             "eo-ZZ": "Rusaj satelitoformaj ĉaroj, kiuj svingiĝas sub la relo supere",
             "ca-ES": "Cotxes en forma de satèl·lit rus que es balancegen per sota del rail.",
-            "fi-FI": "Venäläissatelliitin muotoiset vaunut, jotka keinuvat kiskon alla"
+            "fi-FI": "Venäläissatelliitin muotoiset vaunut, jotka keinuvat kiskon alla",
+            "gl-ES": "Coches rusos con forma de satélite que balancean desde o carril superior"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -154,7 +156,8 @@
             "ru-RU": "2 пассажира на машину",
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
             "ca-ES": "2 passatgers per cotxe",
-            "fi-FI": "2 matkustajaa per vaunu"
+            "fi-FI": "2 matkustajaa per vaunu",
+            "gl-ES": "2 pasaxeiros por coche"
         }
     }
 }

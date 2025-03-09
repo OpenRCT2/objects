@@ -88,7 +88,8 @@
             "ca-ES": "Hidroavions voladors",
             "fi-FI": "Riippuvat vesitasovaunut",
             "zh-CN": "悬浮水上飞机汽车",
-            "hu-HU": "Felfüggesztett repülőgépkocsik"
+            "hu-HU": "Felfüggesztett repülőgépkocsik",
+            "gl-ES": "Vagóns de hidroavión suspendidos"
         },
         "description": {
             "en-GB": "Suspended roller coaster trains consisting of seaplane-shaped cars able to swing freely as the train goes around corners",
@@ -109,7 +110,8 @@
             "ca-ES": "Muntanya russa amb trens penjants amb cotxes en forma d’hidroavió que es balancegen quan passen per les corbes.",
             "fi-FI": "Vesitason muotoiset vapaasti käänteissä keinuvat riippuvat vuoristoratavaunut",
             "zh-CN": "悬浮的过山车列车由水上飞机形状的汽车组成，能够在列车转弯时自由摆动",
-            "hu-HU": "Felfüggesztett hullámvasútvonatok, amelyek repülőgép alakú kocsikból állnak, és szabadon lenghetnek, amikor a vonat kanyarodik"
+            "hu-HU": "Felfüggesztett hullámvasútvonatok, amelyek repülőgép alakú kocsikból állnak, és szabadon lenghetnek, amikor a vonat kanyarodik",
+            "gl-ES": "Trens de montaña rusa suspendidos compostos por vagóns con forma de hidroavión que poden balancearse libremente mentres o tren xira nas curvas"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -130,7 +132,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "zh-CN": "4位乘客/车",
-            "hu-HU": "4 utas kocsinként"
+            "hu-HU": "4 utas kocsinként",
+            "gl-ES": "4 pasaxeiros por coche"
         }
     }
 }

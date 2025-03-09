@@ -66,7 +66,8 @@
             "ca-ES": "Carreres de velociraptors",
             "fi-FI": "Kilparaptorit",
             "zh-CN": "猛龙赛车",
-            "hu-HU": "Versenyző raptorok"
+            "hu-HU": "Versenyző raptorok",
+            "gl-ES": "Raptors de Carreras"
         },
         "description": {
             "en-GB": "Separate raptor-shaped vehicles",
@@ -87,7 +88,8 @@
             "ca-ES": "Vehicles en forma de velociraptor.",
             "fi-FI": "Yksittäiset raptorin muotoiset ajoneuvot",
             "zh-CN": "分离猛禽形车辆",
-            "hu-HU": "Különálló raptor formájú járművek"
+            "hu-HU": "Különálló raptor formájú járművek",
+            "gl-ES": "Vehículos separados con forma de raptor"
         },
         "capacity": {
             "en-GB": "2 riders per vehicle",
@@ -108,7 +110,8 @@
             "ca-ES": "2 genets per velociraptor",
             "fi-FI": "2 ratsastajaa per vaunu",
             "zh-CN": "2位乘客/车",
-            "hu-HU": "2 utas járművenként"
+            "hu-HU": "2 utas járművenként",
+            "gl-ES": "2 pilotos por vehículo"
         }
     }
 }

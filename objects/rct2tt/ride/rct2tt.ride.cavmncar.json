@@ -221,7 +221,8 @@
             "ca-ES": "Cotxes cavernícoles",
             "fi-FI": "Luolamiesautot",
             "zh-CN": "洞穴人小车",
-            "hu-HU": "Ősember kocsik"
+            "hu-HU": "Ősember kocsik",
+            "gl-ES": "Coches Cavernícolas"
         },
         "description": {
             "en-GB": "Self-drive go-karts in Stone Age style",
@@ -243,7 +244,8 @@
             "ca-ES": "Karts que condueixen els usuaris de l’edat de pedra.",
             "fi-FI": "Itse ajettavat kivikauden tyyliset mikroautot",
             "zh-CN": "石器时代风格的自驾卡丁车",
-            "hu-HU": "Önvezető gokartok, kőkorszaki stílusban"
+            "hu-HU": "Önvezető gokartok, kőkorszaki stílusban",
+            "gl-ES": "karts autónomos ao estilo da Idade de Pedra"
         },
         "capacity": {
             "en-GB": "Single-seater",
@@ -264,7 +266,8 @@
             "ca-ES": "Monoplaça",
             "fi-FI": "Yksipaikkainen",
             "zh-CN": "单人座",
-            "hu-HU": "Együléses"
+            "hu-HU": "Együléses",
+            "gl-ES": "Monopraza"
         }
     }
 }

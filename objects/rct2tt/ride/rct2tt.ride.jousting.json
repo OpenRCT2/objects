@@ -77,7 +77,8 @@
             "eo-ZZ": "Kavaliroj kun Lancoj",
             "ca-ES": "Justa de cavallers",
             "fi-FI": "Turnaavat ritarit",
-            "zh-CN": "骑枪比武"
+            "zh-CN": "骑枪比武",
+            "gl-ES": "Cabaleiros en Torneos de Lanza"
         },
         "description": {
             "en-GB": "Separate horse-shaped vehicles with a jousting knight on the front",
@@ -97,7 +98,8 @@
             "eo-ZZ": "Apartaj ĉevaloformaj veturiloj, kun kavaliro kun lanco ĉe la fronto",
             "ca-ES": "Vehicles separats en forma de cavall amb un cavaller fent una justa al davant.",
             "fi-FI": "Yksittäiset hevosen muotoiset vaunut, joiden kärjessä on turnaava ritari",
-            "zh-CN": "单独的马形车辆，前面有一个骑马骑士"
+            "zh-CN": "单独的马形车辆，前面有一个骑马骑士",
+            "gl-ES": "Vehículos separados en forma de cabalo cun cabaleiro de xusta na parte dianteira"
         },
         "capacity": {
             "en-GB": "2 riders per vehicle",
@@ -117,7 +119,8 @@
             "eo-ZZ": "Po 2 rajdantoj por veturilo",
             "ca-ES": "2 genets per cavall",
             "fi-FI": "2 ratsastajaa per ajoneuvo",
-            "zh-CN": "2位乘客/车"
+            "zh-CN": "2位乘客/车",
+            "gl-ES": "2 pilotos por vehículo"
         }
     }
 }
