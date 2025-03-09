@@ -1,0 +1,136 @@
+{
+    "id": "rct2.climate.warm",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
+    "objectType": "climate",
+    "scriptName": "warm",
+    "strings": {
+        "name": {
+            "en-GB": "Warm",
+            "ar-EG": "دافئ",
+            "ca-ES": "Càlid",
+            "cs-CZ": "Teplo",
+            "da-DK": "Varmt",
+            "de-DE": "Warm",
+            "eo-ZZ": "Varmeta",
+            "es-ES": "Cálido",
+            "fi-FI": "Lämmin",
+            "fr-FR": "Chaud",
+            "gl-ES": "Quente",
+            "hu-HU": "Meleg",
+            "it-IT": "Temperato",
+            "ja-JP": "暖地",
+            "ko-KR": "따뜻함",
+            "nb-NO": "Varmt",
+            "nl-NL": "Warm",
+            "pl-PL": "Ciepło",
+            "pt-BR": "Morno",
+            "ru-RU": "Тепло",
+            "sv-SE": "Varmt",
+            "tr-TR": "Sıcak",
+            "uk-UA": "Тепло",
+            "zh-CN": "温暖",
+            "zh-TW": "溫暖"
+        }
+    },
+    "properties": {
+        "coldItemTempThreshold": 11,
+        "warmItemTempThreshold": 21
+    },
+    "weather": {
+        "march": {
+            "baseTemperature": 12,
+            "randomBias": 21,
+            "distribution": {
+                "sunny": 7,
+                "partiallyCloudy": 8,
+                "cloudy": 7,
+                "heavyRain": 1
+            },
+            "distRotation": 2
+        },
+        "april": {
+            "baseTemperature": 13,
+            "randomBias": 22,
+            "distribution": {
+                "sunny": 6,
+                "partiallyCloudy": 6,
+                "cloudy": 9,
+                "rain": 1,
+                "thunder": 1
+            },
+            "distRotation": 1
+        },
+        "may": {
+            "baseTemperature": 16,
+            "randomBias": 17,
+            "distribution": {
+                "sunny": 12,
+                "partiallyCloudy": 6,
+                "cloudy": 4,
+                "rain": 1
+            },
+            "distRotation": 6
+        },
+        "june": {
+            "baseTemperature": 19,
+            "randomBias": 18,
+            "distribution": {
+                "sunny": 11,
+                "partiallyCloudy": 7,
+                "cloudy": 4,
+                "rain": 1
+            },
+            "distRotation": 5
+        },
+        "july": {
+            "baseTemperature": 21,
+            "randomBias": 22,
+            "distribution": {
+                "sunny": 11,
+                "partiallyCloudy": 9,
+                "cloudy": 3
+            },
+            "distRotation": 1
+        },
+        "august": {
+            "baseTemperature": 22,
+            "randomBias": 17,
+            "distribution": {
+                "sunny": 15,
+                "partiallyCloudy": 5,
+                "cloudy": 2,
+                "thunder": 1
+            },
+            "distRotation": 6
+        },
+        "september": {
+            "baseTemperature": 19,
+            "randomBias": 17,
+            "distribution": {
+                "sunny": 11,
+                "partiallyCloudy": 5,
+                "cloudy": 6,
+                "rain": 1
+            },
+            "distRotation": 6
+        },
+        "october": {
+            "baseTemperature": 16,
+            "randomBias": 17,
+            "distribution": {
+                "sunny": 8,
+                "partiallyCloudy": 5,
+                "cloudy": 9,
+                "heavyRain": 1
+            },
+            "distRotation": 6
+        }
+    }
+}

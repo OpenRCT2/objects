@@ -1,0 +1,147 @@
+{
+    "id": "rct2.climate.cool_and_wet",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
+    "objectType": "climate",
+    "scriptName": "coolAndWet",
+    "strings": {
+        "name": {
+            "en-GB": "Cool and wet",
+            "ar-EG": "بارد ومبتل",
+            "ca-ES": "Fresc i humit",
+            "cs-CZ": "Chladno a mokro",
+            "da-DK": "Koldt og vådt",
+            "de-DE": "Kühl und feucht",
+            "eo-ZZ": "Malvarmeta kaj malseka",
+            "es-ES": "Frío y húmedo",
+            "fi-FI": "Kylmä ja sateinen",
+            "fr-FR": "Frais et humide",
+            "gl-ES": "Frío e húmido",
+            "hu-HU": "Hűvös és nedves",
+            "it-IT": "Freddo e umido",
+            "ja-JP": "冷と湿気",
+            "ko-KR": "춥고 습함",
+            "nb-NO": "Kjølig og vått",
+            "nl-NL": "Koel en nat",
+            "pl-PL": "Zimno i mokro",
+            "pt-BR": "Frio e úmido",
+            "ru-RU": "Холодно и влажно",
+            "sv-SE": "Svalt och blött",
+            "tr-TR": "Serin ve ıslak",
+            "uk-UA": "Прохолодно і волого",
+            "zh-CN": "又冷又潮湿",
+            "zh-TW": "又冷又潮濕"
+        }
+    },
+    "properties": {
+        "coldItemTempThreshold": 11,
+        "warmItemTempThreshold": 21
+    },
+    "weather": {
+        "march": {
+            "baseTemperature": 8,
+            "randomBias": 18,
+            "distribution": {
+                "sunny": 6,
+                "partiallyCloudy": 5,
+                "cloudy": 7,
+                "rain": 3,
+                "heavyRain": 2
+            },
+            "distRotation": 5
+        },
+        "april": {
+            "baseTemperature": 10,
+            "randomBias": 21,
+            "distribution": {
+                "partiallyCloudy": 5,
+                "cloudy": 9,
+                "rain": 3,
+                "heavyRain": 3,
+                "thunder": 1,
+                "sunny": 2
+            },
+            "distRotation": 2
+        },
+        "may": {
+            "baseTemperature": 14,
+            "randomBias": 17,
+            "distribution": {
+                "sunny": 9,
+                "partiallyCloudy": 6,
+                "cloudy": 4,
+                "rain": 3,
+                "heavyRain": 1
+            },
+            "distRotation": 6
+        },
+        "june": {
+            "baseTemperature": 17,
+            "randomBias": 17,
+            "distribution": {
+                "sunny": 10,
+                "partiallyCloudy": 7,
+                "cloudy": 4,
+                "rain": 2
+            },
+            "distRotation": 6
+        },
+        "july": {
+            "baseTemperature": 19,
+            "randomBias": 23,
+            "distribution": {
+                "sunny": 10,
+                "partiallyCloudy": 6,
+                "cloudy": 5,
+                "rain": 1,
+                "heavyRain": 1
+            },
+            "distRotation": 0
+        },
+        "august": {
+            "baseTemperature": 20,
+            "randomBias": 23,
+            "distribution": {
+                "sunny": 6,
+                "partiallyCloudy": 8,
+                "cloudy": 4,
+                "rain": 1,
+                "heavyRain": 3,
+                "thunder": 1
+            },
+            "distRotation": 0
+        },
+        "september": {
+            "baseTemperature": 16,
+            "randomBias": 19,
+            "distribution": {
+                "sunny": 7,
+                "partiallyCloudy": 5,
+                "cloudy": 6,
+                "rain": 2,
+                "heavyRain": 2,
+                "thunder": 1
+            },
+            "distRotation": 4
+        },
+        "october": {
+            "baseTemperature": 13,
+            "randomBias": 16,
+            "distribution": {
+                "sunny": 9,
+                "partiallyCloudy": 4,
+                "cloudy": 6,
+                "rain": 2,
+                "heavyRain": 1,
+                "thunder": 1
+            },
+            "distRotation": 7
+        }
+    }
+}

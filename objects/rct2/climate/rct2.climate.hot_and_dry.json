@@ -1,0 +1,128 @@
+{
+    "id": "rct2.climate.hot_and_dry",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
+    "objectType": "climate",
+    "scriptName": "hotAndDry",
+    "strings": {
+        "name": {
+            "en-GB": "Hot and dry",
+            "ar-EG": "حار وجاف",
+            "ca-ES": "Calorós i sec",
+            "cs-CZ": "Horko a sucho",
+            "da-DK": "Varmt og tørt",
+            "de-DE": "Heiß und trocken",
+            "eo-ZZ": "Varma kaj seka",
+            "es-ES": "Caliente y seco",
+            "fi-FI": "Kuuma ja kuiva",
+            "fr-FR": "Chaud et sec",
+            "gl-ES": "Quente e seco",
+            "hu-HU": "Forró és száraz",
+            "it-IT": "Caldo e secco",
+            "ja-JP": "熱と乾燥",
+            "ko-KR": "덥고 건조함",
+            "nb-NO": "Varmt og tørt",
+            "nl-NL": "Heet en droog",
+            "pl-PL": "Gorąco i sucho",
+            "pt-BR": "Quente e seco",
+            "ru-RU": "Жарко и сухо",
+            "sv-SE": "Hett och torrt",
+            "tr-TR": "Sıcak ve kuru",
+            "uk-UA": "Спекотно і сухо",
+            "zh-CN": "又热又干燥",
+            "zh-TW": "又熱又乾燥"
+        }
+    },
+    "properties": {
+        "coldItemTempThreshold": 11,
+        "warmItemTempThreshold": 21
+    },
+    "weather": {
+        "march": {
+            "baseTemperature": 12,
+            "randomBias": 15,
+            "distribution": {
+                "sunny": 12,
+                "partiallyCloudy": 8,
+                "cloudy": 2,
+                "rain": 1
+            },
+            "distRotation": 8
+        },
+        "april": {
+            "baseTemperature": 14,
+            "randomBias": 12,
+            "distribution": {
+                "sunny": 16,
+                "partiallyCloudy": 5,
+                "cloudy": 2
+            },
+            "distRotation": 11
+        },
+        "may": {
+            "baseTemperature": 16,
+            "randomBias": 11,
+            "distribution": {
+                "sunny": 18,
+                "partiallyCloudy": 4,
+                "cloudy": 1
+            },
+            "distRotation": 12
+        },
+        "june": {
+            "baseTemperature": 19,
+            "randomBias": 9,
+            "distribution": {
+                "sunny": 20,
+                "partiallyCloudy": 3
+            },
+            "distRotation": 14
+        },
+        "july": {
+            "baseTemperature": 21,
+            "randomBias": 13,
+            "distribution": {
+                "sunny": 20,
+                "partiallyCloudy": 3
+            },
+            "distRotation": 10
+        },
+        "august": {
+            "baseTemperature": 22,
+            "randomBias": 11,
+            "distribution": {
+                "sunny": 21,
+                "partiallyCloudy": 2
+            },
+            "distRotation": 12
+        },
+        "september": {
+            "baseTemperature": 21,
+            "randomBias": 12,
+            "distribution": {
+                "sunny": 18,
+                "partiallyCloudy": 3,
+                "cloudy": 1,
+                "thunder": 1
+            },
+            "distRotation": 11
+        },
+        "october": {
+            "baseTemperature": 16,
+            "randomBias": 13,
+            "distribution": {
+                "sunny": 18,
+                "partiallyCloudy": 3,
+                "cloudy": 1,
+                "rain": 1
+            },
+            "distRotation": 10
+        }
+    }
+}
