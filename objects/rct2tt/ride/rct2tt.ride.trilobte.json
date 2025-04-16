@@ -31,6 +31,7 @@
         ],
         "cars": [
             {
+                "hasBaseColour": false,
                 "rotationFrameMask": 31,
                 "spacing": 313776,
                 "mass": 950,
@@ -60,6 +61,7 @@
                 ]
             },
             {
+		        "hasBaseColour": false,
                 "rotationFrameMask": 0,
                 "spacing": 87160,
                 "frictionSoundId": 2,

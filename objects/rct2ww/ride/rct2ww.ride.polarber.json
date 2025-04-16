@@ -28,6 +28,7 @@
             ]
         ],
         "cars": {
+            "hasBaseColour": false,
             "rotationFrameMask": 31,
             "spacing": 200468,
             "mass": 580,
