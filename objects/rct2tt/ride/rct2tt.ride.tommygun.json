@@ -15,13 +15,14 @@
         "carColours": [
             [
                 [
-                    "black",
+                    "light_blue",
                     "bright_pink",
                     "black"
                 ]
             ]
         ],
         "cars": {
+            "hasBaseColour": false,
             "spacing": 139456,
             "mass": 200,
             "tabOffset": -12,

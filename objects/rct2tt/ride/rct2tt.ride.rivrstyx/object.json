@@ -17,13 +17,14 @@
         "carColours": [
             [
                 [
-                    "black",
+                    "light_blue",
                     "bright_pink",
                     "yellow"
                 ]
             ]
         ],
         "cars": {
+            "hasBaseColour": false,
             "rotationFrameMask": 31,
             "spacing": 313776,
             "mass": 950,

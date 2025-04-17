@@ -21,7 +21,7 @@
         "carColours": [
             [
                 [
-                    "black",
+                    "light_blue",
                     "bright_pink",
                     "yellow"
                 ]
@@ -29,6 +29,7 @@
         ],
         "cars": [
             {
+                "hasBaseColour": false,
                 "rotationFrameMask": 31,
                 "spacing": 244048,
                 "mass": 600,
@@ -58,6 +59,7 @@
                 ]
             },
             {
+                "hasBaseColour": false,
                 "rotationFrameMask": 31,
                 "spacing": 226616,
                 "mass": 500,
@@ -87,6 +89,7 @@
                 ]
             },
             {
+                "hasBaseColour": false,
                 "rotationFrameMask": 31,
                 "spacing": 52296,
                 "mass": 50,
