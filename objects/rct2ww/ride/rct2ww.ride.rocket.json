@@ -24,14 +24,14 @@
                 [
                     "dark_green",
                     "dark_purple",
-                    "white"
+                    "yellow"
                 ]
             ],
             [
                 [
                     "white",
                     "grey",
-                    "bright_red"
+                    "yellow"
                 ]
             ]
         ],
@@ -52,7 +52,6 @@
                 "diagonalSlopes": true,
                 "restraintAnimation": true
             },
-            "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasSwinging": true,
             "hasScreamingRiders": true,

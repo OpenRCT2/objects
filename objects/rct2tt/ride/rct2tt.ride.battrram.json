@@ -16,14 +16,14 @@
                 [
                     "black",
                     "yellow",
-                    "bordeaux_red"
+                    "yellow"
                 ]
             ],
             [
                 [
                     "saturated_red",
                     "bright_red",
-                    "black"
+                    "yellow"
                 ]
             ],
             [
@@ -56,7 +56,6 @@
                 "flatToGentleSlopeWhileBankedTransitions": true,
                 "curvedLiftHill": true
             },
-            "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
             "loadingPositions": [
