@@ -17,14 +17,14 @@
                 [
                     "bright_red",
                     "grey",
-                    "light_purple"
+                    "yellow"
                 ]
             ],
             [
                 [
                     "yellow",
                     "bordeaux_red",
-                    "bordeaux_red"
+                    "yellow"
                 ]
             ],
             [
@@ -51,7 +51,6 @@
                 "verticalSlopes": true,
                 "restraintAnimation": true
             },
-            "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
             "loadingPositions": [
