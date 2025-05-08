@@ -1,0 +1,67 @@
+{
+    "id": "uces.scenario_meta.camp_mockingbird",
+    "authors": [
+        "Katatude"
+    ],
+    "version": "1.0",
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "معسكر الطائر المحاكي",
+            "ca-ES": "Camp Rossinyol",
+            "en-GB": "Camp Mockingbird",
+            "eo-ZZ": "Mokbirdo-Kampejo",
+            "es-ES": "Campamento Ruiseñor",
+            "fi-FI": "Matkijalinnun leiri",
+            "fr-FR": "Camp du geai moqueur",
+            "hu-HU": "Feketerigó Tábor",
+            "pt-BR": "Acampamento Sabiá",
+            "uk-UA": "Табір “Пересмішник”",
+            "zh-CN": "嘲鸫夏令营",
+            "pl-PL": "Obóz Przedrzeźniacz",
+            "gl-ES": "Campamento Mockingbird"
+        },
+        "park_name": {
+            "ar-EG": "معسكر الطائر المحاكي",
+            "ca-ES": "Camp Rossinyol",
+            "en-GB": "Camp Mockingbird",
+            "eo-ZZ": "Mokbirdo-Kampejo",
+            "es-ES": "Campamento Ruiseñor",
+            "fi-FI": "Matkijalinnun leiri",
+            "fr-FR": "Camp du geai moqueur",
+            "hu-HU": "Feketerigó Tábor",
+            "ko-KR": "앵무새 캠프",
+            "pt-BR": "Acampamento Sabiá",
+            "uk-UA": "Табір “Пересмішник”",
+            "zh-CN": "嘲鸫夏令营",
+            "pl-PL": "Obóz Przedrzeźniacz",
+            "gl-ES": "Campamento Mockingbird"
+        },
+        "details": {
+            "ar-EG": "500 دولار فقط في الأسبوع لهذا المخيم الصيفي! أسترح وإفتح البنك الخاص بك ثم استمتع وقم ببناء حديقة.",
+            "ca-ES": "Només 500 $ per setmana per aquest campament d’estiu! Obriu el banc, divertiu-vos i construïu-hi un parc.",
+            "da-DK": "Kun 500$ om ugen til denne sommerlejr! Bryd din sparegris op, og hav det derefter sjovt og byg en park.",
+            "de-DE": "Nur $500/Woche in diesem Sommercamp! Ziehen Sie Ihre Spendierhosen an, haben Sie Spaß und bauen Sie einen Park.",
+            "en-GB": "Only $500/week to this summer camp! Break open your bank and then have fun and build a park.",
+            "eo-ZZ": "Nur 500 dolaroj semajne por ĉi tiu somera kampejo! Disrompu vian ŝparmonujon kaj tiam amuziĝu kaj konstruu parkon.",
+            "es-ES": "¡Sólo 500$/semana para ir a este campamento de verano! Abre tu banco y después diviértete construyendo un parque. ",
+            "fi-FI": "Kesäleirille, vain 500€/viikko! Tili tyhjäksi, ja tule pitämään hauskaa puiston rakennuksen ohessa.",
+            "fr-FR": "Seulement 500€ par semaine pour ce camp d’été ! Cassez votre tirelire et venez vous amuser et construire un parc.",
+            "hu-HU": "Csak $500/hét ez a nyári tábor! Törd fel a malacperselyed, aztán szórakozz és építs egy parkot.",
+            "it-IT": "Solo 500 dollari a settimana per questo campo estivo! Spacca il salvadanaio e divertiti a costruire un parco.",
+            "ko-KR": "이번 여름 캠프가 일주일에 단돈 $500! 은행 금고를 열고 공원을 만들면서 놀아보세요.",
+            "nb-NO": "Kun $500/uke til denne sommerleiren! Gjør et innbrudd i din bank og ha det gøy med å bygge en park.",
+            "nl-NL": "Dit zomerkamp kost maar 500 euro per week! Plunder je spaarrekening en kom bouwen!",
+            "pt-BR": "Apenas R$500/semana para esse acampamento de verão! Abra sua carteira e se divirta construindo um parque.",
+            "uk-UA": "Лише 500$/тиждень у цьому літньому таборі! Відкрий свій банк, а потім розважайся та будуй парк.",
+            "zh-CN": "这个夏令营每个月只有500美元！找银行吧，玩的开心就好！建造一个游乐园。",
+            "pl-PL": "Tylko 500 dolarów tygodniowo za ten obóz letni! Opróżnij swoją skarbonkę i baw się dobrze, budując wesołe miasteczko",
+            "ru-RU": "Цена за пребывание в этом летнем лагере - всего $500 в неделю! Откройте свою копилку, веселитесь и стройте парк.",
+            "gl-ES": "Só $500/semana para este campamento de verán! Abre o teu banco e despois divírtete e constrúe un parque."
+        }
+    }
+}

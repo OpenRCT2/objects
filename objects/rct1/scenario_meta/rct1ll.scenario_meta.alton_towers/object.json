@@ -1,0 +1,38 @@
+{
+    "id": "rct1ll.scenario_meta.alton_towers",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct1ll"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "أبراج ألتون",
+            "ca-ES": "Alton Towers (Regne Unit)",
+            "en-GB": "Alton Towers",
+            "ja-JP": "アルトン・タワーズ",
+            "zh-CN": "奥尔顿塔",
+            "zh-TW": "奧爾頓塔"
+        },
+        "park_name": {
+            "ar-EG": "أبراج ألتون",
+            "ca-ES": "Alton Towers (Regne Unit)",
+            "en-GB": "Alton Towers",
+            "ko-KR": "알턴 타워스",
+            "zh-CN": "奥尔顿塔",
+            "zh-TW": "奧爾頓塔"
+        },
+        "details": {
+            "da-DK": "Forlystelsespark der ligger i Alton, Staffordshire i England",
+            "en-GB": "",
+            "tr-TR": "Gerçekte İngiltere’de bulunan bir lunapark"
+        }
+    }
+}

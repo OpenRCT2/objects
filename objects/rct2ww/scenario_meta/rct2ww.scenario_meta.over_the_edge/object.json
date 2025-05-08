@@ -1,0 +1,82 @@
+{
+    "id": "rct2ww.scenario_meta.over_the_edge",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "originalId": "0CDCF51A|STEX54  |02C403BA",
+    "sourceGame": [
+        "rct2ww"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "على الحافة",
+            "ca-ES": "A la vora",
+            "de-DE": "Über die Kante",
+            "en-GB": "Over The Edge",
+            "eo-ZZ": "Super La Rando",
+            "es-ES": "Sobre el borde",
+            "fi-FI": "Yli reunan",
+            "fr-FR": "Amortir la chute",
+            "hu-HU": "A Szakadék Szélén",
+            "it-IT": "Tuffo nel vuoto",
+            "ja-JP": "オーバー・ザ・エッジ",
+            "ko-KR": "폭포 너머",
+            "pt-BR": "No limite",
+            "ru-RU": "Over The Edge",
+            "sv-SE": "Över kanten",
+            "zh-CN": "大河边缘",
+            "pl-PL": "Na skraju",
+            "gl-ES": "sobre o bordo"
+        },
+        "park_name": {
+            "ar-EG": "على الحافة",
+            "ca-ES": "A la vora",
+            "de-DE": "Über die Kante",
+            "en-GB": "Over The Edge",
+            "eo-ZZ": "Super La Rando",
+            "es-ES": "Sobre el borde",
+            "fi-FI": "Yli reunan",
+            "fr-FR": "Amortir la chute",
+            "hu-HU": "A Szakadék Szélén",
+            "it-IT": "Tuffo nel vuoto",
+            "ja-JP": "オーバー・ザ・エッジ",
+            "ko-KR": "폭포 너머",
+            "pt-BR": "No limite",
+            "ru-RU": "Over The Edge",
+            "sv-SE": "Över kanten",
+            "zh-CN": "大河边缘",
+            "pl-PL": "Na skraju",
+            "gl-ES": "sobre o bordo"
+        },
+        "details": {
+            "ar-EG": "تم بناء سد يوفر طاقة كهرومائية وفيرة ورخيصة لتشغيل الحديقة. أنت بحاجة للوصول إلى قيمة عالية للحديقة للمساعدة في سداد قرض السد.",
+            "ca-ES": "S’ha construït una presa que ofereix energia hidroelèctrica barata i abundant per a fer funcionar un parc. Haureu d’obtenir una valoració del parc prou alta per a poder retornar el préstec de la presa.",
+            "cs-CZ": "Postavená přehrada zajišťuje velké množství levné hydroelektrické energie pro váš zábavní park. Dosáhněte vysokého hodnocení parku, abyste snáze splatili půjčku na přehradu.",
+            "da-DK": "En dæmning er blevet bygget, som tilbyder rigelige, billige vandkraft til at drive en park. Du er nødt til at nå en høj park værdi for at hjælpe med tilbagebetalingen af lånet til dæmningen.",
+            "de-DE": "Ein Damm wurde gebaut und erzeugt große Mengen an billigem Strom, mit dem Sie einen Park betreiben können. Sie müssen allerdings einen hohen Park-Verkehrswert erreichen, um das Darlehen für den Damm zurückzahlen zu können.",
+            "en-GB": "A dam has been built offering abundant, cheap hydroelectric power with which to run a park. You need to reach a high park value to help repay the loan for the dam.",
+            "eo-ZZ": "Digo konstruita oferas abundan malmultekostan hidroelektran potencon por administri parkon. Vi devas atingi altan parkvaloron por helpi repagi la prunton de la digo.",
+            "es-ES": "Se ha construido una presa que ofrece abundante y barata energía hidroeléctrica con la que suministrar a un parque. Tendrás que alcanzar un alto valor de parque para poder devolver el dinero del préstamo para la presa.",
+            "fi-FI": "Juuri rakennettu pato tuottaa paljon halpaa vesivoimaa, jolla voi pyörittää huvipuistoa. Sinun täytyy nostaa puiston arvoa jotta voit maksaa takaisin padon rakennuslainan.",
+            "fr-FR": "Un barrage offrant suffisamment de puissance hydroélectrique à faible coût pour la création d’un parc a été construit. Votre but est d’obtenir une haute rentabilité pour rembourser l’emprunt du barrage.",
+            "hu-HU": "Egy gát épült, amely bőséges és olcsó vízenergiát kínál a park működtetéséhez. Magas parkértéket kell elérned, hogy segítsen visszafizetni a gátra felvett kölcsönt.",
+            "it-IT": "È stata costruita una diga che eroga energia idroelettrica a basso prezzo e in quantità, con la quale è possibile alimentare un parco. Per rimborsare il prestito della diga, dovrai creare un parco di grande valore.",
+            "ko-KR": "공원을 운영하기 충분하고 값싼 전기를 생산하는 수력 발전 댐이 지어졌습니다. 댐을 건설하느라 진 빚을 갚기 위해 높은 가치의 놀이공원을 지어야 합니다.",
+            "nb-NO": "En demning har blitt bygd, som tilbyr store mengder billig strøm som kan drive en park. Du trenger å nå en høy parkverdi for å hjelpe deg betale ned lånet for demningen.",
+            "nl-NL": "Er is een stuwdam gebouwd die goedkope energie in overvloed levert voor je park. Je moet een hoge parkwaarde bereiken om de lening voor de dam terug te betalen.",
+            "pl-PL": "Wybudowano tamę umożliwiającą produkcję taniej energii w hydroelektrowni, która będzie zasilać park. Musisz sprawić, aby osiągnął on dużą wartość, dzięki czemu spłacisz kredyt zaciągnięty na budowę.",
+            "pt-BR": "Uma barreira foi construída oferecendo energia hidroelétrica barata e abundante com a qual funcionará um parque. Você precisa atingir um alto valor de parque para ajudar a reembolsar o empréstimo para a barreira.",
+            "ru-RU": "Была построена дамба, обеспечивающая ваш парк дешёвой электроэнергией. Вам нужно достичь высокой стоимости парка, чтобы расплатиться по кредиту за дамбу.",
+            "sv-SE": "En nybyggd damm ger tillräckligt med billig vattenkraft för att kunna driva ett nöjesfält. Du måste dock uppnå ett högt parkvärde för att kunna betala tillbaka lånet för dammen.",
+            "tr-TR": "Ucuza ve bol miktarda park için cereyan üretmek amacıyla bir baraj inşa ettirdiniz. Baraj için çektiğiniz krediyi geri ödediniz bile. Şimdi park değerini yükseltmeye çalışınız",
+            "zh-CN": "当地建成了一个大坝，提供了丰富的，廉价的水电，用来运行一个公园。你需要用公园来获得很多的钱，用来偿还建造大坝的贷款。",
+            "gl-ES": "Construíuse un encoro que ofrece enerxía hidroeléctrica abundante e barata coa que facer funcionar un parque. Precisas alcanzar un valor elevado do parque para axudar a pagar o préstamo para a presa."
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "id": "rct1ll.scenario_meta.icarus_park",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB400A|STEX965 |E8D9A6DC",
+    "sourceGame": [
+        "rct1ll"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "حديقة إيكاروس",
+            "ca-ES": "Parc Ícar",
+            "en-GB": "Icarus Park",
+            "eo-ZZ": "Ikaro-Parko",
+            "fi-FI": "Ikaruspuisto",
+            "fr-FR": "Parc Icarus",
+            "hu-HU": "Ikarusz Park",
+            "ja-JP": "イカラス・パーク",
+            "pt-BR": "Parque de Ícaro",
+            "zh-CN": "伊卡洛斯公园",
+            "pl-PL": "Park Ikara",
+            "gl-ES": "Parque Ícaro"
+        },
+        "park_name": {
+            "ar-EG": "حديقة إيكاروس",
+            "ca-ES": "Parc Ícar",
+            "en-GB": "Icarus Park",
+            "eo-ZZ": "Ikaro-Parko",
+            "fi-FI": "Ikaruspuisto",
+            "fr-FR": "Parc Icarus",
+            "hu-HU": "Ikarusz Park",
+            "ko-KR": "이카루스 공원",
+            "pt-BR": "Parque de Ícaro",
+            "zh-CN": "伊卡洛斯公园",
+            "pl-PL": "Park Ikara",
+            "gl-ES": "Parque Ícaro"
+        },
+        "details": {
+            "ar-EG": "يجب تطوير هذه الحديقة الغريبة لتعظيم ربحها",
+            "ca-ES": "Desenvolupeu aquest parc alienígena per tal de maximitzar-ne els beneficis.",
+            "da-DK": "Udvikel denne rumvæsen park til at maksimere fortjenesten",
+            "de-DE": "Verbessern Sie diesen außerirdischen Park, damit höchste Erträge erzielt werden.",
+            "en-GB": "Develop this alien park to maximise its profit",
+            "en-US": "Develop this alien park to maximize its profit",
+            "eo-ZZ": "Ellaboru ĉi tiun eksterteran parkon por maksimumigi sian profiton",
+            "es-ES": "Desarrolla este parque ajeno para maximizar sus beneficios.",
+            "fi-FI": "Kehitä tätä avaruusoliopuistoa korottaaksesi sen tuottoa",
+            "fr-FR": "Développez ce parc extraterrestre afin d’en maximiser les profits.",
+            "hu-HU": "Fejleszd ezt a földönkívüli parkot, hogy maximalizáld a nyereségét",
+            "it-IT": "Sviluppa questo parco alieno per massimizzare il suo profitto",
+            "ko-KR": "이 외계 공원을 개발하여 최대한의 매출을 올리세요.",
+            "nb-NO": "Utvikle denne utenomjordiske parken for å maksimere inntektene",
+            "nl-NL": "Ontwikkel dit buitenaardse park om de winst zo groot mogelijk te maken.",
+            "pl-PL": "Rozwiń ten kosmiczny park w celu maksymalizacji zysków",
+            "pt-BR": "Desenvolva este parque alienígena para maximizar seu lucro.",
+            "sv-SE": "Utveckla denna utomjordiska park för att maximera deras vinst",
+            "tr-TR": "Kârını zirveye çıkarmanız gerektiren bir uzaylı lunaparkı",
+            "zh-CN": "开发这个外星公园并且最大化你的收益",
+            "zh-TW": "發展此外星樂園並將其利潤最大化",
+            "ru-RU": "Максимизируйте доходы этого пришельского парка",
+            "gl-ES": "Desenvolve este parque alieníxena para maximizar os seus beneficios"
+        }
+    }
+}

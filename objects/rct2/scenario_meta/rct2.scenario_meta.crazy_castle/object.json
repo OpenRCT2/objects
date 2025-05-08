@@ -1,0 +1,84 @@
+{
+    "id": "rct2.scenario_meta.crazy_castle",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "0A18818A|STEX7   |BCB5B8FE",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "القصر المجنون",
+            "ca-ES": "Castell esbojarrat",
+            "de-DE": "Verrückte Burg",
+            "en-GB": "Crazy Castle",
+            "eo-ZZ": "Freneza Kastelo",
+            "es-ES": "Castillo Loco",
+            "fi-FI": "Hullulinna",
+            "fr-FR": "Le Château des déments",
+            "hu-HU": "Őrült Kastély",
+            "it-IT": "Castello pazzo",
+            "ja-JP": "クレイジーキャッスル",
+            "ko-KR": "이상한 성",
+            "pt-BR": "Castelo Maluco",
+            "sv-SE": "Roliga slottet",
+            "zh-CN": "疯狂城堡",
+            "zh-TW": "瘋狂城堡",
+            "pl-PL": "Zwariowany zamek",
+            "gl-ES": "Castelo Tolo"
+        },
+        "park_name": {
+            "ar-EG": "القصر المجنون",
+            "ca-ES": "Castell esbojarrat",
+            "de-DE": "Verrückte Burg",
+            "en-GB": "Crazy Castle",
+            "eo-ZZ": "Freneza Kastelo",
+            "es-ES": "Castillo Loco",
+            "fi-FI": "Hullulinna",
+            "fr-FR": "Le Château des déments",
+            "hu-HU": "Őrült Kastély",
+            "it-IT": "Castello pazzo",
+            "ko-KR": "이상한 성",
+            "pt-BR": "Castelo Maluco",
+            "sv-SE": "Roliga slottet",
+            "zh-CN": "疯狂城堡",
+            "zh-TW": "瘋狂城堡",
+            "pl-PL": "Zwariowany zamek",
+            "gl-ES": "Castelo Tolo"
+        },
+        "details": {
+            "ar-EG": "لقد وَرثت قلعة كبيرة. مهمتك هي تحويلها إلى حديقة صغيرة.",
+            "ca-ES": "Heu heretat aquest enorme castell. La vostra feina consisteix en convertir-lo en un parc temàtic petit.",
+            "cs-CZ": "Zdědili jste velký hrad - a vaším úkolem je přeměnit ho na malý zábavní park",
+            "da-DK": "Du har arvet et kæmpe stort slot - Din opgave er at udvikle det til en lille forlystelsespark",
+            "de-DE": "Sie haben eine große Burg geerbt - Ihr Ziel besteht darin, sie in einen kleinen Themenpark umzubauen.",
+            "en-GB": "You have inherited a large castle. Your job is to convert it into a small theme park.",
+            "en-US": "You have inherited a large castle - Your job is to convert it into a small theme park.",
+            "eo-ZZ": "Vi heredis grandan kastelon. Via celo estas konverti ĝin en malgrandan amuzparkon.",
+            "es-ES": "Has heredado un gran castillo. Tu trabajo es convertirlo en un pequeño parque temático.",
+            "fi-FI": "Olet perinyt ison linnan. Toimenasi on muuntaa se pieneksi teemapuistoksi.",
+            "fr-FR": "Transformez un grand château en petit parc à thème.",
+            "hu-HU": "Örököltél egy nagy kastélyt. Az a feladatod, hogy átalakítsd egy kis vidámparkká.",
+            "it-IT": "Hai ereditato un grande castello: il tuo compito è convertirlo in un piccolo parco tematico.",
+            "ja-JP": "あなたは、大きな城を相続しました - ここを、小さなテーマパークに造り替えてください.",
+            "ko-KR": "당신은 큰 성을 물려받았습니다. 이제 이 성을 작은 놀이공원으로 바꾸는 것이 당신이 해야 할 일입니다.",
+            "nb-NO": "Du har arvet et stort slott. Din jobb er å konvertere den til en liten fornøyelsespark.",
+            "nl-NL": "Je hebt een groot kasteel geërfd. Het is je opdracht er een klein themapark van te maken.",
+            "pl-PL": "Otrzymujesz w spadku wielki zamek - Twoim zadaniem jest przekształcić go w mały park tematyczny",
+            "pt-BR": "Você herdou um grande castelo - Seu trabalho é convertê-lo em um pequeno parque temático",
+            "ru-RU": "Вы унаследовали большой замок. Ваша задача - превратить его в маленький парк",
+            "sv-SE": "Du har ärvt ett stort slott – Ditt jobb är att förvandla det till en liten temapark.",
+            "tr-TR": "Büyük bir kaleyi lunaparka çeviriniz",
+            "zh-CN": "你继承了一个大的城堡——你的工作是把它转型成一个小型主题公园。",
+            "zh-TW": "你繼承了一座大型城堡 - 你的工作是將它變為一座小型主題樂園.",
+            "gl-ES": "Herdaches un gran castelo. O teu traballo é convertelo nun pequeno parque temático."
+        }
+    }
+}

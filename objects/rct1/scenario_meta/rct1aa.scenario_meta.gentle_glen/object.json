@@ -1,0 +1,70 @@
+{
+    "id": "rct1aa.scenario_meta.gentle_glen",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB4F0A|STEX929 |5EEE35DF",
+    "sourceGame": [
+        "rct1aa"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ca-ES": "La vall tranquil·la",
+            "en-GB": "Gentle Glen",
+            "eo-ZZ": "Milda Valeto",
+            "fi-FI": "Lempeä laakso",
+            "fr-FR": "Ruisseau Reposant",
+            "hu-HU": "Szende-szurdok",
+            "ja-JP": "ジェントル・グレン",
+            "pt-BR": "Vale Gentil",
+            "zh-CN": "温柔峡谷",
+            "pl-PL": "Łagodna dolina",
+            "gl-ES": "Val estreito Xentil",
+            "ar-EG": "جلين اللطيف"
+        },
+        "park_name": {
+            "ca-ES": "La vall tranquil·la",
+            "en-GB": "Gentle Glen",
+            "eo-ZZ": "Milda Valeto",
+            "fi-FI": "Lempeä laakso",
+            "fr-FR": "Ruisseau Reposant",
+            "hu-HU": "Szende-szurdok",
+            "ko-KR": "얌전한 골짜기",
+            "pt-BR": "Vale Gentil",
+            "zh-CN": "温柔峡谷",
+            "pl-PL": "Łagodna dolina",
+            "gl-ES": "Val estreito Xentil",
+            "ar-EG": "جلين اللطيف"
+        },
+        "details": {
+            "ca-ES": "La població local prefereix atraccions suaus i relaxants. Així que la vostra feina és expandir aquest parc per a satisfer els seus desitjos.",
+            "da-DK": "Den lokale befolkning foretrækker blide og afslappende forlystelser, så det er dit job at udvide denne forlystelsespark, så den passer til deres smag",
+            "de-DE": "Die Bevölkerung in der Umgebung bevorzugt gemäßigte Attraktionen, auf denen man sich erholen kann. Ihre Aufgabe ist es, diesen Ansprüchen gerecht zu werden.",
+            "en-GB": "The local population prefer gentle and relaxing rides, so it is your job to expand this park to suit their tastes",
+            "eo-ZZ": "La lokaj homoj preferas mildajn atrakciojn, do via celo estas ellabori ĉi tiun parkon por plaĉi ilin",
+            "es-ES": "La población local prefiere atracciones tranquilas y relajantes. Debes expandir el parque para satisfacer sus gustos.",
+            "fi-FI": "Paikalliset pitävät lempeämmistä laitteista, joten laajenna puistoa heidän makunsa mukaan",
+            "fr-FR": "La population locale préfère des attractions tranquilles et relaxantes ; c’est donc à vous d’adapter ce parc à ses goûts.",
+            "hu-HU": "A helyi lakosság az enyhe és nyugtató játékokat kedveli, úgyhogy a te feladatod a park ízlésüknek megfelelő bővítése",
+            "it-IT": "La popolazione locale preferisce attrazioni tranquille e rilassanti, il tuo compito è di espandere il parco per soddisfarla",
+            "ko-KR": "이 지역의 주민들은 격렬하지 않고 얌전한 놀이기구를 선호합니다. 이 공원을 그들의 취향에 맞게 확장해보세요.",
+            "nb-NO": "Det er din jobb å utvide denne parken med rolige attraksjoner, etter preferansene til regionens innbyggere",
+            "nl-NL": "De lokale bevolking heeft een voorkeur voor rustige en ontspannende attracties, dus is het je taak om dit park uit te breiden naar hun smaak.",
+            "pl-PL": "Lokalna ludność preferuje łagodne i relaksujące atrakcje, także Twoim zadaniem jest rozbudowa parku wedle ich upodobań",
+            "pt-BR": "A população local prefere atrações calmas e relaxantes, então é seu trabalho expandir este parque para suprir o gosto dela.",
+            "sv-SE": "Den lokala befolkningen föredrar lugna attraktioner, det är ditt jobb att bygga ut denna park med deras behov i åtanke",
+            "tr-TR": "Etrafı su ile sarılı bir adanın üstünde lunapark",
+            "zh-CN": "当地人喜欢温和而轻松的游乐设施，所以你的工作是扩大这个公园以适应他们的口味",
+            "zh-TW": "當地居民比較喜愛溫和及令人放鬆的遊樂設施, 所以你的任務便是要將這個樂園以他們的口味擴建",
+            "ru-RU": "Местное население предпочитает мягкие, расслабляющие аттракционы. Ваша задача - расширить свой парк под их вкус",
+            "gl-ES": "A poboación local prefire atraccións suaves e relaxantes, polo que é o teu traballo expandir este parque para adaptalo aos seus gustos",
+            "ar-EG": "يفضل السكان المحليون الألعاب اللطيفة والمريحة، لذا فإن مهمتك هي توسيع هذه الحديقة لتناسب أذواقهم"
+        }
+    }
+}

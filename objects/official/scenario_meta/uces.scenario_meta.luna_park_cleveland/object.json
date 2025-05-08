@@ -1,0 +1,55 @@
+{
+    "id": "uces.scenario_meta.luna_park_cleveland",
+    "authors": [
+        "Aetherwave"
+    ],
+    "version": "1.0",
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "حديقة لونا، كليفلاند",
+            "en-GB": "Luna Park, Cleveland",
+            "eo-ZZ": "Luna Parko, Klevlando",
+            "uk-UA": "Луна-парк, Клівленд",
+            "zh-CN": "克利夫兰的月神公园",
+            "pl-PL": "Lunapark Cleveland",
+            "gl-ES": "Parque Luna, Cleveland"
+        },
+        "park_name": {
+            "ar-EG": "حديقة لونا",
+            "en-GB": "Luna Park",
+            "eo-ZZ": "Luna Parko",
+            "ko-KR": "루나 파크",
+            "uk-UA": "Луна-парк",
+            "zh-CN": "月神公园",
+            "pl-PL": "Lunapark",
+            "gl-ES": "Parque Luna"
+        },
+        "details": {
+            "ar-EG": "كما كانت في يوم أفتتاحها - 18 مايو 1905.",
+            "ca-ES": "Tal i com era el dia de la seva inauguració, el dia 18 de maig de 1.905.",
+            "da-DK": "Som den var på åbningsdagen - 18. Maj 1905.",
+            "de-DE": "So, wie er am Eröffnungstag war, den 18. Mai 1905.",
+            "en-GB": "As it was on its opening day - 18 May 1905.",
+            "eo-ZZ": "Kiel ĝi estis en ĝia inaŭgura tago - 18 Majo 1905.",
+            "es-ES": "Tal y como era en el día de su inauguración - 18 de mayo de 1905.",
+            "fi-FI": "Aivan kuten se oli avajaispäivänään - 18. toukokuuta 1905.",
+            "fr-FR": "Comme à son jour d’ouverture — 18 mai 1905.",
+            "hu-HU": "Amilyen a megnyitó napján volt - 1905. május 18-án.",
+            "it-IT": "Proprio com’era il giorno della sua apertura, il 18 maggio 1905.",
+            "ko-KR": "공원 개장일이었떤 1905년 5월 18일처럼.",
+            "nb-NO": "Som den var på sin åpningsdag - 18 Mai 1905.",
+            "nl-NL": "Zoals het eruitzag op de openingsdag, 18 mei 1905.",
+            "pt-BR": "Como estava no seu dia de inauguração - 18 de maio de 1905.",
+            "uk-UA": "Таким він був у день відкриття — 18 травня 1905 року.",
+            "zh-CN": "一切就像它开幕当天一样——1905年5月18日。",
+            "pl-PL": "Tak, jak wyglądał w dniu otwarcia - 18 maja 1905 roku",
+            "ru-RU": "Как в самый день его открытия - 18 мая 1905 года.",
+            "gl-ES": "Tal como estaba no seu día de apertura - 18 de maio de 1905."
+        }
+    }
+}

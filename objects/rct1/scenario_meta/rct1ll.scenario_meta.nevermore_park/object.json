@@ -1,0 +1,70 @@
+{
+    "id": "rct1ll.scenario_meta.nevermore_park",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB400A|STEX974 |60099322",
+    "sourceGame": [
+        "rct1ll"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "نيفرمور بارك",
+            "ca-ES": "Parc Nevermore",
+            "en-GB": "Nevermore Park",
+            "eo-ZZ": "Neniam-Parko",
+            "fi-FI": "Mikäpuisto",
+            "fr-FR": "Parc Nevermore",
+            "hu-HU": "Sohamár Park",
+            "ja-JP": "ネヴァーモア・パーク",
+            "pt-BR": "Parque do Nunca",
+            "zh-CN": "永无止境公园",
+            "pl-PL": "Kruczy park",
+            "gl-ES": "Parque Nunca Máis"
+        },
+        "park_name": {
+            "ar-EG": "نيفرمور بارك",
+            "ca-ES": "Parc Nevermore",
+            "en-GB": "Nevermore Park",
+            "eo-ZZ": "Neniam-Parko",
+            "fi-FI": "Mikäpuisto",
+            "fr-FR": "Parc Nevermore",
+            "hu-HU": "Sohamár Park",
+            "ko-KR": "네버모어 공원",
+            "pt-BR": "Parque do Nunca",
+            "zh-CN": "永无止境公园",
+            "pl-PL": "Kruczy park",
+            "gl-ES": "Parque Nunca Máis"
+        },
+        "details": {
+            "ar-EG": "حديقة كبيرة مع نظام نقل جديد حول حافتها",
+            "ca-ES": "Un parc gran amb un sistema de transport nou que el voreja.",
+            "da-DK": "En stor park med et gammelt transportsystem langs kanten",
+            "de-DE": "Ein großer Park mit einem neuartigen Transportsystem, das durch die Randbereiche führt.",
+            "en-GB": "A large park with a novel transportation system around its edge",
+            "eo-ZZ": "Granda parko, kun nova sistemo de transportado ĉirkaŭ ĝia rando",
+            "es-ES": "Un gran parque con un novedoso sistema de transporte alrededor de su perímetro.",
+            "fi-FI": "Valtava puisto jota reunoittaa uraauurtava kulkuväline",
+            "fr-FR": "Un vaste parc entouré d’un nouveau mode de transport.",
+            "hu-HU": "Egy nagy park, újszerű közlekedési rendszerrel a szélén",
+            "it-IT": "Un grande parco con un nuovo sistema di trasporto lungo i suoi confini",
+            "ko-KR": "공원 주변에 참신한 운송수단이 설치된 거대한 공원입니다.",
+            "nb-NO": "En stor park med et nyskapende transportsystem rundt periferien",
+            "nl-NL": "Een groot park dat omringd wordt door een bijzonder transportsysteem.",
+            "pl-PL": "Ogromny park z innowacyjnym systemem transportu gości wokół granic parku",
+            "pt-BR": "Um grande parque com um novo sistema de transporte envolta de sua borda.",
+            "sv-SE": "En stor park med ett ovanligt transportsystem runt kanterna",
+            "tr-TR": "Büyük bir alanda gölün etrafında bir lunapark. Müşteri taşıma sistemi hız treni ile gerçekleşiyor",
+            "zh-CN": "一个有着与众不同的交通系统环绕的大公园",
+            "zh-TW": "一個已經四周都擁有童話般的運輸系統的大型樂園",
+            "ru-RU": "Большой парк с необычной транспортной системой у его краёв",
+            "gl-ES": "Un gran parque cun sistema de transporte novo ao redor da súa beira"
+        }
+    }
+}

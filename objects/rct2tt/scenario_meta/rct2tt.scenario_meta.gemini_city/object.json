@@ -1,0 +1,79 @@
+{
+    "id": "rct2tt.scenario_meta.gemini_city",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "originalId": "0E43032A|STEX80  |2D76E68E",
+    "sourceGame": [
+        "rct2tt"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "مدينة الجوزاء",
+            "ca-ES": "Ciutat Gèmini",
+            "de-DE": "Zwillingsstadt",
+            "en-GB": "Gemini City",
+            "eo-ZZ": "Ĝemeloj-Urbo",
+            "es-ES": "Ciudad Géminis",
+            "fi-FI": "Kaksoskaupunki",
+            "hu-HU": "Gemini Város",
+            "it-IT": "Città di Gemini",
+            "ja-JP": "ジェミニ・シティ",
+            "ko-KR": "제미니 시티",
+            "pt-BR": "Cidade Gemini",
+            "ru-RU": "Gemini City",
+            "zh-CN": "双子城",
+            "zh-TW": "雙子星城市",
+            "gl-ES": "Cidade Xenemini"
+        },
+        "park_name": {
+            "ar-EG": "مدينة الجوزاء",
+            "ca-ES": "Ciutat Gèmini",
+            "de-DE": "Zwillingsstadt",
+            "en-GB": "Gemini City",
+            "eo-ZZ": "Ĝemeloj-Urbo",
+            "es-ES": "Ciudad Géminis",
+            "fi-FI": "Kaksoskaupunki",
+            "hu-HU": "Gemini Város",
+            "it-IT": "Città di Gemini",
+            "ja-JP": "ジェミニ・シティ",
+            "ko-KR": "제미니 시티",
+            "pt-BR": "Cidade Gemini",
+            "ru-RU": "Gemini City",
+            "zh-CN": "双子城",
+            "zh-TW": "雙子星城市",
+            "gl-ES": "Cidade Xenemini"
+        },
+        "details": {
+            "ar-EG": "أظهر رؤيتك المبتكرة والمثالية للمستقبل - ابتكر تصميمًا مستقبليًا للحديقة يتضمن أحدث عوامل الجذب.",
+            "ca-ES": "Mostreu la vostra inventiva visió utòpica del futur. Aixequeu un parc amb dissenys futurístics que incorpori atraccions avantguardistes.",
+            "cs-CZ": "Ukažte svou vynalézavou, utopickou vizi budoucnosti - přijďte s futuristickým zábavním parkem, který zahrnuje ty nejnovější atrakce.",
+            "da-DK": "Vis din opfindsomme, utopiske vision om fremtiden - kom op med et futuristisk parkdesign, der inkorporerer state-of-the-art attraktioner.",
+            "de-DE": "Beweisen Sie Ihre innovative, utopische Vision der Zukunft - errichten Sie einen futuristischen Freizeitpark mit topmodernen Attraktionen.",
+            "en-GB": "Show off your inventive, utopian vision of the future - come up with a futuristic park design that incorporates state-of-the-art attractions.",
+            "eo-ZZ": "Montru vian inventeman, utopian konceptadon de la estonteco - kreu futurisman parko-dezegnaĵon, kiu enkorpigas la plej modernajn atrakciojn.",
+            "es-ES": "Demuestra tu inventiva y utópica visión del futuro, crea un parque de diseño futurista que incorpore atracciones de última tecnología.",
+            "fi-FI": "Näytä kekseliäs utooppinen tulevaisuuden mielikuvasi - luo futuristinen puisto, jossa on kaikki huipputekniset laitteet.",
+            "fr-FR": "Faites preuve de créativité et laissez parler vos talents de visionnaire en construisant un parc futuriste proposant des attractions du dernier cri.",
+            "hu-HU": "Mutass egy újszerű, utópisztikus jövőképet - találj ki egy futurisztikus parktervet, amely magában foglalja a legmodernebb látványosságokat.",
+            "it-IT": "Metti in gioco la tua fantastica e utopistica visione del futuro e costruisci un parco futuristico composto dalle attrazioni più all’avanguardia.",
+            "ko-KR": "당신의 미래에 대한 독창적이고 이상적인 시각을 보여줄 때입니다. 첨단의 매력이 느껴지는 미래의 공원 디자인을 제안해봅시다.",
+            "nb-NO": "Vis fram din oppfinnsomme, utopiske visjon av fremtiden - skap en futuristisk parkdesign som inneholder toppmoderne attraksjoner.",
+            "nl-NL": "Laat je inventieve, utopische visie van de toekomst zien! Bedenk een furistisch ontwerp met state-of-the-art attracties.",
+            "pl-PL": "Pokaż ludziom swoją twórczą, utopijną wizję przyszłości - wybuduj futurystyczny lunapark, oferujący atrakcje najwyższej jakości.",
+            "pt-BR": "Mostre sua inventiva, utópica visão do futuro - mostre um projeto futurista de parque que incorpore atrações de ponta.",
+            "ru-RU": "Покажите свое видение утопии будущего - придумайте футуристический дизайн для парка, включающий новейшие аттракционы.",
+            "sv-SE": "Realisera din innovativa och utopiska vision av framtiden. Bygg en futuristisk park med de allra senaste attraktionerna.",
+            "tr-TR": "Geleceğin yaratıcı, ütopik vizyonunu sergileyin - son teknoloji konumlarını içeren fütüristik bir park tasarımı ile parkınızı oluşturunuz",
+            "zh-CN": "炫耀你的创造性的，乌托邦式的未来愿景——想出一个未来的公园设计，结合国家的最先进的景点。",
+            "zh-TW": "展現您對於未來的創造力與想像力-設計出以最先進科技為特色的未來主題樂園。",
+            "gl-ES": "Amosa a túa visión inventiva e utópica do futuro: crea un deseño de parque futurista que inclúa atraccións de última xeración."
+        }
+    }
+}

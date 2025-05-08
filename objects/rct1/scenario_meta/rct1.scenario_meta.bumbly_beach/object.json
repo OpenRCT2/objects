@@ -1,0 +1,72 @@
+{
+    "id": "rct1.scenario_meta.bumbly_beach",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB4F0A|STEX905 |AE6013D9",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ca-ES": "La platja Bumbly",
+            "en-GB": "Bumbly Beach",
+            "eo-ZZ": "Burda Plaĝo",
+            "es-ES": "Playa Coqueta",
+            "fi-FI": "Riemuranta",
+            "fr-FR": "Plage Bourdonnante",
+            "hu-HU": "Suta Strand",
+            "ja-JP": "バンブリー・ビーチ",
+            "pt-BR": "Praia Bamba",
+            "zh-CN": "邦布利海滩",
+            "pl-PL": "Szumiąca Plaża",
+            "gl-ES": "Praia Bumbly",
+            "ar-EG": "شاطئ بامبلي"
+        },
+        "park_name": {
+            "ca-ES": "La platja Bumbly",
+            "en-GB": "Bumbly Beach",
+            "eo-ZZ": "Burda Plaĝo",
+            "es-ES": "Playa Coqueta",
+            "fi-FI": "Riemuranta",
+            "fr-FR": "Plage Bourdonnante",
+            "hu-HU": "Suta Strand",
+            "ko-KR": "범블리 해변",
+            "pt-BR": "Praia Bamba",
+            "zh-CN": "邦布利海滩",
+            "pl-PL": "Szumiąca Plaża",
+            "gl-ES": "Praia Bumbly",
+            "ar-EG": "شاطئ بامبلي"
+        },
+        "details": {
+            "ca-ES": "Desenvolupeu aquest parc d’atraccions i convertiu-lo en un parc temàtic pròsper.",
+            "da-DK": "Udvikl Bumbly Beach’s lille park i en blomstrende forlystelsespark",
+            "de-DE": "Machen Sie aus dem kleinen Vergnügungspark Bumbly Beach einen florierenden Freizeitpark.",
+            "en-GB": "Develop Bumbly Beach’s small amusement park into a thriving theme park",
+            "eo-ZZ": "Ellaboru la malgrandan amuzparkon de Burda Plaĝo en prosperan amuzparkon",
+            "es-ES": "Convierte el pequeño parque de atracciones de Playa Coqueta en un próspero parque temático.",
+            "fi-FI": "Kehitä Riemurannan pienestä huvipuistosta kukoistava teemapuisto",
+            "fr-FR": "Transformez le petit parc d’attractions de Plage Bourdonnante en un parc à thème florissant.",
+            "hu-HU": "Virágoztasd fel Suta Strand apró vidámparkját",
+            "it-IT": "Sviluppa il piccolo parco di divertimento di Bumbly Beach e trasformalo in un fiorente parco a tema",
+            "ko-KR": "범블리 해변의 작은 놀이공원을 번창한 놀이공원으로 발전시키세요.",
+            "nb-NO": "Utvid den lille fornøyelsesparken i Bumbly Beach til å bli en storslått versjon av seg selv",
+            "nl-NL": "Verander het kleine amusementspark van Bumbly Beach in een succesvol pretpark.",
+            "pl-PL": "Rozbuduj lunapark Szumiąca Plaża w prężnie działający park rozrywki",
+            "pt-BR": "Desenvolva o pequeno parque de diversões da Praia Bamba, transformando-o num próspero parque temático.",
+            "sv-SE": "Utveckla Bumbly Beachs lilla nöjespark nära stranden till en spännande turistattraktion",
+            "tr-TR": "Bumbly Beach’in küçük lunaparkını güzel bir lunaparka dönüştürünüz",
+            "zh-CN": "将邦布利海滩这个小型乐园发展成一个繁荣的主题乐园",
+            "zh-TW": "將Bumbly Beach這個小型樂園發展成一個很受歡迎的樂園",
+            "ru-RU": "Превратите крошечный парк на Bumbly Beach в успешный парк аттракционов",
+            "gl-ES": "Desenvolver o pequeno parque de atraccións de Praia Bumbly para convertelo nun próspero parque temático",
+            "ar-EG": "طور متنزه بامبلي بيتش الصغير إلى مدينة ملاهي مزدهرة"
+        }
+    }
+}

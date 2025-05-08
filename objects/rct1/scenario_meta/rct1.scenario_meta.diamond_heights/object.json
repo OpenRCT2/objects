@@ -1,0 +1,72 @@
+{
+    "id": "rct1.scenario_meta.diamond_heights",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB4F0A|STEX903 |A48F5CD8",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "المرتفعات الألماسية",
+            "ca-ES": "Els cims diamantins",
+            "en-GB": "Diamond Heights",
+            "eo-ZZ": "Diamanto-Altaĵoj",
+            "es-ES": "Cumbres Diamantinas",
+            "fi-FI": "Timanttimäki",
+            "fr-FR": "Monts Diamant",
+            "hu-HU": "Gyémánt-fennsík",
+            "ja-JP": "ダイヤモンド・ハイツ",
+            "pt-BR": "Picos Diamantinos",
+            "zh-CN": "钻石高地",
+            "pl-PL": "Diamentowe Wzgórza",
+            "gl-ES": "Altos Diamante"
+        },
+        "park_name": {
+            "ar-EG": "المرتفعات الألماسية",
+            "ca-ES": "Els cims diamantins",
+            "en-GB": "Diamond Heights",
+            "eo-ZZ": "Diamanto-Altaĵoj",
+            "es-ES": "Cumbres Diamantinas",
+            "fi-FI": "Timanttimäki",
+            "fr-FR": "Monts Diamant",
+            "hu-HU": "Gyémánt-fennsík",
+            "ko-KR": "다이아몬드 언덕",
+            "pt-BR": "Picos Diamantinos",
+            "zh-CN": "钻石高地",
+            "pl-PL": "Diamentowe Wzgórza",
+            "gl-ES": "Altos Diamante"
+        },
+        "details": {
+            "ar-EG": "المرتفعات الألماسية هي بالفعل حديقة ترفيهية ناجحة مع رحلات رائعة - قم بتطويرها لمضاعفة قيمتها",
+            "ca-ES": "«Els cims diamantins» ja és un parc exitós amb grans atraccions. Desenvolupeu-lo i dobleu-ne el valor.",
+            "da-DK": "Diamond Heights er allerede en succesfuld forlystelsespark med store forlystelser. Forbedre den til at fordoble sin værdi",
+            "de-DE": "Diamond Heights ist bereits ein erfolgreicher Freizeitpark mit tollen Attraktionen. Entwickeln Sie ihn weiter und verdoppeln Sie seinen Verkehrswert.",
+            "en-GB": "Diamond Heights is already a successful theme park with great rides - develop it to double its value",
+            "eo-ZZ": "Diamanto-Altaĵoj jam estas sukcesa amuzparko kun bonegaj atrakcioj - ellaboru la parkon por duobligi sian valoron",
+            "es-ES": "Cumbres Diamantinas es ya un parque temático de éxito con magníficas atracciones. Desarróllalo hasta duplicar su valor.",
+            "fi-FI": "Timanttimäki on jo menestyksekäs teemapuisto, jossa on hyviä laitteita - kehitä puiston arvo kaksinkertaiseksi",
+            "fr-FR": "Monts Diamant est déjà un parc à thème très coté avec des attractions géniales — développez-le et doublez sa valeur.",
+            "hu-HU": "Gyémánt-fennsík már egy sikeres vidámpark, remek játékokkal - fejleszd, hogy megduplázd az értékét",
+            "it-IT": "Diamond Heights è già un parco a tema di successo con grandi percorsi: sviluppalo e raddoppiane il valore.",
+            "ko-KR": "다이아몬드 언덕은 멋진 놀이기구를 통해 이미 성공한 놀이공원입니다. 공원의 가치를 두 배로 늘려 보세요.",
+            "nb-NO": "Diamond Heights er allerede en vellykket fornøyelsespark med flotte attraksjoner – Målet ditt er å doble parkens verdi",
+            "nl-NL": "Diamond Heights is al een succesvol pretpark met fantastische attracties. Verbeter het om de waarde ervan te verdubbelen.",
+            "pl-PL": "Diamentowe Wzgórza to dobrze działający park rozrywki, który oferuje wiele atrakcji - rozbuduj go tak, aby podwoić jego wartość",
+            "pt-BR": "Picos Diamantinos já é um parque temático de sucesso com excelentes brinquedos. Desenvolva-o para dobrar seu valor.",
+            "sv-SE": "Diamond Heights är redan en framgångsrik nöjespark – utveckla den för att dubbla värdet",
+            "tr-TR": "Diamond Heights şimdiden çok başarılı ve yüksek değeri olan bir park - parkın değerini iki misline katınız",
+            "zh-CN": "钻石高地已经是一个拥有极佳游乐设施，并且很发展得很成功的乐园——继续发展以让它的价值翻倍",
+            "zh-TW": "Diamond Heights已經是一個擁有極佳遊樂設施, 並且很發展得很成功的樂園 - 繼續發展它讓它的價值翻倍",
+            "ru-RU": "Diamond Heights - успешный парк с замечательными аттракционами. Удвойте его стоимость",
+            "gl-ES": "Altos Diamante xa é un parque temático exitoso cunhas grandes atraccións: desenvolveo para dobrar o seu valor."
+        }
+    }
+}

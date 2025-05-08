@@ -1,0 +1,85 @@
+{
+    "id": "rct2tt.scenario_meta.crater_carnage",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "originalId": "0E43032A|STEX68  |3741B55A",
+    "sourceGame": [
+        "rct2tt"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "المذبحة الحفرة",
+            "ca-ES": "La matança del cràter",
+            "de-DE": "Kratergemetzel",
+            "en-GB": "Crater Carnage",
+            "eo-ZZ": "Kratero-Buĉado",
+            "es-ES": "Carnicería en el cráter",
+            "fi-FI": "Kraaterikivaa",
+            "fr-FR": "Cratère en folie",
+            "hu-HU": "Kráter Káosz",
+            "it-IT": "Il massacro del cratere",
+            "ja-JP": "クレーターの大虐殺",
+            "ko-KR": "크레이터 대학살",
+            "pt-BR": "Diversão na Cratera",
+            "ru-RU": "Crater Carnage",
+            "sv-SE": "Kraterkatastrof",
+            "zh-CN": "陨石坑大战",
+            "zh-TW": "隕石坑大屠殺",
+            "pl-PL": "Katastrofa w kraterze",
+            "gl-ES": "Carnicería do Cráter"
+        },
+        "park_name": {
+            "ar-EG": "المذبحة الحفرة",
+            "ca-ES": "La matança del cràter",
+            "de-DE": "Kratergemetzel",
+            "en-GB": "Crater Carnage",
+            "eo-ZZ": "Kratero-Buĉado",
+            "es-ES": "Carnicería en el cráter",
+            "fi-FI": "Kraaterikivaa",
+            "fr-FR": "Cratère en folie",
+            "hu-HU": "Kráter Káosz",
+            "it-IT": "Il massacro del cratere",
+            "ja-JP": "クレーターの大虐殺",
+            "ko-KR": "크레이터 대학살",
+            "pt-BR": "Diversão na Cratera",
+            "ru-RU": "Crater Carnage",
+            "sv-SE": "Kraterkatastrof",
+            "zh-CN": "陨石坑大战",
+            "zh-TW": "隕石坑大屠殺",
+            "pl-PL": "Katastrofa w kraterze",
+            "gl-ES": "Carnicería do Cráter"
+        },
+        "details": {
+            "ar-EG": "أنت تمتلك حفرة نيزك قديمة متربة. بروح ريادة الأعمال الحقيقية، قررت إنشاء مدينة ملاهي ذات طابع نايزك وكويكبات وتحويل أرضك التي تبدو بلا قيمة إلى ثروة كبيرة.",
+            "ca-ES": "Sou el propietari d’un vell cràter polsegós causat per un meteorit. Amb el vertader esperit emprenedor, heu decidit construir un parc amb la temàtica de l’asteroide i convertir aquestes terres aparentment poc valuoses  en una fortuna considerable.",
+            "cs-CZ": "Vlastníte velký kráter a jakožto opravdový průkopník jste se rozhodl vybudovat zábavní park ve stylu asteroidů a přeměnit tuto zdánlivě bezcennou půdu v profitující a vyhledávanou oblast.",
+            "da-DK": "Du ejer et støvet gammelt meteorkrater. I den sande iværksætterånd har du besluttet at konstruere en asteroide forlystelsespark og konvertere dit tilsyneladende værdiløse land til en betydelig formue.",
+            "de-DE": "Sie besitzen einen alten, verstaubten Meteoritenkrater. In Ihrem unternehmerischen Geist haben Sie beschlossen, einen Asteroiden-Freizeitpark zu bauen und Ihr scheinbar wertloses Land in eine Geldanlage umzuwandeln.",
+            "en-GB": "You own a dusty old meteor crater. In the true entrepreneurial spirit, you’ve decided to construct an asteroid theme park and convert your seemingly worthless land into a sizeable fortune.",
+            "eo-ZZ": "Vi posedas polvan malnovan meteor-krateron. Per vera entreprenema vigleco, vi decidis konstrui asteroidan amuzparkon kaj konverti vian ŝajne senvaloran bienon en konsiderindan riĉaĵon.",
+            "es-ES": "Posees un antiguo cráter de meteorito. Siguiendo una clara vocación industrial, has decidido construir un parque temático de asteroides y convertir tus tierras aparentemente sin valor en una considerable fortuna.",
+            "fi-FI": "Omistat pölyisen meteorikraaterin. Bisneselämän tosimiehenä olet päättänyt rakentaa asteroidin teemapuiston ja muuntaa näennäisesti arvottoman maatilkkusi mittavaksi omaisuudeksi.",
+            "fr-FR": "Vous possédez un vieux cratère météoritique poussiéreux. Avec l’esprit d’entreprise qui vous caractérise, vous avez décidé de construire un parc sur le thème des astéroïdes et de rendre cet endroit rentable.",
+            "hu-HU": "Egy poros, régi meteoritkráter tulajdonosa vagy. Az igazi vállalkozói szellem jegyében úgy döntöttél, hogy egy aszteroida témájú parkot építesz, és a látszólag értéktelen területedet egy nagyobb vagyonná alakítod.",
+            "it-IT": "Possiedi un vecchio cratere meteoritico. Con lo spirito che ti contraddistingue, hai deciso di costruire un parco sugli asteroidi, tramutando così la tua terra in una fonte di ingente guadagno.",
+            "ko-KR": "당신은 오래된 운석공을 소유하고 있습니다. 기업가 정신을 발휘한 당신은 운석 테마 파크를 건설해서 쓸모없어 보이는 이 땅을 엄청난 행운의 땅으로 바꾸기로 결심했습니다.",
+            "nb-NO": "Du eier et støvete gammelt metorittkrater. I sann gründer-ånd, har du bestemt deg for å bygge en fornøyelsespark med asteroide-tema og konvertere din tilsynelatende verdiløse tomt til en stor formue.",
+            "nl-NL": "Je bezit een stoffige oude meteorietkrater. Als echte ondernemer heb je besloten om er een themapark van te maken en zo munt te slaan uit je (op het eerste gezicht) waardeloze land.",
+            "pl-PL": "Otrzymujesz na własność zakurzony krater po meteorycie. Jako przedsiębiorca z krwi i kości, postanawiasz zbudować park tematyczny związany z tym obiektem i przekształcić w ten sposób swój bezwartościowy teren w źródło przyzwoitych dochodów.",
+            "pt-BR": "Você é dono de uma velha cratera de meteoro empoeirada. No verdadeiro espírito empreendedor, você decidiu construir um parque temático de asteroide e converta seu terreno aparentemente sem valor em uma grande fortuna.",
+            "ru-RU": "Вы владеете старым метеоритным кратером. В духе истинного предпренимателя, вы решаете построить парк в космическом стиле, превратив эту «никчёмную» землю в огромный капитал.",
+            "sv-SE": "Du äger en dammig gammal meteorkrater. Som den entreprenör du är bestämmer du dig för att bygga ett nöjesfält med asteroidtema och omvandla den till synes värdelösa marken till en förmögenhet.",
+            "tr-TR": "Eski bir meteor kraterine sahipsiniz. Gerçek girişimci ruhu içinde, bir asteroid lunaparkı kurmaya ve görünüşte değersiz arazinizi büyük bir servete dönüştürmeye karar verdiniz",
+            "zh-CN": "你拥有一个布满灰尘的老流星陨石坑。在真正的创业精神，你已经决定建造一个小行星主题公园，并转换你的看似毫无价值的土地变成一个相当大的财富。",
+            "zh-TW": "您擁有滿是灰塵的老舊隕石坑。您的企業家精神讓您決定建立小行星主題樂園,並將看來毫無價值的土地轉變成巨大的財富。",
+            "gl-ES": "Posúes un vello cráter de meteorito cuberto de po. No verdadeiro espírito emprendedor, decidiches construir un parque temático de asteroides e converter a túa terra, aparentemente sen valor, nunha considerable fortuna."
+        }
+    }
+}

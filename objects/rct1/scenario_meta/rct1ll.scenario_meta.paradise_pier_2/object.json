@@ -1,0 +1,75 @@
+{
+    "id": "rct1ll.scenario_meta.paradise_pier_2",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB400A|STEX957 |74637D0F",
+    "sourceGame": [
+        "rct1ll"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ca-ES": "El moll paradisíac II",
+            "en-GB": "Paradise Pier 2",
+            "en-US": "Big Pier 2",
+            "eo-ZZ": "Paradizo-Enŝipigejo 2",
+            "es-ES": "Big Pier 2",
+            "fi-FI": "Eedenlaituri 2",
+            "fr-FR": "Ponton Paradis 2",
+            "hu-HU": "Paradicsom Móló 2",
+            "ja-JP": "パラダイス・ピアー・２",
+            "pt-BR": "Cais do Paraíso 2",
+            "zh-CN": "天堂码头2",
+            "pl-PL": "Rajskie Molo 2",
+            "gl-ES": "Peirao do Paraíso 2",
+            "ar-EG": "رصيف الجنة 2"
+        },
+        "park_name": {
+            "ca-ES": "El moll paradisíac II",
+            "en-GB": "Paradise Pier 2",
+            "en-US": "Big Pier 2",
+            "eo-ZZ": "Paradizo-Enŝipigejo 2",
+            "es-ES": "Big Pier 2",
+            "fi-FI": "Eedenlaituri 2",
+            "fr-FR": "Ponton Paradis 2",
+            "hu-HU": "Paradicsom Móló 2",
+            "ko-KR": "파라다이스 부두 2",
+            "pt-BR": "Cais do Paraíso 2",
+            "zh-CN": "天堂码头2",
+            "pl-PL": "Rajskie Molo 2",
+            "gl-ES": "Peirao do Paraíso 2",
+            "ar-EG": "رصيف الجنة 2"
+        },
+        "details": {
+            "ca-ES": "El moll paradisíac ha expandit la seva xarxa de camins pel mar i la vostra tasca és ampliar el parc i fer servir aquest espai extra.",
+            "da-DK": "Paradise Pier har udvidet sit netværk af gangbroer ud over havet, og din opgave er at udvide parken, for at udnytte den ekstra plads",
+            "de-DE": "Paradise Pier hat sein Netz von Spazierwegen über dem Meer erweitert. Sie sollen den Park erweitern, indem Sie den neu gewonnenen Platz nutzen.",
+            "en-GB": "Paradise Pier has expanded its network of walkways over the sea, and your task is to expand the park to use the extra space",
+            "en-US": "Big Pier has expanded its network of walkways over the sea, and your task is to expand the park to use the extra space",
+            "eo-ZZ": "Paradizo-Enŝipigejo etendis sian reton de troturaroj super la maro, kaj via celo estas ellabori la parkon por uzi la ekstran spacon",
+            "es-ES": "Muelle Paraiso ha aumentado su red de pasarelas sobre el mar, y tu cometido es el de agrandar el parque para utilizar el espacio extra.",
+            "fi-FI": "Eedenlaituri on laajentanut kulkuväylien verkostoaan meren yllä, ja tehtävänäsi on laajentaa puistoa uuteen alaan",
+            "fr-FR": "Ponton Paradis a étendu son réseau d’allées sur l’océan ; à vous d’exploiter cet espace en agrandissant le parc.",
+            "hu-HU": "Paradicsom Móló kiterjesztette a tenger feletti sétány-hálózatát és a feladatod az, hogy a park bővítésével biztosítsd az extra hely kihasználtságát",
+            "it-IT": "Paradise Pier ha ampliato la sua rete di passaggi lungo il mare e il tuo compito è quello di ampliare il parco per utilizzare lo spazio in più",
+            "ko-KR": "파라다이스 부두는 바다 위의 산책로를 확장했습니다. 여러분의 임무는 이 새로운 공간을 이용하여 공원을 확장하는 것입니다.",
+            "nb-NO": "Paradise Pier har utvidet sitt netverk av gangbroer over sjøen, som du skal bruke for å utvide parken",
+            "nl-NL": "Paradise Pier heeft extra pieren bijgebouwd, en het is je taak om het park erlangs uit te breiden.",
+            "pl-PL": "Rajskie Molo rozwinęło swoją sieć kładek nad morzem, a Twoim zadaniem jest zabudowa dodatkowego miejsca",
+            "pt-BR": "O Cais do Paraíso expandiu sua rede de passarelas sobre o mar, e sua tarefa é expandir o parque para usar o espaço extra.",
+            "sv-SE": "Paradise Pier har utökat sitt nätverk med bryggor över havet, ditt mål är att utöka parken för att nyttja den tillgängliga ytan",
+            "tr-TR": "Bu küçük şehrin önceden kullanılmayan iskelesini fakat şimdi lunapark bulunduran bu yeri geliştiriniz",
+            "zh-CN": "天堂码头已经在海上扩展了它的人行道网络，你的任务是扩大公园以利用额外的空间",
+            "zh-TW": "Paradise Pier 已向海中心擴張它的道路網絡, 你的任務是讓樂園使用那些新擴張的區域",
+            "ru-RU": "Paradise Pier расширил свою сеть мостов, и ваша задача - расширить сам парк, чтобы использовать это новое пространство",
+            "gl-ES": "O Peirao do Paraíso expandiu a súa rede de pasarelas sobre o mar, e a túa tarefa é expandir o parque para empregar o espazo extra",
+            "ar-EG": "قام رصيف الجنة بتوسيع شبكة ممراته فوق البحر، ومهمتك هي توسيع الحديقة لاستخدام المساحة الإضافية"
+        }
+    }
+}

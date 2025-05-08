@@ -1,0 +1,68 @@
+{
+    "id": "uces.scenario_meta.niagara_falls_gorge",
+    "authors": [
+        "Katatude"
+    ],
+    "version": "1.0",
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "شلالات نياجرا والمضيق",
+            "de-DE": "Niagarafälle u. Schlucht",
+            "en-GB": "Niagara Falls & Gorge",
+            "eo-ZZ": "Niagara Akvofalaro & Valego",
+            "es-ES": "Cataratas y Cañón del Niágara",
+            "fi-FI": "Niagaran putoukset",
+            "fr-FR": "Gorges et chutes du Niagara",
+            "hu-HU": "Niagara-vízesés és szurdok",
+            "nl-NL": "Niagara Falls",
+            "pt-BR": "Cataratas e Desfiladeiro do Niágara",
+            "uk-UA": "Ніагарський водоспад та ущелина",
+            "zh-CN": "尼亚加拉大瀑布和峡谷",
+            "pl-PL": "Wodospad Niagara",
+            "gl-ES": "Cataratas do Niágara e Canón"
+        },
+        "park_name": {
+            "ar-EG": "شلالات نياجرا",
+            "de-DE": "Niagarafälle",
+            "en-GB": "Niagara Falls",
+            "eo-ZZ": "Niagara Akvofalaro",
+            "es-ES": "Cataratas del Niágara",
+            "fi-FI": "Niagaran putoukset",
+            "fr-FR": "Chutes du Niagara",
+            "hu-HU": "Niagara-vízesés",
+            "ko-KR": "나이아가라 폭포",
+            "pt-BR": "Cataratas do Niágara",
+            "uk-UA": "Ніагарський водоспад",
+            "zh-CN": "尼亚加拉大瀑布",
+            "pl-PL": "Wodospad Niagara",
+            "gl-ES": "Cataratas do Niágara"
+        },
+        "details": {
+            "ar-EG": "الشلالات الأمريكية، وشلالات برايدل، وشلالات حدوة الحصان الكندية على حدود نياجرا فرونتير، 1850.",
+            "ca-ES": "Les Cascades Americanes, les del Vel de la Núvia i les cataractes Horseshoe canadenques a la frontera del Niàgara, 1850.",
+            "da-DK": "American Falls, Bridal Falls & Canadian Horseshoe Falls på Niagara Frontier, 1850.",
+            "de-DE": "Die American Falls, Bridal Falls und die kanadischen Horseshoe Falls am Niagara, 1850.",
+            "en-GB": "American Falls, Bridal Falls & Canadian Horseshoe Falls on the Niagara Frontier, 1850.",
+            "eo-ZZ": "Usona Akvofalo, Luna Akvofalo & Huffera Akvofalo sur la Niagara Limo, 1850.",
+            "es-ES": "La catarata Estadounidense, la catarata Velo de Novia y la catarata Canadiense en la frontera del Niágara, 1850.",
+            "fi-FI": "American Falls, Bridal Falls ja kanadalainen Horseshoe Falls, Niagaran rajaseudulla vuonna 1850.",
+            "fr-FR": "Les chutes américaines, les chutes du Voile de la Mariée et les chutes du Fer-à-Cheval sur la frontière du Niagara, 1850.",
+            "hu-HU": "Amerikai-zuhatag, Menyasszonyi fátyol-zuhatag és a kanadai Patkó-zuhatag a Niagara határon, 1850.",
+            "it-IT": "Le American Falls, le Bridal Falls e le Canadian Horseshoe Falls sul confine del Niagara, 1850.",
+            "ko-KR": "1850년 나이아가라 폭포의 아메리카 폭포, 브라이들 폭포, 캐나다 폭포",
+            "nb-NO": "American Falls, Bridal Falls & Canadian Horseshoe Falls på Niagara Frontier, 1850.",
+            "nl-NL": "American Falls, Bridal Falls en Canadian Horseshoe Falls op de grens bij de Niagara, 1850.",
+            "pt-BR": "Cataratas Americanas, Cataratas “Véu da Noiva” & Cataratas “Ferradura” na fronteira Niágara, 1850.",
+            "uk-UA": "Американський водоспад, водоспад Брейдл та канадський водоспад Підкова на кордоні Ніагарського водоспаду, 1850 рік.",
+            "zh-CN": "美国的瀑布，婚纱样的瀑布，加拿大的瀑布，在尼亚加拉丛林旁，1850年。",
+            "pl-PL": "Wodospad Amerykański, Wodospad Ślubnego Welonu i Wodospad Podkowy - granica rzeki Niagara, rok 1850",
+            "ru-RU": "Американские и канадские водопады на границе Ниагара, 1850 год.",
+            "gl-ES": "Cataratas Americanas, Cataratas da Noiva e Cataratas do Horseshoe Canadense na Fronteira do Niágara, 1850."
+        }
+    }
+}

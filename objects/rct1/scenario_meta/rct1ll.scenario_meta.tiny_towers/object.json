@@ -1,0 +1,70 @@
+{
+    "id": "rct1ll.scenario_meta.tiny_towers",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB400A|STEX973 |C64CFF64",
+    "sourceGame": [
+        "rct1ll"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "الأبراج الصغيرة",
+            "ca-ES": "Les torres petites",
+            "en-GB": "Tiny Towers",
+            "eo-ZZ": "Etaj Turoj",
+            "fi-FI": "Lilliputtitorni",
+            "fr-FR": "Tours Ténues",
+            "hu-HU": "Törpe Tornyok",
+            "ja-JP": "タイニー・タワーズ",
+            "pt-BR": "Pequenas Torres",
+            "zh-CN": "小方块",
+            "pl-PL": "Malutkie Wieże",
+            "gl-ES": "Torres Miúdas"
+        },
+        "park_name": {
+            "ar-EG": "الأبراج الصغيرة",
+            "ca-ES": "Les torres petites",
+            "en-GB": "Tiny Towers",
+            "eo-ZZ": "Etaj Turoj",
+            "fi-FI": "Lilliputtitorni",
+            "fr-FR": "Tours Ténues",
+            "hu-HU": "Törpe Tornyok",
+            "ko-KR": "조그마한 탑",
+            "pt-BR": "Pequenas Torres",
+            "zh-CN": "小方块",
+            "pl-PL": "Malutkie Wieże",
+            "gl-ES": "Torres Miúdas"
+        },
+        "details": {
+            "ar-EG": "في هذه الحديقة الصغيرة يجب الانتهاء من بناء الدوامات الخمسة الموجودة",
+            "ca-ES": "S’ha de completar la construcció de 5 muntanyes russes en aquest petit parc.",
+            "da-DK": "I denne lille forlystelsespark skal du færdigbygge de fem eksisterende rutschebaner",
+            "de-DE": "In diesem winzigen Park sollten Sie die fünf angefangenen Achterbahnen fertigstellen.",
+            "en-GB": "In this tiny park you must finish building the five existing coasters",
+            "eo-ZZ": "En ĉi tiu eta parko, vi devas fini la konstruadon de la kvin ekzistantaj ondaj fervojoj",
+            "es-ES": "En este diminuto parque debes terminar de construir las cinco montañas rusas existentes.",
+            "fi-FI": "Sinun tulee viimeistellä tämän pikkuruisen puiston viisi vuoristorataa",
+            "fr-FR": "Vous devez achever la construction des cinq montagnes russes de ce tout petit parc.",
+            "hu-HU": "Öt meglévő hullámvasutat kell befejezned ebben a kis parkban",
+            "it-IT": "In questo parco occorre completare la costruzione di cinque ottovolanti già esistenti",
+            "ko-KR": "이 조그마한 공원에 있는 다섯 개의 미완성된 롤러코스터를 모두 완성해야 합니다.",
+            "nb-NO": "I denne lille parken må du fullføre de fem eksisterende berg-og-dal-banene",
+            "nl-NL": "In dit kleine park moet je de vijf bestaande achtbanen afmaken.",
+            "pl-PL": "W tym małym parku musisz dokończyć budowę pięciu kolejek",
+            "pt-BR": "Neste parque minúsculo você deve terminar de construir cinco montanhas-russas existentes.",
+            "sv-SE": "I denna lilla park måste du slutföra de fem ofärdiga berg- och dalbanorna",
+            "tr-TR": "Bu mikro lunaparkta beş kısmen inşa edilmiş hız trenlerini tamamlayınız",
+            "zh-CN": "在这个小公园里你必须完成五座未完成的过山车",
+            "zh-TW": "你需要在此細小的樂園中完成建設五座雲霄飛車",
+            "ru-RU": "Закончите строительство пяти существующих аттракционов в этом крошечном парке",
+            "gl-ES": "Neste parque pequeniño debes rematar de construír as cinco montañas rusas existentes"
+        }
+    }
+}

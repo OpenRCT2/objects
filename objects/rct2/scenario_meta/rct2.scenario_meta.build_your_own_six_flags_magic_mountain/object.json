@@ -1,0 +1,78 @@
+{
+    "id": "rct2.scenario_meta.build_your_own_six_flags_magic_mountain",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "0A18818A|STEX34  |56A5E10A",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "قم ببناء جبل سحر الستةأعلام الخاص بك",
+            "ca-ES": "El vostre Six Flags Magic Mountain",
+            "cs-CZ": "Postavte si svůj vlastní Six Flags Magic Mountain",
+            "de-DE": "Bauen Sie Ihren eigenen Six Flags Magic Mountain",
+            "en-GB": "Build your own Six Flags Magic Mountain",
+            "eo-ZZ": "Konstrui je via propra Six Flags Magic Mountain",
+            "es-ES": "Construye tu propio Six Flags Magic Mountain",
+            "fi-FI": "Rakenna oma Six Flags Magic Mountainisi",
+            "fr-FR": "Construisez votre propre Montagne Magique Six Flags",
+            "hu-HU": "Építsd meg a saján Six Flags Magic Mountain-edet",
+            "it-IT": "Costruisci la tua Montagna magica Six Flags",
+            "ja-JP": "自身のシックス・フラッグス・マジック・マウンテン",
+            "ko-KR": "식스 플래그 매직 마운틴 건설",
+            "nb-NO": "Bygg din egen Six Flags Magic Mountain",
+            "nl-NL": "Bouw je eigen Six Flags Magic Mountain",
+            "pl-PL": "Wybuduj własny park „Six Flags Magic Mountain”",
+            "pt-BR": "Construa sua própria Montanha Mágica Six Flags",
+            "ru-RU": "Постройте свой парк Six Flags Magic Mountain",
+            "sv-SE": "Bygg ditt eget Six Flags Magic Mountain",
+            "zh-CN": "建造你自己的 六旗魔法山游乐园",
+            "zh-TW": "建造屬於你自己的六旗魔術山",
+            "gl-ES": "Constrúe a túa propia versión de Six Flags Magic Mountain"
+        },
+        "park_name": {
+            "ar-EG": "جبل سحر الستةأعلام",
+            "en-GB": "Six Flags Magic Mountain",
+            "fr-FR": "Montagne Magique Six Flags",
+            "it-IT": "Montagna magica Six Flags",
+            "ko-KR": "매직 마운틴",
+            "pt-BR": "Montanha Mágica Six Flags",
+            "zh-CN": "六旗魔法山",
+            "zh-TW": "六旗魔術山"
+        },
+        "details": {
+            "ar-EG": "قم بإنشاء نسختك الخاصة من حديقة الستة أعلام الضخمة هذه",
+            "ca-ES": "Creeu la vostra versió d’aquest gegantesc parc Six Flags.",
+            "cs-CZ": "Postavte si svou vlastní verzi tohoto masivního Six Flags zábavního parku",
+            "da-DK": "Lav din egen version af denne enorme Six Flags park",
+            "de-DE": "Bauen Sie Ihre eigene Version dieses riesigen Six-Flags-Parks",
+            "en-GB": "Create your own version of this massive Six Flags park",
+            "eo-ZZ": "Kreu vian propran version de ĉi tiu grandega parko de Six Flags",
+            "es-ES": "Crea tu propia versión de este parque Six Flags de gran envergadura.",
+            "fi-FI": "Rakenna oma versiosi tästä valtavasta Six Flags -puistosta",
+            "fr-FR": "Créez votre propre version de ce gigantesque parc Six Flags.",
+            "hu-HU": "Készítsd el a saját verziódat ebből a hatalmas Six Flags parkból",
+            "it-IT": "Crea la tua versione personale di questo immenso parco Six Flags",
+            "ja-JP": "この大きなパークで自身のシックス・フラッグス・パークを作って下さい。",
+            "ko-KR": "이 대형 식스 플래그 공원을 당신만의 스타일로 만들어 보세요.",
+            "nb-NO": "Skap din egen versjon av denne massive Six Flags parken",
+            "nl-NL": "Maak je eigen versie van dit enorme Six Flags-park.",
+            "pl-PL": "Stwórz własną wersję tego wielkiego parku „Six Flags”",
+            "pt-BR": "Crie sua própria versão desse grande parque Six Flags",
+            "ru-RU": "Постройте собственную версию этого огромного парка Six Flags",
+            "sv-SE": "Skapa din egen version av det här omfattande Six Flags-nöjesfältet",
+            "tr-TR": "Kendi Six Flags Magic Mountain parkınızı inşa ediniz",
+            "zh-CN": "创建你自己的大型六旗游乐园的版本",
+            "zh-TW": "將這個超大的六旗遊樂園建造成屬於你自己的版本",
+            "gl-ES": "Crea a túa propia versión deste masivo parque Six Flags"
+        }
+    }
+}

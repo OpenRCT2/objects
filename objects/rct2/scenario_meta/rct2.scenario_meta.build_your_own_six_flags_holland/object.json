@@ -1,0 +1,82 @@
+{
+    "id": "rct2.scenario_meta.build_your_own_six_flags_holland",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "0A18818A|STEX37  |3A33C1F6",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "قم ببناء ستة أعلام هولندا الخاصة بك",
+            "ca-ES": "El vostre Six Flags Holland",
+            "cs-CZ": "Postavte si svůj vlastní Six Flags Holland",
+            "de-DE": "Bauen Sie Ihren eigenen Six Flags Holland",
+            "en-GB": "Build your own Six Flags Holland",
+            "eo-ZZ": "Konstrui je via propra Six Flags Holland",
+            "es-ES": "Construye tu propio Six Flags Holanda",
+            "fi-FI": "Rakenna oma Six Flags Hollantisi",
+            "fr-FR": "Construisez votre propre parc Six Flags aux Pays-Bas",
+            "hu-HU": "Építsd meg a saját Six Flags Hollandodat",
+            "it-IT": "Costruisci il tuo Six Flags Olanda",
+            "ja-JP": "自身のシックス・フラッグス・オランダ",
+            "ko-KR": "식스 플래그 네덜란드 건설",
+            "nb-NO": "Bygg din egen Six Flags Nederland",
+            "nl-NL": "Bouw je eigen Six Flags Holland",
+            "pl-PL": "Wybuduj własny park „Six Flags Holland”",
+            "pt-BR": "Construa seu próprio Six Flags Holanda",
+            "ru-RU": "Постройте свой парк Six Flags Holland",
+            "sv-SE": "Bygg ditt eget Six Flags Holland",
+            "zh-CN": "建造你自己的 六旗荷兰游乐园",
+            "zh-TW": "建造屬於你自己的荷蘭六旗",
+            "gl-ES": "Constrúe a túa propia versión de Six Flags Holanda"
+        },
+        "park_name": {
+            "ar-EG": "ستة أعلام هولندا",
+            "en-GB": "Six Flags Holland",
+            "es-ES": "Six Flags Holanda",
+            "fi-FI": "Six Flags Hollanti",
+            "fr-FR": "Six Flags Pays-Bas",
+            "it-IT": "Six Flags Olanda",
+            "ko-KR": "식스 플래그 네덜란드",
+            "nb-NO": "Six Flags Nederland",
+            "pt-BR": "Six Flags Holanda",
+            "zh-CN": "六旗荷兰",
+            "zh-TW": "荷蘭的六旗",
+            "gl-ES": "Six Flags Holanda"
+        },
+        "details": {
+            "ar-EG": "قم ببناء حديقة الأعلام الستة الأوروبية بالطريقة التي تريدها",
+            "ca-ES": "Construïu aquest parc Six Flags europeu a la vostra manera.",
+            "cs-CZ": "Postavte tento evropský Six Flags zábavní park tak, jak jen budete chtít",
+            "da-DK": "Byg denne europæiske ‘Six Flags’ forlystelsespark på din helt egen måde",
+            "de-DE": "Bauen Sie diesen europäischen Six-Flags-Park nach Ihren Wünschen",
+            "en-GB": "Build this European Six Flags park the way you want to",
+            "eo-ZZ": "Konstruu ĉi tiun Eŭropan parkon de Six Flags kiel vi volas",
+            "es-ES": "Haz de este Six Flags europeo tu propio mundo de atracciones.",
+            "fi-FI": "Rakenna tämä eurooppalainen Six Flags -puisto kuten itse haluat",
+            "fr-FR": "Construisez ce parc Six Flags européen comme bon vous semble.",
+            "hu-HU": "Építsd meg ezt az európai Six Flags parkot úgy, ahogyan szeretnéd",
+            "it-IT": "Costruisci questo parco europeo Six Flags come piace a te",
+            "ja-JP": "このヨーロパであるテーマパークに自身のシックス・フラッグス・パークを作って下さい。",
+            "ko-KR": "이 유럽의 식스 플래그 공원을 당신이 원하는 대로 만들어 보세요.",
+            "nb-NO": "Bygg denne Europeiske Six Flags parken slik du vil",
+            "nl-NL": "Bouw je eigen versie van dit Europese Six Flags-park.",
+            "pl-PL": "Wybuduj ten europejski park „Six Flags” wedle własnego uznania",
+            "pt-BR": "Construa esse parque Six Flags europeu do jeito que você quiser",
+            "ru-RU": "Постройте этот европейский парк Six Flags так, как вы хотите",
+            "sv-SE": "Bygg det här europeiska Six Flags-nöjesfältet på ditt eget sätt",
+            "tr-TR": "Kendi Six Flags Holland parkınız inşa ediniz",
+            "zh-CN": "以你想要的方式建造这个欧洲六旗游乐园",
+            "zh-TW": "在歐洲的六旗遊樂園 運用你想要的方式建造",
+            "gl-ES": "Constrúe este parque Six Flags europeo da maneira que queiras"
+        }
+    }
+}

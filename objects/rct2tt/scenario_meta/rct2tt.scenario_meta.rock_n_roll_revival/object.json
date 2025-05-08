@@ -1,0 +1,92 @@
+{
+    "id": "rct2tt.scenario_meta.rock_n_roll_revival",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "originalId": "0E43032A|STEX77  |C6EC5CA4",
+    "sourceGame": [
+        "rct2tt"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "إحياء الروك أند رول",
+            "ca-ES": "Revival del Rock ’n’ Roll",
+            "cs-CZ": "Rock ’n’ Roll Revival",
+            "da-DK": "Rock ’n’ Roll Revival",
+            "de-DE": "Rock-’n’-Roll-Revival",
+            "en-GB": "Rock ‘n’ Roll Revival",
+            "eo-ZZ": "La Revivigo de Rokenrolo",
+            "es-ES": "La resurrección del Rock & Roll",
+            "fi-FI": "Rock ’n’ rollin kukoistus",
+            "fr-FR": "La renaissance du Rock & Roll",
+            "hu-HU": "Rock ‘n’ Roll Újjáéledés",
+            "it-IT": "La rinascita del Rock & Roll",
+            "ja-JP": "ロックンロール・リバイバル",
+            "ko-KR": "로큰롤 부흥",
+            "nl-NL": "Rock ’n’ Roll Revival",
+            "pl-PL": "Renesans rockandrolla",
+            "pt-BR": "Renascimento do Rock ’n’ Roll",
+            "ru-RU": "Rock ‘n’ Roll Revival",
+            "sv-SE": "Rock’n’roll-revival",
+            "tr-TR": "Rock ’n’ Roll Revival",
+            "zh-CN": "摇滚复兴",
+            "zh-TW": "搖滾復興"
+        },
+        "park_name": {
+            "ar-EG": "إحياء الروك أند رول",
+            "ca-ES": "Revival del Rock ’n’ Roll",
+            "cs-CZ": "Rock ’n’ Roll Revival",
+            "da-DK": "Rock ’n’ Roll Revival",
+            "de-DE": "Rock-’n’-Roll-Revival",
+            "en-GB": "Rock ‘n’ Roll Revival",
+            "eo-ZZ": "La Revivigo de Rokenrolo",
+            "es-ES": "La resurrección del Rock & Roll",
+            "fi-FI": "Rock ’n’ rollin kukoistus",
+            "fr-FR": "La renaissance du Rock & Roll",
+            "hu-HU": "Rock ‘n’ Roll Újjáéledés",
+            "it-IT": "La rinascita del Rock & Roll",
+            "ja-JP": "ロックンロール・リバイバル",
+            "ko-KR": "로큰롤 부흥",
+            "nl-NL": "Rock ’n’ Roll Revival",
+            "pl-PL": "Renesans rockandrolla",
+            "pt-BR": "Renascimento do Rock ’n’ Roll",
+            "ru-RU": "Rock ‘n’ Roll Revival",
+            "sv-SE": "Rock’n’roll-revival",
+            "tr-TR": "Rock ’n’ Roll Revival",
+            "zh-CN": "摇滚复兴",
+            "zh-TW": "搖滾復興"
+        },
+        "details": {
+            "ar-EG": "شهدت مدينة ملاهي القديمة هذه أيامًا أفضل. ساعد المالك على إضفاء مظهر روك أند رول وحول المكان إلى مكان ناجح.",
+            "ca-ES": "Aquest parc temàtic ha vist millors dies. Ajudeu al propietari a donar-li un toc rock ’n’ roll retro i convertiu el lloc en un lloc pròsper.",
+            "cs-CZ": "Tento stárnoucí zábavní park už viděl lepší dny. Pomozte majiteli dát parku retro rock ’n’ roll vzhled a udělat z něho vyhledávané místo.",
+            "da-DK": "Denne aldrende forlystelsespark har set bedre dage. Hjælp ejeren med at give det en retro rock ’n’ roll makeover og gøre stedet til et vellykket sted.",
+            "de-DE": "Dieser Freizeitpark ist ein wenig in die Jahre gekommen. Helfen Sie dem Besitzer, ihm einen Rock-’n’-Roll-Anstrich zu geben und ihn zu einem beliebten Ausflugsziel zu machen.",
+            "en-GB": "This aging theme park has seen better days. Help the owner give it a retro rock ‘n’ roll makeover and turn the place into a successful venue.",
+            "eo-ZZ": "Ĉi tiu maljuniĝa amuzparko vidis pli bonajn tagojn. Helpu la posedanton doni al ĝi eksmodan rokenrolan renovigon, kaj transformi la lokon en sukcesan ejon.",
+            "es-ES": "Este antiguo parque temático ha visto tiempos mejores. Ayuda al propietario a darle un aspecto más rockanrolero y convierte el lugar en un negocio próspero.",
+            "fi-FI": "Tämä vanha huvipuisto on nähnyt parempia päiviä. Auta sen omistajaa antamalla sille retron rock ’n’ roll -muodonmuutoksen, joka tekee puistosta menestyksekkään viihdekeskuksen.",
+            "fr-FR": "Ce parc sur le thème du Rock & Roll a connu son heure de gloire. Aidez son propriétaire à le réaménager et à lui donner un second souffle.",
+            "hu-HU": "Ez az idős park egykor jobb napokat látott. Segíts a tulajdonosnak a retró rock 'n' roll stílusú átalakításban, hogy a hely sikeres szórakozóhellyé váljon.",
+            "it-IT": "Questo vecchio parco a tema ha vissuto tempi migliori. Aiuta il proprietario a ristrutturarlo in stile Rock & Roll e trasformalo in un luogo di successo.",
+            "ja-JP": "This aging theme park has seen better days. Help the owner give it a retro rock ’n’ roll makeover and turn the place into a successful venue.",
+            "ko-KR": "이 오래된 놀이공원은 더 나은 미래를 기대하고 있습니다. 소유자를 도와 이 공원을 복고풍의 로큰롤 공원으로 바꾸어 성공적인 장소로 변모시켜보세요.",
+            "nb-NO": "Denne aldrende fornøyelsesparken har sett bedre dager. Hjelp eieren å gi den en retro rock ‘n’ roll makeover og forvandle stedet til en suksessfull møteplass.",
+            "nl-NL": "Dit verouderde themapark heeft betere tijden gekend. Geef het park een rock-’n-roll-makeover en verander het in een succesvolle onderneming.",
+            "pl-PL": "Ten starzejący się lunapark ma najlepsze dni za sobą. Pomóż właścicielom nadać mu stylowy, rockandrollowy wygląd i przekształć to miejsce w dochodowe przedsięwzięcie.",
+            "pt-BR": "Este parque temático envelhecido já viu dias melhores. Ajude o dono dar uma aparência rock ’n’ roll retrô e transforme o lugar em um local bem-sucedido.",
+            "ru-RU": "Этот стареющий парк видел лучшие дни. Помогите его владельцу с ретро-стилизацией рок-н-ролл и превратите его в прибыльную локацию.",
+            "sv-SE": "Denna åldrande park har sett bättre dagar. Hjälp ägaren med att ge den ett retro-rock’n’roll-tema för att förvandla den till en framgångsrik park.",
+            "tr-TR": "Bu lunapark zamanında çok başarılıymış. Fakat şimdi git gide bu parkın başarısı ve parlaklığı geriliyor. Park sahibi sizden parkı geri canlandırmanızı ve eski parlaklığına getirmenizi diliyor",
+            "zh-CN": "这个老龄化的主题公园已经看到了更好的日子。帮助主人给它一个复古摇滚的改造，把这个地方变成一个成功的地点。",
+            "zh-TW": "這個過時的主題樂園曾經有過輝煌的日子。請協助所有者將讓這個主題樂園再次搖滾起來,讓這個地方成為成功的企業。",
+            "gl-ES": "Este parque temático envellecido pasou mellores días. Axuda ao propietario a darlle unha renovación retro de rock ’n’ roll e convertero nun lugar de éxito."
+        }
+    }
+}

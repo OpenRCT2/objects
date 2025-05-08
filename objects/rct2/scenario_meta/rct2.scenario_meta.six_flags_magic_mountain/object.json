@@ -1,0 +1,63 @@
+{
+    "id": "rct2.scenario_meta.six_flags_magic_mountain",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "0A18808A|STEX1   |A82D7905",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Six Flags Magic Mountain",
+            "fr-FR": "Montagne magique Six Flags",
+            "it-IT": "Montagna magica Six Flags",
+            "ja-JP": "シックスフラッグス・マジックマウンテン",
+            "ko-KR": "식스 플래그 매직 마운틴",
+            "pt-BR": "Montanha Mágica Six Flags",
+            "zh-CN": "六旗魔术山",
+            "zh-TW": "六旗魔術山"
+        },
+        "park_name": {
+            "en-GB": "Six Flags Magic Mountain",
+            "fr-FR": "Montagne magique Six Flags",
+            "it-IT": "Montagna magica Six Flags",
+            "ko-KR": "매직 마운틴",
+            "pt-BR": "Montanha Mágica Six Flags",
+            "zh-CN": "六旗魔术山",
+            "zh-TW": "六旗魔術山"
+        },
+        "details": {
+            "ca-ES": "Construïu les atraccions Six Flags que falten, o creeu els vostres dissenys per a millorar el parc! Però no oblideu el vostre objectiu final: retornar el préstec mentre el parc manté una valoració alta.",
+            "cs-CZ": "Postavte chybějící Six Flags atrakce, nebo vytvořte své vlastní! Nezapomeňte ale na hlavní cíl - vyrovnat dluhy bez propadu hodnoty parku!",
+            "da-DK": "Byg de manglende Six Flags forlystelser, eller opret dine egne designs for at forbedre parken! Men glem ikke dit ultimative mål - At tilbagebetale dit lån og samtidig holde parkens værdi oppe!",
+            "de-DE": "Bauen Sie die fehlenden Six-Flags-Bahnen, oder erstellen Sie Ihre eigenen Entwürfe, um den Park zu verbessern! Aber vergessen Sie nicht Ihr endgültiges Ziel - das Darlehen zurückzuzahlen und dabei den Verkehrswert hoch zu halten!",
+            "en-GB": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to repay your loan while keeping the park value up!",
+            "en-US": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim - To repay your loan while keeping the park value up!",
+            "eo-ZZ": "Konstruu la mankantajn atrakciojn de Six Flags, aŭ kreu viajn proprajn desegnaĵojn por plibonigi la parkon! Sed ne forgesu vian ĉefan celon: por repagi vian prunton, konservante la parkvaloron!",
+            "es-ES": "Construye las atracciones Six Flags faltantes, o crea tus propios diseños para mejorar el parque. Sólo no te olvides el objetivo principal. ¡Pagar el préstamo y mantener el valor del parque!",
+            "fi-FI": "Rakenna puuttuvat Six Flags -laitteet, tai tee omat luomuksesi puiston parantamiseksi! Mutta älä unohda tärkeintä tavoitettasi: maksa velkasi pitäen puiston arvon korkealla!",
+            "fr-FR": "Construisez les attractions Six Flags manquantes ou créez vos propres modèles afin d’améliorer votre parc ! Mais n’oubliez pas que votre but principal est de rembourser votre emprunt tout en augmentant la valeur de votre parc !",
+            "hu-HU": "Építsd meg a hiányzó Six Flags játékokat, vagy készíts saját terveket a park fejlesztésére! De ne feledkezz meg a végső célodról: több vendéget vonzani a parkba!",
+            "it-IT": "Costruisci le attrazioni Six Flags mancanti o crea dei progetti tutti tuoi per migliorare il parco!! Ma non dimenticare il tuo vero scopo: restituire il prestito mantenendo al tempo stesso alto il valore del parco!!",
+            "ja-JP": "不足しているシックスフラッグスの乗物を設置するか、またはご自分でオリジナルデザインの乗物を作成して遊園地を改良してください!しかし、本来の最終目標である、遊園地",
+            "ko-KR": "식스 플래그의 빠진 놀이기구를 건설해보거나, 공원을 개선하기 위해 자신만의 놀이기구를 건설해보세요! 하지만 대출을 갚고 공원 가치를 높여야 한다는 궁극적인 목표를 잊으면 안됩니다!",
+            "nb-NO": "Bygg de savnede Six Flags attraksjonene, eller skap dine egne designer for å forbedre parken! Men ikke glem ditt overordnede mål: å betale ned ditt lån mens du vedlikeholder parkverdien!",
+            "nl-NL": "Bouw de ontbrekende Six Flags-attracties, of maak je eigen ontwerpen om het park te verbeteren! Maar vergeet je uiteindelijke doel niet: je lening terugbetalen terwijl je de waarde van je park laat stijgen!",
+            "pl-PL": "Wybuduj brakujące atrakcje „Six Flags” lub upiększ lunapark własnymi projektami! Tylko nie zapomnij o ostatecznym celu - musisz spłacić kredyt, równocześnie zwiększając wartość parku!",
+            "pt-BR": "Construa os brinquedos Six Flags que faltam, ou crie seus próprios projetos para melhorar o parque! Mas não esqueça seu objetivo principal - Pagar seu empréstimo enquanto mantém o valor do parque alto!",
+            "ru-RU": "Постройте недостающие аттракционы, или создайте свои собственные дизайны для улучшения парка! Но не забудьте свою главную цель - расплатиться с банком, не теряя стоимости парка!",
+            "sv-SE": "Bygg de Six Flags-attraktionerna som saknas eller skapa dina egna för att förbättra parken! Men glöm inte bort ditt syfte – Att betala tillbaka dina lån medan du håller parkens värde uppe!",
+            "tr-TR": "Gerçekte ABD’nin Kaliforniya eyaletinde bulunan bir lunapark",
+            "zh-CN": "建造遗失的六旗乐园游乐设施，或用自己的设计善公园！但别忘了你的最终目标——偿还贷款，同时保持公园价值！",
+            "zh-TW": "建造缺少的六旗遊樂設施,或建造你自己設計的以改善遊樂園!但不要忘了你最終的目標-當保持遊樂園價值提昇時要償還你的貸款!",
+            "gl-ES": "Constrúe as atraccións que faltan en Six Flags ou crea os teus propios deseños para mellorar o parque! Pero non esquezas o teu obxectivo principal: devolver o préstamo mentres mantés o valor do parque alto!"
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": "rct2ww.scenario_meta.rollercoaster_heaven",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "originalId": "0CCEA11A|STEX57  |222896DF",
+    "sourceGame": [
+        "rct2ww"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "جنة الأفعوانيات",
+            "de-DE": "Achterbahnhimmel",
+            "en-GB": "Rollercoaster Heaven",
+            "eo-ZZ": "Paradizo de Ondaj Fervojoj",
+            "es-ES": "Paraíso de montañas rusas",
+            "fi-FI": "Vuoristoratojen mekka",
+            "fr-FR": "Le paradis des montagnes russes",
+            "hu-HU": "Hullámvasút Paradicsom",
+            "it-IT": "Paradiso dell’ottovolante",
+            "ja-JP": "ジェットコースター天国",
+            "ko-KR": "롤러코스터 천국",
+            "pt-BR": "Paraíso da Montanha-Russa",
+            "ru-RU": "Rollercoaster Heaven",
+            "zh-CN": "过山车天堂",
+            "ca-ES": "El paradís de les muntanyes russes",
+            "pl-PL": "Raj kolejek górskich",
+            "gl-ES": "O Ceo das Montañas Rusas"
+        },
+        "park_name": {
+            "ar-EG": "جنة الأفعوانيات",
+            "de-DE": "Achterbahnhimmel",
+            "en-GB": "Rollercoaster Heaven",
+            "eo-ZZ": "Paradizo de Ondaj Fervojoj",
+            "es-ES": "Paraíso de montañas rusas",
+            "fi-FI": "Vuoristoratojen mekka",
+            "fr-FR": "Le paradis des montagnes russes",
+            "hu-HU": "Hullámvasút Paradicsom",
+            "it-IT": "Paradiso dell’ottovolante",
+            "ja-JP": "ジェットコースター天国",
+            "ko-KR": "롤러코스터 천국",
+            "pt-BR": "Paraíso da Montanha-Russa",
+            "ru-RU": "Rollercoaster Heaven",
+            "zh-CN": "过山车天堂",
+            "ca-ES": "El Paradís de les Muntanyes Russes",
+            "pl-PL": "Raj kolejek górskich",
+            "gl-ES": "O Ceo das Montañas Russas"
+        },
+        "details": {
+            "ar-EG": "أنت رجل أعمال ناجح في إجازة طويلة وترغب في استغلال هذا الوقت في تحويل حديقة المدينة إلى جنة أفعوانيات. المال ليس عائقًا!",
+            "ca-ES": "Sou un magnat de les finances competent en període sabàtic que desitja usar el seu temps en transformar el parc de la ciutat en el «Rollercoaster Heaven». I els diners no importen!",
+            "cs-CZ": "Jste úspěšný obchodní magnát, který si přeje přetvořit městský park v místo nebeských horských drah. Peníze nehrají žádnou roli!",
+            "da-DK": "Du er en succesfuld forretningsmagnat igang med flere sabbatår, der ønsker at bruge denne tid på at omdanne byparken til Rollercoaster Heaven. Penge er ikke noget problem!",
+            "de-DE": "Sie sind ein erfolgreicher Geschäftsmann, der sich eine vierjährige Auszeit genommen hat und nun einen Vergnügungspark errichten möchte, bei dem Geld keine Rolle spielt.",
+            "en-GB": "You are a successful business tycoon on long sabbatical who desires to use this time transforming the city park into Rollercoaster Heaven. Money is no object!",
+            "eo-ZZ": "Vi estas sukcesa komerca magnato prenanta longan libertempon, kiu deziras uzi ĉi tiun tempon per transformi la urban parkon en Onda-Fervojo-Paradizon. Mono estas neniu problemo!",
+            "es-ES": "Eres un exitoso magnate de los negocios que se ha tomado cuatro años sabáticos. Tu deseo es construir un parque sin limitaciones de dinero.",
+            "fi-FI": "Olet menestyksekäs liikemies sapattivapaalla, ja haluat käyttää tämän ajan kaupunginpuiston muuttamiseksi vuoristoratojen mekaksi. Raha ei ole este!",
+            "fr-FR": "Vous êtes un businessman accompli en période sabbatique de 4 ans, désirant construire un parc sans la moindre restriction financière.",
+            "hu-HU": "Egy sikeres iparmágnás vagy, aki hosszú szabadságon van, és ezt az időt arra szeretné felhasználni, hogy a városi parkot hullámvasút paradicsommá alakítsa át. A pénz nem számít!",
+            "it-IT": "Sei un magnate della finanza di grande successo, che si è preso 4 anni di vacanza dagli affari e desidera costruire un parco senza badare a spese.",
+            "ko-KR": "당신은 긴 휴식기를 가지는 동안 이 도시 공원을 롤러코스터 천국으로 바꾸고자 하는 성공한 사업 거물입니다. 돈은 문제가 되지 않는군요!",
+            "nb-NO": "Du er en suksessfull forretningsmagnat på en lang ferie som ønsker å bruke denne tiden til å transformere byparken til Rollercoaster Heaven. Penger er ikke noe problem!",
+            "nl-NL": "Je bent een succesvol zakenman op een lange sabbatical. Die wil je gebruiken om het stadspark om te toveren in een achtbanenparadijs. Geld speelt geen rol!",
+            "pl-PL": "Jesteś znanym biznesmenem na urlopie i pragniesz wykorzystać wolny czas na przekształcenie miejskiego lunaparku w raj dla miłośników kolejek górskich. Pieniądze nie grają roli!",
+            "pt-BR": "Você é um bem-sucedido magnata dos negócios em longas férias que deseja usar esse tempo transformando o parque da cidade em um Céu de Montanha-Russa. Dinheiro não é o problema!",
+            "ru-RU": "Вы уже являятесь успешным предпринимателем. Во время длинного отпуска вам пришла в голову идея: превратить горотской парк аттракционов в настоящий рай. Деньги - не проблема!",
+            "sv-SE": "Du är en framgångsrik affärsman som under ett sabbatsår beslutar dig för att förvandla en stadspark till ett ”Rollercoaster Heaven”, oavsett kostnad!",
+            "tr-TR": "Çok başarılı bir iş adamısınız ve uzun bir müddet tatile çıktınız. Bu tatilde şehrin göbeğinde bulunan boş araziye başarılı bir lunapark inşa etmeye karar verdiniz. Paranız sınırsız",
+            "zh-CN": "你是在休假想要利用这段时间改造城市公园的过山车的天堂一个成功的商业大亨。金钱是没有目标的！",
+            "gl-ES": "Es un exitoso magnate de negocios nun longo tempo sabático que desexa aproveitar este tempo para transformar o parque da cidade no Ceo das Montañas Rusas. Os cartos non son un atranco!"
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "id": "rct1aa.scenario_meta.adrenaline_heights",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB400A|STEX941 |C1E9C63B",
+    "sourceGame": [
+        "rct1aa"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        "images/minimap.png",
+        "images/screenshot.png"
+    ],
+    "strings": {
+        "name": {
+            "ca-ES": "Els cims d’Adrenalina",
+            "en-GB": "Adrenaline Heights",
+            "eo-ZZ": "Adrenalino-Altaĵoj",
+            "fi-FI": "Hurjavuori",
+            "fr-FR": "Mont Adrénaline",
+            "hu-HU": "Adrenalin-csúcsok",
+            "ja-JP": "アドレナリン・ハイツ",
+            "pt-BR": "Picos da Adrenalina",
+            "zh-CN": "肾上腺素高地",
+            "pl-PL": "Wzgórza Adrenaliny",
+            "gl-ES": "Alturas de adrenalina",
+            "ar-EG": "مرتفعات الأدرينالين"
+        },
+        "park_name": {
+            "ca-ES": "Els cims d’Adrenalina",
+            "en-GB": "Adrenaline Heights",
+            "eo-ZZ": "Adrenalino-Altaĵoj",
+            "fi-FI": "Hurjavuori",
+            "fr-FR": "Mont Adrénaline",
+            "hu-HU": "Adrenalin-csúcsok",
+            "ko-KR": "아드레날린 언덕",
+            "pt-BR": "Picos da Adrenalina",
+            "zh-CN": "肾上腺素高地",
+            "pl-PL": "Wzgórza Adrenaliny",
+            "gl-ES": "Alturas de adrenalina",
+            "ar-EG": "مرتفعات الأدرينالين"
+        },
+        "details": {
+            "ca-ES": "Construeix un parc per a atreure a la gent dels voltants que busqui emocions d’alt voltatge.",
+            "da-DK": "Byg en Park for at appellere til den højintensive, gys-søgende, lokale folk",
+            "de-DE": "Bauen Sie einen Park für die Menschen dieser Gegend, die hohe Intensität und Nervenkitzel bevorzugen.",
+            "en-GB": "Build a park to appeal to the high-intensity thrill-seeking local people",
+            "eo-ZZ": "Konstruu parkon por allogi lokajn homojn, kiuj volas altajn-intensajn ekscitaĵojn",
+            "es-ES": "Construye un parque que atraiga a la población local en busca de emociones fuertes.",
+            "fi-FI": "Rakenna puisto, joka tyydyttää paikallisia jännityksenjanoisia hurjapäitä",
+            "fr-FR": "Construisez un parc qui plaira à la population locale en quête de sensations fortes.",
+            "hu-HU": "Építs egy parkot, amellyel bevonzhatod a helyi élmény- és izgalomkereső embereket",
+            "it-IT": "Costruisci un parco per attirare gli amanti del brivido della zona",
+            "ko-KR": "격렬한 스릴을 즐기는 사람들을 위한 공원을 건설하세요.",
+            "nb-NO": "Bygg en park som appellerer til de høye intensitetskravene til den lokale befolkningen",
+            "nl-NL": "Bouw een park dat de lokale bevolking, die op zoek is naar snelheid en spanning, aanspreekt.",
+            "pl-PL": "Zbuduj park aby zadowolić ludzi szukających mocno intensywnych atrakcji",
+            "pt-BR": "Construa um parque para apelar às pessoas locais buscadoras de emoção de alta intensidade.",
+            "sv-SE": "Bygg en park för den intensitets- och spänningssökande lokala befolkningen",
+            "tr-TR": "Yerel halk için heyecan dolu bir lunapark inşa ediniz",
+            "zh-CN": "建造一个吸引寻求高强度刺激的当地人的公园",
+            "zh-TW": "建造一個能吸引喜好高刺激度遊樂設施的當地遊客前往的樂園",
+            "ru-RU": "Постройте парк, привлекающий местных экстремалов",
+            "gl-ES": "Constrúe un parque para atraer á xente local que busca emociones fortes",
+            "ar-EG": "ابنِ حديقة لجذب السكان المحليين الباحثين عن الإثارة عالية الكثافة"
+        }
+    }
+}
