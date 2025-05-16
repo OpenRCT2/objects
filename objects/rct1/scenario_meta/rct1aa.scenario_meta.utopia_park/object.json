@@ -10,8 +10,12 @@
     ],
     "objectType": "scenario_meta",
     "images": [
-        "images/minimap.png",
-        "images/screenshot.png"
+        {
+            "path": "images/minimap.png"
+        },
+        {
+            "path": "images/screenshot.png"
+        }
     ],
     "strings": {
         "name": {
