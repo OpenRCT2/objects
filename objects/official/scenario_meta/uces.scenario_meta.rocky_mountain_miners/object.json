@@ -9,10 +9,14 @@
     "objectType": "scenario_meta",
     "images": [
         {
-            "path": "images/minimap.png"
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
         },
         {
-            "path": "images/screenshot.png"
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
         }
     ],
     "strings": {
