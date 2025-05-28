@@ -239,7 +239,7 @@
             "zh-CN": "迷你悬挂式飞行列车",
             "zh-TW": "迷你懸掛式飛行列車",
             "pt-BR": "Carros Deitados",
-            "ar-EG": "Lay-down Cars",
+            "ar-EG": "عربات الاستلقاء",
             "cs-CZ": "Zavěšená horská dráha na \"ležáka\"",
             "ja-JP": "ミニ・サスペンデッド・フライング・コースター",
             "pl-PL": "Podwieszana minikolejka (leżąca)",
@@ -268,7 +268,8 @@
             "eo-ZZ": "Malgrandaj penditaj ĉaroj, en kiuj la pasaĝeroj rajdas kuŝiĝante, frontas al la tero, kaj svingiĝas libere de unu flanko al la alia",
             "ca-ES": "Cotxes petits penjants en els quals els passatgers viatgen tombats cara a terra, balancejant-se lliurement de costat a costat.",
             "fi-FI": "Pienet riippuvat vaunut, joissa matkustajat kulkevat makuuasennossa vatsallaan, vapaasti heilahtaen käänteissä",
-            "gl-ES": "Pequenos coches suspendidos nos que os pasaxeiros viaxan deitados boca abaixo, oscilando libremente de lado a lado"
+            "gl-ES": "Pequenos coches suspendidos nos que os pasaxeiros viaxan deitados boca abaixo, oscilando libremente de lado a lado",
+            "ar-EG": "عربات صغيرة معلقة يركب فيها الركاب ووجههم لأسفل في وضع الاستلقاء، وتتأرجح بحرية من جانب إلى آخر"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -289,7 +290,8 @@
             "eo-ZZ": "Po 1 pasaĝero por ĉaro",
             "ca-ES": "1 passatger per cotxe",
             "fi-FI": "1 matkustaja per vaunu",
-            "gl-ES": "1 pasaxeiro por coche"
+            "gl-ES": "1 pasaxeiro por coche",
+            "ar-EG": "راكب واحد لكل عربة"
         }
     },
     "noCsgImages": [

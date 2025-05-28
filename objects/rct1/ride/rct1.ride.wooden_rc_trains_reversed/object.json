@@ -1420,7 +1420,8 @@
             "pl-PL": "Drewniana kolejka górska (odwrócona)",
             "zh-CN": "木制过山车列车（反向）",
             "ru-RU": "Деревянные поезда (реверс)",
-            "gl-ES": "Trens de montaña rusa de madeira (invertidos)"
+            "gl-ES": "Trens de montaña rusa de madeira (invertidos)",
+            "ar-EG": "قطارات أفعوانية خشبية (معكوسة)"
         },
         "description": {
             "en-GB": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards.",
@@ -1433,7 +1434,8 @@
             "pl-PL": "Drewniana kolejka górska z odwróconymi wagonikami, tak aby pasażerowie byli skierowani tyłem do kierunku jazdy",
             "zh-CN": "木制过山车列车，但反向运行，使乘客面朝后方。",
             "ru-RU": "Деревянные поезда, едущие в обратном направлении: пассажиры смотрят назад.",
-            "gl-ES": "Trens de montaña rusa de madeira, pero funcionando ao revés, de xeito que os pasaxeiros miran cara atrás"
+            "gl-ES": "Trens de montaña rusa de madeira, pero funcionando ao revés, de xeito que os pasaxeiros miran cara atrás",
+            "ar-EG": "قطارات أفعوانية خشبية، ولكنها تسير في الاتجاه المعاكس، بحيث يواجه الركاب الخلف."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -1454,7 +1456,8 @@
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
-            "gl-ES": "4 pasaxeiros por coche"
+            "gl-ES": "4 pasaxeiros por coche",
+            "ar-EG": "4 ركاب لكل عربة"
         }
     }
 }

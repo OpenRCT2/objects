@@ -179,7 +179,8 @@
             "fi-FI": "Hybridivuoristoradan vaunut",
             "ru-RU": "Гибридные поезда",
             "gl-ES": "Trens de Montaña Rusa Híbridos",
-            "ja-JP": "ハイブリッドコースター車両"
+            "ja-JP": "ハイブリッドコースター車両",
+            "ar-EG": "قطارات الأفعوانية الهجينة"
         },
         "description": {
             "en-GB": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
@@ -197,7 +198,8 @@
             "zh-CN": "带搭接限制器，可进行陡降和倒转运动的过山车",
             "ru-RU": "Поезда с безопасностью для ног, способные совершать резкие падения и перевороты",
             "gl-ES": "Trens de montaña rusa con suxeición de cinto, capaces de caídas pronunciadas e inversións",
-            "ja-JP": "ラップレストレイントがあるジェットコースター車両で、急降下や反転が可能"
+            "ja-JP": "ラップレストレイントがあるジェットコースター車両で、急降下や反転が可能",
+            "ar-EG": "قطارات أفعوانية بأحزمة حضن، قادرة على الانحدارات الشديدة والانقلابات"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -215,7 +217,8 @@
             "zh-CN": "4位乘客/车",
             "ru-RU": "4 пассажира на машину",
             "ja-JP": "1車両あたり4人の乗客",
-            "gl-ES": "4 pasaxeiros por coche"
+            "gl-ES": "4 pasaxeiros por coche",
+            "ar-EG": "4 ركاب لكل عربة"
         }
     },
     "images": [

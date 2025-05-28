@@ -304,7 +304,8 @@
             "eo-ZZ": "Minĉaroj",
             "ca-ES": "Tren de la mina",
             "fi-FI": "Kaivosvaunut",
-            "gl-ES": "Coches de mina"
+            "gl-ES": "Coches de mina",
+            "ar-EG": "عربات المنجم"
         },
         "description": {
             "en-GB": "Cars shaped like an old mine cart",
@@ -325,7 +326,8 @@
             "eo-ZZ": "Ĉaroj formitaj kiel malnova minĉaro",
             "ca-ES": "Cotxes en forma de vagonetes antigues.",
             "fi-FI": "Vanhan kaivoskärryn muotoiset vaunut",
-            "gl-ES": "Coches con forma de vello vagón de mina"
+            "gl-ES": "Coches con forma de vello vagón de mina",
+            "ar-EG": "عربات على شكل عربة منجم قديمة"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -346,7 +348,8 @@
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
-            "gl-ES": "2 pasaxeiros por coche"
+            "gl-ES": "2 pasaxeiros por coche",
+            "ar-EG": "راكبان لكل عربة"
         }
     },
     "noCsgImages": [
