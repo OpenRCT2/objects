@@ -885,7 +885,8 @@
             "eo-ZZ": "Stariĝantaj Tvisto-Trajnoj",
             "ca-ES": "Trens Tornado a peu dret",
             "fi-FI": "Seisomakiehkuravaunut",
-            "gl-ES": "Trens Tornado de pé"
+            "gl-ES": "Trens Tornado de pé",
+            "ar-EG": "قطارات تويستر وقوف"
         },
         "description": {
             "en-GB": "A train with shoulder restraints, in which the riders stand up",
@@ -906,7 +907,8 @@
             "eo-ZZ": "Trajno kun ŝultrobridoj, en kiuj la rajdantoj stariĝas",
             "ca-ES": "Un tren amb subjecció per l’espatlla en la qual els passatgers van drets.",
             "fi-FI": "Seisoma-asennossa matkustettavat vaunut olkaturvakaiteilla",
-            "gl-ES": "Un tren con suxeicións de ombreiro, no que os pasaxeiros viaxan de pé."
+            "gl-ES": "Un tren con suxeicións de ombreiro, no que os pasaxeiros viaxan de pé.",
+            "ar-EG": "قطار بأحزمة كتف، يركب فيه الركاب واقفين"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -927,7 +929,8 @@
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
-            "gl-ES": "4 pasaxeiros por coche"
+            "gl-ES": "4 pasaxeiros por coche",
+            "ar-EG": "4 ركاب لكل عربة"
         }
     },
     "noCsgImages": [

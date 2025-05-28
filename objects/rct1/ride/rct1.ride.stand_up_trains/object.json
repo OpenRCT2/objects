@@ -756,7 +756,7 @@
             "zh-CN": "站立式过山车",
             "zh-TW": "站立式雲霄飛車",
             "pt-BR": "Trens Montanha-Russa em Pé",
-            "ar-EG": "Stand-up Roller Coaster Trains",
+            "ar-EG": "قطارات أفعوانية وقوف",
             "cs-CZ": "Horská dráha \"na stojáka\"",
             "ja-JP": "立ち乗りローラーコースター",
             "pl-PL": "Kolejka stojąca",
@@ -783,7 +783,8 @@
             "ru-RU": "Поезда, в которых люди едут в стоячей позиции.",
             "eo-ZZ": "Trajnoj de onda fervojo, en kiuj la rajdantoj rajdas en staranta pozicio",
             "ca-ES": "Muntanya russa amb trens en els quals els passatgers van drets.",
-            "gl-ES": "Trens de montaña rusa nos que os pasaxeiros viaxan de pé"
+            "gl-ES": "Trens de montaña rusa nos que os pasaxeiros viaxan de pé",
+            "ar-EG": "قطارات أفعوانية يركب فيها الركاب في وضع الوقوف"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -803,7 +804,8 @@
             "ru-RU": "4 пассажира на машину",
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
-            "gl-ES": "4 pasaxeiros por coche"
+            "gl-ES": "4 pasaxeiros por coche",
+            "ar-EG": "4 ركاب لكل عربة"
         }
     }
 }

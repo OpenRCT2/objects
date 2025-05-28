@@ -3026,7 +3026,8 @@
             "fi-FI": "Vuoristoratavaunut (takaperin)",
             "zh-CN": "过山车列车（反向）",
             "ru-RU": "Поезда для аттракционов (реверс)",
-            "gl-ES": "Trens de montaña rusa (invertidos)"
+            "gl-ES": "Trens de montaña rusa (invertidos)",
+            "ar-EG": "قطارات أفعوانية (معكوسة)"
         },
         "description": {
             "en-GB": "Roller coaster train running in reverse, so that the passengers face backwards.",
@@ -3039,7 +3040,8 @@
             "fi-FI": "Vuoristoradan vaunut takaperin ajettuna niin, että matkustajat istuvat selkä menosuuntaan päin",
             "zh-CN": "过山车列车反向运行，使乘客面朝后方。",
             "ru-RU": "Поезда для аттракционов, едущие в обратную сторону: пассажиры повернуты лицом назад.",
-            "gl-ES": "Tren de montaña rusa que circula ao revés, de xeito que os pasaxeiros miran cara atrás"
+            "gl-ES": "Tren de montaña rusa que circula ao revés, de xeito que os pasaxeiros miran cara atrás",
+            "ar-EG": "قطار أفعواني يسير في الاتجاه المعاكس، بحيث يواجه الركاب الخلف."
         },
         "capacity": {
             "en-GB": "4 riders per car",
@@ -3060,7 +3062,8 @@
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
-            "gl-ES": "4 pasaxeiros por coche"
+            "gl-ES": "4 pasaxeiros por coche",
+            "ar-EG": "4 ركاب لكل عربة"
         }
     }
 }

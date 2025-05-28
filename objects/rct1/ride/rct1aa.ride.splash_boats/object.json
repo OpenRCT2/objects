@@ -505,7 +505,8 @@
             "eo-ZZ": "Plaŭdantaj Boatoj",
             "ca-ES": "Barques esquitxadores",
             "fi-FI": "Roiskeveneet",
-            "gl-ES": "Botes de chapuzar"
+            "gl-ES": "Botes de chapuzar",
+            "ar-EG": "قوارب الرش"
         },
         "description": {
             "en-GB": "Large capacity boats, built for water tracks with very steep drops",
@@ -526,7 +527,8 @@
             "eo-ZZ": "Grandspacaj boatoj, konstruitaj por akvotrakoj kun tre krutaj faloj",
             "ca-ES": "Barques de gran capacitat, construïdes per vies d’aigua amb caigudes pronunciades.",
             "fi-FI": "Suuren kapasiteetin veneet, jotka on luoto jyrkkämäkisissä vesikanavissa ajeluun",
-            "gl-ES": "Botes de gran capacidade, deseñados para canles de auga con descensos moi pronunciados"
+            "gl-ES": "Botes de gran capacidade, deseñados para canles de auga con descensos moi pronunciados",
+            "ar-EG": "قوارب ذات سعة كبيرة، مصممة للمسارات المائية ذات الانحدارات الشديدة جدًا"
         },
         "capacity": {
             "en-GB": "16 passengers per boat",
@@ -546,7 +548,8 @@
             "ru-RU": "16 пассажиров на лодку",
             "eo-ZZ": "16 pasaĝeroj por boato",
             "ca-ES": "16 passatgers per bot",
-            "fi-FI": "16 matkustajaa per vene"
+            "fi-FI": "16 matkustajaa per vene",
+            "ar-EG": "16 راكبًا لكل قارب"
         }
     }
 }

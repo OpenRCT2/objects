@@ -284,7 +284,8 @@
             "pl-PL": "Podwieszana minikolejka (siedząca)",
             "fi-FI": "Henkilökohtaiset keinuvat vaunut",
             "ru-RU": "Качающиеся машины",
-            "gl-ES": "Coches oscilantes para unha persoa"
+            "gl-ES": "Coches oscilantes para unha persoa",
+            "ar-EG": "عربات متأرجحة لشخص واحد"
         },
         "description": {
             "en-GB": "Single-seater cars which hang from the rail above, and are free to swing from side to side",
@@ -295,7 +296,8 @@
             "pl-PL": "Pasażerowie jeżdżą w pozycji siedzącej, w specjalnych wagonikach podwieszonych pod pojedynczym torem, które bujają się swobodnie na zakrętach",
             "fi-FI": "Yhden henkilön vaunut, jotka keinuvat vapaasti kiskon alla",
             "ru-RU": "Машины для одного, подвешенные на рельс сверху, что позволяет им раскачиваться",
-            "gl-ES": "Coches de unha praza que colgan da vía superior e son libres de oscilaren de lado a lado"
+            "gl-ES": "Coches de unha praza que colgan da vía superior e son libres de oscilaren de lado a lado",
+            "ar-EG": "عربات بمقعد واحد معلقة من السكة العلوية، وحرة في التأرجح من جانب إلى آخر"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -316,7 +318,8 @@
             "eo-ZZ": "Po 1 pasaĝero por ĉaro",
             "ca-ES": "1 passatger per cotxe",
             "fi-FI": "1 matkustaja per vaunu",
-            "gl-ES": "1 pasaxeiro por coche"
+            "gl-ES": "1 pasaxeiro por coche",
+            "ar-EG": "راكب واحد لكل عربة"
         }
     }
 }

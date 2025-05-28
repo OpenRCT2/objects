@@ -470,7 +470,8 @@
             "eo-ZZ": "4-horizontalaj Trajnoj de Inversigita Onda Fervojo",
             "ca-ES": "Muntanya russa invertida amb cotxes de 4 places",
             "fi-FI": "Nelipaikkaiset käänteisvuoristoradan vaunut",
-            "gl-ES": "Trens de Montaña Rusa Invertida de 4 Pasaxeiros por Fila"
+            "gl-ES": "Trens de Montaña Rusa Invertida de 4 Pasaxeiros por Fila",
+            "ar-EG": "قطارات أفعوانية معلقة 4 في الصف"
         },
         "description": {
             "en-GB": "Suspended trains in which riders sit in rows",
@@ -491,7 +492,8 @@
             "eo-ZZ": "Penditaj trajnoj, en kiuj rajdantoj sidas en vicoj",
             "ca-ES": "Vagons penjants on els passatgers seuen per files.",
             "fi-FI": "Riippuvat vaunut joissa matkustajat istuvat riveittäin",
-            "gl-ES": "Trens suspendidos nos que os pasaxeiros sentan en filas"
+            "gl-ES": "Trens suspendidos nos que os pasaxeiros sentan en filas",
+            "ar-EG": "قطارات معلقة يجلس فيها الركاب في صفوف"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -512,7 +514,8 @@
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
-            "gl-ES": "4 pasaxeiros por coche"
+            "gl-ES": "4 pasaxeiros por coche",
+            "ar-EG": "4 ركاب لكل عربة"
         }
     },
     "noCsgImages": [
