@@ -1,0 +1,76 @@
+{
+    "id": "rct1.scenario_meta.mega_park",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "الحديقة العملاقة",
+            "ca-ES": "Megaparc",
+            "en-GB": "Mega Park",
+            "eo-ZZ": "Mega-Parko",
+            "es-ES": "Mega Parque",
+            "fi-FI": "Megapuisto",
+            "fr-FR": "Mega Parc",
+            "ja-JP": "メガ・パーク",
+            "pt-BR": "Mega Parque",
+            "zh-CN": "超级乐园",
+            "gl-ES": "Mega Parque"
+        },
+        "park_name": {
+            "ar-EG": "الحديقة العملاقة",
+            "ca-ES": "Megaparc",
+            "en-GB": "Mega Park",
+            "eo-ZZ": "Mega-Parko",
+            "es-ES": "Mega Parque",
+            "fi-FI": "Megapuisto",
+            "fr-FR": "Mega Parc",
+            "ko-KR": "대공원",
+            "pt-BR": "Mega Parque",
+            "zh-CN": "超级乐园",
+            "gl-ES": "Mega Parque"
+        },
+        "details": {
+            "ar-EG": "فقط للمتعة!",
+            "ca-ES": "Només per a divertir-se!",
+            "da-DK": "Kun for sjov!",
+            "de-DE": "Nur zum Spaß!",
+            "en-GB": "Just for fun!",
+            "eo-ZZ": "Nur por amuziĝi!",
+            "es-ES": "¡Por pasarlo bien!",
+            "fi-FI": "Huvin vuoksi!",
+            "fr-FR": "Amusez-vous !",
+            "hu-HU": "Csak a móka kedvéért!",
+            "it-IT": "Divertimento puro!",
+            "ja-JP": "楽しみだけ！",
+            "ko-KR": "그냥 즐기세요!",
+            "nb-NO": "Bare for gøy!",
+            "nl-NL": "Gewoon voor de lol!",
+            "pl-PL": "Po prostu zabawa!",
+            "pt-BR": "Apenas por diversão!",
+            "sv-SE": "För skojs skull!",
+            "tr-TR": "İyi eğlenceler!",
+            "zh-CN": "娱乐至上！",
+            "zh-TW": "盡情玩吧!",
+            "ru-RU": "Просто веселитесь!",
+            "gl-ES": "Só para divertirse!"
+        }
+    }
+}

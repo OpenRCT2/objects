@@ -1,0 +1,91 @@
+{
+    "id": "rct2.scenario_meta.electric_fields",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "0A18808A|STEX12  |65A25FD2",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "الحقول الكهربائية",
+            "ca-ES": "Camps elèctrics",
+            "de-DE": "Elektrische Felder",
+            "en-GB": "Electric Fields",
+            "eo-ZZ": "Elektraj Kampoj",
+            "es-ES": "Campos Eléctricos",
+            "fi-FI": "Peltopuisto",
+            "fr-FR": "Les champs électriques",
+            "hu-HU": "Elektromos Mezők",
+            "it-IT": "Campi elettrici",
+            "ja-JP": "エレクトリック・フィールド",
+            "ko-KR": "일렉트릭 농장",
+            "pt-BR": "Campos Elétricos",
+            "sv-SE": "Elektriska fält",
+            "zh-CN": "电气田野",
+            "zh-TW": "發電牧場",
+            "pl-PL": "Elektryczne pola",
+            "gl-ES": "Campos Eléctricos"
+        },
+        "park_name": {
+            "ar-EG": "الحقول الكهربائية",
+            "ca-ES": "Camps elèctrics",
+            "de-DE": "Elektrische Felder",
+            "en-GB": "Electric Fields",
+            "eo-ZZ": "Elektraj Kampoj",
+            "es-ES": "Campos Eléctricos",
+            "fi-FI": "Peltopuisto",
+            "fr-FR": "Les Champs électriques",
+            "hu-HU": "Elektromos Mezők",
+            "it-IT": "Campi elettrici",
+            "ko-KR": "일렉트릭 농장",
+            "pt-BR": "Campos Elétricos",
+            "sv-SE": "Elektriska fält",
+            "zh-CN": "电气田野",
+            "zh-TW": "發電牧場",
+            "pl-PL": "Elektryczne pola",
+            "gl-ES": "Campos Eléctricos"
+        },
+        "details": {
+            "ar-EG": "لقد ورثت مزرعة صغيرة، والتحدي الذي تواجهه هو بناء حديقة صغيرة بين الحقول والمباني الزراعية",
+            "ca-ES": "Heu heretat una petita masoveria i teniu el repte de construir un petit parc temàtic entre els camps i les granges.",
+            "cs-CZ": "Zdědili jste malou farmu - a vaším úkolem je postavit malý zábavní park mezi poli a farmářskými budovami",
+            "da-DK": "Du har arvet en lille gård, og din udfordring er at bygge en lille forlystelsespark, blandt marker og landbrugsbygninger",
+            "de-DE": "Sie haben eine kleine Farm geerbt, und Ihre Aufgabe besteht darin, einen kleinen Themenpark zwischen den Feldern und Farmgebäuden zu bauen",
+            "en-GB": "You have inherited a small farm, and your challenge is to build a small theme park amongst the fields and farm buildings",
+            "eo-ZZ": "Vi heredis malgrandan farmon, kaj via defio estas konstrui malgrandan amuzparkon inter la kampoj kaj aliaj farmokonstruaĵoj",
+            "es-ES": "Has heredado una pequeña granja, y tu desafío es construir un pequeño parque temático entre los maices y graneros.",
+            "fi-FI": "Olet perinyt pienen maatilan, ja haasteenasi on rakentaa pieni huvipuisto peltojen ja maatilarakennusten oheen",
+            "fr-FR": "Vous avez hérité d’une petite ferme à partir de laquelle vous devez construire un petit parc à thème.",
+            "hu-HU": "Örököltél egy kis farmot, és a kihívásod egy kis vidámpark építése a mezők és a farmépületek között",
+            "it-IT": "Hai ereditato una piccola fattoria. La sfida è costruire un piccolo parco a tema tra i campi e gli edifici della fattoria",
+            "ja-JP": "小さな農場を相続したあなたに与えられた課題は、畑や農場の建物の間に、小さなテーマパークを造ることです",
+            "ko-KR": "당신은 작은 농장을 물려받았습니다. 각 지역과 농장의 건물 사이에 작은 놀이공원을 건설하는 것이 당신의 목표입니다.",
+            "nb-NO": "Du har arvet en liten gård, og din utfordring er å bygge en liten fornøyelsespark mellom åkrene og låvene",
+            "nl-NL": "Je hebt een kleine boerderij geërfd, en het is je uitdaging een klein themapark tussen de velden en de boerderijen te bouwen.",
+            "pl-PL": "Otrzymujesz w spadku małą farmę, a Twoim zadaniem jest wybudowanie małego parku tematycznego na polach, wśród budynków gospodarczych",
+            "pt-BR": "Você herdou uma pequena fazenda, e seu desafio é construir um pequeno parque temático entre os campos e prédios da fazenda",
+            "ru-RU": "Вы унаследовали небольшую ферму, и ваша задача - создать маленький парк среди её полей и зданий",
+            "sv-SE": "Du har ärvt en liten gård och din utmaning är att bygga en liten temapark bland fälten och gårdsbyggnaderna",
+            "tr-TR": "Satın aldığınız küçük bir çiftliği lunaparka dönüştürünüz",
+            "zh-CN": "你继承了一个小农场，你的挑战是在农田和农场建筑之间建立一个小型主题乐园",
+            "zh-TW": "你繼承一塊小型農場,你的挑戰是建造一個小型的主題遊樂園介於牧場及農場間的建設",
+            "gl-ES": "Herdaches unha pequena granxa, e o teu reto é construír un pequeno parque temático entre os campos e os edificios da granxa"
+        }
+    }
+}

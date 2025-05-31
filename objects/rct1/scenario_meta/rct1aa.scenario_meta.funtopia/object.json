@@ -1,0 +1,75 @@
+{
+    "id": "rct1aa.scenario_meta.funtopia",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB4F0A|STEX925 |F567EA35",
+    "sourceGame": [
+        "rct1aa"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "فينتوبيا",
+            "ca-ES": "Diversiotopia",
+            "en-GB": "Funtopia",
+            "eo-ZZ": "Amuzutopio",
+            "fi-FI": "Hupitopia",
+            "hu-HU": "Mókaland",
+            "ja-JP": "ファントピア",
+            "pt-BR": "Divertopia",
+            "zh-CN": "疯狂快乐城",
+            "pl-PL": "Zabawolandia"
+        },
+        "park_name": {
+            "ar-EG": "فينتوبيا",
+            "ca-ES": "Diversiotopia",
+            "en-GB": "Funtopia",
+            "eo-ZZ": "Amuzutopio",
+            "fi-FI": "Hupitopia",
+            "hu-HU": "Mókaland",
+            "ja-JP": "ファントピア",
+            "ko-KR": "펀토피아",
+            "pt-BR": "Divertopia",
+            "zh-CN": "疯狂快乐城",
+            "pl-PL": "Zabawolandia"
+        },
+        "details": {
+            "ar-EG": "تغطي هذه الحديقة جانبي الطريق السريع، ولديها العديد من الرحلات التي تعمل بالفعل",
+            "ca-ES": "Cobrint ambdues bandes d’una autopista, aquest parc ja opera amb algunes atraccions.",
+            "da-DK": "Med land begge sider af en motorvej, har denne park allerede flere fungerende forlystelser",
+            "de-DE": "In diesem Park zu beiden Seiten einer Autobahn sind bereits verschiedene Attraktionen in Betrieb.",
+            "en-GB": "Covering land both sides of a highway, this park has several rides already operating",
+            "eo-ZZ": "Sur bieno ambaŭflanke de aŭtovojo, ĉi tiu parko jam havas plurajn funkciantajn atrakciojn",
+            "es-ES": "Este parque, que ocupa unos terrenos a ambos lados de una autopista, cuenta con muchas atracciones que ya están en funcionamiento.",
+            "fi-FI": "Valtatien molemmille puolille sijoittuva puisto, jossa on jo muutama laite toiminnassa",
+            "fr-FR": "Entourant un grand axe routier, ce parc contient plusieurs attractions déjà en fonctionnement.",
+            "hu-HU": "A parknak az autópálya mindkét oldalán van területe és már több játékot is üzemeltet",
+            "it-IT": "Un parco ai bordi di un’autostrada, con alcune attrazioni già operative",
+            "ko-KR": "고속도로 양쪽을 잘 활용한 이 공원은 이미 몇 가지 놀이기구를 운영하고 있습니다.",
+            "nb-NO": "Denne parken som dekker begge sider av en motorvei har allerede flere aktive attraksjoner",
+            "nl-NL": "Dit park beslaat land aan beide zijden van een snelweg en beschikt reeds over enkele functionerende attracties.",
+            "pl-PL": "Ten park, rozciągniety po obu stronach autostrady, posiada już kilka działających atrakcji",
+            "pt-BR": "Cobrindo terra em ambos os lados de uma estrada, este parque já tem vários brinquedos em operação.",
+            "sv-SE": "Utsträckande mark på båda sidor av en motorväg, denna park har ett flertal åkturer igång",
+            "tr-TR": "Bir karayolunun sağına ve soluna kurulmuş bir lunapark",
+            "zh-CN": "在高速公路两侧的这个公园已经有几个游乐设施在运营",
+            "zh-TW": "這個被一條高速公路所分開的樂園已擁有幾個已在運行的遊樂設施",
+            "ru-RU": "Этот парк, покрывающий две стороны большого шоссе, уже имеет несколько аттракционов",
+            "gl-ES": "Cubrindo terreos a ambos os dous lados dunha estrada, este parque xa ten varios atraccións en funcionamento"
+        }
+    }
+}

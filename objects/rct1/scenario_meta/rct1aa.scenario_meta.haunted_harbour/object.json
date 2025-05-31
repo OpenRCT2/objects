@@ -1,0 +1,81 @@
+{
+    "id": "rct1aa.scenario_meta.haunted_harbour",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB4F0A|STEX926 |3D7E8A36",
+    "sourceGame": [
+        "rct1aa"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "الميناء المسكون",
+            "ca-ES": "El port embruixat",
+            "en-GB": "Haunted Harbour",
+            "en-US": "Haunted Harbor",
+            "eo-ZZ": "Fantoma Haveno",
+            "fi-FI": "Kummitussatama",
+            "fr-FR": "Baie des Chimères",
+            "hu-HU": "Kísértetjárta Kikötő",
+            "ja-JP": "ホーンテッド・ハーバー",
+            "pt-BR": "Porto Assombrado",
+            "zh-CN": "闹心港口",
+            "pl-PL": "Nawiedzona Przystań",
+            "gl-ES": "Porto Encantado"
+        },
+        "park_name": {
+            "ar-EG": "الميناء المسكون",
+            "ca-ES": "El port embruixat",
+            "en-GB": "Haunted Harbour",
+            "en-US": "Haunted Harbor",
+            "eo-ZZ": "Fantoma Haveno",
+            "fi-FI": "Kummitussatama",
+            "fr-FR": "Baie des Chimères",
+            "hu-HU": "Kísértetjárta Kikötő",
+            "ko-KR": "유령 항구",
+            "pt-BR": "Porto Assombrado",
+            "zh-CN": "闹心港口",
+            "pl-PL": "Nawiedzona Przystań",
+            "gl-ES": "Porto Encantado"
+        },
+        "details": {
+            "ar-EG": "وافقت السلطة المحلية على بيع الأراضي المجاورة بسعر رخيص لهذه الحديقة الساحلية الصغيرة، بشرط الحفاظ على بعض الرحلات.",
+            "ca-ES": "Les autoritats locals han acordat vendre barat el terreny proper d’aquest parc coster amb la condició que es preservin algunes atraccions.",
+            "da-DK": "De lokale myndigheder har indvilliget i at sælge nærliggende land billigt, til denne lille kystpark, på betingelse af, at visse forlystelser bliver bevaret",
+            "de-DE": "Die örtlichen Behörden haben zugestimmt, dem kleinen Park an der Küste umliegendes Gelände günstig zu verkaufen, unter der Bedingung, dass bestimmte Attraktionen erhalten werden.",
+            "en-GB": "The local authority has agreed to sell nearby land cheaply to this small seaside park, on the condition that certain rides are preserved",
+            "eo-ZZ": "La loka aŭtoritato permesis la malmultekostan vendadon de proksima bieno al ĉi tiu malgranda apudmara parko, sed certaj atrakcioj devas esti konservataj",
+            "es-ES": "Las autoridades locales han accedido a vender a este pequeño parque costero unos terrenos contiguos por un precio barato, con la condición de que se conserven determinadas atracciones.",
+            "fi-FI": "Paikallisviranomaiset ovat suostuneet myymään maata tämän pienen rantapuiston lähistöltä halvalla, kunhan vain tiettyjä laitteita ylläpidetään",
+            "fr-FR": "Les autorités locales ont accepté de vendre à ce parc côtier des terrains proches à prix bas, à condition que certaines attractions soient préservées.",
+            "hu-HU": "A helyi önkormányzat beleegyezett, hogy a közeli földterületet olcsón eladja ennek a kis tengerparti parknak, azzal a feltétellel, hogy bizonyos játékai műemlékvédelem alá kerülnek",
+            "it-IT": "L’autorità locale ha accettato di svendere i terreni confinanti a questo piccolo parco sul mare, a condizione che alcune attrazioni vengano mantenute",
+            "ja-JP": "The local authority has agreed to sell nearby land cheaply to this small seaside park, on the condition　that certain rides are preserved",
+            "ko-KR": "지역 당국은 특정 놀이기구는 파괴할 수 없다는 조건을 걸고 이 작은 해변 공원 근처의 땅을 저렴하게 팔기로 합의했습니다.",
+            "nb-NO": "De lokale myndighetene har gått med på å selge land billig, gitt at enkelte attraksjoner bevares",
+            "nl-NL": "De gemeente is bereid het omliggende land voor een gunstige prijs te verkopen aan dit kleine kustpark, op voorwaarde dat bepaalde attracties behouden blijven.",
+            "pl-PL": "Lokalne władze zgodziły się na sprzedaż pobliskiego terenu za niską kwotę pod warunkiem zachowania kilku z funkcjonujących atrakcji",
+            "pt-BR": "A autoridade local concordou em vender barato o terreno para este pequeno parque litorâneo, com a condição de que certos brinquedos são preservados.",
+            "sv-SE": "Den lokala myndigheten har givit tillåtelse att sälja land i närheten billigt till denna lilla sjösatta park, på villkoret att vissa åkturer är bevarade",
+            "tr-TR": "Küçük bir plajın yanında bulunan küçük bir lunapark. Yerel makamlar araziyi genişletmeye izin veriyor",
+            "zh-CN": "当地政府同意在保留某些游乐设施的基础上将附近的土地廉价出售给这个小型海滨公园",
+            "zh-TW": "當地政府已同意將鄰近的土地以低廉的價格販賣給這個小型海邊樂園, 但條件是要保留某些遊樂設施",
+            "ru-RU": "Местные власти продали дешёвую землю этому маленькому парку, с условием, что некоторые аттракционы нужно сохранить",
+            "gl-ES": "A autoridade local aceptou vender terra preto deste pequeno parque costeiro a un prezo baixo, coa condición de que se conserven certas atraccións"
+        }
+    }
+}

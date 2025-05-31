@@ -1,0 +1,78 @@
+{
+    "id": "rct1ll.scenario_meta.vertigo_views",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB400A|STEX956 |911C3E6A",
+    "sourceGame": [
+        "rct1ll"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ca-ES": "Vistes vertiginoses",
+            "en-GB": "Vertigo Views",
+            "eo-ZZ": "Kapturnigaj Vidoj",
+            "fi-FI": "Huimahuippu",
+            "fr-FR": "Vertigo",
+            "hu-HU": "Szédítő Kilátások",
+            "ja-JP": "バーチゴ・ビューズ",
+            "pt-BR": "Visões de Vertigem",
+            "zh-CN": "头晕眼花",
+            "pl-PL": "Zawrotny widok",
+            "gl-ES": "Vistas de Vertixe",
+            "ar-EG": "مناظر فيرتيجو"
+        },
+        "park_name": {
+            "ca-ES": "Vistes vertiginoses",
+            "en-GB": "Vertigo Views",
+            "eo-ZZ": "Kapturnigaj Vidoj",
+            "fi-FI": "Huimahuippu",
+            "fr-FR": "Vertigo",
+            "hu-HU": "Szédítő Kilátások",
+            "ko-KR": "어지러운 풍경",
+            "pt-BR": "Visões de Vertigem",
+            "zh-CN": "头晕眼花",
+            "pl-PL": "Zawrotny widok",
+            "gl-ES": "Vistas de Vertixe",
+            "ar-EG": "مناظر فيرتيجو"
+        },
+        "details": {
+            "ca-ES": "Aquest parc enorme ja té una hipermuntanya russa, però la vostra tasca és incrementar-ne massivament els beneficis.",
+            "da-DK": "Denne store park har allerede en fremragende hyper-coaster, men din opgave er at øge fortjenesten massivt",
+            "de-DE": "Dieser große Park besitzt bereits eine ausgezeichnete Hyper-Achterbahn, aber Ihre Aufgabe ist es, die Erträge beträchtlich zu steigern.",
+            "en-GB": "This large park already has an excellent hyper-coaster, but your task is to massively increase its profit",
+            "eo-ZZ": "Ĉi tiu granda parko jam havas bonegan hiperan ondan fervojon, sed via celo estas pliigi ĝian profiton",
+            "es-ES": "Este gran parque ya cuenta con una excelente hyper-montaña rusa, aunque tu cometido es el de aumentar significantemente sus beneficios.",
+            "fi-FI": "Tässä puistossa on jo loistava hyper-vuoristorata, mutta sinun tulee kasvattaa puiston tuottoa",
+            "fr-FR": "Ce parc possède déjà un excellent tracé de super-montagnes russes, et vous devez en accroître massivement les profits.",
+            "hu-HU": "Ebben a nagy parkban már van egy kiváló hiperhullámvasút, de sokkal nyereségesebbé kell tenned",
+            "it-IT": "Questo grande parco ha già un’iper-coaster eccellente, ma il tuo compito è quello di aumentare il suo profitto",
+            "ko-KR": "이 거대한 공원에는 이미 훌륭한 하이퍼코스터가 있습니다. 여러분의 임무는 그 매출을 아주 극대화하는 것입니다.",
+            "nb-NO": "Denne store parken har allerede en utmerket hyper-berg-og-dal-bane, din oppgave er å gjøre massiv profitt",
+            "nl-NL": "Dit park heeft al een uitstekende hypercoaster, maar je taak is om de winst flink te verhogen.",
+            "pl-PL": "Ten wielki park ma już świetną kolejkę, jednak Twoim zadaniem jest znaczne zwiększenie jego zysków",
+            "pt-BR": "Este grande parque já tem uma excelente hipermontanha-russa, mas sua tarefa é aumentar massivamente seu lucro.",
+            "sv-SE": "Denna stora park har redan en imponerande berg- och dalbana, ditt mål är att öka vinsten",
+            "tr-TR": "Bu lunaparkta henüz kârlı bir hız treni bulunmakta. Sizin hedefiniz o hız treninin kârını sekize katlamaktır",
+            "zh-CN": "这个大型公园已经有一个非常好的超级过山车，但你的任务是大幅增加其利润",
+            "zh-TW": "這個大型的樂園已經擁有一座很棒的超級雲霄飛車, 但你的任務是要將他的利潤大幅增加",
+            "ru-RU": "В этом парке уже есть отличный гипер-аттракцион, но ваша задача - сильно увеличить его доходность",
+            "gl-ES": "Este gran parque xa ten unha excelente montañas rusas hiperrápida, pero a túa tarefa é aumentar masivamente os seus beneficios",
+            "ar-EG": "تحتوي هذه الحديقة الكبيرة بالفعل على أفعوانية هايبر ممتازة، ولكن مهمتك هي زيادة أرباحها بشكل كبير"
+        }
+    }
+}

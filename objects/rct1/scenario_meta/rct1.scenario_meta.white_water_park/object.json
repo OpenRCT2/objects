@@ -1,0 +1,82 @@
+{
+    "id": "rct1.scenario_meta.white_water_park",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB4F0A|STEX909 |87ABAB74",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "حديقة المياه البيضاء",
+            "ca-ES": "El parc Aiguablanca",
+            "en-GB": "White Water Park",
+            "en-US": "Aqua Park",
+            "eo-ZZ": "Rapidfluo-Parko",
+            "es-ES": "Parque Acuático",
+            "fi-FI": "Valkokosken puisto",
+            "fr-FR": "Parc Eau Pure",
+            "hu-HU": "Vadvízi Park",
+            "ja-JP": "ホワイト・ウォーター・パーク",
+            "pt-BR": "Parque Aquático",
+            "zh-CN": "净水公园",
+            "pl-PL": "Dolina Białej Wody",
+            "gl-ES": "Parque de Augas Brancas"
+        },
+        "park_name": {
+            "ar-EG": "حديقة المياه البيضاء",
+            "ca-ES": "El parc Aiguablanca",
+            "en-GB": "White Water Park",
+            "en-US": "Aqua Park",
+            "eo-ZZ": "Rapidfluo-Parko",
+            "es-ES": "Parque Acuático",
+            "fi-FI": "Valkokosken puisto",
+            "fr-FR": "Parc Eau Pure",
+            "hu-HU": "Vadvízi Park",
+            "ko-KR": "맑은 물 공원",
+            "pt-BR": "Parque Aquático",
+            "zh-CN": "净水公园",
+            "pl-PL": "Dolina Białej Wody",
+            "gl-ES": "Parque de Augas Brancas"
+        },
+        "details": {
+            "ar-EG": "حديقة مع أفعوانيات بحرية ممتازة تتطلب التوسيع",
+            "ca-ES": "Un parc amb algunes atraccions aquàtiques excel·lents necessita que se’n dissenyi una expansió.",
+            "da-DK": "En park med nogle fremragende vand-baserede forlystelser, kræver udvidelse",
+            "de-DE": "Dieser Park mit verschiedenen hervorragenden Wasser-Attraktionen hat einen Ausbau nötig.",
+            "en-GB": "A park with some excellent water-based rides requires expansion",
+            "eo-ZZ": "Ĉi tiu parko, kun kelkaj bonegaj akvo-atrakcioj, bezonas kreskadon",
+            "es-ES": "Un parque con unas cuantas atracciones acuáticas, y que necesita expansión.",
+            "fi-FI": "Puisto, jossa on pari mainiota vesilaitetta kaipaa laajennusta",
+            "fr-FR": "Un parc avec quelques attractions aquatiques géniales qui a besoin de s’agrandir.",
+            "hu-HU": "Ez a park néhány igazán kiváló vízi játékkal rendelkezik, de terjeszkedésre van szüksége",
+            "it-IT": "Un parco con alcuni ottimi percorsi ad acqua che richiede ulteriore espansione",
+            "ko-KR": "훌륭한 물 놀이기구를 몇 개 갖고 있지만 확장이 필요한 공원입니다.",
+            "nb-NO": "En park med forteffelige vannbaserte attraksjoner trenger utvidelse",
+            "nl-NL": "Een park met enkele uitstekende waterattracties vereist uitbreiding.",
+            "pl-PL": "Park ze świetnymi przejażdżkami wodnymi wymaga dalszej rozbudowy",
+            "pt-BR": "Um parque com algumas atrações aquáticas ótimas que requer expansão.",
+            "sv-SE": "En park med fantastiska vattenattraktioner som behöver utökas",
+            "tr-TR": "Sulu lunaparkın büyümeye ihtiyacı var",
+            "zh-CN": "一个附有优良水上类游乐设施的乐园，它需要大扩张",
+            "zh-TW": "一個附有優良水文類遊樂設施的樂園, 它需要重大擴張",
+            "ru-RU": "Парк с замечательными водными аттракционами, который нужно расширить",
+            "gl-ES": "Un parque con algunhas excelentes atraccións acuáticas require expansión."
+        }
+    }
+}

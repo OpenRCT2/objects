@@ -1,0 +1,82 @@
+{
+    "id": "rct1.scenario_meta.crumbly_woods",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB4F0A|STEX915 |0BF16094",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ca-ES": "Els boscos llangorosos",
+            "en-GB": "Crumbly Woods",
+            "eo-ZZ": "Ĉifaj Arbaroj",
+            "es-ES": "Maderas Viejas",
+            "fi-FI": "Murumetsä",
+            "fr-FR": "Bois Craquants",
+            "hu-HU": "Recsegő Rengeteg",
+            "ja-JP": "クランブリ・ウッズ",
+            "pt-BR": "Madeiras Velhas",
+            "zh-CN": "老废物乐园",
+            "pl-PL": "Kruche Lasy",
+            "gl-ES": "Bosque Crumble",
+            "ar-EG": "غابات كرامبلي"
+        },
+        "park_name": {
+            "ca-ES": "Els boscos llangorosos",
+            "en-GB": "Crumbly Woods",
+            "eo-ZZ": "Ĉifaj Arbaroj",
+            "es-ES": "Maderas Viejas",
+            "fi-FI": "Murumetsä",
+            "fr-FR": "Bois Craquants",
+            "hu-HU": "Recsegő Rengeteg",
+            "ko-KR": "부서지기 쉬운 숲",
+            "pt-BR": "Madeiras Velhas",
+            "zh-CN": "老废物乐园",
+            "pl-PL": "Kruche Lasy",
+            "gl-ES": "Bosque Crumble",
+            "ar-EG": "غابات كرامبلي"
+        },
+        "details": {
+            "ar-EG": "حديقة كبيرة بها ألعاب مصممة جيدًا ولكنها قديمة إلى حد ما. استبدل الألعاب القديمة أو أضف ألعابًا جديدة لجعل الحديقة أكثر شعبية.",
+            "ca-ES": "Un parc enorme amb atraccions ben dissenyades però que comencen a ser velles. Substituïu-les o afegiu-hi atraccions noves per a fer que el parc sigui més popular.",
+            "da-DK": "En stor park med godt designet, men med gamle forlystelser - Erstat de gamle forlystelser eller tilføj nye forlystelser, for at gøre parken mere populær",
+            "de-DE": "Ein großer Park mit guten, aber ziemlich alten Attraktionen. Ersetzen Sie die alten Attraktionen oder fügen Sie neue hinzu, damit der Park mehr Leute anzieht.",
+            "en-GB": "A large park with well-designed but rather old rides. Replace the old rides or add new rides to make the park more popular.",
+            "en-US": "A large park with well-designed but rather old rides - Replace the old rides or add new rides to make the park more popular",
+            "eo-ZZ": "Granda parko kun bone-desegnitaj sed iomete malnovaj atrakcioj. Anstataŭigu la malnovajn atrakciojn aŭ alkonstruu novajn atrakciojn, por farigi la parkon pli populara.",
+            "es-ES": "Un gran parque con atracciones bien diseñadas, pero más bien anticuadas. Sustituye las viejas atracciones o añade atracciones nuevas para hacer el parque más popular.",
+            "fi-FI": "Suuri puisto, jossa on hyvin suunniteltuja mutta aika vanhoja laitteita. Korvaa vanhat laitteet tai rakenna uusia nostaaksesi puiston suosiota.",
+            "fr-FR": "Un grand parc avec des attractions bien conçues mais plutôt anciennes. Remplacez les anciennes attractions ou ajoutez-en de nouvelles pour rendre le parc plus attractif.",
+            "hu-HU": "Egy nagy park jól tervezett, de meglehetősen öreg játékokkal - Cseréld le az öreg játékokat, vagy építs újakat, hogy népszerűbb legyen a park",
+            "it-IT": "Un grande parco con percorsi ben congegnati ma vecchi. Sostituisci i vecchi percorsi o creane dei nuovi per renderlo più popolare",
+            "ja-JP": "A large park with well-designed but rather old rides - Replace the old rides or add new rides to make the park more popular",
+            "ko-KR": "잘 디자인되었지만 다소 낡은 놀이기구를 가진 대형 공원입니다. 오래된 놀이기구를 교체하거나 새로운 놀이기구를 추가하여 보다 인기있는 공원을 만들어보세요.",
+            "nb-NO": "En stor park med gode, men aldrende attraksjoner – Erstatt de gamle attraksjonene eller bygg nye for å gjøre parken mer populær",
+            "nl-NL": "Een groot park met goed ontwerpen maar nogal oude attracties. Vervang de oude attracties of voeg nieuwe toe om het park populairder te maken.",
+            "pl-PL": "Wielki, dobrze zaprojektowany park, jednak ze starymi atrakcjami. Wymień stare atrakcje i zbuduj nowe, aby zwiększyć popularność parku.",
+            "pt-BR": "Um grande parque com atrações bem projetadas, porém muito velhas - Substitua as atrações velhas ou adicione novas para tornar o parque mais popular.",
+            "sv-SE": "En stor park med väldesignade, men åldrande attraktioner – Byt ut de gamla eller skaffa nya för att göra parken mer populär",
+            "tr-TR": "Bu lunapark güzel alet tasarımları bulunduruyor. Fakat aletler çok eski. Ya aletleri yenileyiniz ya da yeni aletler inşa ediniz",
+            "zh-CN": "一个拥有精心设计但已经相当老旧的游乐设施的大型公园。更换旧的游乐设施或添加新的游乐设施，使公园更受欢迎。",
+            "zh-TW": "一個擁有老舊但設計妥善的遊樂設施的大型樂園 - 取代那些遊樂設施或添加新的遊樂設施來使樂園變得更受歡迎",
+            "ru-RU": "Большой парк с хорошими, но старыми аттракционами. Замените старые аттракционы или добавьте новые, чтобы прибавить парку популярности.",
+            "gl-ES": "Un gran parque cunhas atraccións ben deseñadas pero algo vellas. Substitúe as atraccións antigas ou engade novas para facer o parque máis popular."
+        }
+    }
+}

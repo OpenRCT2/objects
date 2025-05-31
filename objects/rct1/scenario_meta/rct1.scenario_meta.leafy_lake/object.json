@@ -1,0 +1,80 @@
+{
+    "id": "rct1.scenario_meta.leafy_lake",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB4F0A|STEX902 |60D57271",
+    "sourceGame": [
+        "rct1"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "بحيرة ليفي",
+            "ca-ES": "El llac frondós",
+            "en-GB": "Leafy Lake",
+            "eo-ZZ": "Folia Lago",
+            "es-ES": "Lago Frondoso",
+            "fi-FI": "Juurijärvi",
+            "fr-FR": "Lac Luxuriant",
+            "hu-HU": "Leveles-tó",
+            "ja-JP": "リーフィー・レーク",
+            "pt-BR": "Lago Frondoso",
+            "zh-CN": "茂林湖",
+            "pl-PL": "Jezioro liściaste",
+            "gl-ES": "Lago frondoso"
+        },
+        "park_name": {
+            "ar-EG": "بحيرة ليفي",
+            "ca-ES": "El llac frondós",
+            "en-GB": "Leafy Lake",
+            "eo-ZZ": "Folia Lago",
+            "es-ES": "Lago Frondoso",
+            "fi-FI": "Juurijärvi",
+            "fr-FR": "Lac Luxuriant",
+            "hu-HU": "Leveles-tó",
+            "ko-KR": "나뭇잎 호수",
+            "pt-BR": "Lago Frondoso",
+            "zh-CN": "茂林湖",
+            "pl-PL": "Jezioro liściaste",
+            "gl-ES": "Lago frondoso"
+        },
+        "details": {
+            "ar-EG": "إبدء من لاشئ، إبني حديقة مزدهرة حول بركة كبيرة",
+            "ca-ES": "Construïu un parc temàtic des de l’inici al voltant d’un llac.",
+            "da-DK": "Start fra bunden, Byg en forlystelsespark omkring en stor sø",
+            "de-DE": "Fangen Sie bei Null an und bauen Sie einen Freizeitpark um einen großen See herum.",
+            "en-GB": "Starting from scratch, build a theme park around a large lake",
+            "eo-ZZ": "Komencante de nulo, konstruu amuzparkon ĉirkaŭ granda lago",
+            "es-ES": "Empezando desde cero, construye un parque temático alrededor de un gran lago.",
+            "fi-FI": "Tyhjästä aloittaen, rakenna teemapuisto suuren järven ympärille",
+            "fr-FR": "En partant de rien, construisez un parc à thème autour d’un grand lac.",
+            "hu-HU": "A nulláról kezdve építs egy vidámparkot a nagy tó körül",
+            "it-IT": "Partendo da zero, costruisci un grande parco a tema attorno a un grande lago",
+            "ko-KR": "처음부터 시작하여 큰 호수 주변에 놀이공원을 건설하세요.",
+            "nb-NO": "Fra bunnen av, bygg en fornøyelsespark rundt en stor innsjø",
+            "nl-NL": "Bouw vanaf het begin een pretpark rond een groot meer.",
+            "pl-PL": "Zaczynając od pustego terenu, wybuduj wesołe miasteczko wokół dużego jeziora",
+            "pt-BR": "Partindo do zero, construa um parque temático em torno de um grande lago.",
+            "sv-SE": "Börja från grunden med att bygga ett nöjesfält runt en stor sjö",
+            "tr-TR": "Bu muhteşem doğanın içinde bir park oluşturunuz",
+            "zh-CN": "在一个大型湖泊的旁边，从零开始兴建一个主题乐园",
+            "zh-TW": "在一個大型湖泊的旁邊, 由零開始建造一個樂園",
+            "ru-RU": "Начните с нуля, и постройте парк вокруг большого озера",
+            "gl-ES": "Comezando desde cero, constrúe un parque temático arredor dun gran lago"
+        }
+    }
+}

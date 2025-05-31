@@ -1,0 +1,90 @@
+{
+    "id": "rct2ww.scenario_meta.icy_adventures",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "originalId": "0CCEA11A|STEX53  |788FB0AA",
+    "sourceGame": [
+        "rct2ww"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "المغامرات الثلجية",
+            "ca-ES": "Aventures gèlides",
+            "de-DE": "Abenteuer im Eis",
+            "en-GB": "Icy Adventures",
+            "eo-ZZ": "Glaciaj Aventuroj",
+            "es-ES": "Aventuras heladas",
+            "fi-FI": "Jäinen seikkailu",
+            "fr-FR": "Aventures glacées",
+            "hu-HU": "Jeges Kalandok",
+            "it-IT": "Avventure fra i ghiacci",
+            "ja-JP": "氷の冒険",
+            "ko-KR": "얼음에 뒤덮인 모험",
+            "pt-BR": "Aventuras Geladas",
+            "ru-RU": "Icy Adventures",
+            "sv-SE": "Iskallt äventyr",
+            "zh-CN": "冰冷冒险",
+            "pl-PL": "Lodowe przygody",
+            "gl-ES": "Aventuras xeadas"
+        },
+        "park_name": {
+            "ar-EG": "المغامرات الثلجية",
+            "ca-ES": "Aventures gèlides",
+            "de-DE": "Abenteuer im Eis",
+            "en-GB": "Icy Adventures",
+            "eo-ZZ": "Glaciaj Aventuroj",
+            "es-ES": "Aventuras heladas",
+            "fi-FI": "Jäinen seikkailu",
+            "fr-FR": "Aventures glacées",
+            "hu-HU": "Jeges Kalandok",
+            "it-IT": "Avventure fra i ghiacci",
+            "ja-JP": "氷の冒険",
+            "ko-KR": "얼음에 뒤덮인 모험",
+            "pt-BR": "Aventuras Geladas",
+            "ru-RU": "Icy Adventures",
+            "sv-SE": "Iskallt äventyr",
+            "zh-CN": "冰冷冒险",
+            "pl-PL": "Lodowe przygody",
+            "gl-ES": "Aventuras xeadas"
+        },
+        "details": {
+            "ar-EG": "لقد لجأت إليك وكالة البيئة لتحويل مصفاة نفط قديمة صديقة للبيئة إلى منطقة جذب سياحي كبرى. الأرض رخيصة لكن الفائدة على القرض مرتفعة. يمكنك بيع المباني القديمة من أجل بعض النقود.",
+            "ca-ES": "L’agència mediambiental us ha delegat la tasca de transformar aquesta monstruositat ecològica en forma de refineria de petroli en una atracció turística capdavantera. El terreny és barat però el tipus d’interès del préstec és alt. Podeu vendre els vells edificis per a treure’n profit.",
+            "cs-CZ": "Obrátili se na vás ochranáři životního prostředí s prosbou, abyste přeměnili neekologickou rafinerii na vysoce navštěvovanou turistickou destinací. Pozemky jsou levné, ale úrok z půjčky vysoký. Zkuste prodat staré budovy.",
+            "da-DK": "Miljøagenturet har henvendt sig til dig for at omdanne et gammelt olieraffinaderi økologisk ‘øjebæ’ til en top turistattraktion. Jord er billigt, men lånerenterne er høje. Du kan sælge de gamle bygninger til genanvendelse.",
+            "de-DE": "Sie sollen eine alte Ölraffinerie, die den Umweltschützern ein Dorn im Auge ist, in eine erstklassige Touristenattraktion verwandeln. Das Land ist günstig, doch die Darlehenszinsen sind hoch. Sie können aber die alten Gebäude verkaufen.",
+            "en-GB": "The environment agency has turned to you to transform an old oil refinery ecological eyesore into a top tourist attraction. Land is cheap but loan interest is high. You can sell the old buildings for salvage.",
+            "eo-ZZ": "La biomedia agentejo komisiis vin por transformi malnovan nafto-rafinejon, ekologian malbelaĵon, en supran turismo-vidindaĵon. Tereno estas malmultekosta sed pruntinterezo estas alta. Vi povas vendi la malnovajn konstruaĵojn por savado.",
+            "es-ES": "La agencia de medio ambiente recurre a ti para transformar una vieja refinería, en una atracción turística de primera. El terreno es barato, pero los intereses son elevados. Puedes vender los viejos edificios como chatarra.",
+            "fi-FI": "Ympäristövirasto on kääntynyt puoleesi jotta vanhan öljynjalostamon rumilus voitaisiin muuttaa huippuluokan matkailukohteeksi. Maa on halpaa mutta lainakorot pilvissä. Voit myydä vanhat rakennukset.",
+            "fr-FR": "L’agence pour l’environnement vous charge de transformer une vieille raffinerie de pétrole en attraction touristique de premier ordre. Le terrain n’est pas cher mais l’intérêt sur l’emprunt est élevé. Vous pouvez vendre les équipements.",
+            "hu-HU": "A környezetvédelmi ügynökség rád bízta, hogy egy ökológiára káros régi olajfinomítót alakíts át első osztályú turisztikai látványossággá. A föld olcsó, de a hitelkamatok magasak. Az öreg épületeket értékesítheted újrahasznosítási célokra.",
+            "it-IT": "L’agenzia dei servizi ambientali si è rivolta a te per trasformare una vecchia raffineria, vero pugno nell’occhio, in rinomata attrazione turistica. La terra costa poco ma l’interesse sui prestiti è alto. Puoi vendere i vecchi edifici.",
+            "ko-KR": "환경부에서 눈꼴사납고 낡은 정유 시설을 최고의 관광 명소로 만들어달라고 합니다. 땅값은 싸지만 대출 이자는 높습니다. 오래된 건물은 고철로 팔아 버릴 수 있습니다.",
+            "nb-NO": "Miljøbyrået har kontaktet deg for å få transformert et gammelt, stygt oljeraffineri til en populær turistattraksjon. Land er billig men lånerentene er høye. Du kan selge de gamle bygningene for å hjelpe med betalingen.",
+            "nl-NL": "De milieuorganisatie heeft je gevraagd om een lelijke oude olieraffinaderij om te vormen tot een toeristische trekpleister. Land is goedkoop maar de rente op leningen is hoog. Je kunt de oude gebouwen verkopen als schroot.",
+            "pl-PL": "Agencja ochrony środowiska skierowała Cię do przekształcenia starej rafinerii, będącej solą w oku ekologów, w czołową atrakcję turystyczną. Ziemia jest tania, lecz odsetki od kredytów wysokie. Możesz sprzedać stare budynki, aby powiększyć swoje fundusze.",
+            "pt-BR": "Ajude a agência de ambiente a transformar uma grande e velha refinaria ecológica de petróleo em atração turística de alto nível. Terrenos baratos, mas juros do empréstimo não. Pode-se vender os prédios velhos para melhorar a situação.",
+            "ru-RU": "Агентство по охране природы обратилось к вам, чтобы превратить мозолящую глаза нефтяную вышку в туристическое назначение. Земля недорога, но процент по кредитам высок. У вас есть возможность продать старые здания, чтобы подзаработать.",
+            "sv-SE": "En miljöorganisation har bett dig att bygga om ett gammalt, miljöfarligt oljeraffinaderi till en toppmodern turistattraktion. Marken är billig, men låneräntan är hög. Du kan dock sälja de gamla byggnaderna.",
+            "tr-TR": "Çevre koruma makamı size eski petrol rafinerisini görüntü kirliliği olduğundan dolayı yıkıp yerine güzel bir lunapark inşa etmenizi istedi. Arazi satın alma ucuz fakat kredi faizi çok yüksek",
+            "zh-CN": "环境署已经把你碍眼的旧炼油厂改造成顶级生态的旅游胜地。土地便宜但贷款利息高。你可以卖掉旧建筑来赚钱。",
+            "gl-ES": "A axencia de medio ambiente recorreu a vostede para transformar unha vella refinería de petróleo ecolóxica nunha atracción turística de primeira liña. A terra é barata pero o interese do préstamo é alto. Podes vender os antigos edificios para salvalos."
+        }
+    }
+}

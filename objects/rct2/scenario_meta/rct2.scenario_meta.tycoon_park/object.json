@@ -1,0 +1,57 @@
+{
+    "id": "rct2.scenario_meta.tycoon_park",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "حديقة تايكون",
+            "ca-ES": "Parc Tycoon",
+            "en-GB": "Tycoon Park",
+            "eo-ZZ": "Magnata Parko",
+            "es-ES": "Parque Tycoon",
+            "fi-FI": "Pohattapuisto",
+            "fr-FR": "Parc Tycoon",
+            "pt-BR": "Parque Tycoon",
+            "uk-UA": "Парк магнату",
+            "zh-CN": "大亨公园",
+            "pl-PL": "Park magnacki",
+            "gl-ES": "Parque Magnate"
+        },
+        "park_name": {
+            "ar-EG": "حديقة تايكون",
+            "ca-ES": "Parc Tycoon",
+            "en-GB": "Tycoon Park",
+            "eo-ZZ": "Magnata Parko",
+            "es-ES": "Parque Tycoon",
+            "fi-FI": "Pohattapuisto",
+            "fr-FR": "Parc Tycoon",
+            "ko-KR": "타이쿤 공원",
+            "pt-BR": "Parque Tycoon",
+            "uk-UA": "Парк магнату",
+            "zh-CN": "大亨公园",
+            "pl-PL": "Park magnacki",
+            "gl-ES": "Parque Magnate"
+        },
+        "details": {
+            "en-GB": ""
+        }
+    }
+}

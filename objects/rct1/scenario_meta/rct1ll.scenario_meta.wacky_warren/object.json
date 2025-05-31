@@ -1,0 +1,78 @@
+{
+    "id": "rct1ll.scenario_meta.wacky_warren",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB400A|STEX960 |0CEE036A",
+    "sourceGame": [
+        "rct1ll"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ca-ES": "Madrigueres boges",
+            "en-GB": "Wacky Warren",
+            "eo-ZZ": "Komika Kuniklejo",
+            "fi-FI": "Temmellystunneli",
+            "fr-FR": "Taupes Toquées",
+            "hu-HU": "Nyüzsgő Nyúlkert",
+            "ja-JP": "ウェッキー・ウォレン",
+            "pt-BR": "Tocas Malucas",
+            "zh-CN": "狡兔三窟",
+            "pl-PL": "Królicza Nora",
+            "gl-ES": "Val Aloucado",
+            "ar-EG": "وارن غريب الأطوار"
+        },
+        "park_name": {
+            "ca-ES": "Madrigueres boges",
+            "en-GB": "Wacky Warren",
+            "eo-ZZ": "Komika Kuniklejo",
+            "fi-FI": "Temmellystunneli",
+            "fr-FR": "Taupes Toquées",
+            "hu-HU": "Nyüzsgő Nyúlkert",
+            "ko-KR": "괴짜 미로",
+            "pt-BR": "Tocas Malucas",
+            "zh-CN": "狡兔三窟",
+            "pl-PL": "Królicza Nora",
+            "gl-ES": "Val Aloucado",
+            "ar-EG": "وارن غريب الأطوار"
+        },
+        "details": {
+            "ca-ES": "Un parc que té molts dels camins i muntanyes russes sota terra.",
+            "da-DK": "En park, der har mange af sine stier og rutchebaner under jorden",
+            "de-DE": "Ein Park, dessen Gehwege und Achterbahnen größtenteils unterirdisch angelegt sind.",
+            "en-GB": "A park which has much of its footpaths and coasters underground",
+            "eo-ZZ": "Parko, kiu havas plejparton da siaj trotuaroj kaj ondaj fervojoj subtere",
+            "es-ES": "Un parque que tiene gran parte de sus aceras y montañas rusas bajo tierra.",
+            "fi-FI": "Puisto, jossa suuri osa poluista ja vuoristoradoista on maan alla",
+            "fr-FR": "Un parc dont une bonne part des allées et des montagnes russes sont souterraines.",
+            "hu-HU": "Egy park, ahol az utak és hullámvasutak nagy része föld alatt van",
+            "it-IT": "Un parco che ha molti dei suoi sentieri e montagne russe sotterranee",
+            "ko-KR": "대부분의 보도와 롤러코스터가 지하에 있는 공원입니다.",
+            "nb-NO": "En park hvor de fleste gangstier og berg-og-dal-baner er under bakken",
+            "nl-NL": "Een park waarin de meeste voetpaden en achtbanen onder de grond liggen.",
+            "pl-PL": "Park ze sporą ilością podziemnych ścieżek i atrakcji",
+            "pt-BR": "Um parque que tem boa parte de seus caminhos e montanhas-russas subterrâneos.",
+            "sv-SE": "En park som har sina gångar och karuseller under jorden",
+            "tr-TR": "Yolları genelde yerin altında bulunan bir lunapark",
+            "zh-CN": "一个大多数人行道和过山车都在地下的公园",
+            "zh-TW": "一個擁有很多道路及雲霄飛車於地下的樂園",
+            "ru-RU": "Большая часть троп и аттракционов в этом парке расположены под землей",
+            "gl-ES": "Un parque no que moitos dos seus camiños e montañas rusas están baixo terra",
+            "ar-EG": "حديقة يوجد الكثير من ممراتها وأفعوانياتها تحت الأرض"
+        }
+    }
+}

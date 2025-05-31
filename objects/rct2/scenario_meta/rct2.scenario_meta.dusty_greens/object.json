@@ -1,0 +1,89 @@
+{
+    "id": "rct2.scenario_meta.dusty_greens",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "0A18808A|STEX22  |C4B067A4",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "الخضار المُغبر",
+            "ca-ES": "Verds polsosos",
+            "en-GB": "Dusty Greens",
+            "eo-ZZ": "Polvaj Verdejoj",
+            "es-ES": "Greens polvorientos",
+            "fi-FI": "Tomuviheriö",
+            "fr-FR": "Les Sables émouvants",
+            "hu-HU": "Poros Golfpálya ",
+            "it-IT": "Green polverosi",
+            "ja-JP": "ダスティ・グリーン",
+            "ko-KR": "먼지투성이 그린",
+            "pt-BR": "Gramados Solitários",
+            "sv-SE": "Dammiga greener",
+            "zh-CN": "沙尘绿地",
+            "zh-TW": "枯燥無味的草坪",
+            "pl-PL": "Zapiaszczone Dołki",
+            "gl-ES": "Verdes Polvorentos"
+        },
+        "park_name": {
+            "ar-EG": "الخضار المُغبر",
+            "ca-ES": "Verds polsosos",
+            "en-GB": "Dusty Greens",
+            "eo-ZZ": "Polvaj Verdejoj",
+            "es-ES": "Greens polvorientos",
+            "fi-FI": "Tomuviheriö",
+            "fr-FR": "Les Sables émouvants",
+            "hu-HU": "Poros Golfpálya",
+            "it-IT": "Green polverosi",
+            "ko-KR": "먼지투성이 그린",
+            "pt-BR": "Gramados Solitários",
+            "sv-SE": "Dammiga greener",
+            "zh-CN": "沙尘绿地",
+            "zh-TW": "枯燥無味的草坪",
+            "pl-PL": "Zapiaszczone Dołki",
+            "gl-ES": "Verdes Polvorentos"
+        },
+        "details": {
+            "ar-EG": "يقع الخضار المُغبر بالقرب من تقاطع طريق سريع في الصحراء، وهو فرصة لتطوير منتجع الغولف الصغير إلى حديقة ترفيهية مزدهرة",
+            "ca-ES": "Situat prop d’una sortida d’autopista al mig del desert, «Verds polsosos» és una oportunitat per tal de desenvolupar un petit complex amb un camp de golf i convertir-lo en un parc temàtic pròsper.",
+            "cs-CZ": "Poblíž pouštního dálničního křížení představuje Dusty Greens možnost přestavět malý golfový resort na vzkvétající zábavní park",
+            "da-DK": "Dusty Greens ligger i nærheden af et motorvejskryds i ørkenen, og har mulighed for at udvikle sig, fra et lille golfresort, til en blomstrende forlystelsespark",
+            "de-DE": "Dusty Greens liegt in der Nähe eines Autobahnkreuzes in der Wüste und bietet somit die Gelegenheit, einen kleinen Golfort in einen expandierenden Themenpark umzuwandeln",
+            "en-GB": "Situated near a highway junction in the desert, Dusty Greens is an opportunity to develop a small golf resort into a thriving theme park",
+            "eo-ZZ": "Troviĝas proksime de aŭtovojo en dezerto, Polvaj Verdejoj estas okazo por ellabori malgrandan golfejon en prosperan amuzparkon",
+            "es-ES": "Situado cerca de una unión de autopistas en el desierto, los Greens polvorientos es una oportunidad para llevar a un pequeño complejo de Golf a un pujante parque temático.",
+            "fi-FI": "Aavikon maantien risteyksen vieressä oleva Tomuviheriö on loistava tilaisuus muuntaa pieni golf-keskus kukoistavaksi huvipuistoksi",
+            "fr-FR": "Transformez ce parcours de golf, situé près d’une autoroute en plein milieu du désert, en un parc à thème enthousiasmant.",
+            "hu-HU": "A sivatagban, egy autópálya-csomópont közelében található Poros Golfpálya lehetőséget kínál egy kis golfüdülő virágzó vidámparkká fejlesztésére",
+            "it-IT": "Situato vicino a un’uscita autostradale nel deserto, Green polverosi è un’ottima opportunità per trasformare un piccolo club di golf in un eccitante parco a tema",
+            "ja-JP": "砂漠の中の、高速道路のジャンクションに近いダスティ・グリーンゴルフ場。ここを、人気遊園地にすることができますか",
+            "ko-KR": "사막의 고속도로 교차로 근처에 있는 먼지투성이 그린을 작은 골프 리조트에서 번화한 놀이공원으로 개발할 기회가 생겼습니다.",
+            "nb-NO": "Plassert nær et motorveikryss i ørkenen, er Dusty Greens en mulighet til å utvikle en liten golfbane til en blomstrende fornøyelsespark",
+            "nl-NL": "Dusty Greens ligt aan een snelwegknooppunt in de woestijn. Het is een gelegenheid om van een kleine golfbaan een succesvol themapark te maken.",
+            "pl-PL": "Masz sposobność przekształcić Zapiaszczone Dołki - niewielki klub golfowy znajdujący się przy skrzyżowaniu autostrad - w kwitnący lunapark",
+            "pt-BR": "Situado perto de uma junção de rodovias no deserto, Gramados Solitários é uma oportunidade para desenvolver um pequeno resort de golfe em um próspero parque temático",
+            "ru-RU": "Небольшой гольф-курорт Dusty Greens расположен на перекрёстке шоссе в пустыне. У вас есть возможность превратить его в успешный парк",
+            "sv-SE": "Beläget nära motorvägspåfarten i öknen, är Dusty Greens en möjlighet att utveckla en liten golfort till en blomstrande temapark",
+            "tr-TR": "Bir karayolunun yakınındaki bu golf tesisini lunaparka dönüştürünüz",
+            "zh-CN": "位于沙漠附近的一个公路交界处，是时候把沙尘绿地这个小高尔夫度假村发展成为一个繁荣的主题公园了",
+            "zh-TW": "在沙漠的高速公路連結附近有一片枯燥無味的草坪,是一個將小型高爾夫勝地轉變為成功主題樂園的發展機會",
+            "gl-ES": "Situado preto dunha intersección de autoestrada no deserto, Verdes Polvorentos é unha oportunidade para desenvolver un pequeno complexo turistico de golf nun próspero parque temático"
+        }
+    }
+}

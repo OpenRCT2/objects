@@ -1,0 +1,32 @@
+{
+    "id": "rct1dlc.scenario_meta.suspended_roller_coaster_competition",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": "official",
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Suspended Roller Coaster Competition"
+        },
+        "park_name": {
+            "en-GB": "Competition Land"
+        },
+        "details": {
+            "en-GB": ""
+        }
+    }
+}
