@@ -1,0 +1,72 @@
+{
+    "id": "rct2tt.scenario_meta.alcatraz",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "originalId": "0E43032A|STEX74  |E69F4E66",
+    "sourceGame": [
+        "rct2tt"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "ألكتراز",
+            "en-GB": "Alcatraz",
+            "eo-ZZ": "Alkatrazo",
+            "ja-JP": "アルカトラズ",
+            "ko-KR": "앨커트래즈",
+            "ru-RU": "Alcatraz",
+            "zh-CN": "恶魔岛",
+            "zh-TW": "惡魔島"
+        },
+        "park_name": {
+            "ar-EG": "ألكتراز",
+            "en-GB": "Alcatraz",
+            "eo-ZZ": "Alkatrazo",
+            "ja-JP": "アルカトラズ",
+            "ko-KR": "앨커트래즈",
+            "ru-RU": "Alcatraz",
+            "zh-CN": "恶魔岛",
+            "zh-TW": "惡魔島"
+        },
+        "details": {
+            "ar-EG": "جزيرة السجن سيئة السمعة - التي زاد عدد سكانها ذات يوم بالمهربين والمبتزين - معروضة للبيع الآن. لقد قررت تحويلها إلى منطقة جذب سياحي كبرى، والمال ليس مُعضلة",
+            "ca-ES": "La infame Illa Presó, la població de la qual fa molt temps creixia gràcies a contrabandistes i estafadors, està en venda. Heu decidit convertir-la en una atracció turística de primer ordre, i no us preocupeu pels diners.",
+            "cs-CZ": "Nechvalně proslavená ostrovní věznice - jejíž populace jednou překypovala pašeráky a vyděrači - je nyní na prodej. Rozhodli jste se jí přetvořit na velkou turistickou atrakci - na peníze berte ohled!",
+            "da-DK": "Den berygtede Prison Island - hvis befolkning engang husede organiseret kriminalitet og hjemmebrændere - er nu til salg. Du har besluttet at konvertere det til en top turistattraktion, og penge er ikke noget problem.",
+            "de-DE": "Die berüchtigte Gefängnisinsel - die einst überquoll vor Schwarzhändlern und Gaunern - steht jetzt zum Verkauf. Sie haben beschlossen, sie in eine 1A-Touristenattraktion zu verwandeln. Geld spielt keine Rolle",
+            "en-GB": "The infamous Prison Island - whose population once swelled with bootleggers and racketeers - is now up for sale. You’ve decided to convert it into a top tourist attraction, and money is no object",
+            "en-US": "The infamous Prison Island - whose population once swelled with bootleggers and racketeers - is now up for sale. You’ve decided to convert it into a top tourist attraction, and money is no object.",
+            "eo-ZZ": "La fifama Mallibereja Insulo - kies loĝantaro iam ŝveliĝis per piratistoj kaj eldevigantoj - nun estas aĉetebla. Vi decidis transformi ĝin en supran turisman vidindaĵon, kaj mono estas neniu problemo.",
+            "es-ES": "La infame isla prisión, antes habitada por contrabandistas y estafadores, ahora está a la venta. Has decidido convertirla en una atracción turística de primer orden ¡y el dinero no es un problema",
+            "fi-FI": "Surullisenkuuluisa Vankisaari - joka oli muinoin tupaten täynnä trokareita ja gangstereita - on nyt myynnissä. Olet päättänyt muodostaa siitä korkean luokan matkailukohteen, eikä rahalla ole niinkään väliä.",
+            "fr-FR": "La fameuse prison, autrefois remplie de trafiquants et de racketteurs, est aujourd’hui à vendre. Vous avez décidé de la transformer en attraction touristique, sans restriction financière.",
+            "hu-HU": "A hírhedt börtönsziget - amelynek lakossága egykor szeszcsempészektől és zsarolóktól duzzadt - most eladó. Úgy döntöttél, hogy turisztikai látványossággá alakítod át, és a pénz nem számít.",
+            "it-IT": "L’infame isola carceraria, la cui popolazione un tempo si dedicava al contrabbando e alle attività illecite, è in vendita. Hai deciso di trasformarla in un’importante attrazione turistica e il denaro non è un problema.",
+            "ko-KR": "주류 밀매자와 폭력범으로 득실대던 악명 높은 감옥 섬이 경매에 부쳐졌습니다. 이곳을 최고의 관광지로 바꾸기로 한 당신에게 돈은 신경 쓸 필요가 없네요.",
+            "nb-NO": "Den berømte fengselsøya - som en gang huset smuglere og andre kriminelle - er nå til salgs. Du har bestemt deg for å konvertere den til en populær turist-attraksjon, og penger er ikke noe problem",
+            "nl-NL": "Het beruchte gevangeniseiland, dat ooit volzat met illegale drankstokers en gangsters, is nu te koop. Je hebt besloten het te veranderen in een toeristentrekpleister. Geld speelt geen rol!",
+            "pl-PL": "Niesławna wyspa więzienna, której ludność składała się niegdyś z przemytników i bandytów, jest na sprzedaż. Postanawiasz przekształcić ją w niesamowitą atrakcję turystyczną - pieniądze nie grają roli.",
+            "pt-BR": "A infame Ilha da Prisão - cuja população uma vez inchou com contrabandistas e estragos - agora está à venda. Você decidiu convertê-la em uma atração turística de alto nível, e dinheiro não é o problema.",
+            "ru-RU": "Печально известный Тюремный Остров, переполненный преступниками, был выставлен на продажу. Вы решили превратить его в туристический рай, и деньги для вас - не проблема",
+            "sv-SE": "Den ökända fängelseön, vars befolkning en gång i tiden utgjordes av smugglare och gangsters, är till salu. Du har bestämt dig för att förvandla den till en förstklassig turistattraktion. Pengar är inget hinder.",
+            "tr-TR": "ABD’nin meşhur hapishanesini satın aldınız ve burayı güzel bir lunaparka çevirmeye karar verdiniz. Paranız sınırsızdır",
+            "zh-CN": "臭名昭著的监狱岛的人口曾经充满了走私犯和诈骗犯——现在出售。你已经决定把它变成一个顶级的旅游景点，钱是没有对象",
+            "zh-TW": "惡名昭彰的監獄島-島上居名曾以販賣私酒者或騙徒為主-現在正待價而沽中。您決定要將這個小島轉變為觀光勝地,錢不是問題",
+            "gl-ES": "A infame illa-prisión, cuxo poboado unha vez se viu incrementado por contrabandistas e extorsionadores, está agora á venda. Decidiches convertela nunha das principais atraccións turísticas, e o diñeiro non é un problema"
+        }
+    }
+}

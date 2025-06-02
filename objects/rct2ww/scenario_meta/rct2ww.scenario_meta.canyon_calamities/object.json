@@ -1,0 +1,91 @@
+{
+    "id": "rct2ww.scenario_meta.canyon_calamities",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "originalId": "0CCEA11A|STEX59  |21115176",
+    "sourceGame": [
+        "rct2ww"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "أحداث الوادي",
+            "ca-ES": "Calamitats del Canyó",
+            "de-DE": "Canyon-Katastrophen",
+            "en-GB": "Canyon Calamities",
+            "eo-ZZ": "Kanjono-Katastrofoj",
+            "es-ES": "Calamidades en el cañon",
+            "fi-FI": "Kanjonikepposet",
+            "fr-FR": "Pas de faille possible",
+            "hu-HU": "Kanyon Kalamajkák",
+            "it-IT": "Calamità nel canyon",
+            "ja-JP": "キャニオン・カラミティー",
+            "ko-KR": "불행의 계곡",
+            "pt-BR": "Calamidades do Canyon",
+            "ru-RU": "Canyon Calamities",
+            "sv-SE": "Trubbel i Canyon",
+            "zh-CN": "峡谷浩劫",
+            "pl-PL": "Katastrofalny kanion",
+            "gl-ES": "Calamidade no canón"
+        },
+        "park_name": {
+            "ar-EG": "أحداث الوادي",
+            "ca-ES": "Calamitats del Canyó",
+            "de-DE": "Canyon-Katastrophen",
+            "en-GB": "Canyon Calamities",
+            "eo-ZZ": "Kanjono-Katastrofoj",
+            "es-ES": "Calamidades en el cañon",
+            "fi-FI": "Kanjonikepposet",
+            "fr-FR": "Pas de faille possible",
+            "hu-HU": "Kanyon Kalamajkák",
+            "it-IT": "Calamità nel canyon",
+            "ja-JP": "キャニオン・カラミティー",
+            "ko-KR": "불행의 계곡",
+            "pt-BR": "Calamidades do Canyon",
+            "ru-RU": "Canyon Calamities",
+            "sv-SE": "Trubbel i Canyon",
+            "zh-CN": "峡谷浩劫",
+            "pl-PL": "Katastrofalny kanion",
+            "gl-ES": "Calamidade no canón"
+        },
+        "details": {
+            "ar-EG": "عليك بناء حديقة على أرض محدودة على جانبي هذا الكنز الطبيعي - لديك الفرصة لشراء الأراضي المجاورة من الهنود الأمريكيين الأصليين. تحتاج إلى إكمال الهدف للحفاظ على سكان المدينة المحلية.",
+            "ca-ES": "Heu de construir un parc en el terreny limitat en les dues bandes d’aquest tresor natural. Teniu l’oportunitat de comprar terrenys adjacents dels nadius indis americans. Heu de completar l’objectiu per a alimentar els habitants de la població local.",
+            "cs-CZ": "Omezený terén vás nutí vybudovat zábavní park po stranách národní památky. Můžete ale od Indiánů nakupovat pozemky. Abyste si udrželi hodnocení místní správy, splňte cíl!",
+            "da-DK": "Du er nødt til at bygge en park på begrænset jord, på hver side af denne naturlige skat - du har mulighed for at købe nabojord fra indianerne. Du er nødt til at fuldføre målet om at opretholde den lokale bys befolkning.",
+            "de-DE": "Sie müssen neben diesem Naturwunder einen Vergnügungspark errichten. Es herrscht Platzmangel, Sie können aber Land von den Indianern kaufen. Haben Sie Erfolg, sichern Sie damit der örtlichen Bevölkerung den Lebensunterhalt.",
+            "en-GB": "You have to build a park on limited land either side of this natural treasure - you do have the opportunity to buy neighbouring land from the Native American Indians. You need to complete the objective to sustain the local town’s population.",
+            "en-US": "You have to build a park on limited land either side of this natural treasure - you do have the opportunity to buy neighboring land from the Native American Indians. You need to complete the objective to sustain the local town’s population.",
+            "eo-ZZ": "Vi devas konstrui parkon sur limigita tereno ambaŭflanke de ĉi tiu natura trezoro - vi havas la oportunecon por aĉeti najbaran terenon de la Indiĝenaj Amerikanoj. Vi devas kompletigi la celon por daŭrigi la loĝantaron de la loka vilaĝo.",
+            "es-ES": "Debes construir un parque en el terreno que hay a ambos lados de este tesoro natural, aunque tienes la oportunidad de comprar las tierras vecinas a los indios nativos americanos. Tendrás que cumplir el objetivo de mantener a la población …",
+            "fi-FI": "Sinun tulee rakentaa puisto rajallisen kokoiselle alueelle tämän luonnon arteen molemmin puolin. Voit ostaa lisää tilaa naapurissa olevalta alkuperäiskansalta. Tavoitteen saavutus takaa paikalliskylän selviytymisen.",
+            "fr-FR": "Vous devez construire un parc à étendue limitée de chaque côté de ce cadeau de la nature. Vous pouvez acheter les terres avoisinantes aux Indiens locaux. Vous devez remplir cet objectif pour maintenir le nombre d’habitants dans la ville.",
+            "hu-HU": "Egy parkot kell építened a természeti kincs mindkét oldalán, de korlátozott a rendelkezésre álló terület - lehetőséged van a szomszédos területek megvásárlására az őslakos amerikai indiánoktól. El kell érned a célt, hogy fenntartsd a helyi város lakosságát.",
+            "it-IT": "Devi costruire un parco ai due lati di questa meraviglia naturale. Hai dei limiti di spazio da rispettare, ma potrai acquistare terreno dagli indiani locali. Dovrai raggiungere l’obiettivo per sostenere la popolazione locale.",
+            "ko-KR": "이 아름답지만 제한적인 공간에 공원을 만들어야 합니다. 미국 원주민에게서 반대편 땅을 살 수 있습니다. 줄어들고 있는 마을 인구를 유지하기 위해서라도 목표를 달성해야 합니다.",
+            "nb-NO": "Du må bygge en park på et begrenset område på hver side av denne naturlige skjønnheten - du har muligheten til å kjøpe land fra de innfødte Amerikanske Indianerne. Du trenger å fullføre oppdraget for å opprettholde den lokale landsbyens befolkning.",
+            "nl-NL": "Je moet een park bouwen op de beperkte ruimte aan weerszijden van dit natuurschoon. Hierbij heb je de mogelijkheid om land te kopen van de indianen.",
+            "pl-PL": "Twoim celem jest wybudowanie lunaparku na ograniczonym terenie znajdującym się na jednym z brzegów tego przyrodniczego cudu. Będziesz mógł kupować ziemię od Indian. Musisz osiągnąć swój cel, aby zapewnić utrzymanie mieszkańcom pobliskiego miasteczka.",
+            "pt-BR": "Você tem que construir um parque num terreno limitado nos dois lados desse tesouro natural - tenha a oportunidade de comprar terrenos vizinhos dos Índios Nativos Americanos. Você precisa completar o objetivo para suprir a população da cidade local.",
+            "ru-RU": "Вы должны построить парк на двух участках земли, лежащих по обе стороны природного сокровища. У вас будет возможность купить близлежащую землю у коренного населения. Достигните своей цели, чтобы поддержать жизнь в местном городе.",
+            "sv-SE": "Du måste bygga ett nöjesfält på ett begränsat område på båda sidor om detta naturfenomen. Du har möjlighet att köpa upp angränsande land från urbefolkningen. Målet med bygget är att bibehålla den lokala befolkningssiffran.",
+            "tr-TR": "Bu doğal hazinenin her iki tarafında sınırlı bir alanda bir park inşa etmelisiniz. - Yerli Kızılderililerden toprak satın alma imkânınız var. Yerel kasabanın nüfusunu sürdürmek için hedefi tamamlamanız gerekiyor.",
+            "zh-CN": "你必须在有限的土地上建立一个游乐园，这里有自然财富——从美洲印第安人那里有机会购买邻近的土地。维持当地城镇的人口是你需要完成的目标。",
+            "gl-ES": "Tes que construír un parque en terreos limitados a cada lado deste tesouro natural; tes a oportunidade de mercar terras veciñas aos indios nativos americanos. Debes completar o obxectivo de manter a poboación da cidade local."
+        }
+    }
+}

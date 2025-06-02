@@ -1,0 +1,78 @@
+{
+    "id": "rct1ll.scenario_meta.dragons_cove",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB400A|STEX958 |7AE31988",
+    "sourceGame": [
+        "rct1ll"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ca-ES": "La cova del drac",
+            "en-GB": "Dragon’s Cove",
+            "eo-ZZ": "Golfeto de Drako",
+            "fi-FI": "Lohikäärmelahti",
+            "fr-FR": "Crique du Dragon",
+            "hu-HU": "Sárkány-öböl",
+            "ja-JP": "ドラゴンス・コーブ",
+            "pt-BR": "Enseada do Dragão",
+            "zh-CN": "卧龙湾",
+            "pl-PL": "Smocza Zatoka",
+            "gl-ES": "Cova do Dragón",
+            "ar-EG": "خليج التنين"
+        },
+        "park_name": {
+            "ca-ES": "La cova del drac",
+            "en-GB": "Dragon’s Cove",
+            "eo-ZZ": "Golfeto de Drako",
+            "fi-FI": "Lohikäärmelahti",
+            "fr-FR": "Crique du Dragon",
+            "hu-HU": "Sárkány-öböl",
+            "ko-KR": "용의 만",
+            "pt-BR": "Enseada do Dragão",
+            "zh-CN": "卧龙湾",
+            "pl-PL": "Smocza Zatoka",
+            "gl-ES": "Cova do Dragón",
+            "ar-EG": "خليج التنين"
+        },
+        "details": {
+            "ca-ES": "Aquesta cova al costat del mar és el lloc d’aquest repte de construcció de muntanyes russes.",
+            "da-DK": "Denne bugt ved havet udgør rammen om denne coaster-bygning udfordring",
+            "de-DE": "Eine Meeresbucht ist der Rahmen für dieses anspruchsvolle Achterbahn-Bauvorhaben.",
+            "en-GB": "This sea-side cove is the setting for this coaster-building challenge",
+            "eo-ZZ": "Apudmara golfeto estas la okazejo de ĉi tiu defio de la konstruado de ondaj fervojoj",
+            "es-ES": "Una cala frente al mar es el entorno para este proyecto de montaña rusa en construcción.",
+            "fi-FI": "Tämä merenrannan lahti on tämän vuoristoratahaasteen sijaintina",
+            "fr-FR": "Ce défi à la construction de montagnes russes a pour site une crique sur la côte.",
+            "hu-HU": "Ez a tengerparti öböl a helyszíne ennek a hullámvasút-építő kihívásnak",
+            "it-IT": "Questa baia sul mare rappresenta la cornice di questa sfida per la costruzione di montagne",
+            "ko-KR": "이번 롤러코스터 건설 도전에서는 바닷가 근처의 만이 무대가 됩니다.",
+            "nb-NO": "Bygg derg-og-dal-baner i denne bukta",
+            "nl-NL": "Deze baai vormt de achtergrond van deze achtbaanuitdaging.",
+            "pl-PL": "Ta nadmorska zatoka jest lokalizacją dla tego wyzwania w budowaniu kolejek górskich",
+            "pt-BR": "Esta enseada à beira-mar é o ambiente para este desafio de construção de montanha-russa.",
+            "sv-SE": "Denna havsvik är grunden för denna berg- och dalbaneutmaning",
+            "tr-TR": "Bu dağlık alan alet inşasını zorlaştırıyor",
+            "zh-CN": "这个海湾就是过山车建造挑战的背景",
+            "zh-TW": "此建造雲霄飛車挑戰設定於一個處於海邊的洞穴之中",
+            "ru-RU": "Эта морская бухта бросает вам вызов: постройте здесь парк",
+            "gl-ES": "Esta cala ao borde do mar é o escenario deste desafío de construcción de montañas rusas",
+            "ar-EG": "هذا الخليج الساحلي هو مكان تحدي بناء الأفعوانيات هذا"
+        }
+    }
+}

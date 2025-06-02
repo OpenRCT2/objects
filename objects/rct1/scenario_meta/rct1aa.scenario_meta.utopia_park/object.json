@@ -1,0 +1,75 @@
+{
+    "id": "rct1aa.scenario_meta.utopia_park",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB400A|STEX942 |BA5E6EA8",
+    "sourceGame": [
+        "rct1aa"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "حديقة يوتوبيا",
+            "ca-ES": "Parc Utopia",
+            "en-GB": "Utopia Park",
+            "eo-ZZ": "Utopio-Parko",
+            "fi-FI": "Utopiapuisto",
+            "fr-FR": "Utopia",
+            "hu-HU": "Utópia Park",
+            "ja-JP": "ユートピア・パーク",
+            "pt-BR": "Parque Utopia",
+            "zh-CN": "乌托邦公园",
+            "pl-PL": "Utopia",
+            "gl-ES": "Parque Utopía"
+        },
+        "park_name": {
+            "ar-EG": "يوتوبيا",
+            "ca-ES": "Parc Utopia",
+            "da-DK": "Utopia Park",
+            "en-GB": "Utopia",
+            "eo-ZZ": "Utopio",
+            "hu-HU": "Utópia Park",
+            "ko-KR": "유토피아 공원",
+            "tr-TR": "Utopia Park",
+            "zh-CN": "乌托邦"
+        },
+        "details": {
+            "ar-EG": "واحة في وسط الصحراء تُعطي فرصة غير عادية لبناء حديقة ترفيهية",
+            "ca-ES": "Un oasi al mig del desert ofereix una oportunitat poc usual per a construir un parc d’atraccions.",
+            "da-DK": "En oase midt i ørkenen giver en usædvanlig mulighed for at bygge en forlystelsespark",
+            "de-DE": "Eine Oase inmitten der Wüste ist sicher eine ungewöhnliche Herausforderung für Planer eines Vergnügungsparks.",
+            "en-GB": "An oasis in the middle of the desert provides an unusual opportunity to build an amusement park",
+            "eo-ZZ": "Oazo en la mezo de la dezerto provizas nekutiman okazon por konstrui amuzparkon",
+            "es-ES": "El oasis situado en el centro del parque constituye una oportunidad única para construir un parque de atracciones.",
+            "fi-FI": "Aavikon keskellä tämä keidas tarjoaa erikoisen tilaisuuden rakentaa huvipuisto",
+            "fr-FR": "Une oasis en plein cœur d’un désert constitue une idée de parc originale.",
+            "hu-HU": "A sivatag közepén elterülő oázis kivételes lehetőséget kínál vidámpark építésére",
+            "it-IT": "Un’oasi nel mezzo del deserto offre un’opportunità unica per costruire un parco a tema",
+            "ko-KR": "사막 한가운데의 오아시스에 놀이공원을 건설해보세요.",
+            "nb-NO": "En oase midt i ørkenen byr på en uvanlig mulighet for en fornøyelsespark",
+            "nl-NL": "Een oase midden in de woestijn vormt een ongebruikelijke gelegenheid tot het bouwen van een pretpark.",
+            "pl-PL": "Oaza w środku pustyni zapewnia niezwykłą okazję do zbudowania wesołego miasteczka",
+            "pt-BR": "Um oásis no meio de um deserto fornece uma oportunidade incomum de construir um parque de diversões.",
+            "sv-SE": "En oas i mitten av öknen skapar en ovanlig chans till att bygga en nöjespark",
+            "tr-TR": "Bir çölün ortasında bulunan vahanın etrafına bir lunapark inşa ediniz",
+            "zh-CN": "沙漠中的绿洲为建造游乐园提供了难得的机会",
+            "zh-TW": "一個沙漠中的綠洲帶來了一個非比尋常的機會去建造一個主題樂園",
+            "ru-RU": "Оазис в середине пустыни - необычная возможность построить парк",
+            "gl-ES": "Un oasis no medio do deserto ofrece unha oportunidade inusual para construír un parque de atraccións"
+        }
+    }
+}

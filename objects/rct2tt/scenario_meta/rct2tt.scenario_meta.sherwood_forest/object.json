@@ -1,0 +1,91 @@
+{
+    "id": "rct2tt.scenario_meta.sherwood_forest",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "originalId": "0E43032A|STEX73  |9A3040F8",
+    "sourceGame": [
+        "rct2tt"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "غابة شيروود",
+            "ca-ES": "El bosc de Sherwood",
+            "en-GB": "Sherwood Forest",
+            "eo-ZZ": "Arbaro Sherwood",
+            "es-ES": "El bosque de Sherwood",
+            "fi-FI": "Sherwoodin metsä",
+            "fr-FR": "Forêt de Sherwood",
+            "hu-HU": "Sherwoodi Erdő",
+            "it-IT": "Foresta di Sherwood",
+            "ja-JP": "シャーウッドの森",
+            "ko-KR": "셔우드 숲",
+            "pt-BR": "Floresta de Sherwood",
+            "ru-RU": "Sherwood Forest",
+            "sv-SE": "Sherwoodskogen",
+            "zh-CN": "舍伍德森林",
+            "zh-TW": "舍伍德森林",
+            "pl-PL": "Las Sherwood",
+            "gl-ES": "Fraga de Sherwood"
+        },
+        "park_name": {
+            "ar-EG": "غابة شيروود",
+            "ca-ES": "El bosc de Sherwood",
+            "en-GB": "Sherwood Forest",
+            "eo-ZZ": "Arbaro Sherwood",
+            "es-ES": "El bosque de Sherwood",
+            "fi-FI": "Sherwoodin metsä",
+            "fr-FR": "Forêt de Sherwood",
+            "hu-HU": "Sherwoodi Erdő",
+            "it-IT": "Foresta di Sherwood",
+            "ja-JP": "シャーウッドの森",
+            "ko-KR": "셔우드 숲",
+            "pt-BR": "Floresta de Sherwood",
+            "ru-RU": "Sherwood Forest",
+            "sv-SE": "Sherwoodskogen",
+            "zh-CN": "舍伍德森林",
+            "zh-TW": "舍伍德森林",
+            "pl-PL": "Las Sherwood",
+            "gl-ES": "Fraga de Sherwood"
+        },
+        "details": {
+            "ar-EG": "لتحرير الثروة من الأثرياء وتوزيعها على المحتاجين، قررت أنت ورجالك التابعين بناء مدينة ملاهي في غابة شيروود.",
+            "ca-ES": "Amb la intenció de robar als rics i repartir el que aconseguiu entre els pobres, heu decidit que, amb l’ajuda dels vostres «homes feliços», construireu un parc temàtic al bosc de Sherwood.",
+            "cs-CZ": "Abyste mohli brát bohatým a dávat chudým, rozhodli jste se postavit zábavní park v Sherwood Forest.",
+            "da-DK": "For at befri rigdom fra de rige og distribuere den til de trængende, har du og dine lystige svende besluttet at bygge en forlystelsespark i Sherwood Skoven.",
+            "de-DE": "Um die Reichen finanziell zu erleichtern und das Geld den Bedürftigen zukommen zu lassen, haben Sie und Ihre Gespielen beschlossen, im Sherwood Forest einen Freizeitpark zu bauen.",
+            "en-GB": "To liberate wealth from the rich and distribute it to the needy, you and your Merry Men have decided to build a theme park in Sherwood Forest.",
+            "eo-ZZ": "Por liberigi la riĉaĵon de riĉuloj kaj disdoni ĝin al senhavuloj, vi kaj viaj Gajaj Viroj decidis konstrui amuzparkon en Arbaro Sherwood.",
+            "es-ES": "Para quitarles el dinero a los ricos y dárselo a los pobres, tus alegres compañeros y tú habéis decidido construir un parque temático en el bosque de Sherwood.",
+            "fi-FI": "Vapauttaaksesi rahat rikkailta ja jakaaksesi ne köyhille, sinä ja iloiset veikkosi olette päättäneet rakentaa huvipuiston Sherwoodin metsään.",
+            "fr-FR": "Pour voler l’argent des riches et le donner aux pauvres, vos joyeux compères et vous-même avez décidé de construire un parc dans la forêt de Sherwood.",
+            "hu-HU": "Hogy a gazdagoktól elvegyétek a vagyonukat és szétosszátok az elesettek között, te és a Vidám Fiúk úgy döntöttetek, hogy vidámparkot építetek Sherwood erdejében.",
+            "it-IT": "Per sottrarre i beni ai ricchi e donarli ai poveri, tu e i tuoi uomini avete deciso di costruire un parco a tema nella Foresta di Sherwood.",
+            "ko-KR": "부자들의 재산을 빼앗아 필요한 사람들에게 나누어주기 위해서 당신과 수하들은 셔우드 숲에 놀이공원을 만들기로 결정했습니다.",
+            "nb-NO": "Å ta fra de rike og gi til de fattige, du og dine Glade Menn har bestemt dere for å bygge en fornøyelsespark i Sherwood Forest.",
+            "nl-NL": "Om geld van de rijken naar de armen te brengen hebben jij en je Merry Men besloten een themapark te bouwen in Sherwood Forest.",
+            "pl-PL": "Aby uwolnić bogatych od bogactwa i rozdać go biednym, wraz ze swą bandą wesołych ludzi z lasu planujesz wybudować park tematyczny w lesie Sherwood.",
+            "pt-BR": "Para liberar a riqueza dos ricos e distribuir para os necessitados, você e seus seguidores decidiram construir um parque temático na Floresta de Sherwood.",
+            "ru-RU": "Чтобы отобрать деньги у богатых и отдать их беднякам, вы и ваши друзья-разбойники решили построить парк развлечений в Шервудском Лесу.",
+            "sv-SE": "För att kunna stjäla mer från de rika och ge till de fattiga har du och dina män bestämt er för att bygga ett nöjesfält i Sherwoodskogen.",
+            "tr-TR": "Zenginlerden para kırpıp ve muhtaçlara dağıtmak için, siz ve ‘Mutlu Adamlarınız’ Sherwood Ormanı’nda bir lunapark kurmaya karar verdiniz",
+            "zh-CN": "为了把财富从富人中解放出来并分发给有需要的人，你和你的快乐的人决定在舍伍德森林里建立一个主题公园。",
+            "zh-TW": "為了劫富濟貧,您與您的伙伴們決定要在舍伍德森林中建造一座主題樂園。",
+            "gl-ES": "Para liberar a riqueza dos ricos e distribuíla entre os necesitados, ti e os teus Alegres Compañeiros decidistes construír un parque temático na Fraga de Sherwood."
+        }
+    }
+}

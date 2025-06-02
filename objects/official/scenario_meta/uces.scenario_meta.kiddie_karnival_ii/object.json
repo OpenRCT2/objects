@@ -1,0 +1,74 @@
+{
+    "id": "uces.scenario_meta.kiddie_karnival_ii",
+    "authors": [
+        "Piehead",
+        "Fossil"
+    ],
+    "version": "1.0",
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "كرنفال الأطفال 2",
+            "ca-ES": "Carnaval infantil II",
+            "en-GB": "Kiddie Karnival II",
+            "eo-ZZ": "Infana Karnavalo 2",
+            "es-ES": "Carnaval Infantil II",
+            "fi-FI": "Kakarakarnevaali II",
+            "fr-FR": "Carnaval des enfants II",
+            "hu-HU": "Kölyökkarnevál II",
+            "uk-UA": "Дитячий карнавал II",
+            "zh-CN": "基迪嘉年华2",
+            "pl-PL": "Karnawał Maluchów II",
+            "gl-ES": "Entroido infantil II"
+        },
+        "park_name": {
+            "ar-EG": "كرنفال الأطفال",
+            "ca-ES": "Carnaval infantil",
+            "en-GB": "Kiddie Karnival",
+            "eo-ZZ": "Infana Karnavalo",
+            "es-ES": "Carnaval Infantil",
+            "fi-FI": "Kakarakarnevaali",
+            "fr-FR": "Carnaval des enfants",
+            "hu-HU": "Kölyökkarnevál",
+            "ko-KR": "어린이 카니발",
+            "uk-UA": "Дитячий карнавал",
+            "zh-CN": "基迪嘉年华",
+            "pl-PL": "Karnawał Maluchów",
+            "gl-ES": "Entroido infantil"
+        },
+        "details": {
+            "ar-EG": "يا أطفال! هيا نمرح!",
+            "ca-ES": "Ei, nens! Divertiu-vos!",
+            "da-DK": "Hej Unger, Lad os have det sjovt!",
+            "de-DE": "Hallo Kinder! Lasst uns Spaß haben!",
+            "en-GB": "Hey kids! Let’s have fun!",
+            "eo-ZZ": "He infanoj! Ni amuziĝu!",
+            "es-ES": "¡Hey, chavales! ¡Vamos a divertirnos!",
+            "fi-FI": "Hei muksut! Pidetään hauskaa!",
+            "fr-FR": "Eh les enfants ! Amusons-nous !",
+            "hu-HU": "Hé, gyerekek! Érezzük jól magunkat!",
+            "it-IT": "Ehi bambini! Divertiamoci!",
+            "ko-KR": "어린이 여러분! 같이 신나게 놀아봐요!",
+            "nb-NO": "Hei unger! La oss ha det gøy!",
+            "nl-NL": "Tijd om de kleintjes te vermaken!",
+            "pt-BR": "Ei crianças! Vamos nos divertir!",
+            "uk-UA": "Привіт, дітки! Нумо розважатися!",
+            "zh-CN": "嘿，孩子们！玩的开心！",
+            "pl-PL": "Hej dzieciaki! Bawmy się!",
+            "ru-RU": "Эй, детишки! Веселитесь!",
+            "gl-ES": "Ola nenos! Imos divertirnos!"
+        }
+    }
+}

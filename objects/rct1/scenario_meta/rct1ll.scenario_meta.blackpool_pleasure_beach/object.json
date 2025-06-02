@@ -1,0 +1,46 @@
+{
+    "id": "rct1ll.scenario_meta.blackpool_pleasure_beach",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct1ll"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "بلاكبول شاطئ المتعة",
+            "ca-ES": "Blackpool Pleasure Beach (Regne Unit)",
+            "en-GB": "Blackpool Pleasure Beach",
+            "ja-JP": "ブラックプール・プレジャー・ビーチ",
+            "pt-BR": "Praia do Prazer em Blackpool",
+            "zh-CN": "布莱克浦游乐海滩"
+        },
+        "park_name": {
+            "ar-EG": "بلاكبول شاطئ المتعة",
+            "ca-ES": "Blackpool Pleasure Beach (Regne Unit)",
+            "en-GB": "Blackpool Pleasure Beach",
+            "ko-KR": "블랙풀 플레저 비치",
+            "pt-BR": "Praia do Prazer em Blackpool",
+            "zh-CN": "布莱克浦游乐海滩"
+        },
+        "details": {
+            "da-DK": "Forlystelsespark der ligger i Blackpool, Lancashire i England",
+            "en-GB": "",
+            "tr-TR": "Gerçekte İngiltere’de bulunan bir lunapark"
+        }
+    }
+}

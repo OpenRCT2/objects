@@ -1,0 +1,77 @@
+{
+    "id": "uces.scenario_meta.choochoo_town",
+    "authors": [
+        "Fossil"
+    ],
+    "version": "1.0",
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "مدينة تشو تشو",
+            "ca-ES": "Poblet Xu-xu-xú",
+            "de-DE": "Töff-Töff-Land",
+            "en-GB": "Choo-Choo Town",
+            "eo-ZZ": "Ĉu-Ĉu-Urbeto",
+            "es-ES": "Pueblo Choo-Choo",
+            "fi-FI": "Tsuku-tsuku-kylä",
+            "fr-FR": "Tchoutchouville",
+            "hu-HU": "Sihuhu Város",
+            "pt-BR": "Cidade do Piuí",
+            "uk-UA": "Місто Чух-Чух",
+            "zh-CN": "呜呜小镇",
+            "pl-PL": "Pociągowe Miasteczko",
+            "gl-ES": "Cidade Chu-Chu"
+        },
+        "park_name": {
+            "ar-EG": "مدينة تشو تشو",
+            "ca-ES": "Poblet Xu-xu-xú",
+            "de-DE": "Töff-Töff-Land",
+            "en-GB": "Choo-Choo Town",
+            "eo-ZZ": "Ĉu-Ĉu-Urbeto",
+            "es-ES": "Pueblo Choo-Choo",
+            "fi-FI": "Tsuku-tsuku-kylä",
+            "fr-FR": "Tchoutchouville",
+            "hu-HU": "Sihuhu Város",
+            "ko-KR": "칙칙폭폭 마을",
+            "pt-BR": "Cidade do Piuí",
+            "uk-UA": "Місто Чух-Чух",
+            "zh-CN": "呜呜小镇",
+            "pl-PL": "Pociągowe Miasteczko",
+            "gl-ES": "Cidade Chu-Chu"
+        },
+        "details": {
+            "ar-EG": "ماما! بابا! أريد الذهاب لمدينة تشو تشو!",
+            "ca-ES": "Mamà! Papa! Vull anar al Poblet Xu-xu-xú!",
+            "da-DK": "Mor! Far! Jeg vil til Fut-Fut by!",
+            "de-DE": "Mama! Papa! Ich will ins Töff-Töff-Land!",
+            "en-GB": "Mommy! Daddy! I want to go to Choo-Choo Town!",
+            "eo-ZZ": "Panjo! Paĉjo! Mi volas iri al Ĉu-Ĉu-Urbeto!",
+            "es-ES": "¡Mami! ¡Papi! !Quiero ir al pueblo Coo-Choo!",
+            "fi-FI": "Äiti! Isä! Tahdon mennä Tsuku-tsuku-kylään!",
+            "fr-FR": "Maman ! Papa ! Je veux aller à Tchoutchouville !",
+            "hu-HU": "Anyu! Apu! Sihuhu városba akarok menni!",
+            "it-IT": "Mamma! Papà! Voglio andare a Choo-Choo Town!",
+            "ko-KR": "엄마! 아빠! 나 칙칙폭폭 마을에 가고 싶어요!",
+            "nb-NO": "Mamma! Pappa! Jeg vil dra til Choo-Choo By!",
+            "nl-NL": "Mam! Pap! Ik wil naarChoo-Choo Town!",
+            "pt-BR": "Mamãe! Papai! Quero ir pra Cidade do Piuí!",
+            "uk-UA": "Мамо! Татку! Я хочу в місто Чух-Чух!",
+            "zh-CN": "妈咪！爸比！我想去呜呜小镇！",
+            "pl-PL": "Mamo! Tato! Chcę jechać do Pociągowego Miasteczka!",
+            "ru-RU": "Мам! Пап! Я хочу чух-чух в город поездов!",
+            "gl-ES": "Nai! Pai! Quero ir á cidade de Chu-Chu!"
+        }
+    }
+}

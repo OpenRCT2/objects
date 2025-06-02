@@ -1,0 +1,71 @@
+{
+    "id": "rct2tt.scenario_meta.woodstock",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "originalId": "0E43032A|STEX78  |243E4710",
+    "sourceGame": [
+        "rct2tt"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "وودستوك",
+            "en-GB": "Woodstock",
+            "eo-ZZ": "Woodstock-Festivalo",
+            "ja-JP": "ウッドストック",
+            "ko-KR": "우드스톡",
+            "ru-RU": "Woodstock",
+            "zh-CN": "伍德斯托克",
+            "zh-TW": "伍斯托克音樂會"
+        },
+        "park_name": {
+            "ar-EG": "وودستوك",
+            "en-GB": "Woodstock",
+            "eo-ZZ": "Woodstock-Festivalo",
+            "ja-JP": "ウッドストック",
+            "ko-KR": "우드스톡",
+            "ru-RU": "Woodstock",
+            "zh-CN": "伍德斯托克",
+            "zh-TW": "伍斯托克音樂會"
+        },
+        "details": {
+            "ar-EG": "يُقام مهرجان موسيقي سنوي كبير على أرضك. أنشئ متنزهًا عصريًا للترفيه عن الجمهور المفعم بالحيوية.",
+            "ca-ES": "Hi ha un gran festival anual de música als teus terrenys. Construïu-hi un parc temàtic a la moda per a mantenir els esperits lliures entretinguts.",
+            "cs-CZ": "Obrovský každoroční hudební festival se bude konat na vašem pozemku. Postavte pořádný park, abyste zabavili návštěvníky.",
+            "da-DK": "En stor årlig musikfestival finder sted på dit land. Byg en hip forlystelsespark for at holde det frisindede publikum underholdt.",
+            "de-DE": "Auf Ihrem Land findet jährlich ein großes Musikfestival statt. Bauen Sie einen hippen Freizeitpark, um das freidenkende Publikum bei Laune zu halten.",
+            "en-GB": "A large annual music festival takes place on your land. Build a hip theme park to keep the free-spirited audience entertained.",
+            "eo-ZZ": "Granda jara muzikfestivalo okazas sur via tereno. Konstruu mojosan amuzparkon por teni la liberaniman spektantaron amuzita.",
+            "es-ES": "En tus tierras se desarrolla todos los años un gran festival musical. Construye un parque temático para mantener a la audiencia entretenida.",
+            "fi-FI": "Suuri vuosittainen musiikkifestivaali järjestetään maillasi. Rakenna tajuntaa laajentava huvipuisto vapaamielisen yleisön viihdyttämiseen.",
+            "fr-FR": "Un grand festival de musique se tient sur votre terrain chaque année. Construisez un parc sur le thème du mouvement hippie qui satisfera les amateurs du genre.",
+            "hu-HU": "Évente megrendezésre kerül egy nagyszabású zenei fesztivál a területeden. Építs egy menő vidámparkot, hogy szórakoztasd a szabad szellemű közönséget.",
+            "it-IT": "Un importante festival musicale si tiene ogni anno sulla tua proprietà. Costruisci un parco a tema di ispirazione hippy per attrarre gli spiriti liberi.",
+            "ko-KR": "매년 열리는 대형 음악 축제가 당신의 땅에서 열립니다. 최신 유행하는 놀이공원을 지어, 자유로운 영혼을 가진 관객들이 즐거워할 수 있게 만드세요.",
+            "nb-NO": "En stor, årlig musikkfestival finner sted på din tomt. Bygg en hipp fornøyelsespark for å holde det frisinnede publikummet underholdt.",
+            "nl-NL": "Een groot jaarlijks muziekfestival vindt plaats op jouw terrein. Bouw een hip themapark om het publiek van vrije geesten te vermaken.",
+            "pl-PL": "Na Twoim terenie odbywa się wielki doroczny festiwal muzyczny. Wybuduj lunapark w stylu hipisowskim, by wolnomyślicielska publiczność mogła się w nim zabawić.",
+            "pt-BR": "Um grande festival anual de música acontece em seu terreno. Construa um parque temático moderno para manter a audiência de espírito livre entretida.",
+            "ru-RU": "На вашей земле пройдет ежегодный музыкальный фестиваль. Постройте модный парк, чтобы развлечь этот контингент со свободным духом.",
+            "sv-SE": "En stor årlig rockfestival äger rum på din mark. Bygg en hipp nöjespark i den fritänkande publikens smak.",
+            "tr-TR": "Büyük bir müzik festivalinin yanına bir lunapark inşa ediniz ki festival ziyaretçileri daha çok eğlensin",
+            "zh-CN": "一个大型的年度音乐节在你的土地上。打造一个主题公园，保持自由奔放的观众的娱乐。",
+            "zh-TW": "您的土地上將舉辦大型的年度音樂嘉年華。請建立一個能讓這些崇尚心靈自由的人們感到愉快的主題樂園。",
+            "gl-ES": "Un gran festival de música anual celébrase nas túas terras. Constrúe un parque temático moderno para manter entretido ao público de espírito ceibe."
+        }
+    }
+}

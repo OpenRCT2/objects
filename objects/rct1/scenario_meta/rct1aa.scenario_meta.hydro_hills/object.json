@@ -1,0 +1,78 @@
+{
+    "id": "rct1aa.scenario_meta.hydro_hills",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB4F0A|STEX931 |DF41B6F6",
+    "sourceGame": [
+        "rct1aa"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ca-ES": "Els turons Hydro",
+            "en-GB": "Hydro Hills",
+            "eo-ZZ": "Akvo-Montetoj",
+            "fi-FI": "Kastekukkula",
+            "fr-FR": "Monts Lacustres",
+            "hu-HU": "Hidro-hegyek",
+            "ja-JP": "ハイドロ・ヒルズ",
+            "pt-BR": "Colinas Hídricas",
+            "zh-CN": "海德鲁山",
+            "pl-PL": "Wodne Wzgórza",
+            "gl-ES": "Outeiros Hidro",
+            "ar-EG": "تلال هايدرو"
+        },
+        "park_name": {
+            "ca-ES": "Els turons Hydro",
+            "en-GB": "Hydro Hills",
+            "eo-ZZ": "Akvo-Montetoj",
+            "fi-FI": "Kastekukkula",
+            "fr-FR": "Monts Lacustres",
+            "hu-HU": "Hidro-hegyek",
+            "ko-KR": "하이드로 언덕",
+            "pt-BR": "Colinas Hídricas",
+            "zh-CN": "海德鲁山",
+            "pl-PL": "Wodne Wzgórza",
+            "gl-ES": "Outeiros Hidro",
+            "ar-EG": "تلال هايدرو"
+        },
+        "details": {
+            "ca-ES": "Una sèrie de llacs escalonats formen la base per a aquest parc nou.",
+            "da-DK": "En række forskudte søer, danner grundlaget for denne nye forlystelsespark",
+            "de-DE": "Eine Reihe terrassenförmig angeordneter Seen sind der Ausgangsort für den neuen Park.",
+            "en-GB": "A series of stepped lakes form the basis for this new park",
+            "eo-ZZ": "Serio de lagoj fariĝas la bazo de ĉi tiu nova parko",
+            "es-ES": "La atracción principal de este nuevo parque la constituyen los lagos escalonados.",
+            "fi-FI": "Eritasoisten järvien sarja muodostaa perustan tälle uudelle huvipuistolle",
+            "fr-FR": "Une série de lacs en dénivelé est à la base de ce nouveau parc.",
+            "hu-HU": "Egy lépcsőzetes tórendszer adja ennek az új parknak az alapját",
+            "it-IT": "Una serie di laghi a cascata sono la base per questo nuovo parco",
+            "ko-KR": "몇 개의 호수를 기반으로 새로운 공원을 건설할 수 있습니다.",
+            "nb-NO": "En rekke paternostersjøer danner grunnlaget for denne nye parken",
+            "nl-NL": "Een aantal meren op verschillende hoogtes vormt de basis voor dit nieuwe park.",
+            "pl-PL": "Seria stopniowanych jezior tworzy podstawę tego nowego parku",
+            "pt-BR": "Uma série de lagos íngremes formam a base para este novo parque.",
+            "sv-SE": "En serie av sjöar och berg formar grunden till detta nöjesfält",
+            "tr-TR": "Lunaparkın arazisi dört büyük gölden oluşmakta",
+            "zh-CN": "这个公园由一系列阶梯状的湖组成",
+            "zh-TW": "一連串的梯間湖是這個全新樂園的根基",
+            "ru-RU": "Этот парк будет построен среди нескольких озёр",
+            "gl-ES": "Unha serie de lagos en escaleira forman a base deste novo parque",
+            "ar-EG": "سلسلة من البحيرات المتدرجة تشكل الأساس لهذه الحديقة الجديدة"
+        }
+    }
+}

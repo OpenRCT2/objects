@@ -1,0 +1,92 @@
+{
+    "id": "rct2ww.scenario_meta.park_maharaja",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "originalId": "0CCEA11A|STEX52  |8B8E92D4",
+    "sourceGame": [
+        "rct2ww"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "حديقة المهراجا",
+            "ca-ES": "Parc del maharajà",
+            "de-DE": "Maharadscha-Park",
+            "en-GB": "Park Maharaja",
+            "eo-ZZ": "Parko-Maharaĝo",
+            "es-ES": "Parque Maharajá",
+            "fi-FI": "Maharadža-puisto",
+            "fr-FR": "Parc Maharajah",
+            "hu-HU": "Maharadzsa Park",
+            "it-IT": "Il parco del Maragià",
+            "ja-JP": "パーク・マハラジャ",
+            "ko-KR": "마하라자 공원",
+            "nl-NL": "Park Maharadja",
+            "pl-PL": "Park maharadży",
+            "pt-BR": "Parque do Marajá",
+            "ru-RU": "Park Maharaja",
+            "sv-SE": "Maharadjaparken",
+            "zh-CN": "迈索尔公园",
+            "gl-ES": "Parque Maharaja"
+        },
+        "park_name": {
+            "ar-EG": "حديقة المهراجا",
+            "ca-ES": "Parc del maharajà",
+            "de-DE": "Maharadscha-Park",
+            "en-GB": "Park Maharaja",
+            "eo-ZZ": "Parko-Maharaĝo",
+            "es-ES": "Parque Maharajá",
+            "fi-FI": "Maharadža-puisto",
+            "fr-FR": "Parc Maharajah",
+            "hu-HU": "Maharadzsa Park",
+            "it-IT": "Il parco del Maragià",
+            "ja-JP": "パーク・マハラジャ",
+            "ko-KR": "마하라자 공원",
+            "nl-NL": "Park Maharadja",
+            "pl-PL": "Park maharadży",
+            "pt-BR": "Parque do Marajá",
+            "ru-RU": "Park Maharaja",
+            "sv-SE": "Maharadjaparken",
+            "zh-CN": "迈索尔公园",
+            "gl-ES": "Parque Maharaja"
+        },
+        "details": {
+            "ar-EG": "لقد تم تكليفك من قبل المهراجا لإحضار الترفيه لعدد كبير من السكان المحليين. حيث يتعين عليك بناء حديقة مستوحاة من قصر المهراجا.",
+            "ca-ES": "El maharajà us ha destinat aquí per tal que proporcioneu entreteniment a l’enorme població local. Construïu un parc inspirat pel palau del maharajà.",
+            "cs-CZ": "Mahárádža vás vybral, abyste přinesli zábavu pro místní velkou populaci. Postavte zábavní park inspirovaný Mahárádžovým palácem",
+            "da-DK": "Du er blevet bestilt af Maharajaen til at bringe underholdning til den store lokale befolkning. Byg en park inspireret af Maharajas palads.",
+            "de-DE": "Der Maharadscha hat Sie damit beauftragt, die örtlichen Massen zu unterhalten. Errichten Sie einen Park, der seine Inspiration aus dem Palast des Maharadschas bezieht.",
+            "en-GB": "You have been commissioned by the Maharaja to bring entertainment to the large local population. Build a park inspired by the Maharaja’s palace.",
+            "eo-ZZ": "Vi estis komisiita de la Maharaĝo por alporti amuzadon al la granda loka loĝantaro. Konstruu parkon inspiritan de la palaco de Maharaĝo.",
+            "es-ES": "Has sido designado por el Maharajá para traer un poco de entretenimiento a la gran población local. Construye un parque inspirado en el palacio del Maharajá.",
+            "fi-FI": "Maharadža on käskenyt sinut tuomaan hupia ja viihdettä runsaslukuiselle paikallisväestölle. Rakenna puisto maharadžan palatsin innoittamana.",
+            "fr-FR": "Le maharajah vous a chargé de divertir la nombreuse population locale. Construisez un parc inspiré du palais du maharajah.",
+            "hu-HU": "A maharadzsa megbízott, hogy szórakoztasd a nagyszámú helyi lakosságot. Építs egy parkot, amelyet a maharadzsa palotája ihletett.",
+            "it-IT": "Il Maragià ti ha incaricato di creare qualcosa che intrattenga la vasta popolazione locale. Costruisci un parco ispirato al palazzo del Maragià.",
+            "ko-KR": "인도의 왕에게서 국민들에게 즐길 거리를 만들어달라는 임무를 받았습니다. 마하라자 궁전을 연상시키는 공원을 만들어보세요.",
+            "nb-NO": "Du har fått i oppdrag av Maharajaen å bringe underholdning til den store lokale befolkningen. Bygg en park inspirert av Maharajaen's palass.",
+            "nl-NL": "De Maharadja heeft jou aangewezen om de lokale bevolking te vermaken. Bouw een park dat is geïnspireerd door het paleis van de Maharadja.",
+            "pl-PL": "Maharadża zlecił Ci zapewnienie rozrywki swoim licznym poddanym. Wybuduj lunapark, wzorując się na pałacu maharadży.",
+            "pt-BR": "Você foi contratado pelo Marajá para trazer entretenimento para a grande população local. Construa um parque inspirado no palácio Mahajara.",
+            "ru-RU": "Махараджа платит вам, чтобы развлекать местное население. Постройте парк, вдохновлённый его дворцом.",
+            "sv-SE": "Du har fått i uppdrag av maharadjan att underhålla lokalbefolkningen. Inhämta inspiration från maharadjans palats när du bygger nöjesfältet.",
+            "tr-TR": "Maharaja ailesi sizden yerel halkın eğlenmesi için Maharaja Sarayının etrafına lunapark inşa etmenizi diledi",
+            "zh-CN": "你被委托为当地人建造大型的娱乐设施。由王公的宫殿改建成一个游乐园。",
+            "gl-ES": "O Maharajá encargouche o entretemento para a gran poboación local. Constrúe un parque inspirado no palacio do Maharajá."
+        }
+    }
+}

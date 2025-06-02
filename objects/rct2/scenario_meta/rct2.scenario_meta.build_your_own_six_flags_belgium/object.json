@@ -1,0 +1,92 @@
+{
+    "id": "rct2.scenario_meta.build_your_own_six_flags_belgium",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "0A18818A|STEX38  |37D6BC38",
+    "sourceGame": [
+        "rct2"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "قم ببناء ستة أعلام بلجيكا الخاصة بك",
+            "ca-ES": "El vostre Six Flags Belgium",
+            "cs-CZ": "Postavte si svůj vlastní Six Flags Belgium",
+            "de-DE": "Bauen Sie Ihren eigenen Six Flags Belgien",
+            "en-GB": "Build your own Six Flags Belgium",
+            "eo-ZZ": "Konstrui je via propra Six Flags Belgium",
+            "es-ES": "Construye tu propio Six Flags Bélgica",
+            "fi-FI": "Rakenna oma Six Flags Belgiasi",
+            "fr-FR": "Construisez votre propre parc Six Flags en Belgique",
+            "hu-HU": "Építsd meg a saját Six Flags Belgiumodat",
+            "it-IT": "Costruisci il tuo Six Flags Belgio",
+            "ja-JP": "自身のシックス・フラッグス・ベルギー",
+            "ko-KR": "식스 플래그 벨기에 건설",
+            "nb-NO": "Bygg din egen Six Flags Belgia",
+            "nl-NL": "Bouw je eigen Six Flags Belgium",
+            "pl-PL": "Wybuduj własny park „Six Flags Belgium”",
+            "pt-BR": "Construa seu próprio Six Flags Bélgica",
+            "ru-RU": "Постройте свой парк Six Flags Belgium",
+            "sv-SE": "Bygg ditt eget Six Flags Belgien",
+            "zh-CN": "建造你自己的 六旗比利时游乐园",
+            "zh-TW": "建造屬於你自己的比利時六旗",
+            "gl-ES": "Constrúe o teu propio Six Flags Bélxica"
+        },
+        "park_name": {
+            "ar-EG": "ستة أعلام بلجيكا",
+            "de-DE": "Six Flags Belgien",
+            "en-GB": "Six Flags Belgium",
+            "es-ES": "Six Flags Bélgica",
+            "fi-FI": "Six Flags Belgia",
+            "fr-FR": "Six Flags Belgique",
+            "it-IT": "Six Flags Belgio",
+            "ko-KR": "식스 플래그 벨기에",
+            "nb-NO": "Six Flags Belgia",
+            "pt-BR": "Six Flags Bélgica",
+            "sv-SE": "Six Flags Belgien",
+            "zh-CN": "六旗比利时",
+            "zh-TW": "比利時六旗",
+            "gl-ES": "Constrúe o teu propio Six Flags Bélxica"
+        },
+        "details": {
+            "ar-EG": "قم ببناء نسختك الخاصة من هذه حديقة الأعلام الستة الأوروبية",
+            "ca-ES": "Construïu la vostra versió d’aquest parc Six Flag europeu.",
+            "cs-CZ": "Postavte si svou vlastní verzi tohoto evropského Six Flags zábavního parku",
+            "da-DK": "Byg din egen version af denne europæiske ‘Six Flags’ park",
+            "de-DE": "Bauen Sie Ihre eigene Version dieses europäischen Six-Flags-Parks",
+            "en-GB": "Build your own version of this European Six Flags park",
+            "eo-ZZ": "Konstruu vian propran version de ĉi tiu Eŭropa parko de Six Flags",
+            "es-ES": "Construye tu propia versión de este parque Six Flags europeo.",
+            "fi-FI": "Rakenna oma versiosi tästä eurooppalaisesta Six Flags -puistosta",
+            "fr-FR": "Construisez votre propre version de ce parc Six Flags européen.",
+            "hu-HU": "Építsd meg a saját változatodat ebből európai Six Flags parkból",
+            "it-IT": "Costruisci la tua versione personale di questo parco europeo Six Flags",
+            "ja-JP": "このヨーロパであるテーマパークに自身のシックス・フラッグス・パークを作って下さい。",
+            "ko-KR": "이 유럽의 식스 플래그 공원을 당신만의 스타일으로 만들어 보세요.",
+            "nb-NO": "Bygg din egen versjon av denne Europeiske Six Flags parken",
+            "nl-NL": "Bouw je eigen versie van dit Europese Six Flags-park.",
+            "pl-PL": "Wybuduj własną wersję tego europejskiego parku „Six Flags”",
+            "pt-BR": "Construa sua própria versão deste parque Six Flags europeu",
+            "ru-RU": "Постройте свою версию этого европейского парка Six Flags",
+            "sv-SE": "Bygg din egen version av det här europeiska Six Flags-nöjesfältet",
+            "tr-TR": "Kendi Six Flags Belgium parkınızı inşa ediniz",
+            "zh-CN": "建立自己的这个六旗比利时游乐园的版本",
+            "zh-TW": "將這個歐洲的六旗遊樂園建造成屬於你自己的版本",
+            "gl-ES": "Constrúe a túa propia versión deste parque Six Flags europeo"
+        }
+    }
+}

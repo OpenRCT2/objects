@@ -1,0 +1,84 @@
+{
+    "id": "rct2dlc.scenario_meta.panda_world",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "sourceGame": "official",
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "عالم الباندا",
+            "ca-ES": "Món Panda",
+            "de-DE": "Pandawelt",
+            "en-GB": "Panda World",
+            "eo-ZZ": "Pando-Mondo",
+            "es-ES": "Mundo Panda",
+            "fi-FI": "Pandamaailma",
+            "fr-FR": "Monde de Panda",
+            "hu-HU": "Panda Világ",
+            "it-IT": "Il Mondo dei Panda",
+            "ko-KR": "판다 월드",
+            "pl-PL": "Świat Pand",
+            "pt-BR": "Mundo Panda",
+            "uk-UA": "Світ панд",
+            "zh-CN": "熊猫世界",
+            "gl-ES": "Mundo Panda"
+        },
+        "park_name": {
+            "ar-EG": "عالم الباندا",
+            "ca-ES": "Món Panda",
+            "de-DE": "Pandawelt",
+            "en-GB": "Panda World",
+            "eo-ZZ": "Pando-Mondo",
+            "es-ES": "Mundo Panda",
+            "fi-FI": "Pandamaailma",
+            "fr-FR": "Monde de Panda",
+            "hu-HU": "Panda Világ",
+            "it-IT": "Il Mondo dei Panda",
+            "ko-KR": "판다 월드",
+            "pl-PL": "Świat Pand",
+            "pt-BR": "Mundo Panda",
+            "uk-UA": "Світ панд",
+            "zh-CN": "熊猫世界",
+            "gl-ES": "Mundo Panda"
+        },
+        "details": {
+            "ar-EG": "أضف رحلات أكثر وقم بجذب مزيد من الناس إلى الحديقة بطابع الباندا",
+            "ca-ES": "Afegiu més atraccions i atraieu més visitants a aquest parc temàtic inspirat en els pandes.",
+            "cs-CZ": "Přidejte další atrakce a přilákejte více lidí do pandího zábavního parku.",
+            "da-DK": "Tilføj flere forlystelser, og tiltræk flere besøgende til denne panda-tema park",
+            "de-DE": "Bauen Sie weitere Fahrgeschäfte und ziehen Sie neue Gäste in diesem Park im Pandastil an",
+            "en-GB": "Add more rides and attract more people to this panda-themed park",
+            "eo-ZZ": "Aldonu pli da atrakcioj kaj allogu pli da homoj al ĉi tiu pando-temita amuzparko",
+            "es-ES": "Añade más atracciones y consigue más visitantes en este parque pandatemático.",
+            "fi-FI": "Rakenna lisää laitteita ja houkuttele lisää kävijöitä tähän panda-teemaiseen puistoon",
+            "fr-FR": "Ajoutez davantage d’attractions et attirez plus de visiteurs avec ce parc autour du thème du panda",
+            "hu-HU": "Szerezz be további játékokat, hogy több ember látogasson el ebbe a panda-témájú parkba",
+            "it-IT": "Aggiungi più attrazioni per attirare più visitatori in questo parco a tema sui panda.",
+            "ko-KR": "이 판다 테마의 공원에 놀이기구를 더 지어서 손님들을 더 끌어모으세요.",
+            "nb-NO": "Bygg flere attraksjoner og få inn flere gjester til denne panda-inspirerte parken",
+            "nl-NL": "Voeg meer attracties toe aan dit park met pandathema, en trek meer bezoekers aan.",
+            "pl-PL": "Dodaj nowe atrakcje i sprowadź więcej osób do tego parku o tematyce zbudowanej wokół pand.",
+            "pt-BR": "Adicione mais atrações e atraia mais pessoas a esse parque com temática panda",
+            "sv-SE": "Bygg flera attraktioner för att locka folk till denna panda-inspirerade park",
+            "uk-UA": "Додайте більше атракціонів і залучіть більше людей до цього парку на тему панди",
+            "zh-CN": "增加更多的设施来吸引更多的顾客来到这个熊猫主题的乐园.",
+            "zh-TW": "在這以熊貓為主題的樂園中增加更多遊樂設施以吸引更多遊客到訪",
+            "ru-RU": "Добавьте аттракционов и привлеките больше людей в этот панда-парк",
+            "gl-ES": "Engade máis atraccións e atrae máis xente a este parque temático de panda"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "id": "rct1aa.scenario_meta.harmonic_hills",
+    "authors": [
+        "Chris Sawyer"
+    ],
+    "version": "1.0",
+    "originalId": "3DAB4F0A|STEX938 |BA0EBCB0",
+    "sourceGame": [
+        "rct1aa"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        {
+            "path": "images/minimap.png",
+            "palette": "keep",
+            "format": "raw"
+        },
+        {
+            "path": "images/screenshot.png",
+            "palette": "keep",
+            "format": "raw"
+        }
+    ],
+    "strings": {
+        "name": {
+            "ar-EG": "السهول المتناغمة",
+            "ca-ES": "Turons harmònics",
+            "en-GB": "Harmonic Hills",
+            "eo-ZZ": "Harmonaj Montetoj",
+            "fi-FI": "Harmoniamäki",
+            "fr-FR": "Collines Concorde",
+            "hu-HU": "Harmonikus-hegyek",
+            "ja-JP": "ハーモニック・ヒルズ",
+            "pt-BR": "Colinas Harmônicas",
+            "zh-CN": "和声山丘",
+            "pl-PL": "Harmonijne wzgórza",
+            "gl-ES": "Outeiros Harmónicos"
+        },
+        "park_name": {
+            "ar-EG": "السهول المتناغمة",
+            "ca-ES": "Turons harmònics",
+            "en-GB": "Harmonic Hills",
+            "eo-ZZ": "Harmonaj Montetoj",
+            "fi-FI": "Harmoniamäki",
+            "fr-FR": "Collines Concorde",
+            "hu-HU": "Harmonikus-hegyek",
+            "ko-KR": "조화로운 언덕",
+            "pt-BR": "Colinas Harmônicas",
+            "zh-CN": "和声山丘",
+            "pl-PL": "Harmonijne wzgórza",
+            "gl-ES": "Outeiros Harmónicos"
+        },
+        "details": {
+            "ar-EG": "لن تسمح لك السلطة المحلية بالبناء فوق ارتفاع الشجر في هذه الحديقة",
+            "ca-ES": "Les autoritats pertinents no permeten que es construeixi per damunt de l’alçada dels arbres en aquest parc.",
+            "da-DK": "Den lokale myndighed vil ikke tillade dig at bygge over træ højde i denne forlystelsespark",
+            "de-DE": "Die Baubehörde dieser Gegend erlaubt in diesem Park keine Konstruktionen über Baumhöhe.",
+            "en-GB": "The local authority won’t allow you to build above tree height in this park",
+            "eo-ZZ": "La loka aŭtoritato ne permesos la konstruadon super la arbalteco en ĉi tiu parko",
+            "es-ES": "Las autoridades locales no permitirán que se construya por encima de la altura de los árboles del parque.",
+            "fi-FI": "Paikallisviranomaiset eivät hyväksy puun latvoja korkeampia rakennusprojekteja",
+            "fr-FR": "Les autorités locales refuseront toute construction qui dépasse la hauteur des arbres dans ce parc.",
+            "hu-HU": "A helyi önkormányzat nem engedélyezi számodra, hogy fák magassága felett építkezz ebben a parkban",
+            "it-IT": "L’autorità locale non permette di costruire sopra la linea di altezza degli alberi in questo parco",
+            "ko-KR": "이 공원의 지역 당국은 나무 높이 이상의 건설을 허용하지 않습니다.",
+            "nb-NO": "De lokale myndighetene tillater ikke at du bygger høyere enn trærne i denne parken",
+            "nl-NL": "De gemeenteraad staat bouwen boven boomniveau niet toe in dit park.",
+            "pl-PL": "Lokalne władze nie pozwolą Ci budować w tym parku powyżej wysokości drzew",
+            "pt-BR": "A autoridade local não te permite construir acima da altura das árvores neste parque.",
+            "sv-SE": "Den lokala myndigheten tillåter dig inte att bygga högre än trädtopparna i denna park",
+            "tr-TR": "Yerel makamlar tarafından ağaçlardan daha yüksek alet inşası yasaklanmıştır",
+            "zh-CN": "这个公园当地的政府不允许建造比树高的设施",
+            "zh-TW": "當地政府不會容許你於這個樂園內建造高於樹木的高度",
+            "ru-RU": "Местные власти не позволяют вам строить аттракционы выше чем деревья этого парка",
+            "gl-ES": "A autoridade local non che permitirá construír por riba da altura dos árbores neste parque"
+        }
+    }
+}
