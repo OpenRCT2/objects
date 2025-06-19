@@ -14,6 +14,7 @@
     "properties": {
         "type": "motion_simulator",
         "category": "thrill",
+        "clearance": 64,
         "tabScale": 0.5,
         "carsPerFlatRide": 1,
         "carColours": [

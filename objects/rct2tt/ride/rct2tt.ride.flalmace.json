@@ -10,6 +10,7 @@
     "properties": {
         "type": "space_rings",
         "category": "thrill",
+        "clearance": 32,
         "tabScale": 0.5,
         "rotationMode": 1,
         "carsPerFlatRide": 4,

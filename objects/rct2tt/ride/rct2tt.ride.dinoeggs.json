@@ -10,6 +10,7 @@
     "properties": {
         "type": "twist",
         "category": "thrill",
+        "clearance": 48,
         "rotationMode": 1,
         "carsPerFlatRide": 1,
         "carColours": [
