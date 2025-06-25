@@ -15,7 +15,7 @@
         "carColours": [
             [
                 [
-                    "moss_green",
+                    "light_blue",
                     "yellow",
                     "black"
                 ]
@@ -35,6 +35,7 @@
                 "flat": true
             },
             "recalculateSpriteBounds": true,
+            "hasBaseColour": false,
             "hasAdditionalColour1": true,
             "numSegments": 4,
             "loadingWaypoints": [
