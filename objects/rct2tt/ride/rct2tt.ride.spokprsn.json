@@ -291,7 +291,8 @@
             "ca-ES": "Presó encantada",
             "fi-FI": "Kummitusvankila",
             "zh-CN": "鬼监舍",
-            "gl-ES": "Cárcere Encantada"
+            "gl-ES": "Cárcere Encantada",
+            "hu-HU": "Kísértetjárta börtönház"
         },
         "description": {
             "en-GB": "Building containing dungeons and mannequins of incarcerated figures, to scare people walking through it",
@@ -312,7 +313,8 @@
             "ca-ES": "Edifici que conté masmorres i maniquins de figures empresonades, per fer por a la gent que el visiti.",
             "fi-FI": "Rakennus jonka tyrmissä on vankihahmoiksi puettuja mannekiinejä talon läpi kävelevien ihmisten pelottamiseksi",
             "zh-CN": "包含地牢和被监禁人物人体模型的建筑物以吓唬走过它的人",
-            "gl-ES": "Edificio con calabozos e maniquís de figuras encarceradas, para asustar ás persoas que pasan por alí"
+            "gl-ES": "Edificio con calabozos e maniquís de figuras encarceradas, para asustar ás persoas que pasan por alí",
+            "hu-HU": "Egy épület, amelyben börtöncellák és elítélteket ábrázoló bábuk kaptak helyet, hogy megrémítsék az áthaladó látogatókat"
         },
         "capacity": {
             "en-GB": "16 guests",
@@ -332,7 +334,8 @@
             "eo-ZZ": "16 gastoj",
             "ca-ES": "16 visitants",
             "fi-FI": "16 kävijää",
-            "zh-CN": "16位乘客"
+            "zh-CN": "16位乘客",
+            "hu-HU": "16 vendég"
         }
     }
 }

@@ -127,7 +127,8 @@
             "ca-ES": "Muntanya russa de cotxes de policia",
             "fi-FI": "Poliisiautovaunut",
             "zh-CN": "警车过山车",
-            "gl-ES": "Trens de Coches de Policía"
+            "gl-ES": "Trens de Coches de Policía",
+            "hu-HU": "Rendőrautó vonatok"
         },
         "description": {
             "en-GB": "Roller coaster trains with lap bars capable of travelling through vertical loops, themed to look like police cars",
@@ -148,7 +149,8 @@
             "ca-ES": "Muntanyes russes amb subjecció simple per la falda amb inversions verticals tematitzades com a cotxes de policia.",
             "fi-FI": "Turvakaiteilla varustetut poliisiauton näköisiksi teematut vuoristoratavaunut, jotka kykenee pystysuoriin silmukoihin",
             "zh-CN": "过山车车辆带有能够通过垂直环行进的膝上杆，主题看起来像警车",
-            "gl-ES": "Vagóns de montaña rusa con suxeitadores de colo capaces de atravesar lazos verticais, tematizados para parecer coches de policía"
+            "gl-ES": "Vagóns de montaña rusa con suxeitadores de colo capaces de atravesar lazos verticais, tematizados para parecer coches de policía",
+            "hu-HU": "Hullámvasút vonatok biztonsági rudakkal, amelyek képesek függőleges hurkokon áthaladni, rendőrautónak tematizálva"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -169,7 +171,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "zh-CN": "4位乘客/车",
-            "gl-ES": "4 pasaxeiros por coche"
+            "gl-ES": "4 pasaxeiros por coche",
+            "hu-HU": "4 utas kocsinként"
         }
     }
 }

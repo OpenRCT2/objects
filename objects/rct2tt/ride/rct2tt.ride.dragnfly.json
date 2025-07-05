@@ -121,7 +121,8 @@
             "ca-ES": "Cotxes libèl·lula",
             "fi-FI": "Sudenkorentovaunut",
             "zh-CN": "蜻蜓车",
-            "gl-ES": "Coches Libélula"
+            "gl-ES": "Coches Libélula",
+            "hu-HU": "Szitakötő kocsik"
         },
         "description": {
             "en-GB": "Dragonfly-shaped cars which swing from the rail above",
@@ -142,7 +143,8 @@
             "ca-ES": "Cotxes en forma de libèl·lula que es balancegen des del rail superior.",
             "fi-FI": "Sudenkorennon muotoiset vaunut, jotka keinuvat kiskon alla",
             "zh-CN": "从上面的铁轨摆动的蜻蜓形车",
-            "gl-ES": "Coches con forma de libélula que se balancean desde o carril de arriba"
+            "gl-ES": "Coches con forma de libélula que se balancean desde o carril de arriba",
+            "hu-HU": "Szitakötő alakú kocsik, amelyek a fenti sínről lengenek"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -163,7 +165,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
             "zh-CN": "2位乘客/车",
-            "gl-ES": "2 pasaxeiros por coche"
+            "gl-ES": "2 pasaxeiros por coche",
+            "hu-HU": "2 utas kocsinként"
         }
     }
 }

@@ -116,7 +116,8 @@
             "ca-ES": "Barques voladores",
             "fi-FI": "Lentävät veneet",
             "zh-CN": "飞艇",
-            "gl-ES": "Barcos voadores"
+            "gl-ES": "Barcos voadores",
+            "hu-HU": "Repülő csónakok"
         },
         "description": {
             "en-GB": "Roller coaster cars shaped like flying boats",
@@ -137,7 +138,8 @@
             "ca-ES": "Cotxes de muntanya russa en forma de barques que volen.",
             "fi-FI": "Lentävän veneen muotoiset vuoristoratavaunut",
             "zh-CN": "飞艇样式的过山车",
-            "gl-ES": "Coches de montaña rusa con forma de barcos voadores"
+            "gl-ES": "Coches de montaña rusa con forma de barcos voadores",
+            "hu-HU": "Repülő csónak alakú hullámvasút kocsik"
         },
         "capacity": {
             "en-GB": "6 passengers per boat",
@@ -158,7 +160,8 @@
             "ca-ES": "6 passatgers per barca",
             "fi-FI": "6 matkustajaa per vene",
             "zh-CN": "6位乘客/船",
-            "gl-ES": "6 pasaxeiros por bote"
+            "gl-ES": "6 pasaxeiros por bote",
+            "hu-HU": "6 utas csónakonként"
         }
     }
 }

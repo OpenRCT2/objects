@@ -288,7 +288,8 @@
             "ca-ES": "Sala dels espills",
             "fi-FI": "Peilitalo",
             "zh-CN": "镜子迷阵",
-            "gl-ES": "Salón dos Espellos"
+            "gl-ES": "Salón dos Espellos",
+            "hu-HU": "Tükörútvesztő"
         },
         "description": {
             "en-GB": "Building containing warped mirrors which distort the reflection of the viewer",
@@ -309,7 +310,8 @@
             "ca-ES": "Edifici que conté espills deformats que distorsionen la reflexió de la imatge.",
             "fi-FI": "Rakennus, jossa on kieroja peilejä, jotka vääristävät katsojan peilikuvan",
             "zh-CN": "含有会扭曲观众形象的哈哈镜的建筑，",
-            "gl-ES": "Edificio que contén espellos deformados que distorsionan o reflexo do espectador"
+            "gl-ES": "Edificio que contén espellos deformados que distorsionan o reflexo do espectador",
+            "hu-HU": "Torz tükröket tartalmazó épület, amelyek eltorzítják a néző tükörképét"
         },
         "capacity": {
             "en-GB": "5 guests",
@@ -330,7 +332,8 @@
             "ca-ES": "5 visitants",
             "fi-FI": "5 kävijää",
             "zh-CN": "5位乘客",
-            "gl-ES": "5 invitados"
+            "gl-ES": "5 invitados",
+            "hu-HU": "5 vendég"
         }
     }
 }

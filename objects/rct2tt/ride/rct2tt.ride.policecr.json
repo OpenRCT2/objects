@@ -153,7 +153,8 @@
             "ca-ES": "Cotxes de policia",
             "fi-FI": "Poliisiautot",
             "zh-CN": "警察车",
-            "gl-ES": "Coches da Policía"
+            "gl-ES": "Coches da Policía",
+            "hu-HU": "Rendőrautók"
         },
         "description": {
             "en-GB": "1920s-themed police cars run on wooden tracks, turning around on special reversing sections",
@@ -174,7 +175,8 @@
             "ca-ES": "Cotxes de policia de l’any 1920 que es mouen per vies de fusta que giren completament en seccions especials.",
             "fi-FI": "1920-luvun poliisiautojen teemaiset vaunut, jotka kulkevat puisilla kiskoilla, ja kääntyvät ympäri erityisissä kääntöosioissa",
             "zh-CN": "1920年代主题警车在木质轨道上行驶，在特殊倒车段掉头s",
-            "gl-ES": "Coches de policía inspirados nos anos 20 circulan por vías de madeira, xirando en seccións especiais de inversión"
+            "gl-ES": "Coches de policía inspirados nos anos 20 circulan por vías de madeira, xirando en seccións especiais de inversión",
+            "hu-HU": "Az 1920-as évek tematikájú rendőrautók fa síneken futnak, és speciális fordítószakaszokon fordulnak meg"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -195,7 +197,8 @@
             "ca-ES": "6 passatgers per cotxe",
             "fi-FI": "6 matkustajaa per vaunu",
             "zh-CN": "6位乘客/车",
-            "gl-ES": "6 pasaxeiros por coche"
+            "gl-ES": "6 pasaxeiros por coche",
+            "hu-HU": "6 utas kocsinként"
         }
     }
 }
