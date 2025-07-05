@@ -7,16 +7,8 @@
     "sourceGame": "official",
     "objectType": "scenario_meta",
     "images": [
-        {
-            "path": "images/minimap.png",
-            "palette": "keep",
-            "format": "raw"
-        },
-        {
-            "path": "images/screenshot.png",
-            "palette": "keep",
-            "format": "raw"
-        }
+        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
+        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
     ],
     "strings": {
         "name": {
