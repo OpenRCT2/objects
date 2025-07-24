@@ -1,0 +1,26 @@
+{
+    "id": "rct1tw.scenario_meta.taiwan_park",
+    "authors": [
+        "Infogrames Taiwan Limited"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "official"
+    ],
+    "objectType": "scenario_meta",
+    "images": [
+        { "path": "images/minimap.png", "palette": "keep", "format": "raw" },
+        { "path": "images/screenshot.png", "palette": "keep", "format": "raw" }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Taiwan Park"
+        },
+        "park_name": {
+            "en-GB": "Taiwan Park"
+        },
+        "details": {
+            "en-GB": ""
+        }
+    }
+}
