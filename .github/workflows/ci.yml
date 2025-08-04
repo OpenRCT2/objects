@@ -58,15 +58,15 @@ jobs:
       with:
         name: "OpenRCT2 Objects"
         path: artifacts/objects.zip
-    - name: Calculate SHA1
+    - name: Calculate SHA256
       run: |
-        echo "SHA1=$(sha1sum artifacts/objects.zip | awk '{printf $1}')" >> $GITHUB_OUTPUT
-      id: calculate_sha1
+        echo "SHA256=$(sha256sum artifacts/objects.zip | awk '{printf $1}')" >> $GITHUB_OUTPUT
+      id: calculate_sha256
     - name: Create release
       uses: softprops/action-gh-release@v1
       if: startsWith(github.ref, 'refs/tags/v')
       with:
         fail_on_unmatched_files: true
         files: artifacts/objects.zip
-        body: "\nSHA1: ${{ steps.calculate_sha1.outputs.SHA1 }}"
+        body: "\nSHA256: ${{ steps.calculate_sha256.outputs.SHA256 }}"
         append_body: true
