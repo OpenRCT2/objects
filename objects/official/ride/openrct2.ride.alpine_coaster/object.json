@@ -82,7 +82,8 @@
             "ru-RU": "Альпийские машины",
             "gl-ES": "Vagóns de Montaña Rusa Alpina",
             "ja-JP": "アルパインコースター車両",
-            "ar-EG": "عربات الأفعوانية الألبية"
+            "ar-EG": "عربات الأفعوانية الألبية",
+            "cs-CZ": "Vozy alpské dráhy"
         },
         "description": {
             "en-GB": "Wheeled sleds equipped with manually operated brakes",
@@ -99,7 +100,8 @@
             "ru-RU": "Сани с колесами и ручными тормозами",
             "gl-ES": "Zorras con rodas equipados con freos manuais",
             "ja-JP": "手動で操作するブレーキを装備した車輪付きのそり",
-            "ar-EG": "زلاجات بعجلات مزودة بفرامل يدوية التشغيل"
+            "ar-EG": "زلاجات بعجلات مزودة بفرامل يدوية التشغيل",
+            "cs-CZ": "Saně s kolečky vybavené ručně ovládanými brzdami"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -116,7 +118,8 @@
             "ru-RU": "2 пассажира на машину",
             "gl-ES": "2 pasaxeiros por coche",
             "ja-JP": "1車両あたり2人の乗客",
-            "ar-EG": "راكبان لكل عربة"
+            "ar-EG": "راكبان لكل عربة",
+            "cs-CZ": "2 místa ve voze"
         }
     },
     "images": [

@@ -285,7 +285,8 @@
             "fi-FI": "Henkilökohtaiset keinuvat vaunut",
             "ru-RU": "Качающиеся машины",
             "gl-ES": "Coches oscilantes para unha persoa",
-            "ar-EG": "عربات متأرجحة لشخص واحد"
+            "ar-EG": "عربات متأرجحة لشخص واحد",
+            "cs-CZ": "Jednomístné houpací vozy"
         },
         "description": {
             "en-GB": "Single-seater cars which hang from the rail above, and are free to swing from side to side",
@@ -297,7 +298,8 @@
             "fi-FI": "Yhden henkilön vaunut, jotka keinuvat vapaasti kiskon alla",
             "ru-RU": "Машины для одного, подвешенные на рельс сверху, что позволяет им раскачиваться",
             "gl-ES": "Coches de unha praza que colgan da vía superior e son libres de oscilaren de lado a lado",
-            "ar-EG": "عربات بمقعد واحد معلقة من السكة العلوية، وحرة في التأرجح من جانب إلى آخر"
+            "ar-EG": "عربات بمقعد واحد معلقة من السكة العلوية، وحرة في التأرجح من جانب إلى آخر",
+            "cs-CZ": "Jednomístné vozy kývající se ze strany na stranu, zavěšené pod kolejnicí"
         },
         "capacity": {
             "en-GB": "1 passenger per car",

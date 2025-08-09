@@ -1690,7 +1690,8 @@
             "fi-FI": "Korkkiruuvivuoristoratavaunut",
             "ru-RU": "Штопорные поезда",
             "gl-ES": "Trens de montaña rusa en espiral",
-            "ar-EG": "قطارات أفعوانية لولبية"
+            "ar-EG": "قطارات أفعوانية لولبية",
+            "cs-CZ": "Vlaky vývrtkové dráhy"
         },
         "description": {
             "en-GB": "Roller coaster trains with shoulder restraints",
@@ -1703,7 +1704,8 @@
             "fi-FI": "Vuoristoratavaunut, joissa on olkaturvakaiteet",
             "ru-RU": "Поезда с безопасностью для плеч",
             "gl-ES": "Trens de montaña rusa con suxeicións de ombreiro",
-            "ar-EG": "قطارات أفعوانية بأحزمة كتف"
+            "ar-EG": "قطارات أفعوانية بأحزمة كتف",
+            "cs-CZ": "Vlaky horské dráhy se sedadly vybavenými ramenními opěrkami"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -1715,7 +1717,8 @@
             "fi-FI": "4 matkustajaa per vaunu",
             "ru-RU": "4 пассажира на машину",
             "gl-ES": "4 pasaxeiros por coche",
-            "ar-EG": "4 ركاب لكل عربة"
+            "ar-EG": "4 ركاب لكل عربة",
+            "cs-CZ": "4 místa v každém voze"
         }
     }
 }
