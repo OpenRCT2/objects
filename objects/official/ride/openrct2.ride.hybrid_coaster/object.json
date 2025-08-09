@@ -180,7 +180,8 @@
             "ru-RU": "Гибридные поезда",
             "gl-ES": "Trens de Montaña Rusa Híbridos",
             "ja-JP": "ハイブリッドコースター車両",
-            "ar-EG": "قطارات الأفعوانية الهجينة"
+            "ar-EG": "قطارات الأفعوانية الهجينة",
+            "cs-CZ": "Vlaky hybridní dráhy"
         },
         "description": {
             "en-GB": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
@@ -199,7 +200,8 @@
             "ru-RU": "Поезда с безопасностью для ног, способные совершать резкие падения и перевороты",
             "gl-ES": "Trens de montaña rusa con suxeición de cinto, capaces de caídas pronunciadas e inversións",
             "ja-JP": "ラップレストレイントがあるジェットコースター車両で、急降下や反転が可能",
-            "ar-EG": "قطارات أفعوانية بأحزمة حضن، قادرة على الانحدارات الشديدة والانقلابات"
+            "ar-EG": "قطارات أفعوانية بأحزمة حضن، قادرة على الانحدارات الشديدة والانقلابات",
+            "cs-CZ": "Vlaky horské dráhy, se sedadly vybavenými opěrkou v klíně, schopné sjíždět strmé klesání a otočit se vzhůru nohama ve výkrutech"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -218,7 +220,8 @@
             "ru-RU": "4 пассажира на машину",
             "ja-JP": "1車両あたり4人の乗客",
             "gl-ES": "4 pasaxeiros por coche",
-            "ar-EG": "4 ركاب لكل عربة"
+            "ar-EG": "4 ركاب لكل عربة",
+            "cs-CZ": "4 místa ve voze"
         }
     },
     "images": [

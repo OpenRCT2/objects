@@ -638,7 +638,8 @@
             "zh-CN": "倒置过山车列车",
             "ru-RU": "Перевёрнутый поезд",
             "gl-ES": "Trens de montaña rusa invertida",
-            "ar-EG": "قطارات الأفعوانية المعلقة"
+            "ar-EG": "قطارات الأفعوانية المعلقة",
+            "cs-CZ": "Vlaky otočené dráhy"
         },
         "description": {
             "en-GB": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
@@ -652,7 +653,8 @@
             "zh-CN": "倒置的过山车列车，由悬挂在轨道上方支撑架上的座椅组成。",
             "ru-RU": "Сиденья, свешивающиеся вниз с поддерживающей рамки на треке сверху.",
             "gl-ES": "Tren de montaña rusa invertida, composto por asentos pendurados dun marco de soporte que circula pola vía superior",
-            "ar-EG": "قطار أفعواني معلق، يتكون من مقاعد معلقة من إطار دعم يسير على المسار أعلاه."
+            "ar-EG": "قطار أفعواني معلق، يتكون من مقاعد معلقة من إطار دعم يسير على المسار أعلاه.",
+            "cs-CZ": "Otočený vlak horské dráhy sestávající se z sedadel připevněných k nosném rámu zavěšenému pod trať nad ním"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -666,7 +668,7 @@
             "zh-CN": "2 位乘客/每个车厢",
             "zh-TW": "2 位乘客/每個車廂",
             "pt-BR": "2 passageiros por carro",
-            "cs-CZ": "2 místa v každém vozu",
+            "cs-CZ": "2 místa v každém voze",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na wagonik",
             "ru-RU": "2 пассажира на машину",
