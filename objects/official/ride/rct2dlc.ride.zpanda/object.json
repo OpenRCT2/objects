@@ -829,7 +829,8 @@
             "hu-HU": "Panda vonatok",
             "nb-NO": "Panda-tog",
             "ru-RU": "Поезда-панды",
-            "gl-ES": "Trens Panda"
+            "gl-ES": "Trens Panda",
+            "cs-CZ": "Pandí vlaky"
         },
         "description": {
             "en-GB": "Roller coaster trains with cuddly panda cars",
@@ -852,7 +853,8 @@
             "hu-HU": "Hullámvasút vonatok, aranyos panda kocsikal",
             "nb-NO": "Berg-og-dal-bane-tog med koslige panda-vogner",
             "ru-RU": "Поезда для аттракционов с мягкими машинами в форме панд",
-            "gl-ES": "Trens de montaña rusa con vagóns adorábels de panda"
+            "gl-ES": "Trens de montaña rusa con vagóns adorábels de panda",
+            "cs-CZ": "Vlaky horské dráhy s vozy ve tvaru mazlivých pand"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -874,7 +876,8 @@
             "zh-CN": "1位乘客/车",
             "hu-HU": "1 utas kocsinként",
             "nb-NO": "1 passasjer per vogn",
-            "ru-RU": "1 пассажир на машину"
+            "ru-RU": "1 пассажир на машину",
+            "cs-CZ": "1 místo ve voze"
         }
     }
 }

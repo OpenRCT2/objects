@@ -174,7 +174,8 @@
             "ru-RU": "Однорельсовые поезда",
             "gl-ES": "Trens de montaña rusa de vía simple",
             "ja-JP": "シングルレールジェットコースター車両",
-            "ar-EG": "قطارات أفعوانية أحادية السكة"
+            "ar-EG": "قطارات أفعوانية أحادية السكة",
+            "cs-CZ": "Vlaky jednokolejné horské dráhy"
         },
         "description": {
             "en-GB": "Roller coaster trains in which riders are seated single file",
@@ -193,7 +194,8 @@
             "ru-RU": "Поезда, в которых пассажиры сидят друг за другом",
             "gl-ES": "Trens de montaña rusa nos que os pasaxeiros están sentados en fila india",
             "ja-JP": "乗客が1列に並んで座るジェットコースター車両",
-            "ar-EG": "قطارات أفعوانية يجلس فيها الركاب في صف واحد"
+            "ar-EG": "قطارات أفعوانية يجلس فيها الركاب في صف واحد",
+            "cs-CZ": "Vlaky horské dráhy se samostatnými sedadly v řadě za sebou"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -212,7 +214,8 @@
             "ru-RU": "1 пассажир на машину",
             "gl-ES": "1 pasaxeiro por coche",
             "ja-JP": "1車両あたり1人の乗客",
-            "ar-EG": "راكب واحد لكل عربة"
+            "ar-EG": "راكب واحد لكل عربة",
+            "cs-CZ": "1 místo ve voze"
         }
     },
     "images": [
