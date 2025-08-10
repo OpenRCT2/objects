@@ -1,4 +1,11 @@
 #!/usr/bin/env node
+
+/**
+ * This script automates the build process for object assets.
+ * It copies source objects, reprocesses image arrays, compiles LGX images,
+ * and packages the results into .parkobj and .zip files.
+ */
+
 import fs from 'fs';
 import path from 'path';
 import { spawn } from 'child_process';
