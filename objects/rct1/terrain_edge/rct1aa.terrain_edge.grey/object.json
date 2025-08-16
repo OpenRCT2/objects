@@ -14,7 +14,12 @@
     },
     "images": [
         { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
-        "$CSG[41134..41209]",
+        "$CSG[41134..41177]",
+        { "path": "images/41178.png", "x": -2, "y": -47 },
+        { "path": "images/41179.png", "x": 10, "y": -41 },
+        { "path": "images/41180.png", "x": -30, "y": -47 },
+        { "path": "images/41181.png", "x": -30, "y": -41 },
+        "$CSG[41182..41209]",
         { "path": "images/41210.png", "x": -2, "y": -31 },
         "$CSG[41211]",
         { "path": "images/41212.png", "x": -22, "y": -31 },
