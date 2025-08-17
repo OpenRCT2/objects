@@ -6,8 +6,9 @@ const fs = require("fs");
 
 const SupportedLanguages = [
     "ar-EG", "ca-ES", "cs-CZ", "da-DK", "de-DE", "en-GB", "en-US", "eo-ZZ",
-    "es-ES", "fi-FI", "fr-FR", "gl-ES", "hu-HU", "it-IT", "ja-JP", "ko-KR", "nb-NO",
-    "nl-NL", "pl-PL", "pt-BR", "ru-RU", "sv-SE", "tr-TR", "zh-CN", "zh-TW"
+    "es-ES", "fi-FI", "fr-CA", "fr-FR", "gl-ES", "hu-HU", "it-IT", "ja-JP",
+    "ko-KR", "nb-NO", "nl-NL", "pl-PL", "pt-BR", "ru-RU", "sv-SE", "tr-TR",
+    "uk-UA", "vi-VN", "zh-CN", "zh-TW"
 ];
 
 const Language = {
@@ -21,6 +22,7 @@ const Language = {
     EoZZ: "eo-ZZ",
     EsES: "es-ES", 
     FiFI: "fi-FI", 
+    FrCA: "fr-CA", 
     FrFR: "fr-FR", 
 	GlES: "gl-ES",
     HuHU: "hu-HU", 
@@ -34,6 +36,8 @@ const Language = {
     RuRU: "ru-RU", 
     SvSE: "sv-SE", 
     TrTR: "tr-TR", 
+    UkUA: "uk-UA", 
+    ViVN: "vi-VN", 
     ZhCN: "zh-CN", 
     ZhTW: "zh-TW"
 };
