@@ -16,9 +16,6 @@
         "maxCarsPerTrain": 7,
         "defaultCar": 1,
         "headCars": 0,
-        "ratingMultipler": {
-            "intensity": 10
-        },
         "carColours": [
             [
                 [
