@@ -50,7 +50,7 @@
                 "numSeats": 1,
                 "numSeatRows": 1,
                 "frictionSoundId": 65,
-                "soundRange": 0,
+                "soundRange": 2,
                 "drawOrder": 8,
                 "spriteGroups": {
                     "slopeFlat": 32,
@@ -106,7 +106,7 @@
                 "numSeats": 1,
                 "numSeatRows": 1,
                 "frictionSoundId": 57,
-                "soundRange": 0,
+                "soundRange": 2,
                 "drawOrder": 8,
                 "spriteGroups": {
                     "slopeFlat": 32,
