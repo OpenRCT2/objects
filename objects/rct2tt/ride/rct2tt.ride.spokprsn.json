@@ -10,6 +10,7 @@
     "properties": {
         "type": "crooked_house",
         "category": "gentle",
+        "clearance": 128,
         "tabScale": 0.5,
         "hasShelter": true,
         "carsPerFlatRide": 1,
