@@ -1,16 +1,14 @@
 {
-    "id": "rct2.water.wtrorng",
+    "id": "rct2.water.wtrorng_fix",
     "authors": [
         "Chris Sawyer",
         "Simon Foster"
     ],
     "version": "1.0",
-    "originalId": "0A188089|WTRORNG |78871B11",
     "sourceGame": [
         "rct2",
         "rct1ll"
     ],
-    "isCompatibilityObject": true,
     "objectType": "water",
     "properties": {
         "palettes": {
@@ -210,11 +208,11 @@
                     "#FFB73F",
                     "#FFCF4B",
                     "#3F001B",
-                    "#5B0027",
-                    "#77003B",
-                    "#93074B",
-                    "#B30B63",
-                    "#C71F77",
+                    "#670033",
+                    "#7B0B3F",
+                    "#8F174F",
+                    "#A31F5F",
+                    "#B7276F",
                     "#DB3B8F",
                     "#EF5BAB",
                     "#F377BB",
