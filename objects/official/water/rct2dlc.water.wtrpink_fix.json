@@ -1,13 +1,11 @@
 {
-    "id": "rct2dlc.water.wtrpink",
+    "id": "rct2dlc.water.wtrpink_fix",
     "authors": [
         "Chris Sawyer",
         "Simon Foster"
     ],
     "version": "1.0",
-    "originalId": "0A92ED09|WTRPINK |30DF82E8",
     "sourceGame": "official",
-    "isCompatibilityObject": true,
     "objectType": "water",
     "properties": {
         "palettes": {
@@ -207,11 +205,11 @@
                     "#F2128A",
                     "#FF0F93",
                     "#3F001B",
-                    "#5B0027",
-                    "#77003B",
-                    "#93074B",
-                    "#B30B63",
-                    "#C71F77",
+                    "#670033",
+                    "#7B0B3F",
+                    "#8F174F",
+                    "#A31F5F",
+                    "#B7276F",
                     "#DB3B8F",
                     "#EF5BAB",
                     "#F377BB",
