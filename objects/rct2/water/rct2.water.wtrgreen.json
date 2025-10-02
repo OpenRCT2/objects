@@ -7,6 +7,7 @@
     "version": "1.0",
     "originalId": "0A188089|WTRGREEN|4025590B",
     "sourceGame": "rct2",
+    "isCompatibilityObject": true,
     "objectType": "water",
     "properties": {
         "palettes": {
@@ -246,7 +247,7 @@
                     "#435B5B",
                     "#536B6B",
                     "#637B7B",
-                    "#000063",
+                    "#00005F",
                     "#1B2B8B",
                     "#273B97"
                 ]
