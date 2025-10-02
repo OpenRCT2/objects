@@ -27,10 +27,10 @@
         ]
     },
     "images": [
-        "$RCT2:OBJDATA/HIPPO01.DAT[1]",
-        "$RCT2:OBJDATA/HIPPO01.DAT[2]",
-        "$RCT2:OBJDATA/HIPPO01.DAT[3]",
-        "$RCT2:OBJDATA/HIPPO01.DAT[0]",
+        { "path": "images/00.png", "x": -25, "y": 20 },
+        { "path": "images/01.png", "x": -25, "y": 14 },
+        { "path": "images/02.png", "x": -25, "y": 16 },
+        { "path": "images/03.png", "x": -23, "y": 21 },
         "$RCT2:OBJDATA/HIPPO01.DAT[4..11]"
     ],
     "strings": {

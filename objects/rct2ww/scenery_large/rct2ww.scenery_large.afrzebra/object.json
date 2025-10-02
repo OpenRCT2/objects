@@ -27,10 +27,10 @@
         ]
     },
     "images": [
-        "$RCT2:OBJDATA/1X2ZEBRA.DAT[1]",
-        "$RCT2:OBJDATA/1X2ZEBRA.DAT[2]",
-        "$RCT2:OBJDATA/1X2ZEBRA.DAT[3]",
-        "$RCT2:OBJDATA/1X2ZEBRA.DAT[0]",
+        { "path": "images/00.png", "x": -27, "y": 10 },
+        { "path": "images/01.png", "x": -28, "y": 5 },
+        { "path": "images/02.png", "x": -30, "y": 6 },
+        { "path": "images/03.png", "x": -28, "y": 13 },
         "$RCT2:OBJDATA/1X2ZEBRA.DAT[4..11]"
     ],
     "strings": {
