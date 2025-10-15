@@ -1,0 +1,75 @@
+{
+	"id": "openrct2.campaign.original_dlc",
+	"version": "1.0",
+	"authors": [
+		"Chris Sawyer"
+	],
+	"objectType": "campaign",
+	"sourceGame": "extras",
+	"properties": {
+		"scenarioList": [
+			{
+				"id": 33,
+				"title": "Fort Anachronism",
+				"fileName": "FORT1.SC4"
+			},
+			{
+				"id": 34,
+				"title": "Taiwan Park",
+				"fileName": "SC34.SC4"
+			},
+			{
+				"id": 71,
+				"title": "PC Player",
+				"fileName": "pcplayer.sc4"
+			},
+			{
+				"id": 72,
+				"title": "PC Gaming World",
+				"fileName": "Pcgw.sc4"
+			},
+			{
+				"id": 73,
+				"title": "gameplay",
+				"fileName": "gameplay.SC4"
+			},
+			{
+				"title": "Panda World",
+				"fileName": "Panda World.SC6"
+			},
+			{
+				"title": "Tycoon Park",
+				"fileName": "tycoon park.sea"
+			}
+		]
+	},
+	"strings": {
+		"name": {
+			"en-GB": "Original DLC Parks",
+			"ca-ES": "Parcs originals DLC",
+			"cs-CZ": "Originální DLC parky",
+			"da-DK": "Originale DLC parker",
+			"de-DE": "Originale DLC Parks",
+			"eo-ZZ": "Originala Elŝutebla-Enhavo-Parkoj",
+			"es-ES": "DLC de parques originales",
+			"fi-FI": "Alkuperäiset DLC-puistot",
+			"fr-FR": "Parcs additionnels originaux",
+			"gl-ES": "DLC de parques orixinais",
+			"hu-HU": "Eredeti DLC parkok",
+			"it-IT": "Parchi scaricabili originali",
+			"ja-JP": "オリジナルDLCパーク",
+			"ko-KR": "오리지널 다운로드 콘텐츠 공원",
+			"nb-NO": "Originale DLC Parker",
+			"nl-NL": "Originele DLC",
+			"pl-PL": "Oryginalne parki z dodatku",
+			"pt-BR": "Parques Originais Baixados (DLC)",
+			"ru-RU": "Оригинальные DLC",
+			"sv-SE": "Original DLC parker",
+			"tr-TR": "Orijinal DLC Parkları",
+			"uk-UA": "Оригінальні DLC парки",
+			"vi-VN": "Các công viên DLC gốc",
+			"zh-CN": "原版DLC游乐园",
+			"zh-TW": "額外下載的官方樂園"
+		}
+	}
+}

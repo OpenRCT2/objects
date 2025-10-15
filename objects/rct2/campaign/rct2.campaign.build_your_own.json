@@ -1,0 +1,66 @@
+{
+	"id": "rct2.campaign.build_your_own",
+	"version": "1.0",
+	"authors": [
+		"Chris Sawyer"
+	],
+	"objectType": "campaign",
+	"sourceGame": "rct2",
+	"properties": {
+		"scenarioList": [
+			{
+				"title": "Build your own Six Flags Belgium",
+				"fileName": "Build your own Six Flags Belgium.SC6"
+			},
+			{
+				"title": "Build your own Six Flags Great Adventure",
+				"fileName": "Build your own Six Flags Great Adventure.SC6"
+			},
+			{
+				"title": "Build your own Six Flags Holland",
+				"fileName": "Build your own Six Flags Holland.SC6"
+			},
+			{
+				"title": "Build your own Six Flags Magic Mountain",
+				"fileName": "Build your own Six Flags Magic Mountain.SC6"
+			},
+			{
+				"title": "Build your own Six Flags Park",
+				"fileName": "Build your own Six Flags Park.SC6"
+			},
+			{
+				"title": "Build your own Six Flags over Texas",
+				"fileName": "Build your own Six Flags over Texas.SC6"
+			}
+		]
+	},
+	"strings": {
+		"name": {
+			"en-GB": "Build your own...",
+			"ca-ES": "Construïu el vostre…",
+			"cs-CZ": "Postav si vlastní…",
+			"da-DK": "Byg din egen…",
+			"de-DE": "Bauen Sie Ihren eigenen …",
+			"eo-ZZ": "Konstrui vian propran…",
+			"es-ES": "Construye tu propio…",
+			"fi-FI": "Rakenna oma…",
+			"fr-FR": "Construisez votre propre parc…",
+			"gl-ES": "Constrúe o teu propio…",
+			"hu-HU": "Építsd meg a saját…",
+			"it-IT": "Costruisci il tuo…",
+			"ja-JP": "自分だけのビルド…",
+			"ko-KR": "직접 만들기…",
+			"nb-NO": "Bygg din egen…",
+			"nl-NL": "Bouw je eigen…",
+			"pl-PL": "Zbuduj własny…",
+			"pt-BR": "Construa seu próprio…",
+			"ru-RU": "Постройте свой…",
+			"sv-SE": "Bygg din egna…",
+			"tr-TR": "Kendiniz inşa ediniz…",
+			"uk-UA": "Збудуйте свій власний…",
+			"vi-VN": "Tự xây dựng…",
+			"zh-CN": "修建你自己的……",
+			"zh-TW": "建設你的.."
+		}
+	}
+}
