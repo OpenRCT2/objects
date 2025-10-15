@@ -5,7 +5,10 @@
 		"Chris Sawyer"
 	],
 	"objectType": "campaign",
-	"sourceGame": "rct2",
+	"sourceGame": [
+		"rct2",
+		"rct1ll"
+	],
 	"properties": {
 		"scenarioList": [
 			{
