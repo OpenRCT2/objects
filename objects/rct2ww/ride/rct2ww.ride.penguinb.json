@@ -59,7 +59,11 @@
         }
     },
     "images": [
-        "$RCT2:OBJDATA/PENGUINB.DAT[0..2706]"
+        "$RCT2:OBJDATA/PENGUINB.DAT[0..509]",
+        "$RCT2:OBJDATA/PENGUINB.DAT[1251..1263]",
+        "$RCT2:OBJDATA/PENGUINB.DAT[523..1861]",
+        "$RCT2:OBJDATA/PENGUINB.DAT[2603..2615]",
+        "$RCT2:OBJDATA/PENGUINB.DAT[1875..2706]"
     ],
     "strings": {
         "name": {
