@@ -1,0 +1,83 @@
+{
+	"id": "rct2.campaign.base_game",
+	"version": "1.0",
+	"authors": [
+		"Chris Sawyer"
+	],
+	"objectType": "campaign",
+	"sourceGame": "rct2",
+	"properties": {
+		"unlockCount": 5,
+		"scenarioList": [
+			{
+				"title": "Electric Fields",
+				"fileName": "Electric Fields.SC6"
+			},
+			{
+				"title": "Factory Capers",
+				"fileName": "Factory Capers.SC6"
+			},
+			{
+				"title": "Crazy Castle",
+				"fileName": "Crazy Castle.SC6"
+			},
+			{
+				"title": "Dusty Greens",
+				"fileName": "Dusty Greens.SC6"
+			},
+			{
+				"title": "Bumbly Bazaar",
+				"fileName": "Bumbly Bazaar.SC6"
+			},
+			{
+				"title": "Infernal Views",
+				"fileName": "Infernal Views.SC6"
+			},
+			{
+				"title": "Lucky Lake",
+				"fileName": "Lucky Lake.SC6"
+			},
+			{
+				"title": "Botany Breakers",
+				"fileName": "Botany Breakers.SC6"
+			},
+			{
+				"title": "Alpine Adventures",
+				"fileName": "Alpine Adventures.SC6"
+			},
+			{
+				"title": "Gravity Gardens",
+				"fileName": "Gravity Gardens.SC6"
+			},
+			{
+				"title": "Extreme Heights",
+				"fileName": "Extreme Heights.SC6"
+			},
+			{
+				"title": "Amity Airfield",
+				"fileName": "Amity Airfield.SC6"
+			},
+			{
+				"title": "Ghost Town",
+				"fileName": "Ghost Town.SC6"
+			},
+			{
+				"title": "Fungus Woods",
+				"fileName": "Fungus Woods.SC6"
+			},
+			{
+				"title": "Rainbow Summit",
+				"fileName": "Rainbow Summit.SC6"
+			}
+		]
+	},
+	"strings": {
+		"name": {
+			"en-GB": "RollerCoaster Tycoon 2",
+			"ja-JP": "ローラーコースタータイクーン 2",
+			"ko-KR": "롤러코스터 타이쿤 2",
+			"zh-CN": "过山车大亨2",
+			"zh-TW": "模擬樂園2"
+		}
+	}
+}
