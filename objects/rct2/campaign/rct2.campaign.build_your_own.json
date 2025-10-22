@@ -7,30 +7,35 @@
 	"objectType": "campaign",
 	"sourceGame": "rct2",
 	"properties": {
-		"scenarioList": [
+		"scenarioGroups": [
 			{
-				"title": "Build your own Six Flags Belgium",
-				"fileName": "Build your own Six Flags Belgium.SC6"
-			},
-			{
-				"title": "Build your own Six Flags Great Adventure",
-				"fileName": "Build your own Six Flags Great Adventure.SC6"
-			},
-			{
-				"title": "Build your own Six Flags Holland",
-				"fileName": "Build your own Six Flags Holland.SC6"
-			},
-			{
-				"title": "Build your own Six Flags Magic Mountain",
-				"fileName": "Build your own Six Flags Magic Mountain.SC6"
-			},
-			{
-				"title": "Build your own Six Flags Park",
-				"fileName": "Build your own Six Flags Park.SC6"
-			},
-			{
-				"title": "Build your own Six Flags over Texas",
-				"fileName": "Build your own Six Flags over Texas.SC6"
+				"header": "buildYourOwn",
+				"scenarios": [
+					{
+						"title": "Build your own Six Flags Belgium",
+						"fileName": "Build your own Six Flags Belgium.SC6"
+					},
+					{
+						"title": "Build your own Six Flags Great Adventure",
+						"fileName": "Build your own Six Flags Great Adventure.SC6"
+					},
+					{
+						"title": "Build your own Six Flags Holland",
+						"fileName": "Build your own Six Flags Holland.SC6"
+					},
+					{
+						"title": "Build your own Six Flags Magic Mountain",
+						"fileName": "Build your own Six Flags Magic Mountain.SC6"
+					},
+					{
+						"title": "Build your own Six Flags Park",
+						"fileName": "Build your own Six Flags Park.SC6"
+					},
+					{
+						"title": "Build your own Six Flags over Texas",
+						"fileName": "Build your own Six Flags over Texas.SC6"
+					}
+				]
 			}
 		]
 	},

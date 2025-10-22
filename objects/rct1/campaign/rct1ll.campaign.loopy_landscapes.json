@@ -7,157 +7,172 @@
 	"objectType": "campaign",
 	"sourceGame": "rct1ll",
 	"properties": {
-		"unlockCount": 5,
-		"scenarioList": [
+		"numUnlockedScenarios": 5,
+		"scenarioGroups": [
 			{
-				"id": 22,
-				"title": "Iceberg Islands",
-				"fileName": "SC22.SC4"
+				"header": "beginner",
+				"scenarios": [
+					{
+						"id": 22,
+						"title": "Iceberg Islands",
+						"fileName": "SC22.SC4"
+					},
+					{
+						"id": 23,
+						"title": "Volcania",
+						"fileName": "SC23.SC4"
+					},
+					{
+						"id": 24,
+						"title": "Arid Heights",
+						"fileName": "SC24.SC4"
+					},
+					{
+						"id": 25,
+						"title": "Razor Rocks",
+						"fileName": "SC25.SC4"
+					},
+					{
+						"id": 26,
+						"title": "Crater Lake",
+						"fileName": "SC26.SC4"
+					},
+					{
+						"id": 27,
+						"title": "Vertigo Views",
+						"fileName": "SC27.SC4"
+					}
+				]
 			},
 			{
-				"id": 23,
-				"title": "Volcania",
-				"fileName": "SC23.SC4"
+				"header": "challenging",
+				"scenarios": [
+					{
+						"id": 28,
+						"title": "Paradise Pier 2",
+						"fileName": "SC28.SC4"
+					},
+					{
+						"id": 29,
+						"title": "Dragon's Cove",
+						"fileName": "SC29.SC4"
+					},
+					{
+						"id": 30,
+						"title": "Good Knight Park",
+						"fileName": "SC30.SC4"
+					},
+					{
+						"id": 31,
+						"title": "Wacky Warren",
+						"fileName": "SC31.SC4"
+					},
+					{
+						"id": 80,
+						"title": "Grand Glacier",
+						"fileName": "SC80.SC4"
+					},
+					{
+						"id": 81,
+						"title": "Crazy Craters",
+						"fileName": "SC81.SC4"
+					},
+					{
+						"id": 82,
+						"title": "Dusty Desert",
+						"fileName": "SC82.SC4"
+					},
+					{
+						"id": 83,
+						"title": "Woodworm Park",
+						"fileName": "SC83.SC4"
+					},
+					{
+						"id": 84,
+						"title": "Icarus Park",
+						"fileName": "SC84.SC4"
+					},
+					{
+						"id": 85,
+						"title": "Sunny Swamps",
+						"fileName": "SC85.SC4"
+					},
+					{
+						"id": 86,
+						"title": "Frightmare Hills",
+						"fileName": "SC86.SC4"
+					},
+					{
+						"id": 87,
+						"title": "Thunder Rocks",
+						"fileName": "SC87.SC4"
+					},
+					{
+						"id": 88,
+						"title": "Octagon Park",
+						"fileName": "SC88.SC4"
+					},
+					{
+						"id": 89,
+						"title": "Pleasure Island",
+						"fileName": "SC89.SC4"
+					},
+					{
+						"id": 90,
+						"title": "Icicle Worlds",
+						"fileName": "SC90.SC4"
+					}
+				]
 			},
 			{
-				"id": 24,
-				"title": "Arid Heights",
-				"fileName": "SC24.SC4"
-			},
-			{
-				"id": 25,
-				"title": "Razor Rocks",
-				"fileName": "SC25.SC4"
-			},
-			{
-				"id": 26,
-				"title": "Crater Lake",
-				"fileName": "SC26.SC4"
-			},
-			{
-				"id": 27,
-				"title": "Vertigo Views",
-				"fileName": "SC27.SC4"
-			},
-			{
-				"id": 28,
-				"title": "Paradise Pier 2",
-				"fileName": "SC28.SC4"
-			},
-			{
-				"id": 29,
-				"title": "Dragon's Cove",
-				"fileName": "SC29.SC4"
-			},
-			{
-				"id": 30,
-				"title": "Good Knight Park",
-				"fileName": "SC30.SC4"
-			},
-			{
-				"id": 31,
-				"title": "Wacky Warren",
-				"fileName": "SC31.SC4"
-			},
-			{
-				"id": 80,
-				"title": "Grand Glacier",
-				"fileName": "SC80.SC4"
-			},
-			{
-				"id": 81,
-				"title": "Crazy Craters",
-				"fileName": "SC81.SC4"
-			},
-			{
-				"id": 82,
-				"title": "Dusty Desert",
-				"fileName": "SC82.SC4"
-			},
-			{
-				"id": 83,
-				"title": "Woodworm Park",
-				"fileName": "SC83.SC4"
-			},
-			{
-				"id": 84,
-				"title": "Icarus Park",
-				"fileName": "SC84.SC4"
-			},
-			{
-				"id": 85,
-				"title": "Sunny Swamps",
-				"fileName": "SC85.SC4"
-			},
-			{
-				"id": 86,
-				"title": "Frightmare Hills",
-				"fileName": "SC86.SC4"
-			},
-			{
-				"id": 87,
-				"title": "Thunder Rocks",
-				"fileName": "SC87.SC4"
-			},
-			{
-				"id": 88,
-				"title": "Octagon Park",
-				"fileName": "SC88.SC4"
-			},
-			{
-				"id": 89,
-				"title": "Pleasure Island",
-				"fileName": "SC89.SC4"
-			},
-			{
-				"id": 90,
-				"title": "Icicle Worlds",
-				"fileName": "SC90.SC4"
-			},
-			{
-				"id": 91,
-				"title": "Southern Sands",
-				"fileName": "SC91.SC4"
-			},
-			{
-				"id": 92,
-				"title": "Tiny Towers",
-				"fileName": "SC92.SC4"
-			},
-			{
-				"id": 93,
-				"title": "Nevermore Park",
-				"fileName": "SC93.SC4"
-			},
-			{
-				"id": 94,
-				"title": "Pacifica",
-				"fileName": "SC94.SC4"
-			},
-			{
-				"id": 95,
-				"title": "Urban Jungle",
-				"fileName": "SC95.SC4"
-			},
-			{
-				"id": 96,
-				"title": "Terror Town",
-				"fileName": "SC96.SC4"
-			},
-			{
-				"id": 97,
-				"title": "Megaworld Park",
-				"fileName": "SC97.SC4"
-			},
-			{
-				"id": 98,
-				"title": "Venus Ponds",
-				"fileName": "SC98.SC4"
-			},
-			{
-				"id": 99,
-				"title": "Micro Park",
-				"fileName": "SC99.SC4"
+				"header": "expert",
+				"scenarios": [
+					{
+						"id": 91,
+						"title": "Southern Sands",
+						"fileName": "SC91.SC4"
+					},
+					{
+						"id": 92,
+						"title": "Tiny Towers",
+						"fileName": "SC92.SC4"
+					},
+					{
+						"id": 93,
+						"title": "Nevermore Park",
+						"fileName": "SC93.SC4"
+					},
+					{
+						"id": 94,
+						"title": "Pacifica",
+						"fileName": "SC94.SC4"
+					},
+					{
+						"id": 95,
+						"title": "Urban Jungle",
+						"fileName": "SC95.SC4"
+					},
+					{
+						"id": 96,
+						"title": "Terror Town",
+						"fileName": "SC96.SC4"
+					},
+					{
+						"id": 97,
+						"title": "Megaworld Park",
+						"fileName": "SC97.SC4"
+					},
+					{
+						"id": 98,
+						"title": "Venus Ponds",
+						"fileName": "SC98.SC4"
+					},
+					{
+						"id": 99,
+						"title": "Micro Park",
+						"fileName": "SC99.SC4"
+					}
+				]
 			}
 		]
 	},

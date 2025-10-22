@@ -7,118 +7,137 @@
 	"objectType": "campaign",
 	"sourceGame": "rct1",
 	"properties": {
-		"hiddenEndScenarios": 1,
-		"unlockCount": 5,
-		"scenarioList": [
+		"numUnlockedScenarios": 5,
+		"scenarioGroups": [
 			{
-				"id": 0,
-				"title": "Forest Frontiers",
-				"fileName": "sc0.sc4"
+				"header": "beginner",
+				"scenarios": [
+					{
+						"id": 0,
+						"title": "Forest Frontiers",
+						"fileName": "sc0.sc4"
+					},
+					{
+						"id": 1,
+						"title": "Dynamite Dunes",
+						"fileName": "sc1.sc4"
+					},
+					{
+						"id": 2,
+						"title": "Leafy Lake",
+						"fileName": "sc2.sc4"
+					},
+					{
+						"id": 3,
+						"title": "Diamond Heights",
+						"fileName": "sc3.sc4"
+					},
+					{
+						"id": 4,
+						"title": "Evergreen Gardens",
+						"fileName": "sc4.sc4"
+					},
+					{
+						"id": 5,
+						"title": "Bumbly Beach",
+						"fileName": "sc5.sc4"
+					}
+				]
 			},
 			{
-				"id": 1,
-				"title": "Dynamite Dunes",
-				"fileName": "sc1.sc4"
+				"header": "challenging",
+				"scenarios": [
+					{
+						"id": 6,
+						"title": "Trinity Islands",
+						"fileName": "sc6.sc4"
+					},
+					{
+						"id": 7,
+						"title": "Katie's Dreamland",
+						"fileName": "sc7.sc4"
+					},
+					{
+						"id": 8,
+						"title": "Pokey Park",
+						"fileName": "sc8.sc4"
+					},
+					{
+						"id": 9,
+						"title": "White Water Park",
+						"fileName": "sc9.sc4"
+					},
+					{
+						"id": 10,
+						"title": "Millennium Mines",
+						"fileName": "sc10.sc4"
+					},
+					{
+						"id": 11,
+						"title": "Karts & Coasters",
+						"fileName": "sc11.sc4"
+					},
+					{
+						"id": 12,
+						"title": "Mel's World",
+						"fileName": "sc12.sc4"
+					},
+					{
+						"id": 13,
+						"title": "Mystic Mountain",
+						"fileName": "sc13.sc4"
+					},
+					{
+						"id": 14,
+						"title": "Pacific Pyramids",
+						"fileName": "sc14.sc4"
+					},
+					{
+						"id": 15,
+						"title": "Crumbly Woods",
+						"fileName": "sc15.sc4"
+					},
+					{
+						"id": 16,
+						"title": "Paradise Pier",
+						"fileName": "sc16.sc4"
+					}
+				]
 			},
 			{
-				"id": 2,
-				"title": "Leafy Lake",
-				"fileName": "sc2.sc4"
+				"header": "expert",
+				"scenarios": [
+					{
+						"id": 17,
+						"title": "Lightning Peaks",
+						"fileName": "sc17.sc4"
+					},
+					{
+						"id": 18,
+						"title": "Ivory Towers",
+						"fileName": "sc18.sc4"
+					},
+					{
+						"id": 19,
+						"title": "Rainbow Valley",
+						"fileName": "sc19.sc4"
+					},
+					{
+						"id": 20,
+						"title": "Thunder Rock",
+						"fileName": "sc20.sc4"
+					}
+				]
 			},
 			{
-				"id": 3,
-				"title": "Diamond Heights",
-				"fileName": "sc3.sc4"
-			},
-			{
-				"id": 4,
-				"title": "Evergreen Gardens",
-				"fileName": "sc4.sc4"
-			},
-			{
-				"id": 5,
-				"title": "Bumbly Beach",
-				"fileName": "sc5.sc4"
-			},
-			{
-				"id": 6,
-				"title": "Trinity Islands",
-				"fileName": "sc6.sc4"
-			},
-			{
-				"id": 7,
-				"title": "Katie's Dreamland",
-				"fileName": "sc7.sc4"
-			},
-			{
-				"id": 8,
-				"title": "Pokey Park",
-				"fileName": "sc8.sc4"
-			},
-			{
-				"id": 9,
-				"title": "White Water Park",
-				"fileName": "sc9.sc4"
-			},
-			{
-				"id": 10,
-				"title": "Millennium Mines",
-				"fileName": "sc10.sc4"
-			},
-			{
-				"id": 11,
-				"title": "Karts & Coasters",
-				"fileName": "sc11.sc4"
-			},
-			{
-				"id": 12,
-				"title": "Mel's World",
-				"fileName": "sc12.sc4"
-			},
-			{
-				"id": 13,
-				"title": "Mystic Mountain",
-				"fileName": "sc13.sc4"
-			},
-			{
-				"id": 14,
-				"title": "Pacific Pyramids",
-				"fileName": "sc14.sc4"
-			},
-			{
-				"id": 15,
-				"title": "Crumbly Woods",
-				"fileName": "sc15.sc4"
-			},
-			{
-				"id": 16,
-				"title": "Paradise Pier",
-				"fileName": "sc16.sc4"
-			},
-			{
-				"id": 17,
-				"title": "Lightning Peaks",
-				"fileName": "sc17.sc4"
-			},
-			{
-				"id": 18,
-				"title": "Ivory Towers",
-				"fileName": "sc18.sc4"
-			},
-			{
-				"id": 19,
-				"title": "Rainbow Valley",
-				"fileName": "sc19.sc4"
-			},
-			{
-				"id": 20,
-				"title": "Thunder Rock",
-				"fileName": "sc20.sc4"
-			},
-			{
-				"id": 21,
-				"title": "Mega Park",
-				"fileName": "sc21.sc4"
+				"header": "bonus",
+				"scenarios": [
+					{
+						"id": 21,
+						"title": "Mega Park",
+						"fileName": "sc21.sc4"
+					}
+				]
 			}
 		]
 	},

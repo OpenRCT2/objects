@@ -7,69 +7,74 @@
 	"objectType": "campaign",
 	"sourceGame": "official",
 	"properties": {
-		"scenarioList": [
+		"scenarioGroups": [
 			{
-				"title": "Competition Land 1",
-				"fileName": "Competition Land 1.SC6"
-			},
-			{
-				"title": "Competition Land 2",
-				"fileName": "Competition Land 2.SC6"
-			},
-			{
-				"id": 120,
-				"title": "Bobsled Roller Coaster Competition",
-				"fileName": "sc120.sc4"
-			},
-			{
-				"id": 114,
-				"title": "Go Karts Competition",
-				"fileName": "sc114.sc4"
-			},
-			{
-				"id": 123,
-				"title": "Inverted Roller Coaster Competition",
-				"fileName": "sc123.sc4"
-			},
-			{
-				"id": 117,
-				"title": "Mine Train Roller Coaster Competition",
-				"fileName": "sc117.sc4"
-			},
-			{
-				"id": 125,
-				"title": "Stand-Up Steel Roller Coaster Competition",
-				"fileName": "sc125.sc4"
-			},
-			{
-				"id": 116,
-				"title": "Steel Corkscrew Roller Coaster Competition",
-				"fileName": "sc116.sc4"
-			},
-			{
-				"id": 127,
-				"title": "Steel Mini-Roller Coaster Competition",
-				"fileName": "sc127.sc4"
-			},
-			{
-				"id": 119,
-				"title": "Steel Roller Coaster Competition",
-				"fileName": "sc119.sc4"
-			},
-			{
-				"id": 110,
-				"title": "Steel Twister Roller Coaster Competition",
-				"fileName": "Comp-st.sc4"
-			},
-			{
-				"id": 124,
-				"title": "Suspended Roller Coaster Competition",
-				"fileName": "sc124.sc4"
-			},
-			{
-				"id": 126,
-				"title": "Wooden Roller Coaster Competition",
-				"fileName": "sc126.sc4"
+				"header": "competitions",
+				"scenarios": [
+					{
+						"title": "Competition Land 1",
+						"fileName": "Competition Land 1.SC6"
+					},
+					{
+						"title": "Competition Land 2",
+						"fileName": "Competition Land 2.SC6"
+					},
+					{
+						"id": 120,
+						"title": "Bobsled Roller Coaster Competition",
+						"fileName": "sc120.sc4"
+					},
+					{
+						"id": 114,
+						"title": "Go Karts Competition",
+						"fileName": "sc114.sc4"
+					},
+					{
+						"id": 123,
+						"title": "Inverted Roller Coaster Competition",
+						"fileName": "sc123.sc4"
+					},
+					{
+						"id": 117,
+						"title": "Mine Train Roller Coaster Competition",
+						"fileName": "sc117.sc4"
+					},
+					{
+						"id": 125,
+						"title": "Stand-Up Steel Roller Coaster Competition",
+						"fileName": "sc125.sc4"
+					},
+					{
+						"id": 116,
+						"title": "Steel Corkscrew Roller Coaster Competition",
+						"fileName": "sc116.sc4"
+					},
+					{
+						"id": 127,
+						"title": "Steel Mini-Roller Coaster Competition",
+						"fileName": "sc127.sc4"
+					},
+					{
+						"id": 119,
+						"title": "Steel Roller Coaster Competition",
+						"fileName": "sc119.sc4"
+					},
+					{
+						"id": 110,
+						"title": "Steel Twister Roller Coaster Competition",
+						"fileName": "Comp-st.sc4"
+					},
+					{
+						"id": 124,
+						"title": "Suspended Roller Coaster Competition",
+						"fileName": "sc124.sc4"
+					},
+					{
+						"id": 126,
+						"title": "Wooden Roller Coaster Competition",
+						"fileName": "sc126.sc4"
+					}
+				]
 			}
 		]
 	},

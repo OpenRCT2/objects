@@ -10,46 +10,51 @@
 		"rct1ll"
 	],
 	"properties": {
-		"scenarioList": [
+		"scenarioGroups": [
 			{
-				"id": 32,
-				"title": "Alton Towers",
-				"fileName": "ALTON1.SC4"
-			},
-			{
-				"id": 70,
-				"title": "Heide-Park",
-				"fileName": "HEIDE.SC4"
-			},
-			{
-				"id": 74,
-				"title": "Blackpool Pleasure Beach",
-				"fileName": "BPB1.SC4"
-			},
-			{
-				"id": 255,
-				"title": "Six Flags Belgium",
-				"fileName": "Six Flags Belgium.SC6"
-			},
-			{
-				"id": 255,
-				"title": "Six Flags Great Adventure",
-				"fileName": "Six Flags Great Adventure.SC6"
-			},
-			{
-				"id": 255,
-				"title": "Six Flags Holland",
-				"fileName": "Six Flags Holland.SC6"
-			},
-			{
-				"id": 255,
-				"title": "Six Flags Magic Mountain",
-				"fileName": "Six Flags Magic Mountain.SC6"
-			},
-			{
-				"id": 255,
-				"title": "Six Flags over Texas",
-				"fileName": "Six Flags over Texas.SC6"
+				"header": "real",
+				"scenarios": [
+					{
+						"id": 32,
+						"title": "Alton Towers",
+						"fileName": "ALTON1.SC4"
+					},
+					{
+						"id": 70,
+						"title": "Heide-Park",
+						"fileName": "HEIDE.SC4"
+					},
+					{
+						"id": 74,
+						"title": "Blackpool Pleasure Beach",
+						"fileName": "BPB1.SC4"
+					},
+					{
+						"id": 255,
+						"title": "Six Flags Belgium",
+						"fileName": "Six Flags Belgium.SC6"
+					},
+					{
+						"id": 255,
+						"title": "Six Flags Great Adventure",
+						"fileName": "Six Flags Great Adventure.SC6"
+					},
+					{
+						"id": 255,
+						"title": "Six Flags Holland",
+						"fileName": "Six Flags Holland.SC6"
+					},
+					{
+						"id": 255,
+						"title": "Six Flags Magic Mountain",
+						"fileName": "Six Flags Magic Mountain.SC6"
+					},
+					{
+						"id": 255,
+						"title": "Six Flags over Texas",
+						"fileName": "Six Flags over Texas.SC6"
+					}
+				]
 			}
 		]
 	},

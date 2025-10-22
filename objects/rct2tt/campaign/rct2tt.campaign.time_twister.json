@@ -7,63 +7,78 @@
 	"objectType": "campaign",
 	"sourceGame": "rct2tt",
 	"properties": {
-		"unlockCount": 5,
-		"scenarioList": [
+		"numUnlockedScenarios": 5,
+		"scenarioGroups": [
 			{
-				"title": "Dark Age - Robin Hood",
-				"fileName": "Dark Age - Robin Hood.SC6"
+				"header": "beginner",
+				"scenarios": [
+					{
+						"title": "Dark Age - Robin Hood",
+						"fileName": "Dark Age - Robin Hood.SC6"
+					},
+					{
+						"title": "Prehistoric - After the Asteroid",
+						"fileName": "Prehistoric - After the Asteroid.SC6"
+					},
+					{
+						"title": "Roaring Twenties - Prison Island",
+						"fileName": "Roaring Twenties - Prison Island.SC6"
+					},
+					{
+						"title": "Future - First Encounters",
+						"fileName": "Future - First Encounters.SC6"
+					}
+				]
 			},
 			{
-				"title": "Prehistoric - After the Asteroid",
-				"fileName": "Prehistoric - After the Asteroid.SC6"
+				"header": "challenging",
+				"scenarios": [
+					{
+						"title": "Roaring Twenties - Schneider Cup",
+						"fileName": "Roaring Twenties - Schneider Cup.SC6"
+					},
+					{
+						"title": "Prehistoric - Stone Age",
+						"fileName": "Prehistoric - Stone Age.SC6"
+					},
+					{
+						"title": "Mythological - Cradle of Civilisation",
+						"fileName": "Mythological - Cradle of Civilization.SC6"
+					},
+					{
+						"title": "Rock 'n' Roll - Rock 'n' Roll",
+						"fileName": "Rock 'n' Roll - Rock 'n' Roll.SC6"
+					},
+					{
+						"title": "Future - Future World",
+						"fileName": "Future - Future World.SC6"
+					}
+				]
 			},
 			{
-				"title": "Roaring Twenties - Prison Island",
-				"fileName": "Roaring Twenties - Prison Island.SC6"
-			},
-			{
-				"title": "Future - First Encounters",
-				"fileName": "Future - First Encounters.SC6"
-			},
-			{
-				"title": "Roaring Twenties - Schneider Cup",
-				"fileName": "Roaring Twenties - Schneider Cup.SC6"
-			},
-			{
-				"title": "Prehistoric - Stone Age",
-				"fileName": "Prehistoric - Stone Age.SC6"
-			},
-			{
-				"title": "Mythological - Cradle of Civilisation",
-				"fileName": "Mythological - Cradle of Civilization.SC6"
-			},
-			{
-				"title": "Rock 'n' Roll - Rock 'n' Roll",
-				"fileName": "Rock 'n' Roll - Rock 'n' Roll.SC6"
-			},
-			{
-				"title": "Future - Future World",
-				"fileName": "Future - Future World.SC6"
-			},
-			{
-				"title": "Roaring Twenties - Skyscrapers",
-				"fileName": "Roaring Twenties - Skyscrapers.SC6"
-			},
-			{
-				"title": "Rock 'n' Roll - Flower Power",
-				"fileName": "Rock 'n' Roll - Flower Power.SC6"
-			},
-			{
-				"title": "Dark Age - Castle",
-				"fileName": "Dark Age - Castle.SC6"
-			},
-			{
-				"title": "Mythological - Animatronic Film Set",
-				"fileName": "Mythological - Animatronic Film Set.SC6"
-			},
-			{
-				"title": "Prehistoric - Jurassic Safari",
-				"fileName": "Prehistoric - Jurassic Safari.SC6"
+				"header": "expert",
+				"scenarios": [
+					{
+						"title": "Roaring Twenties - Skyscrapers",
+						"fileName": "Roaring Twenties - Skyscrapers.SC6"
+					},
+					{
+						"title": "Rock 'n' Roll - Flower Power",
+						"fileName": "Rock 'n' Roll - Flower Power.SC6"
+					},
+					{
+						"title": "Dark Age - Castle",
+						"fileName": "Dark Age - Castle.SC6"
+					},
+					{
+						"title": "Mythological - Animatronic Film Set",
+						"fileName": "Mythological - Animatronic Film Set.SC6"
+					},
+					{
+						"title": "Prehistoric - Jurassic Safari",
+						"fileName": "Prehistoric - Jurassic Safari.SC6"
+					}
+				]
 			}
 		]
 	},

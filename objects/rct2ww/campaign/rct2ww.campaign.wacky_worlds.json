@@ -7,75 +7,90 @@
 	"objectType": "campaign",
 	"sourceGame": "rct2ww",
 	"properties": {
-		"unlockCount": 5,
-		"scenarioList": [
+		"numUnlockedScenarios": 5,
+		"scenarioGroups": [
 			{
-				"title": "North America - Grand Canyon",
-				"fileName": "North America - Grand Canyon.SC6"
+				"header": "beginner",
+				"scenarios": [
+					{
+						"title": "North America - Grand Canyon",
+						"fileName": "North America - Grand Canyon.SC6"
+					},
+					{
+						"title": "Asia - Great Wall of China Tourism Enhancement",
+						"fileName": "Asia - Great Wall of China Tourism Enhancement.SC6"
+					},
+					{
+						"title": "Africa - African Diamond Mine",
+						"fileName": "Africa - African Diamond Mine.SC6"
+					},
+					{
+						"title": "Australasia - Ayers Rock",
+						"fileName": "Australasia - Ayers Rock.SC6"
+					},
+					{
+						"title": "North America - Rollercoaster Heaven",
+						"fileName": "North America - Rollercoaster Heaven.SC6"
+					}
+				]
 			},
 			{
-				"title": "Asia - Great Wall of China Tourism Enhancement",
-				"fileName": "Asia - Great Wall of China Tourism Enhancement.SC6"
+				"header": "challenging",
+				"scenarios": [
+					{
+						"title": "Africa - Oasis",
+						"fileName": "Africa - Oasis.SC6"
+					},
+					{
+						"title": "South America - Rio Carnival",
+						"fileName": "South America - Rio Carnival.SC6"
+					},
+					{
+						"title": "Asia - Maharaja Palace",
+						"fileName": "Asia - Maharaja Palace.SC6"
+					},
+					{
+						"title": "Africa - Victoria Falls",
+						"fileName": "Africa - Victoria Falls.SC6"
+					},
+					{
+						"title": "N. America - Extreme Hawaiian Island",
+						"fileName": "N America - Extreme Hawaiian Island.SC6"
+					},
+					{
+						"title": "South America - Rain Forest Plateau",
+						"fileName": "South America - Rain Forest Plateau.SC6"
+					},
+					{
+						"title": "Europe - Renovation",
+						"fileName": "Europe - Renovation.SC6"
+					}
+				]
 			},
 			{
-				"title": "Africa - African Diamond Mine",
-				"fileName": "Africa - African Diamond Mine.SC6"
-			},
-			{
-				"title": "Australasia - Ayers Rock",
-				"fileName": "Australasia - Ayers Rock.SC6"
-			},
-			{
-				"title": "North America - Rollercoaster Heaven",
-				"fileName": "North America - Rollercoaster Heaven.SC6"
-			},
-			{
-				"title": "Africa - Oasis",
-				"fileName": "Africa - Oasis.SC6"
-			},
-			{
-				"title": "South America - Rio Carnival",
-				"fileName": "South America - Rio Carnival.SC6"
-			},
-			{
-				"title": "Asia - Maharaja Palace",
-				"fileName": "Asia - Maharaja Palace.SC6"
-			},
-			{
-				"title": "Africa - Victoria Falls",
-				"fileName": "Africa - Victoria Falls.SC6"
-			},
-			{
-				"title": "N. America - Extreme Hawaiian Island",
-				"fileName": "N America - Extreme Hawaiian Island.SC6"
-			},
-			{
-				"title": "South America - Rain Forest Plateau",
-				"fileName": "South America - Rain Forest Plateau.SC6"
-			},
-			{
-				"title": "Europe - Renovation",
-				"fileName": "Europe - Renovation.SC6"
-			},
-			{
-				"title": "Antarctic - Ecological Salvage",
-				"fileName": "Antarctic - Ecological Salvage.SC6"
-			},
-			{
-				"title": "Europe - European Cultural Festival",
-				"fileName": "Europe - European Cultural Festival.SC6"
-			},
-			{
-				"title": "Australasia - Fun at the Beach",
-				"fileName": "Australasia - Fun at the Beach.SC6"
-			},
-			{
-				"title": "South America - Inca Lost City",
-				"fileName": "South America - Inca Lost City.SC6"
-			},
-			{
-				"title": "Asia - Japanese Coastal Reclaim",
-				"fileName": "Asia - Japanese Coastal Reclaim.SC6"
+				"header": "expert",
+				"scenarios": [
+					{
+						"title": "Antarctic - Ecological Salvage",
+						"fileName": "Antarctic - Ecological Salvage.SC6"
+					},
+					{
+						"title": "Europe - European Cultural Festival",
+						"fileName": "Europe - European Cultural Festival.SC6"
+					},
+					{
+						"title": "Australasia - Fun at the Beach",
+						"fileName": "Australasia - Fun at the Beach.SC6"
+					},
+					{
+						"title": "South America - Inca Lost City",
+						"fileName": "South America - Inca Lost City.SC6"
+					},
+					{
+						"title": "Asia - Japanese Coastal Reclaim",
+						"fileName": "Asia - Japanese Coastal Reclaim.SC6"
+					}
+				]
 			}
 		]
 	},
