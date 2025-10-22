@@ -6,7 +6,12 @@
 		"Atari"
 	],
 	"objectType": "campaign",
-	"sourceGame": "official",
+	"sourceGame": [
+		"rct2",
+		"rct1ll",
+		"rct1aa",
+		"rct1",
+	],
 	"properties": {
 		"numUnlockedScenarios": 3,
 		"numUnlockedGroups": 3,
