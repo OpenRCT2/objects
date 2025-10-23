@@ -17,9 +17,7 @@
 		"numUnlockedGroups": 3,
 		"scenarioGroups": [
 			{
-				"header": {
-					"en-GB": "Graphite Group"
-				},
+				"header": "Graphite Group",
 				"scenarios": [
 					{
 						"title": "Forest Frontiers",
@@ -60,9 +58,7 @@
 				]
 			},
 			{
-				"header": {
-					"en-GB": "Emerald Group"
-				},
+				"header": "Emerald Group",
 				"scenarios": [
 					{
 						"title": "Bumbly Beach",
@@ -103,9 +99,7 @@
 				]
 			},
 			{
-				"header": {
-					"en-GB": "Ruby Group"
-				},
+				"header": "Ruby Group",
 				"scenarios": [
 					{
 						"title": "Millennium Mines",
@@ -146,9 +140,7 @@
 				]
 			},
 			{
-				"header": {
-					"en-GB": "Sapphire Group"
-				},
+				"header": "Sapphire Group",
 				"scenarios": [
 					{
 						"title": "Iceberg Islands",
@@ -189,9 +181,7 @@
 				]
 			},
 			{
-				"header": {
-					"en-GB": "Amethyst group"
-				},
+				"header": "Amethyst group",
 				"scenarios": [
 					{
 						"title": "Fun Fortress",
@@ -232,9 +222,7 @@
 				]
 			},
 			{
-				"header": {
-					"en-GB": "Coral Group"
-				},
+				"header": "Coral Group",
 				"scenarios": [
 					{
 						"title": "Butterfly Dam",
@@ -279,9 +267,7 @@
 				]
 			},
 			{
-				"header": {
-					"en-GB": "Ivory Group"
-				},
+				"header": "Ivory Group",
 				"scenarios": [
 					{
 						"title": "Utopia Park",
@@ -326,9 +312,7 @@
 				]
 			},
 			{
-				"header": {
-					"en-GB": "Bronze Group"
-				},
+				"header": "Bronze Group",
 				"scenarios": [
 					{
 						"title": "Dusty Desert",
@@ -373,9 +357,7 @@
 				]
 			},
 			{
-				"header": {
-					"en-GB": "Silver Group"
-				},
+				"header": "Silver Group",
 				"scenarios": [
 					{
 						"title": "Fiasco Forest",
@@ -420,9 +402,7 @@
 				]
 			},
 			{
-				"header": {
-					"en-GB": "Gold Group"
-				},
+				"header": "Gold Group",
 				"scenarios": [
 					{
 						"title": "Rainbow Valley",
