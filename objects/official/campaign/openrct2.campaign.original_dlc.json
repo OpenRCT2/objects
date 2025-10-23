@@ -13,28 +13,43 @@
 				"scenarios": [
 					{
 						"title": "Fort Anachronism",
-						"fileName": "FORT1.SC4"
+						"fileName": [
+							"FORT1.SC4",
+							"Fort Anachronism.SC6"
+						]
 					},
 					{
 						"title": "Taiwan Park",
-						"fileName": "SC34.SC4"
+						"fileName": [
+							"SC34.SC4",
+							"Taiwan Park.SC6"
+						]
 					},
 					{
 						"title": "PC Player",
-						"fileName": "pcplayer.sc4"
+						"fileName": [
+							"pcplayer.sc4",
+							"PC Player.SC6"
+						]
 					},
 					{
 						"title": "PC Gaming World",
-						"fileName": "Pcgw.sc4"
+						"fileName": [
+							"Pcgw.sc4",
+							"PC Gaming World.SC6"
+						]
 					},
 					{
 						"title": "gameplay",
-						"fileName": "gameplay.SC4"
+						"fileName": [
+							"gameplay.SC4",
+							"gameplay.SC6"
+						]
 					},
 					{
 						"title": "Panda World",
 						"fileName": [
-							"Panda World.SC6", 
+							"Panda World.SC6",
 							"Panda World.sea"
 						]
 					}

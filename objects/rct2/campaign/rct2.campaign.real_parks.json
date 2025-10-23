@@ -16,15 +16,24 @@
 				"scenarios": [
 					{
 						"title": "Alton Towers",
-						"fileName": "ALTON1.SC4"
+						"fileName": [
+							"ALTON1.SC4",
+							"Alton Towers.SC6"
+						]
 					},
 					{
 						"title": "Heide-Park",
-						"fileName": "HEIDE.SC4"
+						"fileName": [
+							"HEIDE.SC4",
+							"Heide-Park.SC6"
+						]
 					},
 					{
 						"title": "Blackpool Pleasure Beach",
-						"fileName": "BPB1.SC4"
+						"fileName": [
+							"BPB1.SC4",
+							"Blackpool Pleasure Beach.SC6"
+						]
 					},
 					{
 						"title": "Six Flags Belgium",
