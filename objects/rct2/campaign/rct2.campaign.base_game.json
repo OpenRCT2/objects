@@ -14,23 +14,38 @@
 				"scenarios": [
 					{
 						"title": "Electric Fields",
-						"fileName": "Electric Fields.SC6"
+						"fileName": [
+							"Electric Fields.SC6",
+							"Electric Fields.sea"
+						]
 					},
 					{
 						"title": "Factory Capers",
-						"fileName": "Factory Capers.SC6"
+						"fileName": [
+							"Factory Capers.SC6",
+							"Factory Capers.sea"
+						]
 					},
 					{
 						"title": "Crazy Castle",
-						"fileName": "Crazy Castle.SC6"
+						"fileName": [
+							"Crazy Castle.SC6",
+							"Crazy Castle.sea"
+						]
 					},
 					{
 						"title": "Dusty Greens",
-						"fileName": "Dusty Greens.SC6"
+						"fileName": [
+							"Dusty Greens.SC6",
+							"Dusty Greens.sea"
+						]
 					},
 					{
 						"title": "Bumbly Bazaar",
-						"fileName": "Bumbly Bazaar.SC6"
+						"fileName": [
+							"Bumbly Bazaar.SC6",
+							"Bumbly Bazaar.sea"
+						]
 					}
 				]
 			},
@@ -39,19 +54,31 @@
 				"scenarios": [
 					{
 						"title": "Infernal Views",
-						"fileName": "Infernal Views.SC6"
+						"fileName": [
+							"Infernal Views.SC6",
+							"Infernal Views.sea"
+						]
 					},
 					{
 						"title": "Lucky Lake",
-						"fileName": "Lucky Lake.SC6"
+						"fileName": [
+							"Lucky Lake.SC6",
+							"Lucky Lake.sea"
+						]
 					},
 					{
 						"title": "Botany Breakers",
-						"fileName": "Botany Breakers.SC6"
+						"fileName": [
+							"Botany Breakers.SC6",
+							"Botany Breakers.sea"
+						]
 					},
 					{
 						"title": "Alpine Adventures",
-						"fileName": "Alpine Adventures.SC6"
+						"fileName": [
+							"Alpine Adventures.SC6",
+							"Alpine Adventures.sea"
+						]
 					}
 				]
 			},
@@ -60,27 +87,45 @@
 				"scenarios": [
 					{
 						"title": "Gravity Gardens",
-						"fileName": "Gravity Gardens.SC6"
+						"fileName": [
+							"Gravity Gardens.SC6",
+							"Gravity Gardens.sea"
+						]
 					},
 					{
 						"title": "Extreme Heights",
-						"fileName": "Extreme Heights.SC6"
+						"fileName": [
+							"Extreme Heights.SC6",
+							"Extreme Heights.sea"
+						]
 					},
 					{
 						"title": "Amity Airfield",
-						"fileName": "Amity Airfield.SC6"
+						"fileName": [
+							"Amity Airfield.SC6",
+							"Amity Airfield.sea"
+						]
 					},
 					{
 						"title": "Ghost Town",
-						"fileName": "Ghost Town.SC6"
+						"fileName": [
+							"Ghost Town.SC6",
+							"Ghost Town.sea"
+						]
 					},
 					{
 						"title": "Fungus Woods",
-						"fileName": "Fungus Woods.SC6"
+						"fileName": [
+							"Fungus Woods.SC6",
+							"Fungus Woods.sea"
+						]
 					},
 					{
 						"title": "Rainbow Summit",
-						"fileName": "Rainbow Summit.SC6"
+						"fileName": [
+							"Rainbow Summit.SC6",
+							"Rainbow Summit.sea"
+						]
 					}
 				]
 			}

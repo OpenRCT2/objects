@@ -14,19 +14,31 @@
 				"scenarios": [
 					{
 						"title": "Dark Age - Robin Hood",
-						"fileName": "Dark Age - Robin Hood.SC6"
+						"fileName": [
+							"Dark Age - Robin Hood.SC6",
+							"Dark Age - Robin Hood.sea"
+						]
 					},
 					{
 						"title": "Prehistoric - After the Asteroid",
-						"fileName": "Prehistoric - After the Asteroid.SC6"
+						"fileName": [
+							"Prehistoric - After the Asteroid.SC6",
+							"Prehistoric - After the Asteroid.sea"
+						]
 					},
 					{
 						"title": "Roaring Twenties - Prison Island",
-						"fileName": "Roaring Twenties - Prison Island.SC6"
+						"fileName": [
+							"Roaring Twenties - Prison Island.SC6",
+							"Roaring Twenties - Prison Island.sea"
+						]
 					},
 					{
 						"title": "Future - First Encounters",
-						"fileName": "Future - First Encounters.SC6"
+						"fileName": [
+							"Future - First Encounters.SC6",
+							"Future - First Encounters.sea"
+						]
 					}
 				]
 			},
@@ -35,23 +47,38 @@
 				"scenarios": [
 					{
 						"title": "Roaring Twenties - Schneider Cup",
-						"fileName": "Roaring Twenties - Schneider Cup.SC6"
+						"fileName": [
+							"Roaring Twenties - Schneider Cup.SC6",
+							"Roaring Twenties - Schneider Cup.sea"
+						]
 					},
 					{
 						"title": "Prehistoric - Stone Age",
-						"fileName": "Prehistoric - Stone Age.SC6"
+						"fileName": [
+							"Prehistoric - Stone Age.SC6",
+							"Prehistoric - Stone Age.sea"
+						]
 					},
 					{
 						"title": "Mythological - Cradle of Civilisation",
-						"fileName": "Mythological - Cradle of Civilization.SC6"
+						"fileName": [
+							"Mythological - Cradle of Civilization.SC6",
+							"Mythological - Cradle of Civilization.sea"
+						]
 					},
 					{
 						"title": "Rock 'n' Roll - Rock 'n' Roll",
-						"fileName": "Rock 'n' Roll - Rock 'n' Roll.SC6"
+						"fileName": [
+							"Rock 'n' Roll - Rock 'n' Roll.SC6",
+							"Rock 'n' Roll - Rock 'n' Roll.sea"
+						]
 					},
 					{
 						"title": "Future - Future World",
-						"fileName": "Future - Future World.SC6"
+						"fileName": [
+							"Future - Future World.SC6",
+							"Future - Future World.sea"
+						]
 					}
 				]
 			},
@@ -60,23 +87,38 @@
 				"scenarios": [
 					{
 						"title": "Roaring Twenties - Skyscrapers",
-						"fileName": "Roaring Twenties - Skyscrapers.SC6"
+						"fileName": [
+							"Roaring Twenties - Skyscrapers.SC6",
+							"Roaring Twenties - Skyscrapers.sea"
+						]
 					},
 					{
 						"title": "Rock 'n' Roll - Flower Power",
-						"fileName": "Rock 'n' Roll - Flower Power.SC6"
+						"fileName": [
+							"Rock 'n' Roll - Flower Power.SC6",
+							"Rock 'n' Roll - Flower Power.sea"
+						]
 					},
 					{
 						"title": "Dark Age - Castle",
-						"fileName": "Dark Age - Castle.SC6"
+						"fileName": [
+							"Dark Age - Castle.SC6",
+							"Dark Age - Castle.sea"
+						]
 					},
 					{
 						"title": "Mythological - Animatronic Film Set",
-						"fileName": "Mythological - Animatronic Film Set.SC6"
+						"fileName": [
+							"Mythological - Animatronic Film Set.SC6",
+							"Mythological - Animatronic Film Set.sea"
+						]
 					},
 					{
 						"title": "Prehistoric - Jurassic Safari",
-						"fileName": "Prehistoric - Jurassic Safari.SC6"
+						"fileName": [
+							"Prehistoric - Jurassic Safari.SC6",
+							"Prehistoric - Jurassic Safari.sea"
+						]
 					}
 				]
 			}

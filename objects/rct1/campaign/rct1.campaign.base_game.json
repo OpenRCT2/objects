@@ -13,34 +13,46 @@
 				"header": "beginner",
 				"scenarios": [
 					{
-						"id": 0,
 						"title": "Forest Frontiers",
-						"fileName": "sc0.sc4"
+						"fileName": [
+							"sc0.sc4",
+							"Forest Frontiers.SC6"
+						]
 					},
 					{
-						"id": 1,
 						"title": "Dynamite Dunes",
-						"fileName": "sc1.sc4"
+						"fileName": [
+							"sc1.sc4",
+							"Dynamite Dunes.SC6"
+						]
 					},
 					{
-						"id": 2,
 						"title": "Leafy Lake",
-						"fileName": "sc2.sc4"
+						"fileName": [
+							"sc2.sc4",
+							"Leafy Lake.SC6"
+						]
 					},
 					{
-						"id": 3,
 						"title": "Diamond Heights",
-						"fileName": "sc3.sc4"
+						"fileName": [
+							"sc3.sc4",
+							"Diamond Heights.SC6"
+						]
 					},
 					{
-						"id": 4,
 						"title": "Evergreen Gardens",
-						"fileName": "sc4.sc4"
+						"fileName": [
+							"sc4.sc4",
+							"Evergreen Gardens.SC6"
+						]
 					},
 					{
-						"id": 5,
 						"title": "Bumbly Beach",
-						"fileName": "sc5.sc4"
+						"fileName": [
+							"sc5.sc4",
+							"Bumbly Beach.SC6"
+						]
 					}
 				]
 			},
@@ -48,59 +60,81 @@
 				"header": "challenging",
 				"scenarios": [
 					{
-						"id": 6,
 						"title": "Trinity Islands",
-						"fileName": "sc6.sc4"
+						"fileName": [
+							"sc6.sc4",
+							"Trinity Islands.SC6"
+						]
 					},
 					{
-						"id": 7,
 						"title": "Katie's Dreamland",
-						"fileName": "sc7.sc4"
+						"fileName": [
+							"sc7.sc4",
+							"Katie's Dreamland.SC6"
+						]
 					},
 					{
-						"id": 8,
 						"title": "Pokey Park",
-						"fileName": "sc8.sc4"
+						"fileName": [
+							"sc8.sc4",
+							"Pokey Park.SC6"
+						]
 					},
 					{
-						"id": 9,
 						"title": "White Water Park",
-						"fileName": "sc9.sc4"
+						"fileName": [
+							"sc9.sc4",
+							"White Water Park.SC6"
+						]
 					},
 					{
-						"id": 10,
 						"title": "Millennium Mines",
-						"fileName": "sc10.sc4"
+						"fileName": [
+							"sc10.sc4",
+							"Millennium Mines.SC6"
+						]
 					},
 					{
-						"id": 11,
 						"title": "Karts & Coasters",
-						"fileName": "sc11.sc4"
+						"fileName": [
+							"sc11.sc4",
+							"Karts & Coasters.SC6"
+						]
 					},
 					{
-						"id": 12,
 						"title": "Mel's World",
-						"fileName": "sc12.sc4"
+						"fileName": [
+							"sc12.sc4",
+							"Mel's World.SC6"
+						]
 					},
 					{
-						"id": 13,
 						"title": "Mystic Mountain",
-						"fileName": "sc13.sc4"
+						"fileName": [
+							"sc13.sc4",
+							"Mystic Mountain.SC6"
+						]
 					},
 					{
-						"id": 14,
 						"title": "Pacific Pyramids",
-						"fileName": "sc14.sc4"
+						"fileName": [
+							"sc14.sc4",
+							"Pacific Pyramids.SC6"
+						]
 					},
 					{
-						"id": 15,
 						"title": "Crumbly Woods",
-						"fileName": "sc15.sc4"
+						"fileName": [
+							"sc15.sc4",
+							"Crumbly Woods.SC6"
+						]
 					},
 					{
-						"id": 16,
 						"title": "Paradise Pier",
-						"fileName": "sc16.sc4"
+						"fileName": [
+							"sc16.sc4",
+							"Paradise Pier.SC6"
+						]
 					}
 				]
 			},
@@ -108,24 +142,32 @@
 				"header": "expert",
 				"scenarios": [
 					{
-						"id": 17,
 						"title": "Lightning Peaks",
-						"fileName": "sc17.sc4"
+						"fileName": [
+							"sc17.sc4",
+							"Lightning Peaks.SC6"
+						]
 					},
 					{
-						"id": 18,
 						"title": "Ivory Towers",
-						"fileName": "sc18.sc4"
+						"fileName": [
+							"sc18.sc4",
+							"Ivory Towers.SC6"
+						]
 					},
 					{
-						"id": 19,
 						"title": "Rainbow Valley",
-						"fileName": "sc19.sc4"
+						"fileName": [
+							"sc19.sc4",
+							"Rainbow Valley.SC6"
+						]
 					},
 					{
-						"id": 20,
 						"title": "Thunder Rock",
-						"fileName": "sc20.sc4"
+						"fileName": [
+							"sc20.sc4",
+							"Thunder Rock.SC6"
+						]
 					}
 				]
 			},
@@ -133,9 +175,11 @@
 				"header": "bonus",
 				"scenarios": [
 					{
-						"id": 21,
 						"title": "Mega Park",
-						"fileName": "sc21.sc4"
+						"fileName": [
+							"sc21.sc4",
+							"Mega Park.SC6"
+						]
 					}
 				]
 			}

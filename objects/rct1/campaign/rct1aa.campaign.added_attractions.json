@@ -13,49 +13,67 @@
 				"header": "beginner",
 				"scenarios": [
 					{
-						"id": 40,
 						"title": "Whispering Cliffs",
-						"fileName": "SC40.SC4"
+						"fileName": [
+							"SC40.SC4",
+							"Whispering Cliffs.SC6"
+						]
 					},
 					{
-						"id": 41,
 						"title": "Three Monkeys Park",
-						"fileName": "SC41.SC4"
+						"fileName": [
+							"SC41.SC4",
+							"Three Monkeys Park.SC6"
+						]
 					},
 					{
-						"id": 42,
 						"title": "Canary Mines",
-						"fileName": "SC42.SC4"
+						"fileName": [
+							"SC42.SC4",
+							"Canary Mines.SC6"
+						]
 					},
 					{
-						"id": 43,
 						"title": "Barony Bridge",
-						"fileName": "SC43.SC4"
+						"fileName": [
+							"SC43.SC4",
+							"Barony Bridge.SC6"
+						]
 					},
 					{
-						"id": 44,
 						"title": "Funtopia",
-						"fileName": "SC44.SC4"
+						"fileName": [
+							"SC44.SC4",
+							"Funtopia.SC6"
+						]
 					},
 					{
-						"id": 45,
 						"title": "Haunted Harbour",
-						"fileName": "SC45.SC4"
+						"fileName": [
+							"SC45.SC4",
+							"Haunted Harbour.SC6"
+						]
 					},
 					{
-						"id": 46,
 						"title": "Fun Fortress",
-						"fileName": "SC46.SC4"
+						"fileName": [
+							"SC46.SC4",
+							"Fun Fortress.SC6"
+						]
 					},
 					{
-						"id": 47,
 						"title": "Future World",
-						"fileName": "SC47.SC4"
+						"fileName": [
+							"SC47.SC4",
+							"Future World.SC6"
+						]
 					},
 					{
-						"id": 48,
 						"title": "Gentle Glen",
-						"fileName": "SC48.SC4"
+						"fileName": [
+							"SC48.SC4",
+							"Gentle Glen.SC6"
+						]
 					}
 				]
 			},
@@ -63,69 +81,95 @@
 				"header": "challenging",
 				"scenarios": [
 					{
-						"id": 49,
 						"title": "Jolly Jungle",
-						"fileName": "SC49.SC4"
+						"fileName": [
+							"SC49.SC4",
+							"Jolly Jungle.SC6"
+						]
 					},
 					{
-						"id": 50,
 						"title": "Hydro Hills",
-						"fileName": "SC50.SC4"
+						"fileName": [
+							"SC50.SC4",
+							"Hydro Hills.SC6"
+						]
 					},
 					{
-						"id": 51,
 						"title": "Sprightly Park",
-						"fileName": "SC51.SC4"
+						"fileName": [
+							"SC51.SC4",
+							"Sprightly Park.SC6"
+						]
 					},
 					{
-						"id": 52,
 						"title": "Magic Quarters",
-						"fileName": "SC52.SC4"
+						"fileName": [
+							"SC52.SC4",
+							"Magic Quarters.SC6"
+						]
 					},
 					{
-						"id": 53,
 						"title": "Fruit Farm",
-						"fileName": "SC53.SC4"
+						"fileName": [
+							"SC53.SC4",
+							"Fruit Farm.SC6"
+						]
 					},
 					{
-						"id": 54,
 						"title": "Butterfly Dam",
-						"fileName": "SC54.SC4"
+						"fileName": [
+							"SC54.SC4",
+							"Butterfly Dam.SC6"
+						]
 					},
 					{
-						"id": 55,
 						"title": "Coaster Canyon",
-						"fileName": "SC55.SC4"
+						"fileName": [
+							"SC55.SC4",
+							"Coaster Canyon.SC6"
+						]
 					},
 					{
-						"id": 56,
 						"title": "Thunderstorm Park",
-						"fileName": "SC56.SC4"
+						"fileName": [
+							"SC56.SC4",
+							"Thunderstorm Park.SC6"
+						]
 					},
 					{
-						"id": 57,
 						"title": "Harmonic Hills",
-						"fileName": "SC57.SC4"
+						"fileName": [
+							"SC57.SC4",
+							"Harmonic Hills.SC6"
+						]
 					},
 					{
-						"id": 58,
 						"title": "Roman Village",
-						"fileName": "SC58.SC4"
+						"fileName": [
+							"SC58.SC4",
+							"Roman Village.SC6"
+						]
 					},
 					{
-						"id": 59,
 						"title": "Swamp Cove",
-						"fileName": "SC59.SC4"
+						"fileName": [
+							"SC59.SC4",
+							"Swamp Cove.SC6"
+						]
 					},
 					{
-						"id": 60,
 						"title": "Adrenaline Heights",
-						"fileName": "SC60.SC4"
+						"fileName": [
+							"SC60.SC4",
+							"Adrenaline Heights.SC6"
+						]
 					},
 					{
-						"id": 61,
 						"title": "Utopia Park",
-						"fileName": "SC61.SC4"
+						"fileName": [
+							"SC61.SC4",
+							"Utopia Park.SC6"
+						]
 					}
 				]
 			},
@@ -133,44 +177,60 @@
 				"header": "expert",
 				"scenarios": [
 					{
-						"id": 62,
 						"title": "Rotting Heights",
-						"fileName": "SC62.SC4"
+						"fileName": [
+							"SC62.SC4",
+							"Rotting Heights.SC6"
+						]
 					},
 					{
-						"id": 63,
 						"title": "Fiasco Forest",
-						"fileName": "SC63.SC4"
+						"fileName": [
+							"SC63.SC4",
+							"Fiasco Forest.SC6"
+						]
 					},
 					{
-						"id": 64,
 						"title": "Pickle Park",
-						"fileName": "SC64.SC4"
+						"fileName": [
+							"SC64.SC4",
+							"Pickle Park.SC6"
+						]
 					},
 					{
-						"id": 65,
 						"title": "Giggle Downs",
-						"fileName": "SC65.SC4"
+						"fileName": [
+							"SC65.SC4",
+							"Giggle Downs.SC6"
+						]
 					},
 					{
-						"id": 66,
 						"title": "Mineral Park",
-						"fileName": "SC66.SC4"
+						"fileName": [
+							"SC66.SC4",
+							"Mineral Park.SC6"
+						]
 					},
 					{
-						"id": 67,
 						"title": "Coaster Crazy",
-						"fileName": "SC67.SC4"
+						"fileName": [
+							"SC67.SC4",
+							"Coaster Crazy.SC6"
+						]
 					},
 					{
-						"id": 68,
 						"title": "Urban Park",
-						"fileName": "SC68.SC4"
+						"fileName": [
+							"SC68.SC4",
+							"Urban Park.SC6"
+						]
 					},
 					{
-						"id": 69,
 						"title": "Geoffrey Gardens",
-						"fileName": "SC69.SC4"
+						"fileName": [
+							"SC69.SC4",
+							"Geoffrey Gardens.SC6"
+						]
 					}
 				]
 			}

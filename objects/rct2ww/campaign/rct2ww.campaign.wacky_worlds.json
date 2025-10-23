@@ -14,23 +14,38 @@
 				"scenarios": [
 					{
 						"title": "North America - Grand Canyon",
-						"fileName": "North America - Grand Canyon.SC6"
+						"fileName": [
+							"North America - Grand Canyon.SC6",
+							"North America - Grand Canyon.sea"
+						]
 					},
 					{
 						"title": "Asia - Great Wall of China Tourism Enhancement",
-						"fileName": "Asia - Great Wall of China Tourism Enhancement.SC6"
+						"fileName": [
+							"Asia - Great Wall of China Tourism Enhancement.SC6",
+							"Asia - Great Wall of China Tourism Enhancement.sea"
+						]
 					},
 					{
 						"title": "Africa - African Diamond Mine",
-						"fileName": "Africa - African Diamond Mine.SC6"
+						"fileName": [
+							"Africa - African Diamond Mine.SC6",
+							"Africa - African Diamond Mine.sea"
+						]
 					},
 					{
 						"title": "Australasia - Ayers Rock",
-						"fileName": "Australasia - Ayers Rock.SC6"
+						"fileName": [
+							"Australasia - Ayers Rock.SC6",
+							"Australasia - Ayers Rock.sea"
+						]
 					},
 					{
 						"title": "North America - Rollercoaster Heaven",
-						"fileName": "North America - Rollercoaster Heaven.SC6"
+						"fileName": [
+							"North America - Rollercoaster Heaven.SC6",
+							"North America - Rollercoaster Heaven.sea"
+						]
 					}
 				]
 			},
@@ -39,31 +54,52 @@
 				"scenarios": [
 					{
 						"title": "Africa - Oasis",
-						"fileName": "Africa - Oasis.SC6"
+						"fileName": [
+							"Africa - Oasis.SC6",
+							"Africa - Oasis.SC6.sea"
+						]
 					},
 					{
 						"title": "South America - Rio Carnival",
-						"fileName": "South America - Rio Carnival.SC6"
+						"fileName": [
+							"South America - Rio Carnival.SC6",
+							"South America - Rio Carnival.sea"
+						]
 					},
 					{
 						"title": "Asia - Maharaja Palace",
-						"fileName": "Asia - Maharaja Palace.SC6"
+						"fileName": [
+							"Asia - Maharaja Palace.SC6",
+							"Asia - Maharaja Palace.sea"
+						]
 					},
 					{
 						"title": "Africa - Victoria Falls",
-						"fileName": "Africa - Victoria Falls.SC6"
+						"fileName": [
+							"Africa - Victoria Falls.SC6",
+							"Africa - Victoria Falls.sea"
+						]
 					},
 					{
 						"title": "N. America - Extreme Hawaiian Island",
-						"fileName": "N America - Extreme Hawaiian Island.SC6"
+						"fileName": [
+							"N America - Extreme Hawaiian Island.SC6",
+							"N America - Extreme Hawaiian Island.sea"
+						]
 					},
 					{
 						"title": "South America - Rain Forest Plateau",
-						"fileName": "South America - Rain Forest Plateau.SC6"
+						"fileName": [
+							"South America - Rain Forest Plateau.SC6",
+							"South America - Rain Forest Plateau.sea"
+						]
 					},
 					{
 						"title": "Europe - Renovation",
-						"fileName": "Europe - Renovation.SC6"
+						"fileName": [
+							"Europe - Renovation.SC6",
+							"Europe - Renovation.sea"
+						]
 					}
 				]
 			},
@@ -72,23 +108,38 @@
 				"scenarios": [
 					{
 						"title": "Antarctic - Ecological Salvage",
-						"fileName": "Antarctic - Ecological Salvage.SC6"
+						"fileName": [
+							"Antarctic - Ecological Salvage.SC6",
+							"Antarctic - Ecological Salvage.sea"
+						]
 					},
 					{
 						"title": "Europe - European Cultural Festival",
-						"fileName": "Europe - European Cultural Festival.SC6"
+						"fileName": [
+							"Europe - European Cultural Festival.SC6",
+							"Europe - European Cultural Festival.sea"
+						]
 					},
 					{
 						"title": "Australasia - Fun at the Beach",
-						"fileName": "Australasia - Fun at the Beach.SC6"
+						"fileName": [
+							"Australasia - Fun at the Beach.SC6",
+							"Australasia - Fun at the Beach.sea"
+						]
 					},
 					{
 						"title": "South America - Inca Lost City",
-						"fileName": "South America - Inca Lost City.SC6"
+						"fileName": [
+							"South America - Inca Lost City.SC6",
+							"South America - Inca Lost City.SC6.sea"
+						]
 					},
 					{
 						"title": "Asia - Japanese Coastal Reclaim",
-						"fileName": "Asia - Japanese Coastal Reclaim.SC6"
+						"fileName": [
+							"Asia - Japanese Coastal Reclaim.SC6",
+							"Asia - Japanese Coastal Reclaim.sea"
+						]
 					}
 				]
 			}

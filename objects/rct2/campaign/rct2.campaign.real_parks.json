@@ -15,44 +15,60 @@
 				"header": "real",
 				"scenarios": [
 					{
-						"id": 32,
 						"title": "Alton Towers",
-						"fileName": "ALTON1.SC4"
+						"fileName": [
+							"ALTON1.SC4",
+							"Alton Towers.sea"
+						]
 					},
 					{
-						"id": 70,
 						"title": "Heide-Park",
-						"fileName": "HEIDE.SC4"
+						"fileName": [
+							"HEIDE.SC4",
+							"Heide-Park.sea"
+						]
 					},
 					{
-						"id": 74,
 						"title": "Blackpool Pleasure Beach",
-						"fileName": "BPB1.SC4"
+						"fileName": [
+							"BPB1.SC4",
+							"Blackpool Pleasure Beach.sea"
+						]
 					},
 					{
-						"id": 255,
 						"title": "Six Flags Belgium",
-						"fileName": "Six Flags Belgium.SC6"
+						"fileName": [
+							"Six Flags Belgium.SC6",
+							"Six Flags Belgium.sea"
+						]
 					},
 					{
-						"id": 255,
 						"title": "Six Flags Great Adventure",
-						"fileName": "Six Flags Great Adventure.SC6"
+						"fileName": [
+							"Six Flags Great Adventure.SC6",
+							"Six Flags Great Adventure.sea"
+						]
 					},
 					{
-						"id": 255,
 						"title": "Six Flags Holland",
-						"fileName": "Six Flags Holland.SC6"
+						"fileName": [
+							"Six Flags Holland.SC6",
+							"Six Flags Holland.sea"
+						]
 					},
 					{
-						"id": 255,
 						"title": "Six Flags Magic Mountain",
-						"fileName": "Six Flags Magic Mountain.SC6"
+						"fileName": [
+							"Six Flags Magic Mountain.SC6",
+							"Six Flags Magic Mountain.sea"
+						]
 					},
 					{
-						"id": 255,
 						"title": "Six Flags over Texas",
-						"fileName": "Six Flags over Texas.SC6"
+						"fileName": [
+							"Six Flags over Texas.SC6",
+							"Six Flags over Texas.sea"
+						]
 					}
 				]
 			}
