@@ -1,5 +1,5 @@
 {
-	"id": "openrct2.campaign.original_dlc",
+	"id": "openrct2.campaign.extras",
 	"version": "1.0",
 	"authors": [
 		"Chris Sawyer"
@@ -60,7 +60,7 @@
 	"strings": {
 		"name": {
 			"en-GB": "Extras",
-			"ar-EG": "الملحقات"
+			"ar-EG": "الملحقات",
 			"ca-ES": "Extres",
 			"cs-CZ": "Extra",
 			"da-DK": "Ekstra",
