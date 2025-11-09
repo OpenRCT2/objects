@@ -173,7 +173,8 @@
             "ca-ES": "Motocicletes",
             "fi-FI": "Moottoripyörät",
             "gl-ES": "Motos",
-            "ar-EG": "دراجات نارية"
+            "ar-EG": "دراجات نارية",
+            "hu-HU": "Motorkerékpárok"
         },
         "description": {
             "en-GB": "Single cars shaped like a motorbike",
@@ -195,7 +196,8 @@
             "ca-ES": "Cotxes individuals en forma de motocicleta.",
             "fi-FI": "Yksittäiset moottoripyörän muotoiset vaunut",
             "gl-ES": "Coches individuais con forma de moto",
-            "ar-EG": "عربات فردية على شكل دراجة نارية"
+            "ar-EG": "عربات فردية على شكل دراجة نارية",
+            "hu-HU": "Motorkerékpár alakú különálló járművek"
         },
         "capacity": {
             "en-GB": "2 riders per bike",
@@ -217,7 +219,8 @@
             "fi-FI": "2 matkustajaa per pyörä",
             "ca-ES": "2 motoristes per motocicleta",
             "gl-ES": "2 pasaxeiros por moto",
-            "ar-EG": "راكبان لكل دراجة"
+            "ar-EG": "راكبان لكل دراجة",
+            "hu-HU": "2 utas motoronként"
         }
     }
 }

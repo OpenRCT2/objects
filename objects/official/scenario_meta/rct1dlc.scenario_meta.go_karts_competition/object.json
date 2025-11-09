@@ -12,10 +12,12 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Go Karts Competition"
+            "en-GB": "Go Karts Competition",
+            "ca-ES": "Competició de karts"
         },
         "park_name": {
-            "en-GB": "Competition Land"
+            "en-GB": "Competition Land",
+            "ca-ES": "Terreny de competició"
         },
         "details": {
             "en-GB": ""

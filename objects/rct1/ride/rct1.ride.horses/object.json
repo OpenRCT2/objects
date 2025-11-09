@@ -173,7 +173,8 @@
             "ca-ES": "Cavalls",
             "fi-FI": "Hevoset",
             "gl-ES": "Cabalos",
-            "ar-EG": "خيول"
+            "ar-EG": "خيول",
+            "hu-HU": "Lovak"
         },
         "description": {
             "en-GB": "Single cars shaped like a horse",
@@ -195,7 +196,8 @@
             "eo-ZZ": "Individuaj ĉaroj, formitaj kiel ĉevalo",
             "ca-ES": "Cotxes en forma de cavall.",
             "fi-FI": "Yksittäiset hevosenmuotoiset ajoneuvot",
-            "gl-ES": "Coches únicos con forma de cabalo"
+            "gl-ES": "Coches únicos con forma de cabalo",
+            "hu-HU": "Ló alakú, különálló kocsik"
         },
         "capacity": {
             "en-GB": "2 riders per horse",
@@ -217,7 +219,8 @@
             "ca-ES": "2 genets per cavall",
             "fi-FI": "2 ratsastajaa per hevonen",
             "gl-ES": "2 xinetes por cabalo",
-            "ar-EG": "راكبان لكل حصان"
+            "ar-EG": "راكبان لكل حصان",
+            "hu-HU": "2 utas lovanként"
         }
     }
 }

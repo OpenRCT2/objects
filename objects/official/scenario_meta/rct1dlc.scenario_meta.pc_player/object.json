@@ -12,10 +12,12 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "PC Player"
+            "en-GB": "PC Player",
+            "ca-ES": "Jugador de PC"
         },
         "park_name": {
-            "en-GB": "PC Player-Park"
+            "en-GB": "PC Player-Park",
+            "ca-ES": "Parc de jugadors de PC"
         },
         "details": {
             "en-GB": ""

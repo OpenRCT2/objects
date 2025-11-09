@@ -308,7 +308,8 @@
             "eo-ZZ": "Cirko",
             "ca-ES": "Circ",
             "fi-FI": "Sirkus",
-            "gl-ES": "Circo"
+            "gl-ES": "Circo",
+            "hu-HU": "Cirkusz"
         },
         "description": {
             "en-GB": "Circus animal show inside a big-top tent",
@@ -329,7 +330,8 @@
             "eo-ZZ": "Cirkospektaklo de bestoj en granda cirkotendo",
             "ca-ES": "Espectacle de circ dins d’una gran carpa.",
             "fi-FI": "Sirkuseläinshow valtavan teltan sisällä",
-            "gl-ES": "Espectáculo de animais do circo dentro dunha carpa de gran tamaño"
+            "gl-ES": "Espectáculo de animais do circo dentro dunha carpa de gran tamaño",
+            "hu-HU": "Cirkuszi állatbemutató egy nagy sátorban"
         },
         "capacity": {
             "en-GB": "30 guests",
@@ -349,7 +351,8 @@
             "ru-RU": "30 гостей",
             "eo-ZZ": "30 gastoj",
             "ca-ES": "30 espectadors",
-            "fi-FI": "30 kävijää"
+            "fi-FI": "30 kävijää",
+            "hu-HU": "30 vendég"
         }
     }
 }

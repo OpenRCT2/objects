@@ -133,7 +133,8 @@
             "eo-ZZ": "Ŝtipo-Trajnoj",
             "ca-ES": "Trens Troncs",
             "fi-FI": "Tukkivaunut",
-            "gl-ES": "Trens de troncos"
+            "gl-ES": "Trens de troncos",
+            "hu-HU": "Fatörzsvonatok"
         },
         "description": {
             "en-GB": "Roller coaster trains with small log-shaped cars",
@@ -154,7 +155,8 @@
             "eo-ZZ": "Trajnoj de onda fervojo kun malgrandaj ŝtipoformaj ĉaroj",
             "ca-ES": "Muntanya russa amb trens que semblen troncs.",
             "fi-FI": "Pienet tukin muotoiset vuoristoratavaunut",
-            "gl-ES": "Trens de montaña rusa con pequenos coches con forma de tronco"
+            "gl-ES": "Trens de montaña rusa con pequenos coches con forma de tronco",
+            "hu-HU": "Hullámvasút-vonatok apró fatörzs alakú kocsikkal"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -175,7 +177,8 @@
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
-            "gl-ES": "2 pasaxeiros por coche"
+            "gl-ES": "2 pasaxeiros por coche",
+            "hu-HU": "2 utas kocsinként"
         }
     }
 }

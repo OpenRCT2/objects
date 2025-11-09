@@ -89,7 +89,8 @@
             "ca-ES": "Trens bob",
             "fi-FI": "Rattikelkkavaunut",
             "en-US": "Bobsled Trains",
-            "gl-ES": "Trens de bobsleigh"
+            "gl-ES": "Trens de bobsleigh",
+            "hu-HU": "Bobvonatok"
         },
         "description": {
             "en-GB": "Trains consisting of 2-seater cars where the riders are behind each other",
@@ -110,7 +111,8 @@
             "eo-ZZ": "Trajnoj, konsistaj de ĉaroj kun 2 seĝoj, kie la rajdantoj estas malantaŭ unu la alian",
             "ca-ES": "Trens amb cotxes de 2 seients on els passatgers van un darrere l’altre.",
             "fi-FI": "Vaunut, jossa kaksi matkustajaa istuu peräkkäin",
-            "gl-ES": "Trens compostos por coches de dous asentos onde os pasaxeiros están un detrás do outro"
+            "gl-ES": "Trens compostos por coches de dous asentos onde os pasaxeiros están un detrás do outro",
+            "hu-HU": "2 személyes kocsikból álló vonatok, amelyeken az utasok egymás mögött ülnek"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -131,7 +133,8 @@
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
-            "gl-ES": "2 pasaxeiros por coche"
+            "gl-ES": "2 pasaxeiros por coche",
+            "hu-HU": "2 utas kocsinként"
         }
     }
 }

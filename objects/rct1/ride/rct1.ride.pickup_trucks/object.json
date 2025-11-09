@@ -223,7 +223,8 @@
             "ca-ES": "Camionetes",
             "fi-FI": "Lava-autot",
             "gl-ES": "Camionetas",
-            "ar-EG": "شاحنات البيك أب"
+            "ar-EG": "شاحنات البيك أب",
+            "hu-HU": "Kisteherautók"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of pickup trucks",
@@ -245,7 +246,8 @@
             "ca-ES": "Vehicles tematitzats com a camionetes.",
             "fi-FI": "Lava-auton muotoiset moottoroidut ajoneuvot",
             "gl-ES": "Vehículos motorizados con forma de camioneta",
-            "ar-EG": "مركبات تعمل بالطاقة على شكل شاحنات بيك أب"
+            "ar-EG": "مركبات تعمل بالطاقة على شكل شاحنات بيك أب",
+            "hu-HU": "Motoros járművek kisteherautó formában"
         },
         "capacity": {
             "en-GB": "1 passenger per truck",
@@ -267,7 +269,8 @@
             "ca-ES": "1 passatger per camió",
             "fi-FI": "1 matkustaja per auto",
             "gl-ES": "1 pasaxeiro por camioneta",
-            "ar-EG": "راكب واحد لكل شاحنة"
+            "ar-EG": "راكب واحد لكل شاحنة",
+            "hu-HU": "1 utas teherautónként"
         }
     }
 }

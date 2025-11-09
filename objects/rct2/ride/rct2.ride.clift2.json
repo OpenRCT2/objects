@@ -84,7 +84,8 @@
             "eo-ZZ": "Skilifto-Seĝoj",
             "ca-ES": "Telecadires",
             "fi-FI": "Hiihtohissivaunut",
-            "gl-ES": "Cadeiras de telecadeira"
+            "gl-ES": "Cadeiras de telecadeira",
+            "hu-HU": "Sífelvonó-székek"
         },
         "description": {
             "en-GB": "Open cars for chairlift",
@@ -105,7 +106,8 @@
             "eo-ZZ": "Subĉielaj ĉaroj de seĝlifto",
             "ca-ES": "Cotxes oberts per al telecadira.",
             "fi-FI": "Avoilmavaunut tuolihissiin",
-            "gl-ES": "Coches abertos para telecadeira"
+            "gl-ES": "Coches abertos para telecadeira",
+            "hu-HU": "Nyitott kocsik a sífelvonóhoz"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -126,7 +128,8 @@
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
-            "gl-ES": "2 pasaxeiros por coche"
+            "gl-ES": "2 pasaxeiros por coche",
+            "hu-HU": "2 utas kocsinként"
         }
     }
 }

@@ -189,7 +189,8 @@
             "ca-ES": "Cotxes esportius",
             "fi-FI": "Urheiluautot",
             "gl-ES": "Coches deportivos",
-            "ar-EG": "سيارات رياضية"
+            "ar-EG": "سيارات رياضية",
+            "hu-HU": "Sportautók"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of sports cars",
@@ -211,7 +212,8 @@
             "ca-ES": "Vehicles en forma de cotxes esportius.",
             "fi-FI": "Urheiluauton muotoiset moottoroidut ajoneuvot",
             "gl-ES": "Vehículos motorizados en forma de coches deportivos",
-            "ar-EG": "مركبات تعمل بالطاقة على شكل سيارات رياضية"
+            "ar-EG": "مركبات تعمل بالطاقة على شكل سيارات رياضية",
+            "hu-HU": "Motoros járművek sportautó formában"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -233,7 +235,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per auto",
             "gl-ES": "2 pasaxeiros por coche",
-            "ar-EG": "راكبان لكل سيارة"
+            "ar-EG": "راكبان لكل سيارة",
+            "hu-HU": "2 utas kocsinként"
         }
     }
 }

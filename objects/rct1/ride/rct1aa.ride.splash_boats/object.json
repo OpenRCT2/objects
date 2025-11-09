@@ -506,7 +506,8 @@
             "ca-ES": "Barques esquitxadores",
             "fi-FI": "Roiskeveneet",
             "gl-ES": "Botes de chapuzar",
-            "ar-EG": "قوارب الرش"
+            "ar-EG": "قوارب الرش",
+            "hu-HU": "Csobbanó csónakok"
         },
         "description": {
             "en-GB": "Large capacity boats, built for water tracks with very steep drops",
@@ -528,7 +529,8 @@
             "ca-ES": "Barques de gran capacitat, construïdes per vies d’aigua amb caigudes pronunciades.",
             "fi-FI": "Suuren kapasiteetin veneet, jotka on luoto jyrkkämäkisissä vesikanavissa ajeluun",
             "gl-ES": "Botes de gran capacidade, deseñados para canles de auga con descensos moi pronunciados",
-            "ar-EG": "قوارب ذات سعة كبيرة، مصممة للمسارات المائية ذات الانحدارات الشديدة جدًا"
+            "ar-EG": "قوارب ذات سعة كبيرة، مصممة للمسارات المائية ذات الانحدارات الشديدة جدًا",
+            "hu-HU": "Nagy kapacitású csónakok, amelyek meredek esésű vízi pályákhoz készültek"
         },
         "capacity": {
             "en-GB": "16 passengers per boat",
@@ -549,7 +551,8 @@
             "eo-ZZ": "16 pasaĝeroj por boato",
             "ca-ES": "16 passatgers per bot",
             "fi-FI": "16 matkustajaa per vene",
-            "ar-EG": "16 راكبًا لكل قارب"
+            "ar-EG": "16 راكبًا لكل قارب",
+            "hu-HU": "16 utas csónakonként"
         }
     }
 }

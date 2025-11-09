@@ -414,7 +414,8 @@
             "ca-ES": "Cotxes balancí penjants",
             "fi-FI": "Riippuvat keinuvaunut",
             "gl-ES": "Coches suspendidos oscilantes",
-            "ar-EG": "عربات متأرجحة معلقة"
+            "ar-EG": "عربات متأرجحة معلقة",
+            "hu-HU": "Felfüggesztett lengő kocsik"
         },
         "description": {
             "en-GB": "Suspended roller coaster trains consisting of cars able to swing freely as the train goes around corners",
@@ -436,7 +437,8 @@
             "ca-ES": "Muntanya russa amb trens penjants amb cotxes que es balancegen quan passen per les corbes.",
             "fi-FI": "Vapaasti käänteissä keinuvat riippuvat vuoristoratavaunut",
             "gl-ES": "Trens de montaña rusa suspendidos compostos por coches que poden oscilar libremente mentres o tren vira polas curvas",
-            "ar-EG": "قطارات أفعوانية معلقة تتكون من عربات قادرة على التأرجح بحرية عند المنعطفات"
+            "ar-EG": "قطارات أفعوانية معلقة تتكون من عربات قادرة على التأرجح بحرية عند المنعطفات",
+            "hu-HU": "Felfüggesztett hullámvasút-szerelvények, kocsikkal, amelyek szabadon lengnek a kanyarokban"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -458,7 +460,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
-            "ar-EG": "4 ركاب لكل عربة"
+            "ar-EG": "4 ركاب لكل عربة",
+            "hu-HU": "4 utas kocsinként"
         }
     },
     "noCsgImages": [

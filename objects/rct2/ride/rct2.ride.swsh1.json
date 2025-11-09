@@ -91,7 +91,8 @@
             "eo-ZZ": "Pirato-Ŝipo",
             "ca-ES": "Vaixell pirata",
             "fi-FI": "Merirosvolaiva",
-            "gl-ES": "Barco pirata"
+            "gl-ES": "Barco pirata",
+            "hu-HU": "Kalózhajó"
         },
         "description": {
             "en-GB": "Large swinging pirate ship",
@@ -112,7 +113,8 @@
             "eo-ZZ": "Granda svingiĝanta pirato-ŝipo",
             "ca-ES": "Vaixell pirata enorme que es balanceja.",
             "fi-FI": "Suuri keinuva merirosvolaiva",
-            "gl-ES": "Gran barco pirata oscilante"
+            "gl-ES": "Gran barco pirata oscilante",
+            "hu-HU": "Nagy, lengő kalózhajó"
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -132,7 +134,8 @@
             "ru-RU": "16 пассажиров",
             "eo-ZZ": "16 pasaĝeroj",
             "ca-ES": "16 passatgers",
-            "fi-FI": "16 matkustajaa"
+            "fi-FI": "16 matkustajaa",
+            "hu-HU": "16 utas"
         }
     }
 }

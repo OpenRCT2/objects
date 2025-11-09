@@ -104,7 +104,8 @@
             "eo-ZZ": "Ĉeŝiraj Katoj",
             "ca-ES": "Gats Cheshire",
             "fi-FI": "Irvikissat",
-            "gl-ES": "Gatos de Cheshire"
+            "gl-ES": "Gatos de Cheshire",
+            "hu-HU": "Cheshire macskák"
         },
         "description": {
             "en-GB": "Powered cat-shaped vehicles",
@@ -125,7 +126,8 @@
             "eo-ZZ": "Ŝaltitaj katformaj veturiloj",
             "ca-ES": "Vehicles autopropulsats en forma de gat.",
             "fi-FI": "Moottoroidut kissanmuotoiset ajoneuvot",
-            "gl-ES": "Vehículos motorizados con forma de gato"
+            "gl-ES": "Vehículos motorizados con forma de gato",
+            "hu-HU": "Motoros, Cheshire macska formájú járművek"
         },
         "capacity": {
             "en-GB": "2 passengers per cat",
@@ -139,13 +141,14 @@
             "zh-CN": "2位乘客/车",
             "zh-TW": "每輛車2位乘客",
             "pt-BR": "2 passageiros por gato",
-            "cs-CZ": "2 místa v každé kočcce",
+            "cs-CZ": "2 místa v každé kočce",
             "ja-JP": "各車両2名",
             "pl-PL": "2 pasażerów na kota",
             "ru-RU": "2 пассажира на кота",
             "eo-ZZ": "Po 2 pasaĝeroj por kato",
             "ca-ES": "2 passatgers per gat",
-            "fi-FI": "2 matkustajaa per kissa"
+            "fi-FI": "2 matkustajaa per kissa",
+            "hu-HU": "2 utas macskánként"
         }
     }
 }

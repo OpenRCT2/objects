@@ -133,7 +133,8 @@
             "ca-ES": "Cotxes de xoc",
             "fi-FI": "Törmäilyautot",
             "gl-ES": "Coches de choque",
-            "ar-EG": "سيارات التصادم"
+            "ar-EG": "سيارات التصادم",
+            "hu-HU": "Dodzsemek"
         },
         "description": {
             "en-GB": "Riders bump into each other in self-drive electric dodgems",
@@ -156,7 +157,8 @@
             "ca-ES": "Els passatgers condueixen cotxes de xoc elèctrics i xoquen entre ells.",
             "fi-FI": "Kävijät törmäävät toisiinsa ajamissaan sähköautoissa",
             "gl-ES": "Os pasaxeiros chocan entre eles en coches de choque eléctricos de conducción autónoma",
-            "ar-EG": "يصطدم الركاب ببعضهم البعض في سيارات تصادم كهربائية ذاتية القيادة"
+            "ar-EG": "يصطدم الركاب ببعضهم البعض في سيارات تصادم كهربائية ذاتية القيادة",
+            "hu-HU": "Az utasok önjáró elektromos dodzsemekben ütköznek egymásnak"
         },
         "capacity": {
             "en-GB": "1 person per car",
@@ -178,7 +180,8 @@
             "fi-FI": "1 matkustaja per auto",
             "ca-ES": "1 persona per cotxe",
             "gl-ES": "1 person por coche",
-            "ar-EG": "شخص واحد لكل سيارة"
+            "ar-EG": "شخص واحد لكل سيارة",
+            "hu-HU": "1 személy kocsinként"
         }
     }
 }

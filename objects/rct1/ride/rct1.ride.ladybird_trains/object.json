@@ -524,7 +524,8 @@
             "ca-ES": "Tren Marieta",
             "fi-FI": "Leppäkerttuvaunut",
             "gl-ES": "Trens de xoaniña",
-            "ar-EG": "قطارات الدعسوقة"
+            "ar-EG": "قطارات الدعسوقة",
+            "hu-HU": "Katicavonatok"
         },
         "description": {
             "en-GB": "Roller coaster trains with small ladybird-shaped cars",
@@ -546,7 +547,8 @@
             "ca-ES": "Muntanya russa amb trens en forma de marieta.",
             "fi-FI": "Pienet leppäkertun muotoiset vuoristoratavaunut",
             "gl-ES": "Trens de montaña rusa con pequenos coches en forma de xoaniña",
-            "ar-EG": "قطارات أفعوانية بعربات صغيرة على شكل دعسوقة"
+            "ar-EG": "قطارات أفعوانية بعربات صغيرة على شكل دعسوقة",
+            "hu-HU": "Hullámvasút-vonatok apró, katica formájú kocsikkal"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -568,7 +570,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
             "gl-ES": "2 pasaxeiros por coche",
-            "ar-EG": "راكبان لكل عربة"
+            "ar-EG": "راكبان لكل عربة",
+            "hu-HU": "2 utas kocsinként"
         }
     }
 }

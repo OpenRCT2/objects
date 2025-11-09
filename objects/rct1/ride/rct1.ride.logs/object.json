@@ -422,7 +422,8 @@
             "ca-ES": "Troncs",
             "fi-FI": "Tukit",
             "gl-ES": "Troncos",
-            "ar-EG": "جذوع الأشجار"
+            "ar-EG": "جذوع الأشجار",
+            "hu-HU": "Fatörzsek"
         },
         "description": {
             "en-GB": "Log-shaped boats built for running in water channels",
@@ -444,7 +445,8 @@
             "ca-ES": "Barques en forma de tron que circulen per canals d’aigua.",
             "fi-FI": "Tukinmuotoiset veneet, jotka on tehty vesikanavissa matkustusta varten",
             "gl-ES": "Botes en forma de tronco construídos para circular en canles de auga",
-            "ar-EG": "قوارب على شكل جذوع أشجار مصممة للسير في قنوات مائية"
+            "ar-EG": "قوارب على شكل جذوع أشجار مصممة للسير في قنوات مائية",
+            "hu-HU": "Fatörzs alakú csónakok, vízi csatornákon való haladáshoz"
         },
         "capacity": {
             "en-GB": "4 passengers per boat",
@@ -466,7 +468,8 @@
             "ca-ES": "4 passatgers per barqueta",
             "fi-FI": "4 matkustajaa per vene",
             "gl-ES": "4 pasaxeiros por coche",
-            "ar-EG": "4 ركاب لكل قارب"
+            "ar-EG": "4 ركاب لكل قارب",
+            "hu-HU": "4 utas csónakonként"
         }
     }
 }
