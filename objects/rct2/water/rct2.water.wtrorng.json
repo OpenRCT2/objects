@@ -10,6 +10,7 @@
         "rct2",
         "rct1ll"
     ],
+    "isCompatibilityObject": true,
     "objectType": "water",
     "properties": {
         "palettes": {
@@ -249,7 +250,7 @@
                     "#435B5B",
                     "#536B6B",
                     "#637B7B",
-                    "#000063",
+                    "#00005F",
                     "#1B2B8B",
                     "#273B97"
                 ]
