@@ -12,7 +12,7 @@
         "noSlopeRailings": true
     },
     "images": [
-        { "path": "preview.png" },
+        { "path": "preview.png", "x": 1, "y": 1 },
         "$RCT2:OBJDATA/PATHSPCE.DAT[51..70]"
     ],
     "strings": {
