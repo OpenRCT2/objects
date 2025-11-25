@@ -10,7 +10,6 @@
     "properties": {
         "type": "log_flume",
         "category": "water",
-        "tabScale": 0.5,
         "playSplashSound": true,
         "noCollisionCrashes": true,
         "carColours": [
@@ -27,6 +26,7 @@
                 "rotationFrameMask": 31,
                 "spacing": 278912,
                 "mass": 250,
+                "tabOffset": -3,
                 "numSeats": 4,
                 "numSeatRows": 2,
                 "logFlumeReverserVehicleType": 1,
@@ -54,6 +54,7 @@
                 "rotationFrameMask": 31,
                 "spacing": 8716,
                 "mass": 250,
+                "tabOffset": -3,
                 "numSeats": 4,
                 "numSeatRows": 2,
                 "soundRange": 0,
