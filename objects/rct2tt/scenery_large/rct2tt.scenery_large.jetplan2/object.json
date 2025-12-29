@@ -79,7 +79,12 @@
         ]
     },
     "images": [
-        "$RCT2:OBJDATA/JETPLAN2.DAT[0..39]"
+        "$RCT2:OBJDATA/JETPLAN2.DAT[0..19]",
+        { "path": "images/20.png", "x": -32, "y": -15 },
+        { "path": "images/21.png", "x": -32, "y": -34 },
+        { "path": "images/22.png", "x": -32, "y": -35 },
+        { "path": "images/23.png", "x": -32, "y": -14 },
+        "$RCT2:OBJDATA/JETPLAN2.DAT[24..39]"
     ],
     "strings": {
         "name": {
