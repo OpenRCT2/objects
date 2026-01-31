@@ -1,0 +1,465 @@
+{
+	"id": "rct2.campaign.rct_classic",
+	"version": "1.0",
+	"authors": [
+		"Chris Sawyer",
+		"Atari"
+	],
+	"objectType": "campaign",
+	"sourceGame": [
+		"rct2",
+		"rct1ll",
+		"rct1aa",
+		"rct1"
+	],
+	"properties": {
+		"numUnlockedScenarios": 3,
+		"numUnlockedGroups": 3,
+		"scenarioGroups": [
+			{
+				"header": "rctClassicGraphiteGroup",
+				"scenarios": [
+					{
+						"title": "Forest Frontiers",
+						"fileName": "Forest Frontiers.sea"
+					},
+					{
+						"title": "Dynamite Dunes",
+						"fileName": "Dynamite Dunes.sea"
+					},
+					{
+						"title": "Leafy Lake",
+						"fileName": "Leafy Lake.sea"
+					},
+					{
+						"title": "Diamond Heights",
+						"fileName": "Diamond Heights.sea"
+					},
+					{
+						"title": "White Water Park",
+						"fileName": "White Water Park.sea"
+					},
+					{
+						"title": "Trinity Islands",
+						"fileName": "Trinity Islands.sea"
+					},
+					{
+						"title": "Three Monkeys Park",
+						"fileName": "Three Monkeys Park.sea"
+					},
+					{
+						"title": "Factory Capers",
+						"fileName": "Factory Capers.sea"
+					},
+					{
+						"title": "Katie's Dreamland",
+						"fileName": "Katie's Dreamland.sea"
+					}
+				]
+			},
+			{
+				"header": "rctClassicEmeraldGroup",
+				"scenarios": [
+					{
+						"title": "Bumbly Beach",
+						"fileName": "Bumbly Beach.sea"
+					},
+					{
+						"title": "Karts & Coasters",
+						"fileName": "Karts & Coasters.sea"
+					},
+					{
+						"title": "Evergreen Gardens",
+						"fileName": "Evergreen Gardens.sea"
+					},
+					{
+						"title": "Crazy Castle",
+						"fileName": "Crazy Castle.sea"
+					},
+					{
+						"title": "Mel's World",
+						"fileName": "Mel's World.sea"
+					},
+					{
+						"title": "Mystic Mountain",
+						"fileName": "Mystic Mountain.sea"
+					},
+					{
+						"title": "Pacific Pyramids",
+						"fileName": "Pacific Pyramids.sea"
+					},
+					{
+						"title": "Crumbly Woods",
+						"fileName": "Crumbly Woods.sea"
+					},
+					{
+						"title": "Paradise Pier",
+						"fileName": "Paradise Pier.sea"
+					}
+				]
+			},
+			{
+				"header": "rctClassicRubyGroup",
+				"scenarios": [
+					{
+						"title": "Millennium Mines",
+						"fileName": "Millennium Mines.sea"
+					},
+					{
+						"title": "Electric Fields",
+						"fileName": "Electric Fields.sea"
+					},
+					{
+						"title": "Haunted Harbour",
+						"fileName": "Haunted Harbour.sea"
+					},
+					{
+						"title": "Barony Bridge",
+						"fileName": "Barony Bridge.sea"
+					},
+					{
+						"title": "Funtopia",
+						"fileName": "Funtopia.sea"
+					},
+					{
+						"title": "Canary Mines",
+						"fileName": "Canary Mines.sea"
+					},
+					{
+						"title": "Future World",
+						"fileName": "Future World.sea"
+					},
+					{
+						"title": "Gentle Glen",
+						"fileName": "Gentle Glen.sea"
+					},
+					{
+						"title": "Jolly Jungle",
+						"fileName": "Jolly Jungle.sea"
+					}
+				]
+			},
+			{
+				"header": "rctClassicSapphireGroup",
+				"scenarios": [
+					{
+						"title": "Iceberg Islands",
+						"fileName": "Iceberg Islands.sea"
+					},
+					{
+						"title": "Volcania",
+						"fileName": "Volcania.sea"
+					},
+					{
+						"title": "Arid Heights",
+						"fileName": "Arid Heights.sea"
+					},
+					{
+						"title": "Razor Rocks",
+						"fileName": "Razor Rocks.sea"
+					},
+					{
+						"title": "Crater Lake",
+						"fileName": "Crater Lake.sea"
+					},
+					{
+						"title": "Vertigo Views",
+						"fileName": "Vertigo Views.sea"
+					},
+					{
+						"title": "Paradise Pier 2",
+						"fileName": "Paradise Pier 2.sea"
+					},
+					{
+						"title": "Dragon's Cove",
+						"fileName": "Dragon's Cove.sea"
+					},
+					{
+						"title": "Good Knight Park",
+						"fileName": "Good Knight Park.sea"
+					}
+				]
+			},
+			{
+				"header": "rctClassicAmethystGroup",
+				"scenarios": [
+					{
+						"title": "Fun Fortress",
+						"fileName": "Fun Fortress.sea"
+					},
+					{
+						"title": "Amity Airfield",
+						"fileName": "Amity Airfield.sea"
+					},
+					{
+						"title": "Bumbly Bazaar",
+						"fileName": "Bumbly Bazaar.sea"
+					},
+					{
+						"title": "Whispering Cliffs",
+						"fileName": "Whispering Cliffs.sea"
+					},
+					{
+						"title": "Hydro Hills",
+						"fileName": "Hydro Hills.sea"
+					},
+					{
+						"title": "Sprightly Park",
+						"fileName": "Sprightly Park.sea"
+					},
+					{
+						"title": "Magic Quarters",
+						"fileName": "Magic Quarters.sea"
+					},
+					{
+						"title": "Fruit Farm",
+						"fileName": "Fruit Farm.sea"
+					},
+					{
+						"title": "Pokey Park",
+						"fileName": "Pokey Park.sea"
+					}
+				]
+			},
+			{
+				"header": "rctClassicCoralGroup",
+				"scenarios": [
+					{
+						"title": "Butterfly Dam",
+						"fileName": "Butterfly Dam.sea"
+					},
+					{
+						"title": "Coaster Canyon",
+						"fileName": "Coaster Canyon.sea"
+					},
+					{
+						"title": "Thunderstorm Park",
+						"fileName": "Thunderstorm Park.sea"
+					},
+					{
+						"title": "Harmonic Hills",
+						"fileName": "Harmonic Hills.sea"
+					},
+					{
+						"title": "Roman Village",
+						"fileName": "Roman Village.sea"
+					},
+					{
+						"title": "Swamp Cove",
+						"fileName": "Swamp Cove.sea"
+					},
+					{
+						"title": "Adrenaline Heights",
+						"fileName": "Adrenaline Heights.sea"
+					},
+					{
+						"title": "Botany Breakers",
+						"fileName": "Botany Breakers.sea"
+					},
+					{
+						"title": "Rotting Heights",
+						"fileName": "Rotting Heights.sea"
+					},
+					{
+						"title": "Lightning Peaks",
+						"fileName": "Lightning Peaks.sea"
+					}
+				]
+			},
+			{
+				"header": "rctClassicIvoryGroup",
+				"scenarios": [
+					{
+						"title": "Utopia Park",
+						"fileName": "Utopia Park.sea"
+					},
+					{
+						"title": "Ivory Towers",
+						"fileName": "Ivory Towers.sea"
+					},
+					{
+						"title": "Thunder Rock",
+						"fileName": "Thunder Rock.sea"
+					},
+					{
+						"title": "Dusty Greens",
+						"fileName": "Dusty Greens.sea"
+					},
+					{
+						"title": "Fungus Woods",
+						"fileName": "Fungus Woods.sea"
+					},
+					{
+						"title": "Gravity Gardens",
+						"fileName": "Gravity Gardens.sea"
+					},
+					{
+						"title": "Wacky Warren",
+						"fileName": "Wacky Warren.sea"
+					},
+					{
+						"title": "Grand Glacier",
+						"fileName": "Grand Glacier.sea"
+					},
+					{
+						"title": "Crazy Craters",
+						"fileName": "Crazy Craters.sea"
+					},
+					{
+						"title": "Icarus Park",
+						"fileName": "Icarus Park.sea"
+					}
+				]
+			},
+			{
+				"header": "rctClassicBronzeGroup",
+				"scenarios": [
+					{
+						"title": "Dusty Desert",
+						"fileName": "Dusty Desert.sea"
+					},
+					{
+						"title": "Woodworm Park",
+						"fileName": "Woodworm Park.sea"
+					},
+					{
+						"title": "Sunny Swamps",
+						"fileName": "Sunny Swamps.sea"
+					},
+					{
+						"title": "Frightmare Hills",
+						"fileName": "Frightmare Hills.sea"
+					},
+					{
+						"title": "Thunder Rocks",
+						"fileName": "Thunder Rocks.sea"
+					},
+					{
+						"title": "Octagon Park",
+						"fileName": "Octagon Park.sea"
+					},
+					{
+						"title": "Pleasure Island",
+						"fileName": "Pleasure Island.sea"
+					},
+					{
+						"title": "Icicle Worlds",
+						"fileName": "Icicle Worlds.sea"
+					},
+					{
+						"title": "Ghost Town",
+						"fileName": "Ghost Town.sea"
+					},
+					{
+						"title": "Infernal Views",
+						"fileName": "Infernal Views.sea"
+					}
+				]
+			},
+			{
+				"header": "rctClassicSilverGroup",
+				"scenarios": [
+					{
+						"title": "Fiasco Forest",
+						"fileName": "Fiasco Forest.sea"
+					},
+					{
+						"title": "Pickle Park",
+						"fileName": "Pickle Park.sea"
+					},
+					{
+						"title": "Giggle Downs",
+						"fileName": "Giggle Downs.sea"
+					},
+					{
+						"title": "Mineral Park",
+						"fileName": "Mineral Park.sea"
+					},
+					{
+						"title": "Coaster Crazy",
+						"fileName": "Coaster Crazy.sea"
+					},
+					{
+						"title": "Pacifica",
+						"fileName": "Pacifica.sea"
+					},
+					{
+						"title": "Alpine Adventures",
+						"fileName": "Alpine Adventures.sea"
+					},
+					{
+						"title": "Extreme Heights",
+						"fileName": "Extreme Heights.sea"
+					},
+					{
+						"title": "Lucky Lake",
+						"fileName": "Lucky Lake.sea"
+					},
+					{
+						"title": "Rainbow Summit",
+						"fileName": "Rainbow Summit.sea"
+					}
+				]
+			},
+			{
+				"header": "rctClassicGoldGroup",
+				"scenarios": [
+					{
+						"title": "Rainbow Valley",
+						"fileName": "Rainbow Valley.sea"
+					},
+					{
+						"title": "Urban Park",
+						"fileName": "Urban Park.sea"
+					},
+					{
+						"title": "Geoffrey Gardens",
+						"fileName": "Geoffrey Gardens.sea"
+					},
+					{
+						"title": "Southern Sands",
+						"fileName": "Southern Sands.sea"
+					},
+					{
+						"title": "Tiny Towers",
+						"fileName": "Tiny Towers.sea"
+					},
+					{
+						"title": "Nevermore Park",
+						"fileName": "Nevermore Park.sea"
+					},
+					{
+						"title": "Terror Town",
+						"fileName": "Terror Town.sea"
+					},
+					{
+						"title": "Megaworld Park",
+						"fileName": "Megaworld Park.sea"
+					},
+					{
+						"title": "Venus Ponds",
+						"fileName": "Venus Ponds.sea"
+					},
+					{
+						"title": "Micro Park",
+						"fileName": "Micro Park.sea"
+					}
+				]
+			},
+			{
+				"header": "bonus",
+				"scenarios": [
+					{
+						"title": "Tycoon Park",
+						"fileName": "Tycoon Park.sea"
+					}
+				]
+			}
+		]
+	},
+	"strings": {
+		"name": {
+			"en-GB": "RollerCoaster Tycoon Classic"
+		}
+	}
+}
