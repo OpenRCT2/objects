@@ -10,6 +10,7 @@
     "properties": {
         "type": "swinging_inverter_ship",
         "category": "thrill",
+        "clearance": 176,
         "tabScale": 0.5,
         "swingMode": 1,
         "carsPerFlatRide": 1,
