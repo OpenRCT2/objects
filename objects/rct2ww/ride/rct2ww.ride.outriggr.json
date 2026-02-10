@@ -36,7 +36,9 @@
             "frames": {
                 "flat": true
             },
-            "VEHICLE_ENTRY_FLAG_11": true,
+            "spriteGroups": {
+                "slopeFlat": 16
+            },
             "hasAdditionalColour1": true,
             "isPowered": true,
             "useBoatHireCollisionDetection": true,

@@ -43,7 +43,9 @@
             "frames": {
                 "flat": true
             },
-            "VEHICLE_ENTRY_FLAG_11": true,
+            "spriteGroups": {
+                "slopeFlat": 16
+            },
             "isPowered": true,
             "useBoatHireCollisionDetection": true,
             "hasRiderAnimation": true,
