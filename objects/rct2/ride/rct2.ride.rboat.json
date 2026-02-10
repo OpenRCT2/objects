@@ -44,9 +44,6 @@
             "poweredAcceleration": 8,
             "poweredMaxSpeed": 5,
             "drawOrder": 6,
-            "frames": {
-                "flat": true
-            },
             "spriteGroups": {
                 "slopeFlat": 16
             },
