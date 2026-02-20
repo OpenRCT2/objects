@@ -17,8 +17,8 @@
         "hasShelter": false
     },
     "images": [
-        "$G1[22664..22679]",
-        { "path": "images/icon.png", "x": 1, "y": 0 }
+        { "path": "images/icon.png", "x": 1, "y": 0 },
+        "$G1[22664..22679]"
     ],
     "strings": {
         "name": {
