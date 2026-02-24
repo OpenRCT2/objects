@@ -1,0 +1,106 @@
+{
+	"id": "rct2.campaign.real_parks",
+	"version": "1.0",
+	"authors": [
+		"Chris Sawyer"
+	],
+	"objectType": "campaign",
+	"sourceGame": [
+		"rct2",
+		"rct1ll"
+	],
+	"properties": {
+		"scenarioGroups": [
+			{
+				"header": "real",
+				"scenarios": [
+					{
+						"title": "Alton Towers",
+						"fileName": [
+							"ALTON1.SC4",
+							"Alton Towers.SC6"
+						]
+					},
+					{
+						"title": "Heide-Park",
+						"fileName": [
+							"HEIDE.SC4",
+							"Heide-Park.SC6"
+						]
+					},
+					{
+						"title": "Blackpool Pleasure Beach",
+						"fileName": [
+							"BPB1.SC4",
+							"Blackpool Pleasure Beach.SC6"
+						]
+					},
+					{
+						"title": "Six Flags Belgium",
+						"fileName": [
+							"Six Flags Belgium.SC6",
+							"Six Flags Belgium.sea"
+						]
+					},
+					{
+						"title": "Six Flags Great Adventure",
+						"fileName": [
+							"Six Flags Great Adventure.SC6",
+							"Six Flags Great Adventure.sea"
+						]
+					},
+					{
+						"title": "Six Flags Holland",
+						"fileName": [
+							"Six Flags Holland.SC6",
+							"Six Flags Holland.sea"
+						]
+					},
+					{
+						"title": "Six Flags Magic Mountain",
+						"fileName": [
+							"Six Flags Magic Mountain.SC6",
+							"Six Flags Magic Mountain.sea"
+						]
+					},
+					{
+						"title": "Six Flags over Texas",
+						"fileName": [
+							"Six Flags over Texas.SC6",
+							"Six Flags over Texas.sea"
+						]
+					}
+				]
+			}
+		]
+	},
+	"strings": {
+		"name": {
+			"en-GB": "“Real” parks",
+			"ca-ES": "Parcs «reals»",
+			"cs-CZ": "„Reálné“ parky",
+			"da-DK": "“Rigtige ” Parker",
+			"de-DE": "„Reale“ Parks",
+			"eo-ZZ": "“Faktaj” Parkoj",
+			"es-ES": "Parques “Reales”",
+			"fi-FI": "“Oikeat” puistot",
+			"fr-FR": "Parcs « réels »",
+			"gl-ES": "Parques “Reais”.",
+			"hu-HU": "„Igazi” parkok",
+			"it-IT": "Parchi “veri”",
+			"ja-JP": "現実のパーク",
+			"ko-KR": "“실제” 공원",
+			"nb-NO": "“Ekte” Parker",
+			"nl-NL": "‘Echte’ parken",
+			"pl-PL": "„Prawdziwe” parki",
+			"pt-BR": "Parques “Reais”",
+			"ru-RU": "“Реальные” парки",
+			"sv-SE": "”Riktiga” Parker",
+			"tr-TR": "Gerçek parklar",
+			"uk-UA": "“Справжні” парки",
+			"vi-VN": "Công viên “Thực tế”",
+			"zh-CN": "“真实的”游乐园",
+			"zh-TW": "“真實的”樂園"
+		}
+	}
+}

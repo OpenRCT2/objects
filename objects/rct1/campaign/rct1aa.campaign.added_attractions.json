@@ -1,0 +1,254 @@
+{
+	"id": "rct1aa.campaign.added_attractions",
+	"version": "1.0",
+	"authors": [
+		"Chris Sawyer"
+	],
+	"objectType": "campaign",
+	"sourceGame": "rct1aa",
+	"properties": {
+		"numUnlockedScenarios": 5,
+		"scenarioGroups": [
+			{
+				"header": "beginner",
+				"scenarios": [
+					{
+						"title": "Whispering Cliffs",
+						"fileName": [
+							"SC40.SC4",
+							"Whispering Cliffs.SC6"
+						]
+					},
+					{
+						"title": "Three Monkeys Park",
+						"fileName": [
+							"SC41.SC4",
+							"Three Monkeys Park.SC6"
+						]
+					},
+					{
+						"title": "Canary Mines",
+						"fileName": [
+							"SC42.SC4",
+							"Canary Mines.SC6"
+						]
+					},
+					{
+						"title": "Barony Bridge",
+						"fileName": [
+							"SC43.SC4",
+							"Barony Bridge.SC6"
+						]
+					},
+					{
+						"title": "Funtopia",
+						"fileName": [
+							"SC44.SC4",
+							"Funtopia.SC6"
+						]
+					},
+					{
+						"title": "Haunted Harbour",
+						"fileName": [
+							"SC45.SC4",
+							"Haunted Harbour.SC6"
+						]
+					},
+					{
+						"title": "Fun Fortress",
+						"fileName": [
+							"SC46.SC4",
+							"Fun Fortress.SC6"
+						]
+					},
+					{
+						"title": "Future World",
+						"fileName": [
+							"SC47.SC4",
+							"Future World.SC6"
+						]
+					},
+					{
+						"title": "Gentle Glen",
+						"fileName": [
+							"SC48.SC4",
+							"Gentle Glen.SC6"
+						]
+					}
+				]
+			},
+			{
+				"header": "challenging",
+				"scenarios": [
+					{
+						"title": "Jolly Jungle",
+						"fileName": [
+							"SC49.SC4",
+							"Jolly Jungle.SC6"
+						]
+					},
+					{
+						"title": "Hydro Hills",
+						"fileName": [
+							"SC50.SC4",
+							"Hydro Hills.SC6"
+						]
+					},
+					{
+						"title": "Sprightly Park",
+						"fileName": [
+							"SC51.SC4",
+							"Sprightly Park.SC6"
+						]
+					},
+					{
+						"title": "Magic Quarters",
+						"fileName": [
+							"SC52.SC4",
+							"Magic Quarters.SC6"
+						]
+					},
+					{
+						"title": "Fruit Farm",
+						"fileName": [
+							"SC53.SC4",
+							"Fruit Farm.SC6"
+						]
+					},
+					{
+						"title": "Butterfly Dam",
+						"fileName": [
+							"SC54.SC4",
+							"Butterfly Dam.SC6"
+						]
+					},
+					{
+						"title": "Coaster Canyon",
+						"fileName": [
+							"SC55.SC4",
+							"Coaster Canyon.SC6"
+						]
+					},
+					{
+						"title": "Thunderstorm Park",
+						"fileName": [
+							"SC56.SC4",
+							"Thunderstorm Park.SC6"
+						]
+					},
+					{
+						"title": "Harmonic Hills",
+						"fileName": [
+							"SC57.SC4",
+							"Harmonic Hills.SC6"
+						]
+					},
+					{
+						"title": "Roman Village",
+						"fileName": [
+							"SC58.SC4",
+							"Roman Village.SC6"
+						]
+					},
+					{
+						"title": "Swamp Cove",
+						"fileName": [
+							"SC59.SC4",
+							"Swamp Cove.SC6"
+						]
+					},
+					{
+						"title": "Adrenaline Heights",
+						"fileName": [
+							"SC60.SC4",
+							"Adrenaline Heights.SC6"
+						]
+					},
+					{
+						"title": "Utopia Park",
+						"fileName": [
+							"SC61.SC4",
+							"Utopia Park.SC6"
+						]
+					}
+				]
+			},
+			{
+				"header": "expert",
+				"scenarios": [
+					{
+						"title": "Rotting Heights",
+						"fileName": [
+							"SC62.SC4",
+							"Rotting Heights.SC6"
+						]
+					},
+					{
+						"title": "Fiasco Forest",
+						"fileName": [
+							"SC63.SC4",
+							"Fiasco Forest.SC6"
+						]
+					},
+					{
+						"title": "Pickle Park",
+						"fileName": [
+							"SC64.SC4",
+							"Pickle Park.SC6"
+						]
+					},
+					{
+						"title": "Giggle Downs",
+						"fileName": [
+							"SC65.SC4",
+							"Giggle Downs.SC6"
+						]
+					},
+					{
+						"title": "Mineral Park",
+						"fileName": [
+							"SC66.SC4",
+							"Mineral Park.SC6"
+						]
+					},
+					{
+						"title": "Coaster Crazy",
+						"fileName": [
+							"SC67.SC4",
+							"Coaster Crazy.SC6"
+						]
+					},
+					{
+						"title": "Urban Park",
+						"fileName": [
+							"SC68.SC4",
+							"Urban Park.SC6"
+						]
+					},
+					{
+						"title": "Geoffrey Gardens",
+						"fileName": [
+							"SC69.SC4",
+							"Geoffrey Gardens.SC6"
+						]
+					}
+				]
+			}
+		]
+	},
+	"strings": {
+		"name": {
+			"en-GB": "Added Attractions",
+			"en-US": "Corkscrew Follies",
+			"fr-FR": "Nouvelles Attractions",
+			"gl-ES": "Atraccións engadidas",
+			"ja-JP": "追加アトラクションキット",
+			"ko-KR": "애디드 어트랙션",
+			"pl-PL": "Dodatkowe Atrakcje",
+			"uk-UA": "Додані атракціони",
+			"vi-VN": "Các điểm tham quan bổ sung",
+			"zh-CN": "过山车大亨：{NEWLINE}快乐天地",
+			"zh-TW": "夢幻遊樂園: 資料片1"
+		}
+	}
+}
