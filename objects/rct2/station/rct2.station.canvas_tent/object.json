@@ -19,6 +19,7 @@
         "hasSecondaryColour": true
     },
     "images": [
+        { "path": "images/icon.png", "x": 1, "y": 0 },
         "$G1[22680..22695]",
         "$G1[22445..22456]"
     ],

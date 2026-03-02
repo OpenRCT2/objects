@@ -19,6 +19,7 @@
         "isTransparent": true
     },
     "images": [
+        { "path": "images/icon.png", "x": 2, "y": 0 },
         "$G1[22792..22823]",
         "$G1[22517..22540]"
     ],
