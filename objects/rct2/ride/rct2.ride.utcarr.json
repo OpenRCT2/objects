@@ -16,6 +16,7 @@
         "type": "heartline_twister_rc",
         "category": "rollercoaster",
         "limitAirTimeBonus": true,
+        "noReverseOption": true,
         "carColours": [
             [
                 [
