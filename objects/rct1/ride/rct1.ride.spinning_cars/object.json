@@ -11,6 +11,7 @@
     "properties": {
         "type": "classic_mini_rc",
         "category": "rollercoaster",
+        "limitAirTimeBonus": true,
         "maxCarsPerTrain": 4,
         "ratingMultipler": {
             "excitement": 5,
