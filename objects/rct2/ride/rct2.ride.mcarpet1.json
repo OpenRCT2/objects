@@ -11,6 +11,7 @@
     "properties": {
         "type": "magic_carpet",
         "category": "thrill",
+        "clearance": 128,
         "tabScale": 0.5,
         "swingMode": 2,
         "carsPerFlatRide": 1,
