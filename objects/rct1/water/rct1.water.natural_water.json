@@ -8,7 +8,7 @@
     "sourceGame": [
         "rct1"
     ],
-//    "isCompatibilityObject": true,
+    "isCompatibilityObject": true,
     "objectType": "water",
     "properties": {
         "allowDucks": true,
