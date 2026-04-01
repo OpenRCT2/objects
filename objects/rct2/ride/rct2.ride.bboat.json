@@ -91,7 +91,8 @@
             "eo-ZZ": "Doĝemo-Boatoj",
             "ca-ES": "Bots inflables",
             "fi-FI": "Kumiveneet",
-            "gl-ES": "Barcos de choque"
+            "gl-ES": "Barcos de choque",
+            "hu-HU": "Vízidodzsem"
         },
         "description": {
             "en-GB": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
@@ -112,7 +113,8 @@
             "eo-ZZ": "Malgrandaj rondaj boatetoj ŝaltitaj per centra motoro, kiun la pasaĝeroj funkciigas",
             "ca-ES": "Bots inflables petits propulsats per un motor central controlat pels passatgers.",
             "fi-FI": "Pienet pyöreät veneet, joita kuljettaa matkustajien ohjaama moottori",
-            "gl-ES": "Pequenos botes circulares impulsados ​​por un motor montado centralmente controlado polos pasaxeiros"
+            "gl-ES": "Pequenos botes circulares impulsados ​​por un motor montado centralmente controlado polos pasaxeiros",
+            "hu-HU": "Apró, kör alakú gumicsónakok középre szerelt motorral, amelyet az utasok irányítanak"
         },
         "capacity": {
             "en-GB": "2 passengers per boat",
@@ -133,7 +135,8 @@
             "eo-ZZ": "Po 2 pasaĝeroj por boato",
             "ca-ES": "2 passatgers per barca",
             "fi-FI": "2 matkustajaa per vene",
-            "gl-ES": "2 pasaxeiros por bote"
+            "gl-ES": "2 pasaxeiros por bote",
+            "hu-HU": "2 utas csónakonként"
         }
     }
 }

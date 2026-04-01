@@ -639,7 +639,9 @@
             "ru-RU": "Перевёрнутый поезд",
             "gl-ES": "Trens de montaña rusa invertida",
             "ar-EG": "قطارات الأفعوانية المعلقة",
-            "cs-CZ": "Vlaky otočené dráhy"
+            "cs-CZ": "Vlaky otočené dráhy",
+            "eo-ZZ": "Trajnoj de Inversigita Onda Fervojo",
+            "hu-HU": "Fordított hullámvasút kocsik"
         },
         "description": {
             "en-GB": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
@@ -654,7 +656,9 @@
             "ru-RU": "Сиденья, свешивающиеся вниз с поддерживающей рамки на треке сверху.",
             "gl-ES": "Tren de montaña rusa invertida, composto por asentos pendurados dun marco de soporte que circula pola vía superior",
             "ar-EG": "قطار أفعواني معلق، يتكون من مقاعد معلقة من إطار دعم يسير على المسار أعلاه.",
-            "cs-CZ": "Otočený vlak horské dráhy sestávající se z sedadel připevněných k nosném rámu zavěšenému pod trať nad ním"
+            "cs-CZ": "Otočený vlak horské dráhy sestávající se z sedadel připevněných k nosném rámu zavěšenému pod trať nad ním",
+            "eo-ZZ": "Inversigita trajno de onda fervojo, kiuj konsistas el seĝoj pendantaj de subtena kadro veturanta sur la trako supre.",
+            "hu-HU": "Fordított hullámvasút kocsik, amelyeknél az ülések a felettük lévő síneken futó vázról függenek."
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -676,7 +680,9 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
             "gl-ES": "2 pasaxeiros por coche",
-            "ar-EG": "راكبان لكل عربة"
+            "ar-EG": "راكبان لكل عربة",
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "hu-HU": "2 utas kocsinként"
         }
     }
 }

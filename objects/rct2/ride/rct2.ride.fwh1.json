@@ -328,7 +328,8 @@
             "eo-ZZ": "Spektoradego",
             "ca-ES": "Sínia",
             "fi-FI": "Maailmanpyörä",
-            "gl-ES": "Noria"
+            "gl-ES": "Noria",
+            "hu-HU": "Óriáskerék"
         },
         "description": {
             "en-GB": "Rotating big wheel with open chairs",
@@ -349,7 +350,8 @@
             "eo-ZZ": "Turniĝanta granda rado kun subĉielaj seĝoj",
             "ca-ES": "Roda enorme que gira amb cabines obertes.",
             "fi-FI": "Iso pyörivä pyörä, jossa on avoilmapenkit",
-            "gl-ES": "Roda xigante xiratoria con cadeiras abertas"
+            "gl-ES": "Roda xigante xiratoria con cadeiras abertas",
+            "hu-HU": "Forgó óriáskerék nyitott ülésekkel"
         },
         "capacity": {
             "en-GB": "32 passengers",
@@ -369,7 +371,8 @@
             "ru-RU": "32 пассажира",
             "eo-ZZ": "32 pasaĝeroj",
             "ca-ES": "32 passatgers",
-            "fi-FI": "32 matkustajaa"
+            "fi-FI": "32 matkustajaa",
+            "hu-HU": "32 utas"
         }
     }
 }

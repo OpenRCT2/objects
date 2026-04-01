@@ -1691,7 +1691,9 @@
             "ru-RU": "Штопорные поезда",
             "gl-ES": "Trens de montaña rusa en espiral",
             "ar-EG": "قطارات أفعوانية لولبية",
-            "cs-CZ": "Vlaky vývrtkové dráhy"
+            "cs-CZ": "Vlaky vývrtkové dráhy",
+            "eo-ZZ": "Trajnoj de Korktirila Onda Fervojo",
+            "hu-HU": "Dugóhúzó hullámvasút kocsik"
         },
         "description": {
             "en-GB": "Roller coaster trains with shoulder restraints",
@@ -1705,7 +1707,9 @@
             "ru-RU": "Поезда с безопасностью для плеч",
             "gl-ES": "Trens de montaña rusa con suxeicións de ombreiro",
             "ar-EG": "قطارات أفعوانية بأحزمة كتف",
-            "cs-CZ": "Vlaky horské dráhy se sedadly vybavenými ramenními opěrkami"
+            "cs-CZ": "Vlaky horské dráhy se sedadly vybavenými ramenními opěrkami",
+            "eo-ZZ": "Trajnoj de onda fervojo kun ŝultrobridoj",
+            "hu-HU": "Vállrögzítéssel ellátott hullámvasút kocsik"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -1718,7 +1722,9 @@
             "ru-RU": "4 пассажира на машину",
             "gl-ES": "4 pasaxeiros por coche",
             "ar-EG": "4 ركاب لكل عربة",
-            "cs-CZ": "4 místa v každém voze"
+            "cs-CZ": "4 místa v každém voze",
+            "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
+            "hu-HU": "4 utas kocsinként"
         }
     }
 }

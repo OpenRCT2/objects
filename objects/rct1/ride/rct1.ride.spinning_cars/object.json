@@ -681,11 +681,23 @@
     "strings": {
         "name": {
             "en-GB": "Spinning Cars",
-            "nl-NL": "Draaiende karretjes"
+            "nl-NL": "Draaiende karretjes",
+            "eo-ZZ": "Turniĝantaj Ĉaroj",
+            "fr-FR": "Voitures tournoyantes",
+            "hu-HU": "Forgó kocsik",
+            "ko-KR": "스핀 카",
+            "pt-BR": "Carros Giratórios",
+            "ru-RU": "Вращающиеся машины"
         },
         "description": {
             "en-GB": "Circular roller coaster cars which are free to spin around their central axis.",
-            "nl-NL": "Ronde achtbaankarretjes die vrij kunnen ronddraaien om hun verticale as."
+            "nl-NL": "Ronde achtbaankarretjes die vrij kunnen ronddraaien om hun verticale as.",
+            "eo-ZZ": "Cirklaj ĉaroj de onda fervojo, kiuj povas libere turniĝi ĉirkaŭ sia centra akso.",
+            "fr-FR": "Voitures de montagnes russes circulaires libres de tournoyer autour de leur axe central",
+            "hu-HU": "Kör alakú hullámvasút-kocsik, amelyek saját tengelyük körül szabadon forognak.",
+            "ko-KR": "중심 축을 중심으로 자유롭게 회전하는 원형 롤러코스터 차량입니다.",
+            "pt-BR": "Carros circulares de montanha russa que são livres para girar em torno do seu eixo central.",
+            "ru-RU": "Круглые машины для аттракционов, вращающиеся вокруг своей центральной оси."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -698,7 +710,7 @@
             "ko-KR": "차량 당 4명의 승객",
             "zh-TW": "每輛車限乘4人",
             "ja-JP": "各車両4名",
-            "pt-BR": "4 passageiros por vagão",
+            "pt-BR": "4 passageiros por carro",
             "cs-CZ": "4 místa v každém voze",
             "pl-PL": "4 pasażerów na wagonik",
             "ru-RU": "4 пассажира на машину",

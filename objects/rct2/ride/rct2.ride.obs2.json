@@ -299,7 +299,8 @@
             "eo-ZZ": "Duetaĝa Kajuto",
             "ca-ES": "Cabina d’observació de dos pisos",
             "fi-FI": "Kaksikerroksinen koppi",
-            "gl-ES": "Cabina de dous pisos"
+            "gl-ES": "Cabina de dous pisos",
+            "hu-HU": "Kétszintes kabin"
         },
         "description": {
             "en-GB": "Twin-deck rotating observation cabin",
@@ -320,7 +321,8 @@
             "eo-ZZ": "Duetaĝa turniĝanta kajuto por observi",
             "ca-ES": "Cabina d’observació rotatòria de dos pisos.",
             "fi-FI": "Pyörivä näköalakoppi, jossa on kaksi kerrosta",
-            "gl-ES": "Cabina de observación xiratoria de dous pisos"
+            "gl-ES": "Cabina de observación xiratoria de dous pisos",
+            "hu-HU": "Kétszintes, forgó kilátókabin"
         },
         "capacity": {
             "en-GB": "32 passengers",
@@ -341,7 +343,8 @@
             "eo-ZZ": "32 pasaĝeroj",
             "ca-ES": "32 passatgers",
             "fi-FI": "32 matkustajaa",
-            "gl-ES": "32 pasaxeiros"
+            "gl-ES": "32 pasaxeiros",
+            "hu-HU": "32 utas"
         }
     }
 }

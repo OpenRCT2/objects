@@ -130,7 +130,8 @@
             "ca-ES": "Bots inflables",
             "fi-FI": "Kumiveneet",
             "gl-ES": "Botes de Choque",
-            "ar-EG": "قوارب التصادم"
+            "ar-EG": "قوارب التصادم",
+            "hu-HU": "Vízidodzsem"
         },
         "description": {
             "en-GB": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
@@ -152,7 +153,8 @@
             "ca-ES": "Bots inflables petits propulsats per un motor central controlat pels passatgers.",
             "fi-FI": "Pienet pyöreät veneet, joita kuljettaa matkustajien ohjaama moottori",
             "gl-ES": "Pequenos botes circulares con motor central controlado polos pasaxeiros",
-            "ar-EG": "قوارب دائرية صغيرة تعمل بمحرك مركزي يتحكم فيه الركاب"
+            "ar-EG": "قوارب دائرية صغيرة تعمل بمحرك مركزي يتحكم فيه الركاب",
+            "hu-HU": "Apró, kör alakú gumicsónakok középre szerelt motorral, amelyet az utasok irányítanak"
         },
         "capacity": {
             "en-GB": "2 passengers per boat",
@@ -174,7 +176,8 @@
             "ca-ES": "2 passatgers per bot",
             "fi-FI": "2 matkustajaa per vene",
             "gl-ES": "2 pasaxeiros por bote",
-            "ar-EG": "راكبان لكل قارب"
+            "ar-EG": "راكبان لكل قارب",
+            "hu-HU": "2 utas csónakonként"
         }
     }
 }

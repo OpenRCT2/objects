@@ -81,7 +81,8 @@
             "ca-ES": "Bicicletes",
             "fi-FI": "Polkupyörät",
             "gl-ES": "Bicicletas",
-            "ar-EG": "دراجات هوائية"
+            "ar-EG": "دراجات هوائية",
+            "hu-HU": "Kerékpárok"
         },
         "description": {
             "en-GB": "Special bicycles that run on a monorail track, propelled by the pedalling of the riders",
@@ -104,7 +105,8 @@
             "ca-ES": "Bicicletes especials que circulen per un monorail, impulsades pel pedaleig dels passatgers.",
             "fi-FI": "Matkustajat itse polkevat näitä erikoisvalmisteisia polkupyöriä yksittäistä teräsrataa pitkin",
             "gl-ES": "Bicicletas especiais que circulan por unha vía de monorraíl, impulsadas polo pedaleo dos pilotos",
-            "ar-EG": "دراجات خاصة تسير على مسار مونوريل، يدفعها الركاب بالدواسات"
+            "ar-EG": "دراجات خاصة تسير على مسار مونوريل، يدفعها الركاب بالدواسات",
+            "hu-HU": "Speciális kerékpárok, amelyek egysínű pályán haladnak, a kerékpárosok pedálozásával hajtva"
         },
         "capacity": {
             "en-GB": "1 rider per bicycle",
@@ -126,7 +128,8 @@
             "ca-ES": "1 passatger per bicicleta",
             "fi-FI": "1 matkustaja per polkupyörä",
             "gl-ES": "1 piloto por bicicleta",
-            "ar-EG": "راكب واحد لكل دراجة"
+            "ar-EG": "راكب واحد لكل دراجة",
+            "hu-HU": "1 utas kerékpáronként"
         }
     },
     "noCsgImages": [

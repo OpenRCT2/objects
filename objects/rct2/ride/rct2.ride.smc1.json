@@ -248,7 +248,8 @@
             "eo-ZZ": "Musoĉaroj",
             "ca-ES": "Cotxes ratolí",
             "fi-FI": "Hiirivaunut",
-            "gl-ES": "Vagóns de rato"
+            "gl-ES": "Vagóns de rato",
+            "hu-HU": "Egérkocsik"
         },
         "description": {
             "en-GB": "Individual cars shaped like mice",
@@ -269,7 +270,8 @@
             "eo-ZZ": "Individualaj ĉaroj formitaj kiel musoj",
             "ca-ES": "Cotxes individuals en forma de ratolí",
             "fi-FI": "Yksittäiset hiiren muotoiset vaunut",
-            "gl-ES": "Vagóns individuais con forma de rato"
+            "gl-ES": "Vagóns individuais con forma de rato",
+            "hu-HU": "Különálló kocsik egerek formájában"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -290,7 +292,8 @@
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
-            "gl-ES": "4 pasaxeiros por coche"
+            "gl-ES": "4 pasaxeiros por coche",
+            "hu-HU": "4 utas kocsinként"
         }
     }
 }

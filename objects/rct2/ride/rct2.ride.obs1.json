@@ -298,7 +298,8 @@
             "eo-ZZ": "Unuetaĝa Kajuto",
             "ca-ES": "Cabina d’observació",
             "fi-FI": "Yksikerroksinen koppi",
-            "gl-ES": "Cabina de un só piso"
+            "gl-ES": "Cabina de un só piso",
+            "hu-HU": "Egyszintes kabin"
         },
         "description": {
             "en-GB": "Single-deck rotating observation cabin",
@@ -319,7 +320,8 @@
             "eo-ZZ": "Unuetaĝa turniĝanta kajuto por observadi",
             "ca-ES": "Cabina d’observació que gira d’una sola planta.",
             "fi-FI": "Pyörivä näköalakoppi, jossa on yksi kerros",
-            "gl-ES": "Cabina de observación xiratoria de un só piso"
+            "gl-ES": "Cabina de observación xiratoria de un só piso",
+            "hu-HU": "Egyszintes, forgó kilátókabin"
         },
         "capacity": {
             "en-GB": "20 passengers",
@@ -340,7 +342,8 @@
             "eo-ZZ": "20 pasaĝeroj",
             "ca-ES": "20 passatgers",
             "fi-FI": "20 matkustajaa",
-            "gl-ES": "20 pasaxeiros"
+            "gl-ES": "20 pasaxeiros",
+            "hu-HU": "20 utas"
         }
     }
 }
