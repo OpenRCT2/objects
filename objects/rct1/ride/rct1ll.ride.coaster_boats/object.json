@@ -856,7 +856,8 @@
             "ca-ES": "Barquetes costeres",
             "fi-FI": "Vuoristorataveneet",
             "gl-ES": "Barcos de Montaña Rusa",
-            "ar-EG": "قوارب أفعوانية"
+            "ar-EG": "قوارب أفعوانية",
+            "hu-HU": "Hullámvasút-csónakok"
         },
         "description": {
             "en-GB": "Boat-shaped roller coaster cars",
@@ -878,7 +879,8 @@
             "ca-ES": "Cotxes per a muntanya russa en forma de barca.",
             "fi-FI": "Veneen muotoiset vuoristoratavaunut",
             "gl-ES": "Coches de montaña rusa en forma de barco",
-            "ar-EG": "عربات أفعوانية على شكل قارب"
+            "ar-EG": "عربات أفعوانية على شكل قارب",
+            "hu-HU": "Csónak alakú hullámvasút-kocsik"
         },
         "capacity": {
             "en-GB": "6 passengers per boat",
@@ -900,7 +902,8 @@
             "ca-ES": "6 passatgers per barqueta",
             "fi-FI": "6 matkustajaa per vene",
             "gl-ES": "6 pasaxeiros por barco",
-            "ar-EG": "6 ركاب لكل قارب"
+            "ar-EG": "6 ركاب لكل قارب",
+            "hu-HU": "6 utas csónakonként"
         }
     }
 }

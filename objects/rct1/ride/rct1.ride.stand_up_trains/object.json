@@ -763,7 +763,8 @@
             "ru-RU": "Стоячие поезда",
             "eo-ZZ": "Stariĝantaj Trajnoj de Onda Fervojo",
             "ca-ES": "Muntanya russa a peu dret",
-            "gl-ES": "Trens de montaña rusa de pé"
+            "gl-ES": "Trens de montaña rusa de pé",
+            "hu-HU": "Álló hullámvasút szerelvények"
         },
         "description": {
             "en-GB": "Roller coaster trains in which the riders ride in a standing position",
@@ -784,7 +785,8 @@
             "eo-ZZ": "Trajnoj de onda fervojo, en kiuj la rajdantoj rajdas en staranta pozicio",
             "ca-ES": "Muntanya russa amb trens en els quals els passatgers van drets.",
             "gl-ES": "Trens de montaña rusa nos que os pasaxeiros viaxan de pé",
-            "ar-EG": "قطارات أفعوانية يركب فيها الركاب في وضع الوقوف"
+            "ar-EG": "قطارات أفعوانية يركب فيها الركاب في وضع الوقوف",
+            "hu-HU": "Hullámvasút szerelvények, melyeken az utasok álló helyzetben utaznak"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -805,7 +807,8 @@
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "gl-ES": "4 pasaxeiros por coche",
-            "ar-EG": "4 ركاب لكل عربة"
+            "ar-EG": "4 ركاب لكل عربة",
+            "hu-HU": "4 utas kocsinként"
         }
     }
 }

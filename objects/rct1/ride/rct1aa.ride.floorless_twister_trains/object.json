@@ -674,7 +674,8 @@
             "ca-ES": "Muntanya russa sense terra",
             "fi-FI": "Lattiattomat kiehkuravaunut",
             "gl-ES": "Trens Tornado sen chao",
-            "ar-EG": "قطارات تويستر بدون أرضية"
+            "ar-EG": "قطارات تويستر بدون أرضية",
+            "hu-HU": "Padló nélküli csavaró szerelvények"
         },
         "description": {
             "en-GB": "A spacious train with shoulder restraints and no floor, making for a more exciting ride",
@@ -696,7 +697,8 @@
             "ca-ES": "Tren espaiós amb subjecció per l’espatlla i sense terra, fent l’atracció més excitant.",
             "fi-FI": "Tilavat vaunut olkaturvakaiteilla ja ilman lattiaa, tehden laitteesta jännittävämmän",
             "gl-ES": "Un tren espazoso con suxeicións de ombreiro e sen chao, o que fai que o paseo sexa máis emocionante.",
-            "ar-EG": "قطار واسع بأحزمة كتف وبدون أرضية، مما يجعل الرحلة أكثر إثارة"
+            "ar-EG": "قطار واسع بأحزمة كتف وبدون أرضية، مما يجعل الرحلة أكثر إثارة",
+            "hu-HU": "Tágas szerelvény vállrögzítőkkel és padló nélkül, ami még izgalmasabbá teszi az utazást"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -718,7 +720,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
-            "ar-EG": "4 ركاب لكل عربة"
+            "ar-EG": "4 ركاب لكل عربة",
+            "hu-HU": "4 utas kocsinként"
         }
     },
     "noCsgImages": [

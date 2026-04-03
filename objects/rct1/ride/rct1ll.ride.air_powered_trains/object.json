@@ -201,7 +201,8 @@
             "ca-ES": "Muntanya russa vertical amb cotxes propulsats amb aire",
             "fi-FI": "Ilmakäyttöisen pystyvuoristoradan vaunut",
             "gl-ES": "Trens de Montaña Rusa Verticales a Motor Aéreo",
-            "ar-EG": "قطارات أفعوانية عمودية تعمل بالهواء"
+            "ar-EG": "قطارات أفعوانية عمودية تعمل بالهواء",
+            "hu-HU": "Léghajtásos függőleges hullámvasút-szerelvények"
         },
         "description": {
             "en-GB": "Air-powered launched roller coaster trains",
@@ -223,7 +224,8 @@
             "ca-ES": "Muntanya russa amb cotxes propulsats per aire.",
             "fi-FI": "Ilmakäyttöislaukaistut vuoristoradan vaunut",
             "gl-ES": "Trens de montaña rusa lanzados por aire comprimido",
-            "ar-EG": "قطارات أفعوانية تُطلق بقوة الهواء"
+            "ar-EG": "قطارات أفعوانية تُطلق بقوة الهواء",
+            "hu-HU": "Léghajtással kilőtt hullámvasút-szerelvények"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -245,7 +247,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
             "gl-ES": "2 pasaxeiros por coche",
-            "ar-EG": "راكبان لكل عربة"
+            "ar-EG": "راكبان لكل عربة",
+            "hu-HU": "2 utas kocsinként"
         }
     },
     "noCsgImages": [

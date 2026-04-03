@@ -287,7 +287,8 @@
             "gl-ES": "Coches oscilantes para unha persoa",
             "ar-EG": "عربات متأرجحة لشخص واحد",
             "cs-CZ": "Jednomístné houpací vozy",
-            "eo-ZZ": "Unusidlokaj Svingiĝantaj Ĉaroj"
+            "eo-ZZ": "Unusidlokaj Svingiĝantaj Ĉaroj",
+            "hu-HU": "Egyszemélyes lengőkocsik"
         },
         "description": {
             "en-GB": "Single-seater cars which hang from the rail above, and are free to swing from side to side",
@@ -301,7 +302,8 @@
             "gl-ES": "Coches de unha praza que colgan da vía superior e son libres de oscilaren de lado a lado",
             "ar-EG": "عربات بمقعد واحد معلقة من السكة العلوية، وحرة في التأرجح من جانب إلى آخر",
             "cs-CZ": "Jednomístné vozy kývající se ze strany na stranu, zavěšené pod kolejnicí",
-            "eo-ZZ": "Unusidlokaj ĉaroj, kiuj pendas de la relo supre, kaj povas libere svingiĝi de unu flanko al la alia"
+            "eo-ZZ": "Unusidlokaj ĉaroj, kiuj pendas de la relo supre, kaj povas libere svingiĝi de unu flanko al la alia",
+            "hu-HU": "Együléses kocsik, amelyek a felettük lévő sínen függnek, és szabadon kilenghetnek oldalirányba"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -323,7 +325,8 @@
             "ca-ES": "1 passatger per cotxe",
             "fi-FI": "1 matkustaja per vaunu",
             "gl-ES": "1 pasaxeiro por coche",
-            "ar-EG": "راكب واحد لكل عربة"
+            "ar-EG": "راكب واحد لكل عربة",
+            "hu-HU": "1 utas kocsinként"
         }
     }
 }

@@ -687,7 +687,9 @@
             "hu-HU": "Forgó kocsik",
             "ko-KR": "스핀 카",
             "pt-BR": "Carros Giratórios",
-            "ru-RU": "Вращающиеся машины"
+            "ru-RU": "Вращающиеся машины",
+            "de-DE": "Rotierende Wagen",
+            "gl-ES": "Coches xiratorios"
         },
         "description": {
             "en-GB": "Circular roller coaster cars which are free to spin around their central axis.",
@@ -697,7 +699,9 @@
             "hu-HU": "Kör alakú hullámvasút-kocsik, amelyek saját tengelyük körül szabadon forognak.",
             "ko-KR": "중심 축을 중심으로 자유롭게 회전하는 원형 롤러코스터 차량입니다.",
             "pt-BR": "Carros circulares de montanha russa que são livres para girar em torno do seu eixo central.",
-            "ru-RU": "Круглые машины для аттракционов, вращающиеся вокруг своей центральной оси."
+            "ru-RU": "Круглые машины для аттракционов, вращающиеся вокруг своей центральной оси.",
+            "de-DE": "Runde Achterbahnwagen, welche sich frei um ihre Mittelachse drehen können.",
+            "gl-ES": "Coches circulares de montaña rusa que poden xirar libremente arredor do seu eixo central."
         },
         "capacity": {
             "en-GB": "4 passengers per car",

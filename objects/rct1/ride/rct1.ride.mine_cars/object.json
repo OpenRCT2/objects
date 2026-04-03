@@ -305,7 +305,8 @@
             "ca-ES": "Tren de la mina",
             "fi-FI": "Kaivosvaunut",
             "gl-ES": "Coches de mina",
-            "ar-EG": "عربات المنجم"
+            "ar-EG": "عربات المنجم",
+            "hu-HU": "Bánya kocsik"
         },
         "description": {
             "en-GB": "Cars shaped like an old mine cart",
@@ -327,7 +328,8 @@
             "ca-ES": "Cotxes en forma de vagonetes antigues.",
             "fi-FI": "Vanhan kaivoskärryn muotoiset vaunut",
             "gl-ES": "Coches con forma de vello vagón de mina",
-            "ar-EG": "عربات على شكل عربة منجم قديمة"
+            "ar-EG": "عربات على شكل عربة منجم قديمة",
+            "hu-HU": "Régi bányacsillékre emlékeztető kocsik"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -349,7 +351,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
             "gl-ES": "2 pasaxeiros por coche",
-            "ar-EG": "راكبان لكل عربة"
+            "ar-EG": "راكبان لكل عربة",
+            "hu-HU": "2 utas kocsinként"
         }
     },
     "noCsgImages": [

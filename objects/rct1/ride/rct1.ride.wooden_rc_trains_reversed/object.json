@@ -1424,7 +1424,8 @@
             "gl-ES": "Trens de montaña rusa de madeira (invertidos)",
             "ar-EG": "قطارات أفعوانية خشبية (معكوسة)",
             "cs-CZ": "Vlaky dřevěné horské dráhy (obrácené)",
-            "eo-ZZ": "Trajnoj de Ligna Onda Fervojo (Inversigita)"
+            "eo-ZZ": "Trajnoj de Ligna Onda Fervojo (Inversigita)",
+            "hu-HU": "Fa hullámvasút szerelvények (fordított)"
         },
         "description": {
             "en-GB": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards.",
@@ -1440,7 +1441,8 @@
             "gl-ES": "Trens de montaña rusa de madeira, pero funcionando ao revés, de xeito que os pasaxeiros miran cara atrás",
             "ar-EG": "قطارات أفعوانية خشبية، ولكنها تسير في الاتجاه المعاكس، بحيث يواجه الركاب الخلف.",
             "cs-CZ": "Vlaky dřevěné horské dráhy s polstrovanými sedadly a opěrkou v klíně, jezdící pozpátku",
-            "eo-ZZ": "Trajnoj de ligna onda fervojo, sed veturantaj inverse, tiel ke la pasaĝeroj rigardas dorsantaŭen."
+            "eo-ZZ": "Trajnoj de ligna onda fervojo, sed veturantaj inverse, tiel ke la pasaĝeroj rigardas dorsantaŭen.",
+            "hu-HU": "Fa hullámvasút szerelvények, melyek hátramenetben közlekednek, így az utasok menetiránynak háttal ülnek."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -1462,7 +1464,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
-            "ar-EG": "4 ركاب لكل عربة"
+            "ar-EG": "4 ركاب لكل عربة",
+            "hu-HU": "4 utas kocsinként"
         }
     }
 }

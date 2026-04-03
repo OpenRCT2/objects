@@ -204,7 +204,8 @@
             "ca-ES": "Cotxes petits monorail",
             "fi-FI": "Pienet kohoratavaunut",
             "gl-ES": "Pequenos coches de monorraíl",
-            "ar-EG": "عربات مونوريل صغيرة"
+            "ar-EG": "عربات مونوريل صغيرة",
+            "hu-HU": "Kis egysínes kocsik"
         },
         "description": {
             "en-GB": "Small monorail cars with open sides",
@@ -226,7 +227,8 @@
             "ca-ES": "Cotxes petits monorail oberts per les dues bandes.",
             "fi-FI": "Pienet kohoratavaunut joissa on avonaiset sivustat",
             "gl-ES": "Pequenos coches de monorraíl con lados abertos",
-            "ar-EG": "عربات مونوريل صغيرة بجوانب مفتوحة"
+            "ar-EG": "عربات مونوريل صغيرة بجوانب مفتوحة",
+            "hu-HU": "Kis egysínes kocsik, nyitott oldalakkal"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -248,7 +250,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
-            "ar-EG": "4 ركاب لكل عربة"
+            "ar-EG": "4 ركاب لكل عربة",
+            "hu-HU": "4 utas kocsinként"
         }
     },
     "noCsgImages": [

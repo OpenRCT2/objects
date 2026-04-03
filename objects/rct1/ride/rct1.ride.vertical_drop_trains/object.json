@@ -478,7 +478,8 @@
             "ca-ES": "Caiguda vertical de sis seients",
             "fi-FI": "Kuusipaikkaiset kiehkuravaunut",
             "gl-ES": "Trens Twister de seis prazas",
-            "ar-EG": "قطارات تويستر بستة مقاعد"
+            "ar-EG": "قطارات تويستر بستة مقاعد",
+            "hu-HU": "Hatüléses csavaró szerelvények"
         },
         "description": {
             "en-GB": "Roller coaster trains with extra-wide cars, built for vertical drops",
@@ -500,7 +501,8 @@
             "ca-ES": "Muntanya russa amb trens amb cotxes amples amb caigudes verticals.",
             "fi-FI": "Ekstraleveät pystysuoriin pudotuksiin suunnitellut vuoristoratavaunut",
             "gl-ES": "Trens de montaña rusa con coches de gran ancho, deseñados para caídas verticais",
-            "ar-EG": "قطارات أفعوانية بعربات عريضة جدًا، مصممة للانحدارات العمودية"
+            "ar-EG": "قطارات أفعوانية بعربات عريضة جدًا، مصممة للانحدارات العمودية",
+            "hu-HU": "Extra széles kocsikkal rendelkező hullámvasút szerelvények, melyeket függőleges zuhanásokhoz hoztak létre"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -522,7 +524,8 @@
             "ca-ES": "6 passatgers per cotxe",
             "fi-FI": "6 matkustajaa per vaunu",
             "gl-ES": "6 pasaxeiros por coche",
-            "ar-EG": "6 ركاب لكل عربة"
+            "ar-EG": "6 ركاب لكل عربة",
+            "hu-HU": "6 utas kocsinként"
         }
     },
     "noCsgImages": [

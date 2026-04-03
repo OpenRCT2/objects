@@ -1774,7 +1774,8 @@
             "gl-ES": "Trens de montaña rusa",
             "ar-EG": "قطارات أفعوانية",
             "cs-CZ": "Vlaky horské dráhy",
-            "eo-ZZ": "Trajnoj de Onda Fervojo"
+            "eo-ZZ": "Trajnoj de Onda Fervojo",
+            "hu-HU": "Hullámvasút szerelvények"
         },
         "description": {
             "en-GB": "Roller coaster train with a streamlined front car.",
@@ -1790,7 +1791,8 @@
             "gl-ES": "Tren de montaña rusa cun coche frontal aerodinámico",
             "ar-EG": "قطار أفعواني بعربة أمامية انسيابية.",
             "cs-CZ": "Vlaky horské dráhy s aerodynamicky tvarovaným prvním vozem",
-            "eo-ZZ": "Trajno de onda fervojo kun flulinia antaŭa ĉaro."
+            "eo-ZZ": "Trajno de onda fervojo kun flulinia antaŭa ĉaro.",
+            "hu-HU": "Áramvonalas első kocsival rendelkező hullámvasút szerelvény."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -1812,7 +1814,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
-            "ar-EG": "4 ركاب لكل عربة"
+            "ar-EG": "4 ركاب لكل عربة",
+            "hu-HU": "4 utas kocsinként"
         }
     }
 }
