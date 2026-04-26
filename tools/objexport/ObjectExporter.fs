@@ -118,6 +118,7 @@ module ObjectExporter =
         | 9 -> "ko-KR"
         | 10 -> "zh-CN"
         | 11 -> "zh-TW"
+        | 12 -> "pl-PL"
         | 13 -> "pt-BR"
         | i -> i.ToString()
 

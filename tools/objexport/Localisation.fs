@@ -130,6 +130,7 @@ module Localisation =
             match language with
             | "ja-JP" -> 932
             | "ko-KR" -> 949
+            | "pl-PL" -> 1250
             | "zh-CN" -> 936
             | "zh-TW" -> 950
             | _ -> 1252
