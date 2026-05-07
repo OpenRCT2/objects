@@ -51,7 +51,7 @@
                 "numSeats": 2,
                 "numSeatRows": 1,
                 "frictionSoundId": 57,
-                "soundRange": 0,
+                "soundRange": 2,
                 "drawOrder": 8,
                 "frames": {
                     "flat": true,
@@ -73,7 +73,7 @@
                 "spacing": 95876,
                 "mass": 500,
                 "frictionSoundId": 57,
-                "soundRange": 0,
+                "soundRange": 2,
                 "drawOrder": 8,
                 "frames": {
                     "flat": true,
