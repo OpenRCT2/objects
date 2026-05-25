@@ -1,0 +1,138 @@
+{
+	"id": "rct2tt.campaign.time_twister",
+	"version": "1.0",
+	"authors": [
+		"Frontier Developments"
+	],
+	"objectType": "campaign",
+	"sourceGame": "rct2tt",
+	"properties": {
+		"numUnlockedScenarios": 5,
+		"scenarioGroups": [
+			{
+				"header": "beginner",
+				"scenarios": [
+					{
+						"title": "Dark Age - Robin Hood",
+						"fileName": [
+							"Dark Age - Robin Hood.SC6",
+							"Dark Age - Robin Hood.sea"
+						]
+					},
+					{
+						"title": "Prehistoric - After the Asteroid",
+						"fileName": [
+							"Prehistoric - After the Asteroid.SC6",
+							"Prehistoric - After the Asteroid.sea"
+						]
+					},
+					{
+						"title": "Roaring Twenties - Prison Island",
+						"fileName": [
+							"Roaring Twenties - Prison Island.SC6",
+							"Roaring Twenties - Prison Island.sea"
+						]
+					},
+					{
+						"title": "Future - First Encounters",
+						"fileName": [
+							"Future - First Encounters.SC6",
+							"Future - First Encounters.sea"
+						]
+					}
+				]
+			},
+			{
+				"header": "challenging",
+				"scenarios": [
+					{
+						"title": "Roaring Twenties - Schneider Cup",
+						"fileName": [
+							"Roaring Twenties - Schneider Cup.SC6",
+							"Roaring Twenties - Schneider Cup.sea"
+						]
+					},
+					{
+						"title": "Prehistoric - Stone Age",
+						"fileName": [
+							"Prehistoric - Stone Age.SC6",
+							"Prehistoric - Stone Age.sea"
+						]
+					},
+					{
+						"title": "Mythological - Cradle of Civilisation",
+						"fileName": [
+							"Mythological - Cradle of Civilization.SC6",
+							"Mythological - Cradle of Civilization.sea"
+						]
+					},
+					{
+						"title": "Rock 'n' Roll - Rock 'n' Roll",
+						"fileName": [
+							"Rock 'n' Roll - Rock 'n' Roll.SC6",
+							"Rock 'n' Roll - Rock 'n' Roll.sea"
+						]
+					},
+					{
+						"title": "Future - Future World",
+						"fileName": [
+							"Future - Future World.SC6",
+							"Future - Future World.sea"
+						]
+					}
+				]
+			},
+			{
+				"header": "expert",
+				"scenarios": [
+					{
+						"title": "Roaring Twenties - Skyscrapers",
+						"fileName": [
+							"Roaring Twenties - Skyscrapers.SC6",
+							"Roaring Twenties - Skyscrapers.sea"
+						]
+					},
+					{
+						"title": "Rock 'n' Roll - Flower Power",
+						"fileName": [
+							"Rock 'n' Roll - Flower Power.SC6",
+							"Rock 'n' Roll - Flower Power.sea"
+						]
+					},
+					{
+						"title": "Dark Age - Castle",
+						"fileName": [
+							"Dark Age - Castle.SC6",
+							"Dark Age - Castle.sea"
+						]
+					},
+					{
+						"title": "Mythological - Animatronic Film Set",
+						"fileName": [
+							"Mythological - Animatronic Film Set.SC6",
+							"Mythological - Animatronic Film Set.sea"
+						]
+					},
+					{
+						"title": "Prehistoric - Jurassic Safari",
+						"fileName": [
+							"Prehistoric - Jurassic Safari.SC6",
+							"Prehistoric - Jurassic Safari.sea"
+						]
+					}
+				]
+			}
+		]
+	},
+	"strings": {
+		"name": {
+			"en-GB": "Time Twister",
+			"ja-JP": "タイムツイスター",
+			"ko-KR": "타임 트위스터",
+			"pl-PL": "Zakręcone Czasy",
+			"vi-VN": "Kẻ xoay thời gian",
+			"zh-CN": "过山车大亨2：{NEWLINE}欢乐时光",
+			"zh-TW": "時空歷險"
+		}
+	}
+}

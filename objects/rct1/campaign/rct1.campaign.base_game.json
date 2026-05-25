@@ -1,0 +1,197 @@
+{
+	"id": "rct1.campaign.base_game",
+	"version": "1.0",
+	"authors": [
+		"Chris Sawyer"
+	],
+	"objectType": "campaign",
+	"sourceGame": "rct1",
+	"properties": {
+		"numUnlockedScenarios": 5,
+		"scenarioGroups": [
+			{
+				"header": "beginner",
+				"scenarios": [
+					{
+						"title": "Forest Frontiers",
+						"fileName": [
+							"sc0.sc4",
+							"Forest Frontiers.SC6"
+						]
+					},
+					{
+						"title": "Dynamite Dunes",
+						"fileName": [
+							"sc1.sc4",
+							"Dynamite Dunes.SC6"
+						]
+					},
+					{
+						"title": "Leafy Lake",
+						"fileName": [
+							"sc2.sc4",
+							"Leafy Lake.SC6"
+						]
+					},
+					{
+						"title": "Diamond Heights",
+						"fileName": [
+							"sc3.sc4",
+							"Diamond Heights.SC6"
+						]
+					},
+					{
+						"title": "Evergreen Gardens",
+						"fileName": [
+							"sc4.sc4",
+							"Evergreen Gardens.SC6"
+						]
+					},
+					{
+						"title": "Bumbly Beach",
+						"fileName": [
+							"sc5.sc4",
+							"Bumbly Beach.SC6"
+						]
+					}
+				]
+			},
+			{
+				"header": "challenging",
+				"scenarios": [
+					{
+						"title": "Trinity Islands",
+						"fileName": [
+							"sc6.sc4",
+							"Trinity Islands.SC6"
+						]
+					},
+					{
+						"title": "Katie's Dreamland",
+						"fileName": [
+							"sc7.sc4",
+							"Katie's Dreamland.SC6"
+						]
+					},
+					{
+						"title": "Pokey Park",
+						"fileName": [
+							"sc8.sc4",
+							"Pokey Park.SC6"
+						]
+					},
+					{
+						"title": "White Water Park",
+						"fileName": [
+							"sc9.sc4",
+							"White Water Park.SC6"
+						]
+					},
+					{
+						"title": "Millennium Mines",
+						"fileName": [
+							"sc10.sc4",
+							"Millennium Mines.SC6"
+						]
+					},
+					{
+						"title": "Karts & Coasters",
+						"fileName": [
+							"sc11.sc4",
+							"Karts & Coasters.SC6"
+						]
+					},
+					{
+						"title": "Mel's World",
+						"fileName": [
+							"sc12.sc4",
+							"Mel's World.SC6"
+						]
+					},
+					{
+						"title": "Mystic Mountain",
+						"fileName": [
+							"sc13.sc4",
+							"Mystic Mountain.SC6"
+						]
+					},
+					{
+						"title": "Pacific Pyramids",
+						"fileName": [
+							"sc14.sc4",
+							"Pacific Pyramids.SC6"
+						]
+					},
+					{
+						"title": "Crumbly Woods",
+						"fileName": [
+							"sc15.sc4",
+							"Crumbly Woods.SC6"
+						]
+					},
+					{
+						"title": "Paradise Pier",
+						"fileName": [
+							"sc16.sc4",
+							"Paradise Pier.SC6"
+						]
+					}
+				]
+			},
+			{
+				"header": "expert",
+				"scenarios": [
+					{
+						"title": "Lightning Peaks",
+						"fileName": [
+							"sc17.sc4",
+							"Lightning Peaks.SC6"
+						]
+					},
+					{
+						"title": "Ivory Towers",
+						"fileName": [
+							"sc18.sc4",
+							"Ivory Towers.SC6"
+						]
+					},
+					{
+						"title": "Rainbow Valley",
+						"fileName": [
+							"sc19.sc4",
+							"Rainbow Valley.SC6"
+						]
+					},
+					{
+						"title": "Thunder Rock",
+						"fileName": [
+							"sc20.sc4",
+							"Thunder Rock.SC6"
+						]
+					}
+				]
+			},
+			{
+				"header": "bonus",
+				"scenarios": [
+					{
+						"title": "Mega Park",
+						"fileName": [
+							"sc21.sc4",
+							"Mega Park.SC6"
+						]
+					}
+				]
+			}
+		]
+	},
+	"strings": {
+		"name": {
+			"en-GB": "RollerCoaster Tycoon",
+			"ja-JP": "ローラーコースタータイクーン",
+			"ko-KR": "롤러코스터 타이쿤",
+			"zh-CN": "过山车大亨",
+			"zh-TW": "夢幻遊樂園"
+		}
+	}
+}

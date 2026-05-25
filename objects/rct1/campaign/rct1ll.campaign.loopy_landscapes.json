@@ -1,0 +1,253 @@
+{
+	"id": "rct1ll.campaign.loopy_landscapes",
+	"version": "1.0",
+	"authors": [
+		"Chris Sawyer"
+	],
+	"objectType": "campaign",
+	"sourceGame": "rct1ll",
+	"properties": {
+		"numUnlockedScenarios": 5,
+		"scenarioGroups": [
+			{
+				"header": "beginner",
+				"scenarios": [
+					{
+						"title": "Iceberg Islands",
+						"fileName": [
+							"SC22.SC4",
+							"Iceberg Islands.SC6"
+						]
+					},
+					{
+						"title": "Volcania",
+						"fileName": [
+							"SC23.SC4",
+							"Volcania.SC6"
+						]
+					},
+					{
+						"title": "Arid Heights",
+						"fileName": [
+							"SC24.SC4",
+							"Arid Heights.SC6"
+						]
+					},
+					{
+						"title": "Razor Rocks",
+						"fileName": [
+							"SC25.SC4",
+							"Razor Rocks.SC6"
+						]
+					},
+					{
+						"title": "Crater Lake",
+						"fileName": [
+							"SC26.SC4",
+							"Crater Lake.SC6"
+						]
+					},
+					{
+						"title": "Vertigo Views",
+						"fileName": [
+							"SC27.SC4",
+							"Vertigo Views.SC6"
+						]
+					}
+				]
+			},
+			{
+				"header": "challenging",
+				"scenarios": [
+					{
+						"title": "Paradise Pier 2",
+						"fileName": [
+							"SC28.SC4",
+							"Paradise Pier 2.SC6"
+						]
+					},
+					{
+						"title": "Dragon's Cove",
+						"fileName": [
+							"SC29.SC4",
+							"Dragon's Cove.SC6"
+						]
+					},
+					{
+						"title": "Good Knight Park",
+						"fileName": [
+							"SC30.SC4",
+							"Good Knight Park.SC6"
+						]
+					},
+					{
+						"title": "Wacky Warren",
+						"fileName": [
+							"SC31.SC4",
+							"Wacky Warren.SC6"
+						]
+					},
+					{
+						"title": "Grand Glacier",
+						"fileName": [
+							"SC80.SC4",
+							"Grand Glacier.SC6"
+						]
+					},
+					{
+						"title": "Crazy Craters",
+						"fileName": [
+							"SC81.SC4",
+							"Crazy Craters.SC6"
+						]
+					},
+					{
+						"title": "Dusty Desert",
+						"fileName": [
+							"SC82.SC4",
+							"Dusty Desert.SC6"
+						]
+					},
+					{
+						"title": "Woodworm Park",
+						"fileName": [
+							"SC83.SC4",
+							"Woodworm Park.SC6"
+						]
+					},
+					{
+						"title": "Icarus Park",
+						"fileName": [
+							"SC84.SC4",
+							"Icarus Park.SC6"
+						]
+					},
+					{
+						"title": "Sunny Swamps",
+						"fileName": [
+							"SC85.SC4",
+							"Sunny Swamps.SC6"
+						]
+					},
+					{
+						"title": "Frightmare Hills",
+						"fileName": [
+							"SC86.SC4",
+							"Frightmare Hills.SC6"
+						]
+					},
+					{
+						"title": "Thunder Rocks",
+						"fileName": [
+							"SC87.SC4",
+							"Thunder Rocks.SC6"
+						]
+					},
+					{
+						"title": "Octagon Park",
+						"fileName": [
+							"SC88.SC4",
+							"Octagon Park.SC6"
+						]
+					},
+					{
+						"title": "Pleasure Island",
+						"fileName": [
+							"SC89.SC4",
+							"Pleasure Island.SC6"
+						]
+					},
+					{
+						"title": "Icicle Worlds",
+						"fileName": [
+							"SC90.SC4",
+							"Icicle Worlds.SC6"
+						]
+					}
+				]
+			},
+			{
+				"header": "expert",
+				"scenarios": [
+					{
+						"title": "Southern Sands",
+						"fileName": [
+							"SC91.SC4",
+							"Southern Sands.SC6"
+						]
+					},
+					{
+						"title": "Tiny Towers",
+						"fileName": [
+							"SC92.SC4",
+							"Tiny Towers.SC6"
+						]
+					},
+					{
+						"title": "Nevermore Park",
+						"fileName": [
+							"SC93.SC4",
+							"Nevermore Park.SC6"
+						]
+					},
+					{
+						"title": "Pacifica",
+						"fileName": [
+							"SC94.SC4",
+							"Pacifica.SC6"
+						]
+					},
+					{
+						"title": "Urban Jungle",
+						"fileName": [
+							"SC95.SC4",
+							"Urban Jungle.SC6"
+						]
+					},
+					{
+						"title": "Terror Town",
+						"fileName": [
+							"SC96.SC4",
+							"Terror Town.SC6"
+						]
+					},
+					{
+						"title": "Megaworld Park",
+						"fileName": [
+							"SC97.SC4",
+							"Megaworld Park.SC6"
+						]
+					},
+					{
+						"title": "Venus Ponds",
+						"fileName": [
+							"SC98.SC4",
+							"Venus Ponds.SC6"
+						]
+					},
+					{
+						"title": "Micro Park",
+						"fileName": [
+							"SC99.SC4",
+							"Micro Park.SC6"
+						]
+					}
+				]
+			}
+		]
+	},
+	"strings": {
+		"name": {
+			"en-GB": "Loopy Landscapes",
+			"fr-FR": "Loopings en Folie",
+			"gl-ES": "Paisaxes Loopy",
+			"ja-JP": "おもしろ景観キット",
+			"ko-KR": "루피 랜드스케이프",
+			"pl-PL": "Zwariowane Krajobrazy",
+			"uk-UA": "Циклічні краєвиди",
+			"vi-VN": "Phong cảnh lượn lờ",
+			"zh-CN": "过山车大亨：{NEWLINE}极限反转",
+			"zh-TW": "夢幻遊樂園: 資料片2"
+		}
+	}
+}
