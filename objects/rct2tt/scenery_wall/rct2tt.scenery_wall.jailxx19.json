@@ -8,7 +8,7 @@
     "sourceGame": "rct2tt",
     "objectType": "scenery_wall",
     "properties": {
-        "isOpaque": true,
+        "isTransparent": true,
         "isAllowedOnSlope": true,
         "height": 10,
         "price": 70,

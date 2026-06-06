@@ -10,7 +10,7 @@
     "objectType": "scenery_wall",
     "properties": {
         "hasPrimaryColour": true,
-        "isOpaque": true,
+        "isTransparent": true,
         "height": 10,
         "price": 230
     },

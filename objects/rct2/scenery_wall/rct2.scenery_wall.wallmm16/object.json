@@ -11,7 +11,7 @@
     "properties": {
         "isAllowedOnSlope": true,
         "hasPrimaryColour": true,
-        "isOpaque": true,
+        "isTransparent": true,
         "height": 2,
         "price": 60
     },
