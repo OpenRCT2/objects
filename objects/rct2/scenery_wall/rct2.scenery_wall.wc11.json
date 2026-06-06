@@ -13,7 +13,7 @@
     "objectType": "scenery_wall",
     "properties": {
         "hasPrimaryColour": true,
-        "isOpaque": true,
+        "isTransparent": true,
         "isAllowedOnSlope": true,
         "height": 9,
         "price": 100,
