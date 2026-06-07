@@ -13,7 +13,7 @@
         "limitAirTimeBonus": true,
         "minCarsPerTrain": 2,
         "maxCarsPerTrain": 7,
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 8,
             "intensity": 12,
             "nausea": 10

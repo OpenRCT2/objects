@@ -16,7 +16,7 @@
         "noCollisionCrashes": true,
         "tabScale": 0.5,
         "maxCarsPerTrain": 6,
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 6
         },
         "carColours": [

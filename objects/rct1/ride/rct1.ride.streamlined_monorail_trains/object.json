@@ -19,7 +19,7 @@
         "maxCarsPerTrain": 8,
         "headCars": 1,
         "tailCars": 2,
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "intensity": 20
         },
         "carColours": [

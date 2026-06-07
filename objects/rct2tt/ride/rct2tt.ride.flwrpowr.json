@@ -11,7 +11,7 @@
         "type": "flying_saucers",
         "category": "gentle",
         "carsPerFlatRide": 12,
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 75,
             "intensity": 40,
             "nausea": 10
