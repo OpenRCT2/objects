@@ -14,7 +14,7 @@
         "category": "rollercoaster",
         "minCarsPerTrain": 2,
         "maxCarsPerTrain": 7,
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 2,
             "intensity": 12,
             "nausea": 22

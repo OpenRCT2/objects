@@ -254,7 +254,7 @@ module JsonTypes =
           [<DataMember(EmitDefaultValue = false)>]
           tailCars: int list
           [<DataMember(EmitDefaultValue = false)>]
-          ratingMultipler: JRating option
+          ratingMultiplier: JRating option
           [<DataMember(EmitDefaultValue = false)>]
           maxHeight: int
           [<DataMember(EmitDefaultValue = false)>]

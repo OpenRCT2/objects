@@ -17,7 +17,7 @@
         "hasShelter": true,
         "noCollisionCrashes": true,
         "maxCarsPerTrain": 6,
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 3
         },
         "carColours": [

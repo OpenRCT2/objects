@@ -17,7 +17,7 @@
         "maxCarsPerTrain": 12,
         "defaultCar": 1,
         "headCars": 0,
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 4,
             "nausea": 2
         },

@@ -11,7 +11,7 @@
     "properties": {
         "type": "spinning_wild_mouse",
         "category": "rollercoaster",
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 7,
             "intensity": 5,
             "nausea": 43

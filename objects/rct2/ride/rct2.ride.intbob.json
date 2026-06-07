@@ -11,7 +11,7 @@
     "properties": {
         "type": "bobsleigh_rc",
         "category": "rollercoaster",
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 5
         },
         "carColours": [

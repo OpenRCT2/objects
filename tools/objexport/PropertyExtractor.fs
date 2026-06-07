@@ -492,7 +492,7 @@ module PropertyExtractor =
           defaultCar = int ride.Header.DefaultCarType
           headCars = headCars
           tailCars = tailCars
-          ratingMultipler = ratingMultiplier
+          ratingMultiplier = ratingMultiplier
           maxHeight = int ride.Header.MaxHeight
           carColours =
               // ObjectData library doesn't keep whether colours are per car or not

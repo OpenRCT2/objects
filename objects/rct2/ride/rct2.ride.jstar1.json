@@ -11,7 +11,7 @@
     "properties": {
         "type": "mini_rc",
         "category": "rollercoaster",
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 3,
             "intensity": 1
         },

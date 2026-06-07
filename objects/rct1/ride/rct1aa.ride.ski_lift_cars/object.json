@@ -12,7 +12,7 @@
     "properties": {
         "type": "chairlift",
         "category": "transport",
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 4,
             "intensity": 36,
             "nausea": 18

@@ -16,7 +16,7 @@
         "maxCarsPerTrain": 6,
         "numEmptyCars": 1,
         "tailCars": 1,
-        "ratingMultipler": {
+        "ratingMultiplier": {
             "excitement": 10,
             "intensity": 3
         },
