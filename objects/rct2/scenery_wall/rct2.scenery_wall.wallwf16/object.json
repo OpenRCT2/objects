@@ -1,0 +1,39 @@
+{
+  "id": "rct2.scenery_wall.wallwf16",
+  "authors": [
+    "Chris Sawyer",
+    "Simon Foster",
+    "OpenRCT2 developers"
+  ],
+  "version": "1.0",
+  "sourceGame": "rct2",
+  "objectType": "scenery_wall",
+  "properties": {
+    "isAnimated": true,
+    "height": 2,
+    "price": 115
+  },
+  "images": [
+    { "path": "images/00.png", "x": -32, "y": -17 },
+    { "path": "images/01.png", "x": -1, "y": -15 },
+    { "path": "images/02.png", "x": -32, "y": -16 },
+    { "path": "images/03.png", "x": -1, "y": -15 },
+    { "path": "images/04.png", "x": -32, "y": -17 },
+    { "path": "images/05.png", "x": -1, "y": -16 },
+    { "path": "images/06.png", "x": -32, "y": -18 },
+    { "path": "images/07.png", "x": -1, "y": -16 },
+    { "path": "images/08.png", "x": -32, "y": -16 },
+    { "path": "images/09.png", "x": -1, "y": -15 },
+    { "path": "images/10.png", "x": -32, "y": -16 },
+    { "path": "images/11.png", "x": -1, "y": -17 },
+    { "path": "images/12.png", "x": -32, "y": -15 },
+    { "path": "images/13.png", "x": -1, "y": -16 },
+    { "path": "images/14.png", "x": -32, "y": -16 },
+    { "path": "images/15.png", "x": -1, "y": -15 }
+  ],
+  "strings": {
+    "name": {
+      "en-GB": "Small waterfall"
+    }
+  }
+}
