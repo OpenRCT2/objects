@@ -6,6 +6,7 @@ open System.Runtime.Serialization
 open RCT2ObjectData.Drawing
 open RCT2ObjectData.Objects
 open SixLabors.ImageSharp
+open SixLabors.ImageSharp.Advanced
 open SixLabors.ImageSharp.Formats.Png
 open SixLabors.ImageSharp.PixelFormats
 open SixLabors.ImageSharp.Processing.Processors.Quantization
@@ -279,10 +280,10 @@ let private getPaletteColour (index: byte): Rgba32 =
 let private drawSprite (sprite: PaletteImage) (sx: int) (sy: int) (image: Image<Rgba32>) =
     let src = sprite.Pixels
     for y in 0..sprite.Height - 1 do
-        let dst = image.GetPixelRowSpan(sy + y)
+        let dst = image.DangerousGetPixelRowMemory(sy + y)
         for x in 0..sprite.Width - 1 do
             let paletteIndex = src.[x, y]
-            dst.[sx + x] <- getPaletteColour paletteIndex
+            dst.Span.[sx + x] <- getPaletteColour paletteIndex
     image
 
 let private palette: ReadOnlyMemory<Color> =
