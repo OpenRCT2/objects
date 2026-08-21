@@ -1,12 +1,12 @@
 {
-  "id": "rct2.scenery_wall.wallwf16",
+  "id": "official.scenery_wall.wallwf16",
   "authors": [
     "Chris Sawyer",
     "Simon Foster",
     "OpenRCT2 developers"
   ],
   "version": "1.0",
-  "sourceGame": "rct2",
+  "sourceGame": "official",
   "objectType": "scenery_wall",
   "properties": {
     "isAnimated": true,
