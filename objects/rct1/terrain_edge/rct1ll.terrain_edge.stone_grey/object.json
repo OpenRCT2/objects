@@ -9,10 +9,12 @@
     "sourceGame": "rct1ll",
     "objectType": "terrain_edge",
     "properties": {
-        "colour": "grey",
-        "hasPrimaryColour": true,
         "hasDoors": true,
-        "doorSound": 2
+        "doorSound": 2,
+        "hasPrimaryColour": true,
+        "colourSettings": {
+            "defaultPrimary": "grey"
+        }
     },
     "images": [
         { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
@@ -123,25 +125,25 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Sandstone (Grey)",
-            "en-US": "Sandstone (Gray)",
-            "de-DE": "Sandstein (grau)",
-            "nl-NL": "Grijze zandsteen",
-            "pt-BR": "Arenito (cinza)",
-            "fr-FR": "Grès (gris)",
-            "ja-JP": "砂岩 (灰色)",
-            "pl-PL": "Piaskowiec (szary)",
-            "ko-KR": "사암 (회색)",
-            "eo-ZZ": "Sabloŝtona (griza)",
-            "sv-SE": "Sandsten (grå)",
-            "ca-ES": "Gres (gris)",
-            "fi-FI": "Hiekkakivinen (harmaa)",
-            "zh-CN": "砂岩(灰色)",
-            "ru-RU": "Песчаник (серый)",
-            "gl-ES": "Arenito (Gris)",
-            "ar-EG": "حجر رملي (رمادي)",
-            "cs-CZ": "Pískovec (šedý)",
-            "hu-HU": "Homokkő (szürke)"
+            "en-GB": "Sandstone",
+            "en-US": "Sandstone",
+            "de-DE": "Sandstein",
+            "nl-NL": "Zandsteen",
+            "pt-BR": "Arenito",
+            "fr-FR": "Grès",
+            "ja-JP": "砂岩",
+            "pl-PL": "Piaskowiec",
+            "ko-KR": "사암",
+            "eo-ZZ": "Sabloŝtona",
+            "sv-SE": "Sandsten",
+            "ca-ES": "Gres",
+            "fi-FI": "Hiekkakivinen",
+            "zh-CN": "砂岩",
+            "ru-RU": "Песчаник",
+            "gl-ES": "Arenito",
+            "ar-EG": "حجر رملي",
+            "cs-CZ": "Pískovec",
+            "hu-HU": "Homokkő"
         }
     }
 }

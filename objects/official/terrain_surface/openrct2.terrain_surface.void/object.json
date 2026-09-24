@@ -8,13 +8,15 @@
     "sourceGame": "official",
     "objectType": "terrain_surface",
     "properties": {
-        "colour": "black",
-        "hasPrimaryColour": true,
         "price": 100,
-        "mapColours": [
-            "dark",
-            "dark"
-        ]
+        "hasPrimaryColour": true,
+        "colourSettings": {
+            "defaultPrimary": "black",
+            "parkMap": [
+                { "colour": "primary", "shade": 4 },
+                { "colour": "primary", "shade": 4  }
+            ]
+        }
     },
     "images": [
         { "path": "images/icon.png", "format": "raw", "x": 2, "y": 2 },

@@ -8,8 +8,10 @@
     "sourceGame": "official",
     "objectType": "terrain_edge",
     "properties": {
-        "colour": "dull_brown_light",
         "hasPrimaryColour": true,
+        "colourSettings": {
+            "defaultPrimary": "dull_brown_light"
+        },
         "hasDoors": true,
         "doorSound": 1
     },
@@ -123,7 +125,23 @@
     "strings": {
         "name": {
             "en-GB": "Stucco",
-            "nl-NL": "Stucwerk"
+            "de-DE": "Gipsputz",
+            "nl-NL": "Stucwerk",
+            "pt-BR": "Estuque",
+            "fr-FR": "Stuc",
+            "ja-JP": "スタッコ",
+            "pl-PL": "Stiuk",
+            "ko-KR": "흙벽",
+            "eo-ZZ": "Stukaĵa",
+            "sv-SE": "Stuck",
+            "ca-ES": "Estuc",
+            "fi-FI": "Stukki",
+            "zh-CN": "灰泥",
+            "ru-RU": "Штукатурка",
+            "gl-ES": "Estuco",
+            "ar-EG": "جص",
+            "cs-CZ": "Štuk",
+            "hu-HU": "Stukkó"
         }
     }
 }

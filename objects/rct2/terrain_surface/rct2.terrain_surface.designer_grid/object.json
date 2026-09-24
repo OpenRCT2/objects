@@ -9,13 +9,15 @@
     "sourceGame": "rct2",
     "objectType": "terrain_surface",
     "properties": {
-        "colour": "dark_blue",
-        "hasPrimaryColour": true,
         "price": 110,
-        "mapColours": [
-            "darkest",
-            10
-        ]
+        "hasPrimaryColour": true,
+        "colourSettings": {
+            "defaultPrimary": "dark_blue",
+            "parkMap": [
+                { "colour": "primary", "shade": 8 },
+                { "colour": "black", "shade": 0  }
+            ]
+        }
     },
     "images": [
         { "path": "images/icon.png", "format": "raw", "x": 2, "y": 2 },

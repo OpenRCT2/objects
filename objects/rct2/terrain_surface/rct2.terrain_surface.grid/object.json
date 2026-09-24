@@ -11,13 +11,15 @@
     ],
     "objectType": "terrain_surface",
     "properties": {
-        "mapColours": [
-            "lighter",
-            10
-        ],
         "price": 110,
-        "colour": "bright_purple",
-        "hasPrimaryColour": true
+        "hasPrimaryColour": true,
+        "colourSettings": {
+            "defaultPrimary": "bright_purple",
+            "parkMap": [
+                { "colour": "primary", "shade": 8 },
+                { "colour": "black", "shade": 0  }
+            ]
+        }
     },
     "images": [
         { "path": "images/preview.png", "x": 2, "y": 2 },
