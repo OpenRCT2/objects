@@ -8,6 +8,10 @@
     "sourceGame": "official",
     "objectType": "terrain_edge",
     "properties": {
+        "hasPrimaryColour": true,
+        "colourSettings": {
+            "defaultPrimary": "light_brown"
+        }
     },
     "images": [
         { "path": "images/icon.png", "format": "raw", "x": 2, "y": 2 },
@@ -95,22 +99,22 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Rock (Brown)",
-            "fr-FR": "Pierre (marron)",
-            "hu-HU": "Szikla (barna)",
-            "ko-KR": "바위 (갈색)",
-            "nl-NL": "Bruine rotsen",
-            "pt-BR": "Pedra (Marrom)",
-            "ca-ES": "Roca (marró)",
-            "pl-PL": "Skała (brązowa)",
-            "fi-FI": "Kivi (ruskea)",
-            "zh-CN": "岩石（棕色）",
-            "ru-RU": "Камень (коричневый)",
-            "ja-JP": "岩（茶）",
-            "gl-ES": "Rocha (Marrón)",
-            "ar-EG": "صخر (بني)",
-            "cs-CZ": "Skála (hnědá)",
-            "eo-ZZ": "Roka (bruna)"
+            "en-GB": "Rock",
+            "fr-FR": "Pierre",
+            "hu-HU": "Szikla",
+            "ko-KR": "바위",
+            "nl-NL": "Rotsen",
+            "pt-BR": "Pedra",
+            "ca-ES": "Roca",
+            "pl-PL": "Skała",
+            "fi-FI": "Kivi",
+            "zh-CN": "岩石",
+            "ru-RU": "Камень",
+            "ja-JP": "岩",
+            "gl-ES": "Rocha",
+            "ar-EG": "صخر",
+            "cs-CZ": "Skála",
+            "eo-ZZ": "Roka"
         }
     }
 }

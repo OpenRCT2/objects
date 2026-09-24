@@ -7,6 +7,10 @@
     "sourceGame": "official",
     "objectType": "terrain_edge",
     "properties": {
+        "hasPrimaryColour": true,
+        "colourSettings": {
+            "defaultPrimary": "black"
+        }
     },
     "images": [
         { "path": "images/icon.png", "format": "raw", "x": 2, "y": 2 },

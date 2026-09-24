@@ -1,0 +1,49 @@
+{
+    "id": "rct2.terrain_surface.grid",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "sourceGame": [
+        "rct2",
+        "rct1ll"
+    ],
+    "objectType": "terrain_surface",
+    "properties": {
+        "price": 110,
+        "hasPrimaryColour": true,
+        "colourSettings": {
+            "defaultPrimary": "bright_purple",
+            "parkMap": [
+                { "colour": "primary", "shade": 8 },
+                { "colour": "black", "shade": 0  }
+            ]
+        }
+    },
+    "images": [
+        { "path": "images/preview.png", "x": 2, "y": 2 },
+        "$G1[2257..2313]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Grid",
+            "de-DE": "Gitter",
+            "nl-NL": "Raster",
+            "pt-BR": "Malha",
+            "ja-JP": "グリッド",
+            "fr-FR": "Grille",
+            "pl-PL": "Krata",
+            "ko-KR": "격자",
+            "eo-ZZ": "Krado",
+            "sv-SE": "Rutnät",
+            "ca-ES": "Graella",
+            "fi-FI": "Ruudukko",
+            "zh-CN": "网格",
+            "ru-RU": "Сетка",
+            "gl-ES": "Reixa",
+            "cs-CZ": "Mřížka",
+            "es-ES": "Cuadrícula"
+        }
+    }
+}

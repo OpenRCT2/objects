@@ -8,6 +8,10 @@
     "sourceGame": "official",
     "objectType": "terrain_edge",
     "properties": {
+        "hasPrimaryColour": true,
+        "colourSettings": {
+            "defaultPrimary": "light_brown"
+        }
     },
     "images": [
         { "path": "images/icon.png", "format": "raw", "x": 2, "y": 2 },
@@ -95,22 +99,22 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Brick (Brown)",
-            "fr-FR": "Brique (marron)",
-            "hu-HU": "Tégla (barna)",
-            "ko-KR": "벽돌 (갈색)",
-            "nl-NL": "Bruine stenen",
-            "pt-BR": "Tijolo (Marrom)",
-            "ca-ES": "Maó (marró)",
-            "pl-PL": "Cegła (brązowa)",
-            "fi-FI": "Tiilet (ruskea)",
-            "zh-CN": "砖（棕色）",
-            "ru-RU": "Кирпич (коричневый)",
-            "ja-JP": "レンガ（茶）",
-            "gl-ES": "Ladrillo (Marrón)",
-            "ar-EG": "طوب (بني)",
-            "cs-CZ": "Cihla (hnědá)",
-            "eo-ZZ": "Brika (bruna)"
+            "en-GB": "Brick",
+            "fr-FR": "Brique",
+            "hu-HU": "Tégla",
+            "ko-KR": "벽돌",
+            "nl-NL": "Stenen",
+            "pt-BR": "Tijolo",
+            "ca-ES": "Maó",
+            "pl-PL": "Cegła",
+            "fi-FI": "Tiilet",
+            "zh-CN": "砖",
+            "ru-RU": "Кирпич",
+            "ja-JP": "レンガ",
+            "gl-ES": "Ladrillo",
+            "ar-EG": "طوب",
+            "cs-CZ": "Cihla",
+            "eo-ZZ": "Brika"
         }
     }
 }
