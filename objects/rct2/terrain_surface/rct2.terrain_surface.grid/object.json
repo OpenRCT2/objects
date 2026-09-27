@@ -16,8 +16,14 @@
         "colourSettings": {
             "defaultPrimary": "bright_purple",
             "parkMap": [
-                { "colour": "primary", "shade": 8 },
-                { "colour": "black", "shade": 0  }
+                {
+                    "colour": "primary",
+                    "shade": 8
+                },
+                {
+                    "colour": "black",
+                    "shade": 0
+                }
             ]
         }
     },

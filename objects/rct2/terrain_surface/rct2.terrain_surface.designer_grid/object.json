@@ -14,14 +14,19 @@
         "colourSettings": {
             "defaultPrimary": "dark_blue",
             "parkMap": [
-                { "colour": "primary", "shade": 8 },
-                { "colour": "black", "shade": 0  }
+                {
+                    "colour": "primary",
+                    "shade": 8
+                },
+                {
+                    "colour": "black",
+                    "shade": 0
+                }
             ]
         }
     },
     "images": [
         { "path": "images/icon.png", "format": "raw", "x": 2, "y": 2 },
-        
         { "path": "images/00.png", "x": -32, "y": 0 },
         { "path": "images/01.png", "x": -32, "y": -1 },
         { "path": "images/02.png", "x": -32, "y": 0 },
@@ -41,7 +46,6 @@
         "",
         { "path": "images/17.png", "x": -32, "y": -17 },
         { "path": "images/18.png", "x": -31, "y": -17 },
-        
         { "path": "images/00.png", "x": -32, "y": 0 },
         { "path": "images/01.png", "x": -32, "y": -1 },
         { "path": "images/02.png", "x": -32, "y": 0 },
@@ -61,7 +65,6 @@
         "",
         { "path": "images/17.png", "x": -32, "y": -17 },
         { "path": "images/18.png", "x": -31, "y": -17 },
-        
         { "path": "images/38.png", "x": -32, "y": 0 },
         { "path": "images/39.png", "x": -32, "y": -1 },
         { "path": "images/40.png", "x": -32, "y": 0 },
