@@ -52,7 +52,7 @@
                 "numSeats": 2,
                 "numSeatRows": 1,
                 "frictionSoundId": 1,
-                "soundRange": 0,
+                "soundRange": 2,
                 "drawOrder": 6,
                 "spriteGroups": {
                     "slopeFlat": 16,
@@ -74,7 +74,7 @@
                 "rotationFrameMask": 0,
                 "spacing": 34864,
                 "frictionSoundId": 1,
-                "soundRange": 0,
+                "soundRange": 2,
                 "carVisual": 1,
                 "drawOrder": 8,
                 "spriteGroups": {

@@ -37,7 +37,7 @@
                 "numSeats": 4,
                 "numSeatRows": 2,
                 "frictionSoundId": 57,
-                "soundRange": 0,
+                "soundRange": 2,
                 "drawOrder": 6,
                 "frames": {
                     "flat": true,
@@ -72,7 +72,7 @@
                 "numSeats": 4,
                 "numSeatRows": 2,
                 "frictionSoundId": 57,
-                "soundRange": 0,
+                "soundRange": 2,
                 "drawOrder": 2,
                 "frames": {
                     "flat": true,
