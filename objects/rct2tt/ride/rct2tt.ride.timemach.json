@@ -10,6 +10,7 @@
     "properties": {
         "type": "space_rings",
         "category": "gentle",
+        "clearance": 32,
         "tabScale": 0.5,
         "carsPerFlatRide": 4,
         "carColours": [

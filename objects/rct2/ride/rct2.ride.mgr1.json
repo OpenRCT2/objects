@@ -14,6 +14,7 @@
     "properties": {
         "type": "merry_go_round",
         "category": "gentle",
+        "clearance": 64,
         "tabScale": 0.5,
         "hasShelter": true,
         "carsPerFlatRide": 1,
