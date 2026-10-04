@@ -1,18 +1,16 @@
 {
-    "id": "rct2.scenery_large.prship",
+    "id": "rct2.scenery_large.prship_fix",
     "authors": [
         "Chris Sawyer",
         "Simon Foster"
     ],
     "version": "1.0",
-    "originalId": "0A188C82|PRSHIP  |5CD70D93",
+    "originalId": "00000082|#PRSHIPF|00000000",
     "sourceGame": "rct2",
-    "isCompatibilityObject": true,
     "objectType": "scenery_large",
     "properties": {
         "price": 190,
         "removalPrice": -150,
-        "sceneryGroup": "rct2ww.scenery_group.scgpirat",
         "cursor": "CURSOR_STATUE_DOWN",
         "isPhotogenic": true,
         "tiles": [
@@ -20,56 +18,56 @@
                 "x": 0,
                 "y": 0,
                 "clearance": 136,
-                "hasSupports": true,
+                "hasSupports": false,
                 "walls": 9
             },
             {
                 "x": 0,
                 "y": 32,
                 "clearance": 136,
-                "hasSupports": true,
+                "hasSupports": false,
                 "walls": 3
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 136,
-                "hasSupports": true,
+                "hasSupports": false,
                 "walls": 8
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 136,
-                "hasSupports": true,
+                "hasSupports": false,
                 "walls": 2
             },
             {
                 "x": 64,
                 "y": 0,
                 "clearance": 136,
-                "hasSupports": true,
+                "hasSupports": false,
                 "walls": 8
             },
             {
                 "x": 64,
                 "y": 32,
                 "clearance": 136,
-                "hasSupports": true,
+                "hasSupports": false,
                 "walls": 2
             },
             {
                 "x": 96,
                 "y": 0,
                 "clearance": 136,
-                "hasSupports": true,
+                "hasSupports": false,
                 "walls": 12
             },
             {
                 "x": 96,
                 "y": 32,
                 "clearance": 136,
-                "hasSupports": true,
+                "hasSupports": false,
                 "walls": 6
             }
         ]
