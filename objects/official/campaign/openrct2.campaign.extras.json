@@ -1,0 +1,90 @@
+{
+	"id": "openrct2.campaign.extras",
+	"version": "1.0",
+	"authors": [
+		"Chris Sawyer"
+	],
+	"objectType": "campaign",
+	"sourceGame": "official",
+	"properties": {
+		"scenarioGroups": [
+			{
+				"header": "dlc",
+				"scenarios": [
+					{
+						"title": "Fort Anachronism",
+						"fileName": [
+							"FORT1.SC4",
+							"Fort Anachronism.SC6"
+						]
+					},
+					{
+						"title": "Taiwan Park",
+						"fileName": [
+							"SC34.SC4",
+							"Taiwan Park.SC6"
+						]
+					},
+					{
+						"title": "PC Player",
+						"fileName": [
+							"pcplayer.sc4",
+							"PC Player.SC6"
+						]
+					},
+					{
+						"title": "PC Gaming World",
+						"fileName": [
+							"Pcgw.sc4",
+							"PC Gaming World.SC6"
+						]
+					},
+					{
+						"title": "gameplay",
+						"fileName": [
+							"gameplay.SC4",
+							"gameplay.SC6"
+						]
+					},
+					{
+						"title": "Panda World",
+						"fileName": [
+							"Panda World.SC6",
+							"Panda World.sea"
+						]
+					}
+				]
+			}
+		]
+	},
+	"strings": {
+		"name": {
+			"en-GB": "Extras",
+			"ar-EG": "الملحقات",
+			"ca-ES": "Extres",
+			"cs-CZ": "Extra",
+			"da-DK": "Ekstra",
+			"de-DE": "Extras",
+			"eo-ZZ": "Ekstraĵoj",
+			"es-ES": "Extras",
+			"fi-FI": "Ekstrat",
+			"fr-FR": "Extras",
+			"gl-ES": "Extras",
+			"hu-HU": "Extrák",
+			"it-IT": "Extra",
+			"ja-JP": "追加要素",
+			"ko-KR": "기타",
+			"nb-NO": "Ekstrainnhold",
+			"nl-NL": "Extra’s",
+			"pl-PL": "Dodatkowe",
+			"pt-BR": "Extras",
+			"ru-RU": "Экстра",
+			"sv-SE": "Extra",
+			"tr-TR": "Ekstralar",
+			"uk-UA": "Додатково",
+			"vi-VN": "Thêm",
+			"zh-CN": "额外内容",
+			"zh-TW": "附加樂園"
+		}
+	}
+}

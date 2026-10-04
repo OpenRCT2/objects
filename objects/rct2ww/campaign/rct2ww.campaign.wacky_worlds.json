@@ -1,0 +1,159 @@
+{
+	"id": "rct2ww.campaign.wacky_worlds",
+	"version": "1.0",
+	"authors": [
+		"Frontier Developments"
+	],
+	"objectType": "campaign",
+	"sourceGame": "rct2ww",
+	"properties": {
+		"numUnlockedScenarios": 5,
+		"scenarioGroups": [
+			{
+				"header": "beginner",
+				"scenarios": [
+					{
+						"title": "North America - Grand Canyon",
+						"fileName": [
+							"North America - Grand Canyon.SC6",
+							"North America - Grand Canyon.sea"
+						]
+					},
+					{
+						"title": "Asia - Great Wall of China Tourism Enhancement",
+						"fileName": [
+							"Asia - Great Wall of China Tourism Enhancement.SC6",
+							"Asia - Great Wall of China Tourism Enhancement.sea"
+						]
+					},
+					{
+						"title": "Africa - African Diamond Mine",
+						"fileName": [
+							"Africa - African Diamond Mine.SC6",
+							"Africa - African Diamond Mine.sea"
+						]
+					},
+					{
+						"title": "Australasia - Ayers Rock",
+						"fileName": [
+							"Australasia - Ayers Rock.SC6",
+							"Australasia - Ayers Rock.sea"
+						]
+					},
+					{
+						"title": "North America - Rollercoaster Heaven",
+						"fileName": [
+							"North America - Rollercoaster Heaven.SC6",
+							"North America - Rollercoaster Heaven.sea"
+						]
+					}
+				]
+			},
+			{
+				"header": "challenging",
+				"scenarios": [
+					{
+						"title": "Africa - Oasis",
+						"fileName": [
+							"Africa - Oasis.SC6",
+							"Africa - Oasis.sea"
+						]
+					},
+					{
+						"title": "South America - Rio Carnival",
+						"fileName": [
+							"South America - Rio Carnival.SC6",
+							"South America - Rio Carnival.sea"
+						]
+					},
+					{
+						"title": "Asia - Maharaja Palace",
+						"fileName": [
+							"Asia - Maharaja Palace.SC6",
+							"Asia - Maharaja Palace.sea"
+						]
+					},
+					{
+						"title": "Africa - Victoria Falls",
+						"fileName": [
+							"Africa - Victoria Falls.SC6",
+							"Africa - Victoria Falls.sea"
+						]
+					},
+					{
+						"title": "N. America - Extreme Hawaiian Island",
+						"fileName": [
+							"N America - Extreme Hawaiian Island.SC6",
+							"N America - Extreme Hawaiian Island.sea"
+						]
+					},
+					{
+						"title": "South America - Rain Forest Plateau",
+						"fileName": [
+							"South America - Rain Forest Plateau.SC6",
+							"South America - Rain Forest Plateau.sea"
+						]
+					},
+					{
+						"title": "Europe - Renovation",
+						"fileName": [
+							"Europe - Renovation.SC6",
+							"Europe - Renovation.sea"
+						]
+					}
+				]
+			},
+			{
+				"header": "expert",
+				"scenarios": [
+					{
+						"title": "Antarctic - Ecological Salvage",
+						"fileName": [
+							"Antarctic - Ecological Salvage.SC6",
+							"Antarctic - Ecological Salvage.sea"
+						]
+					},
+					{
+						"title": "Europe - European Cultural Festival",
+						"fileName": [
+							"Europe - European Cultural Festival.SC6",
+							"Europe - European Cultural Festival.sea"
+						]
+					},
+					{
+						"title": "Australasia - Fun at the Beach",
+						"fileName": [
+							"Australasia - Fun at the Beach.SC6",
+							"Australasia - Fun at the Beach.sea"
+						]
+					},
+					{
+						"title": "South America - Inca Lost City",
+						"fileName": [
+							"South America - Inca Lost City.SC6",
+							"South America - Inca Lost City.sea"
+						]
+					},
+					{
+						"title": "Asia - Japanese Coastal Reclaim",
+						"fileName": [
+							"Asia - Japanese Coastal Reclaim.SC6",
+							"Asia - Japanese Coastal Reclaim.sea"
+						]
+					}
+				]
+			}
+		]
+	},
+	"strings": {
+		"name": {
+			"en-GB": "Wacky Worlds",
+			"ja-JP": "ワッキーワールド",
+			"ko-KR": "와키 월드",
+			"pl-PL": "Zakręcone Światy",
+			"vi-VN": "Thế giới kỳ quặc",
+			"zh-CN": "过山车大亨2：{NEWLINE}异国风情",
+			"zh-TW": "瘋狂世界"
+		}
+	}
+}
