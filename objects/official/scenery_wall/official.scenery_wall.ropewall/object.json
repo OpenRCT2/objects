@@ -8,13 +8,17 @@
   "objectType": "scenery_wall",
   "properties": {
     "isTransparent": true,
-    "isAllowedOnSlope": false,
+    "isAllowedOnSlope": true,
     "height": 1,
     "price": 40
   },
   "images": [
     { "path": "images/0.png", "x": -31, "y": -6 },
-    { "path": "images/1.png", "x": 0, "y": -5 }
+    { "path": "images/1.png", "x": 0, "y": -5 },
+    { "path": "images/2.png", "x": -31, "y": -21 },
+    { "path": "images/3.png", "x": 0, "y": -19 },
+    { "path": "images/4.png", "x": -31, "y": -6 },
+    { "path": "images/5.png", "x": 0, "y": -5 }
   ],
   "strings": {
     "name": {
