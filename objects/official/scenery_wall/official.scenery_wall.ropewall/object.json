@@ -1,0 +1,24 @@
+{
+  "id": "official.scenery_wall.ropewall",
+  "authors": [
+    "Simon Foster"
+  ],
+  "version": "1.0",
+  "sourceGame": "official",
+  "objectType": "scenery_wall",
+  "properties": {
+    "isTransparent": true,
+    "isAllowedOnSlope": false,
+    "height": 1,
+    "price": 40
+  },
+  "images": [
+    { "path": "images/0.png", "x": -31, "y": -6 },
+    { "path": "images/1.png", "x": 0, "y": -5 }
+  ],
+  "strings": {
+    "name": {
+      "en-GB": "Rope Wall"
+    }
+  }
+}
