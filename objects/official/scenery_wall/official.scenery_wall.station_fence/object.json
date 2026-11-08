@@ -1,0 +1,24 @@
+{
+  "id": "official.scenery_wall.station_fence",
+  "authors": [
+    "Simon Foster"
+  ],
+  "version": "1.0",
+  "sourceGame": "official",
+  "objectType": "scenery_wall",
+  "properties": {
+    "isAllowedOnSlope": false,
+    "hasPrimaryColour": true,
+    "height": 1,
+    "price": 40
+  },
+  "images": [
+    { "path": "images/0.png", "x": -31, "y": -8 },
+    { "path": "images/1.png", "x": 0, "y": -7 }
+  ],
+  "strings": {
+    "name": {
+      "en-GB": "Station Fence Wall"
+    }
+  }
+}
