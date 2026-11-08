@@ -1,28 +1,29 @@
 {
-  "id": "official.scenery_wall.station_fence",
-  "authors": [
-    "Simon Foster"
-  ],
-  "version": "1.0",
-  "sourceGame": "official",
-  "objectType": "scenery_wall",
-  "properties": {
-    "isAllowedOnSlope": true,
-    "hasPrimaryColour": true,
-    "height": 1,
-    "price": 40
-  },
-  "images": [
-    { "path": "images/0.png", "x": -31, "y": -8 },
-    { "path": "images/1.png", "x": 0, "y": -7 },
-    { "path": "images/2.png", "x": -31, "y": -25 },
-    { "path": "images/3.png", "x": 0, "y": -24 },
-    { "path": "images/4.png", "x": -31, "y": -10 },
-    { "path": "images/5.png", "x": 0, "y": -9 }
-  ],
-  "strings": {
-    "name": {
-      "en-GB": "Station Fence Wall"
+    "id": "official.scenery_wall.station_fence",
+    "authors": [
+        "OpenRCT2 developers",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "sourceGame": "official",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "hasPrimaryColour": true,
+        "height": 1,
+        "price": 40
+    },
+    "images": [
+        { "path": "images/0.png", "x": -31, "y": -8 },
+        { "path": "images/1.png", "x": 0, "y": -7 },
+        { "path": "images/2.png", "x": -31, "y": -25 },
+        { "path": "images/3.png", "x": 0, "y": -24 },
+        { "path": "images/4.png", "x": -31, "y": -10 },
+        { "path": "images/5.png", "x": 0, "y": -9 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Station Fence Wall"
+        }
     }
-  }
 }
