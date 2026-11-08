@@ -1,5 +1,5 @@
 {
-    "id": "official.scenery_wall.ropewall",
+    "id": "official.scenery_wall.rope_fence",
     "authors": [
         "OpenRCT2 developers",
         "Simon Foster"
@@ -23,7 +23,7 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Rope Wall"
+            "en-GB": "Rope Fence"
         }
     }
 }
