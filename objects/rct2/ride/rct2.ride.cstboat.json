@@ -118,7 +118,8 @@
             "eo-ZZ": "Boato-ĉaroj",
             "ca-ES": "Barquetes costeres",
             "fi-FI": "Vuoristorataveneet",
-            "gl-ES": "Barcos de montaña rusa"
+            "gl-ES": "Barcos de montaña rusa",
+            "hu-HU": "Hullámvasút-csónakok"
         },
         "description": {
             "en-GB": "Boat-shaped roller coaster cars",
@@ -139,7 +140,8 @@
             "eo-ZZ": "Boatoformaj ĉaroj de onda fervojo",
             "ca-ES": "Cotxes per a muntanya russa en forma de barca.",
             "fi-FI": "Veneen muotoiset vuoristoratavaunut",
-            "gl-ES": "Coches de montaña rusa con forma de barco"
+            "gl-ES": "Coches de montaña rusa con forma de barco",
+            "hu-HU": "Csónak alakú hullámvasútkocsik"
         },
         "capacity": {
             "en-GB": "6 passengers per boat",
@@ -159,7 +161,8 @@
             "ru-RU": "6 пассажиров",
             "eo-ZZ": "Po 6 pasaĝeroj por boato",
             "ca-ES": "6 passatgers per barca",
-            "fi-FI": "6 matkustajaa per vene"
+            "fi-FI": "6 matkustajaa per vene",
+            "hu-HU": "6 utas csónakonként"
         }
     }
 }

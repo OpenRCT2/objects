@@ -73,7 +73,8 @@
             "ru-RU": "Каноэ",
             "eo-ZZ": "Kanuoj",
             "fi-FI": "Kanootit",
-            "gl-ES": "Canoas"
+            "gl-ES": "Canoas",
+            "hu-HU": "Kenuk"
         },
         "description": {
             "en-GB": "Long canoes which the passengers paddle themselves",
@@ -94,7 +95,8 @@
             "eo-ZZ": "Longaj kanuoj, kiujn la pasaĝeroj padelas per si mem",
             "ca-ES": "Canoes llargues que els passatgers mouen remant.",
             "fi-FI": "Pitkät kanootit, joita matkustajat soutavat itse",
-            "gl-ES": "Canoas longas nas que os pasaxeiros reman eles mesmos"
+            "gl-ES": "Canoas longas nas que os pasaxeiros reman eles mesmos",
+            "hu-HU": "Hosszú kenuk, amelyeket az utasok maguk eveznek"
         },
         "capacity": {
             "en-GB": "2 passengers per canoe",
@@ -114,7 +116,8 @@
             "ru-RU": "2 пассажира на каноэ",
             "eo-ZZ": "Po 2 pasaĝeroj por kanuo",
             "ca-ES": "2 passatgers per canoa",
-            "fi-FI": "2 matkustajaa per kanootti"
+            "fi-FI": "2 matkustajaa per kanootti",
+            "hu-HU": "2 utas kenunként"
         }
     }
 }

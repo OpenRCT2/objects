@@ -60,7 +60,8 @@
             "ca-ES": "Caixer automàtic",
             "fi-FI": "Raha-automaatti",
             "en-US": "ATM",
-            "gl-ES": "Caixeiro automático"
+            "gl-ES": "Caixeiro automático",
+            "hu-HU": "Bankautomata"
         },
         "description": {
             "en-GB": "An A.T.M. (Cash Machine) for guests to use if they run low on funds",
@@ -83,7 +84,8 @@
             "fi-FI": "Raha-automaatti jota kävijät voivat käyttää jos rahat ovat vähissä",
             "nb-NO": "En minibank (Bankautomat) som gjester kan bruke hvis de begynner å gå tom for penger",
             "en-US": "An ATM for guests to use if they run low on funds",
-            "gl-ES": "Un caixeiro automático (caixeiro de efectivo) para que os visitantes o utilicen se lles faltan fondos"
+            "gl-ES": "Un caixeiro automático (caixeiro de efectivo) para que os visitantes o utilicen se lles faltan fondos",
+            "hu-HU": "ATM (bankautomata), amelyet a vendégek akkor használhatnak, ha elfogy a pénzük"
         }
     }
 }

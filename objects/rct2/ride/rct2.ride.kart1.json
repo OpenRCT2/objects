@@ -222,7 +222,8 @@
             "eo-ZZ": "Vetkuraj aŭtetoj",
             "sv-SE": "Gokart",
             "ca-ES": "Karts",
-            "fi-FI": "Mikroautot"
+            "fi-FI": "Mikroautot",
+            "hu-HU": "Gokartok"
         },
         "description": {
             "en-GB": "Self-drive petrol-engined go-karts",
@@ -244,7 +245,8 @@
             "eo-ZZ": "Aŭtetoj kun benzinmotoroj, kiujn pasaĝeroj stiras per si mem",
             "ca-ES": "Karts autopropulsats que funcionen amb gasolina.",
             "fi-FI": "Itse ajettavat bensakäyttöiset mikroautot",
-            "gl-ES": "Karts de gasolina de condución autónoma"
+            "gl-ES": "Karts de gasolina de condución autónoma",
+            "hu-HU": "Benzinmotoros, önvezető gokartok"
         },
         "capacity": {
             "en-GB": "single-seater",
@@ -265,7 +267,8 @@
             "eo-ZZ": "Po 1 pasaĝero por aŭto",
             "ca-ES": "Monoplaça",
             "fi-FI": "Yksipaikkainen",
-            "gl-ES": "monopraza"
+            "gl-ES": "monopraza",
+            "hu-HU": "Egyszemélyes"
         }
     }
 }

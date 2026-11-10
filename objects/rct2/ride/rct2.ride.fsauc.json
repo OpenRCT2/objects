@@ -77,7 +77,8 @@
             "eo-ZZ": "Flugantaj Nifoj",
             "ca-ES": "Plats voladors",
             "fi-FI": "Lentävät lautaset",
-            "gl-ES": "Pratos voadores"
+            "gl-ES": "Pratos voadores",
+            "hu-HU": "Repülő csészealjak"
         },
         "description": {
             "en-GB": "Guests ride in saucer-shaped hovercraft vehicles that they freely control",
@@ -98,7 +99,8 @@
             "eo-ZZ": "Gastoj rajdas en nifoformaj kusenveturiloj, kiujn ili stiras libere",
             "ca-ES": "Els passatgers van en vehicles en forma de plat volador que poden controlar a voluntat.",
             "fi-FI": "Matkustajat kulkevat itse ajamissaan ilmatyynyaluksissa",
-            "gl-ES": "Os visitantes viaxan en vehículos flotantes con forma de prato que poden controlar libremente"
+            "gl-ES": "Os visitantes viaxan en vehículos flotantes con forma de prato que poden controlar libremente",
+            "hu-HU": "A vendégek csészealj alakú légpárnás járművekben utaznak, amelyeket szabadon irányíthatnak"
         },
         "capacity": {
             "en-GB": "1 person per car",
@@ -118,7 +120,8 @@
             "ru-RU": "1 человек на машину",
             "eo-ZZ": "Po 1 ulo por ĉaro",
             "ca-ES": "1 persona per cotxe",
-            "fi-FI": "1 matkustaja per ajoneuvo"
+            "fi-FI": "1 matkustaja per ajoneuvo",
+            "hu-HU": "1 személy kocsinként"
         }
     }
 }

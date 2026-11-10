@@ -85,7 +85,8 @@
             "eo-ZZ": "Bradipo-trajnoj",
             "ca-ES": "Trens peresosos",
             "fi-FI": "Laiskiaisvaunut",
-            "gl-ES": "Trens de Preguiza"
+            "gl-ES": "Trens de Preguiza",
+            "hu-HU": "Lajhárvonatok"
         },
         "description": {
             "en-GB": "Suspended roller coaster trains consisting of sloth-shaped cars able to swing freely as the train goes around corners",
@@ -105,7 +106,8 @@
             "eo-ZZ": "Penditaj trajnoj de onda fervojo, kiuj konsistas el bradipoformaj ĉaroj, kiuj svingiĝas libere kiam la trajno iras ĉirkaŭ anguloj",
             "ca-ES": "Muntanya russa amb trens penjants amb cotxes en forma de peresosos que es balancegen quan passen per les corbes.",
             "fi-FI": "Laiskiaisen muotoiset vapaasti käänteissä keinuvat riippuvat vuoristoratavaunut",
-            "gl-ES": "Trens de montaña rusa suspendidos que consisten en coches con forma de preguiceiro capaces de balancearse libremente mentres o tren dá voltas ás esquinas"
+            "gl-ES": "Trens de montaña rusa suspendidos que consisten en coches con forma de preguiceiro capaces de balancearse libremente mentres o tren dá voltas ás esquinas",
+            "hu-HU": "Függesztett hullámvasút-szerelvények, lajhár alakú kocsikkal, amelyek szabadon lenghetnek, miközben a szerelvény kanyarodik"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -125,7 +127,8 @@
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
-            "gl-ES": "4 pasaxeiros por coche"
+            "gl-ES": "4 pasaxeiros por coche",
+            "hu-HU": "4 utas kocsinként"
         }
     }
 }

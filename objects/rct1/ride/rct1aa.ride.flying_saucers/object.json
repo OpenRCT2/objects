@@ -116,7 +116,8 @@
             "ca-ES": "Plats voladors",
             "fi-FI": "Lentävät lautaset",
             "gl-ES": "Prato voador",
-            "ar-EG": "الأطباق الطائرة"
+            "ar-EG": "الأطباق الطائرة",
+            "hu-HU": "Repülő csészealjak"
         },
         "description": {
             "en-GB": "Guests ride in saucer-shaped hovercraft vehicles that they freely control",
@@ -138,7 +139,8 @@
             "ca-ES": "Els passatgers van en vehicles en forma de plat volador que poden controlar a voluntat.",
             "fi-FI": "Matkustajat kulkevat itse ajamissaan ilmatyynyaluksissa",
             "gl-ES": "Os visitantes viaxan en vehículos a propulsión por aire con forma de prato que controlan libremente.",
-            "ar-EG": "يركب الضيوف في مركبات حوامة على شكل صحون يتحكمون فيها بحرية"
+            "ar-EG": "يركب الضيوف في مركبات حوامة على شكل صحون يتحكمون فيها بحرية",
+            "hu-HU": "A vendégek csészealj alakú légpárnás járművekben utaznak, amelyeket szabadon irányíthatnak"
         },
         "capacity": {
             "en-GB": "1 person per car",
@@ -160,7 +162,8 @@
             "fi-FI": "1 matkustaja per ajoneuvo",
             "ca-ES": "1 persona per cotxe",
             "gl-ES": "1 persoa por coche",
-            "ar-EG": "شخص واحد لكل مركبة"
+            "ar-EG": "شخص واحد لكل مركبة",
+            "hu-HU": "1 személy kocsinként"
         }
     }
 }

@@ -429,7 +429,8 @@
             "ca-ES": "Trens de vapor d’estil americà",
             "fi-FI": "Amerikan tyyliset höyryjunat",
             "gl-ES": "Trens de Vapor ao Estilo Americano",
-            "ar-EG": "قطارات بخارية على الطراز الأمريكي"
+            "ar-EG": "قطارات بخارية على الطراز الأمريكي",
+            "hu-HU": "Amerikai stílusú gőzvonatok"
         },
         "description": {
             "en-GB": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
@@ -451,7 +452,8 @@
             "ca-ES": "Trens de vapor en miniatura amb una rèplica d’una locomotora a vapor i tènder, estirant vagons de fusta amb sostre de tela.",
             "fi-FI": "Pienikokoiset höyryjunat joihin kuuluu höyryveturin jäljitelmä ja hennot puiset vaunut kangaskatoilla",
             "gl-ES": "Trens de vapor en miniatura compostos por unha locomotora de vapor e ténder a modo de réplica, que remolcan vagóns de madeira con tellados de tea",
-            "ar-EG": "قطارات بخارية مصغرة تتكون من قاطرة بخارية طبق الأصل وعربة وقود، تسحب عربات خشبية بسقوف من القماش"
+            "ar-EG": "قطارات بخارية مصغرة تتكون من قاطرة بخارية طبق الأصل وعربة وقود، تسحب عربات خشبية بسقوف من القماش",
+            "hu-HU": "Miniatűr gőzvonatok, amelyek egy gőzmozdony- és szerkocsimásolatból állnak, és szövettetős fakocsikat vontatnak"
         },
         "capacity": {
             "en-GB": "6 passengers per carriage",
@@ -473,7 +475,8 @@
             "ca-ES": "6 passatgers per vagó",
             "fi-FI": "6 matkustajaa per vaunu",
             "gl-ES": "6 pasaxeiros por vagón",
-            "ar-EG": "6 ركاب لكل عربة"
+            "ar-EG": "6 ركاب لكل عربة",
+            "hu-HU": "6 utas kocsinként"
         }
     }
 }

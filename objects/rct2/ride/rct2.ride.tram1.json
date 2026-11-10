@@ -118,7 +118,8 @@
             "eo-ZZ": "Tramoj",
             "ca-ES": "Tramvies",
             "fi-FI": "Raitiovaunut",
-            "gl-ES": "Tranvías"
+            "gl-ES": "Tranvías",
+            "hu-HU": "Villamosok"
         },
         "description": {
             "en-GB": "Old-timer replica trams",
@@ -139,7 +140,8 @@
             "eo-ZZ": "Replikaĵoj de eksmodaj tramoj",
             "ca-ES": "Rèpliques de tramvies d’estil antic.",
             "fi-FI": "Vanhanaikaiset raitiovaunut",
-            "gl-ES": "Tranvías réplicas de modelos antigos"
+            "gl-ES": "Tranvías réplicas de modelos antigos",
+            "hu-HU": "Nosztalgiavillamosok másolatai"
         },
         "capacity": {
             "en-GB": "10 passengers per car",
@@ -160,7 +162,8 @@
             "eo-ZZ": "Po 10 pasaĝeroj por ĉaro",
             "ca-ES": "10 passatgers per cotxe",
             "fi-FI": "10 matkustajaa per vaunu",
-            "gl-ES": "10 pasaxeiros por coche"
+            "gl-ES": "10 pasaxeiros por coche",
+            "hu-HU": "10 utas kocsinként"
         }
     }
 }

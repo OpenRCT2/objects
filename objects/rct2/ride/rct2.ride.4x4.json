@@ -112,7 +112,8 @@
             "sv-SE": "Monstertruckar",
             "ca-ES": "Camions monstruosos",
             "fi-FI": "Monsteriautot",
-            "gl-ES": "Camións monstro"
+            "gl-ES": "Camións monstro",
+            "hu-HU": "Monster Truckok"
         },
         "description": {
             "en-GB": "Powered giant 4 x 4 trucks which can climb steep slopes",
@@ -135,7 +136,8 @@
             "ca-ES": "Camions gegants 4 x 4 que poden pujar per pendents inclinades.",
             "fi-FI": "Jättimäiset moottoroidut nelivetoautot, jotka voivat kiivetä jyrkkiä mäkiä",
             "tr-TR": "Powered giant 4 × 4 trucks which can climb steep slopes",
-            "gl-ES": "Camións xigantes 4x4 motorizados que poden subir pendentes pronunciadas"
+            "gl-ES": "Camións xigantes 4x4 motorizados que poden subir pendentes pronunciadas",
+            "hu-HU": "Motoros, óriás 4 x 4-es teherautók, amelyek meredek emelkedőkön is fel tudnak kapaszkodni"
         },
         "capacity": {
             "en-GB": "2 passengers per truck",
@@ -156,7 +158,8 @@
             "ar-EG": "ركبان لكل شاحنة",
             "eo-ZZ": "Po 2 pasaĝeroj por kamiono",
             "ca-ES": "2 passatgers per camió",
-            "fi-FI": "2 matkustajaa per auto"
+            "fi-FI": "2 matkustajaa per auto",
+            "hu-HU": "2 utas autónként"
         }
     }
 }

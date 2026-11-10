@@ -204,7 +204,8 @@
             "ca-ES": "Tren de la bruixa",
             "fi-FI": "Kummitusjunavaunut",
             "gl-ES": "Vagóns do Tren do Terror",
-            "ar-EG": "عربات قطار الأشباح"
+            "ar-EG": "عربات قطار الأشباح",
+            "hu-HU": "Szellemvonat kocsik"
         },
         "description": {
             "en-GB": "Powered monster-shaped cars that run on a ghost train track",
@@ -226,7 +227,8 @@
             "ca-ES": "Cotxes en forma de monstre que circulen per una via per un escenari fosc i ple d’efectes especials.",
             "fi-FI": "Moottoroidut monsterin muotoiset vaunut, jotka kulkevat kummitusjunan radalla",
             "gl-ES": "Vagóns con forma de monstro e propulsados que circulan por un rail de tren do terror",
-            "ar-EG": "عربات تعمل بالطاقة على شكل وحش تسير على مسار قطار الأشباح"
+            "ar-EG": "عربات تعمل بالطاقة على شكل وحش تسير على مسار قطار الأشباح",
+            "hu-HU": "Motoros, szörny alakú kocsik, amelyek szellemvonat pályán közlekednek"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -248,7 +250,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
             "gl-ES": "2 pasaxeiros por coche",
-            "ar-EG": "راكبان لكل عربة"
+            "ar-EG": "راكبان لكل عربة",
+            "hu-HU": "2 utas kocsinként"
         }
     }
 }
