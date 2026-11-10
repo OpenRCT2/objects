@@ -469,7 +469,8 @@
             "ca-ES": "Muntanya russa multidimensional",
             "fi-FI": "Moniulottuvuusvuoristoradan vaunut",
             "gl-ES": "Trens de montaña rusa multidimensional",
-            "hu-HU": "Többdimenziós hullámvasút-szerelvények"
+            "hu-HU": "Többdimenziós hullámvasút-szerelvények",
+            "ga-IE": "Traenacha Cóstóra Iltoisigh"
         },
         "description": {
             "en-GB": "Cars with seats capable of pitching the riders head-over-heels",
@@ -491,7 +492,8 @@
             "ca-ES": "Cotxes amb seients que poden posar als passatgers cap per avall.",
             "fi-FI": "Vaunut, joiden istuimet voivat vapaasti kääntyä ylösalaisin",
             "gl-ES": "Coches con asentos capaces de voltear aos pasaxeiros de cabeza",
-            "hu-HU": "Olyan ülésekkel felszerelt kocsik, amelyek képesek fejtetőre állítani az utasokat"
+            "hu-HU": "Olyan ülésekkel felszerelt kocsik, amelyek képesek fejtetőre állítani az utasokat",
+            "ga-IE": "Gluaisteáin le suíocháin atá in ann na marcaigh a iompú tóin thar ceann"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -513,7 +515,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
-            "hu-HU": "4 utas kocsinként"
+            "hu-HU": "4 utas kocsinként",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     }
 }

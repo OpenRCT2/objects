@@ -563,7 +563,8 @@
             "fi-FI": "Kaivosjunat",
             "gl-ES": "Trens de mina",
             "ar-EG": "قطارات المنجم",
-            "hu-HU": "Bányavonatok"
+            "hu-HU": "Bányavonatok",
+            "ga-IE": "Traenacha Mianaigh"
         },
         "description": {
             "en-GB": "Mine train-themed roller coaster trains",
@@ -586,7 +587,8 @@
             "fi-FI": "Kaivosjunan näköisiksi teematut vuoristoratavaunut",
             "gl-ES": "Trens de montaña rusa con temática de tren de mina",
             "ar-EG": "قطارات أفعوانية مصممة على شكل قطار منجم",
-            "hu-HU": "Bányavonat témájú hullámvasút-vonatok"
+            "hu-HU": "Bányavonat témájú hullámvasút-vonatok",
+            "ga-IE": "Traenacha rollchóstóra ar théama traenach mianaigh"
         },
         "capacity": {
             "en-GB": "2 or 4 passengers per car",
@@ -609,7 +611,8 @@
             "fi-FI": "2 tai 4 matkustajaa per vaunu",
             "gl-ES": "2 ou 4 pasaxeiros por coche",
             "ar-EG": "2 أو 4 ركاب لكل عربة",
-            "hu-HU": "2 vagy 4 utas kocsinként"
+            "hu-HU": "2 vagy 4 utas kocsinként",
+            "ga-IE": "2 nó 4 phaisinéir sa ghluaisteán"
         }
     },
     "noCsgImages": [

@@ -294,7 +294,8 @@
             "fi-FI": "Nuijalaite",
             "zh-CN": "权之宝杖",
             "hu-HU": "Buzogány játék",
-            "gl-ES": "Paseo do Mazo"
+            "gl-ES": "Paseo do Mazo",
+            "ga-IE": "Marcaíocht Mháis"
         },
         "description": {
             "en-GB": "Riders sit on a themed chair which is attached to a motor driven spinning arm.",
@@ -316,7 +317,8 @@
             "fi-FI": "Kävijät istuvat teematussa istuimessa, joka pyörii moottoroidun tolpan ympärillä",
             "zh-CN": "乘客坐在主题椅子上，椅子上连接着电机驱动的旋转臂。",
             "hu-HU": "Az utasok egy tematikus széken ülnek, amely egy motorral hajtott forgó karhoz van rögzítve.",
-            "gl-ES": "Os pasaxeiros sentan nunha cadeira temática que está unida a un brazo xiratorio impulsado por motor."
+            "gl-ES": "Os pasaxeiros sentan nunha cadeira temática que está unida a un brazo xiratorio impulsado por motor.",
+            "ga-IE": "Suíonn marcaigh ar chathaoir théamaithe atá ceangailte de ghéag rothlach mhótarthiomáinte."
         },
         "capacity": {
             "en-GB": "1 guest per chair",
@@ -338,7 +340,8 @@
             "fi-FI": "1 matkustaja per istuin",
             "zh-CN": "1位乘客/座位",
             "hu-HU": "1 vendég székenként",
-            "gl-ES": "1 invitado por cadeira"
+            "gl-ES": "1 invitado por cadeira",
+            "ga-IE": "1 aoi sa chathaoir"
         }
     }
 }

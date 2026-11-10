@@ -1775,7 +1775,8 @@
             "ar-EG": "قطارات أفعوانية",
             "cs-CZ": "Vlaky horské dráhy",
             "eo-ZZ": "Trajnoj de onda fervojo",
-            "hu-HU": "Hullámvasút szerelvények"
+            "hu-HU": "Hullámvasút szerelvények",
+            "ga-IE": "Traenacha Rollchóstóra"
         },
         "description": {
             "en-GB": "Roller coaster train with a streamlined front car.",
@@ -1792,7 +1793,8 @@
             "ar-EG": "قطار أفعواني بعربة أمامية انسيابية.",
             "cs-CZ": "Vlaky horské dráhy s aerodynamicky tvarovaným prvním vozem",
             "eo-ZZ": "Trajno de onda fervojo kun flulinia antaŭa ĉaro.",
-            "hu-HU": "Áramvonalas első kocsival rendelkező hullámvasút szerelvény."
+            "hu-HU": "Áramvonalas első kocsival rendelkező hullámvasút szerelvény.",
+            "ga-IE": "Traein rollchóstóra le gluaisteán sruthlíneach chun tosaigh."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -1815,7 +1817,8 @@
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
             "ar-EG": "4 ركاب لكل عربة",
-            "hu-HU": "4 utas kocsinként"
+            "hu-HU": "4 utas kocsinként",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     }
 }

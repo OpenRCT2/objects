@@ -310,7 +310,8 @@
             "ar-EG": "عربات الكارتينج (مع خوذ)",
             "cs-CZ": "Motokáry (s přilbami)",
             "hu-HU": "Gokartok (sisakokkal)",
-            "eo-ZZ": "Vetkuraj aŭtetoj (kun kaskoj)"
+            "eo-ZZ": "Vetkuraj aŭtetoj (kun kaskoj)",
+            "ga-IE": "Cairtíní (le clogaid)"
         },
         "description": {
             "en-GB": "Self-driven petrol-engined go-karts that come with safety helmets",
@@ -328,7 +329,8 @@
             "ar-EG": "عربات كارتينج ذاتية القيادة تعمل بالبنزين وتأتي مع خوذات أمان",
             "cs-CZ": "Návštěvníci v závodních helmách řídí benzínové motokáry",
             "hu-HU": "Önvezető, benzinmotoros gokartok, amelyekhez biztonsági sisak is jár",
-            "eo-ZZ": "Vetkuraj aŭtetoj kun benzinmotoroj kaj protektaj kaskoj, kiujn pasaĝeroj stiras per si mem"
+            "eo-ZZ": "Vetkuraj aŭtetoj kun benzinmotoroj kaj protektaj kaskoj, kiujn pasaĝeroj stiras per si mem",
+            "ga-IE": "Cairtíní féintiomána le hinnill peitril a thagann le clogaid sábháilteachta"
         },
         "capacity": {
             "en-GB": "single-seater",
@@ -352,7 +354,8 @@
             "gl-ES": "monopraza",
             "ar-EG": "مقعد واحد",
             "hu-HU": "Egyszemélyes",
-            "eo-ZZ": "unu-seĝa"
+            "eo-ZZ": "unu-seĝa",
+            "ga-IE": "suíochán aonair"
         }
     }
 }

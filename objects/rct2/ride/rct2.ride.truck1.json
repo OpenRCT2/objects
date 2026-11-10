@@ -109,7 +109,8 @@
             "ca-ES": "Camionetes",
             "fi-FI": "Lava-autot",
             "gl-ES": "Camionetas",
-            "hu-HU": "Kisteherautók"
+            "hu-HU": "Kisteherautók",
+            "ga-IE": "Trucailí Pickup"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of pickup trucks",
@@ -131,7 +132,8 @@
             "ca-ES": "Vehicles tematitzats com a camionetes.",
             "fi-FI": "Lava-auton muotoiset moottoroidut ajoneuvot",
             "gl-ES": "Vehículos motorizados con forma de camioneta",
-            "hu-HU": "Motoros járművek kisteherautó formában"
+            "hu-HU": "Motoros járművek kisteherautó formában",
+            "ga-IE": "Feithiclí cumhachtaithe i gcruth trucailí pickup"
         },
         "capacity": {
             "en-GB": "1 passenger per truck",
@@ -153,7 +155,8 @@
             "ca-ES": "1 passatger per camioneta",
             "fi-FI": "1 matkustaja per auto",
             "gl-ES": "1 pasaxeiros por camioneta",
-            "hu-HU": "1 utas teherautónként"
+            "hu-HU": "1 utas teherautónként",
+            "ga-IE": "1 phaisinéir sa trucail"
         }
     }
 }

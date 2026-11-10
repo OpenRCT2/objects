@@ -88,7 +88,8 @@
             "ca-ES": "Atracció Goril·la",
             "fi-FI": "Gorillavaunut",
             "gl-ES": "Trens de Gorila",
-            "hu-HU": "Gorillavonatok"
+            "hu-HU": "Gorillavonatok",
+            "ga-IE": "Traenacha Goraille"
         },
         "description": {
             "en-GB": "Suspended roller coaster trains consisting of gorilla-shaped cars able to swing freely as the train goes around corners",
@@ -109,7 +110,8 @@
             "ca-ES": "Muntanya russa amb trens penjants amb cotxes en forma de goril·la que es balancegen quan es travessen corbes.",
             "fi-FI": "Gorillan muotoiset vapaasti käänteissä keinuvat riippuvat vuoristoratavaunut",
             "gl-ES": "Trens de montaña rusa suspendida compostos por vagóns con forma de gorila que poden balancearse libremente ao xirar nas curvas",
-            "hu-HU": "Függesztett hullámvasút-szerelvények, gorilla alakú kocsikkal, amelyek szabadon lenghetnek, miközben a szerelvény kanyarodik"
+            "hu-HU": "Függesztett hullámvasút-szerelvények, gorilla alakú kocsikkal, amelyek szabadon lenghetnek, miközben a szerelvény kanyarodik",
+            "ga-IE": "Traenacha crochta rollchóstóra déanta de ghluaisteáin i gcruth goraillí atá in ann luascadh go saor agus an traein ag dul timpeall cúinní"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -130,7 +132,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
-            "hu-HU": "4 utas kocsinként"
+            "hu-HU": "4 utas kocsinként",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     }
 }

@@ -92,7 +92,8 @@
             "ca-ES": "Ratolins bojos",
             "fi-FI": "Pyörivät hiirivaunut",
             "gl-ES": "Coches de rato que xiran",
-            "hu-HU": "Forgó egérkocsik"
+            "hu-HU": "Forgó egérkocsik",
+            "ga-IE": "Gluaisteáin Luiche Rothlacha"
         },
         "description": {
             "en-GB": "Mouse-shaped cars that keep gently spinning around to disorientate the riders",
@@ -114,7 +115,8 @@
             "ca-ES": "Cotxes en forma de ratolí que giren suaument per a desorientar els passatgers.",
             "fi-FI": "Hiiren muotoiset vaunut, jotka pyörivät leppeästi matkustajien hämmennykseksi",
             "gl-ES": "Coches con forma de rato que seguen xirando suavemente para desorientar aos pasaxeiros",
-            "hu-HU": "Egér formájú kocsik, amelyek gyengéden forognak, hogy összezavarják az utasokat"
+            "hu-HU": "Egér formájú kocsik, amelyek gyengéden forognak, hogy összezavarják az utasokat",
+            "ga-IE": "Gluaisteáin i gcruth luiche a choinníonn ag rothlú go réidh chun mearbhall a chur ar na marcaigh"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -136,7 +138,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
-            "hu-HU": "4 utas kocsinként"
+            "hu-HU": "4 utas kocsinként",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     }
 }

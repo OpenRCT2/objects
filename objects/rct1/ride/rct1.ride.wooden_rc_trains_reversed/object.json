@@ -1425,7 +1425,8 @@
             "ar-EG": "قطارات أفعوانية خشبية (معكوسة)",
             "cs-CZ": "Vlaky dřevěné horské dráhy (obrácené)",
             "eo-ZZ": "Trajnoj de ligna onda fervojo (inversigita)",
-            "hu-HU": "Fa hullámvasút szerelvények (fordított)"
+            "hu-HU": "Fa hullámvasút szerelvények (fordított)",
+            "ga-IE": "Traenacha Rollchóstóra Adhmaid (Droim ar Ais)"
         },
         "description": {
             "en-GB": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards.",
@@ -1442,7 +1443,8 @@
             "ar-EG": "قطارات أفعوانية خشبية، ولكنها تسير في الاتجاه المعاكس، بحيث يواجه الركاب الخلف.",
             "cs-CZ": "Vlaky dřevěné horské dráhy s polstrovanými sedadly a opěrkou v klíně, jezdící pozpátku",
             "eo-ZZ": "Trajnoj de ligna onda fervojo, sed veturantaj inverse, tiel ke la pasaĝeroj rigardas dorsantaŭen.",
-            "hu-HU": "Fa hullámvasút szerelvények, melyek hátramenetben közlekednek, így az utasok menetiránynak háttal ülnek."
+            "hu-HU": "Fa hullámvasút szerelvények, melyek hátramenetben közlekednek, így az utasok menetiránynak háttal ülnek.",
+            "ga-IE": "Traenacha rollchóstóra adhmaid, ach ag rith droim ar ais, sa chaoi go mbíonn aghaidh na bpaisinéirí chun deiridh."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -1465,7 +1467,8 @@
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
             "ar-EG": "4 ركاب لكل عربة",
-            "hu-HU": "4 utas kocsinként"
+            "hu-HU": "4 utas kocsinként",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     }
 }

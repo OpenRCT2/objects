@@ -525,7 +525,8 @@
             "fi-FI": "Leppäkerttuvaunut",
             "gl-ES": "Trens de xoaniña",
             "ar-EG": "قطارات الدعسوقة",
-            "hu-HU": "Katicavonatok"
+            "hu-HU": "Katicavonatok",
+            "ga-IE": "Traenacha Bóín Dé"
         },
         "description": {
             "en-GB": "Roller coaster trains with small ladybird-shaped cars",
@@ -548,7 +549,8 @@
             "fi-FI": "Pienet leppäkertun muotoiset vuoristoratavaunut",
             "gl-ES": "Trens de montaña rusa con pequenos coches en forma de xoaniña",
             "ar-EG": "قطارات أفعوانية بعربات صغيرة على شكل دعسوقة",
-            "hu-HU": "Hullámvasút-vonatok apró, katica formájú kocsikkal"
+            "hu-HU": "Hullámvasút-vonatok apró, katica formájú kocsikkal",
+            "ga-IE": "Traenacha rollchóstóra le gluaisteáin bheaga i gcruth bóín Dé"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -571,7 +573,8 @@
             "fi-FI": "2 matkustajaa per vaunu",
             "gl-ES": "2 pasaxeiros por coche",
             "ar-EG": "راكبان لكل عربة",
-            "hu-HU": "2 utas kocsinként"
+            "hu-HU": "2 utas kocsinként",
+            "ga-IE": "2 phaisinéir sa ghluaisteán"
         }
     }
 }

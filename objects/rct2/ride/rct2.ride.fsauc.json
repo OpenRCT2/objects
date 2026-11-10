@@ -78,7 +78,8 @@
             "ca-ES": "Plats voladors",
             "fi-FI": "Lentävät lautaset",
             "gl-ES": "Pratos voadores",
-            "hu-HU": "Repülő csészealjak"
+            "hu-HU": "Repülő csészealjak",
+            "ga-IE": "Sásair Eitilte"
         },
         "description": {
             "en-GB": "Guests ride in saucer-shaped hovercraft vehicles that they freely control",
@@ -100,7 +101,8 @@
             "ca-ES": "Els passatgers van en vehicles en forma de plat volador que poden controlar a voluntat.",
             "fi-FI": "Matkustajat kulkevat itse ajamissaan ilmatyynyaluksissa",
             "gl-ES": "Os visitantes viaxan en vehículos flotantes con forma de prato que poden controlar libremente",
-            "hu-HU": "A vendégek csészealj alakú légpárnás járművekben utaznak, amelyeket szabadon irányíthatnak"
+            "hu-HU": "A vendégek csészealj alakú légpárnás járművekben utaznak, amelyeket szabadon irányíthatnak",
+            "ga-IE": "Marcaíonn aíonna i bhfeithiclí foluaineacha i gcruth sásair a rialaíonn siad go saor"
         },
         "capacity": {
             "en-GB": "1 person per car",
@@ -121,7 +123,8 @@
             "eo-ZZ": "Po 1 ulo por ĉaro",
             "ca-ES": "1 persona per cotxe",
             "fi-FI": "1 matkustaja per ajoneuvo",
-            "hu-HU": "1 személy kocsinként"
+            "hu-HU": "1 személy kocsinként",
+            "ga-IE": "1 duine sa ghluaisteán"
         }
     }
 }

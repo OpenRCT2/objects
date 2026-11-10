@@ -295,7 +295,8 @@
             "fi-FI": "Vastapainokatapultti",
             "zh-CN": "投石机之旅",
             "gl-ES": "Atracción de Trebuchet",
-            "hu-HU": "Kőhajító játék"
+            "hu-HU": "Kőhajító játék",
+            "ga-IE": "Marcaíocht Chrainn Tabhaill"
         },
         "description": {
             "en-GB": "Passengers ride in a carriage suspended by two large arms, based on a Dark Age siege weapon",
@@ -317,7 +318,8 @@
             "fi-FI": "Kävijät matkustavat kahden suuren puomin päässä riippuvassa vaunussa, keskiaikaisen piirityskoneen inspiroimana",
             "zh-CN": "乘客乘坐由两个大臂悬挂的马车，基于黑暗时代的攻城武器",
             "gl-ES": "Os pasaxeiros montan nun carro colgado por dous grandes brazos, inspirado nunha arma de asedio medieval",
-            "hu-HU": "Az utasok egy középkori ostromfegyveren alapuló, két nagy karral függesztett kocsiban utaznak"
+            "hu-HU": "Az utasok egy középkori ostromfegyveren alapuló, két nagy karral függesztett kocsiban utaznak",
+            "ga-IE": "Marcaíonn paisinéirí i gcarráiste ar crochadh ó dhá ghéag mhóra, bunaithe ar arm léigir ón Ré Dhorcha"
         },
         "capacity": {
             "en-GB": "8 passengers",
@@ -339,7 +341,8 @@
             "fi-FI": "8 matkustajaa",
             "zh-CN": "8位顾客",
             "gl-ES": "8 pasaxeiros",
-            "hu-HU": "8 utas"
+            "hu-HU": "8 utas",
+            "ga-IE": "8 bpaisinéir"
         }
     }
 }

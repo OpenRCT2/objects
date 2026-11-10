@@ -3031,7 +3031,8 @@
             "ar-EG": "قطارات أفعوانية (معكوسة)",
             "cs-CZ": "Vlaky horské dráhy (obrácené)",
             "eo-ZZ": "Trajnoj de onda fervojo (inversigita)",
-            "hu-HU": "Hullámvasút szerelvények (fordított)"
+            "hu-HU": "Hullámvasút szerelvények (fordított)",
+            "ga-IE": "Traenacha Rollchóstóra (Droim ar Ais)"
         },
         "description": {
             "en-GB": "Roller coaster train running in reverse, so that the passengers face backwards.",
@@ -3048,7 +3049,8 @@
             "ar-EG": "قطار أفعواني يسير في الاتجاه المعاكس، بحيث يواجه الركاب الخلف.",
             "cs-CZ": "Vlaky horské dráhy jezdící pozpátku",
             "eo-ZZ": "Trajno de onda fervojo veturanta inverse, tiel ke la pasaĝeroj rigardas dorsantaŭen.",
-            "hu-HU": "Hátramenetben közlekedő hullámvasút szerelvény, így az utasok menetiránynak háttal ülnek."
+            "hu-HU": "Hátramenetben közlekedő hullámvasút szerelvény, így az utasok menetiránynak háttal ülnek.",
+            "ga-IE": "Traein rollchóstóra ag rith droim ar ais, sa chaoi go mbíonn aghaidh na bpaisinéirí chun deiridh."
         },
         "capacity": {
             "en-GB": "4 riders per car",
@@ -3071,7 +3073,8 @@
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
             "ar-EG": "4 ركاب لكل عربة",
-            "hu-HU": "4 utas kocsinként"
+            "hu-HU": "4 utas kocsinként",
+            "ga-IE": "4 mharcach sa ghluaisteán"
         }
     }
 }

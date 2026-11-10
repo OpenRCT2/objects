@@ -83,7 +83,8 @@
             "fi-FI": "Musta surma -vaunut",
             "zh-CN": "黑色死亡列车",
             "gl-ES": "Trens da Peste Negra",
-            "hu-HU": "Fekete halál vonatok"
+            "hu-HU": "Fekete halál vonatok",
+            "ga-IE": "Traenacha na Plá Duibhe"
         },
         "description": {
             "en-GB": "Rat-shaped trains consisting of 2-seater cars where the riders are behind each other",
@@ -105,7 +106,8 @@
             "fi-FI": "Rotan muotoiset vaunut, jossa kaksi matkustajaa istuu peräkkäin",
             "zh-CN": "鼠形列车由2人座车厢组成，乘客彼此并排",
             "gl-ES": "Trens en forma de rata que consisten en coches de 2 prazas onde os pilotos están un detrás do outro",
-            "hu-HU": "Patkány formájú vonatok, amelyek 2 üléses kocsikból állnak, amelyeken az utasok egymás mögött helyezkednek el"
+            "hu-HU": "Patkány formájú vonatok, amelyek 2 üléses kocsikból állnak, amelyeken az utasok egymás mögött helyezkednek el",
+            "ga-IE": "Traenacha i gcruth francaigh, déanta de ghluaisteáin dhá shuíochán ina suíonn na marcaigh duine i ndiaidh a chéile"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -127,7 +129,8 @@
             "fi-FI": "2 matkustajaa per vaunu",
             "zh-CN": "2位乘客/车",
             "gl-ES": "2 pasaxeiros por coche",
-            "hu-HU": "2 utas kocsinként"
+            "hu-HU": "2 utas kocsinként",
+            "ga-IE": "2 phaisinéir sa ghluaisteán"
         }
     }
 }

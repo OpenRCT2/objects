@@ -472,7 +472,8 @@
             "fi-FI": "Nelipaikkaiset käänteisvuoristoradan vaunut",
             "gl-ES": "Trens de Montaña Rusa Invertida de 4 Pasaxeiros por Fila",
             "ar-EG": "قطارات أفعوانية معلقة 4 في الصف",
-            "hu-HU": "Négyüléses függővasút-vonatok"
+            "hu-HU": "Négyüléses függővasút-vonatok",
+            "ga-IE": "Traenacha Rollchóstóra Inbhéartaithe 4-Trasna"
         },
         "description": {
             "en-GB": "Suspended trains in which riders sit in rows",
@@ -495,7 +496,8 @@
             "fi-FI": "Riippuvat vaunut joissa matkustajat istuvat riveittäin",
             "gl-ES": "Trens suspendidos nos que os pasaxeiros sentan en filas",
             "ar-EG": "قطارات معلقة يجلس فيها الركاب في صفوف",
-            "hu-HU": "Felüggesztett vonatok, amelyekben az utasok sorokban ülnek"
+            "hu-HU": "Felüggesztett vonatok, amelyekben az utasok sorokban ülnek",
+            "ga-IE": "Traenacha crochta ina suíonn marcaigh i sraitheanna"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -518,7 +520,8 @@
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
             "ar-EG": "4 ركاب لكل عربة",
-            "hu-HU": "4 utas kocsinként"
+            "hu-HU": "4 utas kocsinként",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     },
     "noCsgImages": [

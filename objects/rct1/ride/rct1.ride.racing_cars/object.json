@@ -196,7 +196,8 @@
             "fi-FI": "Kilpa-autot",
             "gl-ES": "Coches de carreiras",
             "ar-EG": "سيارات السباق",
-            "hu-HU": "Versenyautók"
+            "hu-HU": "Versenyautók",
+            "ga-IE": "Gluaisteáin Rásaíochta"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of racing cars",
@@ -219,7 +220,8 @@
             "fi-FI": "Kilpa-auton muotoiset moottoroidut ajoneuvot",
             "gl-ES": "Vehículos motorizados con forma de coches de carreira",
             "ar-EG": "مركبات تعمل بالطاقة على شكل سيارات سباق",
-            "hu-HU": "Motoros járművek versenyautó formában"
+            "hu-HU": "Motoros járművek versenyautó formában",
+            "ga-IE": "Feithiclí cumhachtaithe i gcruth gluaisteán rásaíochta"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -242,7 +244,8 @@
             "fi-FI": "1 matkustaja per vaunu",
             "gl-ES": "1 pasaxeiro por coche",
             "ar-EG": "راكب واحد لكل سيارة",
-            "hu-HU": "1 utas autónként"
+            "hu-HU": "1 utas autónként",
+            "ga-IE": "1 phaisinéir sa ghluaisteán"
         }
     }
 }

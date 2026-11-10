@@ -330,7 +330,8 @@
             "ca-ES": "Cinema 3D",
             "fi-FI": "3D-elokuvateatteri",
             "gl-ES": "Cine 3D",
-            "hu-HU": "3D mozi"
+            "hu-HU": "3D mozi",
+            "ga-IE": "Pictiúrlann 3D"
         },
         "description": {
             "en-GB": "Cinema showing 3D films inside a geodesic sphere shaped building",
@@ -352,7 +353,8 @@
             "ca-ES": "Cinema on es projecten pel·lícules 3D dins d’un edifici en forma d’esfera geodèsica.",
             "fi-FI": "Elokuvateatteri, joka näyttää 3D-elokuvia geodeettisen pallon muotoisessa rakennuksessa",
             "gl-ES": "Cine que mostra películas en 3D dentro dun edificio con forma de esfera xeodésica",
-            "hu-HU": "3D-s filmeket vetítő mozi, geodéziai gömb alakú épületben"
+            "hu-HU": "3D-s filmeket vetítő mozi, geodéziai gömb alakú épületben",
+            "ga-IE": "Pictiúrlann a thaispeánann scannáin 3D taobh istigh d’fhoirgneamh i gcruth sféir gheodasaigh"
         },
         "capacity": {
             "en-GB": "20 guests",
@@ -374,7 +376,8 @@
             "ca-ES": "20 espectadors",
             "fi-FI": "20 kävijää",
             "gl-ES": "20 invitados",
-            "hu-HU": "20 vendég"
+            "hu-HU": "20 vendég",
+            "ga-IE": "20 aoi"
         }
     }
 }

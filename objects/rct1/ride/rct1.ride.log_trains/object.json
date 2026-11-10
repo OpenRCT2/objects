@@ -509,7 +509,8 @@
             "fi-FI": "Tukkivaunut",
             "gl-ES": "Trens de troncos",
             "ar-EG": "قطارات جذوع الأشجار",
-            "hu-HU": "Fatörzsvonatok"
+            "hu-HU": "Fatörzsvonatok",
+            "ga-IE": "Traenacha Lomán"
         },
         "description": {
             "en-GB": "Roller coaster trains with small log-shaped cars",
@@ -532,7 +533,8 @@
             "fi-FI": "Pienet tukin muotoiset vuoristoratavaunut",
             "gl-ES": "Trens de montaña rusa con pequenos coches en forma de tronco",
             "ar-EG": "قطارات أفعوانية بعربات صغيرة على شكل جذوع الأشجار",
-            "hu-HU": "Hullámvasút-vonatok apró fatörzs alakú kocsikkal"
+            "hu-HU": "Hullámvasút-vonatok apró fatörzs alakú kocsikkal",
+            "ga-IE": "Traenacha rollchóstóra le gluaisteáin bheaga i gcruth lomán"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -555,7 +557,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
             "gl-ES": "2 pasaxeiros por coche",
-            "hu-HU": "2 utas kocsinként"
+            "hu-HU": "2 utas kocsinként",
+            "ga-IE": "2 phaisinéir sa ghluaisteán"
         }
     }
 }

@@ -483,7 +483,8 @@
             "fi-FI": "Koskiseikkailualukset",
             "gl-ES": "Botes de rápidos",
             "ar-EG": "قوارب النهر السريع",
-            "hu-HU": "Vadvízi csónakok"
+            "hu-HU": "Vadvízi csónakok",
+            "ga-IE": "Báid Fánsrutha Abhann"
         },
         "description": {
             "en-GB": "Circular boats that turn and splash around as they meander along the river rapids",
@@ -506,7 +507,8 @@
             "fi-FI": "Pyöreät alukset, jotka kääntyilevät ja roiskuvat koskea laskiessa",
             "gl-ES": "Botes circulares que xiran e salpican mentres se deixan levar polos rápidos do río",
             "ar-EG": "قوارب دائرية تدور وترش الماء أثناء تجولها في منحدرات النهر",
-            "hu-HU": "Kerek csónakok, amelyek forognak és vizet fröcskölnek, ahogy a vadvízi sodrásban haladnak"
+            "hu-HU": "Kerek csónakok, amelyek forognak és vizet fröcskölnek, ahogy a vadvízi sodrásban haladnak",
+            "ga-IE": "Báid chiorclacha a chasann agus a steallann thart agus iad ag lúbarnaíl feadh an fhánsrutha abhann"
         },
         "capacity": {
             "en-GB": "8 passengers per boat",
@@ -529,7 +531,8 @@
             "fi-FI": "8 matkustajaa per alus",
             "gl-ES": "8 pasaxeiros por bote",
             "ar-EG": "8 ركاب لكل قارب",
-            "hu-HU": "8 utas csónakonként"
+            "hu-HU": "8 utas csónakonként",
+            "ga-IE": "8 bpaisinéir sa bhád"
         }
     }
 }

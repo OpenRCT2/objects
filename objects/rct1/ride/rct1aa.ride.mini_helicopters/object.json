@@ -151,7 +151,8 @@
             "ca-ES": "Minihelicòpters",
             "fi-FI": "Minihelikopterit",
             "gl-ES": "Mini Helicópteros",
-            "ar-EG": "مروحيات صغيرة"
+            "ar-EG": "مروحيات صغيرة",
+            "ga-IE": "Mionhéileacaptair"
         },
         "description": {
             "en-GB": "Powered helicopter-shaped cars, controlled by the pedalling of the riders",
@@ -174,7 +175,8 @@
             "ca-ES": "Cotxes en forma d’helicòpters controlats pel pedaleig dels passatgers.",
             "fi-FI": "Moottoroidut helikopterin muotoiset vaunut kulkevat teräsradalla, liikkuen matkustajien polkiessa",
             "gl-ES": "Coches propulsados con forma de helicóptero, controlados polo pedaleo dos pilotos",
-            "ar-EG": "عربات تعمل بالطاقة على شكل مروحية، يتحكم فيها الركاب بالدواسات"
+            "ar-EG": "عربات تعمل بالطاقة على شكل مروحية، يتحكم فيها الركاب بالدواسات",
+            "ga-IE": "Gluaisteáin chumhachtaithe i gcruth héileacaptair, á rialú ag troitheáil na marcach"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -196,7 +198,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
             "gl-ES": "2 pasaxeiros por coche",
-            "ar-EG": "راكبان لكل عربة"
+            "ar-EG": "راكبان لكل عربة",
+            "ga-IE": "2 phaisinéir sa ghluaisteán"
         }
     },
     "noCsgImages": [

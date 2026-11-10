@@ -89,7 +89,8 @@
             "ca-ES": "Cotxes telecadira",
             "fi-FI": "Tuolihissivaunut",
             "gl-ES": "Coches de telecadeira",
-            "hu-HU": "Felvonókocsik"
+            "hu-HU": "Felvonókocsik",
+            "ga-IE": "Gluaisteáin Cathaoireach Cábla"
         },
         "description": {
             "en-GB": "Open cars for chairlift",
@@ -111,7 +112,8 @@
             "ca-ES": "Cotxes oberts per al telecadira.",
             "fi-FI": "Avoilmavaunut tuolihissiin",
             "gl-ES": "Coches abertos para telecadeira",
-            "hu-HU": "Nyitott kocsik a felvonóhoz"
+            "hu-HU": "Nyitott kocsik a felvonóhoz",
+            "ga-IE": "Gluaisteáin oscailte don chathaoir chábla"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -133,7 +135,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
             "gl-ES": "2 pasaxeiros por coche",
-            "hu-HU": "2 utas kocsinként"
+            "hu-HU": "2 utas kocsinként",
+            "ga-IE": "2 phaisinéir sa ghluaisteán"
         }
     }
 }

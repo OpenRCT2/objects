@@ -94,7 +94,8 @@
             "ca-ES": "Cotxes balancí penjants",
             "fi-FI": "Riippuvat keinuvaunut",
             "gl-ES": "Coches colgantes pendurados",
-            "hu-HU": "Függesztett lengő kocsik"
+            "hu-HU": "Függesztett lengő kocsik",
+            "ga-IE": "Gluaisteáin Chrochta Luascacha"
         },
         "description": {
             "en-GB": "Suspended roller coaster trains consisting of cars able to swing freely as the train goes around corners",
@@ -116,7 +117,8 @@
             "ca-ES": "Muntanya russa amb trens penjants amb cotxes que es balancegen quan passen per les corbes.",
             "fi-FI": "Vapaasti käänteissä keinuvat riippuvat vuoristoratavaunut",
             "gl-ES": "Trens de montaña rusa pendurados que consisten en coches capaces de balancearse libremente mentres o tren dá voltas ás esquinas",
-            "hu-HU": "Függesztett hullámvasút-szerelvények, amelyek kocsijai amelyek szabadon lenghetnek, miközben a szerelvény kanyarodik"
+            "hu-HU": "Függesztett hullámvasút-szerelvények, amelyek kocsijai amelyek szabadon lenghetnek, miközben a szerelvény kanyarodik",
+            "ga-IE": "Traenacha crochta rollchóstóra déanta de ghluaisteáin atá in ann luascadh go saor agus an traein ag dul timpeall cúinní"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -138,7 +140,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
-            "hu-HU": "4 utas kocsinként"
+            "hu-HU": "4 utas kocsinként",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     }
 }

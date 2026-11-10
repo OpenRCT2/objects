@@ -89,7 +89,8 @@
             "fi-FI": "Rakettireppuvaunu",
             "zh-CN": "云霄喷气背包",
             "hu-HU": "Jetpack gyorsítórakéta",
-            "gl-ES": "Impulsor de Mochila a Reacción"
+            "gl-ES": "Impulsor de Mochila a Reacción",
+            "ga-IE": "Treiseoir Scairdphaca"
         },
         "description": {
             "en-GB": "Large jetpack-shaped coaster car for the Reverse Freefall Coaster",
@@ -111,7 +112,8 @@
             "fi-FI": "Suuri rakettirepun muotoinen käänteisen vapaapudotusradan vaunu",
             "zh-CN": "用于反向自由落体过山车的大型喷气背包形过山车",
             "hu-HU": "Nagy jetpack alakú hullámvasútkocsi a fordított szabadeséses hullámvasúthoz",
-            "gl-ES": "Vagón grande en forma de mochila a reacción para a Montaña Rusa de Caída Libre Inversa"
+            "gl-ES": "Vagón grande en forma de mochila a reacción para a Montaña Rusa de Caída Libre Inversa",
+            "ga-IE": "Gluaisteán mór cóstóra i gcruth scairdphaca don Chóstóir Cúlsaorthitime"
         },
         "capacity": {
             "en-GB": "8 passengers per car",
@@ -133,7 +135,8 @@
             "fi-FI": "8 matkustajaa per vaunu",
             "zh-CN": "8位乘客/车",
             "hu-HU": "8 utas kocsinként",
-            "gl-ES": "8 pasaxeiros por coche"
+            "gl-ES": "8 pasaxeiros por coche",
+            "ga-IE": "8 bpaisinéir sa ghluaisteán"
         }
     }
 }

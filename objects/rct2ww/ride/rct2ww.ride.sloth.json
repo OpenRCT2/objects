@@ -86,7 +86,8 @@
             "ca-ES": "Trens peresosos",
             "fi-FI": "Laiskiaisvaunut",
             "gl-ES": "Trens de Preguiza",
-            "hu-HU": "Lajhárvonatok"
+            "hu-HU": "Lajhárvonatok",
+            "ga-IE": "Traenacha Spadán"
         },
         "description": {
             "en-GB": "Suspended roller coaster trains consisting of sloth-shaped cars able to swing freely as the train goes around corners",
@@ -107,7 +108,8 @@
             "ca-ES": "Muntanya russa amb trens penjants amb cotxes en forma de peresosos que es balancegen quan passen per les corbes.",
             "fi-FI": "Laiskiaisen muotoiset vapaasti käänteissä keinuvat riippuvat vuoristoratavaunut",
             "gl-ES": "Trens de montaña rusa suspendidos que consisten en coches con forma de preguiceiro capaces de balancearse libremente mentres o tren dá voltas ás esquinas",
-            "hu-HU": "Függesztett hullámvasút-szerelvények, lajhár alakú kocsikkal, amelyek szabadon lenghetnek, miközben a szerelvény kanyarodik"
+            "hu-HU": "Függesztett hullámvasút-szerelvények, lajhár alakú kocsikkal, amelyek szabadon lenghetnek, miközben a szerelvény kanyarodik",
+            "ga-IE": "Traenacha crochta rollchóstóra déanta de ghluaisteáin i gcruth spadán atá in ann luascadh go saor agus an traein ag dul timpeall cúinní"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -128,7 +130,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
-            "hu-HU": "4 utas kocsinként"
+            "hu-HU": "4 utas kocsinként",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     }
 }

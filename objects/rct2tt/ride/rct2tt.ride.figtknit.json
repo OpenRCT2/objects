@@ -89,7 +89,8 @@
             "fi-FI": "Taistelevat ritaritörmäilyautot",
             "zh-CN": "格斗骑士闪避",
             "gl-ES": "Autos de Choque Cabaleiros en Loita",
-            "hu-HU": "Harcoló lovag dodzsemek"
+            "hu-HU": "Harcoló lovag dodzsemek",
+            "ga-IE": "Tuairtcharranna Ridirí Troda"
         },
         "description": {
             "en-GB": "Riders joust on horse-themed dodgems",
@@ -112,7 +113,8 @@
             "fi-FI": "Matkustajat turnaavat hevosteemaisissa törmäilyautoissa",
             "zh-CN": "乘客在以马为主题的闪避上进行角逐",
             "gl-ES": "Os cabaleiros xogan á xente nos autos de choque con temática de cabalos",
-            "hu-HU": "Az utasok ló témájú dodzsemekben vívnak lovagi tornát"
+            "hu-HU": "Az utasok ló témájú dodzsemekben vívnak lovagi tornát",
+            "ga-IE": "Déanann marcaigh giústáil ar thuairtcharranna ar théama capaill"
         },
         "capacity": {
             "en-GB": "1 person per car",
@@ -134,7 +136,8 @@
             "fi-FI": "1 matkustaja per vaunu",
             "zh-CN": "1位乘客/车",
             "gl-ES": "1 persoa por coche",
-            "hu-HU": "1 személy kocsinként"
+            "hu-HU": "1 személy kocsinként",
+            "ga-IE": "1 duine sa ghluaisteán"
         }
     }
 }

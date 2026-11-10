@@ -830,7 +830,8 @@
             "nb-NO": "Panda-tog",
             "ru-RU": "Поезда-панды",
             "gl-ES": "Trens Panda",
-            "cs-CZ": "Pandí vlaky"
+            "cs-CZ": "Pandí vlaky",
+            "ga-IE": "Traenacha Panda"
         },
         "description": {
             "en-GB": "Roller coaster trains with cuddly panda cars",
@@ -854,7 +855,8 @@
             "nb-NO": "Berg-og-dal-bane-tog med koslige panda-vogner",
             "ru-RU": "Поезда для аттракционов с мягкими машинами в форме панд",
             "gl-ES": "Trens de montaña rusa con vagóns adorábels de panda",
-            "cs-CZ": "Vlaky horské dráhy s vozy ve tvaru mazlivých pand"
+            "cs-CZ": "Vlaky horské dráhy s vozy ve tvaru mazlivých pand",
+            "ga-IE": "Traenacha rollchóstóra le gluaisteáin panda bhoga"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -877,7 +879,8 @@
             "hu-HU": "1 utas kocsinként",
             "nb-NO": "1 passasjer per vogn",
             "ru-RU": "1 пассажир на машину",
-            "cs-CZ": "1 místo ve voze"
+            "cs-CZ": "1 místo ve voze",
+            "ga-IE": "1 phaisinéir sa ghluaisteán"
         }
     }
 }

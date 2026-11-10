@@ -628,7 +628,8 @@
             "ca-ES": "Hiper-Twister (amples)",
             "fi-FI": "Hyper-Twister-vaunut (leveä)",
             "gl-ES": "Trens Hiper-Tornado (vagóns anchos)",
-            "ar-EG": "قطارات هايبر تويستر (عربات عريضة)"
+            "ar-EG": "قطارات هايبر تويستر (عربات عريضة)",
+            "ga-IE": "Traenacha Hipearchastóra (gluaisteáin leathana)"
         },
         "description": {
             "en-GB": "Wide 4-across cars with raised seating and simple lap restraints",
@@ -650,7 +651,8 @@
             "ca-ES": "Vagons amples amb 4 seients alts per fila i subjecció simple.",
             "fi-FI": "Leveät nelipaikkaiset vaunut, joissa on yksinkertaiset turvakaiteet",
             "gl-ES": "Vagóns anchos de 4 asentos en fila con asentos elevados e suxeicións simples de barra ao colo.",
-            "ar-EG": "عربات عريضة تتسع لأربعة أشخاص جنبًا إلى جنب بمقاعد مرتفعة وأحزمة حضن بسيطة"
+            "ar-EG": "عربات عريضة تتسع لأربعة أشخاص جنبًا إلى جنب بمقاعد مرتفعة وأحزمة حضن بسيطة",
+            "ga-IE": "Gluaisteáin leathana 4-trasna le suíocháin ardaithe agus srianta simplí glúine"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -672,7 +674,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
-            "ar-EG": "4 ركاب لكل عربة"
+            "ar-EG": "4 ركاب لكل عربة",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     },
     "noCsgImages": [

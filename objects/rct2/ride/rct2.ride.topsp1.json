@@ -296,7 +296,8 @@
             "pt-BR": "Top Spin",
             "ru-RU": "Топ Спин",
             "eo-ZZ": "Turniĝanta gondolo",
-            "fi-FI": "Kieputin"
+            "fi-FI": "Kieputin",
+            "ga-IE": "Barr-rothlú"
         },
         "description": {
             "en-GB": "Passengers ride in a gondola suspended by large rotating arms, rotating forwards and backwards head-over-heels",
@@ -317,7 +318,8 @@
             "ru-RU": "Пассажиры едут в гондоле, подвешенной на большом рычаге, раскачивающемся вперед-назад и переворачивающимся вверх головой.",
             "eo-ZZ": "Pasaĝeroj rajdas en gondolo, pendita per grandaj turniĝantaj brakoj, kaj turniĝas antaŭen kaj malantaŭen renversite",
             "fi-FI": "Matkustajat istuvat suurien pyörivien puomien päähän kiinnitetyssä gondolassa, pyörien edestakaisin ja ylösalaisin",
-            "gl-ES": "Os pasaxeiros viaxan nunha góndola pendurada por grandes brazos xiratorios, xirando cara adiante e cara atrás, facendo voltas completas"
+            "gl-ES": "Os pasaxeiros viaxan nunha góndola pendurada por grandes brazos xiratorios, xirando cara adiante e cara atrás, facendo voltas completas",
+            "ga-IE": "Marcaíonn paisinéirí i ngondala ar crochadh ó ghéaga móra rothlacha, ag rothlú chun tosaigh agus chun deiridh tóin thar ceann"
         },
         "capacity": {
             "en-GB": "8 passengers",
@@ -339,7 +341,8 @@
             "ru-RU": "8 пассажиров",
             "eo-ZZ": "8 pasaĝeroj",
             "fi-FI": "8 matkustajaa",
-            "gl-ES": "8 pasaxeiros"
+            "gl-ES": "8 pasaxeiros",
+            "ga-IE": "8 bpaisinéir"
         }
     }
 }

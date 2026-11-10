@@ -153,7 +153,8 @@
             "ca-ES": "Atracció de l’Anaconda",
             "fi-FI": "Anakondavaunut",
             "gl-ES": "Trens Anaconda",
-            "hu-HU": "Anakonda vonatok"
+            "hu-HU": "Anakonda vonatok",
+            "ga-IE": "Traenacha Anacónda"
         },
         "description": {
             "en-GB": "Spacious trains with simple lap restraints",
@@ -174,7 +175,8 @@
             "ca-ES": "Trens espaiosos amb barres de subjecció simples.",
             "fi-FI": "Tilavat vaunut, joissa on yksinkertaiset turvakaiteet",
             "gl-ES": "Trens amplos con suxeicións simples de cintura",
-            "hu-HU": "Tágas vonatok egyszerű biztonsági rudakkal"
+            "hu-HU": "Tágas vonatok egyszerű biztonsági rudakkal",
+            "ga-IE": "Traenacha fairsinge le srianta simplí glúine"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -195,7 +197,8 @@
             "ca-ES": "6 passatgers per cotxe",
             "fi-FI": "6 matkustajaa per vaunu",
             "gl-ES": "6 pasaxeiros por coche",
-            "hu-HU": "6 utas kocsinként"
+            "hu-HU": "6 utas kocsinként",
+            "ga-IE": "6 phaisinéir sa ghluaisteán"
         }
     }
 }

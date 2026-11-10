@@ -104,7 +104,8 @@
             "ca-ES": "Cotxes coet",
             "fi-FI": "Rakettivaunut",
             "gl-ES": "Automóbiles de foguete",
-            "hu-HU": "Rakéta kocsik"
+            "hu-HU": "Rakéta kocsik",
+            "ga-IE": "Gluaisteáin Roicéid"
         },
         "description": {
             "en-GB": "Roller coaster cars themed to look like rockets",
@@ -127,7 +128,8 @@
             "ca-ES": "Muntanyes russes de cotxes tematitzats com a coets espacials.",
             "fi-FI": "Raketin näköisiksi teematut vuoristoratavaunut",
             "gl-ES": "Vagóns de montaña rusa tematizados para parecer foguetes",
-            "hu-HU": "Hullámvasút kocsik, rakéta témával"
+            "hu-HU": "Hullámvasút kocsik, rakéta témával",
+            "ga-IE": "Gluaisteáin rollchóstóra ar théama roicéad"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -150,7 +152,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
-            "hu-HU": "4 utas kocsinként"
+            "hu-HU": "4 utas kocsinként",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     }
 }

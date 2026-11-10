@@ -288,7 +288,8 @@
             "fi-FI": "Aikakone",
             "zh-CN": "时光之旅",
             "gl-ES": "Máquina do Tempo",
-            "hu-HU": "Időgép"
+            "hu-HU": "Időgép",
+            "ga-IE": "Meaisín Ama"
         },
         "description": {
             "en-GB": "Guests sit in a specially designed sphere, and experience the illusion of time travel",
@@ -310,7 +311,8 @@
             "fi-FI": "Kävijät istuvat erikoisrakenteisen pallon sisällä, ja kokevat aikamatkustuksen illuusion",
             "zh-CN": "客人坐在特别设计的球体中，体验时间旅行的幻觉",
             "gl-ES": "Os pasaxeiros sentan nunha esfera deseñada especialmente e experimentan a ilusión da viaxe no tempo",
-            "hu-HU": "A vendégek különleges kialakítású gömbben ülnek, és az időutazás illúzióját élik át"
+            "hu-HU": "A vendégek különleges kialakítású gömbben ülnek, és az időutazás illúzióját élik át",
+            "ga-IE": "Suíonn aíonna i sféar saindeartha, agus mothaíonn siad seachmall an taistil ama"
         },
         "capacity": {
             "en-GB": "1 guest per time machine",
@@ -332,7 +334,8 @@
             "fi-FI": "1 kävijä per aikakone",
             "zh-CN": "1位乘客/台",
             "gl-ES": "1 invitado por máquina do tempo",
-            "hu-HU": "1 vendég időgépenként"
+            "hu-HU": "1 vendég időgépenként",
+            "ga-IE": "1 aoi sa mheaisín ama"
         }
     }
 }

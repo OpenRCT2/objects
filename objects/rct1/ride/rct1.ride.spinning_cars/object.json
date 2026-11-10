@@ -692,7 +692,8 @@
             "gl-ES": "Coches xiratorios",
             "pl-PL": "Wirujące wagoniki",
             "ca-ES": "Tasses giratòries",
-            "es-ES": "Vagonetas giratorias"
+            "es-ES": "Vagonetas giratorias",
+            "ga-IE": "Gluaisteáin Rothlacha"
         },
         "description": {
             "en-GB": "Circular roller coaster cars which are free to spin around their central axis.",
@@ -707,7 +708,8 @@
             "gl-ES": "Coches circulares de montaña rusa que poden xirar libremente arredor do seu eixo central.",
             "pl-PL": "Okrągłe wagoniki kolejki górskiej, które mogą swobodnie obracać się wokół własnej osi.",
             "ca-ES": "Cotxes rodons de muntanya russa que poden girar de manera lliure al voltant del seu eix central.",
-            "es-ES": "Vagonetas circulares de montaña rusa que giran libremente sobre su eje central."
+            "es-ES": "Vagonetas circulares de montaña rusa que giran libremente sobre su eje central.",
+            "ga-IE": "Gluaisteáin chiorclacha rollchóstóra atá saor chun rothlú timpeall a n-aise láir."
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -729,7 +731,8 @@
             "fi-FI": "4 matkustajaa per vaunu",
             "zh-CN": "4位乘客/车",
             "hu-HU": "4 utas kocsinként",
-            "gl-ES": "4 pasaxeiros por coche"
+            "gl-ES": "4 pasaxeiros por coche",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     }
 }

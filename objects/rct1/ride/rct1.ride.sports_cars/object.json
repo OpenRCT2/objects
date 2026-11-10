@@ -191,7 +191,8 @@
             "fi-FI": "Urheiluautot",
             "gl-ES": "Coches deportivos",
             "ar-EG": "سيارات رياضية",
-            "hu-HU": "Sportautók"
+            "hu-HU": "Sportautók",
+            "ga-IE": "Gluaisteáin Spóirt"
         },
         "description": {
             "en-GB": "Powered vehicles in the shape of sports cars",
@@ -214,7 +215,8 @@
             "fi-FI": "Urheiluauton muotoiset moottoroidut ajoneuvot",
             "gl-ES": "Vehículos motorizados en forma de coches deportivos",
             "ar-EG": "مركبات تعمل بالطاقة على شكل سيارات رياضية",
-            "hu-HU": "Motoros járművek sportautó formában"
+            "hu-HU": "Motoros járművek sportautó formában",
+            "ga-IE": "Feithiclí cumhachtaithe i gcruth gluaisteán spóirt"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -237,7 +239,8 @@
             "fi-FI": "2 matkustajaa per auto",
             "gl-ES": "2 pasaxeiros por coche",
             "ar-EG": "راكبان لكل سيارة",
-            "hu-HU": "2 utas kocsinként"
+            "hu-HU": "2 utas kocsinként",
+            "ga-IE": "2 phaisinéir sa ghluaisteán"
         }
     }
 }

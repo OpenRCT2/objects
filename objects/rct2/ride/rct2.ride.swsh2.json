@@ -96,7 +96,8 @@
             "eo-ZZ": "Svingiĝanta inversigilo-ŝipo",
             "ca-ES": "Vaixell amb balanceig i inversió",
             "fi-FI": "Kieppuva merirosvolaiva",
-            "gl-ES": "Barco oscilante invertido"
+            "gl-ES": "Barco oscilante invertido",
+            "ga-IE": "Long Luascach Inbhéartaithe"
         },
         "description": {
             "en-GB": "Ship is attached to an arm with a counterweight at the opposite end, and swings through a complete 360 degrees",
@@ -117,7 +118,8 @@
             "eo-ZZ": "La ŝipo estas fiksita al brako, kiu havas kontraŭpezon al la kontraŭa flanko, kaj svingiĝas tra plenaj 360 gradoj",
             "ca-ES": "El vaixell està enganxat a un braç amb contrapès a l’altre extrem. Es balanceja i fa una volta completa de 360 graus.",
             "fi-FI": "Laiva on kiinnitetty puomiin, jonka toisessa päässä on vastapaino, ja joka pyörii täydet 360 astetta",
-            "gl-ES": "O barco está fixado a un brazo cun contrapeso no extremo oposto e oscila a través de 360 graos completos"
+            "gl-ES": "O barco está fixado a un brazo cun contrapeso no extremo oposto e oscila a través de 360 graos completos",
+            "ga-IE": "Tá an long ceangailte de ghéag le frithmheáchan ag an gceann eile, agus luascann sí trí 360 céim iomlán"
         },
         "capacity": {
             "en-GB": "12 passengers",
@@ -137,7 +139,8 @@
             "ru-RU": "12 пассажиров",
             "eo-ZZ": "12 pasaĝeroj",
             "ca-ES": "12 passatgers",
-            "fi-FI": "12 matkustajaa"
+            "fi-FI": "12 matkustajaa",
+            "ga-IE": "12 phaisinéir"
         }
     }
 }

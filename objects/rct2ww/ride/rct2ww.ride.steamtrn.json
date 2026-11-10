@@ -136,7 +136,8 @@
             "ca-ES": "Trens a vapor del maharajà",
             "fi-FI": "Maharaja-höyryjunat",
             "gl-ES": "Trens de vapor Maharaja",
-            "hu-HU": "Maharadzsa-gőzvonatok"
+            "hu-HU": "Maharadzsa-gőzvonatok",
+            "ga-IE": "Traenacha Gaile Maharaja"
         },
         "description": {
             "en-GB": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling closed-top wooden carriages",
@@ -157,7 +158,8 @@
             "ca-ES": "Trens a vapor en miniatura rèpliques de locomotores i tènders que estiren vagons de fusta amb sostre.",
             "fi-FI": "Pienikokoiset höyryjunat joihin kuuluu höyryveturin jäljitelmä ja hennot puiset vaunut kangaskatoilla",
             "gl-ES": "Trens de vapor en miniatura que consisten nunha réplica de locomotora de vapor e ténder, tirando vagóns de madeira de parte superior pechada",
-            "hu-HU": "Miniatűr gőzvonatok, amelyek egy gőzmozdony- és szerkocsimásolatból állnak, és zárt tetejű fakocsikat vontatnak"
+            "hu-HU": "Miniatűr gőzvonatok, amelyek egy gőzmozdony- és szerkocsimásolatból állnak, és zárt tetejű fakocsikat vontatnak",
+            "ga-IE": "Mionthraenacha gaile déanta de mhacasamhail innill gaile agus teandair, ag tarraingt carráistí adhmaid le díon dúnta"
         },
         "capacity": {
             "en-GB": "6 passengers per carriage",
@@ -178,7 +180,8 @@
             "ca-ES": "6 passatgers per vagó",
             "fi-FI": "6 matkustajaa per vaunu",
             "gl-ES": "6 pasaxeiros por vagón",
-            "hu-HU": "6 utas kocsinként"
+            "hu-HU": "6 utas kocsinként",
+            "ga-IE": "6 phaisinéir sa charráiste"
         }
     }
 }

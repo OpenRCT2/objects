@@ -112,7 +112,8 @@
             "ca-ES": "Cotxes de la mansió encantada",
             "fi-FI": "Kummituskartanon vaunut",
             "gl-ES": "Vagóns da Mansión Encantada",
-            "hu-HU": "Kísértetkastély kocsik"
+            "hu-HU": "Kísértetkastély kocsik",
+            "ga-IE": "Gluaisteáin Áras na bPúcaí"
         },
         "description": {
             "en-GB": "Small powered cars that run on a ghost train track",
@@ -134,7 +135,8 @@
             "ca-ES": "Cotxes petits que circulen per una via fantasma per dins un edifici horripilant.",
             "fi-FI": "Pienet moottoroidut vaunut, jotka kulkevat kummitusjunan radalla",
             "gl-ES": "Pequenos coches motorizados que circulan por unha vía de tren do terror",
-            "hu-HU": "Kis, motoros kocsik, amelyek szellemvonat pályán közlekednek"
+            "hu-HU": "Kis, motoros kocsik, amelyek szellemvonat pályán közlekednek",
+            "ga-IE": "Gluaisteáin bheaga chumhachtaithe a ritheann ar ráille traenach taibhse"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -156,7 +158,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
             "gl-ES": "2 pasaxeiros por coche",
-            "hu-HU": "2 utas kocsinként"
+            "hu-HU": "2 utas kocsinként",
+            "ga-IE": "2 phaisinéir sa ghluaisteán"
         }
     }
 }

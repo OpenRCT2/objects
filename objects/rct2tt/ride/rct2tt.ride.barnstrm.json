@@ -88,7 +88,8 @@
             "fi-FI": "Lentosirkusvaunut",
             "zh-CN": "谷仓风暴列车",
             "hu-HU": "Légivagány vonatok",
-            "gl-ES": "Trens Audaces"
+            "gl-ES": "Trens Audaces",
+            "ga-IE": "Traenacha Aerchleasaíochta"
         },
         "description": {
             "en-GB": "Inverted roller coaster trains for the Inverted Impulse Coaster, in the shape of double decker aeroplanes",
@@ -111,7 +112,8 @@
             "fi-FI": "Käänteiset kaksitasolentokoneen muotoiset vaunut käänteisimpulssiradalle",
             "zh-CN": "用于倒置脉冲过山车的倒置过山车列车，形状为双层飞机",
             "hu-HU": "Fordított hullámvasútvonatok a fordított impulzus hullámvasúthoz, kétfedelű repülőgépek formájában",
-            "gl-ES": "Trens de montaña rusa invertida para a Montaña Rusa de Impulso Invertida, en forma de biplanos de dous pisos"
+            "gl-ES": "Trens de montaña rusa invertida para a Montaña Rusa de Impulso Invertida, en forma de biplanos de dous pisos",
+            "ga-IE": "Traenacha rollchóstóra inbhéartaithe don Chóstóir Spreagtha Inbhéartaithe, i gcruth eitleán dhá dheic"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -133,7 +135,8 @@
             "fi-FI": "4 matkustajaa per vaunu",
             "zh-CN": "4位乘客/车",
             "hu-HU": "4 utas kocsinként",
-            "gl-ES": "4 pasaxeiros por coche"
+            "gl-ES": "4 pasaxeiros por coche",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     }
 }

@@ -88,7 +88,8 @@
             "ca-ES": "Motos d’aigua",
             "fi-FI": "Vesiskootterit",
             "fr-FR": "Jet ski",
-            "gl-ES": "Motos acuáticas"
+            "gl-ES": "Motos acuáticas",
+            "ga-IE": "Scairdscútair"
         },
         "description": {
             "en-GB": "Single-seater jet skis which riders can drive themselves",
@@ -109,7 +110,8 @@
             "eo-ZZ": "Akvo-motorsledoj, kiujn rajdantoj povas stiri per si mem",
             "ca-ES": "Motos d’aigua monoplaça que els passatgers poden conduir.",
             "fi-FI": "Yksipaikkaiset vesiskootterit, joita matkustajat voivat itse ohjata",
-            "gl-ES": "Motos acuáticas de un asento que os visitantes poden conducir por si mesmos"
+            "gl-ES": "Motos acuáticas de un asento que os visitantes poden conducir por si mesmos",
+            "ga-IE": "Scairdscútair aonsuíocháin ar féidir le marcaigh iad a thiomáint iad féin"
         },
         "capacity": {
             "en-GB": "1 rider per vehicle",
@@ -130,7 +132,8 @@
             "eo-ZZ": "Po 1 rajdanto por veturilo",
             "ca-ES": "1 passatger per moto",
             "fi-FI": "1 matkustaja per ajoneuvo",
-            "gl-ES": "1 piloto por vehículo"
+            "gl-ES": "1 piloto por vehículo",
+            "ga-IE": "1 mharcach san fheithicil"
         }
     }
 }

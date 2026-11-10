@@ -83,7 +83,8 @@
             "fi-FI": "Liitopyörät",
             "zh-CN": "浮空摩托",
             "hu-HU": "Lebegő motorok",
-            "gl-ES": "Bicicletas flotantes"
+            "gl-ES": "Bicicletas flotantes",
+            "ga-IE": "Rothair Fholuaineacha"
         },
         "description": {
             "en-GB": "Futuristic bike-shaped single vehicles",
@@ -105,7 +106,8 @@
             "fi-FI": "Futuristiset pyöränmuotoiset yksittäiset ajoneuvot",
             "zh-CN": "未来样式摩托车形的摩托车",
             "hu-HU": "Futurisztikus motor alakú egyszemélyes járművek",
-            "gl-ES": "Vehículos individuais futuristas con forma de bicicleta"
+            "gl-ES": "Vehículos individuais futuristas con forma de bicicleta",
+            "ga-IE": "Feithiclí aonair todhchaíocha i gcruth rothair"
         },
         "capacity": {
             "en-GB": "2 riders per vehicle",
@@ -127,7 +129,8 @@
             "fi-FI": "2 pyöräilijää per pyörä",
             "zh-CN": "2位乘客/摩托",
             "hu-HU": "2 utas járművenként",
-            "gl-ES": "2 pilotos por vehiculo"
+            "gl-ES": "2 pilotos por vehiculo",
+            "ga-IE": "2 mharcach san fheithicil"
         }
     }
 }

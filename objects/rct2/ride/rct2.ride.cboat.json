@@ -74,7 +74,8 @@
             "eo-ZZ": "Kanuoj",
             "fi-FI": "Kanootit",
             "gl-ES": "Canoas",
-            "hu-HU": "Kenuk"
+            "hu-HU": "Kenuk",
+            "ga-IE": "Canúnna"
         },
         "description": {
             "en-GB": "Long canoes which the passengers paddle themselves",
@@ -96,7 +97,8 @@
             "ca-ES": "Canoes llargues que els passatgers mouen remant.",
             "fi-FI": "Pitkät kanootit, joita matkustajat soutavat itse",
             "gl-ES": "Canoas longas nas que os pasaxeiros reman eles mesmos",
-            "hu-HU": "Hosszú kenuk, amelyeket az utasok maguk eveznek"
+            "hu-HU": "Hosszú kenuk, amelyeket az utasok maguk eveznek",
+            "ga-IE": "Canúnna fada a chéaslaíonn na paisinéirí iad féin"
         },
         "capacity": {
             "en-GB": "2 passengers per canoe",
@@ -117,7 +119,8 @@
             "eo-ZZ": "Po 2 pasaĝeroj por kanuo",
             "ca-ES": "2 passatgers per canoa",
             "fi-FI": "2 matkustajaa per kanootti",
-            "hu-HU": "2 utas kenunként"
+            "hu-HU": "2 utas kenunként",
+            "ga-IE": "2 phaisinéir sa chanú"
         }
     }
 }

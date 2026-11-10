@@ -857,7 +857,8 @@
             "fi-FI": "Vuoristorataveneet",
             "gl-ES": "Barcos de Montaña Rusa",
             "ar-EG": "قوارب أفعوانية",
-            "hu-HU": "Hullámvasút-csónakok"
+            "hu-HU": "Hullámvasút-csónakok",
+            "ga-IE": "Báid Cóstóra"
         },
         "description": {
             "en-GB": "Boat-shaped roller coaster cars",
@@ -880,7 +881,8 @@
             "fi-FI": "Veneen muotoiset vuoristoratavaunut",
             "gl-ES": "Coches de montaña rusa en forma de barco",
             "ar-EG": "عربات أفعوانية على شكل قارب",
-            "hu-HU": "Csónak alakú hullámvasút-kocsik"
+            "hu-HU": "Csónak alakú hullámvasút-kocsik",
+            "ga-IE": "Gluaisteáin rollchóstóra i gcruth báid"
         },
         "capacity": {
             "en-GB": "6 passengers per boat",
@@ -903,7 +905,8 @@
             "fi-FI": "6 matkustajaa per vene",
             "gl-ES": "6 pasaxeiros por barco",
             "ar-EG": "6 ركاب لكل قارب",
-            "hu-HU": "6 utas csónakonként"
+            "hu-HU": "6 utas csónakonként",
+            "ga-IE": "6 phaisinéir sa bhád"
         }
     }
 }

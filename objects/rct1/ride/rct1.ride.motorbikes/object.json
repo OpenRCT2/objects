@@ -174,7 +174,8 @@
             "fi-FI": "Moottoripyörät",
             "gl-ES": "Motos",
             "ar-EG": "دراجات نارية",
-            "hu-HU": "Motorkerékpárok"
+            "hu-HU": "Motorkerékpárok",
+            "ga-IE": "Gluaisrothair"
         },
         "description": {
             "en-GB": "Single cars shaped like a motorbike",
@@ -197,7 +198,8 @@
             "fi-FI": "Yksittäiset moottoripyörän muotoiset vaunut",
             "gl-ES": "Coches individuais con forma de moto",
             "ar-EG": "عربات فردية على شكل دراجة نارية",
-            "hu-HU": "Motorkerékpár alakú különálló járművek"
+            "hu-HU": "Motorkerékpár alakú különálló járművek",
+            "ga-IE": "Gluaisteáin aonair i gcruth gluaisrothair"
         },
         "capacity": {
             "en-GB": "2 riders per bike",
@@ -220,7 +222,8 @@
             "ca-ES": "2 motoristes per motocicleta",
             "gl-ES": "2 pasaxeiros por moto",
             "ar-EG": "راكبان لكل دراجة",
-            "hu-HU": "2 utas motoronként"
+            "hu-HU": "2 utas motoronként",
+            "ga-IE": "2 mharcach ar an rothar"
         }
     }
 }

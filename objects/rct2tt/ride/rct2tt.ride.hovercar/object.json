@@ -105,7 +105,8 @@
             "fi-FI": "Liitoautot",
             "zh-CN": "浮空车",
             "hu-HU": "Lebegő autók",
-            "gl-ES": "Coches voadores"
+            "gl-ES": "Coches voadores",
+            "ga-IE": "Gluaisteáin Fholuaineacha"
         },
         "description": {
             "en-GB": "Maglev technology has been implemented to create the illusion of futuristic hover cars",
@@ -127,7 +128,8 @@
             "fi-FI": "Maglev-tekniikalla toteutetut futurististen liitoautojen illuusion kehittävät ajoneuvot",
             "zh-CN": "磁悬浮技术已经可以用来创造未来悬停汽车的幻觉",
             "hu-HU": "Maglev technológiát alkalmaztak, hogy futurisztikus lebegő autók illúzióját keltsék",
-            "gl-ES": "Implementouse a tecnoloxía Maglev para crear a ilusión de coches flotantes futuristas"
+            "gl-ES": "Implementouse a tecnoloxía Maglev para crear a ilusión de coches flotantes futuristas",
+            "ga-IE": "Baineadh úsáid as teicneolaíocht maglev chun seachmall gluaisteán foluaineach todhchaíoch a chruthú"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -149,7 +151,8 @@
             "ca-ES": "1 passatger per cotxe",
             "fi-FI": "1 matkustaja per auto",
             "hu-HU": "1 utas kocsinként",
-            "gl-ES": "1 pasaxeiros por coche"
+            "gl-ES": "1 pasaxeiros por coche",
+            "ga-IE": "1 phaisinéir sa ghluaisteán"
         }
     }
 }

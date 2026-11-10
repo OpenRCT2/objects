@@ -288,7 +288,8 @@
             "ar-EG": "عربات متأرجحة لشخص واحد",
             "cs-CZ": "Jednomístné houpací vozy",
             "eo-ZZ": "Unusidlokaj svingiĝantaj ĉaroj",
-            "hu-HU": "Egyszemélyes lengőkocsik"
+            "hu-HU": "Egyszemélyes lengőkocsik",
+            "ga-IE": "Gluaisteáin Luascacha Aonduine"
         },
         "description": {
             "en-GB": "Single-seater cars which hang from the rail above, and are free to swing from side to side",
@@ -303,7 +304,8 @@
             "ar-EG": "عربات بمقعد واحد معلقة من السكة العلوية، وحرة في التأرجح من جانب إلى آخر",
             "cs-CZ": "Jednomístné vozy kývající se ze strany na stranu, zavěšené pod kolejnicí",
             "eo-ZZ": "Unusidlokaj ĉaroj, kiuj pendas de la relo supre, kaj povas libere svingiĝi de unu flanko al la alia",
-            "hu-HU": "Együléses kocsik, amelyek a felettük lévő sínen függnek, és szabadon kilenghetnek oldalirányba"
+            "hu-HU": "Együléses kocsik, amelyek a felettük lévő sínen függnek, és szabadon kilenghetnek oldalirányba",
+            "ga-IE": "Gluaisteáin aonsuíocháin ar crochadh ón ráille thuas, atá saor chun luascadh ó thaobh go taobh"
         },
         "capacity": {
             "en-GB": "1 passenger per car",
@@ -326,7 +328,8 @@
             "fi-FI": "1 matkustaja per vaunu",
             "gl-ES": "1 pasaxeiro por coche",
             "ar-EG": "راكب واحد لكل عربة",
-            "hu-HU": "1 utas kocsinként"
+            "hu-HU": "1 utas kocsinként",
+            "ga-IE": "1 phaisinéir sa ghluaisteán"
         }
     }
 }

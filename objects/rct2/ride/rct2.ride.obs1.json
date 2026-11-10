@@ -299,7 +299,8 @@
             "ca-ES": "Cabina d’observació",
             "fi-FI": "Yksikerroksinen koppi",
             "gl-ES": "Cabina de un só piso",
-            "hu-HU": "Egyszintes kabin"
+            "hu-HU": "Egyszintes kabin",
+            "ga-IE": "Cábán Aondeice"
         },
         "description": {
             "en-GB": "Single-deck rotating observation cabin",
@@ -321,7 +322,8 @@
             "ca-ES": "Cabina d’observació que gira d’una sola planta.",
             "fi-FI": "Pyörivä näköalakoppi, jossa on yksi kerros",
             "gl-ES": "Cabina de observación xiratoria de un só piso",
-            "hu-HU": "Egyszintes, forgó kilátókabin"
+            "hu-HU": "Egyszintes, forgó kilátókabin",
+            "ga-IE": "Cábán breathnóireachta rothlach aondeice"
         },
         "capacity": {
             "en-GB": "20 passengers",
@@ -343,7 +345,8 @@
             "ca-ES": "20 passatgers",
             "fi-FI": "20 matkustajaa",
             "gl-ES": "20 pasaxeiros",
-            "hu-HU": "20 utas"
+            "hu-HU": "20 utas",
+            "ga-IE": "20 paisinéir"
         }
     }
 }

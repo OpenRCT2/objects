@@ -62,7 +62,8 @@
             "sv-SE": "Spiralrutschkana",
             "ca-ES": "Tobogan espiral",
             "fi-FI": "Kierreliukumäki",
-            "gl-ES": "Escorregadoiro en espiral"
+            "gl-ES": "Escorregadoiro en espiral",
+            "ga-IE": "Sleamhnán Bíse"
         },
         "description": {
             "en-GB": "Wooden building with an internal staircase and an external spiral slide for use with slide mats",
@@ -83,14 +84,16 @@
             "eo-ZZ": "Ligna konstruaĵo kun interna ŝtuparo kaj ekstera spirala glitejo por uzi kun glitmatoj",
             "ca-ES": "Edifici de fusta amb una escala central i un tobogan espiral exterior que s’usa amb catifes.",
             "fi-FI": "Puinen rakennus jonka sisällä olevasta porraskäytävästä pääsee huipulle, josta voi laskea ulkoseinämän liukumäkeä alas",
-            "gl-ES": "Edificio de madeira cunha escaleira interior e un escorregadoiro en espiral exterior para usar con alfombrillas de escorregadoiro"
+            "gl-ES": "Edificio de madeira cunha escaleira interior e un escorregadoiro en espiral exterior para usar con alfombrillas de escorregadoiro",
+            "ga-IE": "Foirgneamh adhmaid le staighre inmheánach agus sleamhnán bíse seachtrach le húsáid le mataí sleamhnáin"
         },
         "capacity": {
             "en-GB": "1 person at a time",
             "nl-NL": "1 persoon tegelijk",
             "pt-BR": "1 pessoa por vez",
             "ca-ES": "1 persona",
-            "ru-RU": "1 человек за раз"
+            "ru-RU": "1 человек за раз",
+            "ga-IE": "Duine amháin ag an am"
         }
     }
 }

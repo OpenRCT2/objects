@@ -128,7 +128,8 @@
             "fi-FI": "Poliisiautovaunut",
             "zh-CN": "警车过山车",
             "gl-ES": "Trens de Coches de Policía",
-            "hu-HU": "Rendőrautó vonatok"
+            "hu-HU": "Rendőrautó vonatok",
+            "ga-IE": "Traenacha Gluaisteán Póilíní"
         },
         "description": {
             "en-GB": "Roller coaster trains with lap bars capable of travelling through vertical loops, themed to look like police cars",
@@ -150,7 +151,8 @@
             "fi-FI": "Turvakaiteilla varustetut poliisiauton näköisiksi teematut vuoristoratavaunut, jotka kykenee pystysuoriin silmukoihin",
             "zh-CN": "过山车车辆带有能够通过垂直环行进的膝上杆，主题看起来像警车",
             "gl-ES": "Vagóns de montaña rusa con suxeitadores de colo capaces de atravesar lazos verticais, tematizados para parecer coches de policía",
-            "hu-HU": "Hullámvasút vonatok biztonsági rudakkal, amelyek képesek függőleges hurkokon áthaladni, rendőrautónak tematizálva"
+            "hu-HU": "Hullámvasút vonatok biztonsági rudakkal, amelyek képesek függőleges hurkokon áthaladni, rendőrautónak tematizálva",
+            "ga-IE": "Traenacha rollchóstóra le barraí glúine atá in ann taisteal trí lúba ingearacha, ar théama gluaisteán póilíní"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -172,7 +174,8 @@
             "fi-FI": "4 matkustajaa per vaunu",
             "zh-CN": "4位乘客/车",
             "gl-ES": "4 pasaxeiros por coche",
-            "hu-HU": "4 utas kocsinként"
+            "hu-HU": "4 utas kocsinként",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     }
 }

@@ -249,7 +249,8 @@
             "ca-ES": "Cotxes ratolí",
             "fi-FI": "Hiirivaunut",
             "gl-ES": "Vagóns de rato",
-            "hu-HU": "Egérkocsik"
+            "hu-HU": "Egérkocsik",
+            "ga-IE": "Gluaisteáin Luiche"
         },
         "description": {
             "en-GB": "Individual cars shaped like mice",
@@ -271,7 +272,8 @@
             "ca-ES": "Cotxes individuals en forma de ratolí",
             "fi-FI": "Yksittäiset hiiren muotoiset vaunut",
             "gl-ES": "Vagóns individuais con forma de rato",
-            "hu-HU": "Különálló kocsik egerek formájában"
+            "hu-HU": "Különálló kocsik egerek formájában",
+            "ga-IE": "Gluaisteáin aonair i gcruth luch"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -293,7 +295,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
-            "hu-HU": "4 utas kocsinként"
+            "hu-HU": "4 utas kocsinként",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     }
 }

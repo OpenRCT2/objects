@@ -886,7 +886,8 @@
             "ca-ES": "Trens Tornado a peu dret",
             "fi-FI": "Seisomakiehkuravaunut",
             "gl-ES": "Trens Tornado de pé",
-            "ar-EG": "قطارات تويستر وقوف"
+            "ar-EG": "قطارات تويستر وقوف",
+            "ga-IE": "Traenacha Castóra Seasaimh"
         },
         "description": {
             "en-GB": "A train with shoulder restraints, in which the riders stand up",
@@ -908,7 +909,8 @@
             "ca-ES": "Un tren amb subjecció per l’espatlla en la qual els passatgers van drets.",
             "fi-FI": "Seisoma-asennossa matkustettavat vaunut olkaturvakaiteilla",
             "gl-ES": "Un tren con suxeicións de ombreiro, no que os pasaxeiros viaxan de pé.",
-            "ar-EG": "قطار بأحزمة كتف، يركب فيه الركاب واقفين"
+            "ar-EG": "قطار بأحزمة كتف، يركب فيه الركاب واقفين",
+            "ga-IE": "Traein le srianta guaillí, ina seasann na marcaigh"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -930,7 +932,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
-            "ar-EG": "4 ركاب لكل عربة"
+            "ar-EG": "4 ركاب لكل عربة",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     },
     "noCsgImages": [

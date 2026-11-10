@@ -303,7 +303,8 @@
             "fi-FI": "Junankeulalaite",
             "zh-CN": "快感小巴",
             "gl-ES": "Paseo en Microbus",
-            "hu-HU": "Mikrobusz játék"
+            "hu-HU": "Mikrobusz játék",
+            "ga-IE": "Marcaíocht Mhionbhus"
         },
         "description": {
             "en-GB": "Riders view a film inside the Flower Power-themed motion simulator pod while it is twisted and moved around by a hydraulic arm",
@@ -325,7 +326,8 @@
             "fi-FI": "Kävijät katsovat elokuvaa kukkavoima-teemaisen simulaattorin sisällä, samalla kun hydraulinen puomi liikuttaa ja kallistaa simulaattoria",
             "zh-CN": "乘客们在以花之力为主题的运动模拟器吊舱内观看电影，同时它被液压臂扭曲和移动",
             "gl-ES": "Os pasaxeiros ven unha película dentro do simulador de movemento con temática Flower Power, mentres o pod se retorce e se move grazas a un brazo hidráulico",
-            "hu-HU": "Az utasok egy Virágbéke témájú mozgó szimulátor kabinban néznek filmet, miközben azt egy hidraulikus kar forgatja és mozgatja"
+            "hu-HU": "Az utasok egy Virágbéke témájú mozgó szimulátor kabinban néznek filmet, miközben azt egy hidraulikus kar forgatja és mozgatja",
+            "ga-IE": "Féachann marcaigh ar scannán taobh istigh de phod an insamhlóra gluaisne ar théama Flower Power agus é á chasadh agus á bhogadh thart ag géag hiodrálach"
         },
         "capacity": {
             "en-GB": "8 passengers",
@@ -347,7 +349,8 @@
             "fi-FI": "8 matkustajaa",
             "zh-CN": "8位乘客",
             "gl-ES": "8 pasaxeiros",
-            "hu-HU": "8 utas"
+            "hu-HU": "8 utas",
+            "ga-IE": "8 bpaisinéir"
         }
     }
 }

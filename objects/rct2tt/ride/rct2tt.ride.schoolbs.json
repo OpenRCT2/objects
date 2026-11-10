@@ -113,7 +113,8 @@
             "fi-FI": "Koulubussivaunut",
             "zh-CN": "校车电车",
             "hu-HU": "Iskolabusz-villamosok",
-            "gl-ES": "Tranvías de Autobús Escolar"
+            "gl-ES": "Tranvías de Autobús Escolar",
+            "ga-IE": "Tramanna Bus Scoile"
         },
         "description": {
             "en-GB": "Miniature trams themed to look like North American school buses",
@@ -135,7 +136,8 @@
             "fi-FI": "Pohjoisamerikkalaisien koulubussien näköisiksi teematut pienoisvaunut",
             "zh-CN": "以北美校车为主题的微型电车",
             "hu-HU": "Miniatűr villamosok, amelyek úgy néznek ki, mint az észak-amerikai iskolabuszok",
-            "gl-ES": "Tranvías pequenos con temática de autobuses escolares de Norteamérica"
+            "gl-ES": "Tranvías pequenos con temática de autobuses escolares de Norteamérica",
+            "ga-IE": "Miontramanna ar théama busanna scoile Mheiriceá Thuaidh"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -157,7 +159,8 @@
             "fi-FI": "6 matkustajaa per vaunu",
             "zh-CN": "6位乘客/车",
             "hu-HU": "6 utas kocsinként",
-            "gl-ES": "6 pasaxeiros por coche"
+            "gl-ES": "6 pasaxeiros por coche",
+            "ga-IE": "6 phaisinéir sa ghluaisteán"
         }
     }
 }

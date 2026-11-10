@@ -294,7 +294,8 @@
             "ca-ES": "La casa torta",
             "fi-FI": "Kiero talo",
             "gl-ES": "Casa torta",
-            "hu-HU": "Görbe ház"
+            "hu-HU": "Görbe ház",
+            "ga-IE": "Teach Cam"
         },
         "description": {
             "en-GB": "Building containing warped rooms and angled corridors to disorientate people walking through it",
@@ -316,7 +317,8 @@
             "ca-ES": "Edifici amb habitacions deformades i passadissos angulosos per a desorientar les persones que el visiten.",
             "fi-FI": "Rakennus täynnä kävijöitä kummastuttavia vääristettyjä huoneita ja kieroutuineita käytäviä",
             "gl-ES": "Edificio que contén habitacións deformadas e corredores inclinados para desorientar ás persoas que o percorren",
-            "hu-HU": "Torz szobákat és ferde folyosókat tartalmazó épület, amely összezavarja az áthaladó emberket"
+            "hu-HU": "Torz szobákat és ferde folyosókat tartalmazó épület, amely összezavarja az áthaladó emberket",
+            "ga-IE": "Foirgneamh ina bhfuil seomraí cama agus dorchlaí ar fiar chun mearbhall a chur ar dhaoine atá ag siúl tríd"
         },
         "capacity": {
             "en-GB": "5 guests",
@@ -338,7 +340,8 @@
             "ca-ES": "5 visitants",
             "fi-FI": "5 kävijää",
             "gl-ES": "5 invitados",
-            "hu-HU": "5 vendég"
+            "hu-HU": "5 vendég",
+            "ga-IE": "5 aoi"
         }
     }
 }

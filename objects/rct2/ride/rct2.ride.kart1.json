@@ -223,7 +223,8 @@
             "sv-SE": "Gokart",
             "ca-ES": "Karts",
             "fi-FI": "Mikroautot",
-            "hu-HU": "Gokartok"
+            "hu-HU": "Gokartok",
+            "ga-IE": "Cairtíní"
         },
         "description": {
             "en-GB": "Self-drive petrol-engined go-karts",
@@ -246,7 +247,8 @@
             "ca-ES": "Karts autopropulsats que funcionen amb gasolina.",
             "fi-FI": "Itse ajettavat bensakäyttöiset mikroautot",
             "gl-ES": "Karts de gasolina de condución autónoma",
-            "hu-HU": "Benzinmotoros, önvezető gokartok"
+            "hu-HU": "Benzinmotoros, önvezető gokartok",
+            "ga-IE": "Cairtíní féintiomána le hinnill peitril"
         },
         "capacity": {
             "en-GB": "single-seater",
@@ -268,7 +270,8 @@
             "ca-ES": "Monoplaça",
             "fi-FI": "Yksipaikkainen",
             "gl-ES": "monopraza",
-            "hu-HU": "Egyszemélyes"
+            "hu-HU": "Egyszemélyes",
+            "ga-IE": "suíochán aonair"
         }
     }
 }

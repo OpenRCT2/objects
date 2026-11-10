@@ -154,7 +154,8 @@
             "fi-FI": "Poliisiautot",
             "zh-CN": "警察车",
             "gl-ES": "Coches da Policía",
-            "hu-HU": "Rendőrautók"
+            "hu-HU": "Rendőrautók",
+            "ga-IE": "Gluaisteáin Póilíní"
         },
         "description": {
             "en-GB": "1920s-themed police cars run on wooden tracks, turning around on special reversing sections",
@@ -176,7 +177,8 @@
             "fi-FI": "1920-luvun poliisiautojen teemaiset vaunut, jotka kulkevat puisilla kiskoilla, ja kääntyvät ympäri erityisissä kääntöosioissa",
             "zh-CN": "1920年代主题警车在木质轨道上行驶，在特殊倒车段掉头s",
             "gl-ES": "Coches de policía inspirados nos anos 20 circulan por vías de madeira, xirando en seccións especiais de inversión",
-            "hu-HU": "Az 1920-as évek tematikájú rendőrautók fa síneken futnak, és speciális fordítószakaszokon fordulnak meg"
+            "hu-HU": "Az 1920-as évek tematikájú rendőrautók fa síneken futnak, és speciális fordítószakaszokon fordulnak meg",
+            "ga-IE": "Ritheann gluaisteáin póilíní ar théama na 1920idí ar ráillí adhmaid, ag iompú thart ar chodanna speisialta cúlaithe"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -198,7 +200,8 @@
             "fi-FI": "6 matkustajaa per vaunu",
             "zh-CN": "6位乘客/车",
             "gl-ES": "6 pasaxeiros por coche",
-            "hu-HU": "6 utas kocsinként"
+            "hu-HU": "6 utas kocsinként",
+            "ga-IE": "6 phaisinéir sa ghluaisteán"
         }
     }
 }

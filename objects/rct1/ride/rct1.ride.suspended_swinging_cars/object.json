@@ -415,7 +415,8 @@
             "fi-FI": "Riippuvat keinuvaunut",
             "gl-ES": "Coches suspendidos oscilantes",
             "ar-EG": "عربات متأرجحة معلقة",
-            "hu-HU": "Függesztett lengő kocsik"
+            "hu-HU": "Függesztett lengő kocsik",
+            "ga-IE": "Gluaisteáin Chrochta Luascacha"
         },
         "description": {
             "en-GB": "Suspended roller coaster trains consisting of cars able to swing freely as the train goes around corners",
@@ -438,7 +439,8 @@
             "fi-FI": "Vapaasti käänteissä keinuvat riippuvat vuoristoratavaunut",
             "gl-ES": "Trens de montaña rusa suspendidos compostos por coches que poden oscilar libremente mentres o tren vira polas curvas",
             "ar-EG": "قطارات أفعوانية معلقة تتكون من عربات قادرة على التأرجح بحرية عند المنعطفات",
-            "hu-HU": "Függesztett hullámvasút-szerelvények, amelyek kocsijai szabadon lenghetnek, miközben a szerelvény kanyarodik"
+            "hu-HU": "Függesztett hullámvasút-szerelvények, amelyek kocsijai szabadon lenghetnek, miközben a szerelvény kanyarodik",
+            "ga-IE": "Traenacha crochta rollchóstóra déanta de ghluaisteáin atá in ann luascadh go saor agus an traein ag dul timpeall cúinní"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -461,7 +463,8 @@
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
             "ar-EG": "4 ركاب لكل عربة",
-            "hu-HU": "4 utas kocsinként"
+            "hu-HU": "4 utas kocsinként",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     },
     "noCsgImages": [

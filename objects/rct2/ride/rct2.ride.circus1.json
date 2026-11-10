@@ -309,7 +309,8 @@
             "ca-ES": "Circ",
             "fi-FI": "Sirkus",
             "gl-ES": "Circo",
-            "hu-HU": "Cirkusz"
+            "hu-HU": "Cirkusz",
+            "ga-IE": "Sorcas"
         },
         "description": {
             "en-GB": "Circus animal show inside a big-top tent",
@@ -331,7 +332,8 @@
             "ca-ES": "Espectacle de circ dins d’una gran carpa.",
             "fi-FI": "Sirkuseläinshow valtavan teltan sisällä",
             "gl-ES": "Espectáculo de animais do circo dentro dunha carpa de gran tamaño",
-            "hu-HU": "Cirkuszi állatbemutató egy nagy sátorban"
+            "hu-HU": "Cirkuszi állatbemutató egy nagy sátorban",
+            "ga-IE": "Seó ainmhithe sorcais taobh istigh d’ollphuball"
         },
         "capacity": {
             "en-GB": "30 guests",
@@ -352,7 +354,8 @@
             "eo-ZZ": "30 gastoj",
             "ca-ES": "30 espectadors",
             "fi-FI": "30 kävijää",
-            "hu-HU": "30 vendég"
+            "hu-HU": "30 vendég",
+            "ga-IE": "30 aoi"
         }
     }
 }

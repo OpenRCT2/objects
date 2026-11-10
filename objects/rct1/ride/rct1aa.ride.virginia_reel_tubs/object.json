@@ -455,7 +455,8 @@
             "ca-ES": "Pots «Virginia Reel»",
             "fi-FI": "Virginia-kehrävaunut",
             "gl-ES": "Barricas do Virginia Reel",
-            "ar-EG": "أحواض فيرجينيا ريل"
+            "ar-EG": "أحواض فيرجينيا ريل",
+            "ga-IE": "Tobáin Ríle Virginia"
         },
         "description": {
             "en-GB": "Circular cars that spin around as they travel along the track",
@@ -477,7 +478,8 @@
             "ca-ES": "Cotxes circulars que giren mentre es mouen per un circuit.",
             "fi-FI": "Pyöreät vaunut, jotka pyörivät rataa kulkiessaan",
             "gl-ES": "Coches circulares que xiran mentres percorren a pista",
-            "ar-EG": "عربات دائرية تدور حول نفسها أثناء سيرها على المسار"
+            "ar-EG": "عربات دائرية تدور حول نفسها أثناء سيرها على المسار",
+            "ga-IE": "Gluaisteáin chiorclacha a rothlaíonn thart agus iad ag taisteal feadh an ráille"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -499,7 +501,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
-            "ar-EG": "4 ركاب لكل عربة"
+            "ar-EG": "4 ركاب لكل عربة",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     }
 }

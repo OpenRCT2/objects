@@ -307,7 +307,8 @@
             "eo-ZZ": "Moviĝado-simulilo",
             "ca-ES": "Simulador de moviment",
             "fi-FI": "Simulaattori",
-            "gl-ES": "Simulador de movemento"
+            "gl-ES": "Simulador de movemento",
+            "ga-IE": "Insamhlóir Gluaisne"
         },
         "description": {
             "en-GB": "Riders view a film inside the motion simulator pod while it is twisted and moved around by a hydraulic arm",
@@ -328,7 +329,8 @@
             "eo-ZZ": "Rajdantoj vidas filmon en la moviĝado-simulilo, kiun hidraŭlika brako turnas kaj movas",
             "ca-ES": "Els passatgers veuen una pel·lícula dins d’un simulador mentre el simulador es mou amb un braç metàl·lic.",
             "fi-FI": "Kävijät katsovat elokuvaa simulaattorin sisällä, samalla kun hydraulinen puomi liikuttaa ja kallistaa simulaattoria",
-            "gl-ES": "Os pasaxeiros ven unha longametraxe dentro da cápsula do simulador de movemento mentres esta se retorce e móvese grazas a un brazo hidráulico"
+            "gl-ES": "Os pasaxeiros ven unha longametraxe dentro da cápsula do simulador de movemento mentres esta se retorce e móvese grazas a un brazo hidráulico",
+            "ga-IE": "Féachann marcaigh ar scannán taobh istigh de phod an insamhlóra gluaisne agus é á chasadh agus á bhogadh thart ag géag hiodrálach"
         },
         "capacity": {
             "en-GB": "8 passengers",
@@ -349,7 +351,8 @@
             "eo-ZZ": "8 pasaĝeroj",
             "ca-ES": "8 passatgers",
             "fi-FI": "8 kävijää",
-            "gl-ES": "8 pasaxeiros"
+            "gl-ES": "8 pasaxeiros",
+            "ga-IE": "8 bpaisinéir"
         }
     }
 }

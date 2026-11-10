@@ -133,7 +133,8 @@
             "ca-ES": "Taxis grocs",
             "fi-FI": "Keltataksivaunut",
             "ru-RU": "Жёлтое такси",
-            "gl-ES": "Trens de taxi amarelo"
+            "gl-ES": "Trens de taxi amarelo",
+            "ga-IE": "Traenacha Tacsaithe Buí"
         },
         "description": {
             "en-GB": "Roller coaster trains for the Giga Coaster, themed to look like long yellow taxis",
@@ -153,7 +154,8 @@
             "ca-ES": "Cotxes per la Gigamuntanya russa, tematitzades per a parèixer taxis grocs llargs.",
             "fi-FI": "Pitkien keltaisten taksien näköisiksi teematut gigaradan vuoristoratavaunut",
             "ru-RU": "Поезда для Гига-аттракционов, стилизованные под жёлтое такси",
-            "gl-ES": "Trens de montaña rusa para a Giga Coaster, temáticas para parecer longos taxis amarelos"
+            "gl-ES": "Trens de montaña rusa para a Giga Coaster, temáticas para parecer longos taxis amarelos",
+            "ga-IE": "Traenacha rollchóstóra don Ghigeachóstóir, ar théama tacsaithe fada buí"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -173,7 +175,8 @@
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
-            "gl-ES": "4 pasaxeiros por coche"
+            "gl-ES": "4 pasaxeiros por coche",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     }
 }

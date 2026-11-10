@@ -84,7 +84,8 @@
             "eo-ZZ": "Delfeno-boatoj",
             "ca-ES": "Barques dofí",
             "fi-FI": "Delfiiniveneet",
-            "gl-ES": "Barquiñas de Golfiño"
+            "gl-ES": "Barquiñas de Golfiño",
+            "ga-IE": "Báid Deilfe"
         },
         "description": {
             "en-GB": "Single-seater dolphin-shaped vehicles which riders can drive themselves",
@@ -104,7 +105,8 @@
             "eo-ZZ": "Delfenoformaj veturiloj, kiujn rajdantoj povas stiri per si mem",
             "ca-ES": "Vehicles monoplaça en forma de dofí que els passatgers condueixen ells mateixos.",
             "fi-FI": "Yksipaikkaiset delfiinin muotoiset veneet, joita kävijät voivat itse ohjata",
-            "gl-ES": "Vehículos con forma de golfiño dun só asento que os pasaxeiros poden conducir por si mesmos"
+            "gl-ES": "Vehículos con forma de golfiño dun só asento que os pasaxeiros poden conducir por si mesmos",
+            "ga-IE": "Feithiclí aonsuíocháin i gcruth deilfe ar féidir le marcaigh iad a thiomáint iad féin"
         },
         "capacity": {
             "en-GB": "1 rider per vehicle",
@@ -124,7 +126,8 @@
             "eo-ZZ": "Po 1 rajdanto por veturilo",
             "ca-ES": "1 passatger per vehicle",
             "fi-FI": "1 matkustaja per vene",
-            "gl-ES": "1 piloto por vehículo"
+            "gl-ES": "1 piloto por vehículo",
+            "ga-IE": "1 mharcach san fheithicil"
         }
     }
 }

@@ -83,7 +83,8 @@
             "eo-ZZ": "Submarŝipoj",
             "ca-ES": "Submarins",
             "fi-FI": "Sukellusveneet",
-            "gl-ES": "Submarinos"
+            "gl-ES": "Submarinos",
+            "ga-IE": "Fomhuireáin"
         },
         "description": {
             "en-GB": "Riders ride in a submerged submarine through an underwater course",
@@ -104,7 +105,8 @@
             "eo-ZZ": "Rajdantoj rajdas en subakvigita submarŝipo tra subakva kurso",
             "ca-ES": "Els passatgers viatgen en un submarí submergit a través d’un curs d’aigua.",
             "fi-FI": "Matkustajat kulkevat sukellusveneessä vedenalaista rataa pitkin",
-            "gl-ES": "Os pasaxeiros viaxan nun submarino submerxido a través dun percorrido subacuático"
+            "gl-ES": "Os pasaxeiros viaxan nun submarino submerxido a través dun percorrido subacuático",
+            "ga-IE": "Marcaíonn marcaigh i bhfomhuireán tumtha trí chúrsa faoi uisce"
         },
         "capacity": {
             "en-GB": "5 passengers per submarine",
@@ -124,7 +126,8 @@
             "ru-RU": "5 пассажиров на машину",
             "eo-ZZ": "Po 5 pasaĝeroj por submarŝipo",
             "ca-ES": "5 passatgers per submarí",
-            "fi-FI": "5 matkustajaa per sukellusvene"
+            "fi-FI": "5 matkustajaa per sukellusvene",
+            "ga-IE": "5 phaisinéir san fhomhuireán"
         }
     }
 }

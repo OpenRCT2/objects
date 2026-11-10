@@ -108,7 +108,8 @@
             "eo-ZZ": "Minĉaroj",
             "ca-ES": "Tren de la mina",
             "fi-FI": "Kaivosvaunut",
-            "gl-ES": "Coches de mina"
+            "gl-ES": "Coches de mina",
+            "ga-IE": "Gluaisteáin Mianaigh"
         },
         "description": {
             "en-GB": "Cars shaped like an old mine cart",
@@ -129,7 +130,8 @@
             "eo-ZZ": "Ĉaroj formitaj kiel malnova minĉaro",
             "ca-ES": "Cotxes en forma de vagonetes antigues.",
             "fi-FI": "Vanhan kaivoskärryn muotoiset vaunut",
-            "gl-ES": "Coches con forma de vagón antigo de mina"
+            "gl-ES": "Coches con forma de vagón antigo de mina",
+            "ga-IE": "Gluaisteáin i gcruth seanchairte mianaigh"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -150,7 +152,8 @@
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
-            "gl-ES": "2 pasaxeiros por coche"
+            "gl-ES": "2 pasaxeiros por coche",
+            "ga-IE": "2 phaisinéir sa ghluaisteán"
         }
     }
 }

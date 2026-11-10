@@ -169,7 +169,8 @@
             "ca-ES": "Trens monorail penjants",
             "fi-FI": "Riippuvat kohoratavaunut",
             "gl-ES": "Trens Monorraíl Pendurados",
-            "ar-EG": "قطارات مونوريل معلقة"
+            "ar-EG": "قطارات مونوريل معلقة",
+            "ga-IE": "Traenacha Aonráille Crochta"
         },
         "description": {
             "en-GB": "Large capacity monorail train cars",
@@ -191,7 +192,8 @@
             "ca-ES": "Cotxes monorail de gran capacitat.",
             "fi-FI": "Suuren kapasiteetin kohoratavaunut",
             "gl-ES": "Vagóns de monorraíl de gran capacidade",
-            "ar-EG": "عربات قطار مونوريل ذات سعة كبيرة"
+            "ar-EG": "عربات قطار مونوريل ذات سعة كبيرة",
+            "ga-IE": "Gluaisteáin traenach aonráille ardacmhainne"
         },
         "capacity": {
             "en-GB": "8 passengers per car",
@@ -213,7 +215,8 @@
             "ca-ES": "8 passatgers per cotxe",
             "fi-FI": "8 matkustajaa per vaunu",
             "gl-ES": "8 pasaxeiros por coche",
-            "ar-EG": "8 ركاب لكل عربة"
+            "ar-EG": "8 ركاب لكل عربة",
+            "ga-IE": "8 bpaisinéir sa ghluaisteán"
         }
     },
     "noCsgImages": [

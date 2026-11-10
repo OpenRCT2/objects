@@ -301,7 +301,8 @@
             "eo-ZZ": "Liftokajuto",
             "ca-ES": "Ascensor",
             "fi-FI": "Hissikori",
-            "gl-ES": "Cabina de elevador"
+            "gl-ES": "Cabina de elevador",
+            "ga-IE": "Cábán Ardaitheora"
         },
         "description": {
             "en-GB": "Steel lift cabin",
@@ -322,7 +323,8 @@
             "eo-ZZ": "Ŝtala liftokajuto",
             "ca-ES": "Cabina d’ascensor d’acer",
             "fi-FI": "Teräksinen hissikori",
-            "gl-ES": "Cabina de elevador de aceiro"
+            "gl-ES": "Cabina de elevador de aceiro",
+            "ga-IE": "Cábán ardaitheora cruach"
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -343,7 +345,8 @@
             "eo-ZZ": "16 pasaĝeroj",
             "ca-ES": "16 passatgers",
             "fi-FI": "16 matkustajaa",
-            "gl-ES": "16 pasaxeiros"
+            "gl-ES": "16 pasaxeiros",
+            "ga-IE": "16 phaisinéir"
         }
     }
 }

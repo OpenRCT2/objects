@@ -92,7 +92,8 @@
             "fi-FI": "Ilmalaivan tyyliset kohoratavaunut",
             "zh-CN": "飞艇主题单轨列车",
             "hu-HU": "Léghajó témájú egyvágányú vonatok",
-            "gl-ES": "Trens de monorraíl con temática de diríxibles"
+            "gl-ES": "Trens de monorraíl con temática de diríxibles",
+            "ga-IE": "Traenacha Aonráille ar Théama Aerloinge"
         },
         "description": {
             "en-GB": "Large capacity themed monorail trains with streamlined front and rear cars",
@@ -114,7 +115,8 @@
             "fi-FI": "Suuren kapasiteetin teematut kohoratajunat, joissa on virtaviivaiset etu- ja takavaunut",
             "zh-CN": "具有流线型前后车厢的大容量主题单轨列车",
             "hu-HU": "Nagy kapacitású, tematikus egyvágányú vonatok áramvonalas első és hátsó kocsikkal",
-            "gl-ES": "Trens de monorraíl tematizados de gran capacidade, con vagóns frontais e traseiros de liña aerodinámica"
+            "gl-ES": "Trens de monorraíl tematizados de gran capacidade, con vagóns frontais e traseiros de liña aerodinámica",
+            "ga-IE": "Traenacha aonráille téamaithe ardacmhainne le gluaisteáin shruthlíneacha chun tosaigh agus chun deiridh"
         },
         "capacity": {
             "en-GB": "8 passengers per car",
@@ -136,7 +138,8 @@
             "ca-ES": "8 passatgers per cotxe",
             "fi-FI": "8 matkustajaa per vaunu",
             "hu-HU": "8 utas kocsinként",
-            "gl-ES": "8 pasaxeiros por coche"
+            "gl-ES": "8 pasaxeiros por coche",
+            "ga-IE": "8 bpaisinéir sa ghluaisteán"
         }
     }
 }

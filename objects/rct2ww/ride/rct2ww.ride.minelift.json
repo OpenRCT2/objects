@@ -291,7 +291,8 @@
             "eo-ZZ": "Kajuto de minlifto",
             "ca-ES": "Cabina elevadora de la mina",
             "fi-FI": "Kaivoshissikori",
-            "gl-ES": "Cabina de Elevador de Mina"
+            "gl-ES": "Cabina de Elevador de Mina",
+            "ga-IE": "Cábán Ardaitheora Mianaigh"
         },
         "description": {
             "en-GB": "A steel lift cabin commonly used in mines",
@@ -312,7 +313,8 @@
             "eo-ZZ": "Ŝtala liftokajuto ofte uzita en minoj",
             "ca-ES": "Una cabina elevadora d’acer emprada a les mines.",
             "fi-FI": "Teräksinen hissikori, jota usein käytetään kaivoksissa",
-            "gl-ES": "Unha cabina de elevador de aceiro comunmente usada nas minas"
+            "gl-ES": "Unha cabina de elevador de aceiro comunmente usada nas minas",
+            "ga-IE": "Cábán ardaitheora cruach a úsáidtear go coitianta i mianaigh"
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -332,7 +334,8 @@
             "eo-ZZ": "16 pasaĝeroj",
             "ca-ES": "16 passatgers",
             "fi-FI": "16 matkustajaa",
-            "gl-ES": "16 pasaxeiros"
+            "gl-ES": "16 pasaxeiros",
+            "ga-IE": "16 phaisinéir"
         }
     }
 }

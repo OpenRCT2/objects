@@ -292,7 +292,8 @@
             "fi-FI": "Kummitusvankila",
             "zh-CN": "鬼监舍",
             "gl-ES": "Cárcere Encantada",
-            "hu-HU": "Kísértetjárta börtönház"
+            "hu-HU": "Kísértetjárta börtönház",
+            "ga-IE": "Príosún na bPúcaí"
         },
         "description": {
             "en-GB": "Building containing dungeons and mannequins of incarcerated figures, to scare people walking through it",
@@ -314,7 +315,8 @@
             "fi-FI": "Rakennus jonka tyrmissä on vankihahmoiksi puettuja mannekiinejä talon läpi kävelevien ihmisten pelottamiseksi",
             "zh-CN": "包含地牢和被监禁人物人体模型的建筑物以吓唬走过它的人",
             "gl-ES": "Edificio con calabozos e maniquís de figuras encarceradas, para asustar ás persoas que pasan por alí",
-            "hu-HU": "Egy épület, amelyben börtöncellák és elítélteket ábrázoló bábuk kaptak helyet, hogy megrémítsék az áthaladó látogatókat"
+            "hu-HU": "Egy épület, amelyben börtöncellák és elítélteket ábrázoló bábuk kaptak helyet, hogy megrémítsék az áthaladó látogatókat",
+            "ga-IE": "Foirgneamh ina bhfuil doinsiúin agus dealbha bréige de phríosúnaigh, chun scanradh a chur ar dhaoine atá ag siúl tríd"
         },
         "capacity": {
             "en-GB": "16 guests",
@@ -335,7 +337,8 @@
             "ca-ES": "16 visitants",
             "fi-FI": "16 kävijää",
             "zh-CN": "16位乘客",
-            "hu-HU": "16 vendég"
+            "hu-HU": "16 vendég",
+            "ga-IE": "16 aoi"
         }
     }
 }

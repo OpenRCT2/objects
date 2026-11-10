@@ -134,7 +134,8 @@
             "fi-FI": "Kerberos-vaunut",
             "zh-CN": "地狱犬列车",
             "hu-HU": "Kerberosz vonatok",
-            "gl-ES": "Trens de Cérbero"
+            "gl-ES": "Trens de Cérbero",
+            "ga-IE": "Traenacha Cerberus"
         },
         "description": {
             "en-GB": "Spacious trains with simple lap restraints with cars shaped like the multi-headed dog from the Underworld",
@@ -156,7 +157,8 @@
             "fi-FI": "Manalan monipäisen koiran muotoiset tilavat vaunut, joissa on yksinkertaiset turvakaiteet",
             "zh-CN": "宽敞的车厢，带有简单的膝部约束装置，车厢形状像来自冥界的多头狗",
             "hu-HU": "Tágas vonatok egyszerű biztonsági rudakkal, a kocsik pedig az alvilág többfejű kutyájának formáját öltik",
-            "gl-ES": "Trens amplos con sinxelos suxeitadores de colo, con vagóns en forma do can de múltiples cabezas do Inframundo"
+            "gl-ES": "Trens amplos con sinxelos suxeitadores de colo, con vagóns en forma do can de múltiples cabezas do Inframundo",
+            "ga-IE": "Traenacha fairsinge le srianta simplí glúine le gluaisteáin i gcruth mhadra ilcheannaigh an Domhain Thíos"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -178,7 +180,8 @@
             "fi-FI": "4 matkustajaa per vaunu",
             "zh-CN": "4位乘客/车",
             "hu-HU": "4 utas kocsinként",
-            "gl-ES": "4 pasaxeiros por coche"
+            "gl-ES": "4 pasaxeiros por coche",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     }
 }

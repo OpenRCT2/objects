@@ -106,7 +106,8 @@
             "ca-ES": "Troncs",
             "fi-FI": "Tukit",
             "gl-ES": "Troncos",
-            "hu-HU": "Rönkök"
+            "hu-HU": "Rönkök",
+            "ga-IE": "Lomáin"
         },
         "description": {
             "en-GB": "Log-shaped boats built for running in water channels",
@@ -128,7 +129,8 @@
             "ca-ES": "Barques en forma de tron que circulen per canals d’aigua.",
             "fi-FI": "Tukinmuotoiset veneet, jotka on tehty vesikanavissa matkustusta varten",
             "gl-ES": "Barcas en forma de tronco deseñadas para circular por canles de auga",
-            "hu-HU": "Vízicsatornákban való haladásra épített, rönk alakú csónakok"
+            "hu-HU": "Vízicsatornákban való haladásra épített, rönk alakú csónakok",
+            "ga-IE": "Báid i gcruth lomán, tógtha le rith i gclaiseanna uisce"
         },
         "capacity": {
             "en-GB": "4 passengers per boat",
@@ -150,7 +152,8 @@
             "ca-ES": "4 passatgers per barca",
             "fi-FI": "4 matkustajaa per vene",
             "gl-ES": "4 pasaxeiros por bote",
-            "hu-HU": "4 utas csónakonként"
+            "hu-HU": "4 utas csónakonként",
+            "ga-IE": "4 phaisinéir sa bhád"
         }
     }
 }

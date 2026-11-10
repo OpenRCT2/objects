@@ -90,7 +90,8 @@
             "fi-FI": "Rattikelkkavaunut",
             "en-US": "Bobsled Trains",
             "gl-ES": "Trens de bobsleigh",
-            "hu-HU": "Bobvonatok"
+            "hu-HU": "Bobvonatok",
+            "ga-IE": "Traenacha Bobshleamhnáin"
         },
         "description": {
             "en-GB": "Trains consisting of 2-seater cars where the riders are behind each other",
@@ -112,7 +113,8 @@
             "ca-ES": "Trens amb cotxes de 2 seients on els passatgers van un darrere l’altre.",
             "fi-FI": "Vaunut, jossa kaksi matkustajaa istuu peräkkäin",
             "gl-ES": "Trens compostos por coches de dous asentos onde os pasaxeiros están un detrás do outro",
-            "hu-HU": "2 személyes kocsikból álló vonatok, amelyeken az utasok egymás mögött ülnek"
+            "hu-HU": "2 személyes kocsikból álló vonatok, amelyeken az utasok egymás mögött ülnek",
+            "ga-IE": "Traenacha déanta de ghluaisteáin dhá shuíochán ina suíonn na marcaigh duine i ndiaidh a chéile"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -134,7 +136,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
             "gl-ES": "2 pasaxeiros por coche",
-            "hu-HU": "2 utas kocsinként"
+            "hu-HU": "2 utas kocsinként",
+            "ga-IE": "2 phaisinéir sa ghluaisteán"
         }
     }
 }

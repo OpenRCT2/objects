@@ -141,7 +141,8 @@
             "ca-ES": "Trens de vapor",
             "fi-FI": "Höyryjunavaunut",
             "gl-ES": "Trens de Vapor",
-            "hu-HU": "Gőzvonatok"
+            "hu-HU": "Gőzvonatok",
+            "ga-IE": "Traenacha Gaile"
         },
         "description": {
             "en-GB": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling open wooden carriages",
@@ -163,7 +164,8 @@
             "ca-ES": "Trens de vapor en miniatura amb una rèplica d’una locomotora a vapor i tènder, estirant vagons de fusta oberts.",
             "fi-FI": "Pienikokoiset höyryjunat joihin kuuluu höyryveturin jäljitelmä ja hennot puiset vaunut",
             "gl-ES": "Trens de vapor en miniatura compostos por unha locomotora de vapor e ténder en réplica, tirando de vagóns de madeira abertos",
-            "hu-HU": "Miniatűr gőzvonatok, amelyek egy gőzmozdony- és szerkocsimásolatból állnak, és nyitott fakocsikat vontatnak"
+            "hu-HU": "Miniatűr gőzvonatok, amelyek egy gőzmozdony- és szerkocsimásolatból állnak, és nyitott fakocsikat vontatnak",
+            "ga-IE": "Mionthraenacha gaile déanta de mhacasamhail innill gaile agus teandair, ag tarraingt carráistí oscailte adhmaid"
         },
         "capacity": {
             "en-GB": "6 passengers per carriage",
@@ -185,7 +187,8 @@
             "ca-ES": "6 passatgers per vagó",
             "fi-FI": "6 matkustajaa per vaunu",
             "gl-ES": "6 pasaxeiros por vagón",
-            "hu-HU": "6 utas kocsinként"
+            "hu-HU": "6 utas kocsinként",
+            "ga-IE": "6 phaisinéir sa charráiste"
         }
     }
 }

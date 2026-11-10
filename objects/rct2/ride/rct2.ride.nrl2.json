@@ -139,7 +139,8 @@
             "ca-ES": "Trens de vapor amb cotxes coberts",
             "fi-FI": "Katetut höyryjunavaunut",
             "gl-ES": "Trens de vapor con vagóns cubertos",
-            "hu-HU": "Gőzvonatok fedett kocsikkal"
+            "hu-HU": "Gőzvonatok fedett kocsikkal",
+            "ga-IE": "Traenacha Gaile le Carráistí Clúdaithe"
         },
         "description": {
             "en-GB": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
@@ -161,7 +162,8 @@
             "ca-ES": "Trens de vapor en miniatura amb una rèplica d’una locomotora a vapor i tènder, estirant vagons de fusta amb sostre de tela.",
             "fi-FI": "Pienikokoiset höyryjunat joihin kuuluu höyryveturin jäljitelmä ja hennot puiset vaunut kangaskatoilla",
             "gl-ES": "Trens de vapor en miniatura compostos por unha locomotora de vapor e tender en réplica, tirando de vagóns de madeira con teitos de tea",
-            "hu-HU": "Miniatűr gőzvonatok, amelyek egy gőzmozdony- és szerkocsimásolatból állnak, és szövettetős fakocsikat vontatnak"
+            "hu-HU": "Miniatűr gőzvonatok, amelyek egy gőzmozdony- és szerkocsimásolatból állnak, és szövettetős fakocsikat vontatnak",
+            "ga-IE": "Mionthraenacha gaile déanta de mhacasamhail innill gaile agus teandair, ag tarraingt carráistí adhmaid le díonta fabraice"
         },
         "capacity": {
             "en-GB": "6 passengers per carriage",
@@ -183,7 +185,8 @@
             "ca-ES": "6 passatgers per vagó",
             "fi-FI": "6 matkustajaa per vaunu",
             "gl-ES": "6 pasaxeiros por vagón",
-            "hu-HU": "6 utas kocsinként"
+            "hu-HU": "6 utas kocsinként",
+            "ga-IE": "6 phaisinéir sa charráiste"
         }
     }
 }

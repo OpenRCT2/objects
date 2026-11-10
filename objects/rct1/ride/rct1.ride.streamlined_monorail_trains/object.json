@@ -302,7 +302,8 @@
             "fi-FI": "Virtaviivaiset kohoratavaunut",
             "gl-ES": "Trens de monorraíl aerodinámicos",
             "ar-EG": "قطارات مونوريل انسيابية",
-            "hu-HU": "Áramvonalas egysínű szerelvények"
+            "hu-HU": "Áramvonalas egysínű szerelvények",
+            "ga-IE": "Traenacha Aonráille Sruthlíneacha"
         },
         "description": {
             "en-GB": "Large capacity monorail trains with streamlined front and rear cars",
@@ -325,7 +326,8 @@
             "fi-FI": "Suuren kapasiteetin kohoratajunat, joissa on virtaviivaiset etu- ja takavaunut",
             "gl-ES": "Trens de monorraíl de gran capacidade con coches aerodinámicos dianteiro e traseiro",
             "ar-EG": "قطارات مونوريل ذات سعة كبيرة بعربات أمامية وخلفية انسيابية",
-            "hu-HU": "Nagy befogadóképességű egysínű szerelvények áramvonalas első és hátsó kocsikkal"
+            "hu-HU": "Nagy befogadóképességű egysínű szerelvények áramvonalas első és hátsó kocsikkal",
+            "ga-IE": "Traenacha aonráille ardacmhainne le gluaisteáin shruthlíneacha chun tosaigh agus chun deiridh"
         },
         "capacity": {
             "en-GB": "5 or 10 passengers per car",
@@ -348,7 +350,8 @@
             "fi-FI": "5 tai 10 matkustajaa per vaunu",
             "gl-ES": "5 ou 10 pasaxeiros por coche",
             "ar-EG": "5 أو 10 ركاب لكل عربة",
-            "hu-HU": "5 vagy 10 utas kocsinként"
+            "hu-HU": "5 vagy 10 utas kocsinként",
+            "ga-IE": "5 nó 10 bpaisinéir sa ghluaisteán"
         }
     },
     "noCsgImages": [

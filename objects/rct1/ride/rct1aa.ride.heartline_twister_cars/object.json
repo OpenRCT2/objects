@@ -674,7 +674,8 @@
             "ca-ES": "Cotxes Tornado",
             "fi-FI": "Kierrevaunut",
             "gl-ES": "Vagóns Tornado",
-            "ar-EG": "عربات تويستر"
+            "ar-EG": "عربات تويستر",
+            "ga-IE": "Gluaisteáin Castóra"
         },
         "description": {
             "en-GB": "Roller coaster cars capable of heartline twists",
@@ -696,7 +697,8 @@
             "ca-ES": "Muntanya russa amb cotxes que giren a mitja altura.",
             "fi-FI": "Sivuttaisvierityksiin kykenevät vuoristoratavaunut",
             "gl-ES": "Vagóns de montaña rusa capaces de dar voltas ao corazón",
-            "ar-EG": "عربات أفعوانية قادرة على الالتواءات القلبية"
+            "ar-EG": "عربات أفعوانية قادرة على الالتواءات القلبية",
+            "ga-IE": "Gluaisteáin rollchóstóra atá in ann castaí croílíne a dhéanamh"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -718,7 +720,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
-            "ar-EG": "4 ركاب لكل عربة"
+            "ar-EG": "4 ركاب لكل عربة",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     },
     "noCsgImages": [

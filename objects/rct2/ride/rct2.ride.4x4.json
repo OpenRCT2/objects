@@ -113,7 +113,8 @@
             "ca-ES": "Camions monstruosos",
             "fi-FI": "Monsteriautot",
             "gl-ES": "Camións monstro",
-            "hu-HU": "Monster Truckok"
+            "hu-HU": "Monster Truckok",
+            "ga-IE": "Trucailí Arracht"
         },
         "description": {
             "en-GB": "Powered giant 4 x 4 trucks which can climb steep slopes",
@@ -137,7 +138,8 @@
             "fi-FI": "Jättimäiset moottoroidut nelivetoautot, jotka voivat kiivetä jyrkkiä mäkiä",
             "tr-TR": "Powered giant 4 × 4 trucks which can climb steep slopes",
             "gl-ES": "Camións xigantes 4x4 motorizados que poden subir pendentes pronunciadas",
-            "hu-HU": "Motoros, óriás 4 x 4-es teherautók, amelyek meredek emelkedőkön is fel tudnak kapaszkodni"
+            "hu-HU": "Motoros, óriás 4 x 4-es teherautók, amelyek meredek emelkedőkön is fel tudnak kapaszkodni",
+            "ga-IE": "Trucailí Arracht cumhachtaithe 4 x 4 atá in ann fánaí géara a dhreapadh"
         },
         "capacity": {
             "en-GB": "2 passengers per truck",
@@ -159,7 +161,8 @@
             "eo-ZZ": "Po 2 pasaĝeroj por kamiono",
             "ca-ES": "2 passatgers per camió",
             "fi-FI": "2 matkustajaa per auto",
-            "hu-HU": "2 utas autónként"
+            "hu-HU": "2 utas autónként",
+            "ga-IE": "2 phaisinéir sa trucail"
         }
     }
 }

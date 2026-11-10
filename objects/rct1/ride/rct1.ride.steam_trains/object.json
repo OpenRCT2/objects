@@ -429,7 +429,8 @@
             "fi-FI": "Höyryjunavaunut",
             "gl-ES": "Trens de vapor",
             "ar-EG": "قطارات بخارية",
-            "hu-HU": "Gőzmozdonyok"
+            "hu-HU": "Gőzmozdonyok",
+            "ga-IE": "Traenacha Gaile"
         },
         "description": {
             "en-GB": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling open wooden carriages",
@@ -452,7 +453,8 @@
             "fi-FI": "Pienikokoiset höyryjunat joihin kuuluu höyryveturin jäljitelmä ja hennot puiset vaunut",
             "gl-ES": "Trens de vapor en miniatura compostos por unha locomotora de vapor réplica e ténder, que arrastra vagóns de madeira abertos",
             "ar-EG": "قطارات بخارية مصغرة تتكون من قاطرة بخارية طبق الأصل وعربة وقود، تسحب عربات خشبية مفتوحة",
-            "hu-HU": "Miniatűr gőzmozdonyok, amelyek egy gőzmozdony- és tenderkocsi másolatból állnak, és nyitott fakocsikat vonnak."
+            "hu-HU": "Miniatűr gőzmozdonyok, amelyek egy gőzmozdony- és tenderkocsi másolatból állnak, és nyitott fakocsikat vonnak.",
+            "ga-IE": "Mionthraenacha gaile déanta de mhacasamhail innill gaile agus teandair, ag tarraingt carráistí oscailte adhmaid"
         },
         "capacity": {
             "en-GB": "6 passengers per carriage",
@@ -475,7 +477,8 @@
             "fi-FI": "6 matkustajaa per vaunu",
             "gl-ES": "6 pasaxeiros por vagón",
             "ar-EG": "6 ركاب لكل عربة",
-            "hu-HU": "6 utas kocsinként"
+            "hu-HU": "6 utas kocsinként",
+            "ga-IE": "6 phaisinéir sa charráiste"
         }
     }
 }

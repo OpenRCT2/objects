@@ -152,7 +152,8 @@
             "fi-FI": "Hiihtohissivaunut",
             "gl-ES": "Cadeiras de telesquí",
             "ar-EG": "كراسي مصعد التزلج",
-            "hu-HU": "Sífelvonó-székek"
+            "hu-HU": "Sífelvonó-székek",
+            "ga-IE": "Cathaoireacha Ardaitheora Sciála"
         },
         "description": {
             "en-GB": "Open cars for chairlift",
@@ -175,7 +176,8 @@
             "fi-FI": "Avoilmavaunut tuolihissiin",
             "gl-ES": "Coches abertos para telecadeira",
             "ar-EG": "عربات مفتوحة للتلفريك",
-            "hu-HU": "Nyitott kocsik a felvonóhoz"
+            "hu-HU": "Nyitott kocsik a felvonóhoz",
+            "ga-IE": "Gluaisteáin oscailte don chathaoir chábla"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -198,7 +200,8 @@
             "fi-FI": "2 matkustajaa per vaunu",
             "gl-ES": "2 pasaxeiros por coche",
             "ar-EG": "راكبان لكل عربة",
-            "hu-HU": "2 utas kocsinként"
+            "hu-HU": "2 utas kocsinként",
+            "ga-IE": "2 phaisinéir sa ghluaisteán"
         }
     }
 }

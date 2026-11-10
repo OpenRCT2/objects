@@ -119,7 +119,8 @@
             "ca-ES": "Barquetes costeres",
             "fi-FI": "Vuoristorataveneet",
             "gl-ES": "Barcos de montaña rusa",
-            "hu-HU": "Hullámvasút-csónakok"
+            "hu-HU": "Hullámvasút-csónakok",
+            "ga-IE": "Báid Cóstóra"
         },
         "description": {
             "en-GB": "Boat-shaped roller coaster cars",
@@ -141,7 +142,8 @@
             "ca-ES": "Cotxes per a muntanya russa en forma de barca.",
             "fi-FI": "Veneen muotoiset vuoristoratavaunut",
             "gl-ES": "Coches de montaña rusa con forma de barco",
-            "hu-HU": "Csónak alakú hullámvasútkocsik"
+            "hu-HU": "Csónak alakú hullámvasútkocsik",
+            "ga-IE": "Gluaisteáin rollchóstóra i gcruth báid"
         },
         "capacity": {
             "en-GB": "6 passengers per boat",
@@ -162,7 +164,8 @@
             "eo-ZZ": "Po 6 pasaĝeroj por boato",
             "ca-ES": "6 passatgers per barca",
             "fi-FI": "6 matkustajaa per vene",
-            "hu-HU": "6 utas csónakonként"
+            "hu-HU": "6 utas csónakonként",
+            "ga-IE": "6 phaisinéir sa bhád"
         }
     }
 }

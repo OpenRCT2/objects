@@ -205,7 +205,8 @@
             "fi-FI": "Kummitusjunavaunut",
             "gl-ES": "Vagóns do Tren do Terror",
             "ar-EG": "عربات قطار الأشباح",
-            "hu-HU": "Szellemvonat kocsik"
+            "hu-HU": "Szellemvonat kocsik",
+            "ga-IE": "Gluaisteáin Traenach Taibhse"
         },
         "description": {
             "en-GB": "Powered monster-shaped cars that run on a ghost train track",
@@ -228,7 +229,8 @@
             "fi-FI": "Moottoroidut monsterin muotoiset vaunut, jotka kulkevat kummitusjunan radalla",
             "gl-ES": "Vagóns con forma de monstro e propulsados que circulan por un rail de tren do terror",
             "ar-EG": "عربات تعمل بالطاقة على شكل وحش تسير على مسار قطار الأشباح",
-            "hu-HU": "Motoros, szörny alakú kocsik, amelyek szellemvonat pályán közlekednek"
+            "hu-HU": "Motoros, szörny alakú kocsik, amelyek szellemvonat pályán közlekednek",
+            "ga-IE": "Gluaisteáin chumhachtaithe i gcruth ollphéiste a ritheann ar ráille traenach taibhse"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -251,7 +253,8 @@
             "fi-FI": "2 matkustajaa per vaunu",
             "gl-ES": "2 pasaxeiros por coche",
             "ar-EG": "راكبان لكل عربة",
-            "hu-HU": "2 utas kocsinként"
+            "hu-HU": "2 utas kocsinként",
+            "ga-IE": "2 phaisinéir sa ghluaisteán"
         }
     }
 }

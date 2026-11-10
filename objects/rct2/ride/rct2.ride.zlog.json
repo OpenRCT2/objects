@@ -134,7 +134,8 @@
             "ca-ES": "Trens Troncs",
             "fi-FI": "Tukkivaunut",
             "gl-ES": "Trens de troncos",
-            "hu-HU": "Fatörzsvonatok"
+            "hu-HU": "Fatörzsvonatok",
+            "ga-IE": "Traenacha Lomán"
         },
         "description": {
             "en-GB": "Roller coaster trains with small log-shaped cars",
@@ -156,7 +157,8 @@
             "ca-ES": "Muntanya russa amb trens que semblen troncs.",
             "fi-FI": "Pienet tukin muotoiset vuoristoratavaunut",
             "gl-ES": "Trens de montaña rusa con pequenos coches con forma de tronco",
-            "hu-HU": "Hullámvasút-vonatok apró fatörzs alakú kocsikkal"
+            "hu-HU": "Hullámvasút-vonatok apró fatörzs alakú kocsikkal",
+            "ga-IE": "Traenacha rollchóstóra le gluaisteáin bheaga i gcruth lomán"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -178,7 +180,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
             "gl-ES": "2 pasaxeiros por coche",
-            "hu-HU": "2 utas kocsinként"
+            "hu-HU": "2 utas kocsinként",
+            "ga-IE": "2 phaisinéir sa ghluaisteán"
         }
     }
 }

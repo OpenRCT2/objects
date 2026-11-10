@@ -119,7 +119,8 @@
             "ca-ES": "Tramvies",
             "fi-FI": "Raitiovaunut",
             "gl-ES": "Tranvías",
-            "hu-HU": "Villamosok"
+            "hu-HU": "Villamosok",
+            "ga-IE": "Tramanna"
         },
         "description": {
             "en-GB": "Old-timer replica trams",
@@ -141,7 +142,8 @@
             "ca-ES": "Rèpliques de tramvies d’estil antic.",
             "fi-FI": "Vanhanaikaiset raitiovaunut",
             "gl-ES": "Tranvías réplicas de modelos antigos",
-            "hu-HU": "Nosztalgiavillamosok másolatai"
+            "hu-HU": "Nosztalgiavillamosok másolatai",
+            "ga-IE": "Macasamhla de sheantramanna"
         },
         "capacity": {
             "en-GB": "10 passengers per car",
@@ -163,7 +165,8 @@
             "ca-ES": "10 passatgers per cotxe",
             "fi-FI": "10 matkustajaa per vaunu",
             "gl-ES": "10 pasaxeiros por coche",
-            "hu-HU": "10 utas kocsinként"
+            "hu-HU": "10 utas kocsinként",
+            "ga-IE": "10 bpaisinéir sa ghluaisteán"
         }
     }
 }

@@ -294,7 +294,8 @@
             "fi-FI": "Teleportaatiokori",
             "zh-CN": "传送舱",
             "gl-ES": "Cabina de Teletransportación",
-            "hu-HU": "Teleportáló fülke"
+            "hu-HU": "Teleportáló fülke",
+            "ga-IE": "Cábán Teileapórtála"
         },
         "description": {
             "en-GB": "Futuristic lift cabin that gives guests the illusion of teleportation",
@@ -316,7 +317,8 @@
             "fi-FI": "Futuristinen hissikori, joka antaa matkustajien kokea teleportaation illuusion",
             "zh-CN": "未来主义的电梯舱，让客人有瞬移的错觉",
             "gl-ES": "Cabina de ascensor futurista que dá aos pasaxeiros a ilusión de teletransportación",
-            "hu-HU": "Futurisztikus liftfülke, amely a vendégek számára a teleportálás illúzióját kelti"
+            "hu-HU": "Futurisztikus liftfülke, amely a vendégek számára a teleportálás illúzióját kelti",
+            "ga-IE": "Cábán ardaitheora todhchaíoch a thugann seachmall teileapórtála d’aíonna"
         },
         "capacity": {
             "en-GB": "16 passengers",
@@ -338,7 +340,8 @@
             "fi-FI": "16 matkustajaa",
             "zh-CN": "16位乘客",
             "gl-ES": "16 pasaxeiros",
-            "hu-HU": "16 utas"
+            "hu-HU": "16 utas",
+            "ga-IE": "16 phaisinéir"
         }
     }
 }

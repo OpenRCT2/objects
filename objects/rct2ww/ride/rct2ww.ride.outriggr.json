@@ -68,7 +68,8 @@
             "eo-ZZ": "Polineziaj kanuoj",
             "ca-ES": "Canoes hawaianes",
             "fi-FI": "Kellukekanootit",
-            "gl-ES": "Canoas de Aforre"
+            "gl-ES": "Canoas de Aforre",
+            "ga-IE": "Canúnna le Baoi"
         },
         "description": {
             "en-GB": "Long canoes which the passengers paddle themselves",
@@ -88,7 +89,8 @@
             "eo-ZZ": "Longaj kanuoj, kiujn la pasaĝeroj padelas per si mem",
             "ca-ES": "Canoes llargues que els passatgers mouen pedalejant.",
             "fi-FI": "Pitkät kanootit, joita matkustajat soutavat itse",
-            "gl-ES": "Canoas longas nas que os pasaxeiros reman por si mesmos"
+            "gl-ES": "Canoas longas nas que os pasaxeiros reman por si mesmos",
+            "ga-IE": "Canúnna fada a chéaslaíonn na paisinéirí iad féin"
         },
         "capacity": {
             "en-GB": "2 passengers per canoe",
@@ -108,7 +110,8 @@
             "eo-ZZ": "Po 2 pasaĝeroj por kanuo",
             "ca-ES": "2 passatgers per canoa",
             "fi-FI": "2 matkustajaa per kanootti",
-            "gl-ES": "2 pasaxeiros por canoa"
+            "gl-ES": "2 pasaxeiros por canoa",
+            "ga-IE": "2 phaisinéir sa chanú"
         }
     }
 }

@@ -117,7 +117,8 @@
             "fi-FI": "Lentävät veneet",
             "zh-CN": "飞艇",
             "gl-ES": "Barcos voadores",
-            "hu-HU": "Repülő csónakok"
+            "hu-HU": "Repülő csónakok",
+            "ga-IE": "Báid Eitilte"
         },
         "description": {
             "en-GB": "Roller coaster cars shaped like flying boats",
@@ -139,7 +140,8 @@
             "fi-FI": "Lentävän veneen muotoiset vuoristoratavaunut",
             "zh-CN": "飞艇样式的过山车",
             "gl-ES": "Coches de montaña rusa con forma de barcos voadores",
-            "hu-HU": "Repülő csónak alakú hullámvasút kocsik"
+            "hu-HU": "Repülő csónak alakú hullámvasút kocsik",
+            "ga-IE": "Gluaisteáin rollchóstóra i gcruth bád eitilte"
         },
         "capacity": {
             "en-GB": "6 passengers per boat",
@@ -161,7 +163,8 @@
             "fi-FI": "6 matkustajaa per vene",
             "zh-CN": "6位乘客/船",
             "gl-ES": "6 pasaxeiros por bote",
-            "hu-HU": "6 utas csónakonként"
+            "hu-HU": "6 utas csónakonként",
+            "ga-IE": "6 phaisinéir sa bhád"
         }
     }
 }

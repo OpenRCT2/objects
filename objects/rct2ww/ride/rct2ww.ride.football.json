@@ -88,7 +88,8 @@
             "ca-ES": "Atracció Futbol",
             "fi-FI": "Jalkapallovaunut",
             "gl-ES": "Trens de Fútbol",
-            "hu-HU": "Focilabda-vonatok"
+            "hu-HU": "Focilabda-vonatok",
+            "ga-IE": "Traenacha Peile"
         },
         "description": {
             "en-GB": "Suspended roller coaster trains consisting of football-shaped cars able to swing freely as the train goes around corners",
@@ -110,7 +111,8 @@
             "ca-ES": "Trens de muntanya russa penjants amb cotxes en forma de pilota de futbol que es balancegen quan el tren travessa les corbes.",
             "fi-FI": "Jalkapallon muotoiset vapaasti käänteissä keinuvat riippuvat vuoristoratavaunut",
             "gl-ES": "Trens de montaña rusa suspendida compostos por vagóns con forma de balón de fútbol que poden balancearse libremente ao xirar nas curvas",
-            "hu-HU": "Függesztett hullámvasút-szerelvények, focilabda alakú kocsikkal, amelyek szabadon lenghetnek, miközben a szerelvény kanyarodik"
+            "hu-HU": "Függesztett hullámvasút-szerelvények, focilabda alakú kocsikkal, amelyek szabadon lenghetnek, miközben a szerelvény kanyarodik",
+            "ga-IE": "Traenacha crochta rollchóstóra déanta de ghluaisteáin i gcruth liathróidí peile atá in ann luascadh go saor agus an traein ag dul timpeall cúinní"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -131,7 +133,8 @@
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
             "gl-ES": "4 pasaxeiros por coche",
-            "hu-HU": "4 utas kocsinként"
+            "hu-HU": "4 utas kocsinként",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     }
 }

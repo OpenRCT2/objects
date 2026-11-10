@@ -79,7 +79,8 @@
             "ca-ES": "Cignes",
             "fi-FI": "Joutsenet",
             "gl-ES": "Cisnes",
-            "hu-HU": "Hattyúk"
+            "hu-HU": "Hattyúk",
+            "ga-IE": "Ealaí"
         },
         "description": {
             "en-GB": "Swan-shaped boats, propelled by the pedalling front seat passengers",
@@ -102,7 +103,8 @@
             "ca-ES": "Barques en forma de cignes que els passatgers mouen pedalant.",
             "fi-FI": "Joutsenen muotoiset veneet, jotka liikkuvat eturivin matkustajien polkemana",
             "gl-ES": "Barcos con forma de cisne, propulsados polos pasaxeiros do asento dianteiro que pedalean",
-            "hu-HU": "Hattyú formájú csónakok, amelyeket az első ülésen pedálozó utasok hajtanak"
+            "hu-HU": "Hattyú formájú csónakok, amelyeket az első ülésen pedálozó utasok hajtanak",
+            "ga-IE": "Báid i gcruth eala, á dtiomáint ag paisinéirí an tsuíocháin tosaigh ar na troitheáin"
         },
         "capacity": {
             "en-GB": "4 passengers per boat",
@@ -123,7 +125,8 @@
             "eo-ZZ": "Po 4 pasaĝeroj por boato",
             "ca-ES": "4 passatgers per barca",
             "fi-FI": "4 matkustajaa per vene",
-            "hu-HU": "4 utas csónakonként"
+            "hu-HU": "4 utas csónakonként",
+            "ga-IE": "4 phaisinéir sa bhád"
         }
     }
 }

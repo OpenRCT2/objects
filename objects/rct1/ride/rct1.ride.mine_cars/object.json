@@ -306,7 +306,8 @@
             "fi-FI": "Kaivosvaunut",
             "gl-ES": "Coches de mina",
             "ar-EG": "عربات المنجم",
-            "hu-HU": "Bánya kocsik"
+            "hu-HU": "Bánya kocsik",
+            "ga-IE": "Gluaisteáin Mianaigh"
         },
         "description": {
             "en-GB": "Cars shaped like an old mine cart",
@@ -329,7 +330,8 @@
             "fi-FI": "Vanhan kaivoskärryn muotoiset vaunut",
             "gl-ES": "Coches con forma de vello vagón de mina",
             "ar-EG": "عربات على شكل عربة منجم قديمة",
-            "hu-HU": "Régi bányacsillékre emlékeztető kocsik"
+            "hu-HU": "Régi bányacsillékre emlékeztető kocsik",
+            "ga-IE": "Gluaisteáin i gcruth seanchairte mianaigh"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -352,7 +354,8 @@
             "fi-FI": "2 matkustajaa per vaunu",
             "gl-ES": "2 pasaxeiros por coche",
             "ar-EG": "راكبان لكل عربة",
-            "hu-HU": "2 utas kocsinként"
+            "hu-HU": "2 utas kocsinként",
+            "ga-IE": "2 phaisinéir sa ghluaisteán"
         }
     },
     "noCsgImages": [

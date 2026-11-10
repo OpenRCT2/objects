@@ -300,7 +300,8 @@
             "ca-ES": "Cabina d’observació de dos pisos",
             "fi-FI": "Kaksikerroksinen koppi",
             "gl-ES": "Cabina de dous pisos",
-            "hu-HU": "Kétszintes kabin"
+            "hu-HU": "Kétszintes kabin",
+            "ga-IE": "Cábán Dhá Dheic"
         },
         "description": {
             "en-GB": "Twin-deck rotating observation cabin",
@@ -322,7 +323,8 @@
             "ca-ES": "Cabina d’observació rotatòria de dos pisos.",
             "fi-FI": "Pyörivä näköalakoppi, jossa on kaksi kerrosta",
             "gl-ES": "Cabina de observación xiratoria de dous pisos",
-            "hu-HU": "Kétszintes, forgó kilátókabin"
+            "hu-HU": "Kétszintes, forgó kilátókabin",
+            "ga-IE": "Cábán breathnóireachta rothlach dhá dheic"
         },
         "capacity": {
             "en-GB": "32 passengers",
@@ -344,7 +346,8 @@
             "ca-ES": "32 passatgers",
             "fi-FI": "32 matkustajaa",
             "gl-ES": "32 pasaxeiros",
-            "hu-HU": "32 utas"
+            "hu-HU": "32 utas",
+            "ga-IE": "32 phaisinéir"
         }
     }
 }

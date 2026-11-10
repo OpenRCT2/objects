@@ -181,7 +181,8 @@
             "gl-ES": "Trens de Montaña Rusa Híbridos",
             "ja-JP": "ハイブリッドコースター車両",
             "ar-EG": "قطارات الأفعوانية الهجينة",
-            "cs-CZ": "Vlaky hybridní dráhy"
+            "cs-CZ": "Vlaky hybridní dráhy",
+            "ga-IE": "Traenacha Cóstóra Hibridigh"
         },
         "description": {
             "en-GB": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
@@ -201,7 +202,8 @@
             "gl-ES": "Trens de montaña rusa con suxeición de cinto, capaces de caídas pronunciadas e inversións",
             "ja-JP": "ラップレストレイントがあるジェットコースター車両で、急降下や反転が可能",
             "ar-EG": "قطارات أفعوانية بأحزمة حضن، قادرة على الانحدارات الشديدة والانقلابات",
-            "cs-CZ": "Vlaky horské dráhy, se sedadly vybavenými opěrkou v klíně, schopné sjíždět strmé klesání a otočit se vzhůru nohama ve výkrutech"
+            "cs-CZ": "Vlaky horské dráhy, se sedadly vybavenými opěrkou v klíně, schopné sjíždět strmé klesání a otočit se vzhůru nohama ve výkrutech",
+            "ga-IE": "Traenacha rollchóstóra le srianta glúine, atá in ann titimí géara agus inbhéartuithe a dhéanamh"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -221,7 +223,8 @@
             "ja-JP": "1車両あたり4人の乗客",
             "gl-ES": "4 pasaxeiros por coche",
             "ar-EG": "4 ركاب لكل عربة",
-            "cs-CZ": "4 místa ve voze"
+            "cs-CZ": "4 místa ve voze",
+            "ga-IE": "4 phaisinéir sa ghluaisteán"
         }
     },
     "images": [

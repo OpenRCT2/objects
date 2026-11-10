@@ -92,7 +92,8 @@
             "ca-ES": "Bots inflables",
             "fi-FI": "Kumiveneet",
             "gl-ES": "Barcos de choque",
-            "hu-HU": "Vízidodzsem"
+            "hu-HU": "Vízidodzsem",
+            "ga-IE": "Tuairtbháid"
         },
         "description": {
             "en-GB": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
@@ -114,7 +115,8 @@
             "ca-ES": "Bots inflables petits propulsats per un motor central controlat pels passatgers.",
             "fi-FI": "Pienet pyöreät veneet, joita kuljettaa matkustajien ohjaama moottori",
             "gl-ES": "Pequenos botes circulares impulsados ​​por un motor montado centralmente controlado polos pasaxeiros",
-            "hu-HU": "Apró, kör alakú gumicsónakok középre szerelt motorral, amelyet az utasok irányítanak"
+            "hu-HU": "Apró, kör alakú gumicsónakok középre szerelt motorral, amelyet az utasok irányítanak",
+            "ga-IE": "Báidíní beaga ciorclacha á gcumhachtú ag mótar lárnach a rialaíonn na paisinéirí"
         },
         "capacity": {
             "en-GB": "2 passengers per boat",
@@ -136,7 +138,8 @@
             "ca-ES": "2 passatgers per barca",
             "fi-FI": "2 matkustajaa per vene",
             "gl-ES": "2 pasaxeiros por bote",
-            "hu-HU": "2 utas csónakonként"
+            "hu-HU": "2 utas csónakonként",
+            "ga-IE": "2 phaisinéir sa bhád"
         }
     }
 }
