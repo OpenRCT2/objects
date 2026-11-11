@@ -1,0 +1,116 @@
+{
+	"id": "openrct2.campaign.uces",
+	"version": "1.0",
+	"authors": [
+		"UCES"
+	],
+	"objectType": "campaign",
+	"sourceGame": "official",
+	"properties": {
+		"scenarioGroups": [
+			{
+				"header": "timeMachine",
+				"scenarios": [
+					{
+						"title": "Lighthouse of Alexandria by Katatude for UCES",
+						"fileName": "Lighthouse of Alexandria by Katatude for UCES.SC6"
+					},
+					{
+						"title": "Cleveland's Luna Park",
+						"fileName": "Cleveland's Luna Park.SC6"
+					},
+					{
+						"title": "Mount Vesuvius 1700 A.D. by Katatude for UCES",
+						"fileName": "Mount Vesuvius 1700 A.SC6"
+					},
+					{
+						"title": "The Sandbox by Katatude for UCES",
+						"fileName": "The Sandbox by Katatude for UCES.SC6"
+					},
+					{
+						"title": "Niagara Falls & Gorge by Katatude for UCES",
+						"fileName": "Niagara Falls & Gorge by Katatude for UCES.SC6"
+					},
+					{
+						"title": "Rocky Mountain Miners",
+						"fileName": "Rocky Mountain Miners.SC6"
+					},
+					{
+						"title": "The Time Machine by Katatude for UCES",
+						"fileName": "The Time Machine by Katatude for UCES.SC6"
+					},
+					{
+						"title": "Tower of Babel",
+						"fileName": "Tower of Babel.SC6"
+					},
+					{
+						"title": "Transformation",
+						"fileName": "Transformation.SC6"
+					},
+					{
+						"title": "Urbis Incognitus",
+						"fileName": "Urbis Incognitus.SC6"
+					}
+				]
+			},
+			{
+				"header": "katysDreamworld",
+				"scenarios": [
+					{
+						"title": "Beneath the Christmas Tree by Katatude for UCES",
+						"fileName": "Beneath the Christmas Tree by Katatude for UCES.SC6"
+					},
+					{
+						"title": "Bigrock Blast",
+						"fileName": "Bigrock Blast.SC6"
+					},
+					{
+						"title": "Camp Mockingbird for UCES by Katatude",
+						"fileName": "Camp Mockingbird for UCES by Katatude.SC6"
+					},
+					{
+						"title": "Choo Choo Town",
+						"fileName": "Choo Choo Town.SC6"
+					},
+					{
+						"title": "Dragon Islands",
+						"fileName": "Dragon Islands.SC6"
+					},
+					{
+						"title": "Kiddy Karnival II",
+						"fileName": "Kiddy Karnival II.SC6"
+					},
+					{
+						"title": "Sand Dune",
+						"fileName": "Sand Dune.SC6"
+					}
+				]
+			},
+			{
+				"header": "other",
+				"scenarios": [
+					{
+						"title": "UCES Halloween",
+						"fileName": "UCES Halloween.SC6"
+					}
+				]
+			}
+		]
+	},
+	"strings": {
+		"name": {
+			"en-GB": "User Created Expansion Set",
+			"ar-EG": "حزمة توسوعية منشئة بالمستخدم",
+			"ca-ES": "Expansió creada pels usuaris",
+			"eo-ZZ": "Uzantkreita Kompletiga Aro",
+			"gl-ES": "Expansión creada por usuarios",
+			"ja-JP": "ユーザー作成の拡張セット",
+			"ko-KR": "유저 제작 확장팩(UCES)",
+			"nb-NO": "Brukerskapt Utvidelsespakke",
+			"ru-RU": "Пользовательские дополнения",
+			"vi-VN": "Bộ mở rộng do người dùng tạo",
+			"zh-CN": "UCES{NEWLINE}用户创作扩展集",
+			"zh-TW": "玩家創作的擴展地圖"
+		}
+	}
+}

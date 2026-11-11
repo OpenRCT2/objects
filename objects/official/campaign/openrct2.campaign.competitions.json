@@ -1,0 +1,100 @@
+{
+	"id": "openrct2.campaign.competitions",
+	"version": "1.0",
+	"authors": [
+		"Chris Sawyer"
+	],
+	"objectType": "campaign",
+	"sourceGame": "official",
+	"properties": {
+		"scenarioGroups": [
+			{
+				"header": "competitions",
+				"scenarios": [
+					{
+						"title": "Competition Land 1",
+						"fileName": "Competition Land 1.SC6"
+					},
+					{
+						"title": "Competition Land 2",
+						"fileName": "Competition Land 2.SC6"
+					},
+					{
+						"title": "Bobsled Roller Coaster Competition",
+						"fileName": "sc120.sc4"
+					},
+					{
+						"title": "Go Karts Competition",
+						"fileName": "sc114.sc4"
+					},
+					{
+						"title": "Inverted Roller Coaster Competition",
+						"fileName": "sc123.sc4"
+					},
+					{
+						"title": "Mine Train Roller Coaster Competition",
+						"fileName": "sc117.sc4"
+					},
+					{
+						"title": "Stand-Up Steel Roller Coaster Competition",
+						"fileName": "sc125.sc4"
+					},
+					{
+						"title": "Steel Corkscrew Roller Coaster Competition",
+						"fileName": "sc116.sc4"
+					},
+					{
+						"title": "Steel Mini-Roller Coaster Competition",
+						"fileName": "sc127.sc4"
+					},
+					{
+						"title": "Steel Roller Coaster Competition",
+						"fileName": "sc119.sc4"
+					},
+					{
+						"title": "Steel Twister Roller Coaster Competition",
+						"fileName": "Comp-st.sc4"
+					},
+					{
+						"title": "Suspended Roller Coaster Competition",
+						"fileName": "sc124.sc4"
+					},
+					{
+						"title": "Wooden Roller Coaster Competition",
+						"fileName": "sc126.sc4"
+					}
+				]
+			}
+		]
+	},
+	"strings": {
+		"name": {
+			"en-GB": "Competitions",
+			"ar-EG": "المسابقات",
+			"ca-ES": "Competicions",
+			"cs-CZ": "Soutěže",
+			"da-DK": "Konkurrencer",
+			"de-DE": "Wettbewerbe",
+			"eo-ZZ": "Konkursoj",
+			"es-ES": "Competiciones",
+			"fi-FI": "Kilpailut",
+			"fr-FR": "Compétitions",
+			"gl-ES": "Competicións",
+			"hu-HU": "Versenyek",
+			"it-IT": "Competizioni",
+			"ja-JP": "コンペティション",
+			"ko-KR": "경쟁",
+			"nb-NO": "Konkurranser",
+			"nl-NL": "Wedstrijden",
+			"pl-PL": "Zawody",
+			"pt-BR": "Competições",
+			"ru-RU": "Соревнования",
+			"sv-SE": "Tävlingar",
+			"tr-TR": "Yarışmalar",
+			"uk-UA": "Змагання",
+			"vi-VN": "Các cuộc thi",
+			"zh-CN": "竞赛",
+			"zh-TW": "比賽"
+		}
+	}
+}
