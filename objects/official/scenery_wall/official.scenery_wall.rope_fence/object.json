@@ -1,0 +1,31 @@
+{
+    "id": "official.scenery_wall.rope_fence",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster",
+        "OpenRCT2 developers"
+    ],
+    "version": "1.0",
+    "sourceGame": "official",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isTransparent": true,
+        "isAllowedOnSlope": true,
+        "height": 1,
+        "price": 40,
+        "sceneryGroup": "rct2.scenery_group.scgfence"
+    },
+    "images": [
+        { "gx": "$G1[22139]", "x": -31, "y": -6 },
+        { "gx": "$G1[22138]", "y": -5 },
+        { "path": "images/2.png", "x": -31, "y": -22 },
+        { "path": "images/3.png", "y": -20 },
+        { "path": "images/4.png", "x": -31, "y": -8 },
+        { "path": "images/5.png", "y": -7 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Rope Fence"
+        }
+    }
+}
