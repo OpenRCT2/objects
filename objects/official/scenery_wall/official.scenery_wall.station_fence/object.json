@@ -1,0 +1,31 @@
+{
+    "id": "official.scenery_wall.station_fence",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster",
+        "OpenRCT2 developers"
+    ],
+    "version": "1.0",
+    "sourceGame": "official",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "isAllowedOnSlope": true,
+        "height": 1,
+        "price": 40,
+        "sceneryGroup": "rct2.scenery_group.scgfence"
+    },
+    "images": [
+        { "gx": "$G1[22370]", "x": -31, "y": -8 },
+        { "gx": "$G1[22371]", "y": -7 },
+        { "path": "images/2.png", "x": -31, "y": -24 },
+        { "path": "images/3.png", "y": -23 },
+        { "path": "images/4.png", "x": -31, "y": -9 },
+        { "path": "images/5.png", "y": -8 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Station Fence Wall"
+        }
+    }
+}
